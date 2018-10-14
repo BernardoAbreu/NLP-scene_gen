@@ -44,28 +44,31 @@ def print_index(filename):
         i = 0
         for line in f:
             is_new_location = False
-            lstrip_line = line.lstrip()
-            count += len(lstrip_line.rstrip().replace(' ', ''))
-            lstrip_line_up = lstrip_line.upper()
-            if lstrip_line[:4] in ('INT.', 'EXT.'):
-                has_flashback = 'FLASHBACK' in lstrip_line_up
-                is_continuous = 'CONTINUOUS' in lstrip_line_up
-                location = lstrip_line.split()
+            strip_line = line.lstrip().rstrip()
+            cur_count = len(strip_line.replace(' ', ''))
+            strip_line_up = strip_line.upper()
+
+            if strip_line[:4] in ('INT.', 'EXT.'):
+                has_flashback = 'FLASHBACK' in strip_line_up
+                is_continuous = 'CONTINUOUS' in strip_line_up
+                location = strip_line.split()
                 # print('last_location: ' + last_location)
                 is_new_location = not (has_flashback or is_continuous or
                                        location[1] in last_location)
                 if not has_flashback:
-                    last_location = lstrip_line
-            if 'CUT TO' in lstrip_line_up or \
-                'FADE IN' in lstrip_line_up or \
-                    'FADE OUT' in lstrip_line.upper() or is_new_location:
-                print('last_count: ' + str(count - len(lstrip_line.rstrip().replace(' ', ''))) + '\n')
-                count = len(lstrip_line.rstrip().replace(' ', ''))
-                print(str(i) + ': ' + lstrip_line)
+                    last_location = strip_line
+
+            if 'CUT TO' in strip_line_up or 'FADE IN' in strip_line_up or \
+                    'FADE OUT' in strip_line_up or is_new_location:
+
+                print('last_count: ' + str(count) + '\n')
+                count = 0
+                print(str(i) + ': ' + strip_line)
                 i += 1
             else:
-                if lstrip_line[:4] in ('INT.', 'EXT.'):
-                    print('\t' + lstrip_line)
+                if strip_line[:4] in ('INT.', 'EXT.'):
+                    print('\t' + strip_line)
+            count += cur_count
 
 
 def print_index2(filename):

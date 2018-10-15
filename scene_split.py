@@ -1,5 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
+import re
 import sys
 
 TRANSITIONS = ('CUT TO', 'FADE IN', 'FADE OUT')
@@ -93,11 +94,61 @@ def save_scene(out_file, scenes):
             f.write(scene)
 
 
+def count_indent_spaces(filename):
+    d = {}
+    with open(filename, 'r') as f:
+        for line in f:
+            if (line.rstrip()) != '':
+                line = line.replace('\t', '    ')
+                spaces = len(line) - len(line.lstrip(' '))
+                if spaces not in d.keys():
+                    d[spaces] = 0
+                d[spaces] += 1
+    return sorted([(k, v) for k, v in d.items()])
+
+
+def remove_initial_spaces(input_file, out_file, space_list):
+    remove_space = 0
+    for space, count in space_list:
+        if count > 10:
+            remove_space = space
+            break
+
+    with open(input_file, 'r') as in_f, open(out_file, 'w') as out_f:
+        for line in in_f:
+            if (line.rstrip()) != '':
+                line = line[remove_space:]
+            out_f.write(line)
+
+
+def regex_pre_process(input_file):
+    with open(input_file, 'r') as f:
+        movie_script = f.read()
+
+    patt = re.compile(r'(\n[\t ]{2,}[a-zA-Z0-9\,\' \.\!\?\&\-]*[a-z0-9\,\' \-])\n\n? ?([a-zA-Z0-9\,\.\-\?\!])')
+
+    movie_script, count = patt.subn(r'\1 \2', movie_script)
+    while count:
+        movie_script, count = patt.subn(r'\1 \2', movie_script)
+    print(movie_script)
+    # m, n = prog.subn(r'\1 \2', movie_script)
+    # print(n)
+    # print(m)
+
+
 if __name__ == '__main__':
     input_file = sys.argv[1]
     # out_file = sys.argv[2]
     # print_index(input_file)
-    movie_scenes = read_script(input_file)
-    for loc, count, scene in movie_scenes:
-        print(loc + ' - ' + str(count))
+    # movie_scenes = read_script(input_file)
+    # for loc, count, scene in movie_scenes:
+    #     print(loc + ' - ' + str(count))
     # save_scene(out_file, movie_scenes)
+    # space_count = count_indent_spaces(input_file)
+    # print(input_file.split('/')[-1] + ': ', end='')
+    # for k, v in space_count:
+    #     print(str(k) + ':' + str(v) + '  ',
+    #           end='')
+    # print()
+    # remove_initial_spaces(input_file, out_file, space_count)
+    regex_pre_process(input_file)

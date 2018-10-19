@@ -144,11 +144,13 @@ if __name__ == '__main__':
     # for loc, count, scene in movie_scenes:
     #     print(loc + ' - ' + str(count))
     # save_scene(out_file, movie_scenes)
-    # space_count = count_indent_spaces(input_file)
-    # print(input_file.split('/')[-1] + ': ', end='')
-    # for k, v in space_count:
-    #     print(str(k) + ':' + str(v) + '  ',
-    #           end='')
-    # print()
+    space_count = count_indent_spaces(input_file)
+    count = len([x for x in space_count if x[1] > 100])
+    if count < 3:
+        print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
+        for k, v in space_count:
+            print(str(k) + ':' + str(v) + '  ',
+                  end='')
+        print()
     # remove_initial_spaces(input_file, out_file, space_count)
-    regex_pre_process(input_file)
+    # regex_pre_process(input_file)

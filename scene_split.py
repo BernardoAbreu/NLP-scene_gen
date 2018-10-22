@@ -101,9 +101,10 @@ def count_indent_spaces(filename):
             if (line.rstrip()) != '':
                 line = line.replace('\t', '    ')
                 spaces = len(line) - len(line.lstrip(' '))
-                if spaces not in d.keys():
-                    d[spaces] = 0
-                d[spaces] += 1
+                if len(line.lstrip(' ').rstrip()) != 0:
+                    if spaces not in d.keys():
+                        d[spaces] = 0
+                    d[spaces] += 1
     return sorted([(k, v) for k, v in d.items()])
 
 
@@ -119,6 +120,32 @@ def remove_initial_spaces(input_file, out_file, space_list):
             if (line.rstrip()) != '':
                 line = line[remove_space:]
             out_f.write(line)
+
+
+def try_to_indent(input_file, out_file, space_list):
+    remove_space = 0
+
+    sorted_space_list = [e[0] for e in sorted(space_list, key=(lambda x: (x[1], x[0])), reverse=True) if e[1] > 100 or e[0] > 30]
+
+    ssl = [e for i, e in enumerate(sorted_space_list) if (e-1) not in sorted_space_list[i:] and (e+1) not in sorted_space_list[i:]]
+
+    # print(space_list)
+    # print(sorted_space_list)
+    # print(sorted(ssl))
+
+    d = {}
+
+    for s, _ in space_list:
+        d[s] = min(ssl, key=lambda x: abs(x - s))
+
+    with open(input_file, 'r') as in_f, open(out_file, 'w') as out_f:
+        for line in in_f:
+            try:
+                spaces = len(line) - len(line.lstrip(' '))
+                out_f.write(' ' * d[spaces] + line.lstrip(' '))
+            except:
+                if spaces != 0:
+                    out_f.write('\n')
 
 
 def regex_pre_process(input_file):
@@ -138,7 +165,7 @@ def regex_pre_process(input_file):
 
 if __name__ == '__main__':
     input_file = sys.argv[1]
-    # out_file = sys.argv[2]
+    out_file = sys.argv[2]
     # print_index(input_file)
     # movie_scenes = read_script(input_file)
     # for loc, count, scene in movie_scenes:
@@ -146,12 +173,13 @@ if __name__ == '__main__':
     # save_scene(out_file, movie_scenes)
     space_count = count_indent_spaces(input_file)
     count = len([x for x in space_count if x[1] > 100])
-    if count < 3:
-        print(input_file)
+    # if count < 3:
+        # print(input_file)
         # print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
         # for k, v in space_count:
         #     print(str(k) + ':' + str(v) + '  ',
         #           end='')
         # print()
+    try_to_indent(input_file, out_file, space_count)
     # remove_initial_spaces(input_file, out_file, space_count)
     # regex_pre_process(input_file)

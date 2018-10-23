@@ -165,7 +165,7 @@ def regex_pre_process(input_file):
 
 if __name__ == '__main__':
     input_file = sys.argv[1]
-    out_file = sys.argv[2]
+    # out_file = sys.argv[2]
     # print_index(input_file)
     # movie_scenes = read_script(input_file)
     # for loc, count, scene in movie_scenes:
@@ -173,13 +173,14 @@ if __name__ == '__main__':
     # save_scene(out_file, movie_scenes)
     space_count = count_indent_spaces(input_file)
     count = len([x for x in space_count if x[1] > 100])
-    # if count < 3:
+    if len(space_count) < 5:
+    # if count < 5:
         # print(input_file)
-        # print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
-        # for k, v in space_count:
-        #     print(str(k) + ':' + str(v) + '  ',
-        #           end='')
-        # print()
-    try_to_indent(input_file, out_file, space_count)
+        print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
+        for k, v in space_count:
+            print(str(k) + ':' + str(v) + '  ',
+                  end='')
+        print()
+    # try_to_indent(input_file, out_file, space_count)
     # remove_initial_spaces(input_file, out_file, space_count)
     # regex_pre_process(input_file)

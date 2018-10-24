@@ -188,7 +188,7 @@ if __name__ == '__main__':
     # for loc, count, scene in movie_scenes:
     #     print(loc + ' - ' + str(count))
     # save_scene(out_file, movie_scenes)
-    space_count = count_indent_spaces(input_file)
+    # space_count = count_indent_spaces(input_file)
     # count = len([x for x in space_count if x[1] > 100])
     # count = len(space_count)
     # if len(space_count) < 5:

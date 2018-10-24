@@ -117,17 +117,22 @@ def remove_initial_spaces(input_file, out_file, space_list):
 
     with open(input_file, 'r') as in_f, open(out_file, 'w') as out_f:
         for line in in_f:
-            if (line.rstrip()) != '':
+            line = line.replace('\t', '    ')
+            spaces = len(line) - len(line.lstrip(' '))
+            if spaces >= remove_space:
                 line = line[remove_space:]
             out_f.write(line)
 
 
 def try_to_indent(input_file, out_file, space_list):
-    remove_space = 0
+    sorted_space_list = [e[0] for e in sorted(space_list,
+                                              key=(lambda x: (x[1], x[0])),
+                                              reverse=True)
+                         if e[1] > 100 or e[0] > 30]
 
-    sorted_space_list = [e[0] for e in sorted(space_list, key=(lambda x: (x[1], x[0])), reverse=True) if e[1] > 100 or e[0] > 30]
-
-    ssl = [e for i, e in enumerate(sorted_space_list) if (e-1) not in sorted_space_list[i:] and (e+1) not in sorted_space_list[i:]]
+    ssl = [e for i, e in enumerate(sorted_space_list)
+           if (e - 1) not in sorted_space_list[i:] and
+           (e + 1) not in sorted_space_list[i:]]
 
     # print(space_list)
     # print(sorted_space_list)
@@ -143,9 +148,20 @@ def try_to_indent(input_file, out_file, space_list):
             try:
                 spaces = len(line) - len(line.lstrip(' '))
                 out_f.write(' ' * d[spaces] + line.lstrip(' '))
-            except:
+            except Exception:
                 if spaces != 0:
                     out_f.write('\n')
+
+
+def print_characters(input_file):
+    # patt = re.compile(r'^[ \t]+([A-Z][A-Z\(\)\'\"0-9\. ]+)$')
+    patt = re.compile(r'^[ \t]+([A-Z]\.?([A-Z\'\"0-9 ]|[A-Z)\.])+)( \([a-zA-Z0-9\(\)\'\"\. ]+\))?$')
+    with open(input_file, 'r') as f:
+        for line in f:
+            result = patt.match(line)
+            if result is not None:
+                print(result.group() + ' ____ (' + input_file.split('/')[-1] + ')')
+                # print(result.group()[0])
 
 
 def regex_pre_process(input_file):
@@ -165,22 +181,25 @@ def regex_pre_process(input_file):
 
 if __name__ == '__main__':
     input_file = sys.argv[1]
-    # out_file = sys.argv[2]
+    if len(sys.argv) > 2:
+        out_file = sys.argv[2]
     # print_index(input_file)
     # movie_scenes = read_script(input_file)
     # for loc, count, scene in movie_scenes:
     #     print(loc + ' - ' + str(count))
     # save_scene(out_file, movie_scenes)
     space_count = count_indent_spaces(input_file)
-    count = len([x for x in space_count if x[1] > 100])
-    if len(space_count) < 5:
-    # if count < 5:
-        # print(input_file)
-        print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
-        for k, v in space_count:
-            print(str(k) + ':' + str(v) + '  ',
-                  end='')
-        print()
+    # count = len([x for x in space_count if x[1] > 100])
+    # count = len(space_count)
+    # if len(space_count) < 5:
+    # # if count < 5:
+    # print(input_file)
+    # print(input_file.split('/')[-1] + '(' + str(count) + '):', end='')
+    # for k, v in space_count:
+    #     print(str(k) + ':' + str(v) + '  ',
+    #           end='')
+    # print()
     # try_to_indent(input_file, out_file, space_count)
     # remove_initial_spaces(input_file, out_file, space_count)
     # regex_pre_process(input_file)
+    print_characters(input_file)

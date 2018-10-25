@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 AS GOOD AS IT GETSAS GOOD AS IT GETS
 
 AS GOOD AS IT GETSAS GOOD AS IT GETS
@@ -8710,7 +8700,7 @@ a crack, this time notices -- registers the momentous
 
 fact and joins Carol inside as we:
 
-                        FADE OUT
+                        FADE OUT:
 
 THE END
 

@@ -1,23 +1,5 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 BARTON FINK
-
-                                   BARTON FINK
-
-                                    Screenplay
-
-                                        By
-
-                              Ethan Coen & Joel Coen
-
                             FADE IN:
 
 ON BARTON FINK
@@ -1040,7 +1022,7 @@ Silence again.
 
 We hear the rising mosquito hum.
 
-                            FADE OUT
+                            FADE OUT:
 
 EXECUTIVE OFFICE
 
@@ -2132,7 +2114,7 @@ We hear a faint mosquito hum.
 
 Barton looks around.
 
-                            FADE OUT
+                            FADE OUT:
 
 A TYPEWRITER Whirring at high speed. The keys strike too 
 
@@ -3422,7 +3404,7 @@ After a brief, puzzled look he realizes where the cotton
 
 came from  and convulsively flips it away.
 
-                            FADE OUT
+                            FADE OUT:
 
                             FADE IN:
 
@@ -3838,7 +3820,7 @@ light summer suit. "Old Black Joe" floats back to us in the
 
 twilight.
 
-                            FADE OUT
+                            FADE OUT:
 
 BARTON'S HOTEL ROOM
 
@@ -5286,7 +5268,7 @@ by it as the sound of lovemaking mixes into the groaning of
 
 pipes.
 
-                        BLACK
+                        BLACK:
 
                             FADE IN:
 
@@ -6476,7 +6458,7 @@ Barton weeping, alone on the bed, next to the rust-colored
 
 stain.
 
-                            FADE OUT
+                            FADE OUT:
 
                             FADE IN:
 
@@ -6647,8 +6629,7 @@ other short.
     Detective Deutsch.
 
             MASTRIONOTTI
-
-    L.A.P.D.
+    L.a.P.D.
 
             BARTON
 
@@ -6803,8 +6784,7 @@ There is a long beat as Barton studies the picture.
     Yeah, he's funny that way.
 
             BARTON
-
-    I...
+    i...
 
             MASTRIONOTTI
 
@@ -6988,9 +6968,7 @@ Finally he puts it on his desk, beneath the picture of the
 
 bathing beauty, and starts typing, quickly and steadily.
 
-                            DISSOLVE
-
-                        THROUGH TO:
+                            DISSOLVE THROUGH TO:
 
 REVERSE
 
@@ -7048,7 +7026,7 @@ Handwritten below, in the message space:
 
 Barton's offscreen typing continues steadily.
 
-                            FADE OUT
+                            FADE OUT:
 
 HALLWAY
 
@@ -7084,7 +7062,7 @@ The distant typing resumes.
 
 The long empty hall. The distant typing.
 
-                            FADE OUT
+                            FADE OUT:
 
 OVER THE BLACK
 
@@ -8456,9 +8434,7 @@ Listlessly:
 
     I tried to show you something 
 
-    beautiful.  Something about all of 
-
-    US 
+    beautiful.  Something about all of us
 
 This sets Lipnik off:
 

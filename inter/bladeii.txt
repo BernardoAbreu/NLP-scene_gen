@@ -1,16 +1,4 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
-"BLADE II" -- by David Goyer
-
-        BLADE II -- By David Goyer
+BLADE II -- By David Goyer
 
 EXT. COMMUNITY BLOOD BANK - NIGHT
 
@@ -7612,5 +7600,5 @@ scabbard and stabs it RIGHT INTO CAMERA, SMASHING apart the
 
 Plexiglas window as we --
 
-                                              FADE TO BLACK.
+                                              FADE TO BLACK:
 

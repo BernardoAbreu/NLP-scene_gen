@@ -13,14 +13,15 @@ END=1
 rm "${OUTPUT_FILE}*"
 
 for FILE in $INPUT_DIR/*; do
-	echo $(basename $FILE);
+	# echo $(basename $FILE);
 	# ./scene_split.py $FILE >> "${OUTPUT_FILE}_${END}.txt"
-	echo $(basename $FILE) >> "${OUTPUT_FILE}_${END}.txt"
-	cat $FILE | egrep "^[ \t]+([A-Z]\.?([A-Z\'\"0-9 ]|[A-Z)\.])+)( \([a-zA-Z0-9\(\)\'\"\. ]+\))?$" >> "${OUTPUT_FILE}_${END}.txt"
+	if [ "${END}" = "2" ]; then
+		echo $(basename $FILE) >> "${OUTPUT_FILE}_${END}.txt"
+		cat $FILE | egrep "^[ \t]+([A-Z]\.?([A-Z\'\"0-9 ]|[A-Z)\.])+)( \([a-zA-Z0-9\(\)\'\"\. ]+\))?$" >> "${OUTPUT_FILE}_${END}.txt"
+	fi;
 	# echo "${OUTPUT_FILE}_${END}.txt"
 	let INDEX=${INDEX}+1
 	if [ "${INDEX: -2: 2}" = "00" ]; then
-		exit
 		let END=${END}+1
 	fi;
 done

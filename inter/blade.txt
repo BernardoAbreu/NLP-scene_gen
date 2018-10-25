@@ -1,22 +1,10 @@
-<b><!--
+BLADE
 
-</b>if (window!= top)
+-----
 
-top.location.href=location.href
+by
 
-<b>// -->
-
-</b>
-
-BLADE - by David S. Goyer
-
-                            BLADE
-
-                            -----
-
-                              by
-
-                        David S. Goyer
+David S. Goyer
 
 Darkness, BLOOD-CURDLING SCREAMS. Presentation credits roll as we
 

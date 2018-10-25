@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Being There - December 16, 1978 Draft
 
 FADE IN:
@@ -10458,7 +10448,7 @@ greets Chance with a handshake and an arm around the
 
 shoulder. Then the three get into the limousine.
 
-                      FADE OUT.
+                      FADE OUT:
 
                   THE END
 

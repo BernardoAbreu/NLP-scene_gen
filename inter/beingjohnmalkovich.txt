@@ -1,18 +1,8 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 BEING JOHN MALKOVICH A Screenplay by Charlie Kaufman
 
-         BEING JOHN MALKOVICH
+BEING JOHN MALKOVICH
 
-       A Screenplay by Charlie Kaufman
+A Screenplay by Charlie Kaufman
 
 INT. CHEERLESS ROOM - DAY
 

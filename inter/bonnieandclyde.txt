@@ -1,10 +1,10 @@
-                      "BONNIE & CLYDE"
+"BONNIE & CLYDE"
 
-                             by
+by
 
-                David Newman & Robert Benton
+David Newman & Robert Benton
 
-FADE IN.
+FADE IN:
 
 INT. BEDROOM.  CLOSE-UP OF BONNIE PARKER.  DAY
 
@@ -1440,9 +1440,9 @@ Close angle.  BONNIE and CLYDE.
 
 BONNIE turns quickly to look at CLYDE.  He smiles and nods.
 
-                                            FADE OUT.
+                                            FADE OUT:
 
-FADE IN.
+FADE IN:
 
 EXT. A LONG, COUNTRY ROAD.  DAY.
 
@@ -5214,11 +5214,11 @@ Reaction.  CLYDE waist deep, breathing heavily.
 
                    (to Bryce, yelling)
 
-            WE GOT YOU...HEAR?... REMEMBER...
+            We got you...hear?... remember...
 
-            YOU... YOUR FACE...WE GOT IT...WE
+            you... your face...we got it...we
 
-            GOT YOU...WE GOT YOU...WE GOT YOU...
+            got you...we got you...we got you...
 
 BRYCE, battered and handcuffed, stares back with mindless
 
@@ -9236,7 +9236,7 @@ in her life.
 
 FADE IN:
 
-EXT. CAR ON THE MOSS FARM.  A DIRT PATH NEAR THE BARN.  DAY.
+EXT: CAR ON THE MOSS FARM.  A DIRT PATH NEAR THE BARN.  DAY.
 
 It is pouring rain, middle of the afternoon, BONNIE and
 
@@ -10552,23 +10552,4 @@ distance and, as they continue to walk at us, it is--
 
                            THE END
 
-                                            CUT TO BLACK.
-
-<!--Ad Banner
-
-function popupPage() {
-
- var windowopts = "location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes,left= 50,top=50,width=490,height=130";
-
- popup38625 = open('/prohost/banner.html',"MenuPopup",windowopts);
-
- popup38625.focus();
-
-<b>}
-
-</b>
-
-popupPage();
-
-//  Ad Banner-->
-
+                                            CUT TO BLACK:

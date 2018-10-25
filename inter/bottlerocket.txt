@@ -1,18 +1,8 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Bottle Rocket by Wes Anderson and Owen Wilson
 
-                     BOTTLE ROCKET
+BOTTLE ROCKET
 
-       screenplay by Wes Anderson and Owen Wilson
+screenplay by Wes Anderson and Owen Wilson
 
 EXT. ALLEY. DAY
 
@@ -1202,7 +1192,7 @@ Bob reaches for the .44.
 
                          BOB
 
-            OK.
+            Ok.
 
 Anthony is making a little man out of a scrap of paper.
 
@@ -4226,7 +4216,7 @@ Dignan treads water. Inez looks at Anthony.
 
                          DIGNAN
 
-            OK.
+            Ok.
 
 Dignan gets out of the pool.
 
@@ -4842,7 +4832,7 @@ highway at Dignan. Then turns and walks the other way, into
 
 the distance.
 
-                                            BLACKOUT.
+                                            BLACKOUT:
 
 FADE IN:
 
@@ -8292,7 +8282,7 @@ trashcan without slowing down. He crosses a bridge and runs
 
 into the the trees.
 
-                                            BLACKOUT.
+                                            BLACKOUT:
 
 FADE IN:
 
@@ -8750,5 +8740,5 @@ Anthony stands there in silence.. He lets go of the fence.
 
 He walks with Bob down the long path in the cold air.
 
-                                            FADE OUT.
+                                            FADE OUT:
 

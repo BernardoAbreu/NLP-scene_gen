@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 The Cell
 
 FADE IN:
@@ -7038,7 +7028,7 @@ knows how long, he relaxes.  And holds Julia Hickson as if
 
 his life depended on it.
 
-                                     FADE OUT.
+                                     FADE OUT:
 
 FADE IN:
 
@@ -7360,5 +7350,5 @@ Catherine shuts her eyes and leans toward him, comforted by
 
 simple human touch...
 
-                         FADE TO BLACK.
+                         FADE TO BLACK:
 

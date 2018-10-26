@@ -15,9 +15,9 @@ rm "${OUTPUT_FILE}*"
 for FILE in $INPUT_DIR/*; do
 	# echo $(basename $FILE);
 	# ./scene_split.py $FILE >> "${OUTPUT_FILE}_${END}.txt"
-	if [ "${END}" = "2" ]; then
+	if [ "${END}" = "3" ]; then
 		echo $(basename $FILE) >> "${OUTPUT_FILE}_${END}.txt"
-		cat $FILE | egrep "^[ \t]+([A-Z]\.?([A-Z\'\"0-9 ]|[A-Z)\.])+)( \([a-zA-Z0-9\(\)\'\"\. ]+\))?$" >> "${OUTPUT_FILE}_${END}.txt"
+		cat $FILE | egrep "^[ \t]+([A-Z]\.?([A-Z\'\"0-9 ]|[A-Z\.])+)( +\([a-zA-Z0-9\(\)\'\"\. ]+\))?$" >> "${OUTPUT_FILE}_${END}.txt"
 	fi;
 	# echo "${OUTPUT_FILE}_${END}.txt"
 	let INDEX=${INDEX}+1

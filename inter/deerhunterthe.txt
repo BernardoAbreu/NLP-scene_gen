@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 The Deer Hunter
 
@@ -3650,11 +3641,11 @@ if he had been having a long argument.
 
             MERLE 
 
-    LISTEN, NICK! GET IT THROUGH YOUR
+    Listen, nick! get it through your
 
-    HEAD OR YOU AND ME ARE BOTH DEAD
+    head or you and me are both dead
 
-    TOO!
+    too!
 
 A shout comes from the thatched hut. The SOUTH VIETNAMESE
 

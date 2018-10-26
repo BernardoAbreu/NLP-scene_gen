@@ -1,26 +1,12 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 CITIZEN KANE
 
-                        Citizen Kane 
+Citizen Kane 
 
-                              By
+By
 
-                    Herman J. Mankiewicz 
+Herman J. Mankiewicz & Orson Welles
 
-                              & 
-
-                         Orson Welles
-
-                           PROLOGUE
+PROLOGUE
 
 FADE IN:
 
@@ -12916,7 +12902,7 @@ The Assistant consults a label on the back of it.
 
                           ASSISTANT
 
-              NO. 9182
+              No. 9182
 
 The Third Newspaperman starts to jot this information down.
 

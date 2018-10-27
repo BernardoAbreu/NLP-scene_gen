@@ -1,16 +1,4 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 FIGHT CLUB
-
-F I G H T   C L U B
 
 by Jim Uhls
 
@@ -5750,7 +5738,7 @@ An intense look of born-again fervor comes over Bob's face.
 
             Bob, Bob... I'm a member.
 
-                             BOB
+                        BOB
 
             You are?!
 
@@ -6386,9 +6374,7 @@ The Yuppie backs away.  Ricky follows...
 
                         YUPPIE
 
-            Get away from me!  Keep away!
-
-            NO... !
+            Get away from me!  Keep away! NO... !
 
 Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 

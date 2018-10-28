@@ -1,14 +1,4 @@
-Ghost World  
 
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
                        "GHOST WORLD"
 
@@ -1304,9 +1294,7 @@ Rebecca goes to the phone and offers the receiver.
 
           We hear the indistinct traces of a 
 
-          musical message followed by a faint 
-
-          BEEP.
+          musical message followed by a faint BEEP.
 
                       ENID
 
@@ -4564,7 +4552,7 @@ Pause.
 
                       ENID
 
-          YES.
+          Yes.
 
                       DAD
 
@@ -6634,7 +6622,7 @@ She gives her a booklet and an application form.
 
                       ENID
 
-          I...
+          i...
 
                       ROBERTA
 
@@ -9548,9 +9536,9 @@ cold linoleum floor). She zips the zipper all the way over
 
 her head and curls up into a whimpering ball.
 
-                                               FADE TO BLACK
+                                               FADE TO BLACK:
 
-             TITLE CARD: "SEVERAL MONTHS LATER"
+TITLE CARD: "SEVERAL MONTHS LATER"
 
 INT. THERAPIST'S OFFICE - DAY
 

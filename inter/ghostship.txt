@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Ghost Ship - by Mark Hanlon - First Draft
 
                               "GHOST SHIP"
@@ -1582,7 +1572,7 @@ it down, with the effect of joining the two cables.
 
             EPPS
 
-    OK.
+    Ok.
 
 Dodge disappears, pulling up the slack from the pilot cable 
 
@@ -4622,9 +4612,7 @@ vessel 'China Sea.'"
 
 He holds there a moment, moving his finger down to the final 
 
-entry, reading: "TRANSMISSION 2 Feb 53 21:24 hrs GMT. General 
-
-SOS."
+entry, reading: "TRANSMISSION 2 Feb 53 21:24 hrs GMT. General  SOS."
 
 He turns the page to see only the words "GOD SAVE US" scrawled 
 
@@ -5012,9 +5000,7 @@ book Murphy found in the radio room.
 
     captain's relieved of his command.  
 
-    And that evening they issue a general 
-
-    SOS.
+    And that evening they issue a general SOS.
 
             MURPHY
 

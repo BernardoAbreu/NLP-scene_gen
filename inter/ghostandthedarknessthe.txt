@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 the Ghost and the Darkness - by William Goldman
 
 "THE GHOST AND THE DARKNESS"
@@ -36,9 +26,7 @@ where we are.
 
         tell them at night.
 
-            (The FIGURE continues 
-
-            to grow)
+            (The FIGURE continues to grow)
 
         It began with the race to build a
 

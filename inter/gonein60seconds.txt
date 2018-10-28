@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Gone In 60 Seconds - Scott Rosenberg
 
 GONE IN 60 SECONDS 
@@ -1000,7 +990,7 @@ She leaves... Atley is staring at him... Memphis shrugs...
 
     Now look at us ...
 
-    MEMPHIS
+         MEMPHIS
 
     Tell me about Kip -
 
@@ -5686,9 +5676,7 @@ But Sway grins
 
             SWAY
 
-    ... he walked in THE COURTSHIP OF
-
-    EDDIE'S FATHER.
+    ... he walked in THE COURTSHIP OF EDDIE'S FATHER.
 
 Kip high-fives her... Freb looks disappointed...
 

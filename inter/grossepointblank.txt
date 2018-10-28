@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 GROSSE POINTE BLANK
 
@@ -7218,7 +7209,7 @@ Debi picks up the phone.
 
               DEBI
 
-    RFN...
+    rfn...
 
 Her face goes slack as she listens... not good, not bad... 
 

@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 Interview with the Vampire
 
@@ -290,9 +281,7 @@ Malloy is speechless, frightened yet enthralled.
 
     New Orleans...
 
-                                 DISSOLVE
-
-                                 TO:
+                                 DISSOLVE TO:
 
 EXT. LOUISIANA - DAY (1791)
 
@@ -696,9 +685,7 @@ is becoming spellbound.
 
 The vampire theme rises, with the sound of a heartbeat.
 
-                                 DISSOLVE
-
-                                 TO:
+                                 DISSOLVE TO:
 
 EXT. GRAVEYARD - NIGHT
 
@@ -8838,7 +8825,7 @@ bridge, the sea, the sky beyond, with the first fingers
 
 of light spreading through it.
 
-                                 FADE OUT
+                                 FADE OUT:
 
 THE END
 

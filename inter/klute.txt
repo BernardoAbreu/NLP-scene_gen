@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Klute
 
 INT. DINING ROOM - TOM GRUNEMANN HOUSE - DAY
@@ -2746,7 +2736,7 @@ She grabs up the company picture, raging on --
 
             KLUTE
 
-    OK.
+    Ok.
 
 Something in his inflection -- very slight --
 
@@ -9340,7 +9330,7 @@ tries to fit them in as conversation continues.
 
             KLUTE 
 
-    OK.
+    Ok.
 
             BREE
 

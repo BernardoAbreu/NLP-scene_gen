@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 JASON X - Revised Rough Draft
 
 JASON-X
@@ -1886,7 +1876,7 @@ Yllo inserts a disk into the console.
 
     Farrari . . .
 
-    YLLO
+            YLLO
 
     Trust me. I'm bypassing regular channels.
 
@@ -2764,7 +2754,7 @@ The others enter to find Rizzo leaning over Adrienne's headless body.
 
 Thorgan throws up.
 
-    BOEMAN
+            BOEMAN
 
         (into a mike)
 
@@ -3676,9 +3666,7 @@ Rizzo sees something. Her hopes fade.
 
             RIZZO
 
-    WHAT'S IT MEAN WHEN ONE OF YOUR BLIPS 
-
-DISAPPEARS?
+    What's it mean when one of your blips disappears?
 
 All eyes turn to the schematic as one of the blips FLICKERS and FADES.
 
@@ -6082,7 +6070,7 @@ The others stare at her as if she were crazy.
 
     What are you gonna do, tell me?
 
-    DELONGPRE
+            DELONGPRE
 
     The engine room will have molecular welders.
 
@@ -8088,15 +8076,15 @@ RIZZO AND DELONGPRE RUN!
 
     Guys, he's right behind us!
 
-    THORGAN(V.O.)
+        THORGAN(V.O.)
 
     It's okay.
 
-    DELONGPRE
+        DELONGPRE
 
     Okay?!!
 
-    THORGAN(V.O.)
+        THORGAN(V.O.)
 
     Just come on, I've got an idea.
 

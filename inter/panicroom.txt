@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 Panic Room - by David Koepp
 
@@ -7158,9 +7149,7 @@ Louder.  Closer.  Burnham turns, SCREAMS at the wall.
 
                      BURNHAM
 
-          WHO THE FUCK BREAKS IN THROUGH THE
-
-          NEIGHBOR'S HOUSE?!
+          WHO THE FUCK BREAKS IN THROUGH THE NEIGHBOR'S HOUSE?!
 
                      RAOUL
 
@@ -7204,7 +7193,7 @@ the three syringes that are left in there.
 
                      BURNHAM
 
-          ALMOST THERE...
+          Almost there...
 
 Finally, the door to the safe CRUNCHES in on one side,
 
@@ -7580,5 +7569,5 @@ Behind her, a flock of pigeons takes off, leaping into the
 
 clear autumn sky.
 
-                                                FADE OUT.
+                                                FADE OUT:
 

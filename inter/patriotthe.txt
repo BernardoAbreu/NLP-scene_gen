@@ -1,29 +1,3 @@
-<b><!--
-
-</b>
-
-<b>/*
-
-</b>Break-out-of-frames script
-
-By Website Abstraction (http://wsabstract.com)
-
-Over 400+ free scripts here!
-
-Above notice MUST stay entact for use
-
-<b>*/
-
-</b>
-
-if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Patriot - 1998 Draft
 
                     THE PATRIOT
@@ -556,9 +530,7 @@ his lead soldiers.
 
                 GABRIEL
 
-        He's seventeen.  A year younger than
-
-        I.
+        He's seventeen.  A year younger than I.
 
 Gabriel and Thomas wait for a reaction.  There is none.
 
@@ -3038,7 +3010,7 @@ FIRES, DROPPING ANOTHER REDCOAT.
 
                 REDCOAT CORPORAL
 
-        READY...
+        Ready...
 
 Marion FIRES, killing the Corporal, the last man of
 
@@ -6314,9 +6286,7 @@ a thin smile to Marion's face.
 
                 MARION
 
-        You learned her lessons better than
-
-        I.
+        You learned her lessons better than I.
 
                 GABRIEL
 
@@ -10510,7 +10480,7 @@ for an instant...
 
                 DALTON
 
-        OUR LINE IS FALTERING...
+        Our line is faltering...
 
 Marion takes a quick glance at the Continental line,
 

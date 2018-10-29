@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Mulholland Drive Screenplay
 
             M  U  L  H  O  L  L  A  N  D
@@ -802,7 +792,7 @@ speaks smoke comes out of her with every word.
 
                 BETTY
 
-        I...
+        i...
 
                 COCO
 
@@ -862,9 +852,9 @@ She angrily turns up to an apartment on the second level.
 
             (yelling up)
 
-        WILKINS! ... (no answer) ... THAT DOG CRAPS
-
-        ONCE MORE OUT HERE AND I'LL BAKE HIS
+        WILKINS! ...
+            (no answer)
+        ... THAT DOG CRAPS ONCE MORE OUT HERE AND I'LL BAKE HIS
 
         BUTT FOR BREAKFAST!!
 
@@ -2034,7 +2024,7 @@ him and his 7-iron suspiciously.
 
                 ADAM
 
-        O.K.
+        Ok.
 
 Adam raises his 7-iron and smashes out the limo's windshield.
 

@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 "Lord of Illusions" -- by Clive Barker
 
 TITLE SEQUENCE
@@ -1428,7 +1418,7 @@ Quaid takes hold of Harry's hand.
 
             HARRY
 
-    NO ... I...
+    No ... I...
 
 Quaid stares at Harry's HAND.  Fascinated, he momentarily
 

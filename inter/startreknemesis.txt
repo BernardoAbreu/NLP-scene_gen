@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 STAR TREK: NEMESIS
 
                       STAR TREK: NEMESIS
@@ -7908,7 +7898,7 @@ Picard leans forward in his chair:
 
                (to Deanna)
 
-          ENGAGE.
+          engage.
 
 EXT.  THE RIFT - SPACE
 
@@ -9046,5 +9036,5 @@ stars.  Then ZOOM forward into the cosmos as the rousing
 
 "Next Generation" theme explodes over END CREDITS.
 
-                                                FADE OUT.
+                                                FADE OUT:
 

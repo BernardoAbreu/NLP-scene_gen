@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 SILVER BULLET by Stephen King Based on his story "Cycle of the Werewolf"
 
@@ -5530,9 +5521,7 @@ MARTY looks at her earnestly.
 
     I need you to help me. Uncle Al won't
 
-    believe me, and if you won't help me, I...
-
-    I...
+    believe me, and if you won't help me, I... I...
 
 MARTY has to stop. He's almost crying.
 
@@ -6958,9 +6947,9 @@ over.
 
     There's something else.
 
-    MARTY                    JANE
+        MARTY                    JANE
 
-What is it?                    What other thing?
+    What is it?                    What other thing?
 
         UNCLE AL
 
@@ -7338,9 +7327,9 @@ medal and looks at it.
 
     All right. I give up. Yes.
 
-  MARTY                            JANE
+      MARTY                            JANE
 
-All right! Thanks!                Thank you, Uncle Al!
+    All right! Thanks!                Thank you, Uncle Al!
 
         UNCLE AL
 

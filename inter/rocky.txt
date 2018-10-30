@@ -1,29 +1,3 @@
-<b><!--
-
-</b>
-
-<b>/*
-
-</b>Break-out-of-frames script
-
-By Website Abstraction (http://wsabstract.com)
-
-Over 400+ free scripts here!
-
-Above notice MUST stay entact for use
-
-<b>*/
-
-</b>
-
-if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Rocky
 
                     "ROCKY"
@@ -120,7 +94,7 @@ works on Rocky without any enthusiasm.
 
         ... Just gimme the water.
 
-                                        2.
+
 
 A FIGHT FAN rushes up to Rocky... He is sixty-five, with
 
@@ -202,7 +176,7 @@ locker for his hat... Also in the dingy room are ten other
 
 fighters... Two taped fighters talk shop in the corner.
 
-                                        3.
+
 
                 FIGHTER #1
 
@@ -282,7 +256,7 @@ self-conscious.
 
         I'm a fighter.
 
-                                        4.
+
 
                 WOMAN
 
@@ -362,7 +336,7 @@ bullish fighting stance and throws several punches.
 
 The water boils.  Rocky soaks his badly-swollen hands.
 
-                                        5.
+
 
 EXT. SUNRISE OF PHILADELPHIA SKYLINE - DAWN
 
@@ -442,7 +416,7 @@ the neck against the wall of stacked cargo.
 
         hundred now!
 
-                                        6.
+
 
                 FATS
 
@@ -522,7 +496,7 @@ wad of bills.
 
         What about for food an' stuff?
 
-                                        7.
+
 
                 FATS
 
@@ -606,7 +580,7 @@ thumb is fine.
 
             (walks off.)
 
-                                        8.
+
 
 EXT. STREET - DAY
 
@@ -690,7 +664,7 @@ to the lady... She nervously exits.
 
         week?
 
-                                        9.
+
 
                 ADRIAN
 
@@ -770,7 +744,7 @@ Adrian shrugs.
 
 Both the Owner and Adrian smile.
 
-                                    10.
+
 
                 OWNER
 
@@ -844,7 +818,7 @@ EXT. LEHIGH ST. TRAIN TRESTLE - DAY
 
 Gazzo picks up Rocky.
 
-                                    11.
+
 
 INT. GAZZO'S CAR - MOVING - DAY
 
@@ -928,7 +902,7 @@ Gazzo steps out of the car and beckons to Rocky.
 
         more.
 
-                                    12.
+
 
                 GAZZO
 
@@ -1010,7 +984,7 @@ the AUTOMATIC TIMERS, SNORTING SPARRING PARTNERS and the
 
 THUDDING of HEAVY BAGS.
 
-                                    13.
+
 
 The room is divided -- Fifty percent Black -- thirty-five
 
@@ -1086,7 +1060,7 @@ taken aback when he sees a set of very flashy clothes.
 
         ... These ain't my clothes.
 
-                                    14.
+
 
 He sees a picture of several black girls taped on the inside
 
@@ -1166,7 +1140,7 @@ Mike turns and exits with Rocky... The fighters curse them
 
 loudly in Spanish.
 
-                                    15.
+
 
 INT. GYM - DAY
 
@@ -1238,7 +1212,7 @@ Rocky approaches... Mickey is conversing with another fighter.
 
         Yeah.
 
-                                    16.
+
 
                 MICKEY
 
@@ -1322,7 +1296,7 @@ trainer sings "FASCINATIN' RHYTHM."
 
         Come July, twenty-five.
 
-                                    17.
+
 
                 MICKEY
 
@@ -1392,7 +1366,7 @@ Mickey shoots Rocky a quick, indifferent look and removes a
 
 rosary from his pocket and idly rolls it around his fingers.
 
-                                    18.
+
 
                 MICKEY
 
@@ -1476,7 +1450,7 @@ water in a bucket and looks smugly at Rocky.
 
         Time, Dipper.
 
-                                    19.
+
 
 Dipper smiles cruelly and begins sparring... Scene FADES on
 
@@ -1556,7 +1530,7 @@ Washington pointing at a pile of garbage.  The caption
 
 reads, "There was no litter at Valley Forge!"
 
-                                    20.
+
 
 INT. ANDY'S BAR - NIGHT
 
@@ -1638,7 +1612,7 @@ misanthrope.
 
                 (MORE)
 
-                                    21.
+
 
                 ROCKY (CONT'D)
 
@@ -1720,7 +1694,7 @@ with the neckline of his t-shirt.
 
         I'm thirty myself.
 
-                                    22.
+
 
                 PAULIE
 
@@ -1804,7 +1778,7 @@ smooth-muscled Black with barely a scar on his light coffee-
 
 colored face...
 
-                                    23.
+
 
 He is followed by an entourage of mixed trainers and
 
@@ -1890,7 +1864,7 @@ says.
 
 Apollo draws his wife close.
 
-                                    24.
+
 
                 APOLLO
 
@@ -1980,7 +1954,7 @@ The news report with Apollo ends.  Andy drinks.
 
         The pros.  Today we jig clowns.
 
-                                    25.
+
 
                 ROCKY
 
@@ -2060,7 +2034,7 @@ Rocky.
 
         Yo, Rock, gimme a dollar.
 
-                                    26.
+
 
                 ROCKY
 
@@ -2138,7 +2112,7 @@ The gang laughs.  Angered and shocked, Rocky grabs her arm.
 
         talk dirty?  Huh?
 
-                                    27.
+
 
                 MARIE
 
@@ -2214,7 +2188,7 @@ located at the top of the school building.  The atmosphere
 
 is somewhat eerie.
 
-                                    28.
+
 
                 ROCKY
 
@@ -2298,7 +2272,7 @@ Rocky and Marie take a shortcut through a dark school yard.
 
                 (MORE)
 
-                                    29.
+
 
                 ROCKY (CONT'D)
 
@@ -2388,7 +2362,7 @@ Marie nods.
 
         Listen, I hope ya don't --
 
-                                    30.
+
 
                 MARIE
 
@@ -2468,7 +2442,7 @@ Creed.
 
         his left hand.
 
-                                    31.
+
 
                 APOLLO
 
@@ -2552,7 +2526,7 @@ Creed.
 
         ranked fifth.
 
-                                    32.
+
 
                 JERGENS
 
@@ -2636,7 +2610,7 @@ Apollo stands beneath a new fight poster and points to it.
 
         on the country's birthday.
 
-                                    33.
+
 
                 JERGENS
 
@@ -2728,7 +2702,7 @@ Everyone laughs.
 
         No, man, it's very smart.
 
-                                    34.
+
 
 EXT. STREET - DAY
 
@@ -2806,7 +2780,7 @@ The Bodyguard reddens... Gazzo motions to his Bodyguard to
 
 relax.
 
-                                    35.
+
 
                 GAZZO
 
@@ -2884,7 +2858,7 @@ pores over a large record book.
 
         How 'bout this Billy Snow?
 
-                                    36.
+
 
                 JERGENS
 
@@ -2970,7 +2944,7 @@ Everybody leans forward.
 
         He won't last one round.
 
-                                    37.
+
 
                 APOLLO
 
@@ -3052,7 +3026,7 @@ Paulie extends his thick hands and tries to make a fist.
 
         Maybe ya should see a doctor.
 
-                                    38.
+
 
                 PAULIE
 
@@ -3134,7 +3108,7 @@ The men arrive at Paulie's home.  It is at the top of a
 
 dimly-lit four story walk-up.
 
-                                    39.
+
 
                 ROCKY
 
@@ -3224,7 +3198,7 @@ the TELEVISION.
 
         swimmers set a new...
 
-                                    40.
+
 
 Meanwhile, the argument between brother and sister continues
 
@@ -3310,7 +3284,7 @@ turkey... With the turkey suspended on the end of the fork,
 
 Paulie heaves the dripping bird out the window.
 
-                                    41.
+
 
 Adrian has seen this and is shattered.  She runs back into
 
@@ -3398,7 +3372,7 @@ Rocky goes over to the door and begins speaking again.
 
 Adrian opens the door... She already has her winter coat on.
 
-                                    42.
+
 
                 ROCKY
 
@@ -3468,7 +3442,7 @@ From across the rink a CLEANING MAN yells at them.
 
         Public or to just everybody.
 
-                                    43.
+
 
                 CLEANER
 
@@ -3552,7 +3526,7 @@ Adrian has on skates.  Rocky follows her onto the ice.  He
 
 wears street shoes.
 
-                                    44.
+
 
                 ADRIAN
 
@@ -3638,7 +3612,7 @@ Adrian slips and Rocky breaks her fall.
 
         Seven minutes!
 
-                                    45.
+
 
                 ROCKY
 
@@ -3720,7 +3694,7 @@ carefully across the ice.
 
         Here -- Three minutes.
 
-                                    46.
+
 
                 ROCKY
 
@@ -3794,7 +3768,7 @@ and fishes into his pocket and hands over eleven dollars.
 
 He grins and leaves.
 
-                                    47.
+
 
 EXT. STREET - NIGHT
 
@@ -3880,7 +3854,7 @@ EXT. STREET - NIGHT
 
         Morning after?
 
-                                    48.
+
 
                 ROCKY
 
@@ -3966,7 +3940,7 @@ turtle bowl.
 
         I sold them to you.
 
-                                    49.
+
 
                 ROCKY
 
@@ -4046,7 +4020,7 @@ Rocky closes the window and faces the woman... She is not
 
 smiling.  She looks frightened.
 
-                                    50.
+
 
                 ROCKY
 
@@ -4124,7 +4098,7 @@ smiling.  She looks frightened.
 
         I should leave.
 
-                                    51.
+
 
                 ROCKY
 
@@ -4204,7 +4178,7 @@ puts more passion into the kiss and she starts to respond.
 
 Her hand glides like smoke up his back.
 
-                                    52.
+
 
 She embraces his neck.  The dam of passion erupts.  She
 
@@ -4278,7 +4252,7 @@ it to Rocky.
 
         When was they here?
 
-                                    53.
+
 
                 MICKEY
 
@@ -4352,7 +4326,7 @@ The Secretary returns.
 
 Rocky collects himself and enters...
 
-                                    54.
+
 
 INT. JERGENS' OFFICE - DAY
 
@@ -4430,7 +4404,7 @@ Miles Jergens warmly greets him.
 
         I'd be a good sparrin' partner.
 
-                                    55.
+
 
 Jergens seems very amused.  He lights a cigar.
 
@@ -4510,7 +4484,7 @@ Apollo has to move to the side to avoid a thrusting
 
 microphone.
 
-                                    56.
+
 
                 APOLLO
 
@@ -4596,7 +4570,7 @@ brother, takes offense.
 
         Paul.
 
-                                    57.
+
 
 Rocky's interview now fills the screen.  Rocky squints and
 
@@ -4680,7 +4654,7 @@ Adrian blushes and laughs.
 
         Christ.
 
-                                    58.
+
 
                 ADRIAN
 
@@ -4770,7 +4744,7 @@ head COMMENTATOR is looking directly into the camera.
 
         right?
 
-                                    59.
+
 
                 ROCKY
 
@@ -4850,7 +4824,7 @@ converses with Adrian who remains upstairs.  His VOICE
 
 ECHOES up the stairwell.
 
-                                    60.
+
 
                 ROCKY
 
@@ -4930,7 +4904,7 @@ They are eating hot sandwiches.
 
         I feel bad about walkin'.
 
-                                    61.
+
 
                 GAZZO
 
@@ -5016,7 +4990,7 @@ INT. CAR - NIGHT
 
                 (MORE)
 
-                                    62.
+
 
                 GAZZO (CONT'D)
 
@@ -5106,7 +5080,7 @@ across the street.
 
 Rocky walks away.
 
-                                    63.
+
 
 INT. ROCKY'S APARTMENT - NIGHT
 
@@ -5184,7 +5158,7 @@ having outsiders see how he lives.
 
         Yeah.
 
-                                    64.
+
 
                 MICKEY
 
@@ -5266,7 +5240,7 @@ He lights a half-smoked cigar.
 
         Fifty years, huh.
 
-                                    65.
+
 
                 MICKEY
 
@@ -5354,7 +5328,7 @@ Mickey deafly continues, becoming more engrossed every second.
 
                 (MORE)
 
-                                    66.
+
 
                 MICKEY (CONT'D)
 
@@ -5432,7 +5406,7 @@ crouch.
 
                 (MORE)
 
-                                    67.
+
 
                 MICKEY (CONT'D)
 
@@ -5530,7 +5504,7 @@ Rocky rises and opens a window.
 
         to man.  I wanna be ya manager.
 
-                                    68.
+
 
                 ROCKY
 
@@ -5618,7 +5592,7 @@ Several moments later Rocky steps out and lowers himself
 
 into bed.  Springing up a second later, he runs outside.
 
-                                    69.
+
 
 EXT. STREET OF ROCKY'S APARTMENT - NIGHT
 
@@ -5694,7 +5668,7 @@ with amusement.
 
 Rocky forces himself to begin running again.
 
-                                    70.
+
 
 EXT. ELEVATED TRAIN STATION - DAWN
 
@@ -5766,7 +5740,7 @@ Rocky notices TWO PUERTO RICANS lounging alongside theshipping office.
 
         Hip -- Hip --
 
-                                    71.
+
 
                 JOSE
 
@@ -5848,7 +5822,7 @@ swills whiskey from a pint bottle.
 
         What?
 
-                                    72.
+
 
                 PAULIE
 
@@ -5928,7 +5902,7 @@ Paulie reddens.  He steps forward and slams his fists in a
 
 hanging beef.
 
-                                    73.
+
 
 The punching of the beef is a muted challenge and Rocky
 
@@ -6000,7 +5974,7 @@ Mickey steps forward and removes a piece of string from his
 
 pocket.
 
-                                    74.
+
 
                 MICKEY
 
@@ -6078,7 +6052,7 @@ Two young boys in street clothes interrupt Mickey.
 
 The boys depart.
 
-                                    75.
+
 
                 MICKEY
 
@@ -6160,7 +6134,7 @@ crews rush to set up.
 
 The camera turns to Rocky.
 
-                                    76.
+
 
                 ROCKY
 
@@ -6238,7 +6212,7 @@ He faces Mickey.  Mickey whispers in his ear.
 
         to say about the Champion?
 
-                                    77.
+
 
                 ROCKY
 
@@ -6328,7 +6302,7 @@ receiving makes him a killer.
 
                 (MORE)
 
-                                    78.
+
 
                 APOLLO (CONT'D)
 
@@ -6414,7 +6388,7 @@ slaps them soul style.
 
         here!  Yo' said so yoself!
 
-                                    79.
+
 
                 MICKEY
 
@@ -6498,7 +6472,7 @@ across the side of the head... The gym becomes stone cold.
 
 Dipper is in total command and enjoying every moment of it.
 
-                                    80.
+
 
                 DIPPER
 
@@ -6582,7 +6556,7 @@ gloomy place.  He eyes Rocky with admiration and a hint of
 
 apprehension... He leaves.
 
-                                    81.
+
 
 Mickey is the first one to shake off the chill... He shakes
 
@@ -6662,7 +6636,7 @@ Rocky smiles.  His eyes show what he feels for this woman.
 
         Don't want weak legs.
 
-                                    82.
+
 
                 ROCKY
 
@@ -6736,7 +6710,7 @@ is waiting for him -- Rocky is upset and goes outside.
 
 Paulie follows.
 
-                                    83.
+
 
 EXT. EASTERN PACKING COMPANY - DAWN
 
@@ -6824,7 +6798,7 @@ beside a slab of hanging beef.  The camera lights go on.
 
         owner don't mind neither.
 
-                                    84.
+
 
                 COMMENTATOR
 
@@ -6912,7 +6886,7 @@ around the desk.  The desk is flowing with forms and charts.
 
         publicity.
 
-                                    85.
+
 
                 APOLLO
 
@@ -6996,7 +6970,7 @@ otherwise darkened room.
 
         Yeah... Threw my whole day off.
 
-                                    86.
+
 
                 ADRIAN
 
@@ -7078,7 +7052,7 @@ bordering on a nervous breakdown.
 
         Outta my house I want ya!!
 
-                                    87.
+
 
                 ROCKY
 
@@ -7162,7 +7136,7 @@ Paulie smashes a small table with the bat.
 
         to give ya the best.
 
-                                    88.
+
 
                 ADRIAN
 
@@ -7254,7 +7228,7 @@ The brother flares up and threatens Adrian with the bat.
 
         You busted?!
 
-                                    89.
+
 
                 ADRIAN
 
@@ -7334,7 +7308,7 @@ kisses her cheek.
 
         Wanna hear a dirty joke?
 
-                                    90.
+
 
                 ADRIAN
 
@@ -7424,7 +7398,7 @@ They watch more action.
 
                 (MORE)
 
-                                    91.
+
 
                 MICKEY (CONT'D)
 
@@ -7500,7 +7474,7 @@ Mickey nods.
 
         Check the eyes, Ben.
 
-                                    92.
+
 
 Benny checks the skin around Rocky's eyes.
 
@@ -7572,7 +7546,7 @@ behind his wide desk.
 
 Flips open a thick file that lays in front of him.
 
-                                    93.
+
 
                 MAYOR
 
@@ -7660,7 +7634,7 @@ is taken three times... The photographer exits.
 
         do you plan to do with it?
 
-                                    94.
+
 
                 ROCKY
 
@@ -7742,7 +7716,7 @@ white object hanging on the wall.
 
 Adrian overhears the statement.
 
-                                    95.
+
 
                 ROCKY
 
@@ -7830,7 +7804,7 @@ Rocky grabs his coat and moves to the front door.
 
         ... Come.
 
-                                    96.
+
 
 INT. GOLDMILL'S GYM - NIGHT
 
@@ -7902,7 +7876,7 @@ lazily flops around on the top reel... Listlessly Rocky rubs
 
 his reddened eyes.
 
-                                    97.
+
 
 The door opens and Mickey flips on the light... The two men
 
@@ -7980,7 +7954,7 @@ Adrian touches his face.
 
         ... I dunno.
 
-                                    98.
+
 
                 ADRIAN
 
@@ -8068,7 +8042,7 @@ except for some NOISE that filters under the door from the
 
 arena.
 
-                                    99.
+
 
 It is a CLOSE-UP of Apollo's hand being taped... The RASPING
 
@@ -8136,7 +8110,7 @@ lifting his diaphragm up... Magnified BREATHING ROARS from
 
 the screen.
 
-                                    100.
+
 
 INT. APOLLO'S DRESSING ROOM - NIGHT
 
@@ -8210,7 +8184,7 @@ Mike helps him into the robe... Mickey is not amused.
 
         ... I'm doin' it for a friend.
 
-                                    101.
+
 
                 MICKEY
 
@@ -8306,7 +8280,7 @@ circuit televisions.
 
         rounds -- Vegas odds say, 'no.'
 
-                                    102.
+
 
 ANOTHER ANGLE
 
@@ -8392,7 +8366,7 @@ his corner.
 
         Don't let 'im get you tight.
 
-                                    103.
+
 
                 ROCKY
 
@@ -8474,7 +8448,7 @@ ANOTHER ANGLE
 
         Brown Bomber ' -- Joe Louis!
 
-                                    104.
+
 
 JOE LOUIS bows and steps to Creed's corner.  Creed strikes a
 
@@ -8548,7 +8522,7 @@ Joe Frazier stands in front of the Commentators.
 
 Joe laughs and exits.  The timekeeper RINGS the BELL.
 
-                                    105.
+
 
 ANOTHER ANGLE
 
@@ -8626,7 +8600,7 @@ The BELL RINGS... Creed dances forward and boxes Rocky as
 
 though he considers the man an amateur.
 
-                                    106.
+
 
 ANOTHER ANGLE
 
@@ -8712,7 +8686,7 @@ chin, followed by an uppercut to the liver that causes Creed
 
 to cringe...
 
-                                    107.
+
 
 Apollo counters with jabs and Rocky whips brutal combinations
 
@@ -8792,7 +8766,7 @@ his lightning jab with cutting accuracy. Still Rocky shuffles
 
 ahead, bombarding Creed's midsection with hooks.
 
-                                    108.
+
 
 ANOTHER ANGLE
 
@@ -8870,7 +8844,7 @@ The Commentators are caught up in the action.  They speak
 
 rapidly into their microphones.
 
-                                    109.
+
 
                 COMMENTATOR #2
 
@@ -8966,7 +8940,7 @@ the heart.
 
                 (MORE)
 
-                                    110.
+
 
                 COMMENTATOR #1 (CONT'D)
 
@@ -9050,7 +9024,7 @@ the wound... The ring DOCTOR inspects the cut.
 
         More ice, now!
 
-                                    111.
+
 
 ANOTHER ANGLE
 
@@ -9126,7 +9100,7 @@ OF SOUND.  The guard at the door inspects her and goes back
 
 to watching the fight.
 
-                                    112.
+
 
 INT. ARENA - NIGHT
 
@@ -9204,7 +9178,7 @@ The Commentators shift in their seats.
 
                 (MORE)
 
-                                    113.
+
 
                 COMMENTATOR #1 (CONT'D)
 
@@ -9280,7 +9254,7 @@ shut.
 
         No more.
 
-                                    114.
+
 
                 ROCKY
 
@@ -9362,7 +9336,7 @@ shoulders.  Apollo shields his wound from the ringside
 
 judges and continues to fight.
 
-                                    115.
+
 
 ANOTHER ANGLE
 
@@ -9440,7 +9414,7 @@ Rocky is approaching the supreme moment of his life.  He
 
 cannot be bothered with pain or doctors.
 
-                                    116.
+
 
                 ROCKY
 
@@ -9520,7 +9494,7 @@ The Commentators stare unansweringly at the fighters.
 
                 (MORE)
 
-                                    117.
+
 
                 COMMENTATOR #1 (CONT'D)
 
@@ -9600,7 +9574,7 @@ ANOTHER ANGLE
 
 The BELL RINGS... The arena EXPLODES with thunderous approval.
 
-                                    118.
+
 
 Their cornermen rush to their collapsed fighters... In the
 
@@ -9680,7 +9654,7 @@ ANOTHER ANGLE
 
         scores it eight-seven Balboa.
 
-                                    119.
+
 
 ANOTHER ANGLE
 
@@ -9760,7 +9734,7 @@ Apollo is suddenly hoisted into the air and is being carried
 
 along by a legion of fans.
 
-                                    120.
+
 
 ANOTHER ANGLE
 
@@ -9840,7 +9814,7 @@ carrying him away.  He attempts to lower himself but the
 
 crowd won't permit it.
 
-                                    121.
+
 
 Rocky instead turns and begins climbing across people's
 

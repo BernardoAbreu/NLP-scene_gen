@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 Rambling Rose - by Calder Willingham
 
@@ -1098,11 +1089,11 @@ tentative little smile is on her face. It is very plain she
 
 is nervous and frightened.
 
-            ROSE 
+                    ROSE
 
-    Hello. I'm Rose, and I've come to
+            Hello. I'm Rose, and I've come to
 
-    live with you and your family.
+            live with you and your family.
 
 Silence. The damn boy says nothing. A trifle crestfallen,
 

@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 "SIGNS"
 
@@ -280,9 +271,9 @@ UNTOUCHED CORN FIELD.
 
 LEGEND:
 
-               "BUCKS COUNTY PENNSYLVANIA...
+"BUCKS COUNTY PENNSYLVANIA...
 
-             THIRTY MILES OUTSIDE PHILADELPHIA"
+THIRTY MILES OUTSIDE PHILADELPHIA"
 
                                                   CUT TO:
 
@@ -8120,5 +8111,5 @@ And we see the Hess family.  Sitting together on the grass.
 
 Huddled together in the sunlight.
 
-                                           FADE TO BLACK.
+                                           FADE TO BLACK:
 

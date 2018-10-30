@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 Solaris - by Steven Soderbergh -  October 4, 2001 draft
 
@@ -3108,7 +3099,7 @@ feeling won't last.
 
 She falls asleep.
 
-                                                FADE OUT.
+                                                FADE OUT:
 
 FADE IN:
 
@@ -5486,5 +5477,5 @@ The misty consistency begins to gain some color and body.
 
 And we realize we are now looking at the surface of Solaris.
 
-                                                FADE OUT.
+                                                FADE OUT:
 

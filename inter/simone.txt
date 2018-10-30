@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Simone by Andrew Niccol
 
                             SIMONE
@@ -1928,9 +1918,7 @@ message.
 
           something I gave away for free. 
 
-          Don't you just love Hollywood?...
-
-          BEEP.
+          Don't you just love Hollywood?... BEEP.
 
 Viktor stops the machine, dazed.  He idly opens his mail. 
 
@@ -2614,11 +2602,7 @@ side monitors.  VIKTOR takes a seat in front of the monitor.
 
                     VIKTOR
 
-              (to himself as he inserts
-
-               his Hollywood hard-drive 
-
-               -- SIMULATION ONE)
+              (to himself as he inserts his Hollywood hard-drive -- SIMULATION ONE)
 
           Pay no attention to the man behind
 
@@ -2626,21 +2610,21 @@ side monitors.  VIKTOR takes a seat in front of the monitor.
 
 A title appears on his computer screen.
 
-                          Welcome
+Welcome
 
-                             to
+to
 
-                       SIMULATION ONE
+SIMULATION ONE
 
 With a satisfied smile, Viktor backspaces characters until he
 
 revises the title to:
 
-                          Welcome
+Welcome
 
-                             to
+to
 
-                           SIMONE
+SIMONE
 
 He presses "ENTER" and a face begins to build -- wire upon
 
@@ -4522,31 +4506,31 @@ Viktor hits STOP and Simone freezes.  Viktor brings up a menu
 
 and chooses from a range of "EMOTIONAL OPTIONS".
 
-   JOY                  SADNESS              FEAR
+JOY                  SADNESS              FEAR
 
-   elated               melancholy           anxious
+elated               melancholy           anxious
 
-   jubilant             tearful              frightened
+jubilant             tearful              frightened
 
-   giddy                weeping              petrified
+giddy                weeping              petrified
 
-   ecstatic             blubbering           loss of bladder
+ecstatic             blubbering           loss of bladder
 
-   inebriated           Kevorkian              control
+inebriated           Kevorkian              control
 
-   CONTEMPLATION        INNOCENCE            SENSUALITY
+CONTEMPLATION        INNOCENCE            SENSUALITY
 
-   reflective           chaste               seductive
+reflective           chaste               seductive
 
-   thoughtful           virtuous             lustful
+thoughtful           virtuous             lustful
 
-   meditative           angelic              bestial
+meditative           angelic              bestial
 
-   stoic                Madonna              Madonna
+stoic                Madonna              Madonna
 
-   bored out of her      [Blessed Virgin]     [Like A Virgin]
+bored out of her      [Blessed Virgin]     [Like A Virgin]
 
-     skull
+skull
 
 He fine-tunes SIMONE's performance -- sliding a cursor on a
 
@@ -7814,13 +7798,9 @@ EXT.  VARIOUS LOCATIONS - NIGHT/DAY
 
 A)  On a jumbotron in Tokyo SIMONE's concert plays LIVE.
 
-B)  On a TV set on a West African beach, children dance to
+B)  On a TV set on a West African beach, children dance to SIMONE.
 
-    SIMONE.
-
-C)  On a computer in a Bombay taxi, the driver and his
-
-    passengers gyrate to SIMONE webcast.
+C)  On a computer in a Bombay taxi, the driver and his passengers gyrate to SIMONE webcast.
 
 INT.  CONTROL TRUCK - BACKSTAGE - NIGHT
 

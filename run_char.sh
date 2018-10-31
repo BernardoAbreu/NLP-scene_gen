@@ -21,7 +21,7 @@ for FILE in $INPUT_DIR/*; do
 	fi;
 	# echo "${OUTPUT_FILE}_${END}.txt"
 	let INDEX=${INDEX}+1
-	if [ "${INDEX: -2: 2}" = "00" ]; then
+	if [ "${INDEX: -2}" = "00" ]; then
 		let END=${END}+1
 	fi;
 done

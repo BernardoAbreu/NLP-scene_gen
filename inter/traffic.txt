@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 Traffic by Stephen Gaghan
 
                           "TRAFFIC"
@@ -7104,9 +7094,7 @@ Javi makes eye contact with one agent, then the other.
 
     donations and what they get for 
 
-    building doghouses to sell to the 
-
-    U.S.
+    building doghouses to sell to the U.S.
 
         (beat)
 
@@ -10864,9 +10852,7 @@ have been arrested.  The news crews get everything.
 
     represents the first bilateral effort 
 
-    of the American DEA and the Mexican 
-
-    I.N.C.D.
+    of the American DEA and the Mexican I.N.C.D.
 
 INT. JAIL CELL - DAY
 

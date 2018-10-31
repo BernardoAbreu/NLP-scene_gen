@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 THELMA & LOUISE
 
@@ -814,13 +805,13 @@ neon light.
 
           like you doin' in a place like this?
 
-          LOUISE
+                  LOUISE
 
-  Mindin' our own 
+          Mindin' our own 
 
-  business, why don't 
+          business, why don't 
 
-  you try it.
+          you try it.
 
                                         THELMA
 
@@ -3718,7 +3709,7 @@ INT.  FBI OFFICE - DAY
 
                       HAL (V.O.)
 
-          A .38.
+          a .38.
 
                       MAX
 
@@ -5602,7 +5593,7 @@ Louise throws the map across the front seat at Thelma and
 
 FLOORS it.
 
-                                               FADE TO BLACK
+                                               FADE TO BLACK:
 
 FADE IN:
 
@@ -6620,7 +6611,7 @@ standing on the other side of the car.
 
                       THELMA
 
-          I... I...
+          I... i...
 
                       LOUISE
 
@@ -9380,7 +9371,7 @@ cliff.
 
           if you don't look down...
 
-                                                    FADE OUT
+                                                    FADE OUT:
 
                           THE END
 

@@ -1,13 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
-
 VIRTUOSITY by Eric Bernt 3rd Rewrite 8/24/94
 
                                     VIRTUOSITY
@@ -51,7 +41,6 @@ watching a television in his lap. YOU HEAR the NEWSCASTER.
     The three adjectives which best
 
     describe this killer are sadistic,
-
     intelligent, and dangerous...
 
 The guy pays little attention to the broadcast. He seems
@@ -7964,9 +7953,7 @@ Lindenmeyer checks several readings on his console.
 
     brain is receiving, he won't be
 
-    able to walk when I take him out of
-
-    VR.
+    able to walk when I take him out of VR.
 
             MADISON
 

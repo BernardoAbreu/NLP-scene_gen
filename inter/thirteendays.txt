@@ -1,12 +1,3 @@
-<b><!--
-
-</b>if (window!= top)
-
-top.location.href=location.href
-
-<b>// -->
-
-</b>
 
 13 Days by David Self
 
@@ -1894,9 +1885,7 @@ Stevenson hasn't.
 
     Chiefs and I believe we should follow up
 
-    the air strikes with the full version of
-
-    OPLAN 316.
+    the air strikes with the full version of OPLAN 316.
 
             THE PRESIDENT
 

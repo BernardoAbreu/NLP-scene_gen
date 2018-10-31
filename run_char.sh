@@ -25,3 +25,16 @@ for FILE in $INPUT_DIR/*; do
 		let END=${END}+1
 	fi;
 done
+
+
+
+for FILE in $INPUT_DIR/*; do
+	BASEFILE=$(basename $FILE);
+	echo $BASEFILE;
+	sed -E "/^((.*\(MORE\) *?)|( *\(CONT\.?\).*)|( *[0-9]{1,3}\.))$/d" $FILE > changes/$BASEFILE
+	sed -i 's/ +\*?$//' changes/$BASEFILE;
+	sed -i '/^\s*$/d' changes/$BASEFILE;
+	sed -E -i "s/^[ \t]+([A-Z][A-Z\'\"\.0-9 ]*) *(\([a-zA-Z0-9\'\"\. ]+\))?$/<CHAR>__{\1} <CHAR_PAR>__{\2}/" changes/$BASEFILE;
+	sed -E -i "s/^(INT|EXT|[0-9]+)(.*)$/<LOC>__{\1\2}/" changes/$BASEFILE;
+	# sed -E"s/^[ \t]+([A-Z][A-Z\'\"\.0-9 ]*) *(\([a-zA-Z0-9\'\"\. ]+\))?$/<CHAR>__{\1} <CHAR_PAR>__{\2}/" $FILE > chars/$BASEFILE;
+done

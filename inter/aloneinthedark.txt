@@ -2,7 +2,7 @@ ALONE IN THE DARK
 Written by
 Elan Mastai & Michael Roesch
                                                            FADE IN:
-1                                                                     1
+1
 EXT. FOREST - NIGHT
 A dense forest on a dark, misty night.
 YOUNG EDWARD CARNBY (age 10), small, thin, and terrified,
@@ -33,7 +33,7 @@ A dozen uniformed DEPUTIES move through the forest, shining
 their flashlights around, searching.
 The trees tower over them. A low fog hangs in the air. The
 flashlight beams can barely penetrate it.
-EXT. ORPHANAGE - NIGHT                                           2
+EXT. ORPHANAGE - NIGHT
 A large and stately old house stands on the edge of town. A
 small, dense forest stretches out behind it.
 The sign on the front reads: OUR LADY OF PERPETUAL LIGHT
@@ -56,7 +56,7 @@ DEPUTIES. The Sheriff walks up and listens in.
                empty. Every one of them. They just
                disappeared...
 EXT. FOREST - LATER
-3                                                                     3
+3
 The Deputies sweep through the forest with their flashlights.
 The trees are close together, blocking out the moonlight. A
 thick mist hangs in the trees.
@@ -69,13 +69,13 @@ clearing in the woods.
 He sees a Shed in the clearing up ahead. A bright light is
 posted over the Shed's front entrance.
 4
-EXT. SHED - MOMENTS LATER                                        4
+EXT. SHED - MOMENTS LATER
 Deputy Adams shines his flashlight around the outside of the
 Shed.
 He sees that the door is open just a crack. On the door is a
 sign marked: DANGER, along with the symbol for ELECTRICITY.
 INT. SHED - MOMENTS LATER
-5                                                                     5
+5
 Deputy Adams enters the Shed.
 The Shed is small, packed with electrical equipment, power
 cables, and various implements for repairing power lines.
@@ -88,7 +88,7 @@ is too small for a full-size person.
 But sitting on the ground behind the transformer is Young
 Edward. He clutches himself, shivering, frightened.
 EXT. ORPHANAGE
-6                                                                    6
+6
 The Sheriff stands with his Deputies. His walkie-talkie
 CRACKLES to life.
                           DEPUTY ADAMS (ON THE WALKIE-TALKIE)
@@ -97,7 +97,7 @@ CRACKLES to life.
                 in a utility shed maybe half a mile from
                 the orphanage.
 INT. SHED
-7                                                                    7
+7
 Deputy Adams approaches Young Edward. He takes off his jacket
 and wraps it around Young Edward's shoulders.
 Young Edward pulls the jacket around him and smiles, still
@@ -113,7 +113,7 @@ scared, but happy to see the Deputy.
                           YOUNG EDWARD
                 Edward... Edward Carnby.
 INT. AIRPLANE - DAY
-8                                                                    8
+8
 SUPER: 20 YEARS LATER
 EDWARD CARNBY (early 30s), lean and intense, wakes up. He
 quickly looks around to get his bearings.
@@ -146,7 +146,7 @@ The Small Boy's eyes open wide.
                           CARNBY
                 That's because they don't know the truth.
 EXT. AIRPORT TERMINAL - DAY
-13                                                                      13
+13
 Carnby exits the Terminal and heads over to a row of taxis
 waiting outside the Terminal. He doesn't carry a suitcase.
                           CARNBY (V.O.)
@@ -415,13 +415,13 @@ its thick round side engraved with intricate Abkani symbols.
 This is the lynchpin artifact, the piece which connects the
 other artifacts together.
 EXT. MUSEUM - DAY
-17                                                                  17
+17
 The elegant Museum of Natural History. A wide staircase leads
 up to an entranceway surrounded by stone pillars.
 Over the front of the Museum hangs a large banner reading:
 "SECRETS OF THE ANCIENT ABKANI  COMING SOON".
 INT. MUSEUM/MAIN HALL - DAY
-18                                                                      18
+18
 The high-ceilinged Main Hall of the Museum. Glass display
 cases are set up to showcase archeological artifacts.
 ALINE CEDRAC (late 20s), studious but dynamic, stands in
@@ -490,7 +490,7 @@ Delivery Guy shakes his head at the Guard.
                          DELIVERY GUY
                Nice going, jack-ass.
 EXT. SHIP DECK - DAY
-19                                                                    19
+19
 A large Ship out on the open sea.
 CREWMEN scurry around the deck attending to a huge crane that
 hangs over the side of the Ship. Chains leads from the crane
@@ -507,11 +507,11 @@ intelligence, stands on the deck with CAPTAIN CHERNICK (late
                found it, I'm afraid your ill-informed
                superstitions aren't enough to stop me.
 EXT. WATER SURFACE
-20                                                                   20
+20
 Two DIVERS in high-tech Newt Suits break the surface. They
 signal to Captain Chernick.
 EXT. SHIP DECK
- 1                                                                   21
+ 1
 Hudgens nods to Captain Chernick.
                          HUDGENS
                Bring it up.
@@ -521,12 +521,12 @@ the crane, pulling something to the surface.
 The crane GROANS under the weight. Captain Chernick looks
 nervous as the crane SHUDDERS with the strain.
 EXT. WATER SURFACE
-22                                                                   22
+22
 Out of the ocean, the crane raises a large, heavy container.
 The container is about eight feet long. It is battered and
 damaged by the ocean water, and covered in barnacles.
 INT. CARNBY'S LOFT - DUSK
-23                                                                   23
+23
 Carnby unlocks the multiple locks on the front door to his
 Loft and enters.
 As Carnby walks through the Loft, he passes his answering
@@ -561,16 +561,16 @@ Approaching the lab area, Carnby takes out the lynchpin
 artifact. He turns it around in his fingers, watching the
 light glint off it.
 EXT. DOCKS - NIGHT
-24                                                                    24
+24
 The Ship is docked at a mist-enshrouded pier. Overhead lights
 along the dock illuminate the area.
 A transport truck is parked on the Dock just next to the
 Ship's loading ramp.
 In front of the ramp, five CREWMEN with automatic weapons
 stand guard, smoking and looking vigilant.
-SCENE 25 OMITTED 
+SCENE 25 OMITTED
 EXT. SHIP DECK - NIGHT
-26                                                                         26
+26
 Standing on the Ship's wide deck, Captain Chernick looks
 impatient. Hudgens stands over the large, barnacle-covered
 container. The container is secured with a heavy rusted lock.
@@ -668,13 +668,13 @@ Chernick pries open the lock with the crowbar. Chernick hands
 the First Mate the crowbar and he jams it into the handle of
 the door, wedging it closed.
 INT. SHIP STORAGE ROOM - CONTINUOUS
-27                                                                    27
+27
 Hudgens struggles to his feet. He BANGS on the door, trying
 to pull it open.
                          HUDGENS
                Captain! Don't open it!
 EXT. SHIP DECK - CONTINUOUS
-28                                                                    28
+28
 The First Mate and Crewman Barnes watch in fasciation as
 Captain Chernick prepares to open the gold container.
                           C
@@ -683,7 +683,7 @@ Captain Chernick prepares to open the gold container.
 He opens the container.
 With a deep SIGH, the vacuum of dry air escapes.
 INT. CARNBY'S LOFT - AT THAT MOMENT
- 9                                                                    29
+ 9
 Carnby sits in front of his computer. He scans through
 screens of information relating to Abkani civilization.
 Carnby suddenly winces in intense pain. He clutches his head,
@@ -693,7 +693,7 @@ Grabbing his head and trying to shake off the pain, Carnby
 collapses unconscious to the floor. He is out cold.
 On the work station, the lynchpin artifact starts to glow.
 INT. JOHN'S HOUSE/BEDROOM - AT THAT MOMENT
-30                                                                        30
+30
 JOHN HOUGHTON (early 30s) lies asleep in his bed next to his
 wife, LINDA HOUGHTON (early 30s).
 Suddenly, John opens his eyes.
@@ -703,11 +703,11 @@ but just barely. John walks out of the room.
                 John?
 Linda rolls over and falls back asleep.
 EXT. JOHN'S HOUSE - NIGHT
- 1                                                                        31
+ 1
 John exits the house. He walks down the front path and out
 into the night.
 INT. CARNBY'S LOFT - AT THAT MOMENT
-32                                                                        32
+32
 Carnby lies unconscious on the floor.
 The lynchpin artifact glows brightly, emitting a LOW HUM.
 3
@@ -717,7 +717,7 @@ A low wind wafts through the Main Hall.
 Air flows through the space, swirling dust along the floor. A
 banner hanging from the ceiling ripples from the breeze.
 INT. MUSEUM/ALINE'S OFFICE - AT THAT MOMENT
-34                                                                        34
+34
 Aline sits at her desk, her back to the shelving units. She
 inspects the stone tablet and takes notes.
 In one of the shelving units, a faint glow emanates out of a
@@ -731,20 +731,20 @@ to see the strange glow coming out of the three drawers.
 She cautiously approaches the shelving units. She reaches a
 hand out to open the first glowing drawer.
 EXT. SHIP DECK - AT THAT MOMENT
-36                                                                     36
+36
 As the First Mate and Crewman Barnes watch in anticipation,
 Captain Chernick opens the gold container all the way.
 The container is empty.
 The lights along the Deck start to flicker.
 INT. SHIP STORAGE ROOM
-37                                                                     37
+37
 The lights in the Storage Room start to flicker on and off.
 Hudgens looks up at the lights.
                          HUDGENS
                They're faster than I thought...
-SCENE 38 OMITTED 
+SCENE 38 OMITTED
 INT. SHIP DECK
-39                                                                     39
+39
 he lights continue to flicker. Captain Chernick turns to the
 Storage Room door. He looks back at the First Mate and
 Crewman Barnes.
@@ -767,7 +767,7 @@ Captain Chernick's lifeless body is dropped to the ground.
 Terrified, the First Mate and Crewman Barnes aim their
 4    revolvers at the empty air. They OPEN FIRE.
 INT. SHIP STORAGE ROOM
- 0                                                                   40
+ 0
 Hudgens stands at the door, listening to the GUNFIRE.
 He looks through the peephole in the door. The peephole is
 dirty, hard to see through. Something frantic is happening
@@ -794,8 +794,8 @@ back on. Hudgens listens, straining to hear anything at all.
 Cautious, Hudgens pulls away the metal rod. He gingerly
 touches the door. With a long CREAK, it slowly swings open.
 The crowbar was shaken loose from all the impacts.
-SCENE 45 INCORPORATED INTO SCENE 40 
-46                                                                    46
+SCENE 45 INCORPORATED INTO SCENE 40
+46
 INT. SHIP DECK - CONTINUOUS
 Hudgens steps out of the Storage Room. He looks around the
 Deck. Mist blows in off the water. The night is quiet.
@@ -814,9 +814,9 @@ a thin hollow cylinder with a thick little protrusion on one
 end. It is covered in Abkani symbols.
 Hudgens takes out the artifact. He turns it around in his
 hand. He looks pleased.
-SCENE 47 OMITTED 
+SCENE 47 OMITTED
 INT. BUREAU 713/HALLWAY - NIGHT
-48                                                                    48
+48
 Everything in Bureau 713's Headquarters looks sleek and high-
 tech. There are no windows anywhere.
 COMMANDER BURKE (late 30s) strides purposefully down the
@@ -849,7 +849,7 @@ Burke stops and looks at Agent Miles for the first time.
 Agent Miles opens the door to the Control Room.
 4
 INT. BUREAU 713 HEADQUARTERS/CONTROL ROOM - CONTINUOUS
- 9                                                                    49
+ 9
 Inside the Control Room, the banks of monitors and sensors
 are all lit up. Streams of data flow across the monitors.
 Burke and Miles stand at the doorway.
@@ -866,7 +866,7 @@ AGENT YONEK, a Control Room techie, adjusts the sensors.
                Recalibrating sensors now, sir.
 Burke looks concerned for the first time.
 INT. ORPHANAGE/DEN - NIGHT   - TWENTY YEARS AGO
-50                                                                      50
+50
 Young Edward (age 10) walks through the Den. The lights are
 all out. The Den is musty, but clean.
 A sliver of light glows from underneath the doorway to Sister
@@ -882,16 +882,16 @@ Sister Clara opens the door. She wears her nightgown.
                          YOUNG EDWARD
                They're not gone anymore. The others are
                back.
-SCENE 51 AND 52 INCORPORATED INTO SCENE 50 
+SCENE 51 AND 52 INCORPORATED INTO SCENE 50
 5
 INT. ORPHANAGE/CHILDREN'S ROOM - NIGHT - TWENTY YEARS AGO
- 3                                                                      53
+ 3
 Sister Clara throws open the door to one of the children's
 bedrooms. Ten beds are lined up along the wall. All ten of
 them have CHILDREN asleep in them.
 Sister Clara GASPS, holding her hand to her mouth.
 INT. CARNBY'S LOFT - DAY
-54                                                                      54
+54
 Carnby lurches awake. He is still lying on the floor.
 His cellphone is RINGING. Carnby gets to his feet, rubbing
 his temples, trying to get his bearings. He answers his cell.
@@ -911,7 +911,7 @@ his temples, trying to get his bearings. He answers his cell.
                 in the middle of the night and walked
                 out.
 EXT. JOHN'S HOUSE/FRONT PORCH - DAY
- 5                                                                      55
+ 5
 Linda stands on the Front Porch, her eyes red from crying.
 Carnby is just leaving. He holds some recent photos of John.
                           CARNBY
@@ -994,7 +994,7 @@ Each report has a photo of a missing Orphan, both MALE and
 FEMALE. One of the photos is of John Houghton.
 Sixteen are missing. Three are unaccounted for.
 EXT. RESTAURANT PATIO - DAY
-58                                                                     58
+58
 The outdoor patio of a downtown Restaurant. Carnby sits with
 a coffee and a cherry pie at a table for two.
 AGENT PAUL FISCHER (mid-50s), precise but friendly,
@@ -1030,14 +1030,14 @@ Carnby gets up to leave. He picks up the file.
                          CARNBY (CONT'D)
                Thanks Fischer. It's good to know I've
                still got friends at 713.
-SCENE 59 OMITTED 
+SCENE 59 OMITTED
 EXT. MUSEUM - DUSK
-60                                                                    60
+60
 As the sun sets, the streetlights around the Museum all come
 on in unison, bathing the area in a warm glow.
 The lights are all on in the Museum.
 INT. MUSEUM/ALINE'S OFFICE - NIGHT
-61                                                                    61
+61
 Aline sits at her desk, notes spread out in front of her. The
 notes show various Abkani symbols. She writes down comments
 in the margins.
@@ -1069,7 +1069,7 @@ The Guard KNOCKS on the open door.
                          GUARD
                There's... somebody here to see you.
 INT. MUSEUM/MAIN HALL - DUSK
-62                                                                     62
+62
 Aline exits quickly out of a service door, looking anxious.
 The Guard scurries after her.
 Carnby stands in front of the Security Desk.
@@ -1098,7 +1098,7 @@ artifact. Aline stares down at it, immediately fascinated.
                Five minutes, Aline. I'll tell you
                everything.
 INT. MUSEUM/ALINE'S OFFICE
-63                                                                   63
+63
 Carnby stands with Aline at her desk, while she scans a 3-D
 rendering of the lynchpin artifact into her computer.
                          CARNBY
@@ -1160,7 +1160,7 @@ Carnby pulls out a flashlight and flicks it on.
 Aline grabs Carnby's flashlight. She lights their way to the
 Office door.
 INT. MUSEUM/MAIN HALL
-65                                                                      65
+65
 The lights flicker. Large shadows are cast through the area
 by the remaining, dim lights.
 The Guard sits at the Security Desk, talking on the phone.
@@ -1233,7 +1233,7 @@ From up ahead, they hear a CLATTERING sound.
 Carnby reaches into his holster and pulls out his revolver.
 Aline hands him the flashlight without a word.
 INT. MUSEUM/CERAMICS ROOM
-69                                                                     69
+69
 Aline and Carnby quietly come out a service door that leads
 to the Ceramics Room. They conceal themselves behind a pair
 of columns, scanning the area before they step out.
@@ -1346,9 +1346,9 @@ Carnby hands Aline the flashlight. He grips his revolver.
 Carnby and Aline move down the Hallway towards the double-
 doors. As they move, they listen intently. The only thing
 they can hear is the sound of their FOOTSTEPS.
-SCENE 69H NOW SCENE 69C 
+SCENE 69H NOW SCENE 69C
 INT. MUSEUM/MAIN HALL
-83                                                                      83
+83
 Aline and Carnby quietly open the double-doors leading into
 the Main Hall.
 The lights are dim. Moonlight streams in through the skylight
@@ -1371,12 +1371,12 @@ Suddenly, powerful spotlights switch on, shining bright blue
 beams through the skylight. Another set of spotlight beams
 shine through the high windows lining the Main Hall.
 8
- 4                                                                   84
+ 4
 EXT. MUSEUM - CONTINUOUS
 A sleek black Bureau 713 helicopter hovers over the building.
 A pair of spotlights shine beams down through the skylight.
 INT. MUSEUM/MAIN HALL - CONTINUOUS
-85                                                                   85
+85
 In a hail of shattered glass, AGENTS BARR (male), CHEUNG
 (female), and MARKO (male) burst through the skylight,
 rappelling down on zip-lines from the hovering helicopter.
@@ -1449,7 +1449,7 @@ the creatures are gone.
                Burke, we're secure. And sir... Carnby is
                here.
 EXT. MUSEUM - NIGHT
-86                                                                   86
+86
 The lights around the Museum have come back on.
 A pair of Bureau 713 Humvees are parked with large spotlights
 set up in front of them, shining into the Museum.
@@ -1463,7 +1463,7 @@ five AGENTS in combat gear.
 The Agents stream into the Museum in formation. Burke and
 Miles follow in after them.
 INT. MUSEUM/MAIN HALL
-87                                                                   87
+87
 The silhouettes of the five Agents, Burke, and Miles come
 through the spotlight beams as they enter the Museum.
 Burke strides up to Carnby and Aline, who stand with Agent
@@ -1529,7 +1529,7 @@ Carnby shrugs off Agent Barr and walks away.
 As Carnby walks off, he looks down in his hand. He has lifted
 Burke's I-D card out of his pocket.
 EXT. MUSEUM - LATER
-91                                                                      91
+91
 The front of the Museum has been completely blocked off.
 There is lots of activity, as BUREAU AGENTS mill around.
 Aline sits in the back of a 713 Emergency Medical Vehicle. A
@@ -1569,7 +1569,7 @@ caused by the creatures.
                 I don't think I want to know your
                 definition of out of the ordinary.
 INT. FISCHER'S LAB - NIGHT
-103                                                                    103
+103
 The Lab is full of sleek, high-tech lab equipment and state
 of the art computers. The room is lit with a HUMMING
 fluorescent light. Surgical equipment and various pieces of
@@ -1718,7 +1718,7 @@ Hudgens exits quickly. Aline and Agent Cheung watch him go.
                           AGENT CHEUNG
                 Since it seemed like you needed it.
 INT. FISCHER'S LAB - LATER
-104                                                                 104
+104
 Carnby lies on a bed with his shirt off. Fischer runs the
 hand-held scanner over Carnby's torso. He looks at the
 results of Carnby's scan on a monitor.
@@ -1753,7 +1753,7 @@ her pen on the map. She looks frustrated.
 The computer BEEPS again. The CD copy has been made.
 Aline rolls up the map and starts to pack up her belongings.
 INT. FISCHER'S LAB - LATER
-107                                                                    107
+107
 Fischer and Carnby stand in front of an open armory cabinet.
 Sleek 713 assault rifles are lined up on a rack beside them.
 They stand on either side of a counter. A large monitor is on
@@ -1824,7 +1824,7 @@ loads the magazine and checks the rifle like a pro.
                           CARNBY
                 I'm going to need a lot of those.
 INT. CARNBY'S LOFT - DAY
-115                                                                    115
+115
 Carnby unlocks the multiple locks on the front door to his
 Loft and enters. He carries a heavy duffle-bag. He looks
 exhausted.
@@ -1847,7 +1847,7 @@ body sinks down, finally relaxing.
                 Five minutes...
 Carnby falls fast asleep.
 INT. FISCHER'S LAB
-116                                                                        116
+116
 Fischer sits at his computer. He is going through the Bureau
 713 database. He pulls up Pinkerton's file. A red CLASSIFIED
 sign flashes onscreen.
@@ -1890,7 +1890,7 @@ Hudgens ties off his arm, preps a vein, and injects himself
 with the syringe of creature's blood. He closes his eyes,
 feeling the substance flow into him.
 EXT. CARNBY'S BUILDING - DAY
-117                                                                    117
+117
 Aline walks up to an imposing, slightly decrepit-looking old
 brick building in a bad area of town.
 She goes to press the buzzer, but the box is broken, the
@@ -1903,7 +1903,7 @@ finds the key she's looking for and slips it into the lock on
 the front door.
 She pauses for a moment, then turns the key.
 INT. CARNBY'S LOFT - CONTINUOUS
-119                                                                    119
+119
 Aline enters the Loft. She looks around.
                            LINE
                 Edward?
@@ -1936,7 +1936,7 @@ doesn't wake up.
                Sweet dreams...
 Aline's eyes flutter closed, then open, then closed again.
 Within seconds, she's asleep.
-SCENE 119A NOW SCENE 116A 
+SCENE 119A NOW SCENE 116A
 INT. BUREAU 713 HEADQUARTERS/CONTROL ROOM
 Burke stands behind Krash at the monitor banks, surveying the
 incoming information.
@@ -2057,7 +2057,7 @@ hand against the transformer's front grill.
 With a sudden SNAP and FLASH, electricity courses through
 Young Edward. Jagged fingers of blue light jolt around him.
 INT. CARNBY'S LOFT - NIGHT
-124                                                                    124
+124
 It's night. The Loft is dark. Carnby and Aline are fast
 asleep on the bed, lying next to one another.
 Carnby wakes up with a start. He tries to get his bearings.
@@ -2078,7 +2078,7 @@ place on the telescoped lynchpin artifact. Next, Carnby slots
 in the medium and small rings into place.
 The four pieces fit together perfectly, creating a
 cylindrical device with a small, round opening in the bottom.
-125                                                                    125
+125
 INT. CARNBY'S LOFT - LATER
 Carnby cooks omelettes in the Kitchen area of the Loft. The
 ingredients are spread out on the counter.
@@ -2132,7 +2132,7 @@ with a 100 mile radius circle marked in the center of it.
                 Yeah. That's us right there.
 Carnby points to a spot on the onscreen map.
 INT. CARNBY'S LOFT - MOMENTS LATER
-127                                                                     127
+127
 Carnby puts the dishes from their meal into the Kitchen sink.
 The sink tap is RUNNING. Aline clears the dishes.
 The para-meter Fischer gave Carnby starts faintly BEEPING,
@@ -2479,7 +2479,7 @@ Carnby. Burke holds out his hand.
 Carnby smirks. He pulls out Burke's I-D card and hands it
 back to him.
 EXT. MINE - NIGHT
-134                                                                 134
+134
 A massive, long-abandoned structure built directly against
 the face of a mountain. This is the Entrance Hall of
 Britannia Mine.
@@ -2518,7 +2518,7 @@ Burke leads Carnby, Aline, and Miles to the Entrance Hall.
                    this clears Defense Council, we'll be
                    dead or drinking...
 INT. MINE ENTRANCE HALL - NIGHT
-135                                                                       135
+135
 Rusty construction vehicles, detritus, and rubble lie
 discarded throughout the Hall. Several shafts have been dug
 into the mountain. Narrow paths lead up the slope.
@@ -2584,7 +2584,7 @@ Agent Feenstra nods to the two AGENTS standing behind the
 gatling gun. They tinker with its guidance system.
 1
 INT. MINE TUNNEL
- 37                                                                     137
+ 37
 Carnby and Aline walk carefully down a pitch black tunnel,
 illuminated only by their lights.
 Along with them are Commander Burke, and Agents Barr, Cheung
@@ -2607,7 +2607,7 @@ They pass by various pieces of mining equipment, long since
 discarded. Thick dust and cobwebs hang off the equipment.
 They make their way down the Tunnel.
 INT. TUNNEL CHAMBER
-144                                                                    144
+144
 The Tunnel ends at a slightly larger, rounded Chamber with
 walls of solid rock. They can't go any further. Cobwebs and
 thick dust hang everywhere.
@@ -2657,14 +2657,14 @@ grow out of the cracks in the stone. An ancient, fragile
 wooden ladder is imbedded directly into the rock wall, its
 rungs made of thick, knotted old branches.
 INT. SAND CHAMBER
-145                                                                     145
+145
 The Shaft drops into a round, sand-covered room. Razor-sharp
 spikes poke out of the loose sand beneath the Shaft.
 Agent Marko falls directly onto the spikes. He is impaled on
 them.
 1
 INT. TUNNEL CHAMBER
- 46                                                                     146
+ 46
 The others rush to the lip of the Shaft. They can barely see
 the illumination of Marko's flashlight in the depths below.
                           BURKE
@@ -2704,7 +2704,7 @@ smile slip across his face.
 All at once, the creatures start leaping down the
 mountainside. As they run, they all start fading invisible.
 INT. MINE ENTRANCE HALL
-147                                                                       147
+147
 Dozens of Agents in full combat gear are in position. They
 are armed, tense, and ready.
 Suddenly, the scanner on Agent Miles' rifle starts to BEEP.
@@ -2713,7 +2713,7 @@ rapid succession, faster and faster.
                                AGENT MILES
                    Incoming!
 INT. MINE ENTRANCE HALL/GENERATOR PLATFORM
-148                                                                       148
+148
 Agent Miles runs up to Agent Turner. He is still tinkering
 with the generator. The spotlights are still off.
                              AGENT MILES
@@ -2722,7 +2722,7 @@ with the generator. The spotlights are still off.
                    The generator's not coming on-line. They
                    must be disrupting it.
 INT. SHAFT
-149                                                                       149
+149
 Burke, and Agents Barr and Cheung lower themselves down the
 Shaft on zip-lines. They descend quickly and smoothly.
 Carnby and Aline have to take the long way down. They
@@ -2754,7 +2754,7 @@ The stone column drops into the Shaft with a thunderous
 CRASH. It fits perfectly.
 The column starts sliding down the Shaft towards them.
 EXT. MINE
-152                                                                     152
+152
 In the distance, a bright flash goes off. Then another. And
 another. The flashes light up the landscape. The inhuman
 SQUEALS of the creatures can be heard in the distance.
@@ -2776,7 +2776,7 @@ Krash's voice starts to DISTORT with STATIC.
 But the comm-link is now only giving off STATIC.
 1
 INT. SHAFT
- 53                                                                       153
+ 53
 The friction from the Shaft walls is the only thing slowing
 the stone column's relentless descent down the Shaft.
 The weight of the column crumples the ladder as it falls.
@@ -2819,7 +2819,7 @@ The column continues to drop. It's right above Cheung.
 Cheung pulls out a knife and cuts the zip-line cord. She
 drops down the rest of the way.
 INT. SAND CHAMBER
-154                                                                    154
+154
 As Agent Cheung lands, she breaks her ankle from the impact.
 She SCREAMS in pain.
 Burke hauls Cheung out of the way at the last second.
@@ -2870,7 +2870,7 @@ The Agents OPEN FIRE, letting loose a barrage of glowing
 bullets. Streaks of light fill the night.
                                                                   80A.
 EXT. MINE
-155                                                                 155
+155
 The THUNDERING GUNFIRE of the rotating gatling guns fills the
 air. Thousands of glowing bullets streak through the night.
 The hovering helicopters open FIRE with their side-mounted
@@ -2893,7 +2893,7 @@ away into the night.
 Agent Miles' scanner registers that waves of the creatures
 are still quickly approaching them.
 INT. SAND CHAMBER
-156                                                                    156
+156
 Cheung tests her injured ankle. She can walk with a limp.
 Something moves through the sand towards Aline. Carnby looks
 over at the last moment.
@@ -2955,7 +2955,7 @@ Dozens of creatures stream into the Hall. The Agents lay down
 steady streams of fire, their glowing bullets streaking
 through the night.
 1
- 57                                                                      157
+ 57
 INT. MINE ENTRANCE HALL/GENERATOR PLATFORM
 GUNFIRE echoes through the Hall.
        parks fly out around the generator as Agent Turner holds an
@@ -2969,7 +2969,7 @@ The Agent switches on the generator. It HUMS to life.
        he dark Hall is filled with blazing light from the battery
 of spotlights set up around the Entrance Hall.
 INT. MINE ENTRANCE HALL
-158                                                                      158
+158
 The creatures HISS and recoil from the spotlight beams. Some
 begin smoldering under the glare.
 Creatures take cover in the shadows behind old pieces of
@@ -2993,7 +2993,7 @@ Agent Feenstra turns to Agent Miles.
                           AGENT FEENSTRA
                 We made it, sir.
 Miles and Feenstra exchange a look of relief.
-159                                                                   159
+159
 INT. MINE ENTRANCE HALL/GENERATOR PLATFORM
 Fischer appears at the end of the Platform.
 Fischer approaches Agent Turner and the other Agent standing
@@ -3042,7 +3042,7 @@ bullets fly everywhere. The SQUEALS of injured creatures
 mingle with the SCREAMS of dying Agents. The constant RATTLE
 of automatic GUNFIRE fills the night.
 INT. SAND CHAMBER
-160                                                                    160
+160
        arr and Carnby lay Cheung and Marko's bodies to one side of
 the Chamber, their faces covered with their vests.
 Burke paces back and forth, screaming into his comm-link.
@@ -3108,7 +3108,7 @@ her thigh from the creature's spiked tail.
 The creature pounces. But Feenstra is fast enough. She BLOWS
 AWAY the creature with a BURST of glowing bullets.
 INT. SAND CHAMBER
-162                                                                   162
+162
 Aline, Carnby, Burke, and Barr stand in front of the dark
 recess in the Sand Chamber. The recess is completely sealed
 up by a solid concrete wall.
@@ -3125,7 +3125,7 @@ Agent Barr shines his light across the concrete wall.
 Burke opens his pack. Inside it are several packages of C-4
 explosive.
 INT. MINE ENTRANCE HALL
-163                                                                    163
+163
 Agent Miles and Agent Feenstra are barricaded behind an old
 mining vehicle. The bodies of dead Agents lie around them.
 Agent Feenstra bleeds from the wound in her thigh. The lights
@@ -3167,7 +3167,7 @@ Miles closes his eyes. He is hoisted into the air by an
 invisible creature and thrown to the ground. Invisible
 creatures tear him apart.
 INT. SAND CHAMBER
-164                                                                      164
+164
 Carnby, Aline, Barr, and Burke take cover behind the stone
 column. Burke holds a remote detonator. It is active.
 Burke tries to get a signal on his comm-link. But all he gets
@@ -3184,7 +3184,7 @@ the recess. The concrete wall has been blown open. Smoke
 rises up off the ruined wall.
 The Sand Chamber now opens up into another dark room.
 INT. UNDERGROUND LAB
-170                                                                      170
+170
 Carnby, Aline, Barr, and Burke step over the rubble of the
 concrete wall. They shine their lights around the dark room.
 They are in a large abandoned Bureau 713 Lab. Thick dust
@@ -3206,11 +3206,11 @@ Each basin has a small metal tag on it. Carnby wipes the
 layer of dust off one of the metal tags.
 The tag reads: E. CARNBY.
                     CARNBY
-          This is where it happened.                              
+          This is where it happened.
 Aline steps up next to Carnby.
                     ALINE
           Who did this to you?
-Burke and Barr continue to explore the room with their rifle-     
+Burke and Barr continue to explore the room with their rifle-
 mounted lamps. Barr finds a pair of huge metal hangar doors.
                     AGENT BARR
           Commander...
@@ -3240,14 +3240,14 @@ The same DARK SPIRIT pictogram is engraved on the lynchpin.
 Burke surveys the room with a grim expression.
                     BURKE
           I say we got two options. One, we open
-          this door, deal with whatever's on the                   
-          other side.                                              
+          this door, deal with whatever's on the
+          other side.
                     ALINE
           The pictograms carved here make it pretty
           clear that's a bad idea.
                     BURKE
-          Two, we set enough C-4 to bury this                      
-          place. Keep whatever's in there, down                    
+          Two, we set enough C-4 to bury this
+          place. Keep whatever's in there, down
           here for good.
 Carnby stares at the gold door.
                     CARNBY
@@ -3255,7 +3255,7 @@ Carnby stares at the gold door.
           whole life could be in there.
                     ALINE
           Some doors are locked for a reason.
-Carnby looks away from the gold door.                              
+Carnby looks away from the gold door.
                     CARNBY
           Barr... how much C-4 you got left?
 Barr pulls open his pack, revealing several packages of C-4.
@@ -3270,29 +3270,29 @@ Before they can react, Hudgens presses a pistol to Aline's
 throat. He points the other pistol at Burke and Carnby.
                     HUDGENS (CONT'D)
           Now drop your weapons and back away.
-Carnby and Burke drop their guns and step back. Carnby glares        
+Carnby and Burke drop their guns and step back. Carnby glares
 at Hudgens.
-                    CARNBY                                           
+                    CARNBY
           It was 713.
                     HUDGENS
-          Our early work was crude, I admit. But                     
-          eventually we perfected the implant                        
-          process. You were our last failure,                        
+          Our early work was crude, I admit. But
+          eventually we perfected the implant
+          process. You were our last failure,
           Carnby. If you hadn't escaped, 713 never
-          would've shut down the experiments.                        
+          would've shut down the experiments.
 Burke's eyes flash with anger.
-                    BURKE                                            
-          There's no way this was sanctioned.                        
-                    HUDGENS                                          
-          Before your kind took over, 713 had very                   
-          different... priorities. Now, you just                     
-          blaze in and destroy everything before we                  
-          can learn to control it. I've wasted                       
-          twenty years working in secret because of                  
-          short-sighted men like you.                                
+                    BURKE
+          There's no way this was sanctioned.
+                    HUDGENS
+          Before your kind took over, 713 had very
+          different... priorities. Now, you just
+          blaze in and destroy everything before we
+          can learn to control it. I've wasted
+          twenty years working in secret because of
+          short-sighted men like you.
 Hudgens sees the Abkani device Aline is holding.
                     HUDGENS (CONT'D)
-          There it is...                                             
+          There it is...
 Aline's expression is firm, unafraid. She grips the device
 tightly. Hudgens is about to pull the trigger.
                     HUDGENS (CONT'D)
@@ -3328,10 +3328,10 @@ device sits. The crack splits off into several other cracks.
 Hudgens points his pistols at the others, but his attention
 is clearly directed at the gold door.
                     HUDGENS (CONT'D)
-          When we found the first of them, 713 saw                
+          When we found the first of them, 713 saw
           just another threat to be eliminated. But
-          I knew it was something more. It was the                
-          first. The first to wake. I've woken                    
+          I knew it was something more. It was the
+          first. The first to wake. I've woken
           others since then. But the rest are
           coming...
 As Hudgens speaks, Carnby, Burke, and Aline exchange a look
@@ -3341,8 +3341,8 @@ The cracks splinter out, dividing, until they cover the
 entire door. In a rush of fragments, the cracked gold
 crumbles to the ground.
 he empty doorway now leads into darkness on the other side.
-SCENES 170B TO 170D NOW SCENES 119H TO 119J 
-1     SCENE 174 INCORPORATED INTO SCENE 170 
+SCENES 170B TO 170D NOW SCENES 119H TO 119J
+1     SCENE 174 INCORPORATED INTO SCENE 170
  INT. CAVE
 Hudgens steps through the doorway.
 The doorway opens up into a vast Cave, hundreds of feet high
@@ -3414,7 +3414,7 @@ sound of impacts against the doors echo down the Tunnel.
 Burke looks at the remote detonator in his hand. The signal
 is inactive.
 INT. UNDERGROUND LAB/SHAFT
-176                                                                    176
+176
 Aline climbs up the rungs of the ladder built into the Shaft
 wall. Carnby climbs up after her.
 B
@@ -3461,7 +3461,7 @@ The Shaft is sealed with a pair of corrugated metal doors.
 Sunlight shines through the thin crack between the doors.
 Carnby points his gun at the metal doors above them.
 EXT. ORPHANAGE - DAWN
-181                                                                  181
+181
 A small Storm Cellar is built into a corner of the
 Orphanage's front lawn. The corrugated metal doors are locked
 from the outside with a chain and rusty padlock.
@@ -3517,7 +3517,7 @@ around, troubled. No one is visible outside the Orphanage.
                              CARNBY
                    Something's very wrong...
 EXT. STREET - DAY
-184                                                                      184
+184
 Carnby and Aline walk along a deserted street. The sun rises
 above them. It's a beautiful day.
 Shops look ready to open. Cars are parked along the streets.

@@ -98,13 +98,14 @@ def count_indent_spaces(filename):
     d = {}
     with open(filename, 'r') as f:
         for line in f:
-            if (line.rstrip()) != '':
-                line = line.replace('\t', '    ')
-                spaces = len(line) - len(line.lstrip(' '))
-                if len(line.lstrip(' ').rstrip()) != 0:
-                    if spaces not in d.keys():
-                        d[spaces] = 0
-                    d[spaces] += 1
+            if line[:5] not in ('INT.', 'OUT.'):
+                if (line.rstrip()) != '':
+                    line = line.replace('\t', '    ')
+                    spaces = len(line) - len(line.lstrip(' '))
+                    if len(line.lstrip(' ').rstrip()) != 0:
+                        if spaces not in d.keys():
+                            d[spaces] = 0
+                        d[spaces] += 1
     return sorted([(k, v) for k, v in d.items()])
 
 
@@ -114,6 +115,8 @@ def remove_initial_spaces(input_file, out_file, space_list):
         if count > 10:
             remove_space = space
             break
+
+    print(space_list)
 
     with open(input_file, 'r') as in_f, open(out_file, 'w') as out_f:
         for line in in_f:
@@ -188,7 +191,7 @@ if __name__ == '__main__':
     # for loc, count, scene in movie_scenes:
     #     print(loc + ' - ' + str(count))
     # save_scene(out_file, movie_scenes)
-    # space_count = count_indent_spaces(input_file)
+    space_count = count_indent_spaces(input_file)
     # count = len([x for x in space_count if x[1] > 100])
     # count = len(space_count)
     # if len(space_count) < 5:
@@ -200,6 +203,6 @@ if __name__ == '__main__':
     #           end='')
     # print()
     # try_to_indent(input_file, out_file, space_count)
-    # remove_initial_spaces(input_file, out_file, space_count)
+    remove_initial_spaces(input_file, out_file, space_count)
     # regex_pre_process(input_file)
-    print_characters(input_file)
+    # print_characters(input_file)

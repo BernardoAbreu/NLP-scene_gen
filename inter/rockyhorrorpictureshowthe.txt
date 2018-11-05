@@ -787,7 +787,7 @@ INT.    BALCONY/HALLWAY    NIGHT
             Say!  Do any of you guys know the Madison?
 No one laughs.
 GUESTS turn nasty.
-53A    INT.    HALL/LIFT    NIGHT
+INT.    HALL/LIFT    NIGHT
 BRAD and JANET retreat to the hall.  Behind them a lift slowly descends
 bearing a figure in a black cloak and a diamante stiletto heel - beating
 time to a rhythm the band has started playing.
@@ -838,7 +838,7 @@ SONG:        "SWEET TRANSVESTITE"
             Because when you knocked
             He thought you were the candyman.
 RIFF RAFF scowls.
-54A    INT.    BALLROOM    NIGHT
+INT.    BALLROOM    NIGHT
                     FRANK
             Don't get strung out by the way
             that I look.
@@ -1315,7 +1315,7 @@ JANET nods hastily.  FRANK moves towards microphone.
             He carries the Charles Atlas seal of
             approval....And he didn't even take
             the lessons.
-74A    INT.    LABORATORY    NIGHT
+INT.    LABORATORY    NIGHT
 SONG:        CHARLES ATLAS (Pt. 1)
 As FRANK starts to sing, MAGENTA & RIFF RAFF collect one of ROCKY's
 presents, the vaulting horse, and place it in front of the podium.
@@ -1751,7 +1751,7 @@ heroine.
             What's happening here?  Where's Brad?
             Where's anybody?
                                 WIPE TO:
-92A    INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
+INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
 BRAD is posed in the style of a "True Romance" comic hero.  He is
 nervous and smoking.  Behind him FRANK is asleep on the bed.
                     BRAD
@@ -1762,7 +1762,7 @@ nervous and smoking.  Behind him FRANK is asleep on the bed.
             The one you've found
             She is gone.
                                 WIPE TO:
-92B    INT.    JANET'S ROOM (RED FILTER)    NIGHT
+INT.    JANET'S ROOM (RED FILTER)    NIGHT
 JANET is sitting on the end of the bed.
                     JANET
             I'm engaged to Brad just the same as
@@ -1771,7 +1771,7 @@ JANET is sitting on the end of the bed.
             an ecstacy I've never dreamt of before.
             Hot, burning kisses.
                                 WIPE TO:
-92C    INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
+INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
                     BRAD
             And that's all the time that it takes
             For a heart to turn to stone
@@ -1780,14 +1780,14 @@ JANET is sitting on the end of the bed.
             You hear something about someone
             You'd thought you'd known.
                                 WIPE TO:
-92D    INT.    JANET'S ROOM (RED FILTER)    NIGHT
+INT.    JANET'S ROOM (RED FILTER)    NIGHT
 JANET is at the door.
                     JANET
             I could see Brad's face before me and my
             mind screamed No!  But my lips were hungry -
             too hungry.
                                 WIPE TO:
-92E    INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
+INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
                     BRAD
             So baby don't cry like there's no tomorrow
             After the night there's a brand new day.
@@ -1797,14 +1797,14 @@ JANET is at the door.
             And phone my place
             It'll be O.K.
                                 WIPE TO:
-92F    INT.    CORRIDOR (RED FILTER - OAKLEY COURT)    NIGHT
+INT.    CORRIDOR (RED FILTER - OAKLEY COURT)    NIGHT
                     JANET
             I wanted to be loved completely.
             My body throbbed excitedly.  Oh Brad,
             Brad my darling, how could I have
             done this to you?
                                 WIPE TO:
-92G    INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
+INT.    BRAD'S ROOM (BLUE FILTER)    NIGHT
                     BRAD
             And that's all the time that it takes
             For a heart to beat again.
@@ -1814,7 +1814,7 @@ JANET is at the door.
             The one you've found
             Is back again.
                                 WIPE TO:
-92H    INT.    LABORATORY    NIGHT
+INT.    LABORATORY    NIGHT
                     JANET
             If only we hadn't made this journey.
             If only the car hadn't broken down.
@@ -2823,7 +2823,7 @@ sign to each other.
                                 CUT TO:
 INT.    CASTLE CORRIDORS    NIGHT
 We see BRAD and JANET fleeing with DR SCOTT following behind.
-165A    INT.    BALLROOM    NIGHT
+INT.    BALLROOM    NIGHT
 RIFF RAFF and MAGENTA's laughter has subsided.
                     RIFF RAFF
             Our noble mission is almost completed my
@@ -2840,7 +2840,7 @@ RIFF RAFF and MAGENTA's laughter has subsided.
                     MAGENTA
             And our World will do
             the Time Warp again.
-165B    EXT.    CASTLE    DAWN
+EXT.    CASTLE    DAWN
 There is a huge explosion.
 EXT.    CASTLE    DAWN
 We see the entire castle surrounded by a giant beam of light and then

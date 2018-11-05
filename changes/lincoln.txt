@@ -1,0 +1,2437 @@
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Written by Tony Kushner Based in Part on Team of Rivals: The Political Genius of Abraham Lincoln By Doris Kearns Goodwin Final Shooting Script December 20, 2011}
+<LOC>__{EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY}
+<ACTION>__{Heavy grey skies hang over a flooded field, the water two feet deep. Cannons and carts, half-submerged and tilted, their wheels trapped in the mud below the surface, are still yoked to dead and dying horses and oxen. A terrible battle is taking place; two infantry companies, Negro Union soldiers and white Confederate soldiers, knee- deep in the water, staggering because of the mud beneath, fight each other hand-to-hand, with rifles, bayonets, pistols, knives and fists. There's no discipline or strategy, nothing depersonalized: it's mayhem and each side intensely hates the other. Both have resolved to take no prisoners.}
+<CHAR>__{HAROLD GREEN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Some of us was in the Second Kansas Colored. We fought the rebs at Jenkins' Ferry last April, just after they'd killed every Negro soldier they captured at Poison Springs.}
+<LOC>__{EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD,}
+<ACTION>__{ANACOSTIA RIVER - NIGHT Rain and fog. Union Army companies are camped out across the grounds. Preparations are being made for the impending assault on the Confederate port of Wilmington, North Carolina. Two black soldiers stand before a bivouacked Negro unit: HAROLD GREEN, an infantryman in his late thirties, and IRA CLARK, a cavalryman in his early twenties. ABRAHAM LINCOLN sits on a bench facing Harold and Ira; his stovepipe hat is at his side.}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{So at Jenkins' Ferry, we decided warn't taking no reb prisoners. And we didn't leave a one of `em alive. The ones of us that didn't die that day, we joined up with the 116th U.S. Colored, sir. From Camp Nelson Kentucky.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What's your name, soldier?}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{Private Harold Green, sir.}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{I'm Corporal Ira Clark, sir. Fifth Massachusetts Cavalry. We're waiting over there.}
+<ACTION>__{He nods in the direction of his cavalry.}
+<CHAR>__{IRA CLARK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We're leaving our horses behind, and shipping out with the 24th Infantry for the assault next week on Wilmington.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Harold Green:)}
+<DIAL>__{How long've you been a soldier?}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{Two year, sir.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Second Kansas Colored Infantry, they fought bravely at Jenkins' Ferry.}
+<CHAR>__{HAROLD GREEN IRA CLARK} <CHAR_PAR>__{}
+<ACTION>__{That's right, sir. They killed a thousand rebel}
+<DIAL>__{soldiers, sir. They were very brave.}
+<DIAL_PAR>__{(hesitating, then)}
+<DIAL>__{And making three dollars less each month than white soldiers.}
+<ACTION>__{Harold Green is a little startled at Clark's bluntness.}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{Us 2nd Kansas boys, whenever we fight now we -}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{Another three dollars subtracted from our pay for our uniforms.}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{That was true, yessir, but that CHANGED -}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{Equal pay now. Still no commissioned Negro officers.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I am aware of it, Corporal Clark.}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir, that's good you're aware, sir. It's only that -}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Lincoln, trying to change the subject:)}
+<DIAL>__{You think the Wilmington attack is gonna be -}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{Now that white people have accustomed themselves to seeing Negro men with guns, fighting on their behalf, and now that they can tolerate Negro soldiers getting the same pay - in a few years perhaps they can abide the idea of Negro lieutenants and captains. In fifty years, maybe a Negro colonel. In a hundred years - the vote.}
+<ACTION>__{Green's offended at the way Clark is talking to Lincoln.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What'll you do after the war, Corporal Clark?}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{Work, sir. Perhaps you'll hire me.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Perhaps I will.}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{But you should know, sir, that I get sick at the smell of bootblack and I can't cut hair.}
+<ACTION>__{Lincoln smiles.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I've yet to find a man could cut mine so it'd make any difference.}
+<CHAR>__{HAROLD GREEN} <CHAR_PAR>__{}
+<DIAL>__{You got springy hair for a white man.}
+<ACTION>__{Lincoln laughs.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Yes, I do. My last barber hanged himself. And the one before that. Left me his scissors in his will.}
+<ACTION>__{Green laughs. TWO WHITE SOLDIERS have come up, two young kids, nervous and excited.}
+<CHAR>__{FIRST WHITE SOLDIER LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{President Lincoln, sir? Evening, boys.}
+<CHAR>__{SECOND WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{Damn! Damn! We, we saw you, um. We were at, at -}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{We was at Gettysburg!}
+<CHAR>__{HAROLD GREEN SECOND WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{You boys fight at Gettysburg? DAMN I can't believe it's -}
+<CHAR>__{FIRST WHITE SOLDIER } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to Green, with mild CONTEMPT)}
+<DIAL>__{Naw, we didn't fight there. We just signed up last month. We saw him two years ago at the cemetery dedication.}
+<CHAR>__{SECOND WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{Yeah, we heard you speak! We... DAMN DAMN DAMN! Uh, hey, how tall are you anyway?!}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{Jeez, SHUT up!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Could you hear what I said?}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{No, sir, not much, it was-}
+<CHAR>__{SECOND WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(he recites, fast and MECHANICALLY:)}
+<DIAL>__{"Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal."}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{That's good, thank you for -}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{"Now we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated can long endure. We are, we are, we are met on a great battlefield of that war."}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Thank you, that's -}
+<CHAR>__{SECOND WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{"We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live. It is..."}
+<DIAL_PAR>__{(He chokes up a little.)}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{His uncles, they died on the second day of fighting.}
+<CHAR>__{SECOND WHITE SOLDIER A VOICE } <CHAR_PAR>__{(O.C.)}
+<ACTION>__{I know the last part. "It is, Company up! Move it out! uh, it is rather -" Soldiers all over the field rise up at the mustering of the troops. Names of regiments, brigades, divisions are called: all across the field, the men put out fires, put on knapsacks.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the two white SOLDIERS:)}
+<DIAL>__{You fellas best find your company.}
+<CHAR>__{FIRST WHITE SOLDIER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SALUTING LINCOLN:)}
+<DIAL>__{Thank you, sir. God bless you!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{God bless you.}
+<ACTION>__{The second white soldier salutes, and the two move out. Green salutes Lincoln as well and glances at Clark, who remains, looking down. Green leaves. Clark looks up, salutes Lincoln and, turning smartly, walks toward his unit. Then he stops, turns back, faces Lincoln, who watches him. A beat, and then, in a tone of admiration and cautious admonishment, reminding Lincoln of his promise:}
+<CHAR>__{IRA CLARK} <CHAR_PAR>__{}
+<DIAL>__{"That we here highly resolve that these dead shall not have died in VAIN -- "}
+<ACTION>__{Clark salutes Lincoln again, turns again and walks away. Lincoln watches him go. As he walks into the fog, Clark continues reciting in a powerful voice:}
+<CHAR>__{IRA CLARK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{" - That this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth."}
+<ACTION>__{Lincoln watches Clark until the fog's swallowed him up.}
+<TRANS>__{TITLE:}
+<ACTION>__{JANUARY, 1865 TWO MONTHS HAVE PASSED SINCE ABRAHAM LINCOLN'S RE-ELECTION}
+<ACTION_ALT>__{THE AMERICAN CIVIL WAR IS NOW IN ITS FOURTH YEAR}
+<LOC>__{EXT. A SHIP AT SEA - NIGHT}
+<ACTION>__{A huge, dark, strange-looking steamship, part wood and part iron, turreted like a giant ironclad monitor, is plowing through the choppy black waters of an open sea. Lincoln is alone, in darkness, on the deck, which has no railing, open to the sea. The ship's tearing through rough water, but there's little pitching, wind or spray. The deck is dominated by the immense black gunnery turret.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{It's nighttime. The ship's moved by some terrible power, at a terrific speed.}
+<ACTION>__{Lincoln stares out towards a barely discernible horizon, indicated by a weird, flickering, leaden glow, which appears to recede faster than the fast-approaching ship.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Though it's imperceptible in the darkness, I have an intuition that we're headed towards a shore. No one else seems to be aboard the vessel. I'm alone.}
+<LOC>__{INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT}
+<ACTION>__{The room's cozy, attractive, cluttered, part dressmaker's workshop, part repository of Mary's endless purchases: clothing, fabrics, knicknacks, carpets. Books everywhere. Lincoln reclines on a French chair, too small for his lengthy frame. He's in shirtsleeves, vest unbuttoned and tie unknotted, shoeless. He has an open folio filled with documents on his lap. MARY LINCOLN sits opposite, in a nightgown, housecoat and night cap. She watches him in her vanity mirror. She looks frightened. TITLE: THE WHITE HOUSE}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I could be bounded in a nutshell and count myself a king of infinite space...were it not that I have bad dreams. I reckon it's the speed that's strange to me. I'm used to going a deliberate pace.}
+<ACTION>__{Mary looks at him, stricken with alarm.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I should spare you. I shouldn't tell you my dreams.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{I don't want to be spared if you aren't! And you spare me nothing.}
+<ACTION>__{He looks down at the carpet, then back up at her.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Perhaps perhaps it's the assault on Wilmington port. You dream about the ship before a battle, usually.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rapping lightly on his FOREHEAD:)}
+<DIAL>__{How's the coconut?}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Beyond description.}
+<ACTION>__{She delicately touches her head.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Almost two years, nothing mends. Another casualty of the war. Who wants to listen to a useless woman grouse about her carriage accident?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I do.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Stuff! You tell me dreams, that's all, I'm your soothsayer, that's all I am anymore, I'm not to be trusted with - Even if it wasn't a carriage accident, even if it was an attempted assassination -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It was most probably an -}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{It was an assassin. Whose intended target was you.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{How's the plans for the big shindy progressing?}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{I don't want to talk about parties! You don't care about parties.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Not much but they're a necessary -}
+<ACTION>__{Mary studies Lincoln, thinking. Then a revelation:}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{I know...I know what it's about. The ship, it isn't Wilmington Port, it's not a military campaign! It's the amendment to abolish slavery! Why else would you force me to invite demented radicals into my home?}
+<ACTION>__{Lincoln closes his folio.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're going to try to get the amendment passed in the House of Representatives, before the term ends, before the Inauguration.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STANDING:)}
+<DIAL>__{Don't spend too much money on the flubdubs.}
+<ACTION>__{Mary stands, goes up to him.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{No one's loved as much as you, no one's ever been loved so much, by the people, you might do anything now. Don't, don't waste that power on an amendment bill that's sure of defeat.}
+<ACTION>__{Seeing that he's not going to discuss this, she turns away, walking to an open window.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Did you remember Robert's coming home for the reception?}
+<ACTION>__{Lincoln nods, though Mary isn't bothering to look at him.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I knew you'd forget.}
+<ACTION>__{She closes the window.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That's the ship you're sailing on. The Thirteenth Amendment. You needn't tell me I'm right. I know I am.}
+<ACTION>__{She watches as he leaves the room, smiling in bitter victory: she's right.}
+<LOC>__{INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT}
+<ACTION>__{Lincoln encounters ELIZABETH KECKLEY, a light-skinned black woman, 38, Mary's dressmaker and close friend, holding a dark- blue velvet bodice embroidered with jet beads.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It's late, Mrs. Keckley.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(holding out the bodice:)}
+<DIAL>__{She needs this for the grand reception.}
+<ACTION>__{Lincoln bends down to look at the intricate beading.}
+<CHAR>__{ELIZABETH KECKLEY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's slow work.}
+<ACTION>__{He nods, smiles, straightens up.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Good night.}
+<ACTION>__{He continues down the hall. Mrs. Keckley starts to enter Mary's boudoir, then stops, sensing something amiss. She calls quietly after Lincoln:}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(concerned, a little EXASPERATED:)}
+<DIAL>__{Did you tell her a dream?}
+<LOC>__{INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT}
+<ACTION>__{A working room, sparsely furnished. Lincoln's desk is heaped with files, books, newspapers. The desk's near a window, now open. Comfortable chairs and a rocker are in a corner. Near the fireplace, in which embers are dying, there's a long table, eight chairs around it, settings by each chair of inkwells and pens. Dozens of maps cover the walls and the crowded bookcases. Lincoln opens the door and enters to find his 10 year-old son TAD LINCOLN near the hearth, sleeping, sprawled on a very large military map. Lead toy soldiers are scattered across it. A large mahogany box, imprinted ALEXANDER GARDNER STUDIOS, is open near Tad's head. The box contains large glass plates, each framed in wood; these are photographic negatives. Tad's been looking at several, which lie near him on the map. Lincoln kneels by Tad and looks down at the map, a topographical and strategic survey of the no-man's land between Union and Confederate forces at Petersburg. He scrutinizes the precisely drawn blue and grey lines. He lifts one of the glass plates and holds it to the firelight: it's a large photographic negative of a young black boy. There's a caption, in elegant cursive script: "Abner, age 12 - $500" And another: "Two young boys, 10 & 14 - $700" Lincoln puts the plates back in the box and closes the lid. Carefully brushing the toy soldiers aside, he lies down beside Tad. He touches Tad's hair and kisses his forehead. Tad stirs as Lincoln gets on all fours; without really waking up, knowing the routine, Tad climbs onto his father's back. Tad holds on as his father stands, weary, and maybe a little surprised to find his growing son slightly heavier than he was the night before.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(FAST ASLEEP:)}
+<DIAL>__{Papa...}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Hmm?}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Papa I wanna see Willie.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(WHISPERING:)}
+<DIAL>__{Me too, Taddie. But we can't.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Why not?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Willie's gone. Three years now. He's gone.}
+<ACTION>__{Lincoln carries Tad out of the room, closing the door.}
+<LOC>__{EXT. OUTSIDE THE TREASURY DEPARTMENT, WASHINGTON - MORNING}
+<ACTION>__{A new flagpole is being dedicated. Lincoln, in a black overcoat and his stovepipe hat, and Treasury Secretary WILLIAM FESSENDEN, 59, stand by the pole. They face an audience of officials, clerks, dignitaries, wives, soldiers. A Marine band finishes a jaunty instrumental rendition of "We Are Coming Father Abra'am." Two soldiers fasten a flag to the halyards. Lincoln moves into place; as the crowd applauds, he takes a sheet of paper from inside his hat and glances at it. Then he looks up.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{The part assigned to me is to raise the flag, which, if there be no fault in the machinery, I will do, and when up, it will be for the people to keep it up.}
+<ACTION>__{He puts the paper away. The audience waits, expecting more.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That's my speech.}
+<ACTION>__{He smiles at them. They applaud, some laughing. As Lincoln turns the crank, hoisting the flag, a solo trumpet plays "We Are Coming Father Abra'am" and the audience joins in. Among them, Secretary of State WILLIAM SEWARD, 64, in a thick, exquisite winter coat and hat, and Lincoln's dapper assistant secretary, JOHN HAY, 27. Seward looks pleased.}
+<CHAR>__{AUDIENCE} <CHAR_PAR>__{}
+<DIAL>__{"We are coming, Father Abra'am, three hundred thousand more, From Mississippi's winding stream and from New England's shore..." We leave our plows and workshops, our wives and children dear, With hearts too full for utterance, With but a silent tear. We're coming Father Abra'am..."}
+<LOC>__{EXT. A CARRIAGE, PENNSYLVANIA AVENUE, WASHINGTON - MORNING}
+<ACTION>__{In a four-door carriage, top down, Seward sits opposite Lincoln. Hay, next to Seward, organizes papers in a portfolio on his lap.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Even if every Republican in the House votes yes - far from guaranteed, since when has our party unanimously supported anything? - but say all our fellow Republicans vote for it. We'd still be twenty votes short.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Only twenty.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Only twenty!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We can find twenty votes.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Twenty House Democrats who'll vote to abolish slavery! In my opinion -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{To which I always listen.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Or pretend to.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{With all three of my ears.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{We'll win the war soon - It's inevitable, isn't it?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Ain't won yit.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{You'll begin your second term with semi-divine stature. Imagine the possibilities peace will bring! Why tarnish your invaluable luster with a battle in the House? It's a rats' nest in there, the same gang of talentless hicks and hacks that rejected the amendment ten months back. We'll lose.}
+<ACTION>__{Lincoln smiles.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I like our chances now.}
+<LOC>__{INT. LINCOLN'S OFFICE, THE WHITE HOUSE - MORNING}
+<ACTION>__{Lincoln is at his desk, Hay feeding him documents to read and sign. Seward warms himself by the fireplace, holding a brandy.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Consider the obstacles that we'd face. The aforementioned two-thirds majority needed to pass an amendment: we have a Republican majority, but barely more than fifty percent -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Fifty-six.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{We need Democratic support. There's none to be had.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Since the House last voted on the amendment there's been an election. Sixty-four Democrats lost their House seats in November. That's sixty-four Democrats looking for work come March.}
+<CHAR>__{SEWARD LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{I know, but that's - They don't need to worry}
+<DIAL>__{about re-election, they can vote however it suits `em.}
+<ACTION>__{There's a knock at the office door.}
+<CHAR>__{SEWARD LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{But we can't, um, buy the (to Hay:) vote for the amendment. It's Might as well let `em in. too important.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I said nothing of buying anything. We need twenty votes was all I said. Start of my second term, plenty of positions to fill.}
+<ACTION>__{Hay opens the door to the outer office, admitting the sound of a sizable crowd. JOHN NICOLAY, 33, Lincoln's rather severe German-born senior secretary, ushers in MR. JOLLY, mid-40s, mud-spattered coat, hat in hands, followed by MRS. JOLLY, similarly road-worn, holding a suitcase. Lincoln stands.}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL>__{Mr. President, may I present Mr. and Mrs. Jolly who've come from Missouri to -}
+<CHAR>__{MR. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{From Jeff City, President.}
+<ACTION>__{Lincoln shakes Mr. Jolly's hand. Mrs. Jolly curtseys.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Jolly. Ma'am. This by the fire's Secretary of State Seward.}
+<ACTION>__{Seward nods slightly as he lights a Cuban cigar.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Jeff City.}
+<ACTION>__{Lincoln looks at the Jollys. They are worried and a little awed.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I heard tell once of a Jefferson City lawyer who had a parrot that'd wake him each morning crying out, "Today is the day the world shall end, as scripture has foretold." And one day the lawyer shot him for the sake of peace and quiet, I presume, thus fulfilling, for the bird at least, its prophecy!}
+<ACTION>__{Lincoln smiles. The Jollys don't get it. Mr. Jolly looks back at Seward, who gestures for him to speak, then exhales a plume of smoke.}
+<CHAR>__{MR. JOLLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(launching into his PREPARED SPEECH:)}
+<DIAL>__{They's only one tollbooth in Jeff City, t' the southwest `n this man Heinz Sauermagen from Rolla been in illegal possession for near two yar, since your man General Schofield set him up there. But President Monroe give that tollgate to my granpap and Quincy Adams give my pap a letter saying it's our'n for keeps. Mrs. Jolly got the -}
+<DIAL_PAR>__{(to his wife:)}
+<DIAL>__{Show Mr. Lincoln the Quincy Adams letter.}
+<ACTION>__{Mrs. Jolly opens the suitcase and begins to dig frantically for the letter.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{That's unnecessary, Mrs. Jolly. Just tell me what you want from me.}
+<ACTION>__{Seward exhales more smoke. Mr. Jolly starts coughing, while Mrs. Jolly tries to fan away the cigar smoke with the Quincy Adams letter.}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Jolly's emphysema don't care for cigars.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Madame. Do you know about the proposed Thirteenth Amendment to the Constitution -}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{Yes sir, everybody knows of it. The President favors it.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Do you?}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{We do.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{You know that it abolishes slavery?}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{Yes sir. I know it.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And is that why you favor it?}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{What I favor's ending the war. Once't we do away with slavery, the rebs'll quit fighting, since slavery's what they're fighting for. Mr. Lincoln, you always says so. With the amendment, slavery's ended and they'll give up. The war can finish then.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{If the war finished first, before we end slavery, would -}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{President Lincoln says the war won't stop unless we finish slavery-}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{But if it did. The South is exhausted. If they run out of bullets and men, would you still want your, uh - Who's your representative?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Jeff City? That's, uh, Congressman Burton?}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{"Beanpole" Burton, I mean, Josiah Burton, yes, sir!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Mrs. Jolly:)}
+<DIAL>__{Republican. Undecided on the question of the amendment, I believe. Perhaps you could call on him and inform him of your enthusiasm.}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{Yeah...}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Madam? If the rebels surrender next week, would you, at the end of this month, want Congressman Burton to vote for the Thirteenth Amendment?}
+<ACTION>__{Mrs. Jolly is puzzled, and looks to Mr. Jolly. Then:}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{If that was how it was, no more war and all, I reckon Mr. Jolly'd much prefer not to have Congress pass the amendment.}
+<ACTION>__{Mr. Jolly nods. Seward glances at Lincoln, then turns back to}
+<TRANS>__{THE JOLLYS:}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And why's that?}
+<ACTION>__{Mr. Jolly's surprised: the answer's so obvious.}
+<CHAR>__{MR. JOLLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a hoarse voice:)}
+<DIAL>__{Niggers.}
+<CHAR>__{MRS. JOLLY} <CHAR_PAR>__{}
+<DIAL>__{If he don't have to let some Alabama coon come up to Missouri, steal his chickens, and his job, he'd much prefer that.}
+<ACTION>__{Seward takes the letter from Mrs. Jolly and hands it to Lincoln.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Lincoln, quietly:)}
+<DIAL>__{The people! I begin to see why you're in such a great hurry to put it through.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Mr. Jolly:)}
+<DIAL>__{Would you let me study this letter, sir, about the tollbooth? Come back to me in the morning and we'll consider what the law says.}
+<ACTION>__{Lincoln stands.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And be sure to visit "Beanpole" and tell him that you support passage of the Amendment. As a military necessity.}
+<ACTION>__{The Jollys nod, skeptical now.}
+<CHAR>__{NICOLAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Jollys:)}
+<DIAL>__{Thank you.}
+<ACTION>__{Nicolay escorts them out. Before he closes the door:}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Oh, Nicolay? When you have a moment.}
+<ACTION>__{Nicolay nods and steps into the anteroom, where dozens more petitioners are waiting to speak with Lincoln. Hay confers with the doorman. Seward closes the door behind them. Lincoln kneels at the fireplace, stoking the fire. He puts more wood in, then stands. Seward watches him, then:}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{If procuring votes with offers of employment is what you intend, I'll fetch a friend from Albany who can supply the skulking men gifted at this kind of shady work. Spare me the indignity of actually speaking to Democrats. Spare you the exposure and liability.}
+<ACTION>__{There is a sharp knock on the closed door, followed by two long ones.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Pardon me, that's a distress signal, which I am bound by solemn oath to respond to.}
+<ACTION>__{Lincoln opens the door. Tad enters, cross.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Tom Pendel took away the glass camera plates of slaves Mr. Gardner sent over because Tom says mama says they're too distressing, but-}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{You had nightmares all night, mama's right to -}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{But I'll have worse nightmares if you don't let me look at the plates again!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Perhaps.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{We can't afford a single defection from anyone in our party...not even a single Republican absent when they vote. You know who you've got to see.}
+<ACTION>__{Nicolay enters. Lincoln turns to him.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Send over to Blair House. Ask Preston Blair can I call on him around five o'clock.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a shudder, a swallow of BRANDY:)}
+<DIAL>__{God help you. God alone knows what he'll ask you to give him.}
+<LOC>__{INT. THE LIBRARY, BLAIR HOUSE, WASHINGTON - EVENING}
+<ACTION>__{Lincoln's perched on the edge of an ottoman.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{If the Blairs tell `em to, no Republican will balk at voting for the amendment.}
+<ACTION>__{The room is baronial. PRESTON BLAIR, patriarch of his wealthy and powerful family, 72 years old, sits facing his son, MONTGOMERY BLAIR, 50, whip-thin. A fire blazes in a massive fireplace behind Monty. Preston's handsome, elegant daughter, ELIZABETH BLAIR LEE, 45, sits across from Monty, next to Tad, who's wearing a Union infantryman's uniform, a real musket by his side.}
+<CHAR>__{MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<DIAL>__{No conservative Republican is what you mean -}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{All Republicans ought to be conservative, I founded this party - in my own goddamned home - to be a conservative antislavery party, not a hobbyhorse for goddamned radical abolitionists and -}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Damp down the dyspepsia, daddy, you'll frighten the child.}
+<CHAR>__{MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO LINCOLN:)}
+<DIAL>__{You need us to keep the conservative side of the party in the traces while you diddle the radicals and bundle up with Thaddeus Stevens's gang. You need our help.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir, I do.}
+<CHAR>__{MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Well, what do we get?}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Whoo! Blunt! Your manners, Monty, must be why Mr. Lincoln pushed you out of his cabinet.}
+<CHAR>__{PRESTON BLAIR MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<ACTION>__{He was pushed out - I wasn't pushed.}
+<CHAR>__{ELIZABETH BLAIR LEE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(SMILING SARCASTICALLY:)}
+<DIAL>__{Oh of course you weren't.}
+<CHAR>__{PRESTON BLAIR MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<ACTION>__{He was pushed out to placate (to Tad:) the goddamn radical I agreed to resign. abolishonists!}
+<CHAR>__{ELIZABETH BLAIR LEE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(a nod at Tad:)}
+<DIAL>__{Oh Daddy, please!}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{You don't mind, boy, do you?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{He spends his days with soldiers.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{They taught me a song!}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Did they? Soldiers know all manner of songs. How's your brother Bob?}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{He's at school now, but he's coming to visit in four days! For the shindy!}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{At school! Ain't that fine! Good he's not in the army!}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Oh he wants to be, but mama said he CAN'T -}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Dangerous life, soldiering.}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Your mama is wise to keep him clean out of that.}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Now your daddy knows that what I want, in return for all the help I give him, is to go down to Richmond like he said I could, soon as Savannah fell, and talk to Jefferson Davis. Give me terms I can offer to Jefferson Davis to start negotiating for peace. He'll talk to me!}
+<CHAR>__{MONTGOMERY BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Conservative members of your party want you to listen to overtures from Richmond. That above all.}
+<ACTION>__{Two black servants who have entered begin to pour and serve tea.}
+<CHAR>__{MONTGOMERY BLAIR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{They'll vote for this rash and dangerous amendment only if every other possibility is exhausted.}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Our Republicans ain't abolitionists. We can't tell our people they can vote yes on abolishing slavery unless at the same time we can tell `em that you're seeking a negotiated peace.}
+<ACTION>__{The Blairs look at Lincoln, waiting for an answer.}
+<LOC>__{EXT. OUTSIDE BLAIR HOUSE - NIGHT}
+<ACTION>__{A light snow's beginning to fall. A lacquered coach stands outside the house, the Blair crest in gold on its doors. Elizabeth Blair Lee, a blanket in her arms, comes out of the house, talking to LEO, an elderly black servant, formerly a slave belonging to the Blairs. They're followed by an elderly black woman in a housekeeper's uniform.}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Leo, it's a hundred miles to Richmond. Get him drunk so he can sleep.}
+<CHAR>__{LEO} <CHAR_PAR>__{}
+<DIAL>__{Yes'm.}
+<ACTION>__{Elizabeth goes to the carriage, where Preston awaits. She passes the blanket through the carriage window and tucks it around her father.}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Here, daddy.}
+<CHAR>__{PRESTON BLAIR ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<ACTION>__{Oh! Thank you. (fussing with the BLANKET:)}
+<DIAL>__{Let's fix this up...}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Where's my hat?}
+<CHAR>__{ELIZABETH BLAIR LEE} <CHAR_PAR>__{}
+<DIAL>__{Leo has your hat. All right?}
+<ACTION>__{As Leo climbs into the carriage, Elizabeth kisses her hand, then slaps the kiss on her father's cheek.}
+<CHAR>__{ELIZABETH BLAIR LEE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Go make peace.}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - MORNING}
+<ACTION>__{The cabinet has assembled. Lincoln heads the table, Seward at his left and EDWIN M. STANTON, Secretary of War, 51, barrel- shaped, long bearded, bespectacled, at his right. Next to him are Secretary of the Navy GIDEON WELLES, 63, luxurious white hair (it's a wig) and a flowing snowy beard; Postmaster General WILLIAM DENNISON, 50; Secretary of the Interior JOHN USHER, 49; Secretary of the Treasury WILLIAM FESSENDEN, 59; and Attorney General JAMES SPEED, 53. Nicolay and Hay are in chairs behind Lincoln, taking notes.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO STANTON:)}
+<DIAL>__{Thunder forth, God of War!}
+<ACTION>__{Stanton clears his throat. He's noticed the singed edge.}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{We'll commence our assault on Wilmington from the sea.}
+<DIAL_PAR>__{(PEEVED:)}
+<DIAL>__{Why is this burnt? Was the boy playing with it?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It got took by a breeze several nights back.}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{This is an official War Department map!}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And the entire cabinet's waiting to hear what it portends.}
+<CHAR>__{WELLES} <CHAR_PAR>__{}
+<DIAL>__{A bombardment. From the largest fleet the Navy has ever assembled.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO WELLES:)}
+<DIAL>__{Old Neptune! Shake thy hoary locks!}
+<ACTION>__{Welles stands.}
+<CHAR>__{WELLES} <CHAR_PAR>__{}
+<DIAL>__{Fifty-eight ships are underway, of every tonnage and firing range.}
+<ACTION>__{Welles gestures on the map to the positions of many ships.}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{We'll keep up a steady barrage. Our first target is Fort Fisher. It defends Wilmington Port.}
+<ACTION>__{Stanton indicates the lines tracing artillery trajectories. These converge particularly heavily on Fort Fisher.}
+<CHAR>__{JAMES SPEED} <CHAR_PAR>__{}
+<DIAL>__{A steady barrage?}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{A hundred shells a minute.}
+<ACTION>__{There's a moment of shocked silence.}
+<CHAR>__{STANTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Till they surrender.}
+<CHAR>__{WILLIAM FESSENDEN} <CHAR_PAR>__{}
+<DIAL>__{Dear God.}
+<CHAR>__{WELLES} <CHAR_PAR>__{}
+<DIAL>__{Yes. Yes.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Wilmington's their last open seaport. Therefore...}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{Wilmington falls, Richmond falls after.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And the war... is done.}
+<ACTION>__{The rest of the cabinet applauds, foot stomping, table slapping. Only John Usher doesn't join in.}
+<CHAR>__{JOHN USHER} <CHAR_PAR>__{}
+<DIAL>__{Then why, if I may ask are we not concentrating the nation's attention on Wilmington? Why, instead, are we reading in the HERALD -}
+<DIAL_PAR>__{(he smacks a newspaper on THE TABLE)}
+<DIAL>__{- that the anti-slavery amendment is being precipitated onto the House floor for debate - because your eagerness, in what seems an unwarranted intrusion of the Executive into Legislative prerogatives, is compelling it to it's... to what's likely to be its premature demise? You signed the Emancipation Proclamation, you've done all that can be expected -}
+<CHAR>__{JAMES SPEED} <CHAR_PAR>__{}
+<DIAL>__{The Emancipation Proclamation's merely a war measure. After the war the courts'll make a meal of it.}
+<CHAR>__{JOHN USHER} <CHAR_PAR>__{}
+<DIAL>__{When Edward Bates was Attorney General, he felt confident in it enough to allow you to sign -}
+<CHAR>__{JAMES SPEED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(A SHRUG:)}
+<DIAL>__{Different lawyers, different opinions. It frees slaves as a military exigent, not in any other -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I don't recall Bates being any too certain about the legality of my Proclamation, just it wasn't downright criminal. Somewhere's in between. Back when I rode the legal circuit in Illinois I defended a woman from Metamora named Melissa Goings, 77 years old, they said she murdered her husband; he was 83. He was choking her; and, uh, she grabbed ahold of a stick of fire- wood and fractured his skull, `n he died. In his will he wrote "I expect she has killed me. If I get over it, I will have revenge."}
+<ACTION>__{This gets a laugh.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No one was keen to see her convicted, he was that kind of husband. I asked the prosecuting attorney if I might have a short conference with my client. And she and I went into a room in the courthouse, but I alone emerged. The window in the room was found to be wide open. It was believed the old lady may have climbed out of it. I told the bailiff right before I left her in the room she asked me where she could get a good drink of water, and I told her Tennessee. Mrs. Goings was seen no more in Metamora. Enough justice had been done; they even forgave the bondsman her bail.}
+<CHAR>__{JOHN USHER} <CHAR_PAR>__{}
+<DIAL>__{I'm afraid I don't -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I decided that the Constitution gives me war powers, but no one knows just exactly what those powers are. Some say they don't exist. I don't know. I decided I needed them to exist to uphold my oath to protect the Constitution, which I decided meant that I could take the rebels' slaves from `em as property confiscated in war. That might recommend to suspicion that I agree with the rebs that their slaves are property in the first place. Of course I don't, never have, I'm glad to see any man free, and if calling a man property, or war contraband, does the trick... Why I caught at the opportunity. Now here's where it gets truly slippery. I use the law allowing for the seizure of property in a war knowing it applies only to the property of governments and citizens of belligerent nations. But the South ain't a nation, that's why I can't negotiate with 'em. So if in fact the Negroes are property according to law, have I the right to take the rebels' property from `em, if I insist they're rebels only, and not citizens of a belligerent country? And slipperier still: I maintain it ain't our actual Southern states in rebellion, but only the rebels living in those states, the laws of which states remain in force. The laws of which states remain in force. That means, that since it's states' laws that determine whether Negroes can be sold as slaves, as property - the Federal government doesn't have a say in that, least not yet -}
+<DIAL_PAR>__{(a glance at Seward, THEN:)}
+<DIAL>__{- then Negroes in those states are slaves, hence property, hence my war powers allow me to confiscate `em as such. So I confiscated `em. But if I'm a respecter of states' laws, how then can I legally free `em with my Proclamation, as I done, unless I'm cancelling states' laws? I felt the war demanded it; my oath demanded it; I felt right with myself; and I hoped it was legal to do it, I'm hoping still.}
+<ACTION>__{He looks around the table. Everyone's listening.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Two years ago I proclaimed these people emancipated - "then, thenceforward and forever free." But let's say the courts decide I had no authority to do it. They might well decide that. Say there's no amendment abolishing slavery. Say it's after the war, and I can no longer use my war powers to just ignore the courts' decisions, like I sometimes felt I had to do. Might those people I freed be ordered back into slavery? That's why I'd like to get the Thirteenth Amendment through the House, and on its way to ratification by the states, wrap the whole slavery thing up, forever and aye. As soon as I'm able. Now. End of this month. And I'd like you to stand behind me. Like my cabinet's most always done.}
+<ACTION>__{A moment's silence, broken by a sharp laugh from Seward.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{As the preacher said, I could write shorter sermons but once I start I get too lazy to stop.}
+<CHAR>__{JOHN USHER} <CHAR_PAR>__{}
+<DIAL>__{It seems to me, sir, you're describing precisely the sort of dictator the Democrats have been howling about.}
+<CHAR>__{JAMES SPEED} <CHAR_PAR>__{}
+<DIAL>__{Dictators aren't susceptible to law.}
+<CHAR>__{JOHN USHER} <CHAR_PAR>__{}
+<DIAL>__{Neither is he! He just said as much! Ignoring the courts? Twisting meanings? What reins him in from, from...}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Well, the people do that, I suppose. I signed the Emancipation Proclamation a year and half before my second election. I felt I was within my power to do it; however I also felt that I might be wrong about that; I knew the people would tell me. I gave `em a year and half to think about it. And they re- elected me.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{And come February the first, I intend to sign the Thirteenth Amendment.}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - EARLY AFTERNOON}
+<ACTION>__{Nicolay opens the door to the crowded outer office to admit perpetually worried JAMES ASHLEY, 42, (R, OH). Tad eyes him from a chair by the window. Lincoln enters the room with Seward.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Well, Mr. Representative Ashley! Tell us the news from the Hill.}
+<ACTION>__{Lincoln shakes his hand and warmly claps the discombobulated but flattered representative on the shoulder.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Well! Ah! News -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Why for instance is this thus, and what is the reason for this thusness?}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{James, we want you to bring the anti-slavery amendment to the floor for debate -}
+<CHAR>__{JAMES ASHLEY SEWARD} <CHAR_PAR>__{}
+<ACTION>__{Excuse me. What? - immediately, and - You are}
+<DIAL>__{the amendment's manager, are you not?}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{I am, of course - But - Immediately?}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And we're counting on robust radical support, so tell Mr. Stevens we expect him to put his back into it, it's not going to be easy, but we trust -}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{It's impossible. No, I am sorry, no, we can't organize anything immediately in the House. I have been canvassing the Democrats since the election, in case any of them softened after they got walloped. But they have stiffened if anything, Mr. Secretary. There aren't nearly enough votes -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We're whalers, Mr. Ashley!}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Whalers? As in, um, whales?}
+<ACTION>__{Lincoln moves in, standing very close to Ashley.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We've been chasing this whale for a long time. We've finally placed a harpoon in the monster's back. It's in, James, it's in! We finish the deed now, we can't wait! Or with one flop of his tail he'll smash the boat and send us all to eternity!}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{On the 31st of this month. Of this year. Put the amendment up for a vote.}
+<ACTION>__{Ashley is agog.}
+<LOC>__{INT. THADDEUS STEVENS'S OFFICE IN THE CAPITOL - EVENING}
+<ACTION>__{The room's redolent of politics, ideology (a bust of Robespierre, a print of Tom Paine), long occupancy and hard work. On the wall opposite a massive desk hangs a faded banner: "RE-ELECT THADDEUS STEVENS, REPUBLICAN TICKET, 9TH CONGRESSIONAL DISTRICT, LANCASTER PENNSYLVANIA". At the desk sits THADDEUS STEVENS (R, PA), 73, bald under a horrible red wig, a gaunt, powerful face resembling Lincoln's, though beardless and bitter. In the office are Ashley, Speaker of the House SCHUYLER COLFAX (R, IN), formidable Senator BLUFF WADE (R, MA), who's never smiled, and ASA VINTNER LITTON (R, MD).}
+<CHAR>__{BLUFF WADE} <CHAR_PAR>__{}
+<DIAL>__{Whalers?}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{That's what he said.}
+<CHAR>__{BLUFF WADE} <CHAR_PAR>__{}
+<DIAL>__{The man's never been near a whale ship in his life!}
+<DIAL_PAR>__{(TO STEVENS:)}
+<DIAL>__{Withdraw radical support, force him to abandon this scheme, whatever he's up to - He drags his feet about everything, Lincoln; why this urgency? We got it through the Senate without difficulty because we had the numbers. Come December you'll have the same in the House. The amendment'll be the easy work of ten minutes.}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{He's using the threat of the amendment to frighten the rebels into an immediate surrender.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{I imagine we'd rejoice to see that.}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{Will you rejoice when the Southern states have re-joined the Union, pell-mell, as Lincoln intends them to, and one by one each refuses to ratify the amendment? If we pass it, which we won't.}
+<DIAL_PAR>__{(TO STEVENS:)}
+<DIAL>__{Why are we co-operating with, with him? We all know what he's doing and we all know what he'll do. We can't offer up abolition's best legal prayer to his games and tricks.}
+<CHAR>__{BLUFF WADE} <CHAR_PAR>__{}
+<DIAL>__{He's said he'd welcome the South back with all its slaves in chains.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Three years ago he said that! To calm the border states when we were-}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I don't.}
+<ACTION>__{This confuses the room. Stevens turns to Vintner Litton.}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You said "we all know what he'll do." I don't know.}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{You know he isn't to be trusted.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Trust? I'm sorry, I was under the misapprehension your chosen profession was politics. I've never trusted the President. I never trust anyone. But... Hasn't he surprised you?}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{No, Mr. Stevens, he hasn't.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Nothing surprises you, Asa, therefore nothing about you is surprising. Perhaps that is why your constituents did not re-elect you to the coming term.}
+<DIAL_PAR>__{(collecting his cane and STANDING:)}
+<DIAL>__{It's late, I'm old, I'm going home.}
+<ACTION>__{Stevens limps to the door, opens it, and turns.}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Lincoln the inveterate dawdler, Lincoln the Southerner, Lincoln the capitulating compromiser, our adversary - and leader of the godforsaken Republican Party, our party - Abraham Lincoln has asked us to work with him to accomplish the death of slavery in America.}
+<DIAL_PAR>__{(BEAT:)}
+<DIAL>__{Retain, even in opposition, your capacity for astonishment.}
+<ACTION>__{Stevens leaves, shutting the door. They watch him go, Ashley excited, Litton unmoved, insulted, skeptical.}
+<LOC>__{INT. PRIVATE DINING ROOM, OLD TAVERN IN WASHINGTON DC - NIGHT}
+<ACTION>__{In a cramped private alcove, a low, sagging timber ceiling, sooty walls, sawdusted floor, ancient curtain closing it off, Seward sits at a small table with ROBERT LATHAM, an Albany NY political operative, RICHARD SCHELL, a Wall Street speculator, and W.N. BILBO, a Tennessee lawyer and lobbyist. A chandelier with candles drips wax on them. On the table, a leather folio lies open: prospectuses for jobs in the administration. Latham and Schell study these. Bilbo is studying Seward.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{The President is never to be mentioned. Nor I. You're paid for your discretion.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Hell, you can have that for nothin', what we need money for is bribes. It'd speed things up.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{No. Nothing strictly illegal.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{It's not illegal to bribe Congressmen. They starve otherwise.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{I have explained to Mr. Bilbo and Mr. Latham that we're offering patronage jobs to the Dems who vote yes. Jobs and nothing more.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{That's correct.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Congressmen come cheap! Few thousand bucks'll buy you all you need.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{The President would be unhappy to hear you did that.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Well, will he be unhappy if we lose?}
+<ACTION>__{A WAITRESS brings in a platter of roasted crabs, which she slams down on the table, and leaves.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{The money I managed to raise for this endeavor is only for your fees, food, and lodgings.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Uh huh. If that squirrel-infested attic you've quartered us in's any measure, you ain't raised much.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Shall we get to work?}
+<ACTION>__{Bilbo takes a mallet to a crab, smashing it!}
+<LOC>__{INT. FLOOR OF THE HOUSE OF REPRESENTATIVES - DAY}
+<ACTION>__{A gavel slams down on a sounding block in an attempt to silence the raucous tumult in the large chamber. It subsides enough for Colfax to be heard from his chair atop the central}
+<TRANS>__{DAIS:}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{The House recognizes Fernando Wood, the honorable representative from New York.}
+<ACTION>__{TITLE: THE HOUSE DEBATE BEGINS}
+<CHAR>__{JANUARY 9} <CHAR_PAR>__{}
+<ACTION>__{Floor and balcony are full, although the desks of representatives from seceded states are bare and unoccupied. On the Democratic side, 81 members applaud FERNANDO WOOD (D, NY) as he takes the podium. The Democratic leadership, including GEORGE YEAMAN (KY), has gathered around House minority leader GEORGE PENDLETON(OH). On the Republican side of the aisle, enraged booing from the 102 Republicans, including HIRAM PRICE (IA), GEORGE JULIAN (IN), Vintner Litton and Ashley, all gathered around Stevens's desk.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Estimable colleagues. Two bloody years ago this month, his Highness, King Abraham Africanus the First - our Great Usurping Caesar, violator of habeas corpus and freedom of the press, abuser of states' rights -}
+<CHAR>__{HIRAM PRICE FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(loud:) - radical republican autocrat}
+<ACTION>__{If Lincoln really were a ruling by fiat and martial tyrant, Mr. Wood, he'd'a had law affixed his name to his your empty head impaled on a heinous and illicit pike, and the country better Emancipation Proclamation, for it! promising it would hasten the}
+<DIAL>__{end of the war, which yet rages on and on.}
+<ACTION>__{Murmuring from the floor and the balcony, in the front row of which Mary and Elizabeth Keckley sit. Mary turns her gaze from the floor to watch Latham and Schell, a few seats away, scrutinize the floor, whispering, Latham taking notes. Schell holds the leather prospectus folio in his lap. Bilbo sits behind them. They study the other NY Democrats - CHARLES HANSON, NELSON MERRICK, HENRY LANFORD, HOMER BENSON, GILES STUART - who comprise a cluster of glum uncomfortable passivity on that side of the aisle.}
+<DIAL>__{FERNANDO WOOD (CONT'D) ROBERT LATHAM}
+<ACTION>__{He claimed, as tyrants do, (whispering to Schell:) that the war's emergencies The New York delegation's permitted him to turn our looking decidedly uninspired. army into the unwilling instrument of his monarchical}
+<DIAL>__{AMBITIONS -}
+<ACTION>__{Wood points at Stevens, granite-faced. Stevens's eyes burn back at Wood.}
+<CHAR>__{FERNANDO WOOD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{- and radical Republicanism's abolitionist fanaticism!}
+<ACTION>__{This prompts shouts and boos from the Republicans.}
+<CHAR>__{FERNANDO WOOD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{His Emancipation Proclamation has obliterated millions of dollars' worth of personal property rights -}
+<ACTION>__{Schell examines the Pennsylvania Democrats: an openly appalled ARCHIBALD MORAN, AMBROSE BAILER, and, chewing his thumb, a painful fake grin pinned to his face, ALEXANDER COFFROTH. Schell leans in to Latham.}
+<DIAL>__{FERNANDO WOOD (CONT'D) RICHARD SCHELL}
+<ACTION>__{- and "liberated" the Over in Pennsylvania - who's hundreds of thousands of the sweaty man eating his hopelessly indolent Negro thumb? refugees, bred by nature for servility, to settle in ROBERT LATHAM squalor in our Northern Unknown to me. Seems jumpy. cities!}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Perhaps he'll jump.}
+<ACTION>__{Cheering and booing. In the Connecticut delegation, JOHN ELLIS winds his pocket watch, looking contemptuously at Wood. Schell makes a note.}
+<DIAL>__{FERNANDO WOOD (CONT'D) W.N. BILBO}
+<ACTION>__{But all that was not enough Jesus, when's this son-of- for this dictator, who now liberty sonofabitch gonna sit seeks to insinuate his down? miscegenist pollution into the Constitution itself! RICHARD SCHELL}
+<DIAL>__{John Ellis is going to break his watch if he doesn't stop -}
+<CHAR>__{FERNANDO WOOD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We are once again asked - nay, commanded - to consider a proposed thirteenth amendment which, if passed, shall set at immediate liberty four million coloreds while manacling the limbs of the white race in America. If it is passed - but it shall not pass!}
+<ACTION>__{Wild cheering and booing.}
+<DIAL>__{FERNANDO WOOD (CONT'D) ROBERT LATHAM}
+<ACTION>__{Every member of the House What's more interesting is loyal to the Democratic Party how dismal and disgruntled and the constituents it Mr. Yeaman appears. He should serves shall oppose- be cheering right now, but...}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Looks like he ate a bad oyster.}
+<ACTION>__{Thaddeus Stevens calls out from his desk.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{A point of order, Mr. Speaker, if you please? When will Mr. Wood -}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Mr. Speaker, I still have the floor and the gentleman from Pennsylvania is out of order!}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{- when will Mr. Wood conclude his interminable gabble? Some of us breathe oxygen, and we find the mephitic fumes of his oratory a lethal challenge to our pleural capacities.}
+<ACTION>__{Wild cheering, applause from the Republicans.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{We shall oppose this amendment, and any legislation that so affronts natural law, insulting to God as to man! Congress must never declare equal those whom God created unequal!}
+<ACTION>__{The Democrats cheer. Mary watches with concern. Mrs. Keckley is angry and uncomfortable.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Slavery is the only insult to natural law, you fatuous nincompoop!}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{Order! Procedure! Mr. Speaker, Mr. Wood has the floor!}
+<DIAL_PAR>__{(TO STEVENS:)}
+<DIAL>__{Instruct us, Oh Great Commoner, what is unnatural, in your opinion? Niggrahs casting ballots? Niggrah representatives? Is that natural, Stevens? Intermarriage?}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{What violates natural law? Slavery, and you, Pendleton, you insult God, you unnatural noise.}
+<ACTION>__{An avalanche of boos and cheers as Democrats surge towards Wood, Republicans towards Stevens. Ashley rushes to Colfax,}
+<TRANS>__{CALLING:}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Colfax! Please, use your gavel! They are -}
+<DIAL_PAR>__{(to the Democrats:)}
+<DIAL>__{You are out of order!}
+<DIAL_PAR>__{(TO COLFAX:)}
+<DIAL>__{Direct the sergeant of arms to suppress this!}
+<DIAL_PAR>__{(back to the Democrats:)}
+<DIAL>__{We are in session!}
+<LOC>__{INT. SECOND FLOOR CORRIDOR OF THE WHITE HOUSE - MORNING}
+<ACTION>__{The corridor as usual is lined with petitioners. They've lined up along both sides of the wall and are hooting, laughing, clapping and cheering, egging on Tad as, with furious concentration, he drives a cart pulled at considerable speed by a large and seriously annoyed goat down the hall. White House doorkeeper and unofficial child-minder TOM PENDEL follows, admonishing the petitioners as he goes.}
+<CHAR>__{TOM PENDEL} <CHAR_PAR>__{}
+<DIAL>__{Please don't encourage this! Don't encourage this!}
+<ACTION>__{ROBERT LINCOLN, 21, enters from the stairs carrying several pieces of large and heavy luggage. Tad sees him, jumps out of the goat cart, runs up to and tackles Robert, causing him to drop his luggage. They embrace as Pendel captures the goat and leads it away.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{You're back you're back you're back you're back you're -}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{I am. Your goat got big.}
+<ACTION>__{Robert disentangles himself from Tad and hands him a suitcase.}
+<CHAR>__{ROBERT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Here, help me get one of these to my room.}
+<DIAL_PAR>__{(a nervous glance at the door to Mary's bedroom SUITE:)}
+<DIAL>__{Is she in there?}
+<ACTION>__{As Robert hoists the rest of the luggage himself, Tad chatters and A PETITIONER comes forward. He grabs the trunk as Robert's lifting it.}
+<CHAR>__{TAD PETITIONER} <CHAR_PAR>__{}
+<ACTION>__{She's asleep, probably, they You need help, sir? I can... went to see Avonia Jones last night in a play about ROBERT Israelites. Daddy's meeting No, sir, I don't. No. with a famous scientist now and he's nervous because of PETITIONER how smart the man is and the Could you bring your pa this man is angry about, `cause letter I writ about my there's a new book that Sam insolvency proceedings? Beckwith says is about finches, and finches' beaks, ROBERT about how they change, it Let it go please, thank you. takes years and years and You deliver your own years but - goddamned petition, thank}
+<DIAL>__{you...}
+<CHAR>__{PETITIONER} <CHAR_PAR>__{}
+<DIAL>__{Please, please.}
+<ACTION>__{Robert wrestles the trunk out of the man's grasp just as Mary enters the hall and sees him.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{He's here...}
+<DIAL_PAR>__{(calling down the hall:)}
+<DIAL>__{He's here, Mrs. Cuthbert! He's here!}
+<DIAL_PAR>__{(TO ROBERT:)}
+<DIAL>__{Robbie... Oh Robbie! Robbie!}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(EMBRACING HER:)}
+<DIAL>__{Hi, mama. Hey. Hey...}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(OVERJOYED)}
+<DIAL>__{Oh!}
+<ACTION>__{She instantly eyes Robert's amount of luggage with suspicion.}
+<DIAL>__{MARY (CONT'D) TAD}
+<ACTION>__{You're only staying a few - but what's made everyone days. Why'd you pack all of really cross with the man, that? the man who wrote the finch}
+<DIAL>__{book, is he says people are ROBERT cousins to monkeys, but he}
+<ACTION>__{Well, I don't know how long was going to say -}
+<DIAL>__{I'M -}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(TO TAD:)}
+<DIAL>__{Go tell your father Robert's home!}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Mr. Nicolay says daddy's secluded with Mr. Blair.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Tell him anyway.}
+<ACTION>__{Tad drops the suitcase and runs to the office. Mary strokes Robert's face, looking concerned.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You forget to eat, exactly like him.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHS)}
+<DIAL>__{No...}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{You'll linger a few days extra, after the reception, before you go back to school.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{Well, I don't know if I'm gonna go back to -}
+<ACTION>__{She stops him with an alarmed look.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{We'll fatten you up before you return to Boston.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{All right, mama.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{All right.}
+<DIAL_PAR>__{(beaming at him, ADORINGLY:)}
+<DIAL>__{Oh Robbie...}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - MORNING}
+<ACTION>__{Preston Blair, still in his traveling cloak, and Lincoln stand near the fireplace facing one another.}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{Jefferson Davis is sending three delegates: Stephens, Hunter and Campbell: Vice President of the Confederacy, their former Secretary of State, and their Assistant Secretary of War. They're coming in earnest to propose peace.}
+<ACTION>__{Both men look into the fire. Preston moves closer.}
+<CHAR>__{PRESTON BLAIR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I know this is unwelcome news for you. Now hear me: I went to Richmond to talk to traitors, to smile at and plead with traitors, because it'll be spring in two months, the roads'll be passable, the Spring slaughter commences. Four bloody Springs now! Think of my Frank, who you've taken to your heart, how you'll blame yourself if the war takes my son as it's taken multitudes of sons. Think of all the boys who'll die if you don't make peace. You must talk with these men!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I intend to, Preston. And in return, I must ask you -}
+<CHAR>__{PRESTON BLAIR LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{No, this is not horsetrading, - to support our push for this is life and - the amendment when it reaches}
+<DIAL>__{THE -}
+<ACTION>__{There's a knock on the door.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Not now!}
+<ACTION>__{Robert enters. Nicolay stands behind him, apologetic.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh. Bob. I'm sorry. Welcome home.}
+<ACTION>__{He shakes hands with his son, stiffly.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<CHAR>__{LINCOLN PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Robert:) (pointedly:)}
+<ACTION>__{I'm talking to Preston Blair, You're looking fit, Robert. we - Harvard agrees with you. Fit}
+<DIAL>__{ROBERT and rested.}
+<ACTION>__{Mr. Blair.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dismissing Robert, UNINTENTIONALLY ABRUPT)}
+<DIAL>__{Just give us a moment please, Robert. Thank you.}
+<ACTION>__{He turns to Preston. Robert, stung, hesitates, then leaves the room, Nicolay shutting the door behind him.}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL>__{I will procure your votes for you, as I promised. You've always kept your word to me. Those Southern men are coming.}
+<DIAL_PAR>__{(taking Lincoln's hand)}
+<DIAL>__{I beg you, in the name of Gentle CHRIST - PRESTON BLAIR (CONT'D) LINCOLN}
+<ACTION>__{Talk peace with these men. Preston, I understand...}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SHARPLY)}
+<DIAL>__{I understand, Preston.}
+<LOC>__{EXT. ON THE MALL - AFTERNOON}
+<ACTION>__{JACOB GRAYLOR (D, PA) and Bilbo walk outside the Capitol. Graylor looks over the prospectuses.}
+<CHAR>__{ROBERT LATHAM } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{We have one abstention so far -}
+<CHAR>__{RICHARD SCHELL } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Jacob Graylor -}
+<ACTION>__{Graylor selects one and hands it to Bilbo.}
+<CHAR>__{RICHARD SCHELL } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{He'd like to be Federal Revenue Assessor for the Fifth District of Pennsylvania.}
+<LOC>__{INT. A BEDROOM IN THE ST. CHARLES HOTEL - NIGHT}
+<ACTION>__{A small room, two beds, in disarray: newspapers, overflowing ashtrays, whiskey bottles empty on the floor. Latham and Schell stand at a table strewn with the remnants of a poker game. Bilbo lies on one of the beds. All three are in their shirtsleeves. Seward is at the table.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{- so the total of representatives voting three weeks from today is reduced to 182, which means 122 yes votes to reach the requisite two- thirds of the House. Assuming all Republicans vote for the amendment...?}
+<ACTION>__{Seward nods, less assertively than Latham would like.}
+<CHAR>__{ROBERT LATHAM } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Then, despite our abstention, to reach a two-thirds majority we remain 20 yeses short.}
+<LOC>__{INT. THE OLD TAVERN, WASHINGTON - NIGHT}
+<ACTION>__{Bilbo is drinking schooners of beer with EDWIN LECLERK (D, OH) and CLAY HAWKINS (D, OH). Hawkins listens as Bilbo gives his pitch. LeClerk looks at the prospectuses.}
+<CHAR>__{ROBERT LATHAM } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{For which we're seeking from among 64 lame duck Democrats. Fully 39 of these we deem unredeemable no votes.}
+<ACTION>__{LeClerk throws his beer in Bilbo's face, soaking Bilbo and the prospectuses. Hawkins looks shocked. LeClerk storms out.}
+<LOC>__{INT. THE ROOM IN THE ST. CHARLES HOTEL - NIGHT}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{The kind that hates niggers, hates God for making niggers.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{The Good Lord on High would despair of their souls.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(DISTASTEFULLY:)}
+<DIAL>__{Thank you for that pithy explanation, Mr. Bilbo.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{We've abandoned these 39 to the Devil that possesses them.}
+<LOC>__{EXT. A WORKING CLASS NEIGHBORHOOD IN WASHINGTON - DAY}
+<ACTION>__{Schell stands at the door of a small, grubby row house. He presents the folio, warped from its beer bath, to WILLIAM HUTTON(D, IN), eyes red from crying, dressed in mourning black. Hutton slams the door in Schell's face. A funeral wreath that adorns the door falls to the ground. A daguerreotype attached to the wreath depicts a young officer, Hutton's brother Frederick.}
+<LOC>__{INT. THE ROOM IN THE ST. CHARLES HOTEL - NIGHT}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{The remaining lame ducks, on whom we've been working with a purpose -}
+<ACTION>__{Schell hands Latham a stack of folded prospectuses, each with a name scrawled on it.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Charles Hanson.}
+<LOC>__{EXT. IN FRONT OF THE CAPITOL - TWILIGHT}
+<ACTION>__{Representatives Merrick, Lanford, Benson, Stuart and Hanson, the New York lame ducks, descend the stairs, discussing the opening of the amendment debate, to which they've just been listening. Latham smoothly holds Hanson back from the group, extending a hand, the still pristine portfolio under his arm. He smiles as the other NY lame ducks proceed down the stairs, unaware, then nods his head back up toward the Capitol steps, where Bilbo and Schell wait. Latham opens the folio as he talks to Hanson.}
+<LOC>__{INT. THE ROOM IN THE ST. CHARLES HOTEL - NIGHT}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Giles Stuart.}
+<LOC>__{INT. THE TREASURY DEPARTMENT - DAY}
+<ACTION>__{In the grand lobby there are Federal bank windows. Schell is in line at one of these behind Giles Stuart, who completes a transaction and leaves, counting money. Bilbo, barrelling the other way, intentionally slams into Stuart, causing him to drop his money. Bilbo and Schell both kneel to help. Schell places the open folio in Stuart's hands. As the men pile his recovered money into the folio, Stuart's puzzled, then intrigued. Schell gives him a meaningful look.}
+<ACTION_ALT>__{CLOSE ON A SMALL WOODEN FILE BOX}
+<ACTION>__{A folded prospectus, now with the name "Stuart" scrawled on it, is added to a growing file.}
+<LOC>__{INT. THE US PATENT OFFICE, WASHINGTON - DAY}
+<ACTION>__{Visitors file past cabinets containing animal and plant specimens and inventions; the line circles around a large case in which an amputated leg capped with a brass plate is displayed. A sign identifies it: LEFT LEG OF GENERAL DANIEL SICKLES, AT GETTYSBURG, JULY 5, 1863.}
+<CHAR>__{ROBERT LATHAM } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Nelson Merrick.}
+<ACTION>__{Latham looks through the case at Schell, who's next to Nelson Merrick, who nods, solemnly staring at the leg. Schell proffers Merrick the folio. Merrick flips through the folio.}
+<CHAR>__{ROBERT LATHAM } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Homer Benson.}
+<LOC>__{INT. A WORKINGMENS' LUNCHROOM, WASHINGTON - DAY}
+<ACTION>__{A hall packed with working men, soaped-up windows. A GYPSY FIDDLER saws away. Homer Benson, incongruous in a suit, slurps. As he lifts his spoon to his mouth, the folio is placed in front of him. He looks over, puzzled, as Schell smiles and extends a hand. Benson takes the folio. Schell slides his chair closer.}
+<LOC>__{INT. THE ROOM IN THE ST. CHARLES HOTEL - NIGHT}
+<ACTION>__{Another prospectus joins the pile: "Benson"}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{And lastly...}
+<ACTION>__{Bilbo retrieves a paper from the floor and hands it to Seward.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Clay Hawkins. Of Ohio.}
+<LOC>__{EXT. A WOODS ALONG THE POTOMAC RIVER - MORNING}
+<ACTION>__{Bilbo walks with Clay Hawkins, who peruses the folio. Bilbo has a small covered wicker basket slung over his shoulder. Hawkins follows, happy and sick with fear.}
+<CHAR>__{CLAY HAWKINS} <CHAR_PAR>__{}
+<DIAL>__{T-tax collector for the Western Reserve. Th-th-that pays handsomely.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Don't just reach for the highest branches. They sway in every breeze. Assistant Port Inspector of Marlston looks like the ticket to me.}
+<CHAR>__{CLAY HAWKINS} <CHAR_PAR>__{}
+<DIAL>__{Uh, boats, they, they make me sick.}
+<ACTION>__{Bilbo retrieves a snare; a small bird is trapped by the foot. Bilbo stuffs the bird in the basket.}
+<CHAR>__{CLAY HAWKINS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So just stand on the dock. Let the Assistant Assistant Port Inspector's stomach go weak.}
+<ACTION>__{Bilbo eyes Hawkins, who anxiously eyes the folio.}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - EARLY EVENING}
+<ACTION>__{Seward hands the last prospectus to Nicolay, who unfolds it, places it on top of the other prospectuses, and records details about Hawkins's appointment in a notebook. Seward smokes a cigar, Nicolay a pipe. Lincoln sits, feet up, examining a newspaper.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{And lastly, Democratic yes vote number six. Hawkins from Ohio.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Six.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Well, thus far. Plus Graylor's abstention. From tiny acorns and so on.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What'd Hawkins get?}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STILL WRITING:)}
+<DIAL>__{Postmaster of the Millersburg Post Office.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{He's selling himself cheap, ain't he?}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{He wanted tax collector of the Western Reserve - a first-term congressman who couldn't manage re- election, I felt it unseemly and they bargained him down to Postmaster.}
+<DIAL_PAR>__{(TO NICOLAY:)}
+<DIAL>__{Scatter `em over several rounds of appointments, so no one notices. And burn this ledger, please, after you're done.}
+<ACTION>__{Lincoln stands.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO NICOLAY:)}
+<DIAL>__{Time for my public opinion bath. Might as well let `em in.}
+<ACTION>__{Nicolay helps Lincoln trade his shawl for his overcoat in preparation to meet the public.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Seven yeses with Mr. Ellis! Thirteen to go!}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{One last item, an absurdity, but - My associates report that among the Representatives a fantastical rumor's bruited about, which I immediately disavowed, that you'd allowed bleary old Preston Blair to sojourn to Richmond to invite Jeff Davis to send commissioners up to Washington with a peace plan.}
+<ACTION>__{Lincoln is silent. A horrifying reality dawns for Seward:}
+<CHAR>__{SEWARD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I, of course, told them you would never...Not without consulting me, you wouldn't...Because why on earth would you?}
+<LOC>__{EXT. IN AN OPEN FIELD NEAR PETERSBURG, VIRGINIA - EVENING}
+<ACTION>__{THREE UNION CAVALRY OFFICERS consult with THREE CONFEDERATE CAVALRY OFFICERS, all mounted. The officers exchange documents and salutes. TITLE: NO MAN'S LAND}
+<DIAL>__{OUTSIDE PETERSBURG, VIRGINIA}
+<CHAR>__{JANUARY 11} <CHAR_PAR>__{}
+<ACTION>__{The ranking Confederate trots to a buggy in which three Confederate officials sit: Vice President ALEXANDER STEPHENS,}
+<LOC>__{53, short; JOHN A. CAMPBELL, Assistant Secretary of War, 54;}
+<ACTION>__{and Senator R.M.T. HUNTER, 56. They're well-dressed for winter, Stephens especially heavily bundled. Stephens, Campbell and the indignant Hunter leave the buggy and are escorted by Confederate officers to the waiting company of Union cavalry and infantry. A Union Army ambulance, a large American flag painted on one side, driven by TWO BLACK SOLDIERS, stands near broken wagons and a derelict cannon. ANOTHER BLACK SOLDIER stands at attention by the ambulance's rear door. The soldier, staring coldly at these men, gestures brusquely to the ambulance. The Confederate peace commissioners hesitate; Hunter stares in horror at the black soldiers. Then Stephens pushes past Hunter. He nods to the soldier.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with polite dignity:)}
+<DIAL>__{Much obliged.}
+<ACTION>__{He boards the ambulance. His fellow delegates follow in his wake, Hunter glaring with defiant hatred at the soldiers before climbing in.}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - EARLY EVENING}
+<ACTION>__{Seward stands, stunned. Lincoln sits at the cabinet table. Nicolay is gone.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Why wasn't I consulted?! I'm Secretary of State! You, you, you informally send a reactionary dottard, to - What will happen, do you imagine, when these peace commissioners arrive?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{We'll hear `em out.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<ACTION>__{Oh, splendid! And next the Democrats will invite `em up to hearings on the Hill, and the newspapers - well, the newspapers - the newspapers will ask "why risk enraging the Confederacy over the issue of slavery when they're here to make peace?" We'll lose every Democrat we've got, more than likely conservative Republicans will join `em, and all our work, all our preparing the ground for the vote, laid waste, for naught.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{The Blairs have promised support for the amendment if we listen to these people -}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<ACTION>__{Oh, the Blairs promise, do they? You think they'll keep their promise once we have heard these delegates and refused them? Which we will have to do, since their proposal most certainly will be predicated on keeping their slaves!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{What hope for any Democratic votes, Willum, if word gets out that I've refused a chance to end the war? You think word won't get out? In Washington?}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<ACTION>__{It's either the amendment or this Confederate peace, you cannot have both.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{"If you can look into the seeds of time, And say which grain will grow and which will not, Speak then to me..."}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<ACTION>__{Oh, disaster. This is a disaster!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Time is a great thickener of things, Willum.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Yes, I suppose it is - Actually I have no idea what you mean by that.}
+<ACTION>__{Lincoln stands.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Get me thirteen votes.}
+<DIAL_PAR>__{(in a thick Kentucky ACCENT:)}
+<DIAL>__{Them fellers from Richmond ain't here yit.}
+<LOC>__{INT. INSIDE THE AMBULANCE WAGON - DAY}
+<ACTION>__{The ambulance has come to a stop. The rear door opens and the soldiers immediately hop out. The commissioners squint, blinded, into the dazzling sunlight, at the River Queen, Grant's side-wheel steamer, docked on the banks of the James River. TITLE: US ARMY HEADQUARTERS}
+<DIAL>__{CITY POINT, VIRGINIA}
+<CHAR>__{JANUARY 12} <CHAR_PAR>__{}
+<LOC>__{INT. LINCOLN'S BEDROOM, SECOND FLOOR OF THE WHITE HOUSE -}
+<CHAR>__{LATE AFTERNOON} <CHAR_PAR>__{}
+<ACTION>__{Tad, in fancy military uniform, sits on the bed, Gardener's box of glass negatives open beside him. He holds up a plate to a lamp: An old black man with a thick beard and hair, shirtless. Tad looks at another plate: A young black woman, headscarf, huge ugly scar across her cheek and down her neck. He studies these with solemn concentration.}
+<CHAR>__{ROBERT } <CHAR_PAR>__{(O.C.)}
+<DIAL>__{You drafted half the men in Boston! What do you think their families think about me?}
+<ACTION>__{Lincoln is being dressed in formal wear by his valet, WILLIAM SLADE, a light-skinned black man in his 40s. Robert, already in his morning suit, is standing by the door.}
+<CHAR>__{ROBERT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The only reason they don't throw things and spit on me is `cause you're so popular. I can't concentrate on, on British mercantile law, I don't care about British mercantile law. I might not even want to be a lawyer -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It's a sturdy profession, and a useful one.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{Yes, and I want to be useful, but now, not afterwards!}
+<ACTION>__{Slade hands Lincoln his formal gloves.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I ain't wearing them things, Mr. Slade, they never fit right.}
+<CHAR>__{WILLIAM SLADE} <CHAR_PAR>__{}
+<DIAL>__{The missus will have you wear `em. Don't think about leaving `em.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{You're delaying, that's your favorite tactic.}
+<CHAR>__{WILLIAM SLADE ROBERT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Robert:) You won't tell me no, but the}
+<ACTION>__{Be useful and stop war will be over in a month, distracting him. and you know it will!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO ROBERT:)}
+<DIAL>__{I've found that prophesying is one of life's less prophet-able occupations!}
+<ACTION>__{He accepts the gloves. Slade laughs a little, Robert scowls. Tad holds another glass negative up to the light.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{Why do some slaves cost more than others?}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{If they're still young and healthy, if the women can still conceive, they'll pay more -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Put `em back in the box. We'll return them to Mr. Gardner's studio day after next. Be careful with `em, now.}
+<DIAL_PAR>__{(tugging at his gloves:)}
+<DIAL>__{These things should've stayed on the calf.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Slade, putting the PLATES AWAY:)}
+<DIAL>__{When you were a slave, Mr. Slade, did they beat you?}
+<CHAR>__{WILLIAM SLADE} <CHAR_PAR>__{}
+<DIAL>__{I was born a free man. Nobody beat me except I beat them right back.}
+<ACTION>__{There's a knock on the door and Mrs. Keckley enters.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Lincoln, could you come with me-}
+<CHAR>__{WILLIAM SLADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO TAD:)}
+<DIAL>__{Mrs. Keckley was a slave. Ask her if she was beaten.}
+<CHAR>__{TAD LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{Were you - (shakes his head)}
+<DIAL>__{Tad.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO TAD:)}
+<DIAL>__{I was beaten with a fire shovel when I was younger than you.}
+<DIAL_PAR>__{(TO LINCOLN:)}
+<DIAL>__{You should go to Mrs. Lincoln. She's in Willie's room.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{She never goes in there.}
+<ACTION>__{Lincoln starts towards the door just as John Hay enters, dressed in the uniform of a Brevet Colonel.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{The reception line is already stretching out the door.}
+<ACTION>__{Robert shoots an angry, envious glance at Hay's uniform as Lincoln, Slade, Mrs. Keckley and Hay leave. Robert calls to}
+<TRANS>__{HIS FATHER:}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{I'll be the only man over fifteen and under sixty-five in this whole place not in uniform.}
+<CHAR>__{TAD} <CHAR_PAR>__{}
+<DIAL>__{I'm under fifteen and I have a uniform.}
+<ACTION>__{Robert storms out.}
+<LOC>__{INT. THE PRINCE OF WALES BEDROOM - CONTINUOUS}
+<ACTION>__{Lincoln enters a dark room, its heavy drapes closed against the dim afternoon light. There are two beds. One is stripped bare. The other is canopied with a thick black veil. Mary, dressed in a deep purple gown with black flowers and beading, perfectly pitched between mourning and emergence, is seated at the head of the canopied bed. On a nightstand next to the bed there's a toy locomotive engine, a tattered book of B&O railroad schedules. Mary holds a framed photograph: an image of WILLIE, 12, handsome, bright-eyed, confident. Lincoln crosses to the window.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{My head hurts so.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{I prayed for death the night Willie died. The headaches are how I know I didn't get my wish. How to endure the long afternoon and deep into the night.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I know.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Trying not to think about him. How will I manage?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Somehow you will.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SAD SMILE:)}
+<DIAL>__{Somehow. Somehow. Somehow... Every party, every... And now, four years more in this terrible house reproaching us. He was a very sick little boy. We should've cancelled that reception, shouldn't we?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We didn't know how sick he was.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{I knew, I knew, I saw that night he was dying.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Three years ago, the war was going so badly, and we had to put on a face.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{But I saw Willie was dying. I saw HIM -}
+<ACTION>__{He bends and kisses her hand.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Molly. It's too hard. Too hard.}
+<ACTION>__{Mary stares up at him, her face heavy and swollen with grief.}
+<LOC>__{INT. THE EAST ROOM, WHITE HOUSE - LATE AFTERNOON}
+<ACTION>__{Mary, radiant, her charm turned to its brightest candlepower, is greeting the Blairs, who are part of a long receiving line. The Blairs proceed from Mary to Lincoln. TITLE: GRAND RECEPTION}
+<CHAR>__{JANUARY 15} <CHAR_PAR>__{}
+<ACTION>__{The enormous room is splendid, decked with garlands of flowers, tall candelabra burning, flags from Army divisions. An orchestra plays. Lincoln and Tad stand together. Slade is near Lincoln. Mary's a distance away from Lincoln, to his right. Robert takes his place next to his mother, as conspicuous as he'd feared he'd be in his civilian clothes. A sea of people surround the President and his family. Nicolay, Hay and several clerks channel the crowd waiting to greet the Lincolns into the line: wealthy people, many more middle-class people, some working people and farmers, and many officers and soldiers. Tad watches his father shake hands. Lincoln is in his element. He stands close to each person, touches each one gently, stoops to be nearer them; he puts everyone at ease. He's bothered only by the white kid gloves he's wearing. He tugs at the right-hand glove.}
+<CHAR>__{WILLIAM SLADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a glance in Mary's)}
+<DIAL>__{She's just ten feet yonder. I'd like to keep my job.}
+<ACTION>__{Lincoln takes off the right-hand glove - his hand-shaking hand - but keeps the other glove on. Approaching Mary on the line, Stevens, Ashley, Senators Bluff Wade and CHARLES SUMNER, all in formal wear except Stevens.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Senator Sumner, it has been much too long.}
+<CHAR>__{CHARLES SUMNER} <CHAR_PAR>__{}
+<DIAL>__{"Oh, who can look on that celestial face and -"}
+<ACTION>__{Cutting him off, she pretends not to recognize Ashley.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{And...?}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CONFUSED)}
+<DIAL>__{James Ashley, ma'am, we've met several times -}
+<ACTION>__{But she ignores him and greets Stevens.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(her Southern accent becoming more lustrous:)}
+<DIAL>__{Praise Heavens, praise Heavens, just when I had abandoned hope of amusement, it's the Chairman of the House Ways and Means Committee!}
+<ACTION>__{Stevens bows to her.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{Mrs. Lincoln.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<ACTION>__{Madame President if you please!}
+<DIAL_PAR>__{(LAUGHS)}
+<ACTION>__{Oh, don't convene another subcommittee to investigate me, sir! I'm teasing! Smile, Senator Wade.}
+<CHAR>__{BLUFF WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(NOT SMILING:)}
+<ACTION>__{I believe I am smiling, Mrs. Lincoln.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<ACTION>__{I'll take your word for that, sir!}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{As long as your household accounts are in order, Madame, we'll have no need to investigate them.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<ACTION>__{You have always taken such a lively, even prosecutorial interest in my household accounts.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{Your household accounts have always been so interesting.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<ACTION>__{Yes, thank you, it's true, the miracles I have wrought out of fertilizer bills and cutlery invoices. But I had to! Four years ago, when the President and I arrived, this was pure pigsty. Tobacco stains in the turkey carpets. Mushrooms, green as the moon, sprouting from ceilings! And a pauper's pittance allotted for improvements. As if your committee joined with all of Washington awaiting, in what you anticipated would be our comfort in squalor, further proof that my husband and I were prairie primitives, unsuited to the position to which an error of the people, a flaw in the democratic process, had elevated us. Lincoln, suddenly without anyone in line to receive, looks to see the backlog forming behind the radicals. He notes the exchange, but says nothing. Robert sees him looking.}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The past is the past, it's a new year now and we are all getting along, or so they tell me. I gather we are working together! The White House and the other House? Hatching little plans together?}
+<ACTION>__{Robert leans in to her.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{Mother?}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{You're creating a bottleneck.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Oh!}
+<DIAL_PAR>__{(TO STEVENS:)}
+<DIAL>__{Oh, I'm detaining you, and more important, the people behind you! How the people love my husband, they flock to see him, by their thousands on public days! They will never love you the way they love him. How difficult it must be for you to know that. And yet how important to remember it.}
+<ACTION>__{She gives him a slight, lethal smile. He holds the look; his poker-face yields to a barely perceptible smile, amused and perhaps a little admiring.}
+<LOC>__{INT. THE WHITE HOUSE KITCHEN - EVENING}
+<ACTION>__{The kitchen's piled with unwashed cookware, eggshells, flour bins, muffin and pastry molds, spoons and knives, the detritus of the preparations for the finger food served at the reception, which has now transitioned into a dance and is still underway upstairs. Music, the tramp of dancing feet and rhythmic clapping is audible. A BLACK FOOTMAN carrying a huge tray laden with dishes and cups comes down the stairs. He hastily beats a retreat when he sees Lincoln and Thaddeus Stevens quietly talking amid the mess.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{Since we have the floor next in the debate, I thought I'd suggest you might...temper your contributions so as not to frighten our conservative friends?}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{Ashley insists you're ensuring approval by dispensing patronage to otherwise undeserving Democrats.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{I can't ensure a single damn thing if you scare the whole House with talk of land appropriations and revolutionary tribunals and punitive thisses and thats -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{When the war ends, I intend to push for full equality, the Negro vote and much more. Congress shall mandate the seizure of every foot of rebel land and every dollar of their property. We'll use their confiscated wealth to establish hundreds of thousands of free Negro farmers, and at their side soldiers armed to occupy and transform the heritage of traitors. We'll build up a land down there of free men and free women and free children and freedom. The nation needs to know that we have such plans.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{That's the untempered version of reconstruction. It's not... It's not exactly what I intend, but we shall oppose one another in the course of time. Now we're working together, and I'm asking you -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{For patience, I expect.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<ACTION>__{When the people disagree, bringing them together requires going slow till they're ready to make up -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Ah, shit on the people and what they want and what they're ready for! I don't give a goddamn about the people and what they want! This is the face of someone who has fought long and hard for the good of the people without caring much for any of `em. And I look a lot worse without the wig. The people elected me! To represent them! To lead them! And I lead! You ought to try it!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I admire your zeal, Mr. Stevens, and I have tried to profit from the example of it. But if I'd listened to you, I'd've declared every slave free the minute the first shell struck Fort Sumter; then the border states would've gone over to the confederacy, the war would've been lost and the Union along with it, and instead of abolishing slavery, as we hope to do, in two weeks, we'd be watching helpless as infants as it spread from the American South into South America.}
+<ACTION>__{Stevens glares at him, then smiles.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Oh, how you have longed to say that to me. You claim you trust them - but you know what the people are. You know that the inner compass that should direct the soul toward justice has ossified in white men and women, north and south, unto utter uselessness through tolerating the evil of slavery. White people cannot bear the thought of sharing this country's infinite abundance with Negroes.}
+<ACTION>__{Lincoln reaches over to Stevens and gives his shoulder a vigorous shake. Stevens endures this.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{A compass, I learnt when I was surveying, it'll - it'll point you True North from where you're standing, but it's got no advice about the swamps and deserts and chasms that you'll encounter along the way. If in pursuit of your destination you plunge ahead, heedless of obstacles, and achieve nothing more than to sink in a swamp, what's the use of knowing True North?}
+<LOC>__{INT. MARY'S BOUDOIR, THE WHITE HOUSE - NIGHT}
+<ACTION>__{Spectacles on, Lincoln unlaces Mary's corset.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Robert's going to plead with us to let him enlist.}
+<ACTION>__{He's unlaced enough; she unhooks the front and steps out of her corset and petticoats, turns to him in her plain thin chemise and drawers.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Make time to talk to Robbie. You only have time for Tad.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Tad's young.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{So's Robert. Too young for the army.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Plenty of boys younger than Robert signing up...}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{Don't take Robbie. Don't let me lose my son.}
+<ACTION>__{There's a knock on the door. Mary turns to it, furious:}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Go away! We're occupied!}
+<ACTION>__{Lincoln opens the door. Nicolay's standing there.}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL>__{Secretary Stanton has sent over to tell you that as of half an hour ago, the shelling of Wilmington harbor has commenced.}
+<ACTION>__{Lincoln leaves with Nicolay. Mary watches, frozen, unable to let him go, knowing she can't stop him.}
+<LOC>__{INT. THE TELEGRAPH OFFICE, WAR DEPARTMENT - LATE NIGHT}
+<ACTION>__{The telegraph office looks improvised, even after four years. Formerly the War Department library, it's lined with bookcases stuffed with bundled dispatches. Telegraph cables stretch across the ceiling to the cipher-operators' desks. Stanton, perpetually exhausted and impatient, storms down the stairs with Welles and the chief telegraph operator, MAJOR THOMAS ECKERT, 40, in his wake.}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{They cannot possibly maintain under this kind of an assault. Terry's got ten thousand men surrounding the Goddamned fort! Why doesn't he answer my cables?}
+<CHAR>__{WELLES MAJOR ECKERT} <CHAR_PAR>__{}
+<ACTION>__{Fort Fisher is a mountain of It's the largest fort they a building, Edwin. Twenty-two have, sir. They've been big seacoast guns on each reinforcing it for the last rampart - two years - They reach the desks for the key operators. Among these, SAMUEL BECKWITH, 25, and the key manager, DAVID HOMER BATES,}
+<LOC>__{22, sit at their silent keys, waiting to receive news.}
+<ACTION>__{Stanton scribbles furiously on Beckwith's small notepad.}
+<CHAR>__{STANTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{They've taken 17,000 shells since yesterday!}
+<CHAR>__{WELLES STANTON} <CHAR_PAR>__{}
+<ACTION>__{The commander is an old goat. I want to hear that Fort}
+<DIAL>__{Fisher's ours and Wilmington MAJOR ECKERT has fallen!}
+<ACTION>__{They said -}
+<CHAR>__{STANTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Send another damn cable!}
+<ACTION>__{Stanton thrusts the cable at Beckwith, who taps it out immediately. Stanton turns to a table where the large map of Wilmington from the Cabinet meeting is laid out, heavily scribbled-on. GUSTAVUS FOX, assistant Secretary of the Navy, and CHARLES BENJAMIN, Stanton's clerk, are checking the marks on the map against a stack of dispatches.}
+<CHAR>__{STANTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The problem's their commander, Whiting. He engineered the fortress himself. The damned thing's his child; he'll defend it till his every last man is gone. He is not thinking rationally, he's -}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(O.C.)}
+<DIAL_PAR>__{(hollering!)}
+<DIAL>__{"Come on out, you old rat!"}
+<ACTION>__{Everyone's startled, and confused. They all turn to Lincoln, who sits in Major Eckert's chair, wrapped in his shawl.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That's what Ethan Allen called to the commander of Fort Ticonderoga in 1776. "Come on out, you old rat!" `Course there were only forty- odd redcoats at Ticonderoga. But, but there is one Ethan Allen story that I'm very partial to -}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{No! No, you're, you're going to tell a story! I don't believe that I can bear to listen to another one of your stories right now!}
+<ACTION>__{Stanton stalks out, shouting down the corridor as he goes:}
+<CHAR>__{STANTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I need the B&O sideyard schedules for Alexandria! I asked for them this morning!}
+<ACTION>__{Lincoln pays no attention to Stanton's fulminations and continues with his story.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It was right after the Revolution, right after peace had been concluded, and Ethan Allen went to London to help our new country conduct its business with the king. The English sneered at how rough we are, and rude and simple-minded and on like that, everywhere he went, till one day he was invited to the townhouse of a great English lord. Dinner was served, beverages imbibed, time passed, as happens, and Mr. Allen found he needed the privy. He was grateful to be directed thence - relieved you might say.}
+<ACTION>__{Everyone laughs.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Now, Mr. Allen discovered on entering the water closet that the only decoration therein was a portrait of George Washington. Ethan Allen done what he came to do and returned to the drawing room. His host and the others were disappointed when he didn't mention Washington's portrait. And finally His Lordship couldn't resist, and asked Mr. Allen had he noticed it, the picture of Washington. He had. Well, what did he think of its placement, did it seem appropriately located to Mr. Allen? Mr. Allen said it did. His host was astounded! Appropriate? George Washington's likeness in a water closet? Yes, said Mr. Allen, where it'll do good service: the whole world knows nothing'll make an Englishman shit quicker than the sight of George Washington.}
+<ACTION>__{Everyone laughs.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I love that story.}
+<ACTION>__{Beckwith's and Bates's keys starts clicking. They transcribe furiously. There's a general rush to the operators' desks. Lincoln walks quickly over, and is joined there by Stanton, who arrives just as the first dispatch has been completed and is being decoded. Stanton and Lincoln hold hands, as they've done many times, waiting for news of the battle. Bates hands the decoded cable to Benjamin, who reads it quickly, then announces to the room:}
+<CHAR>__{CHARLES BENJAMIN} <CHAR_PAR>__{}
+<DIAL>__{Fort Fisher is ours. We've taken the port.}
+<CHAR>__{WELLES} <CHAR_PAR>__{}
+<DIAL>__{And Wilmington?}
+<ACTION>__{Eckert shakes his head as Beckwith hands him the next telegram.}
+<CHAR>__{MAJOR ECKERT} <CHAR_PAR>__{}
+<DIAL>__{We've taken the fort, but the city of Wilmington has not surrendered.}
+<ACTION>__{A beat as this sinks in. Then:}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{How many casualties?}
+<ACTION>__{Eckert looks up at Stanton and Lincoln, stricken.}
+<LOC>__{INT. THE HOUSE CHAMBER - DAY}
+<ACTION>__{One representative's reading a paper with the headline: THE FALLEN AT WILMINGTON, followed by hundreds of names. Pendleton and Wood are conferring.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Heavy losses.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{And more to come.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Sours the national mood. That might suffice to discourage him -}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{To what? To bring this down? Not in a fight like this. This is to the death.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{It's gruesome!}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GETTING UPSET:)}
+<DIAL>__{Are you despairing, or merely lazy? This fight is for The United States of America! Nothing "suffices". A rumor? Nothing! They're not lazy! They're busily buying votes! While we hope to be saved by "the national mood?!"}
+<ACTION>__{He looks over at Stevens, who's at his desk consulting with Ashley and Julian.}
+<CHAR>__{GEORGE PENDLETON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Before this blood is dry, when Stevens next takes the floor, taunt him - you excel at that - get him to proclaim what we all know he believes in his coal-colored heart: that this vote is meant to set the black race on high, to niggerate America.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{George, please. Stay on course.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{Bring Stevens to full froth. I can ensure that every newspaperman from Louisville to San Francisco will be here to witness it and print it.}
+<ACTION>__{Colfax gavels the chamber to order, as George Yeaman approaches the podium.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{The floor belongs to the mellifluent gentleman from Kentucky, Mr. George Yeaman.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL>__{I thank you, Speaker Colfax.}
+<ACTION>__{The Democrats applaud as Yeaman takes his place at the podium and surveys the chamber.}
+<CHAR>__{GEORGE YEAMAN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Although I'm disgusted by slavery I rise on this sad and solemn day to announce that I'm opposed to the amendment. We must consider what will become of colored folk if four million are in one instant set free.}
+<ACTION>__{Cheers and boos.}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{They'll be free, George! That's what'll become of them! What'll become of any of us?! That's what being free means!}
+<ACTION>__{Schell, Latham, and Bilbo are perched in their usual gallery seats, taking notes.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Think how splendid if Mr. Yeaman switched.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head:)}
+<DIAL>__{Too publicly against us. He can't change course now.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Not for some miserable little job anyways.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL>__{And, and! We will be forced to enfranchise the men of the colored race - it would be inhuman not to! Who among us is prepared to give Negroes the vote?}
+<ACTION>__{He's momentarily silenced by cheers and boos throughout the chamber.}
+<CHAR>__{GEORGE YEAMAN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And, and! What shall follow upon that? Universal enfranchisement? Votes for women?}
+<ACTION>__{Yeaman is stopped, baffled and dismayed by the explosion he's provoked.}
+<LOC>__{INT. AN EMPTY COMMITTEE ROOM, THE CAPITOL - DAY}
+<ACTION>__{Hawkins enters and stops when he sees Pendleton and Wood. It's a trap. LeClerk follows, closing the door.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Bless my eyes, if it isn't the Post Master of Millersburg Ohio!}
+<ACTION>__{Hawkins looks at LeClerk, who guiltily avoids his glance.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{Mr. LeClerk felt honor-bound to inform us. Of your disgusting betrayal. Your prostitution.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Is that true, Postmaster Hawkins? Is your maidenly virtue for sale?}
+<ACTION>__{Hawkins sinks.}
+<LOC>__{EXT. A WOODS ALONG THE POTOMAC RIVER - MORNING}
+<ACTION>__{Bilbo and Clay Hawkins are again in the woods. Bilbo, with his basket, clutches a pair of noisy snared partridges.}
+<CHAR>__{CLAY HAWKINS} <CHAR_PAR>__{}
+<DIAL>__{My neighbors hear that I voted yes for nigger freedom and no to peace, they will kill me.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{A deal's a deal and you men know better than to piss your pants just cause there's talk about peace talks. W.N. BILBO (CONT'D) CLAY HAWKINS}
+<ACTION>__{My neighbors in Nashville, Look, I'll find another job. they found out I was loyal to the Union, they came after me with gelding knives! Hawkins runs away from Bilbo. Bilbo chases him.}
+<CHAR>__{CLAY HAWKINS W.N. BILBO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself, as he YOU DO RIGHT, CLAY HAWKINS! runs:) AND MAKE YOURSELF SOME MONEY}
+<ACTION>__{Any other job. IN THE BARGAIN -}
+<CHAR>__{CLAY HAWKINS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turning back to Bilbo:)}
+<DIAL>__{I want to do right! But I got no courage!!!}
+<ACTION>__{Hawkins runs away, sobbing. Bilbo pursues.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Wait!! You wanted, what was it, tax man for the Western Reserve, hell you can have the whole state of Ohio if you -}
+<ACTION>__{Bilbo stops, winded.}
+<CHAR>__{W.N. BILBO } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Aw, crap.}
+<LOC>__{EXT. IN A BACK ALLEY, SOMEWHERE IN WASHINGTON - AFTERNOON}
+<ACTION>__{Seward, smoking unhappily, strides toward his carriage, with Schell, Latham and Bilbo in pursuit.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Eleven votes?! Two days ago we had twelve!! What happened?}
+<CHAR>__{RICHARD SCHELL ROBERT LATHAM} <CHAR_PAR>__{}
+<ACTION>__{It's the goddamned rumors There are defections in the regarding the Richmond ranks... Yes! The peace delegation. offer!}
+<CHAR>__{SEWARD ROBERT LATHAM} <CHAR_PAR>__{}
+<ACTION>__{Groundless. I told you that. And yet the rumors persist.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{They are ruining us.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Among the few remaining representatives who seem remotely plausible there is a perceptible increase in resistance.}
+<ACTION>__{Seward has reached the carriage, Bilbo alongside him. Before the Secretary of State can climb on board, Bilbo shuts the carriage door. Seward is outraged.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Resistance, hell! Thingamabob Hollister, Dem from Indiana? I approached him, the sumbitch near to murdered me!}
+<LOC>__{EXT. A STREET IN GEORGETOWN - NIGHT}
+<ACTION>__{Bilbo is talking to HAROLD HOLLISTER (D, IN), who pulls out a derringer. Bilbo bolts, dropping the folder. He stops, runs back, and bends to retrieve the folio as Hollister fires the gun over Bilbo's head.}
+<LOC>__{EXT. IN A BACK ALLEY, SOMEWHERE IN WASHINGTON - AFTERNOON}
+<ACTION>__{Seward, now inside the carriage, slams the door.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Perhaps you push too hard.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{I push nobody. Perhaps we need reinforcements. If Jeff Davis wants to cease hostilities, who do you think'll give a genuine solid shit to free slaves?}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Get back to it, and good day, gentlemen.}
+<ACTION>__{Schell and Latham lean in to the carriage.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{We are at an impasse.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Tell Lincoln to deny the rumors. Publicly.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Tell us what you expect of us.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{I expect you to do your work! And to have sufficient sense and taste not to presume to instruct the President. Or me.}
+<ACTION>__{Schell steps up on the running board, intent.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Is there a Confederate offer or not?}
+<LOC>__{EXT. THE JAMES RIVER DOCK AT CITY POINT, VIRGINIA - DAY}
+<ACTION>__{ULYSSES S. GRANT, 43, 5'7", beard, uniform worn and rumpled, crosses the dock, followed by three aides. They approach the gangway for the River Queen.}
+<LOC>__{INT. THE RIVER QUEEN SALOON, CITY POINT, VIRGINIA - DAY}
+<ACTION>__{Grant and the commissioners stand in an expansive cabin at the stern, patriotically decorated, large windows. Grant hands the commissioners' peace proposal back to them. He's scribbled notes all over the document.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{I suggest you work some changes to your proposal before you give it to the President.}
+<CHAR>__{R.M.T HUNTER} <CHAR_PAR>__{}
+<DIAL>__{We're eager to be on our way to Washington.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Did Mr. Lincoln tell you to tell us this, General Grant?}
+<ACTION>__{Grant fixes Stephens with a look - bemused, a little disappointed.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{It says..."securing peace for our two countries." And it goes on like that.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{I don't know what you -}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{There's just one country. You and I, we're citizens of that country. I'm fighting to protect it from armed rebels. From you.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{But Mr. Blair told us, he, he told President Davis we were -}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{A private citizen like Preston Blair can say what he pleases, since he has no authority over anything. If you want to discuss peace with President Lincoln, consider revisions.}
+<ACTION>__{He lights a cigar.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{If we're not to discuss a truce between warring nations, what in heaven's name can we discuss?}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{Terms of surrender.}
+<LOC>__{EXT. THE JAMES RIVER DOCK AT CITY POINT, VIRGINIA - DAY}
+<ACTION>__{As a somber Grant disembarks with his aides from the River}
+<TRANS>__{QUEEN:}
+<CHAR>__{GRANT } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{"Office United States Military Telegraph, War Dept. For Abraham Lincoln, President of the United States. January 20, 1865. I will state confidentially that I am convinced, upon conversation with these Commissioners, that their intentions are good and their desire sincere to restore peace and union. I fear now their going back, without any expression of interest..."}
+<ACTION>__{Seward's voice takes over from Grant's.}
+<DIAL>__{GRANT (V.O.) (CONT'D) SEWARD (V.O.)}
+<ACTION>__{"...from anyone in authority, "...from anyone in authority, Mr. Lincoln..." Mr. Lincoln..."}
+<LOC>__{INT. SEWARD MANSION, LAFAYETTE SQUARE, WASHINGTON - NIGHT}
+<ACTION>__{Seward's in a fancy robe and slippers, reading a telegram.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{"...will have a bad influence. I will be sorry should it prove impossible for you to have an interview with them. I am awaiting your instructions. U.S. Grant, Lieutenant General Commanding Armies United States"}
+<ACTION>__{Lincoln is in his coat, shawl over his shoulders, holding his hat.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{After four years of war and near 600,000 lives lost. He believes we can end this war now. My trust in him is marrow deep.}
+<ACTION>__{Seward looks up at Lincoln, then down again at the telegram. He stands and crosses to Lincoln.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{You could bring the delegates to Washington. In exchange for the South's immediate surrender, we could promise them the amendment's defeat. They'd agree, don't you think? We'd end the war. This week.}
+<ACTION>__{Lincoln has closed his eyes.}
+<CHAR>__{SEWARD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Or. If you could manage, without seeming to do it, to -}
+<ACTION>__{Lincoln shakes his head "no."}
+<CHAR>__{SEWARD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The peace delegation might encounter delays as they travel up the James River. Particularly with the fighting around Wilmington. Within ten days time, we might pass the Thirteenth Amendment.}
+<LOC>__{INT. HALLWAY, THE WHITE HOUSE - LATE NIGHT}
+<ACTION>__{Lincoln, shawl still wrapped around him, walks the long empty hall.}
+<LOC>__{INT. LINCOLN'S OFFICE, WHITE HOUSE - LATE NIGHT}
+<ACTION>__{Lincoln sits before an open window. He's dishevelled, in shirtsleeves an unbuttoned vest, next to an inkwell, papers and books of law scattered about, and a lit candle in a candlestick, guttering. Grant's telegraph is in one hand, and in the other hand, his spectacles and, dangling from a chain, his open pocket watch. His bare left foot keeps time with the watch's loud ticking. He stares out into the cold night.}
+<LOC>__{INT. JOHN HAY AND JOHN NICOLAY'S BEDROOM - EVEN LATER}
+<ACTION>__{The room is spare and neat. Nicolay and Hay are asleep in their beds. Lincoln is sitting at the foot of Hay's bed, spectacles on, reading a petition, the others in his lap, pencil in hand.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Now, here's a sixteen year old boy. They're going to hang him...}
+<ACTION>__{Hay startles awake, then settles. He's used to this.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(he reads a little FURTHER:)}
+<DIAL>__{He was with the 15th Indiana Calvary near Beaufort, seems he lamed his horse to avoid battle. I don't think even Stanton would complain if I pardoned him? You think Stanton would complain?}
+<ACTION>__{Nicolay stirs in the next bed.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{Ummm... I don't know, sir, I don't know who you're, uh... What time is it?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It's three forty in the morning.}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not waking up:)}
+<DIAL>__{Don't... let him pardon any more deserters...}
+<ACTION>__{Nicolay's asleep again.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Stanton thinks you pardon too many. He's generally apoplectic on the subject -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{He oughtn't to have done that, crippled his horse, that was cruel, but you don't just hang a sixteen year old boy for that -}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{Ask the horse what he thinks.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{- for cruelty. There'd be no sixteen year old boys left.}
+<DIAL_PAR>__{(a beat, then:)}
+<DIAL>__{Grant wants me to bring the secesh delegates to Washington.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{So... There are secesh delegates?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(scribbling a note, signing the petition:)}
+<DIAL>__{He was afraid, that's all it was. I don't care to hang a boy for being frightened, either. What good would it do him?}
+<ACTION>__{He signs the pardon. Then he gives Hay's leg a few hard thwacks and a squeeze. It hurts a little. Hay winces.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{War's nearly done. Ain't that so? What use one more corpse? Any more corpses?}
+<ACTION>__{Putting the rest of the petitions on Hay's bed, he stands to leave.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{Do you need company?}
+<LOC>__{INT. HALLWAY, THE WHITE HOUSE - LATE NIGHT}
+<ACTION>__{As before, Lincoln continues his slow and solitary walk.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Times like this, I'm best alone.}
+<LOC>__{INT. THE TELEGRAPH ROOM, WAR DEPARTMENT - PRE-DAWN}
+<ACTION>__{Lincoln is seated at Eckert's desk, shawl wrapped around his shoulders, glasses on; he stares down into his hat, held between his knees. Homer Bates and Sam Beckwith are waiting for him. Lincoln draws a handwritten note from his hat and carefully unfolds it.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{"Lieutenant General Ulysses S. Grant, City Point. I have read your words with interest."}
+<ACTION>__{Sam Beckwith transcribes Lincoln's words into code on a pad with a pencil.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"I ask that, regardless of any action I take in the matter of the visit of the Richmond commissioners, you maintain among your troops military preparedness for battle, as you have done until now."}
+<ACTION>__{He stops for a moment. Beckwith waits, pencil poised. Lincoln looks at the note, folds it, tucks it in a band inside his hat.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"Have Captain Saunders convey the commissioners to me here in Washington."}
+<DIAL_PAR>__{(ANOTHER PAUSE)}
+<DIAL>__{"A. Lincoln." And the date.}
+<CHAR>__{SAMUEL BECKWITH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(WHILE WRITING:)}
+<DIAL>__{Yes sir.}
+<ACTION>__{Lincoln places the hat on the floor.}
+<CHAR>__{SAMUEL BECKWITH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Shall I transmit, sir?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a beat, then:)}
+<DIAL>__{You think we choose to be born?}
+<CHAR>__{SAMUEL BECKWITH} <CHAR_PAR>__{}
+<DIAL>__{I don't suppose so.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Are we fitted to the times we're born into?}
+<CHAR>__{SAMUEL BECKWITH} <CHAR_PAR>__{}
+<DIAL>__{I don't know about myself. You may be, sir. Fitted.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO HOMER:)}
+<DIAL>__{What do you reckon?}
+<CHAR>__{HOMER BATES} <CHAR_PAR>__{}
+<DIAL>__{I'm an engineer. I reckon there's machinery but no one's done the fitting.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{You're an engineer, you must know Euclid's axioms and common notions.}
+<CHAR>__{HOMER BATES} <CHAR_PAR>__{}
+<DIAL>__{I must've in school, but...}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I never had much of schooling, but I read Euclid, in an old book I borrowed. Little enough ever found its way in here -}
+<DIAL_PAR>__{(touching his cranium)}
+<DIAL>__{- but once learnt it stayed learnt. Euclid's first common notion is this: "Things which are equal to the same thing are equal to each other."}
+<ACTION>__{Homer doesn't get it; neither does Sam.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That's a rule of mathematical reasoning. It's true because it works; has done and always will do. In his book, Euclid says this is "self-evident."}
+<DIAL_PAR>__{(A BEAT)}
+<DIAL>__{D'you see? There it is, even in that two-thousand year old book of mechanical law: it is a self- evident truth that things which are equal to the same thing are equal to each other. We begin with equality. That's the origin, isn't it? That balance, that's fairness, that's justice.}
+<ACTION>__{He looks at his scribbled note, then at Sam and Homer.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Read me the last sentence of my telegram.}
+<CHAR>__{SAMUEL BECKWITH} <CHAR_PAR>__{}
+<DIAL>__{"Have Captain Saunders convey the commissioners to me here in Washington."}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{A slight emendation, Sam, if you would.}
+<ACTION>__{Beckwith writes as Lincoln dictates.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"Have Captain Saunders convey the gentlemen aboard the River Queen as far as Hampton Roads, Virginia, and there wait until..."}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{"...further advice from me. Do not proceed to Washington."}
+<LOC>__{INT. HOUSE CHAMBER, THE CAPITOL - LATE MORNING}
+<ACTION>__{The chamber's noisy and packed. In the balcony's front row, a wall of newspapermen, notebooks at the ready. TITLE: HOUSE OF REPRESENTATIVES}
+<CHAR>__{JANUARY 27} <CHAR_PAR>__{}
+<ACTION>__{Ashley, Colfax, and Stevens approach Stevens's desk. Colfax nods towards the journalists in the balcony:}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{The World, the Herald and the Times, New York, Chicago, the Journal of Commerce, even your hometown paper's here.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO STEVENS:)}
+<DIAL>__{Say you believe only in legal equality for all races, not racial equality, I beg you, sir. Compromise. Or you risk it all.}
+<ACTION>__{Stevens sees Mary, with Mrs. Keckley, claiming front seats from two journalists.}
+<LOC>__{INT. HOUSE CHAMBER, THE CAPITOL - LATER}
+<ACTION>__{Stevens, at the podium, is being challenged by Fernando Wood, standing at his desk.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{I've asked you a question, Mr. Stevens, and you must answer me. Do you or do you not hold that the precept that "all men are created equal" is meant literally?}
+<ACTION>__{All eyes are on Stevens, the chamber quiet except for a scratching sound: the journalists have begun scribbling.}
+<CHAR>__{FERNANDO WOOD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Is that not the true purpose of the amendment? To promote your ultimate and ardent dream to elevate -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{The true purpose of the amendment, Mr. Wood, you perfectly-named, brainless, obstructive object?}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{You have always insisted, Mr. Stevens, that Negroes are the same as white men are.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{The true purpose of the amendment -}
+<ACTION>__{Stevens looks up at the balcony, at the waiting journalists, and Mary, who raises her eyebrows, then at Ashley and Litton at their desks. Seward watches from the balcony. Stevens returns to Wood.}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't hold with equality in all things only with equality before the law and nothing more.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SURPRISED:)}
+<DIAL>__{That's not so! You believe that Negroes are entirely equal to white men. You've said it a thousand TIMES -}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(leaping to his feet)}
+<DIAL>__{For shame! For shame! Stop prevaricating and answer Representative Wood!}
+<CHAR>__{THADDEUS STEVENS GEORGE PENDLETON} <CHAR_PAR>__{}
+<ACTION>__{I don't hold with equality in (stands:) all things, only with After the decades of fervent equality before the law and advocacy on behalf of the nothing more. colored race -}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LEAPING UP:)}
+<DIAL>__{He's answered your questions! This amendment has naught to do with race equality!}
+<ACTION>__{Pendleton persists, through cheers and catcalls.}
+<CHAR>__{GEORGE PENDLETON THADDEUS STEVENS} <CHAR_PAR>__{}
+<ACTION>__{You have long insisted, have I don't hold with equality in you not, that the dusk- all things only with equality colored race is no different before the law and nothing from the white one. more. Among the amendment's supporters, including Vintner Litton, a GROUP OF WOMEN SUFFRAGISTS in the balcony, and Elizabeth Keckley, there's visible, audible shock and dismay at Stevens's capitulation. Mary's surprised by Stevens, and impressed.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering to Mrs. KECKLEY:)}
+<DIAL>__{Who'd ever've guessed that old nightmare capable of such control? He might make a politician someday -}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STANDING ABRUPTLY:)}
+<DIAL>__{I need to go.}
+<ACTION>__{Mary's startled. Mrs. Keckley leaves the balcony, pushing past journalists. On the floor:}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{Your frantic attempt to delude us now is unworthy of a representative. It is, in fact, unworthy of a white man!}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(giving in to his anger:)}
+<DIAL>__{How can I hold that all men are created equal, when here before me -}
+<DIAL_PAR>__{(pointing to Pendleton:)}
+<DIAL>__{- stands stinking the moral carcass of the gentleman from Ohio, proof that some men are inferior, endowed by their Maker with dim wits impermeable to reason with cold pallid slime in their veins instead of hot red blood! You are more reptile than man, George, so low and flat that the foot of man is incapable of crushing you!}
+<ACTION>__{General uproar.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{HOW DARE YOU!}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Yet even you, Pendleton, who should have been gibbetted for treason long before today, even worthless unworthy you ought to be treated equally before the law! And so again, sir, and again and again and again I say: i do not hold with equality in all things. only with equality before the law.}
+<ACTION>__{Ashley sits, nearly weeping with relief, while the chamber explodes: laughter, applause, boos.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{mr. speaker, will you permit this vile boorish man to slander and to threaten me and -}
+<ACTION>__{The journalists pack up their notebooks; this is fun, but not newsworthy, and only a few bother to record it. Stevens limps out through the aisle to wild Republican applause. He looks up to the balcony; Mary is looking down approvingly. He looks down before she can see him smile.}
+<LOC>__{INT. A CORRIDOR OUTSIDE THE HOUSE CHAMBER - LATER}
+<ACTION>__{Stevens sits on a bench, alone, thinking, troubled. Asa Vintner Litton approaches him.}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{You asked if ever I was surprised.}
+<ACTION>__{Stevens nods.}
+<CHAR>__{ASA VINTNER LITTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Today, Mr. Stevens, I was surprised. You've led the battle for race equality for thirty years! The basis of, of every hope for this country's future life, you denied Negro equality! I'm nauseated. You refused to say that all humans are, well... human! Have you lost your very soul, Mr. Stevens? Is there nothing you won't say?}
+<ACTION>__{Stevens nods, then, quietly:}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry you're nauseous, Asa, that must be unpleasant. I want the amendment to pass. So that the Constitution's first and only mention of slavery is its absolute prohibition. For this amendment, for which I have worked all of my life and for which countless colored men and women have fought and died and now hundreds of thousands of soldiers - no, sir, no, it seems there is very nearly nothing I won't say.}
+<LOC>__{EXT. THE STREETS OF WASHINGTON - MORNING}
+<ACTION>__{Lincoln and Robert are in the buggy driven by the old soldier; a young bodyguard soldier sits beside the driver, his rifle uselessly tucked under his legs. Lincoln is on one side reading over a stack of documents. Robert's on the other side of the buggy, staring sullenly at his feet. The buggy stops outside an army hospital. Lincoln packs up his papers.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{I'm not going in.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{You said you wanted to help me.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{This is - This is just a clumsy attempt at discouragement. I've been to army hospitals, I've seen surgeries, I went and visited the malaria barges with mama.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{She told me she didn't take you inside.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{I snuck in after - I've seen what it's like. This changes nothing.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{At all rates, I'm happy to have your company.}
+<ACTION>__{Stepping out of the buggy, he hands his folio to the bodyguard and enters the army hospital.}
+<LOC>__{INT. ARMY HOSPITAL - MORNING}
+<ACTION>__{He's met in the antechamber by an ARMY SURGEON.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Morning, Jim.}
+<CHAR>__{ARMY SURGEON} <CHAR_PAR>__{}
+<DIAL>__{Hello, Mr. President.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Good to see you again.}
+<ACTION>__{They move into the main ward, Lincoln removing his hat.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well, boys, first question: You getting enough to eat?}
+<ACTION>__{He walks from bed to bed, shaking hands with each patient. Most are amputees.}
+<CHAR>__{FIRST PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Hello, sir.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What's your name, soldier?}
+<CHAR>__{FIRST PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Robert.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Robert. Good to meet you, Robert.}
+<CHAR>__{SECOND PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What's your name?}
+<CHAR>__{SECOND PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Kevin.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Tell me your names as I go past. I like to know who I'm talkin' to. Kevin.}
+<CHAR>__{THIRD PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Mr. President. John.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{John. I've seen you before.}
+<CHAR>__{FOURTH PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Mr. President...}
+<LOC>__{EXT. OUTSIDE THE ARMY HOSPITAL - MORNING}
+<ACTION>__{Robert, brooding, waits in the buggy. Hearing a creaking, rumbling sound, Robert turns to see TWO BLACK ORDERLIES in grey uniforms wrangling a large top-heavy wheelbarrow, covered with filthy canvas. One orderly pushes while the other keeps the barrow from tipping over. Robert notices, in the barrow's wake, a trail of blood. He gets out of the buggy and follows as the orderlies turn a corner of the building. Behind the building, where the ground is bare, pitted with puddles of water, Robert watches as the orderlies reach the edge of a shallow pit. One orderly pulls the canvas back, revealing severed legs, arms, hands, rotten, burnt, shattered by bullet or bomb. Robert watches as they toss the remains into the pit. Quicklime is shoveled atop the limbs. Robert walks away, unsteady. Around the corner, he fumbles through his pockets for rolling paper and tobacco. He locates these and tries to focus on rolling a cigarette, his hands shaking. He tries harder to control his hands, his feelings, but he can't. He has a panic attack, crying, hiccupy shallow breathing, face flushed. Frustrated, he throws down the cigarette and tries to hold back tears.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(O.C.)}
+<DIAL>__{What's the matter, Bob?}
+<ACTION>__{Robert looks up, mortified, to see Lincoln watching him with concern. He wipes his eyes, his mouth.}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{I have to do this! And I will do it and I don't need your permission to enlist.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{That same speech has been made by how many sons to how many fathers since the war began? "I don't need your damn permission, you miserable old goat, I'm gonna enlist anyhow!" And what wouldn't those numberless fathers have given to be able to say to their sons - as I now say to mine - "I'm commander-in-chief, so in point of fact, without my permission, you ain't enlisting in nothing, nowhere, young man."}
+<CHAR>__{ROBERT} <CHAR_PAR>__{}
+<DIAL>__{It's mama you're scared of, not me getting killed.}
+<ACTION>__{Lincoln slaps Robert in the face. It shocks them both. Lincoln tries to embrace Robert, but Robert shoulders past him and walks back toward the front of he building. He turns.}
+<CHAR>__{ROBERT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I have to do this! And I will! Or I will feel ashamed of myself for the rest of my life. Whether or not you fought is what's gonna matter. And not just to other people, but to myself. I won't be you, pa. I can't do that. But I don't want to be nothing.}
+<ACTION>__{He hurries away.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We can't lose you.}
+<LOC>__{INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT}
+<ACTION>__{Outside, driving rain and wind. Lincoln sits by the window, in his coat, vest and tie, hair combed neatly.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{He'll be fine, Molly. City Point's far from the front lines, from the fighting, he'll be an adjutant running messages for General Grant.}
+<ACTION>__{Mary sits at her vanity in a beautiful evening dress, pale with rage.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{The war will take our son! A sniper, or a shrapnel shell! Or typhus, same as took Willie, it takes hundreds of boys a day! He'll die, uselessly, and how will I ever forgive you? Most men, their firstborn is their favorite, but you, you've always blamed Robert for being born, for trapping you in a marriage that's only ever given you grief and caused you regret!}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{That's not true -}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{And if the slaughter of Cold Harbor is on your hands same as Grant, God help us! We'll pay for the oceans of spilled blood you've sanctioned, the uncountable corpses we'll be made to pay with our son's dear BLOOD -}
+<ACTION>__{Lincoln rises from the window seat, angry.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Just, just this once, Mrs. Lincoln, I demand of you to try and take the liberal and not the selfish point of view! You imagine Robert will forgive us if we continue to stifle his very natural ambition?!}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a mocking smile:)}
+<DIAL>__{And if I refuse to take the high road, if I won't take up the rough old cross, will you threaten me again with the madhouse, as you did when I couldn't stop crying over Willie, when I showed you what heartbreak, real heartbreak looked like, and you hadn't the courage to countenance it, to help me -}
+<CHAR>__{LINCOLN MARY} <CHAR_PAR>__{}
+<ACTION>__{That's right. When you I was in the room with refused so much as to comfort Willie, I was holding him in Tad - my arms as he died!}
+<CHAR>__{LINCOLN MARY} <CHAR_PAR>__{}
+<ACTION>__{- the child who was not only How dare you! sick, dangerously sick, but beside himself with grief?}
+<CHAR>__{LINCOLN MARY} <CHAR_PAR>__{}
+<ACTION>__{Oh but your grief, your How dare you throw that at grief, your inexhaustible me?! grief!}
+<CHAR>__{LINCOLN MARY} <CHAR_PAR>__{}
+<ACTION>__{And his mother won't let him I couldn't let Tad in! I near her, `cause she's couldn't risk him seeing how screaming from morning to angry I was! night pacing the corridors, howling at shadows and furniture and ghosts! I ought to have done it, I ought have done for Tad's sake, for everybody's goddamned sake, I should have clapped you in the madhouse!}
+<CHAR>__{MARY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{THEN DO IT! Do it! Don't you threaten me, you do it this time! Lock me away! You'll have to, I swear, if Robert is killed!}
+<ACTION>__{Silence. Then:}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I couldn't tolerate you grieving so for Willie because I couldn't permit it in myself, though I wanted to, Mary. I wanted to crawl under the earth, into the vault with his coffin. I still do. Every day I do. Don't... talk to me about grief.}
+<DIAL_PAR>__{(BEAT:)}
+<DIAL>__{I must make my decisions, Bob must make his, you yours. And bear what we must, hold and carry what we must. What I carry within me - you must allow me to do it, alone as I must. And you alone, Mary, you alone may lighten this burden, or render it intolerable. As you choose.}
+<ACTION>__{She opens her mouth to make an angry reply, then stops, and watches as he leaves the room.}
+<LOC>__{INT. ODD FELLOWS' HALL, WASHINGTON - NIGHT}
+<ACTION>__{Onstage, Gounod's Faust, Act Three, scene eight, the garden outside Marguerite's cottage, a gorgeously romantic night. MARGUERITE and FAUST are alone singing. The Lincolns, in their box, watch quietly. Elizabeth Keckley sits next to Mary. Mary turns to Lincoln. They speak in whispers. Mrs. Keckley tries not to listen but she can't help hearing what they say.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{You think I'm ignorant of what you're up to because you haven't discussed this scheme with me as you ought to have done. When have I ever been so easily bamboozled?}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{I believe you when you insist that amending the constitution and abolishing slavery will end this war. And since you are sending my son into the war, woe unto you if you fail to pass the amendment.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Seward doesn't want me leaving big muddy footprints all over town.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{No one ever lived who knows better than you the proper placement of footfalls on treacherous paths. Seward can't do it. You must. Because if you fail to secure the necessary votes, woe unto you, sir. You will answer to me.}
+<LOC>__{EXT. THE PORTICO OF THE WHITE HOUSE - A SHORT WHILE LATER}
+<ACTION>__{The carriage has pulled up and Mary is entering the White House. Lincoln helps Mrs. Keckley down from the carriage. She hesitates before proceeding in. Then she faces Lincoln.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{I know the vote is only four days away; I know you're concerned. Thank you for your concern over this, and I want you to know: They'll approve it. God will see to it.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I don't envy him his task. He may wish He'd chosen an instrument for His purpose more wieldy than the House of Representatives.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{Then you'll see to it.}
+<ACTION>__{Lincoln looks at her, considering. Then:}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Are you afraid of what lies ahead? For your people? If we succeed?}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{White people don't want us here.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Many don't.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{What about you?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I...I don't know you, Mrs. Keckley. Any of you. You're ...familiar to me, as all people are. Unaccommodated, poor, bare, forked creatures such as we all are. You have a right to expect what I expect, and likely our expectations are not incomprehensible to each other. I assume I'll get used to you. But what you are to the nation, what'll become of you once slavery's day is done, I don't know.}
+<CHAR>__{ELIZABETH KECKLEY} <CHAR_PAR>__{}
+<DIAL>__{What my people are to be, I can't say. Negroes have been fighting and dying for freedom since the first of us was a slave. I never heard any ask what freedom will bring. Freedom's first. As for me: My son died, fighting for the Union, wearing the Union blue. For freedom he died. I'm his mother. That's what I am to the nation, Mr. Lincoln. What else must I be?}
+<LOC>__{INT. A BEDROOM IN THE ST. CHARLES HOTEL - LATE NIGHT}
+<ACTION>__{The room is far filthier and more cluttered than before. Bilbo and Latham are playing cards. Schell is asleep in bed.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{My whole hand's gonna be proud in about five seconds, let's see how proud you gonna be.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Oh, it is? What you got goin'?}
+<ACTION>__{There's a quick knock on the door.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Go away!}
+<DIAL_PAR>__{(TO BILBO)}
+<DIAL>__{That watch fob, is that gold?}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{You keep your eyes off my fob!}
+<ACTION>__{Seward enters, displeased, as they show their cards, laughing.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Nines paired!}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Oh my God damn!}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen. You have a visitor.}
+<ACTION>__{Latham jovially collects his winnings. He stops short when Lincoln steps into the room, cloak and stovepipe, very tall.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Well, I'll be fucked.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I wouldn't bet against it, Mr...?}
+<ACTION>__{Schell startles awake as Bilbo puts down his cigar and wipes his hand on his vest.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{W.N. Bilbo.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Bilbo. Gentlemen.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Sir...}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Why are you here? No offense, but Mr. Seward's banished the very mention of your name, he won't even let us use fifty-cent pieces `cause they got your face on `em.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{The Secretary of State here tells me that, uh, you got eleven Democrats in the bag. That's encouraging.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Oh, you've got no cause to be encouraged. Sir. Uh...}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Are we being...fired?}
+<ACTION>__{Lincoln sits at the card table.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{"We have heard the chimes of midnight, Master Shallow." I'm here to alert you boys that the great day of reckoning is nigh upon us.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{The Democrats we've yet to bag, sir. The patronage jobs simply won't bag `em. They require more...convincing, Mr. President.}
+<ACTION>__{Lincoln nods. He turns to Bilbo.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Mm-hmm. Do me a favor, willya?}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Snagged my eye in the paper this morning. Governor Curtin is set to declare a winner in the disputed Congressional election for the -}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Pennsylvania 16th District.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{What a joy to be comprehended. Hop on a train to Philadell, call on the Governor -}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking askance at BILBO'S APPEARANCE:)}
+<DIAL>__{Send Latham. Or Schell.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO BILBO:)}
+<DIAL>__{No, he'll do fine, just polish yourself up first.}
+<ACTION>__{Bilbo, cigar back in mouth, laughs.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{The incumbent is claiming he won it. Name of, uh...}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Coffroth.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{That's him.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Coffroth. He is a Democrat.}
+<CHAR>__{LINCOLN W.N. BILBO} <CHAR_PAR>__{}
+<ACTION>__{I understand he is. Silly name. Let Governor Curtin know it'd be much appreciated if he'd invite the House of Representatives to decide who won. He's entitled to do that. He'll agree to it.}
+<DIAL_PAR>__{(TO SCHELL:)}
+<ACTION>__{Then advise Coffroth, if he hopes to retain his seat, that he'd better pay a visit to Thaddeus Stevens.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Pity poor Coffroth.}
+<LOC>__{INT. THADDEUS STEVENS'S OFFICE, THE CAPITOL - NIGHT}
+<ACTION>__{Stevens is at his desk, paperwork piled high. There's a knock at the door.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{It opens!}
+<ACTION>__{A nervous man enters hesitantly: Alexander Coffroth. Stevens glares at him with what looks like horror. Coffroth's frightened smile transforms into a rictus of pain. Then:}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You are Canfrey?}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Coffroth, Mr. Stevens, Alexander Coffroth, I'm, I'm -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SKEPTICAL)}
+<DIAL>__{Are we representatives of the same state?}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Y-yes sir! We sit only three desks APART -}
+<ACTION>__{Stevens waves him into a chair.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I haven't noticed you. I'm a Republican, and you, Coughdrop, are a Democrat?}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Well, I... Um, that is to say... I -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{The modern travesty of Thomas Jefferson's political organization to which you have attached yourself like a barnacle has the effrontery to call itself The Democratic Party. You are a Dem-o-crat. What's the matter with you? Are you wicked?}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Well, I felt, um, formerly, I -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Never mind, Coffsnot. You were ignominiously trounced at the hustings in November's election by your worthy challenger, a REPUBLICAN -}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{No, sir, I was not, um, trounced! Uh, he wants to steal my seat! I didn't lose the election -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{What difference does it make if you lost or not?! The governor of our state, is...? A Democrat?}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{No, he's a...}
+<DIAL_PAR>__{(baffled, terrified:)}
+<DIAL>__{A, um, a Ruh...}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Re.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Re.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(NODS)}
+<DIAL>__{Pub.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Pub.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Li.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Li.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Can.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Can. Republican.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I know what he is. This is a rhetorical exercise. And Congress is controlled by what party? Yours?}
+<ACTION>__{Coffroth doesn't know whether to answer. He shakes his head.}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Your party was beaten, your challenger's party now controls the House, and hence the House Committee on Elections, so you have been beaten. You shall shortly be sent home in disgrace. Unless.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{I know what I must do, sir! I will immediately become a Republican and vote yes for -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{NO! Coffroth will vote yes but Coffroth will remain a Democrat until after he does so.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL>__{Why wait to switch? I'm happy to SWITCH -}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{We want to show the amendment has bipartisan support, you idiot. Early in the next Congress, when I tell you to do so, you will switch parties. Now congratulations on your victory, and get out.}
+<LOC>__{INT. A BEDROOM IN THE ST. CHARLES HOTEL - LATE NIGHT}
+<ACTION>__{Continue with Lincoln and his operatives around the card table.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Now give me the names of whoever else you been hunting.}
+<ACTION>__{Schell, Latham and Bilbo exchange looks, then:}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{George Yeaman.}
+<CHAR>__{RICHARD SCHELL} <CHAR_PAR>__{}
+<DIAL>__{Yes. Yeaman.}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Among others. But Yeaman: That'd count.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(HELPFULLY)}
+<DIAL>__{Y-E-A-M-A-N}
+<ACTION>__{Lincoln looks up from his notepad, smiling.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I got it.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Kentucky.}
+<LOC>__{INT. SEWARD'S OFFICE, STATE DEPARTMENT - DAY}
+<ACTION>__{Seward sits at his grand desk, looking on with an anxious scowl. Lincoln sits on the edge of Seward's desk. Yeaman sits in a chair facing him.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL>__{I can't vote for the amendment, Mr. Lincoln.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I saw a barge once, Mr. Yeaman, filled with colored men in chains, heading down the Mississippi to the New Orleans slave markets. It sickened me, `n more than that, it brought a shadow down, a pall around my eyes.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Slavery troubled me, as long as I can remember, in a way it never troubled my father, though he hated it. In his own fashion. He knew no smallholding dirt farmer could compete with slave plantations. He took us out from Kentucky to get away from `em. He wanted Indiana kept free. He wasn't a kind man, but there was a rough moral urge for fairness, for freedom in him. I learnt that from him, I suppose, if little else from him. We didn't care for one another, Mr. Yeaman.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(EMBARRASSED)}
+<DIAL>__{I... Well, I'm sorry to hear that -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Lovingkindness, that most ordinary thing, came to me from other sources. I'm grateful for that.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL>__{I hate it, too, sir, slavery, but - but we're entirely unready for emancipation. There's too many QUESTIONS -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHS)}
+<DIAL>__{We're unready for peace too, ain't we? When it comes, it'll present us with conundrums and dangers greater than any we've faced during the war, bloody as it's been. We'll have to extemporize and experiment with what it is when it is.}
+<ACTION>__{Lincoln moves from the desk to take the seat beside Yeaman, no longer towering over him. He leans forward and rests a hand on Yeaman's knee.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I read your speech, George. Negroes and the vote, that's a puzzle.}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL>__{No, no, but, but, but - But Negroes can't, um, vote, Mr. Lincoln. You're not suggesting that we enfranchise colored people.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I'm asking only that you disenthrall yourself from the slave powers. I'll let you know when there's an offer on my desk for surrender. There's none before us now. What's before us now, that's the vote on the Thirteenth Amendment. It's going to be so very close. You see what you can do.}
+<ACTION>__{Lincoln leaves Yeaman, considering.}
+<LOC>__{EXT. A WORKING CLASS NEIGHBORHOOD IN WASHINGTON - NIGHT}
+<ACTION>__{Lincoln stands in front of William Hutton's row house, talking to Hutton. The funeral wreath still hangs on the door behind them, displaying the marks of time passing: faded, weatherbeaten, dusty.}
+<CHAR>__{WILLIAM HUTTON} <CHAR_PAR>__{}
+<DIAL>__{I can't make sense of it, what he died for. Mr. Lincoln, I hate them all, I do, all black people. I am a prejudiced man.}
+<ACTION>__{The door opens slightly behind Hutton. His wife looks out. Hutton exchanges a glance with her, and the door shuts again.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I'd change that in you if I could, but that's not why I come. I might be wrong, Mr. Hutton, but I expect... Colored people will most likely be free, and when that's so, it's simple truth that your brother's bravery, and his death, helped make it so. Only you can decide whether that's sense enough for you, or not.}
+<ACTION>__{Hutton walks slowly back to his house.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{My deepest sympathies to your family.}
+<ACTION>__{Lincoln goes back to his buggy. Hutton pauses at his door to watch Lincoln's buggy drive away.}
+<LOC>__{INT. LINCOLN'S OFFICE - NIGHT}
+<ACTION>__{Lincoln is seated at the head of the cabinet table along with Seward. Ashley, Preston and Montgomery Blair. Hay and Nicolay sit in their usual chairs.}
+<CHAR>__{PRESTON BLAIR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ANGRY:)}
+<DIAL>__{We've managed our members to a fare- thee-well, you've had no defections from the Republican right to trouble you, whereas as to what you promised - Where the hell are the commissioners?!}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Oh God...}
+<DIAL_PAR>__{(TO LINCOLN:)}
+<DIAL>__{It's true! You, you...lied to me, Mr. Lincoln! You evaded my requests for a denial that, that there is a Confederate peace offer because, because there is one! We are absolutely guaranteed to lose the whole thing - JAMES ASHLEY (CONT'D) MONTGOMERY BLAIR}
+<ACTION>__{- and we'll be discredited, We don't need a goddamned the amendment itself will be abolition amendment! Leave tainted. What if, what if the Constitution alone! State these peace commissioners by state you can extirpate - appear today? Or worse, on the morning -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I can't listen to this anymore! I can't accomplish a goddamned thing of any human meaning or worth until we cure ourselves of slavery and end this pestilential war, and whether any of you or anyone else knows it, I know I need this! This amendment is that cure! We're stepped out upon the world's stage now, now, with the fate of human dignity in our hands! Blood's been spilt to afford us this moment!}
+<ACTION>__{He points around the table at Ashley, Monty, Preston.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Now now now! And you grousle and heckle and dodge about like pettifogging Tammany Hall hucksters! See what is before you! See the here and now! That's the hardest thing, the only thing that accounts! Abolishing slavery by constitutional provision settles the fate, for all coming time, not only of the millions now in bondage but of unborn millions to come. Two votes stand in its way, and these votes must be procured.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{We need two yeses, three abstentions, or four yeses and one more abstention and the amendment will pass -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{You got a night and a day and a night and several perfectly good hours! Now get the hell out of here and get `em!}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Yes but how?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Buzzards' guts, man.}
+<ACTION>__{Lincoln rises, and keeps rising, till he seems eight feet tall.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I am the President of the United States of America, clothed in immense power! You will procure me these votes.}
+<LOC>__{INT. THE HOUSE CHAMBER - DAWN}
+<ACTION>__{The chamber is quiet and dark. Pages and clerks prepare the desks, laying out pens and paper, filling inkwells. TITLE: THE MORNING OF THE VOTE}
+<DIAL>__{JANUARY 31, 1865}
+<ACTION>__{A CLERK is draping red-white-and-blue bunting on the desks of representatives from seceded states. These will of course remain unoccupied during the vote. The first Congressman to arrive, Thaddeus Stevens clumps in. He goes to his desk and sits. He looks around the empty chamber, ready and waiting.}
+<LOC>__{INT. THE HOUSE CHAMBER - MORNING, SEVERAL HOURS LATER}
+<ACTION>__{Thaddeus Stevens is at his desk. The House is in session, the floor full of congressmen caucusing and arguing. The balcony's packed. Mary and Keckley sit at the front, Nicolay and Hay behind them. The Blairs are among other officials, rich people, foreign dignitaries. There's a sudden quiet, then murmuring. Ashley, Stevens and everyone on the floor look up, Ellis, Hollister, Hutton and Hawkins among these. In the balcony, twenty WELL-TO-DO BLACK PEOPLE, mostly men, are escorted by several Senators, including Sumner and Wade, to a reserved section of the balcony. The black people glance at their surroundings but are rigidly composed. Asa Vintner Litton sees them enter. He looks about, at the representatives caucusing, or staring up at the visitors. Something powerful strikes him. In a voice coarse with emotion, he calls up to the black visitors:}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{We welcome you, ladies and gentlemen, first in the history of this people's chamber, to your House!}
+<ACTION>__{There's tense applause. Some of the black guests bow; most aren't sure how to respond. Yeaman watches this, deeply moved. Bilbo catches Hawkins's eye and waves. Hawkins looks anxiously around, blushing. Everyone is seated, and the place is packed. Schuyler Colfax is in his high seat atop the rostrum, the SERGEANT-AT-ARMS to his right. Colfax gavels the House into session. Ashley is at the podium.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{Mr. Ashley, the floor is yours.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{On the matter of the joint resolution before us, presenting a Thirteenth Amendment to our national Constitution, which was passed last year by the Senate, and which has been debated now by this estimable body for the past several weeks. Today we will vote...}
+<ACTION>__{Cheers, boos, applause.}
+<CHAR>__{JAMES ASHLEY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{By mutual agreement we shall hear brief final statements -}
+<ACTION>__{General cheering for this, laughing.}
+<CHAR>__{JAMES ASHLEY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{- beginning with the honorable George Pendleton of Ohio.}
+<ACTION>__{Applause, boos. Pendleton, taking the podium, is handed several letters by Wood. He holds them over his head. The chamber's quiet.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{I've just received confirmation of what previously has been merely rumored! Affidavits from loyal citizens recently returned from Richmond. They testify that Commissioners have indeed come north and ought to have arrived by now in Washington City! Bearing an offer of immediate cessation of our civil war!}
+<ACTION>__{The chamber explodes. Through the ensuing ruckus:}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ashley, fake shock:)}
+<DIAL>__{Are there Confederate commissioners in the Capitol?}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{I don't... I have no idea where they are or if they've arrived or -}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{If they've arrived?!}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{I appeal to my fellow Democrats, to all Republican representatives who give a fig for peace! Postpone this vote until we have answers from the President himself!}
+<ACTION>__{In the balcony, Hay and Nicolay exchange worried glances.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{Postpone the vote!}
+<ACTION>__{Ashley turns to Stevens: "DO SOMETHING!" as Pendleton's Democrats begin to chant "POSTPONE THE VOTE!" Mary, worried, looks from Mrs. Keckley to Preston Blair, who is focused on the leader of the conservative Republican representatives, AARON HADDAM (R, KY). Haddam looks up at Preston, awaiting instructions. Democrats and Republicans rush to the Speaker to support or protest the motion. In the balcony, Preston slowly stands, saddened and angry.}
+<CHAR>__{FERNANDO WOOD } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I have made a motion! Does anyone here care to second -}
+<ACTION>__{Preston nods at Haddam: "Go ahead." Haddam rises.}
+<CHAR>__{AARON HADDAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a powerful voice:)}
+<DIAL>__{Gentlemen. The conservative faction of border and western Republicans cannot approve this amendment, about which we harbor grave doubts, if a peace offer is being held hostage to its success. Joining with our Democratic colleagues, I second the motion to postpone.}
+<ACTION>__{The debate swells again as, in the balcony, Schell scribbles in a notebook while Latham whispers furiously in his ear. Latham rips the page out before Schell's finished; Bilbo snatches it from him.}
+<CHAR>__{ROBERT LATHAM} <CHAR_PAR>__{}
+<DIAL>__{Quick, man! Quick!}
+<ACTION>__{Bilbo pushes his way out of the balcony. Nicolay, then Hay, follow on his heels. Mary sees this; she's concerned.}
+<LOC>__{EXT. OUTSIDE THE CAPITOL - AFTERNOON}
+<ACTION>__{Hay and Nicolay emerge. They see Bilbo running, far ahead. Hay immediately sprints after him and trips. Nicolay continues running.}
+<LOC>__{INT/EXT. WHITE HOUSE PORTICO, FOYER, STAIRS - AFTERNOON}
+<ACTION>__{Bilbo puffs his way across the portico, through the door, and up the stairs. Hay gains on him. It's become a race! In the second floor hallway, Bilbo gets winded, and Hay dashes past him. Hay reaches the doors to Lincoln's office and flings them open.}
+<LOC>__{INT. LINCOLN'S OFFICE, THE WHITE HOUSE - AFTERNOON}
+<ACTION>__{Lincoln is at his desk, working, when Hay bursts in. Bilbo appears in the doorway, beet-red and gasping for air. Hay's too winded to speak. Bilbo holds out the note, limp with sweat, and brings it to Lincoln. Lincoln reads it.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{This is precisely what Mr. Wood wishes me to respond to?}
+<ACTION>__{Tad runs into the room, excited by the commotion. He wraps his arm around his father's neck, then tears wildly out of the room.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Word for word? This is precisely the assurance that he demands of me?}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<ACTION>__{As Nicolay heaves into the room in last place, wheezing terribly, Lincoln deliberates for a moment, then writes a note. He blots, folds and hands it to Hay, who immediately reads it, Nicolay looking on.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Give this to Mr. Ashley.}
+<ACTION>__{Hay looks at Nicolay, who can't speak; he waves at Hay to speak for him.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{I feel, um, I have to say, Mr. Lincoln, that this -}
+<DIAL_PAR>__{(annoyed, impatient, to BILBO:)}
+<DIAL>__{Could you please just step outside?!}
+<CHAR>__{W.N. BILBO} <CHAR_PAR>__{}
+<DIAL>__{You gonna have a chat now, with with the whole of the House of Representatives waiting on that?}
+<ACTION>__{Nicolay continues gasping, trying to speak. He can't.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO LINCOLN:)}
+<DIAL>__{Making false representation to Congress is, it's, um -}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL>__{It's, it's -}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Impeachable. I've made no false representation.}
+<CHAR>__{JOHN HAY} <CHAR_PAR>__{}
+<DIAL>__{But there are -}
+<DIAL_PAR>__{(WHISPERING:)}
+<DIAL>__{There is a delegation from Richmond.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Give me the note, Johnnie.}
+<ACTION>__{Hay gives Lincoln the note. Lincoln takes it, holding on to Hay's hand; with his free hand, Lincoln passes the note to Bilbo.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(TO BILBO:)}
+<DIAL>__{Please deliver that to Mr. Ashley.}
+<LOC>__{INT. THE HOUSE CHAMBER AND BALCONY - AFTERNOON}
+<ACTION>__{Bilbo, pushing past the pages, runs in, holding the note, Ashley snatches it, reading as he makes his way to the podium. All eyes are on Ashley.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{From the President:}
+<ACTION>__{The chamber falls silent.}
+<CHAR>__{JAMES ASHLEY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"So far as I know, there are no peace commissioners in the city nor are there likely to be."}
+<ACTION>__{Applause, booing, furious discussion.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{"So far as I know-"?! That means nothing! Are there commissioners from the South or aren't there?!}
+<ACTION>__{In the balcony, Mary looks to Mrs. Keckley.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{The President has answered you, sir! Your peace offer is a fiction!}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{That is not a denial, it is a lawyer's dodge!}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Haddam? Is your faction satisfied?}
+<ACTION>__{Preston, in the balcony, hesitates. He looks at his daughter, who gives him a questioning look: "Do you want this on your head?" Preston doesn't. He indicates to Haddam with a small shake of his venerable head: "Drop it."}
+<CHAR>__{AARON HADDAM} <CHAR_PAR>__{}
+<DIAL>__{The conservative Republican faction's satisfied, and we thank Mr. Lincoln. I move to table Mr. Wood's motion.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{Tabled!}
+<ACTION>__{There's an angry response, but Wood and Pendleton sit, thwarted.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Speaker Colfax, I order the main question.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{A motion has been made to bring the bill for the Thirteenth Amendment to a vote. Do I hear a second?}
+<CHAR>__{ASA VINTNER LITTON} <CHAR_PAR>__{}
+<DIAL>__{I second the motion.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{So moved, so ordered. The Clerk will now -}
+<DIAL_PAR>__{(a rap of the gavel)}
+<DIAL>__{Quiet please.}
+<ACTION>__{The noise of the chamber and balcony reduce to a rumble.}
+<CHAR>__{SCHUYLER COLFAX } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The clerk will now call the roll for voting.}
+<ACTION>__{Thaddeus Stevens sits silently, tired, concentrated: the moment has come.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{We begin with Connecticut. Mr. Augustus Benjamin, on the matter of this amendment, how say you?}
+<ACTION>__{The chamber is completely silent for the first time.}
+<CHAR>__{AUGUSTUS BENJAMIN} <CHAR_PAR>__{}
+<DIAL>__{Nay!}
+<ACTION>__{The clerk records his vote.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Arthur Bentleigh.}
+<CHAR>__{ARTHUR BENTLEIGH} <CHAR_PAR>__{}
+<DIAL>__{Nay!}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. John Ellis, how say you?}
+<CHAR>__{JOHN ELLIS} <CHAR_PAR>__{}
+<DIAL>__{Aye!}
+<ACTION>__{Angry shouts from Ellis's fellow Democrats, forcing Colfax to gavel for order.}
+<CHAR>__{DEMOCRATIC SENATOR} <CHAR_PAR>__{}
+<DIAL>__{What?! Shameful!}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Missouri next. Mr. Walter Appleton.}
+<CHAR>__{WALTER APPLETON} <CHAR_PAR>__{}
+<DIAL>__{I vote no!}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Josiah Burton.}
+<ACTION>__{JOSIAH BURTON rises to his feet. He is very, very tall and thin.}
+<CHAR>__{JOSIAH BURTON} <CHAR_PAR>__{}
+<DIAL>__{Beanpole Burton is pleased to vote yea!}
+<ACTION>__{Mary watches from the balcony, pleased, but anxious.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{The State of New Jersey. Mr. Nehemiah Cleary.}
+<CHAR>__{NEHEMIAH CLEARY} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. James Martinson.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Martinson has delegated me to say he is indisposed and he abstains.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Austin J. Roberts.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Also indisposed, also abstaining.}
+<ACTION>__{Shocked anger from the Democrats. Pendleton starts calculating votes on a sheet of paper. Wood grabs it and begins to calculate more rapidly. In the balcony, Mary keeps track on her own list. She writes carefully next to Roberts's name: "15 TO WIN"}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Illinois concluded. Mr. Harold Hollister, how say you?}
+<ACTION>__{Hollister glowers next to Hutton, who's silently praying.}
+<CHAR>__{HAROLD HOLLISTER} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Hutton? Mr. William Hutton, cast your vote.}
+<ACTION>__{Hutton looks up from his prayer.}
+<CHAR>__{WILLIAM HUTTON} <CHAR_PAR>__{}
+<DIAL>__{William Hutton, remembering at this moment his beloved brother, Fredrick, votes against the amendment.}
+<LOC>__{INT. LINCOLN'S OFFICE, THE WHITE HOUSE - AFTERNOON}
+<ACTION>__{Lincoln watches Tad stacking books to make a fort for his lead toy soldiers.}
+<LOC>__{INT/EXT. ROTUNDA AND FRONT DOOR OF THE CAPITOL - AFTERNOON}
+<ACTION>__{A field telegraph has been set up near the steps, at the front of the enormous crowd that's assembled before the Capitol. Poles are held up in the crowd by soldiers along which the telegraph wire is stretched. A soldier stationed at the door of the Capitol relays the vote to another soldier manning the cipher key:}
+<CHAR>__{SOLDIER} <CHAR_PAR>__{}
+<DIAL>__{Webster Allen votes no.}
+<ACTION>__{The cipher operator instantly transmits.}
+<LOC>__{INT. GRANT'S TELEGRAPH ROOM AT CITY POINT - AFTERNOON}
+<ACTION>__{OFFICERS are crowded in the small room, watching a SERGEANT transcribe as his cipher key clicks.}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{Webster Allen, Illinois, Democrat, votes...no.}
+<ACTION>__{The cipher key clicks again.}
+<CHAR>__{SERGEANT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Halberd Law, Indiana, Democrat, votes...no.}
+<ACTION>__{Grant observes this from the balcony above. Robert, in a captain's uniform, stands near him. Like his mother, Robert has a scorecard, and he's keeping track. Grant turns his back on the proceedings to light a cigar. He's concerned at how close the vote is. Behind him the count}
+<TRANS>__{CONTINUES:}
+<CHAR>__{SERGEANT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Archibald Moran...yes.}
+<ACTION>__{Robert has been looking at Grant; he returns to his score keeping.}
+<CHAR>__{SERGEANT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Ambrose Bailer...yes.}
+<LOC>__{INT. THE HOUSE CHAMBER AND BALCONY - AFTERNOON}
+<ACTION>__{The Clerk continues.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Walter H. Washburn.}
+<CHAR>__{WALTER H. WASHBURN} <CHAR_PAR>__{}
+<DIAL>__{Votes no.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{And Mr. George Yeaman, how say you?}
+<ACTION>__{Yeaman doesn't respond. The silence this causes lengthens, till representatives begin to look to see what's happened. Yeaman sits, staring ahead, not responding. Thaddeus Stevens, sensing something's happening, looks in Yeaman's direction. Yeaman, still staring ahead, mumbles something, but it's inaudible.}
+<CHAR>__{THE CLERK OF THE HOUSE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Sorry Mr. Yeaman, I didn't hear you VOTE -}
+<CHAR>__{GEORGE YEAMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rising to his feet)}
+<DIAL>__{I said aye, Mr. McPherson. AYE!!!}
+<ACTION>__{Great surprise, loud cheers and angry shouts.}
+<CHAR>__{FERNANDO WOOD} <CHAR_PAR>__{}
+<DIAL>__{TRAITOR! TRAITOR!}
+<ACTION>__{Yeaman looks ready to faint. To the consternation of the Democrats, a mob of gleeful Republicans rushes across the aisle that separates the two parties; they surround Yeaman, shaking his hand, slapping him on the back. Colfax bangs the gavel.}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{Order!}
+<ACTION>__{Pendleton is speechless. Litton turns to Ashley, both astonished; Ashley turns to Stevens, who watches, sharp, observant, giving nothing away. Mary updates her tally: "8 TO WIN"}
+<CHAR>__{SCHUYLER COLFAX } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Order in the chamber!}
+<ACTION>__{Yeaman collapses back into his seat. The room quiets.}
+<CHAR>__{SCHUYLER COLFAX } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Mr. MacPherson, you may proceed.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Clay R. Hawkins of Ohio.}
+<ACTION>__{Hawkins seems to have been startled out of a reverie. Sick with fear, he looks up at the sound of his name. He can't speak. Wood and Pendleton watch this, deeply alarmed. Hawkins snaps out of it.}
+<CHAR>__{CLAY HAWKINS} <CHAR_PAR>__{}
+<DIAL>__{Goddamn it, I'm voting yes.}
+<ACTION>__{A huge reaction to this. LeClerk gapes at Hawkins.}
+<CHAR>__{CLAY HAWKINS } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(right at Pendleton and Wood!)}
+<DIAL>__{I don't care, shoot me dead! You shoot me dead I, I am voting yes!}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Edwin F. LeClerk.}
+<ACTION>__{LeClerk, seated next to Hawkins and transfixed by his courage, turns dazedly to McPherson.}
+<CHAR>__{EDWIN LECLERK} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<DIAL_PAR>__{(then, standing abruptly:)}
+<DIAL>__{Oh to hell with it, shoot me dead too. Yes!}
+<ACTION>__{The noise gets wilder. Pendleton fixes LeClerk and Hawkins with a murderous look.}
+<CHAR>__{EDWIN LECLERK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I mean, abstention. Abstention.}
+<ACTION>__{Disgust briefly flashing across his face, McPherson crosses out and changes LeClerk's vote to an abstention. The cheering and booing degenerates to intense argument about what this means for the vote count. In the balcony, Bilbo looks at Hawkins, well-pleased.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Alexander Coffroth.}
+<ACTION>__{Coffroth looks towards Stevens, who doesn't look at him.}
+<CHAR>__{ALEXANDER COFFROTH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(proud of himself and happy about the reward HE'LL GET:)}
+<DIAL>__{I. Vote. Yes.}
+<ACTION>__{Applause. Stevens still doesn't look at Coffroth, but, tickled, he grins and nods.}
+<LOC>__{INT. GRANT'S TELEGRAPH ROOM AT CITY POINT - AFTERNOON}
+<ACTION>__{Grant stands with Robert at the balcony rail, waiting.}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{James Brooks...nay.}
+<ACTION>__{On a nearby board, a large map has been tacked backwards; on its reverse side, the count is being scrawled by an officer, who marks off the votes in quintiles in columns marked YEA and NAY.}
+<CHAR>__{SERGEANT AT ARMS} <CHAR_PAR>__{}
+<DIAL>__{Josiah Grinnell...yea. Meyer Straus...}
+<LOC>__{INT. THE HOUSE CHAMBER AND BALCONY - AFTERNOON}
+<ACTION>__{STRAUS rises.}
+<CHAR>__{MEYER STRAUS} <CHAR_PAR>__{}
+<DIAL>__{Nay.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Joseph Marstern?}
+<CHAR>__{JOSEPH MARSTERN} <CHAR_PAR>__{}
+<DIAL>__{Nay.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Chilton A. Elliot?}
+<CHAR>__{CHILTON A. ELLIOT} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Daniel G. Stuart?}
+<CHAR>__{DANIEL G. STUART} <CHAR_PAR>__{}
+<DIAL>__{I vote yes.}
+<ACTION>__{Then, in a sequence of rapid cuts:}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Howard Guilefoyle.}
+<CHAR>__{HOWARD GUILEFOYLE} <CHAR_PAR>__{}
+<DIAL>__{Yea.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{John F. McKenzie.}
+<CHAR>__{JOHN F. MCKENZIE} <CHAR_PAR>__{}
+<DIAL>__{Yea.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Andrew E. Fink.}
+<CHAR>__{ANDREW E. FINK} <CHAR_PAR>__{}
+<DIAL>__{Nay.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. John A. Kassim.}
+<CHAR>__{JOHN A. KASSIM} <CHAR_PAR>__{}
+<DIAL>__{Yea.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Hanready.}
+<CHAR>__{AVON HANREADY} <CHAR_PAR>__{}
+<DIAL>__{Nay.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{And Mr. Rufus Warren?}
+<CHAR>__{RUFUS WARREN} <CHAR_PAR>__{}
+<DIAL>__{Yea.}
+<LOC>__{INT. LINCOLN'S OFFICE, THE WHITE HOUSE - AFTERNOON}
+<ACTION>__{Tad is on Lincoln's lap. They're examining a book, the pages of which feature illustrations comparing the varieties of species of insects, zebras, finches.}
+<LOC>__{INT. THE HOUSE CHAMBER AND BALCONY - AFTERNOON}
+<ACTION>__{The room is quiet and tense.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{The roll call concludes, voting is completed, now -}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{Mr. Clerk, please call my name, I want to cast a vote.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{I object! The Speaker doesn't vote!}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{The Speaker may vote if he so chooses.}
+<CHAR>__{GEORGE PENDLETON} <CHAR_PAR>__{}
+<DIAL>__{It is highly unusual, sir -}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{This isn't usual, Mr. Pendleton, this is history.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{How does Mr. Schuyler Colfax vote?}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a look of surprise that this needs to be asked, then, stating the OBVIOUS:)}
+<DIAL>__{Aye, of course.}
+<ACTION>__{Laughter in the chamber. The Clerk tallies the vote, then passes the recorded vote to the Speaker. There's absolute silence. In the balcony, Mary checks her own tally, not quite believing it.}
+<CHAR>__{SCHUYLER COLFAX } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The final vote: eight absent or not voting, fifty six votes against, one hundred nineteen votes for. With a margin of two votes -}
+<LOC>__{INT. LINCOLN'S OFFICE, THE WHITE HOUSE - AFTERNOON}
+<ACTION>__{Lincoln stands, waiting. The only sound is the ticking of the clock. And then the ticking is slowly drowned out as bells begin to peal throughout the city. Lincoln raises the window as Tad rushes to him. The bells are joined by a cannonade. The sound of jubilation fills his office. Lincoln turns from the window to Tad, who stares out eagerly, seeking out the source of the noise. Lincoln puts his hand on Tad's head. He looks down at his son, silent.}
+<LOC>__{INT. THE HOUSE CHAMBER, THE CAPITOL - LATE AFTERNOON}
+<ACTION>__{Representatives throw papers in the air, embrace, weep, shout, dance, climb on desks. In the balcony, Mary stands slowly, beyond tears or joy; Mrs. Keckley stands with her, smiling, crying. Preston Blair applauds vigorously. The black visitors join the general exultation, overwhelmed, some praying, others embracing and weeping. Latham's, Schell's and Bilbo's seats are empty; they've gone. Ashley, grinning from ear to ear, tears streaming down his face, is hoisted up on shoulders and marched around the room, as on the floor and in the balcony, people start singing "The Battle Cry of Freedom." Pendleton, with the face of someone who's seen his world collapse into ruin, walks straight at Yeaman, who's listening to the singing, deeply moved, his face full of wonder. Pendleton turns, without a word, and leaves the House. Yeaman laughs, and loudly joins in singing. Stevens clumps over to the Clerk of the House, who is placing his tallies and the official copy of the amendment bill in a folio. He looks up.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{Congratulations, Mr. Chairman.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{The bill, Mr. McPherson, may I...?}
+<ACTION>__{The Clerk hands the bill to Stevens, who folds it and pockets it.}
+<CHAR>__{THE CLERK OF THE HOUSE} <CHAR_PAR>__{}
+<DIAL>__{That's...That's the official bill.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I'll return it in the morning. Creased, but unharmed.}
+<LOC>__{EXT. A STREET, WASHINGTON - DUSK}
+<ACTION>__{Celebrating crowds move towards the Mall, singing, carrying placards proclaiming the passage of the amendment. Thaddeus Stevens is hobbling in the opposite direction, making difficult headway against the crowd, pushed and shoved, unrecognized; he shoves back, his ferocious scowl utterly at odds with the prevailing festive mood. He reaches a modest house, unlocks the door and steps inside.}
+<LOC>__{INT. THADDEUS STEVENS'S HOUSE - NIGHT}
+<ACTION>__{Stevens is met at the door by LYDIA SMITH, a black woman in her fifties. As she helps him off with his coat, he takes a piece of paper from his pocket.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{A gift for you.}
+<ACTION>__{She takes it.}
+<CHAR>__{THADDEUS STEVENS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The greatest measure of the Nineteenth Century. Passed by corruption, aided and abetted by the purest man in America.}
+<LOC>__{INT. THE BEDROOM IN THADDEUS STEVENS'S HOUSE - NIGHT}
+<ACTION>__{Stevens, in his nightgown, takes off his wig. He's bald. He lies down in bed. Mrs. Smith is in bed already beside him. She's holding the paper he gave her.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{I wish you'd been present.}
+<CHAR>__{LYDIA SMITH} <CHAR_PAR>__{}
+<DIAL>__{I wish I'd been.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{It was a spectacle.}
+<CHAR>__{LYDIA SMITH} <CHAR_PAR>__{}
+<DIAL>__{You can't bring your housekeeper to the House. I won't give them gossip.}
+<DIAL_PAR>__{(THE PAPER)}
+<DIAL>__{This is enough. This is... It's more than enough for now.}
+<ACTION>__{They kiss. He lies back. He grabs her hand.}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{Read it to me again, my love.}
+<CHAR>__{LYDIA SMITH} <CHAR_PAR>__{}
+<DIAL>__{"PROPOSED -"}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<DIAL>__{And adopted.}
+<CHAR>__{LYDIA SMITH} <CHAR_PAR>__{}
+<DIAL>__{Adopted. "An Amendment to the Constitution of the United States. Section One: Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."}
+<CHAR>__{THADDEUS STEVENS} <CHAR_PAR>__{}
+<TRANS>__{SECTION TWO:}
+<CHAR>__{LYDIA SMITH} <CHAR_PAR>__{}
+<DIAL>__{"Congress shall have power to enforce this amendment by appropriate legislation."}
+<ACTION>__{Thaddeus Stevens grins, nods, thinking, eyes sparkling.}
+<LOC>__{INT./EXT. THE DOCK AT FORTRESS MONROE, HAMPTON ROADS,}
+<ACTION>__{VIRGINIA - LATE AFTERNOON Sailors cheer Lincoln's arrival. Lincoln walks across the gangway. Seward greets him amidst the cheers.}
+<LOC>__{INT. THE SALOON ON BOARD THE RIVER QUEEN, HAMPTON ROADS,}
+<ACTION>__{VIRGINIA - DAY Lincoln, Seward and the commissioners are seated. Seward looks concerned at Lincoln's fatigue.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Let me be blunt. Will the southern states resume their former position in the Union speedily enough to enable us to block ratification of the Thirteenth Amendment?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I'd like peace immediately.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Yes, and...?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I'd like your states restored to their practical relations to the Union immediately.}
+<ACTION>__{Silence.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{If this could be given me in writing, as Vice President of the Confederacy, I'd bring that document with celerity to Jefferson Davis.}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{Surrender and we can discuss reconstruction.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Surrender won't be thought of unless you've assured us, in writing, that we'll be readmitted in time to block this amendment.}
+<CHAR>__{R.M.T. HUNTER} <CHAR_PAR>__{}
+<DIAL>__{This is the arrogant demand of a conqueror for a humiliating, ABJECT -}
+<CHAR>__{SEWARD} <CHAR_PAR>__{}
+<DIAL>__{You'll not be conquered people, Mr. Hunter. You will be citizens, returned to the laws and the guarantees of rights of the Constitution.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Which now extinguishes slavery. And with it our economy. All our laws will be determined by a Congress of vengeful Yankees, all our rights'll be subject to a Supreme Court benched by Black Republican radicals. All our traditions will be obliterated. We won't know ourselves anymore.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a nod, then:)}
+<DIAL>__{We ain't here to discuss reconstruction, we have no legal basis for that discussion. But I don't want to deal falsely. The Northern states'll ratify, most of `em. As I figure, it remains for two of the Southern states to do the same, even after all are readmitted. And I been working on that.}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{Tennessee and Louisiana.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Arkansas too, most likely. It'll be ratified. Slavery, sir, it's done.}
+<ACTION>__{Hunter storms out of the cabin.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If we submit ourselves to law, Alex, even submit to losing freedoms - the freedom to oppress, for instance - we may discover other freedoms previously unknown to us. Had you kept faith with democratic process, as frustrating as that can be -}
+<CHAR>__{JOHN A. CAMPBELL} <CHAR_PAR>__{}
+<DIAL>__{Come sir, spare us at least these pieties. Did you defeat us with ballots?}
+<CHAR>__{ALEXANDER STEPHENS} <CHAR_PAR>__{}
+<DIAL>__{How've you held your Union together? Through democracy? How many hundreds of thousands have died during your administration? Your Union, sir, is bonded in cannonfire and death.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{It may be you're right. But say all we done is show the world that democracy isn't chaos, that there is a great invisible strength in a people's union? Say we've shown that a people can endure awful sacrifice and yet cohere? Mightn't that save at least the idea of democracy, to aspire to? Eventually, to become worthy of? At all rates, whatever may be proven by blood and sacrifice must've been proved by now. Shall we stop this bleeding?}
+<LOC>__{EXT. A CITY ON A SOUTHERN RIVER - NIGHT}
+<ACTION>__{Like a vision of apocalypse, a city on the banks of a broad river is being consumed in a hellish fire, as artillery shells rend the dark sky asunder, raining down destruction.}
+<LOC>__{EXT. SIEGE LINES BEFORE PETERSBURG, VIRGINIA - MORNING}
+<ACTION>__{The morning is grey, and a dense fog covers a vast field. Lincoln, his stovepipe hat atop his head, is mounted on a horse on a rise at one end of the field. Behind him, several UNION OFFICERS are also mounted. It's chilly; the breath of the men and the horses is visible. TITLE: OUTSIDE PETERSBURG, VIRGINIA}
+<CHAR>__{APRIL 3} <CHAR_PAR>__{}
+<ACTION>__{Lincoln flicks the reins of his horse, which starts down the slope. The officers follow behind him. No one speaks. Lincoln rides slowly, his focus on the ground before him. Debris is scattered all around him, along with the bodies of fallen soldiers. He looks up and across the battlefield; a terrible battle has concluded a couple of hours ago. Looking down, as he rides, he sees soldiers killed by artillery fire, whose bodies lie twisted, burned, headless, limbless, torn in two, blown out of their clothing or charred too badly to tell. He sees soldiers killed by rifle and bayonet, whose corpses are intact. At the beginning of his ride, all the dead and wounded are in Union blue, the casualties of Confederate cannon fire, felled as the Union army, about six hours earlier, began its final, successful drive to break through Confederate lines. As Lincoln and his escorts move across the battlefield, grey and blue uniformed corpses and badly wounded men intermingle. He reaches the other side of the field, passing a Confederate flag to enter the now-ruined town of Petersburg.}
+<LOC>__{EXT. THE THOMAS WALLACE HOUSE, GRANT'S TEMPORARY}
+<ACTION>__{HEADQUARTERS, ON MARKET STREET, PETERSBURG - MORNING Grant, smoking his cigar, his uniform dusty and rumpled, is sitting on the small porch. He stares piercingly at Lincoln, in a rocker next to him, watching his troops pass by as they move in to secure the conquered town. Lincoln closes his eyes. He has grown older, the skin around his eyes is cobwebbed with fine creases, and his hair's thinner, softer, suffused with grey. His brow has grown smoother.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Once he surrenders, send his boys back to their homes, their farms, their shops.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{Yes sir, as we discussed.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Liberality all around. No punishment. I don't want that. And the leaders - Jeff and the rest of `em - if they escape, leave the country while my back's turned, that wouldn't upset me none. When peace comes it mustn't just be hangings.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{By outward appearance, you're ten years older than you were a year ago.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Some weariness has bit at my bones.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{I never seen the like of it before. What I seen today. Never seen the like of it before.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{You always knew that, what this was going to be. Intimate, and ugly. You must've needed to see it close when you decided to come down here.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We've made it possible for one another to do terrible things.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{And we've won the war. Now you have to lead us out of it.}
+<LOC>__{EXT. THE MCLEAN HOUSE, APPOMATTOX COURT HOUSE, VIRGINIA -}
+<CHAR>__{AFTERNOON} <CHAR_PAR>__{}
+<ACTION>__{OFFICERS OF THE CONFEDERATE AND UNION ARMY stand around in the afternoon sun. Everyone's solemn, even stunned by what's just happened. No one is speaking. TITLE: APPOMATTOX COURTHOUSE, VIRGINIA}
+<DIAL>__{APRIL 9, 1865}
+<ACTION>__{ROBERT E. LEE comes down the steps of the McLean house, as a CONFEDERATE OFFICER brings his horse to him. His face is blank. Lee mounts his waiting horse. Lee should leave, having just surrendered to Grant inside; but he's immobile. Some of the officers of both sides look at Lee, some can't bear it. Lee tries out various expressions: pride, defiance, blankness. Grant stomps onto the porch of the house, followed by his staff. Among them is Robert Lincoln. Grant, lost in thought, stops, taken aback, realizing that Lee's still there, astride his horse. Everyone looks at the two men who look awkwardly at one another. Then Grant removes his famous slouch hat. Everyone freezes for a moment, and then one by one, the officers of the Union Army remove their hats. Lee is visibly moved by this gesture of respect. He raises his hat, briefly, only an inch from his head. Then, pulling slightly on his horse's reins, he rides away.}
+<LOC>__{EXT. A BUGGY RIDE THROUGH WASHINGTON - AFTERNOON}
+<ACTION>__{A beautiful spring afternoon. Lincoln and Mary are riding in the buggy, driven by the old soldier.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{You've an itch to travel?}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I'd like that. To the West by rail.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking her head no:)}
+<DIAL>__{Overseas.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{The Holy Land.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a laugh, then:)}
+<DIAL>__{Awfully pious for a man who takes his wife out buggy-riding on Good Friday.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Jerusalem. Where David and Solomon walked. I dream of walking in that ancient city.}
+<ACTION>__{She seems sadder. They ride in silence.}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{All anyone will remember of me is I was crazy and I ruined your happiness.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Anyone thinks that doesn't understand, Molly.}
+<ACTION>__{She nods; then, tenderly:}
+<CHAR>__{MARY} <CHAR_PAR>__{}
+<DIAL>__{When they look at you, at what it cost to live at the heart of this, they'll wonder at it. They'll wonder at you. They should. But they should also look at the wretched woman by your side, if they want to understand what this was truly like. For an ordinary person. For anyone other than you.}
+<ACTION>__{Lincoln laughs, takes her hand. She leans against him.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{We must try to be happier. We must. Both of us. We've been so miserable for so long.}
+<LOC>__{INT. LINCOLN'S OFFICE - EVENING}
+<ACTION>__{Lincoln's in the shirtsleeves and vest of his formal evening wear, his hair brushed down and plastered in place. William Slade is working the tie and gloves. James Ashley and Schuyler Colfax stand with him, holding glasses of scotch whiskey. Slade waits with Lincoln's coat, clothes brush, the stovepipe hat and gloves on the table. John Hay tears down several of the military maps, heavily marked, from the bookcases where they're tacked. He drops these on the floor. As they watch Hay:}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{I did say some colored men, the intelligent, the educated, and veterans, I qualified it.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Stevens is furious, he wants to know why you qualified it -}
+<CHAR>__{SCHUYLER COLFAX} <CHAR_PAR>__{}
+<DIAL>__{No one heard the intelligent or the educated part. All they heard was the first time any president has ever made mention of Negro voting.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Still, I wish I'd mentioned it in a better speech.}
+<CHAR>__{JAMES ASHLEY} <CHAR_PAR>__{}
+<DIAL>__{Mr. Stevens also wants to know why you didn't make a better speech.}
+<ACTION>__{They laugh. There's a knock on the door; Nicolay enters.}
+<CHAR>__{JOHN NICOLAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO LINCOLN:)}
+<DIAL>__{Mrs. Lincoln's waiting in the carriage. She wants me to remind you of the hour, and that you'll have to pick up Miss Harris and Major Rathbone.}
+<ACTION>__{Lincoln nods. Slade enters with Lincoln's hat, coat, and gloves. Lincoln begins to dress hurriedly.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Am I in trouble?}
+<CHAR>__{WILLIAM SLADE} <CHAR_PAR>__{}
+<DIAL>__{No, sir.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Mr. Slade.}
+<ACTION>__{Slade hands Lincoln his gloves as Colfax and Ashley drain their drinks and rise.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I suppose it's time to go, though I would rather stay.}
+<ACTION>__{He leaves the room.}
+<LOC>__{INT. AN EMPTY CORRIDOR, SECOND FLOOR OF THE WHITE HOUSE -}
+<CHAR>__{CONTINUOUS} <CHAR_PAR>__{}
+<ACTION>__{On the way out, Lincoln tosses the gloves on a side table. Slade grabs them, considers chasing after Lincoln, then thinks better of it. He walks back towards the office. Then some strange feeling stops him, and he turns around again. Lincoln is walking away, past the petitioners' chairs, down the empty hallway. Slade watches till Lincoln turns the corner, and he's gone.}
+<LOC>__{INT. A THEATER - NIGHT}
+<ACTION>__{The theater is adorned with patriotic bunting. Onstage, a Caliph's palace. A YOUNG MAN duels with scimitars against a huge, hideous AFRIT. A YOUNG WOMAN in chains cowers in distress. The young man gymnastically avoids being killed, then plunges his scimitar into the afrit's heart. The demon screams and topples to the ground. The audience gasps as a flame-colored, bejewelled bird rises up from the dead afrit's heart. The audience applauds. In the center box, Tad Lincoln is joining in, as is his companion for the evening, Tom Pendel. Onstage, the bird flies off, the young man is freeing the young woman, when the scene is halted by the red curtain lowering, surprising actors and audience. The music dies, the gas lights in the house are being raised as the owner of the theater, LEONARD GROVER, steps out before the curtain and walks to the center of the stage, pale and badly shaken. In the box, Tom Pendel glances quickly at Tad, who's fixed on the stage, eyes open, alarmed. The audience knows something's wrong. Their rising murmur of concern dies immediately when Grover raises his hands.}
+<CHAR>__{LEONARD GROVER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(VOICE SHAKING:)}
+<DIAL>__{The President has been shot.}
+<ACTION>__{There are screams of horror from the audience; people leap from their seats.}
+<CHAR>__{LEONARD GROVER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The President has been shot at Ford's Theater!}
+<ACTION>__{The theater is a scene of complete pandemonium. People cry, jam the aisles, call to each other across rows of seats, shout questions at Grover, who's calling for calm, inaudible in the uproar. Tom Pendel is frozen in shock, then turns to draw Tad close to him. Tad pulls away and begins shrieking, clinging to the railing so tightly that Pendel can't pry him loose. Tad can't stop screaming, his eyes wide open, seeing nothing.}
+<LOC>__{INT. THE BEDROOM IN PETERSON'S BOARDING HOUSE - MORNING}
+<ACTION>__{Mary is gently escorted into a tiny room. A small, hissing gas jet in the wall bathes the scene with green light. Stanton, Speed, GENERAL HENRY HALLECK and a MINISTER, are standing. Welles sits by the head of the bed. DR. CHARLES LEALE, a young army surgeon, and DR. ROBERT STONE, the Lincoln family's doctor, stand uselessly by the foot of the bed, while DR. JOSEPH BARNES, the Surgeon General, listens to Lincoln's faint breathing. Robert, in uniform, red-eyed, pale as a ghost, sits at the bedside and stares at his father, barely breathing. Lincoln lies in a crooked diagonal, his knees bent, on a bed he's too tall to fit properly, clad only in a nightshirt. Barnes moves his head closer, then closer. The room is utterly still. Barnes takes out his watch, looks at the time, softly clears his throat.}
+<CHAR>__{DR. BARNES} <CHAR_PAR>__{}
+<DIAL>__{It's 7:22 in the morning, Saturday the 15th of April. It's all over. The President is no more.}
+<ACTION>__{No one talks, or moves. Stanton looks at Lincoln's body.}
+<CHAR>__{STANTON} <CHAR_PAR>__{}
+<DIAL>__{Now he belongs to the ages.}
+<ACTION>__{Robert begins to weep.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away.}
+<LOC>__{EXT. THE EAST PORTICO OF THE CAPITOL - NOON}
+<ACTION>__{Lincoln, wearing spectacles, stands at a podium before the Capitol Dome, still under scaffolding, under cloudy skies. He reads from the two pages.}
+<CHAR>__{LINCOLN} <CHAR_PAR>__{}
+<DIAL>__{Yet, if God wills that it continue until all the wealth piled by the bondman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said "the judgments of the Lord are true and righteous altogether."}
+<ACTION>__{He glances at his audience: 40,000 people from all over the country, wounded soldiers, civilians in black. And for the first time, in the crowd, not at its edges, hundreds of African Americans, civilians and soldiers.}
+<CHAR>__{LINCOLN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle, and for his widow and his orphan, to do all which may achieve and cherish a just and a lasting peace among ourselves and with all nations.}
+<TRANS>__{FADE TO BLACK:}
+<CHAR>__{THE END} <CHAR_PAR>__{}

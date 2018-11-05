@@ -1,0 +1,2724 @@
+<ACTION>__{Dead Poets Society: Final Script}
+<LOC>__{INT. WELTON ACADEMY HALLWAY - DAY}
+<ACTION>__{A young boy, dressed in a school uniform and cap, fidgets as his mother adjusts his tie.}
+<CHAR>__{MOTHER} <CHAR_PAR>__{}
+<DIAL>__{Now remember, keep your shoulders back.}
+<ACTION>__{A student opens up a case and removes a set of bagpipes. The young boy and his brother line up for a photograph}
+<CHAR>__{PHOTOGRAPHER} <CHAR_PAR>__{}
+<DIAL>__{Okay, put your arm around your brother. That's it. And breathe in.}
+<ACTION>__{The young boy blinks as the flash goes off.}
+<CHAR>__{PHOTOGRAPHR} <CHAR_PAR>__{}
+<DIAL>__{Okay, one more.}
+<ACTION>__{An old man lights a single candle. A teacher goes over the old man's duties.}
+<CHAR>__{TEACHER} <CHAR_PAR>__{}
+<DIAL>__{Now just to review, you're going to follow along the procession until you get to the headmaster. At that point he will indicate to you to light the candles of the boys.}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL>__{All right boys, let's settle down.}
+<ACTION>__{The various boys, including NEIL, KNOX, and CAMERON, line up holding banners. Ahead of them is the old man, followed by the boy with the bagpipes with the two youngest boys at the front.}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL>__{Banners up.}
+<ACTION>__{The boys hoist the banners and the bagpipes begin to play loudly. The small group marches out of the room and down a set of stairs into a church. The pews are filled with students and parents while the teachers, all dressed in robes, are seated at the front of the church behind the headmaster. The boys break off to either side at the front of the church. The bagpipes cease and the headmaster, MR. NOLAN, walks over to the old man carrying the candle.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Ladies and gentlemen, boys, the light of knowledge.}
+<ACTION>__{An organ begins to play as the old man goes forward with shaking hands to the young boys in the front pew. Each boy is holding a candle and he bends over to light the first one. Each boy in turn lights the candle of the boy next to him.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{One hundred years ago, in 1859, 41 boys sat in this room and were asked the same question that greets you at the start of each semester. Gentlemen, what are the four pillars?}
+<ACTION>__{All throughout the pews, uniformed boys rise to their feet. TODD, who is not wearing a uniform, is urged by his father to stand with them.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Tradition, honor, discipline, excellence.}
+<ACTION>__{The boys quickly return to their seats.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{In her first year, Welton Academy graduated five students. Last year we graduated fifty-one. And more than seventy-five percent of those went on to the Ivy League. This, this kind of accomplishment is the result of fervent dedication to the principles taught here. This is why you parents have been sending us your sons. This is why we are the best preparatory school in the United States.}
+<ACTION>__{Mr. Nolan soaks up the applause from the audience.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{As you know, our beloved Mr. Portius of the English department retired last term. You will have the opportunity later to meet his replacement, Mr. John Keating, himself a graduate of this school. And who, for the past several years, has been teaching at the highly regarded Chester School in London.}
+<ACTION>__{The crowd applauds once again.}
+<LOC>__{EXT. SCHOOL GROUNDS - DAY}
+<ACTION>__{The school lawn is a filled with luggage, students, and parents mulling about in every direction.}
+<LOC>__{INT CHURCH ENTRANCE - DAY}
+<ACTION>__{Mr Nolan stands by the entrance, speaking with each family as they leave.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Glad you could come by.}
+<CHAR>__{MR ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{Thrilling ceremony as usual Dr. Nolan.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{You've been away too long.}
+<CHAR>__{MRS ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{Hello Dr. Nolan.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Good to have you back.}
+<CHAR>__{MRS ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{This is our youngest, Todd.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson.You have some big shoes to fill, young man. Your brother was one of our finest.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<ACTION>__{Todd and his parents leave while others file past Mr. Nolan.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Lovely ceremony.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Thank you. So glad you liked it.}
+<ACTION>__{MR PERRY approaches with his son Neil. He shakes Mr. Nolan's hand.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Gale}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Tom}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Good to see you again.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hello Mr. Nolan.}
+<CHAR>__{MR NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Neil. We expect great things from you this year.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Thank you, sir.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Well he won't disappoint us. Right Neil?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I'll do my best sir.}
+<LOC>__{EXT SCHOOL GROUNDS - DAY}
+<ACTION>__{A bell tolls. Parents begin wishing their boys farewell.}
+<CHAR>__{FATHER} <CHAR_PAR>__{}
+<DIAL>__{Hey, come on son.}
+<CHAR>__{MOTHER} <CHAR_PAR>__{}
+<DIAL>__{Chin up.}
+<CHAR>__{FATHER} <CHAR_PAR>__{}
+<DIAL>__{No tears now.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<CHAR>__{MOTHER} <CHAR_PAR>__{}
+<DIAL>__{Chin up.}
+<ACTION>__{Another boy hugs his mother.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{I don't want to go here.}
+<CHAR>__{MOTHER} <CHAR_PAR>__{}
+<DIAL>__{You be a good boy and do your lessons.}
+<LOC>__{EXT SCHOOL GROUNDS - DAY}
+<ACTION>__{Neil emerges from a building and sees Todd.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hey, I hear we're gonna be roommates.}
+<ACTION>__{He shakes Todd's hand.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I'm Neil Perry.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Todd Anderson.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Why'd you leave Balincrest?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{My brother went here.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, so you're that Anderson.}
+<LOC>__{INT DORMATORY - DAY}
+<ACTION>__{DR. HAGER is standing in his room doorway while SPAZ and his father are going over some last minute precautions over the boy's allergies. Spaz's father hands Hager various bottles.}
+<CHAR>__{FATHER} <CHAR_PAR>__{}
+<DIAL>__{This is for sinuses. Oh, and if he can't swallow you give him one of these. And if he had trouble breathing you can give him some of those.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{All right fine.}
+<ACTION>__{Dr. Hager takes the bottles and quickly backs into his room, shutting the door.}
+<CHAR>__{FATHER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to son)}
+<DIAL>__{Did you remember your vaporizer?}
+<CHAR>__{SPAZ} <CHAR_PAR>__{}
+<DIAL>__{Yes, I put it in my room.}
+<ACTION>__{Spaz's father tries to say something else to Dr. Hager but realizes he has already gone.}
+<LOC>__{INT HALLWAY - DAY}
+<ACTION>__{Neil pushes his way through a crowd of boys, carrying two suitcases. As he enters his room, Knox quickly passes by.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hey, how's it going Neil?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hey Knox.}
+<ACTION>__{Cameron comes by and leans against the doorway.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Neil, study group tonight?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yeah, sure.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Business as usual, huh? Hey, I hear you got the new kid. Looks like a stiff!}
+<ACTION>__{He begins laughing when he notices Todd coming into the room.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Oops!}
+<ACTION>__{Cameron quickly leaves. Neil tries to keep from laughing as Todd enters the room and sets his luggage down on his bed.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Listen, don't mind Cameron. He was born with his foot in his mouth. You know what I mean?}
+<ACTION>__{He pulls some papers from his blazer pocket and playfully whacks Todd across the back with it. CHARLIE comes to the door with a smug expression on his face. Knox and MEEKS are close behind him. He points at Neil}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Rumor has it, you did summer school.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yep. Chemistry. My father thought I should get ahead. How was your summer Slick?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Keen.}
+<ACTION>__{The boys enter the room. Charlie turns around and looks at Meeks who is just entering.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Meeks. Door. Closed.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, what are the four pillars?}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Travesty. Horror. Decadence. Excrement.}
+<ACTION>__{Charlie makes himself comfortable on Neil's bed and lights up a cigarette. Meanwhile, Todd is by his bed unpacking his luggage.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Okay, study group. Meeks aced Latin. I didn't quite flunk English. So, if you want, we've got our study group.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Sure. Cameron asked me too. Anyone mind including him?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Hmm, what's his specialty, boot-licking?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Come on, he's your roommate.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{That's not my fault.}
+<ACTION>__{Meeks seems to notice Todd for the first time.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Oh, I'm sorry, my name is Steven Meeks.}
+<ACTION>__{Neil quickly gets up from his spot by the window.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, this is Todd Anderson.}
+<ACTION>__{Todd turns around and shakes hands with Meeks.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Charlie Dalton.}
+<ACTION>__{Charlie continues to lay on the bed, looking smug. Knox extends a hand.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Knox Overstreet.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Todd's brother was Jeffrey Anderson.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Oh yeah, sure. Valedictorian. National merit scholar.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Oh well, welcome to Hell-ton.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{It's every bit as tough as they say, unless you're a genius like Meeks.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{He flatters me. That's why I help him with Latin.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{And English, and Trig.}
+<ACTION>__{Charlie begins coughing. There is a knock at the door. Charlie quickly stamps out his cigarette on the floor and Neil tries to wave the smoke from the air.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{It's open.}
+<ACTION>__{The door opens and Mr. Perry walks into the room. Neil quickly rises from the window.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Father, I thought you'd gone.}
+<ACTION>__{The other boys stand up when he enters.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Mr. Perry.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Keep your seats fellows, keep your seats. Neil, I've just spoken to Mr. Nolan. I think that you're taking too many extra curricular activities this semester, and I've decided that you should drop the school annual.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{But I'm the assistant editor this year.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Well I'm sorry Neil.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{But Father, I can't. It wouldn't be fair.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Fellas, would you excuse us for a moment?}
+<ACTION>__{Mr. Perry walks towards the door and Neil hesitantly follows. Mr. Perry pauses by the door and smiles to the other boys.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{The smile has gone from Mr. Perry's face. He grabs a hold of Neil's arm.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Don't you ever dispute me in public. Do you understand?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Father, I wasn't disputing-}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<ACTION>__{After you've finished medical school and you're on your own, then you can do as you damn well please. But until then, you do as I tell you. Is that clear?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir. I'm sorry.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{You know how much this means to your mother, don't you?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir. You know me, always taking on too much.}
+<CHAR>__{MR PERRY} <CHAR_PAR>__{}
+<DIAL>__{Well, that's my boy. Now listen, you need anything, you let us know, huh?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<ACTION>__{Mr. Perry slaps his son on the shoulder and leaves. Neil leans his head back against the wall as the other boys emerge from the room.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Why doesn't he let you do what you want?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah Neil, tell him off. It couldn't get any worse.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, that's rich. Like you guys tell your parents off, Mr. Future Lawyer and Mr. Future Banker.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Okay, so I don't like it any more than you do.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Well just don't tell me how to talk to my father. You guys are the same way.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{All right, all right, Jesus. So what are you going to do?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What I have to do. Drop the annual.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Well I wouldn't lose much sleep over it. It's just a bunch of jerks trying to impress Nolan.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I don't care. I don't give a damn about any of it.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Well, uh, Latin, eight o' clock in my room?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Todd, you're welcome to join us.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah, come along pal.}
+<ACTION>__{Todd looks up from his desk where he is setting his alarm clock.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<LOC>__{EXT. FIELDS - DAY}
+<ACTION>__{A clock bell chimes five o'clock. Enormous flocks of birds, apparently disturbed by the noise, take to the sky.}
+<LOC>__{INT. STAIRCASE - DAY}
+<ACTION>__{The sound of squawking birds merges into the sound of noisy boys as they descend the stairs in a long spiralling line. MR. MCALLISTER tries to make it upstairs against the steady stream.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Slow down boys, slow down you horrible phalanx of pubescense.}
+<LOC>__{INT CHEMISTRY LAB - DAY}
+<ACTION>__{A teacher walks up and down the aisles, handing out books.}
+<CHAR>__{TEACHER} <CHAR_PAR>__{}
+<DIAL>__{Pick three laboratory experiments from the project list and report on them every five weeks. The first twenty questions at the end of chapter one are due tomorrow.}
+<ACTION>__{The students let out a collective groan.}
+<LOC>__{INT. LATIN CLASSROOM - DAY}
+<ACTION>__{Mr. McAllister paces back and forth in front of the blackboard and gets the students to repeat everything he says.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(students repeat after each word.)}
+<DIAL>__{Agricolam. Agricola. Agricolae. Agricolarum. Agricolis. Agricolas. Agrilcolis. Again, please. Agricola.}
+<LOC>__{INT. MATH CLASSROOM - DAY}
+<ACTION>__{Dr. Hager walks up the classroom aisles with his arms behind his back.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{Your study of trigonometry requires absolute precision. Anyone failing to turn in any homework assignment will be penalized one point off their final grade. Let me urge you now not to test me on this point.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Students enter Keating's classroom, talking and acting up. Keating glances out from his room off to one side.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hey Spaz, Spaz.}
+<ACTION>__{Spaz turns around in time to be hit by a ball of crumpled up paper while Cameron smacks him on the shoulder.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Brain damage.}
+<ACTION>__{The students quickly quiet down as Keating emerges from the other room, whistling the 1812 Overture. He walks up the length of the classroom and out the door without a word. The students look around at one another, uncertain of what to do. Keating pokes his head back in the doorway.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Well come on.}
+<ACTION>__{He gestures them to follow and the students, after some hesitation, grab their books and follow Keating out into the main entranceway.}
+<LOC>__{INT. ENTRANCEWAY - DAY}
+<ACTION>__{Keating stands before the school's trophy cabinets and waits until all the boys arrive.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{"Oh Captain, My Captain" who knows where that comes from?}
+<ACTION>__{Todd looks up as if he knows the answer, but says nothing. Spaz blows his nose a little too close to Meeks for his liking.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Not a clue? It's from a poem by Walt Whitman about Mr. Abraham Lincoln. Now in this class you can call me Mr. Keating. Or, if you're slightly more daring, Oh Captain, My Captain.}
+<ACTION>__{The students laugh slightly.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now let me dispel a few rumors so they don't fester into facts. Yes, I too attended Hell-ton and survived. And no, at that time I was not the mental giant you see before you. I was the intellectual equivalent of a ninety-eight pound weakling. I would go to the beach and people would kick copies of Byron in my face.}
+<ACTION>__{The boys laugh once again, while Cameron, obviously trying to write all this down, looks around confusedly. Keating looks down at papers in his hand.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now, Mr... Pitts. That's a rather unfortunate name. Mr. Pitts, where are you?}
+<ACTION>__{Pitts raises his hand while everyone around him snickers.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<ACTION>__{Mr. Pitts, would you open your hymnal to page 542 and read the first stanza of the poem you find there?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{"To the virgins, to make much of time"?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Yes, that's the one. Somewhat appropriate, isn't it.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{"Gather ye rosebuds while ye may, old time is still a flying, and this same flower that smiles today, tomorrow will be dying."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you Mr. Pitts. "Gather ye rosebuds while ye may." The Latin term for that sentiment is Carpe Diem. Now who knows what that means?}
+<ACTION>__{Meeks immediately puts his hand up.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Carpe Diem. That's "seize the day."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Very good, Mr.-}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Meeks.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Meeks. Another unusual name. Seize the day. Gather ye rosebuds while ye may. Why does the writer use these lines?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Because he's in a hurry.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, ding!}
+<ACTION>__{Keating slams his hand down on an imaginary buzzer.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you for playing anyway. Because we are food for worms lads. Because, believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold, and die.}
+<ACTION>__{Keating turns towards the trophy cases, filled with trophies, footballs, and team pictures.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now I would like you to step forward over here and peruse some of the faces from the past. You've walked past them many times. I don't think you've really looked at them.}
+<ACTION>__{The students slowly gather round the cases and Keating moves behind them.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{They're not that different from you, are they? Same haircuts. Full of hormones, just like you. Invincible, just like you feel. The world is their oyster. They believe they're destined for great things, just like many of you. Their eyes are full of hope, just like you. Did they wait until it was too late to make from their lives even one iota of what they were capable? Because you see gentlmen, these boys are now fertilizing daffodils. But if you listen real close, you can hear them whisper their legacy to you. Go on, lean in.}
+<ACTION>__{The boys lean in and Keating hovers over Cameron's shoulder.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering in a gruff voice)}
+<DIAL>__{Carpe.}
+<ACTION>__{Cameron looks over his shoulder with an aggravated expression on his face.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Hear it?}
+<DIAL_PAR>__{(whispering again)}
+<DIAL>__{Carpe. Carpe Diem. Seize the day boys, make your lives extraordinary.}
+<ACTION>__{The boys stare at the faces in the cabinet in silence.}
+<LOC>__{EXT. SCHOOL STEPS - DAY}
+<ACTION>__{The boys emerge from the school, loaded down with numerous books.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{That was weird.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{But different.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Spooky if you ask me.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Think he'll test us on that stuff?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Come on Cameron, don't you get anything?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{What? What?}
+<LOC>__{INT. LOCKER ROOM - EVENING}
+<ACTION>__{A coach sticks his head around the corner into the room.}
+<CHAR>__{COACH} <CHAR_PAR>__{}
+<DIAL>__{Let's go boys, hustle up in here. That means you Dalton.}
+<ACTION>__{Meeks emerges from the showers, drying himself off.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Okay, who's up for a trig study group tonight guys?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Me.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Me.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still annoyed by what the coach said)}
+<DIAL>__{What?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I can't make it guys. I have to have dinner at the Danburry's house.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{The Danburry's? Who are the Danburry's?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Big alumns. How'd you swing that?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Friends of my Dad's. They're probably in their nineties or something.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Ooh!}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Anything's better than Hell-ton hash.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'll second that.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah we'll see.}
+<ACTION>__{Neil approaches Todd, who's been sitting by the window staring down at the floor. Neil snaps his fingers to get Todd's attention.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hey, you coming to the study group tonight?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Uh, no, no I, uh, I've got some history I wanna do.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Suit yourself.}
+<LOC>__{INT. TODD'S ROOM - EVENING}
+<ACTION>__{Todd is seated at his desk. He scrawls "CARPE DIEM" across a blank page of his notebook. He looks at it for a few moments before crumpling it up and opening up his Chemistry book.}
+<LOC>__{INT. ENTRANCEWAY - NIGHT}
+<ACTION>__{Hager comes down the stairs. Knox is looking at one of the old class photos on the walls.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{Ready Overstreet?}
+<ACTION>__{Knox reluctantly follows after Dr. Hager.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Ready to go sir.}
+<LOC>__{EXT. ROAD - NIGHT}
+<ACTION>__{The car leaves Welton and drives towards the Danburry's house.}
+<LOC>__{INT /EXT.DANBURRY'S HOUSE - NIGHT}
+<ACTION>__{The doorbell rings.}
+<CHAR>__{MRS DANBURRY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Chet, can you get that?}
+<CHAR>__{CHET } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I can't, Mom.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'll get it.}
+<ACTION>__{The door opens and Knox is awe-struck by the beautiful girl (CHRIS) who has answered the door.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Can I help you?}
+<ACTION>__{Knox manages to break out of his daze.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hi. Knox Overstreet. Uh, Dr. Hager.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{This is the Danburry's, right?}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Are you here to see Chet?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Danburry?}
+<ACTION>__{Chris begins to laugh as Mrs. Danburry arrives behind her.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{MRS DANBURRY} <CHAR_PAR>__{}
+<DIAL>__{Sorry. Thank you Chris. I'm Mrs. Danburry. You must be Knox.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{MRS DANBURRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dr. Hager)}
+<DIAL>__{Back by nine.}
+<DIAL_PAR>__{(to Knox)}
+<DIAL>__{Please come in.}
+<CHAR>__{CHET } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Chris, come on, what are you doing?}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Chet, I'm coming.}
+<ACTION>__{Knox enters the house, his mind still hung up on Chris as MR DANBURRY comes out of the living room to meet him.}
+<CHAR>__{MR DANBURRY} <CHAR_PAR>__{}
+<DIAL>__{Knox. How are you? Joe Danburry.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you sir.}
+<CHAR>__{MR DANBURRY} <CHAR_PAR>__{}
+<DIAL>__{Well he's the spitting image of his father, isn't he. How is he? Come on in.}
+<CHAR>__{CHET } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Chris!}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{He's great. He just did a big case for GM.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'm coming.}
+<CHAR>__{MR DANBURRY} <CHAR_PAR>__{}
+<DIAL>__{I know where you're headed, like father like son, huh?}
+<LOC>__{INT. STUDENT LOUNGE - NIGHT}
+<ACTION>__{Several students are throwing darts at a small rubber skeleton hanging from the bulletin board. Various students are studying and playing games. Meeks and Pitts are sitting at one table working on their "hi-fi system". Meeks is waving an antenna around with no luck. Pitts points out to him that he forgot to plug it in. Neil, Cameron, and Charlie are working on their trig homework.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Just replace these numbers here with "x", for "x" and "y".}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Of course.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Of course, so what's the problem?}
+<ACTION>__{Charlie enters the room and closes the door behind him, leaning up against it heavily.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{How was dinner?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Huh?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{How was dinner?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Terrible. Awful.}
+<ACTION>__{He leaves the door and sits down with the other boys.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Why? What happened?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Tonight, I met the most beautiful girl in my entire life.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Are you crazy? What's wrong with that?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{She's practically engaged. To Chet Danburry.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{That guy could eat a football.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{That's too bad.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Too bad? It's worse than too bad Pitsie, it's a tragedy. A girl this beautiful in love with such a jerk.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{All the good ones go for jerks, you know that.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Ahh, forget her. Open your trig book and try and figure out problem five.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I can't just forget her Cameron. And I can't think about trig.}
+<ACTION>__{The radio Meeks and Pitts were working on begins letting out a high pitched hum.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{We got it.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Holy cow.}
+<ACTION>__{Mr. Hager walks into the room.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{All right gentlemen, five minutes. Let's go.}
+<ACTION>__{The students quickly pack up their gear and prepare to leave. Pitts tries to hide the radio in his lap. Charlie leans in close to Knox.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Did you see her naked?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Very funny Dalton.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{That wouldn't be a radio in your lap, would it Mr. Pitts?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{No sir. Science experiment, radar.}
+<ACTION>__{Meeks holds up the antenna as if demonstrating it.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Keating sits at his desk at the front of the classroom and opens up one of his books.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, open your text to page twenty-one of the introduction. Mr. Perry, will you read the opening paragraph of the preface, entitled "Understanding Poetry"?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Understanding Poetry, by Dr. J. Evans Pritchard, Ph.D. To fully understand poetry, we must first be fluent with its meter, rhyme, and figures of speech. Then ask two questions: One, how artfully has the objective of the poem been rendered, and two, how important is that objective. Question one rates the poem's perfection, question two rates its importance. And once these questions have been answered, determining a poem's greatest becomes a relatively simple matter.}
+<ACTION>__{Keating gets up from his desk and prepares to draw on the chalk board.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{If the poem's score for perfection is plotted along the horizontal of a graph, and its importance is plotted on the vertical, then calculating the total area of the poem yields the measure of its greatness.}
+<ACTION>__{Keating draws a corresponding graph on the board and the students dutifully copy it down.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{A sonnet by Byron may score high on the vertical, but only average on the horizontal. A Shakespearean sonnet, on the other hand, would score high both horizontally and vertically, yielding a massive total area, thereby revealing the poem to be truly great. As you proceed through the poetry in this book, practice this rating method. As your ability to evaluate poems in this matter grows, so will - so will your enjoyment and understanding of poetry.}
+<ACTION>__{Neil sets the book down and takes off his glasses. The student sitting across from him is discretely trying to eat. Keating turns away from the chalkboard with a smile.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Excrement. That's what I think of Mr. J. Evans Pritchard. We're not laying pipe, we're talking about poetry.}
+<ACTION>__{Cameron looks down at the graph he copied into his notes and quickly scribbles it out.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I mean, how can you describe poetry like American Bandstand? I like Byron, I give him a 42, but I can't dance to it.}
+<ACTION>__{Charlie suddenly appear to become interested in the class.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now I want you to rip out that page.}
+<ACTION>__{The students look at Keating as if he has just gone mad.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Go on, rip out the entire page. You heard me, rip it out. Rip it out!}
+<ACTION>__{Charlie looks around at the others. He then looks down at his own notes, which consists of drawing breasts.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Go on, rip it out.}
+<ACTION>__{Charlie rips the page out and holds it up.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you Mr. Dalton. Gentlemen, tell you what, don't just tear out that page, tear out the entire introduction. I want it gone, history. Leave nothing of it. Rip it out. Rip! Begone J. Evans Pritchard, Ph.D. Rip, shred, tear. Rip it out. I want to hear nothing but ripping of Mr. Pritchard.}
+<ACTION>__{Meeks looks around reluctantly and then finally begins tearing out pages.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{We'll perforate it, put it on a roll.}
+<ACTION>__{Keating sees Cameron still hesitating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{It's not the bible, you're not going to go to hell for this. Go on, make a clean tear, I want nothing left of it.}
+<ACTION>__{Keating goes over to his room. Cameron turns around to Neil.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{We shouldn't be doing this.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Rip, rip, rip!}
+<ACTION>__{Neil makes Cameron turn back around.}
+<CHAR>__{KEATING } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Rip it out, rip!}
+<ACTION>__{From outside the classroom, Mr. McAllister hears all the noise and sees all the students ripping out the pages. He bursts into the room.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{What the hell is going on here?}
+<ACTION>__{The boys all turn around in shock. Charlie stuffs a crumpled page into his mouth. Keating emerges from his room with a waste paper basket.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I don't hear enough rips.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Mr. Keating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. McAllister.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, I- I didn't know you were here.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I am.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Ahh, so you are. Excuse me.}
+<ACTION>__{Mr. McAllister slowly backs out of the classroom.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Keep ripping gentlemen. This is a battle, a war. And the casualties could be your hearts and souls.}
+<ACTION>__{Keating holds out the basket to Charlie who spits out a wad of paper.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you Mr. Dalton. Armies of academics going forward, measuring poetry. No, we will not have that here. No more of Mr. J. Evans Pritchard. Now in my class you will learn to think for yourselves again. You will learn to savor words and language. No matter what anybody tells you, words and ideas can change the world. I see that look in Mr. Pitt's eye, like nineteenth century literature has nothing to do with going to business school or medical school. Right? Maybe. Mr. Hopkins, you may agree with him, thinking "Yes, we should simply study our Mr. Pritchard and learn our rhyme and meter and go quietly about the business of achieving other ambitions." I have a little secret for ya. Huddle up. Huddle up!}
+<ACTION>__{The boys get up from their seats and gather around Keating in the center of the class.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. Medicine, law, business, engineering, these are all noble pursuits, and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman: "O me, o life of the questions of these recurring, of the endless trains of the faithless, of cities filled with the foolish. What good amid these, o me, o life? Answer: that you are here. That life exists, and identity. That the powerful play goes on, and you may contribute a verse. That the powerful play goes on and you may contribute a verse.}
+<ACTION>__{Keating looks up at Todd.}
+<DIAL>__{Keating What will your verse be?}
+<LOC>__{INT. HEAD OF CAFETERIA - DAY}
+<ACTION>__{The cafeteria is filled with students and teachers standing before the tables saying grace.}
+<CHAR>__{ALL} <CHAR_PAR>__{}
+<DIAL>__{For what we are about to receive, may the Lord make us truly grateful. Amen.}
+<ACTION>__{Mr. Keating and Mr. McAllister are seated next to one another at the table.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Quite an interesting class you gave today, Mr. Keating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry if I shocked you, Mr. McAllister.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Oh, there's no need to apologize. It was very fascinating, misguided though it was.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You think so?}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{You take a big risk by encouraging them to be artists John. When they realize they're not Rembrandts, Shakespeares or Mozarts, they'll hate you for it.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{We're not talking artists George, we're talking free thinkers.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Free thinkers at seventeen?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Funny, I never pegged you as a cynic.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taken aback by the comment)}
+<DIAL>__{Not a cynic, a realist. Show me the heart unfettered by foolish dreams, and I'll show you a happy man.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{But only in their dreams can man be truly free. 'Twas always thus, and always thus will be.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Tennyson?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, Keating.}
+<ACTION>__{Keating winks and Mr. McAllister can't help but laugh.}
+<LOC>__{INT. CAFETERIA TABLE - DAY}
+<ACTION>__{Neil joins the others at the table. He pulls out a yearbook.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hey, I found his senior annual in the library.}
+<ACTION>__{He hands the annual over to Cameron who laughs at the younger picture of Keating.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Listen to this, captain of the soccer team, editor of the school annual, Cambridge bound, Thigh man, and the Dead Poets Society.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading from the annual)}
+<DIAL>__{Man most likely to do anything.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Thigh man. Mr. K was a hell-raiser.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{What's the Dead Poets Society?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I don't know.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Is there a picture in the annual?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Nothing. No other mention of it.}
+<CHAR>__{MR. NOLAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{That boy there, see me after lunch.}
+<ACTION>__{Cameron quickly puts the annual away and the others all return to their meal.}
+<LOC>__{EXT. WELTON GROUNDS - DAY}
+<ACTION>__{Keating is walking down towards the lake, whistling the same tune as before. The boys emerge from the building and chase after him.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Mr. Keating? Mr. Keating? Sir? Oh Captain, My Captain?}
+<ACTION>__{Keating immediately turns around.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{We were just looking in your old annual.}
+<ACTION>__{He hands Keating the annual and Keating looks at his old photograph.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Oh my God. No, that's not me. Stanley "The Tool" Wilson-}
+<ACTION>__{Keating crouches down and continues looking through the book.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{God.}
+<ACTION>__{Neil crouches down next to Keating.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What was the Dead Poets Society?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I doubt the present administration would look too favorably upon that.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Why? What was it?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, can you keep a secret?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<ACTION>__{The other boys crouch down around Keating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{The Dead Poets were dedicated to sucking the marrow out of life. That's a phrase from Thoreau that we'd invoke at the beginning of each meeting. You see we'd gather at the old Indian cave and take turns reading from Thoreau, Whitman, Shelley; the biggies. Even some of our own verse. And in the enchantment of the moment we'd let poetry work its magic.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{You mean it was a bunch of guys sitting around reading poetry?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No Mr. Overstreet, it wasn't just "guys", we weren't a Greek organization, we were romantics. We didn't just read poetry, we let it drip from our tongues like honey. Spirits soared, women swooned, and gods were created, gentlemen, not a bad way to spend an evening eh? Thank you Mr. Perry for this trip down amnesia lane. Burn that, especially my picture.}
+<ACTION>__{Keating hands the annual back and walks away, whistling once again. Neil remains crouched.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Dead Poets Society.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<ACTION>__{The school bells begin ringing and everyone heads back towards the school. Neil stands up.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I say we go tonight.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Tonight?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Where's this cave he's talking about?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{It's beyond the stream. I know where it is.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{That's miles.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Sounds boring to me.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Don't go.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{You know how many de-merits we're talking Dalton}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{So don't come, please.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Look, all I'm saying is that we have to be careful, we can't get caught.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{No shit, Sherlock.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(yelling)}
+<DIAL>__{You boys there, hurry up.}
+<ACTION>__{Neil turns around and faces the other boys.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{All right, who's in?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Come on Neil, Hager's right-}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Forget Hager, no. Who's in?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'm in.}
+<CHAR>__{HAGER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'm warning you, move.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Me too.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{I don't know Neil}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What? Pitts-}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Pitsie, come on.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{His grades are hurting Charlie.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You can help him Meeks.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{What is this, a midnight study group?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Forget it Pitts, you're coming. Meeks, are your grades hurting too?}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{I'll try anything once.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Except sex.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Ha ha ha.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I mean as long as we're careful.}
+<ACTION>__{The boys run into the building.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What about you Knox?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I don't know Charlie.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Come on Knox, it'll help you get Chris.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah? How?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Women swoon.}
+<ACTION>__{Charlie laughs and runs inside. Knox chases after him.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{But why do they swoon? Charlie, tell me why they swoon. Charlie!}
+<LOC>__{INT LIBRARY - DAY}
+<ACTION>__{The boys are all gathered around one of the tables with a map laid out on it.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering)}
+<DIAL>__{Okay, follow the stream to the waterfall. It's right there. It's got to be on the banks.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I don't know, it's starting to sound dangerous.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Well, why don't you stay home?}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{For God's sake stop chattering and sit down.}
+<ACTION>__{The boys take their seats once again and Neil goes over and sits next to Todd, who is sitting by himself.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Todd, are you coming tonight?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Why not? God, you were there. You heard Keating. Don't you want to do something about it?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yes, but-}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{But? But what?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Keating said that everybody took turns reading and I don't want to do that.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Gosh, you really have a problem with that, don't you?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{N- no, I don't have a problem. Neil, I just- I just don't want to do it, okay?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{All right. What if you didn't have to read? What if you just came and listened?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{That's not how it works.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Forget how it works. What if - what if they said it was okay?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What? What are you gonna do, go up and ask them?}
+<ACTION>__{Neil shrugs.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{No. No, Neil.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I'll be right back.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Neil, Neil!}
+<ACTION>__{Neil gets up and rejoins the others. McAllister hears the boys whispering again.}
+<CHAR>__{MCALLISTER} <CHAR_PAR>__{}
+<DIAL>__{Oh shut up, will you.}
+<LOC>__{INT BATHROOM - NIGHT}
+<ACTION>__{Various boys are crowded around the sinks getting ready for bed. Someone is playing snake charmer music on a kazoo while someone else is bothering Spaz with a red sock puppet acting like a snake.}
+<CHAR>__{SPAZ} <CHAR_PAR>__{}
+<DIAL>__{That's my- that's for my asthma, okay. Could you give that back please? Could you give that back?}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{What's the matter? Don't you like snakes?}
+<ACTION>__{Neil enters and taps Todd on the shoulder.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You're in.}
+<CHAR>__{SPAZ} <CHAR_PAR>__{}
+<DIAL>__{Get away from me, okay?}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{Spaz, why don't you check your pocket, huh? Come on Spaz I have to brush my teeth}
+<CHAR>__{SPAZ} <CHAR_PAR>__{}
+<DIAL>__{Get a- get off,}
+<ACTION>__{Hager walks past the bathroom and into his room.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{Cut out that racket in there.}
+<ACTION>__{The kazoo player lets out a rude squeek before finally stopping. Hager glares at them for a moment.}
+<LOC>__{INT NEIL'S BEDROOM - NIGHT}
+<ACTION>__{Neil stands in his doorway. He looks across the hall to the other room where Cameron and Charlie are standing. Cameron gives a thumbs up. Neil closes his room door and takes out his cloak and a flashlight. Setting the flashlight down on the desk, he notices a worn book, "Five Centuries of Verse", sitting there. Opening it up, he sees John Keating's name at the top followed by "Dead Poets". Below the title of the book, is written: "To Be Read At The Opening of D.P.S. Meetings." Along with several lines from Thoreau, beginning with "I went to the woods because I wanted to live deliberately..."}
+<LOC>__{INT STAIRWAY - NIGHT}
+<ACTION>__{The shadows of hooded figures can be seen moving throughout the darkened halls.}
+<LOC>__{INT HAGER'S ROOM - NIGHT}
+<ACTION>__{Hager hears a dog barking.}
+<LOC>__{INT HALLWAY - NIGHT}
+<ACTION>__{Someone drops a number of dog biscuits by the dog's feet. He stops barking and immediately begins gobbling them down. Hager looks out into the hallway with his flashlight but sees nothing.}
+<LOC>__{EXT SCHOOL GROUNDS - NIGHT}
+<ACTION>__{The boys quietly leave the building and set off running across the fields towards the woods.}
+<LOC>__{EXT WOODS - NIGHT}
+<ACTION>__{The boys search about the trees trying to find the cave. Meeks is searching around when Charlie leaps up behind Meeks in the dark shining the flashlight up at his own face and grabs Meeks by the shoulder.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Arrr, I'm a dead poet.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Aww, Charlie.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughing)}
+<DIAL>__{Guys, over here.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{You're funny. You're real funny.}
+<LOC>__{INT CAVE - NIGHT}
+<ACTION>__{The boys are trying to start a fire. The cave is quickly filling up with smoke.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{It's too wet.}
+<ACTION_ALT>__{CHARLIE}
+<DIAL>__{God, are you trying to smoke us out of here?}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{No, no, the smoke's going right up this opening.}
+<ACTION>__{Pitts tries to stand up and slams his head into the low rock ceiling. He lets out a yell while the others laugh.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You okay?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Oh God. Clowns.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{All right, all right, forget the fire. Let's go gentlemen.}
+<ACTION>__{Neil stands before the others with the book in hand, and takes a drag on a cigarette.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I hereby reconvene the Dead Poets Society.}
+<ACTION>__{The boys cheer.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Welton chapter. The meetings will be conducted by myself and the other new initiates now present. Todd Anderson, because he prefers not to read, will keep minutes of the meetings. I'll now read the traditional opening message by society member Henry David Thoreau. "I went to the woods because I wanted to live deliberately. I wanted to live deep and suck out all the marrow of life."}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'll second that.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{"To put to rout all that was not life, and not, when I had come to die, discover that I had not lived.}
+<ACTION>__{Several boys whistle softly in reaction to the poem.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{And Keating's marked a bunch of other pages.}
+<ACTION>__{Neil begins flipping through the book.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{All right, intermission. Dig deep right here. Right here, lay it down}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{On the mud? We're gonna put our food on the mud?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Meeks, put your coat down. Picnic blanket.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Yes sir, use Meeks' coat.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Don't keep anything back either. You guys are always bumming my smokes.}
+<ACTION>__{Meeks lays his coat down and everyone dumps their food on it. Amongst the pile are chocolate chip cookies, a box of raisins, a few apples, an orange, and half a roll.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Raisins?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yuck.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute, who gave us half a roll?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(talking with his mouth full)}
+<DIAL>__{I'm eating the other half.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Come on.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{You want me to put it back?}
+<LOC>__{INT CAVE - NIGHT}
+<ACTION>__{Neil, lit up by a flashlight, begins to tell everyone a story.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{It was a dark and rainy night, and this old lady, who had a passion for jigsaw puzzles, sat by herself in her house at her table to complete a new jigsaw puzzle. But as she pieced the puzzle together, she realized, to her astonishment, that the image that was formed was her very own room. And the figure in the center of the puzzle, as she completed it, was herself. And with trembling hands, she placed the last four pieces and stared in horror at the face of a demented madman at the window. The last thing that this old lady ever heard was the sound of breaking glass.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Ohhh... no...}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{This is true, this is true.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I've got one that's even better than that.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Ha!}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I do. There's a young, married couple, and they're driving through the forest at night on a long trip. And they run out of gas, and there's a madman on the-}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{The thing with the hand-}
+<ACTION>__{All the boys react, recalling the story and miming the scraping on the roof of the car.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I love that story.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I told you that one.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{You did not. I got that in camp in sixth grade.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{When were you in six, last year?}
+<ACTION>__{As everyone's voices begin to calm down, Pitts begins reading from the book.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{"In a mean abode in the shanking road, lived a man named William Bloat. Now, he had a wife, the plague of his life, who continually got his goat. And one day at dawn, with her nightshift on, he slit her bloody throat."}
+<ACTION>__{The boys laugh.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Oh, and it gets worse.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You want to hear a real poem?}
+<ACTION>__{Meeks hands Charlie the book but he shoves it away.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{All right? No, I don't need it. You take it.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{What, did you bring one?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You memorized a poem?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I didn't memorize a poem. Move up.}
+<ACTION>__{Neil moves to the side as Charlie stands and takes his spot.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{An original piece by Charlie Dalton.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{An original piece.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Take center stage.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You know this is history. Right? This is history.}
+<ACTION>__{Charlie clears his throat and pulls out a page from a magazine and slowly unfolds it, revealing a Playboy centerfold (Elaine Reynolds, Miss October, 1959)}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Oh, wow.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Where did you get that?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Teach me to love? Go teach thyself more wit. I, chief professor, am of it.}
+<ACTION>__{Neil gets up and looks over Charlie's shoulder to see what he is reading.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{The god of love, if such a thing there be, may learn to love from me.}
+<ACTION>__{Charlie winks at the guys and they clap and cheer.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Wow! Did you write that?}
+<ACTION>__{Charlie turns over the centerfold to show where he had written down the poem.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Abraham Cowley. Okay, who's next?}
+<ACTION>__{Neil sits reading from the book by flashlight.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Alfred Lord Tennyson. Come my friends, 'Tis not too late to seek a newer world for my purpose holds to sail beyond the sunset. And though we are not now that strength which in old days Moved earth and heaven; that which we are, we are;-- One equal temper of heroic hearts, Made weak by time and fate, but strong in will. To strive, to seek, to find, and not to yield.}
+<ACTION>__{Meeks takes center stage and begins reading a poem like he is performing a chant.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Then I had religion, then I had a vision. I could not turn from their revel in derision. Then I saw the Congo creeping through the black, cutting through the forest with a golden track. Then I saw the Congo creeping through the black-}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Meeks, Meeks.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{...cutting through the forest with a golden track. Then I saw the Congo creeping through the black, cutting through the forest with a golden track.}
+<ACTION>__{Knox picks up a metal container and begins using it as a drum. The other boys stand and begin going in a circle, making music with sticks of wood, combs, etc.}
+<DIAL>__{Then I saw the Congo creeping through the black, cutting through the forest with a golden track. Then I saw the Congo creeping through the black, cutting through the forest with a golden track.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Then I saw the Congo creeping through the black, cutting through the forest with...}
+<ACTION>__{The boys continue to chant the chorus as they emerge from the cave.}
+<LOC>__{EXT. CAMPUS - NIGHT}
+<ACTION>__{The clock tolls two as the boys silently run back to their dorm.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Keating is walking to the front of the classroom filled with students.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{A man is not very tire, he is exhausted. And don't use very sad, use-}
+<ACTION>__{He points to the back of the classroom.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Come on, Mr. Overstreet, you twerp,}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Morose?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Exactly! Morose. Now, language was developed for one endeavor, and that is? Mr. Anderson? Come on! Are you a man or an amoeba?}
+<ACTION>__{Keating stands before Todd's desk. Todd looks up nervously but says nothing. Keating paused for a moment before looking away.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Perry?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Uh, to communicate.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No! To woo women. Today we're going to be talking about William Shakespeare.}
+<ACTION>__{The class lets out a collective sigh.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{Oh, God!}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I know. A lot of you looked forward to this about as much as you look forward to root canal work. We're gonna talk about Shakespeare as someone who writes something very interesting. Now, many of you have seen Shakespeare done very much like this:}
+<ACTION>__{Keating holds out his right arm dramtically and begins to speak in an exaggerated British accent.}
+<DIAL>__{"O Titus, bring your friend hither." But if any of you have seen Mr. Marlon Brando, you know, Shakespeare can be different. "Friend, Romans, countrymen, lend me your ears." You can also imagine, maybe, John Wayne as Macbeth going, "Well, is this a dagger I see before me?"}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{The students are all seated together near the front of the room as Keating reads from a book.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{"Dogs, sir? Oh, not just now. I do enjoy a good dog once in a while, sir. You can have yourself a three-course meal from one dog. Start with your canine crudites, go to your Fido flambe for main course and for dessert, a Pekingese parfait. And you can pick your teeth with a little paw."}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{The students are all back in their normal seats and Keating leaps up onto his desk.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Why do I stand up here? Anybody?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{To feel taller.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<ACTION>__{Keating rings the bell on his desk with his foot}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you for playing, Mr. Dalton. I stand upon my desk to remind yourself that we must constantly look at things in a different way.}
+<ACTION>__{Keating glances around the classroom from atop the desk.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You see, the world looks very different from up here. You don't believe me? Come see for yourself. Come on. Come on!}
+<ACTION>__{Charlie and Neil quickly rise from their seats to go to the front of the classroom. The rest of the class follows them. While Keating continues speaking, Neil and Charlie join him on the desk and then Keating jumps down.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Just when you think you know something, you have to look at it in another way. Even though it may seem silly or wrong, you must try! Now, when you read, don't just consider what the author thinks. Consider what you think.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Boys, you must strive to find your own voice. Because the longer you wait to begin, the less likely you are to find it at all. Thoreau said, "Most men lead lives of quiet desperation." Don't be resigned to that. Break out!}
+<ACTION>__{Keating notices Spaz and another boy leaving the desk immediately.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Don't just walk off the edge like lemmings. Look around you.}
+<ACTION>__{The school bell rings as the boys continue to climb onto the desk. Keating begins to gather up his stuff. The clock begins to toll as Keating walks to the back of the class.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{There! There you go, Mr. Priske. Thank you! Yes! Dare to strike out and find new ground. Now, in addition to your essays, I would like you to compose a poem of your own, an original work.}
+<ACTION>__{The students begin to groan. Keating begins flickering the lights off and on while chanting ominously.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{That's right! You have to deliver it aloud in front of the class on Monday. Bonne chance, gentlemen.}
+<ACTION>__{Keating steps out into the hall before quickly peeking back in once again. Todd is the last one to stand on the desk and is about to jump off.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson? Don't think that I don't know that this assignment scares the hell out of you, you mole.}
+<ACTION>__{Keating flicks the light off, leaving Todd to jump down in the darkness as the students laugh.}
+<LOC>__{EXT. RIVER - DAY}
+<ACTION>__{Cameron, Charlie, and several other boys are rowing while Mr. Nolan shouts orders from a bullhorn.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Take a power train in two! Three! Keep your eyes in the boat!}
+<LOC>__{EXT. CAMPUS ROOFTOP - DAY}
+<ACTION>__{Noisy static is replaced by music as Pitts climbs down form the peak to join Meeks at their makeshift radio.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{We got it, Pittsie. We got it! Radio Free America!}
+<LOC>__{EXT CAMPUS - DAY}
+<ACTION>__{Several students are fencing on a grassy slope.}
+<LOC>__{EXT. CAMPUS ROOFTOP - DAY}
+<ACTION>__{Meeks and Pitts perform a goofy dance together to the music.}
+<LOC>__{INT. TODD'S ROOM - DAY}
+<ACTION>__{Todd is on his bed trying to write a poem. The door opens and Todd turns his writing pad over. Neil enters the room laughing. He crouches down next to Todd's bed and plunks a sheet of paper in Todd's lap.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I found it.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{You found what?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What I wanna do right now. What's really, really inside me.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{"A Midsummer Night's Dream"?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{This is it.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What is this?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{It's a play, dummy.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{I know that. I-- Wh-Wh-What does it have to do with you?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Right. They're putting it on at Henley Hall. Open tryouts. Open tryouts!}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yes, so?}
+<ACTION>__{Neil pounds on the bed and then pulls a blanket off his bed, wearing it like a cloak.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{So, I'm gonna act. Yes, yes! I'm gonna be an actor! Ever since I can remember, I've wanted to try this. I even tried to go to summer stock auditions last year, but, of course, my father wouldn't let me. For the first time in my whole life I know what I wanna do.}
+<ACTION>__{Neil grabs a handful of papers off Todd's bed and tosses them into the air.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{and for the first time I'm gonna do it whether my father wants me to or not! Carpe diem!}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Neil, Neil, hold on a minute. How are you gonna be in a play if your father won't let you?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{First I gotta get the part, then I can worry about that.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yeah, but won't he kill you if he finds out you went to an audition and didn't even tell him?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No, no, no, no. As far as I'm concerned, he won't have to know about any of this.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Well, that's impossible.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Bullshit! Nothing's impossible.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Well, why don't you just call him and ask him? And m-maybe he'll say yes.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{That's a laugh!}
+<ACTION>__{Neil tosses the blanket back onto his bed.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{If I don't ask him, at least I won't be disobeying him.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yeah, but if he said--}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting angrily)}
+<DIAL>__{Jesus, Todd! Whose side are you on?}
+<ACTION>__{Todd says nothing. Neil looks at him for a moment and then takes the flyer back from Todd. He walks over to the window, his excitement gone.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I mean, I haven't even gotten the part yet. Can't I even enjoy the idea for a little while?}
+<ACTION>__{Once again, Todd says nothing. After a moment, Neil sits on the heater and Todd returns to his poem.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You're coming to the meeting this afternoon?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{I don't know. Maybe.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Nothing Mr. Keating has to say means shit to you, does it, Todd?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{W-What is that supposed to mean?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You're in the club! Being in the club means being stirred up by things. You look about as stirred up as a cesspool.}
+<ACTION>__{Neil gets up from the window and stands over Todd.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{So- You want me out?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No! I want you in, but being in means you gotta do something. Not just say you're in.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Well, listen, Neil. I-I appreciate this concern, but I-I'm not like you. All right? You, you, you say thing and people listen. I'm, I'm not like that.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Don't you think you could be?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{No! I--I, I don't know, but that's not the point. The, the, the point is that there's nothing you can do about it, so you can just butt out. I can take care of myself just fine. All right?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What do you mean, "no"?}
+<ACTION>__{A smile comes to Neil's face.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{Neil grabs Todd's notebook of poetry and runs across the room with it. Todd leaps up after him.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Give me-- Neil. Neil, give that back.}
+<ACTION>__{The two begin racing in circles around the room, jumping from bed to bed as Todd tries to grab his poem back.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{"We are dreaming of a--" Poetry! I'm being chased by Walt Whitman! Okay, okay.}
+<ACTION>__{Neil drops the notebook. Cameron walks into the room.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{What are you guys doing? I'm sure-- You see this chemistry-}
+<ACTION>__{Cameron tries to hold up his book and Neil snatches it from his hands and suddenly all three of them are racing around the room.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Hey, give me-- Neil, give me-- Don't be immature. Come on. I need my-}
+<ACTION>__{Charlie enters the room and begins waving his hands.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Give it to me! Give it to me!}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Charlie!}
+<ACTION>__{Neil tosses Cameron's book to Charlie.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Let me have my book, I need my-}
+<ACTION>__{The four boys continue racing around the cramped quarters, tossing Cameron's book back and forth. Neil picks up a recorder and begins blowing erratic notes on it while Charlie starts pounding on a set of bongo drums. Outside the room a crowd of boys watch.}
+<LOC>__{EXT. CAMPUS ENTRANCE - DAY}
+<ACTION>__{Knox is riding his bike around in circles near the entrance. Seeing no one nearby, he races through the open gates and down the road. He comes to the top of a hill and then goes downhill across the grass, shouting as he sends an immense flock of geese flying into the air.}
+<LOC>__{EXT. PARKING LOT - DAY}
+<ACTION>__{A number of vehicles drive up, filled with students dressed in bright red cosyumes, playing trumpets and various other instruments as they pass. Knox watches the growing crowd of students. They are all converging on a bus. A football player, wearing a horned helmet, dances on the roof of the bus. A band is playing while a group of cheerleaders are practising. Knox spots Chris amongst the cheerleaders. He watches her until Chet comes along and she grabs hold of his hand. Knox looks away in disgust.}
+<CHAR>__{COACH} <CHAR_PAR>__{}
+<DIAL>__{Okay, everybody on the bus. Let's go, boys. Come on, let's go. On the bus, boys. Now!}
+<ACTION>__{Chris jumps into Chet's arms as everyone begins to board the buses. Knox turns his bike around and leaves.}
+<LOC>__{EXT. SOCCER FIELD - DAY}
+<ACTION>__{Keating walks across the field, followed by his students. He kicks a ball ahead of him while he carries a number of other balls in a net slung over his shoulder.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now, devotees may argue that one sport or game is inherently better than another. For me, sport is actually a chance for us to have other human beings push us to excel. I want you all to come over here and take a slip of paper and line up single file.}
+<ACTION>__{Keating reaches the stands. He tosses the balls aside and pulls sets his briefcase down. As the boys line up he begins ripping off slips of paper from a notepad and handing them out.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Meeks, time to inherit the earth. Mr. Pitts, rise above your name.}
+<ACTION>__{He hands the notepad to another student.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I want you to hand these out to the boys, one apiece.}
+<LOC>__{EXT. SOCCER FIELD - DAY}
+<ACTION>__{The students are all lined up in single file, each holding a slip of paper. Keating blows his whistle.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You know what to do, Pitts.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{"Oh to struggle against great odds. To meet enemies undaunted."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Sounds to me like you're daunted. Say it again like you're undaunted.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{"Oh to struggle against great odds. To meet enemies undaunted."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now go on.}
+<ACTION>__{Pitts gives one of the soccer balls a good kick.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Yes! Next.}
+<ACTION>__{One of the students sets up the next ball as the line advances.}
+<CHAR>__{BOY 1} <CHAR_PAR>__{}
+<DIAL>__{"To be a sailor of the world, bound for all ports."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Next. Louder!}
+<CHAR>__{BOY 2} <CHAR_PAR>__{}
+<DIAL>__{"Oh, I live to be the ruler of life, not a slave."}
+<ACTION>__{Keating walks away and starts up a record player.}
+<CHAR>__{BOY 3} <CHAR_PAR>__{}
+<DIAL>__{"To mount the scaffolds. To advance to the muzzle of guns with perfect nonchalance."}
+<ACTION>__{Classical music begins playing on the phonograph. Meeks goes to read next but is confused by the music.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Come on, Meeks! Listen to the music.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{"To dance, clap hands, exalt, shout, skip, roll on, float on."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Yes!}
+<CHAR>__{HOPKINS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(without energy)}
+<DIAL>__{"Oh, to have life henceforth the poem of new joys."}
+<ACTION>__{Hopkins crumples up his paper and then barely taps the soccer ball with his foot. Keating puts a look of disgust on his face.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Oh! Boo! Come on, Charlie, let it fill your soul!}
+<ACTION>__{Charlie raises his hands over his head.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{"To indeed be a god!"}
+<LOC>__{INT. DORM HALLWAY - DAY}
+<ACTION>__{Neil is racing down the hallway, all excited.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Charlie, I got the part! I'm gonna play Puck! I'm gonna play Puck!}
+<ACTION>__{He pounds on Charlie's door.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{What did he say?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Puck?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{That's the main part.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Great, Neil.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Charlie, I got it!}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Congratulations. Good for you, Neil. Good for you.}
+<ACTION>__{Neil enters his room with Todd and sits down at his typewriter.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Okay, okay, okay, okay.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Neil, how are you gonna do this?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{They need a letter of permission from my father and Mr. Nolan.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{You're not gonna write it.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Oh yes, I am.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Oh, Neil. Neil, you're crazy.}
+<ACTION>__{Neil begins typing.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Okay. "I am writing to you on behalf of my son Neil Perry."}
+<ACTION>__{Neil begins laughing and stomping his feet up and down.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{This is great.}
+<LOC>__{EXT. CAMPUS - NIGHT}
+<ACTION>__{A lone bagpiper plays out on the dock.}
+<LOC>__{INT. TODD'S ROOM - NIGHT}
+<ACTION>__{Todd is pacing circles about his room as he reads his poem. His pacing slows and then he tears the poem up.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Knox stands at the front of the room with his poem in hand.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quietly)}
+<DIAL>__{"To Chris."}
+<ACTION>__{Charlie looks up from his desk with a grin.}
+<CHAR>__{BOY 1} <CHAR_PAR>__{}
+<DIAL>__{Who's Chris?}
+<CHAR>__{BOY 2} <CHAR_PAR>__{}
+<DIAL>__{Mmm, Chris.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I see a sweetness in her smile. Blight light shines from her eyes. But life is complete; contentment is mine, Just knowing that...}
+<ACTION>__{Several students begin to snicker.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{just knowing that she's alive.}
+<ACTION>__{Knox crumples his poem and walks back to his desk.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Captain. It's stupid.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, no. It's not stupid. It's a good effort. It touched on one of the major themes, love. A major theme not only in poetry, but life. Mr. Hopkins, you were laughing. You're up.}
+<ACTION>__{Hopkins slowly walks to the front of the class and unfolds his piece of paper.}
+<CHAR>__{HOPKINS} <CHAR_PAR>__{}
+<DIAL>__{"The cat sat on the mat."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Congratulations, Mr. Hopkins. Yours is the first poem to ever have a negative score on the Pritchard scale. We're not laughing at you, we're laughing near you. I don't mind that your poem had a simple theme. Sometimes the most beautiful poetry can be about simple things, like a cat, or a flower or rain. You see, poetry can come from anything with the stuff of revelation in it. Just don't let your poems be ordinary. Now, who's next?}
+<ACTION>__{Keating approaches Todd's desk.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson, I see you sitting there in agony. Come on, Todd, step up. Let's put you out of your misery.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{I, I didn't do it. I didn't write a poem.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson thinks that everything inside of him is worthless and embarrassing. Isn't that right, Todd? Isn't that your worst fear? Well, I think you're wrong. I think you have something inside of you that is worth a great deal.}
+<ACTION>__{Keating walks up to the blackboard and begins to write.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{"I sound my barbaric yawp over the rooftops of the world." W. W. Uncle Walt again. Now, for those of you who don't know, a yawp is a loud cry or yell. Now, Todd, I would like you to give us a demonstration of a barbaric "yawp." Come on. You can't yawp sitting down. Let's go. Come on. Up.}
+<ACTION>__{Todd reluctantly stands and follows Keating to the front.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You gotta get in "yawping" stance.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{A yawp?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, not just a yawp. A barbaric yawp.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quietly)}
+<DIAL>__{Yawp.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Come on, louder.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quietly)}
+<DIAL>__{Yawp.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, that's a mouse. Come on. Louder.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yawp.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Oh, good God, boy. Yell like a man!}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Yawp!}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{There it is. You see, you have a barbarian in you, after all.}
+<ACTION>__{Todd goes to return to his seat but Keating stops him.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Now, you don't get away that easy.}
+<ACTION>__{Keating turns Todd around and points out a picture on the wall.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{The picture of Uncle Walt up there. What does he remind you of? Don't think. Answer. Go on.}
+<ACTION>__{Keating begins to circle around Todd.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{A m-m-madman.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{What kind of madman? Don't think about it. Just answer again.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{A c-crazy madman.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, you can do better than that. Free up your mind. Use your imagination. Say the first thing that pops into your head, even if it's total gibberish. Go on, go on.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Uh, uh, a sweaty-toothed madman.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Good God, boy, there's a poet in you, after all. There, close your eyes. Close your eyes. Close 'em. Now, describe what you see.}
+<ACTION>__{Keating puts his hands over Todd's eyes and they begin to slowly spin around.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Uh, I-I close my eyes.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Yes?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Uh, and this image floats beside me.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{A sweaty-toothed madman?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{A sweaty-toothed madman with a stare that pounds my brain.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Oh, that's excellent. Now, give him action. Make him do something.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{H-His hands reach out and choke me.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{That's it. Wonderful. Wonderful.}
+<ACTION>__{Keating removes his hands from Todd but Todd keeps his eyes closed.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{And, and all the time he's mumbling.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{What's he mumbling?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{M-Mumbling, "Truth. Truth is like, like a blanket that always leaves your feet cold."}
+<ACTION>__{The students begin to laugh and Todd opens his eyes. Keating quickly gestures for him to close them again.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Forget them, forget them. Stay with the blanket. Tell me about that blanket.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Y-Y-Y-You push it, stretch it, it'll never be enough. You kick at it, beat it, it'll never cover any of us. From the moment we enter crying to the moment we leave dying, it will just cover your face as you wail and cry and scream.}
+<ACTION>__{Todd opens his eyes. The class is silent. Then they begin to clap and cheer.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering to Todd)}
+<DIAL>__{Don't you forget this.}
+<LOC>__{EXT. SOCCER FIELD - DAY}
+<ACTION>__{Keating's students are playing a soccer game. After they score the winning goal they hoist Keating onto their shoulders and carry him away.}
+<LOC>__{INT. CAVE - DAY}
+<ACTION>__{The boys are all sitting around the cave lighting their pipes.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Attaboy, Pittsie, inhale deeply.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{My dad collects a lot of pipes.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Really? Mine's got thirty.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Your parents collect pipes? Oh, that's really interesting.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Come on, Knox. Join in.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Yeah, Knox, we're from the government. We're here to help, man.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What's wrong?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{It's Chris. Here's a picture of Chris for you.}
+<ACTION>__{Pitts holds up a centerfold.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Smoke that. Put that in your pipe and smoke it.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{That's not funny.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Knock it off. Smoke your pipes.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Neil!}
+<ACTION>__{Neil enters the cave carrying a beat up light stand.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Friend, scholar, Welton men.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{What is that, Neil?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Duh. It's a lamp, Meeks.}
+<ACTION>__{Neil removes the shade from the lamp, revealing the shape of a man as the base of the lamp.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No. This is the god of the cave.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{The god of the cave.}
+<ACTION>__{Charlie begins making loud noises with his saxophone.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Charlie, what are you doing?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What do you say we start this meeting?}
+<CHAR>__{BOY 1} <CHAR_PAR>__{}
+<DIAL>__{Y-Yeah, just-- I need a light. I just gotta-}
+<CHAR>__{BOY 2} <CHAR_PAR>__{}
+<DIAL>__{Got my earplugs?}
+<ACTION>__{Charlie stands up and clears his throat.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, "Poetrusic" by Charles Dalton.}
+<ACTION>__{Charlie begins playing erratic notes on the sexophone.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Oh, no.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Laughing, crying, tumbling, mumbling. Gotta do more. Gotta be more.}
+<ACTION>__{Charlie plays more erratic sounds.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Chaos screaming, chaos dreaming. Gotta do more! Gotta be more!}
+<ACTION>__{Charlie starts to play a real tune on the saxophone.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Wow!}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{That was nice. That was great. Where did you learn to play like that?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{My parents made me take the clarinet for years.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I love the clarinet.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I hated it. The saxophone. The saxophone is more sonorous.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Ooh.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Vocabulary.}
+<ACTION>__{Knox jumps up.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I can't take it anymore. If I don't have Chris, I'm gonna kill myself.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Knoxious, you've gotta calm down.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{No, Charlie. That's just my problem. I've been calm all my life. I'll do something about that.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Where are you going?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What are you gonna do?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I'm gonna call her.}
+<ACTION>__{Knox begins to chuckle as he leaves the cave. The others quickly grab their coats to follow him. Charlie goes back to playing noise on his saxophone again.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Knox is making a call from the payphone.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Hello?}
+<ACTION>__{Knox immediately hangs up and looks at the other boys who are all gathered around him.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{She's gonna hate me. The Danburrys will hate me. My parents will kill me. All right, goddamn it. You're right. "Carpe diem." Even if it kills me.}
+<ACTION>__{Knox puts in another coin and calls again.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Hello?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hello, Chris?}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yes.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hi. This is Knox Overstreet.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Oh, yes. Knox. Glad you called.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{She's glad I called.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Listen, Chet's parents are going out of town this weekend, so he's having a party. Would you like to come?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Would I like to come to a party?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Yes. Say, yes.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Friday? Um-}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Well, sure.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{About seven?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Okay, great. I-I'll be there, Chris.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Okay.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Friday night at the Danburrys'. O-Okay. Thank you.}
+<CHAR>__{CHRIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Okay. Bye.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Thank you. I'll see you. Bye.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yawp! Can you believe it? She was gonna call me. She invited me to a party with her.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{At Chet Danburry's house.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Well?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{So?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{So, you don't really think she means you're going with her?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Well, of course not, Charlie. But that's not the point. That's not the point at all.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What is the point?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{The point, Charlie, is, uh--}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{that she was thinking about me. I've only met her once, and already she's thinking about me. Damn it. It's gonna happen, guys. I feel it. She is going to be mine. Carpe. Carpe!}
+<ACTION>__{Knox flips his scarf dramatically around his neck as he walks away and climbs the stairs.}
+<LOC>__{EXT. COURTYARD - DAY}
+<ACTION>__{The students are standing in a line while Cameron, Pitts, and Knox are walking in a circle. Keating watches as they go around.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No grades at stake, gentlemen. Just take a stroll.}
+<ACTION>__{After a few moments, the three boys begin to march to the same beat.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{There it is.}
+<ACTION>__{The other boys start clapping to the rhythm of their steps.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I don't know, but I've been told--}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{I don't know, but I've been told--}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Doing poetry is old--}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Doing poetry is old--}
+<ACTION>__{Mr. Nolan looks out at them from his office as Keating joins the boys and begins marching with them.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Left, left, left-right-left. Left, left, left-right-left. Left, halt!}
+<ACTION>__{The boys come to a halt.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you, gentlemen. If you noticed, everyone started off with their own stride, their own pace.}
+<ACTION>__{Keating begins walking very slowly.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Pitts, taking his time. He knew he'll get there one day. Mr. Cameron, you could see him thinking, "Is this right? It might be right. It might be right. I know that. Maybe not. I don't know."}
+<ACTION>__{Keating begins walking with his groin pushed forward.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Overstreet, driven by deeper force. Yes. We know that. All right. Now, I didn't bring them up here to ridicule them. I brought them up here to illustrate the point of conformity: the difficulty in maintaining your own beliefs in the face of others. Now, those of you -- I see the look in your eyes like, "I would've walked differently." Well, ask yourselves why you were clapping. Now, we all have a great need for acceptance. But you must trust that your beliefs are unique, your own, even though others may think them odd or unpopular, even though the herd may go, "That's baaaaad." Robert Frost said, "Two roads diverged in a wood and I, I took the one less traveled by, and that has made all the difference." Now, I want you to find your own walk right now. Your own way of striding, pacing. Any direction. Anything you want. Whether it's proud, whether it's silly, anything. Gentlemen, the courtyard is yours.}
+<ACTION>__{The students begin walking about, some walking casually, others making up silly walks. Keating notices that Charlie is still leaning up against one of the pillars.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You don't have to perform. Just make it for yourself. Mr. Dalton? You be joining us?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Exercising the right not to walk.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Mr. Dalton. You just illustrated the point. Swim against the stream.}
+<ACTION>__{Nolan moves away from the window where he had been watching them.}
+<LOC>__{EXT. CAMPUS - NIGHT}
+<ACTION>__{Neil is walking by with the notes for the play when he notices Todd sitting off by himself on one of the walkways.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Todd? Hey.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Hey.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What's going on?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Nothing. Today's my birthday.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Is today your birthday? Happy birthday.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{What's you get?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{My parents gave me this.}
+<ACTION>__{Neil looks down at a deskset sitting next to Todd, still in its wrappings.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Isn't this the same desk set-}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yeah, yeah. They gave me the same thing as last year.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughing)}
+<DIAL>__{Maybe they thought you needed another one.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Maybe they weren't thinking about anything at all. Uh, the funny thing is about this is I, I didn't even like it the first time.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Todd, I think you're underestimating the value of this desk set.}
+<ACTION>__{Neil picks up the desk set and begins examining it more closely.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I mean, who would want a football or a baseball, or-}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Or a car.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Or a car if they could have a desk set as wonderful as this one? I mean, if, if I were ever going to buy a, a desk set twice, I would probably buy this one both times. In fact, its, its shape is, it's rather aerodynamic, isn't it? I can feel it. This desk set wants to fly.}
+<ACTION>__{Neil tosses the desk set lightly in the air. Todd stands up and Neil hands him the desk set.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Todd? The world's first unmanned flying desk set.}
+<ACTION>__{Todd flings the desk set over the side of the walkway and it falls to pieces down below.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Oh, my!}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Well, I wouldn't worry. You'll get another one next year.}
+<LOC>__{INT. CAVE - NIGHT}
+<ACTION>__{All the boys but Knox and Charlie are gathered in the cave.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{"To live deep and suck out all the marrow of life. To put to rout all that was not life"}
+<ACTION>__{The boys stop as they hear the sound of female laughter outside.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Oh, my God!}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Is this it?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, this is it. Go ahead, go on in. It's my cave. Watch your step.}
+<CHAR>__{TINA} <CHAR_PAR>__{}
+<DIAL>__{We're not gonna slip, are we?}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Uh-oh.}
+<ACTION>__{Gloria hops into the cave wearing a bright red shirt. The lights from the boys' flashlights play conspicously over Gloria's chest. Tina enters right behind her.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<ACTION>__{Meeks stands up and slams his head into the low ceiling.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Hi, you guys. Meet, uh, Gloria and--}
+<CHAR>__{TINA} <CHAR_PAR>__{}
+<DIAL>__{Tina.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Tina. This is the pledge class of the Dead Poets Society.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Hello. How do you do?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Hi. Hi.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Guys, move. Move. Come on, folks. It's Friday night. Let's get on with the meeting.}
+<ACTION>__{The boys move aside to let the girls in.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Sorry. Excuse- Excuse me.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Guys, I have an announcement to make. In keeping with the spirit of passionate experimentation of the Dead Poets, I'm giving up the name Charlie Dalton. From now on, call me Nuwanda.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughing)}
+<DIAL>__{Nuwanda?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Nuwanda?}
+<ACTION>__{Tina takes out a tube of red lipstick. Charlie takes it from her and puts red marks on each of his cheeks.}
+<LOC>__{INT. CHET'S HOUSE - NIGHT}
+<ACTION>__{Knox enters the house and looks anxiously about.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hello? Hello, Chris?}
+<ACTION>__{Knox stops and combs his hair in the hallway mirror. Chris comes running out from one of the rooms.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox!}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{You made it. Great! Bring anybody?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{Chris grabs Knox by his jackets and pulls him forward as she walks toward the stairs.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{No. Ginny Danburry's here. Wait. I have to go find Chet. Why don't you go downstairs where everybody is?}
+<ACTION>__{Chris runs up the stairs as Knox stares after her.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Make yourself at home.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{But I--}
+<LOC>__{INT. CHET'S BASEMENT - NIGHT}
+<ACTION>__{Knox stares at a couple kissing passionately. Across the room he sees Chet and Chris dancing. He walks away.}
+<LOC>__{INT. CHET'S KITCHEN - NIGHT}
+<ACTION>__{Knox enters the kitchen, walking between several football players to fill up a mug of beer from a keg.}
+<CHAR>__{STEVE} <CHAR_PAR>__{}
+<DIAL>__{Hey, you Mutt Sanders' brother? Bubba, this guy look like Mutt Sanders to you or what?}
+<ACTION>__{Bubba spits ice cubes into the sink.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{You're his brother?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{No relation. Never heard of him. Sorry, guys.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(obviously drunk)}
+<DIAL>__{Where's your manners Steve? Mutt Sanders' brother, we don't even offer him a drink. Here. Go have some whiskey, pal.}
+<ACTION>__{Bubba hands Knox a glass and fills it up.}
+<CHAR>__{STEVE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Whoa, I, uh, I don't really drink--}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{To Mutt.}
+<CHAR>__{STEVE} <CHAR_PAR>__{}
+<DIAL>__{To Mutt.}
+<ACTION>__{The two guys raise their glasses in a toast and Knox reluctantly joins them.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{To Mutt.}
+<ACTION>__{They each take a big drink. Knox rolls his eyes and gasps, loosening his tie to try and breathe.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{Now, how the hell is old Mutt, anyway?}
+<CHAR>__{STEVE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. What's ol' Mutter been up to, huh?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I don't really know Mutt.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{To Mighty Mutt.}
+<CHAR>__{GUY 1} <CHAR_PAR>__{}
+<DIAL>__{To Mighty Mutt.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{To Mighty Mutt.}
+<ACTION>__{They raise their glasses again for a toast and down the rest of their glasses.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{Well, listen, I gotta go find Patsy. Say hello to Mutt for me, okay?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Will do.}
+<ACTION>__{Bubba puts on a horned football helmet and walks away.}
+<CHAR>__{STEVE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Hell of a guy, your brother Mutt.}
+<LOC>__{INT. CAVE - NIGHT}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{We gonna have a meeting or what?}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Yeah. If you guys don't have a meeting, how do we know if we wanna join?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Join?}
+<ACTION>__{Charlie leans over to Tina.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{"Shall I compare thee to a summer's day? Thou art more lovely and more temperate."}
+<CHAR>__{TINA} <CHAR_PAR>__{}
+<DIAL>__{That's so sweet.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I made that up just for you.}
+<CHAR>__{TINA} <CHAR_PAR>__{}
+<DIAL>__{You did?}
+<ACTION>__{The boys laugh and Cameron shakes his head. Charlie moves over to sit next to Gloria.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'll write one for you too, Gloria. She walks in beauty like the night. She walks in beauty like the night. Of cloudless climes and starry skies. All that's best, dark and bright, Meet in her aspect and her eyes.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{That's beautiful.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{There's plenty more where that came from.}
+<LOC>__{INT. CHET'S BASEMENT - NIGHT}
+<ACTION>__{The room is whirling as Knox belches and staggers across the room. He passes Chet and several of his friends. He steps over several couples kissing on the floor and slump down on the couch, only to be crowded in by another couple who seem oblivious to him. He is about to get up again when he notices Chris sleeping next to him on the couch.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{God help me.}
+<ACTION>__{Knox looks about and then looks back down at Chris.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Carpe diem.}
+<ACTION>__{Knox takes a last swig of his drink  and then begins to softly run his fingers over Chris' hair. He then leans over and kisses her forehead. Across the room, Bubba looks over and sees what's going on.}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{Chet! Chet! Look!}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{It's Mutt Sanders' brother.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Huh?}
+<ACTION>__{Chris rises up from the couch and looks at Knox in surprise.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, what--}
+<CHAR>__{BUBBA} <CHAR_PAR>__{}
+<DIAL>__{And he's feeling up your girl!}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{What are you doing?}
+<ACTION>__{Chet gets up from his chair.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{What the hell are you doing?}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Chet! Chet, don't.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Now, Chet, I know this looks bad, but you've gotta-}
+<ACTION>__{Chet throws himself at Knox, hurling them both to the floor. He then straddles Knox and begins to punch at him as Knox simply tries to protect himself.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Chet, no! You'll hurt him! No! No! Stop it! Leave him alone!}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Goddamn!}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Chet, stop it!}
+<ACTION>__{Chris manages to haul Chet away from Knox.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Bastard!}
+<ACTION>__{Knox takes his hands away from his face and feels at his bloody nose. Chris tries to help him up.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, are you all right?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Chris, get the hell away from him!}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Chet, you hurt him!}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Good!}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. I'm so sorry.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{It's okay. It-It's okay.}
+<ACTION>__{Chet hauls Chris away from Knox and then points at him.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Next time I see you, you die.}
+<LOC>__{INT. CAVE - NIGHT}
+<ACTION>__{Tina passes a bottle of alcohol to Neil.}
+<CHAR>__{TINA} <CHAR_PAR>__{}
+<DIAL>__{Go ahead, pass it around.}
+<ACTION>__{Cameron motions for Neil not to take it but Neil takes a swig anyway. There is a moment of awkward silence.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Me and Pitts are working on a hi-fi system. It shouldn't be that hard to, uh, to put together.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Uh, I might be going to Yale. Uh, uh, but, I, I might not.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{Don't you guys miss having girls around here?}
+<CHAR>__{MEEKS AND PITTS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiling)}
+<DIAL>__{Yeah.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{That's part of what this club is about. In fact, I'd like to announce I published an article in the school paper, in the name of the Dead Poets.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Demanding girls be admitted to Welton.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{You didn't.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering to Meeks)}
+<DIAL>__{So we can all stop beating off.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{How did you do that?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'm one of the proofers. I slipped the article in.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Look, uh, it's, it's over now.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Why? Nobody knows who we are.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Well, don't you think they're gonna figure out who wrote it? They're gonna come to you and ask to know what the Dead Poets Society is. Charlie, you had no right to do something like that.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{It's Nuwanda, Cameron.}
+<CHAR>__{GLORIA} <CHAR_PAR>__{}
+<DIAL>__{That's right. It's Nuwanda.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Are we just playing around out here, or do we mean what we say? For all we do is come together and reach a bunch of poems to each other. What the hell are we doing?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{All right, but you still shouldn't have done it, Charlie. This could mean trouble. You don't speak for the club.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Hey, would you not worry about your precious little neck? If they catch me, I'll tell them I made it up.}
+<LOC>__{INT. ASSEMBLY HALL - DAY}
+<ACTION>__{The professors hurry down the steps, lead by an obviously agitated Mr. Nolan. Several are carrying newspapers in their hands. The students all rise as they enter. After all the professors have taken their places, Mr. Nolan addresses the students.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit.}
+<ACTION>__{The students all sit.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{In this week of Welton's Honor there appeared a profane and unauthorized article. Rather than spend my valuable time ferreting out the guilty persons -- and let me assure you I will find them - - I'm asking any and all students who knows anything about this article to make themselves known here and now. Whoever the guilty persons are, this is your only chance to avoid expulsion from this school.}
+<ACTION>__{The sound of a phone ringing can be heard. The professors look about for its source. Charlie picks up a telephone receiver.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Welton Academy. Hello. Yes, he is. Just a moment.}
+<ACTION>__{Charlie stands up, holding a phone and bell in his hands.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Nolan, it's for you. It's God. He says we should have girls at Welton.}
+<ACTION>__{Most of the students laugh while the boys from the cave all shake their heads in disbelief.}
+<LOC>__{INT. NOLAN'S OFFICE - DAY}
+<ACTION>__{Charlie stands with his back to the door as Mr. Nolan shuts it. Mr. Nolan then walks around to face Charlie.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Wipe that smirk off your face. If you think, Mr. Dalton, that you're the first to try to get thrown out of this school, think again. Others have had similar notions and have failed just as surely as you will fail. Assume the position.}
+<ACTION>__{Charlie sighs and bends over, resting his hands on the desk. Mr. Nolan hefts a flat wooden paddle in his hands.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Count aloud, Mr. Dalton.}
+<ACTION>__{Mr. Nolan begins to strike Charlie with the paddle.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{One. Two. Three. Four. Five.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{What is this Dead Poets Society? I want names.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{A crowd of students is gathered about as Charlie stiffly walks back to his room.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You kicked out?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{So what happened?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'm to turn everybody in, apologize to the school and all will be forgiven.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{So, what are you gonna do? Charlie!}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Damn it, Neil. The name is Nuwanda.}
+<ACTION>__{Charlie smiles and then shuts his door.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Keating and McAllister are enjoying tea in the small room off the classroom. Mr. Nolan knocks on the door and enters.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Excuse me. May we have a word, Mr. Keating?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Certainly.}
+<ACTION>__{Keating fixes his tie and follows Mr. Nolan into the classroom.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{This was my first classroom, John. Did you know that? My first desk.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Didn't know you taught, Mr. Nolan.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{English. Oh, long before your time. It was hard giving it up, I can tell you. I'm hearing rumors, John, about some unorthodox teaching methods in your classroom. I'm not saying they've anything to do with the Dalton boy's outburst. But I don't think I have to warn you boys his age are very impressionable.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Well, your reprimand made quite an impression, I'm sure.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{What was going on in the courtyard the other day?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Courtyard?}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Boys marching, clapping in unison.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Oh, that. That was an exercise to prove a point. Dangers of conformity.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Well, John, the curriculum here is set. It's proven it works. If you question, what's to prevent them from doing the same?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I always thought the idea of educating was to learn to think for yourself.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{At these boys' ages? Not on your life! Tradition, John. Discipline. Prepare them for college, and the rest will take care of itself.}
+<LOC>__{INT. STUDY ROOM - DAY}
+<ACTION>__{Charlie sits with his bongos as the other boys are all crowded around him. He hits the bongoes as he mimes Nolan's footsteps.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Creak. He started walking around towards my left. Creak. Creak. "Assume the position, Mr. Dalton."}
+<ACTION>__{The door opens and Keating walks in. Many of the boys get up from their seats.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{It's all right, gentlemen.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Keating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Mr. Dalton. That was a pretty lame stunt you pulled today.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You're siding with Mr. Nolan? What about Carpe diem and sucking all the marrow out of life and all that?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Sucking the marrow out of life doesn't mean choking on the bone. Sure there's a time for daring and there's a time for caution, and a wise man understands which is called for.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{But I thought you'd like that.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No. You being expelled from school is not daring to me. It's stupid, 'cause you'll miss some golden opportunities.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Like what?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Like, if nothing else, the opportunity to attend my classes. Got it, Ace?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Aye, aye, Captain.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Keep your head about you. That goes for the lot of you.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Yes, Captain.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Phone call from God. If it had been collect, it wouldn't been daring.}
+<ACTION>__{Keating leaves and the boys gather around Charlie once again.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{All right. Go on.}
+<LOC>__{EXT. CAMPUS - DAY}
+<ACTION>__{Neil bikes away as the clock bell tolls.}
+<LOC>__{INT. THEATER - DAY}
+<ACTION>__{Neil walks into the back of the theater and watches various actors rehearsing on stage. A smile fills his face.}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{We're trying to rehearse, okay? Start.}
+<CHAR>__{LYSANDER} <CHAR_PAR>__{}
+<DIAL>__{A good persuasion, therefore hear me, Hermia.}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{Wait, please. Excitement. I don't hear any excitement about this play. And take her hand. Bring her down the stage and stop. And "There, gentle Hermia." Okay? Try again.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{The bell rings and students rush down the hall.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{What's for dinner?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Spaghetti and meatballs!}
+<ACTION>__{Neil comes up the stairs as everyone else swarms down to the cafeteria.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Save some for me. "But, room, Fairy! Here comes Oberon."}
+<ACTION>__{Neil opens the door to his room and sees his father sitting at his desk.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Father.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Neil.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute. Before you say anything, please let me ex-}
+<ACTION>__{Mr. Perry rises from the desk.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Don't you dare talk back to me! It's bad enough that you've wasted your time with this, this absurd acting business. But you deliberately deceived me! How, how, how did you expect to get away with this? Answer me. Who put you up to it? Was it this new man? This, uh, Mr. Keating?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No. Nobody-- I thought I'd surprise you. I've gotten all A's in every class.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Did you think I wasn't going to find out? "Oh, my niece is in a play with your son," says Mrs. Marks. "No, no, no," I say, "you must be mistaken. My son's not in a play." You made me a liar of me, Neil! Now, tomorrow you go to them and you tell them that you're quitting.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No, I can't. I have the main part. The performance is tomorrow night.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{I don't care if the world comes to an end tomorrow night. You are through with that play. Is that clear? Is that clear?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{Mr. Perry goes to leave and then turns around.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{I made a great many sacrifices to get you here, Neil, and you will not let me down.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No, sir.}
+<LOC>__{INT. KEATING'S OFFICE - NIGHT}
+<ACTION>__{Keating is seated at his desk. He is writing a letter and occasionally looks up at the framed photo on his desk of a woman playing the cello. There is a knock at the door.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{It's open.}
+<ACTION>__{Neil enters and closes the door behind him. He appears to be nervous.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Neil, what's up?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Can I speak to you a minute?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Certainly. Sit down.}
+<ACTION>__{Neil goes to take a seat but notices the chair is piled up with books. Neil picks them up and Keating gets up from his seat to help him.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. Here.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Excuse me. Get you some tea?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Tea. Sure.}
+<ACTION>__{Keating goes to a table in the corner and begins pouring several cups.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Like some milk or sugar in that?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No, thanks.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Gosh, they don't give you much room around here.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, it's part of the monastic oath. They don't want worldly things distracting me from my teaching.}
+<ACTION>__{Keating gives Neil a cup of tea and they return to their seats. Neil looks at the photo on the desk.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{She's pretty.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{She's also in London. Makes it a little difficult.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{How can you stand it?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Stand what?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{You can go anywhere. You can do anything. How can you stand being here?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{'Cause I love teaching. I don't wanna be anywhere else.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{What's up?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I just talked to my father. He's making me quit the play at Henley Hall. Acting's everything to me. I-- But he doesn't know. He-- I can see his point. We're not a rich family like Charlie's, and we-- But he's planning the rest of my life for me, and I-- H-He's never asked me what I want.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Have you ever told your father what you just told me? About your passion for acting. You ever show him that?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I can't.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Why not?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I can't talk to him this way.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Then you're acting for him, too. You're playing the part of the dutiful son. I know this sounds impossible, but you have to talk to him. You have to show him who you are, what your heart is.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I know what he'll say. He'll tell me that acting's a whim, and I should forget it. That how they're counting on me. He'll just tell me to put it out of my mind, "for my own good."}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{You are not an indentured servant. If it's not a whim for you, you prove it to him by your conviction and your passion. You show him that And if he still doesn't believe you, well, by then you'll be out of school and you can do anything you want.}
+<ACTION>__{A tear falls down Neil's cheek and he wipes it away.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{No. What about the play? The show's tomorrow night.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Well, you have to talk to him before tomorrow night.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Isn't there an easier way?}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I'm trapped.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{No, you're not.}
+<LOC>__{EXT. CAMPUS - DAY}
+<ACTION>__{Knox exits one of the doors. The ground is covered with a thick layer of snow. He looks around to see if anyone is about and then hurries over to the bike rack. grabbing one of the bikes, he hurries off.}
+<LOC>__{INT. SCHOOL HALLWAY - DAY}
+<ACTION>__{A crowd of students come in from the cold. Knox pushes his way through them, carrying a handful of wildflowers. He begins searching for Chris.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Chris!}
+<ACTION>__{He approaches a girl with hair similar to Chris' and turns her around, only to realize that it's not her.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Chris Noel. Do you know where she is?}
+<CHAR>__{GIRL} <CHAR_PAR>__{}
+<DIAL>__{Um, I think she's in room 111.}
+<ACTION>__{The girl points down the hallway and Knox sets off in that direction.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<ACTION>__{Chris is at her locker talking to a friend. She just closes her locker as she notices Knox coming towards her. She turns away.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Excuse me. Chris.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, what are you doing here?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I came to apologize for the other night. I brought you these and a poem I wrote for you.}
+<ACTION>__{Chris pulls him aside, out of the main hallway.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, don't you know that, if Chet finds you here he'll kill you?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I can't care. I love you, Chris.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, you're crazy.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Look, I acted like a jerk and I know it. Please, accept these. Please.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{No. No-- I, I can't. Forget it.}
+<ACTION>__{Chris walks away. The school bell rings and she enters her classroom, closing the door behind her. Undaunted, Knox follows, opening the door and standing before her desk.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, I don't believe this.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{All I'm asking you to do is listen.}
+<ACTION>__{As Knox begins to read his poem, the classroom grows quiet as everyone stops to listen.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{The heavens made a girl named Chris With hair and skin of gold. To touch her would be paradise.}
+<ACTION>__{Chris holds her head in her hands in embarrassment.}
+<LOC>__{INT. CAMPUS KITCHEN - DAY}
+<ACTION>__{Knox sneaks in through a side door. He snatches a slice of toast from the counter and motions to one of the staff to keep secret. He then begins to eat the toast as he hurries away.}
+<LOC>__{INT. STAIRWAY - DAY}
+<ACTION>__{The school bell rings and Knox pushes his way up the stairs past the slower students. At the top he joins the other boys where they are grabbing their books.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Get out of here. Cameron, you fool.}
+<ACTION>__{Charlie notices Knox and grabs his jacket.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Hey, how'd it go? Did you read it to her?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION>__{The boys begin to get all excited but Charlie shushes them.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{What'd she say?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Nothing.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Nothing. What do you mean, nothing?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Nothing. But I did it.}
+<ACTION>__{Knox walks away down the hall and the others chase after him.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What did she say? I know she had to say something.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Come here, Knox.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Seize the day!}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Keating walks from the front of the classroom to Neil's desk. Neil is the only student remaining in the class.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Did you talk to your father?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Uh, he didn't like it one bit, but at least he's letting me stay in the play. He won't be able to make, make it. He's in Chicago. But, uh, I think he's gonna let me stay with acting.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Really? You told him what you told me?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Yeah. He wasn't happy. But he'll be gone at least four days. I don't think he'll make the show, but I think he'll let me stay with it. "Keep up the school work." Thanks.}
+<ACTION>__{Neil picks up his books and leaves.}
+<LOC>__{INT. BATHROOM - NIGHT}
+<ACTION>__{The boys are grooming themselves in front of the mirrors.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Beautiful baby.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Beautiful baby. Henley Hall, here I come.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, just a moment. Yes. You're so cute.}
+<ACTION>__{Cameron runs a comb through his hair and Todd tries to mess it up.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Come on, Todd. I'm trying to fix this.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Come on, Nuwanda. You're gonna miss Neil's entrance.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{He said something about getting red before we left.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Getting red? What does that mean?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{I, uh-- Well, you know Charlie.}
+<ACTION>__{One of the stalls opens and Charlie's hand emerges, holding a small brush and a bottle of red paint.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{So, Charlie, what's this "getting red" bit?}
+<ACTION>__{Charlie opens his unbuttoned shirt to show a large red lightning bolt painted down his chest.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{W-What is that?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{It's an Indian warrior symbol for virility. Makes me feel potent, like it can drive girls crazy.}
+<ACTION>__{Charlie buttons up his shirt as everyone prepares to leave.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Oh, come on, Charlie. The girls are waiting.}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{The boys are walking down the hall to leave. Cameron stops and stares. The other boys notice and stop as well. Charlie softly whistles at Chris standing by the door. Knox stares at her in surprise}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Chris.}
+<ACTION>__{Knox leaves the other boys to join her.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{What are you doing here?}
+<CHAR>__{KEATING } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Gentlemen, let's go.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Go ahead, guys. I'll catch up.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, come on, guys.}
+<ACTION>__{Charlie hustles the boys away. Meeks remains staring at her. Charlie returns to drag him away.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Chris, you can't be in here. I-If they catch you, we're both gonna be in big trouble.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, but it's fine--}
+<ACTION>__{Knox shushes her and leads her out the door.}
+<LOC>__{EXT. CAMPUS - NIGHT}
+<ACTION>__{Snow is lightly falling as Chris and Knox walk outside.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{It's fine for you to come barging into my school and make a complete fool out of me?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I didn't mean to make a fool out of you.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Well, you did. Chet found out. And it took everything I could do to keep him from coming here and killing you. Knox, you have got to stop this stuff.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I can't, Chris. I love you.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, you say that over and over. You don't, you don't even know me.}
+<ACTION>__{Keating calls out from a nearby car.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Will you be joining us, Mr. Overstreet?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Go ahead, Captain. I'll walk.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, Knox, it just so happens that I could care less about you?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Then you wouldn't be here warning me about Chet.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{I have to go. I'm gonna be late for the play.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Are you going with him?}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Chet? To a play? Are you kidding?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Then come with me.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Knox, you are so infuriating.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Come on, Chris. Just give me one chance. If you don't like me after tonight, I'll stay away forever.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{Uh-huh.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{I promise. Dead Poets Honor. You come with me tonight. And then, if you don't want to see me again, I swear I'll bow out.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{You know what would happen if Chet found out?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{He won't know anything. We'll sit in the back and sneak away as soon as it's over.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{And I suppose you would promise that this would be the end of it.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Dead Poets Honor.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{What is that?}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{My word.}
+<ACTION>__{Chris walks away from him and then turns to face him.}
+<CHAR>__{CHRIS} <CHAR_PAR>__{}
+<DIAL>__{You are so infuriating.}
+<ACTION>__{Chris gestures for Knox to follow her. Charlie does a little twirl as he joins her and puts his arm around her. They walk away.}
+<LOC>__{INT. THEATER - NIGHT}
+<ACTION>__{The audience is packed. The stage is set up to resemble a forest and lights dance about it. From behind a bush, Neil emerges, wearing a crown of twigs and berries and twigs on his hands. In the audience, Charlie emerges from his seat, all excited.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Hey, there he is! Hey, hey.}
+<ACTION>__{Cameron shoves him back into his seat.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Shh, boys.}
+<ACTION>__{On stage, Neil hides behind a tree as a girl emerges, similarly clad, but with flowers in her hair. Neil sneaks over to the girl.}
+<CHAR>__{FAIRY} <CHAR_PAR>__{}
+<DIAL>__{Either I mistake your shape and making quite, Or else you are that shrewd and knavish sprite Call'd Robin Goodfellow:}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{Thou speak'st aright;}
+<ACTION>__{In the audience, Chris and Knox enter and are shown to seats.}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{I am that merry wanderer of the night. I jest to Oberon and make him smile When I a fat and bean-fed horse beguile,}
+<ACTION>__{Puck makes horse sounds and the audience laughs.}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{Neighing in likeness of a filly foal: And sometime lurk I in a gossip's bowl, In very likeness of a roasted crab, And when she drinks, against her lips I bob And on her wither'd dewlap pour the ale. The wisest aunt, telling the saddest tale,}
+<ACTION>__{In the audience, Charlie leans over towards Keating.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispering)}
+<DIAL>__{He's good. He's really good.}
+<ACTION>__{Keating gives a thumbs up.}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{Sometime for three-foot stool mistaketh me; Then slip I from her bum, down topples she, And "tailor" cries, and falls into a cough; And then the whole quire hold their hips and laugh, And waxen in their mirth and neeze and swear A merrier hour was never wasted there. But, room, Fairy! here comes Oberon.}
+<CHAR>__{FAIRY} <CHAR_PAR>__{}
+<DIAL>__{And here my mistress. Would that he were gone!}
+<ACTION>__{The two actors hide behind the trees, lifting their twig covered hands to hide themselves.}
+<LOC>__{INT. THEATER - NIGHT}
+<ACTION>__{Two other actors are onstage.}
+<CHAR>__{LYSANDER} <CHAR_PAR>__{}
+<DIAL>__{Then by your side no bed-room me deny; For lying so, Hermia, I do not lie}
+<CHAR>__{HERMIA} <CHAR_PAR>__{}
+<DIAL>__{Lysander riddles very prettily: Now much beshrew my manners and my pride, If Hermia meant to say Lysander lied. But, gentle friend, for love and courtesy Lie further off; in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, and, good night, sweet friend: Thy love ne'er alter till thy sweet life end!}
+<ACTION>__{Neil is watching the actors from the wing. He glances out at the audience and sees his father enter the back of the theater. Neil backs away into the shadows.}
+<CHAR>__{LYSANDER} <CHAR_PAR>__{}
+<DIAL>__{Amen, amen, to that fair prayer, say I;}
+<ACTION>__{The director breaks Neil out of his thoughts.}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{Neil. That's your cue, Neil. Come on, Neil. Here's your crown. Let's go.}
+<ACTION>__{Neil reluctantly replaces his crown and follows her.}
+<LOC>__{INT. THEATER - NIGHT}
+<ACTION>__{On stage, Neil collects dew in a leaf and holds it over his head while fairies dance about. In the audience, Knox takes Chris' hand in his.}
+<LOC>__{INT. THEATER - NIGHT}
+<ACTION>__{The stage is dark. A spotlight comes on to reveal Neil with his back to the audience. He slowly turns around to face the audience and his father.}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{If we shadows have offended,}
+<ACTION>__{Neil directs his eyes at his father, who stills stands at the back of the theater.}
+<CHAR>__{PUCK} <CHAR_PAR>__{}
+<DIAL>__{Think but this, and all is mended, That you have but slumber'd here While these visions did appear. And this weak and idle theme, No more yielding but a dream, Gentles, do not reprehend: If you pardon, we will mend: And, as I am an honest Puck, If we have unearned luck Now to 'scape the serpent's tongue, We will make amends ere long; Else the Puck a liar call; So, good night unto you all. Give me your hands, if we be friends, And Robin shall restore amends.}
+<ACTION>__{Neil backs away and the curtains close as the audience begins to applaud enthusiastically. Behind the curtain numerous people congratulate Neil as they line up for the curtain call. The curtains open. Charlie and the other boys rise to their feet, followed quickly by the rest of the audience. The actors bow to continued applause. The actors push Neil forward and he takes a second bow.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL>__{Yawp!}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Yeah, Neil!}
+<ACTION>__{The curtain closes again and Neil turns around, letting out an excited sigh. Various actors continue to congratulate him. Neil lets out a yell as he walks offstage. In the audience, while others are leaving, Mr. Perry approaches a woman.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, I'm Neil's father. I need to see him.}
+<ACTION>__{Backstage, the woman approaches Neil.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Neil, Your father. He's-}
+<ACTION>__{Neil nods in agreement.}
+<CHAR>__{ACTOR} <CHAR_PAR>__{}
+<DIAL>__{What did you think?}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Really I thought you were all just wonderful!}
+<ACTION>__{Neil emerges from the curtains, carrying his costume. The theater is nearly empty now, except for Mr. Perry standing at the back. Neil smiles at him but the smile quickly disappears.}
+<LOC>__{EXT. THEATER - NIGHT}
+<ACTION>__{Mr. Perry pushes his way through the crowd of people, with Neil close behind.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Excuse me. Excuse me. Excuse me.}
+<ACTION>__{The boys notice Neil and try to dtop him to talk.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Neil, Neil, you were great.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I can't, guys.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Neil! Neil!}
+<ACTION>__{Outside of the crowd, Keating manages to catch up to Neil. He takes hold of Neil's coat.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Neil. Neil. You have the gift. What a performance You left even me speechless. You have to stay with-}
+<ACTION>__{Mr. Perry returns from his car and shoves Neil aside.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Get in the car. Keating, you stay away from my son.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Neil! Neil! Mr. Perry, come on.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Don't make it any worse than it is.}
+<ACTION>__{Neil and Mr. Perry get into their car and drive away. Keating stares after them.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Is it okay if we walk back? Captain?}
+<ACTION>__{Charlie motions Todd to follow.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Knox.}
+<ACTION>__{The boys leave and Keating continues to stare after the car, wiping the falling snow from his face.}
+<LOC>__{INT. MR. PERRY'S STUDY - NIGHT}
+<ACTION>__{A photo of Neil standing stiffly with his parents sits on a table between a glass of alcohol and a half filled ashtray. Mrs. Perry watches through the window as her husband and son arrive and then takes a nervous puff on her cigarette before sitting down. Mr. Perry walks in with Neil close behind him. Neil sits down beside the desk while Mr. Perry remains standing.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{We're trying very hard to understand why it is that you insist on defying us. Whatever the reason, we're not gonna let you ruin your life. Tomorrow I'm withdrawing you from Welton and enrolling you in Braden Military School. You're going to Harvard and you're gonna be a doctor.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{But that's ten more years. Father, that's a lifetime!}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Oh, stop it. Don't be so dramatic. You make it sound like a prison term. You don't understand, Neil. You have opportunities that I never even dreamt of and I am not going to let you waste them.}
+<ACTION>__{Neil rises to his feet.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I've got to tell you what I feel.}
+<ACTION>__{Mrs. Perry stands up.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{We've been so worried about--}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{What? What? Tell me what you feel. What is it?}
+<ACTION>__{Neil looks to his mother and then back to his father but says nothing.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Is it more of this, this acting business? Because you can forget that. What?}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{Nothing.}
+<ACTION>__{Neil sits back down dejectedly.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Nothing? Well, then, let's go to bed.}
+<ACTION>__{Mr. Perry leaves. Mrs. Perry pauses on her way out and kneels behind Neil.}
+<CHAR>__{NEIL} <CHAR_PAR>__{}
+<DIAL>__{I was good. I was really good.}
+<ACTION>__{Mrs. Perry nods slightly.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Go on, get some sleep.}
+<LOC>__{INT. MR. PERRY'S BEDROOM - NIGHT}
+<ACTION>__{Mrs. Perry sits on the side of the bed with her back to her husband. Mr. Perry removes his robe and slippers before getting in to bed. Mrs. Perry begins to cry as he turns out the light.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{It's all right. It's going to be all right.}
+<LOC>__{INT. NEIL'S BEDROOM - NIGHT}
+<ACTION>__{Neil's pyjamas, bathrobe, towel, and shaving kit are all neatly laid out on his bed. Neil touches his pyjamas lightly and then removes his coat and shirt. He walks over to the windows and opens them, taking several deep breaths. He places the crown of twigs on his head and then closes his eyes, slowly letting his head fall to his chest.}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{A door opens and Neil emerges, slowly walking down the stairs as if in a trance.}
+<LOC>__{INT. MR. PERRY'S STUDY - NIGHT}
+<ACTION>__{Neil holds a key in his hands. He unlocks a drawer in his father's desk and pulls out a pistol, wrapped in cloth.}
+<LOC>__{INT. MR. PERRY'S BEDROOM - NIGHT}
+<ACTION>__{Mr. Perry jerks up out of bed, startled and breathing fast.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{What was that?}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{That sound.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{What sound? Tom?}
+<ACTION>__{Mr. Perry turns on the light and gets up out of bed, putting on his robe and slippers.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{What is it? What's wrong?}
+<ACTION>__{Mr. Perry turns on the hallway light and knocks on Neil's door. He opens the door and goes inside.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Neil.}
+<ACTION>__{Mr. Perry notices the open window.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Tom, what is it? What's wrong? Neil?}
+<ACTION>__{Mr. Perry continues to look through the house, continuing downstairs.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Neil?}
+<ACTION>__{Mr. Perry notices the door to his study is ajar.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{I'll look outside. Neil?}
+<ACTION>__{Mr. Perry flicks the light on but sees nothing. Then he smells something. Looking closer, he sees a thin cloud of smoke rising from behind his desk. As he moves around the desk he sees his gun on the floor and Neil's outstretched hand.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<ACTION>__{Mr. Perry crouches down by his son.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Oh, Neil! Oh, my God!}
+<ACTION>__{Mrs. Perry enters the room and sees her son.}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Oh! No!}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Oh, my son!}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL>__{He's all right.}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{My son! My poor son!}
+<CHAR>__{MRS. PERRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(crying hysterically)}
+<DIAL>__{He's all right! He's all right! He's all right! He's all right! He's all right! He's all right!}
+<CHAR>__{MR. PERRY} <CHAR_PAR>__{}
+<DIAL>__{Stop it! Stop it! Stop it.}
+<ACTION>__{Mr. Perry holds his wife and tries to comfort her.}
+<LOC>__{INT. TODD'S ROOM - NIGHT}
+<ACTION>__{Todd is sleeping. Charlie reaches across to wake him. Tears are running down his face.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Todd? Todd.}
+<ACTION>__{Todd, still half asleep, tries to shrug him off.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Oh, Charlie.}
+<ACTION>__{Todd opens his eyes and sees Charlie's face}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What is it?}
+<ACTION>__{Todd looks over to see Pitts, Meeks, and Knox by the door.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Neil's dead.}
+<LOC>__{EXT. CAMPUS - DAY}
+<ACTION>__{It is a snowy, overcast morning. Todd walks through the snow. He has his coat on over his pyjamas. The other boys follow closely behind him as he walks down towards the water. He stops and stares out at the snow-covered surroundings.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{It's so beautiful.}
+<ACTION>__{Todd begins to gag and then goes down on his knees, vomiting into the snow. The other boys huddle around him, hugging him.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Todd. It's okay, Todd.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Calm down.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{It's all right, Todd.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Todd, it's okay. It's okay, Todd.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{It's all right. It's alright.}
+<ACTION>__{Charlie grabs a handful of snow and wipes Todd's mouth with it.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{He wouldn't-- He wouldn't have done it.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{You can't explain it, Todd.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{It was his father!}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{He wouldn't have left us. It's because he- He wouldn't have. His dad was-- his, his father did it.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Todd.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{His father killed him. He made him do it.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{You can't explain it, Todd.}
+<ACTION>__{Todd pushes himself away from the boys and stumbles down the hill, slipping and falling in the snow.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Todd!}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Leave him be.}
+<ACTION>__{The boys watch as Todd runs down towards the dock by the river, yelling and crying. He finally seems to regain control of himself and walks in silence out onto the dock.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{Keating sits by himself at his desk. After a moment he gets up and walks over to Neil's desk. Opening it, he finds his copy of "Five Centuries of Verse" and flips through the first few pages. Sitting down at the desk, he returns to the opening page, reading the opening verse written there. Keating begins to sob, then closes the book.}
+<LOC>__{INT. ASSEMBLY HALL - DAY}
+<ACTION>__{A church service is going on. The boys have joined in the other students in a hymn. Charlie is the only one not singing. He stares off into nothingness.}
+<CHAR>__{BOYS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(singing)}
+<DIAL>__{All my life Thy light shall surely follow me And in God's house forevermore My dwelling place shall be Amen.}
+<ACTION>__{Mr. Nolan stands at the pulpit, with the rest of the professors seated behind him.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{The death of Neil Perry is a tragedy. He was a fine student. One of Welton's best. And he will be missed. We've contacted each of your parents to explain the situation. Naturally, they're all quite concerned. At the request of Neil's family, I intend to conduct a thorough inquiry into this matter. Your complete cooperation is expected.}
+<LOC>__{INT. CLOAKROOM - DAY}
+<ACTION>__{The boys (except Cameron) are sitting about the cluttered room waiting. Charlie lights a cigarette.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You told him about this meeting?}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{Twice.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{That's it, guys. We're all fried.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{How do you mean?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Cameron's a fink. He's in Nolan's office right now, finking.}
+<CHAR>__{PITTS} <CHAR_PAR>__{}
+<DIAL>__{About what?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{The club, Pittsie. Think about it. The board of directors, the trustees and Mr. Nolan. Do you think for one moment they're gonna let this thing just blow over? Schools go down because of things like this. They need a scapegoat.}
+<ACTION>__{The door opens. All the boys except Charlie hurry to put their cigarettes out and wave the smoke away. A light comes on and Cameron enters.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{What's going on, guys?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You finked, didn't you, Cameron?}
+<ACTION>__{Charlie gets up and approaches Cameron, tossing his cigarette away.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Finked? I didn't know what the hell you're talking about.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You told Nolan everything about the club is what I'm talking about.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Look, in case you hadn't heard, Dalton, there's something called an honor code at this school, all right? If a teacher asks you a question, you tell the truth or you're expelled.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{You little-}
+<ACTION>__{Charlie lunges at Cameron but Knox and Meeks hold him back.}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Charlie!}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{He's a rat! He's in it up to his eyes, so he rattled to save himself.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{Don't touch him, Charlie. You do and you're out.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{I'm out anyway!}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{You don't know that, not yet.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{He's right there, Charlie. And if you guys are smart, you will do exactly what I did and cooperate. They're not after us. We're the victims. Us and Neil.}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{What's that mean? Who are they after?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Why, Mr. Keating, of course. The "Captain" himself. I mean, you guys didn't really think he could avoid responsibility, did you?}
+<CHAR>__{CHARLIE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Keating responsible for Neil? Is that what they're saying?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Well, who else do you think, dumb ass? The administration? Mr. Perry? Mr. Keating put us up to all this crap, didn't he? If he wasn't for Mr. Keating, Neil would be cozied up in his room right now, studying his chemistry and dreaming of being called doctor.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{That is not true, Cameron. You know that. He didn't put us to anything. Neil loved acting.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Believe what you want, but I say let Keating fry. I mean, why ruin our lives?}
+<ACTION>__{Charlie lunges at Cameron again and punches him in the face. Cameron falls to the floor as the boys pull Charlie away. Cameron lifts a hand to his bloody nose.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{You just signed your expulsion papers, Nuwanda.}
+<ACTION>__{Cameron rises to his feet.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{And if the rest of you are smart, you'll do exactly what I did. They know everything anyway. You can't save Keating, but you can save yourselves.}
+<ACTION>__{Cameron walks away, closing the door behind him.}
+<LOC>__{INT. TODD'S ROOM - DAY}
+<ACTION>__{Todd looks out the window and watches as Hager escorts Meeks back to the dorm. Inside the room, Neil's bed has been stripped of all its bedding.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Meeks walks slowly to his room. Hager remains standing at the end of the hallway.}
+<CHAR>__{HAGER} <CHAR_PAR>__{}
+<DIAL>__{Knox Overstreet.}
+<ACTION>__{Knox emerges from his room and goes to joing Hager. He gives a thumbs up to Todd as he passes his door. Once he leaves with Hager, Todd goes over to Meeks' door.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Meeks?}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Go away. I have to study.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What happened to Nuwanda?}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Expelled.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What'd you tell 'em?}
+<CHAR>__{MEEKS} <CHAR_PAR>__{}
+<DIAL>__{Nothing they didn't already know.}
+<CHAR>__{HAGER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Todd Anderson.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Todd is lead up the steps to Mr. Nolan's office by Hager.}
+<LOC>__{INT. NOLAN'S OFFICE - DAY}
+<ACTION>__{Todd enters the room to see his mother and father seated opposite Mr. Nolan's desk.}
+<CHAR>__{MR. ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{Hello, son.}
+<CHAR>__{MRS. ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{Hello, darling.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Mom.}
+<ACTION>__{THe door closes behind Todd. He remains standing, not knowing what to do.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Have a seat, Mr. Anderson.}
+<ACTION>__{Todd sits down next to his parents.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson, I think we've pretty well put together what's happened here. You do admit to being a part of this Dead Poets Society?}
+<ACTION>__{Todd says nothing.}
+<CHAR>__{MR. ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{Answer him, Todd.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{Mr. Nolan puts his glasses on and glances at a paper before him before removing his glasses once more.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{I have here a detailed description of what occurred at your meetings. It describes how your teacher, Mr. Keating, encouraged you boys to organize this club and to use it as a source of inspiration for reckless and self- indulgent behavior. It describes how Mr. Keating, both in and out of the classroom, encouraged Neil Perry to follow his obsession with acting when he knew all along it was against the explicit order of Neil's parents. It was Mr. Keating's blatant abuse of his position as teacher that led directly to Neil Perry's death.}
+<ACTION>__{Mr. Nolan motions to Todd's father, who passes along a sheet of paper to Todd.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Read that document carefully, Todd. Very carefully.}
+<ACTION>__{Todd looks at the paper, which already contains the signatures of the other four boys.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{If you've nothing to add or amend, sign it.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{What's gonna happen to Mr. Keating?}
+<CHAR>__{MR. ANDERSON} <CHAR_PAR>__{}
+<DIAL>__{I've had enough. Sign the paper, Todd.}
+<ACTION>__{Mr. Nolan holds out a pen for Todd to take.}
+<LOC>__{EXT. CAMPUS - DAY}
+<ACTION>__{Mr. McAllister leads his students, textbooks in hand, through the snow outside the classrooms.}
+<DIAL>__{McALLISTER Grass is gramen or herba. Lapis is stone. The entire building is aedificium.}
+<ACTION>__{Keating looks out from his office window. McAllister pauses and looks up at Keating, giving him a brief wave. Keating waves back.}
+<LOC>__{INT. KEATING'S OFFICE - DAY}
+<ACTION>__{Keating laughs slightly as he watches McAllister from the window. Inside, all his belongings have been packed up.}
+<LOC>__{INT. KEATING'S CLASSROOM - DAY}
+<ACTION>__{The students are all seated at their desks in silence. Everyone looks as the door opens. They quickly stand as Mr. Nolan enters the room.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit.}
+<ACTION>__{The students sit once again as Mr. Nolan walks to the front of the room.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{I'll be teaching this class through exams. We'll find a permanent English teacher during the break. Who will tell me where you are in the Pritchard textbook?}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Anderson?}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Uh, in the, in the Pr-}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{I can't hear you, Mr. Anderson.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{In the, in the, in the Pritchard?}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Kindly inform me, Mr. Cameron.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{We skipped around a lot, sir. We covered the Romantics and some of the chapters on Post Civil War literature.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{What about the Realists?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{I believe we skipped most of that, sir.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{All right, then, we'll start over. What is poetry?}
+<ACTION>__{There is a knock at the classroom door.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Come.}
+<ACTION>__{The students look back as the door opens. They quickly turn away when hey see it is Keating.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Excuse me. I came for my personals. Should I come back after class?}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Get them now, Mr. Keating.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, turn to page 21 of the introduction. Mr. Cameron, read aloud the excellent essay by Dr. Pritchard on "Understanding Poetry."}
+<ACTION>__{Todd slowly closes his book. Keating opens the door to the tiny room off the classroom.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{That page has been ripped out, sir.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Well, borrow somebody else's book.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{They're all ripped out, sir.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{What do you mean, they're all ripped out?}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{Sir, we, uh-}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Never mind.}
+<ACTION>__{Mr. Nolan takes his own book over to Cameron's desk and then slaps the open page.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Read!}
+<ACTION>__{As Cameron begins to read, Keating looks out at Todd as he puts his scarf on. Todd looks at him for a moment and then glances away.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{"Understanding Poetry by Dr. J Evans Pritchard, Ph.D. To fully understand poetry, we must first be fluent with its meter, rhyme and figures of speech, then ask two questions: 1) How artfully has the objective of the poem been rendered and 2)..."}
+<ACTION>__{The door squeaks as Keating shuts it behind him. Cameron pauses.}
+<CHAR>__{CAMERON} <CHAR_PAR>__{}
+<DIAL>__{"... How important is that objective? Question 1 rates the poem's perfection; question 2 rates its importance. And once these questions have been answered, determining the poem's greatness becomes a relatively simple matter. If the poem's score for perfection is plotted on the horizontal of a graph--"}
+<ACTION>__{Keating passes by Todd and the others and gets to the back of the classroom before Todd leaps up from his seat and turns to face him.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{Mr. Keating! They made everybody sign it.}
+<ACTION>__{Mr. Nolan gets up from his desk and approaches Todd.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Quiet, Mr. Anderson.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{You gotta believe me. It's true.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{I do believe you, Todd.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Leave, Mr. Keating.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{But it wasn't his fault!}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit down, Mr. Anderson!}
+<ACTION>__{Todd reluctantly returns to his seat.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{One more outburst from you or anyone else, and you're out of this school! Leave, Mr. Keating.}
+<ACTION>__{Keating hesitates at the back of the classroom.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{I said leave, Mr. Keating.}
+<ACTION>__{Keating slowly turns and heads to the door. As he opens it, Todd, stands upon his desk and turns to Keating.}
+<CHAR>__{TODD} <CHAR_PAR>__{}
+<DIAL>__{O Captain! My Captain!}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit down, Mr. Anderson!}
+<ACTION>__{Keating pauses at the door and looks back at Todd on his desk.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Do you hear me? Sit down! Sit down! This is your final warning, Anderson. How dare you? Do you hear me?}
+<ACTION>__{After a moment of indecision, Knox climbs up onto his desk.}
+<CHAR>__{KNOX} <CHAR_PAR>__{}
+<DIAL>__{O Captain! My Captain!}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Mr. Overstreet, I warn you! Sit down!}
+<ACTION>__{Pitts climbs up onto his desk, followed by several others, including Meeks.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit down! Sit down. All of you. I want you seated. Sit down. Leave, Mr. Keating.}
+<ACTION>__{More students stand on their desks until half the class is standing.}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{All of you, down. I want you seated. Do you hear me?}
+<CHAR>__{MR. NOLAN} <CHAR_PAR>__{}
+<DIAL>__{Sit down!}
+<ACTION>__{Keating stands in the doorway, staring up at the boys in wonder. A smile comes to his face.}
+<CHAR>__{KEATING} <CHAR_PAR>__{}
+<DIAL>__{Thank you, boys. Thank you.}

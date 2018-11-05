@@ -1,0 +1,3084 @@
+<ACTION_ALT>__{LONE STAR}
+<DIAL>__{"LONE STAR" By John Sayles}
+<LOC>__{EXT. TEXAS SCRUB -- DAY}
+<ACTION>__{Two men in shorts and Hawaiian shirts are poking around a sandy section in the middle of scrub flats. SERGEANT CLIFF POTTS is in the f.g., a plant-and-tree guidebook in hand, as SERGEANT "MIKEY" HOGAN works a metal detector over a large, sandy bank in the b.g.  Both are Army career men with a morning off to pursue their hobbies.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{We got ocotillo, devil's walking stick--what's this stuff--it's that whattayoucallit--horse-crippler.}
+<ACTION>__{Mikey bends to scoop something out of the sand, putting it in a canvas bag slung on his hip.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{This place is a gold mine.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Lead mine.}
+<ACTION>__{MIKEY sees that Cliff is talking, pulls his headset off.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{It's a lead mine.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Right.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{I don't know why I'm talking to you, you've got that thing on your head.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{You finding lots of cactus and shit?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{It's not just cactus.  There's the nopals, the yuccas--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Puts headset on)}
+<DIAL>__{Looks like a lot of cactus to me.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Grumbles)}
+<DIAL>__{Man knows a hundred-fifty varieties of beer, he can't tell a poinsettia from a prickly pear.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Troubled)}
+<DIAL>__{Cliff--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{You live in a place, you should know something about it. Explore--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Cliff--}
+<ACTION_ALT>__{CU MIKEY}
+<ACTION>__{MIKEY in the f.g. now, looking down at something as he pulls his headset off again--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Cliff, you gotta look at this--}
+<ACTION>__{Cliff wearily turns and approaches from the b.g.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Don't tell me--Spanish treasure, right?  Pieces of eight from the Coronado expedition--}
+<ACTION>__{He stops by Mikey and looks down, his expression changing}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Jesus--}
+<ACTION>__{GROUND -- CU BONES Sticking out from the sand bank are the SKELETAL BONES of a MAN'S HAND.  There is a ring on one finger.}
+<CHAR>__{MIKEY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Was Coronado in the Masons?}
+<LOC>__{EXT. ROAD -- DAY}
+<ACTION>__{A distant cloud of DUST appears on the horizon MUSIC underscores that we are in Texas, and we SUPERIMPOSE the OPENING CREDITS as the dust takes form around an APPROACHING CAR.  The car comes close enough to see it has a County Sheriff's insignia on the side.}
+<LOC>__{INT. CAR}
+<ACTION>__{We see SAM DEEDS, the Sheriff, driving. Sam is 40, quietly competent to the point of seeming a bit moody. He sees something up ahead. MUSIC, CREDITS END as Sam pulls off the road and we see the sergeants standing in the scrub.}
+<LOC>__{EXT. SCRUB -- DAY -- BONES}
+<ACTION>__{The hand and forearm down to the elbow of the skeleton are visible now.}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{Cliff stands looking at the arm with Sam. MIKEY is a few yards behind them, playing with his metal detector. Beyond him we see the Sheriff's car parked.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I was driving back from Apache Wells when they got me on the radio.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{This was a rifle range way back when. But we figured it isn't Army land anymore, it's your jurisdiction.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nods)}
+<DIAL>__{I've got the forensics fella coming down from the Rangers. No way to know how old the body is without some lab work.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{That ring--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Masons been around a long while.}
+<ACTION>__{Mikey has come up to them, still sweeping with the metal detector.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Treasure hunter?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Apologetic)}
+<DIAL>__{Old bullets.  He uhm-- makes art with them.}
+<ACTION>__{Sam just nods. Mikey frowns, goes down on one knee and scratches something out of the dirt at their feet--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{The Sheriff says we shouldn't touch anything,}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Sam)}
+<DIAL>__{He can't hear with that rig on-- Mikey!}
+<ACTION>__{Mikey comes up with something, holds it before them. An encrusted piece of metal--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{What've we got here?}
+<ACTION>__{Sam takes the thing, lays it back down where Mikey found it.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{S'posed to leave everything right where we found it. They're real particular about that.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{The scene of the crime.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No telling yet if there's been a crime.}
+<ACTION>__{Sam frowns down at the piece of metal as he rubs the face of it.}
+<ACTION_ALT>__{CU METAL}
+<ACTION>__{Sam's thumb wipes across the face of the encrusted metal. It is roughly star-shaped.}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{But this country's seen a good number of disagreements over the years.}
+<LOC>__{INT. HIGH SCHOOL CLASSROOM -- DAY -- TEXAS MAP}
+<ACTION>__{We look at a beautiful old pull-down map of Texas.}
+<CHAR>__{PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{We do the best we can here--}
+<ACTION>__{A teacher in her late 30s, PILAR CRUZ, steps in front of the map and we FOLLOW her across the room, carrying a poster}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{--but hey, public education these days is a bit of a battleground.}
+<ACTION>__{Posters hung on the walls beyond her show luminaries from Texas history-- Sam Houston, Stephen Austin, Juan Seguin. A new parent, CELIE PAYNE, stands in the middle of the otherwise empty classroom.}
+<CHAR>__{CELIE} <CHAR_PAR>__{}
+<DIAL>__{He went to school on base when we were in Okinawa. It's all--you know-- kids in the same boat--Army brats.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{His record shows that he's a good student.}
+<CHAR>__{CELIE} <CHAR_PAR>__{}
+<DIAL>__{I'm more worried about the social thing. Are therelike--gangs, or...?}
+<ACTION>__{PILAR starts to put the poster up. CELIE moves to hold it in place for her.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{We haven't had any serious violence, if that's what you mean. We've got a pretty lively mix though--you walk into the cafeteria and the Anglo kids are in one section, the Mexican kids in another and the Black kids have a table in the back--thanks--}
+<CHAR>__{CELIE} <CHAR_PAR>__{}
+<DIAL>__{So Blacks are--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{They're the smallest group except for a couple Kickapoo kids. Look, you're obviously a concerned parent. Chet has no history of getting into trouble--I'm happy to have him in my class.}
+<ACTION>__{She steps back to see if the poster, an old photo of Geronimo, looks straight. Another teacher, MOLLY sticks her head in the door--}
+<CHAR>__{MOLLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Uncomfortable)}
+<DIAL>__{Pilar, is uhm--is Amado okay?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Okay? He's not here?}
+<CHAR>__{MOLLY} <CHAR_PAR>__{}
+<DIAL>__{No. Is he sick?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Mutters)}
+<DIAL>__{He's going to wish he was dead.}
+<LOC>__{EXT. STREET -- DAY -- CU VAQUERO PICTURE}
+<ACTION>__{On the door of a deluxe pickup truck is an airbrushed picture of a Pancho Villa-looking vaquero with bandoliers crossing his chest and a gun blazing in each hand. We hear LOUD MUSIC--}
+<CHAR>__{AMADO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Luis! Give me that Phillips-head back--}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{A small group of teenage Chicano BOYS hang around the truck in the bed, on the hood, leaning against it. A BOOMBOX placed on top of the cab blasts RANCHA MUSIC out at the neighborhood. Somebody's legs are hanging out the open passenger-side door. The kids suddenly look as a Sheriff's Department car slides into the f.g.  A Deputy Sheriff, TRAVIS, gets out.}
+<ACTION_ALT>__{KIDS}
+<ACTION>__{Trying to look tough and unworried as we TRACK across the street toward them. Travis's hand reaches out from behind the camera to flick the MUSIC OFF.}
+<LOC>__{INT. PICKUP}
+<ACTION>__{AMADO CRUZ, Pilar's 15-year-old son, lies on the front seat installing a compact disc player into the dash slot. He reaches up to the dash, can't find what he wants.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Somebody hand me the CD player-- damelo pendejos--}
+<ACTION>__{He looks up and we TILT to see Travis leaning in the window, examining the new radio}
+<CHAR>__{TRAVIS} <CHAR_PAR>__{}
+<DIAL>__{They come a long way from those old 8-track jobs, haven't they?}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Something wrong?}
+<CHAR>__{TRAVIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Waves radio)}
+<DIAL>__{This is stolen property. Alla you fellas are coming down to the station.}
+<LOC>__{INT. CAFE SANTA BARBARA -- AFTERNOON -- ENRIQUE}
+<ACTION>__{Sweat beads the forehead of a thin, tired-looking recent immigrant, ENRIQUE, as he delivers platters of chile rellenos to a booth. MEXICAN MUSIC plays on a jukebox in the b.g. We HOLD on the booth, where HOLLIS POGUE, in his 60s entertains two GOOD OLD BOYS--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{So Buddy walks up to the porch and there's old Fishbait McHenry, cleanin' the dirt out his toenails with a pocketknife--he was the most hygienic of all the McHenrys--}
+<ACTION>__{The breakfast companions are laughing already--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{"Fishbait," says Buddy, in that quiet way of his, "What you know about them tires that went missing from markets?" Fishbait thinks for a minute, then he lifts up a loose board from the porch floor and calls down into it, "C'mon out, Pooter, they caught us!"}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Laughing)}
+<DIAL>__{Buddy Deeds. He had a way.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{He known who it was onnacouna the tire tracks in the dirt from the back of the garage to where they loaded up. "Old Fishbait," he says, "never lifted a thing in this world if there was a way he could roll it."}
+<ACTION>__{More laughter--}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Won't be another like him. That boy of his doesn't come near it. You ask me, he's all hat and no cattle}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Fellas--}
+<ACTION>__{We WIDEN to see Sam standing by their booth. No telling how long he's been listening, Fenton is embarrassed.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Sam! I was just telling a few about your old man.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{He was a unique individual.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, he was that.}
+<ACTION>__{We sense a little strain when Sam has to talk about his father--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Big day coming up--I wish we'd have thought of it while he was still living. But he went so unexpected.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Better late than never. Korean War hero, Sheriff for near thirty years-- Buddy Deeds Memorial P--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I heard there was a bit of a fuss.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, you know, the usual troublemakers. Danny Padilla from the Sentinel, that crowd.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Every other damn thing in the country is called after Martin Luther King, they can't let our side have one measly park?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{King wasn't Mexican, Fenton--}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Bad enough all the street names are in Spanish--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{They were here first.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Then name it after Big Chief Shitinabucket! Whoever that Tonkawa fella was. He had the Mexes beat by centuries.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{There was a faction pulling for that boy who was killed in the Gulf War-- Ruben--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{--Santiago.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Right. But nobody here ever noticed him till they read his name on the national news--}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{They just wanted it to be one of theirs--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{That's not the whole story. The Mexicans that know, that remember, understand what Buddy was for their people.  Hell, it was Mercedes over there who swung the deciding vote for him.}
+<ACTION>__{Sam looks to the register where Pilar's mother, MERCEDES CRUZ, whacks rolls of change apart on the counter. She seems to be avoiding looking toward him.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{That so?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{She put it even at three to three, so as the Mayor I get to cast the tiebreaker. The older generation won't have any problem with it. They remember how Buddy come to be Sheriff, that it was all 'cause he took their part.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Tell that one, Hollis--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Hell, everybody heard that story a million times.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I'd like to hear it. Your version of it.}
+<ACTION>__{Something about the way Sam says it puts Hollis on guard.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Go ahead, Hollis.}
+<ACTION_ALT>__{CU HOLLIS}
+<ACTION>__{Hollis is hooked into it now--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{The two of us were the only deputies back then me and Buddy--it's what-- '58--}
+<CHAR>__{FENTON } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{'57, 1 believe--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{And the Sheriff at the time was Big Charley Wade. Charley was one of your old-fashioned bribe-or-bullets kind of Sheriffs, he took a healthy bite out of whatever moved through this county.}
+<ACTION>__{He looks down at the table--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{It was in here one night, back  when Jimmy Herrera run the place.   Started right here in this booth.}
+<ACTION>__{We PAN down to the table, The food has changed. The tortillas are in a straw basket instead of plastic. The jukebox changes to ANOTHER SONG and the LIGHT DIMS slightly. A hand with a big Masonic ring on one finger appears to lift a tortilla-- underneath it lie three ten-dollar bills.  The hand lifts them up and we TILT to see the face of SHERIFF CHARLEY WADE, a big, mean redneck with shrewd eyes. It is 1957--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Grins)}
+<DIAL>__{This beaner fare doesn't agree with me, but the price sure is right.}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{Wade sits across from his young deputies, YOUNG HOLLIS (30s) and BUDDY DEEDS (20s). A chicken-fried steak sits untouched in front of Buddy. Hollis has the anxious look of an errand boy, while Buddy is self-contained and quietly forceful for his age.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{What's that for?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jimmy got a kitchen full of wetbacks, most of 'em relatives. People breed like chickens.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{So?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I roust some muchacho on the street, doesn't have his papers, all he got to say is "Yo trabajo para Jimmy Herrera."}
+<ACTION>__{Wade folds the money and stuffs if in his pocket--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You got to keep the wheels greased, son. Sheriff does his job right, everybody makes out. Now this is gonna be one of your pickups, Buddy. First of the month, just like the rent. Get the car, Hollis.}
+<ACTION>__{Wade and Hollis slide out of the booth to stand.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{I'm not doing it.}
+<ACTION>__{Hollis stops a few feet away, shocked. Wade just stares down at Buddy.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Come again?}
+<ACTION>__{Buddy looks Wade in the eye, seemingly unafraid.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{It's your deal. You sweated it out of him, you pick it up.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{There's gonna be some left over for you, Buddy. I take care of my boys.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{That's not the point.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You feeling bad for Jimmy? Have him tell you the size of the mordida they took out of his hide when he run a place on the other side. Those old boys in Ciudad Leon--}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{I'm not picking it up.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You do whatever I say you do or else you put it on the trail, son.}
+<ACTION>__{The CUSTOMERS are all watching now, nervous. Buddy thinks for a moment, not taking his eyes off Wade.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{How 'bout this--how 'bout you put that shield on this table and  vanish before you end up dead or in jail?}
+<ACTION>__{Wade rests his hand on his pistol.  It is dead silent but for the MUSIC on the box.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{You ever shoot anybody was looking you in the eye?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Who said anything about shootin' anybody?}
+<ACTION>__{Buddy has his gun out under the table.  He slowly brings it up and lays it flat on the table, not taking his hand off it or his eyes off Wade.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{Whole different story; isn't it?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You're fired. You're outta the department.}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{There's not a soul in this county isn't sick to death of your bullshit, Charley. You made yourself scarce, you could make a lot of people happy.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You little pissant--}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{Now or later, Charley. You won't have any trouble finding me.}
+<ACTION>__{Wade feels the people around him waiting for a reaction.  He leans close to Buddy to croak in a hoarse whisper.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You're a dead man.}
+<ACTION>__{He turns and nearly bumps into Hollis. He gives the Deputy a shove.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Get the goddamn car. We're going to Roderick's.}
+<ACTION_ALT>__{CU BUDDY}
+<ACTION>__{He watches till the screen door shuts behind them, then holsters his gun and begins to saw at the steak as if nothing had happened. He calls softly--}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{Muchacho--mas cerveza por favor.}
+<ACTION>__{He looks up at somebody and we PAN till we see Sam, still standing over the booth, listening. We are back in 1995--}
+<CHAR>__{HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{"Mas cerveza por favor."}
+<CHAR>__{FENTON } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{That Buddy was a cool breeze.}
+<ACTION>__{We PULL BACK to see Hollis and his buddies at the table, eating their lunches as they listen.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Charley Wade were known to have put a good number of people in the ground, and your daddy gets eyeball to eyeball with him.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{We made our collection at Roderick's place and that was the last anybody seen hide nor hair of him.  He went missing the next day, along with ten thousand dollars in county funds from the safe at the jail.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Never heard from him again?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Not a peep. Buddy run the man out of town.}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Buddy Deeds said a thing, he damn well backed it up. Won't be another like him.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So he arrested all of Jimmy Herrera's people and sent 'em back to the other side?}
+<ACTION>__{Hollis sees what Sam is getting at, grins--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Oh--he come to an accommodation. Money doesn't always need to change hands to keep the wheels turning.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Right.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Look, I know you had some problems with your father, and he and Muriel-- well--}
+<CHAR>__{FENTON} <CHAR_PAR>__{}
+<DIAL>__{Your mother was a saint.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{--but Buddy Deeds was my salvation.}
+<ACTION>__{Sam nods, speaks softly--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Won't be another like him.}
+<LOC>__{EXT. ARMY INSTALLATION -- DAY -- CU DEL PAYNE}
+<ACTION>__{COLONEL DELMORE PAYNE (DEL), a very direct, by-the-book Black officer, addresses them. Artillery pieces angle toward the sky behind him--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{--it's an honor for me to assume command of this unit, and I look forward to working with all of you.}
+<ACTION>__{OFFICERS Cliff and Mikey, in uniform now, flank SERGEANT PRISCILLA WORTH, a Black woman in her early 40s, as they stand in formation--}
+<CHAR>__{DEL } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'm sure you're all aware of the Army's decision to close this installation under the Reduction in Force plan. That does not mean, however--}
+<ACTION_ALT>__{REVERSE}
+<ACTION>__{We look over the shoulders of assembled OFFICERS and NCOs toward Del.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{--that we've been sent here to mark time until we are absorbed by another unit.}
+<ACTION_ALT>__{CU DEL}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You may have heard rumors that I run a very tight operation. These rumors are not exaggerated.}
+<LOC>__{INT. SHERIFF'S OFFICE -- AFTERNOON -- BUDDY PHOTO}
+<ACTION>__{We are looking through a magnifying glass at an old photo. Buddy's face is slightly distorted by the glass.}
+<CHAR>__{SECRETARY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Sam? I got Danny Padilla from the paper for you--}
+<ACTION>__{Sam sits at his desk in the Sheriff's office, looking down at the photo--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Tell him I'll catch him later.}
+<ACTION_ALT>__{CU PHOTOGRAPH}
+<ACTION>__{An old photo of the 1957 Sheriff's Department officers on the courthouse steps. Wade, Hollis, Buddy, a few others, all in uniform.}
+<CHAR>__{SECRETARY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{He says he needs to talk to you before the ceremony, Sam.}
+<ACTION>__{Sam puts a magnifying glass over the photo and bends close to look.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Tell him to try me tomorrow.}
+<LOC>__{EXTREME CU PHOTO -- BADGE}
+<ACTION>__{MAGNIFIED POV of the badge on Wade's chest swims into view. A metal star. We hear the secretary getting rid of the caller.}
+<CHAR>__{SECRETARY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{He thinks you're trying to duck him.}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Looking at the photo, troubled--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Mutters)}
+<DIAL>__{He's right.}
+<LOC>__{EXT. BIG O'S ROADHOUSE -- NIGHT -- NEON SIGN}
+<ACTION>__{We start on a BLINKING SIGN--BIG O'S, then PAN to see a full parking lot outside the low, neon-lit roadhouse. R&B MUSIC blasts from inside.}
+<LOC>__{EXT. DOORWAY -- CHET}
+<ACTION>__{CHET, a Black kid around 15, stands nervously at the door building up his courage.  He takes a deep breath, plunges in.}
+<LOC>__{INT. BIG O'S}
+<ACTION>__{We TRACK with Chet, very nervous, as he makes his way through the crowded roadhouse. The customers are all Black, many from the nearby Army post, SHOUTING and LAUGHING over the loud MUSIC. Chet, edgy, is looking for somebody.  He sees... CHET'S POV -- OTIS Seen through the crush is OTIS "BIG O" PAYNE, a large man in his early 60s, laughing as he stands behind the bar.}
+<ACTION_ALT>__{CHET}
+<ACTION>__{He nervously puts his hand under his jacket. A gun? He pushes forward to get a better view. CHET'S POV -- OTIS Moving in on him. Otis looks over, sees the boy, frowns--}
+<ACTION_ALT>__{CHET}
+<ACTION>__{Reaching under his jacket, he pulls out--a photograph. He looks at it--suddenly there is a SCREAM from behind, then GUNSHOTS, patrons diving for the floor. Chet whirls around and we WHIP PAN to see a young man, SHADOW, emptying his pistol into RICHIE, a young soldier, as a young woman, ATHENA, screams and tries to pull the gun away. With the last shot, Shadow turns and heads for the door, but is tackled and swarmed by angry men, SHOUTING. We PAN to Athena, kneeling over the bleeding, twitching body of Richie--}
+<ACTION_ALT>__{CHET}
+<ACTION>__{Chet backs up, horrified. A large hand grasps him on the shoulder from behind. He turns to see Otis standing over him, strangely calm amid the chaos}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{You weren't in here tonight, were you?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{No sir.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Points)}
+<DIAL>__{Go out through the back.}
+<ACTION>__{Chet hurries away.  Otis watches him for a moment, then turns to the mess in his club.}
+<LOC>__{INT. AUDITORIUM -- NIGHT -- CU ANGLO MOTHER}
+<ACTION>__{An angry woman stands from her auditorium chair--}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{You're just tearin' everything  down! Tearin' down our heritage, tearin' down the memory of people that fought and died for this land.}
+<CHAR>__{CHICANO FATHER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{We fought and died for this land, too!}
+<ACTION>__{We WHIP PAN to see another standing parent--}
+<CHAR>__{CHICANO FATHER} <CHAR_PAR>__{}
+<DIAL>__{We fought the U.S. Army, the Texas Rangers--}
+<CHAR>__{ANGLO FATHER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yeah, but you lost, buddy!}
+<ACTION>__{We WHIP PAN to a man in the rear--}
+<CHAR>__{ANGLO FATHER} <CHAR_PAR>__{}
+<DIAL>__{Winners get the bragging rights, that's how it goes.}
+<CHAR>__{PRINCIPAL } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{People--people--}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{We are in the High School auditorium, a hot-and-heavy teachers- and-parents meeting in progress. Pilar sits at the end of a long table facing the agitated parents, taking some heat. DANNY PADILLA, a young, long-haired reporter, sits in the front taking notes, enjoying the show.}
+<CHAR>__{PRINCIPAL} <CHAR_PAR>__{}
+<DIAL>__{I think it would be best not to put things in terms of winners and losers--}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Points at Pilar)}
+<DIAL>__{Well, the way she's teachin' it has got everything switched around. I was on the textbook committee, and her version is not--}
+<CHAR>__{PRINCIPAL} <CHAR_PAR>__{}
+<DIAL>__{We think of the textbook as kind of a guide, not an absolute--}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{--it is not what we set as the standard! Now you people can believe what you want, but when it comes to teaching our children--}
+<CHAR>__{CHICANO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{They're our children, too!}
+<CHAR>__{ANGLO FATHER} <CHAR_PAR>__{}
+<DIAL>__{The men who founded this state have a right to have their story--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{The men who founded this state broke from Mexico because they needed slavery to be legal to make a fortune in the cotton business!}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I think that's a bit of an oversimplification--}
+<CHAR>__{ANGLO FATHER} <CHAR_PAR>__{}
+<DIAL>__{Are you reporting this meeting or runnin' it, Danny?}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{Just adding a little historical perspective--}
+<ACTION_ALT>__{REAR OF AUDITORIUM}
+<ACTION>__{PALOMA CRUZ, Pilar's teenage daughter, peeks into the room, then moves down the side toward the stage.}
+<CHAR>__{ANGLO FATHER} <CHAR_PAR>__{}
+<DIAL>__{You may call it history, but I call it propaganda. I'm sure they got their own account of the Alamo on the other side, but we're not on the other side, so we're not about to have it taught in our schools!}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{There's no reason to be so threatened by this--}
+<ACTION>__{Pilar is trying to stay calm despite her anger.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I've only been trying to get across some of the complexity of our situation down here--cultures coming together in both negative and positive ways.}
+<CHAR>__{ANGLO MOTHER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{If you mean like music and food and all, I have no problem with that.}
+<ACTION_ALT>__{REVERSE}
+<ACTION>__{We shoot past Pilar toward the parents in their seats. PALOMA steps up to whisper to her.}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{--but when you start changing who did what to who.}
+<CHAR>__{TEACHER} <CHAR_PAR>__{}
+<DIAL>__{We're not changing anything, we're presenting a more complete picture.}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{And that's what's got to stop!}
+<ACTION>__{Pilar looks troubled by what she's heard. She shoots a look toward the others at the table, then slips away with Paloma--}
+<CHAR>__{TEACHER} <CHAR_PAR>__{}
+<DIAL>__{There's enough ignorance in the world without us encouraging it in the classroom--}
+<CHAR>__{ANGLO MOTHER} <CHAR_PAR>__{}
+<DIAL>__{Now who are you calling ignorant?}
+<CHAR>__{PRINCIPAL} <CHAR_PAR>__{}
+<DIAL>__{Folks, I know this is a very emotional issue for some of you, but we do have other business to attend to--}
+<CHAR>__{CHICANO FATHER} <CHAR_PAR>__{}
+<DIAL>__{We're not going to get some resolution on this?}
+<ACTION_ALT>__{CU PRINCIPAL}
+<ACTION>__{Weary--}
+<CHAR>__{PRINCIPAL} <CHAR_PAR>__{}
+<DIAL>__{Would you people like to form another committee?}
+<ACTION>__{GROANS from the parents--}
+<LOC>__{INT. SHERIFF'S OFFICE -- NIGHT -- SHADOW}
+<ACTION>__{Shadow, face bruised, hands cuffed behind him, is pushed in through the door to be booked.}
+<CHAR>__{SHADOW} <CHAR_PAR>__{}
+<DIAL>__{I hope the sucker does die, man! Mess with me, that's what you get!}
+<ACTION>__{Sam steps in behind him and meets his Chief Deputy RAY HERNANDEZ, coming from the other direction.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Hospital says the other kid is in bad shape--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Glances ahead)}
+<DIAL>__{The shooter local?}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shakes his bead)}
+<DIAL>__{Down from Houston. I think he knew the girl before.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Okay--we'll take a statement from all the GIs before they go back to post. You can get the story from Otis over at the club.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Any poop on the John Doe you found out there today?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Nothin' much. The Rangers put Ben Wetzel on it. Catch you later.}
+<ACTION>__{As Ray steps out, Pilar looking distraught, walks into the station, passing right by Sam without seeing him.}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Wonders what she's doing there-- SAM'S POV -- PILAR She stands by an unoccupied reception desk, very upset, unable to attract anyone's attention because of the activity around the shooting.  She looks tired and a bit scared under the harsh overhead light.}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Pilar.}
+<ACTION_ALT>__{PILAR AND SAM}
+<ACTION>__{Pilar looks around. Sam is standing by her. We can tell there is some history between these two.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Something wrong?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{They've got my Amado.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Got him here?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Somebody called--something about an electronics store.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I'll see what's going on.}
+<ACTION>__{He starts away, stops, comes back--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I was--I was real sorry about Nando. He was a good fella. We haven't talked since.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{We haven't talked since high school.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I'll go check on your boy.}
+<ACTION>__{Pilar watches Sam go--}
+<ACTION_ALT>__{REAR OF OFFICE}
+<ACTION>__{Travis sits typing away at a word processor as Athena, in tears, gives testimony.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{--so Richie just didn't say nothin' 'cause he didn't want to get into it, see, and the next thing I know there's shots and Richie is down. It happened so fast--}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Excuse me--}
+<ACTION>__{We WIDEN to see Sam standing over the desk--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{We got some boys you run in earlier today?}
+<CHAR>__{TRAVIS} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I pulled the bunch that hangs at Pico Bernal's place. We finally caught them with something.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You got a juvenile with 'ern--Amado Cruz?}
+<ACTION>__{Travis looks at his booking sheets--}
+<CHAR>__{TRAVIS} <CHAR_PAR>__{}
+<DIAL>__{Yeah--let's see--the other ones say he wasn't in on the theft, he just knows how to hook things up. We've been trying to contact a parent.}
+<LOC>__{INT. JAIL HALLWAY}
+<ACTION>__{Sam walks with Amado, who is trying to look defiant--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{They tell me you're good at fixing things.}
+<ACTION>__{Nothin--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Your father was a hell of a mechanic.}
+<ACTION>__{Still nothing--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You know, if you figure minimum wage on the time most thieves spend in jail, they could have bought most everything they stole.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I didn't steal anything.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I didn't say you did. My name is Sam, by the way.}
+<ACTION>__{Amado just gives him a look--}
+<LOC>__{INT. SHERIFF'S OFFICE}
+<ACTION>__{Sam and AMADO step out into the office, where Pilar stands waiting.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He's all yours.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Are you okay?}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I don't know what the big deal is.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{You'll find out when I get you home. Thanks, Sam.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No problem.}
+<ACTION>__{Pilar yanks AMADO outside by his arm. She turns to shoot a look back at Sam, then steps out through the glass door.}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Watching her go--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Any time.}
+<TRANS>__{FADE OUT:}
+<LOC>__{EXT. OBSTACLE COURSE -- MORNING -- PIT}
+<ACTION>__{We shoot up from a pit in the ground. WHUMP! WHUMP! WHUMP! Three men leap over, landing on the far side and running away from us.}
+<ACTION_ALT>__{MEN}
+<ACTION>__{Del Payne runs with Cliff and Mikey on a pathway along a security fence, the two sergeants struggling to keep up, occasionally vaulting or scaling some mild obstacle.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{There's not that much down here, Colonel. Big O's is the only place in the county that our African American soldiers are uhm--that they feel comfortable in.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Have we had trouble there before?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Since I've been stationed here? A fistfight now and then--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{We had a kid pass out in the men's room. The town isn't much.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{They didn't come for a vacation.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{You know how it is, Colonel--first time away from home, dealing with new people--I remember my first hitch--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Substance abuse?}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Well, yeah, but I went through the Program. I haven't had a drink since--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I meant on the post. In general. How are you dealing with it?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{We throw a urine test at them once a month. Random numbers, maybe a hundred people at a time}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Why don't we make it once a week for a while?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{No problem, sir.}
+<ACTION>__{Del notices bow hard they are breathing--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I sprint the last quarter mile. You gentlemen don't have to keep up if you don't care to.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Appreciate it, sir.}
+<ACTION>__{Del accelerates and we HOLD with the sergeants, slowing to a near-walk.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Guy cracks walnuts with his asshole.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Grins)}
+<DIAL>__{You get the feeling he doesn't want to be here?}
+<LOC>__{INT. FORENSICS LAB -- VARIOUS SHOTS}
+<ACTION>__{We hear Hank Williams' gospel song "I'll Have a New Body (I'll Have a New Life)" as we see the gathered bones of the skeleton tagged and photographed and measured, impressions made of the dental work in the skull, photographs of the excavation of the body at various stages marked with red grease pencil, the piece of metal laid in a de-tarnishing dish, the ring put under a microscope.}
+<ACTION_ALT>__{CU METAL}
+<ACTION>__{MUSIC CONTINUES as we TIGHTEN on the piece of metal, a pair of tongs pulling it from the de-tarnishing solution. It is a star-shaped badge, bearing the words "SHERIFF--RIO COUNTY."}
+<LOC>__{INT. COUNTRY AND WESTERN BAR -- AFTERNOON}
+<ACTION>__{C&W MUSIC playing, the regulars starting to show up. Sam makes his way to a table where BEN WETZEL, a Texas Ranger, sits with a file of forensic reports.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Sam the Man.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Hey, Ben. Thanks for coming down.}
+<ACTION>__{They shake, Sam sits.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{How's business?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Business is booming. Got your drugs, got your illegals--had a shooting the other night at Big O's--Soldier got ventilated.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{I hear they're closing that post down.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{September '97, that's all she wrote.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Gonna pull a lot of jobs out of this county.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, we'll have folks swimming over to Mexico to work in the sweatshops.}
+<ACTION>__{Sam looks at the folder of reports.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{That the word on our boy?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, this is Skinny.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Skinny?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{We find a body, it's either Skinny or Stinky, depending on how much meat there is on the bones.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Nice job.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Opens folder)}
+<DIAL>__{Male, 40 to 50 years old, five-foot- eleven, chewed tobacco--then we get into the dental records--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Charley Wade.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nods)}
+<DIAL>__{That badge--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{--it didn't come out of a cereal box.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You know the popular version of how he left town.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Everybody on the border knows that story.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You got a cause of death?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Skull was intact, no soft tissue left--not much to go on.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So he could have gone out to the base, hopped the fence, dug down into the dirt on the old rifle range and had a heart attack.}
+<ACTION>__{Ben smiles, closes the folder--}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{You uhm--you remember what old Buddy carried for a side arm?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Colt Peacemaker.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{A .45--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He swore by it.}
+<DIAL_PAR>__{(Ben frowns)}
+<DIAL>__{What?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Just wondering.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So is Buddy on your short list?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{If it was some poor mojado, swam across at night, got lost in the scrub and starved out there, we wouldn't go any further. But this is a formerly prominent citizen.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You got to investigate. No question about it.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{What I will do is keep names out of it till we got some answers or hit a dead end. You know how the press is with a murder story--even if it's forty years old.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, it's a pretty cold trail.}
+<ACTION>__{They sit in awkward silence for a moment. Ben feels bad about it.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{I remember Charley Wade come to my father's hardware store once when I was a little boy. I'd heard stories how he shot this one, how he shot that one--man winked at me and I peed in my pants.}
+<DIAL_PAR>__{(Shakes his head)}
+<DIAL>__{Winked at me.}
+<LOC>__{INT. CLASSROOM -- DAY}
+<ACTION>__{Pilar stands at the blackboard by her outline of 19th century Texas history.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Okay, we have the fight against the Spanish with bloody conflict for dozens of years till they're finally defeated in 1821 and Mexican independence is declared. Anglo settlers are invited--}
+<ACTION_ALT>__{CU DRAWING}
+<ACTION>__{Somebody making a skillful pencil drawing on the corner of a sheet of lined notebook paper. A bald, muscular shotputter after releasing the shot, his hand large in the f.g.}
+<CHAR>__{PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{--to colonize the area and by the time they begin the movement against Santa Anna they outnumber the Mexicans here by four to one. The war between Mexico--}
+<ACTION_ALT>__{CHET}
+<ACTION>__{Drawing intently. He takes the notebook and lays his thumb over the corner.}
+<CHAR>__{PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{and the Anglo forces ends in 1836 with the formation of the Texas Republic. Texas joins the United States as a state where slavery is legal in 1845--}
+<ACTION_ALT>__{NOTEBOOK}
+<ACTION>__{Chet "flips" the corner of the notebook and the series of drawings he's made form a brief cartoon of the shot-putter blowing his cheeks out and heaving the shot right past us. Extremely well-drawn--}
+<CHAR>__{PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{after the so-called Mexican war and then secedes to join the Confederacy in 1861. The Confederacy is beaten, and the Reformation period here is marked by range wars and race wars--}
+<ACTION_ALT>__{PILAR}
+<ACTION>__{Looking out at the class--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{--and all this paralleled by constant battles between both the Mexican and Anglo settlers and the various Indian nations in the area. What are we seeing here? Chet?}
+<ACTION_ALT>__{CHET}
+<ACTION>__{Startled, he hides the notebook under his hands --}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Uhm--everybody is killing everybody else?}
+<LOC>__{EXT. LAKE -- DAY -- CU FISHING LURE}
+<ACTION>__{A nasty-looking thing. Only a bass would want to eat this. Hollis leans in to peer at the thing dangling before his face.}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{Hollis sits in the swivel chair of a bass boat tied to a dock at the lake, going through his box of lures. Sam appears on the dock and steps down.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I always wondered what you Mayors do when you're not cutting ribbons.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Sam! Hey podner! You caught me playing hooky--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looks across lake)}
+<DIAL>__{Floating around out here, playin' hell with them bass--play a little cards, play a little golf, drink some beer--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Sounds great. Where do I sign up?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I haven't been out here for a while.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{You go by your old house?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Just as well. The new people just painted it some God-awful color--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{We found a body out by the Army base yesterday. Been there for a long time.}
+<ACTION>__{Hollis squints at a rubber lure, rejects it--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Was it Davy Crockett or Jim Bowie?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{You recall if Charley Wade was a Mason?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Charley? I believe he was. Used to go for lodge meetings over to Laredo. What's he got to do with your body?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{All it was wearing was a big old Masonic ring and a Rio County Sheriffs badge.}
+<ACTION>__{Hollis reacts. Sam puts a foot on the gunwale of the boat.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You don't remember anything else from that last night you saw him, do you?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{I told the story enough times--hell, we were just in the car, he was stewing about the fight with Buddy while we drove over to Roderick Bledsoe's--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Bledso}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{He owned the colored roadhouse before Big O--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He still living?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{No. I think his widow's still in their place in Darktown, though.}
+<DIAL_PAR>__{(Shakes his bead)}
+<DIAL>__{You think it's Charley Wade, huh?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Forensics people are sure of it. You have any idea who might have put him there?}
+<ACTION>__{Hollis makes a great show of considering--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Besides my father, I mean.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{There's no call for that, Sam. Fella made himself a pile of enemies over the years.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{And Buddy was one of them.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{We got that dedication tomorrow. This is a hell of a time to be draggin' up old business.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{People have worked this whole big thing up around my father. If it's built on a crime, they deserve to know. Now I understand why you might want to believe he couldn't do it.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{And I understand why you might want to think he could.}
+<ACTION>__{This is a low blow, but accurate enough to shake Sam.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Thanks for your time, Hollis.}
+<ACTION>__{Hollis holds up a double handful of lures--dozens of rubber and plastic worms and shiners and frogs and spinners--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Look at all this, would you? My tackle, the boat, all to catch a little old fish just minding its business on the bottom of the lake.}
+<ACTION>__{He gives Sam a look--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Hardly seems worth the effort--does it, Sam? Sam walks away--}
+<LOC>__{INT. CLASSROOM -- ARMY BASE -- DAY -- CU ATHENA}
+<ACTION>__{Athena stands at attention, trying to keep her composure--}
+<CHAR>__{CLIFF } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{So you knew this young man before?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{From back in Houston. We both come up on Fifth Street.}
+<CHAR>__{PRISCILLA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Did you know he was going to be there last night?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{If I had I wouldn't have gone in.}
+<CHAR>__{PRISCILLA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{And you and Private Graves--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{We were just dancing--}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{Cliff leans against a desk, a blackboard covered with radar diagrams behind him. Priscilla sits nearby, both of them focused on Athena.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{We're not running a dating service here.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I know that, Sergeant. We were just dancing. There was a bunch of us there. Shadow just come down looking for trouble.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{It's not our job to get involved in your personal life, but when it interferes with the training here--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, Sergeant Major. There wasn't anything I could do. Shadow gets crazy--}
+<ACTION>__{A silence as the sergeant lets her stew for a moment. She works up her courage--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Sergeant Major? How is Richie doing? Private Graves?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{He'll live.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{He'll be transferred to a military hospital as soon as he's stabilized--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{He'll probably be getting a medical discharge--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Out of the Army?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{He's going to lose a lung. This is not good news for Athena--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Will this go on my record?}
+<ACTION>__{Cliff considers for a long moment--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{If the incident happened the way you say it did, there hasn't been an infraction.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Sergeant Major.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{You're dismissed.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Sergeant Major.}
+<ACTION>__{Athena steps out of the room. Cliff sits on the desk--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{You spoil 'em, Cliff.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Hey--she's in a tough situation. I cut her some slack--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{But I'm the one in charge of her sorry ass.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{She's pulled herself out of a pretty rough neighborhood.}
+<ACTION>__{Crossing to the door--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{And if she isn't careful she's gonna slide right back into it.}
+<LOC>__{EXT. BLEDSOE HOUSE -- DAY -- ROCKER}
+<ACTION>__{We start on a CU of a rocker creaking back and forth on an old wooden porch. A WOMAN HUMS.}
+<ACTION_ALT>__{MINNIE}
+<ACTION>__{MINNIE BLEDSOE, in her 60s, sits on her porch in the old Black section of town, playing with a Gameboy. She has very thick glasses on. Sam walks up to her from his car--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Bledsoe?}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{That's me.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I'm Sheriff Deeds--}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Sheriff Deeds' dead, honey--you just Sheriff junior.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{Yeah, that's the story of my life.}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{You ever play one of these?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I've seen 'em.}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Well, don't ever start up on 'em, cause once you do you can't stop. I tell myself I'm gonna play just three little games after breakfast, and here I sit with half the day gone.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You mind if I ask a few questions about your husband? Roderick?}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{I won't say nothing bad about the man, but you can ask away.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He had the club out on the old trail road--}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{We run that twenty-odd years. Give it over to Otis Payne in 1967. April.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So you must remember Sheriff Wade.}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Not if I can help it.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You had to deal with him in running the club.}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Them days, you deal with Sheriff Wade or you didn't deal at all. First of the month, every month, he remind you of who you really workin' for.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He squeezed money out of you?}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Wasn't legal to sell liquor in a glass back then unless you was a club, see. Roderick used to say, "Buy yourself a drink, you get a free membership." But Sheriff Wade, he could shut you down anytime.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{And my father?}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Sheriff Buddy was a different story. Long as Roderick throw his weight the right way on election day, make sure all the colored get out to vote- we was called colored back then, if you was polite--maybe throw a barbecue for the right people now and then, things was peaceful. That Sheriff Wade, though, he took an awful big bite.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{People didn't complain?}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{Not if they was colored or Meskin. Not if they wanted to keep breathin'.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Do you remember the last time you saw him?}
+<ACTION>__{Minnie thinks, puts down the Gameboy--}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{I seen him in our place the last week before he gone missin'.}
+<ACTION>__{We TRACK in to a close-up of her. R&B MUSIC FADES UP slowly--}
+<CHAR>__{MINNIE} <CHAR_PAR>__{}
+<DIAL>__{He used to come in whilst we was in full swing, make people nervous. Had him a smile like the Grim Reaper--}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{INT. ROADHOUSE --}
+<ACTION>__{The joint is crowded, people drinking, talking, laughing, a few dancing, all trying to avoid locking eyes with Sheriff Wade, who sits with his legs stretched out at a table. Young Hollis sits by him, smiling uncomfortably. Sax-wailing R&B blasts from the jukebox. YOUNG OTIS, a slick, confident character with straightened hair and a silk shirt on, in his early 20s, stops to talk with a MAN on his way to bring a tray with a couple beers and glasses over.}
+<CHAR>__{MINNIE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{--just sit back with his hand on that big ol' gun and act the kingfish with everybody. Otis Payne had come to work for us by then, and that boy had him some attitude--}
+<ACTION_ALT>__{CU WADE}
+<ACTION>__{Watching Young Otis with narrowed eyes-- CU WADE'S POV -- OTIS A man puts a slip of paper in Otis's pocket, pats his back. Otis winks to acknowledge the bet, turns, makes eyes at a PRETTY WOMAN sitting at the bar, who is eyeing him back.  He lays the beers and glasses on the table, starts away.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pour it.}
+<ACTION>__{OTIS TURNS, CUPS HIS HAND AROUND HIS EAR-}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pour it.}
+<ACTION>__{Expressionless, he starts to pour the beer into Wade's glass. The Sheriff looks up into his face--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know you?}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Name's Otis.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Otis what?}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Payne.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{One of Cleroe Payne's boys?}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Uh-huh.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I sent your Daddy to the farm once.}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{I know that.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Why you think that was?}
+<ACTION>__{Otis feels people watching.  He doesn't want to lose face--}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Some crop needed pickin' and the man was shorthanded.}
+<ACTION>__{A very insolent answer for the time and place--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{As I remember it was because he had a sassy mouth on him. Must run in the family--You wouldn't be runnin' numbers out of this club, now, would you, son?}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Runnin' numbers illegal.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Runnin' numbers without I know about it is both illegal and unhealthy. You remember that.}
+<ACTION>__{The beer is poured. Otis starts away--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Whoah, son. You're not finished. Pour his.}
+<CHAR>__{YOUNG HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{I prefer it in the bottle--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Shut up, Hollis. Pour.}
+<ACTION>__{Otis meets Wade's look now, pours the other beer--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{How come you don't took familiar?}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{Been away. Up to Houston.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Houston, huh? I hear they let you boys run wild up there.}
+<ACTION>__{No response. Wade deliberately pushes the glass away so beer splashes on the table and drips into Hollis's lap--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Aw--look what you done now. Better get something to wipe it up, son.}
+<ACTION>__{Half the people in the room are watching now, the other half moving away to relative safety. Otis tries to keep a lid on his temper, looks around the room--}
+<CHAR>__{YOUNG OTIS} <CHAR_PAR>__{}
+<DIAL>__{You spilt it, you wipe it up.}
+<ACTION>__{Wade stands, steely-eyed, and looks at Otis nose to nose--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I told you to do something. Are you gonna hop to it, or are we gonna have a problem?}
+<ACTION>__{Otis is starting to shake, but holds his ground--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't want to turn tail in front of your people. I understand.}
+<ACTION>__{He starts to turn away then WHAP! brings the butt of his pistol up under Otis's chin, knocking him to the floor. A woman SCREAMS and Otis, enraged, grabs the chair he has fallen over, starts to get up--but Wade has the pistol levelled at his face--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Come on, Houston, give it a try! Come to Poppa--}
+<ACTION>__{RODERICK is out on the floor now, hands held out in a gesture of peace, as YOUNG MINNIE watches from behind the bar, petrified--}
+<CHAR>__{RODERICK} <CHAR_PAR>__{}
+<DIAL>__{Don't mind him, Sheriff. Boy's just a bit slow, is all. He don't mean nothin' by it--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{That the problem, son?  You Slow?}
+<CHAR>__{RODERICK} <CHAR_PAR>__{}
+<DIAL>__{Otis, apologize to the Sheriff--}
+<ACTION>__{Otis eases the chair down but doesn't say anything--}
+<CHAR>__{RODERICK} <CHAR_PAR>__{}
+<DIAL>__{You got him too scared to peep, Sheriff. Maybe if you put that gun up--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You telling me what to do, Roderick?}
+<CHAR>__{RODERICK} <CHAR_PAR>__{}
+<DIAL>__{No, Sheriff, I'm just--}
+<ACTION>__{Wade looks around, widens his eyes in mock surprise--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What's this I see? Is that whiskey in them glasses on the Bar? Roderick, I'm gonna have to cite you for a violation of state law--}
+<CHAR>__{RODERICK} <CHAR_PAR>__{}
+<DIAL>__{This is a club, Sheriff--you been in here--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{And people better clear out of here! Now!}
+<ACTION>__{A few people start for the exit.  Wade swivels and BLAM sends a bullet past Minnie that shatters a crystal decanter behind the bar.  People run for the door. Wade squats down to look Otis in the face--}
+<ACTION_ALT>__{CU WADE}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You learn how to act your place, son. This idn't Houston.}
+<ACTION>__{He stands and we FOLLOW him toward the bar--}
+<CHAR>__{OTIS } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{'Course I was young and full of beans then--}
+<ACTION>__{The camera passes Wade and instead of Minnie there stands Otis, PRESENT DAY, reminiscing. We are back in '95--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{I didn't understand the spot I was putting Roderick in.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{And that was the last time you saw him?}
+<ACTION>__{We SHIFT to see Sam sitting where Wade was headed--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Oh--I think he came in one more time with Hollis and--naw, your Daddy wasn't with them. Made their monthly pickup. Roderick wasn't in so I just kept my mouth good and shut and handed over that envelope.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{That was the night he disappeared?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shakes his head)}
+<DIAL>__{Could of been. That was white people's business.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{And when my father was Sheriff?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{What about it?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{What was your deal with him?}
+<ACTION>__{Otis smiles, chooses his words carefully--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Buddy was more a part of the big picture--county political machine, chamber of commerce, zoning board if I kept those people happy, he was pretty much on my side.}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{Whenever somebody thought--they start up another bar for the black  folks, they'd be--how should I put this? They'd be officially discouraged.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He ever accept cash for a favor?}
+<ACTION>__{Otis smiles, looks away to ponder his response--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{I don't recall a prisoner ever died in your father's custody. I don't recall a man in this town--Black, White, Mexican--who'd hesitate a minute before they'd call on Buddy Deeds to solve a problem. More than that I wouldn't like to say.}
+<LOC>__{INT. CAR -- LATE AFTERNOON}
+<ACTION>__{Pilar drives Amado and her daughter Paloma home--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{If you had your way I wouldn't have any friends.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Oh, come on, Amado--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Just 'cause I'm not like Little Miss Honor Roll here--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Leave your sister out of it.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{You and all of the teachers in this dump--your story's over, so you don't want anybody else to have fun.}
+<ACTION>__{We see on PILAR's face that he has scored--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{You jerk--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I'm not talking to you. You don't have any friends.}
+<ACTION>__{PILAR eases the car down San Jacinto street, seeing something on the street and she's tuning her kids' conversation out--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{Who'd want to be friends with that bunch of pachuco wannabes?}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I don't pretend I came over on the Mayflower--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{And those stupid girls who hang out with them--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Just shut up.}
+<ACTION>__{PILAR'S POV -- SAM Sam walks on the sidewalk parallel to them, talking with three other MEN--}
+<CHAR>__{PALOMA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Joanie Orozco's telling the whole school she's like desperately in love with Santo Guerra.}
+<CHAR>__{AMADO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{So?}
+<CHAR>__{PALOMA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{It's pathetic. You can't be desperately in love when you're 14 years old.}
+<LOC>__{INT. PILAR'S CAR}
+<ACTION>__{Pilar is still looking fixedly out the window--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{Not if you have half a brain in your head.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Of course you can.}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{It doesn't have anything to do with being smart.}
+<LOC>__{EXT. SAN JACINTO STREET -- LATE AFTERNOON}
+<ACTION>__{Danny Padilla is arguing with H.L. BRIGGS, a construction company big shot, and JORGE GUERRA, a Council member in his}
+<LOC>__{40s and Sam, as they walk down the sidewalk of the main street--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{What I'm saying is, I don't see the point. You had your chance when the dedication committee was meeting--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{I've got new information--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{It's ancient goddarn history, Danny--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{1963, they dam up the north branch to make Lake Pescadero. A whole little town disappears--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{Squatter town--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{People had been living in Perdido for over a hundred years. Mexicans and Chicanos are deported, evicted, moved forcibly out of their houses by our local hero, Buddy Deeds, and his department--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{There was a bill from the state legislature--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{Families were split apart, a whole community was destroyed--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{They were trespassing, Danny--}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{--and who ends up with lakefront property bought for a fraction of the market price? Buddy Deeds, Sheriff of Rio County, and his Chief Deputy, Hollis Pogue.}
+<ACTION>__{They all look at Sam, who has been listening patiently the whole while.  They've reached his office.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You finished?}
+<CHAR>__{DANNY} <CHAR_PAR>__{}
+<DIAL>__{Look, I'm not after you, Sam.  I just think people in town ought to know the full story on Buddy Deeds.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nods)}
+<DIAL>__{That makes two of us.}
+<ACTION>__{Sam steps into his office, leaving H.L. shaking his head--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{You best be thankful that's the son and not the father. Buddy woulda kicked your ass from here to sundown.}
+<LOC>__{INT. HALLWAY -- DEL'S HOUSE -- LATE AFTERNOON}
+<ACTION>__{We TRACK down a hallway as Celie walks toward us, calling ahead. Chet stands in the middle of the hall behind her.}
+<CHAR>__{CELIE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I don't see what the big deal is. Go back over, talk to the man, and bury the hatchet, Del--}
+<ACTION>__{CELIE passes us and Del crosses back in the other direction from behind the camera, carrying boxes of their belongings. We continue our SLOW TRACK forward--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Otis Payne was never embarrassed about a thing in his life.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Dad--}
+<CHAR>__{CELIE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You were 8 years old when he left--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{He didn't leave, he moved three houses down with one of my mother's best friends.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Dad--?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{"Hey, Delmore, where's your Daddy?"}
+<ACTION>__{Del disappears into the bedroom at the end of the hall--}
+<CHAR>__{DEL } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Everybody else's business. And everybody loved Big O--}
+<ACTION>__{DEL comes back out, empty-handed--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Big O was always there with a  smile or a loan or a free drink.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Dad, can I talk to you about track?}
+<CHAR>__{CELIE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{People change.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Not that much.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Dad, I talked to the track coach--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I thought we already had this out? Next year, if your grades are high enough--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{I have a B average.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{How many B-average students do you think they take at West Point?}
+<CHAR>__{CELIE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{We're going to have to see him.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{No, we don't.}
+<ACTION>__{Del steps away past us, leaving Chet, defeated--}
+<LOC>__{INT. CAFE -- NIGHT -- ENRIQUE}
+<ACTION>__{We start on Enrique, talking surreptitiously on the pay phone on the way to the kitchen.}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Sabado por la noche--Is, es el  mas seguero--a cruzar por la  manana y pues tendremos que esperar--[Friday night--Yes, that's the safest--I'll cross in the morning and then we'll have to wait--]}
+<ACTION>__{Mercedes bustles by, snapping her fingers--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Off the phone, by we've got people waiting. Andale!}
+<ACTION>__{We FOLLOW Mercedes back into the kitchen, where she moves through, kibbitzing the operation--}
+<ACTION_ALT>__{WAITRESS}
+<ACTION>__{Mercedes stops by a young girl prepping a pork loin to be cooked. She isn't wearing gloves.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Donde estan sus guantes? Tonta! Quiere matar a mis clientes? [Where are your gloves? Stupid! You want to kill my customers?]}
+<ACTION>__{She continues past, shaking her bead, bringing us to Pilar, who is trying to stay out of the way--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{These ones coming up are getting stupider every year.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Maybe you're just getting less patient.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{If they're going to survive here, they have to know how to work, Elalco! Adelante! Los clientes esperan!}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Well, you hire illegals--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Indignant)}
+<DIAL>__{Nobody is illegal in my cafe! They've got green cards, they've got relatives who were born here--if they only had a little common sense I'd be very happy.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{If you spent a little more time training them--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Did you come here to tell me how to run my business?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{No. I was wondering if you'd like to take a trip down south with us. Maybe see where you grew up--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Why would I want to go there?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Oh, come on--you must be curious how it's changed. Amado is into this big Tejano roots thing and I've never been further than Ciudad Leon--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{You want to see Mexicans, open your eyes and look around you. We're up to our ears in them.}
+<ACTION>__{Pilar gives up on the trip. She watches her mother poking at the plates of chips and salsa ready to go out--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Mami, how old were you when my father--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{He was killed.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Right. When he was killed.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{A little older than Paloma is now.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{How come you never got married again?}
+<ACTION>__{Mercedes just glares at her--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{There must have been somebody.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Mutters)}
+<DIAL>__{I was too busy.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Nobody's too busy.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Maybe now. It was different back then. I had this place, I was doing all the shopping, all the cooking. What do I need some chulo with grease under his nails to drink up the profit?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pissed off)}
+<DIAL>__{Thank you.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I don't mean Fernando.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Mami, the first time I brought him home, those were your exact words-- "some chulo with grease under his nails."}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I never said that.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{You made it pretty damn clear you thought he was nobody.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I felt that you could do better for yourself--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{What? Become a nun? You didn't want me going out with Anglos--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I never said that. It was just that boy--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{"That boy"--Mami, say his name for chrissakes!}
+<ACTION>__{The employees are staring. Mercedes won't look at her daughter as she steps out of the kitchen, banging into Enrique on his way back in--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{You people are stealing my money-- Entiende? Robandome?}
+<ACTION>__{Mercedes is gone. The young girl, pulling plastic gloves on, looks to Pilar.}
+<CHAR>__{GIRL} <CHAR_PAR>__{}
+<DIAL>__{Su madre? [Your mother?]}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Si.}
+<ACTION>__{The girl puts her hand on her heart in sympathy--}
+<CHAR>__{GIRL} <CHAR_PAR>__{}
+<DIAL>__{Lo siento [My condolences.]}
+<LOC>__{INT. COUNTRY AND WESTERN BAR -- NIGHT}
+<ACTION>__{A crowded room, C&W MUSIC plays on the box. Sam sits behind a bottle of beer as the bartender, CODY, in his early 50s philosophizes.}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{Now I'm just as liberal as the next guy--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{If the next guy's a redneck.}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{--but I gotta say I think there's something to this cold climate business. I mean, you go to the beach- what do you do? Drink a few beers, wait for a fish to flop up on the sand. Can't build no civilization that way. You got a hard winter coming, though, you got to plan ahead, and that gives your cerebral cortex a workout.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Good deal you were born down here, then.}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{You joke about it, Sam, but we are in a state of crisis. The lines of demarcation has gotten fuzzy--to run a sucessfull civilization you got to have lines of demarcation between right and wrong, between this one and that one--your Daddy understood that. He was like the whatchacallit-- the referee for this damn menudo we got down here. He understood how most people don't want their sugar and salt in the same jar.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You mixed drinks bad as you mix metaphors, you be out of a job.}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{Take that pair over in the corner--}
+<ACTION>__{Sam swivels to look where Cody points--}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{Place like this, twenty years ago, Buddy woulda been, on them two--}
+<ACTION>__{SAM'S POV -- CORNER BOOTH Cliff and Priscilla talk across a table--}
+<CHAR>__{CODY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{--warning. Not 'cause he had it in for the colored}
+<ACTION_ALT>__{SAM AND CODY}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{--but just as a kind of safety tip.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I bet he would.}
+<CHAR>__{CODY} <CHAR_PAR>__{}
+<DIAL>__{Old Sam stood for somethin', you know? The day that man died they broke the goddamn mold.}
+<ACTION>__{BOOTH -- CLIFF AND PRISCILLA Things are obviously more than professional between these two--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{So where does that put us?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Well--I don't see what's changed. No - PDA's, no necking on the obstacle course.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{Seriously.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Seriously, I think we should get married.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{We been through this before--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{We should just do it.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{And if I get a shot at a promotion somewhere--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{You could take it--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{It's up or out these days, Cliff. Say I get transferred to a different post--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{I'd quit the Army for you, if it came to that.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Grins)}
+<DIAL>__{Man's gonna retire in two years and he offer to quit. Big goddamn deal.}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Excuse me--}
+<ACTION>__{They look up to see Sam standing over them--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Sheriff--hi--this is Sergeant--this is Priscilla Worth.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Pleased to meet you.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Sheriff Deeds was in on our archeological find yesterday.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{It true they gonna build a shopping mall out there?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{If certain people have their way, it's going to be a new jail.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{Damn. Maybe we got in the wrong business. They closin' down military bases left and right, puttin' up jails like 7-11 stores.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Do either of you have any idea when they stopped using that site as a rifle range?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{They stopped training infantry there in the late '50s. It was just a playground for the jackrabbits till they gave it to the county last year.}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{You know who it was they dug up?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Not for sure yet. But I kind of wish they hadn't.}
+<LOC>__{EXT. CAFE -- NIGHT}
+<ACTION>__{Enrique steps out of the darkened cafe, followed by Mercedes, who locks up. Mercedes steps over to an expensive-looking car--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Es muy lindo, su coche--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{En ingles Enrique. This is the United States. We speak English.}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Is very beautiful, your car.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Good night, Enrique. She slides into the car--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Buenas noches, Senora Cruz. Enrique walks in the opposite direction--}
+<TRANS>__{FADE OUT:}
+<LOC>__{EXT. BIG O'S ROADHOUSE -- DAY -- CU DEL}
+<ACTION>__{Del, in uniform, approaches the front door of Big O's, not open for business yet. We TIGHTEN as he stops to read a handlettered sign next to it: "BLACK SEMINOLE EXHIBIT REAR ENTRANCE." He steps in--}
+<LOC>__{INT. ROADHOUSE}
+<ACTION>__{Late-50s R&B plays on the JUKEBOX. Otis stands behind the counter hooking the beer taps up. Del steps in and sits on a stool at the far end of the bar, tense, looking around the place. When Otis sees him, he stops dead. They lock eyes for a moment, then Otis turns to call.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Carolyn--knock that off for a minute.}
+<ACTION_ALT>__{CAROLYN}
+<ACTION>__{CAROLYN SYKES, an attractive woman maybe ten years younger than Otis, pulls the plug from the jukebox near where she's scrubbing bloodstains off the floor. She turns to look at the newcomer--}
+<ACTION_ALT>__{BAR}
+<ACTION>__{Del doesn't move to come closer--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Black Seminoles?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shrugs)}
+<DIAL>__{Hobby of mine. Got some artifacts, couple pieces one of your men out at the base made. Free admission.}
+<ACTION>__{Del nods toward where Carolyn is mopping--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{That where he was shot?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{That's where he fell.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You get much of that in here?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{It's a bar. People come together, drink, fall in love, fall out of love, air their grudges out--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Deal drugs in the bathroom--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{If I thought it would help I'd put up a sign telling them not to. Right under the one about the employees washing their hands.}
+<ACTION>__{Carolyn has come over by Otis, lugging the bucket and mop--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{This here's Carolyn. Honey, this is my son, Delmore.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you, Ma'am.}
+<ACTION>__{Carolyn nods, shoots a look to Otis--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{I'll be in back waiting for that delivery.}
+<ACTION>__{They wail till she is gone to start again--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{So.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{So tell me why I shouldn't make this place off-limits.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{This is an official visit, then--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I assume a lot of your business is from our people.}
+<ACTION>__{Otis pulls a tap back and it coughs before squirting beer.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Your boys out there cooped up together, need somewhere they can let the steam out. If they're Black, there's not but one place in this town they feel welcome. Been that way since before you were born.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{We have an enlisted man's club at the post.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Well, you're the Man out there now, aren't you? It's your call.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{That's right.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{I been hearing rumors about this new commander coming for a couple weeks now. Boys say they heard he's a real hard case. Spit-and-polish man. Full- bird colonel name of Payne, they say-- Bet you never figured you end up back here.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{The Army hands you a command, you go wherever it is.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Right.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I hear things, too.  People call you the Mayor of Darktown.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shrugs)}
+<DIAL>__{Over the years, this is the one place that's always been there. I loan a little money out, settle some arguments. Got a cot in the back- people get afraid to go home they can spend the night. There's not enough of us to run anything in this town- the white people are mostly out on the lake now and the Mexicans hire each other. There's the Holiness Church and there's Big O's place.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{And people make their choice--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{A lot of 'em choose both. There's not like a borderline between the good people and the bad people--you're not either on one side or the other--}
+<ACTION>__{Del looks away, not wanting to believe this--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Softly)}
+<DIAL>__{I gonna meet that family of yours?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Why would you want to do that?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Because I'm your father.}
+<ACTION>__{Del gives him a dark look and lets the statement hang between them. He gets up and heads for the door--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You'll get official notification when I make my decision. He is out the door--Otis pulls himself a beer as Carolyn steps back out--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{So that's him--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Yeah--that's him. Got two, three thousand people under him out there, you count the civilians.}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{That must be a laugh a minute.}
+<LOC>__{EXT. SAN JACINTO STREET -- DAY}
+<ACTION>__{Sam walks down the main street of town. A CROWD is gathering at the other end for the ceremony--}
+<CHAR>__{H.L. } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Sheriff!}
+<ACTION>__{We WIDEN as H.L. and Jorge catch up to him. H.L. slaps Sam on the back--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{Historic occasion, isn't it?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Seems like we have another one every week.}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{Jorge and his Chamber of Commerce boys got to keep things hummin'--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{We're building up tourism, Sam--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{People come here to catch bass and to get laid at the Boy's Town in Cuidad Leon--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{Sam--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You ought to put up a banner-- "Frontera, Texas: Gateway to Cut- Rate Pussy"--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{That kind of talk doesn't help, Sam.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Rather have that than the ten-foot- high catfish statue--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{I got Eddie Richter at the Sentinel to kill that story.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{The Perdido thing?}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{He agreed it wasn't exactly news--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Danny's gonna be out for blood the next time.}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{Which is why we need to talk to you about the new jail--just so we're all on the same page.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{We don't need a new jail.}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{That's a matter of interpretation--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{We're already renting cells to the Feds for their overflow--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{There was a mandate in the last election--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{It wouldn't happen to be your construction company gonna get the bid on building this thing, would it, H.L. And Jorge, you wouldn't be thinking about a couple dozen new jobs to dangle in front of the voters--}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{Dammit, Sam, the people are concerned about crime--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{We need a drug rehab program, we need a new elementary school--}
+<CHAR>__{JORGE} <CHAR_PAR>__{}
+<DIAL>__{There isn't money allocated for that. But a jail--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Look, I'm not gonna campaign against your deal here, but if anybody asks me, I got to tell them the truth. We-- don't--need--a new jail.}
+<CHAR>__{H.L.} <CHAR_PAR>__{}
+<DIAL>__{When we backed you--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{When you backed me you needed somebody named Deeds to bump the other fella out of office.  Hey, folks--}
+<ACTION>__{Sam and the others smile as they reach the CROWD of townspeople, mostly small business owners and retired people. Photographers from the paper and a local TV news crew wait by a veiled Statue roped off in a little traffic island. Mercedes, dressed to kill, stands waiting next to Hollis with a huge pair of scissors in her hand.}
+<ACTION_ALT>__{CU MERCEDES}
+<ACTION>__{Slowly working the blades of the scissors, she looks coldly at Sam--}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{He nods to her as the crowd opens a path for him.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Let's get this thing over with.}
+<LOC>__{INT. MIKEY'S WORKSHOP -- MORNING}
+<ACTION>__{We start on a two-foot-high statue of a cowboy made from old bullets and shell casings. We PAN past a few others, the poses lifted from Frederic Remington paintings, till we see Mikey, gluing together a work in progress, a Remington book propped open in front of him. Cliff sits at the worktable playing absently with the old bullets spilled out from MIKEY'S bag}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Never thought I'd see the day a buddy of mine was dating a woman with three up and three down on her shoulder.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{I think it's beyond what you'd call dating.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{You going to get married?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shrugs)}
+<DIAL>__{Maybe.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{You met her family? They gonna be cool about you being a white guy?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Priscilla says they think any woman over 30 who isn't married must be a lesbian. She figures they'll be so relieved I'm a man--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Always heartwarming to see a prejudice defeated by a deeper prejudice.  But marriage, man--I did two tours in Southeast Asia and I was married for five years--I couldn't tell you which experience was worse.}
+<ACTION>__{Cliff picks up a slug--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Hey, Mikey--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{I knew she was Japanese going into it, but she didn't tell me the ninja assassin part--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Mikey--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Her parents acted like I was gonna blow my nose on their curtains--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Mikey--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{If I stayed out past ten with the guys she'd go into her Madame Butterfly routine--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{Mikey look at this--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{What--it's a bullet. I'm lousy with bullets here.}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{It's a .45.}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{This is the stuff we picked up the other day, right? The rest of this is all .30 caliber--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{They were using M-1's, yeah--}
+<CHAR>__{CLIFF} <CHAR_PAR>__{}
+<DIAL>__{What's it doing on a rifle range?}
+<ACTION>__{MIKEY holds the slug in front of his face--}
+<CHAR>__{MIKEY} <CHAR_PAR>__{}
+<DIAL>__{We better call that Sheriff.}
+<LOC>__{EXT. SAN JACINTO STREET -- DAY}
+<ACTION>__{Hollis is finishing his oration, having put the crowd in a good mood.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Sometime in the early '70s a reporter from a national magazine was talking to the governor of our Lone Star state, and he asked him, "Governor, what's your ideal of what a real Texan ought to be?" Governor said, "That's easy, son- you just go down to Rio County and get a look at Sheriff Buddy Deeds."}
+<ACTION>__{Applause--}
+<ACTION_ALT>__{SAM}
+<ACTION>__{Watching the crowd-- SAM'S POV We PAN with his gaze across smiling faces, till he comes to Danny and a couple of Chicano friends, looking grim. We RACK FOCUS beyond them to see Pilar, watching the ceremony from a few yards back--}
+<CHAR>__{HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Thank you. We've got one more person to hear from--}
+<ACTION_ALT>__{HOLLIS}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{--and he's somebody who probably knew Buddy better than any of us, Sam--would you say a few words?}
+<ACTION_ALT>__{SAM}
+<ACTION>__{Not thrilled to be called on. He steps forward reluctantly to APPLAUSE--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You folks who remember my father knew him as Sheriff. But at home he was also judge, jury}
+<ACTION>__{He looks to Hollis--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{--and executioner.}
+<ACTION>__{LAUGHTER. Sam holds Hollis's eyes for a moment before continuing--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{This is a real honor you're doing him today, and if Buddy was around I'm sure his hat size would be gettin' bigger every minute.}
+<ACTION_ALT>__{PILAR}
+<ACTION>__{Watching--}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I used to come to this park to hide from him. Now that you're putting his name on it--}
+<ACTION_ALT>__{SAM}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I'll have to find someplace new to duck out.}
+<ACTION>__{More LAUGHTER--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I do appreciate it, and wherever he is, Buddy's puttin' the beer on ice for the bunch of you. Thank you.}
+<ACTION>__{APPLAUSE-- Sam steps back and Mercedes steps forward with her scissors without looking at him--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{And now my fellow Council member and one of Frontera's most respected businesswomen, Mrs. Mercedes Cruz, will do the honors for us.}
+<ACTION_ALT>__{MERCEDES}
+<ACTION>__{She freezes, smiling, till the still photographers have gotten their shots, then snips the cord to a pulley system that lets the cloth drop--}
+<ACTION_ALT>__{STATUE}
+<ACTION>__{The cloth drops to reveal a bas-relief in brass set in a block of smooth limestone.  A decent likeness of Buddy in uniform, his hand on the shoulder of a small Chicano-looking boy who stands beside him, eyes raised worshipfully. APPLAUSE from the gathering--}
+<ACTION_ALT>__{SAM}
+<ACTION>__{Watching, a bit removed, as Mercedes shakes hands with Jorge and H.L. and Hollis for the cameras. He overhears a pair of BYSTANDERS who are checking out the statue--}
+<CHAR>__{BYSTANDER 1 } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{It does look like old Buddy.}
+<CHAR>__{BYSTANDER 2 } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Runnin that kid in for loiterin'--}
+<ACTION>__{The bystanders LAUGH--Sam steps away, intercepting Mercedes as she steps away--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Nice to see you, Mrs. Cruz.}
+<ACTION>__{Mercedes just looks at him, keeps going. His gaze brings him to Pilar, standing on the sidewalk, watching.}
+<ACTION_ALT>__{SAM}
+<ACTION>__{Steps over from the dispersing crowd--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Field trip?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Lunch hour. My next class isn't till nine-thirty.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Want to take a walk?}
+<LOC>__{EXT. RIVERSIDE -- DAY}
+<ACTION>__{Sam and PILAR walk together alongside the Rio--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Your mother still doesn't like me.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I can't name anybody she does like these days.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I see she built a place up here by the river.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{A real palace. She rattles around alone in that thing--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{She's done well for herself--on her own and all--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{So she tells me three times a week.}
+<ACTION>__{She looks at him--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I thought you got through that pretty well.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{They cooked the whole thing up without asking me.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{People liked him.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Most people did, yeah.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I remember him watching me once. When I was little--before you and I--}
+<ACTION>__{She shrugs.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I was on the playground with all the other kids, but I thought he was only looking at me. I was afraid he was going to arrest me--he had those eyes, you know--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Weird what you remember.}
+<ACTION>__{They walk in silence a moment--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Your boy, there--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Amado.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Nice-looking kid.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{He hates me.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{With Paloma, it's more like she pities and tolerates me- totally age- appropriate. But Amado--he's--he's never been book-smart. Had a hard time learning to read. Me being a teacher and caring about those things is like an embarrassment--like a betrayal.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Fernando did okay, and he dropped out--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Fernando wasn't pissed off at everybody. He just wanted to fix their cars.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{It might just be the age. I spent my first fifteen years trying to be just like Buddy and the next fifteen trying to give him a heart attack.}
+<ACTION>__{She looks at him--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{So why did you come back here, Sam?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Got divorced, I wasn't gonna work for my father-in-law anymore. The fellas down here said they'd back me--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{You don't want to be Sheriff.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I got to admit it's not what I thought it'd be. Back When Buddy had it-- hell, I'm just a jailer. Run a 60- room hotel with bars on the windows.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{It can happen so sudden, can't it? Being left out on your own.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You've got your mother, your kids--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{They've got me. Different thing.}
+<ACTION>__{They stop at a spot where you can climb down the bank--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Remember this?}
+<ACTION>__{Pilar looks at the spot. She isn't ready to deal with whatever memory it brings back--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I should get back.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Pilar--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Looks real bad if the teacher's late for class. It's really nice to talk with you, Sam.}
+<ACTION>__{She waves and walks away, feeling awkward. Sam watches for a minute, then turns and steps down to the bank, He looks at the water.}
+<ACTION_ALT>__{RIVER SURFACE}
+<ACTION>__{A little piece of tree bark is tossed onto the water and drifts away with the current. We TILT UP to see YOUNG PILAR tossing bark into the river as YOUNG SAM sits on the bank beside her. They are 14 and 15 years old--It is 1972--}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{You going to tell her?}
+<CHAR>__{YOUNG PILAR} <CHAR_PAR>__{}
+<DIAL>__{You going to tell him?}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{He doesn't need to know all my business.}
+<CHAR>__{YOUNG PILAR} <CHAR_PAR>__{}
+<DIAL>__{He's gonna find out.}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{So? What's he gonna do, arrest us?}
+<ACTION>__{Young Pilar frowns, tosses more bark--}
+<CHAR>__{YOUNG PILAR} <CHAR_PAR>__{}
+<DIAL>__{It's supposed to be some big sin, even if you love each other.}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{You believe that?}
+<ACTION_ALT>__{CU YOUNG PILAR}
+<ACTION>__{She turns to look at him--}
+<CHAR>__{YOUNG PILAR} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{We PAN with her gaze to see Sam, PRESENT DAY, sitting on the bank, lost in thought--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Me neither.}
+<LOC>__{EXT. ARMY POST -- DAY}
+<ACTION>__{Athena walking between buildings, looking a bit out of it. Sergeant Worth cuts into her--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{Private Johnson!}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Sergeant?}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{Report to Dr. Innis at the clinic.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I'm feeling okay--}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{I'm very happy to hear that, Private. Now you go put some pee-pee in a cup for Dr. Innis and I'll be feeling okay, too.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Reacts)}
+<DIAL>__{You're testing me?}
+<CHAR>__{PRISCILLA} <CHAR_PAR>__{}
+<DIAL>__{You and one hundred nineteen other fortunate individuals. Put it in gear.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Yes, Sergeant.}
+<ACTION>__{Sergeant Worth watches Athena go, suspicious--}
+<LOC>__{INT. SHERIFF'S OFFICE -- AFTERNOON}
+<ACTION>__{Ray Hernandez and another DEPUTY guide Shadow back in from the courthouse in handcuffs--}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Excellent performance, my friend. The judge was very impressed.}
+<CHAR>__{SHADOW} <CHAR_PAR>__{}
+<DIAL>__{You don't need to cuff me.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{You been talking so much trash today, you made us think you're a dangerous criminal. Be a good boy, now--}
+<ACTION>__{They guide him past Sam's desk--}
+<CHAR>__{SHADOW} <CHAR_PAR>__{}
+<DIAL>__{You're the one who's a good boy. Man say "fetch" and you fetch--}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Just doing my job.}
+<CHAR>__{SHADOW} <CHAR_PAR>__{}
+<DIAL>__{White man just using you to keep the Black man down.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{This isn't Houston, my friend. We pretty much running things now. Our good day has come.}
+<CHAR>__{SHADOW} <CHAR_PAR>__{}
+<DIAL>__{You suckers haven't had a good day since the Alamo.}
+<ACTION>__{Ray smiles, pushes him out--}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Andale, amigo,}
+<ACTION>__{We HOLD on Sam at his desk, TIGHTENING as he holds the .45 slug from the sergeants in front of his eyes--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Lupe? Get me the rangers up in Austin--}
+<LOC>__{INT. MERCEDES' KITCHEN -- NIGHT -- CU GLASS}
+<ACTION>__{We hear old MEXICAN MUSIC. Ice cubes plunk into a glass. WIDER, MERCEDES Mercedes, exhausted from a day at the cafe, pours herself a Scotch and soda--}
+<LOC>__{EXT. BACK PATIO -- NIGHT}
+<ACTION>__{The back LIGHT is flicked on and Mercedes steps out with her drink in hand, the MUSIC audible from inside. She sinks into a recliner. We TIGHTEN as she closes her eyes. Something RUSTLES out In the dark. Mercedes opens her eyes. There is WHISPERING. Mercedes sits up and suddenly two MEN run past the edge of the patio toward the front of the house. Mercedes sighs--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Otra vez los mojados--[Wetbacks again--]}
+<ACTION>__{Mercedes searches to find a portable phone on the patio table, punches a number in--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Hello? Border Patrol?}
+<LOC>__{EXT. SAM'S HOUSE -- NIGHT}
+<ACTION>__{Sam, out of uniform, stands behind his little house chucking fallen pecans out into the dark, thinking, listening to the night sounds.}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Working something out in his head. He looks off into the dark and we PAN with his gaze--A MAN steps toward us, barely visible in the darkness. It is Charley Wade--We're in Sam's REVERIE, in 1957--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Who is that? Come out here where I can see you!}
+<ACTION>__{BLAM! A GUNSHOT, and Wade falls to his knees--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You sonofabitch--}
+<ACTION>__{Wade falls on his face. A FLASHLIGHT BEAM flicks ON and plays over his body. We PAN back along the be to see Buddy, holstering his Pistol. He hears something, swings the flashlight up.}
+<ACTION_ALT>__{SAM}
+<ACTION>__{We are back in 1995. Sam is blasted in the face with a FLASHLIGHT BEAM--}
+<CHAR>__{PATROLMAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Hold it right there! Brazos  arriba! Sam, squinting toward the light to see who it is, raises his hands over his head--}
+<CHAR>__{ZACK } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Get that thing off 'im! He's one of ours--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Zack?}
+<ACTION>__{The FLASHLIGHT BEAM PANS AWAY and ZACK POLLARD, a Border Patrol agent, steps out of the dark to Sam--}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{Hey Sam. Sorry 'bout that.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{What's up?}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{We had about a dozen wets come over just upriver. They ran into one of our posts--it was like a breakshot on a pool table, illegals runnin' every which way.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I haven't seen anybody come by.}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{We'll get 'em--}
+<DIAL_PAR>__{(Looks around)}
+<DIAL>__{So you livin' out here now?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah. It's quiet--}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{I heard about that deal for your father--You must be real proud.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{The stories people tell, he was a real colorful fella--}
+<CHAR>__{PATROLMAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Zack! We got one!}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{Well--back on the clock. You see any of our neighbors from the south, let 'em know I'm lookin' for 'em.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{'Night--}
+<ACTION>__{Zack steps away.  Sam shakes the pecans still in his band, goes back to chucking them--}
+<LOC>__{EXT. COURTYARD -- DANCERS}
+<ACTION>__{Older CHICANO COUPLES dance to Mexican Music playing from speakers set up in the apartment complex courtyard.  We TILT UP to see Enrique watching from his window--}
+<LOC>__{INT. APARTMENT -- NIGHT}
+<ACTION>__{MUSIC still blasting.  Enrique steps away from the window, and sits on the bed of his drab furnished apartment. He goes back to tying knots in a length of clothesline splicing it to another. On the bed beside him are new flashlights and the batteries, still in their packaging. He begins to coil the rope--it is hundreds of feet long.}
+<LOC>__{EXT. FRONT PORCH, PILAR'S HOUSE -- NIGHT}
+<ACTION>__{Pilar sits on her front Porch, listening to the MUSIC in the distance. A woman singing a MEXICAN LOVE BALLAD. After a while we hear Paloma open the screen door behind her--}
+<CHAR>__{PALOMA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Mom?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{PALOMA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You gonna stay out here?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{For a while.}
+<ACTION>__{A silence. They listen to the RECORD--}
+<CHAR>__{PALOMA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{What's she singing about?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{What do you think?}
+<TRANS>__{FADE OUT:}
+<LOC>__{INT. SHERIFF'S OFFICE -- EARLY MORNING}
+<ACTION>__{Sam has been up since dawn, searching through piles of old department records. Papers cover his desk and the chairs he's dragged over next to it. He reads out loud himself from a report in front of him--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{First bullet entered beneath the left eye, severing the optical nerve and exiting from top rear of skull causing tissue damage}
+<ACTION>__{DOCUMENTS -- VARIOUS SHOTS As Sam reads, we see quick pops of various records-- Certificates of death. An old Sheriff's Department payroll. An autopsy report. Eviction notices.}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{--and severe cerebral hemorrhaging. Second bullet entered left cheek driving fragment of upper and lower molars into base of skull. Third bullet--}
+<ACTION>__{Real estate transfers. A map of the Proposed Lake Pescadero. Another autopsy report. A FAX COPY of the forensics dental report on Charley Wade. Another autopsy report--}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Intent as he pores over the paperwork--}
+<ACTION_ALT>__{LEGAL PAD}
+<ACTION>__{We TILT DOWN to read various notes Sam has written--Reynaldo Garcia killed by Shf Wade--3/49 Hollis Kinney hired by Shf Dep.--9/51 Lucas Johnson k. by Shf Wade--7/53 Horace Gaines k. by Shf Wade--1/54 Santiago Huerta k. by Shf Wade--4/54 Rifle range closed--9/56 Eladio Cruz k. by Shf Wade--12/56 Buddy Deeds hired by Shf Dep.--2/57 Shf Wade disappears--}
+<LOC>__{3/57 $10,000 cnty funds missing Buddy Deeds new Shf}
+<ACTION>__{We come to Sam's hand, writing, when it clears we can read the last entry-- Mercedes Cruz hired as cook, Rio Co. jail--4/57 ?????}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Trying to put it all together. PETE ZAYAS, a skinny, older man in trustee's coveralls, wanders in, emptying the trash baskets in the front office--}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Morning, Sheriff.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Hey, Pete. How's it going?}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Time marches on.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{How much you got left?}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Three months.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You stop growing that loco weed at your place, you'd see a lot more daylight.}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{It was for personal consumption.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You're going to smoke an acre and a half of marijuana?}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{I got a bad stomach. It helps me digest.}
+<ACTION>__{Pete dumps out the basket by Sam--}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Your father never bothered me about it. Leastways not till the drug people got on his back in the late '60s.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I thought he busted you a couple times.}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Different charge. I had a still. Made my own mescal.}
+<ACTION>__{Sam looks up at him.}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{That's how I ruined my stomach.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{I'm surprised he bothered with it.}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{He was afraid I was going to poison somebody. Your father tried to do good for people--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So I've heard--}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{And your mother was a saint. That summer I built the patio at your house? She made me lunch every day.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Well, you were working there--}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{It could have just been a box lunch from the jail.}
+<ACTION>__{Sam looks up again, troubled.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You built our patio while you  were on the county?}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Out in the fresh air, nice gringo lady making you pies--who's gonna sit back in a little jail cell all day? Sheriff Buddy, man. Como el no hay dos. And after that cabron Charley Wade--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I've heard Wade was a bit tough on the Mexicans--}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{He murdered Eladio Cruz. That tough enough for you?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Murdered him?}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL>__{Chucho Montoya saw it with his own eyes. Shot him in cold blood.}
+<LOC>__{EXT. SAN JACINTO STREET -- MORNING}
+<ACTION>__{Ray Hernandez, heading in to work, comes upon Sam getting into his car--}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{You're out early.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Haven't seen much of you at the jail lately.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I been working on a few things.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Uh-huh.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I'm going over to the other side.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Concerned)}
+<DIAL>__{The Republicans?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No--to Mexico. I've got to talk to somebody.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{They got telephones.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Gotta be in person.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<ACTION>__{An awkward silence. Sam sits into the driver's seal and Ray leans down to talk--}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Sam? I--the Committee--you know Jorge and H.L. and all--they asked me--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{They want you to stand for Sheriff next election.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You'd do a good job.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{How 'bout you?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Don't know if I'll still want it.}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{I didn't want to be going around your back.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I appreciate you telling me.}
+<ACTION>__{Sam looks at his Chief Deputy--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You think we need a new jail?}
+<CHAR>__{RAY} <CHAR_PAR>__{}
+<DIAL>__{Well, it's a complicated issue--}
+<ACTION>__{Sam smiles, turns the engine on--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, Ray, you'd be a hell of a Sheriff.}
+<LOC>__{EXT. SCHOOL -- MORNING}
+<ACTION>__{Pilar sits with Amado on the football field bleachers before school starts--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I'm only going to have you for two more years. If you decide not to go on to college--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I can't take any more school.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{--you're going to be on your own.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{So?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{So I'm worried about you. I don't want you to end up in jail like your friends.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{They're not going to jail.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Don't try to con me, Amado. You knew how they got all those things.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Just some rich Anglo out on the lake. Don't even live here all year.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{That makes it okay?}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{They stole our land--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Save your breath. That line doesn't cut it with me.}
+<ACTION>__{A silence. Amado sulks.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{How do you think you're going to make a living?}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I can fix cars.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{You can fix old cars. Mr. Washburn told me that the cars they're making now are all computerized--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{You think I can't learn that?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I think you can learn whatever you want to. I just don't see you doing it. If you want to settle for--}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{I'm not settling for anything. I like cars, it's just not a move up the ladder to you, so you think it's a waste.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{That isn't true.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Oh, come on--you and Grandma think anybody who works with their hands is a peasant. When Dad--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{If you grew up to he anywhere near as good a man as your father was, I would be happy! I would be thrilled.}
+<ACTION>__{They look, at each other for a long moment.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{It's my life. If I want to fuck it up, that's my business.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nods)}
+<DIAL>__{I said pretty much the same thing to my mother when I was your age.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{And what did she do?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Two years at hard labor, Our Lady of Perpetual Help.}
+<CHAR>__{AMADO} <CHAR_PAR>__{}
+<DIAL>__{Catholic school, nasty.}
+<ACTION>__{Pilar is nearly in tears.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Honey, I think you're smart and you're good and I love you. So don't act like an idiot, all right?}
+<LOC>__{EXT. BORDER CROSSING -- DAY}
+<ACTION>__{We see Sam's car roll through the "express lane" as other cars in both directions stop by the inspection booths. Sam drives across the bridge over the Rio--}
+<LOC>__{EXT. STREETS -- CIUDAD LEON -- VARIOUS SHOTS}
+<ACTION>__{Sam drives slowly through the sprawling, more populous town on the other side.  Lots of the streets are unpaved.  We PAN with the car till we HOLD on ANSELMA, a country girl of 15, aimlessly walking the streets--}
+<LOC>__{EXT. LLANTERIA (TIRE REPAIR SHOP) -- DAY}
+<ACTION>__{We watch a KID about Amado's age pulling a tire off its rim to put a patch on it--}
+<CHAR>__{CHUCHO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Over here we don't throw everything away like you gringos do.}
+<ACTION_ALT>__{CHUCHO AND SAM}
+<ACTION>__{CHUCHO MONTOYA, in his mid-50s, stands by Sam drinking a Coke as they watch the kid work.}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Recycling, right? We invented that. The government doesn't have to tell people to do it.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You own this place?}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{This place, the one across the street, four other ones around Ciudad Leon-- soy el Rey de las Llantas. King of the Tires. Lots of your people rollin' back over that bridge on my rubber.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nods)}
+<DIAL>__{You lived in the States for a while?}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Fifteen years in El Paso.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Made some money, came back here--}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Something like that.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You ever know a fella named Eladio Cruz?}
+<ACTION>__{CHUCHO smiles, draws a line in the dirt with his heel--}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{You the sheriff of Rio County, right? Un jefe muy respetado. Step over this line.}
+<ACTION>__{Sam obliges--}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Ay, que milagro! You're not the Sheriff of nothing anymore- just some tejano with a lot of questions I don't have to answer.}
+<ACTION>__{Sam smiles, plays with the line with his toe--}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Bird flying south-you think he sees that line? Rattlesnake, javelina-- whatever you got--halfway across that line they don't start thinking different. So why should a man?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Your government always been pretty happy to have that line. The question's just been where to draw it}
+<ACTION_ALT>__{CU CHUCHO}
+<CHAR>__{CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{My government can go fuck itself, and so can yours. I'm talking about people here--men. Mi amigo Eladio Cruz is giving some friends of his a lift in his camion one day--}
+<ACTION>__{We PAN from CHUCHO to the FLAT TIRE on a battered old pickup truck--}
+<CHAR>__{CHUCHO } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{--but because he's on one side of this invisible line and not the other, they got to hide in the back like criminals--}
+<ACTION>__{Eladio CRUZ, young and good-looking, squats into the shot to examine the tire, jack in hand. It Is 1956--}
+<CHAR>__{CHUCHO } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{And because over there he's just another Mex bracero, any man with a badge is his jefe--}
+<ACTION>__{CONJUNTO MUSIC comes from the truck RADIO. YOUNG CHUCHO steps past Eladio--}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Donde vas, Chucho, Tienes que quedar escondido! [Shit, CHUCHO you got to stay hidden!]}
+<CHAR>__{YOUNG CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Voy a romper las rinones si no hago pipi--[I'm gonna bust my kidneys if I don't pee--]}
+<ACTION>__{We TRACK back with Young CHUCHO to see we are at the side of a dirt road on the scrubby flatland near the border. Eladio's battered pickup truck has wood-slat sides and a canvas top. Eladio begins to undo the nuts on the flat tire as Young CHUCHO climbs down into a dry creek bed to relieve himself--}
+<CHAR>__{YOUNG CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Los demas son tan espantados que prefieran mojar sus pantalones. [The other guys are so scared they'd rather wet their pants.]}
+<ACTION>__{CHUCHO tightens as he sees something, ducks down--}
+<CHAR>__{YOUNG CHUCHO} <CHAR_PAR>__{}
+<DIAL>__{Mira, Eladio [Look!]}
+<ACTION>__{We PAN to see the Sheriff's car approaching in a cloud of DUST--}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Calling from where}
+<DIAL>__{he lies changing the}
+<DIAL_PAR>__{tire)}
+<DIAL>__{Muchachos! Escondases! [Boys! Hide yourselves!]}
+<LOC>__{INT. REAR OF TRUCK}
+<ACTION>__{Eight illegal WORKERS hear this and lie down, pulling a canvas tarp over themselves. We hear the CAR STOP behind them--}
+<LOC>__{EXT. ARROYO -- CU CHUCHO}
+<ACTION>__{He makes the sign of the cross as he presses his back against the dirt of the arroyo--}
+<ACTION_ALT>__{ROAD}
+<ACTION>__{Sheriff Wade and Deputy Hollis get out of their car and start toward Eladio--}
+<ACTION_ALT>__{ELADIO}
+<ACTION>__{He stands, takes a deep breath--Wade steps up to him with his hard-eyed smile--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Hola, amgio. Problemas de llanta? [Hey, friend. Tire problems?]}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{No hay de que. Tengo otra. [No problem, I've got another.]}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What's in the back?}
+<LOC>__{EXT. TRUCK}
+<ACTION>__{Young Hollis strolls around the truck as if he's considering buying it.  He reaches in and flicks the RADIO OFF--}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Not much, jefe. Some watermelons.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I heard somebody been haulin' wets on this road.}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{I haven't seen anybody doing that.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{This same person been bragging all over the county how he don't have to cut that big gringo Sheriff in on it-- he can run his own operation 'thout any help. Como se llama, amigo?}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Eladio Cruz.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You know this road got a bad reputation, Eladio--}
+<ACTION>__{ARROYO -- CHUCHO Young CHUCHO pecks over the edge to see what's happening.}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Reputation?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Bandidos, Injuns--}
+<ACTION>__{CLOSER -- MEN Hollis wanders over to stand by Wade--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{There's many an unfortunate soul been ambushed out on this stretch. Hope you're carrying some protection.}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Protection?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You carryin' a firearm, son?  Don't lie to me now.}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Si--tengo escopeto--just a shotgun--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Just a shotgun, huh? Better let me take a look at that.}
+<ACTION>__{ELADIO opens the truck door and digs under the seat. Wade winks to Hollis, then turns and BLAM! shoots ELADIO through the head. Hollis jumps back startled and horrified--}
+<CHAR>__{YOUNG HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Oh no--oh Jesus--oh my Lord--}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Little greaser sonofabitch been running a goddarn bus service. Think he can make a fool out of Charley Wade! Get them wets outta the back, Hollis, see what we've got--}
+<ACTION_ALT>__{CU CHUCHO}
+<ACTION>__{Squatting in a ball to make himself as small as possible, eyes covered with his hands.}
+<CHAR>__{YOUNG HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You killed him--}
+<CHAR>__{WADE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You got a talent for statin' the obvious, son Muchachos! Venga afuera!Brazos arribas! [Come on out! Hands up!]}
+<ACTION>__{Young CHUCHO hears FOOTSTEPS approaching. We PAN as he looks-- a man's BOOTS appear at the top of the arroyo. We TILT UP to see a Sheriff, BACKLIT, then CRANE to see it is Sam, back in the PRESENT looking over the site, troubled. His car sits on the empty road behind him. He frowns, turns to go--}
+<LOC>__{EXT. PARK -- DAY -- PLAQUE}
+<ACTION>__{Somebody has spray-painted "PERDIDO!" over the plaque of Buddy and the little boy--}
+<CHAR>__{HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Hooligans--}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{Hollis and a couple of MEN from the Public Work Department look at the damage.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{It happens again, we build a fence around it.}
+<LOC>__{INT. CAFE -- DAY}
+<ACTION>__{Enrique steels himself, trying to cover his nerves. We CROSS with him to a booth.}
+<CHAR>__{ZACK} <CHAR_PAR>__{}
+<DIAL>__{Podemos ganar muchas batallas pero la guerra ya es perdido--[We can win a lot of battles but the war's already been lost--]}
+<ACTION>__{Zack and another BORDER PATROLMAN look up at him--}
+<ACTION_ALT>__{CU ENRIQUE}
+<ACTION>__{Eyes glued to his notepad--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{You wan' something to drink?}
+<LOC>__{EXT. ROADSIDE STAND -- DAY -- CU CATTLE SKULL}
+<ACTION>__{A Georgia O'Keefe-looking cattle skull sits on a pedestal against the Western sky--}
+<CHAR>__{WESLEY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{The longhorns go for ten times the price--}
+<ACTION>__{We WIDEN as the skull is lifted by WESLEY BIRDSONG, a Native American man in his 70s who wears extremely thick glasses. Sam tags along as the old man rearranges the display of Texas curios laid out in front of his trailer. Empty scrubland surrounds them.}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{--but longhorns are hard to come by these days.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You sell much out here?}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{How am I gonna sell things if nobody comes by? This stretch of road runs between Nowheres and Nothin' Much.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Hell of a spot to put a business.}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{But you don't see much competition, do you?}
+<ACTION>__{He winks at Sam, picks up a wooden radio carved to resemble the Alamo--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{These things used to sell like hotcakes. Now, if it can't play those discs, they won't look at it.}
+<ACTION>__{He puts the radio on, looks out at the emptiness around--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{I like it here. Once I tried going onto that reservation to live. Couldn't take the politics. Damn Indian'll drive you crazy with that, Now your father--this wasn't what he had in mind at all. He come out of Korea, he had this Chevy with too much engine in it. He'd come roarin' up and down this road all hours of the day and night,looking for somebody to race.}
+<ACTION>__{He lifts a jar with a leathery brown thing in it--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{Buffalo chips. Fella in Santa Fe told me he sells these as fast as the buffalo can squeeze 'em out.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{So when did Buddy leave?}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{For Frontera? Hell, I can't remember dates no more. I do recall it was after an affair of the heart had gone sour on him. He almost took some poor fella's head off at the Legion in Arroyo Grande, and figured it was time to move on.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You think he killed anybody in Korea?}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{They don't hand those medals out for hidin'in your foxhole. Would you buy this?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{Me neither.}
+<ACTION>__{He searches for something among the curios--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{If he hadn't found that Deputy job, I believe Buddy might've gone down the other path, got into some serious trouble. Settled him right down. That and your mother. 'Course he had that other one later.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Another woman?}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{Your mother wasn't one to get chased off her patch. Half the damn county knew and nobody thought the worse of her for seein' it through.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You know who it was?}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{The other one? Hell, at my age, every time you learn a new name you got to forget an old one. Your head's all crowded up--here it is--}
+<ACTION>__{Wesley stretches out a four-foot rattlesnake skin, rattles still attached--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{This big fella was sleepin' in a crate at Cisco's junkyard right when I looked to see what was in it. Jumped up at my face--scared me so bad I killed him without thinkin'.}
+<ACTION>__{He shakes the rattles at Sam--}
+<CHAR>__{WESLEY} <CHAR_PAR>__{}
+<DIAL>__{Gotta be careful where you're pokin'-- who knows what you'll find.}
+<LOC>__{INT. SCHOOL HALLWAY -- DAY}
+<ACTION>__{PILAR talks with Molly as they near the administration office--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I don't think you can take it personally--}
+<CHAR>__{MOLLY} <CHAR_PAR>__{}
+<DIAL>__{I'd like to see them spend a day pulling 14-year-olds off of each other--I should get combat pay--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I have new respect for some of my kids, meeting the parents they've been dealt--}
+<ACTION>__{Molly keeps going as Pilar ducks into the office--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{See you, Molly.}
+<LOC>__{INT. OFFICE}
+<ACTION>__{PILAR crosses past the principal's secretary, MARISOL--}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{Steve called for you.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Steve?}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{Steve. Board of Education Steve who likes you? He goes for us hot-blooded Mexican girls, I can tell.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Spanish, please. My mother would have a heart attack.}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{Your mother's family is Spanish?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Sure, they go back to Cortez. When he rode by, they were squatting in a hut cooking hamsters for dinner.}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{You got to be interested in somebody. All you do is work.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{All my mother does is work. That's how you get to be Spanish.}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{How 'bout the Sheriff?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{The Sheriff.}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{The old-high-school-heartthrob Sheriff. I thought you were crazy about each other. He's available, you're available--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I'm unmarried. I'm not available.}
+<CHAR>__{MARISOL} <CHAR_PAR>__{}
+<DIAL>__{You told me one time it was true love.}
+<ACTION>__{PILAR takes the pile of mimeos and mail from her slot and turns to go--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Mutters)}
+<DIAL>__{Nobody stays in love for twenty-three years.}
+<LOC>__{EXT. DRIVE-IN MOVIE -- NIGHT}
+<ACTION>__{It is 1972. An early-'70s cheezy action picture (Filipino women-in-chains or biker flick is playing. We TILT DOWN to a man's BOOTS crunching across the gravel of the parking area. Now and then, the man turns a FLASHLIGHT BEAM on a license plate. The cars are all pre-'72, lots of pickups, and the patrons are almost all TEENAGERS. Some have turned their pickups around to sit on the tailgate and watch, while others have set lawn furniture out to sit on. We TILT UP slightly to see the glint of a Rio County Sheriff's badge pinned on the man's shirt. He meets a DEPUTY coming in the other direction. Both train their FLASHLIGHTS on the license of the car we see in the b.g. between them.  We TILT and RACK to see that nobody is visible through the window--}
+<CHAR>__{BUDDY } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Let's go.}
+<ACTION>__{We FOLLOW Buddy up to the driver's side of the car as the Deputy goes to the passenger side. We PAN with Buddy's hand down to the door handle--he grabs it, flings it open--the overhead LIGHT flicks ON and there lie YOUNG SAM and PILAR, teenagers, half their clothes off and just about to close the deal. PILAR SCREAMS and the Deputy throws the door open by their heads--}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{Goddammit!}
+<ACTION>__{Buddy grabs Sam's ankles and yanks him out of the car onto the ground as the Deputy awkwardly pulls PILAR, out the other side--}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{What the hell are you doing? You fucking asshole!}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{How old is that girl? Goddammit, where's your goddam sense?}
+<CHAR>__{YOUNG PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Let me go!  Pendejo!}
+<CHAR>__{YOUNG HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Come on now, Missy, get your clothes in order--}
+<ACTION>__{Sam is trying to kick and punch at his father, pausing in between to pull his pants up. People are BOOING and HONKING their HORNS all around--}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{You got no fuckin' right! You stay out of my fuckin' life!}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{Gimme the keys--gimme the goddamn car keys, son--}
+<CHAR>__{YOUNG HOLLIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{What am I s'posed to do with her, Buddy?}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{You drive her home and tell her mother where we found her--}
+<CHAR>__{YOUNG PILAR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Sam!}
+<ACTION>__{The kids are dragged forward into the HEADLIGHTS that are being turned on to see what the ruckus is. Both are crying, struggling--}
+<CHAR>__{YOUNG SAM} <CHAR_PAR>__{}
+<DIAL>__{You leave her the fuck alone!}
+<CHAR>__{BUDDY} <CHAR_PAR>__{}
+<DIAL>__{You just shut that filthy mouth, son. I'll deal with you when we get home--}
+<CHAR>__{YOUNG PILAR} <CHAR_PAR>__{}
+<DIAL>__{Please, don't tell my mother! She's gonna kill me!}
+<ACTION>__{They step closer into the glaring HEADLIGHTS which WHITE OUT the scene, then FADE.}
+<LOC>__{EXT. RUINED DRIVE-IN -- DUSK}
+<ACTION>__{It is DUSK, PRESENT DAY. Our eyes readjust to see Sam, standing by his car in the lot of the long-abandoned drive- in. The ruined screen rises in the b.g.}
+<ACTION_ALT>__{CU SAM}
+<ACTION>__{Remembering. MUSIC BEGINS as he gets back into the car, pulls away. MARQUEE -- DUSK MUSIC CONTINUES as the car cruises out past the old marquee, a few letters still jumbled on it, several bullet holes around them.}
+<LOC>__{INT. CAR}
+<ACTION>__{MUSIC CONTINUES as Sam drives, thinking--}
+<LOC>__{EXT. ROADS -- VARIOUS SHOTS -- DUSK/NIGHT}
+<ACTION>__{MUSIC CONTINUES as the car crosses the scrubland back toward town. DUSK turns to NIGHT--}
+<LOC>__{EXT. PILAR'S HOUSE -- NIGHT}
+<ACTION>__{MUSIC CONTINUES as Sam cruises past Pilar's house. The car is not in the driveway: Paloma hangs out with a couple FRIENDS under the porch light, laughing--}
+<LOC>__{EXT. HIGH SCHOOL -- NIGHT}
+<ACTION>__{MUSIC CONTINUES as Sam's car pulls into the high school lot. He looks up toward the school--}
+<LOC>__{EXT. WINDOW, PILAR, -- SAM'S POV}
+<ACTION>__{MUSIC CONTINUES. We can see PILAR, through the lighted window of her classroom, preparing something on the blackboard--}
+<LOC>__{INT. CAR}
+<ACTION>__{MUSIC ENDS as Sam leans back to wait--}
+<LOC>__{EXT. PARKING LOT}
+<ACTION>__{PILAR digs in her bag for her car keys as she makes her way across the lot. She sees something, slows, reacting, then brings us to Sam in his car. He has parked head-to-foot next to hers. They look at each other for a long moment}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Softly)}
+<DIAL>__{Follow me.}
+<LOC>__{EXT. MAIN STREET -- NIGHT}
+<ACTION>__{Nothing stirring. Pilar's car appears, closely followed by Sam's. The cafe has closed for the night.}
+<LOC>__{INT. CAFE -- NIGHT}
+<ACTION>__{Sam and Pilar sit on chairs next to each other, facing the window, talking softly. The STREETLIGHT shining through the letters in the front window makes patterns on their faces}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{We thought we were something, didn't we?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I look at my kids in school--tenth, eleventh graders. That's who we were. Children.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I mean what did we know about anything?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Nothing.}
+<ACTION>__{Pilar looks at him--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{When Nando died--it was so sudden--I was kind of in shock for awhile. Then I woke up and there was the whole rest of my life and I didn't have any idea what to do with it.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You know the other day, you asked why I came back?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I came back 'cause you were here.}
+<ACTION>__{PILAR nods. She gets up and we FOLLOW her across the dark room to the jukebox. She looks at the selections--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{My mother hasn't changed the songs since I was 10.}
+<ACTION>__{She puts in a quarter, punches some numbers. A Mexican BALLAD comes on. She crosses back to Sam, holds her hand out. He stands to greet her. They slow-dance in the empty cafe--}
+<LOC>__{INT. SAM'S APARTMENT -- BEDROOM}
+<ACTION>__{Sam and Pilar finish making love. They lie beside each other, shaking a little--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Wow.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{How come it feels the same?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I don't know. It just feels good. Always did.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{So what are we gonna do about this?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{More, I hope.}
+<ACTION>__{PILAR smiles, looks around the room--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{How long have you lived here?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Two years.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{There's nothing on the walls. No pictures--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Don't have kids. Other pictures--I don't know--it's nothing I want to look back on.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Like your story is over.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I've felt that way, yeah.}
+<ACTION>__{Sbe puts her head on his cbest--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{It isn't. Not by a long shot. He holds her and they lie silently for a moment--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Pilar--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{What was your father's name?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Eladio. Eladio. Cruz.}
+<TRANS>__{FADE OUT:}
+<LOC>__{EXT. PILAR'S HOUSE -- MORNING}
+<ACTION>__{Paloma sits on the top step of the porch, reading teen magazines. PILAR steps out behind her, dressed casually, and squints at the day--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{She finally got in--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{It's Saturday.}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{You got in late last night.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I had uhm--school business.}
+<ACTION>__{Paloma gives her a look, then holds a fashion page up for her to see--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{Can I get this?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Nobody really wears that stuff, Paloma.}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{I could name five girls at school who have one just like it--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Enough with the clothes--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{Just 'cause you went to Catholic school and wore a uniform.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I only went for my last two years.}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{How come?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Oh, my mother wanted to keep me away from away from boys.}
+<ACTION>__{PILAR steps out into the sun--}
+<CHAR>__{PALOMA} <CHAR_PAR>__{}
+<DIAL>__{Did it work?}
+<LOC>__{INT. CAFE -- MORNING}
+<ACTION>__{Hollis is sitting alone in a booth, working on some heuvos rancheros.  Sam slides in across from him--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Morning, Hollis.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Sam! Quite a do the other day. It meant a lot to folks that you said something.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You thought any more about our murder?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{We have a murder?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Charley Wade.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{I wish I could tell you I remembered something new, but I can't.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I got an idea what happened.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Do you?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I think somewhere between Roderick Bledsoe's club and his house, Wade ran into Buddy Deeds. I think Buddy put a bullet in him, waited for him to die, threw him in the trunk of the Sheriff's car and drove him out by the Army post, I think he buried him under four feet of sand and never looked back.}
+<ACTION>__{Hollis sits back to look Sam in the eye--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{You lived in the man's house what-- seventeen, eighteen years? And you didn't get to know him any better than that?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I got to go see somebody in San Antonio today. Your memory gets any better, I'll be back tonight.}
+<ACTION>__{Sam stands and walks away. We HOLD on Hollis, his appetite gone--}
+<LOC>__{EXT. BIG O'S -- MORNING}
+<ACTION>__{Chet steps around to the side entrance--}
+<LOC>__{INT. BLACK SEMINOLE EXHIBIT -- DAY -- CU STATUE}
+<ACTION>__{We start on a statue of a BUFFALO SOLDIER made from spent bullets and shell casings, then PAN to another, then WIDEN to see Chet as he pokes his head in, the BELL of the door ringing.  He steps in cautiously, looking around the room. On the walls there are photo-blowups, some artifacts, handlettered information on cardboard. Chet stops to look up at a picture of a barechested Black man with a couple of feathers stuck in his headband}
+<CHAR>__{OTIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{That's John Horse.}
+<ACTION>__{Chet turns to see Otis standing back by, the door from the bar--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Spanish in Florida called him Juan Caballo. John Horse.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looks at picture)}
+<DIAL>__{He a Black man or an Indian?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Steps in)}
+<DIAL>__{Both.}
+<ACTION>__{Otis crosses to the poker table, begins to clean up--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{He was part of the Seminole Nation, got pushed down into the Everglades in pioneer days. African people who run off from the slaveholders hooked up with them, married up, had children. When the Spanish give up Florida, the U.S.Army come down to move all them Indian peoples off to Oklahoma--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{The Trail of Tears.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{They teaching that now?  Good. Only a couple of 'em held out--this man, John Horse, and his friend Wild Cat, and a fella name of Osceola. Army put all of them in prison and Osceola died, but them other two escaped and put together a fighting band and held out another ten, fifteen years. Beat Zach Taylor and a thousand troops at Lake Okeechobee.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{So they stayed in Florida?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{They got tired of fighting, went to the Indian Territories for a while. But the slave-raiders were on 'em even there, and one night they packed up and nearly the whole band rode down to Mexico. Crossed at Eagle Pass.}
+<ACTION>__{They move on to some photos of very African-looking people dressed in beautiful Seminole clothing--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Men worked for Santa Anna down there, waited out the Civil War. The land wasn't much to feed people on, so in 1870 they come north and put up at Fort Duncan and the men joined up what was called the Seminole Negro Indian Scouts. Best trackers either side of the border. Bandits, rustlers, Texas rednecks, Kiowa, Comanche--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{They fought against the Indians?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Same as they done in Mexico.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{But they were Indians themselves.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{They were in the Army. Like your father.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Surprised)}
+<DIAL>__{You know who I am?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{I got a pretty good guess.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{That guy who got shot--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{You didn't go telling your father you were here?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Are you kidding? And face a court- martial?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{He's a pretty tough old man, huh?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{No sports if I don't keep a B average, no TV on school nights, no PDA's--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{PDA?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Public Display of Affection. Every time he moves up a rank, it's like he's got to tighten the screws a little more--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Well--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{I mean, just 'cause he didn't--you know--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Didn't have a father?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shrugs)}
+<DIAL>__{He's still pissed off about it.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{When you're his age you'll still be pissed off about him.}
+<ACTION>__{Chet nods, looks around--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{So how come you got into all this?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{These are our people. There were Paynes in Florida, Oklahoma, Piedras Negras--couple of 'em won the whatsit-- Congressional Medal Of Honor--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{So I'm part-Indian?}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{By blood you are. But blood only means what you let it.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{My father says the day you're  born you start from scratch, no breaks and no excuses, and you got to pull yourself up on your own.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Sad)}
+<DIAL>__{Well, he's living proof of that, son. Living proof.}
+<LOC>__{INT. DEL'S OFFICE -- DAY}
+<ACTION>__{Athena stands at attention as Del sits at his desk, reviewing her record. He lets her stand for a long time before speaking--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Private Johnson, are you unhappy in the Army?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{No, sir--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Then how would you explain the fact that out of one hundred twenty people we tested, you're the only one who came up positive for drugs?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{When you were given the opportunity to enlist, a kind of contract was agreed upon. I think the Army has honored its part of that agreement.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Do you believe in what we're doing here, Private Johnson?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I-I can do the job, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You don't sound too enthusiastic.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I am, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{What exactly do you think your job is, Private?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Follow orders. Do whatever they say.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Who's "they"?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{The--the officers.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{And that's the job? Nothing about serving your country?}
+<ACTION>__{Athena is confused, hesitates to speak--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{These aren't trick questions, Private. You'll be given an Article 15 and be going into the ADCAP Program one way or the other. What happens after that is up to you. I'm just trying to understand how somebody like you thinks.}
+<ACTION>__{Silence--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Well?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Hesitant)}
+<DIAL>__{You really want to know, sir?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Please.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{It's their country. This is one of the best deals they offer.}
+<ACTION>__{Del knows he asked for it, but doesn't like the answer--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{How do you think I got to be a colonel?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Work hard, be good at your job. Sir. Do whatever they tell you.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Do whatever they tell you--}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I mean, follow orders, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{With your attitude, Private, I'm surprised you want to stay in the service.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{I do, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Because it's a job?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Struggling)}
+<DIAL>__{Outside it's--it's such a mess--it's--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Chaos.}
+<ACTION>__{Athena is sure she's overstepped her rank--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Why do you think they let us in on the "deal"?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{They got people to fight. Arabs, yellow people, whatever. Might as well use us.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Do you think you've been discriminated against on this post?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{No, sir. Not at all.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Any serious problems with your sergeant or your fellow soldiers?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{No, sir. They all been real straight with me.}
+<ACTION>__{Del stands, thinking, trying not to bullshit her--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{It works like this, Private--every soldier in a war doesn't have to believe in what he's fighting for. Most of them fight just to back up the soldiers in their squad--you try not to get them killed, try not to get them extra duty, try not to embarrass yourself in front of them.}
+<ACTION>__{He is right in her face now--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Why don't you start with that?}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You're dismissed, Private.}
+<CHAR>__{ATHENA} <CHAR_PAR>__{}
+<DIAL>__{Thank you, sir.}
+<ACTION>__{Athena salutes, steps out. Del looks out the window, troubled by the encounter.}
+<LOC>__{EXT. BORDER CONTROL}
+<ACTION>__{A battered car full of Mexican DAY WORKERS rolls toward the Mexican side checkpoint--}
+<LOC>__{INT. CAR}
+<ACTION>__{Enrique sits squeezed between workers in the back. The driver never stops talking as the officer waves them through.}
+<CHAR>__{DRIVER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{--Julia es demasiado flaca para mime gusto mas mujeres con algo en frente-- o muy altas como Cindy Crofor. Quisiera montar esa caballa--[Julia's too skinny for me--I like women with something up front--or really tall like Cindy Crawford. I'd like to ride that horse--]}
+<LOC>__{EXT. KINCAID HOUSE -- DAY}
+<ACTION>__{Sam's car is parked on the street in front of an expensive- looking house in a tree-lined neighborhood--}
+<LOC>__{INT. LIVING ROOM}
+<ACTION>__{Sam's ex-wife, BUNNY KINCAID, shuffles across her living room in slippers, crossing to turn off a big-screen TV playing football highlights. Bunny wears shorts, a Houston Oilers sweatshirt and a Dallas Cowboys cap. The living room is like a sports museum-- signed footballs, team posters, a bookcase filled with tapes of Texas pro and college football games--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{The Longhorns gonna kick some serious butt this Saturday, you just watch. We got a kid at tailback from down your way--outta El Indio--}
+<CHAR>__{SAM } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{That's in Maverick County.}
+<ACTION>__{She brings us to Sam, sitting uncomfortably, beneath a full- sized blowup of Tony Dorsett hurdling a tackler--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Oh. Right. And you're in--?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Rio. BUNNY Right. This kid, Hosea Brown? Does tire 40 in 3.4, soft hands, lateral movement--the whole package. Only a sophomore--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You still going to all the home games?}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Well, Daddy's got his box at the stadium, of course, and I'll fly to the Cowboy away games when they're in the Conference. Then there's the high school on Friday' nights. West Side got a boy 6'6", 310, moves like a cat. High school, we're talkin'. Guess how much he can bench-press?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Bunny, you--uhm--you on that same medication?}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Do I seem jumpy?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No, you look good. I was just wondering.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Last year was awful rough--Mama passing on and the whole business with O.J.--I mean it's not like it was Don Meredith or Roger Staubach or one of our own boys, but it really knocked me for a loop--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You look good--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{--and that squeaker the Aggies dropped to Oklahoma-sonofabitch stepped in some lucky shit before he kicked that goal--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, well--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{--they hadn't pulled me off that woman I would have jerked a knot in her.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You were in a fight--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Daddy calls it an "altercation." How you doing, Sam? You look skinny.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Same weight I always was.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{You look awful good in that uniform, though.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Best part of the job.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Daddy hired a pinhead to take your job. He says so himself. Says "Even my son-in-law was better than this pinhead I got now".}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Bunny, is that stuff I left in the garage still there?}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Least he never called me that. With me, it was always "high-strung." "My Bunny might have done something with her life, she wasn't so high-strung." Or "tightly wound," that was another one. You seeing anyone?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{No. You?}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Sort of. Daddy rounds 'em up. You aren't talking about money, their beady little eyes go dead.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You didn't--uhm--you didn't have one of your fires, did you? The stuff I left in the garage--some of it was my father's--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{You watch the draft this year? 'Course you didn't, idiot question. They try to make it dramatic, like there's some big surprise who picks who in the first round? Only they been working it over with their experts and their computers for months. Doctor's reports, highlight reels, coaches' evaluations, psychological profiles--hell, I wouldn't be surprised if they collected stool samples on these boys, have 'em analyzed. All this stuff to pick a football player for your squad. Compared to that, what you know about the person you get married to don't amount to diddly, does it?}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Suppose not.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{You kind of bought yourself a pig in a poke, didn't you, Sam? All that time we were first seeing each other you didn't know I was tightly wound--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{It wasn't just you, Bunny.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{No, it wasn't, was it? You didn't exactly throw yourself into it heart and soul, did you?}
+<ACTION>__{She looks at him for an uncomfortably long moment--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{Your shit's still in the garage if that's what you came for.}
+<ACTION>__{Sam nods, stands. Bunny is in tears--}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{350 pounds.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{This boy from West Side, plays tackle both ways. Bench-presses 350 pounds. You imagine having that much weight on top of you? Pushing down? Be hard to breathe. Hard to swallow.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I think they have another fella there to keep it off your chest. A spotter.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL>__{"I only got my little girl now," he says, "she's my lifeline." Then he tells me I can't be in the box anymore if I can't control myself. Sonofabitch don't even watch the damn game, just sits there drinking with his bidness friends, look up at the TV now and then. I do better to sit in the cheap seats with some real football people.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Edging out)}
+<DIAL>__{You look good, Bunny. It's nice to see you.}
+<CHAR>__{BUNNY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{Thanks. I like it when you say that, Sam.}
+<LOC>__{EXT. STREET -- CIUDAD LEON}
+<ACTION>__{Enrique looks nervously over his shoulder before stepping into a funky apartment building. We TILT up to the second floor balcony, where a LITTLE BOY is watching the street--}
+<LOC>__{INT. APARTMENT}
+<ACTION>__{There are eight PEOPLE not including the little boy on the balcony. All are securing their possessions--rolling things in blankets, filling shopping bags and grain sacks. Enrique steps in--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Todos estamos? [Everybody here?]}
+<ACTION>__{Anselma reaches up from the floor to take his hand--}
+<CHAR>__{ANSELMA} <CHAR_PAR>__{}
+<DIAL>__{Van a disparar a nosotros? [Are they going to shoot at us?]}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Nadie nos veran. Seramos invisibles. Nobody's going to see us. We'll be invisible.]}
+<LOC>__{INT. GARAGE -- KINCAID HOUSE -- DAY}
+<ACTION>__{A mess. We start on a campaign poster with Sam's face on it and the legend--"ONE GOOD DEEDS DESERVES ANOTHER--VOTE SAM DEEDS FOR COUNTY SHERIFF". We PAN to see Sam, who has been digging through piles of old junk, set down the box he was looking for--}
+<ACTION_ALT>__{CLOSER}
+<ACTION>__{Sam pulls out an old holster, a sheaf of real estate and insurance forms, a couple of old paperback Zane Grey westerns. He pulls out a cracked leather pouch, turns it over--letters fall out. He examines an envelope--no stamp or postmark-- pulls a letter out, reads--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{"Dearest Buddy--"}
+<ACTION>__{He puts the letter down for a moment, thinks. He needs to know. He picks the letter up again, reads.}
+<LOC>__{INT. OTIS'S HOUSE -- EVENING}
+<ACTION>__{Carolyn crosses the living room to answer the RING at the front door.  Del stands there--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Hey, it's the General.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Colonel. Is uhm--is Otis in?}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Come on in--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{If it's too late--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Come on in.}
+<ACTION>__{Del enters the house as if walking into an AMBUSH--}
+<LOC>__{INT. OTIS'S LIVING ROOM -- EVENING}
+<ACTION>__{Carolyn sits back in the couch, drink in hand, checking Del out--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Otis sittin' up with some people at the club. I don't think he'll be long.}
+<ACTION_ALT>__{CU DEL}
+<ACTION>__{Uncomfortable, sitting at the edge of an easy chair. He looks at a mounted magazine photo of Otis smiling as he pours hot sauce on a rack of ribs--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{His hot sauce recipe won a contest last year. They sellin' it far away as San Antonio. He got a lot of talent, your father.}
+<ACTION>__{Del squirm a bit at the word "father"--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{You've been in this house for a while?}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{I been here with him eight years now. He built it when he was with Leora.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I never met her.}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{There was a bunch of 'em You never met. Me neither.}
+<ACTION>__{Del looks around the living room--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Let me show you around--}
+<LOC>__{INT. DEN -- PHOTOGRAPH}
+<ACTION>__{A blowup of a photo of a squad of Buffalo Soldiers is mounted on the wall--}
+<CHAR>__{CAROLYN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{He got into all this cowboys and Indians stuff awhile back. Spend half his time pokin' around in the library way up to Austin.}
+<ACTION_ALT>__{CU DEL}
+<ACTION>__{He looks at something below -- DEL'S POV -- CLIPPINGS We PAN slowly over laminated newspaper clippings mounted behind a picture of young Del in a track uniform, holding a vaulting pole. The clippings are about Del making honor rolls, winning a Silver Star in Vietnam, graduating from Officer Candidate School, being named head of this and that in the Army--}
+<CHAR>__{CAROLYN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Kind of like a shrine, isn't it?}
+<ACTION>__{DEL, CAROLYN Carolyn stands behind, watching Del's face as he looks at the stuff--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Where'd he get all this?}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Your mother got a brother--Alphonse--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Uncle Al--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Otis stood on good terms with the man. Whenever you do something makes the news, he sends it on. When they made you General, Otis just about drove away all our customers going on about it.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{I'm a colonel.}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I know--Man made me memorize the whole damn Army chain of command before he'd marry me. So this is a big deal, commander and  all?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{It's a small post and they're phasing it out in two years, but I moved up in rank and--well, a command is a command.}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Otis went on like you were that guy who won the Gulf War. Colin whatsit.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{My mother said he never asked about--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{He never asked her.}
+<ACTION>__{It's a bit too much for Del--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Listen, I uh--tell him I came by. Thanks--}
+<ACTION>__{We HOLD on Carolyn as he hurries out. She salutes--}
+<CHAR>__{CAROLYN} <CHAR_PAR>__{}
+<DIAL>__{Catch you later, Colonel.}
+<LOC>__{EXT. RIVER -- NIGHT}
+<ACTION>__{PEOPLE, crouching low, wade across the river toward us. When he gets close enough to us, we recognize Enrique, nervously leading a group of Mexican men, women and children to the U.S. side. They are spaced out in the dark, loosely holding the line Enrique made in one hand and holding their bundles high away from the water with the other. Enrique turns as he hears a WOMAN'S CRY.  The line goes slack, then NESTOR steps out of the darkness to join him--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Que Paso? [What happened?]}
+<CHAR>__{NESTOR} <CHAR_PAR>__{}
+<DIAL>__{Anselma cayo en las rocas. Creo que la pierna ha sido root--[Anselma felt on the rocks. I think her leg's broken--]}
+<ACTION>__{Two men struggle forward supporting Anselma, trying to hold her leg out straight in front of her. She is in a lot of pain--}
+<CHAR>__{NESTOR} <CHAR_PAR>__{}
+<DIAL>__{No podemos alcanzar el camion llevando a ella. Hay lugar para esconderla? [We can't reach the truck if we're carrying her. Is there somewhere to hide her?]}
+<ACTION>__{Enrique thinks, trying not to panic, as the others come up around him--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Conozco solamente una persona con casa--[I only know one person with a house--]}
+<CHAR>__{ANSELMA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(In pain)}
+<DIAL>__{Esta lejos? [Is it far?]}
+<LOC>__{EXT. PATIO -- NIGHT}
+<ACTION>__{Mercedes sits on her recliner, drink in hand. An old RECORD plays from inside. She is startled by the voice from the dark--}
+<CHAR>__{ENRIQUE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Senora Cruz?}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Standing)}
+<DIAL>__{Quien es? [Who is it?]}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Soy yo, Enrique! No tiene miedo-- [It's me, Enrique. Don't be afraid]}
+<ACTION>__{Enrique steps out into the light. His pants are wet and he's scared--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{What are you doing out there? Are you crazy?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Hay pasado un accidente muy grave-- [There's been a bad accident--]}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{In English, Enrique. We're in the United States--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{I have some friends who have had a accident--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{You have somebody else out there?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{We was by the river? And I hear my friend callin' for help, and I look and she has falling in the water--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Don't tell me lies, Enrique. Que paso?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{We was crossin' the river--}
+<ACTION>__{Nestor appears in the light now, supporting Anselma, who hops awkwardly to move forward--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Enrique! Quienes son estos? How could you bring them here?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{They need help. Jaime, Anselma-- esta es mi jefa--}
+<CHAR>__{NESTOR} <CHAR_PAR>__{}
+<DIAL>__{Senora--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I'll call the Border Patrol, they'll get her to the hospital.}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{No! No puede hacer esto--[You can't do that--]}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{You think you're doing these people a favor? What are they going to do? Either they get on welfare or they become criminals--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{No es la verdad--[That isn't true--]}
+<CHAR>__{NESTOR} <CHAR_PAR>__{}
+<DIAL>__{Con permiso, Senora, la muchacha tiene mucho dolor--[Please, Senora, the girl is in a lot of pain--]}
+<ACTION>__{Mercedes grudgingly indicates the lounge chair--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Sientase. [Sit.]}
+<CHAR>__{NESTOR} <CHAR_PAR>__{}
+<DIAL>__{Es muy amable. [You're very kind.]}
+<ACTION>__{He and Enrique help Anselma into the chair. The Girl looks up at Mercedes, frightened--}
+<CHAR>__{ANSELMA} <CHAR_PAR>__{}
+<DIAL>__{Ayudanos, Senora, por favor no podemos regresar--[Help us, Senora, please. We can't go back]}
+<ACTION>__{Mercedes looks at ANSELMA disapprovingly. The girl can't be more than 14--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{This girl is a friend of yours?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Es mi novia. [She's my girlfriend.]}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{I thought you were married!}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{I am marry to the cousin of a friend-- but only to be able to live here. This is the mother of my child--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{This girl has a child?}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{We have a daughter.}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Scornful)}
+<DIAL>__{Tipico.}
+<LOC>__{EXT. HOUSE -- NIGHT}
+<ACTION>__{Sam stands at the front door of a house on the lake, banging on the door--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Hollis? You in there? Hollis?}
+<LOC>__{EXT. RIVER -- NIGHT}
+<ACTION>__{Moonlight kicks off the surface of the water.  We hear SPLASHING, the frightened VOICE of a young woman--}
+<CHAR>__{YOUNG MERCEDES } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Donde esta? Estoy perdido--[Where are you? I'm lost--]}
+<DIAL_PAR>__{ELADIO (O.S., DISTANT)}
+<DIAL>__{Aqui! [Here!]}
+<ACTION>__{The girl flounders into the shot, wet and scared. Young Mercedes, a teenager not unlike ANSELMA is wading thigh-deep in the Rio, lost, scared--}
+<CHAR>__{YOUNG MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{No puedo ver la orilla! [I can't see the bank!]}
+<CHAR>__{ELADIO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Aqui! Venga por aqui! [Over here! Come this way!]}
+<ACTION>__{Mercedes struggles toward the voice and suddenly a young man becomes visible, standing in the water, holding his band out for her, ELADIO--}
+<CHAR>__{YOUNG MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Vi a Rosaria arastrado para el corriente--[I saw Rosaria taken away by the current--]}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{No te molestas. Tenemos a ella. [Don't worry. We've got her.]}
+<ACTION>__{He takes her arm, pulls her toward the far shore--}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL>__{Como se llama? [What's your name?]}
+<CHAR>__{YOUNG MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Mercedes Gonzales Ruiz.}
+<CHAR>__{ELADIO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{Me llama Eladio Cruz--Bienvenido a Tejas. [Welcome to Texas.]}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{EXT. MERCEDES' HOUSE -- MERCEDES}
+<ACTION>__{Mercedes is lost in thought as she recalls. She steps into the light by the carport. Enrique and Nestor are propping Anselma's leg up on pillows in the back of Mercedes' old station wagon--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Rapidamente! Everybody in the world is going to see!}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Donde vamos? [Where are we going?]}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{A casa de Porfirio Zayas. He used to be a doctor on the other side. Gunshot wounds, fixing babies--if you can pay he can handle it.}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Senora, anything it costs, I can work--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{Don't worry about it. He owes me some favors.}
+<ACTION>__{Enrique turns to ANSELMA still frightened in the rear of the station wagon--}
+<CHAR>__{ENRIQUE} <CHAR_PAR>__{}
+<DIAL>__{Seas tranquila, mija.}
+<DIAL_PAR>__{(Nods to Mercedes)}
+<DIAL>__{Estamos en las manos de Senora Cruz. [Just relax, honey. We're in the hands of Senora Cruz.]}
+<ACTION>__{Mercedes starts the car--}
+<CHAR>__{MERCEDES} <CHAR_PAR>__{}
+<DIAL>__{In English, Enrique. In English--}
+<LOC>__{INT. DEL'S HOUSE -- DINING  ROOM}
+<ACTION>__{Del steps in. Chet sits at the table, drawing a cartoon in panels. Del looks over his shoulder for a moment--}
+<ACTION_ALT>__{CARTOON}
+<ACTION>__{A tank rolling over barbed wire, cannon and machine gun blasting away--}
+<CHAR>__{DEL } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Homework?}
+<ACTION_ALT>__{DEL AND CHET}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{I finished that. I'm just messing around.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Tanks, huh?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{You got to be in the Army, you might as well have something slick to drive.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{So you're going into the Army?}
+<ACTION>__{Chet looks at him, not in a good mood, then goes back to his drawing--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{That's the general plan, isn't it?}
+<ACTION>__{Del watches for a long moment, thinking--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Softly)}
+<DIAL>__{That's up to you.}
+<ACTION>__{Chet looks at his father again. All this is news to him--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{The Army isn't for everybody.}
+<ACTION>__{Chet can't quite believe he is hearing this. Del crosses to the refrigerator--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Not that I don't think you'd be good at it, but--you know--I wouldn't be disappointed if you decided to do something else with your life.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{You wouldn't?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{Chet nods, begins to play again, considering the possibilities. Del is making an effort and he doesn't have much practice--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{How's your room shaping up?}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Fine. I'm pretty much moved in.}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Good.}
+<ACTION>__{An awkward silence--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Tentative)}
+<DIAL>__{Are we going to ever see your father?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{My father.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Yeah. He lives here, right?}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{He does.}
+<ACTION>__{Del pulls some food out, watching Chet as he draws--}
+<CHAR>__{DEL} <CHAR_PAR>__{}
+<DIAL>__{Maybe we'll clean that thing out back up, have a barbecue next weekend. We could invite him and his wife over.}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{Cool.}
+<ACTION>__{Chet flips the page of his sketchbook--}
+<CHAR>__{CHET} <CHAR_PAR>__{}
+<DIAL>__{He makes his own sauce.}
+<LOC>__{EXT. PARKING LOT, BIG O'S -- NIGHT}
+<ACTION>__{The neon's off, but there are a couple cars in the lot and a light within. Sam pulls into the lot, steps out, approaches the door--}
+<LOC>__{INT. CLUB}
+<ACTION>__{The door opens. The place is empty now except for Otis, standing behind the bar, deep in conversation with Hollis, sitting on a stool. Both swivel to look around guiltily as they hear Sam step in--}
+<ACTION_ALT>__{REVERSE}
+<ACTION>__{Sam walks in slowly, crossing the floor to bring us back to the two men--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Fellas.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Hey, Sam.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Open late.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{I'm not open. We were just talking.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Hollis probably told you we found Charley Wade.}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Yeah. How about that? People start digging holes in this county, there's no telling what'll come up.}
+<ACTION>__{He sits a few stools away from Hollis--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You two saw it, didn't you? You two saw it when Buddy killed him.}
+<ACTION>__{Hollis and 0tis look at each other--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Imonna find out one way or the other.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Your father had the finest sense of justice of any man I ever met--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah, and my mother was a saint. For fifteen years the whole damn town knew he had another woman on the side. Stole ten thousand dollars to set her up in business. But hell, what's that? You got a problem? Buddy'll fix it. Facing some time in jail? Buddy'll knock half of it off-- if you do what he says, when he says. You got some business that's not exactly legal? Talk to Buddy--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Buddy Deeds--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Buddy Deeds was a murderer.}
+<ACTION>__{He looks at the two older men for a long moment--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{That night in the cafe--he didn't stay long after you left, did he, Hollis? Maybe he decided he'd gone too far with Wade, maybe he figured he better not wait for the Sheriff to get behind him. So he stepped out to see if he could catch up--and you were here at the club that night, weren't you, O?}
+<ACTION>__{Otis sighs, begins to speak softly--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{I was here.}
+<ACTION_ALT>__{CU OTIS}
+<ACTION>__{He turns to look toward the door as he reminisces, and we PAN away with his gaze--}
+<CHAR>__{OTIS } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'd been running a game on the side after hours craps, draw poker on the weekends. Roderick didn't know about it. More important, Charley Wade didn't know about it, 'cause I didn't want to cut him in. I suppose I'd been drinking some, and I was pretty full of myself in those days--but hell, I just didn't expect the man so early--}
+<ACTION>__{Sheriff Wade and Young Hollis step in the door and we are back in 1957. BLUES HARMONICA FADES UP, wailing from the jukebox. They stop and look at the place-- THEIR POV -- CLUB MUSIC CONTINUES. The club is empty, dark. A LIGHT shines from the back room.}
+<LOC>__{INT. BACK ROOM}
+<ACTION>__{MUSIC CONTINUES. Smoke fills the air and Young Otis sits back laughing, a large pile of money on the table in front of him. The other four BLACK MEN at the table aren't doing so well. One by one they all look up past the camera to the door--}
+<ACTION_ALT>__{CU OTIS}
+<ACTION>__{MUSIC CONTINUES. Young Otis doesn't see at first, engaged in dealing the cards. Finally, he senses the presence, looks up-- WADE AND HOLLIS -- YOUNG O'S POV MUSIC CONTINUES. Wade stands over the table in the f.g., Young Hollis hanging back in the doorway. Wade is smiling his cold smile, cursing--}
+<ACTION_ALT>__{CU YOUNG OTIS}
+<ACTION>__{MUSIC CONTINUES. Trying to look unimpressed--}
+<LOC>__{EXTREME CU WADE'S EYES}
+<ACTION>__{Cold and unblinking. MUSIC CONTINUES--}
+<LOC>__{EXTREME CU WADE'S MOUTH}
+<ACTION>__{Twisted in a snarl as he curses. MUSIC CONTINUES-- MEN, TABLE MUSIC CONTINUES. We shoot past Wade's body as the other men step away from the table, grab their hats, and hurry out the side door. Young Otis is left sitting at the table. Wade starts walking toward him--}
+<ACTION_ALT>__{CU YOUNG OTIS}
+<ACTION>__{MUSIC CONTINUES. His eyes following as Wade comes to stand over him-- WADE, YOUNG OTIS MUSIC CONTINUES. Wade grabs the table and violently jerks it over onto Young Otis, cards and money flying--}
+<ACTION_ALT>__{YOUNG HOLLIS}
+<ACTION>__{MUSIC CONTINUES. Watching squeamishly as Wade goes to work on young Otis, the overhead light swinging wildly--}
+<LOC>__{INT. BARROOM}
+<ACTION>__{MUSIC CONTINUES. Young Otis is hurled out of the back room, face bruised and bleeding. Wade follows, then Young Hollis--}
+<ACTION_ALT>__{CLOSER MUSIC CONTINUES. CLOSER}
+<ACTION>__{Wade puts his gun next to Young Otis's ear, cursing at him. Young Otis gets to his feet, goes behind the bar--}
+<ACTION_ALT>__{BAR COUNTER}
+<ACTION>__{MUSIC CONTINUES. Young Otis slaps an envelope full of cash onto the counter--}
+<ACTION_ALT>__{WADE}
+<ACTION>__{MUSIC CONTINUES. He waves his pistol, indicating something behind Otis--}
+<LOC>__{INT. BAR}
+<ACTION>__{MUSIC CONTINUES. We shoot past Wade at the counter as Otis turns and reaches for a cigar box on the shelf behind--}
+<ACTION_ALT>__{CIGAR BOX}
+<ACTION>__{MUSIC CONTINUES. Lying open, an old pistol inside of it. Young Otis reaches--}
+<ACTION_ALT>__{CU YOUNG HOLLIS}
+<ACTION>__{MUSIC CONTINUES. Frowning as he senses something wrong--}
+<ACTION_ALT>__{WADE}
+<ACTION>__{MUSIC CONTINUES. Wade levels his gun at Young Otis's back, then turns to wink at Hollis like he did before he shot Eladio-- WADE'S HAND MUSIC CONTINUES. Finger closing around the trigger of the .45--}
+<ACTION_ALT>__{HOLLIS}
+<ACTION>__{MUSIC CONTINUES. Mouth open in horror--}
+<ACTION_ALT>__{WADE}
+<ACTION>__{MUSIC CONTINUES. Eyes burning as he aims--}
+<ACTION_ALT>__{BUDDY}
+<ACTION>__{MUSIC CONTINUES. Stepping in the door, seeing, CALLS OUT--}
+<ACTION_ALT>__{YOUNG OTIS}
+<ACTION>__{MUSIC CONTINUES. Turning to see Buddy--}
+<ACTION_ALT>__{WADE}
+<ACTION>__{BLAM! THWAP! A bullet plows through his neck, knocking him back against the bar. MUSIC CONTINUES. His gun falls from his hand--}
+<ACTION_ALT>__{YOUNG OTIS}
+<ACTION>__{Horrified, splattered with the Sheriff's blood. MUSIC CONTINUES--}
+<ACTION_ALT>__{BAR COUNTER}
+<ACTION>__{MUSIC CONTINUES. Twenty-dollar bills have spilled out of the envelope and are soaking up blood--}
+<ACTION_ALT>__{CU BUDDY}
+<ACTION>__{Calm and hard-eyed. MUSIC CONTINUES. As he steps forward, we see his pistol is still in its holster. He reaches out and takes the .45 from Young Hollis's shaking hand, looks him in the eye till Hollis looks back, then looks toward Young Otis-- We PAN with his gaze to a CLOSE-UP of Otis, back in the PRESENT. The MUSIC FADES--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Sheriff Charley had some real big friends in politics then, and if the truth come out it wasn't going to go easy on Hollis.}
+<DIAL_PAR>__{(He shrugs)}
+<DIAL>__{I don't know why I trusted Buddy with it--don't know why he trusted me. The first time I ever talked with him was right there, and then with a dead white man leakin' blood on the floor between us. He could charm the scales off a rattler, Buddy Deeds.}
+<ACTION_ALT>__{WIDER}
+<ACTION>__{This isn't what Sam was expecting. Hollis watches his face--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{The three of us cleaned up and took him to the post and put him under. Can't say I was much help.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{And the ten thousand?}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Widow's benefits. He figured it would make the disappearance look better, and that Mexican gal was just scrapin' by after Charley killed her man. They didn't get hooked up till late--}
+<CHAR>__{OTIS} <CHAR_PAR>__{}
+<DIAL>__{Time went on, people liked the story that we told better than anything the truth might have been.}
+<ACTION>__{Sam swivels around on his seat to took at the spot where Charley fell. He has a lot of information to deal with--}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{What's the call, Sam?}
+<ACTION>__{Sam rolls it over in his mind before answering--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Don't think the Rangers are likely to find out any more than they already have.}
+<CHAR>__{HOLLIS} <CHAR_PAR>__{}
+<DIAL>__{Word gets out who that body was, people are gonna think Buddy done it.}
+<ACTION>__{Sam gets up--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Buddy's a goddamn legend. He can handle it.}
+<ACTION>__{He heads for the door--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{'Night, fellas.}
+<ACTION>__{Hollis and Otis watch him go--}
+<TRANS>__{FADE OUT:}
+<LOC>__{EXT. DRIVE-IN, WIDE SHOT -- MORNING}
+<ACTION>__{We see Sam sitting on the hood of his car parked in the deserted drive-in lot, staring up at the ruined screen. Pilar's car rolls in, parks beside him--}
+<ACTION_ALT>__{CLOSER}
+<ACTION>__{Pilar gets out, kisses Sam, sits by him on the hood--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{When's the picture start?}
+<ACTION>__{Sam looks at her for a moment--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You gonna tell your mother we been seeing each other?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{She'll figure it out sooner or later. I don't have to ask permission anymore, if that's what you mean.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{You have any idea when your father died? Eladio?}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shrugs)}
+<DIAL>__{Couple months before I was born--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Try a year and a half. He bands her an old snapshot. PILAR looks at it--}
+<ACTION_ALT>__{CU PHOTO}
+<ACTION>__{Buddy and Young Mercedes on the lake. Buddy with his shirt off on one end of a sailboat, Mercedes in a bathing suit, both smiling for the camera--}
+<ACTION_ALT>__{SAM AND PILAR}
+<ACTION>__{Pilar hands the photo back to him, tries to be calm--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I've never seen my mother in a bathing suit before.  Didn't know she owned one.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Buddy bought the cafe for her with money he took from the county. Pilar looks away, struggling not to cry--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{They can't pull this on me. It isn't fair--I don't believe this--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{He paid the hospital bill when you were born. Your mom always calls you "our beautiful daughter" in the letters she wrote to him.}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{From the first time I saw you at school--all those years we were married to other people I always felt like we were connected.}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{I remember thinking you were the one part of my life Buddy didn't have a piece of--}
+<ACTION>__{A silence, both of them wondering what the next move should be--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{So that's it? You're not going to want to be with me anymore?}
+<ACTION>__{Sam knows what he feels but doesn't have the words--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{I'm not having any more children. After Amado, I had some complications-- I can't get pregnant again, if that's what the rule is about--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{If I met you for the first time today, I'd still want to be with you.}
+<ACTION>__{It is what Pilar needed to hear--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{We start from scratch--}
+<CHAR>__{SAM} <CHAR_PAR>__{}
+<DIAL>__{Yeah--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Everything that went before, all that stuff, that history--the hell with it, right?}
+<ACTION>__{PILAR takes Sam's hand, kisses him--}
+<CHAR>__{PILAR} <CHAR_PAR>__{}
+<DIAL>__{Forget the Alamo.}
+<ACTION>__{WIDE SHOT, DRIVE-IN Sam and Pilar sit by each other holding hands, looking at the empty screen-- MUSIC, ROLL CREDITS}
+<CHAR>__{THE END} <CHAR_PAR>__{}

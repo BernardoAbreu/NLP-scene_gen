@@ -1,0 +1,1977 @@
+<ACTION>__{"Kafka", by Lem Dobbs}
+<ACTION_ALT>__{KAFKA}
+<DIAL>__{by Lem Dobbs}
+<ACTION>__{PRAGUE - MORNING The Old Town is quiet.  It's very early in the twisted streets of this ancient ghetto.  Dark corners casting a medieval spell over a modern century oblivious to their romance and mystery. The River is the dividing line.  Elegant gardens on the opposite bank embracing the monotonous solemnity of the New Town, tower steeples silhouetted against the sombre sky. An empty motor bus rattles along a deserted street. A Gothic bridge links the two halves of the strange city. Its half-moon arches becoming circles as they meet their reflections in the water.  Thin mist swirls over the cobblestones above. A few boats in the water.  Fishermen casting their lines in silence.  One or two lights now burning in buildings beyond. In the Old Town Square the great clock on the cathedral strikes six.}
+<TRANS>__{CUT:}
+<ACTION>__{A MAN'S FACE His eyes filled with terror, beads of sweat crawling on his brow. He stands in the middle of a murky courtyard, perfectly still.  Waiting.  Watching. The balconies overlooking on successive floors, looming all around him, are empty.  All is quiet. The man's name is EDUARD.  He dares not move for fear of missing a single sound.  And then he hears it.  A small noise of movement nearby.  He runs.}
+<ACTION_ALT>__{TINY ALLEYWAY}
+<ACTION>__{He runs alone in the dim light of the deserted morning.}
+<ACTION_ALT>__{CROOKED PASSAGEWAY}
+<ACTION>__{Running for his life.}
+<ACTION_ALT>__{NARROW LANE}
+<ACTION>__{Running on sheer pumping fear, long after the verge of collapse.}
+<ACTION_ALT>__{BLACK TUNNEL}
+<ACTION>__{Coming out into the light, but by no means out of danger, he allows himself a brief pause, gasping for air, just for a moment looking back into the gloom, starting to retreat again even as he does, then turning running ...}
+<ACTION_ALT>__{WINDING STREET}
+<ACTION>__{He runs on, past boarded-up houses and shuttered inns, strange relics of the Middle Ages casting frightening shadows.}
+<ACTION_ALT>__{AROUND A CORNER}
+<ACTION>__{Eduard appears suddenly, quickly flattens himself back against the large notice board that covers the wall here, layers of expressionistic theatre and film posters pasted on it. He breathes painfully in short bursts, as silently as he can.  He watches the corner he's just come from, the ornate archway through which any pursuer must emerge. Nothing there.  But then a shadow moves. Eduard's shoulders tense.  His eyes widen.  He holds his breath. The shadow ... spreading ... Eduard edges away ever so slowly, keeping his unblinking gaze on the archway, backing off, one arm brushing the notice board as he feels his way along it, macabre images on the posters, some torn and incomplete, revealing other fragments behind, Eduard's eyes staring constant, no noise here at all and -- A HAND!  clamps over his face from behind.  All of a sudden and out of absolutely nowhere and not a thing he can do about it. But he tries, his hands coming up to grip the arm that grasps him, an arm of iron. The hand is huge.  It covers Eduard's face almost entirely, only one eye gaping bloodshot through the fingers, ghastly fingers that, just for a second, seem almost inhuman, perhaps even fingers that seem incompatible on the same hand, a hand covered in scar tissue, starting to squeeze as it pulls Eduard swiftly away.}
+<TRANS>__{CUT:}
+<ACTION>__{A ROW OF TYPEWRITERS - DAY Clacketing incessantly under slightly more agile and refined fingers.  Beyond these, another row of desks.  And beyond that another, the office workers in their neat suits tapping away. And beyond that another, at which one worker scribbles furiously at his figures, the next rolls a new sheet into his typewriter, the next answers his clanging telephone, the next rifles through the pages of a massive record book, the next sits erect in his chair playing his machine like a piano, and the last, by the window, dusty light streaming across him, contemplatively taps the end of a pencil onto his desk.  This is KAFKA. A rather tall young man with a kind, sensitive face. sensitive perhaps because his eyes, ears, and nose seem slightly bigger and more inquiring than most, and his gaze one of almost unrelenting intensity. He's looking off at something now. A desk, not very far from his own.  But empty.  The chair pushed squarely under it.  The typewriter covered. Kafka is wondering why -- when his concentration is interrupted.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Kafka.}
+<ACTION>__{Kafka turns to see BURGEL, a creep.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{The keeper of the files is still waiting for your final summation of the Erlanger claim.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I gave it to him yesterday.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(doesn't understand)}
+<DIAL>__{You didn't give it to  me .}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, I left it in his office.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Did you see him?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I've never seen him.  I don't believe there is a keeper of the files.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{He's usually in the storage room sorting things out.  He can't close the file on a case until he has the concluding report.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He has it, he just hasn't noticed it yet, all right?}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Who's to say he ever will?  He's a timid old man and quite careful not to tread on anyone's toes -- In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.}
+<ACTION>__{Burgel just won't go away.  Kafka tries to get on with his work.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(tiring of this)}
+<DIAL>__{Burgel, I thought it would be easier, as long as I was passing --}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{But  I'm the messenger.  An error like this damages my credibility.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Your credibility -- yes, it's well known.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(flushed)}
+<DIAL>__{When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'll commit that to memory.}
+<ACTION>__{They stare at each other with mutual antagonism.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Your position in this firm is not unassailable.}
+<ACTION>__{He waddles away.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Has one more look over at the empty desk before returning to his work.}
+<ACTION_ALT>__{THE OFFICE}
+<ACTION>__{The desks make a checkerboard pattern of the huge floor as Burgel calculates his path among them.}
+<TRANS>__{CUT:}
+<ACTION>__{LODGING HOUSE - MIDDAY Kafka comes up the stairs to the top landing.  He knocks on a door.  Waits.  Knocks again.  Leans a little closer to listen for a moment, then goes away back down the stairs.}
+<ACTION_ALT>__{GROUND FLOOR}
+<ACTION>__{Kafka comes through the door that divides the stairs from the hall, goes to knock on the door of the first apartment down here.}
+<CHAR>__{BIZARRE VOICE} <CHAR_PAR>__{}
+<DIAL>__{Yes?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry to disturb you -- I wonder if you know where my friend Eduard is?}
+<CHAR>__{BIZARRE VOICE} <CHAR_PAR>__{}
+<DIAL>__{I can't hear you! -- You'd better come in.}
+<ACTION_ALT>__{APARTMENT}
+<ACTION>__{Kafka comes in tentatively, seeing the CONCIERGE in a far corner of the cluttered room, in bed, covers tucked right up to her chin.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- I didn't want to bother you.}
+<CHAR>__{CONCIERGE} <CHAR_PAR>__{}
+<DIAL>__{Well, you have.  What do you want?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pointing upstairs)}
+<DIAL>__{My friend Eduard, I wonder if you've seen him?  He hasn't been in to work, I thought he might be ill.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{STAIRS}
+<ACTION>__{The Concierge trudges up to the top floor, Kafka following guiltily.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You didn't have to get out of bed -- I could have taken the key.}
+<CHAR>__{CONCIERGE} <CHAR_PAR>__{}
+<DIAL>__{Yes, I'm sure you could.}
+<ACTION>__{She treats him like dirt. EDUARD'S ROOM The door unlocks and the two of them come in.  Kafka goes to open the window curtain.  He turns around to see the Concierge already poking about in drawers. He ignores her and looks around the room on his own.  Eduard isn't here.  Nothing else seems out of place.  He wonders instead how he can dissuade the Concierge from her unbelievable snooping.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Well, he's not here.}
+<ACTION>__{The Concierge takes a tie from one of the drawers and models it over her own ample chest.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Do you think you ought to do that?}
+<ACTION>__{She looks at him indignantly.}
+<CHAR>__{CONCIERGE} <CHAR_PAR>__{}
+<DIAL>__{The manners of a tramp!  It's my house, isn't it?}
+<TRANS>__{CUT:}
+<ACTION>__{OFFICES - AFTERNOON Kafka is in another section of the building, finding his way through a department he's vaguely unfamiliar with.  He searches out a particular person -- a strikingly beautiful woman with flaming hair and wild eyes.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Miss Rossmann?}
+<ACTION>__{GABRIELA looks around from a file cabinet.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm Kafka -- I work upstairs in Accident --}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I know.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You're a friend of Eduard Raban's.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Why would you suppose so?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Oh -- well, I thought he once mentioned --}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shuts file cabinet)}
+<DIAL>__{One of you must be mistaken.}
+<ACTION>__{He follows her to a counter where someone stamps the document she thrusts forward without even glancing at her or it.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, but I just wondered --}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(brushing past him)}
+<DIAL>__{Excuse me, I have to copy this for Central Docketing by 2:30.}
+<ACTION>__{Kafka watches her go -- then notices some smarmy young clerks giggling over what they suppose was a romantic rebuff.}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S DEPARTMENT Burgel sees Kafka coming back in toward his desk, immediately walks to intersect him.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{You're late -- I knew it would happen one day.}
+<ACTION>__{Kafka ignores him utterly, leaving Burgel standing clutching his files with a sour expression. Kafka pauses at Eduard's desk, still untouched, then continues on to his own.}
+<ACTION_ALT>__{OFFICE OF THE CHIEF CLERK}
+<ACTION>__{Partitioned off from the rest, but commanding a full view of all.  Through the glass windows the CHIEF CLERK, a stern- Looking fellow, notices Kafka and takes his watch out of his pocket for a look.}
+<TRANS>__{CUT:}
+<ACTION>__{THE OFFICE BELL - EVENING RINGS, signalling the end of the work day.  The office workers clear their desks, start to leave.}
+<ACTION_ALT>__{OFFICE STAIRWELL}
+<ACTION>__{The office workers stream down the stairs that wind around a central elevator shaft, the gated elevator grinding upwards at the same time. When Kafka reaches the ground floor he passes a pair of SENIOR PARTNERS conferring together -- and does a double-take when he hears his  name mentioned -- then sees the two men shake hands conclusively and turn away.  Kafka continues walking away himself, worried about his future.}
+<ACTION_ALT>__{OUTSIDE}
+<ACTION>__{The office workers pour out of the building, all going in different directions.  Three of them get jammed in the doorway, untangle themselves, and Kafka is the next to emerge.}
+<TRANS>__{CUT:}
+<ACTION>__{THE CONTINENTAL COFFEE HOUSE - NIGHT A lively place, crowded with chattering, smoking, arguing students, poets, painters ... Kafka joins a group of friends.  It's clear that this is a regular gathering and, from their warm reception, considered incomplete without him.}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<DIAL>__{-- This is our friend Anna who works with us on the magazine.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{I've been hearing all about you.}
+<ACTION>__{Kafka cringes.}
+<CHAR>__{ERNST} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, Kafka -- I championed your virtues.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'd like to hear them.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<DIAL>__{Anna's new to the city -- we wouldn't frighten her needlessly.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I've lived all my life in this city -- it frightens me.  As it draws me closer into its web.}
+<CHAR>__{STELLA} <CHAR_PAR>__{}
+<DIAL>__{-- This is an ancient lament.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, but do you realize why? -- it has no  present .}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{-- I'm hoping to live in the Old Quarter.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Even the so-called New Town isn't so new.  Only the people.  People of the future living in buildings of the past.}
+<DIAL_PAR>__{(abruptly)}
+<DIAL>__{Has anyone seen Eduard?}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<DIAL>__{Who? My friend Eduard from the office -- I've brought him here lots of times -- you used to marvel at his travel stories.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<DIAL>__{Oh, him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What d'you mean, oh him?  He's a perfectly nice person, he's never missed a day before.}
+<CHAR>__{ERNST} <CHAR_PAR>__{}
+<DIAL>__{Perhaps he's taken up with those traveling players you two were so fond of.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, it's me who always wanted to run away with them -- except that that life would be far too hectic for me.  I'm worried about him, no one's seen him.}
+<CHAR>__{STELLA} <CHAR_PAR>__{}
+<DIAL>__{Haven't you ever called in sick and gone roaming about, free of responsibility to anyone, if only for a day?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{When you work for a medical firm you can't call in sick.  They know malingerers like a dog knows fleas.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{You work in the insurance department?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You have been hearing the sordid side then.}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<DIAL>__{Be pleased -- you constantly inspire people to take an interest in your life.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{I should think it's very interesting work.}
+<ACTION>__{Kafka shrugs shyly.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{My father always said I had no ambition.}
+<TRANS>__{CUT:}
+<ACTION>__{NEAR THE FRONT DOOR - LATER Smoke heavier in the air, the coffee house more crowded with strange groups of characters.  Kafka and his friends preparing to leave.}
+<CHAR>__{STELLA} <CHAR_PAR>__{}
+<DIAL>__{The cabaret will be packed this time of night -- we'll never get in.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<DIAL>__{Well, it has to be the cabaret because there's nowhere else to go.}
+<CHAR>__{MARGARET} <CHAR_PAR>__{}
+<DIAL>__{Home, I think.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<ACTION>__{Home ?}
+<CHAR>__{MARGARET} <CHAR_PAR>__{}
+<DIAL_PAR>__{(head on Ernst's shoulder)}
+<DIAL>__{You know I can't stay up late.}
+<CHAR>__{VOICE} <CHAR_PAR>__{}
+<DIAL>__{Home is the last resort --}
+<ACTION_ALT>__{BIZZLEBEK}
+<ACTION>__{The owner of the voice.  A man sitting at the bar nearby, turning on his stool to face them.  A dissipated dandy of a man.}
+<CHAR>__{ERNST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(introducing him)}
+<DIAL>__{-- Do you know Bizzlebek -- the gravedigger?}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<ACTION>__{Stonecutter , if you please.}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<ACTION>__{Sculptor , if only he'd admit it.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{No one should admit being an artist unless they're paid for it.  If you go to the cabaret mention my name -- they'll find a table for you.}
+<ACTION>__{Turning round again.}
+<CHAR>__{ERNST} <CHAR_PAR>__{}
+<DIAL>__{Bizzlebek has ways and means denied lesser mortals.  It comes from working in the cemetery all day -- he's able to transcent the physical world.}
+<ACTION>__{Bizz1ebek turns round again, with a bored sign.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{No -- it only makes me view people dispassionately as so many ... slabs.}
+<ACTION>__{He looks about, characterizing various coffee house types:}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Quartz ... slate ... gravel ... granite ... flint ...}
+<DIAL_PAR>__{(and then)}
+<DIAL>__{Marble.}
+<ACTION>__{It's GABRIELA from the office.  Kafka is surprised to see her, instinctively walking over to where she's sitting at a far table.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<DIAL>__{My God, look, he's marching forward willingly to make human contact.}
+<ACTION>__{Anna smiles.  She's interested in Kafka.   (Which means we must see this warm attractive girl as a threat, a curse, a trap!)}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{--On the other hand, is an enticement.  Kafka can't  help walking towards her.  Sitting with her own friends, though there is something less than friendly about them.  Two men, two women.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as Kafka comes over)}
+<DIAL>__{Hello again.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I've never seen you here before.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Have you looked?}
+<ACTION>__{Kafka feels as awkward as she knows he feels.  He looks to her friends, expecting an introduction, but no one makes a move.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Well -- nice to know life exists outside the office.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ironic)}
+<DIAL>__{Yes.}
+<ACTION>__{Kafka nods goodbye and walks away, berating himself for banality.}
+<TRANS>__{CUT:}
+<ACTION>__{OUTSIDE - NIGHT Kafka resists going along with the others.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, really, I have to go home too.}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<DIAL>__{We're keeping him from his true vocation.}
+<CHAR>__{JULIUS} <CHAR_PAR>__{}
+<DIAL>__{I know, he  consists of writing. We wouldn't be his friends if we didn't threaten his solitude!}
+<ACTION>__{Julius is a little drunk.  The others help him with his coat.}
+<ACTION_ALT>__{ANNA}
+<ACTION>__{Has a private moment with Kafka.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{Where do you live?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Up there.}
+<ACTION>__{He gestures in the direction of the River, and the castle that looms on a far hill beyond, huge and brooding, regally dominating the city.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{I tried finding a place on Castle Hill when I arrived.  I wanted to share the majesty.}
+<ACTION>__{(The majesty of marriage is what he fears she represents. This innocent scene could very well be a subjective Kafkaesque nightmare as sinister in its own way as any of the more outright horrific scenes to come.)}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It's only majestic from here. When you get closer you see it for what it really is.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{What is it really?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{A glorified office block.  They keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.}
+<CHAR>__{ANNA} <CHAR_PAR>__{}
+<DIAL>__{Well, as long as I admire it from afar it shouldn't worry me if it's hollow.}
+<ACTION>__{(The castle of marriage tempts him -- but would suffocate him.)}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It's more than hollow.  It's stillborn.  For all its size it serves no purpose.  It's just there -- like death -- hovering over a breathing city.}
+<ACTION_ALT>__{THE OTHERS}
+<ACTION>__{Turn back into the picture.  Margarete pats Kafka sympathetically.}
+<CHAR>__{MARGARETE} <CHAR_PAR>__{}
+<DIAL>__{Don't worry about your friend -- I'm sure he'll turn up.}
+<CHAR>__{ERNST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a parting word)}
+<DIAL>__{What are you working on, Kafka?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm writing a story about a man who wakes up one morning to find himself transformed into a giant insect.}
+<ACTION>__{His friends glance at each other surreptitiously and don't know what to say -- other than goodnight}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Turns to go -- when he notices Bizzlebek leaning listlessly in the coffee house doorway.  A figure in the shadows.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{I've read your stories.  They're fantastic.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not sure if he believes him)}
+<DIAL>__{I don't know what you could have read.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Just what you've published.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- In magazines nobody reads.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{I read the one about the penal colony.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(cautious)}
+<DIAL>__{Did you?}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{The needles inscribing the judgement into the flesh of the man.}
+<DIAL_PAR>__{(looks impressed)}
+<DIAL>__{Very good.}
+<ACTION>__{Kafka suspects he's being mocked.  But perhaps not. Bizzlebek steps out, buttoning his coat.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{If I could sculpt as well as that, I'd be quite proud of myself.}
+<ACTION>__{He's already quite proud of himself -- tossing his scarf over his shoulder with a flourish -- and striding off into the night.}
+<TRANS>__{CUT:}
+<ACTION>__{THE CASTLE - NIGHT Seen from just below, from the ancient cemetery that borders its high, impregnable, imperial walls.  The all-seeing-eye of the city.  An awesome edifice.}
+<ACTION_ALT>__{THE BRIDGE OVER THE RIVER}
+<ACTION>__{Kafka walking across from the Old Quarter toward the New Town. He passes some working-class types who seem vaguely threatening.  Do they mutter some remark behind his back?}
+<TRANS>__{CUT:}
+<ACTION>__{ALCHEMISTS' ROW - NIGHT A bizarre street.  Tiny little houses that look fashioned by a toymaker, all bunched tightly next to each other, forming a continuous rooftop of odd configurations and angles and pointed chimneys.  The street named after practitioners of the black arts and dark sciences who inhabited it in the Sixteenth Century. Kafka's house is toward the back, a light shining from the single upper window.  Through it, Kafka is seen sitting at the only desk that really matters to him -- his writing one. KAFKA'S ROOM He's struggling to get a sentence right -- rereading it to himself.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{"As Gregor Samsa awoke one morning from disturbing dreams he ... from unsettling dreams ... uneasy dreams ... Gregor Samsa ... Gregor ...?"}
+<DIAL_PAR>__{(wondering)}
+<DIAL>__{Carl.  George.  Rudolf ...}
+<ACTION>__{Suddenly there's a loud KNOCK on the front door below.}
+<ACTION_ALT>__{DOWNSTAIRS}
+<ACTION>__{Kafka opens the tiny front door of this almost-miniature little house.  Two intimidating MEN stand outside, one tall, one short, wearing similar black suits and grim expressions.}
+<TRANS>__{CUT:}
+<ACTION>__{ANOTHER DOOR - NIGHT Kafka tries to match the exacting pace of his two warders, flanking him as they walk him along a corridor, through another doorway.}
+<ACTION_ALT>__{MORGUE}
+<ACTION>__{Kafka tugs his collar up a bit, his breath visible in the air.  He has a feeling what's going to be under the sheet on the lonely trolley in the middle of the room before the first man summons him over to it. Kafka goes.  The first man yanks the sheet off the face in one quick movement.  The face of Eduard.  White and bloated, the tongue jutting, the eyes bulging. Kafka recoils, stepping back instinctively.}
+<CHAR>__{SECOND MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still behind Kafka at the door)}
+<DIAL>__{You know him?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... Yes.}
+<CHAR>__{FIRST MAN} <CHAR_PAR>__{}
+<DIAL>__{His name is Eduard Raban?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... Yes.}
+<ACTION>__{And now he hears a stirring in a dark corner.  He looks up again. A third man steps out of the shadows where he's been quietly standing and walks over to Kafka.  He is a severe man, stolid, dedicated, and never smiles.  He reminds Kafka of his father.}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with an introductory nod)}
+<DIAL>__{Inspector Grubach.}
+<TRANS>__{CUT:}
+<ACTION>__{INSPECTOR'S OFFICE - NIGHT The Inspector behind his big desk.  Kafka in front of it.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Kafka -- is that your real name?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Yes.  Yes, of course -- why wouldn't it be?}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{When was the last time you saw Mr. Raban?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Wednesday.  We left the office together.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Did you go anywhere afterwards -- to have a drink perhaps?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, we said goodbye outside the building.  He went off, as usual, toward his house.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(consulting papers)}
+<DIAL>__{Your office is the Workmen's --}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- Accident and Compensation Association.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Where you've been employed for seven years.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Eight -- and seven months.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Engaged in the manufacture and distribution of ... pills and so forth.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Well -- other departments are, yes.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Would you describe your relationship with the dead man as close?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Yes.  Since he came to the office, almost three years ago, we've been quite good friends.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{How was Eduard ...}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{He was found in the River.  Could he swim?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I don't know.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Was he depressed?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No.  He didn't seem to be.  Do you think he drowned himself?}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Grown men don't normally fall into the river, do they?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, I suppose not.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(closing the file)}
+<DIAL>__{He might have had a drink or two, despite what you think.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as the interview seems to be over)}
+<DIAL>__{Can I ask -- how you found me?}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{His landlady knew of no other friends to refer us to.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I don't think he really had any. He had no family either.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{We know that.}
+<ACTION>__{Pause.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He wasn't a lonely man, though.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{What makes you think so?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... Just a perception.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{HALLWAY}
+<ACTION>__{Kafka comes out of a door that closes behind him.  He stands and waits.  At a high desk a POLICEMAN is reading a newspaper.  Without even looking up from it he extends his arm and pushes Kafka slightly to one side so he's no longer blocking the light. Two other MEN are here waiting, sitting on a bench, sharing a private joke.  Kafka glances down at himself, wondering if his appearance could in any way inspire ridicule. The door opens again and the Inspector is back.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{I don't usually involve myself with you people in the Old Quarter -- but the River runs its own course. It won't be the last time it deposits its unwanted debris on my doorstep.}
+<ACTION>__{Pause.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Probably not.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Anyway, I'd like you to reflect that in me you have -- I won't say a friend, because we're complete fencers, of course -- from distinctly incompatible social classes -- but to some extent, shall we say, an interested third party.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'll bear that in mind.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hands Kafka his card)}
+<DIAL>__{-- Should you happen upon anything that might be relevant.}
+<ACTION>__{He nods curtly at Kafka, and shuts his door.}
+<ACTION_ALT>__{THE TROLLEY}
+<ACTION>__{With Eduard's sheet-covered form on it, coming down the hall, the SQUEAKING WHEELS of the thing loud on the wooden floor.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{The noise causes him to turn around.  He watches the trolley as it's pushed past.}
+<TRANS>__{CUT:}
+<ACTION>__{AN OFFICE TROLLEY - DAY Similarly coffin-like, loaded with files.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Edges out of the way to let it by, feeling as though it has been made for him, is waiting for him. He walks on to the Chief Clerk's office. CHIEF CLERK'S OFFICE Kafka comes in.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You wanted to see me, sir.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(indicates a chair)}
+<DIAL>__{Sit down, Kafka.}
+<ACTION>__{Kafka does.  And the Chief Clerk stands up.  He paces up and down a bit, making Kafka awfully nervous before he finally clears his throat and starts to get to the point.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{You've been with the firm for nearly nine years.  You've done your work diligently, there are no complaints on that score.  But there's more to the job than the work -- there are other people to consider -- and frankly, Kafka, we eel your social situation could bear improving.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... My ... social situation?}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{You keep too much to yourself -- you're a lone wolf.  It makes me uneasy, and if it makes me uneasy I can't imagine the impression you make on lesser employees.}
+<ACTION>__{The Chief Clerk, towering over him, also reminds Kafka of his father.  Kafka tries putting up a defense.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{To do my work well, I have little time for --}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{You must make the time.  Where do you go off to in the lunch hour?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I usually take lunch by the River.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{It's not healthy, Kafka -- not for you and not for your workmates.  At the annual dinner this month you again failed to make an appearance.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I did not realize it was obligatory.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Have you never wondered -- and I mention this only in passing --}
+<DIAL_PAR>__{(as he paces past and Kafka turns his head)}
+<DIAL>__{why other clerks have advanced to more responsible positions while you, who have been here longer, have not?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, sir.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Attitude, Kafka.  It doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(leans forward in rebuttal)}
+<DIAL>__{Well, I --}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(keeps pacing)}
+<DIAL>__{Oh, I know you got along with that poor fellow -- what was his name?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- Eduard --}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{-- Yes -- Raban -- but he was too much like you -- even more so perhaps.  He wasn't here as long as you, so I didn't know him as well -- but I could see the influence he was having.  I simply want you to be aware of this because you'll be happier for it.}
+<ACTION>__{Kafka merely nods, starts to get up.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{In any case -- don't ask me why -- the word has come down you're to be promoted.}
+<ACTION>__{Kafka sits back down in the chair.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Your colleague's death has helped precipitate the need, though I can tell you it's been under consideration for some time.  You're to be given two assistants and a commensurate rise in salary.}
+<DIAL_PAR>__{(sits back behind desk)}
+<DIAL>__{That's all.}
+<ACTION>__{Kafka nods once, starts to go again.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Kafka.}
+<ACTION>__{Kafka turns.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{I understand you fancy yourself an author.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(almost visibly cringes)}
+<DIAL>__{In a small way.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{You might find a more athletic hobby -- put some color in your cheeks.}
+<ACTION>__{He returns to his paperwork.  Kafka leaves. OUTSIDE CHIEF CLERK'S OFFICE Walking away, Kafka notices Gabriela striding along an office corridor -- and sneaky Burgel confronting her.}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{She looks distressed, walking tall as if to bolster her composure.  Sneaky Burgel does not help matters by characteristically appearing from the sidelines.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Good morning --}
+<DIAL_PAR>__{(she ignores him)}
+<DIAL>__{Or should I say good afternoon?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Say what you like -- no one pays the least attention.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(walking quickly alongside her)}
+<DIAL>__{Oh, don't they?  I think you underestimate my station in this office and overrate your own.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Not today, Burgel.  Send one of your memos, write up one of your communiques, but for God's sake don't bother me today.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{It's my place to offer advice, not yours -- and by advising the Chief Clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stops to glare at him)}
+<DIAL>__{You're just doing your job.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{It's what I'm paid to do.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You're detestable.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{And you're late!}
+<ACTION>__{Suddenly, in a terrific release of pent-up emotion, she slaps him hard across the cheek, the first of what would be a flurry of blows if not for the fact that the unexpected force of it throws Burgel reeling backwards before she can deliver any more.  Instead she rushes away, very upset.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{As startled as the rest of the office by the incident. Burgel recovers, straightening up in shock and embarrassment.  He immediately resolves to march directly to the office of the Chief Clerk. Seeing him coming, Kafka quickly starts away.}
+<TRANS>__{CUT:}
+<ACTION>__{THE ASSISTANTS - DAY OSKAR and LUDWIG.  They look almost the same.  At first glance almost identical.  It's only a closer inspection that shows them to be imperfect twins.  Dressed in matching suits. One is sitting on Kafka's new desk, the other in Kafka's new chair.  They're rummaging about in his papers, and whenever one selects a particular document for closer scrutiny, the other promptly snatches it out of his hand.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Coming this way, has paused, having spotted the weird duo.}
+<ACTION_ALT>__{THE ASSISTANTS}
+<ACTION>__{Continue with their mischief until one of them notices Kafka coming and nudges the other so strongly he almost falls over.  They're both standing at attention, looking guilty, by the time Kafka arrives.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{My assistants, I presume.}
+<CHAR>__{ASSISTANTS} <CHAR_PAR>__{}
+<DIAL>__{Yes -- that's us.}
+<ACTION>__{Kafka smiles at them, half in friendliness, half in amusement at their quirky appearance.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(offers his hand)}
+<DIAL>__{I'm Kafka.}
+<ACTION>__{Oskar responds first, but Ludwig knocks his hand out of the way to get there first.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking hands)}
+<DIAL>__{Ludwig.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(now it's his turn)}
+<DIAL>__{Oskar.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You look like brothers.}
+<CHAR>__{ASSISTANTS} <CHAR_PAR>__{}
+<DIAL>__{Yes -- we do.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Have you worked here long?}
+<CHAR>__{ASSISTANTS} <CHAR_PAR>__{}
+<DIAL>__{No, no, no -- quite a long time, yes.}
+<ACTION>__{Kafka doesn't quite know what to make of these two, but they seem pleasant enough fellows and they're looking at him with such wide-eyed innocence he doesn't know what more to say to them.  So he turns to look around the new area he's been assigned -- a burrow all to himself now -- even a personal clothes peg on the wall for his coat. The Assistants make stupid faces at each other behind his back, but look serious again when he turns around.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Well, we'd better move things from my old desk.}
+<ACTION_ALT>__{ASSISTANTS}
+<ACTION>__{Look at each other with identical frowns, then back at Kafka.  Oskar nods, as if to say "oh, all right, if we must."  And Ludwig grins.}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S NEW OFFICE - DAY Kafka types up forms.  He hears some noise and glances over his shoulder to see how the Assistants are getting on -- they're sharing another desk, facing each other, and seem to be working quietly, though with pouting expressions. Kafka rolls a new form into the typewriter -- when a shadow falls over the page.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Eduard and I had lunch together one day ... and you saw us.}
+<ACTION>__{Kafka looks up at her.  He nods.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{On the Embankment.}
+<TRANS>__{CUT:}
+<ACTION>__{THE EMBANKMENT - MIDDAY Kafka and Gabriela stroll by the River, Kafka finishing off his lunch as they go, occasionally offering tidbits to Gabriela who either samples or refuses them.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I was having an affair with Eduard.}
+<DIAL_PAR>__{(notes Kafka's reaction)}
+<DIAL>__{He didn't tell you?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{He would have.  You were his best friend.  A better friend than me.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I suspected that he -- well.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{That he was -- satisfied in that regard.  I didn't want to pry.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(throws her hair back proudly)}
+<DIAL>__{It's not that we wanted to deceive anyone -- but you know how these things are looked upon at the office.}
+<ACTION>__{Kafka lets out a smile at that.  Gabriela is suspicious of smiles.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{What's funny?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{This morning it was suggested to me that my own sense of office fellowship could bear improving.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{As long as it's on their terms. If your work and your private life don't correspond to their specifications you're labelled a dangerous agitator -- with no recourse whatsoever.}
+<ACTION>__{The gnarled, barren branches of a nearby tree shiver over the two of them.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{How long were you and Eduard --}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Two or three months, that's all.}
+<DIAL_PAR>__{(adds)}
+<DIAL>__{-- I seduced him.}
+<ACTION_ALT>__{HIGH TERRACE}
+<ACTION>__{A flight of stone steps takes them up here to this vantage spot overlooking the River and the city beyond.  Kafka stands by a railing -- and the huge, distorted shadow of SOMEONE looms suddenly on the high wall under him.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You know as well as I do that he didn't commit suicide.}
+<ACTION>__{Kafka looks at her.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No, I don't.  I'm amazed that anyone is able to bear life with any assurance at all.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Eduard didn't see it as something that needed bearing.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The police would know the difference, wouldn't they?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Do you think people in the New Town care what happens over here?}
+<DIAL_PAR>__{(nodding across the water)}
+<DIAL>__{This will always be the ghetto.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He wasn't robbed.  He was identified by his wallet.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{And you believe everything the authorities tell you.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{When I have no reason to doubt.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{The very fact that they're authorities should give you reason. People will do anything to protect their own interests.  For all you know he was killed at the  hands of the police.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- What could he have done to warrant that?}
+<ACTION>__{For a moment she seems about to tell him, but then looks away.  Kafka follows her gaze.}
+<ACTION_ALT>__{IN THE DISTANCE}
+<ACTION>__{Someone else has paused at the embankment wall further away to stare at the roiling water.  He's too far away to see clearly.  Probably nothing sinister about him at all. Still ...}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{Turns back to Kafka.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Are you free tonight?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Tonight?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{There are some people I'd like you to meet.  Can you come to the Musil district at eight o'clock?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... All right.}
+<ACTION>__{Her eyes lock on his for a moment.  She's beautiful.  He's fearful.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You almost married recently, didn't you?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Last year.  I -- it was broken off.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Eduard wanted to marry me.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{And you ...?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I'm suspicious of men who want to marry.  I believe they think it's the only thing that will make them equal to their fathers.}
+<ACTION_ALT>__{THE SHADOW ON THE WALL BENEATH}
+<ACTION>__{Disappears, the ominous black mass flowing off the large flat surface as abruptly as it arrived.  While up there on the terrace we see Gabriela walk away from Kafka.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Stays where he is a moment, watching her.  He may have found his ideal woman.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(then follows behind her)}
+<DIAL>__{-- I don't know the Musil district.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(without turning)}
+<DIAL>__{You won't have any trouble finding it.}
+<TRANS>__{CUT:}
+<ACTION>__{FAT MEN - NIGHT Sit laughing, jowls gyrating, around a table filled with an abnormal amount of food.  One of them stops laughing then, and the others follow suit, one after the other in turn, until they're all silent, looking at the same thing. We're in a fancy restaurant, and the other customers have also turned away from their dinners for the moment to stare at the Man in Black who stands before the Fat Men. The man wears a black mask as well.  He presents the Fat Men with a covered tray.  They look at it, then back at him -- but he's walked away.  They look at the tray again -- and one of them lifts the cover.  Underneath lies the classic black bowling ball -- with a fuse burning at the top.  The Fat Men all try to stand up at once but -- BOOM!  Their booth explodes with them in it. At the doorway, holding a revolver loosely in one hand to discourage heroes, the Man in Black turns calmly to face the stunned restaurant.}
+<CHAR>__{MAN IN BLACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hoarse voice)}
+<DIAL>__{Long live anarchy!}
+<ACTION>__{He leaves.  Fire in his wake.}
+<TRANS>__{CUT:}
+<ACTION>__{THE OLD TOWN - NIGHT Kafka walks the crooked streets -- in the direction of the plume of smoke and illumination coming from the burning restaurant. In the dark distance behind him there seems to be a person following him.}
+<ACTION_ALT>__{NOISY BEER SHOP}
+<ACTION>__{Neighborhood denizens have come out, hearing all the excitement not far away.  Kafka walks past.  He looks behind him, but the following figure has gone.}
+<ACTION_ALT>__{TWISTED LITTLE STREET}
+<ACTION>__{Kafka comes around a curve -- and sees ahead a dark figure a black cape standing waiting under a lone lamppost.  When Kafka gets a bit nearer, the figure starts to walk slowly away, as if expecting Kafka to follow.}
+<ACTION_ALT>__{DIRTY YARD}
+<ACTION>__{The dark figure walks alongside a row of black window panes, turning around the corner where they end.  Kafka follows around the corner -- and through a dingy doorway.}
+<ACTION_ALT>__{A LOPSIDED STAIRWAY}
+<ACTION>__{Leads him up to a large attic.  Warning shadows.}
+<ACTION_ALT>__{ATTIC}
+<ACTION>__{Gloomy except for the light around a table at a far end. Kafka advances, seeing Gabriela sitting there with her same companions from the coffee house.  Kafka stops in front of the table.}
+<CHAR>__{VOICE FROM BEHIND} <CHAR_PAR>__{}
+<DIAL>__{Please sit down.}
+<ACTION>__{Kafka turns to see the last of the group come in, having obviously tailed him all along.  A burly man with a BEARD. The leader of this anarchist cell. Kafka sits down, in between a SOLEMN man with a moustache and a woman with a POCKMARKED face.  The seedy YOUTH who led him in completes the circle.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{We'll save the introductions.}
+<DIAL_PAR>__{(takes his seat)}
+<DIAL>__{We don't know yet if you're friend or foe.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Strangers make better foes than friends.  Will you tell me who you are altogether, if not individually?}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Heralds of a new age -- does that sound immodest?}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{You could say we represent the un official view of a well-ordered society.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Gabriela)}
+<DIAL>__{Ah -- we're back to the "authorities" you spoke of.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{They're ubiquitous.  What we try to do ... is make them a little less so.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Quite a disturbance tonight, yes? And perhaps you recall last month -- the explosion at the Municipal Courthouse that sent one of the examining magistrates to join the heavenly choir.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(disbelieving)}
+<DIAL>__{... Was Eduard one of you?}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{The last to join us, the first to leave us.}
+<ACTION>__{Gabriela darts a fierce look at her overly-flippant colleague.  And Kafka is sad about his dead friend for a different reason.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... Why take me into your confidence?}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{That's obvious, isn't it?  We have an opening for a new member.}
+<ACTION>__{After a moment's pause, Kafka stands up.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I nominated you as a possible candidate.  You were Eduard's good friend.  He read me some of your work.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I've hardly published enough for anyone to draw conclusions from.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You strike me as a man with a defined notion of injustice -- a high concern for the lot of your fellow men.  And yet you're able to remain an outsider.  With the concomitant air of ... superiority?}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{In short, a higher man.  It's what we want.  It's what we need.}
+<ACTION>__{Kafka notices that the Bearded Anarchist has a tattoo on the back of his hand.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The distance to my fellow man is for me quite a journey.  As for being an outsider, it's never been a matter of choice.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as Kafka starts to leave)}
+<DIAL>__{-- They may have instituted proceedings against you.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turns)}
+<DIAL>__{What proceedings?}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Preliminary investigations may already be underway.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{You were his friend.  One link is all they need.}
+<ACTION>__{Kafka sits down again.  He tries not to be distracted by the Solemn Anarchist who says nothing but who takes an uncommon interest in seeing how many matches there are in the matchbox he's been fiddling with.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{The day he died, Eduard was called up to the Castle.  Did you know that?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shakes his head)}
+<DIAL>__{What of it?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{He was summoned to help correct a minor discrepancy of some sort in the Medical Records Division. Apparently one of his claims was relevant.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Merely in the interests of order, you understand.  The officials at the Castle like to cover their tracks.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{He was never seen alive again.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{And you still maintain -- what? That he was murdered.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{He was murdered.}
+<ACTION>__{A skylight casts moonglow over the proceedings.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{As you can imagine, a pass into the Castle -- hardly ever granted -- was an opportunity we couldn't ignore.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{The Castle represents every anachronism that needs to be destroyed if progress is to be made.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{As you know, it's not the most accessible location.  Far from being depressed, Eduard was particularly excited when he brought us the news of this chance invitation. He set off that evening carrying one of our custom-made briefcases instead of his own.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gauging Kafka's reaction)}
+<DIAL>__{You're shocked at the thought of Eduard tossing a bomb through a window.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I have no right to be, I know.  My experience with real life  is practically nil.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{When you only see someone sitting at a desk all day, it's liable to create a false impression.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{People must think the same of me -- a quiet, dependable person.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{You don't have to accept everything as true, my friend.  You need only accept it as necessary.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{As the bomb never went off, we can only assume he was caught with it -- and summarily executed.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Merely in the interests of order.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{The formality of a trial would be too costly for them.  They're beginning to understand that it's the ensuing news of our actions that incites support.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Propaganda of the dead?}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{The Castle will deny he was there any longer than his business required. They're just file clerks up there.  No doubt he was handed over to the police with the utmost discretion.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{In any event, we've felt no repercussions as yet.  Eduard must not have talked.  You're the one they contacted.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{So that's who my foes are -- policemen and file clerks.  Law and order, you might say.}
+<ACTION>__{The Solemn Anarchist looks up from his matchbox.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You think what we're doing is so wrong?  And what are you doing? Pursuing goodness?  For what?  To answer to some supreme tribunal?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{My only concern is the human tribunal.  Isn't it yours?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Yes -- which is why "quiet, dependable people" have to take charge of their own lives.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{At the cost of others?  You accuse people of murder without trial -- apparently without irony.  Did you go to the Castle with Eduard?}
+<DIAL_PAR>__{(apparently not)}
+<DIAL>__{Then you have no idea what really might have happened that night at all -- even before or after he got there.}
+<ACTION>__{He stands to leave again.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Your human tribunal will betray you.  Just as its members will be betrayed when they find no supreme one}
+<ACTION>__{Kafka starts walking away.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Join us, Kafka.}
+<ACTION>__{Kafka keeps on going, the anarchists growing smaller as they're left behind in their far corner of the long attic.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{It's sheer folly for anyone to try to pull through alone.}
+<TRANS>__{CUT:}
+<ACTION>__{MANIACAL LAUGHTER - BEFORE DAWN Seeming to emanate from pitch blackness -- but then suddenly, fast, out of a tunnel under a bridge come running three terrified VAGRANTS, roused from slumber and scared out their wits by the ghastly, crazed CACKLING chasing after them, ECHOING under the arches. They're at the river's edge, all running wildly, slipping and stumbling, every man for himself, as they desperately try to escape from whatever madness is closing in behind them. Now from out of the tunnel appears their pursuer, seen only from the back, literally shaking with insane, involuntary, howling LAUGHTER.  A horrific human hyena, far further gone than the sad wretches he's cornered here on this foul, moss-covered ledge in the cold wind. Seeing him, the vagrants freeze in their various positions -- then turn in panic to flee again as he starts after them, moving like an animal, a killer predator, laughing horribly as he goes. The First Vagrant, propelled by fright, manages to make a stunning leap up a wall to grab onto some overhanging chains and pull himself up.  The Second Vagrant finds himself trapped at the edge of the ledge -- with the Laughing Man choosing him as the one to go after first.  He turns and jumps into the river.  The Laughing Man, face still unseen, turns toward the climbing vagrant instead -- who clambers over the top just in time as the Laughing Man's fingernails claw the moldy wall beneath him. The Third Vagrant has made it to some steps, and down them -- glancing back to see the Laughing Man coming after him -- to the small patch of muddy beach at the bottom, grey river water lapping at his ragged shoes.  He doesn't know what to do -- he doesn't know how to swim!  The Laughing Man is running down the steps now.  The Vagrant starts wading out into the water, crying out in fear as the HOWLS behind him come closer and closer -- he throws himself forward, splashing vainly -- and feels the Laughing Man grabbing his ankles, pulling him back. The Vagrant's screams join the Laughing Man's insane giggles as they thrash around violently in the water.  The Laughing Man drags the Vagrant back to the beach, then back up the Steps, the Vagrant struggling helplessly, his head banging from step to step, his hands flailing around but finding nothing to clutch onto, his screaming going unheeded in this lonely part of the sleeping city. The Laughing Man drags him on, back to the slippery ledge and along it, dragging the Vagrant on his back through a filthy sewer alongside the wall, the Vagrant's cries choked by the stagnant water, but continuing as the Laughing Man drags him back into the dark tunnel, under the bridge, the two of them disappearing into the blackness again, their combined SHRIEKING louder than ever as it ECHOES horribly around the damp stone, then dimming as they go deeper and further away, unseen, until the screaming and the laughter can no longer be distinguished.}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S OFFICE - MORNING Kafka walks toward his desk.  Nearing, he sees the Assistants laughing in lunacy between themselves.  They hush up immediately when they notice him, and are pretending to work when he arrives.  He watches them out of the corner of his eye as he arranges himself at his chair.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{How was your evening?}
+<ACTION>__{At this sign of sympathy they immediately scuttle their chairs closer to him.}
+<CHAR>__{ASSISTANTS} <CHAR_PAR>__{}
+<DIAL>__{Fine -- terrible.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(uncovering his typewriter)}
+<DIAL>__{What was the matter with it?}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(indicating Ludwig)}
+<DIAL>__{He can't sit still.  Just when we arrive at a nightclub he wants to go to another one.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Kafka)}
+<DIAL>__{You look tired.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(interrupting)}
+<DIAL>__{Gabriela Rossman was here looking for you.  Do you know her?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking up)}
+<DIAL>__{Do you?}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{We saw her naked once -- didn't we.}
+<ACTION>__{He elbows Ludwig violently.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{Women are all you have on your mind!}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{She went to the roof to sunbathe one lunch hour -- we watched her changing.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I didn't realize you'd been here that long.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{You mean because it's been a while since there was a sunny day?  What a good detective you are.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{They keep switching us from department to department.  He doesn't mind because he can't sit still.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{We used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{It's not too bad working here.}
+<ACTION>__{Kafka stands up, pleased for them in their innocence.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You don't think it's a horrible double life from which there is probably no escape but insanity?}
+<ACTION>__{The Assistants look at each other, perplexed by this attitude.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm glad for you.}
+<ACTION>__{He starts to go.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calling after him)}
+<DIAL>__{You should be content, you know!}
+<ACTION>__{The stick-like figure of Kafka turns into the long center aisle, walking between the endless rows of busy desks.  He sidetracks, taking a shortcut along a narrower aisle toward the exit he's heading for.  Another clerk is coming the other way and they both at the same instant turn sideways to sidle efficiently by one another, an almost balletic maneuver, perfected after years of office experience, nothing more than a short breath of air passing between them.}
+<TRANS>__{CUT:}
+<ACTION>__{GABRIELA'S SECTION Kafka working his way toward Gabriela's desk -- but he stops before he gets to it, a familiar shiver running through him.}
+<ACTION_ALT>__{THE DESK}
+<ACTION>__{Empty.  The chair pushed squarely under it.  The typewriter covered.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Stares at it -- then at the ermine Mr. Burgel who has once again popped up out of nowhere.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{Are you looking for Gabriela Rossmann?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{Burgel bows sarcastically to hand Kafka an envelope.  Then chuckles spitefully, obviously knowing something Kafka does not.  He walks off, leaving Kafka uneasy.}
+<TRANS>__{CUT:}
+<ACTION>__{EDUARD'S LODGING HOUSE - DAY Kafka bounds up the stairs. EDUARD'S LANDING The door to his room is open.  Kafka goes in. EDUARD'S ROOM Kafka comes in.  Gabriela is here, gathering up Eduard's belongings from drawers.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hardly glancing at him)}
+<DIAL>__{I'm collecting Eduard's things. If there's anything you want, take it or I'll give it to charity.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taking her note from his pocket)}
+<DIAL>__{Burgel gave me this -- what does it mean?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(now looks up)}
+<DIAL>__{Burgel! -- I didn't leave it with him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(going closer)}
+<DIAL>__{Why were you given notice?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{They're not obliged to tell.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It couldn't be for that incident with Burgel the other day.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Of course it could -- Burgel's been trying to get me thrown out as long as I can remember.   He could've killed Eduard.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You don't believe that.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I wouldn't put it past him.}
+<ACTION>__{She's stuffed the last of the clothes into a small bag, goes to take the few other possessions from shelves and elsewhere. Kafka notices that he's standing by a dumbwaiter.   For lack of anything better to do he pulls the rope to bring it up. It's filled with more clothes.  Gabriela comes over with her bag, holding it out for him as Kafka puts the clothes in -- but not as many clothes as they thought.  Behind the bundle, hidden at the back, is a briefcase. Gabriela recognizes it.  Kafka sees her surprised reaction. He removes the case and carefully flips the latches.  Inside, a complex mechanism, wires connected to a clock -- and a clump of dynamite. Kafka just looks at it sadly.  He closes the case.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It seems I knew Eduard a little bit, after all.}
+<ACTION_ALT>__{GROUND FLOOR OF BUILDING}
+<ACTION>__{The ratty old concierge peeks up the stairs inquisitively. In the doorway of his room, a LODGER clips his fingernails at a little folding table, neatly lining them up.  The concierge turns and notices.}
+<CHAR>__{CONCIERGE} <CHAR_PAR>__{}
+<DIAL>__{Lodgers!  Not one of them thinks to spare me such spectacles!}
+<ACTION>__{She slams the door on him then returns to her own apartment, slamming that door too.  The hallway is empty now. EDUARD'S ROOM Gabriela turns to Kafka.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{You might think -- I thought so myself at first -- that Burgel's too insignificant to be dangerous. But that's the very reason to beware! It's the small men to watch out for -- the ones who substitute method for character.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sighs at her relentlessness)}
+<DIAL>__{Now you've fallen into his trap. When he goes to bed at night Burgel dreams of inspiring as much fear in others as they inspire in him.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{It's still easier for you to understand suicide, isn't it.}
+<ACTION>__{She's got his number.  He's so in awe of her he has to turn away -- looking out the room's small window.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{That street down there -- I always used to call it the approach road for suicides.  It leads straight down to the bridge and the River.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Burgel hated Eduard.  And me.  I'm sure he knew about us -- and I'm sure it drove him mad.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Burgel doesn't like anybody!}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{He used to like me -- very much more than I liked him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He's jealous, yes, but  that jealous?  He's too cautious.}
+<ACTION>__{Gabriela clears some more items off a mantelpiece with a sweeping gesture.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Of course he is -- the Castle precincts are not the safest part of the city after dark.  People disappear up there regularly.   If you want to lie in wait for someone, that's the place to do it.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Now you're saying Eduard was lured there?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(puts away the last few books)}
+<DIAL>__{How often does one of our clerks have business in the house of records?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I've heard of it happening.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{And Burgel is the bringer of messages, isn't he?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Usually.}
+<ACTION>__{Putting the bag down, Gabriela goes closer to Kafka, so close he almost cowers.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Or what if there really  was an error? -- I don't know what kind -- any kind that needed correcting -- and what if Burgel was responsible for it?  One mistake -- even a small one in a firm like ours -- it could cost him a promotion.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{First these nameless authorities were the root of all evil, now it's insignificant Burgel.  If indeed there was a mistake -- and a minor one at that -- you're suggesting someone went to a lot of trouble over something so trivial as to not matter at all.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{What seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Now Burgel's one of the authorities?}
+<ACTION>__{She turns away from him, reddening.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{For all his big talk he is.  Does he really have access to the Directors of the firm as he always claims?  -- or only the Deputy Managers -- people of no importance whatsoever.  Someone ought to follow  him for a change.}
+<ACTION>__{Kafka sees an opportunity to go to her, to try to calm her, to make a timid approach to this woman.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You won't make any sense of it while you're upset.}
+<ACTION>__{-- But she breaks away.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Burgel is only there for one purpose -- to spy on the employees and report any and all indiscretions, real or imagined.  If he didn't send Eduard to the Castle, you can be damn sure he's in league with whoever greeted him there.}
+<DIAL_PAR>__{(very upset now)}
+<DIAL>__{All those bastards are in league with each other -- why can't you see that!}
+<ACTION>__{She takes hold of him as if to shake some sense into him -- but really because she needs someone to hold.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... I don't see anything.  I see a message on its way to me -- with all the right answers.  Only it never arrives -- it's always just on its way.}
+<ACTION>__{Gabriela doesn't seem to be listening.  She's looking around. the little room, as if it's someone else she's holding ...}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Eduard ...}
+<ACTION>__{Her head against his, Kafka tentatively touches her hair and she pulls away, the spell broken.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Your ignorance of the way things are here is so appalling that it makes my head spin to listen to you and compare what you say and have in mind with the real situation!}
+<ACTION>__{She storms out, vehemently picking up her bag on the way out, and slamming the door quakingly behind her. Kafka is too astonished at her behavior to make a move for a moment, then he glances at the bomb-case she's left behind, then he goes out to the landing.}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{Rushing down the stairs in anger, tearing open the door at the middle landing and slamming that one too once past it.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Following her down.}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{Coming down the final flight of stairs, disappearing through the door at the bottom, slamming that one as well.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Almost caught up with her, coming down to the last door.}
+<ACTION_ALT>__{GROUND FLOOR HALLWAY}
+<ACTION>__{Kafka comes through the door from the stairs, out of breath, and stops.  He's too late.  The hallway is empty.  The front door at the end of it is shut.  He makes a face and a moment later starts to go back up.  Then stops again.  Turns.  Looks back at the front door.  ... The one he  didn't hear slam.}
+<ACTION_ALT>__{OUTSIDE}
+<ACTION>__{The front door opens and Kafka steps out.  He stands on  the stoop.  He looks up the street one way.  Deserted.  He looks down the street the other way.  Deserted.}
+<TRANS>__{CUT:}
+<ACTION>__{INSIDE - DAY Kafka leads the police Inspector back along the lodging house hallway.  The two subordinate policemen follow behind.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{You said she was extremely upset. People who are extremely upset -- Kafka -- are given to disappearing in a hurry.  They go and calm down for a day or so and then they come back.}
+<ACTION>__{They've come to the door to the stairs now.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{But that's just my point -- she was more than upset, she was livid. She slammed every door on her way downstairs -- except that one.}
+<DIAL_PAR>__{(points at front door)}
+<DIAL>__{I was just behind her and I didn't even hear that one  shut -- not at all.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{That's not what I call conclusive evidence of an abduction.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{If someone was waiting here in the hallway to spirit her away, wouldn't they have shut the door as quietly as possible?}
+<ACTION>__{The Inspector stares at him.  The two other policemen roll their eyes at each other.}
+<TRANS>__{CUT:}
+<ACTION>__{EDUARD'S ROOM Kafka keeps his eye on the two policemen as they poke around, one of them getting close to the dumbwaiter.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{Why would someone want to kidnap this woman -- the name is Rossmann?}
+<ACTION>__{He says it rather derisively, separating the syllables of the name.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You told me to contact you if anything relevant came up -- Gabriela is relevant.  When I spoke to you before I didn't know she'd been seeing Eduard.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{That's been noted.  But where does it lead us?  Unless you have something more to add.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{She's missing.  I went to her house and she hadn't returned there.}
+<ACTION>__{The policeman at the dumbwaiter peers down the shaft -- but then moves on.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{She lost her job today.  Just between you and me, I'd probably go away and brood a bit myself.}
+<ACTION>__{He signals his men, time for them to go.}
+<ACTION_ALT>__{STAIRWAY}
+<ACTION>__{The two Policemen lead the way back down, the Inspector behind them, Kafka remaining on the top landing.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(manages to blurt out)}
+<DIAL>__{Maybe it's true then what she said.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pauses)}
+<DIAL>__{What did she say?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{That the police may have allegiance to something other than truth.}
+<ACTION>__{The two other policemen look at each other ominously.  The Inspector turns to them, giving them a look, and they go off down the stairs.  The Inspector plods back up to Kafka Like a stern parent. They confront each other, Kafka trying not to cringe too baldly.  Scary shadows around the bizarrely-angled stairway.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- She didn't think Eduard committed suicide.}
+<DIAL_PAR>__{(then)}
+<DIAL>__{Any more than I do.}
+<DIAL_PAR>__{(then)}
+<DIAL>__{She was convinced of it.}
+<ACTION>__{Pause.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{I'm going to say something, and I hope it's quite clear because I won't be repeating it.}
+<ACTION>__{People treat Kafka like a child.  And other people seem big to him anyway.  The Inspector leans his face very close.}
+<CHAR>__{INSPECTOR} <CHAR_PAR>__{}
+<DIAL>__{We don't have to hunt for criminals. We're drawn towards them.  The guilty show us the way.}
+<ACTION>__{He leaves Kafka alone on the top landing.}
+<TRANS>__{CUT:}
+<ACTION>__{CONTINENTAL COFFEE HOUSE - NIGHT Kafka comes in, looks around, doesn't see his friends anywhere.  But at the bar, at his usual perch, is Bizzlebek, the coffee house habituE.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Where are your friends?}
+<ACTION>__{Kafka turns and looks at him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Good question.   Who are my friends ... would also be of interest.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{TABLE}
+<ACTION>__{Bizzlebek sits listening to Kafka's tale of woe.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(staring into steaming coffee cup)}
+<DIAL>__{Gabriela was right -- it's easier for me to understand suicide. I'm a practicing suicide.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(slightly mocking as ever)}
+<DIAL>__{-- In what sense?}
+<ACTION>__{Kafka stares at men and women around the coffee house -- couples, holding hands, kissing.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Bachelorhood is just the slow form.  The bachelor doesn't sew seeds.  Only the moment matters. The space he occupies grows smaller and smaller -- until the only space right for him is his coffin.}
+<ACTION>__{Pause.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{These strange stories you write -- they come naturally, do they?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Naturally? -- that's not the word I would have chosen.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(seriously)}
+<DIAL>__{Where do you get your ideas?}
+<DIAL_PAR>__{(quickly)}
+<DIAL>__{Only joking -- I'm just joking.}
+<DIAL_PAR>__{(laughing)}
+<DIAL>__{Let's go to a brothel then, Kafka, come on.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I haven't got the energy.  I mean, I have to conserve my energy.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Why do you work in that hideous insurance office?  -- dealing with people who fall off ladders.  Now take me -- I make my living as a stone mason.  It's not my art -- but it's the  tools of my art.  You could be -- a journalist.}
+<ACTION>__{Kafka shakes his head sadly.  He's obviously heard argument before.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{That would be even worse -- it would be a compromise.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Success or nothing?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No -- not even success.  My writing is not for making a living -- it's for living.  Not for other people, it's for me.}
+<ACTION>__{He stares at a woman who reminds him slightly of Gabriela -- a sexy woman and the man with her treating her as a sexy woman.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... I'm the exile.  Gabriela was right about that too.}
+<TRANS>__{CUT:}
+<ACTION>__{CHARLIE CHAPLIN - EVENING Being chased around a table by a big bearded man in flickering black-and-white.}
+<ACTION_ALT>__{AN AUDIENCE}
+<ACTION>__{Watching, laughing.  A great sea of grinning teeth and teary eyes. Except one.  Kafka sits grimly alone near the back.  But suddenly he's not alone -- the Bearded Anarchist has sat down in front of him -- and now turns round, startlingly.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{We have another theory.}
+<ACTION>__{And the Pockmarked Anarchist is suddenly sitting beside him.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{We may have attached too little importance to the reason Eduard was summoned to the Castle to begin with.}
+<ACTION>__{And the Youthful Anarchist is behind him, thrusting his head suddenly forward.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- To correct a small discrepancy, you may recall.}
+<ACTION>__{The Solemn Anarchist is on Kafka's other side -- but he just watches the movie.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Ah, but what if it  wasn't ?}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Small.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- What if it was a  large discrepancy?}
+<ACTION>__{Kafka's head keeps turning around as they speak.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Yours is a very powerful and important firm -- it has a lot at stake.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Perhaps Eduard was closer than he knew to discovering it and so had to be silenced.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Or he was even more an innocent victim than that -- he was  chosen to bear the blame if the crime was uncovered by anyone else.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- The crime so scandalous that the poor young clerk committed suicide rather than own up to it.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{That's  mad .}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Oh, yes, it's mad.}
+<ACTION>__{The Solemn Anarchist suddenly laughs -- probably at Charlie Chaplin.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- You said so yourself the firm is large and powerful.  If the discrepancy really was something big, Eduard's responsibility would still have to be small.  No poor young  clerk could find himself in such a fix.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sarcastic grunt)}
+<DIAL>__{When a scapegoat is needed, my friend ...}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{We have to know what he was working on at the time of his death.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He worked on routine claims.  His visit to the Castle was probably as minor a mission as he said it was.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{Why are you so aggressively unimaginative?  Eduard is no longer the only casualty.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Then why haven't I been --}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Kidnapped or murdered?  Because your connection with Eduard was obvious and above board -- not as easily misconstrued.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Not secretive, therefore not suspicious.}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- Gabriela, on the other hand, had made an enemy of this man Burgel.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(head turning, exasperated)}
+<DIAL>__{Oh, Burgel!  Gabriela was having an affair with Eduard.  They were both members of  this group .  If any crime's been discovered and people are paying for it, I'd look to yourselves !}
+<CHAR>__{POCKMARKED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{The loyal civil servant.  I suppose you'll deny that shortchanging the workers to whom compensation is due is standard company policy.}
+<CHAR>__{BEARDED ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{It wouldn't surprise us if the discrepancy was between medicines sent and medicines received.}
+<CHAR>__{YOUTHFUL ANARCHIST} <CHAR_PAR>__{}
+<DIAL>__{-- People die for such discrepancies.}
+<ACTION>__{Kafka's head is spinning -- and the Solemn Anarchist suddenly looks at him.}
+<CHAR>__{SOLEMN ANARCHIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(the hoarse voice of the restaurant bomber)}
+<DIAL>__{We must have a look at Eduard's file. cut:}
+<ACTION>__{STORAGE SECTION - DAY Kafka follows the KEEPER OF THE FILES along labyrinthine alleys between shelves packed with files.  Walls are obscured by columns of documents tied together, piled on top of each other.  There's Hardly room to move.  Stacks of files are everywhere, balancing precariously, even falling from time to time, from sheer Pressure in all directions.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(vexed)}
+<DIAL>__{"Raban" -- that'll be nearly at the back of the alphabet.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It usually is.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(snaps at him)}
+<DIAL>__{I'm not obliged to give you access, you know -- not without authorization -- but I'll make an exception this one time.}
+<ACTION>__{They turn down another row, walking further, turning again. Kafka keeps flinching as thick bundles of documents CRASH down around him, narrowly missing him.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(oblivious to the danger)}
+<DIAL>__{I'm overworked as it is.}
+<DIAL_PAR>__{(finds the right section)}
+<DIAL>__{"Raban" did you say?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Yes.  Isn't it there?}
+<ACTION>__{The Keeper of the Files is rifling through folders -- causing others to fall out onto Kafka who tries to catch them.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pauses)}
+<DIAL>__{Wait a minute.  "Raban?"  Where have I heard that name?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{He's the clerk who died last week. From the insurance department}
+<ACTION>__{The Keeper of the files looks extremely displeased.  He pushes past Kafka, going back the way they've come.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(follows anxiously)}
+<DIAL>__{What's the matter?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{Why would we keep files on  dead employees?  All old files are sent up to the Castle.  Do you think we have room for two hundred years worth personnel records?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dodges another paper landslide)}
+<DIAL>__{It's gone out so quickly?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{Whenever an employee departs, shall we say, it's up to the head of his department to requisition his file, reassign any outstanding claims, and send it off.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- You mean my Chief has it.}
+<ACTION>__{Documents come crashing down and we can't see Kafka and the Keeper anymore.}
+<TRANS>__{CUT:}
+<ACTION>__{THE CHIEF CLERK - DAY Looks up from his desk and sticks his chin out, which is his way of asking Kafka what the hell he wants.  Kafka dares to come in.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, sir -- I understand you have Eduard Raban's file.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{I do.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I wonder if I might look to see if there's an address for family -- I thought I'd like to write to them.}
+<ACTION>__{The Chief Clerk has little time for such sentimentality.  He gives Kafka a little exasperated look before reaching down to -- a right hand desk drawer -- which Kafka notices -- and taking out a folder.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{No -- just as I thought -- no entry for family.}
+<ACTION>__{Kafka nods a bit, wondering what to do now.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Was there something else?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No -- I just -- I feel a sense of obligation.  He was my friend -- if I can be of any help -- closing his affairs.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(putting file away again)}
+<DIAL>__{No, there's only one report to complete.  I'll be doing it myself and submitting it to the Castle today or tomorrow.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as ingenuously as possible)}
+<DIAL>__{I see -- it's just the Erlanger claim then.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks up)}
+<DIAL>__{The  Orlac claim.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Sorry, yes -- well -- thank you, sir.}
+<ACTION>__{The Chief Clerk watches him as he starts to leave.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Kafka.}
+<ACTION>__{Kafka reluctantly turns.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{You're too sensitive.  Let your friend rest in peace.}
+<DIAL_PAR>__{(returning to paperwork)}
+<DIAL>__{I've known suicides.  Such a song- and-dance about nothing.}
+<ACTION>__{Kafka nods once.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{The Chief Clerk looks at him with seemingly genuine misguided concern.}
+<CHAR>__{CHIEF CLERK} <CHAR_PAR>__{}
+<DIAL>__{Give it up.}
+<ACTION>__{He goes back to his paperwork.  Kafka leaves. OUTSIDE CHIEF CLERK'S OFFICE Kafka shuts the door behind him, breathes a sigh of relief.}
+<TRANS>__{CUT:}
+<ACTION>__{THE KEEPER OF THE FILES - DAY Looking very annoyed, leading Kafka back through the stacks.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{If it was Accounts you wanted why did you ask for Employees?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Orlac is an account?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{It's a factory in the northern mountains.  One of our best customers.}
+<DIAL_PAR>__{(as they disappear around a corner)}
+<DIAL>__{Without a proper request I'm not obliged to do this, you understand -- but I'll make an exception on this one occasion.}
+<ACTION_ALT>__{ANOTHER ROW}
+<ACTION>__{Kafka glances nervously around as shelves CREAK threateningly under the weight of documents.  Up on a ladder, the Keeper of the Files finds the Orlac folder.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{At least the account is current even if the employee isn't.}
+<ACTION>__{He pulls it out -- with great difficulty.  The Orlac file is very, very thick.  Kafka prepares himself to catch it, but the Keeper of the Files manages to hand it down to him without serious injury.  Still, it's quite cumbersome and heavier than Kafka expects.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(coming down ladder)}
+<DIAL>__{That place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.}
+<ACTION>__{Kafka winces at that slur but says nothing about it.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(leafing through pages)}
+<DIAL>__{All these in the last year?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{You must have read about it in the papers -- there was a terrible cave-in.  It wouldn't have been so bad, but even the Medical Officer for the district was killed!}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I did read that.  They gave him a posthumous medal.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{Dr. Murnau was the bravest of men. He spent an entire career in those backwaters with no regard for personal gain.  A great loss.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a particular document)}
+<DIAL>__{This is the cross-reference of clerks who've worked on Orlac claims?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{Is your friend's name among them?}
+<DIAL_PAR>__{(Kafka shakes his head)}
+<DIAL>__{Then he only worked on the one case.}
+<DIAL_PAR>__{(taking file back again)}
+<DIAL>__{Your Chief will send me the final summation when he's finished with it.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Once a file's been sent to the Caste, is it possible to recall it for review?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(going back up ladder)}
+<DIAL>__{Of course not.  Only by a Director of the firm.  Who'd want to let in all kinds of riff-raff off the streets?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What good are records if they're not open for public inspection?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stuffing file back in place)}
+<DIAL>__{These laws have been with us for centuries -- how can you doubt them?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What if I petitioned one of the Directors?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(coming back down)}
+<DIAL>__{You do not summon them -- they summon you -- and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Where do our records go to in the Castle?}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(starting to walk away)}
+<DIAL>__{We're a medical firm, aren't we? They go to the Medical Records Section.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I could always apply there.}
+<CHAR>__{KEEPER} <CHAR_PAR>__{}
+<DIAL>__{It so happens, my dear simple sir, that the Head of Medical Records at the Castle  is one of the Directors of this firm.}
+<ACTION>__{Kafka scowls, and follows the Keeper of the Files in silence.}
+<TRANS>__{CUT:}
+<ACTION>__{THE OFFICE - EVENING Kafka works at his desk, finger tapping at an adding machine. He checks the office clock -- nearly the end of the day.}
+<ACTION_ALT>__{THE ASSISTANTS}
+<ACTION>__{One is sweeping the floor.  The other is scribbling at their desk.  His pen blotches his paper.  He has a fit and crumples it up and throws it down.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Looks over at the Chief Clerk's office -- sees him writing intently at his desk, pausing to turn on a lamp.}
+<ACTION_ALT>__{THE ASSISTANTS}
+<ACTION>__{The sweeping one bangs his knee against a desk and starts hopping about.  The pen of the other one leaks again.  He crumples up his new sheet and flings it away even more angrily than before.  Then he examines his pen, determines that the cap at the back is loose, and starts banging it on his desk in an attempt to tighten it -- while the other assistant keeps jumping around holding his hurt kneecap.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Glances over his shoulder at them, starts to say something -- but then notices Burgel, not far away, sometimes blocked by other employees, walking in the direction of the Chief Clerk's office.}
+<ACTION_ALT>__{THE ASSISTANTS}
+<ACTION>__{The one assistant has just fixed his pen when the other one, still hopping around, bumps into him, causing him to knock over a bottle of ink.  The two of them start shoving each other about. Kafka whirls around, can't ignore them any longer.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Do you mind!}
+<ACTION>__{The Assistants look at him, surprised at this outburst.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{-- I was just trying to finish some work!}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You mean you've actually begun some?}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pointing at Oskar)}
+<DIAL>__{-- Just because he's done nothing today, he doesn't want me to show him up!}
+<ACTION>__{Oskar tries to lunge at Ludwig, but Kafka holds him back.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{My assistants!  You might as well have fallen from the sky for all the thought that was spent in choosing you!}
+<ACTION>__{The Assistants look at each other sheepishly.  Then smile at Kafka, submissively or mockingly, it's hard to tell.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{It's not our fault.  We're naturally nervous.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{And we're upset too.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What's the matter with you?}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{I can't make a simple statement without him taking issue with it}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- You should meet my father.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{We've been together too long.  His personality is overflowing into mine and vice versa.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{-- How would  you like to be in a horrible situation like that?}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{He wouldn't.  It's the nightmare of his life. But now he's distracted again -- noticing Burgel walking away from the Chief Clerk's office (without ever having seem him actually enter it).  And Burgel is carrying a parcel under his arm.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Assistants again)}
+<DIAL>__{All right, you might as well go home -- go on.}
+<ACTION>__{The Assistants do as they're told, Oskar returning to his desk to clear up, turning his back on Ludwig -- at which Ludwig  immediately rushes up very close behind him and shakes his fist strenuously at him, turning away quickly when Oskar turns around again to try and catch Ludwig at it. Kafka isn't paying them any attention anymore.  He efficiently cleans up his own space, keeping an eye on the Chief Clerk's office. When the office bell RINGS the Chief Clerk immediately turns off his desk lamp, puts on his overcoat, and shuts his office light on his way out. Kafka doesn't think twice.  He forces himself to start walking to the Chief Clerk's office.  Other departing office employees crisscross past him, but he walks in a straight line, businesslike, toward the Chief Clerk's office.  He has a piece of paper in his hand.  He enters the Chief Clerk's office, holds the paper out to drop on the Chief Clerk's desk -- but lets it slip off onto the floor.  When he bends to retrieve it he quickly opens that bottom drawer where Eduard's file was -- but it's now empty.}
+<TRANS>__{CUT:}
+<ACTION>__{DARK STREET - EVENING Burgel walks along, adjusting the parcel under his arm.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Following him.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{ACROSS THE RIVER}
+<ACTION>__{Burgel heads into the Old Town.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Pauses in some shadows.  He glances up at the distance, the way Burgel is going, up at --}
+<ACTION_ALT>__{THE CASTLE}
+<ACTION>__{Almost glowing as it's outlined against the blue of the darkening night.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{WHORES}
+<ACTION>__{Giving Kafka the eye as he goes past doorway after doorway filled with their frightening/tempting forms.  But he tries never to lose focus on the small form of Burgel further up the street. Men milling about, up and down the street, prostitutes roaming amongst them, Kafka negotiating his way through.  An urgent moment when he almost loses Burgel -- then sees him turning down an alley.  Kafka hurries after him, avoiding a pair of drunken louts in the way.}
+<ACTION_ALT>__{FURTHER ON}
+<ACTION>__{The Castle visible, but still a little in the distance. Kafka comes into view.  He sees Burgel entering a building.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{UPSTAIRS HALLWAY}
+<ACTION>__{Very dingy.  Burgel leaves the top of the stairs and walks down to a room at the end.}
+<ACTION_ALT>__{DOWNSTAIRS}
+<ACTION>__{Kafka waits momentarily at the bottom, then goes up.}
+<ACTION_ALT>__{HALLWAY}
+<ACTION>__{Peeking around the corner, he sees a YOUNG GIRL embracing Burgel in her doorway before letting him in.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{OUTSIDE}
+<ACTION>__{Kafka comes out of the building.  He hears a noise, turns around, sees Burgel and the girl on the tiny baroque balcony outside her room.  Kafka retreats into the shadows.  He watches the girl unwrap the  parcel Burgel's given her.  She smiles as a box of chocolates is revealed.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Watches -- with an expression of guilt, sadness? Until a door suddenly opens at his back.  A MAN shuffles out past him.  A rather ugly WOMAN in a dressing gown holds the door open, giving Kafka a cursory look.  Beyond her inside, a quick glimpse of MASOCHIST yelping as he's whipped.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Well, what're you waiting for?}
+<ACTION>__{She's nodding him inside.  Kafka backs away from her and her invitation.}
+<TRANS>__{CUT:}
+<ACTION>__{DIRTY YARD - NIGHT Kafka heads for the dilapidated building or the anarchists.}
+<ACTION_ALT>__{DINGY DOORWAY}
+<ACTION>__{He goes through.  A MOUSE scurries past him across the threshold.}
+<ACTION_ALT>__{THE LOPSIDED STAIRWAY}
+<ACTION>__{Leads him up to the attic.}
+<ACTION_ALT>__{THE BEARDED ANARCHIST}
+<ACTION>__{Watches Kafka's approach.  But sees nothing.  His eyes are wide open, but lifeless. Kafka stops at the anarchists' table.  They're all lying around it on the floor except for the Pockmarked Anarchist who's slumped over it, her face sunk in a pool of her own blood. The Youthful Anarchist lies on his back, mouth open, still dribbling red.  The Solemn Anarchist seems less than solemn due to the almost comic, convoluted, broken-backed position he's in.  And the neck of the Bearded Anarchist is all twisted. Kafka just stares in disbelief -- then SCRATCH! -- a noise from a spiral staircase close by, leading to the roof.  Kafka looks around in panic -- the attic entrance is too far to run to and there's nowhere else to hide.}
+<ACTION_ALT>__{THE SPIRAL STAIRCASE}
+<ACTION>__{A man appears from above (MR. PICK).  Legs draped in expensive trousers, the skirt of his high-buttoned coat flowing around them due to the breeze from the roof.}
+<CHAR>__{MR. PICK'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{-- Come on -- there's no one up there.  We're going now.}
+<ACTION>__{He raises his arm up to help down whoever it is he's talking to.  We hear a strange GROAN.  Followed by the appearance -- unclear, from the back, face hidden, or otherwise blocked by Mr. Pick -- of A STRANGE hunched figure.  He moves in a halting, cowering way.  Mr. Pick helps him down the steps.}
+<CHAR>__{MR. PICK} <CHAR_PAR>__{}
+<DIAL>__{That's it -- it's all right -- you've done very well.}
+<ACTION>__{Mr. Pick's voice is reassuring, though he has a dark, diabolic face.  They're at the bottom of the staircase now, Mr. Pick leading his odd companion toward the exit.  The odd companion lurches towards the dead anarchists, but Mr. Pick restrains him.}
+<CHAR>__{MR. PICK} <CHAR_PAR>__{}
+<DIAL>__{Never mind them -- they'll be attended to.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Pretending to be one of the dead anarchists.  Hiding under the large body of the Bearded Anarchist.  Trying hard to emulate his lack of movement.  Blood from the Bearded Anarchist's ear drips onto Kafka's face.  He tries to blink it away while his other eye remains fixed on the two figures walking away to the doorway until they're through it and gone. After a moment, he unloads the Bearded Anarchist and softly hurries over to the attic doorway.}
+<ACTION_ALT>__{STAIRS}
+<ACTION>__{The Strange Man utters another low moan as Mr. Pick leads him like a dog down the creaking old steps.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Comes cautiously out onto the landing.  He leans over the bannister, watching the two figures slowly going down the long stairs, vanishing from sight at a certain turn of the staircase on every floor and coming into view after a moment or so.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{STREET OUTSIDE}
+<ACTION>__{Mr. Pick and the Strange One walk away.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Follows at a respectable distance.  He pauses when he hears a WAGON -- looking back at the anarchists' building to see it pulling up outside.  The DRIVER jumps to the ground. Kafka looks from the wagon to the two men walking away in the distance and makes his choice -- continuing after the two men.}
+<TRANS>__{CUT:}
+<ACTION>__{THE QUARRIES - NIGHT On the outskirts of the city, beyond the Castle. Mr. Pick and the Strange Man approach.  Some distance behind them, Kafka takes cover behind a tree, watching. Mr. Pick leads the Strange Man down the central quarry to where a third man, a LABORER by the look of him, is waiting. Kafka finds a vantage point somewhere above the central quarry.  He flattens himself on the ground and peers over the edge. In the quarry, Mr. Pick steps back a pace from the Strange Man as they meet up with the Laborer and suddenly grabs the Strange Man, pinning his arms behind him, baring his chest or the Laborer to stab a dagger into! Kafka is shocked by the abruptness of this.  He sees the Strange Man slump to the ground.  He crawls a little closer. He sees the Laborer replace the knife in its sheath on his belt, then help Mr. Pick drag the Strange Man off to some side shadows where they dump him. Kafka strains forward a little, trying to make out their faces -- and the ground gives way!}
+<ACTION_ALT>__{MR. PICK AND THE LABORER}
+<ACTION>__{Spin around at the noise.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Lands at the bottom of the incline, dazed.  He's still quite far away from the other end of the quarry where they are.}
+<ACTION_ALT>__{MR. PICK AND THE LABORER}
+<ACTION>__{Look at each other once -- then go after the intruder.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Sees them coming.  Scrambles to his feet.  It takes him a split second to establish his options.  Namely, the best route is back up the way he came.  If only he can get up it again as fast. Mr. Pick and the Laborer start to run. Kafka starts to climb.  The incline is steep.  The gravel is loose.  He slips back down. Mr. Pick and the Laborer are gaining speed. Kafka digs his fingers into the dirt, pulling himself up with all his might, even though his shoes don't sustain holds. Mr. Pick is a better runner than the burly Laborer.  He's almost there. Kafka slips back down again.  Mr. Pick could almost grab him -- but Kafka literally throws himself up the slope again, gasping -- and Mr. Pick stretches but can't reach that far and Kafka's nearly at the top again -- Mr. Pick climbing after him now -- and Kafka's arm comes over the edge, he struggles over, kicking gravel back down in Mr. Pick's face. Mr. Pick slides back down to the bottom -- and Kafka's gone. The Laborer fell over Mr. Pick as he came crashing back down, now Mr. Pick pushes him off in one direction while he goes another.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{SLOPING STREET}
+<ACTION>__{Escaping back into the Old Quarter, Kafka runs downhill.  But even the momentum doesn't carry him as fast as he'd like.}
+<ACTION_ALT>__{SMALL SQUARE}
+<ACTION>__{A number of streets branching off.  Kafka sees Mr. Pick coming down one of them -- and the Laborer coming down another.  Kafka runs off along a third.}
+<ACTION_ALT>__{CIRCUITOUS PASSAGE}
+<ACTION>__{Kafka runs.  Looks behind him.  Mr. Pick is coming.  He runs faster, under a weird archway.  Looks behind him.  Mr. Pick and the Laborer are coming.  Kafka darts down a side street.}
+<ACTION_ALT>__{SIDE STREET}
+<ACTION>__{Another twisting little road.  He winds around one corner only to be met by another, the end of this street impossible to determine.}
+<ACTION_ALT>__{BEHIND HIM}
+<ACTION>__{Mr. Pick and the Laborer are catching up.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Turns another corner and finds himself at the bottom of an incredibly long flight of steps.  A staired street.  On and on and on.  He doesn't know if he can make it.}
+<ACTION_ALT>__{MR. PICK AND THE LABORER}
+<ACTION>__{Come around -- look at the steps -- look at each other.  They take deep breaths and start up.}
+<ACTION_ALT>__{THE TOP}
+<ACTION>__{Here they come, huffing and puffing.}
+<ACTION_ALT>__{THE BOTTOM}
+<ACTION>__{Kafka comes out from behind an extravagantly designed iron gate grillwork.  He sneaks away, back the way he came.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{THE CENTRAL QUARRY}
+<ACTION>__{The body of the Strange Man lies face down where it was dropped. Kafka walks toward it, looking around nervously in case anyone's coming.  Someone is.  When he gets to the corpse he hears the sound of an approaching WAGON.  He crouches quickly by the body to do what he's come here to do -- turn it over to look at --}
+<ACTION_ALT>__{THE FACE}
+<ACTION>__{Of a monster.  Horribly disfigured, scarred and stitched. And it isn't the kind of patchwork mess caused by acid or accident.  There seems to be  design behind it.  Human design.  And beneath all this warped, mutilated flesh, almost unrecognizable ... the features of the vagrant snatched from the River. KAFKA'S FACE Revulsion.  He goes.}
+<ACTION_ALT>__{THE WAGON}
+<ACTION>__{Parks above the quarry.  The evil-looking Driver jumps down and pulls a large sack off the back.  He starts down into the quarry.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Appears over another edge.  He looks over at the wagon.  He sees that now the back is loaded up, and covered by a sheet of tarpaulin.}
+<TRANS>__{CUT:}
+<ACTION>__{THE ANARCHISTS' ATTIC - NIGHT All the bodies are gone.  Even the floorboards and pieces of furniture that might have had blood stains on them have been torn away and removed.  Kafka stands alone.}
+<TRANS>__{CUT:}
+<ACTION>__{THE CITY - NIGHT An eerie moon shines over the Castle. KAFKA'S HOUSE He comes in.  Before taking off his coat, he finds in a pocket Inspector Grubach's card.  But what can he do again without evidence?  He puts the card back in the pocket.}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S DESK - BEFORE DAWN He sits writing into the night in his little room under a low ceiling.}
+<CHAR>__{KAFKA'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{"-- oh, and thank you for the suit from Father, although I don't know why he didn't simply return it.  If it's too small for him why do you immediately suppose it will fit me? ... Your son ... Your loving son ... Your somewhat loving son ... Your occasionally loving son ... Your incapable-of-loving son ... Your absolutely-bored-to-death-with-any- kind-of-family-life son ..."}
+<ACTION>__{The BARKING of a DOG outside distracts him.  He stands up to stretch by his open window -- and we SEE that he's wearing a suit that's far too big for him, sleeves overhanging his skinny arms and  ands, trouser bottoms drowning his shoes. He looks out at the sky which is turning blue.}
+<ACTION_ALT>__{THE BRIDGE}
+<ACTION>__{Two men walk across the river.}
+<ACTION_ALT>__{A WAGON}
+<ACTION>__{Rolls along one of the moribund streets of the Old Town.  The Driver swivels in his seat, looking over his wide shoulder, as if to see if he's being followed.  The glint in his eye suggests Evil. KAFKA'S ROOM Kafka puts a stamp on his letter, then adds it to the  stack of obsessive correspondence already piled on one corner of his desk.}
+<TRANS>__{CUT:}
+<ACTION>__{THE OFFICE - EVENING With an ink-pad stamp, Kafka POUNDS the date onto a succession of documents.}
+<ACTION_ALT>__{THE OFFICE CLOCK}
+<ACTION>__{Strikes six.}
+<ACTION_ALT>__{THE ASSISTANTS}
+<ACTION>__{Jump in unison when the BELL goes off.  Then in their hurry to leave start shoving all their papers and whatnots haphazardly into various drawers, opening and slamming them regardless of whether or not the contents are fully inside, resulting in a lot of crumpled documents and snapped pencils.}
+<ACTION_ALT>__{BURGEL}
+<ACTION>__{Suddenly hovering by Kafka's side, handing him something.}
+<CHAR>__{BURGEL} <CHAR_PAR>__{}
+<DIAL>__{The Chief Clerk would like this ready for tomorrow morning.}
+<DIAL_PAR>__{(oily)}
+<DIAL>__{He says it should only take you an extra hour or two.}
+<TRANS>__{CUT:}
+<ACTION>__{THE OFFICE - NIGHT Dead silence after the daily racket of typewriters and telephones and adding machines.  Kafka works alone in the utterly deserted office building. He looks out the window and sees a POLICEMAN walking by on the street below.  He thinks again about going to the law -- but goes back to work. He hears a SOUND.  He looks around.  A sort of a SCRATCHING sound.  It's coming from the other end of the office somewhere.  Maybe the bathroom. Kafka walks slowly back there.  At the bathroom door he pauses momentarily, then turns the handle to go inside.}
+<ACTION_ALT>__{BATHROOM}
+<ACTION>__{SCRATCH, SCRATCH.  Kafka looks for the source of the sound -- and in sudden startled shock instantly finds it -- where a huge arm has just been thrust through a small, high window -- and the ugly hand at the end of the arm is feeling around for the window-latch. Kafka starts backing away -- as the hand flips open the latch -- and now the window, swinging open with a bang, and the rest of the intruder starts coming into view -- out before all of him appears Kafka has run out and slammed the door behind him.}
+<ACTION_ALT>__{OFFICE}
+<ACTION>__{Kafka pulls a desk across the bathroom doorway.}
+<ACTION_ALT>__{BATHROOM}
+<ACTION>__{The MANIAC -- because that's what his posture and breathing, seen from the back, suggest -- lurches into the bathroom from the window.}
+<ACTION_ALT>__{OFFICE}
+<ACTION>__{Kafka grabs his coat -- and an umbrella off a rack.  He looks back at the bathroom -- the desk rocking back and forth as the intruder behind the door pushes.  Kafka runs away.}
+<ACTION_ALT>__{HALLWAY}
+<ACTION>__{He runs to the elevator, sliding open the gate.}
+<ACTION_ALT>__{OFFICE}
+<ACTION>__{CRASH!  The desk tips over as the bathroom door is forced open.}
+<ACTION_ALT>__{ELEVATOR}
+<ACTION>__{Kafka descending.  The elevator cranking slowly downwards. Then, nearing the ground floor, it slows down even further. Then it suddenly stops dead.  Kafka reaches for the walls to steady himself.  He looks through the gate, assessing the distance to the ground floor below.  He tries the gate but it won't open.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calls down there)}
+<DIAL>__{-- Help!  HELP!}
+<ACTION>__{He looks around the tiny space of the elevator.  The roof hatch.  He reaches up, pushes it open, starts to climb up -- and YAAHH! -- the Maniac's face appears in the opening!  It's another  monster face -- this one even worse than the one Kafka uncovered at the quarries.  A groaning, drooling, misshapen lump of wrinkled tissue.  And its owner's arms now come through to stretch after Kafka. Kafka beats them back with the umbrella while still trying to pull the unyielding gate open.  The Maniac yelps as Kafka bashes the umbrella up at him, dodging his head out of the way each time the umbrella sweeps back at him, swinging his thick arms wildly to ward off blows and try and snatch the umbrella for himself.  He finally retreats under the barrage of blows and Kafka quickly takes the opportunity to lever open the gate with the umbrella. The Maniac's face reappears overhead.  Kafka stabs the umbrella up at him some more -- and the Maniac manages to grab it.  Kafka sits down on the elevator edge to jump down to the ground floor and --}
+<ACTION_ALT>__{THE MANIAC}
+<ACTION>__{Lunges forward from above, scooping both arms down in a vain attempt to catch Kafka just as he drops out of sight -- landing on the ground floor with a roll. The Maniac HOWLS at his failure, his features even more horribly contorted, Practically filling the small opening of the roof hatch as he SHRIEKS.  And as his atrocious face comes CLOSER and CLOSER and CLOSER -- one of his eyeballs falls out! -- POP! -- out of the socket suddenly -- dangling into the elevator, hanging by a single sinewy bloody thread. The Maniac cries out and reaches for the eyeball, bringing it back up to try and stuff back in place ...}
+<ACTION_ALT>__{STREET OUTSIDE}
+<ACTION>__{Kafka runs away from the office building, in horror, off into the night.}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S STREET - NIGHT He stands at a corner, looking at his own house, scared even to go home.  But everything seems normal.  He starts walking there.  But when he reaches his front door:}
+<CHAR>__{VOICE} <CHAR_PAR>__{}
+<DIAL>__{Did you think you'd be safe back in your little burrow?}
+<ACTION>__{Kafka turns.  One of the Assistants stands next to him.}
+<CHAR>__{OTHER VOICE} <CHAR_PAR>__{}
+<DIAL>__{No matter how deep a hole you dig for yourself, the beast will always find you.}
+<ACTION>__{Kafka turns the other way.  The other Assistant is on his other side.  Kafka looks between the two of them.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{We're to take you to the Castle.}
+<ACTION>__{Kafka might have expected this.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{So.  You're the guides up there. And we thought it was Burgel.}
+<ACTION>__{One of the Assistants draws a revolver.  The other chuckles.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{They wouldn't let  Burgel into the Castle.  You should look upon this as a great favor.}
+<ACTION>__{Kafka starts walking the way a flick of the revolver indicates, the Assistants flanking him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I don't want any favors from the Castle -- just my rights.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{We answer directly to Ekman, the Senior Partner -- he practically runs the Castle.  In a case like this you're better off dealing with the highest authority -- even though it's equally futile.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{When you speak to him you have to lean quite near his right ear because the left doesn't work so well.}
+<ACTION_ALT>__{AROUND THE CORNER}
+<ACTION>__{They head up in the direction of the Castle.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{For all your incompetence I was beginning to think you were at least loyal to me.  You're very good ham actors.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{-- Just doing our job.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It's a farce.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{We think you'd better accept your position instead of pointlessly annoying us.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What position?  Being prosecuted in a case like this means having already lost it.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{Still, we're probably closer to you at the moment than any of your fellow human beings.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Close only by virtue of antithesis.}
+<ACTION>__{One of the Assistants keeps making a show of wiping his brow, though it's by no means hot.}
+<ACTION_ALT>__{ANOTHER STREET}
+<ACTION>__{Kafka walks stiffly between the Assistants, the three of them almost locked together as one unit, like lifeless matter.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head)}
+<DIAL>__{My assistants.  I should have known. Nothing is given to me.  I have to acquire everything.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{It's all right to be sarcastic in private to us -- because we have a sense of humor -- but when we're up at the Castle we suggest you don't make a fuss.  It would spoil the not unfavorable impression you make in other respects.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{Frankly, we don't understand why you've even bothered pursuing this business.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It would be more accurate to say that it has pursued me.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{But your goal is so hard to reach. Do you think the official network would surrender to one man?  We would never think of attempting anything remotely as difficult.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{My mother used to tell us of the young man who decided to ride to the next village and how she was afraid that -- not even mentioning accidents -- the span of a normal happy life might fall far short of the time needed for such a trip.}
+<ACTION>__{Kafka suddenly points at the ground.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You've dropped some money.}
+<ACTION>__{The Assistants immediately bend their heads to look -- and Kafka bangs them together as hard as he can. The Assistants sit on the ground in a stupefied daze while Kafka's running footsteps echo around the dark street.}
+<TRANS>__{CUT:}
+<ACTION>__{CONTINENTAL COFFEE HOUSE - NIGHT Bizzlebek, perched on his usual stool, turns to see Kafka at his side.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{You work in the cemetery.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{A man must eat --}
+<DIAL_PAR>__{(raises glass)}
+<DIAL>__{And drink.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The  Castle cemetery.}
+<TRANS>__{CUT:}
+<ACTION>__{CEMETERY - NIGHT Ancient tombstones crumbling with age, slanting out of the ground at bizarre angles, and cluttered so close together that a way can scarcely be made between them. Bizzlebek leads Kafka along the crooked little pathways, overgrown with crawling weeds, upwards towards the high section of the cemetery under the dark wall of the Castle. Bizzlebek, who knows his way around, seems more cheerful here than we've seen him before.  Kafka more fearful.  Wind WHISTLES.  Leaves RUSTLE.  CREAKING trees cast ghastly shadows.  Scary tombs, all shapes and sizes, strange symbolic symbols on them, mystical figures and designs. Trying to keep up with Bizzlebek, Kafka spots a horrendous shape looming ahead of him.  He starts to bypass it -- and jumps when a tall plant brushes against him.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(waits for Kafka)}
+<DIAL>__{Are you sure you wouldn't prefer going through official channels?}
+<ACTION>__{The awful dark shape turns out to be no more than a particularly large tombstone, crumbled in places to give it an animal-like suggestion.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Official channels -- a lot of good they've done me.  My only hope is to approach the officials personally.}
+<ACTION>__{He keeps walking -- and we SEE that he's carrying the  bomb- briefcase he found at Eduard's.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{-- I'm flattered, of course, to be considered a friend -- even without knowing all the details.}
+<DIAL_PAR>__{(Kafka doesn't take that cue)}
+<DIAL>__{-- To see such determination is reward enough for me.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The Kafka men are famous for it, you know.  Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --}
+<ACTION>__{A BIRD rapidly swoops down from a tree, zipping past Kafka's head with a shrieking SQUAWK!}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gulp)}
+<DIAL>__{-- Oh, yes, determination runs in the family.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{There is  one thing I'd like you to tell me.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm trying to find things out myself -- that's the whole point.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{What made you think  I'd be able to get you into the Castle?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The cemetery is nearer the Castle than anywhere else -- wasn't it part of the Castle originally?  -- I always assumed there'd be a gate or something.}
+<DIAL_PAR>__{(stops again, concerned)}
+<DIAL>__{Isn't there?}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{In a manner of speaking.}
+<TRANS>__{CUT:}
+<ACTION>__{HIGHER GROUND - NIGHT They're at the graves at the very back of the cemetery, right up against the bottom of the Castle wall that stretches high above them into the black sky of night. Trees quiver around them.  Shadows dance.  Bizzlebek pauses at a particular grave, apart from the others, more hidden by overgrowth.  He runs his fingertips over the old, strangely lettered inscription.  He looks around the graveyard, making sure they're alone, then he moves to one side of the stone and leans his weight against it, pushing.  It shifts and slides open, uncovering the hole that lies beneath.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{I was restoring some stones here in the upper section one day -- and I found this.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(unclear)}
+<DIAL>__{An empty tomb?}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{A cenotaph -- a monument to someone whose remains ended up elsewhere. But look --}
+<ACTION>__{Having lit the lantern he's brought with him, he holds it over the dark hole -- revealing a shaft and the rungs of a ladder.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{The Castle gates were blockaded in the time of the great plague -- it's an escape route.}
+<DIAL_PAR>__{(offers Kafka the lantern)}
+<DIAL>__{Don't get stuck.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(accepts it)}
+<DIAL>__{Not a chance.  I'm the thinnest person I know.}
+<ACTION_ALT>__{THE SHAFT}
+<ACTION>__{Kafka starts to climb down, shoes loud on the rungs affixed to the stone wall of this well.  But then he remembers something, pops back up.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- You appreciate my writing.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taken aback)}
+<DIAL>__{Yes.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Will you do me a favor then?}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Another one?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{If I don't see you later -- go to my house and find my notebooks -- and destroy them.  All my manuscripts -- just burn them. Please.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{What an extraordinary request!}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It's my last and final one.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Then its authority is in doubt.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{A true friend would do it.}
+<CHAR>__{BIZZLEBEK} <CHAR_PAR>__{}
+<DIAL>__{Not necessarily.}
+<DIAL_PAR>__{(a pointed look)}
+<DIAL>__{A  wife would.}
+<TRANS>__{CUT:}
+<ACTION>__{SECRET PASSAGEWAY - NIGHT A stooping Kafka makes his way along this gloomy underground artery, the lantern lighting the way. He comes to the end of it and what appears to be a little door.  He bends low to listen at it -- then unlocks the latch.  He pushes -- and the door moves forward.}
+<ACTION_ALT>__{OTHER SIDE}
+<ACTION>__{Kafka stands up -- and he's  inside a big filing cabinet drawer . He steps out of it and looks around.  He's in an entire room full of file cabinet drawers.  A morgue of file cabinet drawers.  He shuts the one he came out of before walking away.  "D-7" says the label on the outside of it.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{VAULTS AND CRYPTS}
+<ACTION>__{Kafka makes his way through the shadows down here in the underground depths of the Castle.  A fiery glow and noise comes from an archway ahead of him.  When he gets to it and looks through he sees a sweating STOKER shoveling coal into a giant furnace.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{NEAR THE END OF A THIN PASSAGEWAY}
+<ACTION>__{A sudden door SLAM.  Kafka dodges back around a corner.  He HEARS:  the quick cry of a man's agony, a scuffle of shoes on hard stone floor, a dull thud, a wave of peculiar shouts, running footsteps, more mumbled mingled voices -- which soon die out, leaving silence.}
+<ACTION_ALT>__{AROUND THE CORNER}
+<ACTION>__{Kafka walks slowly, straining his neck a bit in expectation of whatever lies ahead. The passage brings him to a row of dungeon cells.  A line of doors with a barred window in each.  One of them isn't closed -- and lying across the threshold is the Laborer who chased Kafka from the quarries the other night.  The knife is gone from his sheath and his scull is caved in, a wooden stool lying on the floor beside him.  At the other end of the row of cells another door swings open at the top of a few steps. SUDDENLY fingers spear through the bars of another cell to touch Kafka!  A GAUNT MAN inside.}
+<CHAR>__{GAUNT MAN} <CHAR_PAR>__{}
+<DIAL>__{You've killed him!  Like a dog!}
+<ACTION>__{Kafka dropped his lantern in surprise, and shrinks back, CRUNCHING glass.}
+<CHAR>__{GAUNT MAN} <CHAR_PAR>__{}
+<DIAL>__{-- They won't like that.  Not a bit!}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I didn't --}
+<ACTION>__{The inhabitants of the other cells start RATTLING their bars and beseeching Kafka.  He looks around, bewildered and horrified.  Hideous faces looking back at him.}
+<CHAR>__{GAUNT MAN} <CHAR_PAR>__{}
+<DIAL>__{You'll incriminate the rest of us! Let me out too!}
+<ACTION>__{Shuddering, Kafka is moving away, making it through the shocking gauntlet, toward the door at the other end.}
+<CHAR>__{HORRIBLE VOICES} <CHAR_PAR>__{}
+<DIAL>__{Help us! -- release us!}
+<CHAR>__{GAUNT MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(yelling above the din)}
+<DIAL>__{You're in the bowels now, my friend! You've thrown yourself in it now!}
+<ACTION>__{A HAGGARD MAN who may have had his tongue cut out gestures desperately at a lever on the wall to unlock the cells. Kafka starts to tentatively reach for it -- when there's a sudden SHRIEK beside him.  He whirls to see, behind more bars, the raving, convoluted face of the creature that stalked him at his office (whose loose eye has now gone completely) -- BANGING violently against his door.}
+<CHAR>__{GAUNT MAN} <CHAR_PAR>__{}
+<DIAL>__{Let  me out -- I'm all right -- they haven't  treated me yet!  We can go together!}
+<ACTION>__{But now the evil Mr. Pick appears at the end of the passage from which Kafka came -- a gun in his hand.}
+<CHAR>__{MR. PICK} <CHAR_PAR>__{}
+<DIAL>__{You !}
+<ACTION>__{Kafka yanks the lever and runs away.  Mr. Pick FIRES after him, starting to chase -- but the prisoners are coming out of their cells -- coming for him.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{SPIRAL STONE STAIRWELL}
+<ACTION>__{Kafka runs upwards, around and around and around.}
+<ACTION_ALT>__{ANOTHER FLOOR}
+<ACTION>__{Here is a part of the Castle Kafka can understand -- office workers toiling away.  Kafka walks past one long row of them, SCRIBES sitting at a single  endless desk.  They look like students under examination, hunched over their writing, a virtual conveyor belt of paperwork. In the center of this floor is an  actual conveyor -- a chain pulley running slowly up and down, presumably throughout the entire Castle, through small holes in the floor and ceiling. There are little pockets on the chain which the clerks continually pluck papers out of and slip papers into. The ink bottle of one of the scribes runs dry.  He takes it over to a sink with three taps -- Hot, Cold -- and the third one he turns -- Ink .}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{CORRIDOR}
+<ACTION>__{Kafka passes a FRIENDLY CLERK.}
+<CHAR>__{FRIENDLY CLERK} <CHAR_PAR>__{}
+<DIAL>__{Are you lost?}
+<ACTION>__{Kafka nearly laughs at the enormity of the question.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I'm, uh, looking for the Medical Records Section.}
+<ACTION>__{Pause.}
+<CHAR>__{FRIENDLY CLERK} <CHAR_PAR>__{}
+<DIAL>__{Oh, you're miles away.  From here you'll want to go left, left again, right, right again, left then right, right then left, and take the Blue Staircase.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<CHAR>__{FRIENDLY CLERK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(going on his way)}
+<DIAL>__{-- I haven't seen you here before.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No ...}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{He stands there, a man in a suit with a briefcase in an antiseptic corridor.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... I'm new.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{UNDERGROUND CELLS}
+<ACTION>__{Mr. Pick leans against a door, trying to keep back the howling horde of prisoners pushing from the other side. Another JAILER joins him, helping him to try and push the door closed.  Then a SECOND JAILER too.  A  bestial hand reaches through and Mr. Pick presses his pistol muzzle into the outstretched palm -- BANG! -- A book falls to the floor like a pistol-shot -- and Kafka hides back in shadows hoping no one heard.  He's in a round --}
+<ACTION_ALT>__{LIBRARY}
+<ACTION>__{-- Surrounded by books from floor to ceiling, even on the tall door through which he entered.  A sliver of light gives it away -- and on the other side of it he hears FOOTSTEPS. But they pass by. There's another sliver of light indicating another door in the books opposite him.  He walks over and pulls on the shelves.  Here the dark wood is merely a disguising cover for the shiny modern steel he discovers on the other side of it And he finds more than that as he enters --}
+<ACTION_ALT>__{THE LABORATORY}
+<ACTION>__{A real mad scientist's workshop.  Chemicals of bizarre colors rush and FIZZ through mazes of glass pipes and beakers, in some places boiling and steaming, in others frosting or freezing.  Circuits and test tubes flash and glow as sparks and filamentary arcs CRACKLE with electric incandescence. insane instruments and devices, interconnected with complex wires, perform strange and villainous functions.  It's the most modern setting we've yet seen -- but at the same time all this futuristic technology seems somehow archaic, as if put together from old, familiar materials and elements, both eccentric and eclectic. The chain that runs through the floors of the Castle carrying documents runs up and down through the laboratory too. Amidst this feast for the eyes, what Kafka now focuses in on a simple cigarette -- left smoking in an ashtray.  And by the look of the ash, not very long ago.  Kafka looks around anxiously -- notices an archway leading to another room.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{UNDERGROUND CRYPT}
+<ACTION>__{Mr  Pick and the two Jailers can't hold back the dreadful prisoners any longer.  Mr. Pick runs, letting the Jailers fend for themselves.}
+<TRANS>__{CUT:}
+<ACTION>__{LABORATORY - SMALLER ROOM Kafka comes into what looks like a small museum -- vertical glass cases in which naked BODIES float suspended in preserving gelatin solution. Kafka seems deadened himself by all that he's seeing -- until he sees someone he recognizes.  The Bearded Anarchist.  Kafka goes closer.  Looking down, he sees that the Bearded Anarchist has a hand missing.  The other anarchists are here in glass cases too.  Now with a gasp Kafka turns around -- looking for Gabriela -- but she's not here.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{MAIN LAB}
+<ACTION>__{Holding himself together, and with new determination etched on his face, Kafka walks to the center of the lab -- and an operating table.  Ignoring the implications of the table, he sets down the bomb-briefcase -- flicking the latches to open it. The sight of the explosive mechanism inside causes him a moment's hesitation, but a look round at various animal parts hanging from hooks above the table or bobbing in jars alongside sinister implements laid out in preparation for an operation renews his anger -- and he decisively turns the dial on the bomb's timer-clock, setting it to the maximum allowance of one hour. He closes the case and locks its latches.  The case begins to}
+<ACTION_ALT>__{TICK.}
+<ACTION>__{Kafka takes it to a dark spot beneath the mass of elaborate laboratory equipment, hides it under there, and leaves.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{CORRIDOR}
+<ACTION>__{Kafka tries finding his way back the way he came.}
+<ACTION_ALT>__{END OF CORRIDOR}
+<ACTION>__{Kafka looks down a long dark staircase -- a hint of light glowing at the bottom.}
+<ACTION_ALT>__{BOTTOM OF STAIRCASE}
+<ACTION>__{Just as he reaches the light something  lunges at him from one side!  It's the Laughing Man, hysterical as ever, face now SEEN for the first time, SCREECHING, salivating, eyes watering.  The human hyena.  His grin contorts his face from ear to ear, his CACKLING is truly terrifying, and the hand he stretches forward has a  tattoo on it (Bearded Anarchist's hand) -- a hand too big for his wrist -- reaching, reaching, reaching for Kafka.}
+<TRANS>__{CUT:}
+<ACTION>__{DARK OFFICE - NIGHT The Laughing Man pushes Kafka down into a chair and shakes with uncontrollable sobbing shrieks. Someone else is sitting in darkness behind a huge desk (MURNAU).  His hand holds out a small vial.  The Laughing Man grabs it and leaves, gulping down its contents voraciously.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{I assume you're wondering ... what all this has been about.}
+<ACTION>__{Kafka tries to see into the shadows.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Are you the Head of Medical Records?}
+<ACTION>__{The door behind Kafka opens again and an officious bureaucrat (EKMAN) comes in.  He sits in a chair and looks at Kafka.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ekman)}
+<DIAL>__{He's come on his own initiative.}
+<DIAL_PAR>__{(to Kafka)}
+<DIAL>__{-- Not something we encourage, mind you, but we like to know it exists.}
+<ACTION>__{And he's stood up.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{What it amounts to is simply this ...}
+<ACTION>__{He's coming around the desk.  He's drying his hands on a towel.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{A piece of paper was delivered to the wrong clerk.  It was essential he bring it back to us.  These complications have arisen because he had friends -- like you, among others -- friends unlikely to let a sleeping dog lie.}
+<ACTION>__{He tosses the towel onto the desk.  Ekman looks irritated by this.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{... A piece of paper ...}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{A mere slip.}
+<DIAL_PAR>__{(coming forward)}
+<DIAL>__{Your friend Mr. Raban dealt only with claims that came  in , another department being responsible for compensation that goes out -- this is correct?}
+<ACTION>__{He places a fatherly hand on Kafka's shoulder.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not quite in the light yet)}
+<DIAL>__{Through a very unfortunate -- and I might add extremely rare -- mishap, a document intended for the one department was sent to the other.  And for the first time -- though your friend wasn't aware of it -- two and two could have been put together to make one.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(again)}
+<DIAL>__{... A piece of paper ...}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL_PAR>__{(face bending into the light)}
+<DIAL>__{You see, Kafka, in all cases relating to the factory at Orlac -- which is what this paper referred to -- the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority.}
+<ACTION>__{And he's an impressive, imposing figure of authority himself.  You'd probably trust him.  You'd certainly respect him.  But if you look into his eyes, he's frightening.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{UNDERGROUND CRYPTS}
+<ACTION>__{Mr. Pick runs from the crazed prisoners chasing him.  Fires his gun back at them, dropping one or two -- but then runs out of bullets. The prisoners slowly surround him.  He backs away.  One of those chains that run throughout the Castle has its base here.  Mr. Pick keeps backing up, unavoidably, the deranged prisoners closing in -- until he falls backwards with a cry into the grinding wheels of the chain-system. Caught up in the chain, he's carried aloft with it, up to the ceiling.  The chain is the lifeline of the Castle and does not, could not, ever stop.  Instead it forces Mr. Pick to go along with it, his head CRACKING through the glass or wood "manhole" cover through which the chain passes.}
+<TRANS>__{CUT:}
+<ACTION>__{MURNAU'S OFFICE Kafka tries not to flinch in the presence of this deadly figure.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{-- You seem amused.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{It only amuses me in that it gives me an insight into the ludicrous bungling that in some circumstances may decide the life of a human being.}
+<ACTION>__{Ekman sighs -- as if at a difficult child.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{It's merely a matter of expediency.  It's imperative that my room to maneuver not be hindered by ... bureaucratic ramifications.}
+<ACTION>__{Ekman, who doesn't hear very well, directs one ear in particular back and forth between the other two.  Kafka just keeps looking at the charismatic man pacing around him -- who's now lighting an expensive cigarette of the kind that was in the ashtray at the lab.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{-- If an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident -- and should he tragically die in spite of the District Medical Officer's strenuous efforts to save him -- the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible ... efficiency.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(becoming clearer)}
+<DIAL>__{"Accident and Compensation" -- no one can accuse the firm of not supplying exactly what it promises.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ekman)}
+<DIAL>__{I believe we've exceeded his expectations.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(virtually to himself)}
+<DIAL>__{I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every ... authority I could see.}
+<DIAL_PAR>__{(looks up)}
+<DIAL>__{And I find you.  A body snatcher.}
+<ACTION>__{Murnau laughs.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{Life is more than a Chinese puzzle, my friend.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{FLOOR OF CLERKS}
+<ACTION>__{Uniformly, like a chorus line, the infinite row of clerks turn their heads from their single endless desk when they hear an awful NOISE: Mr. Pick is breaking through from the floor below.  The inexorably rising chain has hauled him floor by floor through the Castle, breaking open holes too small for his body, shredding him along the way, and still carrying him upwards}
+<ACTION_ALT>__{...}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{CASTLE CORRIDOR}
+<ACTION>__{Kafka walks along with Murnau and Ekman.  The Laughing Man holds Kafka's arm.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{And I suppose Dr. Murnau didn't die in a cave-in.  You killed him to free the Position of Orlac Medical Officer for your own ends.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{Yes, well -- we're looking for a new village now.  If we stay too long at one source ... people become suspicious.}
+<ACTION>__{They pass another of those grinding chains carrying memos and inter-office directives up and down.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{But you're quite right that he didn't die in that cave-in. In fact, he didn't die at all. He was simply recalled -- by himself.  As well as being Head of Medical Records here  and a Director of your firm -- I'm Dr. Murnau, of course.}
+<ACTION>__{The Laughing Man giggles crazily.}
+<ACTION_ALT>__{LIBRARY}
+<ACTION>__{The Laughing Man, subdued for a moment, merely smiles a little, opening the door to let Kafka in first, guarding him close.  Dr. Murnau then leads the way across to his laboratory door.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{May I ask where your two warders are?}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Lying in the gutter where they belong.}
+<ACTION>__{Murnau laughs, but then has to stop as it encourages the Laughing Man, bringing forth a mad chuckle or two from him.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{Pity.  They're an amusing pair, didn't you find?  Absolute innocents.}
+<ACTION>__{He pushes the tall door open into his lab.}
+<ACTION_ALT>__{LABORATORY}
+<ACTION>__{Murnau spreads his hands proudly as they enter, displaying his amazing factory.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{I so rarely get the chance of showing my work to anybody -- anybody capable of appreciating it, that is.  You might say I'm a student of human reaction.}
+<ACTION>__{Ekman, who's seen it all before, goes to lean somewhere, bored.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{The fact that it's live bodies you practice your trade on doesn't seem to matter to you.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{On the contrary, it matters a great deal.  We're engaged in immensely important research here.  I'm a revolutionary too, you know -- but a much more pragmatic one.}
+<ACTION>__{As if in response to that the Laughing Man convulses anew. Ekman immediately turns to a shelf for another vial and goes to give it to the Laughing Man.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{-- I can't very well administer experimental treatments to corpses -- and if they become corpses, why, they have their uses too -- that's why speed is essential.  Living tissue, even if its owner has passed on, is our most valuable acquisition.}
+<ACTION>__{The Laughing Man gulps down the potion and starts to calm down a little.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{We've tried transfusions on our ... volunteers.  Unfortunately, far from infusing superior characteristics it's tended to make them insane -- murderous even -- a condition we've had occasion to make use of.}
+<ACTION>__{THE HIDDEN BOMB-CASE TICKING lightly away.  The clock inside the bomb-case, becoming visible as if by X-Ray, is SEEN to be a matter of minutes away from blast-off.}
+<ACTION_ALT>__{THE LAB}
+<ACTION>__{Murnau walks to where the elaborate distillation processes are going on.  The very section where Kafka hid the bomb. Kafka wipes his brow, quickly, conscious of Ekman staring at him.  Murnau gazes obsessively at his contraptions, his piercing eyes following the routes of the flowing chemicals.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{-- And the new patients they bring me aren't usually as dexterous as you've been in evading us.  Not perfect specimens by any means, but not the type of person who'll be missed either.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{What have you done with Gabriela Rossmann?}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{As a matter of fact you've caught us in a state of considerable excitement.  Our latest preparation we believe -- we pray -- is perfected. It should take years off her.}
+<ACTION>__{He's concocting another potion now, pouring an acidic-looking liquid from one container to another.  Kafka is looking increasingly worried.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{And if not -- well, there are always what I call my caprices of vivisection.}
+<ACTION>__{He glances at the dangling animal parts.  And now, finished mixing his cocktail, he picks up some sort of suturing tool, pressing the trigger on it to start the end burning and}
+<ACTION_ALT>__{SIZZLING.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{Actually, if it weren't for the aberrant dilemma posed by someone like yourself -- continually asking for out-of-date files -- I'd probably give up my revisionist policies altogether. I'm sure what we have to do is start instead at the very inception -- with the embryo -- from a single cell even.}
+<DIAL_PAR>__{(leers at Kafka)}
+<DIAL>__{The lure of the Golem -- the man-made man.  You appreciate that, I know.}
+<ACTION>__{Ekman takes Kafka by the arm to lead him toward the operating table.  The Laughing Man moves in closer too, emitting a psychotic chortle.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{To corrupt the image of man and then offer redemption ... This is the dawn, Kafka.  A new man is being born here.  A more resilient man ... A superman.}
+<ACTION>__{Kafka attempts an escape around the operating table, but the Laughing Man blocks his way and corrals him back to where he was before.  Dr. Murnau holds out the sinister aperitif for Kafka to take and drink in toast.}
+<CHAR>__{MURNAU} <CHAR_PAR>__{}
+<DIAL>__{To a new world -- of Gods and monsters.}
+<ACTION>__{The glass comes closer and closer to Kafka's lips -- if he leans away from it any further he'll be lying on the operating table -- but now a WRENCHING noise makes everybody turn. The body of Mr. Pick, bloody and ragged, is dragged up with a SMASH through a breaking floor-panel by the great chain. Kafka has his chance.  The next time anyone looks at him he's holding the nozzle of the burning device under Ekman's throat, finger on the trigger. -- And on the other side of the laboratory a wide elevator platform rises into view -- carrying the prisoners from the dungeons!}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Throws Ekman aside and runs away.}
+<ACTION_ALT>__{EKMAN}
+<ACTION>__{Falls to the floor, holding his hands up over his head with a SCREAM as the ghastly creatures from the depths converge on him -- but they pass him by -- intent on getting Murnau. The last out of the elevator is the most horrible BEAST-MAN yet -- and we finally see the use to which various animal-parts have been put.}
+<ACTION_ALT>__{MURNAU}
+<ACTION>__{Just stands by the operating table, waiting for them.  He knows there's no way out and he's far too practical a man to waste energy running or screaming.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{DOORWAYS}
+<ACTION>__{Kafka running through the Castle, through door after door after door after door, leaving them all banging behind him, back and forth.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{THE LABORATORY}
+<ACTION>__{Ekman stumbles to his feet, watching in horror as the prisoners of the Castle strap Murnau to his own operating table. One by one, the prisoners file past the intricate surgical tools neatly laid out on white cloth.  Each prisoner selects the implement of his choice. Ekman, too, runs away out of the laboratory. The Laughing Man, snickering, isn't sure whose side he's on. But then, LAUGHTER BUILDING, he goes to join the others in line.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{DOORWAYS}
+<ACTION>__{Kafka still running in the maze -- through a final door.  And he finds himself right back in --}
+<ACTION_ALT>__{THE LIBRARY}
+<ACTION>__{With the brightness of the laboratory facing him through its open door.  Horrible SOUNDS coming from in there. THE HIDDEN BOMB-CASE Almost time.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Running again, through the maze of corridors.  He HEARS running footsteps behind him -- looks back to see Ekman running after him.  Ekman catches up -- but runs past Kafka in his panic to escape -- out onto a metal walkway around a central area of offices.}
+<ACTION_ALT>__{THE LABORATORY}
+<ACTION>__{Murnau can't be seen, only the deranged men huddled closely around the operating table. THE HIDDEN BOMB-CASE Abruptly stops ticking.}
+<ACTION_ALT>__{THE CENTRAL OFFICES}
+<ACTION>__{The floors SHUDDER as the BOOM in the laboratory is heard and felt.  The metal walkway breaks and Ekman goes sliding off it -- while Kafka manages to hang on.  He ducks his face down as glass from all the surrounding office windows SHATTERS and SHOWERS -- and then paper starts sailing down all around. Literally a hailstorm of documents. On the floor below where he fell, Ekman tries to stand, but the falling flurry of paper keeps him at bay.  He waves his hands wildly trying to see his way through it all, but it's too much.  Now his feet are trapped in it.  It's starting to rise around his legs.  Papers are fluttering down from floors and floors of surrounding offices above, filling the air. Ekman suffocates and drowns and disappears in the paper piling up around him -- one lone arm and hand the last we see of him.}
+<ACTION_ALT>__{THE LABORATORY}
+<ACTION>__{Totally wrecked -- and jutting out of the broken walls are burst pipes -- spurting red, blue, and black INK everywhere.}
+<ACTION_ALT>__{THE CENTRAL OFFICES}
+<ACTION>__{Kafka is managing to climb back onto the unsafe metal walkway -- when ZING! -- a bullet ricochets near him. The Assistants!  They've nearly fallen through another doorway where the walkway on that side broke, but got each other stuck in the door just in time.  One of them is wildly FIRING a revolver in Kafka's direction.  The other tries to grab it and both FIRE it together in all directions. Kafka runs away, avoiding a snake of broken wire, flipping about, SPARKING off the metal. The Assistants, shoving each other, extricate themselves back through their doorway to find another way to chase Kafka.}
+<ACTION_ALT>__{THE LABORATORY}
+<ACTION>__{The burst ink pipes drip empty.  The sound of maniacal LAUGHTER abruptly stops.  The ink has filled the lab halfway to the ceiling.  It's covered everything and every ... body. A last bubble pops, leaving a lake of ink with a surface smooth as glass.}
+<TRANS>__{CUT:}
+<ACTION_ALT>__{UNDERGROUND FILE VAULT}
+<ACTION>__{Kafka has found his way back here -- rushing in.  But wait: Which file cabinet did he come out of?  He's surrounded by file cabinet drawers all alike.  He starts running around, pulling open drawers, trying to find the secret doorway through one of them.}
+<ACTION_ALT>__{SPIRAL STONE STAIRCASE}
+<ACTION>__{Here come the Assistants, running round and round.}
+<ACTION_ALT>__{UNDERGROUND FILE VAULT}
+<ACTION>__{Kafka runs round and round, opening drawer after drawer.  He finds the one!  Jumps in!  Pulling it closed after him just as -- -- the Assistants stumble in.  They look at each other, then immediately start rushing around opening drawers.  They run back and forth and all around, bumping into each other, making themselves dizzy.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pulls open a drawer)}
+<DIAL>__{Oskar!}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turning from another)}
+<DIAL>__{Ludwig?}
+<ACTION>__{-- But Ludwig just pulls out a file folder.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{This is filed incorrectly!}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{Here too!  They're all in a dreadful muddle!}
+<ACTION>__{They start trading files back and forth, trying to put the system back in order.  The attention span of squirrels, they've forgotten all about looking for Kafka.}
+<TRANS>__{CUT:}
+<ACTION>__{CASTLE GATES - DAWN Opening.  The police Inspector enters the main courtyard. Behind him come the two secondary policemen.  Behind them, obscurely, a few more.}
+<ACTION_ALT>__{CASTLE COURTYARD}
+<ACTION>__{He and his men pause, reacting ... ... as the few wretched survivors of the Castle prison stagger out of the shadows to greet them.}
+<TRANS>__{CUT:}
+<ACTION>__{EMBANKMENT - MORNING On the Old Town side of the River.  Foggy.}
+<ACTION_ALT>__{KAFKA}
+<ACTION>__{Walks slowly, tiredly.  He looks up at the sky, but the sky is a silver shield against anyone who looks for help from it.}
+<ACTION_ALT>__{FURTHER ON}
+<ACTION>__{Kafka stops.  Turns.  Did he hear something other than the wind and the water?}
+<ACTION_ALT>__{FURTHER ON}
+<ACTION>__{He passes through a small park, approaching a gate on the other side of it.  Leaves RUSTLING.  Mist swirling around him.  He opens the gate and -- BOO!}
+<ACTION_ALT>__{GABRIELA}
+<ACTION>__{Standing there, half in shadow, in profile.  Her glorious profile.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Gabriela! -- you did get away.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I knew you walked this way to work.  I wanted to find you before they did.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- I've just come from the Castle.  It's over.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(her eye glancing far away)}
+<DIAL>__{Over?  It's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.}
+<ACTION>__{Kafka is beginning to sense something quite wrong with her.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{Gabriela ...?}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Should I tell you why I joined our late lamented nihilists? Why I became a murderer? Because murder ... is bliss.}
+<DIAL_PAR>__{(looks at him)}
+<DIAL>__{It's easier than you might think to absorb and assimilate Evil -- once you've adopted its procedure.}
+<ACTION>__{Kafka just watches her ... The breeze sings in the air.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Have you ever watched a person deteriorate?  Day by day.  I don't mean in a spiritual sense.}
+<ACTION>__{Kafka doesn't answer.  She turns fully to him.  The other side of her beautiful face is ... fungus.  Alive.  Seething. Frothing.  Bubbling.  Kafka backs away a couple of steps.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Only two steps back?  Even the man they left to guard me retreated further than that.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I -- I found your jailer.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{This is the result of their elixir of youth.  They were to come and check on it during the night.  I contrived to miss the appointment.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{They're dead now.  We can get help.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon -- with all the others.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{There's a new potion -- he said it was perfected.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I know there is.  And you're what I have to bargain with. For now you're the last one in their way.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{I told you, they're  dead .  It's finished.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{Why should I believe a man who never believed me?  They're absolutely right, you know -- guilt should never be doubted. It's easier that way.}
+<ACTION>__{Kafka starts to back away some more.  Gabriela starts to follow him.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I think you've just escaped for the moment.  Just as I did.  As Eduard did.  As they let us do. But only for the moment.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{No -- not this time.}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I know better than you what people will say when they have to.  When they brought me in for questioning I informed on my friends the very first day.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- Listen to me --}
+<CHAR>__{GABRIELA} <CHAR_PAR>__{}
+<DIAL>__{I do.  Always.  You understand the world better than any of us, Kafka.  And what it's becoming.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I've always held you in the highest regard.}
+<ACTION>__{And suddenly she's slashed a  knife across Kafka's chest.  He shouts in pain, staggering backwards.  She comes after him.}
+<CHAR>__{KAFKA} <CHAR_PAR>__{}
+<DIAL>__{-- Gabriela!}
+<ACTION>__{She comes after him, blade glistening.  Kafka does his best to run.}
+<ACTION_ALT>__{THE BRIDGE}
+<ACTION>__{Kafka giddily staggers forward, one arm wrapped around his bleeding chest, Gabriela close behind him.  Too close for him to get away.  He turns to face her as he reaches the bridge and as she comes upon him again with the knife, raising his arm to block the thrust and hold her wrist back.  She's strong, though, made more so by her madness.  She forces him down to the ground, straddling him, the knife pushing closer.  Kafka gasps in pain, finally succumbs, no longer able to hold his hand up in defense, simply shutting his eyes with a terrible sigh to await the fatal stab. It doesn't come.  Almost.  But not quite.  Gabriela's arm pauses, shaking in the cool, cloudy air, her sleeve trembling in the breeze off the River, the sharp blade, inches from Kafka's throat, flashing in the new day's light. Gabriela stares away over the River, the destroyed half of her face in shadow again, the other more strikingly beautiful than ever.  As Kafka watches, passive, she gets off him and slowly walks to the wall of the bridge, letting the knife drop from her hand along the way.  Kafka manages to lift himself to his knees, clutching his wound.  He looks up. Gabriela in one graceful movement climbs over the wall and throws herself into the River. Kafka lowers his head.}
+<TRANS>__{CUT:}
+<ACTION>__{CONTINENTAL COFFEE SHOP - MORNING Quiet in here.  Breakfast business not as crowded as evening.  Kafka sits alone at  his usual table.  Looking dazed, almost in shock.  Mostly just tired.  Waiting.  He sips from his coffee cup.  He COUGHS a little into his napkin -- and notices blood on it. He has a pen in his hand.  Tapping it slowly on a newspaper on the table ... Bizzlebek comes into the coffee house.  He sees Kafka sitting in the far corner and gives a grand smile and wave.  But then he notices Kafka's other friends entering and he'd rather not have to deal with them -- so he gives Kafka a "catch you later" gesture and turns onto his own usual stool at the bar. Kafka stares at his friends over there.  They're taking off their coats and  greeting other people.  The girl, Anna, is the first to start walking to join him. He starts to write, a first line that has occurred to him, the pen moving as if he can't help himself ...}
+<CHAR>__{KAFKA'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{Dearest Father ...}
+<ACTION>__{Anna's approaching.  Kafka just watches her coming.  He knows he'll end up going out with her, sleeping with her, getting engaged to her ... We see the future on Kafka's face}
+<CHAR>__{KAFKA'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{You asked me recently why I maintain that I am afraid of you ...}
+<TRANS>__{CUT:}
+<ACTION>__{KAFKA'S HOUSE - NIGHT Alone again in his little room, Kafka writes on into the night.  The famous "Letter To His Father" is pages and pages long.  We notice too that his chest has been bandaged.  He COUGHS a little as he forces himself to keep writing.}
+<CHAR>__{KAFKA'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{Naturally things cannot in reality fit together the way the evidence does in my letter -- life is more than a Chinese puzzle.  But in my opinion something has been achieved which so closely approximates the truth that it might reassure us both a little and make our living and our dying easier.}
+<TRANS>__{FADE OUT: FADE IN:}
+<ACTION>__{WATERFRONT WHARVES - MORNING The Assistants sit on a big packing crate, brushing soot from their suits, shaking dust out of their hair, fiddling with the rips in their jackets and trousers.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{We could go back to the office. Explain ourselves to the Chief Clerk.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{They'd drive us away.  That Kafka's made things very hot for us.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{I understand he was wounded in the lung.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sulky)}
+<DIAL>__{It doesn't matter.  It's too late for all of us.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks at O.)}
+<DIAL>__{What's to become of us now?}
+<ACTION>__{Oskar has a long think.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks at L.)}
+<DIAL>__{Amerika.  That's the place to go.}
+<ACTION>__{Ludwig jumps off the box and gapes at Oskar, tremendously impressed by this brainstorm.}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{Everyone in Amerika has a toaster in their building!}
+<ACTION>__{Oskar jumps down from the box.}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{Then that's the place for us!}
+<CHAR>__{LUDWIG} <CHAR_PAR>__{}
+<DIAL>__{Amerika for us!}
+<CHAR>__{OSKAR} <CHAR_PAR>__{}
+<DIAL>__{Amerika!}
+<ACTION>__{And, linking arms, they do a strange dance along the quay ...}

@@ -1,0 +1,2124 @@
+<DIAL>__{"AFFLICTION" Screenplay by Paul Schrader Based on a novel by Russell Banks}
+<CHAR>__{SHOOTING DRAFT} <CHAR_PAR>__{}
+<ACTION_ALT>__{CREDITS}
+<ACTION>__{Still-life tableaus. Lawford, N.H., a town of fifty buildings on a glacial ridge, neither mountain nor plateau. Developed as 1880's forestland, discarded in the Depression. Winter has set in. Halloween day. Snowy fields yield to overcast skies: oppressive, horizonless, flourescent. -- Wickham's Restaurant. Where Route 29 bends. 24-hour diner. Margie Fogg works here. -- Trailer park in shadow of Parker Mountain. Home of Wade Whitehouse. -- Toby's Inn. Roadhouse three miles from town on the river side of Route 29. Everything not tied down ends up here. -- Glen Whitehouse farm. White clapboard. -- First Congregational Church. North on the Common from City Hall. -- LaRiviere Co. Ramshackle well-digging firm embarrassingly near the town center. Wade works here. -- Merritt's Shell Station. Cinder-block. -- Alma Pittman's house. Like so many others. -- Town Hall. ROLFE WHITEHOUSE'S VOICE, thirtiesh, articulate, speaks over credit tableaus:}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{This is the story of my older brother's strange criminal behavior and disappearance. We who loved him no longer speak of Wade. It's as if he never existed. By telling his story like this, as his brother, I separate myself from his family and those who loved him. Everything of importance -- that is, everything that gives rise to the telling of this story -- occurred during a single deer-hunting season in a small town in upstate New Hampshire where Wade was raised and so was I. One night something changed and my relation to Wade's story was different from what it had been since childhood. I mark this change by Wade's tone of voice during a phone call two nights after Halloween. Something I had not heard before. Let us imagine that around eight o'clock on Halloween Eve, speeding past Toby's, Route 29, comes a pale green eight-year-old Ford Fairlane with a police bubble on top. A square-faced man wearing a trooper's cap is driving the vehicle. Beside him sits a child, a little girl with a plastic tiger mask covering her face. The man is driving fast --}
+<ACTION>__{-- Route 29 tableau dissolves to night. A pale green police Ford Fairlane drives past.}
+<ACTION_ALT>__{END CREDITS}
+<LOC>__{INT./EXT. POLICE CAR - NIGHT}
+<ACTION>__{WADE WHITEHOUSE, driving, sits beside JILL, his daughter, ten years-old, wearing a black-and-yellow tiger plastic mask.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry for the screw-up. But I couldn't help it it's too late to go trick-or-treating now. I couldn't help it I had to stop at Penny's for the costume. And you were hungry, remember.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Who's fault is it then if it's not yours? You're the one in charge, Daddy.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shakes cigarette from pack)}
+<DIAL>__{Yeah.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Look. Those kids are still trick-or- treating. They're still out.}
+<ACTION>__{Wade watches boys in the headlights, lights cigarette.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Those are the Hoyts.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I don't care. They're out.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Can't you see... look out there. Nobody's got their porch lights on anymore. It's too late. Those Hoyt kids are just out to get in trouble. See, they put shaving cream all over that mailbox there. They chopped down Herb Crane's new bushes. Little bastards. Jesus H. Christ.}
+<ACTION>__{Wade grimaces, holds his jaw. The Fairlane swerves around broken pumpkins under a caution light.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Why do they do that?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Do what?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{You know.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Break stuff?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Yeah. It's stupid.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I guess they're stupid.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Did you do that when you were a kid?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Well, yeah. Sort of. Nothing really mean. Me and my pals, me and my brothers. It was kind of funny then. Stealing pumpkins, soaping windows. Stuff like that.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Was it funny?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{To us it was.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{But it's not funny now.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It's not funny now. I'm a cop and I gotta listen to all the complaints people make. I'm not a kid anymore. You change.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I bet you did lots of bad things.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What are you talking about?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I just think you used to be bad.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No. I didn't used to be bad. No sir. Where do you get this stuff? From your mother?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{No. She doesn't talk about you anymore.}
+<ACTION>__{Wade looks at her, wanting to lift her mask, see her face.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOWN HALL - NIGHT}
+<ACTION>__{The Fairlane approaches Town Hall, a square two-story building on the north side of the Common. Exhaust billows from idling cars as parents and children come and go.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TOWN HALL - NIGHT}
+<ACTION>__{Clowns, tramps, angels and vampires fill the brightly lit room. Parents watch from the walls as GORDON LARIVIERE, a beefy fiftiesh man with a silver flat-top, announces the costume contest. Wade nods to various townspeople.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{We're looking for the funniest costume! And the scariest! And the most imaginative! And the best costume of all!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nudges Jill)}
+<DIAL>__{Got here just in time. Go ahead. Jump in line. Maybe you'll win a prize.}
+<ACTION>__{Jill steps forward, retreats. Wade looks at her flaxen hair, her blue sneakers protruding from her pathetic costume. His heart aches he loves her so.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Go on, Jill. Some of those kids you still know.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I don't want to.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Why? Why not? You know these kids from when you went to school here. It hasn't been that long.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{It's not that.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What then?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{It's stupid.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It's fun.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(voice breaking)}
+<DIAL>__{I want to go home.}
+<DIAL_PAR>__{(Wade kneels down)}
+<DIAL>__{I don't like it here.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh, Jesus, come on, will you? Don't mess this up anymore than it's already been messed up. Join the other kids. Do that and before you know it you'll be as happy as a goddamned clam.}
+<ACTION>__{Wade inches her toward the circle of children. Gordon spots them:}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Wade! And who's that tiger? Is that Jill? Come and join us.}
+<ACTION>__{Jill in the spotlight, joins the costumed children. A former classmate calls her name. Wade, relieved, watches, then steps outside for a smoke.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOWN HALL - NIGHT}
+<ACTION>__{Wade steps outside, lights a cigarette. JACK HEWITT, 23, clean-cut, handsome, cocky, stands with CHICK WARD and FRANKIE LACOY, local boys.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What are you boys up to?}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{Same old shit.}
+<CHAR>__{FRANKIE} <CHAR_PAR>__{}
+<DIAL>__{You see the damage these little sons- of bitches been raising tonight?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{You're going to have to move your pickup.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I know.}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(offers whiskey pint)}
+<DIAL>__{Take a bite.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't mind if I do.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{LaRiviere's having a hell of a time in there. Master of fucking ceremonies.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where's that gun you were bragging on today?}
+<ACTION>__{Jack stops over to his double-parked burgandy pickup, removes a Browning BAR .30/06 with a scope, hands it to Wade.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{No brag. Just fact.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(admires gun)}
+<DIAL>__{Got you for -- 450, 500 bucks?}
+<DIAL_PAR>__{(passes it to Frankie)}
+<CHAR>__{FRANKIE} <CHAR_PAR>__{}
+<DIAL>__{Nice.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Wade)}
+<DIAL>__{See you got Jill tonight. How'd you manage that?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turns)}
+<DIAL>__{Don't forget to move your truck.}
+<DIAL_PAR>__{(walks inside)}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TOWN HALL - NIGHT}
+<ACTION>__{On stage, LaRiviere arranges the contest winners. A fairy godmother with a wand beams while, nearby, a hobo writhes in his mother's grip -- a hard loser. Wade looks for Jill, first among the winners, then among the losers; she's nowhere to be found. He heads toward a hall leading to the restrooms. Jill stands alone in the corner next to the pay phone, tiny, forlorn. Wade realizes at once he was wrong to leave her before she had found a friend.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Some party, huh? Sorry I lost sight of you. I had to step outside for a smoke. You find anybody you know here? There must be some kids you used to know from school. You want to go tomorrow? See your old teachers? Be more fun than hanging out with me all day.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No what?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(lifts mask atop head)}
+<DIAL>__{No I didn't see anybody I know. No I don't want to go to school here tomorrow. I want to go home.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You are home. There are lots of kids you still know here.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I don't want to be here. Don't worry, I love you, Daddy, I do. But I want to go home.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sighs)}
+<DIAL>__{Jesus. Listen, Jill, tell you what. Tomorrow morning, you still want to go home, I'll drive you down. I'll get off work or something.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I called Mommy.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What? You called Mommy? Just now?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus, why?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I... because I want to go home. She said she'd come and get me.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Come and get you! Shit! It's a damn half hour drive each way. Why didn't you talk to me about it first?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{See, I knew you'd be mad.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Yeah, right, I'm mad. What'd you tell her, for Christ sake?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I told her I wanted to come home. Daddy, don't be mad at me.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Well, I guess I am. I planned this, I planned all this, you know. I mean, it's sort of pathetic, but I planned it. You shouldn't have called your mother.}
+<DIAL_PAR>__{(takes her arm)}
+<DIAL>__{C'mon, we're gonna call her before she leaves.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. POLICE OFFICE - NIGHT}
+<ACTION>__{Wade leads her to a frosted-glass door reading "POLICE", enters. Inside, he flips on flourescent light, dials the desk phone. More utility room than office. He waits. There's no answer. Jill looks down.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{She's gone already!}
+<DIAL_PAR>__{(hangs up)}
+<DIAL>__{Gone already! Couldn't wait.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{That's all you got to say? "Yes".}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{She won't be here for a half hour. Think you can stand it that long?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where do you expect to wait for her? Obviously downstairs with the other kids isn't good enough.}
+<ACTION>__{Jill sits in a chair facing the dark window pane.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Sit right there by yourself if you want. Wait for her by yourself. That's fine with me. Just dandy. I'm going downstairs.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{That's fine with me too. When Mommy comes, tell her I'm up here.}
+<ACTION>__{Wade Whitehouse stalks out.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOWN HALL - NIGHT}
+<ACTION>__{Wade steps outside, notices Jack Hewitt and his kewpie-doll girlfriend HETTIE, 20, sitting in the cab of his double-parked pickup, sharing a joint, talking to LaCoy alongside.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I thought I told you to move that truck!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Relax, Chief. We're leaving. You wanna toke?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(steps over)}
+<DIAL>__{You gotta be more careful about that shit. Gordon or one of those guys sees you smoking that wacky tabacky around me they'll expect me to bust you. And I'll be outta a job.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Some job. Here, have a hit. Don't be such a hardass. I know you got problems, but everybody's got problems.}
+<DIAL_PAR>__{(offers joint)}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Not here.}
+<ACTION>__{LaCoy laughs: that Jack Hewitt, some guy. Wade holds his aching jaw. He looks at Jack's young athletic body, his pretty girlfriend, envies him.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Well, c'mon, then. Get in and we'll take a little ride, my man.}
+<ACTION>__{Wade looks up to the window where Jill waits, walks around the front of the truck, gets in.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT./EXT. JACK'S TRUCK - NIGHT}
+<ACTION>__{Jack's high-bodied pickup growls in low gear as it drives past Merritt's Shell station toward Saddleback Ridge. Jack lowers the radio as Wade asks him about deer season; Hettie leans forward to hear the music.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Got a job first thing in the morning, first day of season. Saturday I'll hunt for myself. Twombley something. - Er --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Evan. He's a mucky-muck union official from Massachusetts. You're lucky.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't know about lucky. The guy's a full-blown asshole. Pay's good, though. $100 a day. I got to guarantee a kill, of course. Which I can do. There's some monster bucks hiding out up there.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{How'd you get the job?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Gordon, he's always got some angle working. He wants to keep Twombley happy, I'm his boy.}
+<ACTION>__{Wade grimaces as he passes the joint back.}
+<CHAR>__{HETTIE} <CHAR_PAR>__{}
+<DIAL>__{What's wrong with you?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Toothache.}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{You should get close to him. Make yourself irreplaceable. Guy's loaded.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Like you and Gordon?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Right. The sonofabitch couldn't get along without me.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Yeah, he'd go broke tomorrow if you quit him.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Right!}
+<ACTION>__{A car flashes past.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Bastard's got his high beams on.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(watching)}
+<DIAL>__{Shit.}
+<CHAR>__{HETTIE} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{My ex-wife Lillian and her husband. That was them in the Audi that just passed us.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Audi's a good car.}
+<CHAR>__{HETTIE} <CHAR_PAR>__{}
+<DIAL>__{What's she up here for?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Aw, shit, she's here to get Jill. Me and Jill had a little argument. Jack, I got to get back, get back to town. Move this thing, will you? See if you can get back to the Town Hall before they get there, okay?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Piece of fucking cake.}
+<ACTION>__{Jack brakes, wheels the 4x4 around, heads back to town.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOWN HALL - NIGHT}
+<ACTION>__{Most parents have left or are leaving with their costumed children. Hewitt's burgundy pickup breaks alongside the Audi. Wade swings open the passenger door, jumps to the ground:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Lillian!}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Where's Jill?}
+<ACTION>__{LILLIAN, 40, attractive in an ankle-length hooded coat. Whatever pose Wade strikes, she strikes the opposite. Her dress and demeanor set her apart.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Me and Jill, we just had a little spat. She felt kind of left out, I guess, from not knowing some of the new kids --}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Where is she now? Is she in the truck with your friends?}
+<ACTION>__{Jack and Hettie neck inside the cab.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{She told me she wanted to wait for you. Inside.}
+<ACTION>__{Jill at the window in her tiger mask. Lillian waves; Jill motions she'll be down.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{While you went off for a few beers with your friends? Is that Hettie Rodgers there, with whatzizname?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{She's grown up some, hasn't she?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh, Jesus, lay off, will you? It looks like you've won this fucking round already, so lay off a little, for Christ's sake.}
+<ACTION>__{HORNER, 45, Lillian's new husband, thin with thinning hair and a Tyrolean hat, sees Jill at the entrance and heads toward her.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Horner! Leave her be. This's got nothing to do with you, so just act like the chauffeur. Got it?}
+<CHAR>__{HORNER} <CHAR_PAR>__{}
+<DIAL>__{Wade. Nobody wants any trouble.}
+<ACTION>__{Horner greets Jill, walks her to the silver Audi. Passing parents, listening, give Wade a wide berth.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I don't want her to go, Lillian.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Don't cause a scene. No one's trying to win any 'rounds'. Don't make it any worse.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm not making it any worse. You are. Me and Jill could've worked this thing out. It's normal, it's even normal for me to get a little touchy about it. Believe it or not. How do you think this makes me look, treating her like some tragic victim or something?}
+<ACTION>__{Horner opens the car door for Jill, shuts it. Wade shoves him:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Just wait till we're through, goddamnit!}
+<ACTION>__{Horner's hat falls. Lillian, icy, stares at Wade. He backs off. Wade sometimes wonders: how'd Lillian Pittman of Lawford, N.H., get so much class?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't you say a word. I didn't hit him. I'm not going to hit anybody.}
+<ACTION>__{Horner sits behind the wheel. Lillian silently stares Wade up and down, gets in the car beside Jill. The automatic locks latch as the Audi drives away. Its taillights merge with vanishing traffic. Wade looks down, picks up Horner's dark green Tyrolean hat, examines it, as if unsure of its function. Wade walks toward Town Hall. MARGIE FOGG, exiting, greets him:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{New hat?}
+<DIAL_PAR>__{(no answer)}
+<DIAL>__{Jill's up, I see.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(vague)}
+<DIAL>__{For a while.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{How's she doing?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Okay. She's fine.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You two want to do anything tomorrow and need a third party, give me a call, okay? I'm off.}
+<ACTION>__{NICK WICKHAM, 45, Marg's boss, passes by:}
+<CHAR>__{WICKHAM} <CHAR_PAR>__{}
+<DIAL>__{Like hell you are. Tomorrow's first day of deer season. I'll need you at least in the morning.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{Well, that's that.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(walks off)}
+<DIAL>__{Take care, Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You be careful of that little bastard. He's dying to get in your pants, you know.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Don't worry. I can protect my virtue. I mean, c'mon, Wade, give me a break.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{See you tomorrow, maybe.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You okay?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION>__{Wade, lost in thought, continues toward Town Hall. At the door, LaRiviere, one of the last to leave, eyes him. Wade tosses Horner's hat inside.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Tomorrow, Gordon.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Watch this snow. It's coming down tonight.}
+<ACTION>__{Wade nods as he lights a cigarette. Alone, he watches the last cars pull out. He holds his jaw.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WADE'S TRAILER HOME - DAWN}
+<ACTION>__{Pre-dawn light silhouettes a dozen weather-beaten mobile homes set off Route 29. Snow continues to fall. A sheet of white stretches down Parker mountain.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WADE'S TRAILER - DAWN 6:40. A clock radio pierces the silence with classic rock.}
+<ACTION>__{Wade Whitehouse rolls over, runs his tongue across mossy teeth, shuts off the music. He looks out the window, grunts: "Shit!" He steps over to the phone by the frayed plaid couch, dials. Wade's trailer is surprisingly neat, considering its owner smokes too much, drinks too much, eats take-out and rarely cleans up.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on phone)}
+<DIAL>__{Lugene? Wade. Hoya doin?}
+<DIAL_PAR>__{(fumbles for cigarette)}
+<DIAL>__{Look, I was wondering, with the snow and all, if you got school today?}
+<DIAL_PAR>__{(lights cigarette)}
+<DIAL>__{How the hell do I know? You're the principal. All I'm supposed to do is direct traffic from 7:30 to 8:30.}
+<DIAL_PAR>__{(listens)}
+<DIAL>__{Yeah, okay, I'm sorry -- I only just now saw it was snowing, that's all. My whole day is fucked. I gotta plow all day. If I don't get over to LaRiviere's early enough, I'm stuck with the grader. I was just hoping you'd have called school off.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{You check the weather bureau?}
+<DIAL_PAR>__{(acquiesces)}
+<DIAL>__{Okay, I hear you. I'll be over in a bit.}
+<DIAL_PAR>__{(hangs up)}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WADE'S TRAILER HOME EARLY - MORNING}
+<ACTION>__{Jack Hewitt's 4x4 passes Wade's trailer, continues up 29. Tire chains splice the path.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. JACK'S TRUCK EARLY - MORNING}
+<ACTION>__{Jack behind the wheel. Beside him EVAN TWOMBLEY, 60, fleshy, Irish, wearing brand new scarlet wool pants, jacket and cap. He feeds on the misfortunes of others.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{It's not enough snow, not for tracking the bastards. No advantage there, kid.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, Mr. Twombley, I know where those suckers are. Rain or shine, snow or no snow. I know deer. We'll kill us a buck today. Guaranteed. Before ten.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Guaranteed, eh?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Yep. Right about now the does are holing up in the brush piles. The bucks are right behind them and we're right behind the bucks.}
+<DIAL_PAR>__{(gestures to gun rack)}
+<DIAL>__{This gun gets fired before ten o'clock. Whether it kills a deer or not is more less up to you. I'll put you inside 30, 35 yards of a buck the first four hours of the season. That's what you're paying me for, ain't it?}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Damn straight!}
+<ACTION>__{Hewitt looks at Twombley's rifle: a Winchester M-94 pump- action, custom carved stock and not a scratch on it. Never fired, at least not by Twombley.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Done much shooting with that rifle yet?}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(eyes him)}
+<DIAL>__{Tell you what. You get me close to a big buck by ten, kid, there's another hundred bucks in it.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{If you get it?}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You might not kill it.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{You think so.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You might gut-shoot it or cripple it for somebody else to find and tag. Can't guarantee that won't happen, especially with a new gun. I may have to shoot it.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{You take care of your end, kid, I'll take care of mine.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Mmm.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{You understand what I'm saying? I want a deer, a dead one, not a cripple or whatthefuck.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I get it.}
+<DIAL_PAR>__{(disdain)}
+<DIAL>__{No sweat. You'll get yourself a deer and you'll get him dead. And you'll have him by coffee time.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{And you'll get your extra hundred bucks.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{Wonderful!}
+<ACTION>__{The pickup disappears behind a curve of pine and spruce trees.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. SCHOOL - MORNING}
+<ACTION>__{Wade Whitehouse, wearing a reflective vest, waves a district school bus into the parking lot. Noisy, jostling grade schoolers emerge from the bus. Jill's former classmates. Straight as a statue, Wade holds back traffic. Cars and trucks are backed up on the unplowed road. Horns honk and bleat; a woman's voice yells, "Whitehouse, we 'ain't got all day!" Wade, daydreaming, seems oblivious to the commotion. Oblivious -- or just plum contrary. A shiny black BMW approaches, speeding, passing traffic on the shoulder. A man and a woman in a fur coat sit in front, two children in back. Whitehouse waves for it to stop. The BMW accelerates through the intersection, ignoring Wade and the traffic. It whizzes past, spinning Wade, and is quickly up the road, spewing ice and exhaust. Wade slips to one knee. Honking ensues; every car goes where it wishes. Wade, brushing off snow, follows the last bus as it pulls in. LUGENE BROOKS, 60, school principal, rushes over:}
+<CHAR>__{LUGENE} <CHAR_PAR>__{}
+<DIAL>__{Are you okay, Wade? What was wrong? Why were you holding everyone up?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Did you see that sonofabitch in the BMW? He could've killed somebody.}
+<CHAR>__{LUGENE} <CHAR_PAR>__{}
+<DIAL>__{Did you get his number?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know who it is.}
+<CHAR>__{LUGENE} <CHAR_PAR>__{}
+<DIAL>__{Good. Who?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Mel Gordon.}
+<CHAR>__{LUGENE} <CHAR_PAR>__{}
+<DIAL>__{I still don't understand --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{From Boston. Evan Twombley's son-in- law -- he was driving. I know where they're headed. Up the lake, Agaway. The old man's out deer hunting with Jack Hewitt, so they probably got some big weekend party planned.}
+<ACTION>__{Wade sets his face, thinking.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WOODS - DAY}
+<ACTION>__{Snowprints lead from Jack's pickup to where he and Twombley walk, guns pointed skyward. They enter a line of trees. Jack watches Twombley walk ahead of him, wrapped like a huge infant in red bunting, crunching twigs underfoot. He looks from side to side, checks his gun, returns to watching Twombley. They're alone.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Safety on?}
+<ACTION>__{Twombley nods, slips, thumps to the ground. His rifle lands silently. Jack sprints over, helps him up, safety latches the Winchester. Hands it back.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{I'm okay.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Follow close. We'll cross the next meadow.}
+<ACTION>__{Jack finds a path, one eye on Twombley:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I used to play ball.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Drafted by the Red Sox.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{You played for the Sox?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Double A. New Britain.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Pitcher. "Best ballplayer to come out of New Hampshire since Carlton Fisk."}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Really.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{They said.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Hmm.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The only difference between me and that Clemens on TV is luck, shit luck.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{What happened?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ruined my arm. Brought me along too fast. Why'd it have to be my fucking arm, I used to think. Then I realized it had to be somebody's fucking arm.}
+<ACTION>__{Jack waits for Twombley as they enter a meadow. Jack aims his rifle at Twombley as he approaches.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Hey, Hewitt! Slow the fuck down!}
+<ACTION>__{Jack aims away, following an imaginary bird. Twombley steps alongside.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Safety on?}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{This way.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(walking loudly)}
+<DIAL>__{Sun's gettin high.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(fingers to lips)}
+<DIAL>__{Deers have ears too.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LARIVIERE CO. - DAY}
+<ACTION>__{Milky sky flatters LaRiviere Co., a sprawl of well-digging, septic and snow plow equipment. Billboard declaimes: "LARIVIERE CO. -- OUR BUSINESS IS GOING IN THE HOLE!" a motto repeated on every truck and piece of equipment. Wade's green Fairlane is parked outside the office.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LARIVIERE CO. - DAY}
+<ACTION>__{Wade, puffing a cigarette, passes ELAINE'S (LaRiviere secretary) desk, her large red "No Smoking" sign, eases into an office modum chair. He unzips his jacket, slaps his cap against his thigh, spraying drops of melted snow. Gordon LaRiviere, speaking on the phone past a glass partition, calls to Wade:}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Told you the snow was coming down. Take the grader.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where's the plow?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Jimmy took it. Jack's out hunting with Evan Twombley.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{His son-in-law damn near killed me.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hangs up)}
+<DIAL>__{Huh?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{At the school crossing. In his BMW. Coulda hurt some kids. I'm gonna bust his ass.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Don't go playing policeman.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What am I -- a security guard? You hired me, you and your Selectman friends.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{You don't want the extra police pay?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm not saying that.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Get the grader. Go out 29 past Toby's. Don't let Lillian get to you. She didn't belong here. That's why she left.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Fuck you.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{That's what I love about a small town. You know everybody.}
+<ACTION>__{Wade exits toward the blue grader.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WOODS - DAY}
+<ACTION>__{Jack and Twombley walk through fresh snow. The hillside's thick with pine trees. Twombley, red-faced, puffing, leans to speak to Hewitt. Jack lifts a finger to his lips:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Stay here, stand where I am.}
+<ACTION>__{Twombley peers over a slight cliff at a lumber trail twenty feet below. Jack points:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Fresh tracks.}
+<DIAL_PAR>__{(sniffs)}
+<DIAL>__{Deer shit. Big one. Here's your buck, Mr. Twombley. I'll circle around.}
+<CHAR>__{TWOMBLEY} <CHAR_PAR>__{}
+<DIAL>__{You only got a little while if you want your hundred bucks.}
+<ACTION>__{Jack zig-zags down the incline, while Twombley, gun poised, waddles along the edge. Jack stops fifty feet away, watches Twombley, a cartoon character. A stag pokes his nose through the pines, steps into a clearing. Jack aims his rifle, looks at Twombley. Twombley turns to see the buck, loses his footing, TUMBLES down the twenty-foot cliff.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOBY'S INN - DAY}
+<ACTION>__{An open cab grader ("Our Business Is Going In The Hole") sits in the rutted lot outside Toby's, a beer joint with fake wood siding and 24-hour neon sign. A four-wheel drive plow with the LaRiviere motto pulls in, parks beside the blue grader. JIMMY DAME, 40, gets out, glances at the grader as he enters.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TOBY'S INN - DAY}
+<ACTION>__{Jimmy joins Wade at the bar, calls for a beer. Frankie LaCoy bullshits with two long-haired locals at a nearby table; their conversation drifts in and out. Country music plays through a broken juke box speaker. Wade touches his tooth, grimaces.}
+<CHAR>__{JIMMY} <CHAR_PAR>__{}
+<DIAL>__{How's it goin?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Cold. How you think?}
+<CHAR>__{JIMMY} <CHAR_PAR>__{}
+<DIAL>__{Sorry about that. Why's it every year, come first snow, you get stuck with the grader?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{School. Traffic crossing.}
+<DIAL_PAR>__{(lights cigarette)}
+<DIAL>__{I gotta quit these things.}
+<CHAR>__{JIMMY} <CHAR_PAR>__{}
+<DIAL>__{What we doing after? Wells?}
+<DIAL_PAR>__{(Wade nods)}
+<DIAL>__{Don't work too fast. Business the way it is, Gordon's probably looking to lay me off earlier than usual this year. He's got too much money as it is. Why's it always the little guy that gets kicked in the butt in hard times?}
+<ACTION>__{Wade shrugs. LaCoy's conversation has caught his ear. He turns to watch.}
+<CHAR>__{LACOY} <CHAR_PAR>__{}
+<DIAL>__{...That was no pisser. I'll tell you who was a pisser. Glen Whitehouse. There was a real pisser. He was mean normal, but when he drank it was like he burst on fire. Canadian Club. Always drank CC. One Christmas there's this cord of wood out back he forgot about and he decides to have his two boys stack it. Except it's been out back two months and it's snowed and rained and froze so now the wood's all iced in. He takes the boys. He was drunk, of course.}
+<ACTION>__{Wade's face as the story comes to life:}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY (1964)}
+<ACTION>__{Thirty years before. GLEN WHITEHOUSE ("POP"), 42, pushes his boys, Wade (13) and Rolfe (10), toward snow-covered lumps of firewood behind the barn. He's drunk. The boys carry shovels and a pickaxe.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Move it! Daylight in the swamps!}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Pop, the kids are waiting for us.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reproving)}
+<DIAL>__{Rolfe.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{A lesson in work and its rewards. You'll thank me for this one day.}
+<DIAL_PAR>__{(to house)}
+<DIAL>__{Sally, turn off that TV!}
+<ACTION>__{His sons chip at the wood. Hopeless. Frozen solid.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Rolfe)}
+<DIAL>__{Just do it.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Atta-go.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Please, Pop. Let's go back.}
+<ACTION>__{Wade notices his mother, SALLY, watching from the window.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{What are you, a quitter?}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TOBY'S INN - DAY}
+<ACTION>__{LaCoy roars with laughter.}
+<DIAL>__{LONG-HAIRED LOCAL}
+<DIAL_PAR>__{(puzzled)}
+<DIAL>__{So what happened?}
+<CHAR>__{LACOY} <CHAR_PAR>__{}
+<DIAL>__{Beats me. That's all I heard. Wade would know more about it.}
+<DIAL_PAR>__{(calls)}
+<DIAL>__{Wade! We were just talking about your Old Man. "What are you, a quitter!"}
+<ACTION>__{Wade grabs his keys, walks over. Jimmy follows.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus, LaCoy, you got nothing better to do than sit around and tell stories. Pity is, some college student will come some day and believe this shit cause you're the only one dumb enough to talk to him. Take care.}
+<ACTION>__{Wade and Jimmy head out.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. BACKROAD - DAY}
+<ACTION>__{Wade, shivering in the open grader, plows a narrow winding road. He lights a cigarette, exhales steamy smoke. LaCoy's laugh triggers a memory:}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WHITEHOUSE FARM - DAY (1964)}
+<ACTION>__{The flashback continues: Glen Whitehouse pushes his sons inside. Sally steps from sight. Out back, the firewood lies frozen amid futile shovel marks.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{That was some job.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{We'll work at it everyday, promise.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{I think we made the point.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mumbles)}
+<DIAL>__{You just needed a drink.}
+<ACTION>__{Pop, swigging Canadian Club, turns:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{What was that?}
+<DIAL_PAR>__{(no answer)}
+<DIAL>__{You got something to say, say it! Say it!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(soft)}
+<DIAL>__{Nothing.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{You no-good pup!}
+<ACTION>__{Rolfe runs from the room screaming, "Mom!"}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WICKHAM'S - DAY}
+<ACTION>__{The town's 24-hour restaurant. A bright new sign reads: "Home Made Cooking." Wade's grader out front.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WICKHAM'S - DAY}
+<ACTION>__{Wade, eating lunch at the counter, talks with Nick Wickham:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It don't look right.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{The sign. It looks like it's spelled wrong or something.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{Fuck. Wade Whitehouse. It's people like you that keep this fucking town from prospering. Whatever somebody does to improve things around here, you gotta find fault with it.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm not finding fault. It's a good idea, good for you, good for the town. Real modern too.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{This town sucks.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Aw, c'mon, I was only saying there's something wrong with "Home Made Cooking", that's all. The sign's fine. What it says is wrong.}
+<ACTION>__{Margie Fogg heads over, sits:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Who needs it? Everybody who comes here has been coming for years so what they need a sign for?}
+<ACTION>__{Nick goes back to work.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You okay?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry about what I said.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Said what?}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{About you and Jill and needing a third person. She went back to Lillian?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Forget it.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(touches his arm)}
+<DIAL>__{I'm sorry.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm going to start one of those custody suits. I don't give a fucking shit. You know?}
+<ACTION>__{Wade's eyes well up.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You don't mean that.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I mean that.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(arm around his shoulders)}
+<DIAL>__{No you don't. You're pissed, that's all. You ought to cool off for a few days then have a long talk with Lillian. You know? Work it out with her, tell her how you feel. Lillian's not out to get you.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{The hell she isn't. Lillian's been trying to nail me to a cross since the day I met her. I'm gonna hire me a fucking lawyer from Concord and get this thing, this divorce thing, rearranged. I've been thinking about it a lot. It's like she owns Jill or something. Nobody owns nobody, especially not kids. And I pay her.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calls)}
+<DIAL>__{Marg!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{That goddamned woman. Thinks she can cart Jill off and leave me alone like this. I'm more than pissed, Margie. I'm a whole lot more than pissed. I been that plenty and I know the difference. This is different.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{Marg! You got orders!}
+<ACTION>__{Wade and Margie stand. She wants to kiss him.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Call me.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(genuine)}
+<DIAL>__{Tonight. Let's get together.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<ACTION>__{Wade meets Nick halfway to the door.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{You talked to Jack?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Not since last night. He took a guy hunting.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{The fucker shot himself. Ker-bang! That's what it sounds like. Not on purpose. I assume accidental.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shocked)}
+<DIAL>__{Jack?}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{The other guy.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where... how'd you hear that?}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{CB. Little while ago. One of the boys on the way in picked up Jack on the CB calling for state troopers. I figured you'd know what really happened. The fucking guy kill himself? This Twombley, who the fuck is he, anyhow?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No, I... I've been out on the grader all morning. Twombley's summer people. Massachusetts. Friend of Gordon's. It was his idea for Jack to take him hunting.}
+<DIAL_PAR>__{(suddenly engaged)}
+<DIAL>__{I gotta go.}
+<ACTION>__{Margie steps over as Wade exits.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{He don't care for you.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Stop being jealous.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LARIVIERE CO. - DAY}
+<ACTION>__{Elaine looks up from her desk as Wade pulls the grader into the lot, jumps out, heads for his car. Laviviere stands outside.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{What's the hurry?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{A hunting accident. Jack and Twombley.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Huh?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I figured you already heard.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(urgent)}
+<DIAL>__{Twombley, Jesus. We got to get moving: I got to get up there. How would I know? C'mon, you drive. We'll take my truck.}
+<ACTION>__{They head for LaRiviere's blue 4x4 Dodge.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT./EXT. LARIVIERE'S PICKUP - DAY}
+<ACTION>__{Gordon and Wade drive up the same road Jack took Twombley. Wade fiddles with the CB. No use: static.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Fuck. Turn it off.}
+<DIAL_PAR>__{(Wade does)}
+<DIAL>__{All you heard was there was some kinda accident?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Twombley's shot. I heard that. Not Jack. He's okay, I assume.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Fuck. You don't know how bad or anything?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You mean Twombley?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Yes, Wade, I mean Twombley. Put out that cigarette. Fuck. Fuck. Fuck.}
+<ACTION>__{LaRiviere grunts disapproval as Wade slips the butt out his window.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{He more than likely just shot himself in the foot or something. That's what usually happens.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{I shoulda sent you instead of Jack.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I wish you had. I'd rather be deer hunting instead of freezing my ass on that fucking grader.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{You ain't the hunter Jack is. And he can't drive the grader worth shit.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Like hell.}
+<ACTION>__{Ahead, they see flashing lights and cars. A white emergency vehicle passes, jolting the pickup.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(frightened)}
+<DIAL>__{That must've been Twombley. Jesus. I bet that was Twombley.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You want me to follow them to Littleton?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Let's get to the top and talk to Jack first. He'll know what happened. He fucking better. If this coulda been avoided, I'll put that kid's ass in a sling.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ACCIDENT SCENE - DAY}
+<ACTION>__{Wade pulls behind three state trooper cars. Jack stands joking with the TROOPERS, one of whom holds a German shepherd on a leash. LaRiviere and Wade jump out. Jack, suddenly serious, turns to LaRiviere:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You heard the news.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{I hear Twombley got shot.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION>__{Wade walks over to trooper ASA BROWN, pets the shepherd.}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL>__{Watch the dog, Wade. Takes a mind to, he'll tear your fucking head off.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{Bad?}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL>__{Thirty-thirty at close range.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Jesus.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Will he make it?}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shakes head)}
+<DIAL>__{D.O.A. Blew the bastard wide open. Had a hole in back you could put your head into. Pretty big hole in front too. You could've put your fist into that one.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{You see it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Nope. Heard it. We wasn't far apart. I spotted this buck, then I heard the gun go off and Twombley was gone. I looked over the little cliff we was using for a stand and there the fucker was, deader'n shit. Called it right in.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{This is gonna be one fucking mess to clean up. Twombley's son-in-law and daughter are up the weekend. Didn't you say you'd seen him, Wade?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I seen 'em. Near ran me over.}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL>__{You wanna tell 'em, Gordon? You knew the old man.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{What the fuck. My day's already ruined.}
+<DIAL_PAR>__{(to Wade)}
+<DIAL>__{Give me the keys. You can go back with Jack. You still got a shitload of plowing to do.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It ain't done, if that's what you mean.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Something bugging you?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. A few things.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Well, right now we're not too interested. Finish up what you gotta do, then you can get bugged on your own time.}
+<ACTION>__{Brown walks off with shepherd.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{Might as well take the rest of the day off. You look sort of fucked up. You've been paid for the day, anyhow, right?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Not exactly. I mean, he never paid me.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{You'll get your money. Don't talk to any newspapers about this. Twombley's a big deal down in Massachusetts, you know. Tell them your lawyer says you shouldn't comment.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Lawyer? I don't need no lawyer, do I?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{No, of course not. Just say it, that's all.}
+<ACTION>__{Wade watches LaRiviere get into his pickup, drive off.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where'd Twombley get shot?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{In the chest.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(offers cigarette)}
+<DIAL>__{No, I mean whereabouts.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(points)}
+<DIAL>__{A half mile in, along the old lumber road.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You bring him up yourself? That's a steep climb.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The ambulance guys lugged him up.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You stayed away?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where'd you get the blood?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What blood?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{On your sleeve.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Musta... How'd I know? What're you doing, playing cop?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I gotta make a report to Fish and Game. I was just wondering, that's all. What'd he do, to shoot himself, I mean?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Who the fuck knows? Musta slipped or something. I just heard the gun go off.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I never seen a man shot before. Not even in the service. Must be something.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Well, I didn't actually see him do it. Like I said.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Sure you did.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Saw him do it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What the fuck you telling me, Wade? I never seen the guy get shot, I told you that.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You musta seen him get shot. I know you did.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Let's get the fuck outta here. You're not making any sense, man.}
+<ACTION>__{They walk over to Jack's burgundy pickup. Wade eyes the rifles in the gun rack.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{There's your old twenty-gauge, and that there's the new Browning you was showing me last night. This must be Twombley's gun. Brand new. Very fancy tooling. Probably fired one time. It's a beautiful piece of work.}
+<DIAL_PAR>__{(touches it)}
+<DIAL>__{But what the hell, Jack, I guess you deserve it. Right's right.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(starts engine)}
+<DIAL>__{Yeah.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Twombley sure as hell won't be shooting it again.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{He sure as hell won't.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WADE'S TRAILER - NIGHT}
+<ACTION>__{Late. Wade Whitehouse, lying in bed with an icepack on his cheek, talks on the phone:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Rolfe.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Wade?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, brother, look, I was calling cause -- has there been anything on TV in Boston about a hunting accident with a guy named Twombley, Evan Twombley?}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{There was something. It happened up your way.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I know him -- the kid that was with him. Maybe you do too. Jack Hewitt. He works for LaRiviere with me. He's my best friend.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Wade, it's late. I know you're probably at Toby's, but I'm in bed reading. We got different habits.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No, not tonight. I'm in bed too. I'm calling because I need you to listen. You're supposed to be a smart guy. You're a professor. I got this theory. Jack says he didn't see Twombley shot but he did.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ACCIDENT SCENE - DAY}
+<ACTION>__{Wade's theory -- in black-and-white: Twombley's footing slips. Jack turns to watch. Twombley's gun hits frozen rocks, fires, blows a hole through his chest.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WADE'S TRAILER - NIGHT}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It'll come out Jack lied and the kid'll get hung for it.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{He was scheduled to testify for a committee investigating organized crime in New England and the construction business.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Twombley.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No shit.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You think Jack shot him?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Well, it was an accident.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{They were out deer hunting, right? Jack probably heard the gun go off, then came back and found the body.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ACCIDENT SCENE - DAY}
+<ACTION>__{Another theory: Black-and-white. Jack sees a figure run from Twombley's body.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WADE'S TRAILER - NIGHT}
+<ACTION>__{Wade shifts the phone from ear to ear:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Lillian was here. In Lawford.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Huh?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{The night before the shooting.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{How was she?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Picked up Jill. She was supposed to visit for the weekend for Halloween. She wanted to go home.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Who?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jill. I was thinking of getting a lawyer. Maybe you can help me.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{What happened?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{A divorce lawyer. A custody lawyer. You know, 'cause of Jill.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WADE'S TRAILER - NIGHT}
+<ACTION>__{TIMECUT: mobile homes.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WADE'S TRAILER - NIGHT}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Don't think about it. You're exhausted.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I guess.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Get some sleep.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I get to feeling like a whipped dog some days, Rolfe, and some night I'm going to bite back. I swear it.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Haven't you already done a bit of that?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No, no, I haven't. Not really. I've growled a little, but I haven't bit.}
+<ACTION>__{Sound of GUNSHOT.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MOUNTAINS - DAY}
+<ACTION>__{Wade's bubble-top Fairlane drives through snow covered hills.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MEL GORDON'S HOUSE - DAY}
+<ACTION>__{The Fairlane is parked outside a substantial summer house with a wide porch and frozen pond. The "speeding" BMW in the drive. Wade knocks on the front door. An 8 year-old boy answers the door. Wade speaks; the boy goes back inside. MRS. GORDON, 30, delicate, beautiful, wearing a dark green robe, comes to the door. Her eyes are red-rimmed. Wade has seen her before, but not this close. He feels awkward.}
+<CHAR>__{MRS. GORDON} <CHAR_PAR>__{}
+<DIAL>__{Who are you?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I was... I'm Wade Whitehouse. I was wondering, is your husband here?}
+<CHAR>__{MRS. GORDON} <CHAR_PAR>__{}
+<DIAL>__{He's asleep. We were up very late.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Well, yes, I'm... I want to say that I'm real sorry about your father, Mrs. Twombley.}
+<CHAR>__{MRS. GORDON} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Gordon. Thank you.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Well, yeah, I suppose. Sure. I just had a little business to settle with Mr. Gordon. I'm the local police officer.}
+<CHAR>__{MRS. GORDON} <CHAR_PAR>__{}
+<DIAL>__{Something about my father?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh, no. No, it's a... it's a traffic thing. No big deal.}
+<CHAR>__{MRS. GORDON} <CHAR_PAR>__{}
+<DIAL>__{Can't it wait, then?}
+<ACTION>__{MEL GORDON, 40, dark-eyed, wearing a tartan robe, steps behind his wife.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{Whitehouse. Next time, phone ahead.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{How's that?}
+<ACTION>__{Mel folds his arms. His wife goes inside.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{I said, 'Next time, phone ahead.'}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus Christ. Mr. Gordon, when I come all the way to serve somebody a summons, I don't call ahead for an appointment.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{What the hell are you talking about?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm issuing you a ticket. Moving violation.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{Moving violation! I just got out of bed and you're telling me you're giving me a goddamn speeding ticket? Now? Are you nuts? Is that it, Whitehouse? You're nuts?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(writing)}
+<DIAL>__{Yesterday morning, you passed a stopped school bus, which was flashing its lights, then you--}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stops Wade's arm)}
+<DIAL>__{Hold on!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(wrenches hand free)}
+<DIAL>__{Don't ever put your hands on me, Mr. Gordon.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{You're talking about a goddamned ticket, from when I passed you at the school where you were deciding to hold up traffic while dreaming of becoming a traffic cop or something?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't give me a hard time, Mr. Gordon. I'm just --}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{Doing your fucking job. I know. I watch television too.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yes. Here's your ticket.}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(refusing ticket)}
+<DIAL>__{You get the hell out of my house now, asshole. And know this -- you are going to be a lucky asshole if I haven't got you fired before the day is out. I can do it with one phone call, and I'm pissed enough to do it now!}
+<ACTION>__{Mel Gordon moves Wade out of the door, slams it. Wade steps away, looks back at the house. Mrs. Gordon watches him from the window.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MARGIE FOGG'S HOUSE - NIGHT}
+<ACTION>__{A wood frame house off the main drag. Snowing.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. MARGIE'S BEDROOM - NIGHT}
+<ACTION>__{Wade and Margie, post-coital:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Jack's sort of sensitive, I guess. More than most. But he'll be okay in a few weeks.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{There's something funny about that shooting. There's lots funny about it, actually.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I heard he was drunk at Toby's last night and got in a fight with Hettie. He drove off without her...}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm sure, I'm positive it didn't happen the way Jack says it did.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{...Jack's turned into one of those men who are permanently angry. He used to be a sweet kid, but it's like, when he found out he couldn't play ball anymore, he changed. Now he's like everyone else.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I've been wondering if maybe Jack shot Twombley, instead of Twombley shooting himself. I've been wondering maybe Jack shot him on purpose.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Wade! How can you even think such a thing? Why would Jack Hewitt do that, shoot Twombley on purpose?}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ACCIDENT SCENE - DAY}
+<ACTION>__{Black-and-white. A further theory: Jack bends over the fallen Twombley, holds a tarp to protect his chest from blood spray. He shoots Twombley with his own gun.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. MARGIE'S BEDROOM - NIGHT}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Money.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Jack doesn't need money.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Everybody needs money. Except guys like Twombley and that sonofabitch son-in-law of his. People like that.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Jack wouldn't kill for it. Besides, who would pay him?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Lots of people. Guy like Evan Twombley, Boston union official, probably got lots of people want to see him dead. The Government's been investigating his links with the Mafia.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{The Mafia hire Jack Hewitt?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No, I just know Jack's lying about what happened. He just seemed -- I know that kid, what he's like inside. He's a lot like I was at his age.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You wouldn't have done anything like that, shot someone for money.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No. Not for money. But, if somebody'd given me half a damned excuse -- I was pretty fucked up, you know.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{But not now.}
+<ACTION>__{Wade sits on the edge of the bed, sighs. Lapses into thought. Margie caresses his back, kisses it. He winces.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{When you gonna get that tooth fixed?}
+<ACTION>__{Wade looks at her, brushes the hair off her face:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I can see what you looked like as a kid.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You knew me as a kid.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, but never what you looked like. Not really. Never really studied your face, like now. I was never able to see you as a kid when you were a kid until now, this way.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{What way?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{After making love. I like it. It's nice to see that in a grown-up person.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{It's nice.}
+<ACTION>__{Wade walks naked to the kitchen, returns with two beers, one for Marg. He gets in bed. She, thinking, sips:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Don't you think, do you still think it's a good idea to press this custody thing -- just now?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm her father -- supposed to be, but I'm not able to. Yes. Yes, I am. It may be the only thing in my life I've been so clear about wanting. Even if it takes a big fight.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Then... I guess you have to.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(silence)}
+<DIAL>__{There's another thing I've been thinking about. I don't know how you feel about the idea, Margie, because we've never talked about it. But I've been thinking lately, I've been thinking we should get married sometime. You and me.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(uncertain)}
+<DIAL>__{Oh, Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I've been thinking about it, that's all.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You've been married twice --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It was to the same woman. I was just a kid...}
+<DIAL_PAR>__{(Marg looks)}
+<DIAL>__{It's not like a marriage proposal or anything, just a thought. Something for you and me to talk about and think about. You know?}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Alright. I'll think about it.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Good.}
+<ACTION>__{He kisses her. His jaw winces in pain.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WHITEHOUSE FARM - DAYBREAK (1964)}
+<TRANS>__{THE FLASHBACK CONTINUES:}
+<ACTION>__{Glen Whitehouse, plastered, yells at Wade, age 13:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{I've got sons, Goddamnit, oh my God, have I got sons! Wade? Rolfe? Elbourne? You love me boys? Do you love your Pop? Of course you do!}
+<ACTION>__{Wade, frightened, retreats as Sally enters in her housecoat.}
+<CHAR>__{SALLY} <CHAR_PAR>__{}
+<DIAL>__{Glen, stop --}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Oh, Jesus, Sally, you are such a Goddamned good person! Capital G. You are so much better than I am, I who am no good at all, you who are a truly good person, like a fucking saint! Beyond fucking com-pare.}
+<ACTION>__{Glen reaches for the Canadian Club; Sally tries to block his hand. Glen pulls his arm from hers, clipping her cheek with the bottle. Sally gasps, grabs her cheek. Wade pushes between them, protecting his mother.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{My big boy bursting out of the seams of his jeans!}
+<ACTION>__{Pop clenches his fist. Wade vainly looks Rolfe's direction for help.}
+<CHAR>__{SALLY} <CHAR_PAR>__{}
+<DIAL>__{Don't!}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{You little prick!}
+<ACTION>__{Pop's fist comes crashing down. Wade raises his arms to protect himself. Wade's arm bone CRACKS with the blow. Wade grimaces in pain.}
+<CHAR>__{SALLY} <CHAR_PAR>__{}
+<DIAL>__{Glen, stop!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MARGIE FOGG'S HOUSE - DAY}
+<ACTION>__{Margie gets into Wade's idling Ford.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT./EXT. WADE'S CAR - DAY}
+<ACTION>__{Wade, washed and changed, drives; Marg sits beside him. They head north. Deer rifles echo from the woods.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Did you tell them?}
+<DIAL_PAR>__{(no answer)}
+<DIAL>__{That we were coming?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't you think it's proper for a fella to introduce his girl to his parents?}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I know your parents.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I just want to pick up my divorce papers. For the lawyer. It won't take long.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Sun slants over Parker Mountain; they pull up. The house, once white, is peeling. Polyurethane flaps over dark windows. The 1960 red Ford pickup sits long frozen in the open barn.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(getting out)}
+<DIAL>__{Are you sure they're home? Did you call?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{The truck's here. Looks like they've stayed inside since the snow started.}
+<ACTION>__{They stamp their feet on the porch; Wade turns the knob. Locked. It seems abandoned.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Strange.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Think they're alright?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Of course! I would've heard.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{How?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I don't know for Christ's sake!}
+<ACTION>__{They round the house, try the back door. Wade knocks loudly. GLEN WHITEHOUSE, 70, opens the door, stands inside. He wears long underwear, stained woolen trousers, slippers.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WHITEHOUSE FARM - DAY}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pop, Pop, you okay?}
+<ACTION>__{Glen shuffles toward the stove; they follow. He starts a fire.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus, Pop, how can you stand the cold, dressed like that? Where's Ma?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Sleeping.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You remember Margie Fogg?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{From Wickham's. Been a while. Like some coffee?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{How you and Ma doing? Haven't seen you in town for a while.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{We're alright. Your Ma's sleeping. You want me to get her?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION>__{Pop goes to the bedroom.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Marg)}
+<DIAL>__{Jesus. Nothing's changed around here.}
+<ACTION>__{Pop returns.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Where's Ma?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{She's coming.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Have you been heating the house? Not just with the stove.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{There's a furnace.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{You're not using it today?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{It's broke I guess. There's an electric in the bedroom.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Maybe Wade should take a look at it. Your pipes'll freeze.}
+<DIAL_PAR>__{(Pop nods)}
+<DIAL>__{Wade, would you do that?}
+<ACTION>__{Wade, concerned, pushes open the BEDROOM door:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Ma? It's Wade. Can I come in?}
+<ACTION>__{He steps inside. On the bed, Sally Whitehouse, wrapped in blankets, lies dead. He walks over, beside the small electric heater, touches her forehead. Her skin is chalk white.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh, Lord.}
+<ACTION>__{Margie steps into the doorway. Pop joins:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Coffee's perked.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{When did she die?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Is...? She's dead then?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{I checked on her. She had the electric heater. Cold don't bother her as much as me. Which is why I give her the heater.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(kneels over mother)}
+<DIAL>__{Is there something wrong with the phone?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{In the living room.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Why didn't you call and have the furnace fixed?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Wade. I thought she was alright. Till this morning she was.}
+<ACTION>__{Pop goes to the dresser, pours himself Canadian Club. Wade opens his mother's mouth, attempts respiration.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{It makes me sad.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Can --?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sits)}
+<DIAL>__{Makes me sad it was her. Instead of me. I shoulda froze.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ROLFE'S CAR - DAY}
+<ACTION>__{ROLFE WHITEHOUSE, 38, drives his four-door Toyota west: through Massachusetts, toward New Hampshire. His face bespeaks tolerance, objectivity -- in short, education. It's also Wade's face.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Wade called me, as usual, late at night. I knew it was Wade -- no one else calls me at that hour -- and I was ready to listen to another chapter in one of his ongoing sagas. There was the detective story concerning the shooting of Evan Twombley and the family melodrama about Wade's custody fight with Lillian. But not this time.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Rolfe's Toyota sits with other cars.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Wade was telling a different story, or so it seemed then, one in which I myself was a character. He had called to tell me that sometime the previous night our mother had died, and he had discovered the body when he'd gone over to visit her and our father with Margie Fogg. Pop was okay, but kind of out of it. Worse than usual, maybe, though no drunker than usual.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{Friends and relatives gather in the living room: Wade, Rolfe, Glen, LaRiviere, Margie, an aging couple, REVEREND DOUGHTY,}
+<LOC>__{30, thin, wearing glasses and an avocado-green suit.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(finishing a beer)}
+<DIAL>__{Shouldn't we get this show on the road, now that Rolfe's here?}
+<ACTION>__{No one moves. LaRiviere checks his watch. Wade shrugs:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pointless to stand around in church with nothing to do, I guess.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{What about Jill? Is Lillian bringing her?}
+<ACTION>__{Margie's face tells Rolfe he's touched on a sensitive subject.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{They'll be at the church and the cemetery.}
+<ACTION>__{Wade opens the frig, takes out another beer:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Anyone else want one? Rolfe?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{No thanks. I don't drink.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I forgot.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{How you holding up, Wade?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'm fine, fine.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{You Rolfe?}
+<DIAL_PAR>__{(Rolfe nods)}
+<DIAL>__{I remember you from high school. You're a teacher now? Harvard?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<CHAR>__{B.U.} <CHAR_PAR>__{}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{I haven't seen you around. I don't suppose there's much reason for you to come this way.}
+<ACTION>__{Rev. Doughty calls for Glen Whitehouse, who has been sitting, silent, drinking, to join the others:}
+<CHAR>__{REV. DOUGHTY} <CHAR_PAR>__{}
+<DIAL>__{Come, Glen, join us. Let's kneel for a moment of prayer before the service. Wade? Rolfe?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Well...}
+<ACTION>__{Wade, expressionless, looks at Rolfe. Rolfe, embarrassed, trying to do the right thing, helps his father kneel beside Rev. Doughty. The others join the circle.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{This is nuts.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reproving)}
+<DIAL>__{Wade.}
+<CHAR>__{REV. DOUGHTY} <CHAR_PAR>__{}
+<DIAL>__{Dear Heavenly Father, Lord of Hosts, we come to Thee to beseech Thy blessings and commend to You the soul of our beloved wife and mother, Sally Whitehouse, to be one with You and walk with You --}
+<ACTION>__{Pop mutters something. Wade, Rolfe and Marg exchange glances. He mutters louder:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{...goddamned hair on her head.}
+<ACTION>__{He rises over LaRiviere, turns, exclaims:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Not a one of you is worth a goddamned hair on that good woman's head!}
+<ACTION>__{Doughty freezes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pop! Don't do this now, Pop.}
+<ACTION>__{Pop knocks back a drink as the others stand.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Maybe I'll head on over to the church.}
+<CHAR>__{REV. DOUGHTY} <CHAR_PAR>__{}
+<DIAL>__{This is a difficult time.}
+<ACTION>__{Gordon and the couple file out. Doughty, Glen, Rolfe, Wade and Margie remain.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Listen, it's no big deal, Pop.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(raising fists)}
+<DIAL>__{Come on, smart guy. Tell how it's no big deal. Tell me how a single one of you is worth a single hair on that woman's head.}
+<CHAR>__{REV. DOUGHTY} <CHAR_PAR>__{}
+<DIAL>__{Give up this demon.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Go fuck yourself!}
+<ACTION>__{Wade, eyes blazing, squares off. Son to father.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Wade, just leave it.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mocking)}
+<DIAL>__{Listen to your little brother. 'Wade, just leave it.' Candy-asses. All of you. That's what I've got for children. Candyasses. 'Wade, just leave it.' Praise the Lord! 'Just leave it!'}
+<ACTION>__{Wade stiffens. Pop cocks his fist. Marg, screaming, jumps between them as Pop swings. The old man bounces blows off Margie's arms and shoulders. Wade pushes Marg aside, grabs his father in a bear hug and walks him backwards, flat against the wall. Wade releases him. Pop, frail, collapses to the floor. Wade kneels over him:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{If you ever touch her again, I'll kill you. I swear it.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. CEMETERY - DAY}
+<ACTION>__{Townspeople and friends cluster around the gravesite: Pop, LaRiviere, Jack and Hettie, LaCoy, Chub Merritt, Nick, Jimmy, Lillian, Jill and Horner, Rolfe, Wade and Margie.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{The day of the funeral was almost springlike. The snowline crossed New Hampshire west to east, retreating northward to Concord where it melted by midmorning.}
+<ACTION>__{Rev. Doughty finishes. The mourners exchange farewells. Wade looks at Lillian. Margie and Rolfe, escorting Wade's father, let him be. He walks over, hugs Jill.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Dad.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Lillian)}
+<DIAL>__{I'm glad you're here. Can you stay for a while?}
+<ACTION>__{Lillian hesitates, shakes her head 'no.'}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You ever come to your father's grave anymore?}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{No, not anymore. It's too... it's too far.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{We should talk.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{We've done all our talking, Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It's just...}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Let the past be.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{I'm sorry about your mother. I liked her. You never know how much women like that suffer. It's like they live their lives with the sound turned off -- and then they're gone.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(tugging at Lillian)}
+<DIAL>__{Mom.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{She has an ice-skating lesson at four.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I'm taking ice-skating, Daddy!}
+<ACTION>__{He kisses Jill, says goodbyes, walks back to Rolfe and Margie. Ahead, LaRiviere walks with Jack.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Wade and Rolfe leave Margie and Pop in the kitchen as they step out back.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Let's dig out Pop's truck before the skin of the snow freezes up.}
+<ACTION>__{They grab snow shovels propped against the porch, walk to the barn. Firewood's stacked alongside.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. BARN - DAY}
+<ACTION>__{Shafts of light filter through the ramshackle structure. A snow drift nearly buries Glen's red truck. Wade and Rolfe break away the packed snow.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{What about Margie?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What about her?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Well, do you still plan to get married?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. She'll probably quit her job and stay out here with Pop. We can't leave him alone here, he'll set the damn place on fire. With Jill here a lot, it'll be good to have Margie around. Things are going to change in that department, by the way. I got a custody lawyer in Concord. I'm gonna see him tomorrow. All hell's gonna break loose, but it's worth it.}
+<ACTION>__{They finish clearing the snow. Wade gets in the truck, starts the engine. Rolfe waits for Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I want to let the gas run out. I don't want the bastard driving drunk, and he's always drunk now. After, we'll hide the keys.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Anything new about the shooting? Twombley?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reluctant)}
+<DIAL>__{I guess it was an accident, like everybody thinks.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Want to know what I think happened?}
+<ACTION>__{Wade opens the glove compartment, finds a bottle of Canadian Club. He unscrews the cap.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Find them everywhere.}
+<DIAL_PAR>__{(swigs)}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I think your first response to the Twombley shooting was the correct one.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Which is?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{That it wasn't an accident.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Then who shot him?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Well, your friend, I think. Jack Hewitt.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Motive. You gotta have a motive.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Money.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Who'd pay him that kind of money? Not the mob. They got their own guys. Specialists.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(agreeing)}
+<DIAL>__{They wouldn't deal with a guy like Jack. Who else benefits if Twombley is suddenly dead?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(swigs)}
+<DIAL>__{I don't know. You tell me.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Okay. It's likely there are people in the union who don't want Twombley to testify. They probably include his son-in-law who's vice-president and will probably be the next president. I read that in the papers. What's his name, Mel Gordon?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, the guy with the BMW I told you about. I did, didn't I?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Here's my theory. Twombley, unaware of illegal union loans or whatever, starts nosing around cause of the investigation and finds out. Finds out his son-in-law is involved.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{So Mel Gordon wouldn't want a professional hit. That'd make the feds dig deeper. He wants an accident.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{A hunting accident is perfect.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Shit, around here, you shoot somebody in the woods, you say it was an accident, you get fined fifty bucks and your hunting license lifted. Jack's probably saying the guy shot himself cause he ain't got his deer yet and don't want his license pulled.}
+<ACTION>__{The truck sputters, stops. Wade pulls the keys.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It's too neat. Things ain't that neat. It makes me mad. That somebody can pay to kill somebody, his own father-in-law, and not be punished for it. Don't that piss you off?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{Not particularly.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Right's right, goddamnit! Don't you care what's right?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I care about what happened. The truth. I'm a student of history, remember?}
+<ACTION>__{The sun is down. Wade tucks the keys in a knotted board.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I was thinking about that story you told me, about Pop and chopping the firewood out of the ice and after.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I hate to disappoint you, but I don't think it happened.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Of course it happened. Why would I lie about it?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{It may have happened, but not the way you said.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You think I wouldn't remember a thing like that?}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{It wasn't me. I wasn't there, but I heard about it. When I heard about it, it was about Elbourne.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{We'd have to go digging in Vietnam to ask him.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{And Elbourne and Mom took you to the doctor and told him you fell from the hay loft.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Well, I never heard that one.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I remember clearly cause when I heard I became real careful around Pop. I was a careful child and I became a careful adult, but at least I wasn't afflicted by that man's violence.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs again)}
+<DIAL>__{That's what you think.}
+<ACTION>__{Rolfe looks out: the cobalt sky has turned black.}
+<CHAR>__{ROLFE} <CHAR_PAR>__{}
+<DIAL>__{I gotta head back. It's a long drive.}
+<ACTION>__{They walk toward the house.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LARIVIERE CO. GARAGE - DAY}
+<ACTION>__{Wade walks in as Jack and Jimmy prepare to head out, their drilling rig loaded with pipe. Gordon yells at Jack:}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Put out that fucking cigarette!}
+<ACTION>__{Jack opens the truck ashtray.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Not there, asshole. Flush it!}
+<ACTION>__{Hewitt trudges to the john.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Morning, Gordon.}
+<ACTION>__{LaRiviere smiles, goes to his office as Wade hangs his coat in his locker. Jack cruises over.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'm fucking out of here.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Lawford?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Out of this fucking job. This job sucks. Working outside in the winter sucks.}
+<ACTION>__{Jack gets in the cab of the drilling truck. Wade follows.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Open the door, will ya?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Why don't you quit now, you want out so bad?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Open the door. We're late.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I mean it -- you got enough money now. Head out for California. Surf's up, Jack, and you're digging wells in the snow.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What do you mean I got money? I'm as broke as you.}
+<ACTION>__{Wade grins, goes to activate the door.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Looney Tunes, Jack. Fucking Looney Tunes!}
+<ACTION>__{The drilling truck pulls out the garage, onto the road. From the opposite direction a black BMW slows, enters. Mel Gordon. Wade, all eyes and ears, watches. Mel Gordon parks in front of the office, gets out. Elaine calls:}
+<CHAR>__{ELAINE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Mr. Gordon!}
+<CHAR>__{MEL GORDON} <CHAR_PAR>__{}
+<DIAL>__{The boss in?}
+<CHAR>__{ELAINE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yes indeedy!}
+<ACTION>__{Wade flips the door switch. Mel Gordon and LaRiviere talk. Yeah.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. CONCORD - DAY}
+<ACTION>__{The South Main Street office of J. Battle Hand, lawyer. Concord is a real town, with traffic, stores, people with places to go.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LAWYER'S OFFICE - DAY}
+<ACTION>__{J. BATTLE HAND, 60, sits in a wheel chair behind his desk. Wade, uncomfortable in work clothes, tries not to show it.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I screwed up the divorce. I agreed with everything she said. I wanted her to like me. I just want to be a good father.}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{It would help if you were married, if there was someone at home while you work.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I plan to. Soon.}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{How soon?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{This spring.}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{Good. It would help if there were some drug or alcohol abuse on the part of your ex-wife. Sexual problems upsetting to the child.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It looks pretty hopeless, don't it?}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{No, not exactly. I'll look at the divorce decree, see if we can get it redrawn. Interview your daughter. Jill, right?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{Fine. I'll need a $500 retainer. You can mail it.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus. How much... how much will the whole thing cost?}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL>__{Hard to say. If we go for custody, depositions, psychiatric evaluations, it could drag on. Ten or twelve thousand dollars. She could win on appeal. If we just want to get the visitation rights redrawn, assuming they're unduly restrictive, it wouldn't be more than twenty-five hundred.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<CHAR>__{HAND} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sensing situation)}
+<DIAL>__{You might be better off legally as well as financially to just go for the --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. I know. The custody suit thing was just my getting back at her. I'm not as dumb as I look. Whatever you say. I love my daughter.}
+<DIAL_PAR>__{(Hand nods)}
+<DIAL>__{I'll send you the five hundred.}
+<ACTION>__{Wade stands; Hand motors to the door. Wade puts his fingers in his mouth. His tooth throbs.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LARIVIERE CO. - DAY}
+<ACTION>__{Fairlane squad car in its customary spot.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LARIVIERE'S OFFICE - DAY}
+<ACTION>__{Wade and Gordon speak. LaRiviere is relaxed, open: a "new Gordon."}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Sorry about the long lunch. My clutch is going out again.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{You ever think of getting a new car, Wade?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{On what you pay me?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Elaine! Call Chub Meritt and have him pick up Wade's car, fix the clutch.}
+<CHAR>__{ELAINE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{What!}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Wade)}
+<DIAL>__{Use the pickup. I'll bill it to the town. You're the town police officer and the town police officer should have a decent car. You want a new car or not?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What do I have to do for it?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Nothing, Wade, I've been thinking. You don't get enough appreciation around here and it's time we changed things a little.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I saw Mel Gordon in here this morning.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{So?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{He say anything about the summons I tried to give him? Sonofabitch wouldn't accept it.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Wade, that wasn't smart. Going out right after the man's father-in-law shot himself. Let it go. Call it a favor to me.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You? Why?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Mel's doing some business with me. It's nice to do favors for people you do business with. He was in a hurry. No big deal.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{That was before Twombley was shot. Before he knew.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{What's the difference? Take my truck, take a rest -- stop worrying about Mel Gordon. Have you decided what to do with your old man's place -- he going to stay there?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes out cigarette)}
+<DIAL>__{Want to buy?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Don't light that in here. I'm allergic.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I won't. You interested?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Maybe.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You and Mel Gordon?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Could be.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(voice rising)}
+<DIAL>__{Always count on old Wade for a good screwing. Why should I always pay more, sell cheap? Why should you guys make all the money. You and Mel and Jack. Right's right.}
+<ACTION>__{Wade pulls out Bic, lights cigarette.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(waving arms)}
+<DIAL>__{Out! Out!}
+<ACTION>__{Wade smiles, exits.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. RT. 29 - NIGHT}
+<ACTION>__{Wade, driving Gordon's 4x4 with running lights and roll bar, takes 29 toward Pop's farm. A pickup passes him: Jack Hewitt's burgundy Ford. Wade stops. Jack turns up Parker Mountain -- the road to the accident scene. Something's up. Wade turns and follows. Jack's fresh tracks lead the way. Hewitt is driving fast. Wade keeps up. Jack, far ahead, approaches the accident scene. Stops. Night has fallen. Wade comes over a low rise, spots Jack's pickup. He kills the lights, parks to block Jack's exit. Silence. Footsteps in the snow. Wade watches, listens. What's he doing? Looking for evidence? The burgundy pickup engine suddenly ROARS -- Jack's back and at the wheel -- the tires squeal, spit snow as he spins past Wade. Wade starts his engine, gives pursuit. The pickups gun their engines, bumper to bumper, down mountain roads, lumber roads, rocky trails. Wild headlamps their only guide.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. POND - NIGHT}
+<ACTION>__{A trail turns sharply past a shallow beaver pond -- too sharply for Jack. He crashes through a stand of skinny birches straight out onto the pond. The pickup's momentum carries it across the pond. Wade drops into first gear, follows, his headlights reflecting ice. He drives directly to Jack, bumper to bumper, headlight to headlight. Jack sticks his head out:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You crazy sonofabitch! You'll sink us both! Get off the fucking ice! Get off!}
+<ACTION>__{Wade doesn't budge. Jack backs away; Wade inches forward. Hewitt's trapped. Trees behind him. Neither truck has traction on ice. Jack steps out, swinging his fists wildly. Wade gets out. Jacks grabs his rifle, points it:}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'll shoot you, Wade, I swear it! I'll fucking shoot you dead if you don't move away from that truck!}
+<ACTION>__{Wade backs off.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't move! I'll shoot you dead if you move!}
+<ACTION>__{Jack gets back in his pickup, maneuvers it slowly around the Dodge, crosses the ice and is gone. Wade stands in darkness. The only sound his idling truck, the wind. Then a third sound -- the snap of ice. Ice cracks ripple from the middle of the pond. Ice planes tip around the truck. LaRiviere's snazzy Dodge slips, descends, disappears. Headlights glow under water, then go out. "Our Business Is Going In The Hole." Wade, alone in darkness, plops into the water, paddles to shore. Freezing, he finds Jack's tire tracks in the snow. He bangs his jaw.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WICKHAM'S - NIGHT}
+<ACTION>__{A car drops Wade off. "Home Made Cooking."}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WICKHAM'S - NIGHT}
+<ACTION>__{Wade enters the empty diner. His clothes frozen.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{Your father's in back, Wade. Marg had to babysit him. She moved in with you, huh?}
+<DIAL_PAR>__{(looking closer)}
+<DIAL>__{What happened?}
+<ACTION>__{Wade goes to the kitchen. Glen Whitehouse, washing dishes with Margie, looks up:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Ah, the prodigal son.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{About fucking time.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Look, got me a new job, second cook and bottle washer!}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{What happened?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jesus Christ, Pop, let's go home. I got waylaid. Sorry.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{The fuck you got waylaid. You follow your prick around like it was your nose.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(enters)}
+<DIAL>__{Can it, Whitehouse.}
+<DIAL_PAR>__{(to Wade)}
+<DIAL>__{Get him out of here. It was funny at first, but I'm tired.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{There's clothes in the back.}
+<ACTION>__{Wade's old man talks as he dresses:}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Let's go home? What home is that? Your home? My home? Let's have a talk about that. You're fucking sly, Wade. Your mother's dead so she can't make any excuses for you anymore! You gotta deal with me! No more sugar tit, asshole.}
+<ACTION>__{Wade, redressed, enters:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Pop, for Christ's sake!}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{You think you can take me now? Come on, try.}
+<ACTION>__{Margie and Nick guide pere et fils to MARG'S CAR. Nick speaks to her:}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{Marg, get out of this. Fast.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I can't.}
+<ACTION>__{Marg drives off.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. MARGIE'S CAR - NIGHT}
+<ACTION>__{Wade leans close to his father, his breath on his:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I wish you would die.}
+<ACTION>__{Pop spits directly into Wade's face, raises his arm. Wade catches it, twists it. Margie shrieks:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Stop it! Stop it! Just stop it!}
+<ACTION>__{They do, glaring as they approach the farmhouse.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. BATHROOM - NIGHT}
+<ACTION>__{Wade looks in the bedroom, sees Margie sleeping, goes to the bathroom. He peers, stands before the sink, washes his hands slowly. Drying his hands, he looks into the mirror, startled by the image of his own face. A phone conversation plays over:}
+<CHAR>__{WADE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{No shit, Rolfe, I glanced up and there he was, only it was me. But it was like I had never seen myself before. It was a stranger's face. Hard to explain. You fly on automatic pilot, like I was doing all night, and you disappear.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LIVING ROOM - NIGHT}
+<ACTION>__{Wade sits alone in the darkened room, speaking on the phone. His cigarette glows.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Then you accidentally see your body, or your face, or whatever, and you don't know who the hell it belongs to. Strange. It's the business with the old man, I know, and how incredibly pissed I was at him, and also chasing Jack Hewitt like that, and the Goddamned truck going through the ice, not to mention Margie's being so upset -- one thing on top of another.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Wade, are you alright?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{But you gotta hear this. You won't believe it. Mel Gordon had come by to visit LaRiviere and so now I'm in his office.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LARIVIERE'S OFFICE - DAY}
+<ACTION>__{Wade's theory expanded: Jack and Gordon argue in the office. An extension of Scene 55. Like Wade's other theories, in black-and-white:}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{He's on to us!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Shit! What are we gonna do?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Maybe I can buy him off. I gotta talk to Mel.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You can't buy Wade off.}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{We bought you.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That was me.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ALMA PITTMAN'S HOUSE - DAY}
+<ACTION>__{Wade drives Margie's car toward LaRiviere's. In his rear view window he spots Chick Ward driving Chub Merritt's tow truck, lights blinking, pulling LaRiviere's pickup like a dead fish. He pulls over, lets it pass. He's parked in front of Alma Pittman's house. A sign on the lawn reads, "Alma Pittman, Town Clerk." He looks at the house, decides to go in. Wade walks up the shoveled steps, knocks on the door. ALMA, 60, wearing plaid shirt and slacks, greets him with a smile:}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Wade! Come in! Have a cup of coffee.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. ALMA PITTMAN'S HOUSE - DAY}
+<ACTION>__{They step into Alma's living room/office. She's been keeping the town secrets for as long as anyone can remember.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You got yourself a computer, Alma.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Been putting my files into it. You take sugar and milk?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No. Black.}
+<ACTION>__{They sit by her desk at the bay window. She studies him.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Are you alright, Wade?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, sure. Why? I got this damned tooth, I got a few things bugging me, like everybody else. But I'm okay.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Well, you look... sad. Upset. I don't mean to pry. I'm sorry about your mother. It was a nice funeral.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Alma, I think there's some dirty business going on in this town.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Always has been.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{This is maybe worse than you and I are used to.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{What I'm talking about, I'm talking about murder. Among other things.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Evan Twombley, the union boss who got shot. Somebody murdered him.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You know Jack Hewitt, the kid I work with?}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MERRITT'S STATION - DAY}
+<ACTION>__{Gordon LaRiviere examines his damaged pickup outside the Shell station.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. ALMA PITTMAN'S HOUSE - DAY}
+<ACTION>__{Wade finishes:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{...if Jack told the truth, he could be free by the time he's my age.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Sometimes things are simpler than you think. Let me ask you a question.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You don't believe me?}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(crosses to her desk)}
+<DIAL>__{About Jack? No. Have you checked out the tax bill on your father's farm lately?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know he's due for the last two years. I was thinking of paying it when the insurance comes in.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{Has anybody offered to buy it?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{As a mater of fact, yes. LaRiviere.}
+<ACTION>__{Alma punches her computer. Dozens of items flash up.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{This is all the real estate transactions in this town the last year. Most of it unused land. Most of it for little more than the back taxes owed.}
+<ACTION>__{She punches again: only three items.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{This is from three years ago. Some difference, huh?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking)}
+<DIAL>__{What is the Northcountry Development Association?}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{I went down to Concord to check it out. The president is Mel Gordon. The vice-president and treasurer is Gordon LaRiviere. Those boys are buying up the mountain, Wade. $364,000 this year. I believe that's out of LaRiviere's league.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Twombley involved?}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{He musta found out. They had to get rid of him. And Jack'll get blamed.}
+<CHAR>__{ALMA} <CHAR_PAR>__{}
+<DIAL>__{All the figures show is that Gordon LaRiviere is going to be a very rich man using his position as Selectman. In a year or two, you won't recognize this town.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. LARIVIERE'S OFFICE - DAY}
+<ACTION>__{Wade storms in, shouting. Jack and Jimmy choose donuts by the file cabinet. LaRiviere's behind his desk. Wade's tooth makes it hard for him to talk without pain:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You sneaky sonofabitch! I've got your number now, Gordon! All these years I actually thought you were a decent man.}
+<DIAL_PAR>__{(pounds fists on desk)}
+<DIAL>__{Can you believe that?}
+<ACTION>__{Jack, combative, looks at Wade. Gordon stands before Jack can speak:}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{Wade, you're done.}
+<DIAL_PAR>__{(extends hand)}
+<DIAL>__{Let me have the shop keys.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack and Jimmy)}
+<DIAL>__{You two, don't you get it? He's using you. You're his slaves.}
+<DIAL_PAR>__{(soft)}
+<DIAL>__{Jesus Christ, Jack, don't you see that?}
+<CHAR>__{LARIVIERE} <CHAR_PAR>__{}
+<DIAL>__{The key, Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, you can have the key. It's the key that's kept me locked to you all these years. I give it to you with pleasure.}
+<DIAL_PAR>__{(passes key)}
+<DIAL>__{Now I'm free. See how easy it is, Jack? All you got to do is give back what the man gave you, and you're free of him.}
+<DIAL_PAR>__{(turns to leave)}
+<DIAL>__{I've got to call my brother.}
+<ACTION>__{Wade's phone conversation plays OVER as he goes to Margie's car.}
+<CHAR>__{WADE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I know what it means. I'm just running out of ways to use it.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{For what?}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ROUTE 29/MERRITT'S - DAY}
+<ACTION>__{Phone conversation continues as Wade drives to Merritt's Shell station.}
+<CHAR>__{WADE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{To help, Jack, of course -- and to nail those sonsofbitches, the Two Gordons. That's what Alma calls them. Jesus, Rolfe, whose side are you on?}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Take care of the little things first, the things that are distracting you from taking care of the big things. Call Chub Merritt, get your car back, call a dentist, for God's sake, and get your tooth pulled, don't trust the locals, get your facts straight and go straight to the state police. Let them work on this.}
+<ACTION>__{CHICK WARD, 30, Chub Merritt's mechanic, greets Wade outside the station. We join their conversation:}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{The good news is we haven't got to your car yet. The bad news --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Just tell me when you'll have it fixed.}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{-- the bad news is there's a problem with Gordon's truck what somebody drove through the ice last night. Figured you'd know something about that, Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Yeah. I know about that.}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{LaRiviere says he ain't gonna pay for the fixin' of your car. A couple hundred for the clutch. I got some more bad news. Wanna hear it?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Tell me.}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{Chub says you're fired.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{He can't fire me. LaRiviere already did that this morning.}
+<CHAR>__{CHICK} <CHAR_PAR>__{}
+<DIAL>__{He's a Selectman. The town. He said to tell you to turn your badge in and clean out your office. I'm supposed to pull the CB and police light out of your car. They're town property.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Wade, open phone book in hand, walks back and forth speaking into the receiver. Margie looks up from the KITCHEN table, an old newspaper in front of her.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What do you mean, you can't take me today? I told you --}
+<ACTION>__{The other party has hung up. Margie stands, upset. Wade slams the phone down.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{What on earth is happening to you? Why are you acting this way?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It's my tooth! My fucking tooth! I can't even think anymore because of it.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I heard you talking. You got fired this morning, didn't you?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Look, that's temporary, believe me. There's so much shit gonna hit the fan the next few days, my getting fired by LaRiviere and Merritt won't matter a bit.}
+<ACTION>__{Pop enters from outside with firewood, passes.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I'll get another job. People are going to need me. After this is over, they'll make me into a Goddamned hero. You wait: you'll see, I'll deliver. I'll be the best father who ever lived. You need me, even Pop, for Christ's sake, he needs me. This town needs me. Maybe now they think they can send me howling into a corner like a kicked dog, but my God, it'll be different soon.}
+<ACTION>__{Margie's face falls. She retreats from the room as he speaks, taking her coat and pocketbook. Wade and his old man, she thinks: just the same. Wade looks out the window and she gets in her car, drives off. Wade holds his inflamed jaw; he can hardly see straight. Pop turns on the TV in the living room, boosts the volume. Pop comes back in the room, gets the Canadian Club, pours himself a drink.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Leave the bottle out!}
+<ACTION>__{Pop growls, goes back to wrestling on the TV. Wade walks to the cabinet, removes a pair of pliers from the tool drawer, goes toward the bathroom. In the BATHROOM, Wade opens his mouth -- it hurts -- takes a bite of whisky, sets the bottle on the toilet tank. He looks at the stranger in the mirror, reaches inside his mouth with the pliers. Prying his mouth open, Wade Whitehouse locks the pliers onto a large molar in the back, squeezes and pulls. He steadies himself, pulls again, yanking the pliers from his mouth. The bloody rotted tooth clatters in the sink. He takes another bite of whisky. Rolfe's voice plays over:}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{You will say I should have known terrible things were about to happen, and perhaps I should have. But even so, what could I have done by then? Wade never went inside. He lived almost wholly out there on his skin, with no interior space to retreat to, even in a crisis.}
+<ACTION>__{Wade takes another swig, sets the whisky bottle in the LIVING ROOM beside the TV set. Wade and Pop exchange looks. Wade exits through the KITCHEN, snatching his coat.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. BARN - DAY}
+<ACTION>__{Wade spits blood into the snow as he grabs a gallon can of gasoline from under the porch. He crosses to the barn, prepares to pour the gas into the beat-up red truck.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. CONCORD - DAY}
+<ACTION>__{Wade's Ford pickup passes J. Battle Hand's office, keeps going. Grass peeks through the snow at this lower altitude.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LILLIAN'S HOUSE - DAY}
+<ACTION>__{Wade parks the truck, walks past leafless bushes to a charcoal- gray split-level with pink shutters. He pushes the door bell; the first notes of "Frere Jacques" play. Lillian opens the door; Jill's footsteps approach.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Wait there. She'll be right out.}
+<DIAL_PAR>__{(looks back)}
+<DIAL>__{Is there snow on the ground up in Lawford?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, lots.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jill)}
+<DIAL>__{See. Get your boots.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Hi honey.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(going back inside)}
+<DIAL>__{Hi.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Have her back tomorrow night by six.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{No problem. Look, I...}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{You make me sick. I can't believe you've sunk so low.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Low as what? What have I done? It's bad to want to see your own daughter?}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{You know what I'm talking about. For what you're doing to me and to the child you say you love so much. Love. You won't get away with it.}
+<ACTION>__{Jill returns, wearing parka and boots, heads out with her father.}
+<CHAR>__{LILLIAN} <CHAR_PAR>__{}
+<DIAL>__{Bye, honey! Call me tonight if you want.}
+<ACTION>__{Wade and Jill approach the truck.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Are we going in this?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah. My car's in the shop. This'll be fine.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{It's pretty old.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{It belongs to Pop.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Pop?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Grandpa. My father. It's his.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<ACTION>__{Wade opens the truck door. Jill climbs in with her overnight bag, looks back to the door where Lillian watches.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT./EXT. WADE'S TRUCK - DAY}
+<ACTION>__{The Ford heads north.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(winking)}
+<DIAL>__{How about a Big Mac?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Mommy won't let me eat fast food. You know that. It's bad for you.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{C'mon, we can always sneak a Big Mac. And a cherry turnover. Your favorite. What do you say?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{What do you want, then?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Nothing.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You can't have nothing, Jill. We need lunch. Mr. Pizza?}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Same thing, Daddy. Mommy says --}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know what Mommy says. I'm in charge today, though.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Okay. So we'll get what you want. What do you want?}
+<ACTION>__{They stop for a light. Silence.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Nothing, I guess. I guess I can wait till we get home. Maybe we'll stop by Wickham's for a hamburger when we get to Lawford. That suit you? You always like Wickham's.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking ahead)}
+<DIAL>__{Okay.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Fine.}
+<ACTION>__{Pause. Wade looks over at Jill and realizes she is crying.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Oh, Jesus, Jill, I'm sorry. What's the matter, honey?}
+<ACTION>__{She shoves her clenched fists hard against her legs.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Please don't cry. Please, honey.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(regains composure)}
+<DIAL>__{What are you sorry for?}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I don't know. For the food business. I guess. I just thought, you know, we'd sneak a Big Mac on Mommy, like we used to.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I want to go home.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quick)}
+<DIAL>__{You can't.}
+<ACTION>__{Jill looks away. Wade pulls a six-pack from under the seat, pulls off a beer, takes a swig.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quiet)}
+<DIAL>__{That's illegal, you know.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{You're a policeman.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Nope. Not anymore. I'm nothing anymore.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WICKHAM'S - DAY}
+<ACTION>__{Wade and Jill enter Wickham's, crowded with out-of-state hunters at the end of the deer season.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jillie, you want a cheese grilled sandwich?}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{It's called a grilled cheese sandwich, you dub.}
+<ACTION>__{Wade, flaring, reaches across the counter and grabs Nick by the shirtfront! Nick's arm knocks over a cup of coffee. The diner goes silent. Hunters look up. Jill's face is white; she starts to cry. Wade looks over -- it takes him a moment to react -- bends down, comforting her. He wipes her nose with a napkin.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Jill, please, it's alright. Nothing happened.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I want to go home.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rigid)}
+<DIAL>__{Okay, let's go home, then.}
+<ACTION>__{They head for the door. Nick eases over:}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(delicate)}
+<DIAL>__{Wade, I got a message for you.}
+<DIAL_PAR>__{(Wade turns)}
+<DIAL>__{Jack Hewitt, he's looking for you. Wants you to clear your stuff out of his office in Town Hall.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{His office. You mean my old office.}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{Well, I guess -- that's what he said.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{He got his deer yet?}
+<CHAR>__{NICK} <CHAR_PAR>__{}
+<DIAL>__{No, he's out now. Somewhere on the mountain. I'd stay away from him if I were you. He's real pissed.}
+<ACTION>__{Wade takes Jill's hand, exits.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TOWN HALL - DAY}
+<ACTION>__{Jill waits in the old red truck parked outside. Wade emerges with cardboard boxes of office miscellany, rifles laid across top. He shoves the boxes and guns into the back of the pickup, gets in and drives off.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Wade and Jill pull up the drive, past Margie's car, into the barn. Her trunk and two side doors are open. Margie comes out back with a battered suitcase, goes to her car. She's leaving. A plastic bag of clothes sits in the trunk. Wade and Jill get out, approach:}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Going somewhere, Margie?}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{I'm just cleaning out some of this stuff that's built up. For the rummage sale. And some things for the cleaners. And the laundromat.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Don't lie to me. You're leaving me, I can see that.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Don't be silly. Hi, Jill.}
+<ACTION>__{Jill, suitcase in hand, looking pathetic, tries to smile. A sadness passes over Wade's face.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hurt)}
+<DIAL>__{Marg.}
+<ACTION>__{Margie, watching him, quivers, starts to cry. She drops her suitcase, out of nowhere bawling like a baby. Wade goes over, puts his arms around her, pats her back. His face is racked. He, too, seems about to cry -- if he could. In his arms Margie feels trapped, overwhelmed by Wade's circumstances and terrible sadness. She pushes:}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(crying)}
+<DIAL>__{Leave me alone! Leave me alone!}
+<ACTION>__{She struggles in Wade's grasp. Jill, frightened, wildly hits him from behind:}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{Leave her alone! Leave her alone!}
+<ACTION>__{Wade moves back like a bear, covering his face and arms. Jill, near hysterical, keeps after him, arms and fists flying. Wade stumbles backwards into the snow. Jill still swings. Margie dashes to intervene as Wade swings his arms wide. Jill flies into Marg. Her nose is bleeding. Wade's caught her across the mouth and nose. She takes cover behind Margie, crying. Margie and Jill stand side by side, saying nothing. Wade looks up stunned, as if hit by a rock. Marg slowly backs away, her arms behind her holding Jill.}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jill)}
+<DIAL>__{Get in.}
+<ACTION>__{Marg eases Jill into the front seat, closes the door, edges around the car slamming the trunk and gets into the driver's seat. Wade stands.}
+<CHAR>__{JILL} <CHAR_PAR>__{}
+<DIAL>__{I want to go home. Will you take me home?}
+<CHAR>__{MARGIE} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{She closes the front door, starts the car. She backs out the drive. In her rear view mirror she sees the image of Wade receding, standing frozen, staring down at the snow. Pop emerges from the house, looks at his son, grinning. Wade looks at his old man, that dumb devilish grin plastered on his father's face. Glen Whitehouse holds an empty whiskey bottle like a pistol. Hunters' gunshots echo in the distance.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Satanic delight)}
+<DIAL>__{You! By Christ, you -- I know you.}
+<DIAL_PAR>__{(points bottle)}
+<DIAL>__{Yeah, you goddamn sonofabitch, I know you. You're a goddamn fucking piece of my heart!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dead)}
+<DIAL>__{You don't know me. You don't know me!}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{So fuck you. Fuck you.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Nah-nah-naw! You done done finally done it! Like a man done it. Done it right. I love you, you mean sonofabitch!}
+<ACTION>__{Pop holds up the bottle, pretends to fire it at Wade.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Love! What the fuck do you know about love?}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Love! I'm made of love!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Call it what you want.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Everything you know is from me.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Bang!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{You and me.}
+<ACTION>__{Wade waves his old man off, trudges toward the barn.}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Where the Christ you going? You sonofabitch, you leave my fucking truck where it is! I need... Give me the Goddamn keys! I need to get me to town!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{Crawl!}
+<CHAR>__{POP} <CHAR_PAR>__{}
+<DIAL>__{Nothing in the fucking house to drink. Not a fucking thing. My house, my money, my truck -- stolen!}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I don't know you. My goddamn father and I don't know you.}
+<ACTION>__{Wade walks from the glistening snow into the dark barn.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. BARN - DAY}
+<ACTION>__{Wade unloads the cardboard boxes filled with his office belongings from the back of the truck and sets them on the ground. He gathers up his rifles. Suddenly! A whiskey bottle SLAMS against the back of his head. He drops to his knees, the guns scatter. He looks up with child's fear and guilt at his father. Glen Whitehouse hovers over him, huge and ferocious: a colossus, lifting the bottle like a jawbone. Wade cringes, scrambles for the dropped rifle. He grabs it by the barrel and, twisting around, swings it in a slow motion arc, smashing the edge of the wood stock against his father's head. A cold hard CRACK of bone. Glen Whitehouse -- shriveled again, no longer mythic -- flies back like a stuffed dummy. He collapses beside the empty C.C. bottle. Wade, bleeding from the head, stands, staggers off Pop's inert body, aims his rifle at the old man's face.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL>__{I know you now. I love you too.}
+<ACTION>__{Wade bolts the rifle, flicks off the safety, fires -- a loud CLICK. The gun's empty.}
+<CHAR>__{WADE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{Joke. You scared me.}
+<ACTION>__{He kneels down, lovingly touches the old man's face, caresses his lips, cheeks, nose, brows, smoothes back his stiff gray hair. Pop's eyes are clouded. Blood suddenly drips from his ear to the ground. Wade rests the rifle against the truck. He bends over, slips his hands under his father's body, lifts him up. He carries Pop over to the workbench, lays him out. Groping beneath the bench, Wade finds the kerosene lamp. He unscrews it, pours kerosene the length of Pop's body. Wade takes out his cigarette lighter, ignites it, holds it for a moment, places it to Glen Whitehouse. Fire spreads the length of Pop's body, bursting like a shroud of yellow flame. The oil-stained bench crackles; flames shoot up the old weathered wall. Burning flesh and heat drive Wade backwards.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Wade stands in snow and sunlight. The entire barn is engulfed in flames. Black smoke billows through the clear winter sky. Inside Glen Whitehouse, a pyre, burns.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{The historical facts are known by everyone -- all of Lawford, all of New Hampshire, some of Massachusetts. Facts do not make history. Our stories, Wade's and mine, describe the lives of boys and men for thousands of years, boys who were beaten by their fathers, whose capacity for love and trust was crippled almost at birth and whose best hope, if any, for connection with other human beings lay in an elegiac detachment, as if life were over.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. PARKER MOUNTAIN - DAY}
+<ACTION>__{Pop's red truck is parked behind Jack Hewitt's 4x4 on a snow- banked road. Wade, hunting rifle pointed up, traces Jack's footsteps down the slope of the mountain.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{It's how we keep from destroying in turn our own children and terrorizing the women who have the misfortune to love us; how we absent ourselves from the tradition of male violence; how we decline the seduction of revenge.}
+<ACTION>__{Wade spots Jack poised in a spruce grove, watching for deer. Wade bolts his rifle, releases the safety, aims and FIRES. Jack, hit in the chest, falls bleeding between trees. Blood stains the snow.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Jack's truck turned up three days later in a shopping mall in Toronto. Even without the footprints, the bullet, Wade's utter disappearance seemed evidence enough of his guilt.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. WHITEHOUSE FARM - DAY}
+<ACTION>__{Camera glides from room to room, glimpsing details, fragments of former times, as if this were an historical site or memorial. The walls resonate: lives were molded here.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{LaRiviere and Mel Gordon were indeed in business. The Parker Mountain Ski Resort is now advertised all across the country. Jimmy Dame tends bar at the lodge. Chub Merritt opened a snowmobile dealership, Nick Wickham runs the new Burger King. Margie Fogg moved to Littleton, nearer her mother; Lillian and Jill went with Bob Horner to a new job in Seattle.}
+<ACTION>__{Out a window, workers gather charred timbers from the barn, throw them on a truck.}
+<CHAR>__{ROLFE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{We want to believe Wade died, died that same November, froze to death on a bench or a sidewalk. You cannot understand how a man, a normal man, a man like you and me, could do such a terrible thing. Unless the police happen to arrest a vagrant who turns out to be Wade Whitehouse -- or maybe he won't be a vagrant; maybe he will have turned himself into one of those faceless fellows working at the video store and lives in a town-house apartment at the edge of town until his mailman recognizes him from the picture at the post office -- unless that happens, there will be no more mention of him and his friend Jack Hewitt and our father. The story will be over. Except that I continue.}
+<CHAR>__{THE END} <CHAR_PAR>__{}

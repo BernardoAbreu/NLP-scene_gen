@@ -1,0 +1,2825 @@
+<LOC>__{8/4/1993}
+<ACTION>__{S P I D E R - M A N Written by Barry Cohen and Ted Newson and James Cameron}
+<LOC>__{2nd Revision by}
+<ACTION>__{Joseph Goldmari and James Cameron and John Brancato -------- Third Revision by James Cameron based on screenplays by Ted Newsom & John Brancato, Barney Cohen and Joseph Goldman}
+<ACTION_ALT>__{SECOND REV.}
+<LOC>__{7/29/1993}
+<TRANS>__{FADE IN:}
+<LOC>__{INT. PROFESSOR OCK"S PRIVATE PHYSICS LABORATORY, THE}
+<ACTION>__{CYCLOTRON ROOM (CREDIT SEQUENCE) - DAY A mighty WARNING KLAXON assaults our ears. A FLASHING RED WARNING LIGHT stabs our eyes. Several DIALS go into the RED. A hand pushes aside a YELLOW THERMOS and pushes forward a RED POWER THROTTLE. We hear the WHINING UP of a cyclotron. A DIGITAL DIAL climbs to "5% POWER." A SPIDER crawls across a DIAL. Begin OPENING CREDITS. THE CYCLOTRON ROOM is in an old basement full of peeling paint and plumbing wrapped with TAPE. Leaks are here and there. COBWEBS are all around. DOCTOR OTTO OCTAVIUS (OCK) is a strong but strange featured man in his mid-fifties. His assistant, WEINER, hovers nearby looking on. He's open mouthed with a mindless kind of curiosity. WEINER is a local, small-time hood hired by OCK to circumvent the school administration and to "procure" whatever OCK needs for his experiments. He shades his eyes against a searing BLUE-WHITE BEAM that erupts from the WINDOW. THE ROOM IS}
+<ACTION_ALT>__{DIVIDED INTO A CONTROL ROOM AND THE EXPERIMENT CHAMBERS.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Whoa, whoa, whoa... what's that?}
+<ACTION>__{With a WHOOSH, the WINDOW EXPLODES, showering the TWO with shards of GLASS, and throwing them to the floor.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rising)}
+<DIAL>__{We begin again... let's kick in that new transducer. See if we can double the power output.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rising more slowly)}
+<DIAL>__{Whoa, Doc... wait a minute...}
+<ACTION>__{But OCK is already at the THROTTLE. The cyclotron whirls up. The lights go on. Louder, brighter than before. OCK looks through the broken WINDOW into the EXPERIMENTAL CHAMBER. The POWER DIAL inches upward, "eight, nine..." the BLUE-WHITE LIGHT is blinding now. The WHINE pitch is shattering.}
+<ACTION_ALT>__{END OPENING CREDITS.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey... dokey!}
+<ACTION>__{The POWER DIAL hits ten.}
+<LOC>__{EXT. EMPIRE STATE UNIVERSITY - DAY}
+<ACTION>__{As STUDENTS go to class, the sound of the cyclotron spills out of the SCIENCE CENTER onto the grounds of Empire State University. We see PETER PARKER, a pleasant faced senior who's among the top in his class. Sincere and serious, he has yet to develop a way with women.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(falling in step)}
+<DIAL>__{Hiya Peter...}
+<ACTION>__{LIZ ALLEN is also a senior. She's beautiful and intelligent.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ardent but uncomfortable)}
+<DIAL>__{Hiya Liz... how're you doing...?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(teasing softly)}
+<DIAL>__{How'm I doing what?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Peter! Peter! Wait up!}
+<ACTION>__{HARRY is the school nerd. A quirky kid who, like PETER, can be a little backward around girls, especially pretty ones like Liz.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Liz)}
+<DIAL>__{Would you, uh... excuse us for a minute?}
+<ACTION>__{Despite PETER'S protesting body language, HARRY pulls him away like a conspirator.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{What is it? what...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Did the Astro-Physics Journal really accept your paper?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs, embarrassed)}
+<DIAL>__{Yeah... well... all I got's the data but they've agreed to publish it when it's finished. You know... it's my calculation on the Planetary Conjunction.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{And its influence on the anti-force. Isn't it?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes. Look, Harry, I am busy with...}
+<DIAL_PAR>__{(indicates Liz standing there)}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Yeah, you and the rest of the class. Every one is busy with Liz.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(growing impatient)}
+<DIAL>__{Peter?}
+<ACTION>__{A HAND reaches in and smacks her bottom.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Hiya, cupcakes...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(elbowing him affectionately)}
+<DIAL>__{Flash...!}
+<ACTION>__{They kiss and walk away.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sneering)}
+<DIAL>__{And Flash is the busiest of them all...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(disappointed)}
+<DIAL>__{Come on, Harry... we'll be late for Octavius.}
+<ACTION>__{HARRY makes a gesture dismissing OCK as crazy.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Ock is nuts, don't you agree?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ock is a genius, Harry. Crazy, Yes! But, a genius misunderstood, and unappreciated.}
+<LOC>__{INT. CYCLOTRON AREA HALLWAY - DAY}
+<ACTION>__{It is a basement hallway full of LOCKERS which STUDENTS are banging open and shut as they put stuff in and take stuff out. In their midst, a MAN is banging on the door marked "Cyclotron Room - Authorized Personnel Only!" Professor ROSOMORF, SIXTISH, respectable, a good old fashioned professor, he's the head of the Physics Dept. With him is ALEXANDER THORKEL, a 40-ish, Waspish school administrator. For a scientist as crazily focused as OCK, THORKEL is a natural enemy.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(knocking furiously)}
+<DIAL>__{Doctor Octavius! You are late for your lecture. The students are waiting. Doctor Octavius!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Your friend is impossible Professor Rosomorf, I told the board we should let him go.}
+<ACTION>__{The LIGHT above THORKEL's head EXPLODES. Then all the LIGHTS behind him EXPLODE in succession. THORKEL and ROZ look amazed...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What's he doing in there, not his crazy experiment again.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{You mean his anti-force theory... one day they'll give him the Nobel Prize for it.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Meanwhile he is demolishing our university. Octavius!!}
+<DIAL_PAR>__{(knocks)}
+<DIAL>__{Open the door.}
+<LOC>__{INT. OCK'S LAB}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The anti-force experiment has now reached the limit of electronic overload safety. Therefore, Weiner, you will disconnect the overload safety device...}
+<ACTION>__{FOUR WALDOS (three-fingered, snake-like mechanical arms) suddenly thrust themselves into the CHAMBER and begin working, each at a different task. OCK is an acknowledged master at manipulating these WALDOS. He flicks a switch and a searing BLUE-WHITE BEAM lances down from a FOCUSING CONE and strikes a GRAM WEIGHT marked, "1,000,000"), illuminating it and filling our ears with a splitting BUZZ TONE. The knock on the door grows louder. WEINER comes up behind OCK.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Whoa, Doc... someone's at the door...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ignoring)}
+<DIAL>__{World class scientific mind and they stick me in the basement with this third rate cyclotron...}
+<ACTION>__{INSERT: The DIAL marked "RELATIVE GRAVITY" reads "1,000,000" but suddenly it snaps to "0.999999!"}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey! Dokey!}
+<ACTION>__{The WEIGHT begins to jiggle and, for an instant, it appears to lift ever so slightly.}
+<LOC>__{INT. COLLEGE PHYSICS LAB - DAY}
+<ACTION>__{This is an enormous room, 100 lab tables. The yellowing smoke of a thousand experiments hangs in the air. A HUGE AMERICAN FLAG dominates the back wall. PETER, HARRY and LIZ set up their TABLES. FLASH reads the DAILY BUGLE sports section. PETER can't take his eyes off LIZ. When she looks back he looks down at his GEAR.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(softly)}
+<DIAL>__{What is it, Peter?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed)}
+<DIAL>__{It's nothing.}
+<LOC>__{INT. OCK'S LAB}
+<ACTION>__{WEINER opens the door and sees ROZ and THORKEL waiting impatient.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Yes, gentleman can I help you?}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Tell your boss, that his class is waiting.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks)}
+<DIAL>__{You better tell him yourself.}
+<ACTION>__{THORKEL looks at ROZ who waves his shoulder, then the both call.}
+<DIAL>__{ROZ & THORKEL Professor Octavius!!}
+<ACTION>__{Professor OCK turns and looks at the bewildered men.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, come, you must see this.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{But, your students...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The imbeciles can wait... I have better things to do than teach introductory Physics Rosomorf. Undergrads are kindless adolescence.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{You see he is impossible.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Thorkel you are the dummiest administrator our university has ever had.}
+<DIAL_PAR>__{(Thorkel turns to go)}
+<DIAL>__{Don't go Thorkel!! Come! Look!}
+<ACTION>__{He starts to play his machines handles and buttons.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{The university pays you to teach something to your students.}
+<LOC>__{INT. COLLEGE PHYSICS LAB - DAY}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Well, do you mean nothing... or do you mean something but you won't tell me what it is?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(regaining)}
+<DIAL>__{I mean plain nothing.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Well, I guess that's about as nothing as you can get... plain nothing. A beat.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Liz...!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Ahh, it is something.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No... look.}
+<ACTION>__{The equipment on her TABLE is starting to vibrate. They look at it, curiously. We hear the cyclotron's WHINE begin to build...}
+<LOC>__{INT. CYCLOTRON ROOM - DAY}
+<ACTION>__{Everything is shaking like in an earthquake... Roz and Thorkel seem to dance in their place going crazy with anger and surprise. The WHINE is deafening! The light is blinding! WEINER has his eyes closed and his hands over his ears.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I am going for 20 percent power!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{NO!! Don't do that...}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Ock! Its dangerous...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Ock I warn you...}
+<ACTION>__{WEINER crosses himself. The CONSOLE erupts in sparks.}
+<LOC>__{INT. ELECTRICAL CONDUIT MONTAGE - DAY}
+<ACTION>__{We follow the electrical overcharge as it crackles along the WIRES and CABLES inside the WALLS and FLOORS. It is making its way up to the LAB!}
+<LOC>__{INT. LAB - DAY}
+<ACTION>__{All the kids are now trying to hold onto their vibrating equipment. The CHARGE crackles up a WIRE and erupts at LIZ'S TABLE. A BREAKER explodes in flames. There is an outburst of AD LIBS: "Fire!" "Everybody out!" THORKEL (comes running he is shabby and bewildered) seeing LIZ trapped behind the fire which is growing from second to second.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Keep calm, everybody keep calm. Use the front door. Everybody out the front.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Liz! Come on...!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I can't. Help me!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I'm coming!}
+<ACTION>__{He wades into the fire, but is beaten back by the FLAMES. His sleeve is on fire. He pats it out.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter!}
+<ACTION>__{Flash appears and tries to help but Thorkel stops him.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Get back, you idiots. You can't go in there!}
+<ACTION>__{LIZ smashes at the WINDOW, but this is an inner city school and the WINDOWS are covered by STEEL GATES. Liz wraps her fingers in the GATE.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(out at the street)}
+<DIAL>__{Help! Help me!}
+<ACTION>__{Outside the WINDOW the air is clear and people come and go. Some are stopping to look up at the girl on the second floor who screams (but they can't hear, of course) down at them as the FLAMES close in behind her. PETER comes flying in with a FIRE EXTINGUISHER. He fumbles with it. FLASH pushes Thorkel, grabs the extinguisher away from him with a scowl of disdain. LIZ turns to face the FLAMES. Suddenly there is an eruption of CO2 CLOUDS and the roar of a FIRE}
+<LOC>__{EXTINGUISHER.}
+<ACTION>__{The FLAMES are beaten down enough for her to leap out. FLASH is there, holding the EXTINGUISHER. People CHEER.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Thanks for your help Flash.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{No problem wimp.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Our hero has a real way with words.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, why don't you grow up.}
+<ACTION>__{PETER is stung, insulted, turns away. ROSOMORF peeps in, worried -- faces Thorkel.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{This man will bring a disaster upon this university.}
+<ACTION>__{OCK comes in, starts his lecture calmly as if nothing has happened.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The universe is made up of forces... and counter-forces. Science is the study of the forces!}
+<ACTION>__{FLASH hands the EXTINGUISHER to PETER. LIZ embraces FLASH, throwing a glimpse at PETER who tried so bravely. He looks away and turns the last of the EXTINGUISHER on the last of the FIRE.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(continues without a hitch)}
+<DIAL>__{But I... Professor Otto Octavius... have devoted my life to the study of the counter-forces! Good job, Peter.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taking place at lab table)}
+<DIAL>__{Thanks, Professor.}
+<ACTION>__{THORKEL has walked slowly and uncomprehendingly toward the front of the huge LAB. He simply cannot believe OCK'S behavior.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I don't believe it, I simply don't...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Can we carry on Mr. Thorkel.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I don't believe... oh, all right carry on Professor.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Well! This week my dear students I have made a stunning breakthrough...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute, wait a minute... you've got fire forms to fill out, Dr. Octavius.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I have no time for forms, or administrators who persist in interrupting me, Mr. Thorkel.}
+<ACTION>__{THORKEL steams out and bangs shut the DOOR.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I now believe its possible that these counter forces can be... collected... the way the magnifying glass collects the sunlight... and focused into a hard beam I call... Weiner!}
+<ACTION>__{WEINER backs away from the BLACKBOARD to reveal a word that OCK has scrawled in large letters. It says "Anti- Force."}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I call it, the Anti-Force!}
+<ACTION>__{OCK is plugging a HUGE CABLE into a small LUCITE BOX with a SILVER BALL inside it.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(continues as he works)}
+<DIAL>__{This anti-force, once harnessed, is capable of undoing any natural force at which it is aimed... for instance...}
+<DIAL_PAR>__{(looks up maniacally)}
+<DIAL>__{Gravity!}
+<ACTION>__{LIZ scribbles down a note and mouths the word "gravity." Then she turns to PETER.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{I'm sorry...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{It's alright.}
+<ACTION>__{OCK is "playing" his COMPUTER like the Phantom of the Opera at the organ.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{We patch in the cyclotron... The lights flicker and go dim.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Pay no attention to the lights... I of course steal its energy, and it looses power. We patch in the cyclotron... and we gradually apply power. The power that I am stealing...}
+<ACTION>__{As the WHINE builds in the LAB... OCK peers through the LUCITE BOX at us, distorted by it. The BOX is a miniature version of the cyclotron's experimental chamber, and now the BLUE-WHITE glow begins. It crackles round the SILVER BALL.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{And so we stand, four square against the fundamental force that orders and maintains our universe... gravity... which is holding down this goddamn ball. Rise!}
+<ACTION>__{The LIGHTS go totally dark. The kids react with WHOOPS and CATCALLS.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{What a crock...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Shut up Harry... this is very interesting.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Mr. Parker! Have you some... interesting observation you'd like to share with the class?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No sir...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Then shut up! And pay some attention to the experiment.}
+<ACTION>__{OCK peers at us through the LUCITE BOX as the SILVER BALL begins to rise. OCK'S face is ecstatic.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Rise! Rise!!!}
+<ACTION>__{The SILVER BALL suddenly shoots up, shattering the top of the box. It flies up to the ceiling where it shatters a}
+<ACTION_ALT>__{LIGHT FIXTURE.}
+<ACTION>__{The shards rain down on OCK who reaches out and catches the falling BALL and scales it in a raised fist.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Now that's what I call an experiment!}
+<ACTION>__{The CYCLOTRON WHINE cuts out and OCK wheels to the COMPUTER. He hits a KEY and several COLORED PROJECTION BEAMS lance out of the back of the room. They pierce the smoke and light a PROJECTION DISPLAY in the front. TWO COLORED SPHERES one, YELLOW, one BLUE touch where their circumferences meet. Behind them is a BLACK depiction of "space".}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You are looking at a representation of two universes. Our Blue one. Our real universe... something we can touch and feel and see and draw calculations about. This is us. The Yellow universe... this is something else. Some other dimension... something... on the other side!}
+<ACTION>__{OCK hits another COMPUTER KEY and a hole appears where the TWO SPHERES touch. The BLUE AND THE YELLOW MARBLEIZE with each other. The colors swirl until both SPHERES are}
+<CHAR>__{BRIGHT GREEN.} <CHAR_PAR>__{}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{If it were possible to generate enough power behind it, the anti-force could wipe out not just gravity... but all our universal forces at the same time. In effect... it would blast a hole between this universe and the next. Each...}
+<DIAL_PAR>__{(indicates green spheres)}
+<DIAL>__{would flow into each other. No blue universe. No yellow. End, finished, over.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a student's ear)}
+<DIAL>__{That sounds like a scenario for the end of the world.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{My girl, it is! It is. It would mean wiping out everything that's known... and letting in everything that's unknown.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Isn't that a little dangerous?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Don't worry yourself, true inter- dimensional penetration is still purely theoretical, but one day... Maybe very near... maybe in the 21st century...}
+<LOC>__{INT. BASEMENT HALLWAY - DAY}
+<ACTION>__{PETER, LIZ, FLASH and HARRY all take BOOKS from their}
+<ACTION_ALT>__{LOCKERS.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers to Peter)}
+<DIAL>__{Look, it's just... I don't know... when you and Flash go after each other like that...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{He's not my type.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{He doesn't have to be.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Check.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{And besides, he's not all bad.}
+<ACTION>__{PETER looks at FLASH who's a few LOCKERS down. FLASH has taken a FOOTBALL from his LOCKER and is spinning it on his finger with great joy and concentration.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{You don't get nicknamed Flash because you're a rocket scientist, Liz.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Give it up, Parker. You'd die for a nickname like Flash.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yeah, of embarrassment.}
+<ACTION>__{KIM comes by and leans seductively by her LOCKER. KIM is a ripe one and hot-hot-hot!}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(teasing)}
+<DIAL>__{Hey, Flash... I'm scalping a pair of the Midnight Madness Wrestling Match tomorrow night.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{The Slammies??? I'd kill for that!!!}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Would you pay $125?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Well, uh, I... gee... if... can I tell you tomorrow?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(moving on)}
+<DIAL>__{You snooze, you lose. Hiya Liz...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Kim, you know Peter and Harry? This is my new roommate... Kim Nickson.}
+<ACTION>__{KIM is pulling her pet, a foot long SALAMANDER, out of her LOCKER. She wraps it around her neck and turns to the boys. They go bug-eyed!}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL_PAR>__{(interested)}
+<DIAL>__{Hellooo, Peter.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed)}
+<DIAL>__{Hi...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{We're going to the Student Reunion Meeting. You coming?}
+<ACTION>__{Peter looks at KIM. Wow. Then he looks at LIZ who's adjusting herself in a small MIRROR. HARRY jabs him in the ribs. Yeah, yeah!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(frustrated)}
+<DIAL>__{I can't... I gotta go over to the Daily Bugle. I'm trying to sell some photos.}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Soooh, a photographer...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Just an amateur. Well... nice meeting you, Kim.}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Yeah... I bet it would be.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Can I be your date for the reunion ShooShoo?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{No Jerk!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(she turns to go)}
+<DIAL>__{What did I say...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{It's not what you said, it's how you say it, ShooShoo!}
+<ACTION>__{Everybody leaves and Harry is left alone, he throws his bag down.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Damn!}
+<ACTION>__{PETER turns to go and comes face to face with the hulking}
+<ACTION_ALT>__{WEINER.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Peter, Doc Ock wants to see you.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{About my data I bet.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I don't know.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{He knows about my work on the Planetary Conjunction, doesn't he?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(lies)}
+<DIAL>__{I don't know.}
+<LOC>__{INT. CONTROL ROOM - DAY}
+<ACTION>__{PETER enters wide-eyed behind WEINER. This place is a far cry from the experiment in the LAB ROOM. It's a fantastic netherworld to which no undergrad gains entrance. No one but PETER. OCK is sitting in a swivel CHAIR with his back to PETER. He has the look of Captain Nemo in his Nautilus. This is OCK'S domain.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Hello, Professor Octavius.}
+<DIAL_PAR>__{(no response)}
+<DIAL>__{I really admired your experiment.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(back to Peter)}
+<DIAL>__{We have a lot of interests in common, Peter. Perhaps we should put our heads together, if you know what I mean...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(flattered)}
+<DIAL>__{That would be... great.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turns with a smile)}
+<DIAL>__{Now you take the Planetary Conjunction. This Saturday night we will witness Saturn, Jupiter, the Moon, the Earth, the Sun... all in a row. Never seen within the memory of man, or measured for its effect. The total gravitational force must be quite exceptional. Isn't that the subject of your paper...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes sir, I've worked out a new way to calculate the combined gravitational effect.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I'm a busy man, Mr. Parker. But I think I could find the time to go over it with you. Make sure it all... checks out.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well... I'm sort of working with Professor Rosomorf and he suggested we kind of keep it between us. He thinks that my theory is... well, I don't know...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{The scoundrel...}
+<DIAL_PAR>__{(turns angry)}
+<DIAL>__{I want to see that data, Peter!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{But Professor Octavius... if I knew you were interested... sorry, I've already given it to... Professor Rosomorf, and he is after all the head of our Physics Department... and I couldn't...}
+<ACTION>__{OCK turns sweet again. He smiles too broadly.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Well, I'm certain something can be worked out. Run along, young man.}
+<ACTION>__{PETER begins to leave.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Just a minute... how about if I show you my discoveries... something I never showed to any other student... as a matter of fact to anybody at all.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well I am really flattered, I mean I'd love to... but I...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Very well shall we say if you come here tonight...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{But Professor I don't now if I should...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Make it eight sharp... I'll be waiting for you... Right here...}
+<ACTION>__{Peter looks worried then leaves. OCK turns to WEINER who slouches against the wall smiling.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The same academic world that's so keen to embrace that boy's undergraduate work, ridicules my anti-force theory as quackery. I ask you, Weiner... what is our society coming to? Ha!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{They are all a bunch of brainless assholes, that's what I say...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Weiner! Go get me that boy's data!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Cost you fifty bucks.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Weiner hissing)}
+<DIAL>__{Just get it. We'll negotiate your fee when you have the data, alright Weiner?}
+<LOC>__{EXT. DAILY BUGLE - DAY}
+<ACTION>__{Establish as ART DECO BUILDING well beyond its prime. A sign says: "The Daily Bugle." Peter enters the building.}
+<CHAR>__{JAMESON } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Garbage! Absolute, 100% garbage!}
+<LOC>__{INT. JAMESON'S OFFICE - DAY}
+<ACTION>__{Very forties, very messy. J. Jameson scans some PHOTOS as PETER stands helplessly by.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Bag ladies. I hate bag ladies.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{JAMESON is 50ish, grey at the temples, brush cut on top. He too is forties. His chewed up CIGAR is forties. This guy is a hard case.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks at the other photos)}
+<DIAL>__{Little kids... I hate little kids. This is a daily newspaper. We need news value photographs, not artsy-fartsy shit!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{JAMESON comes to a picture of a BUSINESS SUITED MAN with a MOHAWK. PETER smiles in anticipation.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Kid? You want a pro's assessment?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir!}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(handing photos back)}
+<DIAL>__{Your photos suck.}
+<DIAL_PAR>__{(cigar for emphasis)}
+<DIAL>__{Parker, my readers are morons. I gotta grab them by the eyes. Every time you press the button of that Nikon of yours it costs you fifty-five cents. So the next time you're about to take the plunge, ask yourself, am I taking dog bites man? Because if you are...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I know, I know. You want man bites dog...}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Parker, this is the post modern 20th century. I want man eats dog! Get out!}
+<LOC>__{EXT. STREET - DAY}
+<ACTION>__{A seedy east village walk up. Peter takes his camera and takes various shots of a wino. ALL IN. He climbs the stairs to his building, looks through the mail, he collects from a beaten down mailbox.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading)}
+<DIAL>__{Rent! Rent, more bills, rent... electricity, bills...}
+<LOC>__{INT. PETER'S APARTMENT - DAY}
+<ACTION>__{A one-room, shabby roof apartment, a chaos of books and papers. A photo enlarger and darkroom baths in kitchen pots; 8x10s tacked to the walls; a spare camera and lenses. Self-consciously wacky kitsch; plastic dinosaurs, wind-up toys, a stuffed carp. An unmade bed and a 50's dinette set are the only furniture. A grimy skylight leads to the roof. It's not a pretty place, but it has personality. A voice from the kitchen, a shadow of an intruder, is sneaking around.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{There's nothing in there worth stealing!}
+<CHAR>__{MAY } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(from within the kitchen)}
+<DIAL>__{That's the understatement of the year.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Aunt May, you're trespassing.}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(comes in)}
+<DIAL>__{I was just so desperately bored... I thought I'd come over and make you dinner...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I am old enough to... to make my own--}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL>__{But I didn't feel like getting to know your roaches.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I'll introduce you.}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL>__{Oh. And those foul chemicals in the pots...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I take pictures, remember?}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL>__{Anyway, I've decided to kidnap you for dinner in Forest Hills...}
+<ACTION>__{She grabs her coat, crosses back to Peter and tugs on his shoulder.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{It's Friday night...}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL>__{Yes. Do you have a date?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{MAY} <CHAR_PAR>__{}
+<DIAL>__{Then come on.}
+<LOC>__{INT. LARGE COMPUTER LAB - NIGHT}
+<ACTION>__{It is dark and empty except for COMPUTERS. Sitting at it, lit by the GLOW of its screen, is SOLOMON ROSOMORF (ROZ). As he works, a DOOR opens behind him. Someone walks quietly through the LAB. ROSOMORF keeps working. The intruder approaches...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(at his ear)}
+<DIAL>__{Professor Rosomorf, what happened here?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Someone tried to rob me of some paper... I suspect they were looking for that one.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What is it?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(unruffled)}
+<DIAL>__{Award winning stuff.}
+<DIAL_PAR>__{(turning slightly)}
+<DIAL>__{Peter Parker's data on the Planetary Conjunction. Damn lucky I hid it in my computer under another title.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{My God, what's going on in our school? First Professor Octavius almost blows up the Physics lab... Now this. You report it in triplicate, of course.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Thorkel, be careful when you talk to Octavius. Remember... the man is a very fragile genius. One day he'll bring us all the Noble Prize.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Rosomorf, the man is a very dangerous crackpot!}
+<ACTION>__{Off screen the voice of the CYCLOTRON WHINE begins to build.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{That's him again. He's working day and night.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I tell you the man is very dangerous.}
+<DIAL_PAR>__{(the whine grows louder)}
+<DIAL>__{Come on Rosomorf, let's stop him before this building will explode.}
+<LOC>__{INT. CYCLOTRON ROOM - NIGHT}
+<ACTION>__{OCK and WEINER are at work as before. OCK takes no notice of the TWO MEN who come in, nor the WORKER who comes in behind them and sets to work attaching a BIG LOCK to the door.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Shut it down, Octavius.}
+<ACTION>__{OCK ignores him. WEINER touches OCK'S shoulder. OCK ignores him too.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{You've blown half the circuits in the Science Center.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Call an electrician.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I have called the locksmith.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{What... what is he doing.}
+<ACTION>__{He points toward the worker who's working on the lock on the main door.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{We have to shut your lab down and take a look at the lines.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Please, Otto, we must lock it up.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Thorkel)}
+<DIAL>__{You're denying me access to my cyclotron?!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{You bet.}
+<ACTION>__{OCK glares back and forth between the TWO MEN, the WORKER, and WEINER. Then he pulls BACK the RED POWER THROTTLE. The WHINE descends. The WALDOS pull back and dangle from their panel. The WHINE dies.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(contemplating)}
+<DIAL>__{Okey, dokey... just give me till tomorrow. I want to clean up my papers. Tomorrow... Ha... Tomorrow you can have this room...}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Oh... well Thorkel... few more hours won't make a difference.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I hope.}
+<ACTION>__{He signals to the worker to stop.}
+<LOC>__{INT. APARTMENT OF AUNT MAY AND UNCLE BEN - NIGHT}
+<ACTION>__{The N.Y. Mets are playing baseball on T.V. PETER watches with his UNCLE BEN, a paunchy 65 years old in POLYESTER SLACKS and a COMFY OLD SWEATER. A N.Y. METS CAP is perched on BEN'S head. A BEER CAN is in his hand. A cluttered but familiar living room sprawls comfortably around them.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Another brewski?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No, I'm fine, Uncle Ben.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(at T.V.)}
+<DIAL>__{Yah! Way to do it. Alright!}
+<DIAL_PAR>__{(to Peter)}
+<DIAL>__{You don't follow the Mets like you used to, do you, Pete?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No, not so much anymore.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Funny. When your Mom and Dad, uh, passed away... I had this idea... I wanted you to be the best baseball player that ever was. Geez, what ever happened to that?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Little league.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(soft and warm)}
+<DIAL>__{Yeah... Babe Ruth you wasn't.}
+<ACTION>__{AUNT MAY enters.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{It's on the table! Turn off the TV!}
+<ACTION>__{BEN nods, rises sluggishly and slowly, and turns the sound off only. PETER moves toward his AUNT in the doorway.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{How's that girl you told us about, Peter?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Liz? She's great... But she has a boyfriend.}
+<LOC>__{INT. THE DINING ROOM - NIGHT}
+<ACTION>__{PETER passes AUNT MAY and takes his seat.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{A boy your age should have a girlfriend.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Aunt May... she has a steady boyfriend.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Peter, any girl that's worth your attention is of course gonna have a boyfriend... But if she really gets to know what you have to offer she'll... you get my drift?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Look, just leave him alone, okay. When he's ready for girls he'll be a holy terror.}
+<DIAL_PAR>__{(winks)}
+<DIAL>__{It's in the blood.}
+<DIAL_PAR>__{(now serious business)}
+<DIAL>__{Lookit, how are you fixed for money, Pete? Maybe I can help you out a little.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(lying to them)}
+<DIAL>__{No, I'm alright. My scholarship covers almost everything, and I sell some photos here and there. Today my physics professor asked for some of my work... he wants to study my data. They might publish my work in the science magazine... that'll bring me some money...}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(practically cheering)}
+<DIAL>__{Publish your work?! You hear that May...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed laughs)}
+<DIAL>__{Yeah, in fact I have to leave a little early tonight, to meet Professor Octavius... He offered me to be his assistant...}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Whoa! Did you hear that May...?}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Oh, Peter, you promised you'd spend the night...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I... I can't, Aunt May. Professor Octavius wants to discuss my new findings.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(disappointed)}
+<DIAL>__{Peter, what you should be finding... is a nice girlfriend.}
+<LOC>__{INT. BASEMENT CYCLOTRON ROOM - NIGHT}
+<ACTION>__{WEINER is eating a large SANDWICH and a drinking a COKE.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I'll show them... closing the cyclotron on me... Weiner!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Yes, Professor...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Where is he? It's ten past eight o'clock...}
+<ACTION_ALT>__{A KNOCK}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with mouth full)}
+<DIAL>__{That must be him. He opens the door.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Good evening.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You are late.}
+<DIAL_PAR>__{(to Weiner)}
+<DIAL>__{Weiner, go outside and get us something to eat. And don't steal it! Just buy it. I'll reimburse you.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Peter)}
+<DIAL>__{Do you want anything Parker?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No thank you, I just had dinner at my aunt's...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Piss off, Weiner!}
+<ACTION>__{WEINER leaves. PETER wanders around. He goes into the experimental chamber, he overlooks the SPIDER which is scuttling away and crawls inside the open WINDOW... and into the chamber.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey, Parker... how would you like to take Weiner's place... I mean, be my assistant?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well, Professor, that would be a great honor, but I'm already working with...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Rosomorf... that imbecile. Don't you understand, kid, that I am about to uncover the greatest discovery since Einstein came up with his theory of relativity... The "Anti-Force."}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Wow! The theory of the Anti-force! You should go for the Noble Prize Professor...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Noble Shmoble, I am going for a much bigger prize kid. Okey, dokey. Let me show you, kid, what I got here.}
+<ACTION>__{OCK begins the experiment. We move in past the shattered WINDOW. We see the SPIDER crawling on the chamber's GEAR.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Present maximum anti-force power to date is 38 percent of theoretical limit. I have patched in the variable particle-wave accelerator...}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{I will now try to reach 50% power...}
+<DIAL_PAR>__{(big breath)}
+<DIAL>__{And if your paper has any value... I can use it to get the power I'm missing to create the anti-force, to break through and beat any other form of power in our or any other universe, capish!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Professor, I can't do it. I gave my word to Professor Rosomorf.}
+<ACTION>__{OCK is angry... Ock now sees the SPIDER. He shoots out a WALDO to try and crush it but the SPIDER is too fast. The WALDO slams against the wall of the chamber. He starts to push every button or switch in sight. A deafening whining starts. An URGENT WARNING TONE causes OCK to look at the "Relative Gravity" DIAL. It is at "4.999999KG" but suddenly the numbers start to tumble rapidly. INSERT: The glowing 5KG WEIGHT. INSERT: The POWER DIAL inches toward 50% POWER!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screaming)}
+<DIAL>__{50 percent... anti-force... 50 percent... that's all I'm missing! Parker, we can be rich together!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Sorry... I'd better go now.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(really angry now)}
+<DIAL>__{You'll be sorry, Parker.}
+<ACTION>__{PETER leaves. Another URGENT WARNING TONE causes OCK to look at the monitor SCREEN. On it, flashing RED, is the word, "OVERLOAD!" OCK pushes the RED POWER THROTTLE forward! The WHINE increases to a PULSE and THROB.}
+<LOC>__{INT. EXPERIMENTAL CHAMBER - NIGHT}
+<ACTION>__{Incredibly lit, the SPIDER is dropping on it's shimmering WEB-STRAND down toward the 5KG WEIGHT which now GLOWS in time with the THROB and PULSE.}
+<LOC>__{INT. THE CONTROL ROOM - NIGHT}
+<ACTION>__{The MONITOR is flashing "MAXIMUM OVERLOAD - SHUT DOWN!" OCK continues with the experiment. And then he sees the SPIDER!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You! Get out of there, you creeping...}
+<ACTION>__{He tries to shove the SPIDER with his hand.}
+<LOC>__{INT. EXPERIMENTAL CHAMBER - NIGHT}
+<ACTION>__{Through the BLUE-WHITE we can barely make out OCK on the other side if the shattered WINDOW. He sends TWO WALDOS after the SPIDER. The SPIDER evades him and jumps onto the PROFESSOR's back. It then climbs onto the PROFESSOR's neck and bites him.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(anguish)}
+<DIAL>__{Noooooooooooo!}
+<ACTION>__{The gravity DIAL goes to .000001, then pops back up as OCK'S tiny world goes berserk. DIALS spin, crack, explode or droop liquidly. WIRES dance on the CONSOLE which erupts like the 4th of JULY. OCK begins to float. His shirt begins to tear away. A DIAL floats by with its pulled WIRES undulating like a Medusa. WALDOS smash through the walls and flail like snakes. OCK'S YELLOW THERMOS distorts and EXPLODES! OCK, his hair wild, face locked in a multi-G grimace, is pinned halfway up a wall that is showering the room with}
+<ACTION_ALT>__{SPARKS.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ecstasy above the din)}
+<DIAL>__{It's an energy storm! Okey! Dokey!}
+<ACTION>__{We see clearly the SPIDER still stuck to his neck. The big beast buffets and shakes. Tubes, junctions, valves and whatnot fall off, crashing to the floor where they twitch and writhe with a life of their own. Then, an enormous EXPLOSION rips a large hole in the CYCLOTRON's side, sending debris and a HUNDRED MICRO- STREAMS of ELECTRONIC PARTICLES lancing in our direction.}
+<LOC>__{INT. BASEMENT HALLWAY - NIGHT}
+<ACTION>__{Ultimate weirdness! The PULSING BLUE-WHITE LIGHT penetrates first the DOOR of the CYCLOTRON ROOM and then the very walls! LOCKERS bang, LAMPS POP, the ceiling sags in a SURREAL, RUBBERY way. The WALLS sag too! The CYCLOTRON SIGN pivots and embeds itself in a WALL. A LADDER sinks in the WALL. The BLUE- WHITE LIGHT dances wildly about in PULSES. Then, suddenly, it stops... DEAD SILENCE. WEINER comes running in holding a double decker sandwich and a large bottle of Pepsi. Weiner enters OCK'S lab, singing, not at first noticing what's going on. Suddenly he stops dead.}
+<LOC>__{INT. CYCLOTRON ROOM - NIGHT}
+<ACTION>__{A scene out of DALI's surrealistic canvas. There are things inside of other things. DIALS look like DALI watches. This place has been rippled to the max! OCK lays face up, unconscious on the floor, a WALDO across his chest. The SPIDER is weaving its web. CAMERA slowly DOWN to see OCK. PIPES and WIRES are stuck to his body. The WALDO seems to be wrapping him. He wakes up to see those MECHANICAL ARMS buried in his body. They weave around him as if they are looking for prey. He tries to tear them out, but they seem to be a part of his body, like his other limbs. He screams. Suddenly Weiner sees}
+<ACTION_ALT>__{OCK.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Professor... what happened to you? What did you do...}
+<ACTION>__{Suddenly one of the waldos hits him so strongly that he flies back and out through the door to the corridor.}
+<LOC>__{INT. BASEMENT HALLWAY - NIGHT}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Oh my God... what happened here...}
+<ACTION>__{He hears the police sirens approaching, he runs away.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I better get out of here.}
+<LOC>__{EXT. THE EMPIRE UNIVERSITY - NIGHT}
+<ACTION>__{The long SCREAM segues to a POLICE SIREN. A COP CAR pulls to a halt in front of the COLLEGE. Many NYPD CARS are already there, along with a NUCLEAR REGULATORY VAN, some AMBULANCES, a VAN from the ENVIRONMENTAL PROTECTION AGENCY and TWO TV VANS. ROZ runs across the lawn. POLICE STRUGGLE to hold back the crowd of press, students and general gawkers. J. JAMESON pushes to the front of the mob in time to see TWO COPS hustle a BUGLE PHOTOGRAPHER back into it. The MAN shakes his head. JAMESON throws down his CIGAR, stomps it, and pulls out a fresh one. THORKEL arrives to address the CROWD.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(through bull horn)}
+<DIAL>__{There is no danger. Please go back to your dorms. I repeat, there is no danger.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(approaches him)}
+<DIAL>__{Spill it out, Professor! The public wants to know!}
+<ACTION>__{The CROWD closes on THORKEL.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Who are you?}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Jameson, Daily Bugle, Chief Editor, now what really happened here?}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{There will be a press announcement in the morning Mr. Jameson... now if you'll excuse me.}
+<ACTION>__{This elicits a flood of AD LIBS: "I heard a terrible explosion?" "Nuclear accidents?" "Meltdown?" "Genetic engineering?" "Are you guys making mutants in there?"}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I have nothing to say... there will be an announcement. Now, please go home... everybody... we must clear the grounds...}
+<ACTION>__{In the back of the crowd are PETER, HARRY, LIZ, FLASH and}
+<ACTION_ALT>__{KIM.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{You think they'll cancel classes?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{They must... the whole building must be contaminated with some kind of poisonous gas.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{How about nuclear contaminations?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{My God... lets beat it. But nobody moves.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(more interested in other things)}
+<DIAL>__{Could anyone be in there, Peter?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(concerned)}
+<DIAL>__{I don't know... Maybe Professor Octavius. He usually works late...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{That nut, I bet it was all his doing...}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(seeing Peter)}
+<DIAL>__{Hey Parker! Peter Parker!}
+<ACTION>__{PETER pushes forward.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Mr. Jameson! What are you doing here? What's going on?}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{That's for them to know, and for you to find out.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{But sir, they wouldn't tell us. You heard Thorkel... he said...}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{A press announcement tomorrow...! But we must know tonight Parker. This is your university, right...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, but...}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{You got your camera?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Sure, but I can't--}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{A hundred dollars says you can?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes sir!}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Get inside and get pictures, fifty bucks.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{You just said a hundred.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Seventy, but I want blood and gore.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calling back)}
+<DIAL>__{Seeya guys.}
+<ACTION>__{He dashes off. FLASH shakes his head in dismay at this guy.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Where is he going?}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{To make fifty bucks.}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{PETER approaches a CYCLONE FENCE keeping low and out of sight. He leaps it like a skirmisher but fails ignominiously in a heap. He's torn his PANTS and cut his leg. He moves to the side of the building. A DUMPSTER sits next to a FIRE DOOR. It's locked. As PETER mulls over his next move, the LOCK clicks and the DOOR slowly opens. PETER leaps on the DUMPSTER... and falls in.}
+<LOC>__{INT. DUMPSTER - NIGHT}
+<ACTION>__{PETER lays in the GARBAGE, a pained look on his face. He rolls over and comes face to face with a wet DAILY BUGLE. The headline reads, "Wave of Violence Rips City!" He pulls himself up and peers out. He sees a UNIFORMED GUARD hold the DOOR open for THREE MEN IN RADIATION SUITS who remove some weirdly fused objects. When they let the DOOR swing closed, PETER stops it by inserting the NEWSPAPER in the top.}
+<LOC>__{EXT. FIRE DOOR - NIGHT}
+<ACTION>__{PETER squeezes inside and jumps to knock out the NEWSPAPER. The Door closes behind him.}
+<LOC>__{INT. BASEMENT HALLWAY - NIGHT}
+<ACTION>__{Skewed, strange, surreal, PETER stares at the weirdness and fumbles with his CAMERA. He snaps off a few shots, then freezes when he hears a familiar voice.}
+<CHAR>__{ROZ } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(filtered through face mask)}
+<DIAL>__{Take it easy. Take it easy with him.}
+<CHAR>__{THORKEL } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Take him away and never bring him back!}
+<ACTION>__{Now we see ROZ and THORKEL following 2 GUARDS carrying OCK in a stretcher. They all wear RADIATION SUITS. A waldo sneaks out from under the sheet and hits Thorkel, as fast as lightning. He falls back. He's covered with a SHEET and attached to LIFE SUPPORT EQUIPMENT. Octavius moans.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What was that?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{What was what?}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What hit me?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{What hit you?}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{I don't know. It was so fast.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{You're going to be fine, Otto.}
+<ACTION>__{PETER gets off a shot and ducks into the MEN'S room leaving the DOOR ajar for a peak. A WALDO slips down from the SHEET. PETER'S eyes go wide at the sight. What in the hell has happened here?}
+<LOC>__{INT. MEN'S ROOM - NIGHT}
+<ACTION>__{The URINALS are twisted in bizarre shapes. PIPES are exposed and spout WATER. The MIRRORS look like something out of a funhouse. PETER hears the STRETCHER go by. PETER goes to the DOOR of OCK'S Lab and cracks it. PAN up to the SPIDER, GLOWING softly, dangling from a SHIMMERING STRAND above PETER. As PETER looks out at the STRETCHER, the SPIDER drops on his neck. He reacts by swatting it away. Bad move. The GLOWING SPIDER now squats malevolently on the back of PETER's hand. He stares at it transfixed. It bites.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ow!!!}
+<ACTION>__{PETER throws the SPIDER to the ripply tile floor where it scuttles unsteadily out the door. Sweat starts to bead on PETER'S face. He shakes his head to clear it. His vision becomes uncertain. He lurches against a WEIRD SINK. PETER'S POV is not just uncertain, not just fuzzy, not just moving in and out anamorphically. It's all of that!}
+<CHAR>__{GUARD } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(heavily distorted)}
+<DIAL>__{Hey! What are you doing here, kid?}
+<ACTION>__{PETER turns to see a UNIFORMED GUARD distorted by his crazy vision.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I feel a little funny...}
+<CHAR>__{GUARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(heavily distorted)}
+<DIAL>__{Yeah? Well, I ain't laughing. Get out... Just get out of here...}
+<LOC>__{EXT. FIRE DOOR - NIGHT}
+<ACTION>__{It bangs open. The GUARD throws PETER out and then throws his BACK PACK at him.}
+<CHAR>__{GUARD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still distorted)}
+<DIAL>__{You get yourself over to the Police lines.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ultra wooz)}
+<DIAL>__{Right. Police lines.}
+<LOC>__{EXT. UNIVERSITY - NIGHT}
+<ACTION>__{PETER melds into the crowd. As in a dream, JAMESON appears at his side.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(distorted)}
+<DIAL>__{Okay, scoop, whaddaya got?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I... got pictures of the Professor... in there... it's so strange in there... so bizarre...}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(winks)}
+<DIAL>__{Good job, kid. Bizarre is what we need. Pick this up in the morning.}
+<DIAL_PAR>__{(holding up his camera)}
+<DIAL>__{There'll be two crisp twenties tucked inside.}
+<ACTION>__{He hurries off. PETER peers after him and all of a sudden his vision corrects to a perfect focus. The sweat is gone. He's okay. He makes his way through the crowd to the street. We TRACK with PETER as the madding throng recedes behind him. He turns a corner. He hears a SIREN. An AMBULANCE screeches around the corner. It nearly hits PETER who leaps to avoid it.}
+<LOC>__{EXT. BRICK BUILDING - NIGHT}
+<ACTION>__{PETER'S cheek is pressed against the brick. He opens his eyes and sees that he's hanging onto the side of the building like a spider. And he's three stories up! He looks down and sees the street thirty feet below him! And the Ambulance which he jumped over is driving away. He tries a downward step, but a BRICK dislodges and crashes to the sidewalk. He takes an upward step. And then another. Tentatively at first, and then with growing confidence, he "crawls" to the roof of the building. At the top he gropes for a RAILING and slips. He dangles eight stories above the street. Then, with a grunt, he vaults to the roof one-handed.}
+<LOC>__{EXT. THE ROOF - NIGHT}
+<ACTION>__{PETER is flat on his back, staring at the stars. He sits up and looks wonderingly at his hands. On the back of his right hand are TWO PUNCTURE WOUNDS surrounded by a faint BLUE-WHITE PULSING GLOW. The GLOW disappears.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mutters to himself)}
+<DIAL>__{This is weird. My God, I feel so weird...}
+<ACTION>__{He leaps to his feet. He flexes. Feels weird. Good Weird. In fact, great weird! He tries a couple of "jumping jacks" and on the third jump he soars into the air!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(exhilarated)}
+<DIAL>__{Very weird.}
+<ACTION>__{The great, bespangled, NEW YORK CITY is his backdrop as PETER jumps and turns and does loops in the air. With the agility and tactility of a spider, PETER leaps from the RAILING to a WALL to a FLAG POLE to another WALL where he lands sideways and sticks.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sideways)}
+<DIAL>__{Very, very weird.}
+<ACTION>__{He leaps off the WALL and lands at the edge of the roof. He looks down. No one's looking back. So, he takes a step back and leaps the alley to the next roof.}
+<LOC>__{EXT. ROOFTOP SHACK - NIGHT}
+<ACTION>__{PETER lands on it. The next roof is seven stories up and across the street. PETER bites his lip.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well, what the hell!!}
+<LOC>__{EXT. THE TALLER BUILDING - NIGHT}
+<ACTION>__{Backlit by a FULL MOON, PETER somersaults to the roof of the taller building, and misses the top! He sticks to the brick FACADE, upside down! He laughs with the moment. A WINDOW opens below him and a pretty BLONDE in a TOWEL sticks her head out. She looks this way and that, and all she sees is a MAN in a LOUD SPORTCOAT down the street. Never thinking to look up, she withdraws into the room.}
+<LOC>__{EXT. CHELSEA STREET - NIGHT}
+<ACTION>__{The MAN in the LOUD SPORTCOAT leans against a LAMP POST and lights a CIGARETTE with a BEAT UP, SILVER PLATED}
+<ACTION_ALT>__{LIGHTER.}
+<ACTION>__{In the LIGHTER he sees a reflection of PETER leaping off the taller building. He snaps around and looks up in time to see PETER make it to the next FACADE.}
+<LOC>__{EXT. ROOFTOP MONTAGE - NIGHT}
+<ACTION>__{With the UPTOWN SKYLINE behind him, PETER casts caution to the wind and leaps from rooftop to rooftop. Watching from the street, the MAN in the LOUD SPORTCOAT follows PETER'S progress. PETER leaps to a BROWNSTONE and lands amid the WASH. He leaps up to a TENEMENT and lands on a BILLBOARD across which he does a "bug crawl" and leaps again. He touches down on a PIGEON COOP and bounds up and out of frame again. The COOP OWNER, a LATINO in an undershirt and a YANKEES CAP, comes running out of the COOP. He's so surprised that he leaves the DOOR open and twenty WHITE MORNING DOVES fly away in a furious flapping, free at last. The LATINO lets out a stream of Hispanic expletives complete with all the appropriately obscene gestures. PETER slides down a CABLE to a LAMP POST, and swirls down the POLE to a PHONE BOOTH.}
+<LOC>__{EXT. PHONE BOOTH - NIGHT}
+<ACTION>__{PETER comes face to face with the man in the LOUD SPORTCOAT. He gives PETER his CARD.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{You're a kid who's going places, and I'm gonna point you the right way.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading card)}
+<DIAL>__{Max Reiss, models, strip dancers, escort girls, blue movies...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Oops... sorry, wrong card.}
+<DIAL_PAR>__{(exchanges cards)}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Max Reiss, Talent management.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{It's a big outfit. Got a lot of departments.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yeah... well... why you approach me? I'm not...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Oh yes you are... very talented. The three questions of show business success. One do you think you possess a unique talent?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Two... what are you gonna do with it?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not a clue)}
+<DIAL>__{Well... I don't know.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(the clincher)}
+<DIAL>__{Three... how much money you got in your pocket?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ten.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{You invest half of that with me and I'll make you a star.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughing)}
+<DIAL>__{What are you talking about?}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{I'm talking about fame. I'm talking about fortune. I'm talking about the chance of a lifetime. How'd you like to be on MTV tomorrow night?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{MTV...? Me? Really?}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Taxi!}
+<ACTION>__{It screeches to a stop.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Hey!}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(getting in)}
+<DIAL>__{Kid! Tomorrow night. Same place, same time.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calling after)}
+<DIAL>__{How do you know I'll show up?}
+<ACTION>__{As the TAXI roars off...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(from the taxi window)}
+<DIAL>__{Because you wanna be a star... everybody does.}
+<ACTION>__{PETER pulls out a QUARTER. And enters a phone booth. He dials.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Hello? Aunt May?}
+<CHAR>__{AUNT MAY } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(filtered)}
+<DIAL>__{Peter? What time is it? Are you alright?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well, no, I mean yeah I'm fine, but listen... Aunti, the craziest thing happened to me tonight.}
+<LOC>__{INT./ EXT. PHONE BOOTH/AUNT MAY'S BEDROOM - NIGHT}
+<ACTION>__{As UNCLE BEN stirs fitfully}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(lovingly)}
+<DIAL>__{Does this have to do with a certain girl we talked about at dinner?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No, no, look, there was this radioactive experiment... I was poisoned!}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{You were what?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I was bitten by a bug.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Oh! I get it, you mean a love bug.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No... No... A spider...}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Peter, did you at least talk to her?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Aunt May, listen to me. I got bitten on the hand... by a poisonous spider.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{She bit you?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No. I was in the bathroom and...}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Oh, you did it in the bathroom? Peter, this is craziness, why don't you use your bed? You're up all night. You're in the radioactive labs. You never take time to eat or sleep. Am I right?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, Aunt May.}
+<LOC>__{INT. PHONE BOOTH - NIGHT}
+<CHAR>__{AUNT MAY } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Did you eat something today?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes, Aunt May.}
+<CHAR>__{AUNT MAY } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Okay, Peter go back to bed, and remember we love you.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{And I love you too, Aunt May.}
+<DIAL_PAR>__{(hangs up)}
+<DIAL>__{And by the way, I got a mess of super powers today.}
+<ACTION>__{Exit booth. He BANGS the PHONE BOOTH. Goes out and-- jumps lightly onto the phone booth roof.}
+<LOC>__{INT. HOSPITAL OPERATING ROOM - NIGHT}
+<ACTION>__{OCK is prepped for surgery. GOWNED PERSONNEL hurry about with a feverish urgency. The CHIEF SURGEON checks the SENSORS attached to OCK'S head. These seasoned professionals are astonished and frightened.}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Look at these brainwave readings. The mental activity is ten times of any normal man...!}
+<CHAR>__{BRAINMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Equipment malfunction...?}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Hell, yeah... his.}
+<DIAL_PAR>__{(checks Ock's chest)}
+<DIAL>__{My God... I thought I'd seen everything... SURGEON #2}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{But this is beyond medicine. This is madness...!}
+<ACTION>__{OCK lays bare chested, face up, all FOUR WALDOS splayed. He is a true cyborg. Part man, part machine. Part organic, part molybdenum steel.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(leaning in, blitzed)}
+<DIAL>__{It is so freaky...}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stern for the staff's sake)}
+<DIAL>__{Okay, lets stop yakking and get cracking. I want to go in at the upper thoracic. Then we'll work our way around.}
+<DIAL_PAR>__{(slaps Ock's shoulder)}
+<DIAL>__{Hang in there, man.}
+<ACTION>__{INSERT: The WALDO nearest the slap moves ever so slightly. The triangular CLAW rotates a quarter turn and then turns back. The NURSE sees it and SCREAMS.}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(glares)}
+<DIAL>__{Nurse! Number seven scalpel. Arthroscope stand by. Read out parameters in progress. Let's go in. You alright?}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{Yes... Yes, of course. Everything's online.}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL>__{Scalpel! No... no... a larger one... the largest we have!}
+<ACTION>__{She slaps a HUGE ONE into his palm. He takes a deep breath and goes to work. MASKED heads gather round him. The SCALPEL is poised at the line where skin meets steel. We make an incision. The INSTRUMENTS go crazy. WARNING BELLS and BUZZERS sound.}
+<CHAR>__{HEAD NURSE} <CHAR_PAR>__{}
+<DIAL>__{Kill the alarms!}
+<CHAR>__{BRAINMAN} <CHAR_PAR>__{}
+<DIAL>__{He's going off the chart!}
+<ACTION>__{A WALDO flashes around the steel leg of the operating TABLE and clanks tight!}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL>__{Mop. Mop! Sutures and clamps! Hurry up! SURGEON #2 We're losing him. Defibrillate!}
+<ACTION>__{A HEART MACHINE is rushed in. They work frantically.}
+<CHAR>__{CHIEF SURGEON} <CHAR_PAR>__{}
+<DIAL>__{Zap him!}
+<CHAR>__{BRAINMAN} <CHAR_PAR>__{}
+<DIAL>__{Stabilizing alpha waves...}
+<ACTION>__{SURGEON #2 applies the CARDIAC SHOCK PADS.}
+<LOC>__{INT. HOSPITAL ROOM - DAY}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{You have a visitor, Doctor...}
+<ACTION>__{She leaves OCK and THORKEL alone.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(enjoying this)}
+<DIAL>__{Octavius, I'm afraid I have bad news for you.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The cyclotron is damaged...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What used to be the cyclotron was permanently shut down this afternoon.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{But my work!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Your work is a disaster! Look at yourself!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Myself? I don't matter. Nobody matters anymore. To enter a new dimension we must first destroy our own...}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What are you saying?}
+<ACTION>__{OCK gets off his bed throwing away his sheet waving with his 4 WALDOS and 2 arms.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Destroy life. Life is... insignificant. Bags of sleepy, sluggish flesh. What would you say?}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{Oh, my God, what are those horrible things sticking from your body?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gets more and more excited)}
+<DIAL>__{Thorkel, if I told you that for one moment in time I broke all the laws! For one brief glorious moment, I broke through to the other side. I saw... I felt... I became creation.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{What on Earth are you rambling about?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Destiny!!! My destiny! I see it all so clearly now. Universal destruction, yes. All I need is the power... then I can destroy this illusion you call life. It is my destiny to lead us to the light!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL>__{You're a madman.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{And you are a fool. I will end the universe as you know it. And in that final moment... I'll laugh my ass off while you're kissing yours goodbye!}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(excited)}
+<DIAL>__{Goodbye is right, Octavius... You're fired... sacked... canned. You are history, Doctor Octavius. And I couldn't be more pleased to be the first to tell you this good news...}
+<ACTION>__{A WALDO shoots up and grabs THORKEL by the throat. He GASPS and SCREAMS silently as the telescoping WALDO lifts him off his feet. He rises until his head is just inches from the ceiling.}
+<CHAR>__{THORKEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(his last words)}
+<DIAL>__{Let me down Ock... you crazy... MONSTER! Let me down!}
+<ACTION>__{Then OCK smiles and slams THORKEL'S head through the ceiling. PLASTER rains down. THORKEL'S legs scissor and kick and then go limp. OCK throws his dead body on to the bed, and covers him with the WHITE SHEETS.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey.}
+<LOC>__{INT. TAXI - NIGHT}
+<ACTION>__{Through the WINDOW of the TAXI we see MADISON SQUARE}
+<ACTION_ALT>__{GARDEN.}
+<ACTION>__{As it pulls up, a sign reads, "Midnight Madness! MTV's Rock and Wrestling 'SLAMMY Awards!" The TAXI come to a stop.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking up at the sign)}
+<DIAL>__{MTV Wrestling?!}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(getting out)}
+<DIAL>__{That's the place. Pay the man.}
+<ACTION>__{MAX REISS gets out, he is carrying a BOX.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Look, Mr. Reiss... I'm not real interested in watching a wrestling match.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Who said anything about watching a wrestling match? You're here to win a wrestling match!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Me? You must be kidding.}
+<ACTION>__{REISS hustles PETER inside.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{You hop around. You know, the way you did last night. Your opponent gets tired. He falls down. The ref counts to three, you win, and we pick up a thousand bucks.}
+<LOC>__{INT. CATACOMBS MADISON SQUARE GARDEN - NIGHT}
+<ACTION>__{We can hear the CROWD screaming at something in the background as REISS leads PETER to an employee WASHROOM and shows him the BOX.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{You're really gonna love this.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Look, really, I don't know...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{You don't have to know. I know enough for both of us.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Change in there.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{What is this?}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{A costume... something that fits your talent. Go put it on. I'm sure you'll like it.}
+<ACTION>__{He slaps the BOX against PETER'S chest and all but pushes him inside.}
+<LOC>__{INT. WASHROOM - NIGHT}
+<ACTION>__{PETER takes the suit out of the BOX. It is the SPIDER-MAN SUIT! He looks at it and shrugs. Then he begins to struggle into it. PETER is looking at himself in the MIRROR. He is dressed in all but the MASK. And he looks terrific! He flexes. He smoothes his hair. He's starting to get into it.}
+<LOC>__{INT. THE ARENA - NIGHT}
+<ACTION>__{CRUSHER COLE is destroying an opponent.}
+<LOC>__{INT. THE CATACOMBS - NIGHT}
+<ACTION>__{REISS winces as the CROWD CHEERS and BOOS.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(comes out)}
+<DIAL>__{How does it look? I feel like it's Halloween.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Cover your face with the mask.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Mystery, my friend. Nobody should know who you are...}
+<LOC>__{INT. THE RING - NIGHT}
+<ACTION>__{CRUSHER COLE is doing a big flexing number and the CROWD is going wild. There are MTV CAMERAS and SIGNS and BANNERS proclaiming the "SLAMMIES" everywhere.}
+<CHAR>__{RING ANNOUNCER} <CHAR_PAR>__{}
+<DIAL>__{And now, a new challenger, for the thousand dollar fight, weighing in at one hundred and fifty pounds... from parts unknown! Here is the Amazing... Mysterious... Incredible Superman...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(snorts from ringside, hating the name)}
+<DIAL>__{No, not Superman... Spider-Man... SPIDER-MAN!!!}
+<CHAR>__{RING ANNOUNCER} <CHAR_PAR>__{}
+<DIAL>__{...Spider-Man!!!!!}
+<ACTION>__{The CROWD BOOS the slender newcomer who climbs awkwardly through the ropes. Rock music blares. TWIN REDHEADS in RED BIKINIS ring a bell. CRUSHER COLE and SPIDER-MAN circle. COLE is twice SPIDEY'S size. SPIDEY spots a TV CAMERA for the first time. He momentarily freezes. CRUSHER sneers the CRUSHER sneer. Then he charges! With the agility of a spider, SPIDEY leaps out of the way. CRUSHER comes back at him. SPIDEY leaps again, bigger! The acrobatics get more and more dramatic as CRUSHER COLE works himself up into a theatrical rage. Taunts erupt from the CROWD.}
+<CHAR>__{OLD LADY} <CHAR_PAR>__{}
+<DIAL>__{Kill the sucker, Crusher!}
+<ACTION>__{SPIDEY, really getting into it now, begins playing for the}
+<ACTION_ALT>__{CAMERAS.}
+<CHAR>__{HIPSTER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(between two blondes)}
+<DIAL>__{Whatsamatter, Crusher, can't you crush that bug?}
+<CHAR>__{CRUSHER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spidey)}
+<DIAL>__{Okay, Web Face, this is it!}
+<ACTION>__{He misses SPIDEY again!}
+<CHAR>__{HIPSTER} <CHAR_PAR>__{}
+<DIAL>__{Hey, Crusher, you need a insecticide!}
+<DIAL_PAR>__{(his blondes titter)}
+<LOC>__{INT. LIZ/KIM'S DORM ROOM - NIGHT}
+<ACTION>__{LIZ'S side is all schoolwork. KIM'S side is all ROCK POSTERS and STUFFED ANIMALS. LIZ is curled up doing homework. FLASH and KIM sit on the edge of the bed watching the "SLAMMIES" on MTV.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Will you look at this Spider-Man guy! He is absolutely incredible!}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Liz, get a load of this outfit! I wish I had it for the Halloween party... it's quite sexy.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Will you two shush. I'm trying to work.}
+<LOC>__{INT. RING - NIGHT}
+<ACTION>__{The match continues in an increasingly spectacular choreography. CRUSHER bellows at the SCREAMING CROWD. But there's a gleam in his eye. This is it! He charges. SPIDEY, playing the CAMERAS for all he's worth, leaps way, way up. But this time CRUSHER stops dead in his tracks. SPIDER-MAN comes back down into a forearm SMASH that sends him reeling into a corner. CRUSHER does a flying pin. 300 pounds. WOMP! The air leaves SPIDEY in a rush as CRUSHER covers him, smothering him. The CROWD goes WILD.}
+<CHAR>__{REF} <CHAR_PAR>__{}
+<DIAL>__{One...!}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{Get up...! Get up...!}
+<CHAR>__{REF} <CHAR_PAR>__{}
+<DIAL>__{Two...!}
+<ACTION>__{Not realizing his own strength and panicky about being squashed, SPIDER-MAN throws CRUSHER COLE off him and up into the air. Way up! Reiss cheers... Spider-Man comes down and knocks CRUSHER for the first time. CRUSHER flies away and out of the arena, eight rows back! The HIPSTER sees CRUSHER coming at him and bolts from his seat. CRUSHER lands on it, in between the TWO BLONDES who break into utter hysterics. SPIDEY, surprised at his own strength, watches CRUSHER land.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(whispers to himself)}
+<DIAL>__{Wow...}
+<CHAR>__{REF} <CHAR_PAR>__{}
+<DIAL>__{Ladies and Gentlemen, history is made today, we have here the first man to win a thousand dollars against the mighty Crusher.}
+<ACTION>__{The REF raises his hand in victory. The CROWD BOOS and DEBRIS rains down. But some in the CROWD CHEER wildly, recognizing the new sensation. SPIDER-MAN steps down from the right as REISS leads the}
+<ACTION_ALT>__{CHEERS.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Max! Am I really gonna get a thousand...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{We are going to get a thousand--}
+<ACTION>__{PETER turns with REISS and comes face to face with CRUSHER COLE. Two ominous beats.}
+<CHAR>__{CRUSHER} <CHAR_PAR>__{}
+<DIAL>__{Hi, who are you, kid?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I'm Peter Parker.}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{He is Spider-Man, and I handle him... Whenever you want a rematch call me. Next time it's gonna be ten thousand, what do you say... Crusher? SPIDER-MAN Oh, look, Mr. Crusher, I'm really sorry about what happened in there. Really...}
+<CHAR>__{CRUSHER} <CHAR_PAR>__{}
+<DIAL>__{Oh, well, I don't know what happened to me tonight...}
+<DIAL_PAR>__{(measures his muscles)}
+<DIAL>__{I really don't know...}
+<CHAR>__{REISS} <CHAR_PAR>__{}
+<DIAL>__{I know... you lost. Big man you lost to the Amazing Spider-Man.}
+<LOC>__{EXT. CITY STREET - NEAR A HOSPITAL - DAY}
+<ACTION>__{WE ARE TIGHT ON A NEW YORK JOURNAL TRUCK. On its SIDE BANNER is a PICTURE of SPIDER-MAN'S face. Headline: "Who is he? Mega-Smash Hits MTV!" The TRUCK pulls away and we see PETER, LIZ, HARRY and KIM standing on the sidewalk waiting to cross. PETER is rocking on his heels and smirking.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(indicating truck)}
+<DIAL>__{You know who that is?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(walking ahead)}
+<DIAL>__{Yeah... he's some clown we saw on TV last night... boy does Flash think he's hot.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{He does...}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{I love wrestling.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Wrestling is all bluff. Do you really believe this little guy in a stupid Spider-Man suit beat the Crusher?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Hey, we better rush... visiting hours will be over soon.}
+<LOC>__{INT. HOSPITAL CORRIDOR & ROOM - DAY}
+<ACTION>__{The NURSE leads PETER and LIZ and HARRY into the room.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{Doctor Octavius? You have visitors. Doctor Octavius?}
+<ACTION>__{We hold for a beat. When LIZ takes a step forward to look around we expect the worst. But nothing grabs her. PETER sees a pile of PLASTER on the floor. He looks up and sees the hole in the ceiling. LIZ and HARRY look up too. OCK is not there.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ock is not here!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{My God, what happened?}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{I'd better call the doctor!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{You'd better call the police!}
+<ACTION>__{KIM screams.}
+<LOC>__{INT. CORRIDOR TO OCK'S LAB - DAY}
+<ACTION>__{OCK, hiding his WALDOS under a white hospital robe. He stalls until he reaches the door. Then one of his WALDOS peaks out and snaps open the new locks on the door.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{OCK, in a white hospital robe walks through the surreal debris. Two WALDOS reach out and "sense" the ripples on opposite WALLS. He runs a hand through his hair.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{What a wreck. What a useless, wasted wreck. Okey, dokey. We rebuild you, my damaged darling. Bigger, better, hotter! A world class, super cyclotron!}
+<ACTION>__{He hears a NOISE behind him and reacts. And here comes WEINER. Bedraggled, shuffling through the CONTROL ROOM door. He eyeballs the incredible wreckage.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{There you are, doc... where have you been... whoa this place is messed up.}
+<ACTION>__{OCK turns, WALDOS writhing. WEINER sees them and kind of ducks, remembering how he was hit by them once.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smirks)}
+<DIAL>__{Whoa, doc! You look a little messed up yourself.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Where have you been, you imbecile?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I went to the wrestling...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Wrestling...}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I went after the kid. You still want that Parker guy's data, don't you?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Well, did you get it?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{No, I followed him... but I lost him in the crowd.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Lost him? You--}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I'll find him, Maestro... I promise... soon... maybe by tomorrow.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{So how was the wrestling?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Fantastic! There was this new wrestler... beat the mighty Crusher. You won't believe it... a nothing of a guy... calls himself this stupid name... the Amazing Spider-Man... would you believe it?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Spider-Man, huh? Well, maybe I'll just go and wrestle myself one of these days... with all my new arms... I'm sure I can beat Crusher or any other monster.}
+<ACTION>__{Suddenly OCK throws out his WALDOS from under his long white coat, grabs WEINER and, lifts him up in the air, smiles cynically and with cruelty!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Will I beat him, this Crusher, will I beat him or not?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{No... no, please... I mean yes, yes... you'll beat him easily... let me down... Please... I'll do anything for you...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{The Parker data... get me the Parker data, you hear?!!!}
+<LOC>__{EXT. PETER PARKER'S ROOFTOP - DAY}
+<ACTION>__{A CAMERA is mounted on a TRIPOD facing us. A TIMER winds down and it CLICKS. REVERSE ANGLE - CAMERA'S POV. SPIDER-MAN is clinging to the side of a WALL.}
+<DIAL>__{SPIDER-MAN And one like this...}
+<DIAL_PAR>__{(changing pose)}
+<DIAL>__{And one looking real sincere.}
+<ACTION>__{The WHITE EYES narrow to a slit. CLICK. Suddenly he spots WEINER climbing onto his roof. He hides. WEINER tiptoes into the roof apartment. SPIDER-MAN jumps in and grabs him.}
+<DIAL>__{SPIDER-MAN What are you doing here?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I'm looking for Peter Parker. SPIDER-MAN Oh, yes... so why not use the front door?}
+<ACTION>__{SPIDER-MAN throws him back onto the roof so that he almost slides over the edge. WEINER turns, facing SPIDER-MAN.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Hey, I know you... SPIDER-MAN You do?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I saw you crushing the Crusher. SPIDER-MAN You like wrestling?}
+<ACTION>__{SPIDER-MAN jumps and reaches WEINER.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I love it! You are the best wrestler I have ever seen... please don't hurt me!}
+<ACTION>__{SPIDER-MAN picks up WEINER, throws him up to an antenna above the building, to which WEINER clings desperately. SPIDER-MAN circles the antenna.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Oh, please... don't kill me. Please help me down. SPIDER-MAN Of course I'll help you down. I am Spider-Man... the good guy, am I not?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Yes... yes, you are.}
+<ACTION>__{SPIDER-MAN jumps to the CHIMNEY, picks WEINER up in his arms and whispers to him.}
+<DIAL>__{SPIDER-MAN And by the way, Peter Parker does not live here anymore...}
+<ACTION>__{SPIDER-MAN jumps with WEINER in his arms to the edge of the roof.}
+<DIAL>__{SPIDER-MAN And tell the Professor he can't have Peter's data. Goodbye.}
+<ACTION>__{SPIDER-MAN drops WEINER off the roof, three floors straight down into heavy bushes below.}
+<LOC>__{INT. ELECTRODYNE FACTORY SHOP - DAY}
+<ACTION>__{A SIGN tells us so. A CLERK is double checking a long list of items OCK has ordered.}
+<ACTION_ALT>__{CLERK}
+<ACTION>__{Holy cow, whattaya building, fella, a cyclotron?}
+<DIAL_PAR>__{(Ock glares at him)}
+<DIAL>__{Okay... lets see here. Page three. We got 30,000 feet of 50-gauge copper co-ax... twin 550 XK transformers... cadmium accelerator rails, a half dozen... a GBC relative multi-phase transducer... and one yellow thermos.}
+<DIAL_PAR>__{(finishes computation)}
+<DIAL>__{That'll be $475,989.65...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Wrap it up...}
+<ACTION_ALT>__{CLERK}
+<ACTION>__{What about the money... or do you pay by credit card?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a long beat)}
+<DIAL>__{Cash! I'll be back soon.}
+<LOC>__{EXT. STREET - OUTSIDE OF A BANK - BACK DOOR - NIGHT}
+<ACTION>__{An ARMORED TRUCK rolls by and stops. TWO GUARDS open the Bank's DOORS. Suddenly a WALDO smashes through the DRIVER'S SIDE WINDOW of the ARMORED TRUCK, wrapping around the DRIVER'S NECK and pulling him through the WINDOW. The SHOTGUN goes for his weapon, but a WALDO smashes in and pulls the GUN out through his WINDOW. TWO WALDOS shoot out and attach themselves to the REAR}
+<ACTION_ALT>__{DOOR.}
+<CHAR>__{BANK GUARD} <CHAR_PAR>__{}
+<DIAL>__{What's going on here?}
+<ACTION>__{The WALDO knocks him over. OCK rips the DOOR off! The TRUCK is full of MONEY BAGS.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Cash!}
+<LOC>__{INT. JAMESON'S OFFICE - DAY}
+<ACTION>__{A PHOTO ASSISTANT look on as JAMESON goes over PETER'S latest PHOTOS. They are his SPIDER-MAN shots.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Doesn't he look amazing in that one? Look, he's flying in the air!}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{I don't care if he flies to the moon. He's just another wrestler in a silly costume. Look at this, Parker, right off the wire. This is the guy who hit that armored truck this morning. They say he has metal arms... get me a picture of this character!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Metal arms?}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Four of them.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ock...?!}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{The web faced weirdo... He is a joke in a Halloween costume... don't make me laugh.}
+<ACTION>__{He tears up PETER'S SPIDEY PHOTOS.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{Now get out of here and don't come back without something I can use!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yes sir...}
+<DIAL_PAR>__{(stops, and turns back)}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{A mega baloney... A bug in blue tights... what next?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{The Journal said he was a mega-smash on MTV...}
+<LOC>__{INT. CYCLOTRON ROOM - NIGHT}
+<ACTION>__{WEINER is putting on a CLOWN SUIT. He fastidiously puts his ratty jacket on a hanger and hangs it on a PIPE. The PIPE turns into a snake. It is, in fact, a WALDO!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turning from work)}
+<DIAL>__{What do you think you're doing?}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I'm going to the Masquerade. It's Halloween tonight Doc, aren't you coming to the School Ball? Whoa, you could go without an outfit.}
+<ACTION>__{A WALDO whips around WEINER'S throat... AARRRGH!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You're not going to any ball, clown. You're going to get me Peter Parker's data...}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{I was almost killed on my last try... Look at all these bruises...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I don't care if you come back dead. Just get it!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(croaking)}
+<DIAL>__{Cost you a thousand bucks, if I get it.}
+<ACTION>__{The WALDO coils tighten around WEINER'S throat.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{All right... boss please let go... PLEASE ...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Just get it, Weiner. I'm running out of time. If you fail me again, you won't have to concern yourself with money anymore... DO YOU GET ME CLOWN?!}
+<ACTION>__{WEINER croaks his assent.}
+<LOC>__{INT. CAFETERIA - NIGHT}
+<ACTION>__{It is all dressed up for a party: LIGHTS, STREAMERS, GLITTER BALL, the WORKS! HARRY is dressed as a SPACEMAN; PETER wears his regular clothes.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{You should have worn a costume. I told you to wear a costume.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{It's... embarrassing.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{There's Liz...}
+<ACTION>__{LIZ is crossing the dance floor dressed as an INDIAN PRINCESS in an MINI-DRESS.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yeah...}
+<ACTION>__{ROZ, dressed as a COWBOY, ambles over.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{... howdy partners. PETER/HARRY Hiya, Professor Rosomorf.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Any word on Doctor Octavius?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(falling in step)}
+<DIAL>__{Nothing beyond what I read in the papers. I'm afraid he's not the same man we knew. You know, I've been digging through the notes on his experiments...}
+<ACTION>__{PETER follows LIZ with his eyes. She takes a seat at a TABLE next to KIM who wears a HAREM GIRL outfit with the SALAMANDER around her neck. Next to KIM is... SPIDER-MAN! PETER'S eyes go wide.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{You boys must have had an extraordinary classroom experience.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(eyeing Spidey)}
+<DIAL>__{Yes sir... oh... I'm going to be a little late with my paper on the Planetary Conjunction, sir...}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Whenever you're ready... I'll look at it. I know it's going to be an important work... and Peter, take my hat.}
+<ACTION>__{He hands PETER an oversized TEN GALLON HAT.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{It is a costume party.}
+<ACTION>__{PETER and HARRY make their way through the dance floor to the table. PETER can't take his eyes off SPIDEY.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Look, there's Spider-Man!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Not the real one, I'm sure...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{You can never be sure... all kinds of crazy stuff can happen at a masquerade ball...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I bet I know who it is.}
+<ACTION>__{As they take seats, PETER sees that SPIDER-MAN is trying to read the BUGLE'S sports section by party light. KIM waves. PETER nods and the BIG HAT falls over his face.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Hiya, Liz...}
+<ACTION>__{LIZ moves to Flash, who's dressed in the SPIDER-MAN costume.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Hiya, Peter. Who is in the Spider-Man costume?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{It's a very clever outfit you've got there, Flash.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Take a hike, asshole.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Peter)}
+<DIAL>__{How did you recognize him?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{His pretty blue eyes give him away...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Anyway, who'll be sitting with you at the Halloween Ball?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers to Flash)}
+<DIAL>__{I wanna dance... Hey, Spider-Man... Shall we Flash dance? FLASH/SPIDER-MAN Hey, I'm reading the paper, okay?}
+<ACTION>__{LIZ turns with a mild pout. Nervously, PETER ponders his chance. HARRY nudges him.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Take her now, it's easy...}
+<ACTION>__{HARRY turns to KIM and does a clanking shimmy in the SPACE}
+<ACTION_ALT>__{SUIT.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Wanna dance, Schechrezaa?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{I'm pooped.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I'm not...}
+<ACTION>__{She reaches for HARRY'S hand.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Holy jumping jelly beans, willya look at these pictures of Spider-Man? Wow! Is this guy great or what?}
+<ACTION>__{LIZ looks. She shrugs. Then she shrieks.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Hey, Peter! These are your pictures!}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Can't be...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{It says here "Photos by Peter Parker."}
+<ACTION>__{PETER reacts, then looks over FLASH'S other shoulder. INSERT: There are three PHOTOS of SPIDER-MAN in the paper. PETER BLUSHES, smiling.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes off his head mask)}
+<DIAL>__{You know this guy, Parker?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Well, yeah... sort of...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Wow... I'll give you anything if you introduce us.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Liz)}
+<DIAL>__{Will you grant me this dance...?}
+<ACTION>__{LIZ joins him provocatively.}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Hey, Flash-Man... Wanna dance...?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Well, why not.}
+<ACTION>__{PETER is left alone, PETER leaves toward the entrance. At the REAR DOOR a BIG LIZARD passes a NOTE to a DALLAS COWGIRL who passes it to a KANGAROO. The KANGAROO hops across the dance floor to the STAGE where he hands the NOTE to a YOUNG WOMAN in a BASEBALL UNIFORM. She climbs the STAGE where she is bathed in a SPOTLIGHT. She gets a DRUM ROLL from the band. There are some BOOS as the bad stops.}
+<CHAR>__{YOUNG WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Thank you, thank you. We have a special surprise guest tonight.}
+<DIAL_PAR>__{(booo)}
+<DIAL>__{The Empire State University Masquerade Ball presents... The "Slammy" winning star of MTV'S wrestling tournament... The Amazing Spider-Man!}
+<ACTION>__{FLASH, amazed turns to LIZ. He points to himself and mouths, "Me?" (The REAL) SPIDEY drops from the ceiling and lands in a pose. The CROWD cheers. He does a flip to LIZ and extends a hand. The BAND starts up. LIZ demurs.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers firmly)}
+<DIAL>__{Go ahead... go ahead!}
+<ACTION>__{LIZ takes SPIDEY'S hand and they move slowly and sexily onto the dance floor. They do a short simple number. SPIDEY returns LIZ to FLASH.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Flash)}
+<DIAL>__{Come on... Flash...}
+<ACTION>__{FLASH takes LIZ from PETER (SPIDER-MAN). LIZ and FLASH dance wildly. They finish to big cheers. The real SPIDER-MAN slides to center floor. The crowd backs away as SPIDEY spins out the greatest dance number in film history. He's all over the floor and on the walls and on the ceiling and on the GLITTER BALL. He takes LIZ and flies with her. He breaks the place up. Then drops in a pose. BIG CHEERS. LIZ stops breathless, very near to SPIDER-MAN'S face.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers breathless)}
+<DIAL>__{Who are you...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{One day you'll know...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a long beat)}
+<DIAL>__{You sound very familiar. PETER/SPIDER-MAN Sure I do... I'm your friendly neighborhood Spider-Man!}
+<ACTION>__{He jumps away and disappears, leaving the CROWD aghast and LIZ in love.}
+<LOC>__{INT. BEN AND MAY'S FAMILY ROOM - NIGHT}
+<ACTION>__{BEN is flicking through the channels of his TV, aggravated as usual. It's all ROCK VIDEOS!}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to May)}
+<DIAL>__{What a bunch of crap. Goddamn rock and roll's screwed up the whole TV.}
+<ACTION>__{He flicks off the set and turns to MAY who's asleep on the couch. He gently nudges her.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Come on, May. Wake up and go to sleep.}
+<LOC>__{EXT. TAXI - NIGHT}
+<ACTION>__{It enters the EAST RIVER DRIVE.}
+<LOC>__{INT. TAXI - NIGHT}
+<ACTION>__{As the city rolls by.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(fearful)}
+<DIAL>__{Hey! Can't you go any faster?}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{What'm I in, a race? SPIDER-MAN}
+<DIAL_PAR>__{(fighting his fear)}
+<DIAL>__{I don't know... I get this tingling in my brain, like some danger is lurking just ahead. I'm worried about Aunt May and Uncle Ben...}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Your family? SPIDER-MAN Well, they are kind of my parents. They raised me. I lost both of my parents in a car accident... please step on it!}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Step on it... so now you want to kill yourself in another accident... not with me, Boychick. SPIDER-MAN But I'm telling you... I've got this--}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{... tingling... I know. And I got ulcers... Everybody's got something to worry about. SPIDER-MAN Please... Faster... Please.}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Okay, you asked for it.}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{The TAXI skids and swerves like crazy, bumping into everything in sight.}
+<LOC>__{INT. BEN AND MAY'S BEDROOM - NIGHT}
+<ACTION>__{A GLASS SHATTERS. AUNT MAY sits up in bed with a start.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{What's that?}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{What? It's nothing... go back to sleep...}
+<DIAL_PAR>__{(another crash)}
+<DIAL>__{Oh, I'll go look. Go back to sleep.}
+<LOC>__{INT. BEN AND MAY'S KITCHEN - NIGHT}
+<ACTION>__{WEINER is going through the drawers. He finds a nice BONE HANDLE KNIFE and pockets it.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Hmmm...}
+<LOC>__{INT. BEN AND MAY'S LIVING ROOM - NIGHT}
+<ACTION>__{BEN descends the stairs from the bedroom. He peers off into the darkness and pulls his ROBE tight around him as if to ward off some unacknowledged danger.}
+<LOC>__{EXT. TAXI - NIGHT}
+<ACTION>__{TAXI driving fast through STREET.}
+<LOC>__{INT. TAXI - NIGHT}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Some crazy kinda town, huh? You hear about that hold-up? The guy with the six arms? Hey, I see it all on this job.}
+<DIAL_PAR>__{(a beat)}
+<DIAL>__{What kinda outfit is that, anyway? SPIDER-MAN}
+<DIAL_PAR>__{(panicked)}
+<DIAL>__{Look, I'm really in a hurry.}
+<ACTION>__{BANG! A BLOW OUT. The CABBIE fights the wheel to the side of the road. Then he turns to SPIDEY.}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sly)}
+<DIAL>__{You said the magic words, we have a flat Boychick.}
+<LOC>__{INT. BEN AND MAY'S FAMILY ROOM - NIGHT}
+<ACTION>__{BEN comes in and looks around. A long beat. Then a noise.}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Mice...}
+<LOC>__{INT. BEN AND MAY'S DINING ROOM - NIGHT}
+<ACTION>__{A very scared WEINER hides, eyes widening. WEINER takes the BONE HANDLE KNIFE from his pocket. It glints in the MOONLIGHT. He moves off.}
+<LOC>__{INT. BEN AND MAY'S KITCHEN - NIGHT}
+<ACTION>__{BEN is looking for mice. He opens a closet. Nothing. He shifts around. Nothing. He moves off.}
+<LOC>__{EXT. 59TH STREET BRIDGE - NIGHT}
+<ACTION>__{The CABBIE slowly changes the TIRE. Fearing the worst, SPIDEY gets out, looking for a ride. A TRUCK approaches. SPIDEY looks down at the CABBIE and then up at the TRUCK.}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Hey! You wanna hand me that lug wrench?}
+<ACTION>__{He looks up to see SPIDEY go by, stuck to the side of the TRUCK like a spider.}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL>__{Some crazy kinda town...}
+<LOC>__{EXT. THE TRUCK - NIGHT}
+<ACTION>__{SPIDEY stares at the lettering on the side of the TRUCK. It says, "Victory Sporting Goods."}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(a thought)}
+<DIAL>__{Sporting goods...}
+<LOC>__{INT. BEN AND MAY'S DINING ROOM - NIGHT}
+<ACTION>__{BEN comes in quietly. He looks around. He opens a closet. Nothing. He hears a CRASH. He wheels. A SHADOWY FIGURE runs by a doorway! BEN takes off like a shot!}
+<LOC>__{INT. BEN AND MAY'S HOUSE - NIGHT}
+<ACTION>__{BEN runs through the rooms.}
+<LOC>__{INT. BEN AND MAY'S FAMILY ROOM - NIGHT}
+<ACTION>__{BEN flies in and goes right to the RIFLE on the wall. WE hear WEINER clattering around the house in the background as BEN goes to a drawer and pulls out a BOX of BULLETS. He begins to fight the BULLETS into the RIFLE. WEINER comes flying in and tackles him. They fall to the floor, four hands on the RIFLE. They scuffle.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{All I want it the kid's computer crap!}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL>__{Let go before I blow your brain's out.}
+<LOC>__{EXT. FOREST HILLS STREET - NIGHT}
+<ACTION>__{The TRUCK pulls away leaving PETER in a POOL of STREET LAMP LIGHT. He's wearing a FOOTBALL JERSEY and SHORTS and carrying a SPORTS BAG. He begins to run.}
+<LOC>__{INT. BEN AND MAY'S BEDROOM - NIGHT}
+<ACTION>__{MAY hears a CRASH. She pulls the covers up around her chin in fear.}
+<CHAR>__{BEN } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Let go!}
+<CHAR>__{WEINER } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{You let go!}
+<LOC>__{EXT. BEN AND MAY'S HOUSE - NIGHT}
+<ACTION>__{PETER runs up and hears a SHOT. He runs inside.}
+<LOC>__{INT. BEN AND MAY'S FAMILY ROOM - NIGHT}
+<ACTION>__{PETER runs in. He sees WEINER standing there with the RIFLE. They face off across the room. The moment hits PETER like a punch in the chest.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Uncle Ben!}
+<CHAR>__{BEN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a wheeze)}
+<DIAL>__{Peter...}
+<ACTION>__{PETER rushes to BEN.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Oh my God... Uncle Ben...}
+<ACTION>__{PETER tries to revive BEN, while WEINER runs out.}
+<LOC>__{INT. HOSPITAL WAITING ROOM - NIGHT}
+<ACTION>__{PLASTIC FURNITURE, GARISH LIGHTING, CIGARETTES in the}
+<ACTION_ALT>__{ASHTRAYS.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a brave but fragile front)}
+<DIAL>__{Ben gets through everything. He'll be alright. The doctors are...}
+<ACTION>__{AUNT MAY and PETER embrace, leaning on each other for support.}
+<CHAR>__{DETECTIVE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(compassionate)}
+<DIAL>__{Excuse me. You the nephew?}
+<ACTION>__{PETER rises, nods. As AUNT MAY wipes away a sniffle...}
+<CHAR>__{DETECTIVE} <CHAR_PAR>__{}
+<DIAL>__{Your uncle's a brave man. Apparently, the perpetrator was after something of yours. Your uncle didn't know what it was but he stood up to him anyway. You ought to be proud of him.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{I am... how is he...}
+<ACTION>__{A grim-faced DOCTOR walks slowly across the room to them... MAY stands up slowly.}
+<CHAR>__{DETECTIVE} <CHAR_PAR>__{}
+<DIAL>__{Ask the Doctor.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{How's my... how's my husband doing...?}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Parker, I'm sorry. We tried.}
+<ACTION>__{MAY collapses.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Crash cart! STAT!}
+<ACTION>__{The Detective pulls PETER gently away. The STAFF works on}
+<ACTION_ALT>__{MAY.}
+<CHAR>__{DETECTIVE} <CHAR_PAR>__{}
+<DIAL>__{Let the medics handle it.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Look, if it makes you feel any better. We're gonna nail this guy. He crashed his getaway car. We got him trapped in a warehouse on Jackson.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Peter)}
+<DIAL>__{She's alright. She just fainted. We'll have to check her for symptoms of shock. If you want to wait, you can get some coffee on the third floor.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{No, I... I think I wanna go out for some fresh air.}
+<LOC>__{EXT. WAREHOUSE - NIGHT}
+<ACTION>__{COP CARS, COPS, SEARCHLIGHTS playing their BEAMS against the ACME CHEMICAL STORAGE BUILDING. GUNFIRE flashes from one of the WINDOWS.}
+<LOC>__{EXT. COP CAR - NIGHT}
+<ACTION>__{ELITE COPS in BASEBALL CAPS are plotting strategy.}
+<DIAL>__{COP #1 That place is loaded with solvents and chemicals. If we blast our way in, it's gonna go up like a roman candle. COP #2 We could go in through the fifth floor wash room. COP #1 What's that up there? Throw a light on that!}
+<ACTION>__{COP #1 directs the BEAM of the SEARCHLIGHT.}
+<LOC>__{EXT. WAREHOUSE WALL - NIGHT}
+<ACTION>__{SPIDER-MAN is climbing it, trapped in the GLARE of the SEARCHLIGHT. He freezes.}
+<DIAL>__{COP #1 He's got a partner!}
+<LOC>__{EXT. COP CAR - NIGHT}
+<ACTION>__{Every COP'S WEAPON is trained upward at SPIDER-MAN!}
+<DIAL>__{COP #2}
+<DIAL_PAR>__{(on radio)}
+<DIAL>__{We got an accomplice up there! And we got a clear shot. Do we have a go?}
+<CHAR>__{RADIO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(filtered)}
+<DIAL>__{That's a go.}
+<LOC>__{EXT. WAREHOUSE WALL - NIGHT}
+<ACTION>__{GUNSHOTS erupt around SPIDER-MAN and he skitters around to evade them.}
+<LOC>__{INT. THE WAREHOUSE - NIGHT}
+<ACTION>__{Thinking they're shooting at him, WEINER shoots back. In the corner of his eye he sees SPIDER-MAN at a side WINDOW. He aims his rifle and SPIDEY ducks out of the way. The frightened WEINER moves to the side WINDOW to blow SPIDEY away. As he moves past the front WINDOWS he is lit by the SEARCHLIGHTS that play on his face darkly. SPIDEY leaps in at FRONT WINDOW and drops neatly behind WEINER, landing a pose.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(cold, hard)}
+<DIAL>__{Say your prayers, Weiner!}
+<ACTION>__{WEINER whips around and fires. SPIDEY leaps to avoid it and lands on a STACK of PAINT CANS.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{You ain't takin' me... Spider-Man... who ever you are...}
+<ACTION>__{SPIDEY gathers himself tighter. He leaps. A second GUN BURST comes in behind him, Several PAINT CANS erupt in cascades of COLOR.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(hanging on ceiling)}
+<DIAL>__{Hey, creep!}
+<ACTION>__{WEINER aims and fires, several times. He is emptying his RIFLE. SPIDEY leaps away and lands on the top of a CASK marked "CAUTION-FLAMMABLE SOLVENT!"}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(taunting)}
+<DIAL>__{Try again.}
+<ACTION>__{The CASK gives way and SPIDEY is plunged into the FLAMMABLE SOLVENT. WEINER smiles his stupid grin and takes aim. SPIDEY leaps out of the CASK and sticks to the roof BEAM. He's sopping wet. His hand slips down the BEAM as the SOLVENT works against his sticking power. He falls to the floor and scrambles behind some PAINT CANS. WEINER, crazed, fires wildly. One of the CANS EXPLODES. PAINT flows from it... burning! SPIDEY peeks out and sees a YELLOW RIVER OF FLAME creeping toward him. He sniffs his SOLVENT soaked outfit. He backs down a "corridor" of PAINT CANS. The YELLOW FIRE follows, now joined by a RIVER OF BLUE FIRE from another can. They're following the trail of SOLVENT he's dripping! He's trapped!}
+<CHAR>__{COP } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(on bullhorn)}
+<DIAL>__{This is your last chance, you two. Either you're coming out, or we're coming in!}
+<ACTION>__{SPIDEY'S against the WALL! PAINT CANS to his right and left, and a RIVER of RED FLAME joins the YELLOW and BLUE as they creep toward him! He climbs backwards up the wall, face toward the BLAZE. The COLORED FIRES join and follow him up the wall! They're licking at his feet!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(at the window)}
+<DIAL>__{Stay back!}
+<DIAL_PAR>__{(gun burst)}
+<DIAL>__{Whoa... stay back down there!}
+<ACTION>__{SPIDEY is inches from being torched. He sees a PIPE. He reaches out and grabs it. He swings out above the flames. But the PIPE begins to bend! The PIPE bends down... down... and then breaks! SPIDEY hangs precariously as WATER cascades out of the PIPE and puts out the FIRE. SPIDEY drops down and rest his head in his hands to collect himself. Then looks up. The GUN is at his head.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Stand up, you.}
+<ACTION>__{SPIDEY stands.}
+<CHAR>__{COP } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{You have thirty seconds to come out!}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{You're my ticket outa here. Gimme that stupid mask!}
+<ACTION>__{SPIDER-MAN hesitates. Then he begins to raise the MASK, but stops and shakes his head no.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Then I'll take it myself.}
+<ACTION>__{He reaches for the mask and SPIDER-MAN flips him across the room. WEINER lands in a CARGO net and becomes ensnared.}
+<DIAL>__{SPIDER-MAN Well, look what we've caught in our web...}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Don't hurt me, man. Please don't hurt me...}
+<LOC>__{INT. WAREHOUSE HALLWAY - NIGHT}
+<ACTION>__{COPS are poised at the door. A signal. They crash inside.}
+<LOC>__{INT. WAREHOUSE PAINT ROOM - NIGHT}
+<DIAL>__{COP #1 Hold your fire!}
+<ACTION>__{WEINER is hanging from the ceiling in the the CARGO NET.}
+<CHAR>__{WEINER} <CHAR_PAR>__{}
+<DIAL>__{Get me out of this madhouse!}
+<ACTION>__{He falls down, immediately encircled by the POLICE OFFICERS. SPIDER-MAN flies above their heads, crashing through the WINDOW and disappears into the dark of night.}
+<LOC>__{INT. CYCLOTRON - NIGHT}
+<ACTION>__{A weird, flickering BLUE LIGHT dances around the hole in the CYCLOTRON. Then it cuts out. A HELMETED MAN pulls himself out of a HATCH. He flips up the HELMET. OCK is finishing putting together his new equipment.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiling)}
+<DIAL>__{Okey, dokey.}
+<ACTION>__{OCK goes about checking out the CYCLOTRON. It looks good.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{OCK starts flicking switches and reading DIALS, doing a "mission countdown" for his next experiment. This place has been "hot rodded" to the max.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading dials and numbers)}
+<DIAL>__{Amperage, okay. Flux, 14. Negative variable differential... good enough.}
+<ACTION>__{He shuts it down. The WHINE whirs down.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey... now all I need is Parker's data. Where the hell is Weiner? Damn it... I can't trust anybody.}
+<DIAL_PAR>__{(throws his Waldo in the air)}
+<DIAL>__{Only you, my babies... only you can I trust... Okay... If I have to do everything myself... I'm going to do it.}
+<DIAL_PAR>__{(to his equipment)}
+<DIAL>__{I'll be back... my babies... my new babies!}
+<ACTION>__{OCK hides the WALDOS under his coat and leaves the room.}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{There is more EQUIPMENT than before. PETER is deep at work. His SPIDER-MAN UNIFORM hangs on the WALL. There is a knock at the DOOR.}
+<CHAR>__{LIZ } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Hey, Peter! Are you finished with my computer yet? I got a paper too, you know...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(panicked)}
+<DIAL>__{Oh my God... oh, it's you, Liz... I didn't expect you... uh... give me a minute.}
+<ACTION>__{He hides his SPIDER-MAN COSTUME.}
+<LOC>__{INT. THE HALLWAY LANDING - NIGHT}
+<ACTION>__{LIZ waits impatiently.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(opening the door)}
+<DIAL>__{Hi, Liz. Come on in.}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{LIZ enters, looking around. PETER covers for this and that.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{What were you doing in here?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking around)}
+<DIAL>__{Cleaning up. Come on. I'll get your computer. Where's Flash parked?}
+<ACTION>__{He picks up the COMPUTER and turns to her, but she's already looking around the apartment.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Flash didn't come.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(holding it)}
+<DIAL>__{Oh. Well... how are you going to get it home?}
+<ACTION>__{LIZ walks into the room.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Taxi... I guess.}
+<ACTION>__{She discovers the PRINTS of SPIDEY that PETER has taped up around the apartment.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{You must spend a lot of time with this Spider-Man guy... Peter! Don't you think you ought to unplug that!}
+<ACTION>__{PETER looks and sees that he is tethered to the wall. Embarrassed, he puts the COMPUTER back down.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed)}
+<DIAL>__{I, uh, I'll go down to the corner... see it I can hail that taxi.}
+<ACTION>__{PETER leaves. LIZ smiles. She likes PETER. Why is he so...?}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{A SHADOW of a MAN can be seen hiding. PETER does not notice him.}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{There's a KNOCK at the DOOR.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(crossing to it, wondering)}
+<DIAL>__{Peter...?}
+<ACTION>__{She is about to open the door when FOUR WALDOS smash through it, obliterating it. OCK stands in the shattered doorway, WALDOS writhing.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Doctor Octavius...! You're... You're...}
+<DIAL_PAR>__{(finds the words)}
+<DIAL>__{You're so weird!... with those... what do you call those...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Waldos... Did you hear about Spider-Man?}
+<DIAL_PAR>__{(moving Waldos like spider's legs)}
+<DIAL>__{That's me... the real Spider-Man... now tell me, where is that jerky friend of yours... Parker?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(protecting)}
+<DIAL>__{Peter?... oh... he's not here. He's gone. I don't think he'll be back for awhile.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(running his Waldo in her hair)}
+<DIAL>__{You wouldn't lie to your Professor now, would you?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Of course not. Why would I lie about a thing like that? Really. He's... out.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{We'll wait. OCK grabs LIZ'S HAIR with his WALDOS.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{What are you doing... let me go! Please... take those things out of my hair!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{My Waldos, you mean.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Whatever you call them... please...}
+<ACTION>__{OCK shoots out TWO WALDOS. Simultaneously each grabs a CHAIR from different parts of the room and brings them to the TABLE.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Sit.}
+<ACTION>__{She does. He does, too, and folds his WALDOS across his chest.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(chatty)}
+<DIAL>__{He's a nice boy. A little nerdy maybe, but nice, wouldn't you say?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, I don't know. Maybe. He's very inexperienced.}
+<ACTION>__{ONE of OCK'S WALDOS rests on the TABLE curled around the COMPUTER. LIZ lets her hand rest on it. OCK warms immediately.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You know, you're a fascinating young lady...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Thank you...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You're so refreshing. You're so...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Shocking...?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gone to far)}
+<DIAL>__{Oh, I wouldn't say shocking...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I would!}
+<ACTION>__{She sticks his WALDO in the ELECTRIC WALL SOCKET behind the COMPUTER! The CURRENT sizzles through him and he leaps up, WALDOS akimbo, like the "cartoon cat." LIZ runs out the door. OCK extricates himself from the current and gives chase.}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{LIZ burst from the DOOR.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter...!}
+<ACTION>__{She looks both ways for PETER, doesn't see him, and takes off! OCK bursts from the doorway and runs off after LIZ.}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{LIZ running as fast as she can, but OCK is gaining quickly.}
+<LOC>__{EXT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{A TAXI drives up and disgorges PETER.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Wait here...}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{He walks in. It's empty}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Liz?}
+<CHAR>__{LIZ } <CHAR_PAR>__{(V.O.)}
+<DIAL_PAR>__{(screaming from the street)}
+<DIAL>__{Peter! Help! Peter!}
+<ACTION>__{PETER springs into action. He grabs his SPIDEY SUIT out of a drawer and starts taking off his clothes.}
+<LOC>__{EXT. STREET - NIGHT}
+<ACTION>__{LIZ looks back and sees OCK CARTWHEELING toward her. She can't outrun him. She must hide. There's a CONSTRUCTION SITE on the right. She ducks down the alley next to it.}
+<LOC>__{INT. CONSTRUCTION ALLEY - NIGHT}
+<ACTION>__{LIZ runs into it and finds herself trapped on three sides by a high CYCLONE FENCE. Behind her, OCK'S WALDOS stretch out like waterbug legs. He bug-walks into the alley and laughs down at her from his perch atop the WALDOS.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Peter Parker has something I want... And I'm going to have something he wants.}
+<ACTION>__{She dashes past him and runs into the outboard CARGO}
+<ACTION_ALT>__{ELEVATOR.}
+<LOC>__{INT. ELEVATOR - NIGHT}
+<ACTION>__{She looks for the UP BUTTON and finds nothing! OCK, on his feet now, is on the wire mesh ELEVATOR CAGE in a flash. He tears the outer DOOR away. LIZ starts pressing KNOBS and LEVERS in panic. The LIGHT goes on. A WARNING BELL clangs. She finally finds the switch and the CAR leaps up just as OCK tears off its front door. LIZ, safe for the moment, watches OCK recede below, shaking the torn off door in a rage.}
+<LOC>__{EXT. CONSTRUCTION SITE - NIGHT}
+<ACTION>__{Extending WALDO over WALDO, OCK climbs the ELEVATOR HOUSING chasing the rising CAR inside.}
+<LOC>__{EXT. CONSTRUCTION ROOF - NIGHT}
+<ACTION>__{The CAR arrives and LIZ jumps out. She's on nothing but a narrow GIRDER! She tightropes on the GIRDER. OCK gets to the top. He looks across at her. She's stuck between two unfastened GIRDERS, at a dead end. He slowly telescopes a WALDO toward her. She's got no place to run, no place to hide. He grabs her by the BLOUSE and lifts her off the}
+<ACTION_ALT>__{GIRDER.}
+<DIAL_PAR>__{SPIDER-MAN (V.O.)}
+<DIAL>__{Put her down, Ock.}
+<ACTION>__{OCK looks across the street. There, on the top of a tall building, is SPIDER-MAN.}
+<DIAL>__{SPIDER-MAN I know what's happening to you, Ock. I've been through a lot of changes myself lately. You have to listen to me.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(holding Liz)}
+<DIAL>__{Who the hell are you? SPIDER-MAN Spider-Man.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(seeing Spidey)}
+<DIAL>__{Spider-Man...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{That's a lot of crap, clown... I am Spider-Man, not you.}
+<DIAL_PAR>__{(points to Liz)}
+<DIAL>__{Ask you girlfriend.}
+<DIAL_PAR>__{(to Liz)}
+<DIAL>__{Tell him! SPIDER-MAN I'm a good friend of Peter Parker's Ock. Just like that girl you're holding. Now let her go.}
+<ACTION>__{OCK thinks for a moment, then he begins to extend the kicking and screaming LIZ out over the street, ten stories up.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Let her go? What an excellent idea. If you do not deliver your friend, Mr. Spider-Man, yes. Yes, of course, I'll let her go.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Put me down, you mechanical mutant!}
+<ACTION>__{LIZ is having none of this. She kicks, she fights. She twists. She flails around, making things a little worse. The ground is yawning death beneath her. RRIIPP! PART of her BLOUSE tears away and LIZ plummets! SPIDER-MAN swoops down on a WEB-STRAND in his characteristic compound curve. He reaches out for the falling LIZ and misses her cleanly. The WEB is too short.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(falling away)}
+<DIAL>__{You jerk!}
+<ACTION>__{He THWIPS her with a second WEB and together they swing to a HIGH GIRDER where he deposits her safe and sound.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(straightening herself)}
+<DIAL>__{Tell your friend Peter next time I'll get the taxi myself...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screams)}
+<DIAL>__{Hey... you jerk... you phony Spider-Man... Prepare to meet your death, bug.}
+<ACTION>__{SPIDEY THWIPS a beam and swings across toward OCK.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Actually, I'm rather fond of living... especially now...}
+<DIAL_PAR>__{(he looks at Liz)}
+<ACTION>__{He lands on OCK'S GIRDER and the two progeny of the cyclotron face off for the first time, ten stories above the street.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(a last appeal to reason)}
+<DIAL>__{Octavius. Just stop and think.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I am thinking, insect. I'm thinking about exterminating you! SPIDER-MAN Okay, if that's the way you want it... Let's see what those chrome knuckles can do, Doc...}
+<ACTION>__{A WALDO lances out and catches SPIDEY flush on the jaw. It knocks him to another GIRDER. SPIDEY hangs on and rolls over. He rubs his jaw.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Great...}
+<ACTION>__{SPIDEY gets ready to go into action and gets pummeled by another barrage of blows from above.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Now I must kill you, you cretinous clown.}
+<ACTION>__{OCK throws a roundhouse WALDO that nearly knocks SPIDEY off the GIRDER. He's just barely hanging on. But SPIDER-MAN'S not done yet. He THWIPS a HIGH BEAM and swings into a better attack position. The two SUPER- ADVERSARIES engage in battle. With OCK swinging from his WALDOS like a metal monkey and SPIDEY swinging from his WEBS like, well, like SPIDEY, they clang and bang through the GIRDERS of the}
+<ACTION_ALT>__{CONSTRUCTION SITE.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Once I dispose of you, Spider-Man, no one will be able to stop me. SPIDER-MAN Stop you from what...?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{My destiny!}
+<ACTION>__{OCK throws his biggest punch yet. SIRENS can now be heard in the street. SPIDEY avoids WALDO strike after WALDO strike. OCK eludes WEB after WEB. But SPIDEY'S agility soon has him turning circles.}
+<DIAL>__{SPIDER-MAN Over here, Octopus!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{That's Professor Octopus to you Spider Jerk! SPIDER-MAN Give it up, Professor. You'll never catch me!}
+<ACTION>__{OCK takes three steps and soars through the air.}
+<LOC>__{EXT. BRICK WALL - NIGHT}
+<ACTION>__{OCK, misjudging the leap, soars right past SPIDEY and into an alley! Screaming all the way...}
+<LOC>__{EXT. THE ALLEY - NIGHT}
+<ACTION>__{OCK and TWO WALDOS pressed against each of the opposing walls. It's a tenuous grip. Then, very slowly, sparks flying from his WALDOS, OCK slides down into the alley.}
+<DIAL>__{SPIDER-MAN So long, sucker.}
+<LOC>__{EXT. STREET - NIGHT}
+<ACTION>__{COP CARS pull up. COPS leap from them.}
+<LOC>__{EXT. SIDE WALL - NIGHT}
+<ACTION>__{OCK makes it down, sees the COPS, ducks out of sight.}
+<LOC>__{EXT. COP CARS - NIGHT}
+<ACTION>__{The SEARCHLIGHTS go on. SPIDER-MAN swings back across the street to the CONSTRUCTION SITE.}
+<DIAL>__{COP #1 There he is! COP #2 It's that Spider-Man!}
+<LOC>__{EXT. THE ROOF - NIGHT}
+<ACTION>__{SPIDEY lands next to LIZ in a pose. Lit by the flashing BILLBOARD, he's weirder looking than ever. SPIDEY puts an arm around LIZ and extends a WEB SHOOTER.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{What do you think you're doing? SPIDER-MAN I'm rescuing you.}
+<ACTION>__{With that SPIDEY leaps way out and he and LIZ swoop away on a WEB-STRAND.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Thanks but nooooooooooo!}
+<LOC>__{EXT. THE COP CARS - NIGHT}
+<ACTION>__{ALL WEAPONS point upward at SPIDEY'S movement.}
+<DIAL>__{COP #2 He won't get away this time! COP #1 Hold your fire! He's got a girl. COP #2 Looks like he's got a hostage.}
+<LOC>__{EXT. WEB STRAND - NIGHT}
+<ACTION>__{SPIDEY sees the WEAPONS aimed upward. He shoots out another WEB and swings off in a different direction. LIZ whoops with the G-force.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute. Where are you taking me? SPIDEY hounded by the Police, rejected by the girl. SPIDER-MAN I better just take you back where you belong.}
+<ACTION>__{He shoots out another WEB.}
+<DIAL>__{SPIDER-MAN Hold on tight.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Times Square)}
+<DIAL>__{Where are we? SPIDER-MAN Open your eyes.}
+<ACTION>__{They are standing on the ROOF of the CENTRAL TOWER of the EMPIRE UNIVERSITY BUILDING. LIZ opens her eyes. It's an extraordinary sight.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(the Empire State Building)}
+<DIAL>__{If you're trying to impress me Spidey, I want you to know I'm not easy. Okay, I'm impressed... now put me down, Spidey... put me down. SPIDER-MAN I like the way you say Spidey... Nobody calls me Spidey... now we go...}
+<LOC>__{EXT. DORMITORY - NIGHT}
+<ACTION>__{They swoop down... and down... stopping on one of the building's SILLS, actually right in front of a WINDOW in the DORMITORY BUILDING.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Tavern on the Green)}
+<DIAL>__{Wow... look, this is our dormitory. I can get to my room. Hey, wait a minute... there's Flash, if I'm not mistaken. SPIDER-MAN Liz?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{You know my name? SPIDER-MAN Liz, listen to me. There's something I have to tell you.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Okay, put me down and we can talk, alright? SPIDER-MAN Do you know who I am?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{All I know is you're the Amazing Spider-Man... or better you're Spidey the good guy on the block... you're a weirdo in a clown spider suit. SPIDER-MAN And that's all you know about me?}
+<DIAL_PAR>__{(a beat, a sigh)}
+<DIAL>__{Okay, lets get your boyfriend.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Which one? SPIDER-MAN How many do you have? I meant Flash.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Well, Flash is not exactly my boyfriend... SPIDER-MAN He's not? Then who is?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{There's someone I like, but he's too shy to notice.}
+<DIAL_PAR>__{(Flash appears)}
+<DIAL>__{SPIDER-MAN Flash!}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Liz!}
+<DIAL_PAR>__{(a beat)}
+<DIAL>__{SPIDER-MAN!!!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spider-Man)}
+<DIAL>__{You know everybody... Flash we have to call Peter!}
+<ACTION>__{FLASH rushes right past LIZ to the WINDOW. There's a NEWSPAPER in his hand.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Hey, they won't let up, man!}
+<DIAL_PAR>__{(shows Daily Bugle)}
+<DIAL>__{They keep calling you an accomplice in that burglary murder. But that's a crock, ain't it? I'm with you, Spidey, 100% SPIDER-MAN Thanks.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(realizing)}
+<DIAL>__{By the way, what are you doing with... Liz? SPIDER-MAN She needed a lift.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Oh... okay! This calls for a beer! A lot of beer! SPIDER-MAN Thanks, but I have some business to take care of.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Well... take care of that later. Wait here. I'll get the beer.}
+<ACTION>__{He disappears. LIZ comes, tentatively, to the WINDOW where SPIDEY squats, desire and passion in his WHITE EYES.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(accusatory)}
+<DIAL>__{How'd you know this was Flash's place? SPIDER-MAN Peter Parker told me all about it.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter told you all about Flash? SPIDER-MAN No... he told me all about you. See you later.}
+<DIAL_PAR>__{(he jumps away)}
+<LOC>__{INT. DORM - NIGHT}
+<ACTION>__{FLASH comes in with more BEER than a man ought to carry.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Hey, where'd he go? Hey, Spider-Man!!}
+<ACTION>__{But SPIDER-MAN has disappeared.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(distracted)}
+<DIAL>__{Peter told your Hero all about me...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{He would, wouldn't he... that jerk!}
+<LOC>__{EXT. PETER PARKER'S ROOF - NIGHT}
+<ACTION>__{SPIDER-MAN lands on it. He drops in the SKYLIGHT.}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{He drops into the room and pulls off his MASK. The place has been ransacked. COMPUTER DISCS are all over the floor. PETER pulls a file marked "Planetary Conjunction." He opens it. A piece of PAPER falls out. It says, "Kiss it goodbye, Wall Crawler!"}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers angrily)}
+<DIAL>__{Octavius!!!}
+<LOC>__{EXT. EMPIRE STATE UNIVERSITY QUAD - DAY}
+<ACTION>__{PETER is hurrying along. KIM in sunning herself wonderfully.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hurrying by)}
+<DIAL>__{Kim! Have you seen Harry?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Sure, lots of times. What a brainiac...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yeah... have you seen him today?}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{No, un unh.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(catching up)}
+<DIAL>__{Peter...!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(keeps walking)}
+<DIAL>__{Hi... have you seen Harry?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{No. What a night, huh?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Yeah, that was some ride home... must have been pretty exciting.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{It was... okay. Look, I got two tickets to Les Miserables... wanna go?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Sorry... I'm really busy... I mean, not tonight... see you later.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(thinking)}
+<DIAL>__{Hey, Peter... how did you know about last night...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{What about last night?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{My exciting ride with Spider-Man...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Oh... Sorry... I gotta hurry... I have to find Harry... I'll see you later.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter!}
+<ACTION>__{PETER runs off. He sees a car approach and flags it.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Hey! Can I get a lift downtown?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Take your shoes for a walk, Dork.}
+<ACTION>__{FLASH gets out of his car, and crosses the lawn toward}
+<ACTION_ALT>__{LIZ.}
+<LOC>__{INT. CONTROL ROOM - DAY}
+<ACTION>__{OCK is hard at work. The room, still rippled, has been "hot rodded" to the max. Lots of jerry-rigged stuff has been added. OCK takes a sip from the THERMOS and flicks on the small}
+<ACTION_ALT>__{TAPE RECORDER.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{We are new inserting Peter Parker's data on tonight's Planetary Conjunction.}
+<ACTION>__{INSERT: The COMPUTER SCREEN displays Peter Parker's name and ID number and the title, "The Planetary Conjunction and it's effect on Earth Gravity."}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Yes, yes! Go on! Go on!}
+<ACTION>__{INSERT: NUMBER SEQUENCES appear on the SCREEN. Then a GRAPHIC of the EARTH moving into line with SATURN, JUPITER, the SUN and the MOON. In the corner a NUMBER rises.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Enormous. It's enormous.}
+<DIAL_PAR>__{(to recorder)}
+<DIAL>__{The Parker calculations add 4% gravitational force at the moment of full Planetary Conjunction.}
+<DIAL_PAR>__{(hits some keys)}
+<DIAL>__{Adding this to present maximum power potential, I get...}
+<ACTION>__{He looks up and sees the SCREEN a GRAPHIC "HOLE" opening up right through the EARTH! The widening HOLE is swallowing everything!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{I knew it. I knew it! Universal destruction! It's doable! I am putting a countdown clock on the Planetary Conjunction now!}
+<ACTION>__{A LARGE DIGITAL DISPLAY reads, "13:00:03." The last seconds count down to, "12:59:59!"}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(playing the computer)}
+<DIAL>__{Okey, dokey. Now let's see if I have enough power to drive this beast.}
+<ACTION>__{He starts hitting KEYS on his COMPUTER.}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{PETER is working on LIZ'S COMPUTER. There is a KNOCK at his brand new, unpainted DOOR. He hurries to it and pulls the KNOB so quickly (forgetting his own strength) that the whole assembly comes off in his hand.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pulling Harry aside)}
+<DIAL>__{I gotta remember to have that fixed.}
+<DIAL_PAR>__{(opens the door)}
+<DIAL>__{There you are, I've been looking for you all over town.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{What happened?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Where were you?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{I went to the wrestling, wanted to see that Amazing Spider-Man, but he didn't show up.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Listen, Harry something terrible happened.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{What? What?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{My Planetary Conjunction papers... they were stolen...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Oh my God... Are you sure...? Who would do such a thing?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Ock...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Of course... but why...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{We have to find out, sit down.}
+<DIAL_PAR>__{(indicates computer)}
+<DIAL>__{I want to access Dr. Octavius' main program. I want to know about his experiments with the cyclotron. Can you do it?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(starts hacking)}
+<DIAL>__{I can try. I could access the system in the dorm. Okay. And through that I could crack the main line.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Alright. Now if we can just disrupt the Octavius file...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Okay, let's try.}
+<ACTION>__{HARRY cracks his knuckles like a safe cracker and bends to the task. The PHONE RINGS. PETER hits his jerry-rigged SPEAKER PHONE. HARRY keeps hacking.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{JAMESON } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Parker? Peter Parker? This is J. Jonah Jameson!}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking over Harry's shoulder)}
+<DIAL>__{Mr. Jameson, you got me at a bad time.}
+<CHAR>__{JAMESON } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{I need pictures of your friend, the Amazing Spider-Man. But I need bad guy shots, you got it? Lots of bad guy shots. We're gonna pin that insect to the wall. Whaddaya say?}
+<ACTION>__{PETER hangs up. The DIAL TONE cuts off JAMESON.}
+<LOC>__{INT. JAMESON'S OFFICE - NIGHT}
+<ACTION>__{Only he and the PHOTO ASSISTANT are there.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL>__{What about that kid? On the job already?}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{OCK is pacing around the hot rodded room. He checks this and that. He looks at the COUNTDOWN CLOCK (06:00:10) and throws himself down in his CHAIR. He resumes his check- down.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Fusion cells...? All up. Internal temperature... okay. Risk?}
+<DIAL_PAR>__{(a long beat)}
+<DIAL>__{Acceptable.}
+<DIAL_PAR>__{(another beat)}
+<DIAL>__{Let's fly.}
+<ACTION>__{He starts flicking on SWITCHES and DIALS. The WHINE whirs up. He throws the RED POWER THROTTLE. The POWER DIAL goes to 90!}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{PETER and HARRY are at a COMPUTER. The LIGHTS flicker and dim. Then they go back on. PETER and HARRY look at each other and shrug.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Got something!}
+<ACTION>__{INSERT: DIGITAL CLOCK display: "06:00:03"}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{What is it?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Let me see. It's some kind of countdown clock.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Countdown to what?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{I don't know, but whatever it is, it's only six hours away.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{The Planetary Conjunction?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Could be...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Or Doc Ock's end of the world experiment... Or both!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute. You're not telling me you think the world is gonna end tonight...?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{You want to wait around till midnight to find out?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{No, but...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Let's see what else we've got.}
+<ACTION>__{Another set of numbers roll up on the SCREEN. They are accompanied by ELECTRICAL SYMBOLS.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{What's that?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{It might be a calculation of the amount of power he needs to create the hole between the force and the anti-force.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{That's a lot of energy. What could generate power like that?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{The closest you could come is the New York City Subway System.}
+<ACTION>__{Again, the lights flicker and then dim and they return. HARRY/PETER}
+<DIAL_PAR>__{(together)}
+<DIAL>__{We gotta talk to Professor Rosomorf!!}
+<LOC>__{INT. BROADWAY EXPRESS - NIGHT}
+<ACTION>__{ROZ boards and takes a seat. There are the usual SUBWAY TYPES. A FAT WOMAN. A PIMPLY TEENAGER and his date, a TALL SKINNY GIRL in a PARTY DRESS. ROZ, making notations in a PAD, takes no notice of them. He sits down, closes his PAD, and taps a PENCIL against his chin.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Plutonium...}
+<LOC>__{EXT. MAJOR INTERSECTION - NIGHT}
+<ACTION>__{TAXIS go by. TWO LOVERS stroll. We hear a familiar WHINE. The "WALK" and "DON'T WALK" signs FLASH at the same time.}
+<ACTION_ALT>__{BOY}
+<ACTION>__{Make up your mind! The signs EXPLODE! The COUPLE stops in their tracks. The BOY looks at the GIRL.}
+<CHAR>__{GIRL} <CHAR_PAR>__{}
+<DIAL>__{What's going on?}
+<ACTION>__{An ARC of ELECTRICITY now shoots between the LIGHT PILLARS of the SUBWAY STATION on the corner.}
+<LOC>__{INT. BROADWAY LOCAL - NIGHT}
+<ACTION>__{SPARKS fly by the window. ROZ, oblivious at first, is now stunned by the show.}
+<LOC>__{EXT. SUBWAY TRAIN ENTRANCE - NIGHT}
+<ACTION>__{The ARCS of ELECTRICITY continue to rise. The STREET LIGHTS buckle and bend into weird shapes.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh my God!}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL>__{Get back! Get back!}
+<LOC>__{EXT. INTERSECTION - NIGHT}
+<ACTION>__{TWO TAXIS roar through the intersection and COLLIDE. The ETHNIC DRIVERS leap out and begin arguing.}
+<LOC>__{INT. TRAIN - NIGHT}
+<ACTION>__{PEOPLE SCREAM and fall back as the TRAIN seems to change angles.}
+<LOC>__{EXT. SUBWAY ENTRANCE - NIGHT}
+<ACTION>__{A building ROAR rises from the SUBWAY ENTRANCE. Then the sound of a TRAIN WHISTLE! The BOY looks down the STAIRS and has to leap out of the way as the BROADWAY EXPRESS comes highballing up the STEPS and blasts through the SUBWAY entrance. The TRAIN sails through the air.}
+<LOC>__{EXT. LUXURY CONDO HIGH-RISE - NIGHT}
+<ACTION>__{The TRAIN crashes into the building in a storm of cyclotron generated Dali physics.}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{The THROB and PULSE recede. SCREAMS, HONKS, SIRENS can be heard.}
+<LOC>__{EXT. LUXURY CONDO HIGH-RISE - NIGHT}
+<ACTION>__{A splendidly turned out MIDDLE-AGED WOMAN wakes from her satin sleep to see that a SUBWAY TRAIN is in the middle of her BEDROOM. The WALL through which the train has come sags and ripples like it has melted and partially resolidified.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Henry!!!}
+<ACTION>__{Several PASSENGERS climb out of the WINDOWS of the TRAIN or pry open the DOORS.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{What are you doing here? Get out of here! Get out of here!}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{A CROWD has gathered to gawk and point. They look up and we see their POV. The MIDDLE CAR of the TRAIN is simply "embedded" in the HIGH-RISE, its rear sticking out of the building fifteen stories up. From its COUPLING dangles the LAST CAR.}
+<LOC>__{INT. MIDDLE CAR - NIGHT}
+<ACTION>__{The car is bisected in the middle by the fused brick and glass of the WALL of the building. PASSENGERS on the outside of the WALL press their faces to the GLASS and pound for help. ROZ comes to the aid of a MOTHER with TWO CHILDREN.}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{The CROWD sees something else. Swinging high in the sky is your friendly neighborhood SPIDER-MAN. The COUPLE and TWO DRIVERS argue about what this means.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{It's Spider-Man! TRUCK DRIVER #1 Get outa here, you bum!}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Hey, what are you talking about?! TRUCK DRIVER #2}
+<DIAL_PAR>__{(back at woman)}
+<DIAL>__{What's the matter, lady don't you read the papers?}
+<ACTION>__{This is the DRIVER of a DAILY BUGLE truck carrying the historically famous Bugle headline, "Spider-Man - Threat or Menace?"}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL>__{Go Spidey! Go!}
+<LOC>__{INT. LAST CAR - NIGHT}
+<ACTION>__{It's nearly vertical! People are tumbled over each other. The scared TEENAGER is tearing at the door. The SKINNY GIRL screams in a mechanical way. The DOOR opens. He nearly falls! The SKINNY GIRL screams again. He manages to get back inside. She looks at him, safe now. But she screams again anyway. ROZ struggles to right himself against a pole. A BAG OF GROCERIES goes sliding past him. It continues downward and out the OPEN DOOR. INSERT: The BAG tumbles down through the air. Down, down, and down...}
+<LOC>__{INT. MIDDLE CAR - NIGHT}
+<ACTION>__{SPIDEY'S face appears in the WINDOW upside down.}
+<DIAL>__{SPIDER-MAN Hello, everybody...}
+<ACTION>__{He slides the WINDOW down and flips inside. He walks through the parting PASSENGERS to the BUILDING WALL. He feels it.}
+<DIAL>__{SPIDER-MAN Okay, everyone, stand back and stay cool.}
+<ACTION>__{He hurls himself at the fused GLASS portion and bounces back onto the floor. He rolls over, flexing his shoulder.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whining)}
+<DIAL>__{Is that the real Spider-Man?}
+<ACTION>__{SPIDEY does a TRIPLE FLIP to his feet. He reaches up for the overhead RAILING and pulls it down easily. Oohs and aahs. SPIDER-MAN points it at the GLASS and hefts it.}
+<DIAL>__{SPIDER-MAN Somebody wanna give me a hand with this?}
+<ACTION>__{First the WOMAN, and then all of them, take up positions on the BATTERING RAM.}
+<DIAL>__{SPIDER-MAN On three. One... Two... Three!}
+<ACTION>__{They ram the GLASS and it shatters.}
+<LOC>__{INT. THE LUXURY CONDO HIGH-RISE - NIGHT}
+<ACTION>__{HENRY stands at the open DOOR of the TRAIN in his bedroom as they all come rushing through into the room.}
+<ACTION_ALT>__{HENRY}
+<ACTION>__{Come on. Come on. That's it. Step lively now.}
+<ACTION_ALT>__{WIFE}
+<ACTION>__{Henry, the rugs!}
+<ACTION_ALT>__{HENRY}
+<ACTION>__{Oh, shut up!}
+<DIAL>__{SPIDER-MAN Have a nice evening, Ma'am... and you too, Henry.}
+<LOC>__{EXT. THE STREET - NIGHT}
+<ACTION>__{The FIRE TRUCKS arrive and begin assembling a LADDER.}
+<LOC>__{INT. THE LAST CAR - NIGHT}
+<ACTION>__{SPIDEY arrives at the DOOR at the top of the CAR. He sees ROZ at the bottom. THREE PEOPLE are between them. The SKINNY GIRL sees SPIDEY. She screams.}
+<DIAL>__{SPIDER-MAN Okay, folks, just hang on...}
+<ACTION>__{He scampers down the GRAB-HANDLES to the people below. FOUR PASSENGERS cling to SEATS and BARS.}
+<DIAL>__{SPIDER-MAN Okay, one at a time. You first, Ma'am...}
+<ACTION>__{A FAT WOMAN makes a "who me?" gesture. SPIDEY throws her over his shoulder. INSERT: THE COUPLING which holds the two CARS at right angles begins to bend open. SPIDER-MAN, the FAT WOMAN over his shoulder, goes hand over hand to the top and the WOMAN is dumped into the}
+<ACTION_ALT>__{MIDDLE CAR.}
+<ACTION>__{INSERT: THE COUPLING bends open a little more. SPIDEY helps the TEENAGER and the SKINNY GIRL out of the CAR. She takes the dreadful step between cars. She looks down. She screams. She steps across.}
+<LOC>__{EXT. LUXURY CONDO HIGH-RISE - NIGHT}
+<ACTION>__{The FIRE LADDER is up. But it is about TEN FEET short of where it's aimed at. The end of the CAR. A FIREMAN stands at its apex.}
+<CHAR>__{FIREMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into walkie)}
+<DIAL>__{Gimme more ladder! I need more ladder!}
+<ACTION_ALT>__{WALKIE}
+<ACTION>__{Negative on that, you're at full extension!}
+<LOC>__{INT. LAST CAR - NIGHT}
+<ACTION>__{Now only ROZ is left. SPIDEY approaches him. He clings to a POLE. INSERT: The COUPLING bends open! The CAR is hanging there from memory!}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{This is Doctor Otto Octavius' work. I must get back to my university. I must stop Ock... he's gone crazy. Can you help me? SPIDER-MAN Sure thing, just don't take the train. Come on... give me your hand.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Spider-Man! Listen to me! If he can do this with the train, if he's come this far, then I can pretty well predict his next step. He'll go to Plutonium SL 270 for the power. He must be stopped... or else he'll destroy our world.}
+<ACTION>__{The COUPLING shrieks and the CAR lurches.}
+<DIAL>__{SPIDER-MAN Let's get you out of here first, Professor.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Wait Spider-Man. I don't think I can make it... You mustn't waste time saving me... you must save the world! You must go and stop Ock! SPIDER-MAN Where can I find him...?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{He is looking for Plutonium SL 270 I'm sure...}
+<ACTION>__{The CAR lurches on its side and ROZ flies out of the DOOR. SPIDEY THWIPS out a WEB that girdles ROZ'S waist.}
+<DIAL>__{SPIDER-MAN Think Rosomorf, think where one can find Plutonium? Where could he find SL 270...?}
+<LOC>__{EXT. LUXURY CONDO HIGH-RISE - NIGHT}
+<ACTION>__{ROZ is hanging in mid-air on the WEB. ROZ shouts.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{There's only one place he can get the Plutonium SL 270... SPIDER-MAN Where...?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Toxic... toxic dump... any toxic dump would have SL 270.}
+<ACTION>__{SPIDEY swings ROZ in an arc to the FIREMAN. He misses ROZ on the first pass. ROZ looks up at SPIDEY who stands in the doorway, manipulating the WEB. The FIREMAN grabs ROZ. Then, with an awful SCREECH of steel, the CAR pulls loose from the COUPLING. With SPIDER-MAN inside it, the CAR plunges ten stories to the street below.}
+<LOC>__{EXT. STREET - NIGHT}
+<ACTION>__{COPS, FIREMEN, PRESS, the works. The CROWD GASPS. CAMERA STROBES pop as the LAST CAR crashes to the SIDEWALK. We hold several beats on the incredible rubble. Then, a WEBBED HAND. SPIDER-MAN groggily pulls himself from the wreckage.}
+<CHAR>__{COP } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Put your hands up, Spider-Man. SPIDER-MAN You're making a big mistake.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL>__{And you're looking at twenty years.}
+<ACTION>__{SPIDER-MAN shoots a WAD of WEB GOO onto the COP'S GUN and leaps up onto the LUXURY CONDO... and swings up out of the frame. The COP aims and shoots. The BULLET makes a THWUMP noise. The WEB GOO stretches out about three feet and falls limp.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL>__{What the hell!}
+<LOC>__{EXT. BACK OF BUILDING - NIGHT}
+<ACTION>__{SPIDER-MAN swings painfully, one handed and limp, at the end of a WEB STRAND. After falling ten stories, he is groggy and weak. He can't think. He can't focus. He can barely hold onto his WRIST GIZMOS. This bug is spent.}
+<DIAL>__{SPIDER-MAN Must go on... must find Ock... SL 270 Plutonium... must get that crazy old loony... before he gets to the Plutonium... toxic dump... where are the toxic dumps...?}
+<ACTION>__{He hangs there with two hands to catch his breath and thinks. He shoots a WEB up diagonally and swings across on it. This time he catches on and holds, but barely.}
+<LOC>__{INT. AUNT MAY'S FAMILY ROOM - NIGHT}
+<ACTION>__{LIZ is standing. AUNT MAY is seated on the COUCH, she looks weak, pale and alone.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{You're as lovely as Peter said you were.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed)}
+<DIAL>__{Thank you. He really wanted so badly to come see you. He called me up out of the blue.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(great concern)}
+<DIAL>__{Tell me about Peter. What's he been up to? He seems so preoccupied.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, you know Peter... he's all caught up in some kind of study he's doing. Things are really crazy at the university now. Things are crazy... everywhere. I guess Peter's just... well, you know... pulled into his shell.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reminiscing)}
+<DIAL>__{When Peter was little, he loved to hide. In the closets. Under the sink. He always needed a secret place. But when I'd look for him, he'd always laugh... he wanted to be found.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Yeah... well. I don't think he wants me to find him... Well, I'd better be going. My friend Flash is picking me up.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{This Flash... he isn't your boyfriend, is he?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{No... not really... I think you can guess why...}
+<ACTION>__{They smile knowingly at each other. LIZ goes toward the DOOR.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth...? She turns.}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{Finders keepers, losers weepers.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{AUNT MAY} <CHAR_PAR>__{}
+<DIAL>__{That's what I used to say to Peter when I found him.}
+<LOC>__{EXT. FIFTH AVENUE - NIGHT}
+<ACTION>__{SPIDER-MAN swings high above it. This is not the confident swinger with LIZ in his arms. This is a guy who's making it by the narrowest of margins. There is a traffic jam below.}
+<DIAL>__{SPIDER-MAN Got to find Ock... got to find the toxic dumps.}
+<DIAL_PAR>__{(grabs his head)}
+<DIAL>__{Oh! Oh! Oh... yeah!}
+<ACTION>__{He looks down at the traffic. We PAN across the many CARS until we come to a non-descript GREEN CAR.}
+<LOC>__{INT. GREEN CAR - NIGHT}
+<ACTION>__{OCK is honking the HORN. Something lands on his ROOF. Then SPIDEY sticks his head, upside down, in the windshield.}
+<DIAL>__{SPIDER-MAN What's up, Ock?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You!!!}
+<ACTION>__{A WALDO smashes through the WINDSHIELD but misses SPIDEY. OCK leaps from the CAR.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the run)}
+<DIAL>__{You're a doomed bug, Wall Crawler. I've no time to waste on you now.}
+<LOC>__{EXT. STREET - NIGHT}
+<ACTION>__{OCK runs through HONKING TRAFFIC. SPIDER-MAN leaps from CAR to CAR. OCK turns to see SPIDER-MAN leap to a LIMO at the curb. OCK turns tail and runs down an alley. A FEMALE COP pops out of a DOORWAY. Her partner, a BIG, YOUNG COP, pulls his GUN.}
+<CHAR>__{FEMALE COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gun poised)}
+<DIAL>__{Alright! Freeze! Up against the wall and spread 'em}
+<ACTION>__{OCK complies. He raises his hands... and spreads the WALDOS to full extension! The BIG COP screams and faints. The little FEMALE COP'S eyes POP. OCK swats the GUN from her hand. He starts to choke her. SPIDEY comes swinging to the rescue. He lands on the ROOF nearby.}
+<DIAL>__{SPIDER-MAN Hey, you big OCK, why don't you pick on someone your own size?!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Alright Spider-Bug... here I've come for you...}
+<ACTION>__{OCK leaves the COP and attacks SPIDER-MAN, shooting his iron fist at him. OCK runs to the end of the alley. SPIDEY staggers to his feet and resumes the chase. OCK breaks into a red Corvette convertible, starting it with a WALDO. SPIDER-MAN comes out in time to see the Vette drive away. A CHINESE LAUNDRY TRUCK is passing. SPIDEY THWIPS it and is whipped away. He crawls over to the WINDOW.}
+<DIAL>__{SPIDER-MAN Hey, driver. Could you follow that red Vette for me?}
+<ACTION>__{The surprised CHINAMAN lets loose a stream of CHINESE expletives, complete with appropriate suggestive gestures. SPIDER-MAN crawls to the top of the TRUCK and surveys the situation. He sees a sea of moving traffic. He THWIPS up a WEB and swings away. SPIDEY swings along from BUILDING to BUILDING. The RED VETTE is making headway. Suddenly, SPIDER-MAN spots a blue MG with its top up.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(swinging)}
+<DIAL>__{Flash Thompson... I never thought I'd be happy to see you.}
+<LOC>__{EXT. BLUE MG - NIGHT}
+<ACTION>__{SPIDEY swoops down on the BLUE MG.}
+<LOC>__{INT. BLUE MG - NIGHT}
+<ACTION>__{SPIDEY wedges down into the car, right between FLASH and LIZ. She WHOOPS. FLASH is thrilled.}
+<DIAL>__{SPIDER-MAN Sorry about that!}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Spider-man! This is unbelievable...! SPIDER-MAN Flash, I need your help.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{You got it. SPIDER-MAN You any good with this thing?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{I'm the best. SPIDER-MAN Okay... catch that Vette!}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Roger, wilco, over and out.}
+<ACTION>__{He swerves. SPIDEY falls all over LIZ. They begin to careen through traffic, three peas in a very small pod.}
+<LOC>__{EXT. WEST SIDE CAR CHASE MONTAGE - NIGHT}
+<ACTION>__{With SPIDEY jammed in between LIZ and FLASH, the MG chases the VETTE. Since neither OCK nor FLASH is any good at this, both cars quickly careen into POLES, FENCES, HOT DOG CARS and begin falling apart. On RIVERSIDE DRIVE the MG begins to lurch and STEAM. The VETTE looks eaten away. The GEORGE WASHINGTON BRIDGE looms ahead. The VETTE roars through the TOLL BOOTH. They spot OCK stuck in traffic.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Why is he going to New Jersey, and who is it in that shitty red car...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Don't you recognize him... it's Ock! SPIDER-MAN New Jersey has the largest toxic waste dump in the world.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{What does he want with toxic waste? SPIDER-MAN He's looking for Plutonium, my dear... The car has to slow down... it's in a traffic jam.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Sorry... can't do anything about this traffic.}
+<ACTION>__{SPIDER-MAN jumps out of the car.}
+<DIAL>__{SPIDER-MAN Try to stay with me. I don't want to lose him!}
+<ACTION>__{Speeding along the BRIDGE, OCK sees no one. But high above, SPIDEY swings from TOWER to TOWER after him. At the last TOWER, SPIDEY leaps down onto a BIG TRUCK. The VETTE weaves and SPIDEY crosses to another BIG TRUCK. For a moment he is caught between the TWO TRUCKS, but he makes it across. The VETTE takes an exit. SPIDEY leaps to the next SIGN. He aims his WRIST GIZMO and waits for the next car to take the exit, but none does. Deflated, he drops to the ground. He looks up to see a sign on a CYCLONE FENCE. It says, "DUMP NUMBER 7 -- KEEP OUT -- RADIOACTIVE MATERIAL!"}
+<DIAL>__{SPIDER-MAN Bingo.}
+<LOC>__{INT. TOXIC WASTE DUMP - NIGHT}
+<ACTION>__{The landscape has a nightmarish vision, weirdly lit by "safety lights." VATS and DRUMS ooze all kinds of bad stuff. A light is on in a dilapidated SHACK.}
+<LOC>__{INT. THE SHACK - NIGHT}
+<ACTION>__{OCK is tossing away the CANISTERS until he comes to one marked, "HAZARD!! PLUTONIUM SL 270 HAZARD!!"}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey... SPIDER-MAN Open that now, and you'll spoil Christmas.}
+<ACTION>__{SPIDEY'S peering in from a HOLE in the ROOF.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Insect! I am going to squash you to death... Once I lay my Waldos on your skinny bones...}
+<ACTION>__{OCK hurls a DRUM at SPIDEY. It erupts in a sizzle of LIQUID and GAS. Then the SIX-ARMED FIEND runs for the door with his SL 270.}
+<LOC>__{EXT. THE SHACK - NIGHT}
+<ACTION>__{OCK comes flying out and SPIDER-MAN grabs a WALDO. SPIDEY does a back flip and whips OCK so hard the WALDO snaps off! OCK recoils it and reacts in horror. With a roar, OCK attacks SPIDER-MAN. They battle as SUPER-ADVERSARIES. OCK gains the upper hand and tosses SPIDEY into a pile of RUSTING DRUMS. A GAS envelopes SPIDER-MAN and he begins coughing.}
+<LOC>__{EXT. THE DUMP - NIGHT}
+<ACTION>__{OCK'S WALDOS are coiled around SPIDER-MAN'S neck as the WEB SLINGER is dragged through the dump. His WHITE EYES narrow and blink. There is a capped WELL behind a WARNING SIGN. OCK tears off the CAP and then hurls the groggy SPIDEY down the WELL.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Goodbye, Spider-Man!}
+<LOC>__{INT. THE WELL - NIGHT}
+<ACTION>__{SPIDEY falls. He cannot grab onto the slimy WALLS. At the bottom of the foul pit is a bubbling BLUE luminescent POOL. SPIDEY claws frantically at the WALLS.}
+<DIAL>__{SPIDER-MAN Noooooooooooooo!}
+<ACTION>__{He gets a hold and slides down to within a foot of the POOL. Its weird light shines up at him. He looks up at the starry sky.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Okay now, Spidey. Easy does it.}
+<ACTION>__{He shoots a WEB about halfway up the PIT. It hits the wall, sizzles, and drops back down.}
+<DIAL>__{SPIDER-MAN}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Don't give up, Spidey. Don't give up.}
+<ACTION>__{The WEB GIZMO squirts out a pathetic patooey of WEB GOO. Then it hisses, empty!}
+<DIAL>__{SPIDER-MAN Empty... now what do I do?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{So you've avoided the nuclear pool, have you, Spider-Man? SPIDER-MAN Well, so far so good. But I can't hold on much longer.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Pity...! SPIDER-MAN Oh, come on, Ock, be a good sport. Let's talk this over face to face... throw me a line...}
+<ACTION>__{SPIDEY reaches out.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okay... face to face... Catch this!}
+<ACTION>__{OCK, way up at the opening above, raises a huge DRUM above his head. The DRUM leaks toxic waste in ORANGE TENDRILS. He is about to drop it down on SPIDER-MAN...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Don't do it, Professor!}
+<ACTION>__{We now see FLASH and LIZ in the BLUE MG.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(puts down the drum)}
+<DIAL>__{I know you... and you, young lady. Both of you are in my physic class, aren't you...? Come... you can help me. I need to get some of these drums to my laboratory... help me... and I'll give you special grades. What'd you say?}
+<ACTION>__{Suddenly he catches FLASH with a WALDO and starts to choke him. LIZ screams and tries to help FLASH.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Leave him alone!!!}
+<ACTION>__{Another WALDO grabs her. ROZ now appears on the scene.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Leave them alone Otto!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{But, they won't help me. Everybody is trying to destroy my experiment. And so are you, Rosomorf.}
+<ACTION>__{Another WALDO grabs ROZ by his arm.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Otto... I was wrong. I've gone over your research. It's brilliant, Otto. It's mad, but it's brilliant. You have much work left to do. I want to help you, Otto. For the sake of science, go and do your experiment. Leave... these kids alone and I'll help you.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You will? You too?}
+<ACTION>__{Both FLASH and LIZ shake their heads okey dokey. OCK gestures to FLASH and LIZ.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Help me with these drums, I need to get them to my laboratory immediately.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Do as he says.}
+<ACTION>__{OCK pushes FLASH and LIZ with his iron arm. Gripping LIZ be her hair, he shoves her into the CAR.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Drive, Flash, before I flush your girl right down the toilet! SPIDER-MAN Professor Rosomorf, it's no good, double dealing... why did you help him...?}
+<ACTION>__{ROSOMORF finds a rope and looks into the well.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Don't lose your energy screaming. Catch this rope and climb up, come on!}
+<LOC>__{INT. ROZ'S CAR - NIGHT}
+<ACTION>__{They drive along the highway. SPIDEY is recovering, working his neck.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{I've been through the Octavius data. He has enough power with his Plutonium. Especially if he gets his hands on Parker's data, there he has enough power to do what he wants to do. And we are not going to stop him in time before the Planetary Conjunction occurs tonight... SPIDER-MAN Stop the car. I have an idea.}
+<ACTION>__{They're in the middle of RIVERSIDE DRIVE but a PHONE BOOTH is coming up on the right. INSERT: ROZ'S foot stabs the BRAKE.}
+<LOC>__{INT. ROZ'S CAR - NIGHT}
+<ACTION>__{SPIDEY gets out of the car. Then he pats himself where his pockets ought to be.}
+<DIAL>__{SPIDER-MAN Do you have a dime?}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<ACTION>__{HARRY is there, working on the COMPUTER, PHONE RINGS, HARRY picks up.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Harry?!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Peter, where are you?}
+<LOC>__{INT. PHONE BOOTH - NIGHT}
+<DIAL>__{SPIDER-MAN Listen, Harry. You must get my paper before Ock uses it...}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Your Planetary Conjunction data? It's too late... Ock's got your paper, it's in his computer already.}
+<ACTION>__{INSERT: The COMPUTER SCREEN displays a graphic of the SUN, EARTH, and MOON lining up with JUPITER and SATURN.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{But don't worry... he can never use it without Plutonium.}
+<DIAL_PAR>__{SPIDER-MAN (V.O.)}
+<DIAL>__{He's got the Plutonium, and he's on his way back to the lab! And he's got two prisoners with him... Liz and Flash!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Don't worry... he needs a huge amount of power... thousands of volts of electricity... to get to the Anti-Force. SPIDER-MAN He can get to the power. Electrical power... to the max. Nuclear power... SL 270. And now, at the moment of full Planetary Conjunction. When all the planets line up with the sun... maximum gravitational power. The Conjunction is Ock's final power source.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Damn... the Conjunction is due at midnight! What are we going to do?}
+<LOC>__{EXT. UNIVERSITY GROUNDS - NIGHT}
+<ACTION>__{The BLUE MG arrives and comes to a stop. OCK looks at his two prisoners in the back seat and smiles to himself... Picks up one DRUM on each shoulder.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey... have fun, young ones... for the last time.}
+<ACTION>__{OCK leaves. LIZ and FLASH are tied together in the back seat of the CAR.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still ministering)}
+<DIAL>__{What do we do now?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{We kiss the world goodbye. If he is right, all there is left to do is...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Wait... I think I can release my right hand...}
+<LOC>__{INT. PETER PARKER'S APARTMENT - NIGHT}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{How much time is left? Wait... I can find out... my God... 59 minutes!}
+<LOC>__{INT. PHONE BOOTH - NIGHT}
+<DIAL>__{SPIDER-MAN The only way we can interfere with Ock's plan is to find a computer center... fast.}
+<CHAR>__{HARRY } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Our University has the biggest center in town. SPIDER-MAN Yeah, but who's gonna work 'em?}
+<LOC>__{EXT. UNIVERSITY GROUNDS - NIGHT}
+<ACTION>__{Professor OCK comes for some more drums. He sees that LIZ and FLASH have disappeared. OCK picks up TWO DRUMS. HARRY seeing FLASH and LIZ come running to the school grounds.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{I think I can get some help... I can teach anyone how to work a code in five minutes.}
+<DIAL_PAR>__{SPIDER-MAN (V.O.)}
+<DIAL>__{Then do it!}
+<LOC>__{INT. COMPUTER LAB - NIGHT}
+<ACTION>__{The LIGHTS are off, but the COMPUTERS are on. HARRY looks over LIZ'S shoulder as she cracks through a code. Her SCREEN reads out, "CONNECTICUT. TECH. Fully Op, Line Backlog, Security Max Level." The last line is FLASHING.}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{Hey, this is easy.}
+<ACTION>__{They all run from COMPUTER to COMPUTER.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Hey, Harry I need help.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Coming!}
+<ACTION>__{HARRY types in KARNAKY LTD and gets the same response. He looks at his DIGITAL WRISTWATCH. "01:00:02" becomes "00:59:59" as we watch. Then a WARNING BUZZER!}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{I got one! I got one!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Harry! Get over here!}
+<ACTION>__{HARRY hurries to KIM'S side and elbows her out of the CHAIR. The SCREEN is flashing "WARNING, Security Breach!" HARRY'S hands fly over the keys. The KIDS gather around. LINE DRAWINGS of the CYCLOTRON (progressing from large to small detail) appear one after the other. Finally, a PIPE. There is a CIRCLE around a JOINT. And the legend "H20".}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{A goddamn water leak...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Hey, look at this. Empire State University. This is our cyclotron, right?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(serious)}
+<DIAL>__{What does it say?}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hits two keys)}
+<DIAL>__{It says "no information on net."}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Damn... we can't do it...}
+<CHAR>__{KIM} <CHAR_PAR>__{}
+<DIAL>__{You mean... we can't stop loony Ock...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{I mean the world is in danger...}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{We must find Peter, he knows these computers better than all of us.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Yes, but where the hell is he?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mysteriously)}
+<DIAL>__{I bet he is with Spider-Man...}
+<ACTION>__{Suddenly the lights dim. A heavy noise. An earth quake.}
+<LOC>__{EXT. OUTER SPACE - PERPETUAL DARK}
+<ACTION>__{The EARTH is moving into line with the other PLANETS of the CONJUNCTION.}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{HARRY and FLASH and LIZ and KIM, (the EARTH is SHAKING) come out running from the building beneath an enormous HANGING MOON. They are frightened. Suddenly it all stops. It's quiet, the kids look at the sky.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Look at the moon... I have never seen it so big.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{What is that...}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Must be the sun.}
+<ACTION>__{We now see the sky. With the sun on one side, and the moon on the other. They watch it, shocked, frightened out of their wits.}
+<LOC>__{EXT. END OF THE WORLD MONTAGE - NIGHT}
+<ACTION>__{Suddenly from OCK'S basement lab a BLUE BEAM of LIGHT breaks through. A WHINE starts, it moves magically out of the WINDOW and PANS around a sleepy NEW YORK which doesn't know that the end is upon it. The dreaded WHINE builds throughout! People stop in their tracks, look up to the strange looking skyline. Camera comes down to a street where ROZ is DRIVING SPIDER-MAN fast toward the}
+<ACTION_ALT>__{UNIVERSITY.}
+<LOC>__{INT. ROZ'S CAR - NIGHT}
+<ACTION>__{ROZ looks out over the skyline of NEW YORK. Lighted buildings FLARE UP and then GO DARK. The LIGHTED SPIRE of the Empire State Building FLARES UP and EXPLODES.}
+<DIAL>__{SPIDER-MAN It's started. Step on it Professor, or we'll never make it.}
+<ACTION>__{They look across the campus and a strange LIGHT is coming out of the SCIENCE CENTER.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Our campus... right there... see those beams from Ock's lab. We're late... it's coming... the Conjunction will happen in a few seconds.}
+<ACTION>__{SPIDER-MAN massages his arm.}
+<DIAL>__{SPIDER-MAN Stop the car...! Come with me.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Where...? What...?}
+<ACTION>__{SPIDER-MAN SHOOTS out a WEB and flies toward the SCHOOL BUILDING taking ROZ with him.}
+<LOC>__{INT. EXPERIMENTAL CHAMBER - NIGHT}
+<ACTION>__{It is a patchwork of make-shift repairs. OCK looks in through a WINDOW that's been melted out. He is lost in a mad rapture.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{RED POWER THROTTLE is at 95% POWER! SPIDER-MAN and ROZ enter, shielding their eyes from the GLARE. The COUNTDOWN CLOCK reads, "00:08:18".}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking back, madly)}
+<DIAL>__{Aha! You never included the Conjunction in your calculations, did you?! Rosomorf!}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Damn the calculations! My God, Otto, you have to hear me! The world we know will collapse! Everything we have devoted our lives to... all the patterns, all the harmonies... everything will be destroyed.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{A new world waits! Rosomorf! It is my destiny!!!}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{It is cosmic suicide! You have no right!}
+<ACTION>__{ROZ flings himself through the MELTED WINDOW into the EXPERIMENTAL CHAMBER. He grabs for the "BULLET" but the WALDOS grab him and throw him back. ROZ staggers backward... into the arms of SPIDER-MAN.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{You have to stop him... Spider-Man you have to stop him. SPIDER-MAN I'm afraid we're too late.}
+<ACTION>__{SPIDER-MAN attacks OCK, trying to push him away from the THROTTLE. OCK pushes SPIDER-MAN away from him so strongly that SPIDER-MAN is knocked down. OCK nudges the POWER THROTTLE forward and the WHINE increases to an ear shattering pitch. The COUNTDOWN CLOCK reads, "00:06:48". We are at 96% POWER!}
+<LOC>__{EXT. THE SCIENCE CENTER - NIGHT}
+<ACTION>__{We PAN down from the MOON to a STREET full of SIRENS and SHADOWY FIGURES running in the night. LIZ and KIM and HARRY come nearer. A very WEIRD light is emanating from the CENTER.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{He's in there. I know Peter is in there. She breaks into a run.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Liz, don't... Liz come back... come back! LIZ runs inside. They run after her. A BOLT OF ELECTRICITY flashes across the doorway, stopping them.}
+<LOC>__{INT. THE CONTROL ROOM - NIGHT}
+<ACTION>__{The PLANETS are playing on the COMPUTER SCREEN. Things in the room begin to rise, weightless. The ENERGY STORM is brewing!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey, dokey!! My energy storm has started. My Anti-Force is on! History is being made... Spider-Man, Rosomorf cheer up friends... we're on our way to the unknown cosmos... we three are about to visit heaven... real Gods heaven.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sees the sky through the window)}
+<DIAL>__{Spider-Man! The Conjunction! It's happening!}
+<LOC>__{EXT. THE SKY - STRANGE COLORS - NIGHT}
+<ACTION>__{The CONJUNCTION is now happening. INSERT: Surreal DIALS spin madly.}
+<LOC>__{INT. SCIENCE CENTER - NIGHT}
+<ACTION>__{LIZ runs into a HALLWAY gone berserk. Stuff is flying everywhere. TILES pull from the WALLS and crash to the ceiling.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter! Peter, where are you?!}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{OCK throws the RED POWER THROTTLE to 97% POWER. Cacophony! The "BULLET" begins to PULSE and THROB! The DIALS spin! The COUNTDOWN CLOCK reads, "00:05:58".}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{The FULL MOON hangs over the building. FLASH and HARRY and KIM stand at the entrance to the CENTER. FLASH starts to run to the building.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screaming)}
+<DIAL>__{Liz! Liz come on out!}
+<ACTION>__{They run forward but as they reach the FRONT STEPS the building lurches upward. The bottom step becomes a wall of STONE and DIRT, six feet high.}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{Get back! Flash... get back!}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Wow...!}
+<ACTION>__{Then the building lurches upward again! This time it pulls FREE from the ground. The KIDS take cover as WATER LINES BURST and ELECTRICAL WIRES SPARK.}
+<LOC>__{INT. SCIENCE CENTER HALLWAY - NIGHT}
+<ACTION>__{LIZ opens a door.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter!}
+<ACTION>__{The building lurches throwing her back across the HALL where she crashes through another door.}
+<LOC>__{INT. CHEMISTRY LAB - NIGHT}
+<ACTION>__{All manner of stuff is flying around. LIZ comes sliding across the floor. She crashes into a CABINET. GLASSWARE starts to fall on her, but crashes into the CEILING instead. She is dragged up the WALL. She kicks and screams against the Anti-Force.}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{FLASH, KIM and HARRY look on as heavy ELECTRICAL CABLES stretch upward to the rising CENTER and then snap in showers of sparks. As they fall away the CENTER becomes airborne. The CABLES wave up at it, shooting arcs of ELECTRICITY directly at the building.}
+<LOC>__{INT. CHEMISTRY LAB - NIGHT}
+<ACTION>__{LIZ slides down the WALL. She grabs at the WINDOW and looks out. The rest of the university recedes beneath her, now a hundred feet below. And they're still rising! FLASH and HARRY look up.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{Oh my God... Liz is inside there!}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{And Professor Rosomorf and crazy Ock.}
+<CHAR>__{FLASH} <CHAR_PAR>__{}
+<DIAL>__{What about Peter? Is he there with them?}
+<CHAR>__{HARRY} <CHAR_PAR>__{}
+<DIAL>__{No, but I bet Spider-Man is.}
+<LOC>__{EXT. STREET IN FRONT OF UNIVERSITY - NIGHT}
+<ACTION>__{People look up at the SCIENCE CENTER. A CYCLIST, riding and looking, crashes into a TAXI. MAX REISS leaps out with the BEAUTIFUL STARLET from the TAXI.}
+<CHAR>__{MAX} <CHAR_PAR>__{}
+<DIAL>__{That's some show... if ever I saw one.}
+<LOC>__{INT. JAMESON'S OFFICE - NIGHT}
+<ACTION>__{He's looking out his window seeing the University's Lab Building flying by. Up and up toward the sky.}
+<CHAR>__{JAMESON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Tear out the front page! Change the headline... The biggest news is happening right now... we need photos... a camera... get me a camera...!}
+<LOC>__{EXT. SKY - NIGHT}
+<ACTION>__{A very long shot of the SCIENCE CENTER rising into the}
+<ACTION_ALT>__{CLOUDS.}
+<LOC>__{INT. AUNT MAY'S BEDROOM - NIGHT}
+<ACTION>__{She pulls aside a CURTAIN and watches the SCIENCE CENTER rise.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{OCK works the COMPUTER as the CONSOLE sends up SHOWERS of SPARKS. He glances at the "BULLET" which now PULSES. The COUNTDOWN CLOCK at "00:04:18".}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Where is it going Otto?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Other worlds, Roz, other times, other dimensions, who knows? Who cares?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Then... why?}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Truth, Rosomorf. Look at it! The new truth! The new way! SPIDER-MAN Don't listen to him Professor Roz.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{No, you don't listen to that clown, he can't save you, or the world for that matter.}
+<ACTION>__{A WALDO reaches in and rips ROZ off SPIDEY, flinging him back against a WALL. ROZ lands in a heap beneath a FIRE STATION (HOSE, EXTINGUISHER, AXE). We see the WALDO reach out for SPIDER-MAN. It wraps around his FOOT and begins to tug, slowly...}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Once and for all, Spider-Man... once and for all we'll end the legend of your powers.}
+<ACTION>__{OCK knocks SPIDER-MAN with a real BIG BLOW with his WALDO. OCK is slowly dragging SPIDER-MAN to a HUGE HOLE that's been ripped in the floor by the BEAMS of ELECTRICITY. We see New York a half a mile down through the hole. We see SPIDEY being drawn across the HOLE. Then ROZ comes flying in with the FIRE AXE. ROZ hacks away at the WALDO and chops it off! The stump withdraws. OCK examines it in pain and fury!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ultimate betrayal)}
+<DIAL>__{You!! You were my teacher!!!}
+<ACTION>__{ROZ doesn't even look back. He and SPIDEY are at the edge of the HOLE and he's shaking SPIDEY furiously. OCK sends out his other WALDO and begins banging it on the floor in a frenzy on either side of ROZ and SPIDEY. Like a child denied, he smashes his steel fists against the floor again and again.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{You were my teacher! And you want to destroy my experiment. You are a scientist for heaven sake... don't you want to know what's up there?}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL>__{Yes, but not on account of our world. We have only one world... only one life. The floor begins to craze and then crack like ice around a hole on a pond. BANG! BANG! SPIDEY comes to just as the section of floor beneath himself and ROZ gives way and falls through.}
+<ACTION>__{SPIDEY grabs hold of the edge and dangles. He looks down and sees ROZ falling away beneath him, disappearing into the dark.}
+<CHAR>__{ROZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calling back from the dark skies)}
+<DIAL>__{Spider-Man! Only you can save us now... SPIDER-MAN Roz!!!}
+<DIAL_PAR>__{(turns to Ock)}
+<DIAL>__{Murderer!!!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Forget that old fool, insect. My Spider-Man... Come join me on my fantastic voyage to the 7th heaven.}
+<LOC>__{EXT. OUTER SPACE - PERPETUAL DARK}
+<ACTION>__{The PLANETS are virtually in line!}
+<LOC>__{INT. SCIENCE CENTER HALLWAY - NIGHT}
+<ACTION>__{LIZ comes running through it. A BOLT OF ELECTRICITY shoots from the right to the left in front of her. She slams on the brakes and runs the other way.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter! Peter!}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{The COUNTDOWN CLOCK is at, "00:02:59". OCK throws the POWER THROTTLE to 98% POWER. He laughs and a WEB splats against his GLASSES. SPIDEY scrambles to his feet. OCK, still trying to get the WEB GOO off his GLASSES, is slammed into the CONSOLE by SPIDER-MAN. SPARKS fly and WALDOS flail blindly, smashing things. OCK tears off his GLASSES and squints through the FIRE and SMOKE and GLARE. SPIDER-MAN THWIPS the ceiling and swings into a drop kick! OCK recovers. He grabs SPIDEY and slam dunks him through the hole in the floor.}
+<LOC>__{EXT. THE BOTTOM OF THE BUILDING - NIGHT}
+<ACTION>__{SPIDER-MAN falls through the air. He shoots up a WEB and THWIPS, it sticks to the ROCKY bottom of the FOUNDATION. OCK appears in the HOLE. He sees SPIDEY'S dilemma, hanging on a thread of WEB. A half-broken WALDO snakes down and CLIPS the WEB. But the WEB sticks to the WALDO! OCK shakes it, but he can't get loose. SPIDER-MAN shoots out another WEB at the ROCK BOTTOM and, with the leverage, he pulls OCK out. OCK swings down in a wide arc and his WALDOS catch on the ROCK upside down. He holds on fiercely. OCK scrambles out to the side of the CENTER and begins looking for an entry. SPIDER-MAN is right on his tail. The building pitches sideways! OCK turns to face SPIDER- MAN, his broken WALDOS out for BATTLE. SPIDEY grabs an EXPOSED PIPE and breaks it off, brandishing it like a broad sword.}
+<DIAL>__{SPIDER-MAN Let's have it, old boy! A bizarre DUEL takes place. The CENTER pitches this way and that. SPIDEY and OCK move from foothold to foothold, from WINDOW to LEDGE to PARAPET.}
+<ACTION>__{Now the CENTER pitches to a 45 degree angle. They DUEL upside down! A WINDOW GRATE crashes open and LIZ comes flying out, holding onto the GRATE for dear life!}
+<DIAL>__{SPIDER-MAN Liz!! OCK seizes the opportunity to whack SPIDEY across the head. SPIDEY loses his footing but the building now lurches back and LIZ goes flying back inside. SPIDEY ducks inside too and pulls the GRATE.}
+<ACTION>__{SPIDER-MAN uses his great strength to move a HUGE PIECE of SCIENTIFIC MACHINERY in front of the GRATE.}
+<DIAL>__{SPIDER-MAN Come on.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Where's Peter? He must be here somewhere. SPIDER-MAN}
+<DIAL_PAR>__{(pulling her ahead)}
+<DIAL>__{He's around, don't worry... we'll find him.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{The COUNTDOWN CLOCK is at, "00:01:00" as SPIDEY comes flying in with LIZ in tow.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{This building is flying. I'm in a goddamn flying building... SPIDER-MAN I think we have to pull some of these cables. Try those over there. I'll work on these. We gotta slow this thing down somehow. We got helicopters coming.}
+<ACTION>__{LIZ looks at some WIRING, apprehensive about even touching it.}
+<DIAL>__{SPIDER-MAN Pull!}
+<ACTION>__{She yanks out a CABLE. The building pitches. But when SPIDEY pulls one out, it rights itself.}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{The BIG BEAMS start cutting out one by one. The CENTER begins to PITCH and YAW. The CHOPPERS are getting closer.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{The COUNTDOWN CLOCK reads, "00:00:15" as SPIDEY and LIZ continue to pull WIRES and CABLES. TWO WALDOS erupt through the floor and grab SPIDEY. They pull SPIDEY to the floor. Entangled in these molybdimum pythons, SPIDEY struggles valiantly. LIZ leaps to his aid.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Oh my God...}
+<ACTION>__{A third WALDO, a broken one, snakes up from the HOLE and begins feeling blindly around on the CONSOLE for the POWER}
+<ACTION_ALT>__{THROTTLE.}
+<DIAL>__{SPIDER-MAN The power!}
+<ACTION>__{LIZ sees the damaged WALDOS heading for the RED THROTTLE. The COUNTDOWN CLOCK is at "00:00:10". LIZ leaps and tries to wrestle it away. It whips in her arms and she holds on tight. It bangs her against the wall and then the CONSOLE. She holds on. "00:00:03". The WALDO crashes LIZ against the wall which erupts in SPARKS. She lets go of it. It heads for the POWER THROTTLE! "00:00:01!" SPIDER-MAN can't break the grip of the WALDOS, but he can pull with super-human strength. He yanks OCK up through the STONE floor. OCK hits the ceiling of the CONTROL ROOM. ONE WALDO grabs on. The other one throws the RED POWER THROTTLE!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Spider-Man. You're end is coming. Life in its present form is ending... new dimensions, new horizons...}
+<ACTION>__{The UNIVERSAL BULLET begins to GLOW. The GLOW sharpens to a POINT of LIGHT. SPIDER-MAN holds on tight against a rushing ENERGY FLOW that's pulling everything in the room towards the POINT of LIGHT.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(bracing against the storm)}
+<DIAL>__{What is happening? SPIDER-MAN}
+<DIAL_PAR>__{(similarly braced)}
+<DIAL>__{I don't know!!!}
+<ACTION>__{LIZ starts to slip away into the flow. She struggles against it.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I can't... hold on!}
+<ACTION>__{SPIDEY THWIPS her and she grabs onto the WEB.}
+<DIAL>__{SPIDER-MAN Hold tight, Liz, hold tight!}
+<ACTION>__{OCK drops calmly, beatifically, to the floor of the room. He moves slowly, under his own power, into the LIGHT.}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(spaced out)}
+<DIAL>__{You cut my power... there's too little power... It's so tiny... so tiny... there's only space... for me. But I've done it, Spider-Man. I have broken through... I've broken through!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Don't do it, Dr. Octavius!}
+<CHAR>__{OCK} <CHAR_PAR>__{}
+<DIAL>__{Okey... dokey... Now that's what I call an experiment!!!}
+<ACTION>__{As he nears the LIGHT he actually becomes a part of it. He radiates LIGHT. He shimmers and shines. He fills the room with BLINDING LIGHT. SPIDEY and LIZ shield their eyes, and as the light diminishes, the storm subsides. They're safe. Except for the fact that they're in a floating building, 10,000 feet above the city!}
+<LOC>__{EXT. SCIENCE CENTER - NIGHT}
+<ACTION>__{Against the backdrop of the MOON, a SQUADRON of HELICOPTERS approaches the CENTER. From their POV, a HUGE CRACK opens across the face of the building. The CENTER begins to drop in PULSING SURGES.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{SPIDER-MAN is at the CONSOLE pulling and putting back WIRES. LIZ, fascinated, looks in at the WINDOW where OCK disappeared.}
+<DIAL>__{SPIDER-MAN I can't control her. She's dropping too fast! Alright... let's go!}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{But what about Peter? We've got to find Peter! SPIDER-MAN Peter will be okay, I promise you... Let's go before it's too late.}
+<DIAL_PAR>__{(he grabs her)}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Go where?}
+<LOC>__{EXT. THE CENTER - NIGHT}
+<ACTION>__{It rotates and drops. The HELICOPTERS come in like the cavalry.}
+<LOC>__{INT. CONTROL ROOM - NIGHT}
+<ACTION>__{Trying to leave it, LIZ and SPIDEY are confronted with a nightmare. The room is tilted at a 45% angle. PIPES are bursting. SPIDEY helps LIZ through the obstacles. Debris rains down. They come face to face with a diagonal maze of PIPES.}
+<DIAL>__{SPIDER-MAN Maybe there's another way...}
+<ACTION>__{A HUGE CRACK opens above them.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{It's breaking apart! SPIDER-MAN Alright, keep moving, a step at a time!}
+<ACTION>__{They scale the maze, but as they emerge on the other side, half the floor falls away! Central Park awaits, 8,000 feet below.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{We have to go back. SPIDER-MAN We can't go back.}
+<ACTION>__{He looks across at the door. It is midway up a diagonal wall. He shoots a WEB up at the ceiling between themselves and the door. Then he extends a hand to LIZ.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Forget it... SPIDER-MAN Okay, have it your way.}
+<ACTION>__{He swings across and lands on the LEDGE of the DOOR. Then he swings the WEB back to her like a trapeze. LIZ catches the WEB and looks across at SPIDER-MAN, furious.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting across)}
+<DIAL>__{What am I supposed to do with this! SPIDER-MAN}
+<DIAL_PAR>__{(shouting back)}
+<DIAL>__{Go ahead. It's easier than it looks! We've got to try the fire escape.}
+<ACTION>__{LIZ swings across like TARZAN and SPIDEY gathers her in on the LEDGE. She does a comic "phew" and the LEDGE buckles beneath them but holds. SPIDER-MAN tries to open the door, but it's stuck.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{The door is stuck.}
+<ACTION>__{SPIDER-MAN bends his back to the task. It take all his strength, but with a comic AAAAARGGHH! He bends the DOOR open.}
+<LOC>__{EXT. FIRE DOOR - NIGHT}
+<ACTION>__{They burst out onto the ROCK FOUNDATION of the building. New York is rushing up to meet them. The WIND created by their fall buffets them. The HELICOPTERS arrive, and the falling building plunges right past them. The HELICOPTERS look across at each other, helpless.}
+<LOC>__{EXT. THE CENTER - NIGHT}
+<ACTION>__{It drops like a stone.}
+<LOC>__{EXT. FIRE DOOR - NIGHT}
+<ACTION>__{SPIDEY and LIZ are falling away from the DOOR, sliding along the ROCK. LIZ is stopped by a RETAINING WALL. SPIDEY keeps sliding. He THWIPS the wall and then disappears over the edge. LIZ screams! LIZ fights to her feet and grabs onto the WEB STAND. She pulls on it with all her strength. She pulls and pulls and pulls. We see the WEB running up between the ROCKS. She gives one last pull and comes up with an EMPTY WEB}
+<ACTION_ALT>__{END.}
+<ACTION>__{A long, long beat.}
+<CHAR>__{PETER } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Liz, Up here!}
+<ACTION>__{LIZ looks up and sees PETER hanging out the WINDOW two stories above her. He throws out a ROPE LADDER. LIZ grabs it. She begins to climb.}
+<LOC>__{INT. CLASSROOM - NIGHT}
+<ACTION>__{PETER pulls LIZ through the WINDOW. There is no time for an embrace.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Come on. I've found a way down.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(at long last, love)}
+<DIAL>__{I knew you were going to say that.}
+<ACTION>__{They run out of the ROOM. We PAN down and see, crumpled beneath the WINDOW, the SPIDER-MAN suit.}
+<LOC>__{INT. LARGE PHYSICS LAB - NIGHT}
+<ACTION>__{This is the LAB we saw in the opening sequence. PETER has turned on the lights. He's got a handful of ROPE.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Where's the way out?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Right there!}
+<ACTION>__{We are looking at the HUGE AMERICAN FLAG.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Come on, help me with this.}
+<LOC>__{EXT. THE FOUNDATION - NIGHT}
+<ACTION>__{LIZ is already down the ROPE LADDER and is holding it for PETER. He comes down with a HUGE bundle of RED, WHITE &}
+<ACTION_ALT>__{BLUE.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Okay, stand still.}
+<ACTION>__{He ties some ROPE around her waist.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Is this going to work?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{How do I know?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I just adore confidence in a man.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Come on...}
+<ACTION>__{They move to the edge of the ROCK and look down. CENTRAL PARK is still a couple thousand feet down.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{What is it you say when you jump?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Your prayers.}
+<ACTION>__{They SCREAM as the building lurches again, knocking them to the ground. They start to slide across the ROCK. They reach out for each other but their hands don't quite reach. Slowly, they inch back together, but the FOUNDATION cracks between them.}
+<LOC>__{EXT. THE CENTER - NIGHT}
+<ACTION>__{It spins and falls beneath us. Down, down it goes. And then it crashes into the GREAT LAWN. A huge cloud of debris shoots upward.}
+<LOC>__{EXT. THE SKY - NIGHT}
+<ACTION>__{There is a beautiful FULL MOON. PETER and LIZ float down into the frame lit by its wonderful light. The AMERICAN FLAG which has turned into a huge parachute. They hold each other tight. They can hear SIRENS below. They begin to laugh with relief. Then they stop. The wind billows LIZ'S skirt and plays with PETER'S hair, and snaps in the AMERICAN FLAG.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{We have a lot to thank your friend Spider-Man for.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Somehow, I don't think we've seen the last of him.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Peter...! Finders, keepers...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{What...? What is it? Why do you look like that?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I think I'm in love.}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(even his eyes blush)}
+<DIAL>__{You are...}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{With your friend...}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Spider-Man? You're in love with Spider-Man?}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{I am... you think we'll see him again?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{We might... you never know. He kisses her.}
+<CHAR>__{LIZ} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<DIAL_PAR>__{(bittersweet)}
+<DIAL>__{This may be the end of a beautiful friendship you know?}
+<CHAR>__{PETER} <CHAR_PAR>__{}
+<DIAL>__{Nah.}
+<ACTION>__{They land in the center of the park under the parachute. They stay there and kiss... completely covered by the flag. Camera pulls up to show the building floating away.}
+<ACTION_ALT>__{THE END}

@@ -1,0 +1,1476 @@
+<ACTION_ALT>__{AMOUR}
+<ACTION>__{Written by Michael Haneke}
+<LOC>__{INT. APARTMENT - DAY}
+<ACTION>__{The hallway is a mess. A window opening onto a light well is open. The door to the apartment is suddenly broken open. A plain- clothes detective, two uniformed police officers and several firemen - also in uniform - enter and look around. They all wear gloves and masks that cover their mouths and noses. Behind them, the superintendent and his wife also push their way in. They're both holding their noses. In his free hand, the superintendent holds a pile of mail and promotional flyers. Behind him, comes a female neighbor.}
+<DIAL>__{PLAIN-CLOTHES DETECTIVE}
+<DIAL_PAR>__{(to the superintendent and the NEIGHBOR)}
+<DIAL>__{Wait Outside please.}
+<ACTION>__{He signals to a police officer who herds the curious onlookers back out through the door.}
+<CHAR>__{POLICE OFFICER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the superintendent, pointing to a pile of mail)}
+<DIAL>__{What's the date of the last letter?}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(VERIFYING)}
+<DIAL>__{The 16th from what I can see... Wait...}
+<ACTION>__{The plain-clothes detective has tried in vain to open the door on the left. It has been sealed up with adhesive tape.}
+<DIAL>__{PLAIN-CLOTHES DETECTIVE}
+<DIAL_PAR>__{(to the fire officer)}
+<DIAL>__{Can you try?}
+<ACTION>__{While the firemen go to work on the door, the plain-clothes detective goes into the adjoining dining room. He opens the windows quickly and turns to go into the room to the left via the double doors. They are locked and the gaps are also taped up. He turns to the right and goes into the living room, where he also opens up the windows...}
+<CHAR>__{FIREMAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{The door is open.}
+<ACTION>__{...and comes back into the hallway, passing by the waiting firemen. Once again, we hear snatches of dialogue between the police officer and the janitor.}
+<CHAR>__{JANITOR} <CHAR_PAR>__{}
+<DIAL>__{...no as far as I know. During the whole time, they had a nurse, but it's been a while since I last saw her. My wife has been...}
+<ACTION>__{The plain-clothes detective enters the bedroom which is now accessible. Its windows are open and the draft makes the curtains billow into the room.}
+<DIAL>__{PLAIN-CLOTHES DETECTIVE}
+<DIAL_PAR>__{(to the firemen who are now curious enough to come and stand by the DOOR)}
+<DIAL>__{Did you open the windows?}
+<ACTION>__{The firemen shake their heads. The PLAIN-CLOTHES DETECTIVE turns toward the big double bed placed against the back wall of the bedroom. On the right- hand bed, there's only the bare mattress. On the left-hand bed lies the partly decomposed body of an old woman. Where once there were eyes, now there are only gaping holes. The corpse has been neatly dressed and is adorned with flowers that have already dried out a little. On her chest is a crucifix. White letters on a black background: THE CREDITS}
+<LOC>__{INT. CONCERT HALL - NIGHT}
+<ACTION>__{All we see is the audience pouring into the hall. GEORGES and ANNE, both are around eighty, are part of this crowd. They go to their seats in one of the rows near the front. Once everybody is seated, we hear the usual ANNOUNCEMENT asking people to turn off their mobile phones. Some people, caught with their phones switched on, hasten to comply. Then the lights go out. APPLAUSE. Off-screen, we hear the soloist make his entrance. THROATS ARE CLEARED here and there. Finally, the MUSIC begins.}
+<LOC>__{INT. ARTISTS DRESSING ROOM - NIGHT}
+<ACTION>__{The music from Scene 3 continues. The soloist is surrounded by admirers who congratulate him. Now Georges and Anne push their way into the room. (If the soloist is female, they will be carrying flowers, like most of the others). When the soloist notices their presence, he leaves his group of fans, heads towards them and greets them very warmly, visibly glad to see them.}
+<LOC>__{INT. BUS - NIGHT}
+<ACTION>__{Continuation of the MUSIC from Scene 3. Georges and Anne are seated side by side in the half empty bus. Anne talks enthusiastically, Georges says something from time to time, and smiles now and then. They are both relaxed and happy.}
+<LOC>__{INT. APARTMENT - HALLWAY - NIGHT}
+<ACTION>__{The door to the apartment is unlocked and opened from the outside. THE MUSIC ENDS. Georges comes in, turns on the light. He and Anne observe the open door. Around the lock, one can see the traces of an attempted forced entry. Georges bends down and runs his fingers over the deep grooves.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{They used a screwdriver or something like that...it doesn't look very professional...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{But who would do something like that?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No idea. Why do people break in? Because they want to steal something.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{From us?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs briefly out loud)}
+<DIAL>__{Hey, why not? If I thought about it, I could come up with at least three or four people we know who've been burgled.}
+<ACTION>__{After having examined the outside of the second leaf of the double door, he comes in, closing the door behind him.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What time is it? Can't we call the superintendent?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I'll do that tomorrow morning. Anyway, they didn't see anything.}
+<ACTION>__{He unbuttons his overcoat and heads toward the large closet in the hallway.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Don't let it spoil your good mood now.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Or the police?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Come on, give me your coat.}
+<ACTION>__{She goes toward him, he takes her coat off and hangs it with his in the closet.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Imagine if we were here, in our beds, and someone broke in.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Why should I imagine that?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{But it's terrible! I think I'd die of fright.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{So would I.}
+<ACTION>__{He undoes his shoes.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Shall we have a drink?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I'm tired.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I still fancy a drink.}
+<ACTION>__{He puts away his shoes with the others and slips on his slippers. Anne has gone into the bathroom.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Go ahead then. Mathilde told me that in her building, the attic apartment was burgled from the loft. They just knocked a hole in the wall, cut out all of the valuable pictures from their frames and disappeared without a trace.}
+<ACTION>__{He goes toward the kitchen.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{They must have been professionals.}
+<ACTION>__{As he passes in front of the bathroom, he stops and appears to be looking at Anne.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Did I tell you, you looked good tonight?}
+<ACTION>__{SHORT PAUSE. THEN:}
+<CHAR>__{ANNE } <CHAR_PAR>__{(O.S.)}
+<DIAL_PAR>__{(FLATTERED)}
+<DIAL>__{What's got into you?}
+<ACTION>__{With a gentle LAUGH, Georges disappears into the kitchen, where he turns on the lights. We hear him FIDDLING AROUND, apparently getting a glass and some wine. After a short}
+<TRANS>__{PAUSE:}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Weren't those semiquavers in the presto incredible? What staccato! Don't you agree?}
+<ACTION>__{Short PAUSE.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{You're proud of him, huh?}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{Georges wakes up. He looks with amazement beside him, then raises his eyes. Anne is sitting upright, her back against the headboard.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Something wrong?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{After a while, the RINGING of a kitchen egg-timer leads us to the next scene.}
+<LOC>__{INT. KITCHEN - DAY}
+<ACTION>__{The egg timer in the kitchen RINGS. Georges is seated in front of the window, at a table which is half set for breakfast. He has mobile phone raised to his ear and a phone book opened in front of him. Anne is getting up from the table. She goes toward the stove, turns off the gas, takes the egg out of the pan with a spoon and runs it under cold water. Like Georges, she is still in her robe.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the phone)}
+<DIAL>__{What about next week? No but still, it would make sense to get it done soon. It might give people silly ideas. And anyway, it's too ugly to look at... Wednesday? What time? Ok... Will you bring the paint with you too, to paint over it? But at least some primer...Yes, Ok. Thank you.}
+<ACTION>__{He hangs up.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(TO ANNE)}
+<DIAL>__{You can depend on that guy.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(who comes back to the table with the egg)}
+<DIAL>__{I hope so. The last time, he kept us waiting for ages, if you remember.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs while acquiescing)}
+<DIAL>__{Yes, that's true.}
+<DIAL_PAR>__{(Reacting when she places the egg in his egg cup)}
+<DIAL>__{Thanks. If I call a regular professional, we'll still be waiting two months time.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(more to herself)}
+<DIAL>__{Really?}
+<ACTION>__{She has sat down. Looks straight ahead. He cracks open his egg, puts salt on it, eats.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{The Frodons waited three days when their toilet was blocked. Not exactly pleasant.}
+<ACTION>__{He eats. Wants to put on more salt, but the saltcellar is empty.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The saltcellar is empty.}
+<ACTION>__{He looks up for an instant, as if he expected her to deal with it. As she doesn't react, he realizes the inappropriateness of such an expectation, gets up himself, heads for the kitchen cupboards and fills the salt cellar.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't know if he's going to bring us the CD. Maybe he won't come at all. In any case, he didn't mention it. I'd like to buy it. It was really good and I don't want to wait long for it. We could go to Virgin this afternoon and buy it. What do you say?}
+<ACTION>__{He comes back to the table and sits down again.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hmmm? Anne? What's the matter?}
+<ACTION>__{She looks at him and doesn't answer.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What's going on? What's the matter?}
+<ACTION>__{He waves his hand in front of her eyes and laughs nervously.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Helllloooo!!! Cuckoo!!! I'm here!}
+<ACTION>__{She continues to look at him without reacting.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(serious now)}
+<DIAL>__{Anne! What's going on?}
+<ACTION>__{He waits, looks at her. No reaction. He stands up slightly, leans over the table to sit beside her. Tries to make her turn toward him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anne, what's the matter?}
+<ACTION>__{He manages to get her torso to turn halfway toward him, but her eyes look through him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anne...what's...}
+<ACTION>__{He takes her face in both hands and turns toward him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anne...}
+<ACTION>__{She stares into the void. He drops his hands. Then sits beside her, for quite awhile.}
+<ACTION_ALT>__{SILENCE}
+<ACTION>__{Finally he gets up, heads for the sink, turns on the tap, wets a tea towel, wrings it out a little, comes back and places it on Anne's face. Waits for a reaction that doesn't come. Then he pulls up her hair in the nape of her neck and applies the cloth there. Then sits down and looks at her imploringly.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(close to tears)}
+<DIAL>__{Anne...Darling...please!}
+<ACTION>__{Once again they both remain seated. In the background, we hear the GUSHING of the tap that in his panic he has forgotten to turn it off. Making a sudden decision, he gets up, rapidly crossing the hallway, he goes into the bedroom where he starts to dress agitatedly, which takes him quite a lot of time. Suddenly, the GUSHING of the tap stops, which had accompanied us as far as the bedroom. George doesn't notice it immediately, then he stops short.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anne?}
+<ACTION>__{Finally he returns, half dressed, into the kitchen. Anne is seated in the same place and looks at him.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What are you doing?}
+<ACTION>__{She turns toward the breakfast.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You left the water running.}
+<ACTION>__{Georges stares at her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(both aghast and furious)}
+<DIAL>__{Hey, what's going on? Are you completely crazy? Is this supposed to be a joke, or what's going on?}
+<ACTION>__{She looks at him with amazement.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What did you say?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SERIOUSLY)}
+<DIAL>__{Is this a joke? Is this meant to be a joke?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What joke? I don't get it! Why are you talking to me like that? What's got into you?}
+<ACTION>__{Georges comes from the door to the table.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne! Please! Stop this game. It's not funny.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GETTING IRRITATED)}
+<DIAL>__{What game, for Christ's sake? What on earth's the matter?!!}
+<ACTION>__{Georges is about to answer in a similarly irritated tone, but gradually begins to suspect that he could be mistaken. He tries to calm down, takes his chair that has remained beside Anne, sits down and looks at his wife. She doesn't know how to react.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What's the matter? Why didn't you react?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{To what?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{To what? To me, to everything.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{When?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Just now. A moment ago.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Please tell me what's wrong. What am I supposed to have done?}
+<ACTION>__{Georges first looks away reluctantly, then looks at Anne. He doesn't want to believe that its serious.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't know what to say. Do you really not know what just happened?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{But what DID happen?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(almost reluctantly bowing his head as he speaks)}
+<DIAL>__{You were sitting there, staring at me. You didn't answer me when I asked you what the matter was.}
+<ACTION>__{He picks up the wet tea towel from the table.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I put this tea towel on your face, and you didn't react.}
+<ACTION>__{Anne looks at the towel, then at Georges, and shakes her head, perturbed that she can't understand. Georges looks at her. He sees the damp marks on the collar of her robe.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Look... There's still dampness on your collar.}
+<ACTION>__{Anne follows his gesture, tugs on her collar and sees the damp marks. She slowly grasps that something is awry.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{When... When was it?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Just now, a few minutes ago.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{So...??}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{There's no "So". I went into the bedroom to get dressed. I wanted to get help.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Help?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes, and then you turned off the tap.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Yes. Because you left it on.}
+<ACTION_ALT>__{SILENCE}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't understand.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Neither do I.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Don't you think it's best if I call Dr. Bertier?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Why? What can he do?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't know. Examine you.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I'm fine. There's nothing wrong with me.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne, please!! That's absurd. We can't pretend that nothing happened.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{But what DID happen?}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm here. I'm having my breakfast, and you're telling me things happened that I don't understand.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Can you explain how the tea towel got there?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(IRRITATED)}
+<DIAL>__{No, I can't!}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Who turned on the tap?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You did!}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Can you remember that?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(more and more desperate, close to tears)}
+<DIAL>__{No I can't! Do you want to torture me? Leave me in peace!}
+<ACTION>__{Georges looks at her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Don't you think it would be better to fetch Dr. Bertier?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<ACTION>__{She takes her cup of tea, as if to show how well she is, and drinks it up. When she wants to re-fill her cup, she completely misses her aim. She notices it, puts down her cup and bursts into tears.}
+<LOC>__{INT. APARTMENT - NIGHT}
+<ACTION_ALT>__{SILENCE}
+<ACTION>__{We see wide shots of the apartment. The hallway. The bedroom. The living room. The dining room. The kitchen. Nobody in sight.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{EVA, around 50, has come to pay a visit. Anne isn't there.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{You know how he is. Once he's got something into his head, he has to go through with it. In the end, everybody was delighted. And besides, it didn't hurt our financial situation. We're playing until the 28th.}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Then we have 10 days to rest, then we go to Stockholm for four days, and then to Kumo in Finland. Heaven knows where that is. At the North Pole. But Geoff's already been there few times, and he loves it. We're playing the "Dowland Transcriptions" there and then we're back in London.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What about the children?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Liz is at boarding school and John is living his own life. He's twenty- six years old.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What does he do?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{He's a student. We rarely see him. He's got his own ideas. Life Geoff. They don't really get along. Geoff wants to advise him on everything, and John doesn't like that at all.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Is he good?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I think so. He's less impulsive. Very industrious.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{That sounds rather derogatory.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{No!! He's not like Geoff. Quiet, but stubborn. I think he'll do all right. At the last Conservatory concert, he played the solo part in the Haydn Concerto. It was very good. Geoff was there and congratulated him at the end.}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{And you?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What do you mean?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Did you both make up?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a little laugh)}
+<DIAL>__{My God, you know him, don't you? Over the winter, he suddenly discovered his passion for a viola player who'd been in our ensemble for years. What can I tell you? It was a huge drama, and the poor little darling wound up trying to commit suicide. That scared him and he came back to me in full remorse. I've got used to it now. What's a bit embarrassing is that the ensemble, you can't keep any secrets from anyone.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Do you love him?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Yes, I think so.}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What's aphasia?}
+<ACTION>__{Georges gestures that it's too complicated.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What can I say? The carotid artery was blocked. They did an ultrasound scan, two in fact, and they said they had to operate on her. She was scared. She was confused and scared. You know she has always been afraid of doctors. They said the risk was very low and that if they didn't operate, she'd be certain to have a serious stroke.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{And what do they say now?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Just that it didn't go well. It's one of the 5% that go wrong.}
+<ACTION>__{He yawns.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's pretty upsetting.}
+<ACTION>__{He looks at his watch.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Usually at this time, I take a nap. My blood sugar is somewhere down in my socks.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I'm so sorry.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What can I do for you?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Nothing. It was nice of you to come despite all of your stress.}
+<ACTION>__{Brief PAUSE. She doesn't know what to say.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No, really. There's nothing you can do. We'll see how things go when she's back here in the apartment. We'll manage. Maybe I'll get a caretaker in, or maybe I'll manage on my own. We'll see. We've been through quite a lot in our time, your mother and I.}
+<DIAL_PAR>__{(LITTLE LAUGH)}
+<DIAL>__{All this is still a bit new.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a little laugh)}
+<DIAL>__{It's funny. I don't know if I should say it. Maybe it'll embarrass you. But when I came here a short while ago, I suddenly remembered how I always used to listen to the two of you making love when I was little.}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{For me, at the time, it was reassuring. It gave me a feeling that you loved each other, and that we'd always be together.}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{A carpenter and his assistant are raising the base of the double bed. Georges watches.}
+<LOC>__{INT. HALLWAY - LIVING ROOM - DAY}
+<ACTION>__{The door of the apartment is opened. Georges comes in. Behind him is Anne in a wheelchair, pushed by a paramedic. A second paramedic (as young as the finerst) follows with a suitcase and a large bag. Behind them, the superintendent. Georges tries to rid of the three as quickly as possible. He stuffs a twenty euro note into the hand of the first paramedic.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Here. Thank you very much. It's for both of you. You can just put the things down here. There, beside the window, right. We'll be okay on our own. Thanks a lot.}
+<ACTION>__{The two paramedics exchange a brief glance, say thanks, and leave the apartment, passing the superintendent as they go.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to the superintendent)}
+<DIAL>__{Thank you, Mr. Mery.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{If you need anything, just call downstairs. If we can help at all...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Right now everything's fine. I'll let your wife know as soon as we need anything.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO ANNE)}
+<DIAL>__{It's nice to have you back, Mrs. Laurent.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Yes. Thank you, Mr. Mery. Thank you.}
+<ACTION>__{The superintendent hesitates another moment.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Yes, thanks.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{Yes... So... Goodbye then, ma'am. Welcome home again. Goodbye, Sir.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Goodbye, Mr. Mery.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{Goodbye.}
+<ACTION>__{He leaves the apartment. There is a brief moment of perplexity. Then Georges says:}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a nervous smile)}
+<DIAL>__{Where do you want...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{In the living room.}
+<ACTION>__{Georges pushes her toward the living room door, walks around the wheelchair, opens the door, comes back behind the wheelchair and pushes Anne into the LIVING ROOM. The doorway is narrow. The wheelchair only just passes through it. Georges pushes Anne toward the sofa and the armchairs and then steps in front of her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Shall I make some tea?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a faint smile)}
+<DIAL>__{First come sit with me.}
+<ACTION>__{George registers her smile; he knows he's behaving in a clumsy way. He sits down in one of the two arm chairs.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Can you help me into the chair?}
+<ACTION>__{Georges stands back up.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(EAGERLY)}
+<DIAL>__{Of course.}
+<ACTION>__{He extends his hands. She puts on the wheelchair brake, lifts the footrest with her left foot, raises her right leg from the footrest with her left hand and then extends her left arm to Georges.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{It's best if you put my arm around your neck and your right arm around me, that way it'll be easy.}
+<ACTION>__{He does as he is told, pulls her up as they hobble together the short distance to the second arm chair. Cautiously, he lowers her down and helps her sit herself straight. Because they are not used to it, the whole process appears awkward and clumsy.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thanks.}
+<ACTION>__{He smiles because it seems silly to him to answer "Don't mention it". Then he sits down opposite her.}
+<ACTION_ALT>__{LONG PAUSE.}
+<ACTION>__{At first they are both ill at ease, but then they accept the fact that words do not come easily. After a long while, during which we hear the intermittent sound of the TRAFFIC below.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(softly almost to himself)}
+<DIAL>__{I'm glad you're back.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a voice just as soft)}
+<DIAL>__{Me too.}
+<ACTION>__{Another PAUSE. Then Anne says:}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Promise me one thing.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Please never take me back to the hospital.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<ACTION_ALT>__{PAUSE.}
+<ACTION>__{She looks at him. He has understood.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You promise?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You promise?}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne, I...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Don't talk right now. And don't give me any lectures. Please.}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What can I say, it's...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTERRUPTING HIM)}
+<DIAL>__{Nothing. Just don't say anything. OK?!}
+<ACTION_ALT>__{PAUSE.}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{He helps her into bed, then throws the blanket over her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{There.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Thank you. Thank you, Darling.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Everything OK?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SMILING)}
+<DIAL>__{Everything's fine.}
+<ACTION>__{He hesitates.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You don't have to hold my hand all the time now. I can look after myself, you know.}
+<ACTION>__{He nods.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And don't feel guilty. That would be pointless. And a drag. For me too.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't feel guilty.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{That's good.}
+<ACTION>__{She smiles.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Go over there now. I'm not a cripple. You can easily leave me alone for two minutes. I won't collapse.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a slight smile)}
+<DIAL>__{Ok.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Did you buy the new book on Harnoncourt?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I've already read it.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{And?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Do you want it? I'll get it for you.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<ACTION>__{He goes out of the room to fetch the book. She remains lying there, waiting, and runs her healthy left hand through her hair to make herself look prettier, then smooths out the blanket that has slipped out of place a little. After a while, we hear Georges shouting.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I don't know where I put it.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Don't worry. It isn't that important.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yes, it is. Hold on, maybe it's in the... Just a moment! Viola! Here you are! Nothing like an infallible memory!}
+<ACTION>__{She smiles, looks in his direction. He enters with the book in his hand.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I thought I'd left it over there in the other room, but I'd already put it away. Tidy people just can't help being tidy.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taking the book)}
+<DIAL>__{Thanks.}
+<ACTION>__{She puts the book on her stomach. Looks at Georges.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Right now, take care of yourself. And don't wait to see how I hold the book in my hand, OK?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Ok.}
+<ACTION>__{He looks at her for a moment longer, then leaves the bedroom. She waits till he's outside. Tries to relax. Then she remembers the book. She takes it in her left hand and tries to open it. It's not easy for her. Then she notices that she's forgotten her glasses. She rests the book back on the bed cover and fishes for her glasses on the night stand. In the end, she manages it. Then she opens the book again, and tries to read.}
+<LOC>__{INT. KITCHEN - DAY}
+<ACTION>__{The superintendent's wife puts the filled supermarket bags on the counter. Takes the stack of mail that she had put on top of one of the bags and puts it down beside them. Then she takes out the receipt and the change.}
+<CHAR>__{SUPERINTENDANT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{Unfortunately the strawberries were already moldy. I'll go and get you some fresh ones tomorrow from the market. My husband will bring you the bottled water this afternoon. I'm not supposed to carry anything heavy: my back, you know...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Sure, no problem.}
+<CHAR>__{SUPERINTENDENT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{It came to 76 euros and 40 cents. There's the till receipt and here's your change: 23 euros 60.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Thank you very much. Keep the change. Thanks.}
+<CHAR>__{SUPERINTENDENT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{Thank you, sir.}
+<ACTION>__{Short embarrassed PAUSE.}
+<CHAR>__{SUPERINTENDENT'S WIFE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well, I'll be off. Call me if you need anything else.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes. I will.}
+<CHAR>__{SUPERINTENDENT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{Is your wife well? ...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes, she's Ok. She's recovering.}
+<CHAR>__{SUPERINTENDENT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{Fine. Give her my regards. My husband and I are very glad she's back.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes, we are too. Bye, Mrs. Mery, thanks so much.}
+<CHAR>__{SUPERINTENDENT'S WIFE} <CHAR_PAR>__{}
+<DIAL>__{Goodbye, sir.}
+<ACTION>__{She heads toward the front door of the apartment, turns around again toward Georges.}
+<CHAR>__{SUPERINTENDENT'S WIFE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'll bring you the strawberries tomorrow around noon, if that suits you.}
+<ACTION>__{He nods, she closes the door as she leaves.}
+<LOC>__{INT. HALLWAY - TOILET - DAY}
+<ACTION>__{He stands in front of the closed door of the toilet, waiting. After a while, we hear the noise of flushing. After a while longer, we hear}
+<CHAR>__{ANNE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{There. Can you come in, please?}
+<ACTION>__{He opens the toilet door, goes around Anne, pulls her up, she puts her left arm around his neck, keeps herself upright that way, he pulls up her pants under her skirt. Then they slowly hobble out of the toilet and he sits her back down in the wheelchair.}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{They are both lying in their beds. Anne sleeps, BREATHING NOISILY. Georges lies with his eyes open, listening attentively to her breathing.}
+<LOC>__{INT. KITCHEN - DAY}
+<ACTION>__{The sun shines in. Georges has cooked something simple. They are both in a good mood, eating and drinking.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{... some banal romance or other about a nobleman and a lower middle- class girl who couldn't have each other and who then, out of sheer magnanimity, decide to renounce their love - in fact I don't quite remember it any more. In any case, afterwards I was thoroughly distraught, and it took me a bit of time to calm down. In the courtyard of the house where grandma lived, there was a young guy at the window who asked me where I'd been. He was a couple of years older than me, a braggart who of course really impressed me. "To the movies", I said, because I was proud that my grandma had given me the money to go all alone to the cinema.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"What did you see?" I started to tell him the story of the movie, and as I did, all the emotion came back. I didn't want to cry in front of the boy, but it was impossible; there I was, crying out loud in the courtyard, and I told him the whole drama to the bitter end.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{So? How did he react?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No idea. He probably found it amusing. I don't remember. I don't remember the film either. But I remember the feeling. That I was ashamed of crying, but that telling him the story made all my feelings and tears come back, almost more powerfully than when I was actually watching the film, and that I just couldn't stop.}
+<ACTION>__{She looks at him, smiles, then turns back to her food.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{That's cute. Why didn't you ever tell me before?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{There are still a few stories you don't know.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Aha...? Don't tell me you're going to ruin your image in your old age?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GRINNING)}
+<DIAL>__{You bet I won't. But what is my image?}
+<ACTION>__{She takes a mouthful, eats ponderously. Then she looks at him.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TENDERLY)}
+<DIAL>__{Sometimes you're a rotter. But you're nice.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(EMBARRASSED GRIN)}
+<DIAL>__{Can I take you for a drink?}
+<ACTION>__{She laughs.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{He does physiotherapy exercises with her. Counts the repetitive movements of the exercises.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{She's lying on the sofa. He's seated in the armchair. They're both reading the newspaper. After a while:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Listen to this! My horoscope. Motto: You have lots of verve, but need to be more serious! Love: High-class conversation is what you need. Work: You're motivated again. But proceed with care. Health: Loosen up by doing exercises. It'll give you renewed pizzazz.}
+<ACTION>__{PAUSE. Then}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GOOD-HUMORED)}
+<DIAL>__{You've only yourself to blame if you read stuff like that.}
+<ACTION>__{Brief PAUSE. Then:}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Tomorrow afternoon is Pierre's funeral.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You have to go.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I fear I must. I don't want to go at all.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Who does like going to funerals?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Oh, I know a few people who do. Annette can never wait to get all dolled up again. And Francois has...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You're mean. What would you say if no one came to your funeral?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dryly)}
+<DIAL>__{Nothing, presumably.}
+<ACTION>__{She shoots him a glance, smiles at his irony. Then she says:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Have you talked to Jeanne since I was in the hospital? I mean, does she know I can't come?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Of course.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What did she say?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{She was shocked.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{How?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a bit irritated)}
+<DIAL>__{My God, what are people like when they're shocked? She couldn't believe it, she was speechless. I don't remember any more. In any case, not exactly. I've spoken to a lot of people since.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Sorry.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No, I'm sorry. I didn't mean to be unkind, but I just don't see the point of talking about it all the time.}
+<ACTION>__{Short PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Do I talk about it all the time?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No. Sorry.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Don't worry.}
+<LOC>__{INT. HALLWAY - LIVING ROOM - DAY}
+<ACTION>__{The front door is unlocked from the outside, and Georges enters. He's back from the funeral, dressed for the occasion. He turns on the light. He's wet. Clearly, it's been raining. As he closes the door again, his eyes fall on Anne. With her back to him, she is sitting on the floor in front of the opened window of the light well, half propped against her wheelchair.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What ... ?!}
+<ACTION>__{Shaken, he heads toward her, picks her up and seats her in the wheelchair. Outside, in the light well, it is raining.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(once she's seated in the WHEELCHAIR)}
+<DIAL>__{Why are you back already? What time is it?}
+<ACTION_ALT>__{PAUSE.}
+<ACTION>__{Georges has understood immediately. He closes the window noiselessly. Then just stands there, at a loss. SILENCE. Then}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(SOFTLY)}
+<DIAL>__{Forgive me, I was too slow.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Can you wheel me into the living room?}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{He turns toward her, pushes the wheelchair into the living room between the two armchairs. Turns on the light. Stops beside the switch. They both look exhausted.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're always good at surprises.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Yes. Why are you home earlier?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I didn't come home earlier. I took a taxi. In August, there isn't a lot of traffic.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{That's true. How was the funeral?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne...!}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{How was it, go on, tell me!}
+<ACTION>__{He thinks an instant, then goes and sits down facing her in an armchair. Looks at her. She raises her head and returns his look. He understands that he can't insist right now. Long PAUSE. Then he begins:}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{It was rather bizarre. The priest was an idiot. Then one of Pierre's co-workers made a speech that was embarrassingly emotional. His old secretary came with a radio- cassette player and after the speech she put on "Yesterday" by the Beatles. You can't imagine. Everybody turned round to look at her. Apparently, it wasn't planned. His grandchildren were there. Of course they giggled as soon as the music began. Then the urn was put on a huge stretcher that was obviously designed for a coffin, and out we went into the rain. They placed the urn on a small electric cart that crawled along for what seemed like an eternity to the tiny hole they had dug. A lot of people had to stifle their laughter. It must have been terrible for Jeanne. I have...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTERRUPTING HIM)}
+<DIAL>__{There's just no point in going on living. I know it can only get worse. Why should I inflict it on us? On you and me.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{You're not inflicting anything on me.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You don't have to lie, Georges.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Imagine you were me. Didn't you ever think something like this could happen to one of us?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Of course I did. But imagination and reality have little in common.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{But things are getting better every day. We'll...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTERRUPTING HIM)}
+<DIAL>__{Georges, I don't want to carry on. You're making such efforts to make everything easier for me. But I don't want to go on. For my own sake. Not yours.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't believe you. I know you. You think you're a burden on me. But what if things were the other way around? What would you do then?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I don't know. I can't be bothered to think about being you. I'm tired. You tire me. Everything tires me. I can't talk. I want to go to bed.}
+<ACTION>__{He looks at her. Finally he gets up and pushes her wheelchair out of frame.}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{She is lying in bed. The bedside lamp is on. We hear the RADIO coming from the living room: a program about the fauna and flora of the South Seas, or something similar.}
+<LOC>__{INT. HALLWAY - LIVING ROOM - DAY}
+<ACTION>__{Georges comes out of the kitchen and opens the front door. On the doorstep stands the soloist (male or female) from Scenes}
+<LOC>__{3 and 4.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(somewhat perplexed, but pleased)}
+<DIAL>__{Oh hello! Nice to see you.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{Forgive me for dropping in on you like this, Professor. I tried to reach you by phone a couple of times, but no luck.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. I only pick up the phone when I've stored the caller's number and I can see who's calling. Why didn't you leave a message? Anyway, do come in...}
+<ACTION>__{He closes the door behind his guest.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{I just couldn't manage to come by after the concert. I was so sorry, because I was so pleased you came along.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Come with me.}
+<ACTION>__{While they pass into the living room, they continue to speak:}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{... And now, an unexpected opportunity has arisen because Francois Mitry called me - you know him, he's my agent - to say he'd arranged for me to meet the boss of the Theatre des Champs-Elysees tonight to talk about their new concert series.}
+<CHAR>__{SOLOIST } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So I flew to Paris this morning, and while I was in my hotel, I thought, I'll just give it a try and drop in. After all, it's virtually just around the corner.}
+<ACTION>__{Sorry, these are for your wife. He takes the bouquet of flowers from its wrapping paper and hands it to Georges.}
+<CHAR>__{SOLOIST } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Isn't she at home?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes, she is. I'll go and get her in a minute. Have a seat.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{I hope I'm not disturbing you too much.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No, not at all. I'm happy that you came. We were so thrilled by your concert. We hoped we'd see you again soon. Please do have a seat. Can I can get you something? A cup of tea?}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{No, no, thank you very much.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Hold on, I'll just freshen up the flowers; in this heat they wilt so fast...}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{I've only just bought them. They should keep quite...}
+<ACTION>__{But Georges has already left the room with the bouquet and closed the door behind him. The soloist looks around him. After a few moments we hear the VOICES of Anne and Georges in the distance, without understanding what they're saying. It lasts a while. Finally Georges opens the door and pushes Anne, in her wheelchair, into the living room.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Martin! What a delight. How lovely to see you!}
+<ACTION>__{The (male or female) soloist has got up and doesn't quite know how to handle the situation.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Laurent! Lovely to see you too.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Don't get up. Come on, sit yourself down and don't look so shocked.}
+<ACTION>__{The soloist sits down hesitantly, Georges pushes the wheelchair between the two armchairs and also sits down. Brief embarrassed PAUSE.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm so proud of you. We were both in raptures after your concert. Georges wanted to buy your new CD the very next morning.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{Oh God! I wanted to bring you the CD, but I left in such a hurry that I forgot it. I'm so sorry. I'll get one today and drop it by.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SMILING)}
+<DIAL>__{No, no, don't worry. We want to make a contribution to your success. Even if it's only twenty euros.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{You've already contributed so much. I owe you so much, Madame.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{You owe it to your hard work and your talent.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head a little)}
+<DIAL>__{Do you remember, when you first gave me the Bagatelles to play? I was twelve at the time, and in my youthful arrogance I said: "But why the Bagatelles?" And you really gave me a piece of your mind.}
+<ACTION>__{They both smile. PAUSE. Then he goes on:}
+<CHAR>__{SOLOIST } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So what happened?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{My right side is paralyzed, that's all. It can happen when you get older.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{And how...?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Let's talk about something else, shall we?}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(DISCONCERTED)}
+<DIAL>__{Sure ...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Don't be offended. But I want to enjoy the lovely interlude you've given us with your visit.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(DISARMED)}
+<DIAL>__{Of course.}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{You haven't told us yet what's been going on since the Paris concert.}
+<ACTION>__{The soloist is a bit thrown by the couple's behavior.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL>__{Well, actually I've spent most of the time in London studying. Then I went to Copenhagen for two performances, that was Schubert too. My whole life revolves around Schubert at the moment. The concerts with the Impromptus and the Moments Musicaux, and for my bread-and-butter work I'm developing the sonatas. Not the late ones, I think I still need a couple more years for those.}
+<ACTION>__{(The dialogue concerning music will be modified according to the performer chosen.)}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Could you do me a favor?}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SURPRISED)}
+<DIAL>__{Really?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Would you play Fur Elise?}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(EMBARRASSED)}
+<DIAL>__{Um, I don't know if I remember it very well. Beethoven, it's been a long time since I've... But if you want...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Give it a try.}
+<CHAR>__{SOLOIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(HESITANTLY)}
+<DIAL>__{Ok.}
+<ACTION>__{He looks at Georges, then at Anne again, gets up, goes to the grand piano and plays.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Georges is leaning against the chest, and watches Anne, who is practicing maneuvering her new electric wheelchair. Forward, backward, turning. In the end, she goes round and round in circles several times. He laughs, so does she.}
+<LOC>__{INT. BEDROOM - LIVING ROOM - NIGHT}
+<ACTION>__{Anne is lying in bed. A book rests on her stomach. She listens to the PIANO playing coming from the living room. After a while the music stops.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What's the matter?}
+<ACTION_ALT>__{LIVING ROOM}
+<ACTION>__{Georges is seated in front of the open piano. His hands in his lap, he looks straight ahead.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{The superintendent's wife runs the vacuum cleaner over a carpet.}
+<LOC>__{INT. BATHROOM - NIGHT}
+<ACTION>__{Anne is seated on a stool. Georges washes her.}
+<LOC>__{INT. KITCHEN - HALLWAY - BEDROOM - TWILIGHT}
+<ACTION>__{Georges has cooked himself a steak and is eating. On the radio, we hear the EVENING NEWS. Suddenly, coming from the neighboring room, a LOUD CRASH and the SOUND of crockery breaking. Stifled CRY from Anne. Georges gets up, irritated, crosses the HALLWAY and enters the BEDROOM. Anne lies on the floor, beside the overturned night stand, in the midst of the crockery and remains of a meal.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shocked, and hence furious)}
+<DIAL>__{Good God, what are you doing?}
+<ACTION>__{He hurries toward her and pulls her up rather roughly into the bed.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Have you lost your senses?! I don't believe it! How stupid!}
+<ACTION>__{He points to the broken objects.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Look at that! Did you need to do that? Can't you call me when you need something?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(meekly)}
+<DIAL>__{I'm sorry.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STILL FURIOUS)}
+<DIAL>__{Yes, so am I.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOFTLY)}
+<DIAL>__{Sorry.}
+<ACTION>__{Georges bends down, and begins to gather up the scattered objects.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{The lamp is broken too.}
+<LOC>__{INT. BATHROOM - HALLWAY - ANNEX - DAY}
+<ACTION>__{Bathroom. Georges, in pajama pants, naked torso, brushes his teeth. The doorbell rings. Georges spits out, wipes his mouth, goes into the hallway and over to the front door.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Yes? Who's there?}
+<ACTION>__{No answer. Georges is very irritated. O.S., Anne calls to}
+<TRANS>__{HIM:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Georges? What's going on? Who is it?}
+<ACTION>__{Georges opens the door. Outside, however, instead of the usual landing, we see an empty room lit a giorno but without a window, about as large as the rooms in the apartment. It looks like an unpainted room in a new apartment. A couple of ladders are propped against the opposite wall. At the other end of the room, to the side, is a small door. Georges is stunned, and doesn't understand what has happened. Hesitating, he crosses the room toward the door. O.S., in the distance, Anne's worried voice:}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Georges? What's going on?}
+<ACTION>__{Georges opens the small door. Behind it is a narrow, windowless corridor, as brightly lit as the room. At the end of the corridor, a door. Georges heads toward this door and opens it too. Behind it is a tiny windowless room, equally bright as the others. Everything is very quiet. Georges enters, turns round, then goes back along the corridor, crosses the room, comes through the apartment door into the hallway of the apartment. But it too is now empty and bright, with bare unpainted walls, no doors; only the door to the bedroom is open. Behind that too, it appears to be empty and bright. Georges goes toward it. At the same time, we hear GEORGES' VOICE. At first he groans, but then begins inarticulately hollering, louder and louder. Shortly after, we also hear:}
+<DIAL>__{ANNE'S VOICE: Georges, what's going on?}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{Darkness. GEORGES HOLLERS}
+<CHAR>__{ANNE'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{Calm down will you! There's nothing there. It's nothing.}
+<ACTION>__{She manages to switch on the bedside lamp. Georges is sitting up in his bed, having just awoken, wide-eyed with terror. His breathing is labored. Anne extends her good hand toward him, caresses his back to calm him. He slowly calms down and flops back on his pillow.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What was it?}
+<ACTION>__{He doesn't answer. Continues breathing heavily. She caresses him.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still with labored breathing)}
+<DIAL>__{I didn't understand... I thought I'd gone mad... It was something impossible...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What was?}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{Close shot on the screen of a cell phone. We read on it: Coming to Paris on 12th. Plan to stop by in afternoon. Hope all well. So look forward to seeing you. Love Eva. We hear O.S. the voice of}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Eva. They're coming on the 12th.}
+<ACTION>__{He crouches down in front of Anne who is seated on the bed, puts his mobile phone back in his pocket and continues to put on her socks and her shoes.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No idea. Apparently she's coming with Geoff.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{When is it?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't know exactly. What day is it today? I'll go and look.}
+<ACTION>__{Short PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I don't want that.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Geoff doesn't need to come.}
+<ACTION_ALT>__{PAUSE.}
+<ACTION>__{Georges doesn't agree, but continues to dress Anne.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't need any comments on my predicament. I can only take his British humor in small doses.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Once more the set of physiotherapy exercises. Things are going better. Georges smiles encouragingly at Anne, noticing her improvement. She reacts like someone duty-bound, but without conviction.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{Close shot: a CD is inserted into a player. As the MUSIC begins (the concert heard in Scene 3), Georges takes a card out of the envelope that contained the CD and reads it to}
+<TRANS>__{ANNE:}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Dear Madame Laurent, Dear Monsieur Laurent, it was beautiful and yet sad to see you. My heartfelt wishes that things will get better. With deep gratitude, your former pupil, Martin.}
+<ACTION>__{The MUSIC makes their SILENCE less awkward. Then, after a long while, Anne says:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Stop the CD.}
+<ACTION>__{He hesitates, looks at her, then stops the music. They remain}
+<ACTION_ALT>__{SILENT.}
+<ACTION>__{SCENE 33- INT. KITCHEN - ADJOINING ROOM - DAY They eat. Suddenly, Anne says:}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Where are the family albums?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{The family albums? I don't know, there, in the other room. Why?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Can you get them for me?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What, now?}
+<ACTION>__{Anne nods.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why, Anne?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I'd like to look at them.}
+<ACTION>__{Georges hesitates, and doesn't understand the suddenness of this request.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Please!}
+<ACTION>__{He finally gets up and goes into the adjoining room. He comes back after a few moments with a stack of albums, pushes away the remains of Anne's meal and sets down the first album in front of her.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thanks.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a bit irritated)}
+<DIAL>__{You're welcome.}
+<ACTION>__{With her able hand, Anne opens the album, looks at the photos, turns the pages, looks.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{That's nice.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(self-consciously, softly)}
+<DIAL>__{What?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Life...so long... What a long life...}
+<ACTION>__{Georges looks at her. She continues to thumb through the pages. After a while she turns toward him.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Stop watching me.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(caught in the act)}
+<DIAL>__{I wasn't watching you.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Of course you were. I'm not that dumb yet.}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{They are both lying in bed. Georges reads the day's news to Anne from the newspaper. When he looks over to her, she has fallen asleep. He then puts the newspaper on the night stand and turns out the light.}
+<LOC>__{INT. BEDROOM - HALLWAY - BATHROOM - DAY}
+<ACTION>__{Bedroom. It's morning. Georges is helping Anne to get out of bed into her wheelchair. As he does it, he notices that the bed and her nightgown are wet.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{You're soaked through.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{What do you mean?}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Hold on.}
+<ACTION>__{He sits her back on the bed and goes out of the room.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'll be right back.}
+<ACTION>__{During this time, she remains seated, feeling embarrassed, and waits. He comes back with a towel and puts it on the seat of the wheelchair.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's no big deal. Come on.}
+<ACTION>__{He lifts her out of the bed into the wheelchair and pushes her through the hallway into the bathroom. He lifts her out of the wheelchair, sits her on the stool and takes off her wet nightgown, pulling it over her head. She starts to SOB inconsolably. He caresses her face.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come on, darling. It's nothing serious. Things like that happen..}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOBBING)}
+<DIAL>__{I can't... take it any more.}
+<ACTION>__{He holds her tightly against him, strokes her hair, feeling helpless.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{My love. My darling.}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{Anne is in bed. She's on a drip. Eva is seated on a chair beside the bed.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{... thinking about whether it wouldn't be better to invest the money in an apartment block. If inflation gets going again, property is the only sure thing. Right now, savings accounts pay 1.75% at best. Four years ago, Geoff bought some stocks with a small sum of money and the whole thing collapsed. So now we're obviously worried. Unfortunately, in the meantime, other people have had the same idea, and property prices are going through the roof. Since we came back from Scandinavia, I spend all my spare time looking through newspaper ads.}
+<ACTION>__{To put an end to the PAUSE that follows, she adds:}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It takes time, that's all. We'll find something in the end.}
+<ACTION>__{Another oppressive PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(slowly)}
+<DIAL>__{Yes yes I have... I have... the grandmother... woman with house... not... the house then ... money}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I don't understand you, I'm afraid.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{... yes... now... it's all... house sel... sel... sel... was... in two strokes of... so quickly... god it's hard... to say... sell... money gone... left... there too...}
+<ACTION>__{PAUSE. Eva has tears in her eyes.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{Georges and Eva's husband, GEOFF, around fifty. He speaks with a British accent.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{... three times a week... I'm not experienced enough. We'll see if that's enough.}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL>__{How much is she asking?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{It's paid by the hour. We'll see.}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL>__{And her?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Anne?}
+<ACTION>__{Geoff nods. Georges shrugs.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's hard to say. Sometimes I get the feeling she's totally unaware of the state she's in. And then I feel the opposite. It's... I don't know.}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL>__{And what about the doctor? What does he say?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{He's...}
+<ACTION>__{Eva comes in through the door. She's in floods of tears.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CRYING)}
+<DIAL>__{She only talks gibberish. I don't know what...}
+<ACTION>__{Geoff gets up, hesitantly.}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL>__{Hey, dear...}
+<ACTION>__{He goes toward her and leads her to the armchair where he was sitting.}
+<CHAR>__{GEOFF } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...come here, sit down, it's Ok.}
+<ACTION>__{She shakes him off, irritated, and sits down.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Nothing is Ok.}
+<ACTION>__{At first he's vexed by her brusque response, but then goes to sit down on the sofa. Meanwhile, Eva turns to Georges:}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What's going on, actually? You can't just leave her lying on her bed like that! She's unrecognizable! It's ridiculous!}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{We can't do anything for the moment. Calm down, darling. She's getting medical treatment, they give her the necessary medication, and there are no other options right now.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What does that mean, "no other options"? Why isn't she in a hospital?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{She had a second stroke. Bertier examined her and felt we could spare her all the hospital inpatient procedures.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anyway, they wouldn't keep her, they'd send her to a care home. What they do in those places, we can do here.}
+<ACTION>__{Eva looks at him, amazed.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And she won't be put in a care home. I promised her that.}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL>__{Don't you think you're taking on too much?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Have you got a better idea?}
+<ACTION>__{Geoff doesn't know what to say. Eva has composed herself somewhat and blows her nose.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I can't believe that these days there's no way of handling this efficiently.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CURTLY)}
+<DIAL>__{No one's stopping you from finding out.}
+<ACTION>__{Eva gets up, furious, and goes to the window. Georges follows her with his eyes.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(PEACEABLY)}
+<DIAL>__{Believe me, I love your mother as much as you do. So please, don't treat me as if I was a total idiot incapable of doing the obvious.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I didn't say that. I'm simply questioning whether what I see going on here is the answer to everything!}
+<CHAR>__{GEOFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO GEORGES)}
+<DIAL>__{Don't you want to get a second opinion?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Now you two had better stop, OK? Another doctor did come. He said Bertier was right. From Monday, a nurse will come three times a week. Now can we talk about something else?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Like what?}
+<LOC>__{INT. KITCHEN - NIGHT}
+<ACTION>__{Georges washes the tea cups that he used for Eva and Geoff. On the radio, the EVENING NEWS.}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{With expert gestures, a nurse shows Georges how to lie Anne down and put an incontinence pad on her. She's now almost incapable of moving, and has to be turned over like an object, as tears flow silently down her face.}
+<LOC>__{INT. LIVING ROOM -DAY}
+<ACTION>__{Anne is at the piano and plays the piece from the Scene 3. We watch her and listen to her for a while. Georges is seated in his armchair and looks at the piano. Finally he leans over toward the CD player and stops it. The MUSIC suddenly stops. Georges remains silently seated.}
+<LOC>__{INT. KITCHEN - HALLWAY - BEDROOM - DAY}
+<ACTION>__{He prepares a bowl of muesli, fills a sipping cup with water and brings both into the bedroom. Sits down on the bed close to Anne to feed her her food.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{There, my love, I hope you like it.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Ok...}
+<ACTION>__{He begins to feed her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I added a little orange juice. I find it tastes quite good.}
+<ACTION>__{She can only swallow slowly, and so something keeps running back out of her mouth. He wipes it with a tea towel, continues to feed her. Finally, after a few mouthfuls, she keeps her mouth shut.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come on, Anne, you have to eat some more. You've only swallowed three mouthfuls.}
+<ACTION>__{Anne continues to keep her lips sealed.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Please, darling. A bit more.}
+<ACTION>__{Anne doesn't move. He puts the muesli on the night stand and holds the sipping cup to her lips. She drinks slowly, one sip after the other. He pulls the cup back between each sip, to give her more time. Suddenly she says:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{...Mom to the concert...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{...Mom to the concert... no dress...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Mom has no dress for the concert?}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{...Mom to concert... no ... uuu... no...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes?}
+<ACTION>__{Long PAUSE. Georges waits.}
+<LOC>__{INT. BATHROOM - DAY}
+<ACTION>__{Georges and the nurse install Anne on a metal armchair in the shower. As she does so, the nurse keeps talking reassuringly to Anne. Finally, she turns on the tap.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a monotone)}
+<DIAL>__{Help! Help! Help! Help! Help! Help!...}
+<ACTION>__{Without being phased, the nurse continues to speak reassuringly. Georges remains standing there, helpless.}
+<LOC>__{INT. KITCHEN - HALLWAY - BEDROOM - DAY}
+<ACTION>__{Kitchen. Georges and the nurse are seated at the table with a cup of coffee. In front of the nurse, on the table, is a sum of money. As they speak, we hear, coming from the room, Anne's}
+<ACTION_ALT>__{CALLS FOR HELP.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{... we could take turns. She'd come from 8 till 12 and I'd do 2 until 6, or 3 to 7. That would certainly relieve the pressure on you.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I'll think about it.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{She just has to know in time so she can arrange it in her schedule.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Yes, of course, I'll let you know in the next few days.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{Very well. I have to go now...}
+<ACTION>__{She takes the money on the table, pockets it and gets up.}
+<CHAR>__{NURSE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thanks for the coffee.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{My pleasure. I'll see you out.}
+<ACTION>__{They both leave the kitchen. As the nurse, in the hallway, takes her jacket off the hook in the closet and puts it on, she comments on Anne's continuing CALLS FOR HELP.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{You mustn't take it too seriously. Usually they always say something. She might just as well say "Mom, Mom, Mom". It's just mechanical.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nodding, softly)}
+<DIAL>__{I know.}
+<ACTION>__{They've reached the door.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{Goodbye, sir.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Goodbye.}
+<ACTION>__{He closes the door behind her. Remains motionless a moment, then goes into the bedroom, where Anne's CALLS FOR HELP, unaltered, continue. Georges sits down beside Anne on the bed, takes her hand, holds her. After a while, Anne calms down, her CALLS FOR HELP become quieter and finally stop altogether. After a long PAUSE:}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(slowly, softly)}
+<DIAL>__{I'd like to hire a second nurse. The two could take turns. That would make everything a bit simpler. What do you think?}
+<ACTION>__{Long PAUSE. Then:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(softly)}
+<DIAL>__{...Help...Help...}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{They are both lying in bed. Georges SNORES noisily. Anne's eyes are open.}
+<LOC>__{INT. HALLWAY - KITCHEN - DAY}
+<ACTION>__{The front door. We hear the key in the lock. Georges enters with a shopping bag, and behind him is the superintendent. He carries bigger and heavier bags. Georges holds the door open for him.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Would you mind putting them in the kitchen.}
+<ACTION>__{The superintendent precedes him into the kitchen with the bags. Georges calls toward the bedroom:}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm ba-aack!}
+<ACTION>__{He then follows the superintendent into the kitchen. The superintendent has put the bags on the work surface.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thanks very much.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{Can I do anything else for you, sir?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No, thanks, Mr. Mery. You've been a big help.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{Oh, it's nothing, sir.}
+<ACTION>__{Georges has already taken out his wallet and gives some money to the superintendent.}
+<CHAR>__{SUPERINTENDENT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thanks a lot, sir.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I'll let you know if I need you again.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{With pleasure, sir.}
+<ACTION>__{He gets ready to leave. He stops again in the doorway and turns around.}
+<CHAR>__{SUPERINTENDENT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{May I say something, sir?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What is it?}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{My wife and I, we're very impressed by the way you're managing everything. I take my hat off to you.}
+<ACTION>__{As he speaks, Georges' mobile phone has started to ring.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taking the mobile phone from the pocket of his jacket)}
+<DIAL>__{That's very kind of you. Thanks. See you soon.}
+<CHAR>__{SUPERINTENDENT} <CHAR_PAR>__{}
+<DIAL>__{Give my regards to your wife.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I certainly will. Thanks.}
+<ACTION>__{As the superintendent leaves the apartment, Georges looks at the display on his mobile phone and makes a call.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hello Eva, how are you?... Things are fine.}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{Georges, standing at the foot of the bed, faces Anne and starts singing.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(insistently)}
+<DIAL>__{...Sur le pont ...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{... Ssssur...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{...Sur le pont...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{po ... pont ... sss}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{...Sur le pont ... Sur le pont ...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{... Ssssur le pont ...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiling to encourage her)}
+<DIAL>__{: ... Sur le pont d'Avignon...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{... ssur... le ..}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{... pont... Sur le pont d'Avignon... (he begins to sing): Sur le pont d'Avignon on y danse, on y danse, sur le pont d'Avignon tout le monde y danse en rond...}
+<ACTION>__{He encourages her to sing with him. Starts singing again:}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Sur le pont d' Avignon, on y danse, on y danse ...}
+<ACTION>__{Anne tries to sing too, she has a hint of a smile on her face, but she produces only isolated SOUNDS.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(singing to encourage Anne,}
+<DIAL>__{accompanied by the sounds that she produces): Sur le pont d'Avignon on y danse, on y danse ... Sur le pont d'Avignon tout le monde y danse en rond ...}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{A second nurse is doing Anne's hair roughly. The brush sticks in her tangled hair.}
+<CHAR>__{SECOND NURSE} <CHAR_PAR>__{}
+<DIAL_PAR>__{("CHEERY")}
+<DIAL>__{... there we are...now we're all beautiful again...so everybody will admire us...there...you see... wait...}
+<ACTION>__{She takes a mirror that she has placed within reach. Holds it in front of Anne's face.}
+<CHAR>__{SECOND NURSE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well?... What do we say to that? Aren't we a pretty sight?}
+<ACTION>__{Anne, sickened, averts her eyes. Emits a muffled SOUND. The nurse ignores it.}
+<CHAR>__{SECOND NURSE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You'll see, Monsieur will be dazzled by you...}
+<ACTION>__{Furious SOUND from Anne.}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{The window opening onto the light well is open. A pigeon has landed on the window ledge. It walks to and fro, then finally dares to jump down inside, onto the floor. It starts to explore the surroundings. We hear the TOILET FLUSH. Georges comes out of the toilet. The door opening frightens the pigeon. Alarmed, flapping its wings, it flutters about the room. After a moment of surprise, Georges tries to shoo it back toward the window. But the bird escapes in the opposite direction. George follows it. He closes the doors of the other rooms. Coming from the bedroom, we faintly hear ANNE'S VOICE. Georges fetches a towel from the bathroom. He chases the bird. He hits out at the bird for so long that it escapes back out through the window. Georges, visibly exhausted, has to sit down on the chest in the hallway.}
+<LOC>__{INT. LIVING ROOM - DAY}
+<ACTION>__{Georges and the second nurse.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{... as you wish, sir. I don't know what you were expecting. I gave up another job to come and work here. You should have thought it over before deciding whether you wanted a second nurse or not.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{But I've only just found out how incompetent you are.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(FURIOUS)}
+<DIAL>__{What's that supposed to mean?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I don't want to discuss it with you. Anyway, you wouldn't understand.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{No one has ever complained.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{Good for you. (To get rid of her)}
+<DIAL>__{How much do I owe you?}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(after a brief calculation)}
+<DIAL>__{Seven hundred and eighty euros.}
+<ACTION>__{Georges takes his wallet from his jacket hanging on the armchair and takes out eight one-hundred euro bills. The nurse is hopping mad.}
+<CHAR>__{NURSE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I've never had anything like this happen to me before. Who do you think you are?! I've been doing this job for ten years. I don't need you to teach me how to do it.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Do you have twenty euros?}
+<ACTION>__{The nurse takes out her purse angrily, looks inside.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Then take the eight hundred euros. You can go now.}
+<ACTION>__{The nurse pockets the money.}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{You're a nasty old man. I feel sorry for you.}
+<ACTION>__{Georges has put back his wallet, turns to her again and looks at her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I hope from the bottom of my heart that one day someone treats you the way you treat your patients, and that you too will have no way of defending yourself. Now get out.}
+<ACTION>__{She looks at him, at first doesn't know what to answer, then:}
+<CHAR>__{NURSE} <CHAR_PAR>__{}
+<DIAL>__{Go fuck yourself, you old fart!}
+<ACTION>__{She leaves, slamming the door behind her. A few seconds later, we hear the front door of the apartment fall shut. Georges sits down in his armchair, looks straight ahead. Then he lights a cigarette, his hands shake, he smokes.}
+<LOC>__{INT. BEDROOM - NIGHT}
+<ACTION>__{He tries to pour some tea into her mouth with the sipping cup. She won't loosen her lips.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{... Please, open your mouth... go on... open it... Anne! Please!... come on... stop that!...}
+<ACTION>__{He sits upright.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If you don't drink, you'll die.}
+<ACTION>__{Indecipherable SOUND from ANNE.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Is that what you want?}
+<ACTION>__{PAUSE. She looks at him. He bends over her again, presents the cup in front of her sealed lips.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come on, Anne, please.}
+<ACTION>__{She doesn't react. He opens her lips with his fingers and tries carefully, but using some force, to separate her teeth. Pours a little tea in. The liquid runs out of her mouth.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(ANGRILY)}
+<DIAL>__{Goddammit!}
+<ACTION>__{He puts down the cup, takes a towel and wipes the liquid, some of which has run down onto the pillow. He tries to mop it up. She watches him the whole time. Finally he puts the towel down beside the cup and looks at her. Tries not to show his helplessness and his anger.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Anne! ... You can't force me to let you die of thirst. If you persist, I'll call Bertier and he'll put you in hospital. They can force-feed you there. Is that what you want?}
+<ACTION_ALT>__{BRIEF PAUSE.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I promised to spare you that. But you must help me. I'm out of my depth.}
+<ACTION>__{He takes the cup again and puts it against her lips.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Please, Anne!}
+<ACTION>__{Her lips remain sealed. He presses the cup hard against them.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Drink that, now!}
+<ACTION>__{It hurts her, so she opens her mouth and lets in a little liquid.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{There!}
+<ACTION>__{She closes her mouth again and he puts down the cup.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Good.}
+<ACTION>__{Then she spits it all out like a fountain. After a moment of bewilderment, he slaps her. SILENCE. He's frightened by his own gesture. Then he puts down the cup and sits on the chair beside the bed. They don't look at each other.}
+<ACTION_ALT>__{LONG PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOFTLY)}
+<DIAL>__{Help... help...}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOFTLY)}
+<DIAL>__{Please, forgive me.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(softly)}
+<DIAL>__{Help... Help... Help... Help...}
+<LOC>__{INT. APARTMENT - DAY}
+<ACTION>__{The various paintings hanging in the apartment. Without their frames. Like views on various realities. SILENCE. Sometimes, the REMOTE sound of TRAFFIC in the distance.}
+<LOC>__{INT. HALLWAY - LIVING ROOM - DINING ROOM - DAY}
+<ACTION>__{Living room. Georges is drinking tea and reading the newspaper. SILENCE. Suddenly, the DOORBELL RINGS. Georges, annoyed, puts down his newspaper, gets up, goes into the hallway and goes to the front door.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Who's there?}
+<CHAR>__{EVA'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{It's me.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Eva?}
+<CHAR>__{EVA'S VOICE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a bit irritated)}
+<DIAL>__{Yes.}
+<ACTION>__{Georges, panicked, thinks for a few seconds.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Just a minute.}
+<ACTION>__{He goes toward the bedroom door, locks it and puts the key in his pocket. He goes into the dining room, also closes the door leading to the bedroom. He comes back. He is about to go toward the front door, but remains motionless an instant, opens the door of the toilet that is located just nearby, flushes the toilet, closes the toilet door again and opens the front door.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hello.}
+<ACTION>__{A brief kiss hello.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Hello. What was going on?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{I was in the toilet. Sorry.}
+<ACTION>__{He closes the front door behind Eva, indicates the direction of the living room.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come in.}
+<ACTION>__{Eva points to the bedroom with a questioning look. He shakes his head as if to play down the question, and indicates back in the direction of the living room, as if to say: "You understand, huh?". Eva is slightly irritated, but follows him into the living room. He closes the door.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why this unannounced visit? Where have you come from?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What's going on with Mom?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Nothing. What should be going on?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Well... (gesture toward the}
+<DIAL_PAR>__{BEDROOM)}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Don't you want to sit down first?}
+<ACTION>__{Eva wants to answer, but finally gives in and sits down. Georges does the same.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So why are you in Paris?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What's going on with Mom? Why don't you answer the phone? After our last conversation, I left four messages on your answering machine. Why don't you call back?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Sorry. I didn't listen to it. Forgive me.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Don't you realize we're worried?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Your worries are no use to me.}
+<ACTION>__{Eva glares at him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No, don't get me wrong. I'm not criticizing you. I just don't have the time to deal with your worries, that's all.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Dad...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{No. Let's stop this conversation right there. I'm taking care of your mother. It's a full-time job. And I'm not saying that to complain, just to explain why I didn't answer your phone calls and why I don't want to have any pointless discussions on the subject. Your mother is just as could have been expected: bad the whole time.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{She is turning more and more into a helpless child, and it's sad and humiliating, for her and for me. And she doesn't want to be seen in that state either. Even the last time you visited, she didn't want you to come. You two have your own life. Nothing wrong with that. But let us have our life too. Even though it's a lousy one. OK?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Dad, what's the matter?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Nothing's the matter; your visit caught me by surprise. And I'm annoyed that you show up here to check that everything's Ok. Who do you think you are?}
+<ACTION>__{PAUSE. Eva is speechless.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<ACTION>__{Then she gets up and makes to go to the door.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Stay here, will you!}
+<ACTION>__{She stops short, looks at him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(softly, but insistently)}
+<DIAL>__{Please!}
+<ACTION>__{She hesitates a moment, but winds up leaving the living room.}
+<ACTION_ALT>__{WE HEAR HER PASS IN THE HALLWAY TO GO INTO THE BEDROOM AND HER VAIN ATTEMPT TO OPEN THE DOOR.}
+<CHAR>__{EVA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Mom? ... Mom??}
+<ACTION>__{Georges remains seated, motionless, until she comes back. She seems upset by the situation, as one would expect.}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Tell me, what's going on? Have you gone crazy?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Please, sit down.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{I don't want to sit down. What's going on here?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(QUIETLY)}
+<DIAL>__{Nothing's going on. I want to spare us all a pointless drama. I presume your mother is asleep. She mostly sleeps the whole day. And then she wakes up at night. If you really want to, we'll go and see her in a little while. Now, sit down. OK?}
+<ACTION>__{They look at each other. Reluctantly, Eva heads toward her armchair and sits down. PAUSE. Then Georges goes on in a quiet voice:}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We do our speech exercises every day, or we sing together. Most of the time, I wake up around 5. At that time, she's still awake. Then we change her incontinence pad. I rub cream on her to avoid sores. Then, around 7, I try to persuade her to eat and drink. Sometimes it works, sometimes not. Sometimes she tells me things from her childhood, then for hours she calls for help, and then an instant later she's giggling away to herself, or crying. Nothing of any of that is worth showing to anyone.}
+<ACTION>__{SILENCE. Eva looks down. Finally, she says:}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOFTLY)}
+<DIAL>__{You can't stop me from seeing her.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ALSO SOFTLY)}
+<DIAL>__{No.}
+<ACTION>__{They remain seated for a moment, finally Eva gets up. Georges follows her into the hallway. He unlocks the door and they enter the bedroom. The bright light from outside filters through the blinds. Eva goes over to the bed, looks at Anne. Finally, she caresses her face, shyly and clumsily. Anne opens her eyes. Looks at her. No movement.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{It's me, Mom.}
+<ACTION>__{Anne emits a FURIOUS SOUND.}
+<CHAR>__{EVA } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(HELPLESS)}
+<DIAL>__{Can I do something for you? Mom...}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Mom... Mom... Mom... Mom... Mom...}
+<ACTION_ALT>__{SILENCE.}
+<ACTION>__{Georges has remained by the door. After a while, they both leave the bedroom, cross the hallway to come back in the living room. Georges closes the door. For an instant he puts a consoling hand on Eva's shoulder. Then he sits down. Eva, trying to compose herself, goes toward the window and looks outside. Suddenly she starts sobbing. After a while, Georges gets up and goes out of the room. Eva, vexed, blows her nose. Shortly after, Georges comes back. He has another teacup in his hand, puts it down beside his on the table and sits down.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{The tea isn't very hot any more.}
+<ACTION>__{Eva turns toward him.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{But it does make you feel better.}
+<ACTION>__{After a short PAUSE, Eva comes toward the table. Sits down. He fills her cup.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<ACTION>__{She takes the cup, drinks. Replaces it. Still can't bring herself to look at him.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{It was silly of me to lock the door. I'm sorry. You took me by surprise, that's all. I'm sorry.}
+<ACTION>__{She nods her head, indicating she understands. Finally she looks at him:}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{What's going to happen now?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a little ironic laugh)}
+<DIAL>__{What's going to happen now? The nurse comes twice a week, and every two weeks Dr. Bertier and the hairdresser come. That's what you want to know, right? Things will go on as they have done up until now. They'll go from bad to worse. Things will go on, and then one day it will all be over.}
+<ACTION>__{Brief PAUSE.}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{You can't go on like this, Dad.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{Can't I? What do you suggest?}
+<CHAR>__{EVA} <CHAR_PAR>__{}
+<DIAL>__{Can't we have a serious talk, you and me?}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL>__{What do you call "a serious talk"? What do you want to suggest? Do you want to have Mom live with you? Do you want to pack her off to a care home? Do you? What do you want? Go on, talk to me "seriously"!}
+<ACTION>__{Eva looks at him.}
+<LOC>__{INT. BEDROOM - DAY}
+<ACTION>__{Georges is seated on the bed beside Anne, who is still bedridden.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a rush)}
+<DIAL>__{... short... short dress... only I... only I... all long... it was... (with a small gesture to imitate a bell): ding... dong...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SMILING)}
+<DIAL>__{Yes, it swung to and fro.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still rushed)}
+<DIAL>__{... yes... to ... fro ... you... very serious... like that... (she imitates a serious countenance, continues in a low voice): like that... serious...}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(unable to keep from laughing a little)}
+<DIAL>__{Yes. I think I was pretty uptight.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiling)}
+<DIAL>__{yes... up... tight...}
+<ACTION>__{PAUSE. Anne puts her hand on Georges'.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{... it was n...nice...}
+<ACTION_ALT>__{SILENCE.}
+<LOC>__{INT. BATHROOM - HALLWAY - BEDROOM - DAY}
+<ACTION>__{Georges is shaving. Suddenly we hear, coming from the bedroom,}
+<CHAR>__{ANNE'S VOICE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(loud)}
+<DIAL>__{Help... Help... Help... Help... Help...}
+<ACTION>__{Georges wipes his face and, to the sound of Anne's cries, crosses the hallway and enters the bedroom. Anne continues to cry out in a monotone to herself. Georges goes over to her bed.}
+<CHAR>__{GEORGES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(trying to calm her like a sick child)}
+<DIAL>__{What is it?..}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Are you in pain?... What's the matter?... Is your pad full?}
+<ACTION>__{He raises her blanket for an instant and sniffs, then replaces it.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No... So what's hurting you?}
+<ACTION>__{He sits down beside her on the bed. Takes her hand.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's all right... it's all right ... I'm here... everything's fine... we'll... Hold on, I'll tell you a story... but you must be quiet, I can't talk too loud, it wears me out... Here we go: when I was little... well, I wasn't as little as all that... it was toward the end of primary school, so I was about ten, Dad and Mom sent me to a holiday camp. They thought it would do me good to spend the summer with kids my own age... We were lodged in an old castle in the midst of a magnificent wooded landscape... I think it was in the Auvergne... I don't know... in any case it was the opposite of what I'd expected... We had to get up at 6 and go for a morning swim. Not far from the castle, there was a pond fed by an icy mountain stream. We entered it running, in a double file. You know, I was never very sporty. They had a program to keep us on the go all day, probably to nip any potential pubescent impulses in the bud ... But the worst thing was the food. The third day after our arrival, there was rice pudding for lunch. I hate rice pudding. We sat at long tables in a huge hall. I didn't want to eat the stuff and the housemaster said to me: You won't get up until you've cleared your plate. So after the meal everybody left the room, and I remained seated, in tears. I had made a secret pact with Mom. I was to send her a postcard every week.}
+<CHAR>__{GEORGES } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If I was pleased with the place I was to draw some flowers on it, or if not, some stars. She kept the card; it was covered all over in stars. After three hours, I was allowed to leave the table. I went up to my room, got into bed and had a fever of 42 degrees. It was diphtheria. They took me to the nearest hospital where I was put in an isolation ward, which meant that Mom, when she came to visit me, could only wave at me through a window. At some point I lost that postcard. It's a pity.}
+<ACTION>__{Anne has become ever calmer during Georges' story. He still holds her hand.}
+<ACTION_ALT>__{LONG SILENCE.}
+<ACTION>__{Then Georges reaches across Anne's body to get hold of his pillow and presses it over her face. STIFLED SOUNDS from Anne. Everything that can still move in her body starts to move. Georges presses down heavily on the pillow, lies on it with his whole weight, for a long time, until all Anne's movements stop. Then he sits up, exhausted, and without removing the pillow from her face, remains seated beside her.}
+<ACTION_ALT>__{SILENCE.}
+<LOC>__{INT. HALLWAY - KITCHEN - DAY}
+<ACTION>__{Hallway. The front door of the apartment is unlocked. Georges, in city clothes, enters with two big shopping bags full of cut flowers. He puts down the bags, takes off his coat, hangs it in the closet. The TELEPHONE RINGS. Georges takes the bags and carries them in the kitchen, puts them in the sink, fills it with water. He starts to cut the stems and put the flowers in the water. We watch him doing so for a while. Meanwhile, the TELEPHONE}
+<ACTION_ALT>__{HAS STOPPED RINGING.}
+<LOC>__{INT. HALLWAY - DAY}
+<ACTION>__{Georges has opened one of the sections of the large wall closet. He is looking for a specific dress. He takes some out, puts them back inside. One of the dresses slips off its hanger and falls to the floor. He picks it up, hangs it up again. He ends up finding the one he was looking for. He takes it out on its hanger. Closes the closet again. Looks at the dress. Then he lowers his arm a little and is about to leave the bedroom. He catches his feet in the dress. He just saves himself from tripping up by grabbing on to the wheelchair that is parked there. Exhausted, he flops down into it.}
+<LOC>__{INT. HALLWAY - NIGHT}
+<ACTION>__{With wide adhesive tape, Georges seals up the door frame of the bedroom.}
+<LOC>__{INT. KITCHEN - ADJOINING BEDROOM - HALLWAY - DAY}
+<ACTION>__{Georges is seated at the kitchen table where he had breakfast with Anne in Scene 8, and writes a letter. PAUSES for reflection. GENTLE COOING OF PIGEONS, scarcely audible. Suddenly, Georges starts. At the far end of the long kitchen, beside the door between the kitchen units, a pigeon is walking. Georges stares at it. For a long time. Then he gets up slowly and, via the door located beside the kitchen table, he goes into the adjoining room. On the sofa there, he has set up his new bed. He takes the wool blanket from the bed and comes back into the kitchen, carefully approaches the pigeon that then runs off in alarm. Georges carefully opens up the blanket and finally throws it over the pigeon. But it manages to escape into the hallway. Georges follows it. This action is repeated several times. The pigeon is more and more panicky, starts to fly up, flutters about in all directions. Georges closes the light- well window to cut off its escape route. This lasts an exhausting amount of time, but he ends up capturing it. He cuddles it against him, rolled up in the blanket, leans against a wall, then holds it as if it were a baby.}
+<LOC>__{INT. ADJOINING ROOM - KITCHEN - NIGHT}
+<ACTION>__{From the adjoining room, we see Georges seated at the kitchen table, writing. Finally we see what he is writing: ... you won't believe it. A pigeon came in, for the second time already, through the light well. This time I caught it. In fact it wasn't difficult at all. But I set it free again. I'm going to ...}
+<LOC>__{INT. ADJOINING ROOM - KITCHEN - HALLWAY - DAY}
+<ACTION>__{Georges is lying on his bed in the adjoining room, staring at the ceiling. O.S., we faintly hear the SOUND of running water, and from time to time the CLATTERING OF DISHES. After a while, Georges gets up and goes into the kitchen. He remains in the doorway and watches Anne who, doing the dishes, at first doesn't pay attention to him, then notices his presence and shoots him a quick glance, saying casually:}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{I'm almost done.}
+<ACTION>__{Georges continues to look at her unwaveringly.}
+<CHAR>__{ANNE'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{You can put your shoes on if you want.}
+<ACTION>__{Georges looks at her an instant longer, passes beside her, goes into the hallway, sits down on a stool beside the closet and puts on his shoes. O.S. we hear Anne finishing her work. She comes out, hangs up her apron in the closet, disappears for a few moments into the bathroom. Meanwhile, Georges has got up, and looks in the bathroom where, clearly, Anne is tidying her hair and sprucing herself up. When she comes out again, he takes her coat from the closet and helps her put it on.}
+<CHAR>__{ANNE} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<ACTION>__{They head for the front door.}
+<CHAR>__{ANNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Aren't you taking a coat?}
+<ACTION>__{Georges thinks a few seconds, then takes his trench-coat from the hook and they leave the apartment.}
+<LOC>__{INT. HALLWAY - BEDROOM - DINING ROOM - LIVING ROOM}
+<DIAL>__{- DAY}
+<ACTION>__{Four long shots: all the windows are open. The sun is shining. It is fairly bright. Hallway. SILENCE. Then the SOUND OF A LOCK BEING OPENED. Eva comes into the apartment. Remains a long time beside the door. Looks around her, ill at ease. Finally she hesitantly goes into the bedroom. Anne's twin bed isn't there any more. On Georges' bed lies only the bare mattress. Eva remains there a moment, then goes through the partition door into the dining room. There, everything is as usual. Eva continues into the living room. There too, everything is as usual. Eva stops by the piano stool. Looks out of the window, feeling at a loss. Then she heads toward the sofa and armchairs in the corner. On the table lie the remains of a snack. Eva looks at the table, turns again toward the open windows, through which we hear STREET NOISE. Then she sits down, exhausted, in one of the armchairs. Her diminutive frame seems lost in the big room. END CREDITS (white on a black background)}

@@ -1,0 +1,2809 @@
+<DIAL>__{Ghostbusters II by Harold Ramis and Dan Aykroyd September 29, 1988 Last revised Feburary 27, 1989}
+<LOC>__{EXT.  MANHATTAN ISLAND - DAY}
+<ACTION>__{A high AERIAL SHOT of the island features the Statue of Liberty prominently in the foreground then TRAVELS ACROSS the harbor, OVER the Battery and Lower Manhattan to Greenwich Village.}
+<LOC>__{EXT.  EAST 77TH STREET - DAY}
+<ACTION>__{A car is being hoisted up by a municipal tow truck while its owner is having a terrible screaming arguement with a parking enforcement officer. DANA BARRETT comes home pushing a baby buggy, struggling with two full bags of groceries, and trying to dig her keys out of her purse. The building superintendent FRANK, sees her struggling but pretends not to notice.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(exasperated)}
+<DIAL>__{Frank, do you think you could give me a hand with these bags?}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL>__{I'm not a doorman, Miss Barrett.  I'm a building superintendent.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{You're also a human being, Frank.}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reluctantly going to help)}
+<DIAL>__{Okay, okay.  It's not my job, but what the hell.  I'll do you a favor.  He takes the grocery bags from her.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(setting the wheel brakes on the buggy)}
+<DIAL>__{Thank you, Frank.  I'll get the hang of this eventually.}
+<ACTION>__{She continues digging in her purse while Frank leans over the buggy and makes funny faces at the baby, OSCAR, a very cute nine-month old boy.}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the baby)}
+<DIAL>__{Hiya, Oscar.  What do you say, slugger?}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{That's a good-looking kid you got there, Ms. Barrett.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(finding her keys)}
+<DIAL>__{Thank you, Frank.  Oh, are you ever going to fix the radiator in my bedroom?  I asked you last week.}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL>__{Didn't I do it?}
+<ACTION_ALT>__{BABY BUGGY}
+<ACTION>__{It starts to vibrate as if shaken by an unseen hand.}
+<LOC>__{EXT.  EAST 77TH STREET - BABY - DAY}
+<ACTION>__{He GURGLES with delight at the movement.}
+<LOC>__{EXT.  EAST 77TH STREET - DANA AND FRANK - DAY}
+<ACTION>__{Neither of them notice the movement of the carriage.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{No, you didn't, Frank.}
+<CHAR>__{FRANK} <CHAR_PAR>__{}
+<DIAL>__{Okay, that's no problem.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{That's exactly what you said last week.}
+<ACTION_ALT>__{BUGGY WHEELS}
+<ACTION>__{The brakes unlock themselves.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She reaches for the handlebar of the buggy, but the buggy rolls forward just out of her reach and stops.  Surprised by the movement, she reaches for the handlebar again, but this time the buggy rolls away even further.  Alarmed now, Dana hurries after it, but the buggy keeps rolling down the street at ever increasing speed.}
+<ACTION_ALT>__{SIDEWALK}
+<ACTION>__{Dana chases the buggy down the street, shouting to passing pedestrians for help, but every time someone reaches out to stop it, the buggy swerves and continues unchecked.}
+<LOC>__{INTERSECTION}
+<ACTION>__{Cars, trucks, and buses speed by in both directions as the buggy races toward the corner.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She puts her head down and sprints after the buggy like an Olympian.}
+<LOC>__{EXT.  EAST 77TH STREET - INTERSECTION - DAY}
+<ACTION>__{A city bus is on a collision course with the speeding baby buggy.}
+<ACTION_ALT>__{BUGGY}
+<ACTION>__{It careens toward the corner.}
+<LOC>__{EXT.  EAST 77TH STREET - BABY - DAY}
+<ACTION>__{Its eyes are wide open with excitement.}
+<LOC>__{EXT.  EAST 77TH STREET - INTERSECTION - DAY}
+<ACTION>__{Bus and buggy are closing fast as the buggy bounces over the curb and into the crosswalk.}
+<ACTION_ALT>__{BUS}
+<ACTION>__{The bus driver reacts in helpless horror as he sees the buggy enter the intersection at high speed.}
+<ACTION_ALT>__{BUGGY}
+<ACTION>__{It comes to a dead stop right in the middle of the street.  The bus continues missing the buggy by inches.}
+<LOC>__{INTERSECTION}
+<ACTION>__{Cars and trucks swerve and hit their brakes as Dana runs into the intersection and snatches up the baby.  She hugs it close, deeply relieved, then looks at the buggy with the dawning awareness that the supernatural has re-entered her life.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  UPPER WEST SIDE - NEW YORK CITY STREET - GHOSTBUSTERS LOGO - DAY}
+<ACTION>__{THEME MUSIC kicks in strongly as we see the familiar "No Ghosts" symbol and PULL BACK to reveal that it's painted on the side of Ecto-1, the Ghostbusters' emergency vehicle, which is speeding up Broadway on the Upper West Side.  RAY STANTZ is driving and WINSTON ZEDDEMORE is riding shotgun.}
+<LOC>__{EXT.  WEST 77TH STREET - DAY  (MOMENTS LATER)}
+<ACTION>__{The Ectomobile pulls up in front of a carefully-restored brownstone. Stantz and Winston, wearing their official Ghostbuster uniforms, jump out of the old ambulance, shoulder their proton packs and enter the house.}
+<LOC>__{INT.  BROWNSTONE - DAY  (CONTINUOUS ACTION)}
+<ACTION>__{A WOMAN greets them and leads them through the expensively-furnished house.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(all business)}
+<DIAL>__{How many of them are there, ma'am?}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Fourteen.  They're in the back.  I hope you can handle them.  It's been like a nightmare.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{How big are they?}
+<ACTION>__{She holds her hand out indicating about four feet.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(resolute)}
+<DIAL>__{We'll do our best, ma'am.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{They're right out here.}
+<ACTION>__{She leads them to a set of French doors that open into another room. Stantz and Winston pause to make final adjustments to their equipment.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Ready?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{I'm ready.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Then let's do it.}
+<ACTION>__{He pushes through the French doors and they step into the room.}
+<LOC>__{INT.  BROWNSTONE - DAY  (CONTINUOUS ACTION)}
+<ACTION>__{They are immediately attacked by fourteen or fifteen screaming KIDS between the ages of seven and ten.}
+<CHAR>__{KIDS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(disappointed)}
+<DIAL>__{Ghostbusters!!  Boooo!!}
+<ACTION>__{Tables are set with party favors, ice cream and birthday cake and the room is strewn with discarded toys and games.  A couple of weary parents sink onto lawn chairs as Stantz and Winston take over the party.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(trying his best)}
+<DIAL>__{How you doin', kids?}
+<CHAR>__{LITTLE BOY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nasty)}
+<DIAL>__{I though we were having He-Man.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{He-Man couldn't make it today.  That's why we're here.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{My dad says you're full of crap.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stopped cold)}
+<DIAL>__{Well, a lot of people have trouble believing in the paranormal.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{No, he just says you're full of crap and that's why you went out of business.}
+<ACTION>__{He kicks Stantz in the leg.  Stantz grabs him by the shirtfront.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(low and menacing)}
+<DIAL>__{I'm watching you.}
+<DIAL_PAR>__{(to Winston)}
+<DIAL>__{Song.}
+<ACTION>__{Winston switches on a tiny TAPE RECORDER which starts PLAYING the Ghostbusters THEME SONG. Stantz and WInston start singing}
+<CHAR>__{STANTZ AND WINSTON} <CHAR_PAR>__{}
+<DIAL>__{'There's something wrong in the neighborhood. Who you gonna call?'}
+<CHAR>__{KIDS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(all together)}
+<DIAL>__{He-Man!!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. WEST 77TH STREET - DAY (LATER)}
+<ACTION>__{Stantz and Winston wearily load their equipment into the Ectomobile.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{That's it, Ray.  I've had it.  No more parties. I'm tired of taking abuse from over-privileged nine-year-olds.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Come on, Winston.  We can't quit now.  The holidays are coming up.  It's our best season.}
+<ACTION>__{They get in the car}
+<LOC>__{INT.  ECTO-1 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{Stantz tries to start the car, but the engine won't turn over.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Give it up, Ray.  You're living in the past. Ghostbusters doesn't exist anymore.  In a year these kids won't even remember who we are.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(tries to start the car again)}
+<DIAL>__{Ungrateful little Yuppie larvae.  After all we did for this city.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Yeah, what did we do, Ray?  The last real job we had we bubbled up a hundred foot marshmallow man and blew the top three floors off an uptown highrise.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Yeah, but what a ride.  You can't make a hamburger without chopping up a cow.}
+<ACTION>__{He turns the key again, the ENGING TURNS OVER, then starts GRINDING and CLUNKING disastrously, chewing up vital parts and dropping twisted bits of metal onto the pavement.  Finally, with a BLAST of black sooty exhaust from the tailpipe, Ecto-1 shudders and dies.  Frustrated, Stantz bangs his head lightly on the steering wheel}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  WKRR-TV STUDIO RECEPTION AREA - DAY (LATER)}
+<ACTION>__{A bank of monitors in the lobby show the program now running on WKRR, Channel 10 in New York. We PUSH IN ON one of the monitors as a title card and logo come up accompanied by some EERIE SYNTHESIZER MUSIC, and we return to the show in progress: "World of the Psychic with Dr. Peter Venkman."  There is a video dissolve to a standard talk show set and sitting there is our host PETER VENKMAN, the renowned and somewhat infamous ex-Ghostbuster.}
+<ACTION_ALT>__{VENKMAN}
+<ACTION>__{He turns TO CAMERA and talks to his viewers in a suavely engaging tone, understated and intimate.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Hi, welcome back to the 'World of the Psychic,' I'm Peter Venkman and I'm chatting with my guest, author, lecturer and of course, psychic, Milton Anglund.}
+<DIAL_PAR>__{(to his guest)}
+<DIAL>__{Milt, your new book is called The End of the World.  Isn't that kind of like writing about gum disease.  Yes, it could happen, but do you think anybody wants to read a book about it?}
+<CHAR>__{MILTON} <CHAR_PAR>__{}
+<DIAL>__{Well, I think it's important for people to know that the world is in danger.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Okay, so can you tell us when it's going to happen or do we have to buy the book?}
+<CHAR>__{MILTON} <CHAR_PAR>__{}
+<DIAL>__{I predict that the world will end at the stroke of midnight on New Year's Eve.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{This year?  That's cutting it a little close, isn't it?  I mean, just from a sales point of view, the book just came out, right?  So you're not even looking at the paperback release for maybe a year.  And it's going to be at least another year after that if the thing has movie-of-the-week or mini-series potential. You would have been better off predicting 1992 or even '94 just to be safe.}
+<CHAR>__{MILTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(irritated)}
+<DIAL>__{This is not just some money-making scheme!  I didn't just make up the date.  I have a strong psychic belief that the world will end on New Year's Eve.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(placating)}
+<DIAL>__{Well, for your sake, I hope you're right.  But I think my other guest may disagree with you. Elaine, you had another date in mind?}
+<ACTION>__{The CAMERA REVEALS ELAINE, an attractive, aggressive New Jersey housewife, sitting on the other side of Venkman.}
+<CHAR>__{ELAINE} <CHAR_PAR>__{}
+<DIAL>__{According to my sources, the world will end on February 14, in the year 2016.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Valentine's Day.  That's got to be a bummer. Where did you get that date, Elaine?}
+<CHAR>__{ELAINE} <CHAR_PAR>__{}
+<DIAL>__{I received this information from an alien.  I was at the Paramus Holiday Inn, I was having a drink in the bar when he approached me and started talking.  Then he must have used some sort of ray or a mind control device because he made me follow him to his room and that's where he told me about the end of the world.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Your alien had a room in the Holiday Inn?}
+<CHAR>__{ELAINE} <CHAR_PAR>__{}
+<DIAL>__{It may have been a room on the spacecraft made up to look like a room in the Holiday Inn.  I can't be sure, Peter.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(humoring her)}
+<DIAL>__{No, you can't, and I think that's the whole problem with aliens; you just can't trust them. You may get some nice ones occasionally like Starman or E.T., but most of them turn out to be some kind of lizard.  Anyway, we're just about out of time.}
+<DIAL_PAR>__{(does his wrap-up right TO the CAMERA)}
+<DIAL>__{Next week on 'World of the Psychic,' hairless pets.}
+<DIAL_PAR>__{(holds up a hairless cat)}
+<DIAL>__{Until then, this is Peter Venkman saying ...}
+<DIAL_PAR>__{(puts a finger to his temple}
+<DIAL>__{and sends out a though to his}
+<DIAL_PAR>__{viewers)}
+<DIAL>__{... Good night.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TV STUDIO - CORRIDOR - DAY (LATER)}
+<ACTION>__{Venkman comes out of the studio squabbling with his producer, NORMAN, a well-meaning young incompetent.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Where do you find these people?  I thought we were having the telekinetic guy who bends the spoons?}
+<CHAR>__{NORMAN} <CHAR_PAR>__{}
+<DIAL>__{A lot of the better psychics won't come on the show.  They think you're too skeptical.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Skeptical!  Norman, I'm a pushover.  I think professional wrestling is real.}
+<ACTION>__{There is a small commotion down the hall as two plainclothes cops come out of the next studio followed by a group of mayoral assistants.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Norman)}
+<DIAL>__{What's all this?}
+<CHAR>__{NORMAN} <CHAR_PAR>__{}
+<DIAL>__{They just interviewed the mayor on 'Cityline.'}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{The Mayor!  He's a friend of mine.}
+<ACTION>__{Venkman starts down the hall as the MAYOR and his principal aide, JACK HARDEMEYER, come walking out of the studio.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calling to the Mayor)}
+<DIAL>__{Lenny!}
+<ACTION>__{The Mayor sees Venkman, blanches and hurries off, pretending not to know him.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(starts to follow him)}
+<DIAL>__{Lenny!  It's Pete Venkman!}
+<ACTION>__{The plainclothesmen cut Venkman off and Hardemeyer puts a heavy hand against Venkman's chest.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(snide)}
+<DIAL>__{Can I help you?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dangerous)}
+<DIAL>__{Yeah, you can get your hand off my chest.}
+<ACTION>__{Hardemeyer smiles and drops his hand.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{I'm Jack Hardemeyer.  I'm the mayor's assistant. What can I do for you?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm an old friend of the mayor's.  I just want to say hello to him.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(scornful)}
+<DIAL>__{I know who you are, Doctor Venkman.  Busting any ghosts lately?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{No, that's what I want to talk to the mayor about.  We did a little job for the city a while back and we ended up getting sued, screwed and tattooed by deskworms like you.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(bristling)}
+<DIAL>__{Look, you stay away from the mayor.  Next fall, barring a disaster, he's going to be elected governor of this state and the last thing we need is for him to be associated with two-bit frauds and publicity hounds like you and your friends.  You read me?}
+<ACTION>__{Hardemeyer walks off with the two cops.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Okay, I get it.  But I want you to tell Lenny that, because of you, I'm not voting for him.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MANHATTAN MUSEUM OF ART - DAY}
+<ACTION>__{The broad front steps of the museum are crowded with tourists and visitors.  Dana arrives carrying a portfolio and artist's tackle box and enters the museum.}
+<LOC>__{INT. MUSEUM - RESTORATION STUDIO - DAY (LATER)}
+<ACTION>__{We are FULL-FRAME ON a larger-than-life, full-figure portrait of VIGO THE CARPATHIAN, a demented and sadistic 16th century despot with an incredibly powerful evil presence.  Then we PULL BACK to reveal the studio, which is a large open space on the top floor of the museum, lit by large skylights in the ceiling.  Working on the Vigo painting is JANOSZ POHA, a youngish art historian and painter, the head of the department, quirky, intense and somewhat creepy.  Janosz is staring longingly across the room at Dana.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She is carefully cleaning a 19th Century landscape painting, still preoccupied by the extraordinary near-accident with the buggy.  Janosz watches her for a moment, then comes up behind her and looks over her shoulder.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with an East European accent)}
+<DIAL>__{Still working on the Turner?}
+<ACTION>__{Dana jumps, startled by the intrusion.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Oh, yes, I got in a little late this morning, Janosz.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{You know, you are really doing very good work here.  I think soon you may be ready to assist me in some of the more important restorations.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Janosz.  I've learned a lot here, but now that my baby's a little older, I was hoping to rejoin the orchestra.}
+<ACTION_ALT>__{VIGO PAINTING}
+<ACTION>__{At the mention of Dana's baby, the figure of Vigo miraculously turns his head and looks at Dana.}
+<ACTION_ALT>__{JANOSZ AND DANA}
+<ACTION>__{Neither of them notice the movement in the painting.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(disappointed)}
+<DIAL>__{We'll be very sorry to lose you.  Perhaps I could take you to lunch today?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Actually, I'm not eating lunch today.  I have an appointment.}
+<DIAL_PAR>__{(looks at her watch)}
+<DIAL>__{In fact, I'd better go.}
+<ACTION>__{She starts gathering up her things.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Every day I ask you, and every day you've got something else to do.  Do I have bad breath or something?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(trying to brush him off)}
+<DIAL>__{I'm sorry.  Perhaps some other time.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Okay, I'll take a raincheck on that.}
+<ACTION>__{Janosz smiles at her as she exits, then goes back to his easel.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{I think she likes me.}
+<ACTION>__{He switches on an English language TAPE and starts practicing the phrases as he resumes working.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. UNIVERSITY - DAY}
+<ACTION>__{Dana Barrett crosses the quad and enters a modern building.  A sign identifies it as "The Institute for Advanced Theoretical Research."}
+<LOC>__{INT. UNIVERSITY - DAY (A LITTLE LATER)}
+<ACTION>__{Dana is explaining the buggy incident to EGON SPENGLER, the soberly intellectual techno-wizard and former Ghostbuster, as he conducts an experiment assisted by a research team of graduate students, all of whom are Japanese, Chinese, or Korean.  The device he is testing is a black box about the size of a Sony Watchman with both digital and graphic displays.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{... and then the buggy just suddenly stopped dead in the middle of the street}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Did anyone else see this happen?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Hundreds of people.  Believe me, I didn't imagine this.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I'm not saying you did.  In science we always look for the simplest explanation.}
+<ACTION>__{An ASSISTANT interrupts.}
+<CHAR>__{ASSISTANT} <CHAR_PAR>__{}
+<DIAL>__{We're ready, Dr. Spengler}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Assistant)}
+<DIAL>__{We'll start with the negative calibration.}
+<ACTION>__{He picks up the device and prepares to test it.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(curious)}
+<DIAL>__{What are you working on, Egon?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I'm trying to determine whether human emotional states have a measurable effect on the psychomagnetheric energy field.  It's a theory Ray and I were working on when we had to dissolve Ghostbusters.}
+<ACTION>__{An assistant draws a curtain revealing a large picture window, actually a two-way mirror, that looks into a small waiting room.  Inside the waiting room they can see but not hear a youngish couple having a heated arguement.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{They think they're here for marriage counseling.  We've kept them waiting for two hours and we've been gradually increasing the temperature in the room.}
+<DIAL_PAR>__{(checking a heat sensor)}
+<DIAL>__{It's up to 95 degrees at the moment.  Now my assistant is going to enter and ask them if they'd mind waiting another half-hour.}
+<ACTION>__{As Spengler, Dana, and the research team watch, the assistant enters the waiting room and tells the couple about the new delay.  They explode with anger both at him and each other while Spengler monitors them through the glass.  After recording his readings, he returns to his Assistant.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{We'll do the happiness index next.}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{I'd like to bring Ray in on your case, if it's all right with you.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Okay, whatever you think -- but not Venkman.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Oh no.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(affectedly casual)}
+<DIAL>__{Do you ever see him?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Occasionally}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{How is he these days?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Venkman?  I think he was borderline for a while there.  Then he crossed the border.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Does he ever mention me?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{No.  Not that I can recall.}
+<ACTION>__{They move to another two-way mirror through which they can see a lovely little girl playing with a wonderful array of toys.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(slightly disappointed)}
+<DIAL>__{Well, we didn't part on very good terms and we sort of lost track of each other when I got married.}
+<ACTION>__{The Assistant interrupts again.}
+<CHAR>__{ASSISTANT} <CHAR_PAR>__{}
+<DIAL>__{We're ready for the affection test.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the assistant)}
+<DIAL>__{Good.  Send in the puppy.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(continuing)}
+<DIAL>__{I thought of calling him after my marriage ended, but --.  Anyway, I appreciate you're doing this, Egon}
+<ACTION>__{They watch as another assistant enters the playroom with an adorable Cocker Spaniel puppy and gives it to the little girl.  Spengler monitors her as she jumps for joy and hugs the little dog.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(handing him a card)}
+<DIAL>__{This is my address and telephone number. Will you call me?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Certainly.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Egon, I'd rather you didn't mention any of this to Peter if you don't mind.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I won't.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<ACTION>__{She shakes his hand and exits.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to his assistant)}
+<DIAL>__{Now let's see how she reacts when we take away the puppy}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. RAY'S OCCULT BOOK STORE - DAY (LATER)}
+<ACTION>__{It's a small basement shop located on a quaint commercial block in Greenwich Village.  The window is crowded with occult artifacts and old books full of arcane metaphysical lore.  The TELEPHONE RINGS.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(v.o., answering the phone)}
+<DIAL>__{Ray's Occult.}
+<LOC>__{INT. RAY'S OCCULT BOOKS - CONTINUOUS}
+<ACTION>__{The shelves are jammed floor to ceiling with books on the paranormal. Ray sits on a barstool behind the counter wearing an old cardigan sweater over a T-shirt.  He has on a pair of reading glasses and chews on a battered, reeking pipe.  As he talks on the phone he prepares a cup of herb tea for Spengler who is thumbing through an arcane text.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the phone)}
+<DIAL>__{Yeah ... mmhmm ... What do you need? ... What have I got?  I've got alchemy, astrology, apparitions, Bundu Magic Men, demon intercession, U.F.O. abductions, psychic surgery, stigmata, modern miracles, pixie sightings, golden geese, geists, ghosts, I've got it all -- what are you looking for? ... Don't have any.  Try the stockyards.}
+<ACTION>__{He hangs up.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Who was that?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Some crank.  Looking for goat hooves.  Come up with anything?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(referring to the book)}
+<DIAL>__{This one's interesting.  Berlin, 1939, a flower cart took off by itself and rolled approximately half a kilometer over level ground.  Three hundred eyewitnesses.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{You might want to check those Duke University mean averaging studies on controlled psychokinesis.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(going to the stacks)}
+<DIAL>__{Good idea.}
+<ACTION>__{The bones hanging over the door rattle as Venkman enters the shop.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, hello, perhaps you could help me.  I'm looking for an aerosol love potion I could spray on a certain Penthouse Pet that would make her unconditionally submit to an unusual personal request.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, hiya, Pete.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So, no goat hooves, huh?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(strung)}
+<DIAL>__{I knew that voice sounded familiar.  What's up?  How's it going?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Nowhere -- fast.  Why don't you lock up and buy me a sub?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(slightly evasive)}
+<DIAL>__{Uh, I can't.  I'm kind of working on something.}
+<ACTION>__{Spengler steps out of the stacks.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Egon!}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Hello, Venkman.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{How've you been?  How's teaching?  I bet those science chicks really dig that big cranium of yours, huh?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I think they're more interested in my epididymis.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I don't even want to know where that is.}
+<ACTION>__{Venkman steps behind the counter and takes a beer from Ray's mini-fridge.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, your book came in, Venkman.  Magical Paths to Fortune and Power.}
+<ACTION>__{He hands Venkman the book.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Great.}
+<DIAL_PAR>__{(reading the contents)}
+<DIAL>__{So what are you guys working on?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Oh, just checking something for an old friend.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(at a loss)}
+<DIAL>__{Who?  Just -- someone we know.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, Ray --}
+<ACTION>__{He grabs Stantz by both ears and pulls up.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Who?  Who?  Who?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Aaah!  Nobody!  I can't tell you!}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Who, Ray?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(giving in)}
+<DIAL>__{Dana!  Dana Barrett!}
+<ACTION>__{Venkman lets go of his ears and smiles.  Spengler looks at Stantz and shakes his head.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. DANA'S APARTMENT - DAY (LATER)}
+<ACTION>__{The apartment is old and creatively furnished with a comfortable mix of modern and traditional pieces.  Maria, a young Hispanic woman who does day care for Dana, is feeding the baby in the kitchen when the DOORBELL}
+<ACTION_ALT>__{RINGS.}
+<TRANS>__{CUT TO:}
+<ACTION>__{Dana enters from the bedroom and crosses to the front door.  She opens it and admits Ray and Egon.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hugging Ray)}
+<DIAL>__{Hi, Ray.  It's good to see you.  Thanks for coming.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{No problem.  Always glad to help -- and hug.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spengler)}
+<DIAL>__{Hi, Egon.}
+<ACTION>__{She shakes his hand and is about to close the door when Venkman appears in the doorway.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Hi, Dana.}
+<ACTION>__{Dana is caught completely off guard by Venkman's surprise appearance.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I knew you'd come crawling back to me.}
+<ACTION>__{She regards him coolly, as always amused and amazed at his presumptuousness.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Hello, Peter.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{You know, Dana, I'm very very hurt that you didn't call me first.  I'm still into all this stuff, you know.  Haven't you ever seen my show?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I have.  That's why I didn't call you first.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I can see that you're still very bitter about us, but in the interest of science, I'm going to give it my best shot.  Let's go to work, boys.}
+<ACTION>__{Stantz and Spengler begin a comprehensive parapsychological work-up on the baby and the immediate physical environment.}
+<ACTION_ALT>__{VENKMAN AND DANA}
+<ACTION>__{Venkman starts nosing around the apartment.  Dana follows him.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So what happened to Mr. Right?  I hear he ditched you and the kid and moved to Europe.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{He didn't "ditch" me.  We had some problems, he got a good offer from an orchestra in England and he took it.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{He ditched you.  You should've married me, you know.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{You never asked me, and every time I brought it up you'd get drowsy and fall asleep.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Men are very sensitive, you know.  We need to feel loved and desired, too.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Well, when you started introducing me as "the old ball and chain," that's when I left.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I may have a few personal problems but one thing I am is a total professional.}
+<ACTION>__{He leaves her and crosses to Spengler.}
+<ACTION_ALT>__{SPENGLER}
+<ACTION>__{He's taking a complete set of body and head measurements of the baby with a tape measure and calipers.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What are you going to do, Egon?  Knit him a snowsuit?}
+<ACTION>__{Spengler ignores the remark and hands Venkman a specimen jar.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I'd like to have a stool specimen}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, you would.  Is that for personal or professional reasons?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(picking up the baby)}
+<DIAL>__{Okay, kid.  Up you go.}
+<ACTION>__{He starts clowning with the baby, holding him over his head and pressing his nose into the baby's belly, pretending that the baby is attacking him.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Help!  Please somebody help me!  Get him off! Quickly!  He's gone completely berserk!}
+<ACTION>__{Dana is amused and somewhat disarmed by Venkman's rapport with the baby.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{What do you think?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{There's no doubt about it.  He's got his father's looks.  The kid is ugly -- extremely ugly.  And smelly.}
+<DIAL_PAR>__{(resumes playing with the baby)}
+<DIAL>__{You stink!  It's just horrible.  You are the stinkiest baby I ever smelled.}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{What's his name?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{His name is Oscar.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oscar!  You poor kid!}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(losing patience)}
+<DIAL>__{Peter, this is serious.  I need to know if you think there's anything unusual about him.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Unusual?}
+<DIAL_PAR>__{(holds up the baby and scrutinizes him)}
+<DIAL>__{I don't know.  I haven't had a lot of experience with babies.}
+<ACTION>__{He looks at the baby, pulling his feet up, trying to get the sleeper off.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(taking the specimen jar)}
+<DIAL>__{I'll do it.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'll supervise.}
+<LOC>__{INT. DANA'S APARTMENT - NURSERY - DAY (CONTINUOUS ACTION)}
+<ACTION>__{Venkman enters and finds Stantz monitoring the room.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{Well, Holmes, what do you think?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It's an interesting one, Pete.  If anything was going on it's totally subdued now.}
+<ACTION>__{Spengler enters.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spengler)}
+<DIAL>__{What now, Brainiac?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I think we should see if we can find anything abnormal on the street.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Finding something abnormal on the street shouldn't be too hard.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. EAST 77TH STREET - DAY (LATER)}
+<ACTION>__{Dana walks down the street with Venkman, retracing the path of the runaway buggy.  Spengler and Stantz follow, monitoring PKE valences from the pavement and the buildings.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dana, nostalgic)}
+<DIAL>__{Brings back a lot of sweet memories, doesn't it?}
+<DIAL_PAR>__{(pointing out familiar neighborhood sights)}
+<DIAL>__{There's our old cash machine.  And the dry cleaners we used to go to.  And the old video store.}
+<DIAL_PAR>__{(he wipes away an imaginary tear)}
+<DIAL>__{We really had some good times, didn't we?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{We definitely had a moment or two.}
+<ACTION>__{Dana stops at the intersection and points to the middle of the street.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{That's where the buggy stopped.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Okay, let's take a look.}
+<ACTION>__{Venkman walks right out into the middle of the street, completely oblivious to the CARS HONKING and whizzing past him and starts motioning like a traffic cop, bringing traffic to a standstill.  Then he signals for Dana, Stantz and Spengler to join him in the middle of the street.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading the PKE meter)}
+<DIAL>__{Is this the spot?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{A little to the left.  Right there!  That's where it stopped.}
+<ACTION>__{Stantz reads the PKE meter.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Nothing.  Not a trace.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Why don't we try the Giga-meter?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What's that?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Egon and I have been working on a gauge to measure psychomagnetheric energy in GEVs - giga electron volts.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{That's a thousand million electron volts.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I knew that.}
+<ACTION>__{Spengler switches on the Giga-meter, the device he was testing in the lab, and passes it over the spot on the street where the buggy stopped. The indicator goes right into the red zone and the DEVICE starts CLICKING}
+<ACTION_ALT>__{WILDLY.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I think we hit the honeypot, boys.  There's something brewing under the street.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(worried, to Venkman)}
+<DIAL>__{Peter, do you think maybe I have some genetic problem or something that makes me vulnerable to these supernatural things.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You mean like the time you got possessed and turned into a monster terror dog?  No, not a chance.  Total coincidence.}
+<DIAL_PAR>__{(to Stantz and Spengler)}
+<DIAL>__{Am I right?}
+<ACTION>__{Stantz and Spengler look at him skeptically, not convinced by the coincidence theory.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MANHATTAN MUSEUM OF ART - LATE AFTERNOON}
+<ACTION>__{The museum has just closed for the day and the last of the visitors and employees are leaving.}
+<LOC>__{INT.  RESTORATION STUDIO - SAME TIME}
+<ACTION>__{Janosz is working late on the painting of Vigo.}
+<ACTION_ALT>__{VIGO PAINTING}
+<ACTION>__{Unnoticed by Janosz, the eyes of Vigo start to glow.}
+<ACTION_ALT>__{JANOSZ}
+<ACTION>__{He touches his brush to the canvas and a powerful current of red, crackling energy surges through the brush and courses through his body, driving him to his knees.}
+<ACTION_ALT>__{PAINTING}
+<ACTION>__{The figure of Vigo comes to life, turns toward Janosz and gestures dramatically at him.  Then he speaks to Janosz in a commanding voice.}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{I, Vigo, the scourge of Carpathia, the sorrow of Moldavia, command you.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in agony)}
+<DIAL>__{Command me, lord.}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{On a mountain of skulls in a castle of pain, I sat on a throne of blood.  What was will be, what is will be no more.  Now is the season of evil.  Find me a child that I might live again.}
+<ACTION>__{Bolts of red-hot energy shoot from the eyes of Vigo into Janosz's eyes. He screams and falls to his knees.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. COFFEE SHOP - EAST 77TH STREET - NIGHT}
+<ACTION>__{Venkman and Stantz come out with small boxes containing coffee, sandwiches and Danish and start walking up the street.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I love this.  We're onto something really big.  I can smell it, Ray.  We're going to make some headlines with this one.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Hey, hey, hey, stresshound!  Are you nuts? If anybody found out about this we'd be in serious trouble.  The judge couldn't have been clearer - no ghostbusting.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Relax.  We're going to keep this whole thing nice and quiet, low key, no profile.}
+<LOC>__{EXT.  EAST 77TH STREET - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Spengler, wearing a hardhat, is JACKHAMMERING a hole in the middle of the street.  Safety cones and reflectors have been set up and a small area is lit by strong work lights.}
+<ACTION_ALT>__{POLICE CAR}
+<ACTION>__{It turns onto East 77th Street, cruises slowly up to the makeshift worksite and stops.  The noise of the JACKHAMMER is so loud, Spengler doesn't notice the police car and the two COPS inside looking at them. Finally, he looks up, sees the police car and freezes.}
+<CHAR>__{FIRST COP} <CHAR_PAR>__{}
+<DIAL>__{How ya doing?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reeking with guilt)}
+<DIAL>__{Fine!  It's cutting fine now.}
+<CHAR>__{FIRST COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(curious)}
+<DIAL>__{Why are you cutting?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking for one of the others)}
+<DIAL>__{Why are we cutting?  Uh - boss!}
+<ACTION>__{Venkman and Stantz arrive just in time wearing Con Ed hardhats, doing a good imitation of a Consolidated Edison repairman.}
+<CHAR>__{FIRST COP} <CHAR_PAR>__{}
+<DIAL>__{What are you doing here?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(belligerent)}
+<DIAL>__{What the hell's it look like we're doing? We're bustin out asses over here 'cause some douchebag downtown ain't got nothin' better to do than make idiots like us work late on a Friday night, right?}
+<DIAL_PAR>__{(looks to Spengler for agreement)}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a "right on" fist)}
+<DIAL>__{Yo.}
+<ACTION>__{The cops seem satisfied by the explanation.}
+<CHAR>__{FIRST COP} <CHAR_PAR>__{}
+<DIAL>__{Okay, boys, take it easy.}
+<ACTION>__{They drive off.  Spengler breathes a great sigh of relief and starts rubbing his sore shoulders.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{You were supposed to help me with this.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You need the exercise.}
+<ACTION>__{Stantz resumes JACKHAMMERING, while Venkman and Spengler clear the rubble from the hole.  Suddenly he hits metal.  They clear away generations of paving material revealing an ornate iron manhole cover. The manhole cover bears a strange logo and the letters NYPRR.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(examing it)}
+<DIAL>__{NYPRR.  What the hell -- ?  Help me lift this.}
+<ACTION>__{They prey off the iron cover with crowbars, uncovering a very dark and very deep abyss.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shining a flashlight into the hole)}
+<DIAL>__{Wow!  It's an old airshaft.  It just goes forever.}
+<ACTION>__{Spengler leans in with the giga-meter which is reading even higher now.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Very intense.  We need a deeper reading. Somebody has to go down there.}
+<ACTION>__{Venkman and Spengler both look at Ray.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Thanks, boys.}
+<ACTION>__{They snap Stantz into a harness and lower him into the hole on a strong cable attached to a winch.  Ray calls out orders to them as he descends deeper and deeper.}
+<CHAR>__{STANTZ } <CHAR_PAR>__{(O.S.)}
+<DIAL_PAR>__{(his voice echoing in the airshaft)}
+<DIAL>__{Keep going -- more -- more --}
+<LOC>__{INT.  HOLE - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Stantz rappels off the sides of the airshaft as he continues his descent in total darkness.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(using a radio now)}
+<DIAL>__{Lower -- lower --}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Gee, this really is deep.}
+<ACTION>__{Suddenly, his feet kick thin air as he gets to the bottom of the airshaft and swings free in some kind of tunnel.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{Hold it!  Steady!}
+<ACTION>__{He pulls a powerful flashlight from his utility belt and shines it into the tunnel below.}
+<LOC>__{INT.  VAN HORNE STATION - STANTZ'S POV - NIGHT}
+<ACTION>__{He is suspended near the top of a beautifully preserved chamber with rounded, polished tile walls ardorned with intricate, colorfully enameled Art Nouveau mosaics.  A finely inlaid sign identifies it as VAN HORNE}
+<ACTION_ALT>__{STATION. STANTZ}
+<ACTION>__{He pans the walls with his flashlight, admiring the excellent tilework, and speaks quietly to Venkman and Spengler over his walkie-talkie.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reverently)}
+<DIAL>__{This is it, boys, the end of the line.  Van Horne Station.  The old New York Pneumatic. It's still here.}
+<LOC>__{EXT.  EAST 77TH STREET - HOLE - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Venkman has no idea what he's talking about.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(explaining)}
+<DIAL>__{The New York Pneumatic Railway.  It was an experimental subway system.  Fan-forced air-trains, built around 1870.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(over the walkie-talkie)}
+<DIAL>__{This is about as deep as you can go under Manhattan without digging your own hole.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{What's the reading?}
+<LOC>__{INT.  VAN HORNE STATION - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Stantz shines his flashlight on the meter and whistles at the extremely high reading.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the radio)}
+<DIAL>__{Off the top of the scale.  This place is really hot.  Lower me to the floor.}
+<ACTION>__{As Venkman and Spengler feed him some more cable, he pans his flashlight down the wall of the station, then onto the floor.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{Hold it!!  Stop!!  Whoa!!}
+<LOC>__{INT. VAN HORNE STATION - STANTZ'S POV - FLOOR - NIGHT}
+<ACTION>__{Below him is a river of bubbling seething, glowing slime, a veritable torrent of disgusting ooze. As he stares into the foul effluent, we become aware of the strangely amplified and magnified sounds of great ENGINES THROBBING and pulsing in the bowels of the city, of WATER RUSHING through pipes, STEAM HISSING through ducts, the muffled RUMBLE of the SUBWAY and the ROAR of TRAFFIC, and mixed with it all, the unmistakable sounds of human conflict and pain -- VOICES SHOUTING in anger, SCREAMING in fear, GROANING in pain, a sad and eerie symphony.}
+<LOC>__{INT.  VAN HORNE STATION - STANTZ - NIGHT}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ranting on the radio)}
+<DIAL>__{Oh, my God!  It's a seething, bubbling, psychic cess!  Interlocked tubes of plasm, crackling with negative GEVs!  It's glowing and moving!  It's -- it's a river of slime!!}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He dangles from the end of the cable, holding his feet up as high as he can.  He unhooks a device from his utility belt and pulls the trigger on it, shooting out a long telescoping fishing-pole with a scoop on the end. Reaching down, he scoops up a sample of the slime and starts retracting the pole.}
+<ACTION_ALT>__{SLIME}
+<ACTION>__{Suddenly, a grotesque arm with a long skeletal fingers reaches up out of the slime and snatches at Stantz's dangling feet.  He jerks his legs up as several more arms poke up out of the slime and reach for him.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the radio)}
+<DIAL>__{Haul me up, Venkman!  Now!}
+<LOC>__{EXT.  EAST 77TH STREET - HOLE - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Venkman and Spengler start hauling in the cable as a Con Ed Supervisor's car drives up, and behind it, the same police car they saw earlier.  A burly SUPERVISOR gets out and crosses toward them, followed by the two cops.}
+<CHAR>__{SUPERVISOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(no nonsense)}
+<DIAL>__{Okay, what's the story here?}
+<ACTION>__{Venkman and Spengler stop pulling up the cable and Venkman tries the belligerent worker ploy again, only this time he's wearing a Nynex hardhat.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What, I got time for this?  We got three thousand phones out in the Village and about eight million miles of cable to check.}
+<CHAR>__{SUPERVISOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not buying it)}
+<DIAL>__{The phone lines are over there.}
+<DIAL_PAR>__{(points to the curb)}
+<ACTION>__{Venkman pops Spengler on the head.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I told ya!}
+<ACTION>__{Stantz can be heard ranting over Venkman's walkie-talkie.}
+<CHAR>__{STANTZ } <CHAR_PAR>__{(O.S.)}
+<DIAL_PAR>__{(filtered)}
+<DIAL>__{Help!  Help!  Pull me up!  It's alive!  It's eating my boots.}
+<ACTION>__{Venkman switches off the walkie-talkie.}
+<CHAR>__{FIRST COP} <CHAR_PAR>__{}
+<DIAL>__{You ain't with Con Ed or the phone company. We checked.  Tell me another one.}
+<ACTION>__{Venkman stares at the Cop for a long moment.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Gas leak?}
+<LOC>__{INT.  VAN HORNE STATION - SAME TIME}
+<ACTION>__{Stantz is hanging there, looking down into the shaft at the slime which is now bubbling up the shaft after him.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Get me out of here!!}
+<ACTION>__{Desperate now, he kicks wildly and knocks loose a section of an old, rusting conduit.}
+<LOC>__{INT.  VAN HORNE STATION - BOTTOM OF THE SHAFT}
+<ACTION>__{The conduit falls on a heavy electrical transmission line, ripping through the cable with a SHOWER OF SPARKS.}
+<LOC>__{EXT.  EAST 77TH STREET - HOLE - CONTINUOUS ACTION}
+<ACTION>__{Venkman, Spengler, the cops and the supervisor all react to a bright FLASH deep down in the hole and a SHOUT from Stantz.}
+<LOC>__{EXT.  EAST 77TH STREET - STREET - NIGHT}
+<ACTION>__{One by one, all the streetlights go out; then the lights on all the buildings along East 77th street; then the whole neighborhood blacks out, and finally the entire city is plunged into darkness.}
+<CHAR>__{STANTZ } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Sorry.}
+<LOC>__{INT. DANA BARRETT'S APARTMENT - NIGHT (SAME TIME)}
+<ACTION>__{She walks around in the dark lighting candles and placing them all over the living room.  Then she finds a transistor radio and turns it on for information about the blackout.  She listens to a special news report for a moment, then has a compelling impulse to go check on the baby. She crosses to the nursery carrying a candle and quietly opens the door and looks in.  Suddenly the DOORBELL RINGS, scaring her half to death. Leaving the chain on the door, she opens it a crack and sees Janosz standing in the hall, eerily lit by a red emergency spot at the end of the hallway.  He looks slightly dazed and even creepier.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(surprised)}
+<DIAL>__{Janosz?}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Hello, Dana.  I happened to be in the neighborhood and I thought I'd stop by to see if everything's all right with you -- you know, with the blackout and everything? Are you okay?  Is the baby all right?}
+<ACTION>__{His affected concern is chilling.  She is frightened but conceals it from him.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mechanically and cautiously)}
+<DIAL>__{We're fine, Janosz.}
+<ACTION>__{He tires to look around her into the apartment.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Do you need anything?  You want me to come in?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{No, everything's fine.  Honestly.  Thanks anyway.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Okay, just thought I'd check.  Good night, Dana.  Sleep well.  Don't let the bedbugs bite you.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Good night, Janosz.}
+<ACTION>__{She closes the door behind him and double locks it, then stands there staring into the candlelight, alone and afraid.}
+<LOC>__{INT.  HALLWAY OF DANA'S BUILDING - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Janosz stands there in semi-darkness, then his eyes light up like headlights and he walks off down the hall.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  COURTROOM - WITNESS STAND - NEXT DAY}
+<ACTION>__{The JUDGE, a rather sour-looking jurist of the old school, calls the court to order.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{I want to make one thing very clear before we go any further.  The law does not recognize the existence of ghosts, and I don't believe in them either, so I don't want to hear a lot of malarkey about goblins and spooks and demons.  We're going to stick to the facts in this case and save the ghost stories for the kiddies.  Understood?}
+<ACTION_ALT>__{DEFENSE TABLE}
+<ACTION>__{Stantz leans over and whispers to Spengler.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Seems like a pretty open-minded guy, huh?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{His nickname is "The Hammer."}
+<ACTION>__{Stantz and Spengler are seated with their attorney LOUIS TULLY, lawyer, CPA and former demonic possession victim.  Louis is desperately paging through a mountain of legal textbooks.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nervous)}
+<DIAL>__{I think you're making a big mistake here, fellas.  I do mostly tax law and some probate stuff occasionally.  I got my law degree at night school.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{That's all right.  We got arrested at night.}
+<ACTION>__{SPECTATORS' GALLERY Venkman is talking to Dana at the wooden rail in front of the gallery.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I wish I could stay.  I feel personally responsible for you being here.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You are personally responsible.  If I can get conjugal rights, will you visit me at Sing Sing?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Please don't say that.  You won't go to prison.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Don't worry about me.  I'm like a cat.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{You mean you cough up hairballs all over the rug?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm El Gato.  I always land on my feet.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sincerely)}
+<DIAL>__{Good luck.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Thanks.}
+<ACTION>__{She gives him a quick, unexpected kiss and exits.  Venkman savors it for a moment then goes back to the defense table.}
+<ACTION_ALT>__{PROSECUTION TABLE}
+<ACTION>__{Jack Hardemeyer, the mayor's principal aide, is goading the PROSECUTOR, a very sober, humorless woman in her late thirties.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{How are you doing, hon?  Just put these guys away fast and make sure they go away for a long, long time.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{It shouldn't be hard with this list of charges.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{Good.  Very good.  The mayor and future governor won't forget this.}
+<ACTION>__{He smiles conspiratorially and makes a point of passing the defense table on his way out of the courtroom.}
+<ACTION_ALT>__{DEFENSE TABLE}
+<ACTION>__{The Ghostbusters look up as Hardemeyer approaches.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gloating)}
+<DIAL>__{Nice going, Venkman.  Violating a judicial restraining order, willful destruction of public property, fraud, malicious mischief -- smooth move.  See you in a couple years -- at your first parole hearing.}
+<ACTION>__{Herdemeyer exits.  Louis looks devastated.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Gee, the whole city's against us.  I think I'm going to be sick.}
+<ACTION>__{Spengler hands him a waste basket as the Prosecutor calls her first witness.}
+<LOC>__{INT.  COURTROOM - WITNESS STAND - DAY (LATER)}
+<ACTION>__{The Con Ed Supervisor is testifying.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{Mr. Fianella, please look at Exhibits A through F on the table over there.  Do you recognize that equipment?}
+<ACTION_ALT>__{EXHIBIT TABLE}
+<ACTION>__{Lying on the table are the basic tools of the Ghostbusting trade: three proton packs and particle throwers, a couple of ghost traps, and various meters and detection devices.}
+<CHAR>__{CON ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(o.c.)}
+<DIAL>__{That's the stuff the cops found in their truck.}
+<ACTION_ALT>__{WITNESS STAND}
+<ACTION>__{She continues.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{Do you know what this equipment is used for?}
+<CHAR>__{CON ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{I don't know.  Catching ghosts, I guess.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Judge)}
+<DIAL>__{May I remind the court that the defendants are under a judicial restraining order that specifically forbids them from performing services as paranormal investigators and eliminators.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{So noted.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{Now, Mr. Fianella, can you identify the substance in the jar on the table marked Exhibit F?}
+<ACTION_ALT>__{PROSECUTOR}
+<ACTION>__{She goes to the exhibit table and picks up a specimen jar containing the slime sample Stantz removed from the tunnel.}
+<CHAR>__{CON ED} <CHAR_PAR>__{}
+<DIAL>__{I been working underground for Con Ed for 27 years and I never saw anything like that in my life.  We checked out that tunnel the next day and we didn't find nothing.  If it was down there, they must have put it there.}
+<ACTION_ALT>__{DEFENSE TABLE}
+<ACTION>__{Venkman and Spengler look at Stantz.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(defensively)}
+<DIAL>__{Hey, I didn't imagine it.  There must have been ten thousand gallons of it down there.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{It may be ebbing and flowing from some tidal source.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nervously)}
+<DIAL>__{Should I say that?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I doubt that they'd believe us.}
+<ACTION>__{Louis moans and goes back to his notes.}
+<TRANS>__{WIPE TO:}
+<LOC>__{INT.  COURTROOM - WITNESS STAND - LATER}
+<ACTION>__{Venkman himself is on the stand and Louis is questioning him.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{So like you were just trying to help out your old friend because she was scared and you didn't really mean to do anything bad and you really love the city and won't ever do anything like this again, right?}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{Objection, your Honor.  He's leading the witness.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{The witness is leading him.  Sustained.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Okay, let me rephrase that question.}
+<DIAL_PAR>__{(to venkman)}
+<DIAL>__{Didn't you once coach a basketball team for underprivileged children?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yes, I did.  We were city champs.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{Objection.  Irrelevant and immaterial.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Sustained.  Mr. Tully, do you have anything to ask this witness that may have some bearing on this case?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Venkman)}
+<DIAL>__{Do I?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{No, I think you've helped them enough already.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Judge)}
+<DIAL>__{No, I guess not.}
+<DIAL_PAR>__{(to the Prosecutor)}
+<DIAL>__{Your witness.}
+<ACTION>__{The Prosecutor rises and approaches the witness stand with relish.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{So, Dr. Venkman, please explain to the court why it is you and your co-defendants took it upon yourselves to dig a big hole in the middle of the street.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Seventy-seventh and First Avenue has so many holes already we didn't think anyone would notice.}
+<ACTION>__{The gallery laughs and the Judge gavels for order.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Keep that up, mister, and I'll find you in contempt.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Sorry, your Honor, but when somebody sets me up like that I can't resist.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{I'll ask you again, Dr. Venkman.  Why were you digging the hole?  And please remember that you're under oath.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I had my fingers crossed when they swore me in, but I'm going to tell you the truth. There are things in this world that go way beyond human understanding, things that can't be explained and that most people don't want to know about anyway.  That's where we come in.}
+<CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
+<DIAL>__{So what are you saying?  That the world of the supernatural is your special province?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{No, I guess I'm just saying that shit happens and somebody has to deal with it.}
+<ACTION>__{The spectators in the gallery cheer and the judge gavels for order.}
+<TRANS>__{WIPE TO:}
+<LOC>__{INT.  COURTROOM - LATER}
+<ACTION>__{The trial is nearing its end.  The Judge calls on Louis to make his summation.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Does the counsel for the defense wish to make any final arguements?}
+<ACTION>__{Louis rises.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Your honor, may I approach the bench?}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(impatient)}
+<DIAL>__{Yes.}
+<ACTION>__{Louis crosses to the judge's bench.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the judge)}
+<DIAL>__{Can I have some of your water?}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Get on with it, counselor!}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(scared)}
+<DIAL>__{Your honor, ladies and gentlemen of the --}
+<DIAL_PAR>__{(he remembers there's no jury)}
+<DIAL>__{audience.  I don't think it's fair to call my clients frauds.  Okay, the blackout was a big problem for everybody.  I was stuck in an elevator for about three hours and I had to go to the bathroom the whole time, but I don't blame them because once I turned into a dog and they helped me.  Thank you.}
+<ACTION>__{He goes back to the defense table and sits down.  Stantz and Spengler hang their heads.  Venkman pats Louis on the back.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Louis)}
+<DIAL>__{Way to go.  Concise and to the point.}
+<ACTION_ALT>__{JUDGE}
+<ACTION>__{He stares at Louis, astonished at his summation.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{That's it?  That's all you have to say?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Did I forget something?}
+<ACTION>__{He searches through a disorderly pile of notes.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{That was unquestionably the worst presentation of a case I've ever heard in a court of law!  I ought to cite you for contempt and have you disbarred.  As for your clients, Peter Venkman, Raymond Stantz and Egon Spengler, on the charges of conspiracy, fraud and the willful destruction of public property, I find you guilty on all counts.  I order you to pay fines in the amount of $25,000 each and I sentence you to eighteen months in the city correctional facility at Ryker's Island.}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He sees the activity in the jar}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Uh-oh, she's twitchin'.}
+<ACTION_ALT>__{THE BENCH}
+<ACTION>__{The Judge continues}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{And on a more personal note, let me go on record as saying that there is no place in decent society for fakes, charlatans and tricksters like you who prey on the gullibility of innocent people.  You're beneath the contempt of this court.  And believe me, if my hands were not tied by the unalterable fetters of the law, a law which has become in my view far too permissive and inadequate in it's standards of punishment, I would invoke the tradition of our illustrious forebearers, reach back to a sterner, purer justice and have you burned at the stake!}
+<ACTION>__{He hammers the bench with his gravel as the gallery erupts noisily.  Then he feels a LOW RUMBLING TREMOR in the courtroom.}
+<ACTION_ALT>__{SPECIMEN JAR}
+<ACTION>__{The slime starts to pulse and swell, pushing up the lid on the jar.}
+<ACTION_ALT>__{DEFENSE TABLE}
+<ACTION>__{Stantz anticipates big trouble.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Under the table, boys!}
+<ACTION>__{The Ghostbusters duck under the defense table.}
+<ACTION_ALT>__{LOUIS}
+<ACTION>__{He stands up and looks around fearfully.}
+<LOC>__{INT.  COURTROOM - GHOST BATTLE - DAY}
+<ACTION>__{Everybody is silent now as the rumbling increases.  All eyes turn to the exhibit table.  Then suddenly all Hell breaks loose as TWO FULL-TORSO APPARITIONS explode out of the specimen jar.}
+<ACTION_ALT>__{JUDGE}
+<ACTION>__{He looks up in terror at the two huge apparitions looming above him and recognizes them immediately.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in horror)}
+<DIAL>__{Oh, my God!  The Scoleri Brothers!}
+<ACTION_ALT>__{SCOLERI BROTHERS}
+<ACTION>__{Big in life, even bigger in death, the ghostly Scoleri brothers seem ten feet tall.  They are strapped into electric chairs and on their heads are metal electrocution caps with live, sparking electrical wires still attached.  Twenty-five hundred volts of electricity shoot through their bodies as they start to break free of the leather restraints, trying to get at the Judge.}
+<ACTION_ALT>__{JUDGE}
+<ACTION>__{Holding his gavel like a pitiful weapon, he crawls over to the defense table where Venkman, Stantz and Spengler are now crouched, assessing the spectral intruders.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(terrified)}
+<DIAL>__{You've got to do something!}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Who are they?}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{They're the Scoleri Brothers.  I tried them for murder.  They were electrocuted up at Ossining in '48.  Now they want to kill me.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Maybe they just want to appeal.}
+<ACTION_ALT>__{SCOLERI BROTHERS}
+<ACTION>__{They break loose from the electric chairs, then turn toward the defense table and BLAST it with HIGH-VOLTAGE FINGER-LIGHTNING.}
+<ACTION_ALT>__{PROSECUTOR}
+<ACTION>__{She sprints for the door, pursued by one of the Scoleri brothers.}
+<ACTION_ALT>__{GHOSTBUSTERS}
+<ACTION>__{They jump to safety behind the rail of the jury box, pulling the Judge with them.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{These boys aren't playing around.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(desperately)}
+<DIAL>__{You've got to stop them.  Please!}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(thinking like a lawyer)}
+<DIAL>__{Violating a judicial restraining order could expose my clients to serious criminal penalties.  As their attorney I'd have to advise them against it.}
+<ACTION_ALT>__{SCOLERI BROTHERS}
+<ACTION>__{They start punching through the jury box.}
+<ACTION_ALT>__{JUDGE}
+<ACTION>__{He is just about hysterical with fear.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{All right!  All right!  I'm recinding the order.  Case dismissed!!}
+<DIAL_PAR>__{(he pounds his gavel on the floor)}
+<DIAL>__{Now do something!}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Let's go to work, boys.}
+<ACTION>__{With that, the Ghostbusters leap over the rail of the jury box and dash across the courtroom to the exhibit table where their proton packs were being displayed as evidence.  They strap them on hastily as the Brothers continue tearing up the seats looing for the Judge.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(slinging the pack onto his back)}
+<DIAL>__{Geez, I forgot how heavy these things are.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(grabbing other gear)}
+<DIAL>__{Okay, let's heat 'em up!}
+<ACTION>__{They flip the power switches on their packs and draw their particle throwers.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{All right, throwers.  Set for full neutronas on stream.}
+<ACTION>__{They switch on their throwers and turn to face the raging phantasms.}
+<ACTION_ALT>__{SCOLERI BROTHERS}
+<ACTION>__{They are just about to wipe out the Judge when a loud shout distracts them.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Hey!  Why don't you pick on someone your own size?}
+<ACTION>__{The towering ghosts turn in a fury and raise their arms, ready to shoot lightning at their new adversaries.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the others)}
+<DIAL>__{On my signal, boys.  Open 'em up -- Now!}
+<ACTION>__{They all pull their triggers and the wands EXPLODE with incredible powerful STREAMS OF ENERGY, doing even more damage to the courtroom.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Spengs, take the door.  Ray, let's try and work them down and into the corner.}
+<ACTION>__{Working as a team, they gradually confine the Scoleri Brothers with the streams, forcing them closer and closer to the traps Ray has set out on the floor.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Watch it!  I'm coming under you, Pete.}
+<ACTION>__{They circle around the two ghosts, prodding them with the streams while ducking the lightning bolts shooting from their fingers.  Finally, Ray sees his chance and pops open the traps which emit inverted pyramids of light energy.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Steady -- watch your streams -- easy now -- Venky, bring him left -- Spengy, pull him down -- trapping -- trapping -- now!}
+<ACTION>__{He stomps on a control pedal and the Scoleri Brothers are drawn into the traps which snap shut.}
+<LOC>__{INT.  COURTROOM - TRAPS - DAY}
+<ACTION>__{LEDs on the outer casing start flashing, indicating the presence of a ghost inside each trap.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(checking the trap)}
+<DIAL>__{Occupado.}
+<LOC>__{INT.  COURTROOM - JUDGE - DAY (AFTER GHOST BATTLE)}
+<ACTION>__{He sticks his head up slowly from behind the debris of his bench and looks around in total amazement.}
+<ACTION_ALT>__{LOUIS}
+<ACTION>__{He crawls out from under a chair.  Reporters and spectators get back on their feet and start buzzing about the incredible manifestation.}
+<ACTION_ALT>__{PROSECUTOR}
+<ACTION>__{She's lying on the floor, attended to by the Bailiff and the Court Clerk.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Prosecutor)}
+<DIAL>__{Brilliant summation.}
+<ACTION_ALT>__{GHOSTBUSTERS}
+<ACTION>__{They break into big smiles as photographers start snapping pictures of them standing in the wrecked courtroom.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Case closed, boys.  We're back in business.}
+<ACTION>__{The spectators cheer and applaud.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  FIREHOUSE - DAY}
+<ACTION>__{The old, dilapidated Ghostbusters logo comes crashing to the ground, dropped by a pair of workmen on a ladder, and the new logo is hoisted into place over the main entrance.  It's just like the original "No Ghosts" logo, but in the new one the ghost in the red circle is holding up two fingers.  Venkman enters the firehouse.}
+<LOC>__{INT.  BEDROOM SET (TV COMMERCIAL - FULL SCREEN VIDEO) - NIGHT}
+<ACTION>__{A man and his wife are lying in bed reading.  The man is played by Louis Tully and JANINE MELNITZ, the Ghostbusters' once and future receptionist, is playing his wife.  They are both terrible actors.  Suddenly, a ghost, actually a very bad puppet on a wire, floats through the bedroom.  Janine sees it and screams.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{What is it, honey?}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{It's that darn ghost again!  I don't know what to do anymore.  He just won't leave us alone.  I guess we'll just have to move.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Don't worry.  We're not moving.  He is.}
+<ACTION>__{He picks up the phone.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{Who are you going to call?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a wink)}
+<DIAL>__{Ghostbusters.}
+<ACTION>__{As he starts to dial, the CAMERA PULLS BACK to reveal the Ghostbusters standing in the bedroom.  Their acting isn't much better than Louis and Janine's.}
+<ACTION_ALT>__{GHOSTBUSTERS}
+<ACTION>__{Stantz speaks directly TO the CAMERA.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I'm Ray --}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm Peter --}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{I'm Egon --}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{And we're the ...}
+<CHAR>__{ALL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(together)}
+<DIAL>__{Ghostbusters.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{That's right -- Ghostbusters.  We're back and we're better than ever with twice the know-how and twice the particle-power to deal with all your supernatural elimination needs.}
+<ACTION>__{During his speech, Winston can be seen in the b.g. pretending to trap the fake ghost.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Careful, Winston.  He's a mean one.}
+<DIAL_PAR>__{(TO CAMERA)}
+<DIAL>__{And to celebrate our grand reopening, we're giving you twice the value with our special half-price 'Welcome Back' service plan.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Hold on, Ray!  Half-price!  Have you gone crazy?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I guess so, Pete, because that's not all. Tell them what else we've got, Egon.}
+<ACTION>__{Spengler actually mouths everyone else's dialogue along with them, waiting for his cue.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{You mean the Ghostbusters hot beverage thermal mugs and free balloons for the kids?}
+<ACTION>__{He holds up a mug and a limp, uninflated balloon.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{You bet.}
+<ACTION>__{As Stantz wraps it up, SUPERS APPEAR at the bottom of the SCREEN: FULLY BONDED - FULLY LICENSED - SE HABLA ESPANOL.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO CAMERA)}
+<DIAL>__{So don't wait another minute.  Make your supernatural problem our supernatural problem. Call now, because we're still --}
+<CHAR>__{ALL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in unison, mechanically)}
+<DIAL>__{-- Ready to believe you.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  JACK HARDEMEYER'S OFFICE - DAY}
+<ACTION>__{Hardemeyer is watching the Ghostbusters commercial on a TV in his office. He bangs his fist on his desk and angrily switches OFF the TV.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  FIREHOUSE - DAY (LATER)}
+<ACTION>__{The garage door opens and the new improved ECTOMOBILE comes ROARING out onto the street, its ghostly SIREN MOANING and WAILING.  Louis comes running out after it.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  FIREHOUSE - DAY}
+<ACTION>__{Louis comes back into the garage bay and stops as he smells a foul odor. He sniffs around, following the smell.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, geez, smells like somebody took a really big --}
+<ACTION>__{He freezes.}
+<LOC>__{INT. OFFICE AREA - LOUIS'S POV}
+<ACTION>__{Slimer, a spud-like green ghost, is hovering over Louis's desk, scarfing down Louis's bag lunch.  Slimer looks up and sees Louis.}
+<ACTION_ALT>__{SLIMER AND LOUIS}
+<ACTION>__{They both scream and run off in opposite directions.}
+<ACTION_ALT>__{SLIMER}
+<ACTION>__{He passes right through a wall and disappears.}
+<ACTION_ALT>__{LOUIS}
+<ACTION>__{He runs right into a wall, recovers and exits in a hurry.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screaming)}
+<DIAL>__{Help!  There's a thing!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  CENTRAL PARK RESERVOIR - DAY (LATER)}
+<ACTION>__{Runners of both sexes and all ages are huffing and puffing as they jog along the track that circles the reservoir.  One of the runners looks behind him at the sound of APPROACHING FOOTFALLS and screams.}
+<ACTION_ALT>__{GHOSTLY JOGGER}
+<ACTION>__{A ghost jogger is loping along at a pretty fair pace.  Other runners stumble and run screaming into the park as he passes them.  Seemingly oblivious to the effect he's having, the ghost jogger puts two fingers to his skeletal neck and checks his watch as if taking his pulse.}
+<LOC>__{EXT. CLEARING IN PARK - DAY (SAME TIME)}
+<ACTION>__{Venkman is sitting on a park bench near the jogging track reading the newspaper, eating a donut and drinking coffee from a Styrofoam cup.}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He's sitting on a bench opposite Venkman's, casually watching the jogging track.}
+<ACTION_ALT>__{GHOST JOGGER}
+<ACTION>__{He approaches the benches where the Ghostbusters are waiting.  As the ghost jogger passes the benches, Stantz and Venkman simultaneously hit concealed control buttons.  A ghost trap buried in the track throws up a glowing inverted pyramid and catches the ghost jogger in mid-stride. Stantz and Venkman close the trap and capture the ghost jogger.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(checking his watch)}
+<DIAL>__{You know he ran that last lap in under six minutes?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{If he wasn't dead he'd be an Olympic prospect.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  JEWELRY STORE - DAY}
+<ACTION>__{The Ghostbusters come out carrying smoking traps, wearing cheap dime-store Santa Claus hats.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the client)}
+<DIAL>__{Merry Christmas!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  FIFTH AVENUE - ORREFORS GLASS STORE - DAY}
+<ACTION>__{The Ectomobile is parked at the curb and a curious crowd looks on as the Ghostbusters enter the store.}
+<LOC>__{INT.  ORREFORS GLASS STORE - CONTINUOUS ACTION}
+<ACTION>__{All the precious crystal is floating in the air, several feet above the glass shelves and display tables.  Stantz and Venkman are talking to the manager while Winston and Spengler set up an array of electronic devices positioned in each corner of the store. On a signal from Stantz, Spengler and Winston switch on the devices which throw laser-type beams around the perimeter of the store.  The manager watches in horror as all the GLASSWARE suddenly drops out of the air, SMASHES through the GLASS SHELVES and SHATTERS on the display tables. There is a long pregnant pause.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the manager)}
+<DIAL>__{So will that be cash or a check?}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM - RESTORATION STUDIO - DAY (LATE AFTERNOON)}
+<ACTION>__{Everyone else has gone home.  Dana is cleaning her brushes and putting her supplies away. VIGO PAINTING - CONTINUOUS ACTION Vigo turns his head and watches Dana as she walks past the painting.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She stops, vaguely aware of the movement, and looks up curiously at the painting.  As she starts to walk on, Vigo looks at her again, but Dana turns suddenly and catches the movement.  Frightened now, she hastily leaves the studio.}
+<LOC>__{INT.  FIREHOUSE - DAY}
+<ACTION>__{Louis is lurking behind a pillar, peeking out at the office area.  We PAN DOWN TO the floor and see a foot pedal, then PAN ALONG the cord TO a ghost trap sitting on Louis's desk.  Hanging from strings over the desk are several pieces of Kentucky fried chicken.}
+<ACTION_ALT>__{WALL}
+<ACTION>__{Slimer partially emerges and furtively sniffs the air, then spots the chicken bait.  He licks his lips, materializes completely and flies to the chicken.}
+<ACTION_ALT>__{LOUIS}
+<ACTION>__{His eyes light up and he stomps the foot pedal.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{Gotcha!}
+<ACTION_ALT>__{DESK}
+<ACTION>__{The trap pops open and shoots out a powerful cone of energy.  Slimer dodges it and escapes as a big section of the ceiling comes crashing down on Louis's desk.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(seeing the damage)}
+<DIAL>__{Uh-oh.}
+<ACTION>__{He slinks off, defeated.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MANHATTAN MUSEUM OF ART - SECURITY DESK - DAY}
+<ACTION>__{The Ghostbusters commercial is playing on a portable TV on the security desk.  Rudy, the Security Guard, is reading a National Enquirer with a giant front-page headline: GHOSTBUSTERS SAVE JUDGE.  Venkman enters.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm looking for Dana Barrett.}
+<CHAR>__{SECURITY GUARD} <CHAR_PAR>__{}
+<DIAL>__{Room 304 -- Restorations.}
+<DIAL_PAR>__{(recognizing him)}
+<DIAL>__{Hey!  Dr. Venkman -- 'World of the Psychic.' I'm a big, big fan.  That used to be one of my two favorite shows.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(flattered)}
+<DIAL>__{Thanks.  What's the other one?}
+<CHAR>__{SECURITY GUARD} <CHAR_PAR>__{}
+<DIAL>__{'Bass Masters.'  It's a fishing show.  Ever see it?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, really great.  Take it easy.}
+<ACTION>__{He exits.}
+<LOC>__{INT.  MUSEUM - RESTORATION STUDIO - DAY (MOMENTS LATER)}
+<ACTION>__{Dana is working on a valuable Flemish still-life by Ver Meer.  Janosz is at the other end of the room, still working on the painting of Vigo. Venkman enters and sneaks up behind Dana.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking at the Ver Meer)}
+<DIAL>__{So this is what you do, huh?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(glad to see him)}
+<DIAL>__{Oh, hello, Peter.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You're really good, you know.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I didn't paint it.  I'm just cleaning it. It's an original Ver Meer.  It's worth about ten million dollars.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{He turns his head and watches Venkman and Dana.}
+<ACTION_ALT>__{VENKMAN}
+<ACTION>__{Unaware that he's being watched, Venkman squints at the still life, holding up his thumb like he's seen artists do.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You know you can go to Art World and get these huge sofa-size paintings for about forty-five bucks.}
+<ACTION>__{He starts looking around at the other artwork in the studio.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I'm sure you didn't come here just to talk about art.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{As a matter of fact, I stopped by to tell you that I haven't forgotten your problem and that we're still on the case.}
+<ACTION>__{They are interrupted by the sudden appearance of Janosz.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiling at Venkman)}
+<DIAL>__{Dana, aren't you going to introduce me to your friend?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Oh, I'm sorry.  This is Peter Venkman. Peter, Janosz Poha.}
+<ACTION>__{Venkman warily shakes his hand, trying to size him up.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(avoiding his gaze)}
+<DIAL>__{Pleasure to meet you.  I've seen you on television.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{How are you?}
+<DIAL_PAR>__{(looking over at the Vigo painting)}
+<DIAL>__{What's that you're working on, Johnny?}
+<ACTION>__{Janosz winces at the nickname but lets it go.  Venkman and Dana cross to the Vigo painting.  Janosz steps protectively in front of it.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{It's a painting I'm restoring for the new Byzantine exhibition.  It's a self-portrait of Prince Vigo, the Carpathian.  He ruled most of Carpathia and Moldavia in the 17th Century.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(staring at the painting)}
+<DIAL>__{Too bad for the Moldavians.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(defensive)}
+<DIAL>__{He was a very powerful magician.  A genius in many ways and quite a skilled painter.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{He was also a lunatic and a genocidal madman. I hate this painting.  I've felt very uncomfortable since they brought it up from storage.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, it's not the kind of thing you'd want to hang in the rec room.  You know what it needs?}
+<DIAL_PAR>__{(picking up a brush)}
+<DIAL>__{A fluffy little white kitten in the corner.}
+<ACTION>__{Venkman reaches toward the painting, but Janosz grabs his hand.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with forced good will)}
+<DIAL>__{We don't go around altering valuable paintings, Dr. Venkman.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Well, I'd make an exception in this case if I were you.}
+<ACTION>__{Dana looks disapprovingly at Venkman.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Janosz)}
+<DIAL>__{I'll let you get back to it.  Nice meeting you.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{My pleasure.}
+<ACTION>__{Venkman and Dana cross back to her workspace.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(confidentially)}
+<DIAL>__{I may be wrong, but I think you've got a little crush on this guy.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Good-bye, Peter.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dragging his feet)}
+<DIAL>__{I'd like to stay, but I really don't have time to hang around here.  I'll call you.}
+<DIAL_PAR>__{(calls out to Janosz)}
+<DIAL>__{Later, Johnny!}
+<ACTION>__{He exits.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{Vigo turns his head and follows Dana as she returns to her workbench.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She stops, vaguely aware of the movement, and looks up curiously at the painting.  As she starts to walk on, Vigo looks at her again, but Dana turns suddenly and catches the movement.  Frightened now, she hastily leaves the studio.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  FIREHOUSE - LIVING QUARTERS - CONTINUOUS ACTION - DAY}
+<ACTION>__{Venkman and Winston enter and find Stantz and Spengler at work in the lab area.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Oh good, you're here.  Spengler and I have something really amazing to show you.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spengler)}
+<DIAL>__{It's not that thing you do with your nostrils, is it?}
+<ACTION>__{Stantz goes to the refrigerator, opens the freezer, rummages around among the TV dinners and frozen pizza and pulls out a slime specimen in a Tupperware container.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Venkman)}
+<DIAL>__{We've been studying the stuff that we took from the subway tunnel.}
+<ACTION>__{He pops the specimen jar in the microwave and lets it thaw for a minute.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{And now you're going to eat it?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{No, I'm just restoring it to its normal state.}
+<ACTION>__{He takes the specimen out of the microwave and pours some of it into a large Petri dish.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Now watch this.}
+<ACTION>__{He leans over the specimen and starts shouting at it.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(simulating anger)}
+<DIAL>__{You worthless piece of slime!!}
+<DIAL_PAR>__{(as the slime starts to twitch and glow)}
+<DIAL>__{You ignorant disgusting blob!!}
+<ACTION_ALT>__{SPECIMEN}
+<ACTION>__{It bubbles and swells, changing color with each insult.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{You foul, obnoxious muck!!}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He continues venting his rage on the slime.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I've seen some real crud in my time, but you're a chemical disgrace!!}
+<ACTION>__{The specimen doubles its size and starts spilling over the rim of the Petri dish.}
+<ACTION_ALT>__{STANTZ AND SPENGLER}
+<ACTION>__{They turn to Venkman for his reaction.  He's dumbfounded.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{This is what you do with your spare time?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very excited)}
+<DIAL>__{This is an incredible breakthrough, Venkman. A psychoreactive substance!  Whatever this is, it clearly responds to human emotional states.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{'Mood slime.'  We ought to bottle this stuff and sell it.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{We've found it at every event site we've been to lately.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(poking at the slime)}
+<DIAL>__{You mean this stuff actually feeds on 'bad vibes'?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Like a goat on garbage.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{We're running tests to see if we can get an equally strong positive reaction.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What kind of tests?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a little embarrassed)}
+<DIAL>__{Well, we sing to it, we talk to it, we say supportive, nurturing things --}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You're not sleeping with this stuff, are you?}
+<ACTION>__{Spengler reacts as if he might be.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It really responds to music.}
+<DIAL_PAR>__{(to Spengler)}
+<DIAL>__{Let's calm it down.}
+<ACTION>__{Spengler picks up a guitar and he and Stantz start singing "Cumbaya" to the slime specimen.}
+<ACTION_ALT>__{SPECIMEN}
+<ACTION>__{It stops bubbling and starts to shrink.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Does it have any favorites?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It likes all the sappy stuff: 'Cumbaya,' 'Everything is Beautiful,' 'It's a Small World' -- but it loves Jackie Wilson.}
+<ACTION>__{Venkman and Winston watch intently as Spengler spoons some of the psych-reactive slime onto an old toaster.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Watch this.}
+<ACTION>__{Stantz turns on a CASSETTE PLAYER and Jackie Wilson's "HIGHER AND HIGHER" BLASTS from the speakers.}
+<ACTION_ALT>__{TOASTER}
+<ACTION>__{It shakes, spins and actually starts moving in time with the MUSIC.}
+<ACTION_ALT>__{VENKMAN}
+<ACTION>__{He stares in disbelief at the dancing toaster as it shoots two pieces of toast into the air and catches them without missing a beat.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I don't care what you say.  This could be a major Christmas gift item.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Right, and the first time someone gets mad, their toaster will eat their hand.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So we'll put a warning on the label.}
+<ACTION>__{Stantz turns OFF the MUSIC and the toaster stops moving.  Venkman looks at the toaster and sticks his fingers in the slot.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the toaster)}
+<DIAL>__{Go ahead.  I dare you.}
+<ACTION>__{Suddenly, he yelps as if the toaster has actually bitten into his hand and won't let go.  The others jump in to help him, but Venkman laughs and easily withdraws his hand.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Just kidding.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  DANA'S APARTMENT - NIGHT}
+<ACTION>__{Dana brings Oscar into the bathroom and lays him on the bassinet.  She's wearing a robe over her nightgown, preparing to bathe the baby.  She turns the taps on the old claw-footed bathtub, checks the water temperature, then turns away and starts to undress the baby.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(talking sweetly to the baby)}
+<DIAL>__{Look at you.  I think we got more food on your shirt than we got in your mouth.}
+<ACTION_ALT>__{BATHTUB}
+<ACTION>__{The water pouring from the faucet changes to slime and settles at the bottom of the tub.  Dana reaches over and turns off the water without looking into the tub.  When she turns away, both taps start to spin by themselves and the tub flexes and bulges.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{Still unaware, she routinely reaches over and squirts some bubble bath into the tub.}
+<ACTION_ALT>__{BATHTUB}
+<ACTION>__{The rim of the tub puckers up and the sides convulse as if swallowing the bubble bath.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She picks the baby up off the bassinet and turns to place him in the tub. She is just about to lower him into the water when the tub starts to close up around the baby like a hugh mouth.  Dana screams, snatches the baby away and runs from the room clutching Oscar to her bosom as the bathtub convulses and vomits up buckets of slime.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  VENKMAN'S LOFT - SAME NIGHT (LATER)}
+<ACTION>__{The big open loft space is a chaotic clutter of mismatched furniture, old magazines, books, tapes, and sports equipment.  Venkman is asleep on the floor, still wearing his coat, scarf, hat and gloves, having collapsed just short of the bedroom.  The DOORBELL RINGS, he wakes up, lumbers to his feet and answers it.  He opens the door and sees Dana standing there. She is wearing only a nightgown under her coat and Oscar is naked, wrapped in a baby blanket.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(somewhat embarrassed to be there)}
+<DIAL>__{I'm sorry.  Were you on your way out?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(surprised to see her)}
+<DIAL>__{No, I just got in -- a couple hours ago. Come on in.}
+<DIAL_PAR>__{(noting her apparel)}
+<DIAL>__{Are we having a pajama party?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(upset)}
+<DIAL>__{Peter, the bathtub tried to eat Oscar.}
+<ACTION>__{Venkman looks at her for a long moment.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You know, if anyone else told me that, I'd have serious doubts.  But coming from you, I can't honestly say I'm surprised.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I must be losing my mind.  At the museum today I could have sworn that terrible painting of Vigo looked right at me.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Who could blame him?  Were you wearing this nightgown?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(distraught)}
+<DIAL>__{I don't know what to do anymore.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'll get Ray and Egon to check out the bathtub.  You better stay here.}
+<ACTION>__{He exits to the bathroom.  She looks around the loft, amazed at the disorder.  Venkman comes back immediately with an old sweatshirt and takes Oscar from her.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Now this kid has a serious nudity problem.}
+<ACTION>__{He spreads the sweatshirt out on the sofa, lays the baby on it and starts tying it around him like a diaper.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the baby)}
+<DIAL>__{This is Joe Namath's old number, you know. You could get a lot of chicks with this. Just don't pee in it.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Peter, what about the bathtub?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(grabs the phone and dials)}
+<DIAL>__{We'll take care of that.}
+<DIAL_PAR>__{(on the phone)}
+<DIAL>__{Ray, Pete.  Listen, get over to Dana's right away ... Her bathtub pulled a fast one -- tried to eat the kid.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{It was full of this awful pink ooze.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ray)}
+<DIAL>__{Sounds like another slime job ... No, they're all right.  They're here now ... Right ... Let me know.}
+<ACTION>__{He hangs up.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{They're going over there right now.  You might as well make yourself at home.  Let me show you around.}
+<DIAL_PAR>__{(he crosses to the kitchen area)}
+<DIAL>__{This is the cuisine de maison --}
+<ACTION>__{It's an incredible mess. The sink is piled high with dirty dishes and the counters are littered with all sorts of food trash.  He grabs a big open Hefty bag on the floor and starts throwing garbage into it.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking at the sink)}
+<DIAL>__{We may have to wash some of these if you get hungry --}
+<DIAL_PAR>__{(he looks in the fridge)}
+<DIAL>__{-- but there's no food anyway so forget about it.  I have all kinds of carry-out menus if you feel like ordering.}
+<ACTION>__{He opens a drawer full of pizza, barbecue and Chinese food menus, then crosses to the bathroom.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Bathroom's right here -- let me just tidy up a few things.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Peter, this is very nice, but you don't have to do any of this, you know.}
+<ACTION>__{He goes into the bathroom and we hear WATER RUNNING, the TOILET FLUSHING and more items going into the Hefty bag.}
+<CHAR>__{VENKMAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{The shower works but it's a little tricky. They're both marked "Hot."  It takes a little practice, but at least this one won't try and eat you.}
+<ACTION>__{He comes out of the bathroom with the now-loaded Hefty bag over his shoulder.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Be careful on that sofa -- it's a butt-biter. But the bed's good and I just changed the sheets so if you get tired, feel free.  In fact, I think you should definitely plan on spending the night here.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Really?  And how would we handle the sleeping arrangements?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{For me it's best if I sleep on my side and you spoon up right behind me with your arms around me.  If we go the other way I'm afraid your hair will be getting in my face all night.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{How about you on the sofa and me in bed with the baby.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Or we could do that.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<DIAL_PAR>__{(she picks up Oscar)}
+<DIAL>__{Poor baby.  I think I should put him down now.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'll put him down for you.}
+<DIAL_PAR>__{(taking the baby)}
+<DIAL>__{You are way too short!  And your belly-button sticks out!  You're nothing but a burden to your poor mother!}
+<ACTION>__{Venkman carries the baby into the bedroom leaving Dana in the living room, feeling more relaxed and a lot safer.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  MUSEUM - DAY (NEXT MORNING)}
+<ACTION>__{Venkman is waiting in front of the building as ECTO-2 pulls up and Stantz, Spengler and Winston get out and report on Dana's apartment.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Did you find anything at Dana's?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Nothing.  Just some mood-slime residue in and around the bathtub.  But we did turn up some interesting stuff on this Vigo character you mentioned.  I found the name Vigo the Carpathian in Leon Zundinger's Magicians, Martyrs and Madmen.  Listen to this:}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reads from xerox of entry)}
+<DIAL>__{"Vigo the Carpathian, born 1505, died 1610 --"}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{A hundred and five years?  He really hung on, didn't he.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{And he didn't die of old age either.  He was poisoned, stabbed, shot, hung, stretched, disemboweled, drawn and quartered.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{I guess he wasn't too popular at the end there.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{No, not exactly a man of the people.}
+<DIAL_PAR>__{(reads)}
+<DIAL>__{"Also known as Vigo the Cruel, Vigo the Torturer, Vigo the Despised, and Vigo the Unholy."}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{This guy was a bad monkey.  He dabbled in all the Black Arts, and listen to this prophecy.  Just before his head died, his last words were, "Death is but a door, time is but a window.  I'll be back."}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{That's it?  "I'll be back?"}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{It's a rough translation from the Moldavian.}
+<ACTION>__{They enter the museum carrying their monitoring equipment.}
+<LOC>__{INT.  MUSEUM - SECURITY DESK - DAY (CONTINUOUS ACTION)}
+<ACTION>__{Rudy the guard looks up in surprise as the Ghostbusters enter.}
+<CHAR>__{RUDY} <CHAR_PAR>__{}
+<DIAL>__{Hey, Dr. Venkman.  What's going on?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{We're just going up to Restorations for a minute.}
+<CHAR>__{RUDY} <CHAR_PAR>__{}
+<DIAL>__{Oh, I can't let you do that.  Mr. Poha told me not to let you up there anymore.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with mock seriousness)}
+<DIAL>__{Okay, we were trying to keep this quiet but I think you can be trusted.  Tell him, Ray.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very official)}
+<DIAL>__{Mister, you have an Ecto-paritic, subfusionary flux in this building.}
+<CHAR>__{RUDY} <CHAR_PAR>__{}
+<DIAL>__{We got a flux?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{You got a flux and a half.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Now if you don't want to be the --}
+<DIAL_PAR>__{(he counts)}
+<DIAL>__{-- fifth person ever to die in meta-shock from a planar rift, I suggest you get down behind that desk and don't move until we give you the signal "Stabilize -- All Clear."}
+<ACTION>__{Rudy gulps and starts to hunker down behind the desk as the Ghostbusters head upstairs.}
+<LOC>__{INT.  MUSEUM - RESTORATION STUDIO - DAY (MOMENTS LATER)}
+<ACTION>__{Janosz is working on the Vigo painting when the Ghostbusters enter.  He rushes over and stops them at the door.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Dr. Venkman?  Dana is not here.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I know.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Then why have you come?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{We got a major creep alert and we're just going down the list.  Your name was first.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Spengler and Winston)}
+<DIAL>__{Let's sweep it, boys.}
+<ACTION>__{They deploy and start scanning the studio with their monitoring devices.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Janosz)}
+<DIAL>__{You know, I never got to ask you.  Where you from, Johnny?}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nervous)}
+<DIAL>__{The Upper West Side.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(consulting his PKE meter)}
+<DIAL>__{This entire room is extremely hot, Peter.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{What exactly are you looking for, Dr. Venkman?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{We'll know when we find it.  You just sit tight.  This won't take long.}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{Using the Giga-meter, he traces a strong psychomagnetheric reading to the painting of Vigo in the alcove at the end of the studio.  Venkman comes up behind him with Janosz right on his heels.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{This is the one that looked at Dana.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{It must be the chemical fumes in the studio. People start imagining things --}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(interrupts)}
+<DIAL>__{I'm going to rule out the glue-sniffing theory.  If she says it looked at her, it looked at her.}
+<DIAL_PAR>__{(to Vigo)}
+<DIAL>__{Hey, you!  Vigie!  Look at me.  I'm talking to you.  Hey!  Look at me when I'm talking to you.}
+<ACTION>__{They watch the painting for any sign of movement.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{His eyes stare lifelessly into the distance.}
+<ACTION_ALT>__{STANTZ AND VENKMAN}
+<ACTION>__{Venkman starts shooting Polaroids of Vigo.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Vigo)}
+<DIAL>__{Beautiful, beautiful.  Work with me, baby. Just have fun with it.}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{Okay, he's playing it cool.  Let's finish up and get out of here.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I'll get one more reading.}
+<ACTION>__{Venkman walks off leaving Stantz alone with the painting.  Stantz scans the painting with the Giga-meter until his eyes meet Vigo's.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{His eyes seems to burn right through to the depths of Stantz's soul.}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He stands there transfixed, unable to look away, as a strange and subtle transformation occurs within him.  Winston comes up behind him and breaks the spell.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking at the painting)}
+<DIAL>__{Now that's one ugly dude.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(coming back to his senses)}
+<DIAL>__{Huh?  What?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{You finished here?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(distracted)}
+<DIAL>__{What?  Yeah.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Are you all right?  You coming down with something?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{No, I'm fine.  I just got light-headed for a second there.  Let's go.}
+<ACTION>__{They head for the door.}
+<ACTION_ALT>__{JANOSZ}
+<ACTION>__{He escorts the Ghostbusters to the door.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{So you see, everything is in order, is it not?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Not.  Don't leave town and report any change in your address to the proper authorities. We'll be back.}
+<ACTION>__{They exit.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  MUSEUM - DAY (LATER)}
+<ACTION>__{The Ghostbusters cross to ECTO-2.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{There's definitely something going on in that studio.  The PKE levels were max-plus and the Giga-meter was showing all red.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{I'd put my money on that Vigo character.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, that's a safe bet.}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{You and Spengman see what else you can dig up on Vigo and this little weasel Poha. Those two were made for each other.}
+<LOC>__{INT.  ECTO-2 - DAY (LATER)}
+<ACTION>__{The Ghostbusters are driving back to the firehouse.  Stantz is at the wheel.  His eyes are vacant, he seems distracted and very tense.  Stantz swerves suddenly and HONKS the horn angrily.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to another driver)}
+<DIAL>__{Idiot!}
+<DIAL_PAR>__{(honking)}
+<DIAL>__{Move it, you jerk!}
+<ACTION>__{Venkman and Winston exchange surprised looks.}
+<LOC>__{EXT.  STREET - DAY (CONTINUOUS ACTION)}
+<ACTION>__{Stantz drives extremely fast, HONKING vindictively, weaving dangerously through traffic.}
+<LOC>__{INT.  ECTO-2 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{Winston looks at Ray, concerned.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Going a little fast, aren't we, Ray?}
+<ACTION>__{Stantz turns on him.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(viciously)}
+<DIAL>__{Are you telling me how to drive?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{No, I just thought --}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Well don't think!}
+<ACTION>__{He HONKS again and tromps hard on the accelerator.}
+<LOC>__{EXT.  STREET - DAY (CONTINUOUS)}
+<ACTION>__{Ecto-2 is now barreling down the avenue.  Pedestrians leap to safety as Stantz runs a red light.}
+<LOC>__{INT.  ECTO-2 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{They hang on to the safety straps as Stantz continues his maniacal ride.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Stantz, really worried now)}
+<DIAL>__{Are you crazy, man?  You're going to kill somebody!}
+<ACTION>__{Stantz looks at him and smile demonically.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{No, I'm going to kill everybody!}
+<ACTION>__{He swerves off the road.}
+<LOC>__{EXT.  ECTO-2 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{The car heads right for a big tree.}
+<LOC>__{INT.  ECTO-2 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{At the last possible moment, Winston cold-cocks Stantz, grabs the wheel and steps across to stomp on the brakes.}
+<LOC>__{EXT.  ECTO-2 - DAY (CONTINUOUS ACTION)}
+<ACTION>__{The car skids into the tree and stops.  The Ghostbusters stumble out dazed and shaken, but unhurt.  Stantz rubs his eyes and looks at the others, completely at a loss.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(himself again)}
+<DIAL>__{What happened?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{You just picked up three penalty points on your driver's license.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Are you all right?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I guess so.  It was the strangest thing.  I knew what I was doing but I couldn't stop.  This really terrible feeling came over me and -- I don't know -- I just felt like driving into that tree and ending it all.  Whew!  Sorry, boys.}
+<ACTION>__{They inspect the damage to the car.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(confidentially, to Spengler)}
+<DIAL>__{Watch him, Egon.  Don't even let him shave.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  VENKMAN'S LOFT - DAY (LATER)}
+<ACTION>__{There's a KNOCK at the front door, a key turns in the lock, and Venkman enters somewhat tentatively holding a bouquet of flowers and a small suitcase of Dana's.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calls out)}
+<DIAL>__{I'm home!}
+<ACTION>__{He looks around the large open loft.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{I knew it.  She cleaned.}
+<ACTION>__{He hears the SHOWER RUNNING and crosses to the bathroom.  The door is half-open and he can see Dana in the shower (tastefully blurred) through the transparent vinyl curtain.  He closes the bathroom door and looks at the baby asleep on the bed, surrounded by pillows to prevent him rolling off.  Then he turns and bumps into Dana who's just coming out of the bathroom wrapped in a towel.  She jumps back into the bathroom. She comes out again, this time wearing a robe.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Are you all squeaky clean now?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(humoring him)}
+<DIAL>__{Yes, I'm very clean.  Did they find anything at my apartment?}
+<ACTION>__{She squeezes past him into the bedroom and closes the door.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(through the door)}
+<DIAL>__{Nothing.  They stayed there all night, went through your personal stuff, made a bunch of long-distance phone calls and cleaned out your refrigerator.  And didn't find anything.}
+<ACTION>__{Dana opens the bedroom door.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{They didn't find anything?  In the bathtub ... the pink ooze ... nothing?  So, what do I do now?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Now you get dressed and we go out.  I got a babysitter and everything.  Trust me, you need it.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I'm not here to date.  I can't leave Oscar in a strange place with someone I don't know.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{It's Janine Melnitz, from my staff.  She's one of my most valuable employees.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Does she know anything about babies?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Janine Melnitz, are you kidding?}
+<DIAL_PAR>__{(handing her the flowers)}
+<DIAL>__{Do I have a vase?  I brought some of your clothes.  Wear something intriguing.  I brought along some interesting possibilities.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Okay, but it's not a date.  It's a dinner.}
+<ACTION>__{She smiles and closes the door again.  He opens the closet and starts looking for his good suit.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Did you happen to see some shirts on the floor in here?}
+<CHAR>__{DANA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I put them in your hamper.  I thought they were dirty.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head)}
+<DIAL>__{I have a hamper?  Next time ask me first, okay.  I have more than two grades of laundry.  There're lots of subtle levels between clean and dirty.}
+<ACTION>__{He pulls some clothes out of the hamper and inspects them.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{These aren't so bad yet.  You just hang them up for a while and they're fine.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  FIREHOUSE - RECEPTION AREA - EARLY EVENING}
+<ACTION>__{Janine covers her computer terminal and starts turning out the lights. Then she notices that the lights are still on upstairs.  She starts primping and freshening up her makeup.}
+<LOC>__{INT.  FIREHOUSE - LAB AREA - SAME TIME}
+<ACTION>__{Louis is strapping on a proton pack, preparing to deal with Slimer once and for all.  He's wearing a bicyclist's rearview mirror on a headband.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Okay, Stinky, this is it.  Showdown time. You and me, pal.  You think you're smarter than I am?  We'll see about that.}
+<DIAL_PAR>__{(loud)}
+<DIAL>__{Oh, hello, Pizza Man!  Oh, two larges!  I only ordered one.  Oh, pepperoni and pineapple.  My absolute favorite.  I guess I'll have to eat these both by myself.}
+<ACTION_ALT>__{THE CEILING}
+<ACTION>__{Slimer pokes his head through the ceiling and scans the room hanging upside down.}
+<ACTION_ALT>__{LOUIS}
+<ACTION>__{He spots Slimer through the rearview mirror.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quietly)}
+<DIAL>__{Okay, let's boogie!}
+<ACTION>__{He whirls around and fires a proton stream at Slimer, slicing a burning a gash across the ceiling.}
+<ACTION_ALT>__{THE STAIRS}
+<ACTION>__{Janine comes up and ducks as a bolt of energy streaks across the room and strikes the wall behind her.  Slimer disappears.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed and apologetic)}
+<DIAL>__{Oh migod!  I'm sorry.  I didn't mean to do that.  It was an accident.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{What are you doing up here?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I was trying to get that smelly green thing. The guys asked me to help out.  I'm like the fifth Ghostbuster.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{Why would you want to be a Ghostbuster if you're already an accountant?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, no, it's just if one of the guys calls in sick or gets hurt.}
+<ACTION>__{Louis quickly slips off the proton pack and sets it down.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{Have you made any plans yet?  You know tomorrow is New Year's Eve.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{No, I celebrate at the beginning of my corporate tax year which is March first. That way I beat the crowds.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{That's very practical.  I hate going out on New Year's Eve, too.}
+<ACTION>__{There is an awkward silence between them and Janine starts to leave.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{Well, good night, Louis.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on an impulse)}
+<DIAL>__{Janine, do you feel like maybe getting something to eat on the way home?}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{I'd like to, but I told Dr. Venkman I'd babysit.}
+<DIAL_PAR>__{(seductively)}
+<DIAL>__{Do you want to babysit with me?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, sure, that sounds great.}
+<ACTION>__{They exit.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  VENKMAN'S LOFT - NIGHT (LATER)}
+<ACTION>__{There is a KNOCK at the door and Venkman goes to answer it.  He's dressed for the evening and looking very dapper.}
+<LOC>__{INT.  VENKMAN'S LOFT - ENTRANCE HALL - CONTINUOUS ACTION}
+<ACTION>__{Venkman opens the door and finds Stantz, Spengler and Winston standing there wearing over-the-hip rubberized waders, firemen's slickers, and miners' helmets, carrying tons of sensing devices, meters, collection jars and photographic equipment.  They look like they're rigged out for a major spelunking expedition.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ushering them in)}
+<DIAL>__{Don't tell me, let me guess.  All-you-can-eat barbecue rib night at the Sizzler?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{We're going down into the sewer system to see if we can trace the source of the psycho-reactive slime flow.  We thought you might want to come along.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Darn it!  I wish I'd known you were going. I'm stuck with these damn dinner reservations.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{You know, animals and lower life forms often anticipate major disasters.  Given the new magnetheric readings we could see a tremendous breeding surge in the cockroach population.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Roach breeding?  Sounds better and better.}
+<DIAL_PAR>__{(calls out)}
+<DIAL>__{Dana?  The boys are going down under the sewers tonight to look for slime.  Egon thinks there might even be some kind of big roach-breeding surge.  Should we forget about dinner and go with them instead?}
+<ACTION>__{Dana steps into the living room looking very beautiful.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Wow.}
+<ACTION>__{Dana looks curiously at their outfits.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<ACTION>__{They nod and wave back.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ray and Egon)}
+<DIAL>__{I think we're going to have to pass on the sewer trip, boys.  Let me know what you find out.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on his exit)}
+<DIAL>__{Okay, but you're missing all the fun.}
+<LOC>__{INT.  VAN HORNE STATION - NIGHT (LATER)}
+<ACTION>__{Stantz, Spengler and Winston come down the stairs into the station, guided by a very old map of the underground city.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{This is it.  Van Horne Station.  Right where the old transit map said it would be.}
+<ACTION>__{They cross to the edge of the platform and look into the river of slime.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Let's get a sounding on the depth of that flow.}
+<ACTION>__{Stantz has a long, coiled, graduated cord with a plumb bob on the end of it attached to his utility belt.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Stand back.}
+<ACTION>__{He takes the cord in his hand, swings the plumb bob over his head and casts it out into the middle of the flow.  The plumb bob sinks and Spengler reads the depth.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Six feet -- seven -- eight --}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{That's it.  It's on the bottom.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Nine feet -- ten --}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Is the line sinking?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{No, the slime is rising.}
+<ACTION>__{Stantz looks down and notices the slime rising over the edge of the platform and around his boots.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(alarmed)}
+<DIAL>__{Let's get out of here, boys.}
+<ACTION>__{He starts to pull out the plumb line but it seems to be stuck. Spengler tries to help, but whatever is pulling on the cord is stronger than all three of them.  As their unseen adversary pulls them closer and closer to the edge, Stantz works desperately to unhook the cord from his belt but finally just unhooks the whole belt.  Spengler lets go in time but Winston doesn't.  He is jerked off his feet and into the slime flow. Stantz and Spengler look at each other, summon their courage and jump in after him.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  ARMAND RESTAURANT - NIGHT (LATER)}
+<ACTION>__{Dana and Venkman are sitting at a table in an elegant restaurant nibbling caviar and toasting with very expensive champagne.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very intimate)}
+<DIAL>__{Here's to -- us.}
+<ACTION>__{She sighs and drinks.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So -- are you making any New Year's resolutions?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I want to stop getting involved with men who aren't good for me.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Does that start exactly at midnight tomorrow, or could you hold off for a few days maybe?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{For one night in your life, do you think it's possible for us to be completely real?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{All right, you want to be real?  So tell me why did you dump me?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Oh, Peter, I didn't dump you.  I just had to protect myself.  You really weren't very good for me, you know.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm not even good for me.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Why do you say things like that?  You're so much better than you know.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Thank you.  If I had that kind of support on a daily basis, I could definitely shape up by the turn of the century.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(already feeling the effects of the champagne)}
+<DIAL>__{So why don't you give me a jingle in the year 2000?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Let me jingle you right now.}
+<ACTION>__{He leans over to kiss her.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Maybe I should call Janine.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Don't worry.  Janine has a very special way with children.}
+<ACTION>__{They kiss.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  APARTMENT - NIGHT (SAME TIME)}
+<ACTION>__{Janine is on the sofa doing her nails while Louis paces with the baby.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking around)}
+<DIAL>__{I can't believe a person could actually live like this.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the baby)}
+<DIAL>__{So these dwarfs had a limited partnership in a small mining operation and then one day a beautiful princess came to live with them.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{It's really not a bad place.  It just needs a woman's touch.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(continuing)}
+<DIAL>__{So they bartered room and board in exchange for housekeeping services, which was a good deal for all of them because then they didn't have to withhold tax and social security, which I'm not saying is right but it's just a story, so I guess it's all right.  I can finish this later if you're tired.}
+<ACTION>__{Louis goes into the bedroom and puts the baby down.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{You're really good with children, Louis.  I can tell.}
+<DIAL_PAR>__{(as he returns)}
+<DIAL>__{Why don't you come here and sit with me?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<ACTION>__{He sits stiffly beside her on the sofa.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(getting close)}
+<DIAL>__{Motherhood is a very natural instinct for me.  I'd like to have a baby myself. Wouldn't you?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gulps)}
+<DIAL>__{Tonight?}
+<LOC>__{EXT.  STREET - MANHOLE COVER - NIGHT (SAME TIME)}
+<ACTION>__{A manhole cover is dislodged and pushed up from below.  It slides away, and Winston crawls out of the manhole followed by Stantz and Spengler. They are exhausted and covered with slime.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(uncharacteristically angry)}
+<DIAL>__{Nice going, Ray!  What were you trying to do -- drown me?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(unusually mean)}
+<DIAL>__{Look, Zeddemore, it wasn't my fault you were too stupid to drop that line.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shoves him)}
+<DIAL>__{You better watch your mouth, man, or I'll punch your lights out.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Oh yeah?  Anytime, anytime.  Just go ahead and try it.}
+<ACTION>__{Spengler steps between them with unprecedented aggression.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{If you two are looking for a fight, you got one.}
+<DIAL_PAR>__{(putting up his fists)}
+<DIAL>__{Who wants it first?  Come on, Ray.  Try me, sucker.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(squaring off)}
+<DIAL>__{Butt out, you pencil-necked geek.  I've had it with you.}
+<ACTION>__{They grab each other and start to tussle.  Suddenly Spengler comes to his senses and pulls them apart.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(forcefully)}
+<DIAL>__{Strip!  Right now!  Get out of those clothes!}
+<ACTION>__{He starts yanking off his slicker and waders.  Bewildered, Stantz and Winston start doing the same.  Spengler helps pull off their clothes and throws them into the open manhole.  Now wearing only long underwear, they seem to return to normal.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{What are we doing?  Ray, I was ready to kill you.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Don't you see?  It's the slime.  That stuff is like pure, concentrated evil.}
+<ACTION>__{Stantz looks around and sees that they are standing right in front of the museum.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{And it's all flowing right to this spot.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  ARMAND RESTAURANT ENTRANCE - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The MAITRE D' looks up in surprise as Stantz, Spengler and Winston enter the restaurant wearing only long underwear.}
+<CHAR>__{MAITRE D'} <CHAR_PAR>__{}
+<DIAL_PAR>__{(intercepting them)}
+<DIAL>__{Can I help you?}
+<ACTION>__{Stantz looks around and spots Venkman.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{That's all right, I see him.}
+<ACTION>__{They blow right by the Maitre d' who jumps back in horror as they pass.}
+<ACTION_ALT>__{VENKMAN}
+<ACTION>__{He's just about to pour more champagne when he sees Ray, Egon and Winston coming toward him through the restaurant.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very excited)}
+<DIAL>__{You should've been there, Venkman. Absolutely incredible!}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, sorry I missed it.}
+<DIAL_PAR>__{(noting their attire)}
+<DIAL>__{I guess you guys didn't know about the dress code here.  It's really kind of a coat and tie place.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It's all over the city, Pete -- well, under it actually.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Rivers of the stuff!}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{And it's all flowing toward the museum.}
+<ACTION>__{He gestures excitedly and a big gob of slime flies across the room and lands on a well-dressed diner.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calls out)}
+<DIAL>__{Sorry!}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Maybe we should discuss this somewhere else.}
+<ACTION>__{Venkman notes the look of alarm on Dana's face and pulls his colleagues aside.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(confidentially)}
+<DIAL>__{Boys, listen.  You're scaring the straights. Let's save this until tomorrow, okay?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Venkman)}
+<DIAL>__{This won't wait until tomorrow, Venkman. It's hot and it's ready to pop.}
+<ACTION>__{MAITRE D' He hurries through the restaurant with two city COPS right behind him and makes straight for Venkman's table.}
+<CHAR>__{MAITRE D'} <CHAR_PAR>__{}
+<DIAL>__{Arrest these men.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(recognizing them)}
+<DIAL>__{Hey!  It's the Ghostbusters.  You're out of uniform, gentlemen}
+<ACTION>__{Stantz suddenly realizes how ridiculous they look.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(self-conscious)}
+<DIAL>__{Uh -- well -- we had a little accident, but forget that.  We have to see the mayor as soon as possible.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL>__{Look, Doc, why don't you just go home. You'll get a good night's sleep and then you can give the mayor a call in the morning. Come on.}
+<ACTION>__{He takes Stantz by the arm but Stantz resists.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{We're not going anywhere with you.  I told you we have to see the mayor now.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(grabbing Stantz)}
+<DIAL>__{I'm warning you.  You can come along peaceably or --}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(grabs the Cop)}
+<DIAL>__{Hey, don't be an idiot.  This is serious.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(angry)}
+<DIAL>__{Look, pal, keep this up and you're going with them.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, yeah?}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(has had enough)}
+<DIAL>__{Yeah, let's go.  You're all under arrest.}
+<ACTION>__{The Cop catches Venkman in an armlock and starts walking him out of the restaurant.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Dana)}
+<DIAL>__{Finish your dessert -- it's already paid for.  I'll call you.}
+<ACTION>__{They all exit, causing a major commotion among the other diners.}
+<LOC>__{EXT.  ARMAND'S RESTAURANT - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The police car is parked right behind Ecto-2.  Spengler stops at the police car and confronts the cops.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Look, we're not drunk and we're not crazy. This is a matter of vital importance.}
+<ACTION>__{Venkman steps in and looks at the policemen's nametags.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL>__{What are you doing?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I just want to get your names right for when the mayor asks us why we didn't let him know about this sooner.}
+<ACTION>__{The Cops look at each other, uncertain about what to do.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(relenting)}
+<DIAL>__{Okay, Doc.  You want to see the mayor, you got it.  Follow us.}
+<ACTION>__{They head for their respective vehicles.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  VENKMAN'S LOFT - NIGHT (SAME TIME)}
+<ACTION>__{Louis and Janine are on the sofa making out when Dana enters.  They jump up and start smoothing their clothes.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(embarrassed)}
+<DIAL>__{Oh, hello, Dana.  we were just -- we were --}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I know what you were doing, Louis.  It's all right.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{How was your date?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Typical.  Peter was arrested.  Has he called?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{No, nobody called.}
+<ACTION>__{Dana frowns.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Is everything all right with Oscar?}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{Oh, he's fine.  He's such a good baby.  He was a little fussy at first, but we gave him a Freach bread pizza and he went right to sleep.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(relieved)}
+<DIAL>__{Oh, good.  I'll just check on him.}
+<ACTION>__{She crosses to the bedroom.}
+<LOC>__{INT.  VENKMAN'S BEDROOM - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Dana looks at Oscar sleeping peacefully on the bed.  She starts to change clothes.}
+<LOC>__{INT.  VENKMAN'S LIVING ROOM - NIGHT (SAME TIME)}
+<ACTION>__{Louis and Janine aren't sure what to do.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Should we go?}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{I don't think we should leave her alone.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{You're right.  We should stay.}
+<ACTION>__{He grabs Janine and they start making out again.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM RESTORATION STUDIO - NIGHT (SAME TIME)}
+<ACTION>__{Janosz stands before the painting of Vigo.  Vigo comes to life and repeats the litany of his power.}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{I, Vigo, the scourge of Carpathia --}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(heard all this before)}
+<DIAL>__{Yes, the scourge --}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{-- the sorrow of Moldavia --}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{-- the sorrow --}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{I command you.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(checking his watch)}
+<DIAL>__{I await the word of Vigo.}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{The season of evil begins with the birth of the new year.  Bring me the child that I might live again.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(abjectly humble)}
+<DIAL>__{Lord Vigo, the mother, Dana, is fine and strong.  I was wondering -- well, would it be possible -- if I bring the baby, could I have the woman?}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{So be it.  On this the day of darkness, she will be ours, wife to you and mother to me.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  CARL SCHURZ PARK - NIGHT (LATER)}
+<ACTION>__{Preceded by a police car, Ecto-2 enters the small park on the East River at 88th Street and disappears into an underground entrance.  The CAMERA PANS UP to reveal Gracie Mansion, the residence of the Mayor of New York City.}
+<LOC>__{INT.  GRACIE MANSION - MOMENTS LATER}
+<ACTION>__{The Ghostbusters, now wearing police raincoats over their longjohns are ushered through the house by a butler to a set of double oak doors.  The butler knocks lightly, then opens the door to reveal the MAYOR sitting in front of the fireplace in his well-appointed private study, flanked by Jack Hardemeyer, both in tuxedoes.  The Ghostbusters enter.}
+<LOC>__{INT.  STUDY - CONTINUOUS ACTION}
+<ACTION>__{The Mayor is impatient and a little angry at having been pulled out of his formal reception.  He frowns at their bizarre attire.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{All right -- the Ghostbusters.  I'll tell you right now; I've got two hundred of the heaviest campaign contributors in the city out there eating bad roast chicken waiting for me to give the speech of my life. You've got two minutes.  Make it good.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{You get enough negative energy flowing in a dense environment like Manhattan, it starts to build up, and if we don't do something fast this whole place will blow like a frog on a hotplate.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Tell him about the toaster.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I don't think he's ready for the toaster.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head)}
+<DIAL>__{Being miserable and treating other people like dirt is every New Yorker's God-given right.  What am I supposed to do -- go on television and tell eight million people they have to be nice to each other?  I'm sorry, none of this makes any sense to me, and if anything does happen we've got plenty of paid professionals to deal with it.  Your two minutes are up.  Good night, gentlemen.}
+<ACTION>__{The mayor exits, leaving the Ghostbusters to Hardemeyer.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smirking)}
+<DIAL>__{That's quite a story.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I think the Times might be interested, don't you?  The Post might have a lot of fun with it, too.}
+<ACTION>__{Hardemeyer's eyes go cold and calculating.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{Before you go running to the newspapers with this, would you consider telling this slime thing to some people downtown?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Now you're talking.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  PARKVIEW HOSPITAL - PSYCHIATRIC WARD - NIGHT (LATER)}
+<ACTION>__{An attendant opens a locked door with a wire mesh window and the Ghostbusters, in straitjackets, are led into the psych ward as Hardemeyer confers with the chief PSYCHIATRIST.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(protesting)}
+<DIAL>__{I'm telling you, we're not crazy.  He is!}
+<ACTION_ALT>__{HARDEMEYER}
+<ACTION>__{He laughs off the remark.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Psychiatrist)}
+<DIAL>__{The mayor wants them kept under strict observation for a few days.  We think they're seriously disturbed and potentially dangerous.}
+<CHAR>__{PSYCHIATRIST} <CHAR_PAR>__{}
+<DIAL>__{We'll do whatever's necessary.}
+<ACTION>__{Hardemeyer shakes his hand and exits as the door slams shut on the Ghostbusters.}
+<LOC>__{INT.  VENKMAN'S LOFT - NIGHT (SAME TIME)}
+<ACTION>__{Louis and Janine are watching an old rerun on TV, eating popcorn, while Dana is stretched out on the other sofa.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(wishing they'd leave)}
+<DIAL>__{You know you really don't have to stay. Peter should be back soon.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh no, we don't mind.}
+<ACTION>__{She hears a little CRY from the nursery and sits up.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Excuse me.  I think Oscar is up.}
+<ACTION>__{She crosses to the bedroom.}
+<LOC>__{INT.  VENKMAN'S BEDROOM - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Dana enters and immediately notices that the crib is empty and the window is open.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screams)}
+<DIAL>__{Louis!}
+<ACTION>__{Frantic now, Dana rushes to the window and looks out, as Louis and Janine come running in.}
+<LOC>__{EXT.  WINDOW LEDGE - DANA'S POV - NIGHT (ECLIPSE)}
+<ACTION>__{The baby is standing out on the ledge at the corner of the building, fifty feet above the street, staring off into the distance as if he's waiting for something.}
+<LOC>__{EXT.  WINDOW LEDGE - NIGHT (ECLIPSE) (CONTINUOUS ACTION)}
+<ACTION>__{Dana climbs out onto the ledge and starts inching slowly toward the baby. Then she stops as a miraculous apparition materializes.}
+<ACTION_ALT>__{LOUIS AND JANINE}
+<ACTION>__{They lean out the window, gaping at the apparition.}
+<LOC>__{EXT.  VENKMAN'S LEDGE - APPARITION}
+<ACTION>__{A sweet, kindly-looking English nanny appears, pushing a pram, strolling on thin air parallel to the ledge high above the ground.  Her face looks remarkably like Janosz Poha's.  The nanny extends her hand to the BABY who GURGLES sweetly as he reaches out to take it.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She watches in helpless horror.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screams)}
+<DIAL>__{No!!}
+<ACTION_ALT>__{GHOST NANNY}
+<ACTION>__{She picks up the baby and lays it gently in the pram, then turns and smiles at Dana.  The smile turns to a hideous grin, then the nanny shrieks at Dana and takes off like a shot with the baby.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She watches the creature fly off with Oscar, then climbs back through the window assisted by Louis and Janine.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(resolutely)}
+<DIAL>__{Louis, you have to find Peter and tell him what happened.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(confused and worried)}
+<DIAL>__{Where're you going?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{To get my baby back.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  MUSEUM - NIGHT (A LITTLE LATER)}
+<ACTION>__{A taxi pulls up, Dana jumps out and rushes into the museum.  The moment the door closes behind her, there is a loud THUNDERCLAP, the ground trembles and a massive amount of slime erupts from around the base of the museum and starts covering the walls, sealing her inside the building.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  PARKVIEW PSYCHIATRIC - PADDED ROOM - NIGHT (SAME TIME)}
+<ACTION>__{Venkman, Stantz, Spengler and Winston are in a padded cell.  They are handcuffed and the cuffs are chained to thick leather belts around their waists.  Venkman stands there banging his head into the padded wall while the others try to explain the situation to a skeptical Psychiatrist.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{We think the spirit of Vigo the Carpathian is alive in a painting at the Manhattan Museum.}
+<CHAR>__{PSYCHIATRIST} <CHAR_PAR>__{}
+<DIAL>__{I see. And are there any other paintings in the museum with bad spirits in them?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(impatient)}
+<DIAL>__{You're wasting valuable time!  We have reason to believe that Vigo is drawing strength from a psychomagnetheric slime flow that's been collecting under the city.}
+<CHAR>__{PSYCHIATRIST} <CHAR_PAR>__{}
+<DIAL>__{Yes, tell me about the slime.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{It's potent stuff.  We made a toaster dance with it, then a bathtub tried to eat his friend's baby.}
+<ACTION>__{The psychiatrist looks at Venkman.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Don't look at me.  I think they're nuts.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM RESTORATION STUDIO - NIGHT (SAME TIME)}
+<ACTION>__{Moonlight streams through the skylight above, bathing the studio in eerie white light.  Oscar is lying safely on a table in front of the painting of Vigo.  Dana enters cautiously and sees the baby.  Seeing no one else about, she quickly sneaks down to the table and picks up the baby, hugging hin tight, greatly relieved to find him unharmed and intact.}
+<CHAR>__{JANOSZ } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I knew you would come.}
+<ACTION>__{Startled, Dana turns at the sound of his voice as Janosz steps out from behind the Vigo painting.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(defiantly)}
+<DIAL>__{What do you want with my baby?}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{No harm will come to the child.  You might even say it's a privilege.  He will be the vessel for the spirit of Vigo.  And you -- well, you will be the mother of the ruler of the world.  Doesn't that sound nice?}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{If this is what the world will be like, I don't want to live in it.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(confidentially, indicating Vigo)}
+<DIAL>__{I don't believe we have the luxury of choice.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{Everybody has a choice.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Not in this case, my dear.  Take a look. That's not Gainsborough's Blue Boy up there. He's Vigo!}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I don't care who he is.  He's not taking my baby.}
+<ACTION>__{Dana walks quickly to the door but suddenly Oscar flies out of her arms, floats across the room and lands lightly back in the cradle.}
+<ACTION_ALT>__{DANA}
+<ACTION>__{She turns and looks at Vigo, for the first time feeling his power.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{You will see.  It's all for the best.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  PARKVIEW HOSPITAL - DAY (NEXT MORNING)}
+<ACTION>__{It's the last day of the year and the sun is shining brightly.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  PARKVIEW PSYCHIATRIC WARD - DAY (SAME TIME)}
+<ACTION>__{The Ghostbusters are sitting in the dayroom, a dingy lounge for patients in the locked ward.  There is a television set, a Ping-Pong table and a few tables and chairs.  Stantz is looking at the sky through the heavy wire mesh covering the windows.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{This is it. boys.  It's starting.  Shit-storm}
+<ACTION>__{Venkman is doing occupational therapy, weaving on a little hand-loom.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{It better not start yet.  I'm trying to finish my potholder before lunch.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{You think all those predictions about the world coming to an end in the 1990s are true?}
+<ACTION>__{A PATIENT at the next table joins the discussion.}
+<CHAR>__{PATIENT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with certainty)}
+<DIAL>__{1997.  My dog told me.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What kind of dog?}
+<CHAR>__{PATIENT} <CHAR_PAR>__{}
+<DIAL>__{Labrador.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shakes his head)}
+<DIAL>__{Habitual liars.  They can't help it.  It's in the breed.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  PARKVIEW HOSPITAL - EXAMINING ROOM - DAY (SAME TIME)}
+<ACTION>__{Louis is pleading with his cousin, SHERMAN TULLY, a doctor on the staff at Parkview.  He looks and sounds just like Louis.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Come on, Sherm.  You're my cousin.  Do this for me.  I'm begging you.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{I can't do it, Louis.  It isn't ethical.  I could lose my license.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Why can't you just have them released? You're a doctor.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{I'm a dermatologist.  I can't write orders on the psych ward.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Sherman, I've done lots of favors for you.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{Like what?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I got you out of those bad tax shelters.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{You were the one who got me in.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I fixed you up with Diane Troxler and she put out, didn't she?}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah, I had to give her free dermabrasion for a year.  Forget it, Louis.  I could get in a lot of trouble.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I'm telling you, we're all going to be in big trouble if we don't do something fast. That ghost guy came and took my friend's baby and we got to get it back.  It's just a scared little baby, Sherm.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{Then you should go to the police.  I don't believe in any of that stuff.}
+<ACTION>__{Sherman looks out the window.}
+<LOC>__{EXT.  SKY - SHERMAN'S POV}
+<ACTION>__{The sky begins to go dark as the sun is magically eclipsed.}
+<LOC>__{INT.  EXAMINING ROOM - CONTINUOUS ACTION - DAY}
+<ACTION>__{The room goes dark.  Louis switches on a lamp which casts an eerie light on his face.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(spooky)}
+<DIAL>__{Do you believe it now, Sherm?}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  HUDSON RIVER PIER - NIGHT (ECLIPSE)}
+<ACTION>__{A drainpipe starts dripping slime into the river near the Cunard Line docks.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  PUBLIC FOUNTAIN (59TH AND FIFTH) - NIGHT (ECLIPSE)}
+<ACTION>__{With the Plaza Hotel in the background, the fountain starts to spout psycho-reactive slime.}
+<ACTION_ALT>__{HOTEL ENTRANCE}
+<ACTION>__{A well-heeled MAN and WOMAN step out of a limousine and walk up the steps toward the revolving door.  She looks up at the sky and frowns.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shrewish)}
+<DIAL>__{I told you we should have stayed in Palm Beach.  The weather here gets stranger every year.}
+<CHAR>__{MAN} <CHAR_PAR>__{}
+<DIAL>__{Yes, dear.}
+<ACTION>__{She doesn't notice it, but a small amount of slime falls on the back of her luxurious, full-length, white mink coat.  The doorman nods courteously and extends a hand to help her up the stairs.}
+<ACTION_ALT>__{WOMAN}
+<ACTION>__{She yelps in pain.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the doorman)}
+<DIAL>__{Something just bit me!}
+<ACTION>__{The doorman looks curiously at her, then recoils in shock as her coat comes alive.  MINK HEADS pop out of the thick fur, SNARLING, BARKING and YAPPING, their sharp, little teeth biting the air.  Reacting quickly, the doorman yanks the coat off the woman's back, throws it to the ground and starts stomping on it as the Woman and her husband look on in horror. The coat scuttles down the steps and runs off down the street.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MIDTOWN CENTRAL POLICE PRECINCT - NIGHT (ECLIPSE)}
+<ACTION>__{The squad room is busy as DETECTIVES try to answer the flood of calls regarding the wave of supernatural events sweeping the city.}
+<CHAR>__{DETECTIVE ONE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the phone)}
+<DIAL>__{Look, lady, of course there are dead people there.  It's a cemetery ...}
+<DIAL_PAR>__{(his face falls)}
+<DIAL>__{They were asking you for directions?}
+<CHAR>__{DETECTIVE TWO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on another phone)}
+<DIAL>__{Was this a big dinosaur or a little dinosaur? ... Oh, just the skeleton, huh?  Well, where is it now?}
+<CHAR>__{DETECTIVE THREE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on the phone)}
+<DIAL>__{Wait a second -- the park bench was chasing you?  You mean, someone was chasing you in the park ... No, the bench itself was chasing you.  I see --}
+<ACTION>__{A weary SERGEANT answers a RINGING PHONE.}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{Manhattan Central, Flaherty speaking ... Yeah ... yeah? ... What?  Who is this? ... Wait a second.}
+<ACTION>__{He puts the caller on "Hold" and turns the LIEUTENANT.}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{Lieutenant, I think you better talk to this guy.}
+<CHAR>__{LIEUTENANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on another call)}
+<DIAL>__{What is it?  I'm talkin' here!}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{It's some dock supervisor down at Pier 34 on the Hudson.  The guy's going nuts.}
+<CHAR>__{LIEUTENANT} <CHAR_PAR>__{}
+<DIAL>__{What's the problem?}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes a deep breath)}
+<DIAL>__{He says the Titanic just arrived.}
+<LOC>__{INT.  PORT AUTHORITY OFFICE - NIGHT (ECLIPSE)}
+<ACTION>__{The dock supervisor stands there with the phone in his hand, an assistant beside him, both staring out the window at the ocean liner tied up at the pier.}
+<LOC>__{EXT.  PIER 34 - THEIR POV - NIGHT (ECLIPSE)}
+<ACTION>__{The name "R.M.S. Titanic" is clearly visible on the side of the huge ship.  The gangplank is down and dozens of drowned passengers, sopping wet and festooned with seaweed, are disembarking while drowned porters off-load their waterlogged baggage.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  PARKVIEW HOSPITAL - NIGHT (MOMENTS LATER)(ECLIPSE)}
+<ACTION>__{Ecto-2 is parked outside as Louis and Sherman come out of the hospital with the Ghostbusters, now wearing their standard uniforms.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Good work, Louis.  How did you get us out?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, I pulled a few strings.  I wouldn't want to say any more than that.}
+<ACTION>__{Louis winks conspiratorially at Sherman.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{This is my cousin Sherman.  Sherm, say hello to the Ghostbusters.}
+<DIAL_PAR>__{(sotto voce to Stantz)}
+<DIAL>__{I promised him a ride in the car if he got you out.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Ghostbusters)}
+<DIAL>__{Hi, it's really great to meet you guys.  I know this sounds weird but once I had a dream that my grandfather was standing at the foot of my bed, but I knew it was impossible because he died and he started to tell me that --}
+<ACTION>__{While he's talking, the Ghostbusters jump in the Ectomobile and drive off, leaving him and Louis standing at the curb.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Hey!  Wait!  Okay, I'll meet you there.}
+<CHAR>__{SHERMAN} <CHAR_PAR>__{}
+<DIAL>__{I thought you were like the fifth Ghostbuster.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I let them handle all the little stuff.  I just come in on the big ones.}
+<TRANS>__{CUT TO:}
+<ACTION>__{----------------------------------------------------------------------- (original version of the above scene - 11/27/88) (TRANSCRIBER'S NOTES: These two versions of this scene were put in my copy of the script, so I have included both of them here)}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Actually, they still think you're crazy, but I convinced them you're not dangerous.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(determined)}
+<DIAL>__{Yeah, well guess again.}
+<LOC>__{EXT.  BELLEVUE HOSPITAL - NIGHT (ECLIPSE)(MOMENTS LATER)}
+<ACTION>__{Ecto-2 is parked outside and the Ghostbusters are hastily donning their standard uniforms.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{I brought everything you asked for and I gassed up the car with Super Unleaded.  It cost twenty cents more than Regular Unleaded but you get much better performance and in an old car like this that'll end up saving you money in the long run.  I put it on my credit card, so you can either reimburse me or I can take it out of petty cash --}
+<ACTION>__{While he's talking, the Ghostbusters jump in the Ecto-2 and drive off without him.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Hey!  Wait!  Okay, I'll meet you there.}
+<TRANS>__{CUT TO:}
+<ACTION>__{-----------------------------------------------------------------------}
+<LOC>__{EXT.  MUSEUM - NIGHT (ECLIPSE)(LATER)}
+<ACTION>__{ECTO-2 pulls to the curb across the street from the museum.  Hundreds of spectators are already there gawking at the building as the Ghostbusters jump out and gape at the sight that greets them.}
+<LOC>__{EXT.  MUSEUM THEIR POV - BUILDING}
+<ACTION>__{The building is now totally covered in a shell of psycho-reactive slime. CITY WORKMEN and FIREMEN are trying to cut their way in with blowtorches, jackhammers, power tools and the "jaws of life," but they can't even make a dent.}
+<ACTION_ALT>__{GHOSTBUSTERS}
+<ACTION>__{They size up the situation as they don their proton packs.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It looks like a giant Jello mold.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{I hate Jello.}
+<ACTION>__{They stride manfully across the street and approach the main entrance to the museum.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Fire Captain)}
+<DIAL>__{Okay, give it a rest, Captain.  We'll take it from here.}
+<CHAR>__{FIRE CAPTAIN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(skeptical)}
+<DIAL>__{Be my guest.  We been cutting here for three hours.  What the hell's going on?  You know the Titanic arrived this morning?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Well, better late than never.}
+<ACTION>__{The workmen and firemen put down their tools and fall back as the Ghostbusters draw their particle throwers.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(monitoring valences)}
+<DIAL>__{Full neutronas, maser assist.}
+<ACTION>__{They adjust their settings and prepare to fire.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Throw 'em!}
+<ACTION>__{They trigger their throwers and spray the front doors of the building with bolts of proton energy, but it has no effect on the hardened slime.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the firemen)}
+<DIAL>__{Okay, who knows "Cumbaya?"}
+<ACTION>__{A few of the firemen and workmen tentatively raise their hands.  Venkman grabs them and lines them up at the entrance of the museum.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{All right.  Nice and sweet --}
+<DIAL_PAR>__{(starts singing)}
+<DIAL>__{Cumbaya, milord, cumbaya --}
+<ACTION>__{Stantz, Spengler, Winston and the firemen sing along, reluctantly holding hands and swaying to the music.}
+<CHAR>__{ALL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(singing)}
+<DIAL>__{Cumbaya, milord, cumbaya, Cumbaya, milord, cumbaya, Oh, Lord, cumbaya.}
+<ACTION>__{Stantz inspects the wall of slime with his infra-goggles and finds that they have only managed to open a hole the size of a dime.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Forget it.  The Vienna Boys Choir couldn't get through this stuff.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Good effort.  Now what?  Should we say supportive, nurturing things to it, Ray?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{It won't work.  There's no way we could generate enough positive energy to crack that shell.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I can't believe things have gotten so bad in this city that there's no way back. Sure, it's crowded, it's dirty, it's noisy. And there are too many people who'd just as soon step on your face as look at you.  But there've got to be a few sparks of sweet humanity left in this burned-out burg.  We just have to mobilize it.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{We need something that everyone can get behind, a symbol --}
+<ACTION>__{His eyes fall on ECTO-2's New York State license plate which features a line drawing of the Statue of Liberty.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(he sees it, too)}
+<DIAL>__{Something that appeals to the best in each and every one of us --}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Something good --}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{And pure --}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{And decent.}
+<LOC>__{EXT.  THE STREET - NIGHT (SAME TIME)}
+<ACTION>__{There is a commotion among the crowd as the Mayor's limousine arrives with a police escort.  Jack Hardemeyer steps out followed by the Mayor himself and they cross to the museum entrance. Hardemeyer, his ASSISTANT and several police BODYGUARDS confront the Ghostbusters.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{Look, I've had it with you.  Get your stuff together, get back in that clown car and get out of here.  This is a city matter and everything's under control.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, you think so?  Well, I've got news for you.  You've got Dracula's brother-in-law in there and he's got my girlfriend and her kid.  Around about midnight tonight, when you're partying uptown, this guy's going to come to life and start doing amateur head transplants.  And that's just round one.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Are you telling me there're people trapped in there?}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to his assistant)}
+<DIAL>__{This is dynamite.  Call A.P., U.P.I., and C.N.N. and get them down here right away. When the police bring this kid out I want them to hand it right to the mayor and I want it all on camera.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Mr. Mayor, if we don't do something by midnight, you're going to go down in history as the man who let New York get sucked down into the tenth level of hell.}
+<ACTION>__{The Mayor stops to consider the situation.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the Fire Captain)}
+<DIAL>__{Can you get into that museum?}
+<CHAR>__{FIRE CAPTAIN} <CHAR_PAR>__{}
+<DIAL>__{If I had a nuclear warhead, maybe.}
+<ACTION>__{The Mayor turns to Venkman.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{You know why all these things are happening?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{We tried to tell you last night, but Mr. Hard-On over here packed us off to the loony bin.}
+<ACTION>__{Hardemeyer flips out.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL>__{This is preposterous!  You can't seriously believe all this mumbo-jumbo!  It's the Twentieth Century, for crying out loud!}
+<DIAL_PAR>__{(viciously, to Venkman)}
+<DIAL>__{Look, mister, I don't know what this stuff is or how you got it all over the museum, but you better get it off and I mean right now!}
+<ACTION>__{He pounds the wall of slime with his fist, and they all watch in amazement as his fist goes through the wall and he is sucked bodily through the slime curtain.  Only his shoes can be seen, embedded in the slime.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Venkman)}
+<DIAL>__{Okay, just tell me what you need.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  LIBERTY ISLAND (NEW YORK HARBOR) - NIGHT}
+<ACTION>__{With the city skyline in the b.g., the Ghostbusters prepare their equipment.  Each of them dons a makeshift backpack consisting of tanks, hoses, nozzles and an abundance of gauges, valves and regulators. Venkman looks up at the Statue of Liberty looming above them.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Kind of makes you wonder, doesn't it?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Wonder what?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{If she's naked under that toga.  She's French, you know.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{There's nothing under that toga but 300 tons of iron and steel.}
+<ACTION>__{Stantz is looking worried.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I hope we have enough stuff to do the job.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Only one way to find out.}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{Ready, Teddy?}
+<ACTION>__{They enter the statue.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  STATUE OF LIBERTY - MOMENTS LATER}
+<ACTION>__{The Ghostbusters are working from the iron staircase that spirals straight up 100 feet inside the hollow super-structure of the statue. Spengler and Winston are busy assembling hundreds of wires connected to various relays on the interior surface of the statue.  Venkman and Stantz are mounting large auditorium loudspeakers near the top of the staircase. They finish the installation, then Stantz dons one of the new backpacks and gives the order.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Okay, boys.  Let's frost it.}
+<ACTION>__{They begin hosing the inside of the statue with the psycho-reactive slime.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  FIREHOUSE - NIGHT (SAME TIME)}
+<ACTION>__{Janine watches as Louis, wearing a Ghostbuster uniform, slings a heavy proton pack onto his back.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{I'm not sure this is such a good idea?  Do they know you're doing this?}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Oh, yeah, sure -- no.  But there's really not much to do here and they might need some back-up at the museum.}
+<CHAR>__{JANINE} <CHAR_PAR>__{}
+<DIAL>__{You're very brave, Louis.  Good luck.}
+<ACTION>__{She kisses Louis and he gets extremely self-conscious.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Uh -- oh -- well, I better hurry.}
+<ACTION>__{He rushes out.}
+<LOC>__{EXT  STREET OUTSIDE FIREHOUSE - NIGHT (LITTLE LATER)}
+<ACTION>__{Louis stands on the street corner waiting for a bus.  Finally, a bus pulls up, Louis climbs aboard and finds Slimer behind the wheel.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  STATUE OF LIBERTY - OBSERVATION DECK - MOMENTS LATER}
+<ACTION>__{Venkman, Stantz, Spengler and Winston are standing in the observation windows in the crown of the statue.  It looks like they're on the bridge of an ocean liner, then the CAMERA PULLS BACK to reveal the head of the statue.}
+<ACTION_ALT>__{STANTZ}
+<ACTION>__{He plugs the main cable lead into a transformer.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{It's all yours, Pete.}
+<DIAL_PAR>__{(checks his watch)}
+<DIAL>__{There's not much time left.}
+<ACTION>__{Venkman plugs the speaker cable into a Walkman and gives a downbeat.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(giving the downbeat)}
+<DIAL>__{Okay, one, two, three, four --}
+<ACTION>__{He hits "Play" on the Walkman and "HIGHER AND HIGHER" BOOMS from the huge SPEAKERS, amplified by the statue's vast hollow interior.}
+<LOC>__{INT.  OBSERVATION DECK - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The head of the statue lurches suddenly, but the Ghostbusters cling to the rail and manage to keep their feet.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{She's moving!}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{I've lived in New York all my life and I never visited the Statue of Liberty.  Now I finally get here and we're taking her out for a walk.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading the Giga-meter)}
+<DIAL>__{We've got full power.}
+<ACTION>__{Stantz picks up a Nintendo control paddle from a home video game and starts pushing the buttons.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into a microphone)}
+<DIAL>__{Okay, Libby.  Let's get it in gear.}
+<ACTION>__{They feel a strong vibration and the statue starts to move.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  SOUTH STREET SEAPORT - NIGHT}
+<ACTION>__{New Years Eve celebrants line the riverfront, pointing and gawking at an incredible sight.}
+<LOC>__{EXT.  EAST RIVER - THEIR POV - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The statue is moving up the river almost completely submerged, only her head from the nose up is visible above the surface.}
+<LOC>__{INT.  OBSERVATION DECK - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Winston looks out apprehensively.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{How deep does it get?  That water's cold and I can't swim.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{It's okay.  I have my Senior Lifesaving card.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{With a water temperature of forty degrees we'd survive approximately fifteen minutes.}
+<ACTION>__{Stantz studies a maritime navigational chart.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I'll keep to the middle of the channel. We're okay to 59th Street, then we'll go ashore and take First Avenue to 79th.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Are you kidding?  We'll hit all that bridge traffic at 59th.  I'm going to take 72nd straight up to Fifth.  Trust me, I used to drive a cab.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  RIVERFRONT - NIGHT (SAME TIME)}
+<ACTION>__{Spectators cheer wildly, inspired by the sight of the Statue.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM RESTORATION STUDIO - NIGHT (SAME TIME)}
+<ACTION>__{Janosz is sitting next to Dana, still wheedling her with promises and self-serving logic.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Time is running out, Dana.  Soon it will be midnight and the city will be mine -- and Vigo's.  Well, mainly Vigo's.  But we have a spectacular opportunity to make the best of our relationship.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{We don't have a relationship.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{I know.  Marry me, Dana, and together we will raise Vigo as our son.  There are many perks that come with being the mother of a living god.  I'm sure he will supply for us a magnificent apartment.  And perhaps a car and free parking.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I hate and despise you and everything you stand for with all my heart and soul.  I could never forgive what you've done to me and my child.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Many marriages begin with a certain amount of distance, but after a while I believe we could learn to love each other.  Think about it.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{I'd rather not.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  TIMES SQUARE - NIGHT (SAME TIME)}
+<ACTION>__{People are jammed together shoulder to shoulder filling Times Square, watching the big Seiko clock count down the last ten minutes to midnight. Suddenly, they look down Broadway and see a magnificent sight.}
+<LOC>__{EXT.  BROADWAY - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The Statue of Liberty is walking up Broadway approaching 42nd Street, with "Higher and Higher" BOOMING from the SPEAKERS inside.  A great cheer goes up, and the crowd goes wild with joy, dancing and singing along with the MUSIC.}
+<LOC>__{INT.  STATUE OF LIBERTY OBSERVATION DECK - NIGHT (CONTINUOUS)}
+<ACTION>__{Spengler reads the Giga-meter.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{It's working.  The positive GeV's are climbing.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(patting the Statue)}
+<DIAL>__{They love you, Lib.  Keep it up.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  FIFTH AVENUE - NIGHT (LATER)}
+<ACTION>__{The avenue has been closed to traffic and barricades placed, blocking all the side streets.  A squadron of police motorcycles comes speeding around the corner at 72nd Street and proceeds up Fifth Avenue in the direction of the museum.  Then MUSIC is heard BOOMING in the distance, the ground shakes and the Statue of Liberty comes walking around the corner onto Fifth Avenue followed by a wildly cheering throng.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  OBSERVATION DECK - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The Ghostbusters can see the museum ahead.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So far so good.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(worried)}
+<DIAL>__{I'm worried.  The vibrations could shake her to pieces.  We should have padded her feet.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I don't think they make Nikes in her size.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{We're almost there, Lib.}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{Step on it.}
+<LOC>__{EXT.  STREET - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The Statue's huge foot comes down and squashes a car.}
+<LOC>__{INT.  OBSERVATION DECK - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{The Ghostbusters look down at the flattened car.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts out the window)}
+<DIAL>__{My Fault!}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{She's new in town.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM - RESTORATION STUDIO - SAME TIME}
+<ACTION>__{Janosz is painting the last of the mystical symbols on the baby's chest.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  TIMES SQUARE - NIGHT (SAME TIME)}
+<ACTION>__{The people still in the square start counting off the last ten seconds to midnight and the New Year.}
+<CHAR>__{CROWD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(chanting)}
+<DIAL>__{Ten .. nine ... eight ... seven ...}
+<TRANS>__{CUT TO:}
+<LOC>__{INT.  MUSEUM - PAINTING - NIGHT}
+<ACTION>__{A strange light spreads over the painting.  As the light moves onto his face, Vigo spreads his arms wide and his upper body starts to emerge from the canvas.}
+<CHAR>__{VIGO} <CHAR_PAR>__{}
+<DIAL>__{Soon my life begins.  Then woe to the weak, all power to me, the world is mine.}
+<LOC>__{INT.  MUSEUM - JANOSZ - NIGHT}
+<ACTION>__{The baby's body begins to glow as Vigo reaches out for it.  Then suddenly a dark shadow falls across the skylight.  Janosz looks up.}
+<LOC>__{INT.  MUSEUM - JANOSZ'S POV - SKYLIGHT - NIGHT}
+<ACTION>__{The Statue of Liberty is looming over the skylight looking down on Janosz with an expression of righteous anger on it's face.}
+<LOC>__{EXT.  MUSEUM - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Kneeling beside the museum, the statue draws back it's mighty right arm and smashes the skylight with its torch.}
+<LOC>__{INT.  RESTORATION STUDIO - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Janosz retreats from the shower of broken glass as the Ghostbusters come sliding down ropes into the studio and confront Janosz with their new weapons.  Quick as a flash, Dana seizes the moment, dashes across the studio and snatches the baby from Vigo's outstretched arms.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Janosz)}
+<DIAL>__{Happy New Year.}
+<LOC>__{INT.  MUSEUM - VIGO PAINTING - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Vigo bellows in rage.}
+<LOC>__{INT.  MUSEUM - STUDIO - NIGHT (CONTINUOUS ACTION)}
+<ACTION>__{Janosz steps in front of the painting.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Hi there.  Feel free to try something stupid.}
+<ACTION>__{Janosz sneers, trusting the invincibility of Vigo.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{You pitiful, miserable creatures!  You dare to challenge the power of darkness?  Don't you realize what you are dealing with?  He's Vigo!  You are like the buzzing of flies to him.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sighs)}
+<DIAL>__{Oh, Johnny.  Did you back the wrong horse.}
+<ACTION>__{With that, the Ghostbusters fire their slime-blowers and hose Janosz from head to toe, blowing him into the corner.  Then they turn to Vigo.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{He is now almost completely out of the painting, but still held from the knees down.  He spits and rages at the Ghostbusters, trying to unleash his magic powers.}
+<ACTION_ALT>__{THE GHOSTBUSTERS}
+<ACTION>__{They stand fast, secure in the knowledge that Vigo's power has been neutralized by the good will of the people.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Vigi, Vigi, Vigi -- you have been a bad little monkey.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{The whole city's together on this one.  We took a vote.  Everybody's down on you, you know.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(arming his slime-blower)}
+<DIAL>__{Say goodnight now.}
+<ACTION>__{Suddenly Vigo grabs Stantz by the neck and holds him up as a shield.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Don't shoot!  You'll hit Ray!}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(strangling)}
+<DIAL>__{Do it!  Just do it!}
+<ACTION>__{Winston fires and hoses both Vigo and Ray.}
+<ACTION_ALT>__{VIGO}
+<ACTION>__{He bellows and drops Ray, then falls back into the painting.}
+<LOC>__{INT.  MUSEUM - PAINTING - NIGHT}
+<ACTION>__{The paint turns liquid, melts off the canvas and runs onto the floor revealing another painting underneath it.}
+<LOC>__{INT.  MUSEUM - GHOSTBUSTERS - NIGHT (AFTER BATTLE)}
+<ACTION>__{Venkman, Spengler and Winston rush over to Ray and kneel beside him.  He is completely covered with slime and motionless.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(examining him)}
+<DIAL>__{He's breathing.}
+<ACTION>__{Winston wipes the slime off Ray's face and Ray opens his eyes.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{Ray -- Ray -- How do you feel, man?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles lovingly)}
+<DIAL>__{Groovy.  I've never felt better in my life.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, no.  We've got to live with this?}
+<ACTION>__{They pull him to his feet.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{I love you guys.  You're the best friends I've ever had.}
+<ACTION>__{He hugs them each in turn, leaving them slimed as well.  Venkman recoils in disgust.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Hey, I just had this suit cleaned.}
+<DIAL_PAR>__{(indicating Janosz)}
+<DIAL>__{Take care of the wiggler, will you.}
+<ACTION>__{Venkman crosses to Dana who is snuggling the baby.  She hugs Venkman.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{What is this -- a love in?}
+<DIAL_PAR>__{(notes the symbols painted on the baby's body)}
+<DIAL>__{Hey, sailor.  I think the tattoos are a little much, don't you?}
+<ACTION>__{He picks up the baby.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Venkman)}
+<DIAL>__{I think he likes you.  I think I do too.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Finally came to your senses, huh?}
+<ACTION>__{They hug and kiss. SPENGLER, WINSTON AND STANTZ They help Janosz to his feet.  He's dazed but unhurt.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(restored to normalcy)}
+<DIAL>__{What happened?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calmly)}
+<DIAL>__{Sir, you had a violent, prolonged, transformative psychic episode.  But it's over now.  Want a coffee?}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(extremely nice)}
+<DIAL>__{That's very kind of you.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{He's fine, Ray.  Physically intact, psychomagnetherically neutral.}
+<CHAR>__{JANOSZ} <CHAR_PAR>__{}
+<DIAL>__{Is that good?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{It's where you want to be.}
+<ACTION>__{As they exit they stop to examine the painting that was concealed by Vigo's self-portrait.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Late Renaissance, I think.  Caravaggio or Brunelleschi.}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(staring at it)}
+<DIAL>__{There's something very familiar about this painting.}
+<LOC>__{INT.  MUSEUM - NEW PAINTING - NIGHT}
+<ACTION>__{It's a beautiful painting in the high-Renaissance style depicting four archangels hovering protectively over a cherubic baby.  One holds a harp, one, an olive branch, the third, a book, and the last, a sword.  Most remarkably, their faces bear an uncanny resemblance to Venkman, Stantz, Spengler and Winston.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  STREET - NIGHT (SAME TIME)}
+<ACTION>__{A city bus pulls up near the museum and Louis steps off.  He waves his thanks to Slimer who is behind the wheel.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Slimer)}
+<DIAL>__{Okay, so Monday night we'll get something to eat and maybe go bowling?  Can you bowl with those little arms?}
+<ACTION>__{SLIMER GRUNTS and SLOBBERS a reply, flexing his scrawny biceps.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Okay, I have to go save Dana.  I'll see you later.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. MUSEUM - NIGHT (LITTLE LATER)}
+<ACTION>__{The Ghostbusters are greeted by wild cheering and applause as they come out the main entrance with Dana and the baby.  Everybody starts singing "Auld Lang Syne."  Louis picks his way through the celebrating crowd and finds the Ghostbusters.}
+<CHAR>__{LOUIS} <CHAR_PAR>__{}
+<DIAL>__{Am I too late?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{No, you're right on time.}
+<ACTION>__{Stantz pops the cork on a bottle of champagne and hands it to him.}
+<LOC>__{EXT.  MUSEUM ENTRANCE - NIGHT (SAME TIME)}
+<ACTION>__{Hardemeyer staggers out of the museum covered in slime.  He looks at the celebrating crowd and his eyes fill with tears.}
+<CHAR>__{HARDEMEYER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(weepy)}
+<DIAL>__{Happy New Year, everybody!}
+<ACTION>__{He joins in on "Auld Lang Syne."}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT.  CENTRAL PARK - NIGHT (LATER)}
+<ACTION>__{The Statue of Liberty is sprawled inert on her back in the park behind the museum, her toga up over her knees.  The Mayor looks nearly suicidal. The Ghostbusters stand beside him commiserating.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{She's all right.  She's just sleeping it off.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(stricken)}
+<DIAL>__{We just had it restored.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{This probably isn't a good time to bring this up, but the last time we did a job for the city you stiffed us.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(handing the Mayor an invoice)}
+<DIAL>__{This is a bill for tonight's job.}
+<ACTION>__{The Mayor looks at it and gasps at the amount.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{What!  This is way too much.}
+<DIAL_PAR>__{(hands the bill back to Venkman)}
+<DIAL>__{We won't pay.}
+<ACTION>__{Venkman looks at the Statue.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Stantz)}
+<DIAL>__{I think she looks pretty good here, don't you?}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{Yeah, and a lot easier to get to than that island.}
+<ACTION>__{Realizing he has no alternative, the Mayor sighs and takes the bill back.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{All right, all right.  If you can wait until Monday I'll issue you a check.}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{Sorry.  No checks.  Company policy.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. LIBERTY ISLAND - DAY (WEEKS LATER)}
+<ACTION>__{The sun is shining brightly and Liberty is back on her pedestal where she belongs.  The Mayor and a host of officials are commemorating her return. The Ghostbusters, Dana, Janine and Louis are there as honored guests.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking up at the statue)}
+<DIAL>__{Pretty impressive, huh?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(musing)}
+<DIAL>__{It's probably the first thing my grandparents saw when they came to this country.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{From where -- Neptune?}
+<CHAR>__{SPENGLER} <CHAR_PAR>__{}
+<DIAL>__{They came from Ostrov in Eastern Poland.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Ostrov?  I've been there.  Good party town.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a similarly reflective mood)}
+<DIAL>__{My great-grandparents were Swiss.  I still have the pictures they took of the statue from the boat when they arrived.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Oh, right, you told me that.  They came to America seeking other kinds of cheese, as I recall.  How about you, Winston?}
+<CHAR>__{WINSTON} <CHAR_PAR>__{}
+<DIAL>__{My people weren't taking any pictures from those slave ships, man.  And there wasn't any Statue in Charleston Harbor to welcome them, either.  What are you, Dana?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Miss Blue Blood?  Her family's been here since the year 12.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{That's not true.  It was 1620.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Same difference.}
+<CHAR>__{STANTZ} <CHAR_PAR>__{}
+<DIAL>__{What's your story, Pete?}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{Me?  I'm a little of everything.  Some Irish, some German, some French, Dutch -- the women in my family slept around.  And that's what made this country great.}
+<CHAR>__{DANA} <CHAR_PAR>__{}
+<DIAL>__{That's a terrible thing to say.}
+<CHAR>__{VENKMAN} <CHAR_PAR>__{}
+<DIAL>__{So what?  It's a free country.}
+<DIAL_PAR>__{(looking up at the Statue)}
+<DIAL>__{Thanks, Lib.}
+<ACTION>__{They all look up at the Statue.}
+<LOC>__{EXT.  STATUE OF LIBERTY - HEAD OF STATUE - DAY}
+<ACTION>__{Slimer flies out one of the observation windows, THEME MUSIC KICKS IN and the CAMERA PULLS UP and AWAY FROM the island TO a HIGH SHOT of the Statue, lower Manhattan and the shining sea beyond.}
+<TRANS>__{FADE OUT:}
+<CHAR>__{THE END} <CHAR_PAR>__{}

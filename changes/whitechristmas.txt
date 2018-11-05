@@ -1,0 +1,2069 @@
+<ACTION_ALT>__{WHITE CHRISTMAS}
+<DIAL>__{"WHITE CHRISTMAS" by Melvin Frank, Norman Krasna and Norman Panama}
+<ACTION>__{FULL SHOT - REAR AREA - (DAY) - (GLASS) This is December 24, 1944, in the first safe area directly behind the battle line, in the Italian theatre. In the distance occasional artillery light flashes are seen and artillery rumbles are heard.  The battered terrain shows the effects of battle. In the foreground is a recreation area, covered with camouflage; entertainment is in progress on a raised stage. Men of the division are seated about on benches, boxes, and the ground.  A camouflaged motor pool of jeeps and tanks is nearby. MED. SHOT - NEAR RECREATION AREA We can HEAR LAUGHTER and APPLAUSE from the men as a jeep with two stars on the front indicating it is the General's car jounces along a road toward the side of the recreation area.  A YOUNG SERGEANT is at the wheel, an ADJUTANT beside him, and in the rear are GENERAL WAVERLY and GENERAL CARLTON. JEEP - MED. CLOSE As it jounces along.  General Waverly is weather-beaten and weary; his uniform, while neat, shows the effects of long wear.  General Carlton, on the other hand, is stiff, clean and fresh from the Pentagon. He is staring off at the recreation area.}
+<CHAR>__{GENERAL CARLTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Adjutant)}
+<DIAL>__{What's this all about, Colonel?}
+<CHAR>__{ADJUTANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Turning)}
+<DIAL>__{A little entertainment for the men, sir.  Tonight's Christmas Eve.}
+<CHAR>__{GENERAL CARLTON} <CHAR_PAR>__{}
+<DIAL>__{These men are moving up tonight. They should be lined up for full inspection!}
+<ACTION>__{The jeep has come to a halt.}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Eyeing him)}
+<DIAL>__{You're absolutely right.}
+<DIAL_PAR>__{(To Adjutant)}
+<DIAL>__{There's no Christmas in the Army, Colonel.}
+<CHAR>__{ADJUTANT} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{Waverly and the Adjutant alight from the jeep.}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Carlton)}
+<DIAL>__{There's always a slip-up or two during a change in command.  The men get a little loose.  But I know I'm leaving them in good hands.}
+<CHAR>__{GENERAL CARLTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Stiffly)}
+<DIAL>__{Thank you.}
+<DIAL_PAR>__{(To Driver)}
+<DIAL>__{Sergeant, take me to headquarters immediately!  We'll have those men turned out on the double!}
+<ACTION>__{The Sergeant looks at General Waverly.}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Goodbye, Sergeant.  Take the short cut.}
+<CHAR>__{SERGEANT} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir!}
+<ACTION>__{The jeep pulls off and makes a half circle. The Adjutant makes a gesture, as if to stop it. The General stops him. TWO SHOT - GENERAL WAVERLY AND ADJUTANT The Adjutant turns to him.}
+<CHAR>__{ADJUTANT} <CHAR_PAR>__{}
+<DIAL>__{That's not the way to headquarters!}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Joe, you know that, and I know that, but the new General doesn't know it. Or he won't for about an hour and a half.}
+<CHAR>__{ADJUTANT} <CHAR_PAR>__{}
+<DIAL>__{That Sergeant'll be a private tomorrow!}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Yes... isn't he lucky?}
+<ACTION>__{He takes the Adjutant by the arm and leads him toward the recreation area. RAISED PLATFORM - MED. SHOT CAPTAIN BOB WALLACE (BING CROSBY) is wearing a makeshift beard and Santa Claus hat and PRIVATE PHILIP DAVIS (DONALD O'CONNOR) is in combat clothes.  They are doing a number to entertain the soldiers, WHAT DOES A SOLDIER WANT FOR CHRISTMAS?  During introduction, we}
+<TRANS>__{CUT TO:}
+<LOC>__{5A.}
+<ACTION>__{TWO SHOT - GENERAL AND ADJUTANT just starting to take seats, off to one side where they are not noticed by the performers.}
+<LOC>__{5B.}
+<ACTION>__{GROUP SHOT - ABOUT 6 SOLDIERS seated in audience.  They look off, see General, start to rise.}
+<LOC>__{5C.}
+<ACTION>__{TWO SHOT - GENERAL AND ADJUTANT The General notices them - motions for them to sit down again, indicating he doesn't want attention called to himself.}
+<LOC>__{5D.}
+<ACTION>__{PLATFORM - FULL SHOT The number concludes to applause.  Bob holds up his hand for silence.  He removes his beard.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Thanks, fellows.  I guess by now you know the Old Man's being replaced by a new Commanding General fresh out of the Pentagon... this divisions's been awfully lucky so far, but tonight they're running a special on St. Christophers at the PX... The Old Man's heading back to the rear - he's never moved in that direction in his life.  All I can say is, we owe so much to General Waverly and the way --}
+<CHAR>__{WAVERLY'S VOICE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(A bellow)}
+<DIAL>__{ATTENTION!}
+<ACTION>__{Automatically, Bob stiffens.  Phil does the same. AUDIENCE - FULL SHOT Every man is at attention and every head has turned to where General Waverly has taken up a position near the front of the platform.}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Captain Wallace, button your shirt. You're out of uniform!}
+<DIAL_PAR>__{(Bob, grinning, hastily buttons his shirt)}
+<DIAL>__{This division is now under the command of General Harold G. Carlton, and I don't want anyone to forget it -- not that he'll let you.  He's tough -- just what this sloppy outfit needs. You'll be standing inspection night and day -- you may even learn how to march.  And if you don't give him everything you got, I may come back and fight for the enemy.  Merry Christmas!}
+<ACTION>__{The boys respond with "Merry Christmas".}
+<CHAR>__{GENERAL WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Embarrassed)}
+<DIAL>__{Well -- I guess that's about it - uh - uh --}
+<ACTION>__{Bob, covering his embarrassment:}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Perhaps I can help you out, sir.}
+<ACTION>__{He turns to the musicians, gives the downbeat.  They play THE OLD MAN, which is sung by the entire outfit. The General stands at attention through the first chorus, visibly moved.  During the second chorus he starts up the aisle, revealing for the first time that his left leg is bandaged to the knee. The Adjutant puts out his arm to help. Waverly refuses. Toward the finish of the song, he turns, faces the men and salutes them.  The men return the salute. (This is not a military mistake, the General salutes the enlisted men as a deliberate gesture.)  There is a Red Cross ambulance standing by.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{CLOSE SHOT - (NIGHT) - TINY CANDLE THE CAMERA PULLS BACK to reveal a hand lighting a candle on a tiny makeshift Christmas tree.  We reveal a number of enlisted men huddled around the tree in a trench, including Bob and Phil.  One of the men looks at his wristwatch.  Now another does. CLOSE SHOT - WRISTWATCH The hand is approaching midnight. CLOSE SHOT - SOLDIER He is looking at his wristwatch. CLOSE SHOT - WRISTWATCH The second hand is pointing to the hour.}
+<ACTION_ALT>__{FULL SHOT OF SCENE}
+<ACTION>__{This is the prearranged signal for Bob to begin singing WHITE CHRISTMAS.  Phil accompanies him on a harmonica.  Toward the end of the song, an enemy barrage DROWNS out the music.  A shell BURSTS in the vicinity. CLOSE SHOT - BOB AND PHIL Phil pulls Bob down in time to save him from the shrapnel burst.  This has also pushed Bob's face into the mud, which he thinks is unnecessary.  Phil, ignoring Bob's hostile look, brightly continues with WHITE CHRISTMAS from where the song left off.  Bob finishes with him, but eyeing him.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{EXT. SKY - (NIGHT)}
+<ACTION>__{CAMERA SHOOTING UP to the sky as brilliant fireworks explosion lights up the screen.  Over scene SUPERIMPOSE:}
+<LOC>__{12-A.}
+<ACTION>__{INSERT - NEWSPAPER Headline reads: "V-E DAY!" As CAMERA MOVES FAST INTO headline, we LOSE the fireworks display and the headline covers the whole screen.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{12-B.}
+<ACTION>__{INSERT - CHURCH TOWERS - (DAY) Bells are ringing for celebration of V-E Day.  CAMERA MOVES}
+<LOC>__{INTO mouth of one bell, blacking out the screen.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{EXT. BILL POSTER OF FLORIDA SHOW - (NIGHT)}
+<ACTION>__{featuring names and pictures of Bob and Phil.  CAMERA MOVES to a CLOSE SHOT of the picture, HOLDS for a second, then suddenly the picture comes to life and we are on the stage of the theatre where Bob and Phil are doing the production number "BELLS". MED. SHOT - INT. THEATRE - AUDIENCE Perhaps twenty people, photographed at a slant.  They're warm.  One woman has a fan, some use programs.  They are enjoying the show, however.  There are some vacant seats apparent.  This theatre is a modern traveling tent show, such as have been playing in Florida in recent years, and beyond the sides we see palm trees, characteristic of Florida. FULL SHOT - AUDIENCE APPLAUDING the conclusion of the number. MED. FULL SHOT - BACKSTAGE The curtain is down, the boys come off, the curtain goes up on the next number, which is dancing.  Phil and Bob are met by COOKE, the Company Manager. RITA, a luscious Latin type, and some of the remaining chorus girls and other players ad lib, "Couldn't be cuter!"  "Great." "Very funny!"}
+<CHAR>__{COOKE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob and Phil)}
+<DIAL>__{New York's on the telephone.}
+<ACTION>__{Bob and Phil, with Cooke, go to the backstage telephone.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Into phone)}
+<DIAL>__{Hello.}
+<DIAL_PAR>__{(He listens.  To Bob and Cooke)}
+<DIAL>__{Oscar.}
+<ACTION>__{MED. CLOSE SHOT - INT. MANAGER'S OFFICE This is the business office of Bob and Phil.  OSCAR is their representative and manager, not their employer. He is sixty and looks competent.  He refers to a telegram in his hand.  Pictures of the boys adorn the desk, and Wallace and Davis sheets of previous shows are on the wall.  It must be evident from their billing that the boys are important stars in New York.}
+<CHAR>__{OSCAR} <CHAR_PAR>__{}
+<DIAL>__{Listen, I just heard what you're doing -- giving the cast a week off with pay for Christmas.  You don't know how touched I am.  I'm all choked up.  Between sobs, I managed to book you on the Ed Harrison show this week to take up the slack.  It'll be stealing money.}
+<LOC>__{17A.}
+<ACTION>__{CLOSE SHOT - GROUP Phil is holding the receiver up to Bob.  Oscar's VOICE can be plainly heard.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Into phone)}
+<DIAL>__{We'll have to go to New York -- four days and four nights of rehearsals -- that's stealing money?}
+<LOC>__{17B.}
+<ACTION>__{CLOSE SHOT - OSCAR As he speaks into the telephone}
+<CHAR>__{OSCAR} <CHAR_PAR>__{}
+<DIAL>__{It is for me  -- I get ten percent.}
+<DIAL_PAR>__{(He listens for a moment)}
+<DIAL>__{Next time you guys make a charitable gesture, find out if you got with what to make it.  See you Wednesday.}
+<ACTION>__{He hangs up. GROUP SHOT - PHIL, BOB AND COOKE Bob hangs up the phone.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well... while the cast takes it easy we'll be slaving over a hot kinnie.}
+<CHAR>__{COOKE} <CHAR_PAR>__{}
+<DIAL>__{What train do you want?  There's a one-thirty this morning but you have to sit up all night.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Let's get out tonight.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<ACTION>__{The boys walk to their dressing room.  A group of the chorines come flying by, toward the dressing rooms, with squealing. They make quite a picture from the rear, bouncing and all.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What are we going to do until one- thirty?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{We'll eat dinner.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looking at the retreating bouncing)}
+<DIAL>__{Eat, eat  All you think of is your stomach!}
+<ACTION>__{Rita shows up in front of Phil.}
+<CHAR>__{RITA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Eagerly)}
+<DIAL>__{You said you had something to rehearse with me after the show.  What is it?}
+<ACTION>__{Phil evidently was trying to hide this from Bob and is self- conscious at being caught.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{It's a kind of new dance number.}
+<CHAR>__{RITA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Eagerly)}
+<DIAL>__{I'm ready.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Taking Phil by the arm)}
+<DIAL>__{He isn't.  Some business has come up.  See you in a week.}
+<DIAL_PAR>__{(He pulls Phil away)}
+<DIAL>__{Come on, Romeo, dinner!}
+<DIAL_PAR>__{(Tempting him)}
+<DIAL>__{Lamb chops, lamb chops!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pretending that he}
+<DIAL>__{is letting himself be pulled while he is still anxious to go in the other}
+<DIAL_PAR>__{direction)}
+<DIAL>__{I'm looking at them!  We're going in the wrong direction.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - WATERFRONT INN - BOB AND PHIL - (NIGHT) The boys are now finishing their dinner.  Bob is facing the orchestra, Phil would have to turn to see it.  The MUSIC plays, the boys eat.  The table is close to the bar.  On two stools sit JUDY and BETTY.  Betty is wearing her glasses and examining some railroad tickets that have just been handed her by the bartender.  Phil is not paying attention to his eating, he is entranced with Judy's pretty legs draped over the bar stool.  Bob cannot see the girls and is not even interested enough to turn around. MED. CLOSE SHOT - BETTY AND JUDY On her part, Judy is not absorbed in the tickets, but is unobtrusively sizing up Phil.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Checking the tickets)}
+<DIAL>__{We'll have to rush to get the 1:30 train.}
+<ACTION>__{CLOSE SHOT - PHIL AND BOB Bob notices Phil's absorption.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Have you ever considered laying off the female sex for awhile?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What other kind is there?}
+<DIAL_PAR>__{(He picks up the card}
+<DIAL>__{which announces the performers names and}
+<DIAL_PAR>__{reads)}
+<DIAL>__{'The Stewart Sisters.'  Sister act!}
+<DIAL_PAR>__{(He smacks his lips.}
+<DIAL>__{He doesn't realize that these two girls are the Stewart}
+<DIAL_PAR>__{Sisters)}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Down, Rover, down.  Remember, we have an agreement--you chase no new tidbits during the season.  You were man enough to give me your hand on it.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You were sneaky enough to take it.}
+<ACTION>__{MED. CLOSE SHOT - BETTY AND JUDY Betty looks from the tickets and sees that Judy is covertly eyeing Phil.  She leans forward.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Quietly)}
+<DIAL>__{Ahem.}
+<DIAL_PAR>__{(Judy's eyes are toward Phil.  A little louder)}
+<DIAL>__{Ahem!  All right dear, relax.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{He's awful cute.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{So was the one in Kansas City, and the one in Canton, Ohio, and the one in Waco, Texas.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Mock seriousness)}
+<DIAL>__{Canton, Ohio wasn't so much.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{One of these days you're going to meet somebody extra cute and the next performance I'll be doing a single.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Sincerely)}
+<DIAL>__{Nobody'll ever be cute enough to break up this sister act.}
+<ACTION>__{MED. SHOT - BOOTH - BOB AND PHIL Phil is still fingering the card.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{I haven't much luck with sister acts. They're all alike.  Shall I tell you what these two are like?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Shoot.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Four feet two inches tall.  Pudgy. Round races.  Have big bows in their hair.  Always smiling.}
+<DIAL_PAR>__{(He parodies a smile)}
+<DIAL>__{Lots of teeth.  Sister acts have more teeth than anybody else.  Two, three hundred teeth at a time.  The American Dental Association is investigating it.}
+<ACTION>__{There is a drum roll from the orchestra.  Betty takes off her glasses and puts them in their case, on the bar.  The bandleader's voice announces:}
+<CHAR>__{BANDLEADER} <CHAR_PAR>__{}
+<DIAL>__{Ladies and gentleman, the Stewart Sisters!}
+<ACTION>__{The audience applauds politely while the girls start toward the platform,  Phil reacts in surprise to the new development.}
+<LOC>__{23-A.}
+<ACTION>__{PLATFORM - FULL SHOT Betty and Judy do their number: "SISTERS".  As they take their bows -- MED. SHOT - BOB AND PHIL Phil pretends to recognize Judy.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Say, Dolores!  That's Dolores!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Remember that girl I told you about who got sick in St. Paul?  That's her!  The girl in the oxygen tent! I told you about her!  The road company of "Student Prince."  The whole company went to church and prayed for her!  It was the most touching thing I've ever seen in show business.}
+<DIAL_PAR>__{(HE GETS UP.)}
+<DIAL>__{I'll bring her over.}
+<ACTION>__{He goes, Bob watching, disgusted.  NOVELLO, the owner of the Waterfront Inn, comes up. MED. SHOT - BOB AND NOVELLO Novello evidently knows Bob.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{Didn't you get your dessert yet, Mr. Wallace?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm not having any, but I think my partner's lining up some pastries now.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{Sure wish I could afford to book you boys here.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Call our agent - we've got half an hour between trains.}
+<ACTION>__{Phil enters the shot with Judy and Betty.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Hello, Mister Novello.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{Good evening, Mister Davis.}
+<ACTION>__{MED. SHOT - GROUP Novello pulls out the table to permit the girls to be seated.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Burlesque formality)}
+<DIAL>__{Miss Stewart, Mister Wallace. Miss Stewart, Mister Wallace.}
+<CHAR>__{JUDY AND BETTY} <CHAR_PAR>__{}
+<DIAL>__{How do you do.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Rising)}
+<DIAL>__{How do you do.}
+<ACTION>__{Phil gets Betty next to Bob, he sits next to Judy.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{See you later, folks.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{'Bye.}
+<DIAL_PAR>__{(He leaves)}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We saw your show at the matinee, and we liked it very much.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Thank you, ma'am.}
+<ACTION>__{The orchestra has gone into WHITE CHRISTMAS.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Where are you going to be for Christmas?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We're booked in Vermont.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Vermont?  What's there?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Snow.  We spent last Christmas in South Carolina, the year before in Hawaii.  They didn't seem like Christmases.  There ought to be snow. This one's going to be real white.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, it's the way you've been raised. If you saw a lot of snow when you were a kid you miss it more around Christmas. There's a lot of snow around St. Paul.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Is that where you come from - St. Paul?}
+<ACTION>__{It dawns on him, slowly.  He shows no emotion.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{No.  You come from St. Paul.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{I come from Canton, Ohio.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Just for the record he knows)}
+<DIAL>__{I'd like to ask you something.  Were you ever in an oxygen tent?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Oxygen tent?  Oh no!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Were you ever in a road company of "Student Prince?"}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{No.  Why?}
+<ACTION>__{Bob looks at Phil.  The rules are clear between them. Bob puts his hand out.  Phil takes it.  They shake.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Very good.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What I admire are the details, the invention, the little lies all around the big one.  It takes talent.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, it's nothing.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Don't say that.  Don't belittle yourself.  Credit where credit is due.  You did it fine.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Private conversation?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Little game we play.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Judy)}
+<DIAL>__{May I have this dance?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{I'd love to.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Helping her up)}
+<DIAL>__{I'm not going to keep calling you Miss Stewart.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{The name is Judy.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{What a pretty name!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(They're off)}
+<DIAL>__{Nicer than Dolores!}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'm Betty.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm low man. Bob.}
+<DIAL_PAR>__{(He takes her arm,}
+<DIAL>__{indicating Phil and}
+<DIAL_PAR>__{Judy)}
+<DIAL>__{Follow that couple.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<ACTION>__{They move toward the dance floor.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Want to make sure they keep dancing.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Stop worrying.  He won't get any place with her.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You sure?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'm positive.  I trained her myself.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{She's in the ring with the champ, though.  You've heard of Alcoholics Anonymous?}
+<DIAL_PAR>__{(She nods; he indicates Phil)}
+<DIAL>__{Women Anonymous.  Their biggest case.}
+<ACTION>__{Keeps falling off the wagon.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Well, you keep an eye on him, and I'll keep an eye on her.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Fine. We can make out the probation report together.}
+<ACTION>__{The orchestra blends into a vocal chorus of the song.  (To be decided upon.)  The vocal is shared by Bob, Betty, Judy and Phil, individually.  Toward the end of the vocal Phil dances Judy out to the terrace overlooking the water.  This blends into their dance.  The staging of the number should reunite the four principals by the end of the number.  The audience applauds and they all go back to their booth. MED. CLOSE SHOT - BETTY AND JUDY They are a half dozen steps ahead of the boys.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{They're both very cute, aren't they?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Hiding her real interest)}
+<DIAL>__{Both?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Uh huh.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Which one do you like best?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{I like them both.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{You can't have both.  There's a law.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Oh, we'll never meet them again, what does it matter?}
+<ACTION>__{The men are now up to them and help them into the booth. MED. SHOT - BOOTH - GROUP Bob does not sit.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Judy, you made even him look good.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pleased)}
+<DIAL>__{You're very flattering, but he was doing all the leading.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Fair)}
+<DIAL>__{You dance very well together.  If I say it.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Sitting)}
+<DIAL>__{Lightest girl I ever saw.  Floats like a bubble.  One big bubble.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{All right, bubble lover, stand up!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What for?  I just sat down.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{La train.  At one-thirty, and we have to pack.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Train?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You know, choo choo.  Goes on tracks.}
+<DIAL_PAR>__{(Train whistle noise)}
+<DIAL>__{Wo woo.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Oh no!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Oh yes!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Can't we go tomorrow?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The train goes tonight.}
+<DIAL_PAR>__{(Phil looks}
+<DIAL>__{disconsolately at}
+<DIAL_PAR>__{Judy)}
+<DIAL>__{Say goodbye to the lady bubble, because we're going to have to run for it now.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Lady bubble, I have an idea we're going to meet up again sometime.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We might, we're on the same train.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pulling Phil away)}
+<DIAL>__{No.}
+<ACTION>__{As they start off, Novello enters to the girls, agitated.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{The sheriff is here! He's in my office!}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{The sheriff!}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{He's got a warrant to arrest you!}
+<ACTION>__{Bob has stopped.  He looks at Phil, suspiciously.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I thought we watched you every minute.}
+<ACTION>__{Phil holds up his hand in "Scout's honor."}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Never stopped dancing.}
+<ACTION>__{Bob turns back to the table.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To the girls)}
+<DIAL>__{Can we help?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Fearful)}
+<DIAL>__{I've never been arrested!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{There's nothing to it!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Don't get panicky!}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{Yes, don't get excited, you still have to give your show!}
+<DIAL_PAR>__{(Apologetically)}
+<DIAL>__{He's not going to arrest them until after the show!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That's considerate!  How'd you arrange that?}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{I'm a taxpayer here!  You better go in and change, girls!  You haven't much time!}
+<ACTION>__{The girls start off, confused.  Novello, Bob and Phil follow.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{May I enquire what you are being arrested for?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{The owner of the hotel we were at says we dropped a cigarette on his rug and burned it.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We couldn't have dropped a cigarette because we don't smoke.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{He wants two hundred dollars, but it's just plain stealing.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We left the money for our bill in an envelope on the bed.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Then we dropped the bags out the window and checked them at the depot.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{What are we going to do now?}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{You have to give another show.}
+<ACTION>__{He leaves them, as Bob and Phil look unpleasantly after him. They have reached the wings.}
+<LOC>__{INT. WINGS - MED. SHOT}
+<ACTION>__{STAGEHAND is setting up a record on a record-playing mechanism backstage, as the group passes by heading for the dressing rooms.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{The old burned rug routine.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Kind of old fashioned, isn't it? I thought that went out with the Cherry Sisters. We'll have to do something.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Hopefully)}
+<DIAL>__{Got a flash?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{A glimmer.  Have to stir it around a little.}
+<ACTION>__{The girls have opened the door to their dressing room.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We wouldn't want you boys to get into any trouble.}
+<LOC>__{INT. DRESSING ROOM - MED. SHOT}
+<ACTION>__{As they all enter.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Why not?  Maybe we'll all wind up in the same cell.}
+<ACTION>__{As they close the door,}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{INT. NOVELLO'S OFFICE - MED. SHOT}
+<ACTION>__{Novello is with the SHERIFF and the LANDLORD.  The Sheriff is a husky fellow. At the moment he's eating an eclair and coffee, from Novello's desk.  The Landlord glares at him.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{That's the second dessert you've had, Sheriff!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Real good, too.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{I haven't got all night to wait here while you eat free food!  You've got your warrant, arrest those girls!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Displeased)}
+<DIAL>__{Now, we agreed to let them finish their show first.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{I didn't agree!}
+<DIAL_PAR>__{(To Novello)}
+<DIAL>__{That was his idea!}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{I've got some rights, too.  You don't get those girls until after they've done their number!}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{Well, how long is it going to take?}
+<ACTION>__{Novello puts his hand up, listening.}
+<CHAR>__{NOVELLO} <CHAR_PAR>__{}
+<DIAL>__{Wait a minute! That's their music!}
+<ACTION>__{He gets up, opens the office door, and we HEAR their entrance music, as before, and the Orchestra Leader's voice, "The Stewart Sisters." MED. SHOT - CAFE FLOOR Bob and Phil stand with their backs to the audience. They turn, face front, and we realize they are mouthing to a record. CLOSE SHOT - WINGS - RECORD PLAYER We identify that the music is coming from this spinning record player we have previously established.}
+<LOC>__{34-A.}
+<ACTION>__{MED. SHOT - CAFE FLOOR Bob and Phil do the number. MED. SHOT - AUDIENCE They APPLAUD at end of number. MED. SHOT - INT. NOVELLO'S OFFICE We faintly HEAR the applause.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{They're clapping! It's over!  Arrest them!}
+<ACTION>__{The Sheriff gets up.}
+<TRANS>__{CUT TO:}
+<ACTION>__{MED. SHOT - CAFE FLOOR The boys bow themselves off, and run toward their dressing room. MED. SHOT - CORRIDOR They hurry down the corridor, passing the office door.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Get out of these clothes! Toot sweet!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ma, unhook my bra!}
+<ACTION>__{The office door opens behind them, which they do not see. The Sheriff steps out, followed by the Landlord and Novello.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Calm)}
+<DIAL>__{Just a second, folks!  I'll handle this!}
+<DIAL_PAR>__{(He walks to the dressing room door)}
+<ACTION>__{MED. CLOSE SHOT - DRESSING ROOM DOOR There is a plaque attached to the key in the lock.  The Sheriff smilingly turns the key in the lock.  He puts the key in his pocket.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Winking)}
+<DIAL>__{You stay here.  Let them try to go through the window.}
+<ACTION>__{The landlord is delighted.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{If they make a break for it, shoot 'em!}
+<TRANS>__{WIPE TO:}
+<ACTION>__{MED SHOT - EXT. CAFE - (NIGHT) - SHERIFF The Sheriff walks around the corner of the cafe, and a police car awaits, with cop at the wheel.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Just a minute, Hank, couple of customers coming up.}
+<CHAR>__{HANK} <CHAR_PAR>__{}
+<DIAL>__{Okay, boss.}
+<ACTION>__{The Sheriff continues to the window of our dressing room. MED CLOSE SHOT - DRESSING ROOM WINDOW It opens.  The Sheriff watches it.  Out comes Phil's legs, meaning to get out backwards.  The Sheriff applies both hands and pushes back.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Back you go, boys!}
+<ACTION>__{He pushes Phil in.  Nimbly, he raises himself in. MED. SHOT - INT. DRESSING ROOM The Sheriff is in the room.  He looks coolly at the boys, who are now in their own clothes.  He stares at them.  They stare at him.  Recognition comes all at once.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Pete!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Phil!  Bob!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Pete!}
+<ACTION>__{They all throw their arms around each other, pounding violently.  'No!  Wow!  You dirty skunk!  You grave robber!'}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Unbelieving)}
+<DIAL>__{Are you the Sheriff here?}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{You bet I am!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{How'd you get in this line of work?}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{After I got out of the army I sat down and figured it out!  Who never got in trouble in the army?  The M.P.'s!  They were the ones who arrested you!  So I came back here and ran for Sheriff!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{A civilian M.P.!  If the fellows ever saw you now!  They'd skin you alive!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You ever see any of them?}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Whitey Harris and Jack Ross have a filling station near here!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Jack Ross!  Will you ever forget the party he threw in Naples?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{In a captured brewery.  Very sensible, giving a party in a brewery.  Cuts out the middleman.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Do you remember when Danny Beasly climbed up -}
+<DIAL_PAR>__{(As he says 'Danny}
+<DIAL>__{Beasly' he recalls}
+<DIAL_PAR>__{Danny is dead)}
+<DIAL>__{- the tower of the City Hall and rang the bell by swinging on the clapper?  He couldn't hear anything for two days.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Danny Beasly!  Too bad he didn't make it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Not everybody was lucky.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{We were lucky in one thing - the old man.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{You can say that again.  Say I'm supposed to arrest a couple of dames! A fellow swore out a warrant!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{He's a crook!  Burned a hole in a rug and is trying to hold up two kids.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{You don't say!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(At his watch)}
+<DIAL>__{We got to get our bags and be at the station in ten minutes!  We'll never make it!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Just a moment!}
+<DIAL_PAR>__{(He goes to the window)}
+<DIAL>__{Hank !}
+<ACTION>__{REVERSE ANGLE - POLICE CAR - SHOOTING BY SHERIFF Hank looks up enquiringly.}
+<CHAR>__{HANK} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Take my friends where they want to go!}
+<CHAR>__{HANK} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{Hurry up!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Going out the window)}
+<DIAL>__{Thanks, Pete.}
+<LOC>__{EXT. WINDOW - POLICE CAR}
+<ACTION>__{Hank has thrown the door open.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Do you think we can make it?}
+<CHAR>__{HANK} <CHAR_PAR>__{}
+<DIAL>__{This thing goes over a hundred an hour!  Hold on!}
+<ACTION>__{He starts with his red lights going, his siren screaming, and tires grinding. MED. SHOT - INT. DRESSING ROOM The Sheriff watches them go, pleased.  A pounding on the door recalls the Landlord, and he frowns.  He strides to the door, takes out his key and opens it. MED. SHOT - CORRIDOR The Landlord and Novello are looking out the window at the departing police car, the noise having distracted them from the door pounding.  The siren is still heard, retreating. The Sheriff snaps his cigarette at their feet.  They turn to him, faces alight.}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{They escaped!  We're pursuing 'em!}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{Escaped!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pointing)}
+<DIAL>__{What do you mean smoking on theatrical premises!}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{That's not mine!  I wasn't smoking!}
+<CHAR>__{SHERIFF} <CHAR_PAR>__{}
+<DIAL>__{What's that burning?  A lollypop?}
+<DIAL_PAR>__{(He grabs him by the}
+<DIAL>__{shoulder, not too gently, and starts}
+<DIAL_PAR>__{him out)}
+<DIAL>__{Come on!}
+<ACTION>__{He protests, 'What - !' 'But!'  Novello is openmouthed.}
+<TRANS>__{WIPE TO:}
+<LOC>__{EXT. STATION - (NIGHT)}
+<ACTION>__{The train is already moving as the police car arrives. The girls are on the observation platform.  The police car screams to a stop.  The boys fly out, with bags, and just make the train, the girls pulling them aboard.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Seriously)}
+<DIAL>__{You didn't steal the police car?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{No, no.  Friend of ours.}
+<ACTION>__{They go toward the lounge car. MED. SHOT - INT. LOUNGE CAR - GROUP They all take seats in the lounge car, happy to have accomplished their escape.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, we'll be together as far as New York.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Maybe it'll snow in New York for Christmas.  If it doesn't, we'll mail you a snowball from Vermont.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{I haven't been on ice skates in years.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ice?  You mean the stuff in a Scotch and soda?}
+<DIAL_PAR>__{(Suddenly)}
+<DIAL>__{Bob, how about snow for Christmas?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You'll only thaw it out.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Come on, Bob, we could have a great week up in Vermont.}
+<ACTION>__{Bob looks from him to Judy, whose expression is almost pleading.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I see what you mean.  But Wednesday we've got to be back in New York.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{All right -- so it's just for a couple of days.  Don't you want me to enjoy the winter sports?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You enjoy them all year round.}
+<DIAL_PAR>__{(He looks to Betty)}
+<DIAL>__{We won't get in your way, will we?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{As long as your friend doesn't try to take my sister for a sleigh ride.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{If he tries it, I'll smash his flexible flyer.}
+<DIAL_PAR>__{(To Phil)}
+<DIAL>__{It's all set.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Really pleased)}
+<DIAL>__{The thing I like about you, Bob, is you're not only kind and generous, you're handsome.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{We're going to have to sit up all night.  Let's get some shut eye.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - EXT. TRAIN - (NIGHT) The rhythm of the wheels and the engine funnel, underscored musically. MED. SHOT - INT. TRAIN All but Phil are half dozing.  One or two other people are seen in the background, asleep.  There is an air of peace and quiet in the car, as the music underscoring continues. Their faces are occasionally streaked with light flashes emanating from the surrounding countryside.  Phil turns to the side of the car and sees a bill poster showing a copy of a winter scene from the Grandma Moses collection, advertising Vermont.  CAMERA PULLS UP TO scene, the music swells and we}
+<TRANS>__{DISSOLVE :}
+<ACTION>__{to a similar landscape in stylized concept.  This is the WINTER FANTASY production number.  At the end of the fantasy we hear the Conductor's voice, "Pine Tree.  Pine Tree, Vermont." MED. SHOT - OUR GROUP - (DAY) They are bundling themselves up, coat collars tight, expecting to enter the snow country. REVERSE ANGLE - SCENE THROUGH PLATFORM DOOR Pine Tree Station, all green, no snow.  Four hotel busses await, one marked 'Columbia Inn Bus.' FULL SHOT - PINE TREE STATION - (GLASS SHOT) Our foursome is just getting off the train.  They are the only ones.  They are looking about, puzzled.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Are you sure this is the right Vermont?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{This isn't a southern Vermont?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{I don't understand it.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{There has to be snow!  This place is advertised as America's Snow Playground!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, if you say so.}
+<DIAL_PAR>__{(Gesturing to the}
+<DIAL>__{waiting Columbia Inn}
+<DIAL_PAR>__{bus driver)}
+<DIAL>__{Driver, your sleigh and reindeer.}
+<ACTION>__{The other three bus drivers are disappointed.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - BUS EN ROUTE The bus goes by an incongruous skating rink, with water instead of ice.  Signs indicate the direction of the sun scorched toboggan slide.}
+<TRANS>__{WIPE TO:}
+<ACTION>__{MED. SHOT - BUS EN ROUTE The bus winds around another turn in the beautiful green surroundings and we pass a ski lift and a ski jumping platform.}
+<TRANS>__{WIPE TO:}
+<ACTION>__{MED. SHOT - BUS EN ROUTE Still another turn of the bus, and in the distance we see a LONG SHOT of the Columbia Inn. MED. SHOT - INT. COLUMBIA INN MARTHA, a sixty year old spinsterish woman, good of heart, forbidding exterior, is occupied at the desk. The door opens and a pretty fifteen year old, SUSAN, carrying the mail, walks toward her.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Mail, Martha.}
+<ACTION>__{She puts the mail on the desk.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(As she shuffles through it)}
+<DIAL>__{What's the weather forecast down at the Post Office?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Awful.  Fair and warmer.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{If we don't get snow soon we can turn this hotel into a haunted house. We haven't had a guest for three weeks.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(As Martha keeps}
+<DIAL>__{searching through}
+<DIAL_PAR>__{the mail)}
+<DIAL>__{What are you looking for?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Not finding it)}
+<DIAL>__{Your grandfather's written Washington asking if he can get back in active service.  I think he wants to fly jets.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I think he could do it.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{He says older men have been called, and besides, he misses the food.  I tell you, Susan, he tried to make it a casual letter, with little jokes, but it came out just begging.}
+<ACTION>__{Through the huge window behind Susan and Martha we see the figure of a man in overalls, bending over an incinerator, shoveling the ashes into a wheelbarrow. His back is to CAMERA.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Moved)}
+<DIAL>__{Oh, Martha!  What are we going to do?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Blowing her nose)}
+<DIAL>__{I don't know.  Don't let on we know he's written.  He'll start in I'm only his housekeeper and that I found out through some chicanery or something.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Soothing her)}
+<DIAL>__{How did you find out?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Like any housekeeper --  I read the carbon paper.}
+<DIAL_PAR>__{(She hands the mail to Susan)}
+<DIAL>__{Bring him the mail.}
+<ACTION>__{Susan starts out as CAMERA MOVES UP to window.  After a moment, Susan appears and crosses to the man in overalls. He straightens up, dusts off his hands, and as he turns to take the letters, we see for the first time that he is General Waverly.  He looks through them, eagerly, then, downcast, shoves them in his overalls and goes back to his work.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{58-59}
+<ACTION_ALT>__{OMITTED}
+<ACTION>__{FULL SHOT - EXT. INN - (DAY) The bus comes to a stop and our principals get out, Phil staying with the driver for the luggage.  The others enter the inn. MED. SHOT - INT. INN Martha at the desk, and her eyes widen in surprise.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Happily)}
+<DIAL>__{Welcome to Columbia Inn.  How do you do?}
+<CHAR>__{ALL} <CHAR_PAR>__{}
+<DIAL>__{How do you do?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Offering pen)}
+<DIAL>__{What kind of accommodations would you like?  We can give you a fairly wide choice--any room in the Inn, including mine.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{We're not here as guests.  We're the Stewart sisters.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Disappointed)}
+<DIAL>__{Oh.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{My friend and I are guests.  We've come down for the snow.  Where are you keeping it?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{We take it in during the day!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looking around)}
+<DIAL>__{What are your rates here?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Make us an offer.}
+<DIAL_PAR>__{(To the girls)}
+<DIAL>__{I'm afraid we won't be able to use you.  We'll pay you the half salary for canceling.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Oh, no!  Are things that bad?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{We're using the ski-tow to hang the wash on.}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{You're not going to stay either, are you?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shaking his head)}
+<DIAL>__{I'm afraid not, ma'am.}
+<ACTION>__{Through the door comes Waverly, carrying a load of wood in one arm, and a bucket of coke in the other hand.  Susan follows carrying an armful of kindling. Bob turns away.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'll tell Phil to leave the luggage -}
+<DIAL_PAR>__{(It hits him, he comes}
+<DIAL>__{to a stop, and then}
+<DIAL_PAR>__{to attention)}
+<DIAL>__{General Waverly!  Sir!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Easy, simple)}
+<DIAL>__{At ease!  How are you, Captain.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm fine, sir.}
+<DIAL_PAR>__{(But he looks around}
+<DIAL>__{questioningly,}
+<DIAL_PAR>__{bewildered)}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiling)}
+<DIAL>__{We just try to keep the General part quiet.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<DIAL_PAR>__{(Reminding himself)}
+<DIAL>__{Begging your pardon, sir.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Well, to put it in one sentence, people don't expect major generals to carry firewood.}
+<ACTION>__{Through the door comes Phil, fast, talking:}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Bob, I was thinking we ought to -}
+<ACTION>__{Phil has his arm out indicating the direction of the door, when he sees Waverly.  He freezes.  He brings his hand up to a salute, from that position.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{At ease!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, sir!}
+<DIAL_PAR>__{(Horrified)}
+<DIAL>__{A janitor!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Never thought I'd make it, he? ...Matter of fact, it's worse than that.  I own this hotel.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{He got it in a shrewd business move.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{Was everybody in your outfit?  We seem to run into them all over the country.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The Draft Board didn't know when to stop.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{If I start the introductions, can I get to meet these young ladies?}
+<DIAL_PAR>__{(Indicating them)}
+<DIAL>__{My housekeeper, Miss Martha Allen, my granddaughter, Susan Waverly.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm Bob Wallace -- this is Phil Davis --}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{We're the Stewart sisters.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Your floor show.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Waverly)}
+<DIAL>__{Don't worry -- I've already told them we'd have to cancel.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Why?  We have a floor, haven't we?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Last time I looked.  But who are they going to sing to?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Even if it's only to you and me, it will be well worth it.  Besides, there will be six inches of snow tonight and we'll be full up tomorrow.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Happily)}
+<DIAL>__{Is that the weather forecast?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{No.  But if there was one thing I learned in the army it was to be positive -- especially when you don't know what you're talking about. You'll excuse me, gentlemen, I'm on K.P.}
+<ACTION>__{Phil and Bob stiffen automatically.}
+<CHAR>__{PHIL AND BOB} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Betty and Judy)}
+<DIAL>__{And you two charming ladies, I want you to know I'm looking forward to your show this evening.  Whatever your audience lacks in numbers, it will make up for in enthusiasm --}
+<DIAL_PAR>__{(He glares at Martha)}
+<DIAL>__{or I'll know the reason why!}
+<ACTION>__{He smiles at the girls, and exits, dignified.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Utterly charmed)}
+<DIAL>__{Gee... no wonder we won the war!}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{INT. DINING ROOM INN - (NIGHT) - MED. CLOSE SHOT -}
+<ACTION_ALT>__{BETTY AND JUDY}
+<ACTION>__{They are doing the number, SISTERS, on the floor.  THE CAMERA PULLS BACK to reveal the scene.  There is a scant audience distributed at several tables, totaling not more than fourteen in number.  Not far from the kitchen entrance Bob and Phil are sitting at one table. Martha is seen doing general overseeing, principally acting as hostess.  Susan doubles between the cashier's desk and helping out at table. MED. CLOSE SHOT - BOB AND PHIL They are admiring the performance.  Phil indicates for Bob to look in this direction.  Bob does. REVERSE ANGLE - MED. SNOT The General is seating a table. MED. SHOT - BOB AND PHIL Bob shakes his head, unhappy at this condition.  They look at each other.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I think well stay a little longer than we planned.}
+<ACTION>__{MED. FULL SHOT - BETTY AND JUDY They finish the number and are applauded enthusiastically, but the few people in the audience don't make for much clatter.  One set of hands seems to be applauding loudest and clearest. MED. SHOT - GENERAL WAVERLY He is the one doing the enthusiastic applauding.  He walks toward the boys, still applauding.  They applaud too.  The girls enter the scene, to sit with the boys. Martha is only applauding politely, until Waverly glares at her.  Then her enthusiasm is boundless.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Excellent.  I enjoyed it very much.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{It was nice, if you like music.}
+<ACTION>__{A waitress brings food, which Martha helps distribute.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(After a look that}
+<DIAL>__{the waitress is not in a position to}
+<DIAL_PAR>__{hear)}
+<DIAL>__{Mister Waverly, we'd like to make you a proposition.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiling)}
+<DIAL>__{Well, for heaven's sake!}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{You've been very nice not canceling, we'd like to make a gesture.  Until it snows, and you have guests, we'll take half salary.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Appreciative)}
+<DIAL>__{That's really nice of you.}
+<DIAL_PAR>__{(She takes out pencil and her order book)}
+<DIAL>__{Now let's get that in writing.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pushing it aside)}
+<DIAL>__{Never heard of anything so ridiculous.}
+<DIAL_PAR>__{(Gets up)}
+<DIAL>__{Your next performance is tomorrow night, after dinner.  Be here, or I'll sue!}
+<ACTION>__{He dignifiedly walks in the direction of some departing guests, and proceeds to show them to the door.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Annoyed)}
+<DIAL>__{Light-Horse Harry.  Advance, advance, never retreat!  He's advancing right into bankruptcy.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{That's just the way he was in the army.  Always thinking of the other fellow.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{We ate and then he ate.  We slept, and then he slept.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Then he woke up, and nobody slept for the next forty-eight hours.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{I happen to know he's sunk his life's savings into this place.  I read the carbon paper.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Gee, I wish there were something we could do to help.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Maybe there is.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You got a flash?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{A glimmer.  Have to stir it around a bit.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To the girls)}
+<DIAL>__{Shhh!}
+<DIAL_PAR>__{(Indicating Bob, tapping his forehead)}
+<DIAL>__{Ticking away madly.  Wheels within wheels.  This is the brain that, in darkest Italy, devised a formula to make food out of K-Ration!  Shhhhhh!}
+<ACTION>__{As he regards Bob with something akin to awe, we}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - INT. LOBBY - (NIGHT) The last of the supper audience is leaving.  We see into a room which adjoins the reservation desk and Bob is on the phone. CLOSE SHOT - INT. INN OFFICE Phil is sitting on the desk while Bob talks.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Into phone)}
+<DIAL>__{Relax... I didn't ask you how much it'll cost us...}
+<DIAL_PAR>__{(We hear an excited}
+<DIAL>__{high voice on the}
+<DIAL_PAR>__{phone)}
+<DIAL>__{Easy, easy, remember your blood pressure... I don't care how much it'll cost us... That's better... Have everybody on the train first thing in the morning.  The whole Troupe, and the scenery, and the costumes... You'll have to cancel us off the Ed Harrison Show...  Oscar, remember your blood pressure. Incidentally, how much will this cost?}
+<DIAL_PAR>__{(He hears some figure. -}
+<DIAL>__{It obviously is a}
+<DIAL_PAR>__{very large number)}
+<DIAL>__{Good night, Oscar.}
+<DIAL_PAR>__{(He hangs up)}
+<DIAL>__{There you are.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Incidentally, how much will this cost?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Clears his throat)}
+<DIAL>__{We are coming out - even.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You mean flat?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That's the same as even.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Wheels within wheels.  It's nice how you take care of the money for both of us because you're older and so level headed.  I wonder where I'd be now if hadn't saved your life?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Do you want me to cancel the troupe coming?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Getting off the desk)}
+<DIAL>__{No, no.  Let's go through the gesture. If you had been on the Titanic when it went down, you wouldn't've been satisfied just to sink into the ocean.}
+<DIAL_PAR>__{(Gesturing)}
+<DIAL>__{You'd have done a swan dive into it. With me on your back!}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - COLUMBIA INN FLOOR - (DAY) The scene is a melee of the excitement accompanying preparations for the show.  The little stage has been enlarged - the draperies pulled back right and left and a side wall pushed back a little farther.  There is hammering and painting going on in various parts of the room.  Trunks have been unpacked and wardrobe hung up in odd places, as more trunks arrive.  Girls in abbreviated rehearsal clothes walk around, do cartwheels; two people sing at the piano; six girls kick in unison; altogether, it is quite a contrast to the bareness of the previous scene. THE CAMERA TRUCKS through all the activity, taking in our group at the doorway, which features Bob and Phil, the girls standing nearby.  Martha and Susan are amazed at the activity.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{I can't believe it!  You mean you brought the whole show up here?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{When you hired the Stewart sisters you also hired a New York show.  It was in the small print.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{And you can't get out of it.  We've got lawyers.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I can't thank you enough, but I wonder if Gramp'll let you do it?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Why not?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{His pride.  When he decides he's going into bankruptcy he likes to go.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Now just a second.  We're not doing this for him!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Oh no!  We're bringing the show down here to rehearse!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The company's been getting a little ragged.  We'd appreciate the use of the hall.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Of course we don't expect it free!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{We'll pay a little, but not much. - You see, the audience will be guinea- pigs -- and for us, that's quite an improvement.}
+<ACTION>__{This has not fooled Susan.  She throws her arms around Bob and then Phil.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I don't know what to say!}
+<ACTION>__{She cannot refrain from tears of gratitude and turns and runs out.  There is a moment of silence.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I hope this is not an indication of advancing age, getting kissed out of gratitude.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You didn't expect a girl that pretty to kiss you because she wanted to?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{A body keeps hoping.}
+<ACTION>__{Betty steps up to him and gives him the biggest smack. Bob is quite surprised.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Sincerely)}
+<DIAL>__{That was the nicest thing I ever saw anybody do.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{It was still gratitude.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Judy)}
+<DIAL>__{I'm his partner.  I'm entitled to half the credit.}
+<DIAL_PAR>__{(Judy steps up to him}
+<DIAL>__{and just pecks him on the cheek, then joins her sister in}
+<DIAL_PAR>__{rehearsal)}
+<DIAL>__{She's not as grateful as her sister.}
+<ACTION>__{They look off through the exit and see a moving van unloading scenery, as the General arrives in his buggy. He steps down and looks with amazement at the scenery passing by.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{EXT. INN - (DAY) - MED. CLOSE SHOT - WAVERLY, BOB AND PHIL}
+<ACTION>__{Waverly is looking interestedly at the goings on, but is puzzled.  The boys exchange a glance.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Finally)}
+<DIAL>__{I'm not clear about some of it. Explain it again.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Not too good a job)}
+<DIAL>__{Well, sir.  We have this show, and we laid off for the holidays.  You see, business was bad.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I know about business being bad. Go on.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.  Well, so we figured as long as we had the opportunity we'd do a little rehearsing.  Right here.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Why here?}
+<DIAL_PAR>__{(There is a hint here of the General)}
+<DIAL>__{Phil looks to Bob for help as they move toward the lobby.}
+<ACTION>__{The troupe is busy transporting the costumes, etc., from the moving van to the dining room auditorium as the above scene is played.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, sir, this nice empty room. The minute we looked at it we said it was ideal.  Didn't we?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{That's what we said.  Ideal.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{And then we'll have an audience to play to.  You see, sir, you need an audience on which to try out your new material.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Where are you going to get the audience?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Oh, what guests there are in the other hotels. They're pretty bored here without snow, and a New York show's kind of a novelty in Vermont.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I would think so.}
+<DIAL_PAR>__{(He thinks)}
+<DIAL>__{How will they know you're here?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Oh, word gets around.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir, and we also took the girls twice around the town for a little run.  They were stiff from the train. In their practice clothes.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Makes the blood circulate,}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Hers no dope)}
+<DIAL>__{Hmm.  Whose blood?}
+<CHAR>__{BOB AND PHIL} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Apparently there must be a lot about show business I don't understand.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{It'll come to you, sir.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{It just takes time.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{We wouldn't be any good as generals.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{You weren't any good as privates!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pointing to Bob)}
+<DIAL>__{He was an officer, sir.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Only to confuse the enemy.}
+<ACTION>__{He turns away and goes to his quarters.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - INT. INN FLOOR - (DAY) The company is rehearsing as Bob and Phil enter.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That's all for today, kids.}
+<ACTION>__{People break off what they were doing and begin to drift out. Bob and Phil have gone toward Betty and Judy.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Get a little rest before tonight's performance.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Judy)}
+<DIAL>__{I'll walk you over.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Phil!}
+<DIAL_PAR>__{(He takes a sheet of}
+<DIAL>__{music out of his}
+<DIAL_PAR>__{inside pocket)}
+<DIAL>__{Look this over, I want to try something.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Judy)}
+<DIAL>__{See you later.}
+<ACTION>__{The girls go.  Phil goes toward the piano, Bob goes toward Martha, who is on the phone, accepting reservations. FULL SHOT - ROOM Bob takes Martha by the arm and seats her in the middle of the room as an audience of one.  Phil looks up from the piano, puzzled. The sunset is visible through the window and there is a mood of quiet.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Guinea pig?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Nodding)}
+<DIAL>__{That's the idea. Want you to hear a song I just wrote.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{If it's a love song, don't get too close.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{It isn't.  Just tell me how you think the Old Man would feel about this one.}
+<ACTION>__{He leaves her and goes to the piano and they do WHAT CAN YOU DO WITH A GENERAL, solely for Martha. Toward the end of the song -- MED. CLOSE SHOT - GENERAL WAVERLY Unseen by the others he is standing by the door listening to the song. MED. SHOT - INT. ROOM The boys finish the number. Martha applauds and Bob bows.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Very moved)}
+<DIAL>__{I think it's just wonderful --}
+<ACTION>__{CLOSE SHOT - SUSAN - AT KITCHEN DOOR She is standing there, drying her eyes with her apron.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I think so, too.}
+<ACTION>__{CLOSE SHOT - WAVERLY - AT THE DOOR}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I'm afraid I disagree. The song is funny, but there is one thing wrong with it.}
+<CHAR>__{PHIL'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{What's that, sir?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{It's true.  I'd rather you didn't.}
+<ACTION>__{FULL SHOT - INT. INN FLOOR Bob and Phil exchange a quick glance.}
+<CHAR>__{BOB AND PHIL} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<ACTION>__{The General turns and exits toward the lobby, THE CAMERA PANS with him, a lonely figure walking through the lobby, the CAMERA STOPPING on a poster advertising tonight's performance.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - INT. INN FLOOR - (NIGHT) It is fairly-well filled.  Bob, Phil, Betty, Judy and the ensemble are performing a NUMBER which is a MINSTREL SHOW routine done to lyrics and music.  Bob and Phil are end men, Betty is interlocutor, and Judy is later introduced as Mandy. This takes Judy and Phil into a dance to the song MANDY. This entire number is done in white-face with stylized costumes and set. During the applause and bows, we CUT TO: MED. SHOT - WAVERLY TABLE Waverly, flanked by Susan and Martha, is at a large table. The other occupants are local hotel owners and their wives.}
+<CHAR>__{FIRST OWNER} <CHAR_PAR>__{}
+<DIAL>__{Great show, Waverly.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Thank you.}
+<CHAR>__{SECOND OWNER} <CHAR_PAR>__{}
+<DIAL>__{We needed something like this.  I had six checkouts, and when they heard about this they decided to stay.}
+<CHAR>__{FIRST OWNER} <CHAR_PAR>__{}
+<DIAL>__{Same here.}
+<DIAL_PAR>__{(Big smile)}
+<DIAL>__{Much obliged.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Glad to help.}
+<ACTION>__{Martha and Susan beam; all is well.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - INT. INN FLOOR - (NIGHT) It is empty and most of the lights are out.  At a considerable distance from CAMERA Martha extinguishes the last light, except for a small work light which is servicing Bob, who is fingering the piano keys and writing music notes, hard at work. FULL SHOT - GIRLS' BUNGALOW In the background we see the boys' bungalow. MED. SHOT - INT. GIRLS' BUNGALOW Betty and Judy are in twin beds, the light is coming in from the moon.  The girls are seen in profile.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Talkative)}
+<DIAL>__{The moon!   I can't get over the moon up here.  The size of it!}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(In a quiet mood)}
+<DIAL>__{Same one they have all over.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{They'll never prove it to me.  And everything smells so beautiful.}
+<DIAL_PAR>__{(She breathes)}
+<DIAL>__{What is it - pine or fir?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Small sniff)}
+<DIAL>__{We're near the bakery.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Friendly, not realizing the stab)}
+<DIAL>__{You know your trouble, Betty?  You're not romantic.}
+<ACTION>__{Betty turns and looks toward her.  Since Judy does not see her, Betty's expression is a true reflection of how she feels.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Everything's so wonderful here, so pretty, so exciting, I can't understand how you stay frozen up. Let yourself go, go, like me!}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Afraid to ask)}
+<DIAL>__{Which one is it?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{What do you mean?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Bob or Phil?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Neither.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{You mean both.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Smiling)}
+<DIAL>__{It's the same.  No one is going to break up our act.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Isn't there one you prefer over the other?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{The way Phil dances, and he's funny. It's easy to see yourself married to him.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(An effort)}
+<DIAL>__{And Bob?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{He's different, deeper, and he's funny, too.  It'd be nice to be married to both of them.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Good thing they're not a quartette.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Oblivious)}
+<DIAL>__{If I was Catherine the Great, that's what I'd do.  Phil in the daytime, Bob at night. Or should it be the other way around?}
+<ACTION>__{CLOSE SHOT - JUDY AND BETTY SHOOTING PAST Betty.  Is it possible our Betty has a suspicion of a tear?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Phil'd be more fun in a night club, but eventually a girl wants a pipe and slipper fellow.  That's Bob, smoking a pipe and petting a cocker spaniel.  Still, Phil could learn to smoke a pipe.  Breaking a fellow in to suit you is something every girl should go through.  I hear it's half the fun.  Which one do you like better?  Betty?}
+<DIAL_PAR>__{(No answer.)}
+<DIAL>__{Betty?}
+<DIAL_PAR>__{(Softer)}
+<DIAL>__{Are you asleep?}
+<DIAL_PAR>__{(No answer. Judy turns}
+<DIAL>__{over and closes her}
+<DIAL_PAR>__{eyes)}
+<ACTION>__{Music has underscored this scene.  Betty is wide awake. She is looking toward the window.  As the curtains billow outward we see a diffused figure of Bob, sitting on a fence, putting out his pipe.  This is followed by an equally diffused figure of Betty, leaving her bed, crossing the furniture, and joining Bob.  Bob takes her in his arms.  At this point we are brought back to reality by the wind slamming a shutter. This causes the diffusion to vanish, and Betty gets out of bed and puts on her robe.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{INT. INN KITCHEN - MED. SHOT - (NIGHT)}
+<ACTION>__{We PAN Betty to the refrigerator door, which she opens.}
+<CHAR>__{BOB'S VOICE} <CHAR_PAR>__{}
+<DIAL>__{Tuna fish, on the lower shelf.}
+<ACTION>__{Betty whirls around. MED. SHOT - BETTY AND BOB We see Bob is having a snack of his own.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Oh!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What are you doing?  Sleep-walking?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I couldn't sleep.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Little young for that, aren't you?}
+<ACTION>__{He gets up and goes to the refrigerator.  His preoccupation with the food will permit Betty's expression to be more obvious than her lines, which are spoken to tell the audience of her regard for Bob,  since their significance must escape him.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What shall I make you?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Anything'll do.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{If you tell me what you want to dream about I'll know what to make you.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Amused)}
+<DIAL>__{How's that?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Different foods make for different dreams.  I've got a whole theory about it.  It's called "The Wallace Way of Wishful Wooing."  You'll find it in the American Medical Journal under 'W'.  Ham and Swiss cheese, for instance, you get a cool, thin, blonde girl.  Turkey sandwich, you get a dark sort of stumpy girl, sexy though.  Now a liverwurst sandwich -}
+<DIAL_PAR>__{(He shakes his head)}
+<DIAL>__{you get both girls at once.  Bad night.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{What do you dream on tuna?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Darndest thing, I dream about me.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Evenly)}
+<DIAL>__{Then I'll have a tuna sandwich.}
+<ACTION>__{Bob doesn't get the significance of what she has said.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Now that's very flattering.  Tuna coming up.}
+<DIAL_PAR>__{(He is occupied at}
+<DIAL>__{the frigidaire while she watches him}
+<DIAL_PAR>__{yearningly)}
+<DIAL>__{Let me make you some warm milk. That'll help the insomnia.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Meaningly)}
+<DIAL>__{No it won't.}
+<DIAL_PAR>__{(Looking straight at his back)}
+<DIAL>__{Warm milk won't do it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Whatever you've got on your mind isn't worth staying awake for.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I think it is.}
+<ACTION>__{He smiles at her, oblivious to the meaning behind her lines.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Would you like to know how I handle a situation like that...?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Tell me, Doctor...}
+<ACTION>__{Bob begins to sing COUNT YOUR BLESSINGS, as he prepares the warm milk and hands it to her.  She drinks it down.  As he reaches the second chorus, he starts to dim the lamp on the table,  Betty, pretending to be sleepy, leans her head toward Bob. He takes a pillow from a nearby chair and puts it between her head and her chair.  She waits, eyes closed, expectantly. But Bob gets to his feet, and carefully tiptoes to the door and exits, closing it softly behind him.  After a moment, Betty snaps on the light, throws the pillow on the floor, and rests her chin in her hand, disappointed and wide awake.}
+<TRANS>__{FADE OUT: FADE IN:}
+<ACTION>__{LONG SHOT - INT. INN FLOOR - (DAY) Various members of the company are in rehearsal clothes and sitting around the room.  The orchestra is playing the introduction to Phil's number, which will employ a line of six girls who are just coming on the floor. Bob is on stage supervising the rehearsal.  Judy is standing across from the piano.  Betty is seated on the sidelines with her legs stretched over two chairs. She is knitting a loud colored argyle sock.  Phil, standing close by, has just finished rolling up a ball of yarn.  He looks at Betty's knitting, then at his feet.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Don't make them too tight.  I wear size 12.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{All right kids!  Places!  Let's get going! Phil, you're on!}
+<ACTION>__{Phil reacts. Bob crosses to his stage manager station, which is a desk and high chair, where Albert is seated, not far from his wife, Sylvia, who is sipping a glass of water.  Albert holds a stop watch and evidently helps in the administration.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Albert)}
+<DIAL>__{How long are we so far?}
+<CHAR>__{ALBERT} <CHAR_PAR>__{}
+<DIAL>__{An hour and ten minutes.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Something has to come out.}
+<ACTION>__{From his position, Phil, in a series of leaps and turns, reaches center floor and begins his solo. CLOSE SHOT - BETTY She continues knitting while watching Phil dancing. As Phil comes to a portion where he speeds up his steps she unconsciously speeds up her knitting, Bob has seen her, and he looks from her knitting and her look of admiration, which he mistakes for affection, and then looks from the socks to Phil's feet.  At the end of the number, which is applauded by the witnesses, Judy runs to Phil and hugs and kisses him, THE CAMERA STAYING at this distance. Bob, looking at Betty, mistakenly sees her disappointment.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{All right, places for the next number!}
+<DIAL_PAR>__{(He turns to Sylvia)}
+<DIAL>__{You're next, Sylvia.}
+<DIAL_PAR>__{(Sylvia and Albert}
+<DIAL>__{exchange peculiar glances,  Bob senses}
+<DIAL_PAR>__{it)}
+<DIAL>__{What's the trouble?}
+<CHAR>__{ALBERT} <CHAR_PAR>__{}
+<DIAL>__{Mr. Wallace -}
+<DIAL_PAR>__{(He is embarrassed to go on)}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Come on, out with it.}
+<CHAR>__{ALBERT} <CHAR_PAR>__{}
+<DIAL>__{I don't think Sylvia ought to go on, unless you cut out the high kicks and let her do some easy waltzes. Very easy waltzes.}
+<ACTION>__{Bob looks from one to the other and their smiling shyness indicates pregnancy.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You're kidding!}
+<CHAR>__{SYLVIA} <CHAR_PAR>__{}
+<DIAL>__{We don't want anyone else to know.}
+<CHAR>__{ALBERT} <CHAR_PAR>__{}
+<DIAL>__{Please don't mention it.}
+<DIAL_PAR>__{(The orchestra starts}
+<DIAL>__{to play ROCKABYE BABY.  Sylvia and}
+<DIAL_PAR>__{Albert are startled)}
+<DIAL>__{For heaven's sake!}
+<CHAR>__{SYLVIA} <CHAR_PAR>__{}
+<DIAL>__{How did they know?}
+<ACTION>__{The girls start crowding around.}
+<CHAR>__{GIRLS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Ad libbing)}
+<DIAL>__{You wouldn't tell us, would you?  We had to find out ourselves, etc.}
+<DIAL_PAR>__{(Phil and Judy are among the group)}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Formally)}
+<DIAL>__{There will be a celebration of the forthcoming event tonight after the show!}
+<DIAL_PAR>__{(Everyone approves)}
+<ACTION>__{MED. SHOT - BOB, PHIL AND ALBERT Phil puts his arm around Albert.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Obviously you're going to call the boy after me!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{After you?  I hired Sylvia!  The baby'll be named after me!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{I've been dancing with her!  That's more important!  The baby'll be named after me!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The hiring was more important!  After me!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{The dancing was more important! After me!}
+<CHAR>__{ALBERT} <CHAR_PAR>__{}
+<DIAL>__{I'm her husband.}
+<DIAL_PAR>__{(Small pause)}
+<DIAL>__{The baby'll be named after me.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, we're going to need another dancer!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{How about Judy, she knows all the routines, she could pick it up in no time.}
+<ACTION>__{They walk to the table where the coffee is, and the group now includes Betty.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{On the other hand, it's all right if we lose a number, we're running too long now.  We have to cut somewhere.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Wouldn't it be better if you cut my solo number?  I've never felt right in it anyway.}
+<DIAL_PAR>__{(Indicating Phil)}
+<DIAL>__{The show needs every bit of his dancing.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Interpreting this as}
+<DIAL>__{mere selflessness}
+<DIAL_PAR>__{for love)}
+<DIAL>__{Well -}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{There you are - painless.}
+<ACTION>__{She turns away rather abruptly, since she is becoming emotional.  Bob shakes his head, impressed with what he thinks is her devotion. MED. CLOSE TWO SHOT - BOB AND PHIL Bob dunks a doughnut into his coffee as he looks after Betty. He looks at Phil and shakes his head.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Greater love hath no woman than to give up a solo number.  Old Chinese saying.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(All this is beyond him)}
+<DIAL>__{What are you talking about?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Drink your coffee.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - WAVERLY QUARTERS - (NIGHT) This is the party later that evening.  Some people are dancing.  Others are grouped about, and there is a general home party atmosphere.  The General, Martha and Susan are seen helping everyone to feel at home. The CAMERA STARTS ON A LONG SHOT and DOLLIES THROUGH THE GROUP, passing Sylvia, where ad lib comments about the impending baby are sketchily HEARD.  The CAMERA CONTINUES toward the piano, where Bob and Betty are examining the music sheet of A MAN CHASES A GIRL. Betty looks up and the CAMERA FOLLOWS her look to Phil, who is dancing with Rita.  Rita nestles up close to Phil.  This is seen by Bob and Betty.  Bob smiles. CLOSE SHOT - PHIL AND RITA On closer view, we can see that Rita is the aggressor.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Referring to the grip)}
+<DIAL>__{Don't you want me to breathe?}
+<CHAR>__{RITA} <CHAR_PAR>__{}
+<DIAL>__{Not especially.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What's gotten into you?}
+<CHAR>__{RITA} <CHAR_PAR>__{}
+<DIAL>__{You were chasing me in Florida.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{And you were running.  What made you stop?}
+<CHAR>__{RITA} <CHAR_PAR>__{}
+<DIAL>__{You're interested in Judy, aren't you?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{That's it, eh?  Unless it belongs to someone else, a girl doesn't - Ouch!}
+<DIAL_PAR>__{(Evidently Rita has}
+<DIAL>__{deliberately stepped}
+<DIAL_PAR>__{on his instep)}
+<ACTION>__{SCENE FROM BOB'S VIEWPOINT Betty is walking over to the dancing couple and deliberately cuts in on Rita, who is displeased, but can do nothing but yield.  Bob's reaction still implies that this is understandable since Betty loves Phil.  He turns back toward the piano, and other couples are between him and Betty and Phil. Still at the same camera distance, we see Betty turning Phil over to Judy. CLOSE SHOT - PHIL AND JUDY Judy is a little cool.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What's the matter?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Nothing is the matter.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{This isn't the way you dance.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Some people dance closer than others.}
+<ACTION>__{Phil is delighted that she is jealous.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Yes, that's true.  I'm one of the close ones.  That's my type.}
+<ACTION>__{He holds her closely, by force, dancing, smiling and pleased with himself. MED. FULL SHOT - ROOM The dance music stops.  The people disperse. MED. CLOSE SHOT - AT PIANO Harry, the piano player, is playing the last half of A MAN CHASES A GIRL.  Bob and Betty are leaning over the piano, Bob humming the melody.  Betty pantomimes to the others to quiet down.  Bob starts to sing the lyric.  In the second chorus, he is joined in the singing by Betty.  During this chorus we CUT TO : show various reactions of the group, and end on Phil, sitting close to Judy, holding her hand. CLOSE TWO SHOT - PHIL AND JUDY We HEAR Bob and Betty, off scene, continuing to the end of the second chorus, on which Phil, sotto voce, sings the last four bars.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Singing; looking at Judy)}
+<DIAL>__{And once you've caught him, don't ever let him go.}
+<ACTION>__{APPLAUSE follows the song.  Phil gets up.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ladies and gentlemen, I would like to make an announcement.}
+<ACTION>__{FULL SHOT - CROWD Everyone quiets, waiting to hear the announcement.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{It is my pleasure to identify the man who has been doing the chasing. I am him! - Or he! - Or it!  Anyway, Judy has caught me.  What I'm trying to say is, we're engaged.}
+<ACTION>__{He looks fondly at Judy, taking it for granted she is overwhelmed at this method of announcing to her that he is going to marry her.  He hugs her amidst a general reaction of congratulations. MED. SHOT - BOB He is flabbergasted. MED. SHOT - GROUP Phil and Judy are separated by the congratulators. Betty, hiding her emotion, grips Phil's arm.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I hope you realize that you're getting he most wonderful girl in the world.}
+<ACTION>__{Bob sees her emotion through the speech.  Betty notices Judy upset, shaking off the people around her and running through the doorway to the kitchen. Betty makes her way through the crowd to follow her, as the orchestra goes into HER COMES THE BRIDE. MED. SHOT - INT. KITCHEN Judy is crying into her hands as Betty enters.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Darling, don't cry.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Turning to her)}
+<DIAL>__{I didn't know he was going to make that announcement, I swear I didn't.}
+<ACTION>__{Betty puts one arm around her.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I know you didn't.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{He had no right to do that.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{You do love him, don't you?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{That doesn't matter.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Nothing else matters.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We're not going to break up our act.}
+<ACTION>__{Phil enters the kitchen.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{I've been looking for you, Judy.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Excuse me.}
+<ACTION>__{She goes through the corridor toward the living room. MED. CLOSE SHOT - CORRIDOR OFF BUTLER'S PANTRY In the background we see the General in the butler's pantry getting some drinks for the guests.  He is not seen by Betty who stops at the mirror in the corridor to wipe away a few tears.  Bob comes into view in the mirror, entering the corridor from the living room.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Don't take this too much to heart. Phil is a great kid but constancy isn't his long suit.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'm not the least bit worried.}
+<DIAL_PAR>__{(Phil and Judy enter from the kitchen)}
+<DIAL>__{Frankly, this couldn't come at a better time.  They want me to come back to The Carousel again - I used to sing there before Judy and I teamed up - and I had to turn it down because they can only use a single.}
+<DIAL_PAR>__{(Not too well)}
+<DIAL>__{So - this couldn't be more convenient. You stay with the show and I'll go back to The Carousel.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{When did you get this offer?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Just today, as a matter of fact.  I got a telegram.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Why didn't you mention it before?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I didn't want to hurt your feelings.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Where is the telegram?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I threw it away.  What is this, a third degree?  You don't think I made it up?}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Yes, I do.}
+<ACTION>__{There is a pause, and Waverly, who has been watching each one, speaks.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Well now, I wouldn't bet any large sum of money on that, since I took the message over the telephone, and I had to deliver the telegram.}
+<DIAL_PAR>__{(To take the tension off)}
+<DIAL>__{And she didn't tip me, either.}
+<ACTION>__{Betty looks at him gratefully.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Oh, Betty!}
+<DIAL_PAR>__{(She throws her arms around her)}
+<DIAL>__{I'm sorry!  I misunderstood!}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Now, baby!  It's all right!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Well, everything's fine now!}
+<ACTION>__{Happy, he beams at Judy. MED. CLOSE SHOT - BOB AND WAVERLY Something bothers Bob about this story.  He looks searchingly at Betty, puzzled.  He does not notice Waverly, who watches him watching Betty.}
+<TRANS>__{SLOW DISSOLVE TO:}
+<ACTION>__{LONG SHOT - RAILROAD STATION - DAY Train about to leave.  The General is in the foreground sitting in the buggy.  Betty is saying goodbye to him. Bob and the porter are taking care of her luggage.}
+<CHAR>__{GENERAL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Shouting over noise of train)}
+<DIAL>__{Where are you going to be?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{The Carousel.}
+<ACTION>__{The General looks at her, questioningly.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Whispering, during a lull in the noise)}
+<DIAL>__{I sent them a telegram this morning.}
+<ACTION>__{The General smiles; Betty waves a farewell to him and crosses to the train, starting up the steps.  The notion behind this scene is to be able to hear only intermittent dialogue due to the whistle, bells, and escaping steam.  The manner of playing, though, indicates the sentiment.  To emphasize it: Bob is fonder of Betty than he realizes, and Betty fully realizes how fond she is of him but that he does not return, consciously, her affection.  We hear Betty:}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Take care of my little sister.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{She can take care of herself.  Worry about the menfolk.  Now don't forget to write.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'll send you picture postcards.}
+<ACTION>__{Not all of this is heard, since the sound effects pick their spots, but the attention is on the General, who is watching the scene with a whimsical look.  He, as does the audience, realizes Bob's true feelings.  As the train starts to leave, Betty and Bob shake hands.  She holds his handshake a little longer than necessary, and Bob is forced to move along with the train.  Finally she releases him, and Bob looks after the train, puzzled.}
+<ACTION_ALT>__{REVERSE ANGLE}
+<ACTION>__{THE CAMERA is now on the train platform, Bob out of sight. Betty wipes away a tear.  In the background we see the General in the buggy noticing this. MED. LONG SHOT - TRAIN IN DISTANCE Bob is in the foreground, the General in the background. Bob joins the General at the buggy.  From Waverly's expression we can see that he has decided on a plan of action.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Must be interesting to be a woman.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The idea's never occurred to me, sir.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Well, think about it.}
+<DIAL_PAR>__{(Bob is thinking about it)}
+<DIAL>__{Well?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Not interested!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{A man like you must be an expert on women.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{It's a little immodest to say so, but I consider myself an authority on the fair sex,  I've made a study of the subject.  They're simple creatures.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{They couldn't fool you?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm single.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{'Pride goeth before a fall.'}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{'Who knows his own strength is twice armed.'}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{It's always a pleasure to meet an expert in any field.  Tell me, why do you think Betty went to New York?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Not willing to admit it)}
+<DIAL>__{She has a job in The Carousel.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Expert, you're wrong!  She went to New York because she's so in love with someone here she just couldn't stand it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Phil.}
+<DIAL_PAR>__{(A mixture of}
+<DIAL>__{resentment and}
+<DIAL_PAR>__{frustration)}
+<DIAL>__{I'm darned if I can figure out why.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I thought you were an expert on women.}
+<DIAL_PAR>__{(To the horse)}
+<DIAL>__{Come on, Delilah!}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{CLOSE SHOT - CHRISTMAS TREE ANGEL - DAY THE CAMERA PANS DOWN from the ceiling and we see that THE INN is being decorated for Christmas Eve. Everybody is so engaged, except those actively helping Phil and Judy rehearse.  The attitude is slightly cool on Judy's part, but it is lover's coolness.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Fitting the action)}
+<DIAL>__{Good, Judy.}
+<DIAL_PAR>__{(During the dancing)}
+<DIAL>__{Now the same as the middle part.}
+<ACTION>__{They make a nice couple, with his arm around her waist, dancing as one. REVERSE ANGLE - BOB He enters the room, and watches.  He looks intently at Phil. Phil and Judy dance closer to Bob. They see him. They continue dancing, talking as they do.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Betty get off all right?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Slightly belligerent)}
+<DIAL>__{Certainly.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Betty left something for you.  She said to give it to you after she left.  It's on the piano.}
+<ACTION>__{Bob hears, nods, but keeps staring at Phil.  Phil becomes conscious of the staring.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{What's the matter?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I don't get it.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Don't get what?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I just don't see it.  You' re skinny, you got a big nose, and you squint.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Who?  Me?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Yes, you!  Nothing personal though.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{No, of course not.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm just trying to figure out what anyone sees in you.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Well, stop worrying about it.  When I ask you for a date just turn me down.  Come on, Judy.}
+<ACTION>__{They dance away.  Bob crosses to the piano and picks up the package Betty left for him.  He opens it up and it is a single knitted sock, the one she knitted on previously.  He looks through the box for its mate. There is none.  The CAMERA MOVES CLOSER to Bob, puzzled.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{CLOSE SHOT - BLACKBOARD - (DAY) Painted at the top is the legend:}
+<ACTION_ALT>__{WEATHER FORECAST}
+<ACTION>__{At the moment a hand is completing, in chalk: "No Snow" After a moment, the hand returns and draws two lines through the "S" so that it now reads, "No $now".  CAMERA PULLS BACK to reveal we are on:}
+<LOC>__{EXT. PINE TREE POST OFFICE - FULL SHOT}
+<ACTION>__{Bob comes out of the Post Office and mounts a bicycle. He cycles down the street, whistling A MAN CHASES A GIRL.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{SECTION OF VILLAGE - HORSESHOE PITCHING GROUNDS - MED. SHOT - (DAY) There is a group of elderly men, among them the hotel owners, pitching horseshoes. Waverly is sitting on a bench, ruefully looking at the sign.}
+<CHAR>__{FIRST HOTEL OWNER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Starting a new game)}
+<DIAL>__{How about it, Waverly, want to play?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looking at him a moment)}
+<DIAL>__{I'm too young for that sort of thing.}
+<ACTION>__{First Owner laughs goodnaturedly and continues playing. Bob rides into the scene and dismounts. MED. SHOT - BOB AND WAVERLY Bob sits into the shot.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Kind of warm for that kind of exercise, isn't it?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Trying to help)}
+<DIAL>__{It isn't very warm.}
+<DIAL_PAR>__{(He looks to the sky)}
+<DIAL>__{I think the weatherman's wrong about his forecast.  Those look like snow clouds to me.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Without looking up)}
+<DIAL>__{They're cumulus clouds, at an elevation of seven thousand feet.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<DIAL_PAR>__{(Still trying)}
+<DIAL>__{Still, weather's a funny thing. It could snow - overnight.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(He thinks a moment)}
+<DIAL>__{I'll tell you something I haven't told my family.  I'm going back in the Army.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Really, sir? That's great news!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Yes.  I miss the Army.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Where are you going to be sent, sir?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Well, I'm not sure yet.  I've always been a combat officer, but I got an idea they're going to try and palm off one of the training commands on me.  They'd better not.  They just better not.}
+<DIAL_PAR>__{(He's worked up now)}
+<DIAL>__{I'm not ready for pitching horseshoes yet.}
+<DIAL_PAR>__{(He smiles)}
+<DIAL>__{Now nothing to the women folk about this!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{No, sir.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Let's mosey over to the post office, I'm expecting a letter any day.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Remembering)}
+<DIAL>__{Oh, I beg your pardon, sir.}
+<DIAL_PAR>__{(He pulls the letter out of his pocket)}
+<DIAL>__{That's what I came over to give you, it slipped my mind.}
+<ACTION>__{The General takes the letter, he looks at it front and back.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Solemn)}
+<DIAL>__{This is the one.}
+<DIAL_PAR>__{(He opens it,  He}
+<DIAL>__{squints.  He looks}
+<DIAL_PAR>__{to Bob)}
+<DIAL>__{My glasses are in my room.  I'd like to read it by myself, but I'm a little anxious.}
+<DIAL_PAR>__{(He smiles at his own predicament)}
+<DIAL>__{Read it, son.  Slowly.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Reading)}
+<DIAL>__{Dear Tom: Why, you dirty, old -}
+<DIAL_PAR>__{(He stops)}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Pleased)}
+<DIAL>__{Skip that word.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir.}
+<DIAL_PAR>__{(Continuing)}
+<DIAL>__{It certainly was a surprise hearing from you.  Your amusing letter was appreciated more than you imagine. Of course you've got plenty of time to be amusing, sitting on that porch, rocking away, while we put in a full day's work.  You always were a lucky stiff, and I envy you.  A few years more, I was saying to Emmy the other evening, and I'm going to be able to take it easy like old Tom.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Just repeats)}
+<DIAL>__{Old Tom.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Oh, well, some people have all the luck.  Everyone in the family is fine here.  Carol had the mumps, which is no joke at eleven years of age -}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{The rest of the letter is about the family.}
+<DIAL_PAR>__{(Bob looks at him,}
+<DIAL>__{and then glances at the rest to see if}
+<DIAL_PAR>__{it is so)}
+<DIAL>__{He's telling me they have nothing for me, we're not fooling each other.}
+<DIAL_PAR>__{(He holds has hand out)}
+<DIAL>__{Thank you.}
+<DIAL_PAR>__{(Bob gives him his}
+<DIAL>__{letter.  There is a pause.  An attempt}
+<DIAL_PAR>__{at being light)}
+<DIAL>__{Say, it couldn't be hard to learn to pitch horseshoes.  Now could it?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Trapped, unhappy for him)}
+<DIAL>__{No sir.}
+<DIAL_PAR>__{(His nerve up)}
+<DIAL>__{Begging your pardon, sir, there's a lot to be said for leisure.  You're not used to it, you've always been active, but in time -}
+<ACTION>__{He stops, seeing Waverly's expression.  Waverly winks at him.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Quietly)}
+<DIAL>__{Never kid a kidder.  Go on back to the hotel.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Yes sir.}
+<ACTION>__{Waverly gets up to join the horseshoe players after all. Bob watches this reflectively as we}
+<TRANS>__{FADE OUT: FADE IN:}
+<ACTION>__{MED. SHOT - (DAY) - INT. HOTEL ROOM - BOB AND PHIL Bob is packing his valise, Phil helping him.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Judy thinks my eyes are soulful.  Do you think my eyes are soulful?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{One of them is.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{You have no poetry in you.  It's about time you went in for girls, too.  After all, you haven't many years left for that sort of thing.}
+<ACTION>__{Bob, his back turned to Phil, comes across the sock Betty knitted for him; he hastily shoves it into the bottom of has bag.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Over above)}
+<DIAL>__{I'm the quiet type.  Little do you know what's aged me.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Wheels within wheels, eh?  Well, live it up, Pops.  Eat, drink and be merry -- is that why you're leaving for New York?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I told you what I'm seein' Ed Harrison about.  That's all.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Business, business.  Glad to be rid of you.  You're not in the girly mood.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Easily annoyed at the moment)}
+<DIAL>__{What do you know about girls?  You wouldn't know what to do with a girl if she fell on you!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Well, I'd know enough not to get up.}
+<ACTION>__{There is a KNOCK at the door and Martha sticks her head in.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Mr. Wallace -- gonna miss your train!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{For her I'd get up.}
+<ACTION>__{As Bob slams his suitcase shut,}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{114A. EXT. CAROUSEL CLUB - MED. CLOSE - (DAY)}
+<ACTION>__{A poster outside advertises the appearance of Betty Stewart. MUSIC is heard emanating from the club.}
+<TRANS>__{DISSOLVE THROUGH TO:}
+<LOC>__{INT. CAROUSEL CLUB - MED. SHOT - (DAY)}
+<ACTION>__{A rehearsal is in progress in the deserted club.  The chairs are up on the tables, musicians in their shirt sleeves, as Betty SINGS a chorus of LOVE, YOU DIDN'T DO RIGHT BY ME.  As she finishes, the orchestra LEADER turns to her.}
+<CHAR>__{LEADER} <CHAR_PAR>__{}
+<DIAL>__{Betty - You really live that number.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{The story of my life.}
+<CHAR>__{LEADER} <CHAR_PAR>__{}
+<DIAL>__{Shall we try it over again?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Meaningly)}
+<DIAL>__{I wish I could.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{INT. CAROUSEL CLUB - MED. SHOT - (NIGHT)}
+<ACTION>__{It is alive with customers; couples are dancing on the floor, as a number ends.  Bob enters, and is conducted to a ringside table by a maitre d'.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm expecting Ed Harrison.}
+<CHAR>__{MAITRE D'} <CHAR_PAR>__{}
+<DIAL>__{Very well, Mr. Wallace.}
+<LOC>__{116A.}
+<ACTION>__{STAGE - MED. CLOSE Betty is standing at the microphone ready to sing. She sees Bob.  The Leader raises his baton.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Stopping him, sotto)}
+<DIAL>__{Let's not do the new number.}
+<CHAR>__{LEADER} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Play "Blue Skies" -- anything.}
+<CHAR>__{LEADER} <CHAR_PAR>__{}
+<DIAL>__{Relax.  Just do it the way you sang it this afternoon -- you'll be great.}
+<ACTION>__{He gives the downbeat, and Betty has no choice but to sing LOVE, YOU DIDN'T DO RIGHT BY ME.  She is assisted in the second chorus by a vocal group. CLUB - MED. SHOT as Bob watches her.  When she finishes the number, Betty steps down from the platform and joins Bob.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(As Bob holds the chair)}
+<DIAL>__{Well, surprise.  What brought you to the big city?  And don't say 'a train.'}
+<DIAL_PAR>__{(Forced gaiety, hiding her tension)}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I never heard you sing that well. That's a good number for you.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Her own significance)}
+<DIAL>__{Some numbers suit you better than others.  What are you doing here?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Business, business.  Meeting a fellow here.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Judy all right?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{She's fine.  Couldn't be better.}
+<DIAL_PAR>__{(Carefully)}
+<DIAL>__{Playing footsie with Phil.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{That's nice.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I think they like each other.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I do, too.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Eyeing her)}
+<DIAL>__{They're kind of suited, in a lot of ways.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Some people are.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Thanks for the knitted sock.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Don't mention it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I thought it was for Phil.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Evenly)}
+<DIAL>__{If the sock fits, wear it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Unsure of her meaning)}
+<DIAL>__{It started out for Phil.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{It just started out as a sock.}
+<ACTION>__{Every line of the sock exchange should have the meaning of the love implications.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You're a very odd girl.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{You're a very odd fellow.}
+<ACTION>__{Bob is close to declaring himself, if he was only sure of his ground.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Two feet, one sock.  I must be.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'll get around to the other one, eventually.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You mean to do any knitting in the near future?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{The feeling comes and goes.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Think if the model hung around for a while... the feeling might be more permanent?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Maybe.}
+<ACTION>__{Bob leans over and takes her hand.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What's this maybe, shmaybe, comes and goes?  Friends tell me I don't have many years left for this sort of thing...  I ought to know right now if --}
+<ACTION>__{He is interrupted by ED HARRISON, who has been brought to the table by the maitre d'.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{Bob!  How are you?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Hiya, Ed.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(He knows Betty)}
+<DIAL>__{Betty.}
+<ACTION>__{She nods, as Ed sits down.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{Now what's this big deal you wanted to discuss?  I shouldn't even talk to you after canceling out on my show.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Carefully)}
+<DIAL>__{Ed, I saw the old man.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{Waverly?  Where, in the Pentagon?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Pentagon, nothing.  He owns a little hotel in a winter resort in Vermont.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{Our old man?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Nobody even knows who he is.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{He's too proud to let them know he's General Waverly.}
+<ACTION>__{Ed looks at her, surprised.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob, indicating Betty)}
+<DIAL>__{Was she in our outfit, too?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Vermont branch.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{What are we going to do about it? You got a flash?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{A glimmer.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{Got to stir it around a little?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{All stirred.  Remember how Old Flintbottom always used to find a way to keep our morale up... without telling us?  It's about time we returned the favor.  Let's surprise him with a real big bang-up reunion.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{Now you're talking!  How do we spread the word?}
+<ACTION>__{Bob takes a piece of paper out of his inside pocket and hands it to Ed.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You're gonna read this little speech on your television show.  People look at it, don't they?}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Scanning the paper)}
+<DIAL>__{Now's as good a time as any to find out.}
+<ACTION>__{As he continues to read the piece of paper, we}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. CLOSE SHOT -  INT. COLUMBIA INN LOBBY - PHIL IN PHONE BOOTH - (NIGHT) Phil is excited.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Bob, just leave it to me!  He won't get near a set if I have to break a leg... Goodbye, Bob!}
+<ACTION>__{He opens the door of the booth and hurries across the lobby toward Susan, who is at the desk, and BANGS on the bell, which is on the counter.  Martha comes running from the kitchen.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Excitedly)}
+<DIAL>__{Now everybody pay close attention.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. CLOSE SHOT - INT. TELEVISION STATION - (NIGHT) Ed is about to go on the air.  Bob is opposite him, out of camera range,  The technical crew are watching the hand of the dial approaching 60.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{I hope Phil has been able to keep the old man away from a television set.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{He has.  In anything involving something crooked he's dependable.}
+<ACTION>__{MED. CLOSE SHOT - INT. LOBBY COLUMBIA INN Seated around the television set are Waverly, Martha and Susan.  Martha and Susan look at their watches and each other, nervously.  Waverly also looks at his watch.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Ed Harrison will be on in a half minute.  I like him.  I never miss him.}
+<ACTION>__{The women are becoming very nervous.  Suddenly we HEAR off scene the most tremendous clatter dorm the stairway and Phil's shouting.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ow!  Ow!  Ow!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Jumping up)}
+<DIAL>__{What's that?}
+<ACTION>__{He runs toward the stairs.  Martha and Susan breathe a sigh of relief and follow Waverly. MED. CLOSE SHOT - STAIRS Waverly runs to the tangled Phil.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{My leg is broken!  Ow, ow!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Take it easy, boy.}
+<DIAL_PAR>__{(He starts feeling his leg)}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ow! Ow! It's broken!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{No it isn't!  You may have a bad sprain, but no bones are busted!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{It's broken, sir.  I can feel it.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Let me help you.}
+<ACTION>__{MED. CLOSE SHOT - INT. TELEVISION STATION The technician indicates for Ed Harrison to start as the second hand hits straight up.}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{I would like to address all former officers, enlisted men, Wacs and nurses who were under the command of General Tom Waverly --}
+<ACTION>__{MED. SHOT - INT. COLUMBIA INN OUTSIDE WAVERLY'S OFFICE Waverly and Martha are helping Phil through the door.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Ow!  Ow! It's broken in two or three places!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{That's just the impression you have! I tell you it's only shock!}
+<ACTION>__{THE CAMERA FOLLOWS THEM into the office as they lay him out on the couch.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Laying him out)}
+<DIAL>__{Take it easy, boy!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Don't leave me!  Everything is going round and round!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Nobody's leaving you!  Martha, get me a cold towel!}
+<ACTION>__{MED. CLOSE SHOT - INT. TELEVISION STATION}
+<CHAR>__{ED} <CHAR_PAR>__{}
+<DIAL>__{The objective is Pine Tree, Vermont --- Synchronize watches for Operation Waverly...}
+<ACTION>__{MED. SHOT - INT. OFFICE Phil has his eyes closed.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Things still going around?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Now they're going sideways!}
+<ACTION>__{Waverly takes the wet towel from Martha.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Now they're going in and out!}
+<ACTION>__{Waverly slaps the towel on his face.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{This'll bring him out of it.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Sitting up)}
+<DIAL>__{Where am I?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{He's all right.}
+<ACTION>__{Judy bursts into the room.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Phil, what's happened to you?}
+<ACTION>__{Phil assumes a pain-stricken face again and Judy throws her arms around him.  Phil smiles over her shoulder at Waverly.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - NIGHT - COUNTRY ROAD Silhouette of busses, Station in background, if desirable. MED. FULL SHOT - FORK IN ROAD Two men, with M.P. armbands, slow up the busses.  One is revealed to be Phil.}
+<CHAR>__{FIRST M.P.} <CHAR_PAR>__{}
+<DIAL>__{All quiet, folks!  Entering the town!}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{The Old Man's asleep!  Let's keep him that way!}
+<ACTION>__{The busses move on.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - NIGHT - INT. LOBBY Bob and Betty tiptoe through the entrance to the inn.  In the semidarkness of the lobby we hear a "sst - ", and Susan and Martha are revealed having been waiting for them.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{We've been waiting for you.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{How is everything going?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Just fine.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{They are bedded down in all the hotels.}
+<ACTION>__{Martha blows her nose.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{His old outfit... If I wasn't such a mean old biddy, I'd probably break right down and cry.}
+<DIAL_PAR>__{(She cries)}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{There's nothing to cry about, is there?}
+<ACTION>__{He looks to Susan and she begins to bawl.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Through the crying)}
+<DIAL>__{Thank you so much.}
+<ACTION>__{Bob looks to Betty for support.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Can't you do something?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{They're just affected by the gesture.}
+<ACTION>__{She can't hold it back either, and now the three women are crying.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That's fine.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Through her tears)}
+<DIAL>__{Where are Judy and Phil?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Probably in their rooms, crying.}
+<ACTION>__{They start out.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - EXT. BUNGALOW - NIGHT As Bob and Betty turn around the corner, they see Phil and Judy, locked in an embrace.  Bob has been in front, but he steps back quickly, not wanting to embarrass the lovers.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Who is it?  General Waverly?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The lovers.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To Bob)}
+<DIAL>__{We can't just stand here.  We have to get some sleep.}
+<ACTION>__{She walks into sight, Bob following.  Phil and Judy break, embarrassed.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{We were rehearsing for the show tomorrow night.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Is it going to be that kind of a show?  We'll be raided!}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{What are you doing here?  What happened at The Carousel?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{I'm helping out here tomorrow.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Hi, Bob. Everything's under control.}
+<DIAL_PAR>__{(Fluster)}
+<DIAL>__{I mean with the show. We've got a lot of new material.  You both are going to have to do a lot of rehearsing.}
+<DIAL_PAR>__{(Flustered again)}
+<DIAL>__{I mean the other kind of rehearsing - I mean - rehearsing  Well, good night, Judy.}
+<ACTION>__{And he holds his hand out, and they shake hands, still flustered.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Good night, Phil.  Good night, Bob.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To both)}
+<DIAL>__{Good night.}
+<ACTION>__{Flustered, the boys open the door to the girls' bungalow, thinking it is their own.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Let's get out of here before the gossip starts.}
+<ACTION>__{They all laugh.  The girls enter their bungalow and put on the light.  The boys head toward their bungalow.  Phil enters in a gay mood.  Bob stops at the door, turns around and looks toward the window of the girls' bungalow.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{MED. SHOT - INT. GIRLS' BUNGALOW - NIGHT Judy is getting into bed.  Betty, in her dressing gown, is looking out of the window toward the boys' bungalow.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Bob is still pacing up and down on the porch... I think I'll go out and see what's bothering him.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{That's how I started in Canton, Ohio.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{This is Vermont.  Nothing can happen here.}
+<CHAR>__{JUDY} <CHAR_PAR>__{}
+<DIAL>__{Keep your guard up... That ain't Coolidge out on that porch.}
+<ACTION>__{Betty throws her a look, and exits.}
+<LOC>__{EXT. BOYS' BUNGALOW - MED SHOT}
+<ACTION>__{Bob stands on the porch, in robe and slippers, thoughtfully puffing at his pipe. Betty comes into scene.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{What are you doing?  Sleep walking?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Turning)}
+<DIAL>__{Couldn't sleep.}
+<ACTION>__{Betty comes up on the porch.}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Whatever you've got on your mind isn't worth staying awake for.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Where have I heard that?}
+<CHAR>__{BETTY} <CHAR_PAR>__{}
+<DIAL>__{Tell you how I handle a situation like this, Doctor.}
+<ACTION>__{She starts to sing, COUNT YOUR BLESSINGS.  At the conclusion, she walks away, leaving him standing there.}
+<TRANS>__{FADE OUT: FADE IN:}
+<ACTION>__{CLOSE SHOT - ARCHED SIGN IN FRONT OF INN - (NIGHT) This sign announces the show opening.  People are streaming into the inn. MED. SHOT - INT. WAVERLY'S QUARTERS The General is in his dressing gown, furious. Martha and Susan are playing a part.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{How could you send all my suits to the cleaners?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{You've only got two.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Why can't you wear your uniform?}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I won't appear in uniform!}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Please, Gramp.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{Absolutely not!}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Very well.  I'll explain to Bob and Phil that you didn't care to come to the show tonight.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{I'll have you court-martialed!}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{You don't mind being ungrateful, you just don't like being told you are!}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Follows it up)}
+<DIAL>__{If you think you don't owe them anything, you're not obliged to go.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{They haven't done much for you. Hardly anything.  You do what you think is right!}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Angrily)}
+<DIAL>__{Martha, I'll make my own decisions! I got along very well in the army without you!}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{It took 15,000 men to take my place!}
+<ACTION>__{She stalks out.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{FULL SHOT - INN FLOOR - (NIGHT) It is slowly filling up.  One of the guiding officials turns out to be the Sheriff we have previously seen.}
+<CHAR>__{PETE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Seating a party)}
+<DIAL>__{Right this way.}
+<ACTION>__{MED. SHOT - INT. MAKESHIFT DRESSING ROOM - BOB AND PHIL They are getting into their old uniforms, which are slightly misfit.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(At the trousers)}
+<DIAL>__{This thing's shrunk.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Looking at the bulge)}
+<DIAL>__{Pants always shrink in closets.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I can't breathe in this.  What am I going to do?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{I know what I'm going to do.}
+<DIAL_PAR>__{(Showing him)}
+<DIAL>__{I'm going to take one big deep breath, and that's going to be it for the next three hours.}
+<ACTION>__{Bob takes a deep breath and gets the top button buttoned. MED. SHOT - LOBBY STAIRWAY - (NIGHT) General Waverly comes down the stairs, cutting quite a figure in his uniform and decorations.  Martha and Susan, waiting for him at the bottom, look him over, admiringly.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Gruffly)}
+<DIAL>__{Well, I couldn't come down in my bathrobe.}
+<ACTION>__{FULL SHOT - INN FLOOR The spotlight prepared, pinpoints the General as he enters the room, and the music starts.  The audience rises and applauds.  He can't believe it.  He reaches his table, decorated with flowers, and recognizes he is the guest of honor.  From the lobby we hear the outfit SINGING the opening strains of THE OLD MAN. All eyes turn to the lobby entrance, through which the old outfit marches, and continues to the stage, and then back to their respective tables as the song finishes. MED. SHOT - WAVERLY He is profoundly moved and walks to the stage.  The audience is seated.  Waverly looks at the assembled crowd with great affection.  The people begin to shout, "Speech!  Speech!" Martha and Susan sit. The crowd quiets, waiting for the speech.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(He must have had a}
+<DIAL>__{blood transfusion from a sergeant at}
+<DIAL_PAR>__{some time)}
+<DIAL>__{I am not satisfied with the conduct of this division!  Some of you men are under the impression that having been at Anzio entitles you not to wear neckties!  You are wrong! Neckties will be worn in this area! I have also noticed a deterioration in the quality of saluting!  This is to be improved!  I have also had complaints from the commanding officer of the rest area in Naples!  He informs me that the non-fraternization rule is constantly being broken by men of this division!  In fact, this division is outstanding in its violations of non-fraternization! You all know the rules!  The non- fraternization ban expressly declares you are not to talk to women!}
+<DIAL_PAR>__{(A slightly different tone)}
+<DIAL>__{Don't talk to them!  That is all!}
+<ACTION>__{They howl and cheer.  He makes has way toward his own table, greeting old friends on the way. MED. CLOSE SHOT - BOB AND PHIL As they step to the front of the stage.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(To the audience)}
+<DIAL>__{Doesn't that bring back memories? Remember those terrible, trying days in Italy... when we had to beat the women off with chocolate bars?}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{And wasn't it awful the way they kept bothering us for American cigarettes?  Why, I must have taught fifty girls how to smoke...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{For a month's pay all we got was 950 million lira...}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Nine hundred and fifty two...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I was forced to hire a caddy for my loose change.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Fore...!}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm glad I'm well out of it.}
+<ACTION>__{Phil looks at him.}
+<CHAR>__{PHIL} <CHAR_PAR>__{}
+<DIAL>__{Who are we kidding?}
+<ACTION>__{This is the cue for the orchestra to start the production number, I WISH I WAS BACK IN THE ARMY.  At end of number - AUDIENCE - FULL SHOT As they applaud and cheer.  The old outfit is happy. In the exultation, General Waverly places two fingers to his lips and blows a whistle of sheer pleasure and approval.  We underscore with MUSIC indicating another number is taking place on stage, although we do not see it. SECTION OF AUDIENCE - MED. CLOSE Ed Harrison crosses to General Waverly and whispers to him.}
+<CHAR>__{ED HARRISON} <CHAR_PAR>__{}
+<DIAL>__{Long distance call for you, sir.}
+<ACTION>__{Waverly looks surprised, but rises and starts out. Bob, visible in b.g., has been watching.  He and Harrison exchange knowing glances. AT HOTEL DESK - MED. SHOT The lobby is empty;  in b.g. are the doors to the dining room, where the show is in progress.  The telephone lies on the counter.  Waverly enters and crosses to it.  He is a little annoyed at being forced to leave the entertainment.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Into phone, gruffly)}
+<DIAL>__{Hurry up, hurry up, I'm busy. Yes, this is General Waverly.}
+<ACTION>__{He suddenly snaps to attention, the old soldier.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Quietly)}
+<DIAL>__{And a Merry Christmas to you, Mr. President... Yes, practically the whole outfit is here.  A little paunchy, but they're here.  It certainly was a surprise -- more like a frameup.  As usual, my Intelligence was not functioning efficiently... Yes?}
+<DIAL_PAR>__{(Long pause)}
+<DIAL>__{That's very nice of you, Mr. President... any time you want me, just say the word... but may I add this?  It isn't always necessary to take a job... sometimes it's enough just to know it's there.}
+<ACTION>__{Through the window behind the General we have seen it begin to SNOW.  The General notices it for the first time, and his face brightens.}
+<CHAR>__{WAVERLY} <CHAR_PAR>__{}
+<DIAL>__{If you ever take it into your mind to grab a little rest from all that work I wish you'd drop in on us here -- I can't promise you any golf but --}
+<DIAL_PAR>__{(As he looks at the falling snow)}
+<DIAL>__{-- we can certainly give you plenty of snow, Mr, President... Yes, Mr. President... What?}
+<DIAL_PAR>__{(Smiles)}
+<DIAL>__{Thanks, Ike.}
+<ACTION>__{He hangs up the phone, and proudly, head erect, he walks through the lobby, smiling, eyes wet.  He lifts the bell on the desk with a loud bang.  Martha hurries in, startled.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{You frightened me to death!  That bell hasn't been used for three months!}
+<CHAR>__{GENERAL} <CHAR_PAR>__{}
+<DIAL>__{Get this area policed up.  No telling who might be dropping in.}
+<ACTION>__{Martha salutes.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Yes, sir!}
+<ACTION>__{She and the General gaze at the snow falling beyond the lobby door which is blown open by the wind. Underneath all this we have been hearing the introductory music to WHITE CHRISTMAS, which is the number now in progress on the stage.  Waverly now turns and walks into the dining room.}
+<LOC>__{INT. DINING ROOM - MOVING CAMERA}
+<ACTION>__{CAMERA FOLLOWS Waverly on his entrance.  As he passes Susan, we see she is reacting to something on the stage. CAMERA PASSES Waverly and moves to: STAGE - FULL SHOT - MOVING CAMERA Center stage, there is a large cutout of a decorated Christmas tree.  Also, there is considerable Christmas holly, mistletoe, etc.  Bob and Betty are seen singing.  Throughout action of this number Phil and Judy dance.  In addition there is staged movement by the ensemble.  Bob and Betty are on each side of the cutout Christmas tree, but it is obvious that Betty is preoccupied with some stage business which she is manipulating with one hand behind the cutout tree. CAMERA FOLLOWS Bob and Betty as their movement takes them behind the tree.  It is now that we see very clearly that the rear wall of the stage (two immense barn doors) has opened; in b.g. we see the Vermont countryside being covered by the falling snow.  Also, we see pine trees in the snow that are decorated. Betty steers Bob to a point directly beneath a sprig of mistletoe from which is also hanging the mate to the sock she gave him in scene 110.  Bob looks up, sees the mistletoe and the sock, and smiles at Betty. She lifts one of his trouser legs and we see that he is wearing the other sock.  They laugh and embrace. REVERSE SHOT - FROM DINING ROOM The cutout tree onstage rises to the flies and now the real trees and falling snow in b.g. are completely visible.  One by one, the trees are lighted. AUDIENCE - MED. CLOSE Martha and Susan are standing happily beside the General, each holding one of his arms.}
+<LOC>__{EXT. VERMONT TOWN - EXTREME HIGH SHOT - (MINIATURE)}
+<ACTION>__{A church bell is framed in the foreground, and, far in the distance, we see the town and the Inn and the snow as we}
+<TRANS>__{FADE OUT:}
+<CHAR>__{THE END} <CHAR_PAR>__{}

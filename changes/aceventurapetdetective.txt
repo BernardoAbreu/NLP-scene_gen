@@ -1,0 +1,2150 @@
+<LOC>__{EXT. STREET - DAY}
+<ACTION>__{A UPS Man with a big pot belly is walking down the street, whistling and carelessly tossing a package in the air. We hear the sound of broken glass in the box. He passes a professional woman.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{Good morning, UPS!}
+<ACTION>__{He tosses the box behind his back like a basketball, then acknowledges another passerby.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{UPS, good to see you!}
+<ACTION>__{He takes a couple of steps, then flings the package incredibly high into the air, spins completely around and expertly drops to one knee and catches the box. A Hispanic man passes.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{Buenos dias. Uo Pay eSsay.}
+<LOC>__{EXT. APARTMENT BUILDING - DAY}
+<ACTION>__{The UPS Man dodges a couple of black kids as though playing basketball. He runs up the front steps of the building. He reaches out to open the front door and inadvertently flings the package behind him and back down the steps. He goes back, retrieves the package, then enters the building.}
+<LOC>__{INT. LOBBY - DAY}
+<ACTION>__{Several people stand in the elevator. The UPS Man just makes it, but the door closes on the package... REPEATEDLY. He feigns embarrassment.}
+<LOC>__{INT. 3RD FLOOR - DAY}
+<ACTION>__{ELEVATOR DOORS OPEN. The UPS Man throws the package out onto the floor and starts kicking it down the hall like a soccer player. With one last big kick the parcel lands in front of APARTMENT 3B. He picks it up and knocks on the door. We hear a small dog barking.}
+<CHAR>__{GRUFF MAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Shut the hell up, you stupid mutt!}
+<ACTION>__{An angry, burly man pokes his nose hairs out the chained door.}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL>__{What do you want?}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{UPS, sir. And how are you this afternoon? Alrighty then!}
+<ACTION>__{The man grumpily unchains the door. He's a big guy - 6'5", 250, and 50 of that is chest hair. A small Shiatsu stands beside him.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{I have a package for you.}
+<ACTION>__{The UPS guy thrusts the package toward the man. We can clearly hear broken glass inside. The man takes the package.}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL>__{It sounds broken.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{Most likely sir! I bet it was something nice though! Now... I haver an insurance form. If you'll just sign here, here, and here, and initial here, and print your name here, we'll get the rest of the forms out to you as soon as we can.}
+<ACTION>__{The man begrudgingly begins to fill out the form. The dog wags his tail and whines. We can see that he likes the UPS guy.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{That's a lovely dog you have. Do you mind if I pet him, sir?}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mumbles)}
+<DIAL>__{I don't give a rat's ass.}
+<ACTION>__{The UPS Man bends down and talks to the dog in a really sucky pet talk.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{Oo ja boo ba da boo boo do booo!}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(under breath)}
+<DIAL>__{Brother.}
+<ACTION>__{Before the Gruff Man can finish, the UPS Man stands back up and takes the form again.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL>__{That's fine sir. I can fill out the rest. You just have yourself a good day. Take care, now! 'Bye}
+<ACTION>__{'bye, then!}
+<ACTION_ALT>__{THRASH MUSIC STARTS}
+<LOC>__{INT. HALLWAY -- CONT'D}
+<ACTION>__{The UPS Man moves swiftly down the hall and into the stair well.}
+<LOC>__{INT. APARTMENT 3B - CONT'D}
+<ACTION>__{The Gruff Man shakes the box, tosses it down and sits in front of the TV.}
+<LOC>__{EXT. APARTMENT BUILDING - CONT'D}
+<ACTION>__{The UPS Man bursts from the front door and hustles down the street very quickly. He passes several people.}
+<CHAR>__{UPS MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quickly)}
+<DIAL>__{UPS, S'cuse me. UPS, comin' through.}
+<LOC>__{INT. APARTMENT 3B - CONT'D}
+<ACTION>__{We see the back of the Shiatsu staring at the crack in the front door. He has not moved an inch. The Gruff Man looks over.}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL>__{Hey, stupid! Get away from the door!}
+<ACTION>__{The dog doesn't budge and this really pisses him off. He gets up and heads for the dog.}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL>__{What's the matter with you, I said GIT!!!}
+<ACTION>__{He roughly picks the dog up by the scruff of the neck, but as he turns it around we see that it is a stuffed dog. Around it's neck is a business card that reads, "You have been had by Ace Ventura - Pet Detective." He breathes fire.}
+<CHAR>__{GRUFF MAN} <CHAR_PAR>__{}
+<DIAL>__{Son of a bitch!}
+<ACTION>__{He smashes the dog to the ground.}
+<LOC>__{EXT. ALLEY - CONT'D}
+<ACTION>__{As the UPS Man/Ace rounds the corner, his shirt opens up at his pot belly and the Shiatsu's head sticks out. Ace is gloating.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(announcer's voice)}
+<DIAL>__{That was a close one, ladies and gentlemen. Unfortunately, in every contest, there must be... A LOOSER!}
+<ACTION>__{He jumps into an old beat-up Chevy Bel Air, and lets the dog out onto the passenger seat.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{LOOOHOOOSERRRHERRR!}
+<ACTION>__{He then pulls open the car's ashtray, and to the dog's delight, it's filled with puppy chow. He tries to start the engine but it won't turn over. The dog shoots him a look.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to dog)}
+<DIAL>__{No problem, it gets flooded. We'll just wait a few seconds.}
+<ACTION>__{Ace sits back. SMASH!!! From Ace's POV we see a Baseball bat shatter the front windshield.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Or, we could try it now.}
+<ACTION>__{Ace frantically tries to start the car. His new friend continues around the car beating the living shit out of it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oooh, boy.}
+<ACTION>__{ACE'S POV We see the creep wailing on the car in Ace's side view mirror.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Warning! Assholes are closer than they appear!}
+<ACTION>__{The dog is barking insanely.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to dog)}
+<DIAL>__{You think you can do better?!}
+<ACTION>__{The baseball bat is now pummeling the trunk.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Wanna give me a push while you're back there?}
+<ACTION>__{BOOM! The back window shatters. Then the car's engine roars to life. Ace rejoices.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{FARFEGNUGENNNNN!!!}
+<ACTION>__{Ace leaves the bad guy in a cloud of dust and gravel, screaming bloody murder.}
+<LOC>__{EXT. MIAMI CITY STREETS - DAY}
+<ACTION>__{Ace and his new pal speed away freely. Close on the happy dog, hanging his head out the car window. PAN across the broken windshield to Ace, also hanging his head out the window to see where he's going. The car drives by a sign on a telephone pole: "Reward" -- with a picture of the Shiatsu in Ace's seat.}
+<ACTION_ALT>__{THRASH MUSIC ENDS}
+<LOC>__{INT. HOUSE - DAY}
+<ACTION>__{A very sexy woman is hugging and kissing the Shiatsu.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{My little baby. You missed mommy didn't you? Did daddy hurt you? I won't let him, no I won't. He may have kept the big screen TV, but he's not gonna keep my baby. No he isn't.}
+<DIAL_PAR>__{(very sexy to Ace)}
+<DIAL>__{Thank you, Mr. Ventura. How can I ever repay you?}
+<ACTION>__{She slinks over to Ace and puts her arms around his neck.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well, the reward would be good, and there was some damage to my –}
+<ACTION>__{She cuts Ace off with a devastating kiss.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Would you like me to take you pants off instead?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ummmm… Sure.}
+<ACTION>__{She pulls him toward the bedroom.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{It takes a big man to stand up to my husband. He's already put two of my lovers in the hospital.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{How did he find out? Does he have you followed.}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{No… I tell him}
+<ACTION>__{She plants a kiss on Ace's neck and pulls him down out of frame onto the bed.}
+<LOC>__{EXT. DOLPHIN STADIUM PLAYING FIELD - DAY}
+<ACTION>__{The stands are empty, but there's plenty happening on the field. The Miami Dolphins are practicing. Dan Marino is in top form, hitting pass after pass. Behind one of the goal posts, the team's mascot, a rare dolphin (SNOWFLAKE), wearing #4, is practicing his routine. The Trainer is dressed like a quarterback.}
+<ACTION_ALT>__{TRAINER}
+<ACTION>__{Blue! 42! Blue! 42! Hut! Hut! Snowflake swims over, snatches a small football out of the Trainer's hand, and does an end zone dance on his tail. He then returns the ball to the trainer. The Trainer now sets the ball on the dolphin's tail and snowflake "kicks" a perfect field goal. The Trainer blows a whistle and raises both arms.}
+<TRANS>__{DISSOLVE TO:}
+<LOC>__{EXT. DOLPHIN STADIUM PLAYING FIELD - NIGHT}
+<ACTION>__{The stadium is now completely empty. Snowflake peacefully swims around his tank. Suddenly, the water is illuminated by the headlights of an n.d. panel truck. The rear door slides open. Two men jump out in wet suits. They slip into the water while a third waits outside the tank. Snowflake surfaces to check out the action. One of the men holds out a fish. Snowflake eagerly takes it, then shudders as a large syringe is stuck into his back. Snowflake thrashes around. Quick cut of a hand with the blur of a ring slamming against the tank. But the needle has done its job. Snowflake quickly goes limp. Snowflake is loaded into the back of the truck. Move in on Snowflake's face. His excited cackle has turned into a painful whimper. The truck skids away passing the guard gate. The guard is hog tied and gagged, struggling to free himself.}
+<LOC>__{INT. ADELLE'S FRIENDLY PET SHOP - NEXT DAY}
+<ACTION>__{Close up on a dead goldfish laying on a newspaper. We pull back to reveal ADELLE ROSENBERG, the seventy year old owner of a cluttered pet shop. She's handing a live goldfish in a bag to JENNIFER,  a very sweet nine year old.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Here you go, honey. Now remember… this kind of fish doesn't like it in the freezer.}
+<CHAR>__{JENNY} <CHAR_PAR>__{}
+<DIAL>__{But what's gonna happen to Dolly?}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, I'll make sure she gets a proper burial.}
+<ACTION>__{Jennifer exits. Adelle calls to her cat, and tosses it the goldfish. The cat catches it in mid-air.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Rest in peace.}
+<ACTION>__{Ace enters the pet shop. It looks like he slept in his clothes.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Well… here comes another dead fish.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hi, beautiful. What time do you get off?}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Uh oh.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(suggestively)}
+<DIAL>__{I've heard some pretty great things about your kibble.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Well, I hope I'm not getting a reputation.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(switching to mock anger)}
+<DIAL>__{Just get me the food!}
+<ACTION>__{She chuckles at Ace as she loads a couple of bags with different kinds of pet food.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{So… ahh, when can I expect you to pay your tab?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I'm a little bit Sli  Pickins, right now, I'm a little Tight Squeeze Louise, a little Welfare Wolly, Potless Pissing Pete, I'm ah –}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{If you were a horse I'd shoot ya'. Just take it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Gravy! I'm good for it, Adelle. I'm on a very big case right now.}
+<ACTION>__{Ace reaches into his coat pocket and pulls out a flyer with a picture of a white pigeon.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{See this pigeon? It's a true albino. Some rich guy lost it. He's offering a ten thousand dollar reward.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{Wow, albino pigeons are very rare. How are you going to find him?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Just keep my eyes open, and hope to god it doesn't snow.}
+<ACTION>__{Ace grabs his bags and heads for the door.}
+<CHAR>__{ADELLE} <CHAR_PAR>__{}
+<DIAL>__{You're a good boy, Ace. A good boy.}
+<ACTION>__{He holds the door open for an elderly gentleman who is entering at the same time. The gentleman is walking a toy poodle on a leash. The poodle is dragging its butt along the entire length of the floor. Ace and Adelle just stare.}
+<CHAR>__{ELDERLY MAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in a loud voice)}
+<DIAL>__{Do you have anything for ringworm?}
+<LOC>__{EXT. SURFSIDE APARTMENT COMPLEX - DAY}
+<ACTION>__{Ace enters the courtyard of a two story U-shaped apartment complex carrying his groceries. It's a crappy joint but he calls it home. Inside an open apartment on the ground floor, the landlord, MR. SHICKADANCE, sits watching TV, stuffing his face with cheese doodles. Ace sneaks past the door and up the stairs.}
+<LOC>__{EXT. SECOND FLOOR - DAY}
+<ACTION>__{Ace is just putting the key in the door when the landlord steps up behind him. Ace is startled by the dreaded 'Shickadance Rasp' (not unlike Linda Blair in THE EXORCIST).}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{Venturaaaaa?}
+<ACTION>__{Ace straightens up, but doesn't turn around.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Yes, Satan?}
+<ACTION>__{Now Ace turns around in mock surprise.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oh, I'm sorry, sir. You sounded like someone else.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{Never mind the wise cracks Venturaaa. You owe me rent!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Shickadance… I told you, you're my first priority! As soon as I find the white pigeon, you're paid!!}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{I heard animals in there Ventura! I heard 'em again this morning, scratchin' around.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I never bring my work home with me, sir.}
+<ACTION>__{The landlord notices the bags of kibble.}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL>__{Oh, yeah? What's all this pet food for?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Fiber.}
+<ACTION>__{The landlord isn't buying it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You wanna take a look for yourself? Go head.}
+<ACTION>__{Ace rattles his keys in the door. Then he swings it open and turns on the light. The house is clear. Ace walks in as the landlord stands there snooping and sniffing the air.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well… are you satisfied?}
+<CHAR>__{LANDLORD} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still suspicious)}
+<DIAL>__{Yeah, but don't ever let me catch you with an animal in there, that's all!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Okay then. Take care now. 'Bye 'bye.}
+<ACTION>__{The landlord walks away as Ace closes the door.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quietly to himself)}
+<DIAL>__{Llooser.}
+<ACTION>__{He then turns to the room and gives a distinct whistle. CHAOS ENSUES! Animals jump out from every direction. Lizards crawl out of drawers, birds fly through the air, all of them gravitating to Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to his flock)}
+<DIAL>__{Ooshhooboobooboodoodoo!}
+<LOC>__{INT. MIAMI DOLPHIN HEADQUARTERS - LATER THAT DAY}
+<ACTION>__{The very imposing office of BOBBY RIDDLE, owner of the Miami Dolphins. Riddle, 70, is a take charge, doesn't take crap from anyone type of guy. He is yelling at ROGER PODACTER, an ex-linebacker in his early sixties, and MELISSA ROBINSON, Podacter's attractive assistant.}
+<CHAR>__{RIDDLE} <CHAR_PAR>__{}
+<DIAL>__{I just want to know one thing; How the hell do you lose a 500 pound fish?!}
+<ACTION>__{Melissa's about to speak but hesitates.}
+<CHAR>__{RIDDLE } <CHAR_PAR>__{(CONT.)}
+<DIAL>__{What?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{It's not a fish, sir. It's a mammal.}
+<ACTION>__{An angry Riddle stands up.}
+<CHAR>__{RIDDLE} <CHAR_PAR>__{}
+<DIAL>__{Oh, thank you very much, Mrs. Jacque Cousteau!}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Bob, she didn't mean anything by it.}
+<ACTION>__{RIDDLE calms down a little, and sits.}
+<CHAR>__{RIDDLE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(calmer)}
+<DIAL>__{Listen, personally, I don't give a good god damn about a fish.}
+<ACTION>__{He looks at Melissa. She doesn't dare say anything.}
+<CHAR>__{RIDDLE } <CHAR_PAR>__{(CONT.)}
+<DIAL>__{All I care about is winning this Super Bowl! I want the players' head in the right place. Shit, Roger, you've been in this game long enough, you know how superstitious players are. Our quarterback's been putting his socks on backwards since high school. And I got a lineman who hasn't washed his jock in two years because he thinks flies are lucky! I want that god damn fish on the field Super Bowl Sunday! FIND THE FISH, OR FIND NEW JOBS!}
+<LOC>__{INT. HALLWAY - CONTINUOUS ACTION}
+<ACTION>__{An upset Podacter and Melissa walk through the hallway.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Why did it have to happen now? I got three stinking years left till retirement.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I've got forty.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{I'll tell you who did it. It was those goddamn animal rights nuts! Always out there with their goddamn signs, ANIMALS WERE BORN FREE, STOP TORTURING SNOWFLAKE! That goddamn fish lives better than they do!}
+<ACTION>__{They stop outside Melissa's office by her secretary's desk.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{The police are checking into the animal rights people.}
+<DIAL_PAR>__{(to secretary)}
+<DIAL>__{Martha, have the police called back about the dolphin yet?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{No, but I wanted to tell you, when I lost my Cuddles, I hired a pet detective.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{A what?}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{A pet detective.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Thanks Martha, but we'd better leave this to professionals.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Well actually, he was quite good. Pet detection is a very involved, highly scientific process.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. ROOF OF HOUSE - SAME TIME}
+<ACTION>__{CLOSE ON ACE - COOING like a pigeon. Widen to reveal, Ace precariously perched on the roof of a two story building. He is four feet away from "The" pigeon. Ater a beat, he makes a mad, spastic, yet scientific, lunge for the bird.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{AAAAAAAAAAAAAAAAAHHHHHHHH!!!!!!!}
+<ACTION>__{The bird makes a clean getaway. Unable to stop his momentum, Ace flies past the edge of the building and slides down the side of the roof.}
+<LOC>__{EXT. GROUND - CONTINUOUS ACTION}
+<ACTION>__{BAM!!! Ace crashes to the ground. As he lies face down, in a heap of trash, his beeper goes off.}
+<LOC>__{EXT. DOLPHIN HEADQUARTERS/BOBBY RIDDLE STADIUM - DAY}
+<ACTION>__{Parking lot. Ace's clunker drives by some real nice cars. Employees stare at him.}
+<LOC>__{INT. SECURITY CHECK POINT - DAY}
+<ACTION>__{A stern guard is admitting people into the stadium. He scans each one with a security detection wand.}
+<DIAL>__{MAN #1 Art Wheeler. Sporting supplies.}
+<ACTION>__{The guard scans him. He goes.}
+<DIAL>__{MAN #2 Tom Anderson. Concessions.}
+<ACTION>__{The guard scans him. He goes.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ace Ventura. Pet detective.}
+<ACTION>__{The guard stares at Ace, accusingly.}
+<LOC>__{INT. MELISSA'S OFFICE - DAY}
+<ACTION>__{Martha enters.}
+<CHAR>__{MARTHA} <CHAR_PAR>__{}
+<DIAL>__{Ah… Mr. Ventura to see you.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Okay, send him in.}
+<ACTION>__{Martha exits, Ace enters.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hi, I'm Melissa Robinson. Did you have any trouble getting in?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{No, the guy with the rubber glove was surprisingly gentle.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(apologetically)}
+<DIAL>__{Super Bowl week. Security's tight. Mr. Ventura, I'll get right to the point…}
+<ACTION>__{She slips a tape in the VCR and gestures for Ace to sit.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Our mascot was stolen from his tank last night. Are you familiar with Snowflake?}
+<ACTION>__{The tape shows Snowflake doing a trick. The trainer, dressed like a quarterback, shouts out signals. TRAINER (ON TAPE) Blue! 42! Blue! 42! Hut! Hut! Snowflake swims over, snatches the small football out of the trainer's hand, swims the length of the pool, does an end zone dance on his tail, then returns the ball to the trainer.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{We got Snowflake from the Miami Seaquarium. He's a rare Bottle Nose Dolphin. That's the new trick he was going to do during the half-time show.}
+<ACTION>__{While Ace studies the tape, he chews sunflower seeds in a bird-like fashion, placing the shells in a neat little pile on her desk.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Would you like an ashtray?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{No, I don't smoke.}
+<ACTION>__{He adds more shells to the pile. Melissa is already wondering if she has made a mistake.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{To be honest, Mr. Ventura. I'm pretty skeptical. Before today, I didn't even know there was such a thing as a pet detective.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well, now that you do, you'll know who to call if your Schnauser ever runs away.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{How did you know I have a Schnauser?}
+<ACTION>__{Ace pulls a, invisible-to-the-naked-eye dog hair off here blouse and presents it to her.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{He's young, about five pounds, black coat, white speckles…}
+<DIAL_PAR>__{(sniffs the hair)}
+<DIAL>__{…likes to chase cars.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Very impressive.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You should see what I can do with a good stool sample.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I can hardly wait. Look, we've got a problem. Can you help me or not?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(coy)}
+<DIAL>__{Well, sea faring creatures aren't really my expertise…}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{We'll give you three thousand dollars on delivery.}
+<ACTION>__{Ace immediately becomes the narrator of a nature show.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{The dolphin is a social creature. Capable of complex communication. Traveling in large groups or schools…}
+<LOC>__{EXT. PLAYING FIELD - A SHORT TIME LATER}
+<ACTION>__{The Dolphin players practice. A crowd of reporters interview Marino.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{We just choked in 82. We had a chance to win it and we didn't. Nobody's gonna choke this time, and if they do, I'll kill 'em.}
+<ACTION>__{Ace and Melissa head for Snowflake's tank.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{The police were here this morning. Apparently, the kidnappers used the back gate.}
+<ACTION>__{Ace bends down to look at some tire tracks on the field.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{They said some kind of a –}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Four wheel drive van… loaded from the rear.}
+<ACTION>__{Ace sniffs the turf. Podacter enters nervously.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Oh, hi, Roger. How are you holding up?}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Well if it looks like I'm walking funny it's because I have a bunch on reporters up my ass. They've been asking me about Snowflake all day. Who's this?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Roger Podacter, meet Ace Ventura. Ace is our pet detective.}
+<ACTION>__{Podacter shakes his hand.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Nice to meet you. Martha Metz recommended you very highly.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Martha Metz? Martha Metz. Oh yeah, the bitch.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Pekinese. Hyperactive. Lost in Highland Park area. She was half dead when I found her. Is that the tank?}
+<ACTION>__{They both follow Ace as he makes a B-line.}
+<LOC>__{EXT. SNOWFLAKE'S TANK - MOMENTS LATER}
+<ACTION>__{The tank is empty.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Cops drain it?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Yes. This morning.}
+<ACTION>__{Ace hops on the ladder.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{If I'm not back in five minutes… call Lloyd Bridges.}
+<LOC>__{INT. DOLPHIN TANK - MOMENTS LATER}
+<ACTION>__{While eating sunflower seeds, Ace meticulously examines the tank, including the scratches where the hand banged up against the wall when Snowflake was stolen. All the while, he is singing a bastardized version of the theme from, "Flipper."}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…Wonderful Flipper… glorious Flipper… magnificent Flipper… The flippiest Flipper…}
+<ACTION>__{Podacter and Melissa, watching from the rim, look at each other like, "What have we gotten ourselves into?" Podacter spots something.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Oh, great.}
+<ACTION>__{A hoard or reporters are headed their way.}
+<CHAR>__{PODACTER } <CHAR_PAR>__{(CONT)}
+<DIAL>__{I'll try to head them off.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Ace)}
+<DIAL>__{Get out of the tank.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still singing)}
+<DIAL>__{…Can't hear you Flipper, Flipper… Lookin' for Flipper, gotta find Flipper…}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I said, get out of the tank! Now!}
+<ACTION>__{The reporters draw closer. Podacter heads them off.}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{So where's Snowflake?}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Ah… Snowflake is just, ah, not available right now.}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{Come on, I'm supposed to get a shot of his new trick for the evening news. REPORTER #2 What? Is he sick?}
+<ACTION>__{Other reporters chime in.}
+<ACTION_ALT>__{VARIOUS REPORTERS}
+<ACTION>__{Did something happen to Snowflake?! What're you hiding..?! Melissa and Podacter don't know what to say. Then, a strange voice is heard.}
+<DIAL_PAR>__{ACE/HEINZ (O.S.) (unrecognizable accent)}
+<DIAL>__{How cun I be getting dis vork dun mit all da shouting? What for is dis shouting?}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{Who the hell is that?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{That? That's… ACE/HEINZ Heinz Kissvelvet. I am Trainer of Dolphins. You vant to talk to ze dolphin, you talk to me!}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{What happened to the regular trainer? ACE/HEINZ Vy do you care about the dolphin? Do you know him? Does he call you at home? Do you have a dorsal fin?}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{To train ze dolphin, you must zink like ze dolphin. You must be getting oonside ze dolphin's head! Just yesterday I'm asking Snowflake… "ee, eee, eee." He said, "Eee, eee, eee, eee." Und you can quote him.}
+<ACTION>__{Ace spits at the reporters' feet. Podacter jumps in.}
+<CHAR>__{PODACTER} <CHAR_PAR>__{}
+<DIAL>__{Gentlemen, please, Coach Shula's press conference is just about to begin. Why don't I take you over there and let, ah, Heinz, do his job.}
+<ACTION>__{He ushers the press away.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sotto to Ace)}
+<DIAL>__{Are you finished, Heinz?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Not yet.}
+<ACTION>__{Ace goes to the filter outside the tank, opens it, and pours out its contents – mainly leaves, small twigs and gunk. He roots through it, notices a very tiny amber stone. He smiles to himself.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Now I'm finished.}
+<LOC>__{EXT. METRO POLICE DEPARTMENT - LATER THAT DAY}
+<ACTION>__{A flurry of activity in the detective division. As Ace enters, several cops taunt him on sight, led by the obnoxious, SERGEANT AGUADO.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{Hey, Ventura! Make any good collars lately?}
+<ACTION_ALT>__{ANOTHER COP}
+<ACTION>__{Or were they leashes? They all bust up. Aguado spots a bug on the ground.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{Uh oh.}
+<DIAL_PAR>__{(steps on the bug)}
+<DIAL>__{Homicide, Ventura!}
+<ACTION>__{The cops are falling all over themselves laughing.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{How you gonna solve this one?!}
+<ACTION>__{Ace walks up to them and looks at the squashed bug.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Good question, Aguado… first I'd establish a motive. In this case the killer saw the size of the bug's dick, and became insanely jealous.}
+<ACTION>__{The other cops all react with a big "ooooooo". Aguado has no comeback. Ace comes face to face with him.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Then I'd lose thirty pounds porking his wife.}
+<ACTION>__{Aguado suddenly loses it and swings at Ace. With a lightening move, Ace sidesteps the punch and forces Aguado's face down next to the dead bug.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Now kiss and make up.}
+<ACTION>__{Ace walks off.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{LLLOOOSER!}
+<ACTION>__{Ace walks to the desk of EMILIO ECHAVEZ, a young energetic member of the homicide division. Ace has a silly impish look on his face.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(playfully)}
+<DIAL>__{I miss you.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{It's not a good time, Ace. If Einhorn sees me talking to you I'm gonna be history.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Okay. Just tell me what you got on Snowflake. That's all I need.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{…I can't say anything. My hands are tied.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(effeminate)}
+<DIAL>__{Sounds like my kind of a party.}
+<ACTION>__{A cop comes to Emilio's desk.}
+<CHAR>__{COP} <CHAR_PAR>__{}
+<DIAL>__{Look alive, Einhorn's on her way}
+<ACTION>__{down.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Ace, please?!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Just tell me who's working the case?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Aguado.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Aguado?! He's pimple juice! He's the poster child for lead paint chip eaters!}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Look, Ace. We're a little busy with murderers and drug dealers. A missing dolphin isn't exactly a high priority.}
+<ACTION>__{The elevator is getting closer.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Ace, gimme a break will ya?}
+<ACTION>__{Ace nonchalantly sits back in a chair, pops a sunflower seed into his mouth and cracks it loudly.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(quickly)}
+<DIAL>__{Okay, okay. We checked all the local animal rights groups, taxidermists, and we're running a check through DMV on all recent van rentals. So far, nada.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Any unusual bets being made?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Ace, it's the Super Bowl, of course there's bets being made.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What'd you find out about the tank?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Nothing weird. Just the tire tracks and the exit route. The guard didn't see anything.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{That's it?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{That's it. I swear. Now please go away!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You know something?}
+<DIAL_PAR>__{(again impish)}
+<DIAL>__{YOU'RE NICE!}
+<ACTION>__{Ace gets up and exits the room. Then just as Emilio sighs with relief, Ace pops back in.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What about crazy Philly fans?}
+<ACTION>__{The elevator bell rings. Out steps police LT. LOIS EINHORN, mid 30s, with a slender build, a great pair of legs and a bad tude.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Holy Testicle Tuesday!}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Emilio)}
+<DIAL>__{What the hell is he doing here?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I came to confess. I was the second gunman on the grassy knoll.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Spare me the routine, Ventura. I know you're working the Snowflake case. May I suggest you yield to the experts on this one? We'll find the porpoise.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mock relief)}
+<DIAL>__{Whewww… now I feel better!}
+<ACTION>__{Ace turns to go.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT)}
+<DIAL>__{Of course, that might not do any good. You see, nobody's missing a porpoise. It's a dolphin that's been taken. The common Harbor Porpoise has an abrupt snout, pointed teeth, and a triangular thorasic fin, while the Bottlenose Dolphin, or Tursiops Truncatus, has an elongated beak, round, cone-shaped teeth, and a distinctive serrated dorsal appendage. (beat) But I'm sure you already knew that. (beat) That's what turns me on about you. Hey… maybe I'll give you a call sometime, lieutenant. Your number still 911? Alrighty then!}
+<ACTION>__{Ace exits.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. TEA ROOM - NIGHT}
+<ACTION>__{A wild thrasher club. An incredible thrash band is on stage cranking. Kids jump wildly into the moshing pit. Ace enters, sees a burnout at the bar whose head is circling insanely to the music.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Excuse me?! Is Greg here?!}
+<ACTION>__{The burnout's head thrashes on. No acknowledgement of Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Thank you!}
+<ACTION>__{Ace heads for the basement stairs.}
+<LOC>__{INT. BASEMENT STAIRS - NIGHT}
+<ACTION>__{Ace descends the stairs, stopping at a large steel door. Ace bangs on it three times. A voice is heard from inside.}
+<CHAR>__{VOICE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Password!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Tom Vu! I pay for sex! You can too!}
+<ACTION>__{CLICK! The door electronically unlatches and slides open.}
+<LOC>__{INT. BASEMENT - NIGHT}
+<ACTION>__{Ace enters. Green Peace "Save the Whales" posters abound. GREG/WOODSTOCK, a laid back, ex-hippy with long gray hair, sits at a very impressive computer set up. Ace and he have their own distinct banter. A thud from above. Ace looks up. ACE'S POV Part of the ceiling is made of metal grating, so you can see the bottom of the dance floor. A guy's face gets smashed into the grate. We see that it is the burnout from the club.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to burnout)}
+<DIAL>__{Found him!}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Hey! St. Francis! How's it goin?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Super, and thank you for asking. Hope you're having a nice day.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Do you?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Don't I? And what are you up to?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Just watching the fishies, man.}
+<ACTION>__{There is a BLIP on the computer screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Alright, you're just in time for the party. You see those blips?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I certainly do.}
+<ACTION_ALT>__{ON THE SCREEN}
+<ACTION>__{A map with several ships on the ocean. He quickly taps in some commands and the ships start sailing in all different directions.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{That's a Norwegian whaling fleet. I'm sending them new directional coordinates… They'll find Jimmy Hoffa before they find any Humpbacks.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Gravy.}
+<ACTION>__{Woodstock moves to a different screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Check this out.}
+<ACTION>__{More computer graphics come up on the screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Just changed the formula for Purina's puppy chow.}
+<DIAL_PAR>__{(turns to Ace)}
+<DIAL>__{Too much filler, don't ya' think?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(acting turned on)}
+<DIAL>__{I'm very attracted to you right now.}
+<ACTION>__{Woodstock chuckles.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Are you?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Aren't I? Can you still tap into all the aquatic supply store in the area?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Of course I can. Why?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I want to trace the sale of any equipment for transporting or housing a dolphin within the past few months…}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{C'mon, Ace. I thought you might have a challenge for me…}
+<ACTION>__{Woodstock starts hacking away.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Okay then, try to remember the sixties.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Wow! God one! Let's see… Marine winch sling, feeder fish,}
+<LOC>__{20,000 gallon tank…}
+<ACTION>__{He waits. We hear a beep.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{That's it. I found the culprit.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Who is it?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dramatically)}
+<DIAL>__{…Sea World.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…bastard.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Hang on, hang on…}
+<DIAL_PAR>__{(He taps a couple keys)}
+<DIAL>__{Well, what do we have here? That's a lot of equipment for a civilian.}
+<ACTION>__{The printer spits out some data. Woodstock rips off the page and hands it to Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ronald Camp? The billionaire?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Billionaire and rare fish collector.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Rrreheheally!}
+<ACTION_ALT>__{A PICTURE OF CAMP}
+<ACTION>__{Comes up on the computer screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{That, my friend, is the face of the enemy.}
+<ACTION>__{He pages through his file on screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{…Always tryin' to get his hands on endangered species…}
+<ACTION>__{Newspaper articles fill the screen. One shows a picture of Camp and some Dolphin players.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hold on, this guy's connected with the Dolphins?}
+<ACTION>__{Ace leans in.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Camp donated the land the new stadium's built on.}
+<DIAL_PAR>__{(re: article)}
+<DIAL>__{Oh, look at this, he's throwin' another, "I'm the richest man in the universe" party.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(thinking)}
+<DIAL>__{Hmmm… I wonder if I can find myself a date.}
+<LOC>__{INT. CAMP'S MANSION - NIGHT}
+<ACTION>__{It's a magnificent home. There is an extremely formal party in progress. Twenty to thirty people having champagne, caviar, and hot air. We see Dan Marino sitting with an audience around him.}
+<CHAR>__{DAN} <CHAR_PAR>__{}
+<DIAL>__{We just choked in 82. We had a chance to win and we didn't. But nobody's gonna choke this time; if they do, I'll kill 'em!}
+<ACTION>__{Everybody laughs.}
+<LOC>__{EXT. CAMP'S MANSION - NIGHT}
+<ACTION>__{Ace and Melissa climb an impressive stairway leading to Camp's mansion.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I'm really going out on a limb here, Ventura. Camp's social events are strictly A-list.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a la Love Connection)}
+<DIAL>__{'Well, Chuck… the date started off good, but just before we got to the party, she seemed to tense up.'}
+<ACTION>__{Melissa rolls her eyes, then taps a huge door knocker.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I swear, if you do anything to embarrass me in front of Camp…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You mean like this?}
+<ACTION>__{Ace starts doing a spastic body convulsion. Just then a bald-headed butler, who looks a little like Gavin McCloud, opens the door. Ace doesn't notice until Melissa hits him with her purse.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Owwwe!!!}
+<ACTION>__{He sees the butler.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oh, hi Captain Stubing.}
+<ACTION>__{Melissa storms in, already pissed.}
+<LOC>__{INT. CAMP'S MANSION - CONT}
+<ACTION>__{Ace and Melissa enter. Camp looks over.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Melissa! Glad you could make it! Oh, and who is this?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{This is my date. He's a… lawyer.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Well, does he have a name, or should I call him "Lawyer"?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, it's Ace - ah, Tom Ace.}
+<ACTION>__{Ace is very unimpressed with her lying ability. He jumps in.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Tom Ace. Wonderful to meet you, Mr. Camp, and congratualtions on all your success. You smell terrific.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Ah, well, thank you. Please, come in.}
+<ACTION>__{Ace boldly leads the way over to an hors 'oeuvre table. Melissa closely follows.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sotto)}
+<DIAL>__{This is insane. There's no way that Camp stole Snowflake.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(spreading pate' on a cracker)}
+<DIAL>__{Will you just keep him occupied, while I work my magic please.}
+<ACTION>__{She crosses the room. He puts the cracker in his mouth and begins to crunch. A man in a tux beside Ace spreads pate' on his own cracker.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a mouthful, to man)}
+<DIAL>__{Smooshy, isn't it?}
+<ACTION>__{Off the stuffy man's reaction…}
+<LOC>__{INT. CAMP'S MANSION - SECONDS LATER}
+<ACTION>__{Ace approaches Camp.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, Ron, I need to use the bathroom?}
+<DIAL_PAR>__{(palms his stomach, whispering loudly)}
+<DIAL>__{I think it's the pate'.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Um, it's just over there.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Thanks. Stuff probably looks better on the way out, huh?}
+<ACTION>__{Ace laughs, slaps Camp hard on the back and heads for the bathroom.}
+<LOC>__{INT. BATHROOM - CONT}
+<ACTION>__{Ace wastes no time. He locks the door, turns on the water faucet, steps onto the toilet seat, opens and climbs out a window.}
+<LOC>__{EXT. MANSION COURT YARD - CONT}
+<ACTION>__{Ace drops to the ground. He follows a pathway, through a gazebo and into a doorway, all the time quietly singing the musical score to 'Mission Impossible'.}
+<LOC>__{INT. CAMP'S MANSION - FISH TANKS - CONT}
+<ACTION>__{Ace browses through a myriad of dramatically lit, salt water tanks, still singing. They're all filled with colorful exotic fish. Very impressive, but nothing large enough to house a dolphin. He continues on towards a large door.}
+<LOC>__{INT. TANK ROOM - SECONDS LATER}
+<ACTION>__{A huge above-ground tank is covered with curtains to discourage onlookers. Ace swings open the large door and enters.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Gravy.}
+<ACTION>__{Ace climbs a ladder on the side of the tank, singing more intensely now. The ladder leads to a narrow catwalk over the center of the water. Ace grabs a feeder fish from a pail and walks carefully out there.}
+<ACTION_ALT>__{CLOSE ON ACE. THIS IS IT.}
+<ACTION>__{He looks into the dark pool, but sees nothing. Now he stops singing, quietly squats down and dangles the fish over the water.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gently)}
+<DIAL>__{Snowflake… Here, Snowflake… Snooowflaaaake…}
+<ACTION_ALT>__{A GREAT WHITE LUNGES OUT OF THE WATER AND SNAPS ITS JAWS AN INCH}
+<ACTION>__{FROM ACE'S FACE!!! NEEDLESS TO SAY, ACE IS A TAD SURPRISED. He reels back, falling off the catwalk, into the water.}
+<LOC>__{INT. CAMP'S MANSION - SAME TIME}
+<ACTION>__{Melissa is admiring some beautiful tropical fish. Camp approaches.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Wonderful, aren't they?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nervously)}
+<DIAL>__{Yes. They're incredible.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{No matter what is going on in my life, I can always watch them swim and be completely at peace.}
+<LOC>__{INT. INDOOR POOL ROOM - SAME TIME}
+<ACTION>__{The water is still for a moment. Then, Ace breaks the surface.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(frantic, to himself)}
+<DIAL>__{It's not Snowflake… It's not Snowflake.}
+<ACTION>__{Instantly, Ace's body is thrashed around back and forth through the water, the entire length of the pool.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screaming)}
+<DIAL>__{IT'S NOT SNOWFLAAAAKE!!! IT'S NOT SNOWFLAAAA!!!}
+<LOC>__{INT. CAMP'S MANSION - LATER}
+<ACTION>__{A line is forming outside the bathroom. Camp and Melissa are seated nearby. He's getting curious.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL>__{Are you sure he's okay? It's been an awfu;;y long time.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Who, Tom? Oh, I'm sure he's fine.}
+<ACTION>__{Ace suddenly opens the bathroom door and stands there, completely drenched from head to toe, with his pants in shreds. Everyone stops. They all stare at Ace in amazement.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(loudly to the entire room)}
+<DIAL>__{DO NOT GO IN THERE!}
+<DIAL_PAR>__{(fanning the air)}
+<DIAL>__{Whewww!!}
+<LOC>__{EXT. CAMP'S MANSION - LATER}
+<ACTION>__{Ace and Melissa are exiting. Camp stops in the doorway.}
+<CHAR>__{CAMP} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still confused)}
+<DIAL>__{I'm very sorry, Mr. Ace. I'll have the pluming checked immediately.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Be sure that you do. If I had been drinking out of that toilet, I might have been killed!}
+<ACTION>__{Ace shakes Camp's hand and notices his ring. He holds on to get a better look. It's a very distinct, commemorative ring. Camp wants his hand back but Ace won't let go. Melissa finally drags Ace away.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{We'd better go.}
+<ACTION>__{Camp looks on and shakes his head.}
+<LOC>__{INT. MELISSA'S CAR - NIGHT}
+<ACTION>__{Ace is thinking. Melissa is pissed.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{…Y'know, I don't even want to know why your pants are missing! I don't care what happened! You could have cost me my job.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on his own wavelength)}
+<DIAL>__{I was wrong about Camp. He's breaking the law but he's not our guy.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{It's a sure thing! It's definitely him! Just get me in there! Let me work my magic!}
+<ACTION>__{Ace takes the stone out of his pocket and studies it intensely.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{This is the key. Right here!}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Hiring you was the biggest mistake I ever made!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{So small! So unnoticeable! Yet an invaluable piece… of our twisted little jigsaw puzzle!}
+<ACTION>__{Melissa stares at Ace like he's gone crazy. There is a flash of headlights and a car horn. Melissa swerves back into her own lane. Ace drops the stone somewhere on the seat and begins to search for it frantically.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Damn it!}
+<DIAL_PAR>__{(to Melissa)}
+<DIAL>__{Try to keep it on the road.}
+<LOC>__{INT. MELISSA'S LIVING ROOM}
+<ACTION>__{Melissa enters, followed by Ace.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{So, you found a pebble in Snowflake's tank. Excuse me while I call CNN.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I found it in the filter. And it's not a pebble. It is a rare, triangular cut, orange amber.}
+<ACTION>__{Ace hands Melissa the stone and quickly goes to one of her bookcases.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{What are you talking about?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Tonight I saw the exact same stone in Camp's ring.}
+<ACTION>__{Ace finds a book on the Dolphin team and flips through it.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I thought you said he didn't do it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{N. Camp's clean. His ring wasn't missing a stone. But whoever was in that tank had a ring just like his.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Wait a second. What ring?}
+<ACTION>__{Ace hands her the book. It's open to a photo of…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{The 1982 Dolphin AFC Championship ring.}
+<ACTION>__{Melissa holds the stone up to the picture. It's a perfect match.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I find the ring with the missing stone, I find Snowflake.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{How are you gonna do that?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Simple.}
+<ACTION_ALT>__{MUSIC UP}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. TRACK - DAY}
+<ACTION>__{Ace is wheezing and gasping for air as he struggles to jog up beside a large man who's running around the track at a very fast pace. When he finally catches up, he awkwardly tries to catch a glimpse of the man's ring and trips. The man just keeps going.}
+<LOC>__{INT. FOOTLOCKER - DAY}
+<ACTION>__{Ace sits waiting with one shoe off. The store manager, an ex-player for the '82 team, sets down several shoe boxes. Ace checks out the ring.}
+<ACTION_ALT>__{CLOSE ON}
+<ACTION>__{A poster of the '82 team. The player we just saw is being crossed out.}
+<LOC>__{EXT. HOTEL - DAY}
+<ACTION>__{Pan a few kids getting autographs from Marino and other players, ending on Ace dressed up and looking like a pimply kid. As the players sign, he checks their rings.}
+<LOC>__{EXT. TRACK - DAY}
+<ACTION>__{Ace is again trying to catch the large man on the track. This time, just as he draws near, the man leaves him in the dust.}
+<LOC>__{INT. SPORTS BAR - DAY}
+<ACTION>__{Two big guys finish arm wrestling. Ace steps up to challenge. He spends an undue amount of time preparing his grip, as he checks out the ring. Ace finally gets set and gives the "go ahead" nod. He is instantly thrown across the room.}
+<ACTION_ALT>__{CLOSE ON}
+<ACTION>__{The poster of the '82 team. Another group of players are being crossed out.}
+<LOC>__{EXT. STREET}
+<ACTION>__{Ace spots a player driving along side him. He can't see his ring. Ace deliberately cuts off the player's car and flips him off. The angry player flips Ace off. We see his ring is intact. Ace waves and drives off.}
+<LOC>__{INT. MEN'S ROOM}
+<ACTION>__{One huge lineman uses a urinal. Ace, using the urinal next to him, nonchalantly tries to catch a glimpse of the guy's hands. The Lineman has a very angry look on his face, but after a beat it changes to a "come on" smile.}
+<ACTION_ALT>__{CLOSE ON}
+<ACTION>__{The poster of the '82 team. There is only one face that has not been crossed out. Ace circles it.}
+<LOC>__{EXT. TRACK - DAY}
+<ACTION>__{Once again we see the large, fast man jogging toward camera. Suddenly Ace runs up behind him, with a desperate look on his face, pouring a bottle of chloroform into a cloth. He leaps onto the man's back, smothering him with the cloth and holding on for dear life. The man slowly gives up the fight and collapses. Ace casually checks the ring, then walks away disappointed.}
+<LOC>__{EXT. MELISSA'S BACKYARD - EARLY EVENING}
+<ACTION>__{Ace sits in a lawn chair depressed. Melissa consoles him.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ace, that stone could have come from anywhere. An earring, a necklace…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with murder in his eyes)}
+<DIAL>__{It came from an '82 AFC Championship ring.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Lt. Einhorn thinks it was an animal rights group. Have you heard of FAN?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Free Animals Now? Started in 1982 by Chelsea Gamble, daughter of the famous industrialist, Fischer Gamble? Over half a million members from Florida to Finland?}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{No. Who are they?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Did you know that last year they sent threatening letters to 127 college teams, demanding the release of their mascots? At last count –}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What do you feed your dog?}
+<ACTION>__{We see Melissa's dog lying near Ace's feet.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ah… dog food, why?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{He's miserable.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{What are you talking about?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{He's just very unhappy, I feel sorry for him. Bad diet, isolated environment. It's amazing he's still alive.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{You're just mad because your stupid pebble theory didn't work out and you don't know how to express your anger.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Yeah? And you're ugly.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{I'm not even gonna' talk to you, please leave.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What, so you can beat him? Fatty!}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{You… are unbelievable.}
+<ACTION>__{The phone rings inside the house. Melissa goes to answer it.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Hiring you was a huge mistake!}
+<ACTION>__{The door slams and Ace is alone with the dog. After a moment he reaches down to pet it and we all see that it is one of the happiest dogs in the world.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You like her, huh?… Yeah, she's alright.}
+<ACTION>__{Ace, feeling guilty, walks into the house.}
+<LOC>__{INT. MELISSA'S DEN - CONT}
+<ACTION>__{Ace walks toward Melissa.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Look, Melissa, I, ah…}
+<ACTION>__{Ace stops when he sees Melissa. She is sitting, holding the phone in her lap with a completely stunned look on her face. Something is very wrong.}
+<LOC>__{EXT. HIGH RISE APARTMENT BUILDING - NIGHT}
+<ACTION>__{Chaos. Police, lights flashing, paramedics, crowds of people. Ace and Melissa see Roger Podacter's body taken away in an ambulance.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You okay?}
+<ACTION>__{Melissa nods bravely. Emilio joins them.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What'd you find?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Podacter, Roger. Routine suicide. He was alone. He'd been drinking. No sign of a struggle. Neighbor heard him scream on the way down. Just your classic fifteen story swan dive.}
+<ACTION>__{Melissa shudders. Ace gives Emilio a "way to go" look.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Sorry.}
+<LOC>__{INT. HIGHRISE LOBBY - NIGHT}
+<ACTION>__{The three enter. Emilio pushes the button for the elevator.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{It just seems so out of character. He was going to retire in two years.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Did he leave a note?}
+<ACTION>__{The elevator arrives.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{No. That's nothing unusual. Some do, some don't. He didn't.}
+<ACTION>__{The elevator doors close.}
+<LOC>__{INT. PODACTOR'S APARTMENT - MOMENTS LATER}
+<ACTION>__{Police are everywhere. Emilio, Ace and Melissa enter and are immediately approached by one of the officers.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Miss Robinson, this is officer Carlson.}
+<ACTION_ALT>__{CARLSON}
+<ACTION>__{Evening, ma'am. I wonder if you could answer a few questions about the deceased? Ace slips away, we follow him as he eavesdrops on conversations.}
+<ACTION_ALT>__{NEIGHBOR}
+<DIAL_PAR>__{(to a cop)}
+<DIAL>__{I told you, I was across the hall in my apartment, I heard a scream. The door was locked, so I called the manager…}
+<ACTION>__{The Manager reiterates her story to the cop. The Manager is about 100 years old.}
+<CHAR>__{MANAGER} <CHAR_PAR>__{}
+<DIAL>__{…The place was empty, except for the damn dog in the other room. Then I opened the balcony door, looked over the railing, and… splat, bang, pancake time…}
+<ACTION>__{Ace, continuing his investigation notices… PODACTER'S DESK in perfect order. Next, he notices police coming in and out of the balcony, closing the door behind them, shutting out the noise.}
+<LOC>__{INT. PODACTER'S BEDROOM - NIGHT}
+<ACTION>__{A dog is cowering in the corner. Ace tries to comfort the little guy.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hey, fella, have a bad night?}
+<ACTION>__{Ace examines its paws. Ace then gets down and finds scratches in the door. TWO FEET interrupt. Ace stands. He is face to face with Einhorn.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Who let Dr. Doolittle in?}
+<ACTION>__{Emilio steps in immediately.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Ah, Lieutenant. He came with Miss Robinson –}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{This is official police business. We'll let you know if the coroner finds any ticks.}
+<ACTION>__{Cops snicker.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{I just thought since Melissa –}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{E, forget it. She's right. Besides, I wouldn't want someone tracing my steps and pointing out all the mistakes I made.}
+<ACTION>__{Ace crosses to…}
+<LOC>__{EXT. PODACTER'S BALCONY - CONT}
+<ACTION>__{Ace examines the area. Einhorn is in hot pursuit.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Oh, so, you don't think this in an obvious suicide, Mr. Pet Detective?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well, I wouldn't say that. Lord knows, there is plenty of evidence here to support your theory, except of course that spot of blood on the balcony.}
+<ACTION>__{On the railing, sure enough, there is a tiny spot of blood. Einhorn glares at a couple of nearby cops. They look down.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{May I tell you what I think happened? Alrighty then!}
+<ACTION>__{Ace moves as he talks.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Roger Podacter went out after work. He had a few drinks, and he came home. But he wasn't alone.  Someone was with him in this apartment. There was a struggle, and then Roger Podacter was thrown over that balcony. Roger Podacter didn't commit suicide. He was murdered.}
+<ACTION>__{A beat as everyone considers this.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Well, that's a very entertaining story, but real detectives have to worry about that little thing lawyers call evidence.}
+<ACTION>__{Ace picks up a lottery ticket on Podacter's desk and becomes a condescending kid show host.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Let's take a trip to clue corner, shall we? Can anyone tell me why a man buys a lottery ticket on the day he is going to commit suicide? Or why the family pet, suffering from acute canine trauma, clawed at the bedroom door until his paws bled? How about the blood on the railing? I'll bet if we put our thinking caps on we'll see that it was the result of the struggle that took place inside this apartment while Mr. Podacter was still alive!}
+<DIAL_PAR>__{(singing)}
+<DIAL>__{NEXT TIME YOU DON'T HAVE A CLUE COME ON BACK TO CLUE CORNER! BOOP!}
+<ACTION>__{Everyone looks to Einhorn.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Not a bad try for a pet detective, but not near conclusive enough for us real investigators.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{First, people buy lottery tickets everyday. It's a habit. It doesn't prove a thing. Second, the dog wasn't suffering from canine trauma, he was suffering from bladder trauma. Sergeant Neilson found a piss stain as big as Lake Huron near the bed. And third, the blood on the railing. Simple. He doesn't jump far enough and whacks his head. A fact confirmed by the paramedics who found cuts on his scalp, with traces of a white chalky substance. i.e. plaster from the balcony.}
+<ACTION>__{Einhorn shows Ace the paramedics report. Everyone is impressed with Einhorn.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{So much for your murder, Ventura.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{Uh oh, I think I heard a toilet flush. Maybe someone lost their turtle?}
+<ACTION>__{Everyone has a laugh. Ace looks beaten.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well, maybe I'm just a little out of my league, here. Einhorn…}
+<ACTION>__{Ace holds out his hand, Einhorn shakes it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…good work.}
+<ACTION>__{Ace and Melissa head for the door.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oh, there is just one more thing, Lieutenant.}
+<DIAL_PAR>__{(re: the neighbor)}
+<DIAL>__{This man is Roger Podacter's neighbor. He lives across the hall. He said he heard a scream, is that right, sir?}
+<ACTION>__{The neighbor nods. Ace turns to the apartment manager.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{And you said you had to open the balcony door when you keyed into the room?}
+<CHAR>__{MANAGER} <CHAR_PAR>__{}
+<DIAL>__{That's right.}
+<ACTION>__{Ace walks out onto the balcony and turns, facing them.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You're certain you had to open this door?}
+<ACTION>__{She nods.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{What's the point, Ventura?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Only this… AAAAAAAWWWWWWWWWWW…}
+<ACTION>__{Ace sustains an incredible Pavorati note, while he repeatedly opens and closes the glass door between them. When the door is closed nothing can be heard.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(tapping the door)}
+<DIAL>__{This is double paned, sound- proofed glass. There's no way this neighbor could have heard Podacter scream on the way down with this door shut. The scream he heard came from inside this apartment, before Podacter was thrown over the railing! And the muderer closed the door before he left!}
+<DIAL_PAR>__{(celebrates insanely)}
+<DIAL>__{Yes! Yesss! I have exorcised the demons!}
+<DIAL_PAR>__{(a la Poltergeist)}
+<DIAL>__{This house is clear.}
+<LOC>__{INT. ACE'S CAR - A SHORT TIME LATER}
+<ACTION>__{Ace drives straight ahead.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{What are you thinking?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I'm thinking this whole thing is connected somehow.}
+<DIAL_PAR>__{(frustrated)}
+<DIAL>__{I'm thinking I want to find that other ring!}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{You checked all the rings.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I know, Pessimistress. Could anyone else have gotten a ring that year?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{No. Camp was the only honoree. Just players and coaches. Everyone in the photo.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…Receipts! There must be receipts! You have a key to the office.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ace this has been a really tough day. Can't we do this in the morning?}
+<ACTION>__{Ace looks at his watch.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Absolutely.}
+<LOC>__{EXT. DOLPHIN HEADQUARTERS - 1:00 AM}
+<ACTION>__{Ace's car screeches to a stop, in front of the building. Ace jumps out, followed by Melissa.}
+<LOC>__{INT. DOLPHIN HEADQUARTERS - HALLWAY - NIGHT}
+<ACTION>__{It's dark. Team pictures adorn the walls.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{These files go back to seventy- eight.}
+<LOC>__{INT. DOLPHIN OFFICE - CONTINUOUS}
+<ACTION>__{Ace is flipping through a file cabinet, looking at receipts. Melissa is starting to warm to him.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{That was pretty impressive, what you did back at the apartment.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still looking)}
+<DIAL>__{You don't have to tell me. I was there.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Maybe you should have joined the police force… become a real detective.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head)}
+<DIAL>__{I don't do humans.}
+<ACTION>__{Melissa gets a bit closer.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{You really love animals, don't you?}
+<ACTION>__{Ace stops searching and looks into her eyes.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I feel a kinship with them. I understand them. Wanna hear something kinda spooky?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<ACTION>__{She gets closer still.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{One time, when I was about twelve, I had this dream that I was being followed by a dog with rabies. He had these really bloodshot eyes and foam coming out of his mouth… and just before I got to my front door… he jumped on me and sunk his teeth in. Then I woke up, and felt the back of my neck… check this out.}
+<ACTION>__{Ace motions for Melissa to feel the back of his neck, but when she does, he snaps at her hand, barking like a vicious dog.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{ARARAR!!!}
+<ACTION>__{Melissa jumps out of her skin.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ohhh!! You bastard!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(snickering)}
+<DIAL>__{I'm sorry. I couldn't stop myself. Are these all the receipts?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mildly annoyed)}
+<DIAL>__{I don't know.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{There's only a dozen of them here.}
+<ACTION>__{Ace turns from the file cabinet with a hopeless look on his face. Melissa begins to clean up his mess.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pointedly)}
+<DIAL>__{Gee… maybe they were misplaced because somebody didn't put the files back when he was…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Who the hell is that?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{What…}
+<ACTION>__{Ace crosses to a big picture of the '82 team that hangs on the aadjacent wall and points out a player.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{That! Who the hell is that?!}
+<ACTION>__{He quickly pulls out his crossed out pictures of the team and begins to compare the two.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Oh, that's Ray Finkle… the kicker. Don't you know who Ray Finkle is?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{No! How come he's not in this picture?!}
+<ACTION>__{Melissa checks Ace's photo.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{This was the picture you were using? This was taken earlier in the year. Finkle wasn't added to the roster till mid-season.}
+<ACTION>__{She starts to realize what Ace has already figured out.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{He's the guy that missed the final field goal in the Super Bowl that year. Cost the Dolphins the game.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{But he got a ring?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Definitely.}
+<LOC>__{INT. STADIUM/PUBLIC RELATIONS OFFICE - LATER}
+<ACTION>__{Ace and Melissa look through Finkle's file on a microfiche screen. Newspaper articles, headshots flash before them…}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{'Replacement Kicker Having Great Year'… 'Ready For Super Bowl, Confident Kicker Boasts'.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{'Field Goal Sails Wide, Dolphins Lose Super Bowl'.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{The kick heard round the world. That was Finkle. The Dolphins lost by one point.}
+<ACTION>__{Another headline hits the screen: FINKLE CONTRACT NOT RENEWED.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Poor guy.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Poor guy with a motive, baby. Where is he now?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Last I heard, he went back to his home town, Collier County. He used to work in a bar up there.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pondering)}
+<CHAR>__{REHEHEALLY.} <CHAR_PAR>__{}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Can you drop me off before you go?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking his head)}
+<DIAL>__{No way. It may not be safe at your apartment, and you shouldn't be left alone.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{What do you suggest?}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. ACE'S BEDROOM - LATER}
+<ACTION>__{We see a person's butt under a sheet coming up into frame repeatedly. SKIN, SWEAT, SHEETS FLY,  as Ace and Melissa roll back and forth on the bed. Ace is taking no prisoners.}
+<TRANS>__{CUT TO:}
+<LOC>__{50 animals at the bottom of the bed, with eyes as big as silver dollars, watching them silently. We}
+<ACTION>__{cut back and forth between furious lovemaking and shots of staring animals. Melissa and Ace simultaneously reach the pinnacle of pleasure.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(totally amazed and exausted)}
+<DIAL>__{OH man… oh man! Oh wow!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(mock embarrassment)}
+<DIAL>__{I'm sorry… that's never happened to me before. I must be tired.}
+<LOC>__{EXT. HIGHWAY ONE - DAY}
+<ACTION>__{Various traveling shots of Ace en route to a 'Deliverance' type town deep in the Everglades. A sign reads "Gas - Food - 2 Miles" but the word "Food" is crossed out.}
+<LOC>__{INT. BILBO'S GAS STATION - DAY}
+<ACTION>__{A pitifully sad country song plays on the radio. FERN BILBO sits at his cluttered desk with the end of an old shotgun in his mouth. He is struggling to reach the trigger. Through the glass behind him, we see Ace's car pull up to the only gasoline pump. DING! The bell rings. Fern begrudgingly takes the gun out of his mouth, sets it down and walks out.}
+<LOC>__{EXT. BILBO'S GAS STATION - CONT}
+<ACTION>__{Ace gets out of his car.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, sir. Do you know where I can find the Pigskin Sports Bar?}
+<CHAR>__{FERN} <CHAR_PAR>__{}
+<DIAL>__{Do I have a "kick me" sign on my back, son?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I wouldn't know anything about that, but if you could point me toward the bar.}
+<ACTION>__{Fern breaks down, sobbing.}
+<CHAR>__{FERN} <CHAR_PAR>__{}
+<DIAL>__{They all left me… all of them!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well… Hypothetically speaking, say they all left you and went to the Pigskin Sports Bar. How would they have gotten there from here?}
+<CHAR>__{FERN} <CHAR_PAR>__{}
+<DIAL>__{Two miles down and take the first left.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Thanks very much! Take care now,}
+<ACTION>__{'bye 'bye then! Ace gets into his car and pulls out.}
+<LOC>__{INT. BILBO'S GAS STATION - CONT}
+<ACTION>__{Fern enters, sits down at the desk, places the end of the shotgun in his mouth, reaches for the trigger and… DING! Another car pulls up to the pump. Exasperated, he takes the gun out of his mouth.}
+<CHAR>__{FERN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(murmers to himself as he gets up)}
+<DIAL>__{Can't get anything done around here…}
+<LOC>__{EXT. PIGSKIN SPORTS BAR - DAY}
+<ACTION>__{A weathered dive in the middle of a swamp. Ace parks.}
+<LOC>__{INT PIGSKIN SPORTS BAR - DAY}
+<ACTION>__{If depression had a home, this is it. Several dejected men, with various degrees of missing teeth, sit around the bar. A couple hapless guys play pool. One throws darts. Ace enters, pops a sunflower seed in his mouth and addresses the room.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, guy?! My name is Ace Ventura, I'm a pet detective. I'd like to ask you a few questions if}
+<ACTION>__{I could. No one even looks at him.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Just a few questions, that's all.}
+<ACTION>__{Still no one reacts.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very up)}
+<DIAL>__{Who wants gum?!}
+<ACTION>__{Again, no reaction. Ace walks over to the bartender and slides a five across the bar.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I'm looking for a guy who used to work here.}
+<ACTION>__{The bartender takes the money.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{That right?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{He was a kicker for the Dolphins. Ray Finkle.}
+<ACTION>__{A pool ball flies by Ace's head shattering a mirror behind the bar. All eyes are on Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to guy who threw it)}
+<DIAL>__{That would be a scratch.}
+<CHAR>__{TOOTHLESS GIANT} <CHAR_PAR>__{}
+<DIAL>__{You a friend of Finkle's?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(thinks)}
+<DIAL>__{…Yes?}
+<ACTION>__{CRASH! The giant guy smashes his bottle.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Sorry, I have "say the opposite of what you mean" disease.}
+<ACTION>__{Several undesirables surround Ace.}
+<CHAR>__{TOOTHLESS GIANT} <CHAR_PAR>__{}
+<DIAL>__{That bastard ruined this town.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ewww… I hate that! HICK #2 We bet everything we had on that Super Bowl and that son of a bitch gagged.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What a diiick!}
+<ACTION>__{They all move closer in a threatening manner.}
+<DIAL>__{HICK #3 Shanked a goddamn 26 yarder!!!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Death to Finkle! Death to Finkle!}
+<ACTION>__{The bartender steps in.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{We had a hell of a thing going here. Tourists coming to see Ray Finkle's home town. He was standing right over there when he got the call from the Dolphins.}
+<ACTION>__{The bartender points to a payphone. It has had the shit beaten out of it. Every expletive you can think of is graffitied around it.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Did he come back after the Super Bowl?}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{Yeah… but the boys here had ways of letting him know he wasn't welcome. HICK #1 Excuse me, I gotta take a wicked Finkle.}
+<ACTION>__{Laughter.}
+<CHAR>__{TOOTHLESS GIANT} <CHAR_PAR>__{}
+<DIAL>__{What's the difference between Finkle and a jackass? A jackass can kick.}
+<ACTION>__{More laughter.}
+<DIAL>__{HICK #2 Why did Finkle cross the road?!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(facetious)}
+<DIAL>__{Wait…  I know this one. HICK #2 He didn't! And I've got the hair on my bumper to prove it!}
+<ACTION>__{Maniacal laughter and chanting ensues.}
+<CHAR>__{MOB} <CHAR_PAR>__{}
+<DIAL>__{FINKLE SUCKS! FINKLE SUCKS! FINKLE SUCKS!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{It's good you're dealing with the anger.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{I don't suppose anyone's seen him lately?}
+<ACTION>__{The chanting stops and the guys all look at Ace.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{No… but we know where his parents live! Don't we boys?! HICK #1 Yeah! We sure do!}
+<ACTION>__{They all laugh insanely again.}
+<LOC>__{EXT. HOUSE - DAY}
+<ACTION>__{Ace pulls up outside a two-story stilt house. The place has been completely desecrated by graffiti, bullet holes and paint bombs. Toilet paper is strewn through the trees. Ace walks up and knocks on the door. A wooden peephole slides open revealing a suspicious pair of eyes.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…Hi, I'm looking for Ray Finkle.}
+<ACTION>__{A gun slides out into Ace's face.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(with a gulp)}
+<DIAL>__{And a clean pair of shorts.}
+<ACTION>__{A deep gruff voice from inside.}
+<CHAR>__{VOICE} <CHAR_PAR>__{}
+<DIAL>__{What do you know about Ray Finkle?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Southpaw soccer style kicker. Graduated from Collier High in June, 1976. Stetson University honors graduate, class of 1980. Holds two NCAA division one records. One for most points in a season, one for distance. Former nickname The Mule. The first and only pro athlete ever to come out of Collier County. And one helluva model American.}
+<ACTION>__{After a beat the peephole closes. The door slowly creaks open revealing MR. FINKLE, an unsmiling, taciturn, elderly man holding the gun.}
+<CHAR>__{MR. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Are you another one of them scumbags from 'Hard Copy'?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{No, sir. I'm just a very big Finkle fan. This is my Graceland, sir.}
+<ACTION>__{Mrs. Finkle, a sweet, adorable elderly woman comes over.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Will you put that gun down. The boy's a fan of our son. So nice to meet you. I'm Ray's mother, and this is Ray's father.}
+<LOC>__{INT. FINKLE HOUSE - DAY}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{It's a real honor.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{My Ray is so appreciative of his fans. He'll be so pleased you stopped by.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Are you expecting Ray anytime soon?}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Oh, yes. I expect him home any minute.}
+<ACTION>__{Ace is surprised.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Would you like some cookies? I just baked them.}
+<ACTION>__{Mrs. Finkle hurries off to the kitchen. Ace smiles at Mr. Finkle. The guy's a corpse.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Wow… Ray Finkle's house! Can't wait to meet him!}
+<CHAR>__{MR. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Ray ain't comin' home.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{But your wife said you expect him home any minute.}
+<CHAR>__{MR. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{She expects him home any minute.}
+<ACTION>__{He points to his head, and looks toward the kitchen.}
+<CHAR>__{MR. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Engines runnin but there's no one behind the wheel. Ten years ago our son escaped from Shady Acres Psychiatric Hospital in Tampa. They're still buggin' us to pick up his stuff.}
+<ACTION>__{Mrs. Finkle returns with a plate of football shaped cookies.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sweetly)}
+<DIAL>__{It was all that Dan Marino's fault, everyone knows that. If he had held the ball laces out, like you're supposed to, Ray would never have missed that kick. Dan Marino should die of Gonorrhea and rot in Hell. Would you like a cookie, son?}
+<ACTION>__{Ace takes a cookie. Holding it up.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hey, what do ya know. They're little footballs.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Laces OUT!}
+<ACTION>__{CRASH!! A large stone smashes through the window. Outside, a pickup truck filled with drunken patrons from the Pigskin Sports Bar drives by yelling their Finkle chant.}
+<CHAR>__{MOB} <CHAR_PAR>__{}
+<DIAL>__{FINKLE SUCKS! FINKLE SUCKS!…}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{I told you he had a lot of fans.}
+<ACTION>__{Mrs. Finkle picks up the rock and hurls it out the broken window. It hits one of the vandals, knocking him out cold, as the truck peels away.}
+<CHAR>__{MR. FINKLE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(aside to Ace)}
+<DIAL>__{She got the arm. The boy got the leg.}
+<LOC>__{INT. HALLWAY - A SHORT TIME LATER}
+<ACTION>__{Mrs. Finkle and Ace are walking down the hallway to Ray's room.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{When Ray gets back and starts kicking again, he'll never even know he was gone. I kept his room just the way he left it.}
+<ACTION>__{She opens the door to Ray's room. Ace steps in.}
+<LOC>__{INT. RAY'S ROOM - CONTINUOUS}
+<ACTION>__{It's a death shrine to Dan Marino. Complete with lifesize cutouts of Dan Marino, some with nooses around the neck, other hacked to pieces. Painted on the walls: "Death to Marino!", Marino must die!!!, etc.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{…Oooh boy.}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{What a sports nut, huh?}
+<ACTION>__{In the center of the room is a movie projector.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{May I?}
+<CHAR>__{MRS. FINKLE} <CHAR_PAR>__{}
+<DIAL>__{Oh yes. By all means.}
+<ACTION>__{Mrs. Finkle shuts the lights off. Ace turns on the projector. The film flickers over the "Marino must die!!!" graffiti. It's the final play of the Super Bowl. Marino takes the snap, Finkle kicks and the ball sails wide. The film repeats itself ad infinitum.}
+<LOC>__{EXT. BILBO'S GAS STATION - DAY}
+<ACTION>__{Ace on the payphone. We see the gas station in the background.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Melissa, it's Ace.}
+<LOC>__{INT. MELISSA'S OFFICE - DAY}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ace? Where are you?}
+<TRANS>__{INTERCUT ACE:}
+<ACTION>__{/MELISSA}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I'm in Psychoville and Finkle's the Mayor. Where's Dan Marino?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Marino? Why?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Because he's about to join Snowflake. I gotta know where he is.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Okay, hold on…}
+<ACTION>__{Melissa checks Marino's itinerary. Ace waits, impatiently.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Come on. Come on…}
+<ACTION>__{In the background, we see two paramedics exit the gas station office rolling a dead body on a gurney. The area of the sheet that covers the face is a giant red spot. We widen to see them load good old Mr. Bilbo into an ambulance and drive away, ringing the station bell one more time. Ace doesn't notice.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ah, he had practice. Then… he has a commercial shoot out at the Prescott Sound Stage.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Where is that?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{It's on Route One by the Six Cut Off. Thirty minutes outside of town.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Okay, that's about fifteen miles from me. Call the police. Get extra security over there now.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ace, tell me what's going on.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Ace?…}
+<ACTION>__{The payphone dangles off the hook. Ace is…}
+<LOC>__{EXT. HIGHWAY ONE - DAY}
+<ACTION>__{…in his car racing out of the swampland, his heaad now back out the window so he can see. He leaves a faded, old, barely legible sign in his wake: "WELCOME TO COLLIER COUNTY. HOME OF RAY FINKLE" The "F" in "FINKLE" has been replaced with "ST" in spray paint.}
+<LOC>__{INT. PRESCOTT STUDIOS - DAY}
+<ACTION>__{Rehearsal for an Isotoner ad in progress.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{…So I protect the hands that protect me. With Isotoners.}
+<ACTION>__{Marino gets carted off by FIVE HUGE LINEMEN.}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{Good. Remember, exit camera right. That's to your left. Alright, let's get ready to shoot this.}
+<ACTION_ALT>__{FIRST A.D.}
+<DIAL_PAR>__{(to the linemen)}
+<DIAL>__{Helmets on this time!}
+<ACTION>__{The linemen disperse.}
+<LOC>__{EXT. STREET - DAY}
+<ACTION>__{Ace runs a red light causing cars to skid in every direction.}
+<LOC>__{INT. PRESCOTT STUDIO - DAY}
+<ACTION>__{Marino is in the make-up chair.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to make-up girl)}
+<DIAL>__{See, in 82 we just choked. We had a chance to win it and we didn't –}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{Dan, are you ready?}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Ah, sure.}
+<DIAL_PAR>__{(to girl)}
+<DIAL>__{I'll tell you later.}
+<LOC>__{EXT. STUDIO - DAY}
+<ACTION>__{The cops race onto the lot.}
+<LOC>__{INT. STUDIO - DAY}
+<ACTION>__{Marino takes center stage.}
+<ACTION_ALT>__{A.D.}
+<ACTION>__{Quiet on the set… roll… speed…}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{…And action!}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Hi, I'm Dan Marino. If anyone knows the value of protection, it's me…}
+<ACTION>__{We see an old clip of Marino getting sacked.}
+<LOC>__{EXT. STUDIO - DAY}
+<ACTION>__{Cops scramble on foot to the sound stage.}
+<LOC>__{INT. STUDIO - DAY}
+<ACTION>__{The commercial is winding up. The linemen ready themselves.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{…So I protect the hands that protect me. With Isotoners.}
+<ACTION>__{The five linemen grab Marino and run off camera.}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{And cut! That was good. Again from one.}
+<ACTION>__{But two of the linemen keep running with Marino…}
+<CHAR>__{DIRECTOR} <CHAR_PAR>__{}
+<DIAL>__{I said cut!!}
+<ACTION>__{…And they keep running.}
+<CHAR>__{DIRECTOR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What the hell are they doing?}
+<ACTION>__{…Right out the studio door. Then the cops arrive and race after them. Two linemen stumble out of the dressing room holding their heads.}
+<LOC>__{EXT. SOUND STAGE - DAY}
+<ACTION>__{Ace skids around a corner, looking way up ahead. He sees Marino being shoved into a black 81 Ford Bronco. They drive off. The cops come out of the building on foot. Too late. Ace in hot pursuit almost runs the cops down.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(yelling at cops)}
+<DIAL>__{S'cuse meee! Pet Detective!}
+<LOC>__{EXT. CITY STREETS - DAY}
+<ACTION>__{Ace's head is out the driver's window through the entire chase. As he starts gaining on the bad guys, they start shooting. Ace wisely puts his head inside the car. ACE'S POV He can't see shit through his broken windshield. He pokes his head out again. They shoot again. Ace swerves off the road into…}
+<LOC>__{EXT. PARK - DAY}
+<ACTION>__{Ace's car smashes through benches and tables. Then it flips over a few times and lands on its wheels with a horrid SMASH. Ace is still strapped into the drivers seat, unconscious. Ace's prized WHITE PIGEON lands on the car door right beside him. Ace cracks his eyes and sees the bird. Then, with a sudden quick lunge he successfully traps it in his hands, and forgets all about Marino.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I did it! I did it! I caught the white pigeon! I caught the white pigeon!}
+<ACTION>__{Ace jumps out of his car and starts skipping around the park with the pigeon held high over his head. He looks insane.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(singing)}
+<DIAL>__{I caught the white pigeon, I caught the white pigeon, I caught the white…}
+<ACTION>__{Ace slows down and begins to look around warily. There are now an unusual number of birds perched on the telephone wires around the park and on the monkey bars, and on the swings. The sky grows darker. He slowly turns and tries to get back to the car. All the birds take flight. Ace sets the white pigeon free and starts to run, but it's too late. The birds are on him. Pecking, and gouging, and ripping his flesh. Now we see ten birds flying away with a leg. Five birds flying away with an arm. Twenty others are trying to take Ace's left arm off, and half his face is missing…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{AAAAAAAAAAHHHHHHHHHHHH!!!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. PARK - DAY}
+<ACTION>__{Ace is back in his wrecked car with his arm hanging out the window. A small boy is pulling it.}
+<CHAR>__{BOY} <CHAR_PAR>__{}
+<DIAL>__{Hey mister. Hey mister.}
+<ACTION>__{Ace come to suddenly, and looks at the boy with a crazed expression.}
+<CHAR>__{BOY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That was a really neat crash, mister. Do it again!}
+<ACTION>__{Ace sighs with relief.}
+<LOC>__{EXT. MIAMI - DAY}
+<ACTION>__{Various headlines hit the news stands: "MARINO KIDNAPPED" "STAR QB MISSING" "DAN WHERE ARE YOU?" THE GLOBE HEADLINE: "MARINO ABDUCTED BY ALIEN FRANCHISE!" On the cover, Marino stands with several Space Aliens in football gear.}
+<LOC>__{EXT. POLICE STATION - LATER THAT DAY}
+<ACTION>__{A chaotic press conference. Zillions of REPORTERS shout all kinds of questions at Einhorn.}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{Lieutenant, have there been any ransom demands?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{There's been no communication with the kidnappers at this time. REPORTER #2 What's going to happen to the Super Bowl? Will it be postponed?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{As of now, the game is going on as scheduled. REPORTER #3 Why wasn't the public told about Snowflake's kidnapping?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Secrecy was essential. We didn't want any public interference.}
+<CHAR>__{REPORTER} <CHAR_PAR>__{}
+<DIAL>__{Are the crimes related? And what about Roger Podacter's murder?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. I can't comment any further. Now if you'll excuse me.}
+<ACTION>__{Einhorn pushes her way through the crowd of reporters.}
+<LOC>__{INT. POLICE STATION - MOMENTS LATER}
+<ACTION>__{Einhorn is barking out orders to other cops as she heads for her office.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Emilio, get me the autopsy on Podacter! Aguado, send out a memo. No one talks to the press…}
+<LOC>__{INT. EINHORN'S OFFICE - CONTINUOUS ACTION}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{…And somebody get me a cup of coffee!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TV announcer's voice)}
+<DIAL>__{Tonight on "MIAMI VICE", Crockett geets the boss coffee!}
+<ACTION>__{Ace is in her office, popping sunflower seeds, kicking back. Einhorn walks to her private bathroom.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Ventura, when I get out of this bathroom, you better be gone.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Is it number one or number two?}
+<ACTION>__{Einhorn turns and glares at Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I just want to know how much time I have.}
+<ACTION>__{Einhorn goes to the sink and begins washing her hands.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oh, by the way, I went ahead and solved that pesky, Snowflake/Podacter/Marino thing.}
+<CHAR>__{EINHORN } <CHAR_PAR>__{(O.S.)}
+<DIAL_PAR>__{(humoring him)}
+<DIAL>__{Oh yeah?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{yeah, ever hear of a former Dolphin kicker named Ray Finkle?}
+<ACTION>__{The water shuts off. Einhorn appears around the corner.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Alright, Ventura. Make it quick.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I found a rare stone at the bottom of Snowflake's tank. It's from a Dolphin '82 AFC Championship ring. It would have been a Super Bowl ring, but Ray Finkle missed the big kick. Blames the whole thing on Marino. We're talking paranoid, delusional psychosis. I saw the guy's room… Cozy, if you're Hannibal Lector.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{So how does Roger Podacter fit in?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{My guess is Finkle was snooping around. Podacter recognized him. End of story. As for Snowflake… they gave him Finkle's number, and taught him how to kick a field goal. Finkle took it personally.}
+<ACTION>__{Einhorn listens with great interest.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{So where is Finkle, now?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{He broke out of a metal hospital. Did a Claude Raines. He's been planning his revenge for years. Waiting for the perfect time to get back at the Dolphins. The time when it would hurt them the most. Super Bowl time! Man, I'm tired of being right!}
+<ACTION>__{Einhorn walks in front and sits on the edge of the desk. She's totally softened her demeanor.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Congratulations. You've done some fine detective work, Ace.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ahh, could you talk in my good ear. I thought I heard you call me Ace.}
+<ACTION>__{Einhorn gets real close.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Maybe I was wrong about you. Maybe you are more than just a pet dick.}
+<ACTION>__{SHE SUDDENLY PLANTS A MAJOR, TONSIL CLEANING, OPEN MOUTHED KISS ON ACE. Objects are knocked off the desk as they lean back.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Your gun's digging into my hip.}
+<ACTION>__{More kissing, the Ace stops.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still coming on)}
+<DIAL>__{What's wrong, Ace? Want me to read you your rights?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Maybe later.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{What is it? That bony little bitch, Melissa Robinson?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(defensive)}
+<DIAL>__{No. You just don't do anything for me.}
+<ACTION>__{He quickly adjusts his crotch, to conceal the erection. Einhorn withdraws with a coy smile.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{I'll be here if you ever want a real woman.}
+<ACTION>__{There's a sharp KNOCK at the door.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{What is it?}
+<ACTION>__{Aguado opens the door.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{Everything okay in here?  Heard some commotion.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Fine, Sergeant.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{You want me to throw him out?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Why don't you throw yourself out.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{…Yes, ma'am.}
+<ACTION>__{A crestfallen Aguado exits. Ace heads for the door.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Ace, I want you to leave everything to us.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Can't do that, Lieutenant. I was hired to find Snowflake.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{When we find Marino, We'll deliver Snowflake.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{When I find Snowflake, I'll deliver Marino.}
+<ACTION>__{He exits.}
+<LOC>__{INT. TEA ROOM - NIGHT}
+<ACTION>__{A full on thrash metal band is cranking on stage. Kids leap wildly into the moshing pit. The same Burnout is still thrashing his head wildly to the music.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Nice to see you again!}
+<ACTION>__{The Burnout just keeps thrashing. Ace spots Woodstock watching the band and joins him.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{St. Francis, how's it goin'?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(kidding)}
+<DIAL>__{That's none of your damn business.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Isn't it?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Is it?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Anything new on that dolphin?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Got his picture on some tuna cans, but nothing so far.}
+<ACTION>__{A singer ROARS on stage. He sounds like a garbage disposal full of cutlery.}
+<ACTION_ALT>__{SINGER}
+<ACTION>__{Arroohhghhh! Myrrrooohghhhh! Geroooghhh!}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{So, what can I do for you today?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I need info on a football flunky named Ray Finkle.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Ace, I can't help you right now. I gotta watch this band! They are the shit!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Are they?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Aren't they?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Alright then. Don't worry about it. I mean dolphins aren't exactly an endangered species. It's not like the whole food chain's gonna be affected if one highly intelligent mammal dies a slow and painful death! Hell, if the band is loud enough, you won't even hear its pitiful whimpering!!}
+<ACTION>__{Ace does his best suffering dolphin impression. Woodstock is no longer enjoying the band.}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. BASEMENT - NIGHT}
+<ACTION>__{Woodstock is at his computer. Ace looks over his shoulder. Finkle's Social Security information appears on the screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{This guy's last reported income was September, 1982.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well then. We know he's incredibly thrifty.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Is he?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Isn't he?}
+<ACTION>__{Woodstock types in more information. Finkle's TRW flashes on the screen.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Well, I think we can be pretty sure he's involved in the kidnapping of the dolphin.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Really? What makes you say that?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{There's two-thousand dollars worth of smelts on his VISA card.}
+<ACTION>__{After a beat Ace realizes it was a bad joke.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Please yank me no further. I beg of you.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Alright already. The last time this guy used his credit card was June, '84. He rented a car from Avis. And… eww… he was a bad boy. They found it abandoned two months later in South Miami.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Anything else?}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Nope.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well… you did all you could. Thanks for nothin.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Hey man, according to this, your friend Ray Finkle doesn't exist.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hmm, I know what that's like.}
+<CHAR>__{WOODSTOCK} <CHAR_PAR>__{}
+<DIAL>__{Do you?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Don't I?}
+<LOC>__{INT. TEA ROOM - NIGHT}
+<ACTION>__{Ace emerges from the basement. The band is between songs. Ace strolls by the burnout whose head has now stopped.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to burnout)}
+<DIAL>__{Did you get all the spiders outta there?}
+<ACTION>__{Ace heads out, then freezes. The two thugs that took Marino are standing at the exit. Then they see Ace and start towards him, reaching inside their coats. Suddenly the music starts. The burnout's head wails again. His manic gyrations interfere with the thugs long enough for Ace to bolt. One of the thugs pushes the burnout violently against the wall as they pursue Ace.}
+<ACTION_ALT>__{BURNOUT}
+<DIAL_PAR>__{(calling, as he gets up)}
+<DIAL>__{Thanks, man! You're a great dancer!}
+<ACTION>__{Ace pushes his way through the crowd. The thugs follow. Ace nears the stage. It's wild. People are diving off and getting moshed. Before the thugs grab him, Ace runs up and throws himself from the stage. The insane crowd begins to pass him around over their heads. The thugs exchange a look, then dive after Ace, and a "mosh" chase ensues. Ace is passed back onto the stage as the song comes to an end. The singer is lying there exhausted. Ace sees the crowd starting to put the thugs down, so he quickly grabs the microphone off the floor.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screams)}
+<DIAL>__{ONE, TWO, THREE, FOUR, SPANK ME MOMMY!!!}
+<ACTION>__{The audience looks at Ace for a second. Then the band members exchange a look and go for it!! It's a nightmarish little ditty. Ace sings like one of Satan's minions.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{URGHHUURRAAAW! ARGHUURRRREEEW!}
+<ACTION>__{The crowd seems to understand. They throw the thugs high in the air again and mosh them away from the stage. The Thugs are shooting stray bullets the whole time. Ace incites the crowd, even more now, with a punching gesture. The crowd follows their new leader, punching with one hand, moshing with the other. The thugs get the living crap "moshed" out of them. When the song ends, Ace raises fists in the air. The cheering crowd violently drops the thugs. They're out cold.}
+<LOC>__{EXT. TEA ROOM - NIGHT}
+<ACTION>__{Ace's car PEELS OUT and races by the parked '81 Ford Bronco.}
+<LOC>__{EXT. MELISSA'S APARTMENT - NIGHT}
+<ACTION>__{Ace's car skids to a halt. He hops out.}
+<LOC>__{INT. MELISSA'S APARTMENT - NIGHT}
+<ACTION>__{There's a loud BANGING at the door. Melissa awakens, looks at the clock: 3:32 a.m. She drags herself to the door.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Who is it?}
+<CHAR>__{ACE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Ira.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ira who?}
+<CHAR>__{ACE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I refuse to do a 'knock knock joke'. Come on, open up!}
+<ACTION>__{Melissa opens the door.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Ace, what are you doing? It's the middle of the night!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You have to commit me.}
+<LOC>__{EXT. HIGHWAY - DAWN}
+<ACTION>__{Ace's clunker speeds down the highway.}
+<CHAR>__{ACE } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{Finkle escaped from Shady Acres in Tampa. They still have some of his stuff.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(V.O.)}
+<DIAL>__{So you think they're going to let us just waltz in and look around?}
+<LOC>__{EXT. SHADY ACRES - ESTABLISHING - DAY}
+<ACTION>__{A state hospital located on acres of green, manicured lawns.}
+<LOC>__{INT. SHADY ACRES - DAY}
+<ACTION>__{The reception area. A DOCTOR is before Melissa.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Mrs. Robinson? I'm Doctor Handly. Now who is it that you'd like to have us look at?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{My brother… Eugene.}
+<ACTION>__{ANGLE ON ACE - Looking like the football player who never wore a helmet.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{I'm ready to go in, Coach. Just give me a chance. I know there's a lot riding on it, but it's all psychological. Got to stay in a positive frame of mind. Memorize the play book. Study the films.}
+<ACTION>__{Ace strikes a dramatic pose and freezes, with a crazed look on his face.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CON'T)}
+<DIAL>__{I'm gonna execute a button-hook pattern!}
+<ACTION>__{He begins to make a play in slow motion.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CON'T)}
+<DIAL>__{Super slo-mo!}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. SHADY ACRES HOSPITAL - DAY}
+<ACTION>__{Melissa walks with the Doctor. Patients are sitting around, doing outdoor therapy, etc.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{You're brother won't be the first professional football player we've treated.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Is that right?}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Yes. We're very sensitive to the emotional stress athletes have to endure.}
+<ACTION>__{Ace runs across the b.g. screaming "I'm open! I'm open!"}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{We'll have to do some preliminary evaluations, but I think your brother will fit in nicely here.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{That's a relief, Doctor.}
+<ACTION>__{Ace takes a "snap" from a three-foot hedge and dives over it into the end zone. Melissa and the doctor stop to watch him.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{He seems to have some difficulty letting go of the game. Has he had a long history of mental illness?}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(truthfully)}
+<DIAL>__{As long as I've known him.}
+<ACTION>__{Ace does a wild touchdown dance with some of the other patients participating.}
+<LOC>__{INT. SHADY GLADE ACRES - HALLWAY - DAY}
+<ACTION>__{The doctor is showing Melissa around. Ace is walking alongside them adjusting his imaginary shoulder pads.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{This is our therapy room… Arts and crafts…}
+<ACTION>__{They turn a corner. Ace squats to pick the dirt out of his cleats.}
+<CHAR>__{DOCTOR } <CHAR_PAR>__{(CON'T)}
+<DIAL>__{That's the storage room. This hallway leads to another recreational area –}
+<ACTION>__{Ace WHISTLES loudly and gestures like a referee…}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{HALFTIIIIME!!}
+<ACTION>__{Ace sticks his head in the water fountain then sits down on the bench outside the storage room.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{He'll be fine by himself for the next twenty minutes.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Well, why don't I show you the dormitories, then?}
+<ACTION>__{They leave Ace. After a beat, Ace gets up and does a quick spin pattern into the storage room door.}
+<LOC>__{INT. STORAGE ROOM - CONTINUOUS ACTION}
+<ACTION>__{Cartons everywhere. Ace does a quick search and locates several boxes maked FINKLE. Ace looks through the first couple of boxes and finds only clothes. In the third box, he hits the jackpot: He finds sicko arts and crafts dedicated to Marino. Die-Dan potholders, shredded Isotoner gloves. He opens a little diary. "Laces Out!" is insanely scrawled on every page. Ace finds a newspaper clipping, the headline reads:}
+<ACTION_ALT>__{SEARCH CALLED OFF FOR MISSING HIKER}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading)}
+<DIAL>__{A massive search ended today when rescue workers were unable to find the body of Lois Einhorn…}
+<DIAL_PAR>__{(stunned)}
+<DIAL>__{…a camper reported lost since Friday…}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Lois Einhorn… holy shit balls.}
+<ACTION>__{Ace sits bewildered.}
+<LOC>__{INT. POLICE STATION - DAY}
+<ACTION>__{The phone rings at Emilio's desk. He answers it.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Echavez.}
+<LOC>__{INT. SHADY ACRES - HALLWAY - DAY}
+<ACTION>__{Ace is on the phone. A CRAZY GUY is hovering nearby.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{This is Chicken Little. The sky is falling.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<ACTION_ALT>__{BACK TO EMILIO}
+<ACTION>__{A beat as he listens to Ace's news.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{I don't get it. What's it mean?}
+<TRANS>__{INTERCUT ACE:}
+<ACTION>__{/EMILIO}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{It means she's involved in this. The article's dated the day before Finkle disappeared.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Before who disappeared?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Finkle. Ray Finkle… the guy who took the dolphin? The guy you're supposed to be looking for?! Einhorn didn't tell you, did she?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Hey, Ace. I see where you're goin' with this and you're goin' alone.}
+<ACTION>__{A Crazy Guy stands next to Ace now and begins mimicking everything he says.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Come on, E. I tell her about Finkle, she doesn't tell a soul. I have an article here that connects her with Finkle. You gotta' check her out.}
+<DIAL_PAR>__{(to Crazy Guy mimicking)}
+<DIAL>__{Do you mind?}
+<ACTION>__{The Crazy Guy stops and moves to one of the phones.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Ace, I like my job. I get health insurance and benefits.}
+<CHAR>__{CRAZY GUY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into receiver)}
+<DIAL>__{I'm the Lindberg Baby. Come and get me.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Emilio, Einhorn is involved. You're gonna' have to make a decision here.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Listen, I gotta get off the phone. I think I just solved the Lindberg case.}
+<ACTION>__{Melissa and the Doctor return.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Well, look who's trying to use the phone.}
+<ACTION>__{Ace covers the phone receiver and whispers to them in a heartfelt voice.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Brian Piccalo is dead.}
+<ACTION>__{Ace breaks down. Melissa hangs up the phone and leads him away. We hear a thrash version of the theme to "Brian's Song" as they exit the hospital.}
+<LOC>__{INT. POLICE STATION - NIGHT}
+<ACTION>__{Emilio stands at a window, watching Einhorn drive off. The coast is clear so he sneaks into…}
+<LOC>__{INT. EINHORN'S OFFICE - CONTINUOUS}
+<ACTION>__{He rifles through her file cabinet. He tears through papers. Then he looks in her desk. Stuffed in the back of the drawer he finds a personal note: We can make out the signature. Roger. He pockets it and walks out.}
+<LOC>__{EXT. MELISSA'S APARTMENT - NIGHT}
+<ACTION>__{Ace and Melissa pull up in the old heap.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Good job today. You're quite a dirty rotten filthy liar.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(flattered)}
+<DIAL>__{Thanks. Are you sure you don't want to stay here with me?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Naw, I got some thinking to do. Besides, you'd be safer with Salman Rushdie}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<ACTION>__{She gets out of the car, then turns and leans in the window.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Listen… I know there isn't much time left. The game is tomorrow. But I know you've done your best. It's just an impossible situation. I don't expect..}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hey…}
+<ACTION>__{Ace leans over and kisses her.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{…bet on the Dolphins.}
+<LOC>__{INT. ACE'S APARTMENT - LATE NIGHT}
+<ACTION>__{CLOSE UP: ANSWERING MACHINE Wiggles' nose enters frame and hits the play button.}
+<DIAL>__{MESSAGE #1}
+<DIAL_PAR>__{(Shickadance rasp)}
+<DIAL>__{Venturaaaa? Your time is up! You're out! You hear me?! No rent… no roof!}
+<ACTION>__{We widen to find Ace on the couch listening.}
+<DIAL>__{MESSAGE #2 Ace, it's E. Got something you might find interesting. It's a note from Podacter to Einhorn, thanking her for a wonderful Saturday night. This is too weird, man?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Wiggles, rewind.}
+<ACTION>__{Wiggles obediently hits another button and rewinds the phone tape. Ace pops sunflower seeds, and holds some evidence aloft thinking. A bird eats seeds out of his naval.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What the hell does Lois Einhorn have to do with Ray Finkle? Come on, think!}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{Later. Ace is posed like Rodin's "The Thinker".}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Finkle and Einhorn. In it together. How? Why?}
+<ACTION>__{A small monkey sits in the same position. Mocking Ace.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{Later still. Ace pacing, jumping up and down. Trying to get his intuitive juices flowing. The monkey is likewise, jumping on the mantle.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Alright! Here we go! Answer's right there! Just gotta get some blood to the brain! Finkle and Einhorn! Finkle and Einhorn! Finkle and Einhorn! Finkle and Einhorn!}
+<ACTION>__{The animals all watch him like he's crazy.}
+<TRANS>__{DISSOLVE TO:}
+<ACTION>__{Daybreak. Ace sits staring at a picture of Finkle on the coffee table. He's totally spent and on the verge of tears.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whimpering)}
+<DIAL>__{Finkle and Einhorn. Einhorn and Finkle.}
+<ACTION>__{He turns to see the monkey crashed out in a heap on a sofa pillow.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to sleeping monkey)}
+<DIAL>__{Quitter.}
+<ACTION>__{Wiggles jumps up onto the coffee table now. Ace can't be bothered with him.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What do you want? Huh?}
+<ACTION>__{Wiggles whines at the tone of Ace's voice.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What? I got no food for you. You gotta have money to buy food. I gotta find the dolphin to get the money. I don't see any dolphins around here, do you? Face it, it's hopeless… your master is a LOSER.}
+<ACTION>__{Ace buries his face in his hands. His dog Wiggles does the same. Then Ace looks up again.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{LOO… HOO…}
+<ACTION>__{Suddenly he is silenced by something amazing. Wiggles' dark haired floppy ears are lying around Finkle's picture like a wig. Ace combs the hair over the head shot. The "make-over" is unmistakable. It's Einhorn!!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oh, my god! That's it!}
+<ACTION>__{He jumps up, estatic.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Einhorn is Finkle! Finkle is Einhorn!… Einhorn is a man!!!}
+<ACTION>__{Ace's expression quickly turns sour.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{OH MY GOD!!! EINHORN IS A MAN!!!}
+<ACTION>__{MUSIC UP: AEROSMITH'S DUD LOOKS LIKE A LADY… Ace makes a mad dash into the bathroom.}
+<LOC>__{INT. ACE'S BATHROOM - MORNING - QUICK CUTS}
+<ACTION>__{…Ace furiously brushes his teeth. …Ace rinses with mouthwash, spits it out and gags. …Ace is in the shower. He slowly curls up into a ball under the steaming water with an expression of horror on his face.}
+<LOC>__{INT. EINHORN'S HOUSE - DAY}
+<TRANS>__{CLOSE UP:}
+<ACTION>__{A woman's leg being shaved. Woman sexily putting on nylons. Woman hands squeezing perfume bulb. Woman's hand putting on AFC championship ring. One stone is missing.}
+<LOC>__{EXT. EINHORN'S HOUSE - CONTINUOUS}
+<ACTION>__{Ace sticks wads of gum in his mouth while he watches Einhorn's house from his car.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(remembering)}
+<DIAL>__{You're gun is sticking into my hip. Yeeeekkkk!}
+<ACTION>__{Einhorn comes out her front door and gets into her car. Ace shudders once more and then follows her.}
+<LOC>__{EXT. MIAMI STREET - DAY}
+<ACTION>__{The road is jammed in one direction. Going towards the Super Bowl. Einhorn drives in the opposite direction. Out of town. Ace tails her at a safe distance, with his head out the window, of course.}
+<LOC>__{INT. BOBBY RIDDLE STADIUM - DAY}
+<ACTION>__{Various shots of crazy fans, piling into the stadium.}
+<LOC>__{INT. STADIUM OWNER'S BOX - DAY}
+<ACTION>__{Melissa, BOBBY RIDDLE, and GUESTS all amidst the usual pre-game hobnobbing. Most of the talk centers on the loss of Marino. Emilio, in full uniform, and a couple cops are providing extra security for the box.}
+<LOC>__{EXT. HIGHWAY ONE - DAY}
+<ACTION>__{Einhorn drives south out of town. The area's getting remote. Ace follows. Einhorn turns down a deserted road and comes to…}
+<LOC>__{EXT. INDUSTRIAL PLANT - DAY}
+<ACTION>__{A large, abandoned industrial facility. Einhorn parks, disappears inside… A few beats later, Ace kills the engine and exits singing the score to "Mission Impossible".}
+<LOC>__{INT. INDUSTRIAL PLANT - DAY}
+<ACTION>__{Immense machines and swimming pool sized cauldrons. Ace cautiously makes his way through the desolate site, singing quietly now. He stops when he hears a familiar voice.}
+<CHAR>__{JOHN MADDEN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I particularly like the match-ups of the defense.}
+<ACTION>__{Ace sees a weird sight: A HUGE TV PROJECTION SCREEN tuned to the Super Bowl pre-game show. Marino is tied to a football tackling sled. The two thugs take turns running into Dan with their shoulders, driving him back five feet each time.}
+<CHAR>__{JOHN MADDEN } <CHAR_PAR>__{(ON TV)}
+<DIAL>__{…But the real story of this game is the absence of Dan Marino. Him being kidnapped and all has got to be a strain on this Miami team. I really feel sorry for those guys! I mean, it's hard enough enduring the pressure of the Super Bowl, without your star quarterback gettin' himself kidnapped. This is the whole ball of wax, folks! You wanna' get kidnapped, you do it in the off season!…}
+<ACTION>__{Marino looks incredulously at the screen. Next to him, Snowflake "watches" from a ground level cistern serving as an ad hoc tank. Ace sneaks closer.}
+<LOC>__{INT. BOBBY RIDDLE STADIUM - DAY}
+<ACTION>__{The crowd quiets as Jon Bon Jovi prepares to sing the National Anthem. Various shots of fans all standing at attention. In the owners box, Melissa looks to Emilio. Nothing's new.}
+<LOC>__{INT. INDUSTRIAL PLANT - DAY}
+<ACTION>__{Einhorn is now in front of the big screen TV SINGING the National Anthem along with Bon Jovi. The thugs, VINNIE and ROC, are behind her standing at attention. The song ends. The crowd cheers. In a sultry fashion Einhorn circles Marino now.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{I just love Super Bowl Sunday, don't you, Dan? A magical afternoon where dreams are made… or crushed!}
+<CHAR>__{DAN} <CHAR_PAR>__{}
+<DIAL>__{Look lady, if you want tickets, you're going about it in the wrong way.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Do I look familiar to you, Dan? Does it seem as if we've met someplace before?}
+<CHAR>__{DAN} <CHAR_PAR>__{}
+<DIAL>__{I don't know… I get hit in the head a lot!}
+<ACTION>__{On the TV the ref makes an announcement.}
+<ACTION_ALT>__{REF}
+<ACTION>__{It's tails. The Eagles will receive. Dan really struggles now.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Oops. Looks like we're going to have to kick, Dan.}
+<ACTION>__{Einhorn steps behind a football set up on a tee. And in perfect sync with the kicker on TV, she boots a ball through a window of the warehouse. Marino doesn't know what to think.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{I made some refreshments, Dan. Would you like some refreshments, Dan? I'll be right back, Daaaan!!}
+<ACTION>__{She goes. Dan struggles, but to no avail.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Look, I don't know how much psycho woman is paying you guys, but I can double it.}
+<CHAR>__{VINNIE} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Danny boy. Psycho woman keeps us out of prison.}
+<ACTION>__{Vinnie grabs a feeder fish and entices Snowflake to the surface. Roc raises a football.}
+<ACTION_ALT>__{ROC}
+<ACTION>__{Hey, Marino, check it out. I'm throwin' passes to a Dolphin! He chucks the ball and hits Snowflake, hard. The thugs both laugh hysterically. Snowflake makes an angry leap and drenches the thugs. Snowflake laughs now, the thugs are furious.}
+<CHAR>__{VINNIE} <CHAR_PAR>__{}
+<DIAL>__{Get some more fish!}
+<LOC>__{INT. BEHIND MACHINERY - CONTINUOUS}
+<ACTION>__{Roc walks behind a big piece of machinery, reaches down for the pail of smelts, but sees nothing.}
+<ACTION_ALT>__{ROC}
+<ACTION>__{Where the hell's the smelts? He stands up straight and we all hear that familiar "Pop" of a sunflower seed being cracked open. Roc's eyes widen. He turns and sees… Ace coyly smiles at him, blows the sunflower seed shells into his face and CLANG! He whacks Roc in the head with a pail full of fish.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(doing Brando)}
+<DIAL>__{He sleeps with the fishes.}
+<LOC>__{INT. INDUSTRIAL PLANT - CONTINUOUS}
+<CHAR>__{VINNIE} <CHAR_PAR>__{}
+<DIAL>__{Hey Roc, what the hell was that?}
+<ACTION>__{Vinnie cocks his gun and goes to check out the sound.}
+<LOC>__{INT. BEHIND MACHINERY - CONTINUOUS}
+<ACTION>__{Vinnie rounds the corner and sees nothing. He walks a little further and notices a trail of smelts lined up on the ground. He follows the trail around a corner and we see Roc, unconscious but moaning. He is sitting against the ground, with his legs spread apart and the pail over his head. The trail of smelts leads to his crotch. There is one halfway into his zipper, with its tail flipping. Vinnie takes in this sight, then rushes over to Roc and stands him up.}
+<CHAR>__{VINNIE} <CHAR_PAR>__{}
+<DIAL>__{Hey man! What happened? What's goin on…?}
+<ACTION>__{We see Ace at the top of a giant machine. He is aiming a 200 pound steel hook, that hangs on a chain from the ceiling.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Guess what, boys, it's nap time.}
+<ACTION>__{Ace gently releases the hook. Just as Vinnie and Roc turn to look, the iron hook shears both of their heads clean off. Two headless bodies fall to the ground in slow motion with blood gushing from their necks. CLOSE ON ACE - HORRIFIED}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Hooooly Shiiit! Oh my god! I didn't mean to - Oh man!!!}
+<ACTION>__{Ace holds his head and dances around, completely freaking out what he had done.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking to God)}
+<DIAL>__{Lord, I swear! I just wanted to knock them out!}
+<ACTION>__{Ace abruptly stops to think.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Is that murder? I don't know. They were gonna kill me. But they didn't… But they tried. That's self defense. That's it!! I have nothing to worry about!!}
+<TRANS>__{CUT TO:}
+<ACTION>__{Ace nervously whistling as he wipes his fingerprints off the hook.}
+<LOC>__{INT. IRONWORKS FACTORY - FACTORY}
+<ACTION>__{Ace checks on Snowflake then goes to Marino. He signals for Dan to keep quiet, then starts to untie him.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Who are you?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Ace Ventura. Pet detective. I've been sent in with a special play.}
+<DIAL_PAR>__{(whispers)}
+<DIAL>__{Quarterback sneak.}
+<ACTION_ALT>__{WE HEAR THE CLICK OF A GUN.}
+<CHAR>__{EINHORN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Penalty. Too many men on the field.}
+<ACTION>__{Ace turns. Einhorn's holding a gun on them from the other side of Snowflake's tank.}
+<CHAR>__{EINHORN } <CHAR_PAR>__{(CON'T)}
+<DIAL>__{I warned you, Ventura.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What happened to "Ace"?}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Good question.}
+<ACTION>__{She pulls out a cellular phone and dials.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Be careful with that phone, lieutenant. I wouldn't want you to get a tumor.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Sergeant Aguado, it's Lt. Einhorn. Get some men over to the old ironworks factory on Victoria Road. I've got the kidnapper trapped in the warehouse. It's Ace Ventura. He's killed Marino and Snowflake.}
+<ACTION>__{Einhorn smiles as she puts the phone away.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Vinnie! Roc! Get in here!}
+<ACTION>__{Ace gets a very guilty look.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{What? Who are they? You mean there's other people here?}
+<LOC>__{EXT. POLICE STATION - DAY}
+<ACTION>__{A battalion of cop cars screech away as we hear…}
+<ACTION_ALT>__{RADIO DISPATCHER}
+<DIAL_PAR>__{(V.O.)}
+<DIAL>__{Attention all units. Code 11 in progress at 343 Victorville Road. Officer needs back-up…}
+<LOC>__{INT. BOBBY RIDDLE STADIUM OWNER'S BOX - DAY}
+<ACTION>__{The cops and Emilio listen to their ear pieces…}
+<ACTION_ALT>__{RADIO DISPATCHER}
+<DIAL_PAR>__{(V.O.)}
+<DIAL>__{…Suspect's name: Ace Ventura, male Caucasian, he is armed and dangerous…}
+<ACTION>__{Emilio nudges Melissa.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{It's Ace. Let's go.}
+<LOC>__{INT. HALLWAY - CONTINUOUS}
+<ACTION>__{Emilio high tails it out of there. Dodging concession stand patrons, bathroom lines, etc… Melissa runs behind, trying to catch up.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Emilio, is he in trouble?}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, there's nothing Ace can't handle!}
+<LOC>__{INT. IRONWORKS FACTORY - DAY}
+<ACTION>__{Einhorn cocks her gun. Ace's face is glistening with tears. He's a complete wreck.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Don't kill meeee!! Pleeheeheeheeheeeezzz!!! I'll never tell anyone! I swear!}
+<DIAL_PAR>__{(indicating Marino)}
+<DIAL>__{He's the one you want!! Kill him!!}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(indicating Ace)}
+<DIAL>__{No… kill him!}
+<ACTION>__{The two argue. Einhorn fires a shot in the air to stop them.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{No, I'm gonna kill the dolphin first.}
+<DIAL_PAR>__{(to Ace)}
+<DIAL>__{I wouldn't want you to miss that.}
+<ACTION>__{Einhorn walks to the edge of the tank. She aims the gun at Snowflake and FIRES! We see the bullet miss Snowflake under water. Snowflake swims wildly. She FIRES again! Misses again. Suddenly, Ace HOLLERS!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Blue forty-two!!}
+<ACTION>__{Einhorn turns to Ace.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{SHUT UP!!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{BLUE FORTY-TWO!}
+<ACTION>__{Einhorn shoots at Ace! He dives out of the way.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{HUT! HUT!}
+<ACTION>__{Suddenly, Snowflake leaps out of the water and takes the gun out of Einhorn's hand, like the trick we saw earlier. Snowflake swims around the pool with the gun in his mouth.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smug)}
+<DIAL>__{Yes. The highly trained dolphin. Perhaps the smartest mammal in the animal kingdom. See how he knew exactly what I wanted him to do, as if our minds were somehow in complete synchronization. They have been know to save men at sea you know. They have their own language.}
+<DIAL_PAR>__{(to Snowflake)}
+<DIAL>__{Snowflake. Come here, Snowflake! Bring me the gun!}
+<DIAL_PAR>__{(makes dolphin sounds)}
+<DIAL>__{EEEEEE! EEEEEE! EEEEEE!}
+<ACTION>__{Just like the trick in his routine, however, Snowflake swims around the tank, passes Ace, then hands the gun back to Einhorn. He finishes with a tail walk.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(under his breath)}
+<DIAL>__{Stupid fish.}
+<ACTION>__{ON TV: Miami's kicker boots a perfect field goal from fifty yards.}
+<CHAR>__{JOHN MADDEN} <CHAR_PAR>__{}
+<DIAL>__{He got all of his leg into that one!}
+<ACTION>__{The field goal kicker is hugged by his teammates.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Good to see someone who doesn't buckle under the pressure?}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Yeah, not like in 82 when we choked…}
+<ACTION>__{Einhorn walks to Ace and puts the gun against his head.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{What would you know about pressure?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Well, I've kissed a man.}
+<CHAR>__{JOHN MADDEN } <CHAR_PAR>__{(ON TV)}
+<DIAL>__{Of course, there's never been a more crucial kick than the famous Kick heard 'round the world…}
+<ACTION>__{The famous footage airs on TV. They all turn to watch.}
+<CHAR>__{JOHN MADDEN} <CHAR_PAR>__{}
+<DIAL>__{…I mean, it's clear to me that it was a good hold. Finkle just booted it.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{The laces weren't out. THE LACES WEREN'T OUT!!}
+<ACTION>__{Einhorn takes a shot at the screen, creating a hole in Madden's forehead. Ace uses the moment to smack the gun out of her hand. A HUGE, NO-HOLDS-BARRED FIGHT ensues. Ace and Einhorn punch each other about the face and stomach. Einhorn throws a punch at Ace. Ace goes down. Einhorn goes for the loose gun. Ace leaps and tackles her. They both crash into old rusty equipment, raising a mountain of dust. Marino struggles all the while trying to get free. Einhorn kicks Ace. He flies into Marino.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Having a little trouble with the lady, Ace?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(out of breath)}
+<DIAL>__{You don't understand, she's a –}
+<ACTION>__{Einhorn grabs Ace, throws him into a head lock and begins wailing on his face. Meanwhile, cops start arriving, SWAT team members disperse onto the catwalk as the fight continues. They try but can't get a bead on Ace as the two roll around on the floor. More punches. They fight up a flight of stairs, then back down. To the amazement of the SWAT team, Ace and Einhorn slug it out as equals.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(caught up)}
+<DIAL>__{Get him, Lois!}
+<ACTION>__{Now they crash through a plate glass window together. Ace gets to his knees first and wobbles toward the gun. It's the first clear shot the SWAT team has had.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(screaming)}
+<DIAL>__{Shoot him! Shoot him!}
+<ACTION>__{We all hear the guns cocked. We see Ace in the rifle sights. We see fingers twitch on triggers. A loud voice comes from off camera.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{DON'T SHOOT! HOLD YOUR FIRE!}
+<ACTION>__{Melissa is holding Emilio's gun under his chin.}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL>__{Put down your guns or this cop gets it!}
+<ACTION>__{The SWAT team hesitates.}
+<CHAR>__{MELISSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I mean it!!}
+<ACTION>__{Much to Emilio's surprise, she cocks the gun.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(whispers to Melissa)}
+<DIAL>__{Ah… Melissa? That's a hair trigger.}
+<DIAL_PAR>__{(loud to cops)}
+<DIAL>__{She's not joking!}
+<ACTION>__{The SWAT team leader signals his men. They lower their guns. Einhorn gets back to her feet.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{He kidnapped Snowflake. He killed Roger Podacter, and he was about to kill Dan Marino and me!}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ho, ho! Fiction can be fun! But I find the reference section much more enlightening.}
+<DIAL_PAR>__{(doing his best Clarence Darrow)}
+<DIAL>__{For instance, if you were to look up 'professional football's all time bonehead plays', you might read about a Miami Dolphin kicker named Ray Finkle, who missed a twenty-six yard field goal in the closing seconds of Super Bowl Seventeen.}
+<DIAL_PAR>__{(in one breath)}
+<DIAL>__{What you wouldn't read about is how Ray Finkle lost his mind, and was committed to a mental institute, only to escape and join the police force under the assumed identity of a missing hker, seducing her way to the top, in a diabolical plan to get even with Dan Marino whom he blamed for the entire thing!!!}
+<ACTION>__{Ace gasps for air. Everyone is totally confused.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{What the hell are you trying to say?}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{She's not Lois Einhorn! She's Ray Finkle! She's a man!}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{He's lying! Shoot him!}
+<ACTION>__{Ace walks over to her.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Let's just see who's lying. Would a real woman have to wear one of these?}
+<ACTION>__{Ace dramatically pulls at Einhorn's hair, thinking it's a wig. Einhorn's head flies back. The hair is real. Ace keeps tugging it. The SWAT team ready themselves.}
+<CHAR>__{ACE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Boy, that's really on there! But tell me this: Would a real woman be missing these?!}
+<ACTION>__{Ace rips open Einhorn's blouse, and reveals two beautiful feminine breasts. The sharp shooters are tensing. Ace is laughing nervously now.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ha, ha, ha! That kind of surgery can be done over the weekend! But I doubt if she could find the time during her busy schedule to get rid of Mr. Knish!!}
+<ACTION>__{Ace rips off Einhorn's skirt. Einhorn now stands there fully nude. She appears to be the perfect figure of a woman.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Oooh boy.}
+<ACTION>__{Ace looks at Melissa and Emilio and shrugs his shoulders. Then, just when it seems all is lost, Dan Marino who is back behind Einhorn, motions for Ace to come over.}
+<CHAR>__{MARINO} <CHAR_PAR>__{}
+<DIAL>__{Psst… Ace. Come here.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to everyone)}
+<DIAL>__{Could you excuse me just a second.}
+<ACTION>__{Ace goes to Dan. Melissa still holds Emilio hostage.}
+<CHAR>__{EINHORN} <CHAR_PAR>__{}
+<DIAL>__{Shoot him. Shoot him, now!!}
+<CHAR>__{MELISSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to cops)}
+<DIAL>__{Don't anybody make a move!}
+<ACTION>__{Marino whispers something in his ear. Ace looks confident again. He once more addresses the crowd.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Ladies and gentlemen, my esteemed colleague Mr. Marino, has just brought some new evidence to my attention. Now, history has certainly shown that even the most intuitive criminal minds can be wrong, from time to time. But, if I have been mistaken… if the lieutenant is indeed a woman… then my friends, she is suffering from the worst case of hemorrhoids I have ever seen!!!}
+<ACTION>__{Ace spins Einhorn around now, exposing to the world, the healthy set of male genetalia that Finkle has learned to keep tucked between his legs. (And if we have any balls, we'll actually show it.) Everyone gasps. CLOSE UP ON EINHORN/FINKLE. He finally drops the facade.}
+<CHAR>__{FINKLE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(deepest voice possible)}
+<DIAL>__{It was Marino's fault. The laces were in.}
+<DIAL_PAR>__{(breaking down now)}
+<DIAL>__{They were IN!!!}
+<ACTION>__{Quick cuts of all the cops spitting with disgust. Then Emilio spits. Then CLOSE ON Marino spitting. They all have kissed her/him/it. Even Snowflake blows his spout. Ace confidently cracks a sunflower seed.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{Somebody read it its rights.}
+<ACTION>__{Suddenly, Finkle picks up a shard of broken glass and lunges at Ace.}
+<CHAR>__{FINKLE} <CHAR_PAR>__{}
+<DIAL>__{DIE ANIMAL BOYYYYY!!!}
+<ACTION>__{Thinking fast Ace sidesteps Finkle and sends him head first into Snowflake's makeshift tank. After a few seconds Finkle fights his way to the surface and thrashes around, helplessly.}
+<CHAR>__{FINKLE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gasping for air)}
+<DIAL>__{Help I can't swim!!!}
+<ACTION>__{Finkle goes under again. We see him under water sinking down. Snowflake swims to him now, allowing him to grab onto his fin and pulls Finkle gently to the side of the pool. Finkle lies there exhausted. Ace reaches down into frame, removing the '82 AFC Championship ring from Finkle's finger. We see that it's the ring with the missing stone. Ace replaces it with the stone in his pocket. It's a perfect fit.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{LLLOOOSER! LLOO HOO SERR HERR HERR!!!}
+<ACTION>__{Melissa is still holding the gun on Emilio.}
+<CHAR>__{EMILIO} <CHAR_PAR>__{}
+<DIAL>__{Melissa… you can give me back my gun now.}
+<ACTION>__{Melissa has forgotten she even had the gun. She hands it to Emilio and faints in his arms. Now Aguado appears beside Ace.}
+<CHAR>__{AGUADO} <CHAR_PAR>__{}
+<DIAL>__{I don't know how you did it, Ventura… but that was damn good police work. Alright guys, let's wrap this up!}
+<LOC>__{EXT. HIGHWAY - DAY}
+<ACTION>__{Twenty or more police cars in single file provide more than ample escort for… …Ace and Marino in Ace's Chevy Bel-Aire with the cracked windshield. Both of them have their heads sticking out so that they can see. Marino has a wad of gum in his mouth.}
+<ACTION_ALT>__{HIGH ANGLE}
+<ACTION>__{The long line of flashing lights and cop cars drives at top speed up Route One. Ace's Bel-Aire right in the middle.}
+<CHAR>__{MARINO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{hey Ace?}
+<CHAR>__{ACE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yeah, Dan?}
+<CHAR>__{MARINO } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Got any more gum?}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. STADIUM - DAY}
+<ACTION>__{The Super Bowl Halftime Show is in progress. Marino is in uniform warming up. Emilio is drooling at the cheerleaders. Ace and Melissa are standing near the fifty yard line taking in the awesome spectacle. Some fireworks go off around the tank. A  marching band plays a triumphant tune. We see a helicopter come up over the side of the stadium carrying Snowflake.}
+<CHAR>__{ANNOUNCER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Ladies and gentlemen, the Miami Dolphins are proud to welcome back to BOBBY RIDDLE Stadium, our beloved mascot and star of the halftime show…}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The helicopter lowering Snowflake into his tank.}
+<CHAR>__{ANNOUNCER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Snowflake!!}
+<ACTION>__{As the crowd roars, Melissa turns to Ace, and with Snowflake in the background performing spectacular flips, they kiss.}
+<ACTION_ALT>__{ANOTHER ANGLE}
+<ACTION>__{As Melissa and Ace kiss, the prized 'White Pigeon' lands on a Gatorade dispenser in the foreground. Ace spots it and starts to make a move. Just as he closes in for the grab, the Philadelphia Eagles mascot eagle walks up to get a drink and shoos the pigeon away. Ace is furious.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You idiot! Do you know what you've done?!}
+<ACTION>__{The giant eagle head looks up at Ace.}
+<CHAR>__{MASCOT} <CHAR_PAR>__{}
+<DIAL>__{Huh?}
+<ACTION>__{Ace grabs him.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{You just cost me ten thousand bucks, Polly!}
+<CHAR>__{MASCOT} <CHAR_PAR>__{}
+<DIAL>__{Yeah Blow me.}
+<CHAR>__{ACE} <CHAR_PAR>__{}
+<DIAL>__{REE HEE HEE HEELYYY?!!!}
+<ACTION>__{PULL BACK to find Eagle's mascot and Ace arguing. We can't hear what's said, but there's a lot of finger pointing. Emilio stops his leering to check out what's going on. The ANNOUNCER up in the booth reads a release.}
+<CHAR>__{ANNOUNCER} <CHAR_PAR>__{}
+<DIAL>__{The National Football League would now like to offer a special thank you to the man who rescued Dan Marino and our beloved Snowflake…}
+<ACTION>__{On the field the mascot shoves Ace. Ace shoves back.}
+<CHAR>__{ANNOUNCER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{A great humanitarian, and lover of all animals… Mr. Ace Ventura!}
+<ACTION>__{Ace is straddling the eagle, pounding the shit out of giant head. The image is flashed on the big stadium screen. We freeze frame on this huge picture of Ace, as he looks into camera with his fist raised.}

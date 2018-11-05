@@ -1,0 +1,2617 @@
+<TRANS>__{FADE IN:}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{A gray, impenetrable wall of fog. From somewhere comes the FAINT SOUND of a LITTLE GIRL'S VOICE, singing, slow tempo, almost under her breath.}
+<CHAR>__{YOUNG ELIZABETH } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Yo, ho, yo, ho, a pirate's life for me Yo, ho, yo, ho, it's a pirate's life for me...}
+<ACTION>__{Suddenly a massive SHIP emerges from the grey, the Winged Victory maidenhead looming. It's a British dreadnought, the H.M.S. Dauntless. Formidable, frightening, twenty-five gun ports on a side, and rail guns to boot.}
+<LOC>__{EXT. H.M.S. DAUNTLESS - FORECASTLE - DAY}
+<ACTION>__{ELIZABETH SWANN, strawberry blond hair, stands at the bow railing, gazing at the seas, still singing --}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{...drink up me hearties, yo, ho...}
+<ACTION>__{JOSHAMEE GIBBS, who was born old, skin a dark leather, clutches her shoulder, startling her.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sotto)}
+<DIAL>__{Quiet, missy! Cursed pirates sail these waters. You want to call 'em down on us?}
+<ACTION>__{Elizabeth stares wide-eyed at him.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Mr. Gibbs.}
+<ACTION>__{NORRINGTON, a dashing young man, Royal Navy to the core, glares sternly at Gibbs. Standing besides him is GOVERNOR WEATHERBY SWAN, a man of obvious high station, brass buttons on his thick blue jacket. He is Elizabeth's father.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That will do.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{She was singing about pirates. Bad luck to sing about pirates, with us mired in this unnatural fog-- mark my words.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Consider them marked.   On your way.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{'Aye, Captain.}
+<DIAL_PAR>__{(as he moves off)}
+<DIAL>__{Bad luck to have a woman on board, too. Even a mini'ture one.}
+<ACTION>__{He returns to his deck-swabbing duties, surreptitiously takes a quick swig from flask.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I think it would be rather exciting to meet a pirate.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Think again, Miss Swan.   Vile and dissolute creatures, the  lot of them. I intend to see to   it that any man who sails under a  pirate flag, or wears a pirates  brand, gets what he deserves: a  short drop and a sudden stop.}
+<ACTION>__{Elizabeth doesn't know what 'a short drop and a sudden stop' means. Gibbs helpfully mimes: a man being hung.}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{Captain Norrington... I appreciate your fervor, but I am concerned about the effect this subject will have on my daughter.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{My apologies, Governor.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Actually, I find it all fascinating.}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{And that's what concerns me. Elizabeth, dear... we will be landing in Port Royal very soon, and beginning our new lives. Wouldn't it be wonderful if we comport ourselves as befits our class and station?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes, father.}
+<ACTION>__{Chastised, she turns away, to look out over the bow rail.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to herself)}
+<DIAL>__{I still think it would be exciting to meet a pirate...}
+<ACTION>__{The fog still hems in the ship; very little of the sea is visible -- -- but suddenly, a FIGURE comes into view. A young boy, WILL TURNER, floating on his back in the otherwise empty water. There is nothing to show where he came from, or how he came to be there.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Look!   A boy! In the water!}
+<ACTION>__{Norrington and Swann spot him --}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Man overboard!}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Boy overboard!}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Fetch a hook! Haul him out of there!}
+<ACTION>__{Quick movement and activity on the deck. Sailors use a boathook to snag the boy he the passes. Norrington and Swann haul him aboard, and lay him on the deck. Elizabeth sidles in for a closer look.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{He's still breathing.}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{Where did he come from?}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Mary mother of God ...}
+<ACTION>__{Attention is turned away from the boy -- The sea is no longer empty. WRECKAGE from a ship litters the water... along with the bodies of its crew. What is left of the ship's hull BURNS, a ragged British flag hanging limply from the stern. The H.M.S. Dauntless slips silently through it all.   The scene calls for hushed voices.}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{What happened here?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{An explosion in the powder magazine. Merchant vessels run heavily armed.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Lot of good it did them...}
+<DIAL_PAR>__{(off Swan's look)}
+<DIAL>__{Everyone's thinking it! I'm just saying it! Pirates!}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{There is no proof of that. It could have been an accident. Captain, these men were protection. If there is even the slightest chance one of those poor devils is still alive, we cannot abandon them!}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Of course not, Governor.}
+<DIAL_PAR>__{(to the crew)}
+<DIAL>__{Come about and strike the sails! Unlash the boats! Gunnery crew... jackets off the cannons!}
+<DIAL_PAR>__{(to Swann)}
+<DIAL>__{Hope for the best...prepare for the worst.}
+<DIAL_PAR>__{(to two sailors)}
+<DIAL>__{Move the boy aft. We'll need the deck clear.}
+<ACTION>__{They lift the boy. Swann pulls Elizabeth away from the rail, away from the hideous scene in the water.}
+<CHAR>__{SWAN} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth, I want you to accompany the boy. He's in your charge now. You'll watch over him?}
+<ACTION>__{Elizabeth nods gravely. Swann hurries away to help unstow the longboat. The sailors lay the boy gently on the poop deck, behind the wheel, then hurry off. Elizabeth kneels down besides the boy. His good looks are not lost on her. She reaches out, gently brushes the blond hair from his eyes -- Suddenly, he grabs her wrist, awake now. Elizabeth is startled, but their eyes lock. She takes his hand in hers.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{My name is Elizabeth Swann.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Will Turner.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I'm watching over you, Will.}
+<ACTION>__{He clutches her hands, then slips back into unconsciousness. His movement has opened the collar of his shirt; Elizabeth sees he wears a chain around his neck. She tugs it free, revealing-- A GOLD MEDALLION.   One side is blank.   She turns it over -- A SKULL gazes up at her. Vaguely Aztec in design, but to her eyes, it means one thing only:}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're a pirate.}
+<ACTION>__{She glances back at the crew.   Sees Norrington, giving orders, moving toward her. She looks back at Will -- comes to a quick decision. Takes the medallion from around his neck. Hides it under her coat. Norrington arrives.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Did he speak?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{His name is Will Turner -- that's all I found out.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Very good.}
+<ACTION>__{Norrington hurries off. Elizabeth steals away to the stern of the ship. Examines her prize -- the gold medallion. A wisp of wind, and she looks up -- Out over the sea, moving through the fog, silent as a ghost, is a large sailing ship, a schooner -- It has BLACK SAILS. Elizabeth stares, too frightened to move, or cry out. The ship is obscured by the fog it as it passes -- but not the mizzen-top ... and there hangs the frightening skull and crossbones of the Jolly Roger. Elizabeth looks from it to the medallion -- the skull on the flag is the same as the one on the medallion. Fog surrounds and closes in on the black ship -- except for the black flag. As Elizabeth watches, the skull appears to TURN and GRIN at her -- Elizabeth shuts her eyes tight --}
+<CHAR>__{EIGHT YEARS LATER} <CHAR_PAR>__{}
+<LOC>__{INT. GOVERNOR'S MANSION - ELIZABETH'S BEDROOM}
+<ACTION>__{-- and then snap open again, startled wide with fear. But this is no longer twelve-year-old Elizabeth standing on the stern of the Dauntless; this is twenty-year-old Elizabeth, lying in bed in the dark. She remains motionless (were the images we just saw a nightmare, or a jumbled childhood memory?) Elizabeth slowly looks as far out the corner of her eyes as possible without moving. Might there be someone in the room with her, looming over her? She turns, ready for anything.   She is alone. Elizabeth sits up, turns up the flame on an oil lamp besides the canopied bed. She carries the lamp across the room to a dressing table, sits down. She pulls one of the small drawers all the way out, reaches into a space beneath it and removes -- The MEDALLION. She has kept it all this time. It has not lost its luster -- or its sense of menace. She gazes at it as she absently returns the draw to its place -- A BOOMING knock on the door;    Elizabeth jumps up, startled knocking over her chair.}
+<CHAR>__{SWANN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Elizabeth? Is everything all right? Are you decent?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes -- yes.}
+<ACTION>__{She puts the medallion on, throws on a dressing gown as Swann enters, carrying a large box. A uniformed maid, ESTRELLA, follows.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Still abed at this hour?    It's a beautiful day!}
+<ACTION>__{Estrella pulls back the heavy curtains, revealing: Beneath a blue sky lies the bucolic town of PORT ROYAL, built on a natural harbor. On a bluff at the mouth of the harbor stands FORT CHARLES, its stone parapets lined with cannon.}
+<CHAR>__{SWANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I have a gift for you.}
+<ACTION>__{He opens the boxes, and displays for her a gorgeous velvet dress. She lets out an admiring gasp.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{It's -- beautiful. May I inquire as to the occasion?}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Is an occasion necessary for a father to dote upon his daughter with gifts?}
+<ACTION>__{Elizabeth happily takes it, disappears behind a screened- off dressing area. Estrella follows, carrying the box.}
+<CHAR>__{SWANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Although...I did think you could wear it to the ceremony today.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Ceremony?}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Captain Norrington's promotion ceremony.}
+<ACTION>__{Elizabeth peeks around the screen.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I knew it.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Or, rather, Commodore Norrington...a fine gentleman, don't you think?}
+<DIAL_PAR>__{(no answer)}
+<DIAL>__{He fancies you, you know.}
+<ACTION>__{Behind the screen, Elizabeth GASPS.}
+<CHAR>__{SWANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Elizabeth?     How's it coming?}
+<ACTION>__{ON ELIZABETH -- She holds her hair and      the medallion (still around her neck) out of the way as the      maid cinches her into a corset over her slip. Estrella       has her foot in Elizabeth's back as she pulls the laces      tight.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Difficult ... to say.}
+<CHAR>__{SWANN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{I'm told that dress is the very latest fashion in London.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(holding her breath)}
+<DIAL>__{Women in London must have learned to not breath.}
+<ACTION>__{Estrella is finished.   Elizabeth takes a breath -- and winces. A butler appears in the doorway of the room.}
+<CHAR>__{BUTLER} <CHAR_PAR>__{}
+<DIAL>__{Governor? A caller is here for you.}
+<LOC>__{INT. GOVERNOR'S MANSION - FOYER - DAY}
+<ACTION>__{The caller, dressed in rough clothing, stands in the foyer, looking very out of place, and knowing it. He holds a long presentation case. He polishes the toes of his boots on the back of his calves, but it doesn't help.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Ah, Mr. Turner! It's good to see you again!}
+<ACTION>__{The caller turns -- it is WILL TURNER. Handsome, with a watchful demeanor that gives him weight beyond his years.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Good day, sir.}
+<DIAL_PAR>__{(holds out the case)}
+<DIAL>__{I have your order.}
+<ACTION>__{Swann hurries to him, opens the case. Inside is a beautiful dress sword and scabbard. Swann takes it out reverently.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The blade is folded steel. That's gold filigree laid into the handle. If I may -}
+<ACTION>__{He takes the sword from Swann, and balances it on one finger at the point where the blade meets the guard.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Perfectly balanced. The tang is nearly the full width of the blade..}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Impressive. .. very impressive. Commodore Norrington will be pleased, I'm sure. Do pass my compliments on to your master.}
+<ACTION>__{Will's face falls. Clearly, the work is his, and he is proud of it. With practiced ease, he flips the sword around, catches it by the hilt and returns it to the case.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(bows slightly)}
+<DIAL>__{I shall. A craftsman is always pleased to hear his work is appreciated --}
+<ACTION>__{He stops speaking abruptly, staring past Swann - Elizabeth stands on the stairs. Granted, the dress may be painful to wear, but holy smokes!}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth! You look stunning!}
+<ACTION>__{Will tries to speak, but can't. He gives up, smiles to himself, and simply nods emphatically.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Will! It's so good to see you!}
+<ACTION>__{Her hand goes to the chain around her throat (the medallion is hidden in the bodice of her dress).}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I dreamt about you last night. Will reacts with surprise: "Really?}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth, this is hardly appropriate -}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ignores her father)}
+<DIAL>__{About the day we met. Do you remember?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I could never forget it, Miss Swann.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Will, how many times must I ask you to call me 'Elizabeth'?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{At least once more, Miss Swann. As always.}
+<ACTION>__{Elizabeth is disappointed and a little hurt by his response.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Well said! There's a boy who understands propriety. Now, we must be going.}
+<ACTION>__{Swann takes the case from Will, opens the door for Elizabeth. Elizabeth straightens her back, gathers her skirts and strides past Will.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Good day, Mr. Turner.}
+<LOC>__{EXT. GOVERNOR'S MANSION - DAY}
+<ACTION>__{Swann follows Elizabeth out the door.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Good day.}
+<ACTION>__{He watches as she is helped aboard a carriage by the driver.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{Elizabeth.}
+<ACTION>__{IN THE CARRIAGE: Swann glowers at his daughter.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Dear, I do hope you demonstrate a bit more decorum in front of Commodore Norrington. After all, it is only through his efforts that Port Royal has become at all civilized.}
+<LOC>__{EXT. PORT ROYAL - HARBOR - DAY}
+<ACTION>__{The skeletal remains of four pirates, still clad in buccaneer rags, hang from gallows erected on a rocky promontory. There is a fifth, unoccupied gallows, bearing a sign: PIRATES - YE BE WARNED. The top of a billowing sail passes regally in front of them. On the landward face of the sail, apparently high in the rigging, is a man for whom the term 'swashbuckling rogue' was coined: Captain JACK SPARROW. He gazes keen-eyed at the display as they pass. Raises a tankard in salute. Suddenly, something below catches his attention. He jumps from the rigging - -- and that's when we see that his is ship is not an imposing three-master, but just a small fishing dory with a single sail, plowing through the water -- the Jolly Mon. And it leaks. Which is why he has the tankard: to bail. Jack steps back to the tiller, and using a single sheet to control the sail, and the Jolly Mon comes around the promontory, the whole of Port Royal laid out before him. The huge British dreadnought, H.M.S. Dauntless dominates the bay. But Jack's attention is on a different ship: the H.M.S. Interceptor, a small sleek vessel with rail guns and a mortar in the middle of the main deck. It is tied up at the Navy landing, at the base of the cliffs below Fort Charles.}
+<LOC>__{EXT. PORT ROYAL - DOCKS - DAY}
+<ACTION>__{Smoothly and with no wasted movement, Jack hauls down the sail, stows it, guides the dory alongside a dock. The HARBORMASTER, a long ledger tucked under his arm, is there to catch a line and help Jack tie up.}
+<CHAR>__{HARBORMASTER} <CHAR_PAR>__{}
+<DIAL>__{If you're out rolling scuppers in this tub, you're either incredibly brave or incredibly stupid.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{It's remarkable how often those two traits coincide.}
+<ACTION>__{He starts up the dock, strapping on his sword belt; besides the scabbard, it also carries a compass, pistol and small powder horn. The Harbormaster cuts him off.}
+<CHAR>__{HARBORMASTER} <CHAR_PAR>__{}
+<DIAL>__{It's a shilling for the dock space, and you're going to have to give me your name.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What do you say to three shillings, and we forget the name?}
+<ACTION>__{He tosses three shillings onto the ledger. The Harbormaster considers, then shuts the ledger on the coins, steps aside.}
+<CHAR>__{HARBORMASTER} <CHAR_PAR>__{}
+<DIAL>__{Welcome to Port Royal, Mr. Smith.}
+<ACTION>__{Jack gives him a half-salute as he goes past. Looks across the water toward the Interceptor -- and smiles. Above the Interceptor, among the parapets of Fort Charles, a ceremony is underway -}
+<LOC>__{EXT. FORT CHARLES - DAY}
+<ACTION>__{With choreographed precision, Swann removes the sword and scabbard from the presentation case, held by a uniformed Navy man. He slides the sword into the scabbard, holds it out vertically to Norrington, in full dress uniform. Norrington grasps the scabbard above Swann's hand, and Swann lets go. Norrington draws the sword, flourishes the sword, and snaps the blade up in front of his face. Swann steps forward, pins a medal to Norrington's jacket, steps back. Norrington nods, turns smartly and nods to his fellow officers, turns again and nods to the audience - dignitaries, merchants, plantation owners, their families. Another flourish, and he returns the sword to its scabbard. The silence is broken by loud APPLAUSE. Backslapping from the Navy men. In the audience, Elizabeth doesn't look so good, out beneath the hot sun. She applauds briefly, then winces. Discreetly tries to adjust the corset through the material of the dress, then resumes clapping, trying to hide her discomfort.}
+<LOC>__{EXT. PORT ROYAL - NAVY DOCK - DAY}
+<ACTION>__{Two sailors on sentry duty, MURTOGG and MULLROY, take advantage of what little shade there is on the dock. But when Jack saunters up, they are immediately on alert.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{This dock is off-limits to civilians.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Sorry, I didn't know.}
+<ACTION>__{Music drifts down from Fort Charles. Jack looks up, shields his eyes.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Some sort of to-do up at the fort, eh? You two weren't invited?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{No ... someone has to make sure this dock stays off-limits to civilians.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{This must be some important boat.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{Ship.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ship.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Captain Norrington's made it his flagship. He'll use it to hunt down the last dregs of piracy on the Spanish Lake.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{Commodore.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Right. Commodore Norrington.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That's a fine goal, I'm sure ... But it seems to me a ship like that --}
+<DIAL_PAR>__{(indicates the Dauntless)}
+<DIAL>__{-- makes this one here just a wee superfluous.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Oh, the Dauntless is the power in these waters, true enough -- but there's no ship that can match the Interceptor for speed.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That so? I've heard of one, supposed to be fast, nigh uncatchable ... the Black Pearl?}
+<ACTION>__{Mullroy scoffs at the name.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{There's no real ship as can match the Interceptor.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{The Black Pearl is a real ship.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{No, it's not.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Yes it is. I've seen it.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{You've seen it?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{You've seen the Black Pearl?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{You haven't seen it.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Yes, I have.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{You've seen a ship with black sails that's crewed by the damned and captained by a man so evil that hell itself spat him back out?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{... No .}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{But I've seen a ship with black sails.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{Oh, and no ship that's not crewed by the damned and captained by a man so evil hell itself spat him back out could possibly have black sails and therefore couldn't possibly be any ship other than the Black Pearl. Is that what you're saying?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{... no.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL_PAR>__{(turns back to Jack)}
+<DIAL>__{Like I said, there's no real ship as can match -- Hey!}
+<ACTION>__{But Jack's not there. Murtogg and Mullroy look around, spot - Jack standing at the wheel of the Interceptor, casually examining the mechanism.}
+<CHAR>__{MULLROY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You!}
+<ACTION>__{Jack looks over in exaggeratedly innocent surprise. The sailors hurry toward the gangplank.}
+<CHAR>__{MULLROY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Get away from there! You don't have permission to be aboard there!}
+<ACTION>__{Jack spreads his hands in apology.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. It's just such a pretty boat. Ship.}
+<ACTION>__{The sailors study him suspiciously.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{What's your name?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Smith.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{What's your business in Port Royal, 'Mr. Smith' ?}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{And no lies!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{None? Very well. You've rumbled me. I confess: I intend to commandeer one of these ships, pick up a crew in Tortuga, and go out on the account, do a little honest pirating.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{I said, no lies.}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{I think he's telling the truth.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{He's not telling the truth.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{He may be.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{If he were telling the truth he wouldn't have told us.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Unless, of course, he knew you wouldn't believe the truth if he told it to you.}
+<ACTION>__{Murtogg and Mullroy consider that point --}
+<LOC>__{EXT. FORT CHARLES - DAY}
+<ACTION>__{Elizabeth, pale and perspiring, fans herself weakly, oblivious to the music and chatter.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{May I have a moment?}
+<ACTION>__{He extends his arm. She takes it. He walks her away from the party, toward the parapet. A rather too long of a silence as Norrington works up his courage.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(a burst)}
+<DIAL>__{You look lovely. Elizabeth.}
+<ACTION>__{Elizabeth frowns, unable to focus. Norrington mistakes her expression as disapproval.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I apologize if I seem forward -- but I must speak my mind.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(working up his confidence to do so)}
+<DIAL>__{This promotion confirms that I have accomplished the goals I set for myself in my career. But it also casts into sharp relief that which I have not achieved. The thing all men most require: a marriage to a fine woman.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{You have become a fine woman, Elizabeth.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I can't breathe.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{I'm a bit nervous, myself --}
+<ACTION>__{Elizabeth loses her balance, stumbles away from Norrington. She reaches a hand out to the parapet to steady herself, but it slides off - -- and then she vanishes over the wall. Gone.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Elizabeth! .}
+<LOC>__{EXT. PORT ROYAL - NAVY DOCKS - DAY}
+<ACTION>__{Jack reacts, pushes Murtogg aside to see - Elizabeth plummets from the top of the cliff. It seems to take her a long time to reach the sea -- Elizabeth hits the water, narrowly missing the sharp rocks. A wave breaks, and then she is washed out away from the cliff, struggling feebly. AT THE FORT, Norrington looks down -- NORRINGTON ELIZABETH! He leaps to the top of the parapet, prepared to dive -- a lieutenant, GILLETTE catches his arm.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{The rocks, sir! It's a miracle she missed them!}
+<ACTION>__{Norrington shakes off his arm, looks down -- and realizes Gillette is right. He jumps down and runs --}
+<LOC>__{EXT. PORT ROYAL - NAVY DOCKS - DAY}
+<ACTION>__{Jack, Murtogg and Mullroy are still in shock from the sight.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Aren't you going to save her?}
+<CHAR>__{MULLR0Y} <CHAR_PAR>__{}
+<DIAL>__{I can't swim.}
+<ACTION>__{Murtogg shakes his head -- neither does he.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rolls his eyes)}
+<DIAL>__{Sailors.}
+<ACTION>__{Above where Elizabeth struggles in the water. Norrington and several other men pick their way down the cliffs. They are too far away to get to her in time. Jack scowls. He has no choice -- and it pisses him off.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Fine.}
+<ACTION>__{He pulls a pistol from his sword belt, hands it to Murtogg; then hands the belt to Mullroy.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Don't lose these.}
+<ACTION>__{And then he dives into the water, swims toward Elizabeth. Elizabeth struggles to keep above water, gasping for air '- then a swell rolls over her, and she is submerged - UNDERWATER, Elizabeth drifts down, unconscious. The current turns her, and the MEDALLION slips loose from her bodice. The MEDALLION turns slowly, until the SKULL is fully visible. A shaft of filtered sunlight hits it, and it GLINTS -}
+<LOC>__{EXT. PORT ROYAL - VARIOUS - DAY}
+<ACTION>__{FORT CHARLES: The British flag flies, blown from an offshore breeze. Suddenly the wind dies, and the flag goes limp. ON THE DOCKS: Wood and metal fittings on lines bang against masts. The wind dies, and there is silence. ON THE EDGE OF TOWN: A CARIBE WOMAN feeds clucking chickens, frowns when they all suddenly go quiet ... IN THE VILLAGE: A weather vane moves slightly in the wind. The wind stops, and all is still. And then ... ... the weather vane TURNS, and holds steady -- the wind has picked up again, but now blows .from the sea toward the land. l)ON THE BEACH: an OLD SALT pulls a rope line, pauses. Turns and gazes to the sky, frowning. The mangy hound at his side starts BARKING incessantly - ON THE DOCKS: The lines bang against the other sides of the masts, the wind far stronger now. FORT CHARLES: the British flag flies in the opposite direction, snapping in the new onshore breeze.}
+<LOC>__{EXT. PORT ROYAL - CLIFFSIDE - DAY}
+<ACTION>__{Norrington rushes down, intent on the climb. Beyond him, past the rocky point, far out to sea, FOG gathers -}
+<LOC>__{EXT. PORT ROYAL - OCEAN - DAY}
+<ACTION>__{UNDERWATER: the medallion hangs below Elizabeth's unmoving form - - and then Jack is there. He wraps an arm around her and makes for the surface. ON THE SURFACE, Jack swims toward the dock, struggling. It is .: far more difficult than it should be. He stops stroking, and they submerge. UNDERWATER: Jack realizes that   it is Elizabeth's heavy velvet dress that is weighing   them down. He pulls at the buttons on the back, and they   give way. He skins her out of the dress, and kicks away from   it. The dress falls like a cloud into darkness - ON THE SURFACE: Jack swims with Elizabeth, much more quickly. AT THE DOCK, Murtogg and Mullroy are there to help haul Elizabeth out of the water. Jack climbs up, exhausted. Elizabeth is on her back; Murtogg holds her arms above her head, pumping them. Mullroy puts his cheek to her nose and mouth.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{Not breathing.}
+<ACTION>__{Murtogg looks down; it seems hopeless. Jack steps up, drawing Murtogg's knife from its sheath.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Move.}
+<ACTION>__{He pushes past Mullroy, kneels over Elizabeth, raises the knife -- Murtogg is shocked - Jack slits the corset down the middle, yanks it away. Elizabeth remains still. And then -- she coughs up water and gasps, choking on her first full breath. Jack is relieved.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{I never would have thought of that.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Clearly, you've never been to Singapore.}
+<ACTION>__{Jack flips the knife and hands it hilt-first to Murtogg - and that's when he spots - The MEDALLION. Jack catches it up in his "hand.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Where did you get this?}
+<ACTION>__{Before Elizabeth can answer, the BLADE of a SWORD is at Jack's THROAT -- Norrington's new ceremonial sword, in fact, looking bright and sharp.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{On your feet.}
+<ACTION>__{It looks bad -- Jack standing over Elizabeth, most of her clothes gone. He gets to his feet. The rest of Elizabeth's erstwhile rescuers reach the scene, including Swann.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth! Are you all right?}
+<ACTION>__{He strips off his jacket, drapes it around her.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes -- yes, I'm fine -- Commodore Norrington, do you intend to kill my rescuer?}
+<ACTION>__{Norrington looks at Jack. Jack nods as best he can with a blade beneath his chin. Norrington sheathes his sword, and extends his hand.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I believe thanks are in order.}
+<ACTION>__{Jack takes Norrington's hand gingerly. They shake - -- and Norrington tightens his grip, yanks Jack's arm toward him, then tears back the sleeve of Jack's shirt - -- exposing a BRAND on Jack's inner wrist: a large 'P.'}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Had a brush-up with the East India Trading Company, did you ... pirate?}
+<ACTION>__{The others react in shock, but the sailors are well-trained --in an instant, half a dozen pistols are aimed at Jack. He stands there, still holding the corset.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Keep your guns on him, men. Gillette, fetch some irons.}
+<ACTION>__{Norrington notices something else -- below the 'P' brand is a tattoo: a small bird in flight across water.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well, well... Jack Sparrow, isn't it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Captain Jack Sparrow. If you please.}
+<ACTION>__{Norrington looks out at the bay.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I don't see your ship -- Captain.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{He said he'd come to commandeer one.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Murtogg)}
+<DIAL>__{I told you he was telling the truth.}
+<DIAL_PAR>__{(currying favor)}
+<DIAL>__{These are his, sir.}
+<ACTION>__{He holds out Jack's pistol and belt. Norrington takes the pistol, examines it, notes the powder horn on Jack's belt.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Jack)}
+<DIAL>__{Extra powder, but no additional shot.}
+<ACTION>__{Jack shrugs. Norrington unhooks the compass from the belt, opens it. He frowns at the reading. Moves the compass this way and that, keeping it parallel to the ground.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It doesn't bear true.}
+<ACTION>__{Jack looks away, a bit embarrassed. Norrington returns the compass to the belt. Draws the sword half from the scabbard.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I half-expected it to be made of wood.}
+<ACTION>__{He slides it back into the scabbard, hands it to Mullroy.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Taking stock: you've got a pistol with only one shot, a compass that doesn't point north ... and no ship. You are without a doubt the worst pirate I have ever heard of.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ah, but you have heard of me.}
+<ACTION>__{Gillette returns with shackles, approaches Jack.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Carefully, lieutenant.}
+<ACTION>__{Elizabeth steps forward. Swann's jacket slips off her. She is unconcerned, but he is intent on putting it back on her.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Commodore, I must protest. Pirate or not, this man saved my life.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{One good deed is not enough to redeem a man of a lifetime of wickedness.}
+<ACTION>__{Gillette snaps the manacles closed on Jack's wrists.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{But it seems to be enough to condemn him.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{Indeed.}
+<ACTION>__{Now that Jack is safely chained, Norrington nods to his men. All but one stow their weapons, and two step forward -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Finally.}
+<ACTION>__{Lightning-quick, he snaps the   corset  around the hand and wrist of the man holding the   pistol  and yanks. The pistol sails into the water. Before   anyone  can react to that, Jack has the manacle chain wrapped   around  Elizabeth's throat. Pistols are drawn again, but now Elizabeth serves as a shield. Norrington raises a cautioning hand to his men.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(backing away, toward land)}
+<DIAL>__{Commodore Norrington ... my pistol and belt, please.}
+<ACTION>__{Norrington hesitates, balls his fists in frustration.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Commodore!}
+<ACTION>__{Mullroy hands the pistol and belt to Norrington. Norrington holds them out to Jack.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Elizabeth -- it is Elizabeth?}
+<ACTION>__{Elizabeth is more angry than frightened. ELIZABETH Miss Swann.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Miss Swann, if you'll be so kind?}
+<ACTION>__{She takes the belt and pistol from Norrington -- Jack's quicker than she is, and takes the pistol from her. He jerks her around so she is facing him, belly to belly.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Now, if you'll be very kind?}
+<ACTION>__{She figures out what he wants: put the belt on him.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as she works)}
+<DIAL>__{You are despicable.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I saved your life; now you've saved mine. We're square.}
+<ACTION>__{Done. He turns her again, and then backs up until he bumps against the cargo gantry.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Gentleman. .. m' lady. .. you will always remember this as the day you almost caught Captain Jack Sparrow.}
+<ACTION>__{He shoves Elizabeth away, grabs a rope and pulls free a belaying pin -- a counterweight drops and Jack is lifted up to the middle of the gantry, where he grabs a second rope - Pistols fire -- and miss. Jack swings out, out, out, away and around from the gantry. Norrington has held his shot. With careful aim, he tracks Jack's trajectory- Jack drops from the rope even as Norrington FIRES. His shot tears the rope - -- as Jack plummets past one of the gantry's guy lines, he snaps the length of manacle chain over the line and grabs hold of the far loop -- slides down the line - -- drops to the deck of a ship. He runs, leaping to another ship, then out of sight -}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{On his heels! Gillette, bring a squad down from the fort!}
+<DIAL_PAR>__{(to Elizabeth)}
+<DIAL>__{Elizabeth, are you -}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes, I'm all right, I'm fine! Go capture him.}
+<ACTION>__{Norrington's taken aback by her ire, and wisely hurries away. Swann drapes his coat around Elizabeth.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Here, dear ... you should wear this.}
+<ACTION>__{Elizabeth shivers, finding suddenly that she is cold. Glances out at the bay - -- where a THICK FOG moves across the top of the water. She takes the jacket.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Father ... and let that be the last of your fashion advice, please.}
+<ACTION>__{But she accepts his comforting embrace.}
+<LOC>__{EXT. PORT ROYAL - TOWN - ALLEY - DAY}
+<ACTION>__{The fog creeps through, casting an eerie twilight pall. An armed search party moves along the street. They glance down an alley- On the far side is another search party. The men nod to each other, continue on. A moment, and then Jack drops from his hiding place beneath the eaves of a building. He still wears the manacles. Across the street is a shop with barn doors, a pass-thru door set in the middle. Above is a sign with a black anvil.}
+<LOC>__{INT. BLACKSMITH'S FORGE - DAY}
+<ACTION>__{Jack slips in through the door, takes a look around: No windows. The forge is dark, lit   by lanterns. Work-in- progress is scattered about: wagon   wheels, wrought iron gates, pipes -- even a cannon with   a crack in it. But every tool is in place; the workbench is   tidy and neat. Jack is startled by a noise: MISTER BROWN, in a blacksmith's apron, snores in the corner, cradling a bottle. Jack gives him a hard poke. Another. Brown snorts, turns away. Satisfied, Jack sheathes his sword, takes a short-handled sledge from its place on the wall. Moves to the glowing coke furnace in the middle of the room. Slowly... he holds his right hand over the furnace, the chain down in the embers. The chain begins to GLOW. Jack sweats, grimaces at the pain - Moving quickly, he wraps the chain around the nose of an anvil, brings the sledge down with a fast, hard stroke on the glowing links. One SHATTERS. Jack drops the sledge, plunges his manacled hand in a bucket of water. Steam billows. Jack pulls his hand out, flexes it. Blisters form beneath the manacle -- but his hands are free. The SOUND of the latch on the door -- Jack dives for cover. Will enters the forge, shuts the door behind him. Spots the drunken Mister Brown in the corner.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Right where I left you.}
+<ACTION>__{Something catches his eye: an empty peg on the wall. The sledge lying beside the anvil.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(under his breath)}
+<DIAL>__{Not where I left you.}
+<ACTION>__{He moves casually toward the sledge. Then grabs for it -- but the flat of a sword blade slaps his hand. Will jumps back. Jack stands there, sword leveled at Will. He backs Will up, toward the door. Will glares at him.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT' D)}
+<DIAL_PAR>__{(voice low and tight)}
+<DIAL>__{You're the one they're hunting. The pirate.}
+<ACTION>__{Jack acknowledges it with a tip of his head ... then frowns, regards Will.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You look familiar ... Have I ever threatened you before?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I've made a point of avoiding familiarity with pirates.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ah. Then it would be a shame to put a black mark on your record. So if you'll excuse me ...}
+<ACTION>__{Beside the door is a grindstone, a sword resting in the honing guide. Before Jack can react, Will has it in hand.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Do you think this is wise, boy? Crossing blades with a pirate?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You threatened Miss Swann.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Only a little.}
+<ACTION>__{In response, Will assumes an en garde position. Jack appraises him, unhappy to see Will knows what he's doing. Jack attacks. The two men stand in one place, trading feints, thrusts and parries with lightning speed, almost impossible to follow. Will has no trouble matching Jack.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You know what you're doing, I'll give you that ... Excellent form ... But how's your footwork? If I step here -}
+<ACTION>__{He takes a step around an imaginary circle. Will steps the other way, maintaining his relationship to Jack.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Very good! And if I step again, you step again. . .}
+<DIAL_PAR>__{(continuing to step around the circle)}
+<DIAL>__{And so we circle, circle, like dogs we circle. . .}
+<ACTION>__{They are now exactly opposite their initial positions.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Ta!}
+<ACTION>__{Jack turns and heads for the door, now directly behind him. Will registers angry surprise -- and then with a vicious overhand motion, he throws his sword - -- the sword buries itself into the door, just above the latch, barely missing Jack. Jack registers it, then pulls on the latch, but it won't move up -- the sword is in the way. Jack rattles the latch. Tugs on the sword a few times -- it is really stuck in there. Jack mouths a curse, but when he turns back to Will, he's smiling.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT' D)}
+<DIAL>__{That's a good trick. Except, once again, you are between me and the way out.}
+<DIAL_PAR>__{(points his sword at the back door)}
+<DIAL>__{And now you have no weapon.}
+<ACTION>__{Eyes on Jack, Will simply picks up a new sword from an anvil. Jack slumps in dismay -- but then leaps forward. Will and Jack duel. Their blades flash and ring. Suddenly, Jack swings the chain still manacled to his left hand at Will's head. Will ducks it, comes up wide-eyed. Then Jack's chain smashes across Will's sword, disarming him. Will quickly picks up another sword. Jack becomes aware that the entire room is filled with bladed weapons: swords, knives, boarding axes in various stages of completion.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Who makes all these?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I do. And I practice with them. At least three hours a day.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You need to find yourself a girl.}
+<DIAL_PAR>__{(Will sets his jaw)}
+<DIAL>__{Or maybe the reason you practice three hours a day is you've found one -- but can't get her?}
+<ACTION>__{A direct hit -- and Will coils even more tightly with anger.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No. I practice three hours a day so that when I meet a pirate ... I can kill him.}
+<ACTION>__{He explodes: kicks a rack, causing a sword to fall into his hand; uses his foot to bring his dropped sword into the air, catches it -- and attacks Jack, both blades flashing. Jack parries with sword and chain. Jack's chain wraps around Will's sword; Will twists the handle of his guard through a link, and stabs the sword up into the ceiling - So Jack's manacled left arm is now suspended from the ceiling. Not good. He parries using one hand, twisting and dodging around the furnace - Jack compresses the bellows, blowing a SHOWER OF SPARKS into Will's face. Jack grabs the chain, hoists himself up, kicks with his feet, knocking Will back. Jack uses his full weight, yanks the sword from the ceiling. Hurls a wooden mallet at Will, then a second, hitting Will on the wrist. Will drops his sword, falls down, gets up - Jack's pistol is aimed directly between Will's eyes. Will steps back, directly in front of the back exit. Glares, rubs his wrist gingerly.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You cheated.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles; what do you expect?)}
+<DIAL>__{Pirate.}
+<ACTION>__{Jack steps forward. Will steps back, fully blocking the door.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Move away.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Move!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No. I can not just step aside and let you escape.}
+<ACTION>__{Jack cocks the pistol. Will stares back. The stand-off lasts for a long moment.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You're lucky, boy -- this shot's not meant for you.}
+<ACTION>__{Jack uncocks the pistol. Will is surprised, reassesses Jack - Suddenly, Mister Brown SLAMS his bottle against Jack's skull. Jack crumples to the ground. The front and back doors smash open, and SAILORS fill the room. Norrington pushes forward, sees Jack on the ground.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Excellent work, Mister Brown. You've aided in the capture of a dangerous fugitive.}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL>__{Just doing my civic duty.}
+<ACTION>__{Jack groans. Norrington stands over him, smiles.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I believe you will always remember this as the day Captain Jack Sparrow almost escaped.}
+<ACTION>__{Norrington's men haul Jack away. Will watches them go. Brown looks at his bottle -- broken.}
+<CHAR>__{BROWN} <CHAR_PAR>__{}
+<DIAL>__{That ratter broke my bottle.}
+<LOC>__{EXT. PORT ROYAL - NIGHT}
+<ACTION>__{The thick fog blankets the entire bay now, and the town. The only structure visible is Fort Charles, high on the bluff, like a tall ship sailing a sea of grey. Above the Fort is a clear black sky sprinkled with stars. A waxing moon shines, giving both Fort and fog an eerie glow. ANGLE - FORT CHARLES, just below the stone parapets of the fort, visible briefly deep in the fog, like a shark fin slicing through the water: the TOPMAST of a ship, BLACK SAILS billowing. Flying from the mast is a flag with white Aztec skull. The Black Pearl has come to Port Royal.}
+<LOC>__{INT. GOVERNOR'S MANSION - ELIZABETH'S BEDROOM - NIGHT}
+<ACTION>__{A maid removes a bed warmer from the fireplace, slides it between the sheets at the end of Elizabeth's bed.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Nice and toasty. Thank you, Estrellia.}
+<ACTION>__{The maid nods, exits. Elizabeth opens a book, begins reading, toying absently with the medallion chain around her neck. The lamp flame begins to diminish. Elizabeth tries to turn it up. No good. The flame goes out, and the room is black.}
+<LOC>__{INT. BLACKSMITH'S FORGE - NIGHT}
+<ACTION>__{Will, shirtless, wearing a leather apron, heats an iron ingot at the furnace, hammers it flat -- he stops. His attention is drawn to the window. He opens the shutter and peers out -- nothing but fog. Almost without noticing, he reaches for a boarding axe hanging on the wall. Takes it down; it has a satisfying weight in his hands.}
+<LOC>__{INT. CELL BLOCK - NIGHT}
+<ACTION>__{CLOSE ON: A mutt of a dog, holding a ring of keys in his mouth. Three seedy-looking prisoners try to coax the dog to their cell door. One holds a loop of rope; another waggles a bone. The dog just sits and cocks its head.}
+<CHAR>__{PRISONER} <CHAR_PAR>__{}
+<DIAL>__{Come here, boy... Want a nice, juicy bone?}
+<ACTION>__{In an adjoining cell, Jack lies on a pile of straw.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You can keep doing that forever, that dog's never going to move.}
+<CHAR>__{PRISONER} <CHAR_PAR>__{}
+<DIAL>__{Excuse us if we ain't resigned ourselves to the gallows just yet.}
+<LOC>__{EXT. FORT CHARLES - PARAPETS - NIGHT}
+<ACTION>__{A noose hangs from a gallows in the courtyard. Norrington and Swann walk along the far wall.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Has my daughter given you an answer yet?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{No. She hasn't.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Well, she had a taxing day... Ghastly weather tonight.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Bleak. Very bleak.}
+<ACTION>__{From the distance, there is a BOOM -}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{What was that?}
+<ACTION>__{-- and then the WHISTLE of an incoming ball --}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Cannon fire!}
+<ACTION>__{He tackles Swann as the wall of the parapet EXPLODES --}
+<LOC>__{INT. CELL BLOCK - NIGHT}
+<ACTION>__{Jack sits up. There are more BOOMS -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I know those guns!}
+<ACTION>__{He peers out through the bars of the window. The other prisoners crowd around their window as well.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's the Black Pearl.}
+<CHAR>__{PRISONER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(frightened)}
+<DIAL>__{The Black Pearl? I've heard stories ... she's been preying on ships and settlements for near ten years ... and never leaves any survivors.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{There are a lot of stories about the Black Pearl.}
+<LOC>__{EXT. PORT ROYAL - HARBOR - NIGHT}
+<ACTION>__{The Black Pearl still cannot be seen -- but the fog lights up around her with each boom of her guns. She's firing on both sides now, hammering both the fort and the town.}
+<LOC>__{EXT. PORT ROYAL - TOWN - NIGHT}
+<ACTION>__{Streets, buildings, docks and ships shatter and explode beneath the onslaught. Villagers panic, run for cover, dodge flying debris as best they can. If this is not hell on earth, then it's about to be -- -- long boats emerge out of the fog, carrying ARMED PIRATES. They swarm from the boats, striking down ,villagers indiscriminately and setting fires.}
+<LOC>__{INT. BLACKSMITH'S FORGE - NIGHT}
+<ACTION>__{Will slips the boarding axe into his belt at the small of his back. He puts a dirk in his belt, then a second and a third. He picks up a second axe and a sword. Will slides back the doors of the forge -- A woman runs past, chased by a ONE-ARMED PIRATE wearing a yellow bandeau. Will backhands the axe square into his chest, a deadly blow. Will heads out, up the street --}
+<LOC>__{EXT. FORT CHARLES - PARAPETS - NIGHT}
+<ACTION>__{The moon is obscured by smoke rising from the burning gallows and wooden roofs. Cannon fire continues to rain down, but the fort's own cannons now return fire.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Governor! Barricade yourself in my office!}
+<DIAL_PAR>__{(Swann hesitates)}
+<DIAL>__{That's an order!}
+<ACTION>__{Swann turns to go -- but finds himself face-to-face with a pirate -- KOEHLER, a handsome blond man with gold earrings. Beyond Koehler, more pirates come up over the far wall. Koehler grins and raises a cutlass - -- Norrington's sword blocks Koehler's slash.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{They've flanked us! Men! Swords and pistols!}
+<ACTION>__{The battle is joined --}
+<LOC>__{INT. GOVERNOR'S MANSION - ELIZABETH f S BEDROOM - NIGHT}
+<ACTION>__{Elizabeth looks out a window at the scene below: even through the fog, multiple fires are visible, and ships burn in the harbor. Shouts and cries of pain. Cannon fire}
+<ACTION_ALT>__{ECHOES.}
+<ACTION>__{She notices movement directly below her window: two SHADOWY FIGURES, approaching the house -- pirates. Elizabeth bolts from her room--}
+<LOC>__{INT. SECOND FLOOR HALLWAY - NIGHT}
+<ACTION>__{She reaches the railing overlooking the foyer, and cries out, just as the butler opens the door -- too late; there is the BOOM of a gun, and the butler crumples. Elizabeth ducks down in horror, peering through the balusters. The pirates scan the foyer, searching. The leader is PINTEL, a sallow-looking pirate with a bald head. Suddenly Pintel looks up, and locks eyes with Elizabeth. How could he know she was there?}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{Up there!}
+<ACTION>__{The pirates rush for the stairs. Elizabeth scrambles back into the nearest room--}
+<LOC>__{INT. SITTING ROOM - NIGHT}
+<ACTION>__{Elizabeth shuts the door, locks it, listens as the pirates pound up the stairs --}
+<CHAR>__{ESTRELLA} <CHAR_PAR>__{}
+<DIAL>__{Miss Elizabeth?}
+<ACTION>__{Elizabeth jumps. Estrella is right behind her, terrified. They whisper:}
+<CHAR>__{ESTRELLA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Are they come to kidnap you, miss? The daughter of the governor would be very valuable.}
+<ACTION>__{Elizabeth realizes she's right. There is the SLAM of a body against the door.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Listen, Estrella -- they haven't seen you. Hide, and first chance, run for the fort .}
+<ACTION>__{Estrella nods. Another SLAM at the door -- it gives a bit - - Elizabeth shoves Estrella into the corner, between a tall wardrobe and the wall. Dashes for the side door. When the door smashes inward, it slams into the wardrobe, and the maid cannot be seen. The pirates run in -- spot the open side door, and run for it --}
+<LOC>__{INT. ELIZABETH'S BEDROOM - NIGHT}
+<ACTION>__{Pintel is the first through, and gets the pan of the bed warmer in the face for his trouble -- he staggers back, holding his nose --}
+<LOC>__{INT. SITIING ROOM - NIGHT}
+<ACTION>__{Estrella breaks cover, runs for the hall, unnoticed.}
+<LOC>__{INT. ELIZABETH'S BEDROOM - NIGHT}
+<ACTION>__{-- Elizabeth swings the bed warmer at the second pirate, but he catches it by the handle -- Elizabeth can't jerk it free, so she wrenches it over -- the pan lid swings down, BANGING the second pirate -- hot coals spill on his head, sizzling. Elizabeth dashes for the hallway stairs -}
+<LOC>__{INT. SECOND FLOOR HALLWAY/FOYER - CONTINUOUS - NIGHT}
+<ACTION>__{The pirates burst from the bedroom -- Pintel goes for the stairs, but the second pirate vaults the handrail -- Estrella registers the butler's body, but continues out the still-open front door at a dead run. Elizabeth follows -- The second pirate lands between Elizabeth and the front door. His face is BURNED, his hair SMOLDERS -- he reaches - - Elizabeth pulls up short, runs the other way -- Pintel, on the stairs, grabs her by the hair -- Elizabeth doesn't slow -- she spins, grabs Pintel's arm with both hands and pulls him hard, belly-first, into the cap of the newel post -- he lets go of her hair -- Elizabeth keeps going}
+<LOC>__{INT. DINING ROOM - NIGHT}
+<ACTION>__{Elizabeth slams the double doors shut, throws the bolts. The interior shutters are closed over the windows. Above the fireplace are two crossed swords. Elizabeth climbs on the firebox; she grabs one of the swords by the hilt and pulls -- but it won't come free. Both swords are securely attached to the wall. Damn! A SMASH from the doors -- the pirates are relentless - On the table is a platter with fruit, cheese and bread. Elizabeth grabs the knife from the platter - Like any bread knife, it has a round point. Elizabeth jabs it into her palm -- it's useless as a weapon. Double damn! The blade of a boarding axe breaches the door -- the pirates will be through soon -- Elizabeth looks around -}
+<LOC>__{INT. FIRST FLOOR HALLWAY - NIGHT}
+<ACTION>__{The doors give way; the pirates charge through -}
+<LOC>__{INT. DINING ROOM - CONTINUOUS - NIGHT}
+<ACTION>__{Empty. Elizabeth nowhere to be seen. Pintel and Smoldering Pirate search, under the table, behind draperies.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{We know you're here, poppet. Come out and we promise we won't hurt you.}
+<ACTION>__{Smoldering pirate gives him look -- he wants to hurt her plenty. Pintel shakes his head: 'Don't worry, I'm lying.'}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We will find you, poppet ... You've got something of ours, and it calls to us!}
+<LOC>__{INT. DUMBWAITER - NIGHT}
+<ACTION>__{Elizabeth hides in the dumbwaiter box, wrapped around the double pulley ropes that go through the center.}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{The gold calls to us!}
+<ACTION>__{Elizabeth registers that -- she pulls out the medallion, rubs the gold with her thumb. This is their objective. Light spills into the- box through gaps in the top as the door above is slid open -- Elizabeth looks up through the gaps - Pintel leers down at her.}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hello, poppet.}
+<ACTION>__{Elizabeth works the ropes to lower  the box. Pintel pulls the other way; he's stronger, and  the box rises. Elizabeth tries to stop it -- wraps her left  forearm through the rope and lets it jam against the top of  the box. Elizabeth gasps at the pain, but the box stops. She saws at the rope with the bread knife. Smoldering pirate helps pull the rope, crushing Elizabeth's forearm. Tears of pain on her face, she keeps sawing - The rope parts, and the dumbwaiter box PLUMMETS -}
+<LOC>__{INT. KITCHEN - NIGHT}
+<ACTION>__{From behind the door of the dumbwaiter comes a CRASH, and a cloud of dust. The door slides open, and Elizabeth clambers out. Her head is cut, she is streaked with dirt, and can barely stand. She leans over the table, trying to recover. The sound of running FOOTSTEPS gets louder ...}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Please, no ...}
+<ACTION>__{Elizabeth touches the chain of the medallion ... and a desperate idea occurs to her. The pirates burst through the door. Elizabeth backs away, holds the bread knife out to ward them off. They come around either side of the table, stalking her -}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(gasps it out)}
+<DIAL>__{Par. .. Parlay!}
+<ACTION>__{Pintel can't believe his ears.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Parlay! I invoke the right of parlay! According to" the Code of the Brethren, set down by the pirates Morgan and Bartholomew, you must take me to your Captain!}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{I know the code.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{If an adversary demands parley, you can do them no harm until the parlay is complete.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{It would appear, so do you.}
+<CHAR>__{SMOLDERING PIRATE} <CHAR_PAR>__{}
+<DIAL>__{To blazes with the code!}
+<ACTION>__{He steps forward, dirk drawn -- Pintel stops him.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{She wants to be taken to the Captain, and she'll go without a fuss.}
+<ACTION>__{He looks to Elizabeth: 'right?' Elizabeth nods.}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We must honor the code.}
+<ACTION>__{Smoldering Pirate concedes the point, sheaths his dirk. He grabs Elizabeth roughly by the arm -}
+<LOC>__{EXT. PORT ROYAL - STREET - NIGHT}
+<ACTION>__{Will races along, momentarily free of the pirates. He spots the Governor's Mansion in the distance. There are FIGURES moving away from it -- Elizabeth, forced by the two pirates. Will hurries forward - Suddenly a PIRATE jumps out from the shadows, slashes; Will defends himself. The pirate has one arm and wears a yellow bandana. Will hesitates -- didn't he already kill this guy? The hesitation is just enough for another PIRATE, swinging a flaming torch, to SLAM Will in the head from behind. Will crumples. The pirate lights a second torch, hands it to One-arm; they hoot with delight and head off, setting fires as they go. On the ground, Will doesn't move.}
+<LOC>__{INT. FORT CHARLES - CELL BLOCK - NIGHT}
+<ACTION>__{The wall of the cells EXPLODES inward. Jack pulls himself out from under rubble. Moonlight spills in through the gaping hole created by the cannon ball. Beyond it: freedom. But it is centered on the other cell. The part of Jack's cell that is gone is too small for a man to slip through.}
+<CHAR>__{PRISIONER} <CHAR_PAR>__{}
+<DIAL>__{Praise be!}
+<ACTION>__{He and the other two scramble through.}
+<CHAR>__{PRISONER } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(back to Jack)}
+<DIAL>__{My sympathies, friend - - you've no manner of luck at all!}
+<ACTION>__{The three descend the rocks beyond, disappearing from view. Jack is alone. Cannon fire continues, occasional hits shaking the fort. The dog cowers under a long bench, key ring still in his mouth. Jack sighs -- resigned, he picks up the bone from the other cell, and tries coax the dog forward.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{It's all right, doggie ... come here,}
+<ACTION>__{boy. Come here, Spot. Rover. Fido? To his surprise, the dog crawls out from under the bench. Jack continues to coax him closer. The key ring is nearly within Jack's reach -- suddenly, the dog's attention goes to the door into the cell block. He BRISTLES, GROWLS. He backs away from the door, whining.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What's the matter, boy?}
+<ACTION>__{The dog bolts, through the bars, into the cell, then out through the breached wall -- taking the keys with him. The door to the cell block bursts open. A pair of pirates step in: KOEHLER and TWIGG.}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{This isn't the armory.}
+<ACTION>__{He turns to go, but Koehler has spotted Jack.}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(Dutch accent)}
+<DIAL>__{Well, well... Look what we have here, Twigg. It's. Captain Sparrow.}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{Huh. Last time I saw you, you were all alone on a God-forsaken island, shrinking into the distance. I'd heard you'd gotten off, but I didn't believe it.}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL>__{Did you sprout little wings and flyaway?}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{His fortunes aren't improved much.}
+<ACTION>__{The two laugh. Jack doesn't. He steps forward, close to the bars. This puts him in a spill of moonlight. He is tight with fury.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Worry about your own fortunes. The lowest circle of hell is reserved for betrayers ... and mutineers.}
+<ACTION>__{Koehler and Twigg don't like hearing that. Koehler lashes out, grabs Jack by the throat through the bars. Jack clutches the pirate's wrist, looks down - Where they enter the moonlight, Koehler's wrists and hands are skeletal. Jack's eyes go wide -- he is holding a skeleton arm.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT' D)}
+<DIAL>__{You are cursed.}
+<ACTION>__{Koehler sneers, shoves Jack backwards, hard. Now out of the moonlight, his hand is normal. Jack stares, realizing -}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The stories are true.}
+<ACTION>__{Koehler ushers Twigg toward the door. Looks back.}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL>__{You know nothing of hell.}
+<ACTION>__{And then they're gone.}
+<LOC>__{EXT. PORT ROYAL - NIGHT}
+<ACTION>__{Amid the thunder of cannon fire, a longboat slips through the fog. Elizabeth sits in the prow. Columns of water from cannon balls geyser up around the boat. The fog parts. Elizabeth looks up to see -- The Black Pearl, a tall galleon, its black sails looming high above her. At the bow is an ornately carved figurehead of a beautiful woman, arm held high, a small bird taking wing from her outstretched hand. The longboat makes for a pair of lines dangling from a winch.}
+<LOC>__{EXT. BLACK PEARL - MAIN DECK - NIGHT}
+<ACTION>__{Lit by lanterns; no moon is visible beneath the fog. Smoke hangs heavy above the deck. Elizabeth's longboat is raised above the deck rail -- pirates spot her, and stare. One polite fellow steps forward to offer his hand. She takes it and steps down. She huddles, self-conscious in her nightgown and dressing robe.}
+<CHAR>__{BOSUN} <CHAR_PAR>__{}
+<DIAL>__{I didn't know we was taking captives.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{She's invoked the right of parlay... with Captain Barbossa.}
+<ACTION>__{ON THE POOP DECK -- an imposing FIGURE in silhouette stands by the wheel, too far away to have heard Pintel's words. But his head turns at the mention of his name. The silhouetted figure moves toward the stairs. A cloud of SMOKE obscures him -- and then, as if he skipped the stairs, he strides out of the SMOKE on the main deck- This is BARBOSSA. Despite the bright colors of clothing, definitely not a man you'd want to meet in a dark alley -- or anywhere, for that matter. Elizabeth, more terrified than ever, cannot look away from his eyes. But she musters her courage -}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I am here to --}
+<ACTION>__{The Bosun SLAPS her.}
+<CHAR>__{BOSUN} <CHAR_PAR>__{}
+<DIAL>__{You'll speak when spoken to!}
+<ACTION>__{His wrist is grabbed -- painfully -- by Barbossa.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{And you'll not lay a hand on those under the protection of parlay!}
+<CHAR>__{BOSUN} <CHAR_PAR>__{}
+<DIAL>__{Aye, sir.}
+<ACTION>__{Barbossa releases him. Turns to Elizabeth, smiles -- it shows both silver and gold teeth.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{My apologies, miss. As you were saying, before you were so rudely interrupted?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Captain Barbossa ... I have come to negotiate the cessation of hostilities against Port Royal.}
+<ACTION>__{Barbossa is both impressed and amused.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{There was a lot of long words in there, miss, and we're not but humble pirates. What is it you want?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I want you to leave. And never come back.}
+<ACTION>__{Barbossa and the pirates laugh.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{I am disinclined to acquiesce to your request.}
+<DIAL_PAR>__{(helpfully)}
+<DIAL>__{Means' No. '}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Very well.}
+<ACTION>__{She quickly slips the medallion off, darts to the side rail, dangles it over the side of the ship. The pirates go quiet.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'll drop it!}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{My holds are bursting with swag. That bit of shine matters to me ... Why?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Because it's what you're searching for. You've been searching for it for years. I recognize this ship. I saw it eight years ago, when we made the crossing from England.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(interested)}
+<DIAL>__{Did you, now?}
+<ACTION>__{Elizabeth glares at him. She's getting nowhere.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Fine. I suppose if this is worthless, there's no reason to keep it.}
+<ACTION>__{She flips the medallion up, off her finger -}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{NO!}
+<ACTION>__{She catches it by the chain, smiles at him triumphantly.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You have a name, missy?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth -}
+<DIAL_PAR>__{(stops herself from saying "Swann"; then:)}
+<DIAL>__{Turner.}
+<DIAL_PAR>__{(embroidering)}
+<DIAL>__{I'm a maid in the governor's household.}
+<DIAL_PAR>__{(curtsies)}
+<DIAL>__{Barbossa reacts to the name Turner: it confirms what he has suspected. The other pirates surreptitiously exchange glances and nods.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You've got sand, for a maid.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(curtsies again)}
+<DIAL>__{Thank you, sir.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{And how does a maid come to own a trinket such as that? A family heirloom, perhaps?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Of course.}
+<DIAL_PAR>__{(offended)}
+<DIAL>__{I didn't steal it, if that's what you mean.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{No, no, nothing like that.}
+<DIAL_PAR>__{(comes to a decision)}
+<DIAL>__{Very well. You hand that over, we'll put your town to our rudder and ne'er return.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Can I trust you?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{It's you who invoked the parlay! Believe me, Miss, you'd best hand it over, now... or these be the last friendly words you'll hear!}
+<ACTION>__{Elizabeth hesitates, but she has no choice. She holds out the medallion. He grabs it, clutches it in his fist like hope.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Our bargain. . ?}
+<ACTION>__{Barbossa grins devilishly -- but then nods to the Bosun.}
+<CHAR>__{BOSUN} <CHAR_PAR>__{}
+<DIAL>__{Still the guns, and stow 'em! Signal the men, set the flags, and make good to clear port!}
+<ACTION>__{For the first time since the attack began, the BOOMING of the guns ceases. Elizabeth is surprised -- and relieved. The pirates hustle to follow orders. Barbossa turns away.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Wait! You must return me to shore! According to the rules of the Order of the Brethren -}
+<ACTION>__{Barbossa wheels on her.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{First. Your return to shore was not part of our negotiations nor our agreement, and so I 'must' do nothing. Secondly: you must be a pirate for the pirate's code to apply. And you're not. And thirdly...}
+<ACTION>__{the code is more what you'd call guidelines than actual rules. (grins gold and silver) Welcome aboard the Black Pearl, Miss Turner. Elizabeth stares in speechless terror -}
+<LOC>__{EXT. PORT ROYAL - HARBOR - PRE-DAWN}
+<ACTION>__{As the Black Pearl turns out to sea, Elizabeth is led back along the deck to the captain's cabin. The fog starts to dissipate, turning to a light mist; through it, the Black Pearl makes for the scarlet glow of dawn.}
+<LOC>__{EXT. PORT ROYAL - STREET - PRE-DAWN}
+<ACTION>__{Will comes to, still where he fell, gets to his feet. He takes in the devastation of Port Royal: the harbor is dotted with burning and sunken ships; buildings are razed and still smolder. The aftermath of hell on earth. Will turns, and runs for the Governor's Mansion.}
+<LOC>__{INT. GOVERNOR'S MANSION - MORNING}
+<ACTION>__{Will races past the smashed doors, into the foyer. Calls out:}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Miss Swann! Elizabeth!}
+<ACTION>__{A terrible silence answers him. He spots an overturned chair, fallen bookshelf -}
+<LOC>__{INT. FORT CHARLES - NORRINGTON'S OFFICE - MORNING}
+<ACTION>__{Will bursts in, still armed with sword and boarding axe.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{They've taken her! They've taken Elizabeth!}
+<ACTION>__{A group stares at him: Swann, Norrington, and Gillette among others, gathered around a map. The map is so large it drapes over the Governor's desk, the far end supported by a chair.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{We're aware of the situation.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We have to hunt them down -- and save her!}
+<ACTION>__{Swann's worry has made him short-tempered.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Where do you propose we start? If you have any information that concerns my daughter, then share it! If anyone does, tell me!}
+<DIAL_PAR>__{(Will is silent)}
+<DIAL>__{Leave, Mr. Turner.}
+<ACTION>__{Murtogg has remembered something. He ventures it warily:}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{That Jack Sparrow... he talked about the Black Pearl.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{Mentioned it, is more what he did.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{Still --}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We can ask him where it is -- maybe he can lead us to it!}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{That pirate tried to kill my daughter. We could never trust a word he said!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We could strike a bargain -}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{No. The pirates who invaded   this fort left Sparrow locked in   his cell. Ergo, he is not their   ally, and therefore of no value.}
+<DIAL_PAR>__{(through with Will)}
+<DIAL>__{We will determine their most likely course, and launch a   search mission that sails with the   tide.}
+<ACTION>__{Will slams the boarding axe into the desk, through the map.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{That's not good enough. This is Elizabeth's life!}
+<ACTION>__{Norrington is quick to react; he throws a strong arm across Will's back, and guides him roughly to the door.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Mr. Turner, this is not the time for rash actions.}
+<DIAL_PAR>__{(low)}
+<DIAL>__{Do not make the mistake of thinking you are the only man here who loves Elizabeth.}
+<DIAL_PAR>__{(firm)}
+<DIAL>__{Now, go home.}
+<ACTION>__{He opens the door, and then turns away. Will watches him walk back to the desk. Will's face sets in resolve, and he leaves.}
+<LOC>__{INT. FORT CHARLES - JAIL CELLS - MORNING}
+<ACTION>__{Jack strains, trying to budge one of the bars. Even with the damage from the cannon ball, it won't move. He hears the sound of the door latch - The door opens, and Will slips in. Looks around. Jack lounges on the floor of his cell, apparently relaxed and unconcerned. Will marches straight up to the bars.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Are you familiar with that ship? The Black Pearl?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Somewhat.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Where does it make berth?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Surely you've heard the stories? The Black Pearl sails from the dreaded Isla de Mureta... an island that cannot be found -- except by those who already know where it is.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{The ship's real enough. So its anchorage must be a real place. Where is it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Why ask me?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Because you're a pirate.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{And you want to turn pirate yourself?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Never.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{They took Miss Swann.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(he was right)}
+<DIAL>__{So it is that you found a girl. Well, if you're intending to brave all and hasten to her rescue and so win fair lady's heart, you'll have to do it alone. I see no profit in it for me.}
+<ACTION>__{Will slams his fist against the bars in frustration. Jack is surprised at the outburst. Will thinks ... makes a decision.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I can get you out of here.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{How? The key's run off.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(examines the cell)}
+<DIAL>__{I helped build these cells. Those are hook-and-ring hinges. The proper application of strength, the door'll lift free. Just calls for the right lever and fulcrum. . .}
+<ACTION>__{Jack watches Will as he speaks, and it dawns on him -- Will is the spitting image of someone he's known in the past.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Your name is Turner.}
+<ACTION>__{Will gives him a puzzled look.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Yes. Will Turner.}
+<ACTION>__{Jack grins.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Will Turner...}
+<DIAL_PAR>__{(he stands)}
+<DIAL>__{I'll tell you what, Mr. Turner. I've changed my mind. You spring me from this cell, and on pain of death, I'll you to the Black Pearl.}
+<DIAL_PAR>__{(sticks out his hand)}
+<DIAL>__{Do we have an accord?}
+<ACTION>__{Will gives him a suspicious look. The deal seems too good. Jack keeps his hand out, still smiling. Will shakes it.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Agreed.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Agreed!}
+<ACTION>__{Will looks around, figures out   what he needs. He makes a chair his fulcrum, and levers   the long bench under the door. Pushes down -- it's hard   work -- but the cell door rises, and then falls forward,   CRASHING down on the bench and chair. Jack is impressed. He steps out of the cell.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Someone will have heard that. Hurry.}
+<ACTION>__{Will heads for the door. Jack searches the desk, cupboards.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Not without my effects.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We need to go!}
+<ACTION>__{Jack finds his pistol, sword belt, and compass. Straps on the belt, checks the shot in his pistol.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why are you bothering with that?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{My business, Will. As for your business -one question, or there's no use going.}
+<DIAL_PAR>__{(joins Will at the door)}
+<DIAL>__{This girl -- what does she mean to you? How far are you willing to go to save her?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(no hesitation)}
+<DIAL>__{I'd die for her.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Good.}
+<LOC>__{EXT. PORT ROYAL - DOCKS - MORNING}
+<ACTION>__{The Jolly Mon, four inches of water in the bottom, squats low in the water, heeled to one side, creaking on its lines.}
+<CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Ah, now there's a lovely sight!}
+<ACTION>__{Jack hops down into the boat. Prepares to make way.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I knew the Harbormaster wouldn't report her. Honest men are slaves to their conscience, and there's no predicting 'em. But you can always trust a dishonest man to stay that way...}
+<ACTION>__{Jack notices that Will is standing, frozen on the dock, staring at the boat in dismay.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come aboard.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I haven't set foot off dry land I was twelve, when the ship I was on exploded.}
+<DIAL_PAR>__{(regards the boat)}
+<DIAL>__{It's been a sound policy.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{No worries there. She's far more likely to rot out from under us.}
+<ACTION>__{Will steels himself, steps into the boat as if its going to capsize with the slightest movement. Jack hoists the sail.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Besides, we are about to better our prospects considerably.}
+<ACTION>__{He nods toward the H.M.S. Dauntless, looming in the harbor. Will whiteknuckles the gunwales.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We're going to steal a ship? That ship?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Commandeer. We're going to commandeer a ship. Nautical term.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{It's still against the law.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{So's breaking a man out of jail. Face it, Will: you may say you'll never be a pirate, but you're off to a rip-roaring start.}
+<DIAL_PAR>__{(smiling)}
+<DIAL>__{My advice -- smile and enjoy it.}
+<LOC>__{EXT. PORT ROYAL - MORNING}
+<ACTION>__{The Jolly Mon bobs its way across the bay, dwarfed against the H.M.S. Dauntless. Will holds a stay line with iron fists.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{This is either crazy, or brilliant.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Remarkable how often those two traits coincide.}
+<ACTION>__{The Jolly Man nears the rudder of the much larger ship -}
+<LOC>__{EXT. H. M. S. DAUNTLESS - MAIN DECK - MORNING}
+<ACTION>__{There's been a breakdown in discipline; about a dozen Navy sailors are gathered together on the main deck, playing dice. Murtogg and Mullroy among them. Suddenly, Jack and Will jump out, into the open - brandishing pistols.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Everybody stay calm. We're taking over the ship!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a beat)}
+<DIAL>__{Aye! Avast!}
+<ACTION>__{Jack gives him a look, shakes his head: don't do that. The sailors all look   at them -- and then burst out LAUGHING. They grin,   shake their heads. Jack stands there, grinning with them --   but his gun is still level. The Lieutenant, GILLETTE,   steps forward.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{You're serious about this.}
+<ACTION>__{Jack moves his pistol across, points it at Gillette.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Dead serious.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{You understand this ship cannot be crewed by only two men. You'll never make it out of the bay.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{We'll see about that.}
+<ACTION>__{More guffaws from the crew. A couple sailors move forward, hands on swords -- Gillette holds up a hand.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{Sir, I'll not see any of my men killed or wounded in this foolish enterprise.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Fine by me. We brought you a nice little boat, so you can all get back to shore, safe and sound.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a curt nod)}
+<DIAL>__{Agreed. You have the momentary advantage, sir. But I will see you smile from the yard arm sir.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{As likely as not.}
+<DIAL_PAR>__{(calling)}
+<DIAL>__{Will, short up the anchor, we've got ourselves a ship!}
+<LOC>__{EXT. DAUNTLESS - STERN - MORNING}
+<ACTION>__{Sailors make their way down a rope ladder, crowd onto the Jolly Mon. Will pushes hard against the windlass, to no avail ... the anchor is too heavy for one man. Jack notices.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{A little help?}
+<ACTION>__{Gillette shrugs, gestures to Murtogg and Mullroy. The three men throw their weight into the windlass, and it turns. Jack's pistol is on them the whole time.}
+<CHAR>__{MURTOGG} <CHAR_PAR>__{}
+<DIAL>__{I can't believe he's doing this.}
+<ACTION>__{The windless turns, bringing Mullroy into view.}
+<CHAR>__{MULLROY} <CHAR_PAR>__{}
+<DIAL>__{You didn't believe he was telling the truth, either.}
+<ACTION>__{The windless turns some more, and there's Gillette.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(over his shoulder, to Will)}
+<DIAL>__{Do you have any idea, boy, what you're doing?}
+<ACTION>__{Another quarter turn -}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<LOC>__{EXT. DAUNTLESS - FORECASTLE - DAY}
+<ACTION>__{Jack and Will crank a capstan, raising the forward jib sail. It luffs and billows out. The huge ship inches forward slowly, pulled by just the one sail. Jack grins.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Lookee there, mate! We're underway!}
+<LOC>__{EXT. PORT ROYAL - DOCK - DAY}
+<ACTION>__{Norrington moves along, concentrating on a manifest. Alongside him is governor Swann, who glances over - Sees the tiny Jolly Mon headed toward them, riding low in the water, overloaded with sailors. Beyond that, the Dauntless sails -- albeit slowly -- for open waters.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Commodore --}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{A moment.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{But --}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Please.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{Dammit, man, it appears someone is stealing your ship!}
+<ACTION>__{Norrington glances out at the bay. Sure enough, the Dauntless is on the move. Norrington takes a brass telescope from his belt, opens it, trains it on -- The main deck. He picks out Will -}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Rash, Turner, too rash.}
+<ACTION>__{-- then spots Jack, at the wheel. Lowers the telescope.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That is, without doubt, the worst pirate I have ever seen.}
+<LOC>__{EXT. H . M. S. DAUNTLESS - DAY}
+<ACTION>__{Out in the open sea, Jack leans on the wheel, relaxed; not much sailing to do with a following wind. Will looks back -}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{They're coming!}
+<ACTION>__{He points: the sails of the Interceptor fill out, and the ship cuts through the water toward them-}
+<LOC>__{EXT. H.M.S. INTERCEPTOR - DAY}
+<ACTION>__{Norrington's smaller ship quickly comes alongside the slowmoving Dauntless. Its decks appear empty. Grappling hooks are thrown, and sailors draw the two ships together. Norrington's men swarm across.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Search every cabin, every hold, down to the bilges!}
+<ACTION>__{PULL BACK, away from the   Dauntless, and past the railing of the Interceptor, where a   single SENTRY stands watch -- and we find a soaked Jack and   Will as they climb up over the side of the smaller ship,   unseen. Jack tackles the Sentry from behind, covers hi1rmouth.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Can you swim?}
+<DIAL_PAR>__{(the man struggles)}
+<DIAL>__{Can. You. Swim?}
+<ACTION>__{Jack removes his hand.}
+<CHAR>__{SENTRY} <CHAR_PAR>__{}
+<DIAL>__{Of course, sir. Like a fish. I grew up summers living in Dover, with my uncle -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Good.}
+<ACTION>__{Jack lifts the man up, throws him overboard. Quickly unties the ropes to the grappling hooks. Will cranks the capstan bars, raising the foresail -}
+<LOC>__{EXT. H . M. S. DAUNTLESS - DAY}
+<ACTION>__{Norrington emerges from a gangway -- and sees his other ship moving away.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Sailors! Back to the Interceptor!}
+<ACTION>__{But the distance is already too great. One brave sailor tries to swing across on a rope, Errol-Flynn style, but falls short with a splash. Jack waves, and shouts across the distance -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Commodore, for getting our ship ready to make way! We'd've had a hard time of it by ourselves!}
+<ACTION>__{Norrington seethes, but his order to Gillette is measured:}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Raise the sails.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{The wind is quarter from astern ... by the time we're underway, we'll never catch them.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{We need only to come about, to put them in range of the long nines.}
+<ACTION>__{Gillette looks surprised at the order -- but relays it.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{Hands! Come about! Jackets off the cannons!}
+<DIAL_PAR>__{(to Norrington)}
+<DIAL>__{We are to fire on our own ship?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Better to see it at the bottom of the sea than in the hands of a pirate.}
+<ACTION>__{The STEERSMAN turns the wheel. The Dauntless' course does not change one whit.}
+<CHAR>__{STEERSMAN} <CHAR_PAR>__{}
+<DIAL>__{Captain, there's a problem.}
+<ACTION>__{The Steersman spins the wheel. It goes round and round, with no signs of slowing.}
+<CHAR>__{STEERSMAN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{He's disabled the rudder chain, sir.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{So it would seem.}
+<ACTION>__{The Interceptor dwindles with distance. Gillette watches it go, with some degree of admiration.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{He's got to be the best pirate I've ever seen.}
+<ACTION>__{Norrington reaches out, stops the spinning ship's wheel.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{So it would seem.}
+<ACTION>__{The Interceptor makes for the horizon line. A SLOW DISSOLVE and with the time passage, the ship is gone; the sky turns a deep twilight blue -}
+<LOC>__{EXT. CARIBBEAN SEA - EVENING}
+<ACTION>__{-- with the fat white moon riding just above the horizon. Suddenly, the edge of a black sail cuts into the foreground, accompanied by the ROAR of the wind and the SNAP of canvas -}
+<LOC>__{INT. BLACK PEARL - CAPTAIN'S CABIN - EVENING}
+<ACTION>__{Elizabeth stalks the cabin. Pintel enters, carrying a black silk dress.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{You'll be dining with the Captain, and he requests you wear this.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Tell the captain that I am disinclined to acquiesce to his request.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(happy)}
+<DIAL>__{He said you say that! He also said if that be the case, you'll be dining with the crew, and you'll be naked.}
+<ACTION>__{Angry, Elizabeth holds out her hand. Pintel's grin fades.}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(hands it over)}
+<DIAL>__{Fine.}
+<ACTION>__{He exits, pouting. Elizabeth examines the dress -}
+<LOC>__{INT. BLACK PEARL - CAPTAIN'S CABIN - NIGHT}
+<ACTION>__{Barbossa enters, followed by PIRATES carrying trays of food, wine, table setting, etc. Elizabeth stands at the small table in the dress -- lovely.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Maid or not, it fits you.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Dare I ask the fate of its previous owner?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Now, none of that. Please dig in.}
+<ACTION>__{The table is set. Elizabeth sits, cuts a tiny piece of meat, eats it daintily.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No need to stand on ceremony, and no call to impress anyone. You must be hungry.}
+<ACTION>__{Elizabeth drops the pretense: she's starving, and begins to eat like it. Barbossa watches her intently.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Try the wine.}
+<ACTION>__{Elizabeth does, a huge swig; she tears off a hunk of bread, devours it.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And the apples -- one of those next.}
+<ACTION>__{She starts to bite into the apple -- stops. She is suddenly aware of Barbossa's gaze -- and that he is not eating.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{It's poisoned!}
+<ACTION>__{She shoves her plate away -- and takes the opportunity to palm her knife. Barbossa LAUGHS.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Oh, there would be no sense in killing you, Miss Turner.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Then why aren't you eating?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Would that I could.}
+<ACTION>__{He produces the medallion, lets it dangle from his fingers.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Do you not know what this is, then?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{It's a pirate medallion.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{It's a piece of the treasure of Isla de Muerta .}
+<ACTION>__{Elizabeth gives an infinitesimal shrug, intrigued despite herself.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT 'D)}
+<DIAL>__{Ah, so you don't know as much as you pretend. Back when Cortes was cutting a great bloody swath through the New World, a high priest gave. him all the gold they had, with one condition: that he spare the people's lives. Of course, Cortes being Cortes, he didn't.}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{He'd've made a great pirate, that one.}
+<ACTION>__{Barbossa stands, moves to a shelf. Puts a key to a medium- sized polished wooden box -- the Captain's chest. Opens it.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So the priest, with his dying breath, called on the power of the blood of his people, and put on the gold a curse. If anyone took so much as a single piece, as he was compelled by greed, by greed he would be consumed.}
+<ACTION>__{Inside the chest are charts, some gold, a sextant -- and a few pages of a Mayan CODEX, pieces of tree bark inscribed with Mayan glyphs. Barbossa removes them carefully, sets them on the table. Pours over them.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Within a day of leaving port for Spain, the treasure ship carrying the gold ... something went wrong. The ship run aground, every man aboard dead, save one. He survived long enough to hide the gold ashore.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Over time, the dark magic of the curse seeped into the place, making it a cursed island. An island of death. Isla de Muerta.}
+<ACTION>__{He looks up. Elizabeth has been rapt, involved in the story -but feigns a dismissive attitude.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{That's all very interesting, but I hardly believe in ghost stories any more.}
+<ACTION>__{Barbossa is angry. He stands, sweeps the food off the table.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You idiot girl! It's no make- believe! My crew and I, we found the gold, and we did more than take one piece, we took it all. Rich men we were and we spent it and traded it and gave it away in exchange}
+<ACTION>__{for drink and food and pleasant company. But we found out: the drink could not sate us, and the food turned to ashes in our mouths, and no amount of pleasant company could ease our torment. (regains his composure) We are cursed men, Miss Turner, condemned, to be forever consumed by our own greed. Gold calls to UB, always, and we are driven, always, to find more, and add it to the treasure. Barbossa picks up the priceless Codex. Crushes them in his fist.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{There is but one way to remove the curse. All of the scattered pieces of the treasure must be restored in full, and the blood repaid.}
+<DIAL_PAR>__{(he throws the pages aside)}
+<DIAL>__{We've recovered every piece -- save for this.}
+<DIAL_PAR>__{(holds up the medallion)}
+<DIAL>__{And as for the blood ... that's what we have you for.}
+<DIAL_PAR>__{(pleasant, finally getting to his point)}
+<DIAL>__{And that's why there's no sense in killing you. Yet.}
+<ACTION>__{Elizabeth stares at him, horrified. Using the toe of his boot, Barbossa flips an apple up off the floor, catches it, extends it to Elizabeth.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Apple?}
+<ACTION>__{Elizabeth slowly reaches for the apple -- and then comes up out of her chair, trying to run around Barbossa_ They struggle briefly, and then suddenly he shoves her away- Elizabeth's stolen KNIFE is buried in Barbossa's chest, to the hilt -- Barbossa is completely unaffected. He opens his shirt to get a better look at the knife, pulls it out with little effort. There is BLOOD on the blade, but none anywhere else.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm curious -- after killing me, what is it you were planning to do next?}
+<ACTION>__{Elizabeth backs away, whirls and barrels out the door -}
+<LOC>__{EXT. BLACK PEARL - MAIN DECK - NIGHT}
+<ACTION>__{-- Elizabeth comes to dead stop. She stares, her jaw working, trying to scream but unable to - The pirate crew works at their stations, coiling lines, navigating the ship, swabbing decks -- but where the moonlight falls across their bodies, they are nauqht but}
+<ACTION_ALT>__{SKELETONS. .}
+<ACTION>__{Elizabeth turns away from the sight - Barbossa stands just inside the doorway, out of the moonlight. He grabs her roughly by the shoulders and jerks her back around -- Elizabeth shuts her eyes -}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Look!}
+<DIAL_PAR>__{(shakes her)}
+<DIAL>__{LOOK! The moonlight shows us for what we really are! We are not among the living and so we cannot die -}
+<ACTION>__{He spins her back around to face him -- he leans forward, putting his face in the moonlight, turning it into a gleaming SKULL with gold and silver teeth -}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{-- but neither are we dead! We have all the desires of the living, but cannot satisfy them! Ten years I have been parched of thirst, and unable to quench it! Ten years, I have been starving to death -- and haven't died!}
+<DIAL_PAR>__{(raises his hand)}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And I have not felt anything for ten years ... Not the wind on my face, nor the spray of the sea ...}
+<DIAL_PAR>__{(reaches toward Elizabeth)}
+<DIAL>__{... nor the flesh of a woman ...}
+<ACTION>__{Elizabeth flinches away from the skeletal hand. It drops away -- he takes a bottle of wine from the opened case beside the cabin door, uncorks it with his teeth, raises it -}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You'd best start believing in ghost stories, Miss Turner. Because now you're in one.}
+<ACTION>__{He tilts the bottle and drinks -- it runs over his jaw, through his rib cage, drenching his clothes. Elizabeth darts around him, back into the cabin, and shuts the door. Barbossa hurls the bottle away.}
+<LOC>__{INT. BLACK PEARL - CAPTAIN'S CABIN - NIGHT}
+<ACTION>__{Elizabeth huddles in the far corner of the cabin, terrified.}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{The Interceptor cuts across the waves. Jack at the wheel; Will tightens a line, moves back astern.}
+<LOC>__{EXT. INTERCEPTOR - MAIN DECK - DAY}
+<ACTION>__{Will sharpens his sword with a whetstone: shhhk -- shhhk}
+<ACTION_ALT>__{...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{For a man whose made an industry of avoiding boats, you're a quick study.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I worked passage   from England as a cabin boy.}
+<DIAL_PAR>__{(an attempt  at guile)}
+<DIAL>__{After my mother  passed, I came out here ... looking  for my father.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Is that so?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{My father. William Turner?}
+<ACTION>__{Jack says nothing. Will has lost the patience for guile.}
+<CHAR>__{WILL } <CHAR_PAR>__{( CONT ' D)}
+<DIAL>__{I'm not a simpleton. At the jail - - it was only after you learned my name that you agreed to help.}
+<DIAL_PAR>__{(a smile)}
+<DIAL>__{Since that's what I wanted, I didn't press the matter. But now -}
+<ACTION>__{{an accusation} You knew my father. Jack considers his reply -- settles on 'truth.'}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I knew him. Probably one of the few who knew him as William Turner. Most everyone just called him Bill, or 'Bootstrap' Bill.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{'Bootstrap?'}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Good man. Good pirate. And clever -"- I never met anyone with as clever a mind and hands as him. When you were puzzling out that cell door, it was like seeing his twin.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(angry)}
+<DIAL>__{That's not true.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I swear, you look just like him.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{It's not true that my father was a pirate.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Figured you wouldn't want to hear it.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{He was a merchant marine! He was a respectable man who obeyed the law, and followed the rules--}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{You think your father is the only man who ever lived the Glasgow life, telling folk one thing, and then going off to do another? There's quite a few who come here, hoping to amass enough swag to ease the burdens of respectable life. And they're all 'merchant marines.'}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{My father did not think of my mother -his family -- as a burden.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Sure -- because he could always go pirating.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{My father -- was not -- a pirate!}
+<ACTION>__{Will's sword is out, levelled at Jack. Jack gives him a disbelieving look, sighs.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Put it away, Will. It's not worth getting beat again.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You didn't beat me. You ignored the rules of engagement. In a fair fight, I'd kill you.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Then that's not much incentive for me to fight fair, is it?}
+<ACTION>__{He kicks a lever on a wench. The sail boom whips around and slams Will in the chest -- sweeping him off the ship. His sword clatters onto the deck. Will dangles above the water. Jack slips a loop of rope around the wheel to hold the course. Picks up the sword -- and pokes at Will with it. Will hand-over-hands away from the blade, to the end of the boom.}
+<CHAR>__{JACK } <CHAR_PAR>__{( CONT ' D)}
+<DIAL>__{As long as you're just hanging there, pay attention. Must, Should, do, don't, shall, shall not -- those are just suggestions. There are only two absolute rules.}
+<DIAL_PAR>__{(ticks them off on his fingers)}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What a man can do. And what a man can I t do.}
+<ACTION>__{Will looks away, not interested.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{For instance: you can accept that your father was a pirate and still a good man... or you can't. Now me, I can sail this ship to Tortuga, by myself. . .}
+<DIAL_PAR>__{(Will looks alarmed)}
+<DIAL>__{But I can't just let you drown.}
+<ACTION>__{Jack swings the boom back in. Will drops to the deck. Jack holds the hilt of the sword out. Will takes it. Glares at Jack, considers what he'll do next. Jack watches him coolly. Will turns and strides to his spot on the deck, sits down, and resumes sharpening his sword: shhhk -- shhhk -- shhhk}
+<ACTION_ALT>__{...}
+<ACTION>__{Jack breathes silent sigh of relief. Notices his hand is shaking -- he takes the wheel.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Tortuga?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Oh -- did I forget to mention that?}
+<LOC>__{EXT. TORTUGA - DAY}
+<ACTION>__{A dank and dirty port, where the tides seem to have swept together the scum of the Caribbean -- pirates, privateers, prostitutes, thieves, and drunkards. With its cantered, rotting docks, weatherbeaten buildings, and odd assortment of livestock running free -- a donkey, chickens, etc. -- it is far less civilized than Port Royal. Jack and Will move through the crowd. A REDHEADED woman turns her head -- she has noticed Jack.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{We need a crew. We can manage the ship between islands, but the open sea, that's another matter -}
+<ACTION>__{Suddenly the Redhead SLAPS Jack, hard. Satisfied, she turns and strides off. Will ignores her.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Just do it quickly.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rubbing his jaw)}
+<DIAL>__{Don't worry. I've already got my Quartermaster -- there!}
+<ACTION>__{Jack leads Will toward a pub: the Faithful Bride, the emblem over the door a politically incorrect painting of a smiling woman holding a bouquet in her chained-and-manacled hands. Jack pulls open the door; Will goes inside passing a pretty ASIAN women coming out -- she sees Jack and immediately SLAPS him, cursing something in Chinese. Jack backs away -}
+<LOC>__{INT. THE FAITHFUL BRIDE - DAY}
+<ACTION>__{Jack closes the door on the woman, joins Will. They take in the place -- it is populated with a slightly higher class of scum. Jack spots a BARTENDER, smiles, moves forward - --and is suddenly DECKED by a waitress. This is ANAMARIA, tall, strong, tough; she didn't spill a drink off her tray.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{You stole my boat.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{AnaMaria! Have you seen Gibbs? I need to put together -}
+<ACTION>__{She SLAPS him again. Will shakes his head, heads for the bar. Jack gets up.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Borrowed. Borrowed your boat.}
+<DIAL_PAR>__{(off her look)}
+<DIAL>__{Without permission.}
+<ACTION>__{AnaMaria charges; Jack backs away, puts a table between them. She chases him around the table, still carrying the tray.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{My dory. The Jolly Mon. Where is it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Safe! At Port Royal. With the Royal Navy.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{That boat is my livelihood!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You'll get it back. Or one better.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(a threat)}
+<DIAL>__{I will.}
+<ACTION>__{Away from them, a PATRON calls for his food. AnaMaria scowls at Jack, moves away -- comes back for. one more SLAP!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Jack! Over here!}
+<ACTION>__{AT THE BAR, Will has spoken to the Bartender. Jack arrives, rubbing his chin.}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{He knows Gibbs.}
+<ACTION>__{The Bartender nods 'yes.' Then nods 'out back.' Then produces a water bucket from behind the bar. Jack and Will exchange a look,-and Jack takes the bucket.}
+<LOC>__{EXT. THE FAITHFUL BRIDE - REAR - DAY}
+<ACTION>__{A drunken man lays in the mud, having a friendly conversation with two pigs. He wears an old tattered Navy jacket. A sudden SPRAY OF WATER splashes across his face, revealing: this is old JOSHAMEE GIBBS (the man who told pirate stories to Elizabeth when she was a child). He sputters and roars:}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Curse you for breathing, you slack-jawed idiot}
+<DIAL_PAR>__{(recognizes Jack)}
+<DIAL>__{Mother's love, Jack, you know better than to wake a man when he's sleeping. It's bad luck!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Well, fortunately, I know how to counter it. The man who did the waking buys the man who was sleeping a drink, and the man who was sleeping it drinks it while listening to a proposition.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Aye, that'll about do it.}
+<ACTION>__{Jack helps Gibbs to his feet -- and then Gibbs is hit with a second wave of water. Will stands there with the bucket.}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Blast it, I'm already awake!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I know. That was for the smell.}
+<LOC>__{INT. THE FAITHFUL BRIDE - DAY}
+<ACTION>__{Jack and Gibbs sit at a table in the shadows, a single candle illumining them, speaking in hushed voices. Will is away from them, at the door, hand on sword, keeping a look- out. A tankard is set down. Gibbs lifts it to take a swig -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Just the one.}
+<ACTION>__{Gibbs pauses. He takes a dainty sip.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Make it_ast, then. Now, what's the nature of this venture of yours?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{First -- have you found me a crew?}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Oh, there's a hard tale, Jack. Most of the decent pirates in town won't sail with you -- seem to think you're a jinx.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Now where, I wonder, would they have gotten that idea?}
+<ACTION>__{Gibbs evades answering by taking a long sip. Jack leans forward. Gibbs leans forward.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm going after the Black Pearl.}
+<ACTION>__{Gibbs straightens up like he's been hit. He stares. He reaches for the drink as if to down it -- but then sets it back down. He leans forwards again. Jack has not moved.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Say again?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ilm going after the Black Pearl. I know where its going to be, and I'm going to take it.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Jack, it's a fool's errand: You've heard the tales they tell about the Pearl.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Aye, and that's why I know where it's going to be, and that's why I know what Barbossa is up to. All I need is a crew.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shakes his head)}
+<DIAL>__{A fool's errand.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Not if the fool has something Barbossa wants. Something he needs.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{And you've got that, have you?}
+<ACTION>__{ANGLE ON: Jack, as he smiles enigmatically, and shifts his eyes' -- behind him, Will, still on guard, glares a sailor away from the table.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Back there, guarding the door is the son of old Bootstrap Bill Turner.}
+<ACTION>__{Gibbs' eyes widen over the edge of the tankard. Peers at Will. Then smiles, with more missing teeth than good ones.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Well, lookee there. I'll allow you may be onto something, Jack.}
+<DIAL_PAR>__{(considers, nods)}
+<DIAL>__{There's bound to be sailors on this rock crazy as you. I'll find some men.}
+<ACTION>__{Gibbs downs the drink, SLAMS the tankard on the table. Will reacts to the sound, draws both sword and dagger, kicks over a table for cover, and whirls on anyone who moves.}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Kid's a bit of a stick, isn't he?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That he is.}
+<LOC>__{EXT. TORTUGA - DOCK - LATER - DAY}
+<ACTION>__{On the docks, a disheveled, motley and weatherbeaten group of about a dozen swabs stand in a ragged line-up.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Feast your eyes, Cap'n. All of 'em good sea-faring men, faithful hands before the mast, every one worth his salt --}
+<DIAL_PAR>__{(sotto, making his point)}
+<DIAL>__{-- and crazy, to boot.}
+<ACTION>__{Jack holds up a hand -- enough. He moves down the line, Gibbs at his side. Then he notices AnaMaria in line, dressed like a man, He raises an eyebrow.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{You owe me a boat.}
+<ACTION>__{Jack nods, continues. One sailor is quite fat, another thin and sickly. Jack is not happy with his choices. He stops in front of COTTON, a short sailor with a large, colorful PARROT on his shoulder. Jack raises an eyebrow.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Cotton here is mute, sir. Poor devil had his tongue cut out --}
+<ACTION>__{Cotton opens his mouth to show this -- Jack grimaces.}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{-- so he went and trained the parrot to do the talking for him, nobody knows how. Nobody knows the parrot's name, neither, so we just call it 'Cotton's parrot.'}
+<ACTION>__{Jack decides to test this.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Mr. Cotton. Do you have the courage and fortitude to follow orders and stay true, in the face danger, and almost certain death?}
+<ACTION>__{Cotton lifts the parrot off his shoulder, raises it --}
+<CHAR>__{COTTON'S PARROT} <CHAR_PAR>__{}
+<DIAL>__{Wind in your SAILS! Wind in your SAILS!}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Mostly, that seem to mean 'yes.'}
+<ACTION>__{Cotton nods vigorously, lowers the parrot, and it goes silent. Jack shakes his head. Steps back.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That goes for the rest of you! Danger and near certain death.}
+<DIAL_PAR>__{(turns away)}
+<DIAL>__{For we are to sail for the Isla de Muerta, to rescue the daughter of Governor Swann. An equal share of the reward shall be -}
+<ACTION>__{Jack hears movement, looks back -- several potential crew members back away in fright; first one, then another, turn and run, followed by more. Soon just a half dozen are left, including Cotton (with parrot) -- and AnaMaria.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Shut up, before you lose them all!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{These are the only ones worth having.}
+<DIAL_PAR>__{(glances at the sky)}
+<DIAL>__{And we're going to need them-}
+<LOC>__{EXT. H. M. S. INTERCEPTOR - DAY}
+<ACTION>__{A FLASH of lightening and the CRACK of thunder. The canvas of every sail is stretched taut. The ship rocks as it drops into the valley of huge swell, climbs up the other side. On board, the new crew members scurry about their tasks, pulling lines and trimming sails. Excellent sailors, it takes everything they have to keep the ship afloat. AnaMaria is at the helm. Gibbs staggers along the deck.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{That fool will have us lose the canvas, and the masts besides!}
+<ACTION>__{On Jack, a ROARING wind blowing back his hair, eyes intent on their course. Gibbs climbs the tilted deck toward him.}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Werd best drop canvas, sirl}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{She can hold a bit longer.}
+<ACTION>__{The wind picks up, howling. Jack smiles.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{What's in your head to put you in such a fine mood?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouts)}
+<DIAL>__{We're catching up!}
+<ACTION>__{Jack turns back to the sea, enjoying himself. Gibbs stares at him like he's a crazy man.'}
+<LOC>__{INT. BLACK PEARL - CAPTAIN'S CABIN - DAY}
+<ACTION>__{The sound of RAIN pounds down on the deck above - - then suddenly stops. Elizabeth moves to the stern windows, looks out at the rolling sea below -- no escape there. She hears the sound of a VQICE calling, gazes up, wondering -}
+<LOC>__{EXT. BLACK PEARL - CROW' S NEST - DAY}
+<ACTION>__{High on the main mast, Twigg cups his hands to his face, calls down:}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{Isla de Muerta! Isla de Muerta, off the port bow!}
+<ACTION>__{ON DECK, Barbossa moves to the rail. The storm clouds are breaking up. On the horizon is a dark, ominous shape: ISLA DE MUERTA. Mostly sheer unfriendly cliffs that shoot straight into the water. It is surrounded by a slate grey sea. Barbossa grasps the rail with both hands, his expression a mixture of loathing and fear. Jacoby approaches, hesitant.}
+<CHAR>__{JACOBY} <CHAR_PAR>__{}
+<DIAL>__{Orders, Captain?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Bring her in, not too close. I won't brave the reef, not until high tide. We lay anchor before dark.}
+<ACTION>__{Jacoby nods, backs away. Barbossa continues to stare -}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{... that is, if it first doesn't sink back down to hell from where it came.}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{The Interceptor, on open waters, glorious, her white sails set wing-to-wing.}
+<LOC>__{EXT. H.M.S. INTERCEPTOR - DAY}
+<ACTION>__{CLOSE ON: Jack's compass, cradled in both hands. Jack leans over and studies it -- almost like he's praying. ON THE COMPASS -- the face shows old-fashioned rose petal style direction markers below a quivering indicator that settles on -- southeast.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Bear three points starboard.}
+<ACTION>__{AnaMaria turns the wheel, adjusting course. The ship leans into the new direction. Jack looks down - ON THE COMPASS -- where the indicator spins, reverses, settles on -- northeast.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Six points port!}
+<ACTION>__{AnaMaria frowns, but follows the order, turns the wheel back, and the ship responds. Will works on deck, coiling a rope -- but he watches Jack and AnaMaria, clearly not happy. Gibbs hobbles up.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Left handed-ropes are coiled against the sun, or it's bad luck!}
+<DIAL_PAR>__{(twirls a finger)}
+<DIAL>__{Anty-clockwise.}
+<ACTION>__{Gibbs takes over the task. The ship shifts course again. Will has had enough.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{How do we expect to find an island no one can find -- with a compass that doesn't work?}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Now, lad, just because it don't point north don't mean it don't work.}
+<DIAL_PAR>__{(voice low)}
+<DIAL>__{That compass gives bearings to the Isla de Muerta, wherever it may lie.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Really?}
+<DIAL_PAR>__{(moves closer)}
+<DIAL>__{So ... what's the story on the pistol?}
+<ACTION>__{Gibbs settles in, happy to have a willing listener.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{I'll tell lee. Now, Jack Sparrow has an honest streak in him, and that's where the whole problem starts. This was when he was Captain of the Black Pearl -}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{What? He never told me that.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Ah -- he's learned, then. Plays things more close to the vest. See, Jack was a cartographer, back in Old England. Somehow I he came by the money to commission the Pearl. Hired himself a crew, promised each man an equal share.}
+<DIAL_PAR>__{(lowers his voice)}
+<DIAL>__{So, they're forty days out, and the First Mate says, everything's an equal share, that should mean the location of the island, too. So Jack gave up the bearings.}
+<DIAL_PAR>__{(shakes his head)}
+<DIAL>__{That night, there was mutiny.}
+<ACTION>__{Gibbs voice is a whisper, now, so Will has to lean closer.}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Jack gave hisself up for the sake of his loyal crewmen. He was marooned on an island, left there to die.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{How did he get off the island?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(loud)}
+<DIAL>__{I didn't!}
+<ACTION>__{Will and Gibbs jump. Jack is right there beside them.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{My body's still there, rotting away, and I am but a ghost!}
+<ACTION>__{Will and Gibbs aren't sure what to make of that. Jack laughs.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{How did you get off the island?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ah, that's a dark and unpleasant tale, best left untold.}
+<ACTION>__{He starts off.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Wait -- what about the pistol?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The pistol. When a pirate is marooned, Will, he's given a pistol with a single shot. No good for hunting, or surviving, really. But after three weeks of starvation and thirst -- the option of that pistol begins to look good.}
+<ACTION>__{Jack lets this sink in. He pulls out the pistol, raises it.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{But I survived. And I still have that single shot. It's meant for one man. My mutinous first mate -}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Barbossa.}
+<ACTION>__{Jack shoots a glance at Will -- nods, and moves away.}
+<LOC>__{EXT. ISLA DE MUERTA - CAVE ENTRANCE - EVENING}
+<ACTION>__{On Barbossa, face upturned. No expression in his eyes. Around him a group of pirates, Elizabeth among them, stand as still as stones, in front of a dark cave opening. Their faces look upward, their total lack of movement disconcerting. Above the cave, on a hillock, the pirate Koehler gazes out toward the horizon. Slowly he TRANSFORMS, head-to-toe, from pirate to SKELETON- The MOON has climbed free of the storm clouds, rising large. and full on the horizon. The skeleton turns -}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL>__{Moonrise, Captain! First night of full.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Hah!}
+<DIAL_PAR>__{(to the pirates)}
+<DIAL>__{Be mindful of pits and crevasses. Stay together.}
+<ACTION>__{He takes a torch. Moves into the cave. The pirates follow.}
+<LOC>__{INT. ISLA DE MUERTE -     CAVES    - NIGHT}
+<ACTION>__{The group keeps together under the firelight. The path leads between boulders on a slope downhill. From the echoes and shadows, it's clear the cave system must be huge. Elizabeth glances over -- the torches illumine caverns off to the side -- and just the edge of a mound of coins. Clearly there is more, but the rest is lost in darkness. Twigg, gazing upward in wonder, moves a few feet away from the group. Barbossa grabs him as he nears a chasm.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Careful, mate. Fall down there, you'd die and miss Judgement Day -- for not even the Lord himself'll come look for you here.}
+<ACTION>__{Barbossa lets go, and moves on, descending down, twisting and turning, but always down -}
+<LOC>__{EXT. H.M.S. INTERCEPTOR - NIGHT}
+<ACTION>__{Cotton pulls a sail line, looks out -- sees something. He lifts the parrot off his shoulder, strokes it along the back.}
+<CHAR>__{COTTON'S PARROT} <CHAR_PAR>__{}
+<DIAL>__{Land HO! Land HO! LAND ho! LAND ho!}
+<ACTION>__{Indeed, the faint outline of Isla de Muerta is in the distance on the port side. Will stands, excited, jumps onto the rigging for a better look. But AnaMaria, at the helm, stares at Cotton, and the parrot.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{How does he do that?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{They'll be anchored on the lee side. Haul your wind, and keep to the weather of the island -}
+<LOC>__{INT. ISLA DE MUERTE - CAVES - NIGHT}
+<ACTION>__{Flickering torchlight. Pirates stoop low to enter a cavern - -- and revealed is the spectacular treasure of Isla de Muerta: overflowing ,chests of coins, gold and silver ingots, jewelry, objects d' art, jade and ivory, brightly colored silks, furniture, jewels and pearls; mirrors and swords -anything and everything of value that might be carried by ship, is here. The pirates move through, Elizabeth can't help but gaze in wonder.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{The curse drove you to gather this?}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Aye. And not a bit of it any use to us, only hoarded. But it will drive us no longer.}
+<ACTION>__{Elizabeth pauses, staring at herself in a jewel-encrusted mirror -- and then is pushed along by the pirates.}
+<LOC>__{EXT. ISLA DE MUERTE - LAGOON - NIGHT}
+<ACTION>__{The Interceptor lies at anchor in the distance. Closer, Jack and will row away from the larger vessel in a small longboat, toward the rocky shore. The RUSH of a waterfall grows louder. Will looks: ahead of them is a black CAVE MOUTH, right at water level.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{What's that?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Depends.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{On what?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{On whether the stories are    all true. If they are, that's    a waterfall that spills over    at high tide, with a short drop to    an underground lagoon. If not    -}
+<ACTION>__{By now, the moving water tugs on the longboat, and they are sucked in --}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{-- well, too late.}
+<ACTION>__{The boat rushes forward, plunges into the darkness -}
+<LOC>__{INT. CAVES - UNDERWATER LAGOON - NIGHT}
+<ACTION>__{-- the longboat takes a harrowing drop over a short waterfall ... but then lands safely in a gorgeous underwater lagoon, floats lazily toward a sandy shore.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Chalk one up for the stories.}
+<ACTION>__{Will leaps out into the water, pulls the boat ashore -}
+<LOC>__{INT. CAVES - BED CAVERN - NIGHT}
+<ACTION>__{The pirate group reaches the end of a small chamber of mostly jewels and pearl piled around a large bed -}
+<LOC>__{INT. CAVES - MAIN CAVERN - NIGHT}
+<ACTION>__{-- and then emerge into the largest cavern of all, also crammed with treasure, including several mountains of gold coins that reach the ceiling. Treasure everywhere - Except for one spot in the center. A hole in the ceiling lets in a column of moonlight, which illumines: A stone chest, lid pushed back, decorated with carved Aztec glyphs, filled with gold coins identical to Will's medallion. A sharp stone knife lies on top. In front of it, buried in the sand is a skeleton -- and this one doesn't look like it's going to move ever again, judging by the sword in its back. A crab scurries away from it as the group approaches.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Here we stand before the cursed treasure of Cortez himself. Won by blood, it demands blood in return.}
+<ACTION>__{All eyes turn -- onto Elizabeth. Pintle takes the stone knife from the chest, approaches her. Elizabeth shrinks back, but is held by two other pirates. Pintel grins. Grabs her by the wrist. She turns her head away, shuts her eyes. Pintle raises the knife ... ... and then very carefully, daintily, uses just the sharp tip of the knife to just prick! Elizabeth's finger. One tiny red drop of blood appears, and drips down onto the medallion. Elizabeth opens her eyes, surprised.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{What did you expect? We're all gentlemen here, right and proper.}
+<ACTION>__{The pirates laugh. Barbossa takes the medallion, grins at Elizabeth.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You know the first thing I'm going to do after the curse is lifted?}
+<DIAL_PAR>__{(grins)}
+<DIAL>__{Eat a whole bushel of apples.}
+<ACTION>__{Barbossa approaches the chest, shining in the beam of moonlight.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What was begun by blood, let blood now end!}
+<ACTION>__{He tosses the gold medallion onto the others. The pirates tense, waiting, expectant. A long beat. They all look at each other, look at themselves. Nothing happens.}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL>__{Did it work?}
+<CHAR>__{DEADEYE} <CHAR_PAR>__{}
+<DIAL>__{I don't feel no different.}
+<CHAR>__{JACOBY} <CHAR_PAR>__{}
+<DIAL>__{How do we tell?}
+<ACTION>__{Barbossa frowns, draws his pistol, and SHOOTS the pirate next to him -- Jacoby -- square in the chest. Jacoby reacts in shock, grabs his chest ... but doesn't die.}
+<CHAR>__{KOEHLER} <CHAR_PAR>__{}
+<DIAL>__{You're not dead.}
+<CHAR>__{JACOBY} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<DIAL_PAR>__{(realizes)}
+<DIAL>__{He shot me!}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{It didn't work! The curse is still upon us!}
+<ACTION>__{Barbossa searches his mind for an answer ... turns to Elizabeth.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You. Maid. Your father. What was his name?!}
+<DIAL_PAR>__{(grabs her roughly)}
+<DIAL>__{Was your father William Turner?!}
+<ACTION>__{Elizabeth takes time to smile before answering:}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<ACTION>__{The pirates cry out in alarm. Barbossa gathers himself, getting his rage under steely control.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Where's his child? The child that sailed from England eight years ago, the child who is the real owner of that medallion, the child in whose veins flows the blood of William Turner?! Where?}
+<ACTION>__{Barbossa SLAPS her hard across the face, sending her sprawling.}
+<CHAR>__{JACOBY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Pintel)}
+<DIAL>__{You brought us the wrong person!}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{She had the medallion! She's the right age. She said her name was Turner!}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Barbossa)}
+<DIAL>__{You brought us here for nothing?}
+<ACTION>__{Barbossa whirls on him --}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{If you had sailed with Morgan for ten years like I have, you'd know not to question me!}
+<ACTION>__{Elizabeth sits up, watching the pirates argue, for a moment unnoticed. Suddenly, a scabbard comes down, right above her. Startled, Elizabeth looks up -- -- Will is at the top of a mound of coins, reaching down with his scabbard for her to grab onto. Elizabeth quickly leans forward, takes the bloodied medallion from the pile. Reaches back, grabs the scabbard. Will pulls her up -}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If any coward here dare challenge me, let him speak! Any more talk, I'll chain ye to a cannon and send ye to the watery depths!}
+<ACTION>__{A sound catches his attention -- coins falling. He looks up, sees Will and Elizabeth at the top of the treasure stack. ATOP THE STACK, Will grabs a large shield, flings them forward -- the two ride down the mountain of coins on the far side, slide through a small opening -}
+<LOC>__{INT. ISLA DE MUERTE - SMALL CAVERN - NIGHT}
+<ACTION>__{Behind them, loose coins from their slide come down in an avalanche, sealing the entrance. Elizabeth jumps up, silver platter in hand, ready to swing -Jack catches her before she can do any damage. They recognize each other.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You?!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Me!}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You're in league with Barbossa!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{No, I'm -- rescuing you.}
+<ACTION>__{Elizabeth can't comprehend that one.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You?!}
+<ACTION>__{Will gains his footing in the rubble.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Miss Swann! We're here to rescue you!}
+<DIAL_PAR>__{(sounds of pursuit, approaching)}
+<DIAL>__{It's going badly!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{This way!}
+<ACTION>__{They race off, toward a bit of moonlight -}
+<LOC>__{EXT. ISLA DE MUERTE - NIGHT}
+<ACTION>__{The three climb up a dark crevasse that leads out onto the island. Will takes Elizabeth's hand, helps her.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I'm glad we got here in time.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Truthfully -- you were a bit late.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The trick isn't getting here, it's getting away.}
+<ACTION>__{As if on cue, they hear the yells of pirates, coming closer. They take off -}
+<LOC>__{EXT. ISLA DE MUERTE - CLEARING - NIGHT}
+<ACTION>__{The three race through the rocks, the sounds of pursuit close behind. Suddenly Jack stops.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Come on!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{No. This won't work.}
+<DIAL_PAR>__{(a quick decision)}
+<DIAL>__{I'll stay behind, and fight them. You go on.}
+<ACTION>__{Will and Elizabeth stare at him.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'll lead them away.}
+<ACTION>__{The sounds are closer.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Go to the opposite end of the island, and signal the ship. I'll keep 'em busy.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Are you sure? Jack -- this is not something you have to do.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'm sure. When you've led the kind of life I have, there are debts that must be paid. Maybe I can balance the scales a little.}
+<ACTION>__{Will nods, hesitates... gives Jack his sword - - now Jack has two, ..one for each hand. Elizabeth gives him a quick kiss. Will and Elizabeth race away, and are gone. Jack watches them for a moment, turns to face the pirates. He sticks the two swords in the ground, crossed. Leans casually against a rock. A group of pirates round a corner, cutlasses drawn, ready to fight -- but Jack raises his hand.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I invoke the right of parlay, according to the Code of the Brethren, set down by the pirates Morgan and Bartholomew...}
+<LOC>__{EXT. ISLA DE MUERTE - NIGHT}
+<ACTION>__{Jack stands before Barbossa, surrounded by pirates. Jack has a wide smile on his face -- and Barbossa doesn't like it.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{I'm inclined to kill you now, Jack Sparrow, without so much as a word, if you don't lose that grin from your face.}
+<ACTION>__{Jack's smile remains. Barbossa puts a hand to his cutlass -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The woman's blood didn't work, did it?}
+<ACTION>__{Barbossa hesitates.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I know who's blood you need, to end the curse.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Say the name, or I slit your throat.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{No you won't.}
+<ACTION>__{Barbossa nods. Pintel steps forward, puts a blade to Jack's throat. Jack's smile widens.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{Now?}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(NODS)}
+<DIAL>__{Now.}
+<DIAL_PAR>__{(Pintel grins)}
+<DIAL>__{No, don't kill him.}
+<ACTION>__{Surprised, Pintel lowers his cutlass. Jack's expression hasn't changed.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Allow me the humor of listening to your terms.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Simple. I have something you want more than anything. The way to free you from the curse of the treasure. You have something I want -- more than anything.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{The Pearl?}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{Oh, that's fine. And just how do you expect this to work?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You give me the Pearl. Then I tell you who you need.}
+<ACTION>__{Barbossa stares at him, incredulous.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{That's your offer? You, sailing away nice and pretty with the Black Pearl, and all I have is a name?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That's right.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{I'm supposed to ... trust you?}
+<ACTION>__{The pirates laugh.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'm a man of my word.}
+<ACTION>__{The pirates laugh louder.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT' D)}
+<DIAL>__{You see, I've got this honest streak in me -- in its own way, a sort of curse. Oh, and there's the fact that you have no choice.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{I'll torture it out of you.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You left me on a desert island -- what worse can you do?}
+<ACTION>__{Jack is still smiling, intentionally smug now. Barbossa sees his options dwindling, begins to pace.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Blast you! I'll throw you in prison.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Wait as long as you like.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You're setting me up for a double cross, you with the ship, and me with nothing more than your word!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Let's say I tell you the wrong person. What would you do?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Track you down and -}
+<ACTION>__{He sees where Jack is headed.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{And if I tell you the truth, you become mortal, and you won't come near me because you know I'd kill you.}
+<ACTION>__{Barbossa hesitates. The pirates are amazed at how the tide has turned; Barbossa has gone past considering the idea, and might even do it.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Jack, I don't trust you, and that's a fact. Never trust a smiling man, you can lay to that.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{See, that's where we're different. I trust you ... to do what it takes to get what you want.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You're playing this as close to the edge as any man, I'll give you that.}
+<DIAL_PAR>__{(decides, smiles)}
+<DIAL>__{We might just have to sign articles, you and I. Jack, you're a pirate at heart, that's certain.}
+<ACTION>__{Jack nods.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Pintel ... set sail. If this fool plan is to work, we'll need the medallion, and that means catching the ship which brought 'em here.}
+<ACTION>__{Jack is caught completely off guard. For the first time, his smile fades.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What -- you don't have the medallion?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{That fool woman took it. You be careful around her, Jack -- she's pretty enough, she'll steal your heart -- but pure evil inside.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'll watch my back.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Bosun! Set up Mr. Sparrow's quarters, nice and fine ... in the brig.}
+<DIAL_PAR>__{(to Jack, a smile)}
+<DIAL>__{Meaning no disrespect, of course.}
+<ACTION>__{Jack nods, and is taken away. Barbossa stares after him, not hiding his mistrust.}
+<LOC>__{EXT. INTERCEPTOR - DAY}
+<ACTION>__{At full sail, headed out to sea. Gibbs glances at Elizabeth and Will, talking alone on the forecastle -- shakes his head.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Two women on board? A man don't have to be superstitious to know that's trouble.}
+<ACTION>__{Elizabeth holds the medallion, and finishes her tale:}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{... you were in danger ... so I took the medallion. And I've kept it ever since. They thought I was you, that they needed my blood. And it didn't work.}
+<ACTION>__{She hands him the medallion.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Why would my father send this to me?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{To keep it away from them? No pirate would sail to London, for fear of Execution Dock.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{If I had known-}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(anticipating him)}
+<DIAL>__{-- then we never would have met.}
+<ACTION>__{Will nods. They hold each other's gaze a moment. Will turns away first, leans on the rail. Looks out to sea, back the direction they came.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{I can't believe he would make such a sacrifice for us.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I guess you can never truly know someone else's heart.}
+<ACTION>__{Will glances at her, and nods. AT THE HELM, Gibbs peers forward, scanning the horizon. There is a tiny island in front of them.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Shift your heading, steer clear of that island. Fifteen degrees starboard.}
+<ACTION>__{On the aft deck, Cotton concentrates on his work, securing a halyard. Suddenly Cotton's parrot flaps its wings, takes off, lands on the starboard bulwark, squawking -}
+<CHAR>__{COTTON'S PARROT} <CHAR_PAR>__{}
+<DIAL>__{Dead men tell NO tales! Dead men tell NO tales! Dead men tell NO tales!}
+<ACTION>__{Cotton looks up - on the horizon, following: black sails. Gibbs and AnaMaria appear, and see the ship.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{Can we outrun them?}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Not a chance. Make for the reef.}
+<LOC>__{EXT. CARIBBEAN OCEAN - DAY}
+<ACTION>__{Miles of blue water. The Interceptor tacks, leaving a long white wake. The Black Pearl matches it -- gaining.}
+<LOC>__{EXT. BLACK PEARL - DAY}
+<ACTION>__{Barbossa and Pintel eye the Interceptor, two hounds chasing the fox.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{What's he doing? Is he going to run her aground?}
+<LOC>__{EXT. INTERCEPTOR - DAY}
+<ACTION>__{The Black Pearl is now close behind the Interceptor -- and the Interceptor is headed for the island.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Drop the forward anchor!}
+<ACTION>__{A SAILOR at the stern of the ship pulls a release, and the ship's anchor races down into the water, the metal chain jumping and twisting on deck. The chain stops, and the Sailor locks it -}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{With its forward momentum and the anchor down, the Interceptor to turn quickly, pivoting around the anchor.}
+<LOC>__{EXT. BLACK PEARL - DAY}
+<ACTION>__{Barbossa and Pintel watch as the huge ship brings its cannons to bear right in front of them.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{All hands! Prepare to come about!}
+<ACTION>__{But for now, the Interceptor has the advantage, and takes it: its cannons boom, and cannonballs rain down.}
+<LOC>__{INT. BLACK PEARL - BRIG - DAY}
+<ACTION>__{Jack sees what he can out the porthole. In the cell with him is Twigg, acting as a guard.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't hit my ship! I mean, kill the lying scoundrel -}
+<DIAL_PAR>__{(to Twigg)}
+<DIAL>__{I'm a little conflicted, here.}
+<ACTION>__{Twigg just stares.}
+<LOC>__{EXT. INTERCEPTOR - DAY}
+<ACTION>__{Elizabeth watches  as the Black Pearl comes about -- and then there is the  low, loud RUMBLE of two dozen cannons firing as one. The  Interceptor is hit. A barrage of shots follow; most find  their mark. Sailors dive for cover, leaving their cannons; clearly they are overmatched.}
+<LOC>__{EXT. BLACK PEARL - PORT SIDE - DAY}
+<ACTION>__{Barbossa laughs.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Strike your colors, you bloody cockroaches!}
+<LOC>__{EXT. INTERCEPTOR - DAY}
+<ACTION>__{Another round of fire; Barbossa shows no mercy.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{Looks like they mean to send us under.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{There -- she's raised the Jolly Roger,}
+<ACTION>__{upside down. AnaMaria, Gibbs, Cotton, even Elizabeth -- all know what this means. Will doesn't. He looks to Gibbs for an explanation:}
+<CHAR>__{GIBBS } <CHAR_PAR>__{(CONT 'D)}
+<DIAL>__{It's a signal. If we resist, it won't just be death. There'll be torture as well.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We're not going to just surrender!}
+<ACTION>__{GIBBS That we are. The Black Pearl fires again, a double-ball shot with a chain connecting the two. It hits the main mast dead ani a CRACKING, SPLINTING sound as it breaks, falls to the deck. Barbossa moves his ship alongside, preparing to board.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{We can at least fight -- we might be able to kill a few-}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL>__{Will -- it'll go worse for us -- for Elizabeth, especially -- if we fight.}
+<ACTION>__{Will stares -- and nods. But his expression is still defiant. The deck slants; the ship is sinking. pirates swarm across on ropes, and take control of the Interceptor.}
+<LOC>__{EXT. BLACK PEARL - MAIN DECK - DAY}
+<ACTION>__{The top masts of the H.M.S. Interceptor sink into the smooth' crystal waters of the Caribbean - -- as Will and Elizabeth, held by pirates, are brought before Barbossa -- and see that Jack stands beside him, manacled. Gibbs, AnaMaria and Cotton and the other crewmembers huddle together. Barbossa's wrath falls on Elizabeth.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Welcome back, Miss. Last time on board, you played me right clever, make pretending and all. I hope your stay this time is more pleasant. Boys, show her some hospitality!}
+<ACTION>__{He shoves her into a group of pirates; they yell their approval. She is pushed from one to another. This goads Will to action. He head-butts the pirate behind him, grabs a pistol, waves it at the pirates.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{She goes free!}
+<ACTION>__{Will leaps onto the ship's rail. He steadies himself with a hand on the rigging. Points the pistol at Barbossa.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{What's in your head, boy?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{She. Goes. Free.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You've got one shot -- and we can't die.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You can't. I can.}
+<ACTION>__{He leans out over the ocean.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{No!}
+<ACTION>__{Jack pushes forward.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Will -- don't do anything stupid! Don't say anything stupid -}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{My name is Will Turner, the son of Bootstrap Bill Turner. His blood runs in my veins.}
+<DIAL_PAR>__{(raises the gun to his head)}
+<DIAL>__{You need my blood. And on my word I will pull this trigger, and sink all the way down to Davy Jones' Locker!}
+<ACTION>__{Pintel squints at Will; the pirates murmur surprise.}
+<CHAR>__{TWIGG} <CHAR_PAR>__{}
+<DIAL>__{It's true - he's the spittin' image of old Bootstrap. Even talks the same!}
+<ACTION>__{Jack drops his head. Barbossa grins at him.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Looks like you're back to having nothing to offer.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{And hers got Old Bill's courage. A curse on him, and you!}
+<ACTION>__{Barbossa steps forward.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Enough of that!}
+<DIAL_PAR>__{(to Will)}
+<DIAL>__{Name your terms.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth goes free!}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{We got that part. Anything else?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{And Jack. And the crew. Free and unharmed. I f you agree... then... I will remain with you.}
+<ACTION>__{Barbossa considers; his crew waits. Finally -}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Agreed. You have my word, as a gentleman of fortune -}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Will -- you can't trust him.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You must swear by the Holy Bible.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Eh? You have my word, then -- on the Good Book, I do swear, and the Lord spare my worthless soul.}
+<ACTION>__{Barbossa crosses himself, as do many of his men. Will lowers the gun ... steps down -- the pirates surround him. They snatch away the pistol.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Boatswain! Take your captives belowdecks. Chain them in the galley, and teach 'em how to row.}
+<ACTION>__{Gibbs, AnaMaria, Cotton and the rest are led away under guard. Barbossa looks out to sea, toward the islet.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hah. Look there. That's the very same island we made Jack governor of on our last trip.}
+<DIAL_PAR>__{(nods")}
+<DIAL>__{When you sail the open sea as long as I, you learn to trust the signs fate sends your way.}
+<CHAR>__{GIBBS} <CHAR_PAR>__{}
+<DIAL_PAR>__{(dejected)}
+<DIAL>__{Amen to that...}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Jack, Elizabeth ... I'm a man of my word and you're to be set free, right quick.}
+<DIAL_PAR>__{(loudly)}
+<DIAL>__{Men, break out the plank!}
+<ACTION>__{A CHEER goes up from the pirates. Will realizes what Barbossa intends to do, struggles with his captors.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{No! You gave your word!}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Quiet, boy, or you'll lose your tongue. Those as know me know I wouldn't cross my word, and bring down bad luck on the ship.}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{I agreed to set them free. I didn't say when. .. nor where.}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{The Black Pearl lies at anchor, closer now to the islet.}
+<LOC>__{EXT. BLACK PEARL - MAIN DECK - DAY}
+<ACTION>__{Jack, wrists still bound, stands in the classic 'walking the plank' pose. Elizabeth is next in line. Pirates crowd the ship's rail to watch.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{It's pure evil to make a Captain walk the plank of his own ship, twice in one lifetime. No good can come of it.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Now, Jack. That reef is less than a league distant. It's a square deal all around, and you can't hope for better.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Someone needs to cut these bonds, then.}
+<ACTION>__{Barbossa smiles, shows a pistol. Points it at Jack.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You'd best take a swim, Jack.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The last time you did this, you left me a pistol, with one shot.}
+<ACTION>__{The pirates mutter agreement.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{That's proper, sir, according to the code.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{By the Powers, you're right!}
+<DIAL_PAR>__{( turns around)}
+<DIAL>__{Where's Jack's pistol? Who's got it? Bring it forward!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{A gentleman might give us two pistols, seeing as there are two of us, this time.}
+<ACTION>__{A pirate hands Jack's pistol to Barbossa.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Tell you what. I'll   give you one pistol, and let you   be the gentleman, an' shoot the lady,   and starve to death yourself!}
+<DIAL_PAR>__{(grins)}
+<DIAL>__{That is, presuming   you're not both drownded.}
+<ACTION>__{The pirates laugh. Barbossa tosses Jack the pistol -- but over his head, and down into the water with a splash.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONTID)}
+<DIAL>__{So how did you get off that island, anyway?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You can go to your grave not knowing.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{That's fair.}
+<ACTION>__{Jack glares at Barbossa. Then he's prodded with a cutlass, takes a step out. Reaches the end of the plank -- steps off. Jack plunges down into the water. Appears on the surface, floundering, struggles to stay afloat. Will and Elizabeth exchange helpless looks; there is nothing they can do.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The lady's next. But first, I'll be wanting that dress back, if you please.}
+<ACTION>__{Elizabeth hesitates ... then strips it off, leaving her in a silk slip. She throws it at him.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Here -- it will go well with your black heart !}
+<ACTION>__{Barbossa indicates the plank.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT' D)}
+<DIAL>__{I will not walk into the ocean. You'll have to throw me in!}
+<ACTION>__{Barbossa raises an eyebrow, grins, nods.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Have at her, lads!}
+<ACTION>__{The pirates rush to comply. Lift her up, toss her over the rail -- with a scream she falls --}
+<LOC>__{EXT. CARIBBEAN SEA - UNDERWATER - DAY}
+<ACTION>__{We follow Elizabeth amid foam and bubbles as she PLUNGES down through the water. Blue and clear, with streaks of sunlight cutting down; bright coral and tropical fish, and a lovely young woman in a silk dress. .. if it weren't for the mortal danger, the scene could be described as gorgeous. Elizabeth spots Jack, below her now, sinking, struggling. She swims down ... unties his bonds. Elizabeth starts for the surface. Inexplicably, Jack swims the other way, further down into the depths.}
+<LOC>__{EXT. CARIBBEAN SEA - DAY}
+<ACTION>__{Elizabeth breaks the surface, looks around. And then, finally Jack appears, sucking in air. He shows what he went after: his pistol. He tucks it into his shirt.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You went back for that? We need to head for the reef!}
+<ACTION>__{She starts swimming. Jack hesitates. The Black Pearl is already underway; he stares at it.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That's the second time I've had to watch that man sail away with my ship.}
+<ACTION>__{He turns away, and swims after Elizabeth.}
+<LOC>__{EXT. ISLET - BEACH - DAY}
+<ACTION>__{CLOSE ON: The surf line. Elizabeth's feet leave prints in the sand ... and then meet up with matching footprints she made earlier, going in the same direction. She has walked all the way around the island.}
+<CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Not all that big, is it?}
+<ACTION>__{Jack lays on the beach. He has dismantled his pistol; the parts, ball and powder dry on his scarf.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Has it changed since the last time you were here?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The trees are taller.}
+<ACTION>__{Jack checks to see if the pistol parts are dry; they are. He sets about re-assembling and loading his pistol.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{I hope you have no intention of using that.}
+<ACTION>__{Jack has finished putting his pistol back together. He shoves it in his belt, walks off.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Not yet. Ask me again in a few weeks.}
+<ACTION>__{Elizabeth can't believe it.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Captain Sparrow! We have to get off this island -- immediately!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't be thinking I'm not already working on it.}
+<ACTION>__{He climbs up toward a clump of palm trees. Digs for something beneath the sand. He finds it: a large iron ring.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{What is that? Is there a boat under there?}
+<ACTION>__{Jack heaves the trap door up and over, revealing a pit. Inside are barrels and bottles of rum ... all covered with dust and cobwebs, long abandoned. Jack's face falls.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What? What's wrong? How will this help us get off the island?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{It won't. It won't, and so we won't.}
+<ACTION>__{He jumps down into the pit, cracks open a bottle of rum,. takes a swig.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{But ... you did it before! Last time -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Last time, I was here a grand total of three days. Last time, the rumrunners who used this island as a cache came by, and I bartered passage off.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{But from the looks of this, they've long been'out of business, and so that won't be happening again.}
+<DIAL_PAR>__{(takes another swig)}
+<DIAL>__{We probably have your friend Norrington to thank for that.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{So that's it? That's the secret grand adventure of the infamous Jack Sparrow? You spent three days on the beach drinking rum?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Welcome to the Caribbean, love.}
+<ACTION>__{He gathers up a few bottles, heads for the beach.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You should look at our contretemps this way: we've got shade trees, thank the Lord. We've got some food on the trees, thank the Lord again. And we've got rum, praise the Lord. We can stay alive a month, maybe more. Keep a weather eye open for passing ships, and our chances are fair.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{A month? Will doesn't have a month! We've got to do something to help him!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You're right.}
+<DIAL_PAR>__{(hoists the bottle)}
+<DIAL>__{Here's luck to you, Will Turner.}
+<ACTION>__{He drinks -- and defiantly returns Elizabeth's angry gaze. But then turns away, sits down.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Don't be thinking I'm happy about this, Elizabeth. But I see no use in wailing and gnashing my teeth over that which I can do nothing about.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Not when you can drink instead, at least.}
+<ACTION>__{Jack tosses her a bottle.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Try it. It goes down rough, but it goes down - - and the second swig goes down easier.}
+<ACTION>__{Elizabeth considers. Comes to a decision. She unseals the bottle, takes a swig. They sit in silence for a bit.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{And you will call me Miss Swann.}
+<ACTION>__{Jack toasts her: you got it. Elizabeth studies her bottle... gives Jack a sidelong glance. Back to her bottle}
+<ACTION_ALT>__{...}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(under her breath)}
+<DIAL>__{Drink up me hearties, yo ho...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What? What was that?}
+<DIAL_PAR>__{(Elizabeth smiles)}
+<DIAL>__{Something funny, Miss Swann? share. Please,}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Nothing ... it's nothing. Just ... I'm reminded of a song I learned as a child. A song about pirates.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I know a lot of songs about pirates, but none I'd teach a child. Let's hear it.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Oh, no ... it's silly.   Back in England we didn't know   a thing about pirates, really.   They seemed so romantic and daring   -}
+<ACTION>__{Jack likes the way that sounds.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(looks at him)}
+<DIAL>__{That was before I met one, of course.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Now I must hear this song. An authentic pirate song. Have at it.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Well, perhaps ... with a bit more to drink, I might ...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{More to drink!}
+<ACTION>__{He gathers two more bottles, tosses one to her. She drops her half-finished bottle to catch it. Opens it, takes a sip.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well?}
+<ACTION>__{Elizabeth clears her throat, begins to sing self- consciously, becoming stronger as she goes on.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{We pillage, we plunder, we rifle, we loot, Drink up me hearties, yo ho.}
+<ACTION>__{She gestures for him to drink. He does.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We kidnap and ravage and we don't give a hoot, Drink up me hearties, yo ho -}
+<LOC>__{EXT. ISLET - BEACH - LATER - NIGHT}
+<ACTION>__{The middle of the night. A fire BLAZES. Jack and Elizabeth are roaring drunk, arm in arm, singing the song all the way up to the stars --}
+<DIAL>__{JACK/ELIZABETH Yo ho, yo ho, a pirate's life for me!}
+<ACTION>__{Yo ho, yo ho, it's a pirates life for me!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I LOVE this song!}
+<DIAL_PAR>__{(sings)}
+<DIAL>__{Yo ho, yo ho, a pirate's life for me! We're beggars and blighters, ne'er do well cads, Drink up me hearties, yo ho!}
+<DIAL_PAR>__{(gives it a touch of Irish ballad)}
+<DIAL>__{Aye but we're loved by our mums and our dads. Drink up me hearties, yo ho!}
+<ACTION>__{They hoist their bottles, but only Jack drinks. He drains the bottle, then tosses it away.}
+<CHAR>__{JACK   } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{When I get the   Black Pearl back, I'm going to teach   it to the whole crew, and we'll sing   it all the time!}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You'll be positively the most fearsome pirates to sail the Spanish Main.}
+<ACTION>__{Elizabeth salutes the idea with her bottle. Jack doesn't have a bottle to salute back. She hands him hers. He drinks, then settles shakily to the ground. Elizabeth sits beside him.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Not just the Spanish Main. The whole ocean. .. the whole world. Wherever we want to go, we go. That's what a ship is, you know. Not just a keel and a hull and a deck and sails. That's what a ship need_ ... but what a ship is -- what the Black Pearl really-is ... is freedom.}
+<ACTION>__{Elizabeth lays her head on his shoulder.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Jack, it must be so terrible for you, to be trapped here on this island, all over again.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Ah, well... the company is better than last time. And the scenery has definitely improved.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL_PAR>__{(coy)}
+<DIAL>__{Mr. Sparrow! I'm not sure I've had enough rum to allow that kind of talk.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{We've got a few bottles left ... and we've yet to tap the kegs.}
+<ACTION>__{Elizabeth shrugs with a sleight -- but promising -- smile. She picks up the empty bottle from the ground, holds it up.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{To freedom.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{To the Black Pearl.}
+<ACTION>__{They tap the bottles together. Elizabeth feigns a drink as he chugs. He taps his bottle against her again. She laughs, feigns another drink -}
+<LOC>__{EXT. ISLET - BEACH - MORNING}
+<ACTION>__{CLOSE ON -- JACK'S FACE, dead asleep, lying in the sunlight. His nose twitches. A bit of SMOKE drifts by. His nose twitches again. His eyes open. Jack GROANS and sits up. He rubs his head, looks over - -- all of the foliage in the middle of the island is ON FIRE. Smoke rises high up into the clear blue sky. Jack leaps to his feet. He sees Elizabeth, as she pours out the last of the rum, dowsing a scrub brush at the base of a palm tree. It goes up in FLAMES. She rolls the barrel forward -- it starts to BURN merrily. Jack can't believe his eyes.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What are you doing? You've burned our food, the shade -- the rum!}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes, the rum is gone.}
+<ACTION>__{She wipes her hands together. One of the rum barrels in the fire EXPLODES.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{One, because it is a vile drink that turns even the most respectable men into scoundrels. Two -}
+<ACTION>__{She points to the sky.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That signal is over a thousand feet high, which means it can be seen for two hundred leagues in every direction. The entire Royal Navy is out to sea looking for me -- do you think there is even a chance they could mass it?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You -- you burned up the island, for a one-time chance at being spotted?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Exactly.}
+<ACTION>__{Elizabeth turns toward the sea.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Just you wait, Captain. In an hour, maybe two, keep a 'weather eye open' and you'll be seeing white sails on that horizon!}
+<ACTION>__{She sits down, determined. Shields her eyes, scans the water, waiting, searching. Jack is speechless. He throws up his hands, stalks up the sand dune, just to get away from her.}
+<LOC>__{EXT. ISLET - LEEWARD SHORE - DAY}
+<ACTION>__{At the crest of the dune, Jack stops -- and stares, incredulous. We come around to see what he is looking at - Past Jack, anchored the other side of the island, white sails glorious against the turquoise waters, is the H.M.S. Dauntless. A longboat is already being rowed toward them. Jack shakes his head.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{They'll be no living with her after this.}
+<LOC>__{EXT. H.M.S. DAUNTLESS - MAIN DECK - DAY}
+<ACTION>__{Norrington gives Elizabeth a hand disembarking from the raised long boat.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth, I'm" relieved you're safe.}
+<DIAL_PAR>__{(re: Jack)}
+<DIAL>__{Clap him in irons. And behind his back this time.}
+<CHAR>__{ELIZABETII} <CHAR_PAR>__{}
+<DIAL>__{Commodore, you can't do that!}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{You're speaking up for him again?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{He can locate Isla de Muerta -- but I doubt he'll be willing to help us from the brig.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(she's right)}
+<DIAL>__{We had time to get to know each other.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{We are bound for Port Royal, not Isla de Muerta.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{No. The pirates have taken Will -}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Your father is frantic with worry. Our mission was to rescue you and return home. That is what we shall do. Mr. Turner's fate is regrettable. But so was his decision to engage in piracy.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Commodore, please!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Norrington, think about it ... the Black Pearl, its captain and crew... the last pirate threat in the Caribbean. How can you pass that up?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{By remembering that I serve others, not only myself.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Commodore, I beg you -- please do this ... for me. As a wedding gift.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I am to understand that you will accept my marriage proposal on the condition I rescue Mr. Turner?}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Not as a condition -- a request.}
+<ACTION>__{Norrington considers. To Gillette:}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Free Mister Sparrow, and prepare to come about. He'll give you our heading.}
+<ACTION>__{Gillette unlocks Jack's manacles. Jack raises an eyebrow.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Congratulations, sir.}
+<ACTION>__{Crew men lead Jack toward the bridge. Sailors go about their tasks, and the ship begins its slow turn.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth, I hereby withdraw my proposal.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I know now where your heart truly lies.}
+<ACTION>__{Elizabeth looks at Norrington, seeing him in a new light.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{And now I know... where yours does, as well.}
+<ACTION>__{They gaze at each other for a moment. Norrington looks away.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{You may seclude yourself in my cabin. I'm afraid we do not have any ladies' clothing aboard.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Then I can wear men's clothing.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{That would hardly be proper.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Well, I am not going to stay hidden in a some cabin, 80 I suppose it's going to be heaving bosoms and bare ankles for the remainder of the voyage!}
+<ACTION>__{Norrington is exasperated, but then can't help but grin - this is exactly why he loves her. She grins back at him - she's not going to change.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Murtogg, take our guest below, and find her some trousers, and a shirt.}
+<ACTION>__{Elizabeth smiles, allows herself to be escorted away. Norrington watches her go ... then turns his gaze to the sea.}
+<LOC>__{INT. THE BLACK PEARL - BRIG - DAY}
+<ACTION>__{Pintel enters the cell. It appears empty -- but that's because Will is hanging from the rafters, trying to shove up the ceiling planks with his legs.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{That ain't going to work. That's the gun deck above yea}
+<ACTION>__{Will drops lightly to the deck. Suddenly:}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{What happened to William Turner?}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{Ah, William Turner. Stupid blighter. He threw in with us after we relieved Jack Sparrow of his captaincy, but turned out, it never sat well with him- particularly after we found Cortes' treasure, and its peculiar condition. He thought we deserved to be cursed, for leaving ol' Jack to the fate we did. That's why he sent off a piece of the treasure -- to you, as it were: so it would never be recovered, and so cursed we_ remain.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{And then he ran. And he's hiding out someplace where you haven't been able to find him.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{That's a nice thought, to be sure, and I wager your da wishes he'd thought it hisself. But, no. See, what he'd done, _ didn't sit too well with Captain Barbossa ... so he chained a cannon to his legs and dumped him over.}
+<ACTION>__{Will reacts with shock at the account of his father's fate.}
+<CHAR>__{PINTEL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Yep, last I saw of Bootstrap Bill, was his face looking up, as he sank down to the crushing black oblivion of Davy Jones' locker.}
+<DIAL_PAR>__{(sighs)}
+<DIAL>__{It was only after, we found out we needed his blood to solve the curse. That's what you call ironic.}
+<ACTION>__{Barbossa appears behind Pintel, flanked by several other pirates. He regards Will for a moment, then:}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Bring him.}
+<LOC>__{EXT. H. M.. S.. DAUNTLESS - MAIN DECK - EVENING}
+<ACTION>__{Jack goes to the rail and waits, pretending to look out at the sea. Elizabeth, dressed in sailor's clothes to excellent effect, joins him.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You didn't tell Commodore Norrington everything.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Nor did you, I noticed.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{He might delay the rescue ... and that would be too late.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Exactly.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{These men will be facing an enemy that seemingly cannot be killed.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I have a plan. If it succeeds, then any battle will be decidedly brief ... and one-sided.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{What's your plan?}
+<CHAR>__{LOOKOUT } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{LAND HO!}
+<ACTION>__{Isla de Muerta lay dark and menacing on the horizon.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth -- below decks. I will not compromise your safety..}
+<ACTION>__{She starts to speak; he turns away..}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Lieutenant, escort Elizabeth to my quarters, and make sure she stays there.}
+<ACTION>__{Norrington gazes through his spyglass, at the island. Jack watches with some amusement as Elizabeth is escorted away.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't like the situation, mister Sparrow. The island is riddled with caves. I will not put my men at a disadvantage.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Funny, I was thinking   along those lines. How about you let me   go in alone, and while you're setting   up an ambush, I'll trick the pirates out   to you.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{You would do that?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{They left me stranded. Twice. What have you got to lose?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks at him)}
+<DIAL>__{Nothing I wouldn't be please to be rid of.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{I knew you'd listen to reason!}
+<LOC>__{EXT. ISLA DE MUERTA - CAVE ENTRANCE - EVENING}
+<ACTION>__{Torches are lit. Barbossa leads Will, guarded by Pintel and a band of pirates, into the caves.}
+<LOC>__{EXT. H.M.S. DAUNTLESS - MAIN DECK - NIGHT}
+<ACTION>__{A long boat is prepared to be lowered over the side. Jack wraps his pistol securely in an oilskin pouch.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That chart I drew up'11 get you past the reefs. If you're steersman's good enough, that is.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I'll be at the wheel myself.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I'll slip in, talk them into to come out, and you'll be free to blow holy high heaven the whole lot of them.}
+<ACTION>__{The crewmen release the lines, and the boat drops -}
+<LOC>__{INT. ISLA DE MUERTA - CAVES - NIGHT}
+<ACTION>__{The pirate group moves deeper into the caves. Will moves along unwillingly.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{No reason to fret. It's just a prick of the finger and a few drops of blood.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Turner blood doesn't flow pure in his veins.}
+<DIAL_PAR>__{(grins)}
+<DIAL>__{Best play it safe, and spill it all.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{I guess there is a reason to fret.}
+<LOC>__{EXT. ISLA DE MUERTE - NIGHT}
+<ACTION>__{The Dauntless drifts into the lagoon. Norrington and his men prepare to go ashore.     h}
+<LOC>__{INT. ISLA DE MUERTA - CAVES - NIGHT}
+<ACTION>__{Lit by torchlight. Will notices: a crack runs between the floor and the wall of the cave, widening into a ravine.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Careful, now. You could fall in and still be wonder'n when you'll hit dirt.}
+<ACTION>__{Will makes a decision. He intentionally stumbles. Pintel shoves him forward -- Will continues forward, grabs the pirate in front of him, swings him into the wall of the cave. Catches the pirate's torch, and uses it to ward off the others.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You deserve to be cursed -- and remain cursed!}
+<ACTION>__{He steps to one side -- and drops into the ravine. The wall of the ravine becomes a loose gravel slope; Will hits it, and tumbles down, disappears into black.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Blast him! A pox on him, and his father, and the whole damnable line! Fan out! Find him!}
+<LOC>__{INT. DAUNTLESS - CAPTAIN'S QUARTERS - NIGHT}
+<ACTION>__{Elizabeth looks out the Captain's small porthole -- sees boats laden with Navy men headed for shore. She turns away from the porthole, wishing there was something she could do. Suddenly there is a flutter at the window-- Cotton's parrot is there.}
+<CHAR>__{COTTON'S PARROT} <CHAR_PAR>__{}
+<DIAL>__{Drink UP me hearties yo ho! Drink UP me hearties yo ho!}
+<ACTION>__{The bird flutters off; Elizabeth races to the porthole, and then to the stern window to see it flyaway. She looks down -- and there, fastened to the stern of the ship, is a small rowboat.}
+<LOC>__{INT. ISLA DEMUERTA - CAVES - NIGHT}
+<ACTION>__{Will races forward, turning this way and that. He sees a light ahead, heads for it, turns a corner - -- and runs straight into Jack.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Do you have any idea where you're going?}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Jack!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Don't talk. These caves magnify sound. Just follow me.}
+<LOC>__{EXT. ISLA DE MUERTA -       THE BEACH - NIGHT}
+<ACTION>__{Norrington and men land on the beach, and spread out. They silently take up positions around the main cave entrance.}
+<LOC>__{INT. CAVES - NIGHT}
+<ACTION>__{Jack leads Will out of a narrow passage -- and stops, staring. Will is a few steps behind.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Are you certain this is the right way?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{It's the right way.}
+<ACTION>__{Will join him -- and see what Jack is staring at: Treasure piled on treasure, sparkling, glowing, seemingly endless. At the center is the moonlit clearing, and the stone Aztec chest.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Jack Sparrow.}
+<ACTION>__{The jump -- Barbossa is standing right behind them, flanked by his men. The trio whirl to run - - more pirates emerge from hiding. Nearly the entire crew of the Black Pearl is there. The pirates grab Will and Jack. Will struggles, but Jack does not fight at all.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You couldn't have led him back more directly if you knew exactly where you were going.}
+<ACTION>__{He laughs, and moves toward the stone chest. The pirates follow, dragging Will and Jack with them.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You did know where you were going! You did lead us directly to them!}
+<DIAL_PAR>__{(Jack's silence confirms it)}
+<DIAL>__{Why?}
+<ACTION>__{Jack looks away -- as Will is manhandled toward the chest. Barbo8sa steps up to him (becoming skeletal in the moonlight) and puts the medallion around Will's neck. He picks up the stone knife.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{What was begun by blood, let blood now end!}
+<ACTION>__{He raises the knife to Will's throat -}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You don't want to be doing that.}
+<ACTION>__{Barbossa pretends to think about his words.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{No, I really think I do.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{All right then.}
+<ACTION>__{That makes Barbossa pause. He steps out of the moonlight.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Why don't I want to do this?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Because, right about now, the H.M.S. Dauntless is lying in wait in the harbor.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Jack!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{- - and its guns and crew will cut you and your men to pieces the moment you step outside these caves.}
+<ACTION>__{A buzz of apprehension sweeps through the pirates.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{Do you believe him?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<DIAL_PAR>__{(indicates Will)}
+<DIAL>__{But him I believe. He is genuinely angry.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{You've no hope of surviving Norrington's attack ... that is, if you're mortal.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{What're you suggesting?}
+<ACTION>__{Jack shakes off the hands holding him, strolls toward Barbossa, Will, and the chest of coins.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Simple. Don't kill the boy yet. Wait for a more opportune moment.}
+<ACTION>__{Will glares, listening to every word he says. Jack scoops up a handful of coins from the chest.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(drops the coins one-by- one back into the chest)}
+<DIAL>__{Like after you've killed... Every... Last ... One ... of Norrington's men.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{I can't help wondering, Jack, why you're being so helpful and all? Last time you did that, it didn't end 80 well for you.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{The situation has changed.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{That so?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Aye. See, after you're done with the Royal Navy, you'll have a bit of a problem: the H.M.S. Dauntless. There you'll be, with two lovely ships on your hands, and what to do? Of course you'll decide you deserve the bigger one, and who's to argue? The Dauntless a first-rate ship-of-line, and with it, you can rule the seas.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{But if you're Captain of the Dauntless, who's left for the Black Pearl?}
+<ACTION>__{Jack smiles and spreads his hands: me.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I sail for you as part of your fleet, I give you fifteen percent of my plunder, and you get to introduce yourself at tea parties and brothels as 'Commodore Barbossa.'}
+<DIAL_PAR>__{(sticks out his hand)}
+<DIAL>__{Do we have an accord?}
+<ACTION>__{Barbossa licks his lips. It's tempting ...}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Now, you can take care of the Dauntless, right?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Men! Are you up for it?}
+<ACTION>__{The pirates yell to the affirmative.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Mr. Pintel, select five men to stay here. Take the rest of the men out ... not through the caves.}
+<ACTION>__{Jack's expression falters; this he hadn't planned for.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{There's ... another exit?}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Aye, for us there is.}
+<LOC>__{EXT. LAGOON - UNDERWATER - NIGHT}
+<ACTION>__{Moonlight shines down into the shallow waters, brightening coral, sparkling over the rippled sand floor. Suddenly all the fish SCATTER. Briefly, the waters are empty. And then FIGURES appear in the distance, seeming to waver in the shifting current. They scuffle forward, kicking up clouds of sand -- The figures resolve into the skeleton PIRATES, moving silently across the lagoon floor, swords glinting. The tatters of their clothing drift in the water. Their skull heads are fixed in an endless grin. The LEAD PIRATE glides forward - And stops next to a huge iron ANCHOR -- twice his' height, even buried halfway into the sand. A heavy CHAIN with barrel-sized links climbs up toward the surface - A SHADOW falls across the Lead Pirate -- he TRANSFORMS, and we see that it is Pintel. He looks up - Above, the heavy chain leads to the giant bottom hull of the H.M.S. Dauntless, silhouetted by moonlight. The huge shift drifts, again spilling moonlight below - And the pirates gathered around the anchor are once again SKELETONS, staring with upturned faces. The Pintel-skeleton puts a knife between his teeth, starts to crawl up the iron rings. Other pirates crowd forward, and soon the anchor-chain is clustered with skeletons -}
+<LOC>__{EXT. LAGOON - NIGHT}
+<ACTION>__{Elizabeth has the small boat out, and rows away from the Dauntless, looking ahead over her shoulder. Cotton's parrot is nowhere to be seen. In the distance, Pintel breaks the surface near the Dauntless, intent on climbing the anchor; he looks over - Just as Elizabeth rounds the point, and rocks obscure the small longboat from view. More skeleton-pirates appear, and Pintel continues his climb.}
+<LOC>__{EXT. LAGOON - DAUNTLESS - NIGHT}
+<ACTION>__{Two SAILORS, alert and vigilant, stare out toward shore. The island reveals nothing but blackness. There is a scurrying sound -- bones scraping against wood - and the sailors JUMP. They listen, intently -- nothing.}
+<CHAR>__{TALL SAILOR} <CHAR_PAR>__{}
+<DIAL>__{Ship rats. Big ones.}
+<CHAR>__{SHORT SAILOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{Hate those things.}
+<ACTION>__{They turn back toward the island, continue their vigil. A long pause.}
+<CHAR>__{SHORT SAILOR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Taste all right, though.}
+<CHAR>__{TALL SAILOR} <CHAR_PAR>__{}
+<DIAL>__{That they do.}
+<ACTION>__{From behind, the two sailors at the rail are well-lit by a lantern. Suddenly shadows appear, skeletons, climbing up the sailor's backs. -MOVE CLOSER and then the skeletons appear, reaching -- the two sailors are grabbed from behind -}
+<LOC>__{EXT. DAUNTLESS - SIDE - NIGHT}
+<ACTION>__{Two bodies are tossed out over the rail, hit the water with a splash.}
+<LOC>__{EXT. DAUNTLESS - SIDE - NIGHT}
+<ACTION>__{Pintel looks down into the water, satisfied. Puts away his knife. Notices, pulls out a long piece of seaweed from his rib cage. Tosses it. Turns to the others.}
+<CHAR>__{PINTEL} <CHAR_PAR>__{}
+<DIAL>__{Be quick, now. Train the starboard guns on the beach, and set your aim. Wait for my signal, we don't want to spook them.}
+<ACTION>__{The pirates hurry to comply -}
+<LOC>__{EXT. LAGOON - BLACK PEARL - NIGHT}
+<ACTION>__{Elizabeth rounds the point further, and sees: the Black Pearl, anchored in the neighboring cove. A fleck of color - Cotton's parrot, as it darts in through a porthole. Elizabeth slows her efforts, silently approaching the ship.}
+<LOC>__{EXT. BLACK PEARL - MAIN DECK - NIGHT}
+<ACTION>__{Four PIRATES -- who really ought to be keeping watch - instead have gathered wine bottles and rum casts into a pile, along apples, biscuits -- all the food on the ship. They act out a mock-feast, in anticipation of the curse being lifted. A SKINNY skeleton offers two bottles BIG}
+<ACTION_ALT>__{BONED}
+<ACTION>__{skeleton.}
+<CHAR>__{SKINNY} <CHAR_PAR>__{}
+<DIAL>__{Which would you prefer first, good sir -rum, or wine? BIG-BONES I believe I'll have a spot o' rum, if you don't mind, and thank'ee kind sir!}
+<ACTION>__{They burst out laughing -- a hideous sound that wheezes through their bones. Behind them, unnoticed, Elizabeth peeks cautiously around a corner. She picks her moment and sneaks past quickly, down a gangway, disappearing into the blackness of the ship.}
+<LOC>__{EXT. ISLA DE MUERTA - BEACH - NIGHT}
+<ACTION>__{Gillette crouches, running low behind a line of rocks. He reports to Norrington:}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{All the men in place, sir. Ready to fire.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Wait for my order -- what the blazes is that?}
+<ACTION>__{It's the sound of cannon fire -- coming from the Dauntless. Cannonballs hit the shore; men cry out in anguish.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Men! Take cover!}
+<ACTION>__{The sailors scramble to find refuge -}
+<LOC>__{INT. ISLA DE MUERTA - MAIN CAVERN - NIGHT}
+<ACTION>__{Will, guarded by pirates, glares at Jack.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{You've been planning this from the beginning. Since you learned my name.}
+<ACTION>__{Jack takes the opportunity to move toward him.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Oh, please -- do I really seem that clever?}
+<ACTION>__{Before Will can answer, Jack smoothly slips the sword from a Pirate's scabbard -- tosses it to Will, who catches it despite his surprise.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Use it well.}
+<ACTION>__{He draws his own sword -- and clobbers the Pirate. Barbossa and the other pirates stare in shock -}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Confound it, Jack -- I was actually beginning to like you!}
+<ACTION>__{Swords are drawn, and the Pirates attack. Jack and Will take on multiple opponents, each with his own style: Will parries, glissades and disarms with lightning fast and perfect form, while Jack uses his blade, fists, acrobatics and anything within reach to survive.}
+<LOC>__{EXT. ISLA DE MUERTA - BEACH - NIGHT}
+<ACTION>__{The sailors charge. The moon emerges from behind a cloud - Suddenly army of SKELETON PIRATES rise up from the sea, and charge the stunned sailors -- several men are struck down -}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{Steady, men! Remember -- we're the Navy!}
+<ACTION>__{The sailors recover their nerve, and engage the enemy. It's a full on battle, Royal Navy against Skeleton Pirates - The Navy men are driven back, surrounded - Suddenly there is a massive BOOM of cannon fire. Norrington, in the midst of a swordfight, tries to see -}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What is happening out there?}
+<LOC>__{EXT. LAGOON - NIGHT}
+<ACTION>__{It's the Black Pearl, manned by Gibbs, AnaMaria and Cotton, and captained by Elizabeth, coming around the point, cannons blazing.}
+<LOC>__{EXT. H.M. S. DAUNTLESS - NIGHT}
+<ACTION>__{The pirates on the ship are caught by surprise, try to turn their cannons to this new foe -}
+<LOC>__{EXT. ISLA DE MUERTA - BEACH - NIGHT}
+<ACTION>__{Gillette sees the Black Pearl firing on the Dauntless.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{They're on our side! Take heart, men!}
+<ACTION>__{The Royal Navy stand their ground and fight -}
+<LOC>__{INT. CAVE - MAIN CHAMBER - NIGHT}
+<ACTION>__{Only two pirates left: Barbossa and Jacoby. Jacoby rounds on Will; Barbossa faces off against Jack.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Just so you know, Jack -- I don't think you're that clever. I think you're a fool. A mortal fool.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Remarkable how often those two traits coincide.}
+<ACTION>__{Jack drives him back, making Barbossa laugh.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{You can't beat me, Jack.}
+<ACTION>__{To prove his point, he drops his own sword -- and catches Jack's sword with both hands. Jack can't free it. Barbossa twists the sword from Jack's grip, reverses it - - - AND DRIVES THE SWORD INTO JACK'S CHEST. Will battling Jacoby, sees it -- he smashes Jacoby in the jaw, crumpling him}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Jack!}
+<ACTION>__{Jack stares down at the sword jutting from his chest. He takes a few steps backward, toward the Aztec gold -- when he steps into the moonlight, JACK BECOME SKELETAL.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Well, isn't that interesting.}
+<ACTION>__{Skeleton Jack pulls the sword from his chest. He pulls something from his pocket: one of the Aztec coins.}
+<CHAR>__{JACK } <CHAR_PAR>__{(CONT' D)}
+<DIAL>__{They're so pretty, I just couldn't resist stealing one. It's a curse, I guess.}
+<ACTION>__{Barbossa grabs up his sword, and rushes Jack. Both men are in moonlight now, two skeletons in pitched battle.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{So what now, Jack Sparrow? Are we to be two immortals, locked in epic battle until the trumpets of Judgment Day?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Or you could surrender.}
+<ACTION>__{He shoves Barbossa back, out of the moonlight. Barbossa stalks the room, his attention focused on Jack.}
+<CHAR>__{BARBOSSA} <CHAR_PAR>__{}
+<DIAL>__{Or I could chain you to a cannonball and drop you in the deepest part of the ocean, where you can contemplate your folly forever.}
+<ACTION>__{Barbossa charges - A SHOT RINGS OUT - Jack stands out of the moonlight, flesh and blood again, holding his smoking pistol, still aimed at Barbossa.}
+<CHAR>__{BARBOSSA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hah. Ten years you carried that pistol, and you end up wasting your shot.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{He didn't waste it.}
+<ACTION>__{Will stands over the Aztec chest, holding a bloody sword, his left hand in a fist. He opens the fist - -- the medallion, blood covering it, drops from his hand, revealing the cut in his palm. Barbossa stares, then looks down at his chest. Blood blossoms on his shirt around the bullet hole. It spreads quickly. Barbossa clutches his chest, his face registering pain for the first time in years. Barbossa falls heavily to the ground, dead. Jack blows the smoke from the barrel of his pistol... tosses it away.}
+<LOC>__{EXT. ISLA DE MUERTA - BEACH - NIGHT}
+<ACTION>__{Murtogg FIRES a pistol at a pirate. The pirate is hit, screams in pain, and crumples to the ground. Mullroy runs through another with his sword. The pirates react to the sight, and quickly realize their peril. They set their weapons down in surrender.}
+<LOC>__{EXT. ISLA DE MUERTA - LAGOON - NIGHT}
+<ACTION>__{The Black Pearl comes alongside the Dauntless, and Jack's crew swarm across, overwhelming the pirates. The sailors on the beach see it, and CHEER.}
+<LOC>__{INT. ISLA DE MUERTE - CAVE - MAIN CAVERN - NIGHT}
+<ACTION>__{Will wraps a cloth around his palm; Jack joins him near the chest.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Well, you're the worst pirate I've ever heard of.}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{You're a man who can be trusted, who can be counted on, and who can It betray his friends. What kind of pirate is that?}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL_PAR>__{(admits it)}
+<DIAL>__{The worst.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{On the other hand, maybe I'm a man who can't pass up a chance for revenge against the black-hearted bastard who stole my ship and left me to die in the middle of the ocean -- twice! -- and who knows how to get what he wants. Now that's a great pirate.}
+<ACTION>__{Jack cuts his palm, grips the coin he stole above the chest ... and then hesitates. Will looks at him... Jack releases the coin. It lands in the chest beside the other bloody coin. Suddenly, the lid of the chest, all on its own, SLAMS SHUT. Elizabeth stares at it.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Let's get out of here.}
+<LOC>__{EXT. ISLA DE MUERTA - BEACH - NIGHT - LATER}
+<ACTION>__{Jack, Will, and Norrington gather together on the beach. Elizabeth calls out:}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{You're all right!}
+<ACTION>__{The three men turn as one. An awkward moment -- which of them does she mean? Elizabeth races across the sand, toward them -- and straight to Will. She throws her arms around his neck in a hug.}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Miss Swann -- are you wearing trousers? And how did you get off the island?}
+<ACTION>__{Elizabeth can't believe that's what he noticed. Indignant, she steps away from him.}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{Yes, I am wearing trousers. And as for how we got off the island -- ah, that's a grand adventure, but now is not the time to talk about it.}
+<ACTION>__{She reaches a hand behind his neck, decisively kisses him.}
+<CHAR>__{ELIZABETH } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{There. And don't you dare tell me that wasn't a proper kiss!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{Elizabeth, I think it doesn't matter- that we are of a different class -}
+<CHAR>__{ELIZABETH} <CHAR_PAR>__{}
+<DIAL>__{It doesn't!}
+<CHAR>__{WILL} <CHAR_PAR>__{}
+<DIAL>__{-- but that was not a proper kiss.}
+<ACTION>__{Pure consternation on Elizabeth's face -}
+<CHAR>__{WILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{This is a proper kiss.}
+<ACTION>__{Will sweeps her in his arms, leans her back, and kisses her long and well - Jack puts a hand on Norrington's shoulder.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Tough luck. I was rooting for you.}
+<LOC>__{EXT. PORT ROYAL - FORT CHARLES - DAY}
+<ACTION>__{Close on: Will's face, stoic, staring forward. He stands straight and unmoving. Around him are members of the Royal Navy, standing before for a group of witnesses from town. It is the courtyard on the top of Fort Charles. A trial is underway -- with Will as the defendant.}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{...and though I do say so with regret, the law is clear. The penalty for piracy is death by hanging.}
+<ACTION>__{In the crowd, Elizabeth squeezes the hand of her father, Swann. She lets go as Swann stands.}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{By your leave, I wish to speak on behalf of the boy.}
+<DIAL_PAR>__{(a glance at Elizabeth)}
+<DIAL>__{It is clear that these deeds were performed out of a sincere desire   to do good, at great personal risk. It   seems to me, that in the rare occasion   where the right course is committing an   act of piracy, then an act of piracy   is the right course!}
+<DIAL_PAR>__{(cheers of approval)}
+<DIAL>__{So in my capacity as Governor, I   intend to grant a pardon to --}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{Sir!}
+<ACTION>__{All eyes turn. Gillette stands at the top of a stairway.}
+<CHAR>__{GILLETTE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Jack and his crew have escaped!}
+<DIAL_PAR>__{(gasps from the crowd)}
+<DIAL>__{There was no damage to the cell ... they must have been set free.}
+<ACTION>__{Will and Elizabeth exchange looks. You? Not me, you? No, not me either! Swann notices something the parapet, points -}
+<CHAR>__{SWANN} <CHAR_PAR>__{}
+<DIAL>__{The Black Pearl!}
+<ACTION>__{People rush to the parapet. Sure enough, below in the bay are the distinctive black sails of the Pearl. The ship cuts through the waters very close to the point - -- where the gallows of the pirates are. Suddenly Jack appears, on the point; he swings off the one empty gallows, across and down onto the ship's rigging as it passes.}
+<CHAR>__{GILLETTE} <CHAR_PAR>__{}
+<DIAL>__{Sir! Shall I break out the cannons?}
+<CHAR>__{NORRINGTON} <CHAR_PAR>__{}
+<DIAL>__{I don't think that will be necessary.}
+<ACTION>__{Norrington raises his hand ... twirls a key on his finger.}
+<CHAR>__{NORRINGTON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{A day's head start. That's all he gets.}
+<ACTION>__{Will, Elizabeth and Swann look out toward ocean-}
+<LOC>__{EXT. BLACK PEARL - STERN DECK - DAY}
+<ACTION>__{Jack monkeys down the rigging. AnaMaria is at the wheel.}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{Captain Sparrow -- the Black Pearl is yours!}
+<ACTION>__{Jack runs a hand lovingly along the rail, then takes the wheel. It feels good -- right -- in his hands. He enjoys it, and then shifts to 'Captain' mode.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{AnaMaria, trim the mainsail!}
+<CHAR>__{ANAMARIA} <CHAR_PAR>__{}
+<DIAL>__{Aye, aye, sir!}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Mr. Gibbs, organize a cleaning detail - you and Cotton. I want every inch of the Pearl spic-and-span and ship-shape!}
+<ACTION>__{Gibbs actually stomps the deck, executes a salute. Jack stands at the wheel: he's got his ship back, and all is right with the world. He begins to unconsciously hum: "Yo, ho, yo, ho, a pirate's life for me ..." He realizes what he's doing and smiles, the orchestra takes over as the Black Pearl sails for uncharted waters ... and we FADE UP : large words in script:}
+<CHAR>__{THE END} <CHAR_PAR>__{}
+<TRANS>__{FADE OUT :}
+<ACTION>__{and CREDITS ROLL}

@@ -1,0 +1,2817 @@
+<ACTION_ALT>__{ARTHUR}
+<ACTION>__{Written by Peter Baynham}
+<LOC>__{EXT. MANHATTAN - NIGHT}
+<ACTION>__{A HOMELESS MAN, who from his tatty suit may have been a top broker this time last year, is picking through a bin in Manhattan's deserted night-time financial district. The street starts to vibrate. A TERRIFYING GROWL approaches. A huge black shape smashes into view - THE DARK KNIGHT'S BATMOBILE! Our audience wonder if they've wandered into the wrong movie. The Homeless Man dives for cover. BAM! The Batmobile smashes into a row of parked cars. We hear manic laughing from inside the car, which screeches and careers violently into a sign reading `WALL STREET'. Sirens herald THREE POLICE CARS in hot pursuit. The Batmobile roars up Wall Street, bashing against the New York Stock Exchange, thumping up and down the Federal Hall's steps and finally smashing at high speed into the rear end of the famous 'Charging Bull' statue. Two enormous bronze testicles thud onto the Batmobile's bonnet and roll away. The cop cars screech up, surrounding the Batmobile. TWO OLDER COPS and A ROOKIE surround it, weapons drawn. A HELICOPTER appears, blazing the Batmobile in white light.}
+<CHAR>__{ROOKIE COP} <CHAR_PAR>__{}
+<DIAL>__{Cooool.}
+<ACTION>__{An older Cop flashes the rookie a dirty look, then points a FLASHLIGHT into a tiny window. THE BATMAN - actually drunken English socialite ARTHUR BACH TEMPLEMEAD in a costume - lowers the window and offers a handshake.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Evening, Constable!}
+<CHAR>__{OLDER COP 1} <CHAR_PAR>__{}
+<DIAL_PAR>__{(seen it all before)}
+<DIAL>__{Hi, Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Are you familiar with the expression `I can explain everything'?}
+<CHAR>__{OLDER COP 1} <CHAR_PAR>__{}
+<DIAL>__{Out of the car, please.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Terribly sorry, but in the film they used a different model to show the old Batchap getting in and out. This one has no doors, so I'd have to squeeze out the back arsehole first. Which nobody wants...}
+<DIAL_PAR>__{(TO COP 2)}
+<DIAL>__{Apart from you, cheeky monkey!}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{It's a joke! Okay, okay.}
+<ACTION>__{Arthur wriggles awkwardly out of a rear hatch. The bronze bull teeters, a little scarily. He stands, wobbly. His Batman utility belt features a big water pistol, a firework, a hip flask and line of shot glasses. And, inexplicably, a big red stapler. The younger cop is desperately fighting the giggles.}
+<CHAR>__{OLDER COP 1} <CHAR_PAR>__{}
+<DIAL>__{Okay, explain everything.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Well. What with having spunked 1.6 million fat Alberts on this little runaround, I thought why not take it a step further and try to actually collar a few ne-er do wells? It worked for the billionaire Bruce Wayne, why not the future billionaire Arthur Bach- Templemead? Will I have to do traffic school?}
+<CHAR>__{OLDER COP 2} <CHAR_PAR>__{}
+<DIAL>__{How much have you drunk, Arthur?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{To use the technical medical term - megabloodyshitloads. Either that or I've had a stroke! But fret not, I have a designated driver.}
+<ACTION>__{The cop shines his flashlight back inside, revealing A BEARDED HOMELESS OLD MAN IN A CRAPPY 60S `ROBIN' costume.}
+<CHAR>__{HOMELESS ROBIN} <CHAR_PAR>__{}
+<DIAL>__{Where's my five thousand dollars?}
+<ACTION>__{Arthur counts out a huge wad of cash.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The Boy Homeless here neglected to say he'd never driven.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Or that the only reason he's sober is to be ready for the conspiracy of leopards about to seize Manhattan.}
+<CHAR>__{HOMELESS ROBIN} <CHAR_PAR>__{}
+<DIAL>__{It's LIZARDS! English prick!}
+<ACTION>__{Arthur hands another wad of cash to Cop 1.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I trust this will cover all repairs to New York and any inconvenience to your good selves?}
+<ACTION>__{He turns and tries to get back in.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Up up and away! Ah, no, that's the other chap.}
+<ACTION>__{The bronze bull collapses fully, crushing the Batmobile.}
+<LOC>__{INT. 23RD PRECINCT. CELL - NIGHT - LATER}
+<ACTION>__{Arthur sits, minus mask, in a cell with Homeless Robin and VARIOUS CRIMINALS and DRUNKS, including A HUGE GUY IN A CHICAGO CUBS SHIRT, sporting a terrifically swollen eye. JAY, a drunk with a bandaged neck, is ranting away at Arthur, who's paying close attention, genuinely fascinated. Cash sticks out of various pockets.}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL>__{Then the crazy motherfucker cut me!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Goodness. Why?}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL>__{Said I cut the bombita with pig killer!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Rude man. And who threw hot Americano in whose face again?}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL>__{I did in his. No half and half neither. That shit burnt!}
+<ACTION>__{Jay laughs hard, as does GARY, another crook. Arthur, out of politeness, tries to join in the laughter.}
+<CHAR>__{GARY} <CHAR_PAR>__{}
+<DIAL>__{I burnt my sister's hair.}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(high fiving him)}
+<DIAL>__{Cool...}
+<CHAR>__{GARY} <CHAR_PAR>__{}
+<DIAL>__{Ho wanted to evict me, just 'cause I don't fit her definition of hygiene. Plenty of places to take a shit, toilet's just one of them. Just ask the a-rabs.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's like a chat show, this.}
+<DIAL_PAR>__{(looking into an imaginary CAMERA)}
+<DIAL>__{It's been said of my next guest, by Jay the bandaged lunatic, that she's `a sick-ass, whacked-out, whacked-up asswipe'.}
+<DIAL_PAR>__{(to a PROSTITUTE)}
+<DIAL>__{Carmella, when did you first dream of becoming a crack whore?}
+<CHAR>__{PROSTITUTE} <CHAR_PAR>__{}
+<DIAL>__{Mother died when I was six.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh G-d, I hate when that happens.}
+<CHAR>__{PROSTITUTE} <CHAR_PAR>__{}
+<DIAL>__{My father raped me when I was twelve.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sounds like you had six relatively good years.}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL>__{What do you do?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I model riding boots, I spend money, I sleep with women. But I have weekends off and I am my own boss.}
+<ACTION>__{The cell door swings open.}
+<CHAR>__{OLDER COP 1} <CHAR_PAR>__{}
+<DIAL>__{Hey, The Drunk Knight. Your Fairy G- d-lawyer's here.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STANDING)}
+<DIAL>__{I never thought New York's underbelly could be quite such agreeable company. I shall never forget you. Farewell.}
+<ACTION>__{The crooks look back at him sulkily. Arthur looks guilty.}
+<LOC>__{INT. 23RD PRECINCT. CORRIDOR. NIGHT - LATER}
+<ACTION>__{Arthur's attorney ELVERTON DEVERE is leaving with him.}
+<CHAR>__{DEVERE} <CHAR_PAR>__{}
+<DIAL>__{I don't think your mother will be pleased, Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Really, Elverton - if a chap can't help out a few chums, whatever their station in life.}
+<ACTION>__{The other crooks from the cell are leaving alongside them.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Each has given his or her word to put the criminal life behind them.}
+<LOC>__{EXT. 23RD PRECINCT. NIGHT - CONTINUOUS}
+<ACTION>__{Arthur steps into a blaze of paparazzi flashes.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I am the Batman. Gotham can sleep easy tonight.}
+<CHAR>__{JAY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(points at A CAMERAMAN)}
+<DIAL>__{Don't point that shit at me, bitch! I will FUCK YOU UP!}
+<ACTION>__{Jay attacks the cameraman violently. Gary piles in.}
+<CHAR>__{HOMELESS ROBIN} <CHAR_PAR>__{}
+<DIAL>__{Yes! Yes! Kill the lizards!}
+<ACTION>__{Arthur pushes past the press.}
+<CHAR>__{PRESS} <CHAR_PAR>__{}
+<DIAL>__{Arthur! What will your mother say? Didn't she send you here to get you out of the British papers? Arthur!}
+<ACTION>__{He turns to those crooks who aren't fighting.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Anyone need a job? My last driver resigned after I filled his limo with squirrels. Preferably sober, clean driving licence?}
+<ACTION>__{The crooks all look unsure. Apart from one....}
+<ACTION_ALT>__{TITLES}
+<LOC>__{EXT. MANHATTAN- NIGHT}
+<ACTION>__{A different, extremely flashy car zips through Central Park, the back full of released crooks, the huge Chicago guy - his name's MARTY - at the wheel. The car passes A MALE JOGGER. It stops and backs up. Arthur opens a door and beckons the jogger, offering champagne. The jogger gets in. The car sets off again.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Anyone know a good bar?}
+<LOC>__{EXT. CLUB - NIGHT}
+<ACTION>__{The car pulls up outside a very rough-looking dive club. Out falls Arthur, laughing his head off, along with champagne bottles, footballs and rich boy's toys. Following him are his crook friends, the jogger, TWO MIDDLE-AGED TOURISTS and A DANCING MAN in a leotard twirling a big sign reading `CHEAP APARTMENT RENTALS!' Like the pied piper, Arthur leads his disciples into the bar.}
+<TRANS>__{JUMP CUT TO:}
+<LOC>__{EXT. BAR - LATER}
+<ACTION>__{Arthur staggers out, leading a bigger crowd! (IN A CONGA?) He's even more drunk, arm in arm with Carmella the prostitute and a very attractive young woman, SOFIA. He produces A BIG}
+<ACTION_ALT>__{ROCKET.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Stand back!}
+<ACTION>__{He releases the firework; it flies at a crazy drunk angle, people screaming and diving for cover. It explodes into a shop sign reading `CHECKS CASHED'.}
+<CHAR>__{CARMELLA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{Oh, man. Nobody tell you about the recession?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The what?}
+<LOC>__{EXT. MANHATTAN - NIGHT}
+<ACTION>__{A very long line of excited people stand at an ATM, Arthur at the front.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Roll up, roll up, folks, let's fix this thing right now.}
+<DIAL_PAR>__{(to his first customer)}
+<DIAL>__{How much, sir?}
+<CHAR>__{FIRST MAN} <CHAR_PAR>__{}
+<DIAL>__{Um. $800 please.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Coming right up.}
+<DIAL_PAR>__{(keys it in)}
+<DIAL>__{Fries with that?}
+<ACTION>__{The man laughs, along with others in the line, including Sofia who catches his eye.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Congratulations everyone! THE RECESSION'S OVER!}
+<ACTION>__{Arthur dials a number on his gold iPhone.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Pierre? Arthur Bach-Templemead. Can you squeeze me in for a little snack? Yeah, just me and a couple of mates.}
+<LOC>__{INT. FANCY RESTAURANT - NIGHT - CONTINUOUS}
+<ACTION>__{The Maitre D' enters from the kitchen and is stunned to find the restaurant incredibly stuffed with people, so there's standing room only. People are even sitting on tables. It's a very eclectic mix of people. An angry, stuffy old man and his wife and daughter sit horrified at the center. Arthur's flanked by Carmella the prostitute and Sofia from the ATM line.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Pierre! We'd like 182 pate de foie gras, 182 chateaubriand steaks, a motherlode of chips and your entire wine cellar please.}
+<ACTION>__{The daughter of the stuffy couple - she's ERICA - speaks.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Arthur?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TAKEN ABACK)}
+<DIAL>__{Erica? Fancy meeting you here! Er...Everybody, this is Erica - the very best friend forever of my girlfriend Susan. And Erica's parents Ernest and Margaret.}
+<DIAL_PAR>__{(to Erica and her parents)}
+<DIAL>__{Are you familiar with the expression `I can't explain anything'?}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Who are the women with you, Arthur?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh, um, this is Sofia. I believe she works for Avis. Checks the cars for dings, dead people in the trunk, that sort of thing. And this is Carmella. Anyway...}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{What do you do, Carmella?}
+<CHAR>__{CARMELLA} <CHAR_PAR>__{}
+<DIAL>__{Whatever you want. But no penetration without a rubber.}
+<ACTION>__{It's all gone a bit tense.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Carmella's joking. She's actually a...queen. Of a very small country.}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{Is she now?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's terribly small.}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{I see.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Rhode Island could beat the crap out of it in a war.}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{Yes, it's a small place.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{85 cents in a cab from one end of the country to the other. I'm talking small.}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{I think I understand how small it is.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Just had the entire country carpeted, this is not a big place.}
+<CHAR>__{ERICA'S FATHER} <CHAR_PAR>__{}
+<DIAL>__{You need to grow up, Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{That's easy for you to say, you haven't got 50 pairs of short trousers hanging in your closet. Maybe we should go somewhere else.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Maybe you should.}
+<ACTION>__{He gets out his ultra-exclusive Black Visa Card.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Could I have all those lobsters to go, please?}
+<LOC>__{EXT. PIERRE HOTEL - DAY}
+<ACTION>__{The bright dawn sun explodes on the windows of Arthur's castle-like $56 million penthouse atop the Pierre Hotel.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY - CONTINUOUS}
+<ACTION>__{A huge jacuzzi is full of contented liberated lobsters, surrounded by the most amazing toy boat armada in history. We cut around the vast, opulent 20's apartment, scattered with unconscious revellers from last night. A mixture of old extravagance and modern excess, the place is stuffed with the toys of the boy who has everything: An old gun cabinet is stacked with enormous water rifles. A `Bodyworlds' plastinated corpse is posed, swinging from a chandelier, a bottle of champagne in its hand. Damien Hurst's shark in formaldehyde is half out of its smashed tank, a REVELLER'S FEET protruding from its jaws. Unconscious partygoers are slumped on plush seats in a home cinema themed to look like the set of `Roadrunner', while a screen plays episodes of the cartoon. A naked couple lie in a sleeping embrace in a room converted entirely into a sandpit, complete with giant toys. Big Chicago Marty, Arthur's new driver, lies on a big sofa, consulting his sports pager. Homeless Robin is filling pans and antique vases with water. A huge photo of Arthur modelling riding boots fills a wall, beside an old red London telephone box, converted into an aquarium, bubbling with colorful fish.}
+<CHAR>__{GIRL } <CHAR_PAR>__{(O.S.)}
+<DIAL_PAR>__{(PANTING)}
+<DIAL>__{More British!}
+<LOC>__{INT. BEDROOM - DAY - CONTINUOUS}
+<ACTION>__{Bowler-hatted Arthur and Sofia are having sex...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Cup of tea? Nice hot cup of hot Rosy Lee right up your fanny?}
+<ACTION>__{....beneath a rotating solar system mobile good enough to grace a national planetarium, on a bed floating magnetically three feet above the floor.}
+<LOC>__{INT. ARTHUR'S APARTMENT. HALLWAY - DAY - CONTINUOUS}
+<ACTION>__{A key is turned and the door to the apartment opens. A SENSIBLE WOMAN'S SHOE steps over a reveller.}
+<LOC>__{INT. ARTHUR'S APARTMENT. ARTHUR'S BEDROOM - DAY - CONTINUOUS}
+<ACTION>__{Arthur and Sofia are in an even greater frenzy. The floating bed is wobbling scarily.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hugh Grant Mr Bean self deprecation mad cow disease Yorkshire pudding bad teeth rain rain rain rain!}
+<LOC>__{INT. ARTHUR'S APARTMENT. GREAT ROOM - DAY - CONTINUOUS}
+<ACTION>__{AN OLDER WOMAN'S HAND pulls on A SURGICAL GLOVE.}
+<LOC>__{INT. ARTHUR'S APARTMENT. ARTHUR'S BEDROOM - DAY - CONTINUOUS}
+<ACTION>__{The older woman enters the room carrying A PLASTIC TRAY AS USED AT AIRPORT SECURITY. This is JANE HOBSON, the British aristocracy's longest-serving nanny.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(brightly, as he humps)}
+<DIAL>__{Morning, Hobson!}
+<ACTION>__{Unfazed, Hobson busies herself picking up Arthur's trousers, and emptying wallet, matchbooks, and iPhone into the tray.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Morning, Arthur.}
+<ACTION>__{She hits a remote. The curtains fly open. A HUGE TV flips on, showing news coverage of Arthur's antics last night.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm afraid your impromptu stimulus package failed to reignite the economy.}
+<DIAL_PAR>__{(reading a receipt)}
+<DIAL>__{De Cache Cocktail Lounge: $23,897?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Umm...Celebration of Kwanzaa.}
+<ACTION>__{Hobson's reading a text on Arthur's phone: `So excited ur funding my movie!'}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{The African heritage festival celebrated five months from now?}
+<ACTION>__{She replies: `I was drunk. Piss off.'}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(noticing Sofia's stopped having sex with him)}
+<DIAL>__{Why are you stopping? Oh, sorry. How impolite of me. Sofia, this is Hobson, my nanny.}
+<CHAR>__{SOFIA} <CHAR_PAR>__{}
+<DIAL>__{Nanny?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{He's merely shaped like an adult.}
+<CHAR>__{SOFIA} <CHAR_PAR>__{}
+<DIAL>__{Is she going to stay here?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson, could you come back in a minute and a half please?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Negative. You're seeing your mother this morning.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Nobody told me.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Actually I did, on the other side of the vast moat of champagne known as `last night'.}
+<ACTION>__{Hobson picks up Sofia's panties and bra from the floor like a crime scene officer.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I wouldn't recommend letting him get used to your breasts, dear. Addictive personality. He was at mine until he was six.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson! Really...}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I had to dab Tabasco sauce on the nipples to see him off...}
+<CHAR>__{SOFIA} <CHAR_PAR>__{}
+<DIAL>__{I can't do this.}
+<ACTION>__{She pulls away from Arthur, grabs her clothes and jumps out of bed, nearly tipping Arthur out.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I support your decision 100%. Will you be requiring a taxi, or just be getting in a random passing car?}
+<ACTION>__{Sofia storms to the door, clutching her clothes. Arthur can see other revellers being removed by HOTEL SECURITY.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Say goodbye to your new friends, Arthur. They have to go back to the recession now.}
+<ACTION>__{Arthur covers his head with the sheet.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Cancel my mother please, Hobson. I'll work from bed today.}
+<ACTION>__{But Hobson hits a touch-sensitive screen on the wall. The magnetic bed thuds to the ground. She taps another control. MUSIC: HORRIBLE, DEAFENING DEATH METAL}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Not the death metal, please!}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shouting over the music)}
+<DIAL>__{Aren't you a fan of Carcass?}
+<ACTION>__{Hobson reads off an album cover in a little wall screen.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{`Vomited Anal Tract' is surely a classic of its genre.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{OKAY, OKAY, I'LL GET UP!}
+<ACTION>__{Arthur sits up. Hobson stops the music.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Good boy.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm going for a shower.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I'll alert the media.}
+<LOC>__{EXT. BALCONY SHOWER - DAY}
+<ACTION>__{Arthur stands naked in his shower - a big glass cube jutting out from the balcony like something from a David Blaine stunt. Hot jets of water are blasted from holes in the cube's ceiling. Arthur can see Manhattan far beneath his bare feet as he showers.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SINGING)}
+<DIAL>__{To Bombay, a travelling circus came...}
+<ACTION>__{Arthur grabs a pair of binoculars which hang on a hook.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{They brought an intelligent elephant and Nellie was her name...Hobson!}
+<ACTION>__{We see Hobson on a little screen inset into the glass wall. She's on a phone at Arthur's computer.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Female Tom Hanks!}
+<LOC>__{INT. SITTING ROOM - DAY - CONTINUOUS}
+<ACTION>__{Hobson - in front of an Ebay screen full of purchases - picks up her own pair of binoculars and looks down.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Heading east towards Park Avenue.}
+<ACTION>__{Through Hobson's binoculars we see A MIDDLE-AGED BUSINESSWOMAN who does look vaguely like a female Tom Hanks!}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{She's early today...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Can we invite her up and dress her as Forrest Gump?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Just for a laugh! We'll pay her.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Do your armpits.}
+<DIAL_PAR>__{(INTO PHONE)}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Mr. Miller? My employer inexplicably agreed to purchase your...}
+<DIAL_PAR>__{(READS SCREEN)}
+<DIAL>__{`Authentic 1981 `Funshine' Care Bear'? For $11,000 plus shipping costs? Sorry, but that transaction will take place over my dead body, and I'm feeling rather well today.}
+<LOC>__{INT. SHOWER - DAY}
+<ACTION>__{Arthur's still peering down through his binoculars.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Hobson! That was your birthday present! You like bears!}
+<ACTION>__{A PRIEST WITH THIN SIDEBURNS emerges from A DINER...}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Father Wolverine...}
+<ACTION>__{A MASTURBATING MAN IN A 70TH STORY APARTMENT OPPOSITE...}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Wank Williams...That man has the constitution of an ox.}
+<ACTION>__{Hobson glances up at Arthur, washing himself on the screen.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{That reminds me, clean your genitals. Heaven knows what wildlife that girl was harbouring between her thighs.}
+<LOC>__{INT. ARTHUR'S DOJO. DAY - LATER}
+<ACTION>__{Arthur, in expensive baggy yoga pants and collarless shirt, is doing self-invented yoga to Indian `meditation' music.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I give you `Sideways farting spider'.}
+<ACTION>__{Hobson is sitting, exasperated, going through various expenditures.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur, you have to stop giving money away!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm a philanthropist.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{With the emphasis on the `pissed'. Really, what is it about unearned wealth that brings out such idiocy in those who have it and those who want it? The way you're going, you'll have spent your inheritance before you've inherited it.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shifts to new pose)}
+<DIAL>__{`Eagle pointing at lesbian.'}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Why did you fire Jessica?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What kind of yoga teacher won't let a pupil invent positions? She was a Nazi with a pan pipe C.D.}
+<DIAL_PAR>__{(CHANGING POSE)}
+<DIAL>__{`Upwards Pooping Astronaut'.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Interesting. It looks more like `Rich twit hiding from mother.' May I remind you, she finances your preposterous existence...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I know, I know. Never bite the hand that fists me.}
+<LOC>__{EXT. MANHATTAN - DAY}
+<ACTION>__{Arthur and Hobson are in a huge Bentley. Marty's at the wheel, still in his Cubs shirt but sporting a chauffeur's cap and tie. As he drives, he checks a bleeping sports pager. He nearly hits a pedestrian, then goes back to the pager.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Sorry, fellas.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CONSPIRATORIAL)}
+<DIAL>__{You don't seriously intend to keep employing this gentleman?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Give the guy a chance, Hobson. He got laid off in Chicago...}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{But he doesn't know his way around New York!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{So? I want interesting, fun people around me, not drones who just get the job done...}
+<ACTION>__{Arthur sees something out of the window.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Marty! Stop the car!}
+<ACTION>__{Marty hits the brakes, pitching Arthur and Hobson forward.}
+<LOC>__{EXT. MIDTOWN MANHATTAN - NIGHT}
+<ACTION>__{Arthur hurries up to A SMALL GROUP OF TOURISTS.}
+<CHAR>__{WOMAN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{The Chrysler Building. Designed by William Van Allen...}
+<ACTION>__{A TOUR GUIDE wearing a name badge reading `Naomi' is talking. She is gorgeous, wearing vintage clothes, clutching a clipboard. We understand why Arthur stopped the car.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{...and inspired by the machine age of the 1920s, this magnificent structure was the world's tallest building for 11 months before the Empire State stole its thunder.}
+<ACTION>__{She looks out on her sullen, miserable tourists.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The Chrysler got its name when the builder went bust in the 1928 Cement Famine and had to melt down his Chrysler to make the pointy bit at the top. If you peer closely you can still make out remnants of a hub cap and a sticker reading `Honk twice if you voted Hoover.'}
+<ACTION>__{Some tourists laugh. Some don't. Arthur's transfixed.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{That was a joke, folks. It was built for the Chrysler corporation.}
+<ACTION>__{Naomi shares an eye roll with A NEWSSTAND GUY who's clearly in love with her.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The spire is a beauty, especially on a winter's morning when the sun hits it and it just seems to...}
+<CHAR>__{GRUMPY FEMALE TOURIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTERRUPTING)}
+<DIAL>__{How tall is it?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{1047 feet madam, not allowing for pigeon shit. Okay, let's cross.}
+<ACTION>__{Naomi leads the tourists across the busy road. She has to go back to grab a teenager in the headphones, who didn't hear. Arthur hurries alongside Naomi.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Can I join your tour please?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sure. It's $15, plus $5 for the free authentic street pretzel. Sorry, my bosses make the prices.}
+<ACTION>__{Arthur produces his wallet full of high-end credit cards.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Sorry. I can't take cards.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Ah, owe me it. I start on that corner every day on the hour...}
+<ACTION>__{Just as Naomi's reaching the other side, a cabbie, driving very aggressively, nearly hits her.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hey, you big blind jerk! Doesn't your braille windshield work?}
+<CHAR>__{CABBIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ANGRY)}
+<DIAL>__{!NO ME HINCHAN LAS PELOTAS!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Peguelo encima de su asno, usted pinchazo grande su madre es un puta enorma y su padre no tiene ninguin martillo!}
+<ACTION>__{The cabbie's shocked - but laughs and blows Naomi a kiss. She smiles back.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Wow. What did you say?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Just generalised criticism of his parents and genitals.}
+<DIAL_PAR>__{(to the tourists)}
+<DIAL>__{Everyone make it over alive? Excellent. Next we enter Times Square, world famous for New Year's Eve, when a Waterford Crystal Ball descends at eye-poppingly slow speed for the inexplicable entertainment of a million drunk fools. Many people think the square is actually a square, despite blatant evidence otherwise.}
+<DIAL_PAR>__{(TO ARTHUR)}
+<DIAL>__{Sir? What shape is Times Square?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{A circle?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHS)}
+<DIAL>__{See? Morons.}
+<ACTION>__{More tourists laugh this time. Some...}
+<CHAR>__{GRUMPY MALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{When do we get the pretzel?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Soon, sir. Soon.}
+<ACTION>__{She checks her watch and leads the party inside a laundromat.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Okay, next the very Laundromat once used by George Gershwin, Donald Trump...}
+<LOC>__{INT. LAUNDROMAT - NIGHT - CONTINUOUS}
+<ACTION>__{Naomi approaches a washing machine just as it ends its cycle and makes a loud buzz.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{...Mr Big from Sex and the City and three of the 9-11 terrorists.}
+<ACTION>__{She starts unloading the machine of a large man's whites - vests, underwear, shirts, all stained red by a baseball cap.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh, dad.}
+<ACTION>__{She transfers the laundry into a tumble dryer and feeds it quarters. Arthur stays close.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The Welsh poet Dylan Thomas drank himself to death at the Chelsea Hotel half an hour after losing a sock in this very dryer.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CONSPIRATORIAL)}
+<DIAL>__{Are you abusing this tour to do your errands?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you abusing the tour to stalk me?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Absolutely.}
+<ACTION>__{Arthur stares at the big tumble dryers.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{These things are amazing. Have you ever put all your father's clothes on and just got inside one?}
+<ACTION>__{Naomi looks at him, bemused but intrigued as she heads to the door.}
+<LOC>__{EXT. TIMES SQUARE - DAY}
+<ACTION>__{Hobson's out of the car looking for Arthur.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Where the blazes is that boy? Arthur!}
+<LOC>__{EXT. STREET - DAY - CONTINUOUS}
+<ACTION>__{They emerge into the street.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Ahead, the jewel in Manhattan's crown, the Empire State Building. This iconic symbol of American corporate might was adapted during World War 2 in case of attack from enemy forces. At three minutes' notice the entire structure can retract into the ground like a tortoise's head.}
+<CHAR>__{TOURIST} <CHAR_PAR>__{}
+<DIAL>__{That's not possible. I should know, I'm a civil engineer.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You're not being very civil to me.}
+<ACTION>__{Some tourists laugh.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The building doesn't retract; the ground rises up.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Exactly. The ground rises up! Thank you, sir.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{They were going to install giant legs so if a plane was flying at the tower it could run away. But where's it going to run?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Manhattan's in the way.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It'd have to jump in the Hudson.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Victory to the Nazis. Is that what you want?}
+<ACTION>__{The group approaches a pretzel stand.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Okay, folks, your pretzel awaits.}
+<ACTION>__{The group lines up to get their pretzels.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Do I know you from somewhere?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{If you go on Perez Hilton or TMZ.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What are they?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The gossip websites.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{That the internet? Ah, my computer's too old for all that.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{For the internet? Seriously?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Life's too short for all this obsessive upgrading.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You consider the internet an upgrade? Wow.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{So why do people gossip about you?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Ah, that was a joke. I'm nobody.}
+<ACTION>__{Arthur feels a tap on his shoulder. Hobson.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{You're late for your mother!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO ARTHUR)}
+<DIAL>__{Sorry, this pretzel stand is a watering hole for the crazies.}
+<DIAL_PAR>__{(raises her voice to HOBSON)}
+<DIAL>__{The soup kitchen's just up and to the left, honey.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson, this is...}
+<DIAL_PAR>__{(reads her badge)}
+<DIAL>__{Naomi.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{She's with you?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Delighted to meet you, Naomi. Normally one has to go to a bowling alley to meet a woman of your stature.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Ooh, Grandma's got jokes.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{You aren't the first woman who walks the streets this young man has asked.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Who's this? Joan Rivers' older bitterer sister?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{My nanny.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Obviously. Seriously, who is she?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{My nanny. Well, she started as that, but these days she's more of an all-round enforcer and bodyguard.}
+<ACTION>__{Naomi looks at her watch and glances to the tourists, chewing on their pretzels. She starts to walk away.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sorry, I have to get out the cattle prod and haul ass. Got another tour starting in eight minutes.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Can I call you?}
+<ACTION>__{Naomi starts to walk away.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I don't give my number to grown men with nannies. But as you may not be a grown man, it's 917 476 2030.}
+<ACTION>__{Manhattan swallows the lovely stranger.}
+<LOC>__{INT. TEMPLEMEAD HOLDINGS - DAY - CONTINUOUS}
+<ACTION>__{They cross a huge foyer, passing a big sign reading `TEMPLEMEAD HOLDINGS INC' to the elevator.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But what if this is the one?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{This is just like the Komodo dragon. Everyone else is happy to see one in the zoo and leave it there. You had to own one. Thank goodness that handbag manufacturer was prepared to take the poor lizard away.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(HORRIFIED)}
+<DIAL>__{You said he's in London Zoo!}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{He is, Arthur. Are you the only one allowed to joke now?}
+<LOC>__{INT. TEMPLEMEAD HOLDINGS. RECEPTION AREA - DAY}
+<ACTION>__{Reception is manned by GRANT, a too-cool-for-school, young Aryan beefcake straight out of an Abercrombie & Fitch spread. Arthur and Hobson enter.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I don't like it here.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Of course you don't. People work here.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(HATES ARTHUR)}
+<DIAL>__{Good afternoon, Mr Bach-Templemead.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hi Grant. Tell me - which of your parents are you most like? Abercrombie or Fitch?}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(doesn't get the joke)}
+<DIAL>__{I have no connection with that store. My family name is Von Krausehoff. Take a seat please.}
+<ACTION>__{Arthur and Hobson sit down. Grant picks up a phone.}
+<CHAR>__{GRANT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Vivienne?}
+<DIAL_PAR>__{(conspiratorial, flirty)}
+<DIAL>__{White mid-rise briefs...mmmm.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Don't fret, Arthur. This won't take long. Then we'll have ice cream.}
+<ACTION>__{A LARGE OFFICE DOOR opens spookily of its own accord.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Come in, Arthur.}
+<ACTION>__{Arthur heads to the door. VIVIENNE BACH-TEMPLEMEAD a formidable, tanned American widow in her sixties, shakes his hand.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Vivienne.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{You know I prefer `mother'.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. You look more like a Vivienne.}
+<ACTION>__{Vivienne nods to Hobson as the door to her lair shuts. An icy breeze passes between biological mother and surrogate.}
+<LOC>__{INT. VIVIENNE'S OFFICE - DAY - CONTINUOUS}
+<ACTION>__{The office boasts many glass cases full of trophies and framed photos of Vivienne's younger self showjumping and holding trophies aloft. There's one small photo of Vivienne, Arthur's late father GERALD and Arthur as a toddler. Vivienne's engrossed in a document, making notations. Arthur, clearly uncomfortable here, sits in a low sofa before her.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not looking up)}
+<DIAL>__{So. How are you, Arthur?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Quite busy. I have a riding boot shoot for Petrie Dressage...}
+<ACTION>__{But Vivienne's buried in her work, not listening.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What else...I'm meeting Ivanka Trump for brunch to discuss the environment. She's sending her helicopter to avoid the traffic...}
+<ACTION>__{Vivienne's still not listening.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Crashed my Batmobile into the bronze bull on Wall Street...}
+<ACTION>__{She's still not listening. Has it always been like this?}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...which caused a hole to swallow up the New York Stock Exchange...}
+<ACTION>__{She's still not listening.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{..the world economy to collapse and the planet to descend into looting and cannibalism.}
+<ACTION>__{Still not listening.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What else? Um...tripped over in the shower this morning. Head split open, found a family of meerkats hiding in there! Hated the thought of the little lads being homeless so I bricked up the remaining half of my brain, popped them back in and Hobson glued my skull back together.}
+<ACTION>__{Still not listening.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm thinking of buying a giant. I think the market's right for it.}
+<ACTION>__{Arthur stops. He watches Vivienne. He lets out a huge belch. Nothing. A big fart. Nothing. Opera. Nothing.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You really are a shoddy mother.}
+<ACTION>__{Vivienne eventually looks up.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Did I hear you say you were meeting Ivanka Trump for brunch? That's nice. Right. Today we're going to have a friendly chat. Then a serious talk. And lastly make a timetable. How does all that sound?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Amazing. Do you have any vodka?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{What happened, Arthur? You were such a sweet baby.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I still wake up in my own poo occasionally.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Right, that's it for the chat. Time to transition to our talk.}
+<ACTION>__{Vivienne hits a remote control. A large wall-mounted screen fills with a changing collage of him drunk, dancing, puking, making out with women, beside countless news headlines.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{This insanity has to end, Arthur. As the delightful coffee-coloured gentleman who runs this country said, `The time has come to set aside childish things.'}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Can't Hobson set them aside for me?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Susan is a splendid girl. Her feet are on the ground, she's of fine stock...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GETS UP)}
+<DIAL>__{Oh. That's what this is all about. I'm not marrying Susan. I don't love her.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{And? You think I spent my marriage to your father skipping through meadows?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{Not after you ran him over in the Bentley, no. Susan's boring. She's not funny.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Ditto your father. The aristocracy doesn't marry for `fun', Arthur. It's about stability. Continuity...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{...and sinking your fangs into Susan's father's bank account.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{The Johnson family's considerable equity in a stormy financial period is merely a side issue. Burt is a pillar of the community.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{His baby formula was taken off the market in six African countries!}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{A completely innocent error in places where there's precious little for children to live for anyway. The families all got gift baskets as compensation. That little bump in the road aside, Burt is a devout Christian.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{Yes, because they're never insane. And where did he get Jesus?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GETTING EXASPERATED)}
+<ACTION>__{Burt paid his debt to society years ago.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{He strangled a fireman! Who strangles a fireman?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Arthur...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{I'm sorry, Vivienne. I've met someone else very lovely who, as far as I know, isn't related to anyone who would kill an unsung hero in cold blood.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Un-meet her. Arthur, you're the end of our line. We need an heir.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{I nearly gave you an heir!}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Oh, give me strength! A Bach- Templemead having a child by a lap dancer called `Mystery'?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{That was just her stage name! To give her more mystery when she...waved her fanny around. Her real name was...what was it again?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Susan is 33 this year. Her egg inventory has dropped by 23% since you met her. You risk having no sons, or worse, some pea-brained hunchback who hugs everyone!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{Great! I like hugs! And some of them are really good at math.}
+<DIAL_PAR>__{(heading to the door)}
+<ACTION>__{You know the `Frog and Toad' books?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{No.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<ACTION>__{Of course you don't. Hobson read them to me while you were off riding horses over stripey poles. They're about fun and friendship, not how many unspasticated tadpoles I can squirt up a rich girl.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<ACTION>__{Your father would turn in his grave to hear this nonsense...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{That I won't follow in his footsteps and marry a woman I hate? I think he might climb out of the grave and dance on it.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Suit yourself.}
+<ACTION>__{Vivienne holds up the document she was notating earlier.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{My will, which I have updated to designate Grant in reception as the sole beneficiary.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You wouldn't! You're my...}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{...Vivienne? Try me.}
+<ACTION>__{Vivienne opens a draw and takes out A HUGE RING BOX.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Shall we segue to the timetable part of our meeting?}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY}
+<ACTION>__{The liberated lobsters are now living happily at the bottom of the London phone box aquarium. Arthur eats lunch alone at a huge table, THE BIGGEST DIAMOND RING IN THE WORLD is beside him. Hobson brings a plate of vitamins.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Ah. The ring your father gave your mother, I recall.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(feeling its huge weight)}
+<DIAL>__{Did he knock her out with it, then drive her to the church in the trunk of his Bentley?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{No. Your father was a gentleman.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What's gentlemanly about dying before I knew him? That's just rude. Did he ever love my mother?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{They had their days.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Ah well. At least he doesn't have to wake up every day to a woman with a face like saran wrap stretched over a gargoyle.}
+<ACTION>__{Arthur stares at the ring again.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What about Naomi?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur. I say this with love:}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Uh-oh...}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Even by modern male standards you're a breathtakingly immature little shit. Coupled with the kind of money you have access to, that's deadly. Susan may not have a four hour stand up routine about the Flatiron Building, but she's a solid girl who will look after you.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I have you for that.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Not forever.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Yes forever. You're Hobson.}
+<LOC>__{INT. NAOMI'S APARTMENT - DAY - CONTINUOUS}
+<ACTION>__{Naomi answers a giant old cellphone in her modest apartment, cooking for her dad, RALPH, a bear of a man slumped in front of the TV watching CSI. A picture of Naomi and her elderly mother, in hospital, is on the wall.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hello?}
+<DIAL_PAR>__{(SILENCE)}
+<DIAL>__{Hello?}
+<DIAL_PAR>__{ARTHUR (O.S, ON PHONE) (MOCK SINISTER)}
+<DIAL>__{This is your English stalker.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(UNFAZED)}
+<DIAL>__{Oh, hi! What's up?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, I've never really understood that question. Are you free tomorrow night?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sorry, I'm polishing my yacht.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY - CONTINUOUS}
+<ACTION>__{Arthur's on the toilet in a bathroom whose walls are entirely covered in a photographic mural to make it look like he's sitting at the top of a ski slope, with skis on his feet.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Is that a euphemism for something naughty?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{No, it's a lie. I have a creative writing class. Tonight?}
+<ACTION>__{Arthur glances down at the ring box on the floor.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I have a contractual commitment. Friday?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You got it.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Paper.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sorry?}
+<ACTION>__{A voice-activated toilet paper dispenser spits out a sheet.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, I was talking to something else. So. What do you want to do?}
+<LOC>__{INT. NAOMI'S APARTMENT. DAY - CONTINUOUS}
+<ACTION>__{Naomi dishes out the food on cheap plates. It's all a big contrast to Arthur's setting.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{A movie?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Movie? Come on, you've got to try harder than that.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Pizza.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What have you always wanted to do?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's a first date, Arthur. Not our honeymoon.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Every date will be our honeymoon.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(MOCK DISGUSTED)}
+<DIAL>__{Ewww. Okay, uh, picnic in the park...or dinner with a view. I like views.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY - CONTINUOUS}
+<ACTION>__{Arthur's standing at a sink. A list is beside him, reading `Picnic in park, movie, dinner, view.'}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What sort of food do you like?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Anything but guts and mushrooms. Okay, enough questions.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh come on. This all helps build up a profile of you before I trick you into my basement. I'd hate to not have your favourite snacks ready.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Turkey Jerky and Pez. Are we done? Just that I....}
+<ACTION>__{The line goes dead. Hobson is standing behind Arthur, the ripped out phone cord in her hand.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Time to get engaged, Arthur. The Komodo dragon can wait.}
+<LOC>__{EXT. JOHNSON MANSION. NIGHT}
+<ACTION>__{The original Delorean from `Back to the Future' putters up to Burt Johnson's imposing, tacky mansion. The car stops and the gull wing door swings up, revealing an extremely drunk Arthur, clutching a bottle of champagne.}
+<LOC>__{INT. THE JOHNSON MANSION - NIGHT}
+<ACTION>__{AN EXTREMELY STIFF, MISERABLE OLD BUTLER answers.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hi! Is it June 19th at 7 pm?}
+<CHAR>__{BUTLER} <CHAR_PAR>__{}
+<DIAL>__{No, sir. It's 8.34.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{FUCK! We overshot! Time travel can be a real cunt sometimes, don't you think? I'll be right back. See you in an hour and a half ago...}
+<ACTION>__{The butler doesn't laugh.}
+<LOC>__{INT. BURT'S STUDY - DAY - LATER}
+<ACTION>__{Arthur and the butler enter the large, paneled study.}
+<CHAR>__{BUTLER} <CHAR_PAR>__{}
+<DIAL>__{Would you care for anything while you wait?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{A trampoline and a selection of woodland creatures if that's not too much trouble.}
+<ACTION>__{The butler leaves. Arthur gazes around the room, which is filled with antique Christian iconography. The ceiling fan is in the shape of a cross. A large, scary Jesus statue, palms outstretched, stares at him from beside a fish tank. He sees a cocktail cabinet.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Ah!}
+<DIAL_PAR>__{(TO JESUS)}
+<DIAL>__{Shhhhh...}
+<ACTION>__{He opens the cabinet. Nothing but bottles of water.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Bollocks.}
+<DIAL_PAR>__{(TO JESUS)}
+<DIAL>__{Sorry. Actually, you couldn't, um....you know...}
+<DIAL_PAR>__{(points to the water)}
+<DIAL>__{...turn this into a nice 1990 Romanee Conti, could you?}
+<ACTION>__{He sips the water as if it's wine. Lifts it to Jesus.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Cheers ears.}
+<ACTION>__{He checks out a huge, very old, rusty sword on the wall. Beneath it is a small information plaque.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{`Genuine Sword of the First Crusade. Excavated Germany, 1972'.}
+<ACTION>__{He looks around, then reaches up and takes it off. It's VERY heavy and clanks to the ground, slamming his foot.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Jesus Fucking Christ!}
+<DIAL_PAR>__{(TO JESUS)}
+<DIAL>__{Sorry. It's not like you shouted `Arthur Fucking Bach' when they pinned you up. Sorry. Sore subject.}
+<ACTION>__{Arthur lifts the sword again, brandishing and twirling it, making the noise of a Star Wars light sabre.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Feel the force, Luke.}
+<ACTION>__{He swings it in a full arc...CLUNK! Arthur has decapitated Jesus! Where's the head? The door opens. BURT JOHNSON, a large, imposing man with a tiny crucifix around his neck, fills the doorway.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Arthur!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I, er, had a bit of food stuck in my teeth and couldn't find a toothpick.}
+<ACTION>__{Burt, unperturbed, takes the sword from Arthur.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Heck, this sword went through three crusades. Beheaded 1000 moslems. Nothing you can do to harm it.}
+<ACTION>__{Burt walks straight past headless Jesus to the water cabinet. Arthur looks around desperately for the head.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You don't, um, have anything stronger, do you?}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Sparkling.}
+<ACTION>__{Arthur laughs nervously. But Burt's not joking.}
+<CHAR>__{BURT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{`The drunkard and the glutton shalt come to poverty: and drowsiness shalt clothe a man with rags.'}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Surely a glass of sherry at Christmas?}
+<ACTION>__{Burt clinks glasses with him.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Peace be with you.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{And also with me.}
+<ACTION>__{He sees Jesus's head! It's sitting on top of one of the blades of the ceiling fan!}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Can I be honest with you?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You're the real Slim Shady? I knew it!}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{My faith teaches me to hate the sin, not the sinner. But with you, I struggle with that belief.}
+<ACTION>__{Burt turns away to get a glass of water.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You could switch to Judaism.}
+<DIAL_PAR>__{(glances up at the fan)}
+<DIAL>__{Bit warm in here. Do you mind if I put the fan on?}
+<ACTION>__{Arthur turns the fan on a low setting. It rotates slowly, the head going around with it. Burt turns away to pour more water. Arthur grabs the moment to speed up the fan again, until it's going fast enough and Jesus's head falls off. Arthur catches it. Arthur gets behind Burt, out of sight temporarily.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Anyway, Arthur. However I feel about you, my daughter loves you.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Yes, it's a problem, isn't it?}
+<ACTION>__{Arthur reaches out and, unseen by Burt, he reaches out of shot and puts the head back on Jesus's body.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Let's knock our heads together and find a way to stop her loving me....Got it! We'll tell her I'm on the sex offenders register....No, I am and she knows.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Joke, sorry. Ah. We'll say I'm gay! I did once dabble actually, so I can tell a plausible story.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{You made love to a guy?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{One Moslem doesn't make a mosque, Burt.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{You made love to a Moslem?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No, sir, it was Prince Alois of Lichtenstein and he made love to me. The fact that it took three bottles of poppers and a Jacuzzi full of Krug to loosen me up confirmed my heterosexuality.}
+<ACTION>__{Arthur notices that Jesus's head is on backwards. Burt picks up a Bible from his desk and quotes from memory.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{`If there is a man who lies with a male, they shall surely be put to death.'}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Crikey. Couldn't there just be some kind of on-the-spot fine?}
+<ACTION>__{Burt really hammers the table this time.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{You will stop this talk and marry - my - fucking...}
+<ACTION>__{Jesus's head falls off. Arthur peers around. It's nowhere!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh bollocks.}
+<ACTION>__{Both Arthur and Burt see Jesus's head at the bottom of the fish tank. It floats back up to the top.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's a miracle! He is risen!}
+<ACTION>__{But SUSAN, Burt's beautiful daughter, enters with her best friend Erica - who Arthur met whilst at the restaurant the other night.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hi Susan. Erica.}
+<ACTION>__{Burt looks from Jesus's head to the sword, figuring it out.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Sorry to make you wait, Arthur. I was talking to your mother. I hear you have something to ask me!}
+<ACTION>__{Arthur feels Burt's smiling face - and hating eyes - on him.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Shall we go?}
+<LOC>__{INT. RESTAURANT - NIGHT}
+<ACTION>__{A VERY PRECISE FRENCH WAITER performs the specials menu with ludicrous elan. Susan is rapt, taking it all very seriously.}
+<CHAR>__{WAITER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{...the chef has bathed the bass in a parceline of Chilean fennel and finished him with a little gift of kobe beef. Also I have a progressive tasting of Kumamoto oysters en gelee which evolve on the palate, from light and refreshing to complex and spicy. A short story with a twist at the end! Le fin.}
+<ACTION>__{Susan chuckles approvingly, knowingly, the twit. She coos with delight and claps in appreciation.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Do you have something with less words please? The chef doesn't have to re-cook it, just scrape off the nouns and trim out all that gibberish in the middle.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{He's just joshing, Dominic. I'll do the skate in wood ear mushroom.}
+<CHAR>__{WAITER} <CHAR_PAR>__{}
+<DIAL>__{Excellent decision. Sir?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{A bowl of champagne and a spoon.}
+<ACTION>__{The waiter leaves, despising Arthur.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Arthur, did you really have to be so icky to Dominic?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry. I just can't handle the whole specials act. It's not a Shakespearean soliloquy, it's some heated up dead things that aren't on the main menu.}
+<ACTION>__{A WINE WAITER slams a bowl and spoon next to Arthur. He pours in champagne.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{You know, I was grumbling to your mother about how things are with us sometimes. How I'm sure you're trying to drive me away...}
+<ACTION>__{Arthur slurps his champagne.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Um hm.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{But she was explaining that relationships are like property purchases; invest only in high-end stock, avoid anyone 'up-and- coming', then hold onto the property through thick and thin to deliver maximum return! Isn't that darling?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Is it possible to buy the house but then rent it out? Sorry, joke. I'm not suggesting pimping you.}
+<ACTION>__{Arthur sees a very frail, rich old woman dripping in diamonds, passing by on her walking frame.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Look. You after our first child is born.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Why can't you learn to laugh at genuinely amusing things?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Such as?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{YouTube clips of babies giggling. Dane Cook.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Susan. Why are we together?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I love you, Arthur. And you love me, whatever you think.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{We don't have the same sense of humour. We don't like the same films, food, music. You like horses, I think they're arrogant idiots...}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Don't they say opposites attract?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{That depends on the opposites. Racists and the Nation of Islam don't secretly want to 69 each other. Susan, you're beautiful. You're bright. You're fucking loaded. Is there really no one else who could make you happy?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Never?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Well, I had a thing at college. That was serious for a while. But daddy...}
+<ACTION>__{She stops herself.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Daddy what? Prayed to Jesus for it not to work out, then shot the bloke behind a meat truck? Because Jesus would consider that cheating.}
+<ACTION>__{Susan places her hand on Arthur's.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Ask me, Arthur.}
+<ACTION>__{Arthur takes Susan's hand.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Susan. You're the only woman...at this table.}
+<ACTION>__{A waiter tops up Susan's wine. Arthur, now very drunk, holds out his champagne bowl to be refilled.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{You're not happy, Arthur. Nobody who drinks like you can be happy.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{How do you know? What if the drunker I get the better it is for me? Not everyone who drinks is a poet, Susan. Some of us drink because we're not poets.}
+<ACTION>__{The waiter arrives with Susan's fish and Arthur's drink.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{A real woman could stop you from drinking.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It'd have to be a real big woman.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Ask me, Arthur.}
+<ACTION>__{Arthur sinks to his knees. Susan waits...and waits. Arthur has passed out. Susan kicks him awake. He fumbles away in the gloom, getting out the ring box and trying to get it on her finger. At table level, Susan waits, irritated.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{All done.}
+<ACTION>__{Susan pulls her hand up, and gazes at the huge, glinting diamond - pushed onto the end of her thumb.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Susan. Would you marry me? Take the weekend if you want...}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Yes, I'll marry you.}
+<ACTION>__{She nods imperceptibly at the waiter.}
+<CHAR>__{WAITER} <CHAR_PAR>__{}
+<DIAL>__{Ladies and gentleman - the happy couple!}
+<ACTION>__{Music starts. A congratulatory round of applause. Confetti is thrown. The whole restaurant cheers. Susan whips out her Blackberry and starts hitting keys.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Erica will be the planner.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Erica? She hates me.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Who I love, she loves.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh, come on. She always looks like she wants to set fire to my face then put it out with an Uzi.}
+<ACTION>__{Susan's phone rings.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(ANSWERING)}
+<DIAL>__{Hello...thanks, daddy! Sorry, hang on, I have Erica calling...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What's going on? I only just bloody proposed!}
+<ACTION>__{Arthur's phone rings. The caller I.D reads `Vivienne'. He kills the call and sits, horrified, as the entire restaurant celebrates his grim fate.}
+<LOC>__{INT. PIERRE HOTEL BASEMENT GARAGE - NIGHT - LATER}
+<ACTION>__{In the gloom we track past the crushed Batmobile, the Delorean and other famous cars, to find Arthur sitting in KITT from `Knight Rider'.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What have I done, Kitt? This mistake's up there with Hitler joining his school debating team...}
+<CHAR>__{VOICE } <CHAR_PAR>__{(FEMALE)}
+<DIAL>__{Go to bed, Arthur.}
+<ACTION>__{Arthur jumps out of his skin. But it's Hobson, standing by the car holding a dressing gown and a mug of cocoa.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{And stop this self-pitying bibble. You're going to be fabulously rich.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Maybe I'd rather be fabulously poor. Some poor people I see look happy.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{That's either because they're far away or you've just given them money. Arthur, poor people have to work. They stand for hours in the rain, waiting for buses full of other poor people to take them to things called `jobs' which they do all year round to pay for holidays away from those jobs.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Don't patronise me. I have a job.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Lying drunk on a bale of hay in riding boots being photographed by another pampered prick won't prepare you for the work I mean. And I don't want to see you suffer. Take your fish oil.}
+<LOC>__{INT. NAOMI'S APARTMENT, QUEENS - NIGHT}
+<ACTION>__{A very old Apple Mac sits on a cluttered desk. Ralph is in his chair, eating Popeye's Chicken n' Biscuits, watching CSI on an old TV with a tiny satellite dish on top.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{When are we getting cable?}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{We have satellite.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{Honey, that's some bullshit aerial from the 99 cent Store!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's a satellite dish!}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{I read the box! It said `No satellite fees to pay because does not receive satellite signals!' That's like saying `Hey - eat this plate of broken glass! It won't make you fat. 'cause IT'S GLASS!'}
+<ACTION>__{Naomi comes in, looking absolutely beautiful. She checks her hair in the mirror.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's better than nothing.}
+<ACTION>__{Ralph unplugs the dish. The picture improves.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{No it ain't. Honey, I love you, but you're even cheaper than your mom. And she bought food from yard sales.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I miss her too, daddy. But now she's gone and if I'm going to keep you in grits and Oprah the rest of your life, you live by my rules.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{But you live like you're preparing for a war. And you earn a decent salary.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{So? I want to know I can look after you.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{What's he do, this English bum?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Who cares? He's nice. He's funny.}
+<ACTION>__{On CSI, a female body is being unearthed.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{Yeah and I bet that girl said the same about her date. Honey, stay home. I don't want you ending up like that poor girl.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{A bad actress holding her breath?}
+<ACTION>__{She changes the channel to something else.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Stop watching CSI.}
+<ACTION>__{A beep from outside. She kisses him and leaves.}
+<LOC>__{EXT. PARK - NIGHT}
+<ACTION>__{Arthur's Bentley pulls up at a quiet part of Battery Park.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Sorry we drove around so long. Navigation isn't my driver's strong point.}
+<ACTION>__{There's a huge ding in one side of the car.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Or road awareness.}
+<LOC>__{INT. BENTLEY - NIGHT - CONTINUOUS}
+<ACTION>__{Arthur and Naomi sit in the back of the car, while Marty checks sports results on his pager.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Can you put this on please?}
+<ACTION>__{Arthur's holding a blindfold.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{On a first date? Are you crazy?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Trust me.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur. We're in Battery Park at night. I've met you once - in the company of your nanny. You make a disturbing number of jokes about stalking and basements. My dad already has you down as a mass murderer. And you want me to put on a blindfold?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I give you my word - if I kill and eat you, you'll never see me again.}
+<ACTION>__{She shrugs and puts on the blindfold.}
+<LOC>__{EXT. NIGHT - LATER}
+<ACTION>__{Arthur guides Naomi in the dark. She stumbles.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Okay, I'm officially a little worried.}
+<ACTION>__{She tries to pull her blindfold off.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{Don't worry!}
+<ACTION>__{Arthur removes her blindfold. She's stunned to find herself on a huge blanket under a tree in a clearing lit by numerous candles. Before them is spread the most amazing picnic of all time. Flowers are everywhere. A log fire burns in a grate. Soft music plays.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You said you wanted a picnic.}
+<ACTION>__{He pours them glasses of 1928 Krug.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur, I don't know what to say. It's beautiful.}
+<DIAL_PAR>__{(LOOKING AROUND)}
+<DIAL>__{Who did all this?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The picnic fairies. Who liaised with the flower fairies, the candle fairies, the log fire fairies, the hidden sound system fairies...}
+<ACTION>__{He lifts a silver platter lid to reveal a vast pizza.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...and the pizza fairies.}
+<ACTION>__{A crack of a twig from somewhere.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Did you take account of the heroin fairies who hang here at night?}
+<ACTION>__{But there's nobody there. A cool breeze blows. Naomi shivers. Arthur uses a remote to turn the log fire flames up.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's nice to keep it simple like this. I'm sick of Michelin-star restaurants. All that embarrassing crap with the specials.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you kidding? Where I normally eat, the special's the one that comes with a free toy.}
+<ACTION>__{Arthur lifts a grill lid to turn over succulent steaks.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're rich rich, aren't you?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I get by.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{`It doesn't remotely matter how much or what you spend it on' rich?}
+<ACTION>__{Arthur shrugs and swigs champagne, pouring more.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Craziest thing you ever bought?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I once inadvertently financed a terrorist cell who said they needed 100,000 to open a falafel stall.}
+<ACTION>__{She laughs. She stops laughing.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Oh my G-d, you're serious.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What's the craziest thing you ever told a tour party?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I once said the Manhattan we were in was actually a movie set built for `You've got Mail', but that after the film wrapped, everyone moved to the set because there was less crime.}
+<ACTION>__{A sudden, very loud, very out-of-date ring tone. Naomi takes out a huge ancient Motorola phone.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Yes, dad? There's a small Tiffany butter knife about two inches from his hand but it might take him eight months to dismember me with it.}
+<DIAL_PAR>__{(PHONE BLEEPS)}
+<DIAL>__{Gotta go, battery. Love you too.}
+<ACTION>__{She ends the call.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Mom died last year. For eight months dad ate nothing but Popeye's Chicken n' Biscuits in front of CSI. So I persuaded him to move in with me. Where he eats Popeye's Chicken n' Biscuits in front of CSI.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sounds like you're very good to him.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What are you gonna do? All those years your folks tucked you in, did their best to stop you from eating crap in front of the TV. And then one day, you're the one saying `No, honey, it's bad for you! Go to bed.' Weird, huh?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(not relating at all)}
+<DIAL>__{Yeah. I hate that.}
+<DIAL_PAR>__{(looks at her phone)}
+<DIAL>__{Nice bit of kitsch. Where did you find that?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{AT&T store in 1998.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's...You've had it twelve years?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's a fine phone. Battery life of eleven seconds, which cuts the crap right out of conversations.}
+<ACTION>__{Something weird is happening. The world wobbles imperceptibly as the background drops away. She hasn't noticed yet.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I can't believe these mofos who gotta keep up with the latest bullshit. CDs come along, so out with the vinyl. Vinyl's back in, out with the CDs. I just kept the vinyl. Way cheaper, and I get to be incredibly hip once every 20 years....}
+<ACTION>__{A beat. She looks around. And down.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{WHAT THE HELL IS GOING ON?}
+<ACTION>__{Cutting wide, we see that the picnic was taking place on a grass covered platform with a tree planted in it - which is being lifted off the ground by a crane!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I couldn't decide between picnic in the park and dinner with a view. So it's a picnic in the sky! Isn't it ace?}
+<ACTION>__{The whole thing is rising higher and higher and higher.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{No it is not ace, you crazy English bastard! This is dangerous!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Oh, sorry. Forgot. They said to put these on.}
+<ACTION>__{He pulls back the blanket to reveal seat belts. He straps her in.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{Naomi, it's okay! It's very safe. It's this company called `Aerial Delights'. They specialise in catering unusual events at a height of 180 feet above the ground.}
+<ACTION>__{A gust of wind blows the structure, which swings. Naomi screams.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So what got you into the walking tours?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You're seriously making date small talk while this is going on?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Be still. Breathe deep.}
+<DIAL_PAR>__{(strikes a Zen pose)}
+<DIAL>__{`When you can be calm in the midst of activity, this is the true state of nature': Huanchu Daoeren.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{`Lower this freak show to the ground and get me a cab': Naomi Snart.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(handing her something)}
+<DIAL>__{Taste this truffle.}
+<ACTION>__{Naomi tastes it. It's clearly delicious. She gazes around as the crane swings them out over the Hudson. The view of Manhattan, of the river, of the Statue of Liberty, is mind bogglingly gorgeous from up here. Naomi bursts out laughing. She sips champagne.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What the hell. Gotta go sometime, right? At least it won't be years of pain like mom. Just a few seconds of screaming and falling with a truffle in my mouth.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{So anyway. The tours...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(CALMING HERSELF)}
+<DIAL>__{Okay, okay. Be deep. Breathe still. The tours are a temporary nine year fill-in until I'm drowned in a tsunami of apologies from everyone who failed to recognise my writing genius first time round.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What did you write?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{A kids' book. I sent a chapter to a childrens' publisher. Sunshine Press'. The rejection letter was the meanest thing I ever read.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Kids can be so cruel...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTERRUPTING)}
+<DIAL>__{Arthur? We have a problem.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I told you, don't worry. These crane people know what they're doing!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Not that kind of problem.}
+<ACTION>__{Arthur feels a blade at his throat. He looks up to see A JUNKIE, CLEARLY HIGH, standing over him.}
+<CHAR>__{JUNKIE} <CHAR_PAR>__{}
+<DIAL>__{Phone. And the watch. Hurry.}
+<ACTION>__{Arthur hands him his phone and watch.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Um. Out of interest, how did you get up here?}
+<CHAR>__{JUNKIE} <CHAR_PAR>__{}
+<DIAL>__{What you talkin' about, dog?}
+<ACTION>__{We see a sleeping bag and needles behind the tree!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Great. `Picnic in the sky' followed by `Robbed in the sky'!}
+<ACTION>__{Arthur get the giggles as the junkie reaches into his pocket for his wallet. Naomi gets involuntary giggles too.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{This isn't funny, you lunatic.}
+<ACTION>__{The junkie stuffs his face with food, swigs champagne from the bottle, then walks away. Phew. Then...}
+<CHAR>__{ARTHUR AND NAOMI} <CHAR_PAR>__{}
+<DIAL>__{NOOOO!}
+<ACTION>__{The junkie's walking towards the edge, oblivious! Arthur jumps up, causing the platform to wobble scarily. He grabs the junkie's arm. The junkie swipes, cutting Arthur's hand.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{OWWW! You don't understand! We're 180 feet up in the sky!}
+<CHAR>__{JUNKIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHS)}
+<DIAL>__{You on the same shit as me, yeah? Good stuff, right?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No, we're not high! Well we are, but only in the literal sense.}
+<ACTION>__{The junkie hurries away again. He's about to walk off the edge. Arthur runs and grabs him. They end up in a messy struggle, the platform rocking badly.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(TO NAOMI)}
+<DIAL>__{Hit the panic button! It's next to the truffle station!}
+<ACTION>__{Naomi's panicking, searching desperately. Arthur and the junkie roll over the posh food, right to the edge!}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hurry!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I can't find it. Over here?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No! That's the bouquet of world hams!}
+<ACTION>__{Naomi finds the truffle station and hits the panic button. Down in a Crane Cab an alarm goes off. The driver starts to lower the platform. Naomi tries to help Arthur as he struggles with the junkie, but she gets slashed on the ear. She screams. As the platform lowers, it swings back over the river to the land and tips them all into the river!}
+<TRANS>__{CUT TO:}
+<LOC>__{INT. ARTHUR'S CAR - NIGHT}
+<ACTION>__{Naomi and Arthur - his face bruised - are sitting in the car, both dripping wet. Naomi's ear and Arthur's hand are bandaged.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I had fun tonight.}
+<ACTION>__{She stares at him as if he's utterly crazy.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I can't believe I'm saying this, but so did I.}
+<LOC>__{INT. ARTHUR'S PENTHOUSE - BALLROOM DAY}
+<ACTION>__{The room has started to fill with groom's paraphernalia - morning suits, top hats, shoes. Erica is sitting with a huge sheaf of wedding admin and brochures. Vivienne, Burt and Susan listen attentively, studying seating plans. It all feels more like a council of war than a wedding preparation.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Summarising Phase Alpha: formal wear for bridal attendants, groom's attendants, mens' formal wear, St John the Divine all confirmed...}
+<ACTION>__{ARTHUR'S lying on a chaise longue, hungover. A TAILOR stretches a tape measure along him as if measuring a corpse.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO TAILOR)}
+<DIAL>__{Are there breathing holes in the coffin?}
+<CHAR>__{TAILOR} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{In case I'm passed out drunk rather than medically dead?}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, Thomas. This whole thing's just a joke to Arthur.}
+<ACTION>__{Hobson brings Arthur a glass of water and two Nurofen.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(VERY AFFECTIONATE)}
+<DIAL>__{Thanks, Hobnobs. You are good to me.}
+<ACTION>__{Vivienne, irritated, hands Hobson a coffee cup.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Take this away.}
+<DIAL_PAR>__{(TO ERICA)}
+<DIAL>__{Progress on the reception?}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Black inked at the Emery Roth Room at the Ritz-Carlton.}
+<ACTION>__{The screen lights up with a church graphic.}
+<CHAR>__{ERICA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{A first pass at the guest list. Bride's family and friends:}
+<ACTION>__{A 3-d layout of the church appears on a laptop. In the mock up, the bride's side of the aisle fills with hundreds of computerised guests, many labelled with famous names.}
+<CHAR>__{ERICA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Groom's family and friends:}
+<ACTION>__{About a fifth of that number pop up on Arthur's side.}
+<CHAR>__{ERICA } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We can arrange to screen off the area behind your guests, Arthur. To make it seem less desperate.}
+<ACTION>__{Arthur groans and leans over a bowl.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, everyone. that graphic's too colourful and this hangover's a 7.6 on the Richter..the Sickter...}
+<ACTION>__{Arthur's sick. Erica lays out more sheets.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Cakes, caterers, floral arrangements, photographer...}
+<ACTION>__{Hobson reappears, wipes his mouth and takes the bowl. She stands with it accidentally-on-purpose, very close to Vivienne's nose.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Will there be anything else, sir?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No, thanks.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO VIVIENNE)}
+<DIAL>__{Ma'am?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{No. You can leave.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Why all this crap now? What's the rush anyway?}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{The wedding is in a month, Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{A month? I was thinking more sort of ten, fifteen years. Just to really enjoy the anticipation of the big day.}
+<ACTION>__{Arthur gets up.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Where are you going?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(gets out his cellphone)}
+<DIAL>__{Sorry, Dwight D. Bridalshower, Operation Ball and Chain will have to wait.}
+<LOC>__{EXT. MANHATTAN - DAY}
+<ACTION>__{Arthur is walking Naomi along the Hudson, this time in daylight. He stops.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Here we are.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{We're not going to end up in the Hudson again, are we?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I can promise you won't get wet.}
+<TRANS>__{CUT TO:}
+<LOC>__{EXT. HUDSON RIVER - NIGHT}
+<ACTION>__{The Hudson is bare of craft....until, suddenly, a bizarre mini submarine shaped like a dolphin, dives out of the water in an arc. Arthur and Naomi are laughing inside it - until they almost collide with a Circle Tour boat full of tourists.}
+<LOC>__{EXT. MANHATTAN - NIGHT}
+<ACTION>__{Arthur and Naomi are hand in hand, walking along the street. He's a bit drunk, wobbly on his feet, a little morose.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you okay?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Yeah, fine. Actually...}
+<ACTION>__{But Naomi sees something on the other side of the road. Arthur gets a a text from Hobson: `TELL her!'}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hey, Richey Rich. Want to go somewhere really romantic?}
+<ACTION>__{It's a big tacky shop: JACK'S 99 CENT STORE.}
+<LOC>__{INT. 99 CENT STORE - NIGHT}
+<ACTION>__{`I'M TOO SEXY' BY RIGHT SAID FRED PLAYING LOUDLY ON SPEAKERS. The space is huge, garish and piled high with countless cheap household cleaners, candies, foodstuffs and toys. Arthur's fascinated, a tourist in austerity.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Everything is 99 cents?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Yip. A whole penny less than those bourgeois assholes at the Dollar Store.}
+<ACTION>__{Arthur reads a doll's label.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{`Warning: This product contains chromium, which may be linked to chronic bronchitis and reproductive hazards."}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{That one was on the news. Everyone else recalled them, the pussies. Not my 99 Cent!}
+<ACTION>__{Arthur turns the doll over: a sticker reads `China'.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Maybe China's trying to wipe out the west's children one by one.}
+<ACTION>__{He gazes around in wonder.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Oh, I love this place.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Well, I'd like you to believe it's because I'm a poor girl reduced to buying `Depressed Chef' burgers-in- a-can to Right Said Fred because I don't know where my next paycheck is coming from. But the truth is - bargains get me hot. Got it from ma. Drives my dad crazy. The tour?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Yes please.}
+<ACTION>__{She takes his arm.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Looking west, the ladies' hygiene products. Note that the more natural-sounding the name, e.g. this 'Vermont Breeze' Feminine Spray, the more lethal chemicals it contains. Watch out for the products cunningly labelled to make the dumber consumer think they're getting the real thing: 'Special J', 'Crampbell's Soup', ''Aunt Janina's' Maple-Style Syrup...}
+<ACTION>__{Arthur holds a tin with a Coffee Mate-style logo, reading `Friend of Coffee'. The store music changes to RICKY MARTIN: `LIVIN' LA VIDA LOCA'}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And ah, the music: Dated sounds for lonely people to buy cheap shit to.}
+<ACTION>__{They pass AN OLD WOMAN who is going through a stack of identical tins of cheap beans.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I once watched a woman shoplift an 8-pack of toilet scrubbers down her panty hose to 'Everything I do, I do it for you'.}
+<ACTION>__{Arthur just stares at Naomi.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why are you staring at me?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Just fascinated.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You're good at fascinated.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You're good at fascinating.}
+<ACTION>__{A CRASH. The old woman has knocked over all the beans.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Are you okay? Let me help you.}
+<ACTION>__{He hands her a tin.}
+<CHAR>__{OLD WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Not that one.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(offers her another)}
+<DIAL>__{This one?}
+<CHAR>__{OLD WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shaking the tin)}
+<DIAL>__{No. There's less beans in it.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{This one?}
+<CHAR>__{OLD WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sniffs the tin)}
+<DIAL>__{No.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{This one?}
+<ACTION>__{She stares and thinks. Arthur puts the tin to his ear.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{No. I think I hear a mouse inside.}
+<ACTION>__{Arthur shakes and sniffs another tin.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh my G-d. This is a good one. No rodents. Packed.}
+<ACTION>__{He slips her a dollar and whispers to her.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Quick, before someone gets it.}
+<ACTION>__{Naomi gazes at a different Arthur to the fool who nearly got her killed.}
+<CHAR>__{OLD WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO NAOMI)}
+<DIAL>__{You got a good one here, honey.}
+<ACTION>__{She hurries away.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Look. Us in a year's time.}
+<ACTION>__{ANOTHER OLD COUPLE push a cart past. THE OLD WOMAN sneezes. The old man produces a tissue and gently wipes her nose.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If you got ill, I'd care for you.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I'll get ill.}
+<ACTION>__{The music changes.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh, man, Phil Collins. Gotta get out when they start playing Phil Collins. Want to see how to get a quarter from a shopping cart?}
+<LOC>__{INT. HIGH END RESTAURANT - NIGHT}
+<ACTION>__{Arthur, Susan and Erica - her laptop open - are at dinner. Hobson's salting Arthur's soup, then checking the temperature.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{Tiger Woods has confirmed!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I didn't know you knew him.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I don't.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Why is he coming?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{He agreed to daddy's fee. This is going to be the happiest day of my life!}
+<ACTION>__{She looks at Hobson.}
+<CHAR>__{SUSAN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why is she here all the time?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{If you can bring Erica, I can bring Hobson.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{She's my wedding planner.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{She's my Hobson.}
+<ACTION>__{Hobson leans into Arthur while tidying his napkin.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(WHISPERING)}
+<DIAL>__{Tell Naomi. That's an order.}
+<LOC>__{INT. ARTHUR'S APARTMENT. NIGHT}
+<ACTION>__{Arthur's giving stunned Naomi a tour of the huge apartment.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Reminiscent of a French castle perched 500 feet above New York, the penthouse was known from early days as the `Chateau in the Sky'.}
+<ACTION>__{He leads her out onto a second rooftop ballroom.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{A second ballroom. Obviously. Gotta have a second ballroom.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Where George Gershwin and the Astors danced to Shep Fields and his Rippling Rhythm Orchestra.}
+<ACTION>__{He grabs her in a ballroom dance move.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Come on, cheap girl. We can be Fred Austere and Stingy Rogers.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(PULLING AWAY)}
+<DIAL>__{I just need one of your collection of bathrooms.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Behind the telephone box fish tank. See you on the balcony.}
+<ACTION>__{Arthur goes onto the balcony. Naomi's notices a figure sitting in the dark, stifling a cough. Hobson.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hobson?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{He's not like other men, you know.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I think I realised that as I plunged into the Hudson with a junkie. But I like him. He's fun.}
+<ACTION>__{Hobson fights another little cough. She gets up.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I know he is. That's the problem.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What does that mean?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I'm sure Arthur will explain.}
+<LOC>__{EXT. BALCONY - NIGHT}
+<ACTION>__{The live version of Simon and Garfunkel's `The 59th Street Bridge Song (Feelin' Groovy') is playing on speakers. Arthur and Naomi look out over the view, the park, dark and empty in contrast to the cheering and clapping on the recording. Naomi sips her wine. Arthur throws back a whisky.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Your kids' book. What was it about?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{`Vlad the Inhaler'. About an asthmatic boy detective.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Be serious.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Oh, it was dumb. `The Boy Whose Heart Escaped'. It was about this kid who wakes up to find his heart has climbed out and is shinning down the drainpipe to freedom.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I love it.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Rainbow Press said it was too disturbing. But it wasn't literal - there wasn't a kid lying there with a gaping hole in his chest. It was just this cute little heart bouncing up and down shouting `You can't catch me, mofo!'. I'm paraphrasing.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Did he catch the heart?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Never got that far.}
+<ACTION>__{Arthur wobbles a little more.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You like the hooch, don't you?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Only if I'm sad, happy or bored. There's this bit in a book Hobson used to read me as a kid that says it all: `We must stop eating cookies, Frog!' cried Toad, as he ate another.'}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Frog and Toad! I loved Frog and Toad!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(FROM MEMORY)}
+<DIAL>__{`Frog put the cookies in a box. `There' he said. Now we will not eat any more cookies.' `But we can open the box.' Frog tied some string around the box. `There' he said, `Now we will not eat any more cookies'. `But we can cut the string and open the box'.}
+<ACTION>__{Naomi lays her head on Arthur's shoulder.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So Frog took the box outside. He shouted in a loud voice, `Hey birds, here are cookies!' Birds came from everywhere. They picked up all the cookies in their beaks and flew away. `}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Now we have no more cookies to eat' `Excellent!' said Toad, `I am going home now to bake a cake.'}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Classic addict.}
+<ACTION>__{They might be about to kiss. But Arthur holds back.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{That was beautiful. It's like you read it yesterday.}
+<LOC>__{INT. ARTHUR'S BEDROOM - NIGHT - LATER}
+<ACTION>__{Arthur's blissed out face, lying in bed in the soft light.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(OOV)}
+<DIAL>__{Frog and Toad stayed on the island all afternoon.}
+<ACTION>__{Hobson's reading `Frog and Toad' to Arthur.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{They ate wet sandwiches without iced tea. They were two close friends sitting alone together.}
+<ACTION>__{Hobson closes the book and turns out the light.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I couldn't tell her, Hobson. She isn't the Komodo dragon. She's my toad.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{You're quite sure about this?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(under her breath)}
+<DIAL>__{Oh, bollocks.}
+<LOC>__{INT. NAOMI'S APARTMENT. DAY}
+<ACTION>__{Naomi's sitting with Ralph, who's scratching off lottery tickets.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{I don't know, honey. What's this teabag even doing here? Couldn't he make it in Lord of the Rings land?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Not that it matters, but he's a billionaire.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{You have my full permission to marry him.}
+<LOC>__{EXT. SHOWJUMPING FIELD. DAY}
+<ACTION>__{A HORSE clears a showjumping barrier. Grant applauds.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{Bravo, Vivienne! Well done!}
+<ACTION>__{Arthur's watching, sweating in the sunshine, while Marty and Hobson wait in the Bentley.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'd be wary, Grant. She's planning to ride you around the course next. Her last boyfriend broke his ankle jumping that ditch. Had to be destroyed on the spot.}
+<ACTION>__{Vivienne canters her horse up to them.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur. What's so urgent that you had to come all the way out here?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm in love. With a woman who isn't exactly who you'd describe as Susan. She's called Naomi.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur, we've been through this!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Won't you at least meet her?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{What family is she from?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The Snarts of Detroit.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Never heard of them.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No, because they're normal. She's a walking tour guide, her dad's a retired car worker.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Susan will generate quality sons, not oil-soaked car monkeys.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Unbelievable! Why don't you just keep me here, pay a servant to wank me into a bottle once a day...}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{...then inject it all into a field of heiresses and see who farts out a thoroughbred first?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{We need an heir!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Fine! You can have one with Stevey Steroids here! Surely even your uterus has had a face lift by now.}
+<ACTION>__{Arthur storms away towards the car.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(STEPPING IN)}
+<DIAL>__{That's enough, Arthur...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{None of your business, J Crew.}
+<CHAR>__{GRANT} <CHAR_PAR>__{}
+<DIAL>__{You are so ungrateful to your mother. She adores you!}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Come back here.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You can shove your inheritance up your horse's arse!}
+<ACTION>__{Arthur jumps into the car and it pulls away. Vivienne sits shocked on her horse. But then she throws it into a gallop and catches up.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Suit yourself, Arthur. Follow your heart. But do be aware I consider what you've squandered so far an advance on your inheritance. That's about $17 million.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Why would you do that? You'd never get it back.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{No. But you'd spend the rest of your life in court. There's a simple solution to all this. Marry Susan. And cheat with the nobody from Queens.}
+<LOC>__{INT. DINER - DAY}
+<ACTION>__{Arthur's very drunk, maudlin, sitting opposite Naomi. He's holding his menu upside down.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Have you been at the cookies?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I ate the whole jar.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(realising it's serious)}
+<DIAL>__{Oh, man. What? What?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm engaged. To another Susan. Woman. Engaged to another woman.}
+<ACTION>__{She slams her menu down.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm so sorry I didn't tell you.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What are you talking about? This is bullshit. Who do you think you are? Is this some rich guy thing?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I was going to tell you! I just...}
+<ACTION>__{Naomi gets up and puts on her coat.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Yeah, yeah, you just.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Please, Naomi! I didn't mean for it to get to this! I planned to just be your friend but then I started to fall for you and I thought `I can't marry Susan, I might fall for Naomi!' But I thought `No I have to marry Susan or I'll be poor so I won't fall for Naomi' But then I did fall for you! Because you're brainy and funny and gorgeous and too smart to do walking tours. You're too smart, Snart. Smart Snart. There's a 99 cent cereal.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Anyway, so I went to see Vivienne, and I said `I can't marry Susan, I love Naomi she's my Frog my Toad' I don't know any more.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You're frog.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Thanks. Then she said `Noooo, if you don't marry Susan, I'll make you pay all the inheritance money back even if you can't - ha ha ha'. Okay she didn't laugh but she might as well have, the evil cow. Because it's like all the money ever and they'll put not just me but both of us in prison and your dad, like in Dickens. There'll be ghosts, and Oliver and....}
+<ACTION>__{He stops, his mouth flapping like a fish.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Maybe if I'd spotted this facet of your personality earlier we wouldn't be having this conversation.}
+<ACTION>__{She heads towards the door. Arthur regains his lucidity for a moment.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Toad? Stay a bit longer. Please?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{'cause it'll reduce the proportion of my life I'll spend feeling utterly miserable.}
+<ACTION>__{Naomi watches him take another big slug of wine.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Bye, Arthur.}
+<ACTION>__{Arthur looks confused.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Bea Arthur? What's she got to do with all this?}
+<ACTION>__{She shakes her head and goes.}
+<LOC>__{INT. NAOMI'S APARTMENT - NIGHT}
+<ACTION>__{Naomi's looking very sad, shaking - because she's comforting Ralph, who is sobbing on her shoulder.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's going to be okay. I'll get you a beer, yeah?}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{I just have to be alone for a minute...Oh, G-d, I can't bear it...}
+<LOC>__{INT. DANE COOK CONCERT - NIGHT}
+<ACTION>__{Arthur sits miserable, drinking, as he sits beside Susan at a Dane Cook gig.}
+<LOC>__{INT. NAOMI'S APARTMENT. NIGHT}
+<ACTION>__{Naomi's been crying. She's reading the screen of an ancient Apple Mac: `THE BOY WHOSE HEART ESCAPED' by N J Snart. She reads a paragraph - and smiles. This stuff isn't so bad.}
+<LOC>__{INT. ARTHUR'S PENTHOUSE - BALLROOM - NIGHT.}
+<ACTION>__{Arthur and Susan are getting a dance lesson from a CHOREOGRAPHER, clicking her fingers to a club anthem version of the awful Jefferson Starship song. Arthur dances terribly. Hobson watches sadly.}
+<LOC>__{INT. NAOMI'S APARTMENT. NIGHT}
+<ACTION>__{Naomi's typing, getting back into it.}
+<LOC>__{INT. ARTHUR'S APARTMENT - BATHROOM - DAY}
+<ACTION>__{The tailor is positioning a top hat on Arthur's miserable head. He's shirtless and unshaven.}
+<LOC>__{INT. NAOMI'S APARTMENT. DAY}
+<ACTION>__{The sun is coming up over Queens. An ancient dot matrix printer spits out a final page. Naomi is at a desk with A PILE OF FINISHED MANUSCRIPTS and envelopes to various publishers. One is to `Rainbow Press'.}
+<LOC>__{EXT. MANHATTAN - DAY}
+<ACTION>__{Naomi's pointing at the Chrysler Building for a particularly grumpy bunch of tourists of all types and ages.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(YAWNS)}
+<DIAL>__{Designed by William Van Allen and inspired by the machine age of the 1920s, the Chrysler...}
+<CHAR>__{RUDE MALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{Hey. I got a question.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Please, interrupt. Hell, who wants to come home with me and butt in with questions while I'm watching Letterman? `Yo. How tall is Dave?'}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Sorry, sir. Late night, no sleep, long day. What's your question?}
+<ACTION>__{The opening bars of a familiar song start up somewhere, filling the street. Suddenly, some of the members of her tour group start lip syncing to Phil Collins.}
+<CHAR>__{RUDE MALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{How can I just let you walk away, just let you leave without a trace?}
+<CHAR>__{FEMALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{When I stand here taking every breath with you, ooh...}
+<CHAR>__{MALE TOURIST 2} <CHAR_PAR>__{}
+<DIAL>__{You're the only one who really knew me at all.}
+<ACTION>__{A van with speakers on the top is parked nearby, pumping out the music.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What is going on?}
+<CHAR>__{OLD FEMALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{How can you just walk away from me, when all I can do is watch you leave?}
+<CHAR>__{TEENAGE BOY TOURIST} <CHAR_PAR>__{}
+<DIAL>__{'cause we've shared the laughter and the pain...}
+<CHAR>__{NEWSSTAND GUY} <CHAR_PAR>__{}
+<DIAL>__{And even shared the tears.}
+<ACTION>__{A Yellow Cab goes by, the driver lip-syncing out the window.}
+<CHAR>__{NEWSSTAND GUY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're the only one who really knew me at all.}
+<ACTION>__{The song hits a hard club mix. Arthur bursts from the back of the van in a frog outfit! The `tourists' launch into a well- rehearsed dance.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(lip syncing too)}
+<DIAL>__{So take a look at me now, 'cause there's just an empty space. And there's nothing left here to remind me, just the memory of your face.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Take a look at me now, `cause there's just an empty space, And you coming back to me is against all odds and that's what I've got to face...Just take a look at me now.}
+<ACTION>__{The song builds to a dance crescendo. A magical moment. The crowd watches. How can she say no?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sorry to be a wet blanket, folks. he's getting married. But I guess he didn't choreograph that bit for you.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But..but this took ages to rehearse. I had the frog outfit specially made. These aren't actual tourists.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I gathered that, Arthur. Are you capable of doing anything without it being a grand gesture?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What do you mean?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's like Hobson said. You're not like other men. If you were normal, if the money and the booze didn't cloud everything, you'd deal with the fact that you're engaged, rather than just looking for ways to win me back. But it was a lovely routine, really. Fantastic outfit.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I just wanted to see you.}
+<ACTION>__{He takes out his flask and has a swig.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SYMPATHETIC)}
+<DIAL>__{You need to see someone, Arthur. Seriously.}
+<LOC>__{INT. ARTHUR'S PENTHOUSE. SHOWER - NIGHT}
+<ACTION>__{Arthur's in his cuboid David Blaine shower. He picks up his binoculars.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson! Female Tom Hanks has had a haircut! Hobson?}
+<ACTION>__{But Marty pipes up on the little inset Hobson screen. He looks at a note in Hobson's handwriting.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{It says here you shouldn't forget to clean your junk. I guess that's what...'genitahlio-ah' is.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Marty? What are you doing there?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Hobson left me in charge. She's gone to bed. She had a headache.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{She's had quite a few headaches lately.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{She blacked out.}
+<LOC>__{INT. HOBSON'S ROOM. DAY}
+<ACTION>__{Hobson's in bed, watching a Discovery Channel documentary about grizzly bears. Arthur hits pause.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Put my bears back on, Arthur.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Not until you answer my question.}
+<ACTION>__{Hobson closes her eyes. She hams the next bit.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I'm travelling down a white tunnel. To - a garden? Mother? Father? Why is it so hot? Who's the red gentleman with the big pitchfork?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Will you cut it out?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur. There are three books. This is important. Take them back to the library...}
+<ACTION>__{She feigns a melodramatic death.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson, please. Don't die any more. It's getting very boring.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Old women, like bears, get sore heads. Are you okay? You look a little lost.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi doesn't want to see me.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{A terrible shame she had to go. A little tart like that could have saved you a fortune in prostitutes.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Listen, old woman. Don't ever talk about Naomi that way again. What gives you the right to be such a snob? You're just...you're just... Mary Poppins with a menopause!}
+<ACTION>__{Arthur storms out, slamming the door. But within 10 seconds he returns, humbled, ashamed - a regretful naughty child.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hobson, I've never raised my voice to you. I'm sorry.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry too. You know, Arthur, you may be growing up.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Do you want anything?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I want to be younger.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, it's your job to be older.}
+<DIAL_PAR>__{(THINKS)}
+<DIAL>__{Hobson. If you're feeling better tomorrow, will you accompany me somewhere?}
+<ACTION>__{She pats his hand gently.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Of course, Arthur.}
+<LOC>__{INT. CAR - DAY}
+<ACTION>__{Marty and Hobson are staring, bemused.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{How do I look?}
+<ACTION>__{Arthur's wearing a huge, ludicrous wig and beard. Hobson and Marty fight giggles.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I can't have this getting out. I'm in the public eye.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Yes, it would be disastrous to harm such a dignified profile.}
+<ACTION>__{He looks, scared, at the building.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's going to be okay, Arthur.}
+<LOC>__{INT. AA MEETING - DAY}
+<ACTION>__{AA MEMBERS are sitting in a circle. MEGAN, a respectable- looking, smart woman, is speaking.}
+<CHAR>__{MEGAN} <CHAR_PAR>__{}
+<DIAL>__{I was waking up four, five, six mornings a week in different mens' beds...}
+<ACTION>__{Arthur (in his ludicrous disguise), Hobson and Marty enter.}
+<CHAR>__{MEGAN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I wanted to die. To be nobody.}
+<LOC>__{INT. AA MEETING - DAY - LATER}
+<ACTION>__{A man, JAMES, speaks emotionally.}
+<CHAR>__{JAMES} <CHAR_PAR>__{}
+<DIAL>__{I steal from my friends, my family. I sold my son's pedal car so I could score junk...}
+<ACTION>__{Arthur - utterly depressed - has his head in his hands.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Jesus....}
+<CHAR>__{JAMES} <CHAR_PAR>__{}
+<DIAL>__{I accidentally backed my car over my mother outside Walgreens...}
+<ACTION>__{Marty chuckles. He tries to fist-bump James.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(WHISPERS)}
+<DIAL>__{Marty! This isn't a sports bar in Chicago. These people aren't here to brag.}
+<CHAR>__{JAMES} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SOBBING)}
+<DIAL>__{I had a business, a home and it's all gone! I'm in this fucking grave and they're pouring the earth in!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Whoooaaahh. Okay, cut. I don't know about anyone else, but this isn't exactly killing my thirst.}
+<CHAR>__{LEADER} <CHAR_PAR>__{}
+<DIAL>__{Well why did you come...What's your name?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Gandalf.}
+<ACTION>__{Arthur thinks. Seriousness - his least favourite thing - is upon him. He takes a deep breath. But -}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm sorry, you're not going to convince me my life isn't fun.}
+<DIAL_PAR>__{(TO JAMES)}
+<DIAL>__{And no offence but if I ran over my mother, I'd be out celebrating. Which is what I plan to do right now. Come on, Hobson. Marty.}
+<ACTION>__{Arthur leaves, the door swinging behind him.}
+<CHAR>__{WOMAN } <CHAR_PAR>__{(O.S)}
+<DIAL>__{I'm Jane. And I believe I have a dependence on alcohol...}
+<ACTION>__{The woman confessing is Hobson - on Arthur's behalf!}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{...and because I have done nothing with the astonishing opportunities handed to me, apart from pissing away my inheritance and drinking enough to kill a rhino.}
+<ACTION>__{Arthur, having heard, comes back in.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{But imagine being me! I once ended up in bed with the daughters of}
+<DIAL_PAR>__{three of the Rolling Stones. But a)}
+<DIAL>__{I don't remember a thing about it, b) apparently I was sick on two of the women before c) losing control of my bladder on the third. All such fun...until the strangers I pay to be my friends have gone, the fog parts and there's a hole so big, you could pour all the champagne in the world into it and never fill it up. But I've got so much potential, a good heart, I'm a good person, even if I've completely wasted my short, precious life because I somehow convinced myself that happiness is a Komodo dragon, a case of booze and the memory of having once stripped naked to Beethoven for a coachload of German tourists who I met outside the Rainforest Cafe.}
+<ACTION>__{She's done. An awkward silence.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's always the quiet ones.}
+<LOC>__{EXT. MIDTOWN MANHATTAN - DAY}
+<ACTION>__{The car drives through Manhattan.}
+<LOC>__{INT. CAR - DAY}
+<ACTION>__{Arthur stares out of the window, beaten, drunk.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Thanks, Hobson. Maybe you can go every time I crave a drink?}
+<ACTION>__{Hobson doesn't even crack a smile. Arthur gets out his phone and scrolls - past Naomi's name, to Susan's. He dials.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Susan? Look, I know the wedding date is set. But fancy bringing it forward? I just want to get it over with. In a good way. Think about it, yeah?}
+<ACTION>__{He ends the call. Silence. He looks to Hobson.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{It's the agony of possibility, Hobson. It just hurts too much to know I could still be with Naomi if I had the guts.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Just promise you'll never ask me to sleep with Susan for you.}
+<LOC>__{EXT. MANHATTAN - DAY}
+<ACTION>__{Naomi's riding the bus. Her phone rings. `Number withheld'. She rolls her eyes and answers.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur, if that's...}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Hello? Yes. Yes, I did...Yes. Sorry? Really? Well I worked pretty hard on it..Love to...Love to...What time?}
+<ACTION>__{Incredibly excited, she grabs a pen and writes on a walking tours brochure: `JULIAN BARBER...RAINBOW PRESS...'}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'll call in dead to work. Bye.}
+<ACTION>__{She writes `TUESDAY 11.30' and an address.}
+<LOC>__{INT. NAOMI'S APARTMENT - DAY}
+<ACTION>__{There's a ring at the doorbell. Ralph answers. It's Hobson.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Good afternoon, Mr Snart. Is Naomi here?}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{You must be the nanny.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I must be.}
+<ACTION>__{Ralph embraces her.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Please stop this, I can't inhale and am in danger of treading on one of your knuckles.}
+<ACTION>__{Ralph releases her.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{If you and your undershirt would walk two paces back I could enter this dwelling.}
+<ACTION>__{Naomi appears, looking more of a writer than a tour guide.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Well, well.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{Ever since I met Arthur I liked him. We have to make sure these two wonderful kids stay together...}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Try not to talk. It's not your words but the breath which bears them. Perhaps you could repair to the East Wing and make me a cup of tea? I wish to speak to Naomi.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{Sure, sure.}
+<ACTION>__{Ralph leaves.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur is having a pre-wedding party tonight. You should come.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Oh, should I? Are all the other girls he passed up going too?}
+<ACTION>__{Hobson picks up a letter from Rainbow Press and peruses it.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Don't you want to show Arthur how well you're doing?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Tell him thanks, but I have a deadline.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur doesn't know I'm here. He's far too decent to be involved in something so tawdry. You could bring your father. A magical experience before he's too big to leave this apartment.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(DISBELIEF)}
+<DIAL>__{Why would I go to this? Why would I do that to myself?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{My dear, if there's one thing old women can tell, it's young men in love. And the food promises to be breathtakingly free.}
+<ACTION>__{Hobson has a slight dizzy spell and sits down.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you alright?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Better than you, dear.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You really look out for Arthur, don't you?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Yes. And it is a job that I recommend highly.}
+<ACTION>__{Ralph comes back and with a cup of disgusting-looking tea.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You really look out for this gentleman, from what I've heard.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Ah, what am I gonna do? The no-kill pet shelter won't take him.}
+<ACTION>__{Ralph hands Hobson the cup of tea.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Thank you. Would you go the bathroom and commence washing? You only have three hours and it could be quite a project.}
+<ACTION>__{Ralph goes. Naomi takes the tea.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I appreciate what you're trying to do but I'm not going to that party.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Suit yourself.}
+<ACTION>__{Hobson gets up, still dizzy.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Have you seen a doctor?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Yes. And he has seen me.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I think Arthur has a very good friend. May I kiss you on the cheek?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Is it something you feel strongly about?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{But Hobson falls back into her chair heavily, looking sicker.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Dad! Call 911.}
+<LOC>__{EXT. JOHNSON MANSION. NIGHT}
+<ACTION>__{HORDES OF SMARTLY-DRESSED RICH PEOPLE are gathering on Burt Johnson's mansion for the society night of the year. A high- level security presence is much in evidence.}
+<LOC>__{INT. JOHNSON MANSION. BALLROOM - NIGHT}
+<ACTION>__{A LIVE BAND plays a cheesy soft-rock version of `Addicted to Love'. ARISTOCRATS mingle with CRASS NEW MONEY TYPES mingle with TIGER WOODS. The band finishes the song.}
+<CHAR>__{VOCALIST} <CHAR_PAR>__{}
+<DIAL>__{Thanks. We're going to move things up tempo now with `The Only Thing That Looks Good On Me Is You.'}
+<ACTION>__{The band start playing again. Partygoers hit the dance floor. Vivienne, Susan, Burt and Erica pass a huge ice statue of Susan and Arthur in a loving embrace and amazing catering.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Splendid affair, Susan.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Don't thank me, thank Erica.}
+<ACTION>__{Erica shrugs modestly. Arthur appears. Burt puts a big burly arm around him and squeezes him a little too hard.}
+<LOC>__{EXT. JOHNSON MANSION. NIGHT}
+<ACTION>__{Naomi climbs out of a crappy cab. She's on her phone.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{With all due respect, Hobson, you're talking out of your frumpy English ass. Arthur needs to know!}
+<LOC>__{INT. HOSPITAL - NIGHT - CONTINUOUS}
+<ACTION>__{Hobson's in bed looking ill. Ralph's fussing over her pillow. Hobson slaps him away.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{You are not to pull him out of that party on my behalf.}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Hello? Naomi!}
+<ACTION>__{But Naomi's gone. Ralph tries to plump the pillow again.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{You're gonna get through this, babe. Then who knows what the future may hold?}
+<LOC>__{EXT. PARTY - NIGHT - CONTINUOUS}
+<ACTION>__{Naomi hurries past A DOOR MAN with a clipboard.}
+<CHAR>__{DOOR MAN} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, madam. Name? Madam?}
+<ACTION>__{Naomi grabs the arm of A MALE GUEST.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Snart plus one.}
+<ACTION>__{She hurries in with the bemused, but delighted man. The DOOR MAN checks his clipboard.}
+<LOC>__{INT. JOHNSON MANSION. NIGHT - CONTINUOUS}
+<ACTION>__{Naomi enters the party, releasing the man, who's disappointed to see her go. She looks around for Arthur, getting admiring looks from other men - and women.}
+<CHAR>__{PASSING WOMAN} <CHAR_PAR>__{}
+<DIAL>__{Nice dress. Vera Wang?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Ross Dress For Less. You know where Arthur is?}
+<CHAR>__{PASSING WOMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SHRUGS)}
+<DIAL>__{Sorry.}
+<ACTION>__{Naomi moves on. The Door Man appears, looking around for the gatecrasher. The man whose arm she took on the way in - he's called JUSTIN - is also on the prowl for her...}
+<LOC>__{INT. JOHNSON MANSION. BALLROOM - NIGHT}
+<ACTION>__{Burt takes to the stage to applause.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{When Arthur proposed to my daughter, I was overjoyous. The Bach-Templemeads are my kind of people: classy. Respectable. Well spoken. People like in Shakespeare in Love, who esprouse the same values I have always upheld both in my business and spiritual life. But tonight isn't about me or America's leading independent formula brand.}
+<ACTION>__{Arthur takes the stage to wild applause.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Burt! I've actually prepared a little surprise song with my friends here.}
+<ACTION>__{The band starts playing `Close To You' by the Carpenters. Arthur sings to Susan, down in the crowd.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why does cash suddenly appear, every time you are near?}
+<ACTION>__{The audience laugh.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Just like me, it longs to be, close to Sue. Why do cars fall out of the sky, all of which, I can buy...}
+<DIAL_PAR>__{(STOPS)}
+<DIAL>__{I'll sing a proper song.}
+<DIAL_PAR>__{(SINGS)}
+<DIAL>__{You say potayto and I say potahto, You say tomayto and I say tomahto, potayto, potahto, tomayto, tomahto, Let's call the whole thing off! You say AA, and I say `no way', you say `Red Bull' and I say `Go away, Rehab, No way, Red Bull...}
+<LOC>__{INT. JOHNSON MANSION - ANOTHER LARGE ROOM}
+<ACTION>__{JUSTIN approaches Naomi, who's still looking around for Arthur.}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{We meet again!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Yeah. Have you seen Arthur?}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{The ballroom. I'll take you to him.}
+<ACTION>__{Justin takes Naomi's arm and leads her at a leisurely pace. They pass a portrait of Susan.}
+<CHAR>__{JUSTIN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm so happy for Arthur and Susan.}
+<ACTION>__{Justin points at a portrait of Susan.}
+<CHAR>__{JUSTIN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Isn't she beautiful?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Of course she is. Why would Arthur marry a pig?}
+<ACTION>__{The Door Man appears, seeing Naomi.}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{What business is your family in?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hm? Oh, I'm the heiress to a fortune built on small pets.}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hamsters, mice, doglets...}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{Doglets?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Tiny dogs. The technology's not perfect. Seeing a horse the size of a can of soup fall dead before your eyes - that shit stays with you.}
+<ACTION>__{They walk through a door, ending up in a garden.}
+<LOC>__{EXT. GARDEN - NIGHT}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you sure he's this way?}
+<CHAR>__{JUSTIN} <CHAR_PAR>__{}
+<DIAL>__{Absolutely.}
+<ACTION>__{Naomi turns to A WOMAN.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to a WOMAN)}
+<DIAL>__{Excuse me. Have you seen Arthur?}
+<CHAR>__{WOMAN} <CHAR_PAR>__{}
+<DIAL>__{That way. The ballroom.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Bye, Justin.}
+<ACTION>__{Naomi hurries away - running straight into the Door Man.}
+<CHAR>__{DOOR MAN} <CHAR_PAR>__{}
+<DIAL>__{Excuse me, madam. You're not an authorized guest.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I know that. I'm here to give Arthur some very important news.}
+<CHAR>__{DOOR MAN} <CHAR_PAR>__{}
+<DIAL>__{Of course you are.}
+<DIAL_PAR>__{(takes her arm)}
+<DIAL>__{Shall we discuss this outside?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SHOUTS)}
+<DIAL>__{Get your hands off me!}
+<ACTION>__{They tussle. Arthur intercedes.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's okay, Jeff. She can stay.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur, can I talk to you?}
+<LOC>__{INT. HOSPITAL - NIGHT - LATER}
+<ACTION>__{A MAN IN A WHITE COAT is on the phone beside Hobson's bed.}
+<CHAR>__{MAN IN A WHITE COAT} <CHAR_PAR>__{}
+<DIAL>__{We ran tests. It was just a dizzy spell. We'll be sending her home tonight.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But what about the other blackouts?}
+<ACTION>__{Hobson snatches the phone from the Man in a White Coat.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur, I'm fine. Do not leave that party.}
+<LOC>__{INT. JOHNSON MANSION - DRAWING ROOM - DAY}
+<ACTION>__{Arthur's on the phone, coat on, in a big empty panelled room.}
+<DIAL_PAR>__{HOBSON (O.S, OFF)}
+<DIAL>__{Especially now that Naomi is there.}
+<ACTION>__{The call ends. Arthur looks across at Naomi, at the other end of the room, looking so beautiful.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{She's fine. They're sending her home. Do you want a drink?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{No, thanks, Arthur. I should go.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But you came all this way. There's ridiculously fancy food, there's...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Please. Can you just call me a cab?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You're a cab.}
+<ACTION>__{No laughter this time. It's not funny. He takes out his iPhone again. Stares at it.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Shit. Hobson usually...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Orders cabs to take the girls away?}
+<ACTION>__{Arthur's busted. He scrolls the phone for a cab number.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Thank you for coming all this way. I'm sorry for all the stupid presents and calls and gestures.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's okay.}
+<ACTION>__{Naomi looks up at a portrait of Burt and young, prissy, but beautiful Susan.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{She was a looker from the get-go.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What were you like as a kid?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Nuts. I thought the moon followed me. I would walk and think the moon went any place that I did. I thought it meant something special would happen. So I've been waiting. What an ass.}
+<ACTION>__{Arthur sees a sound system. He goes over and plugs his iPhone into it, then takes Naomi in his arms.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Dance?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur. We've been through this. Call that cab please.}
+<ACTION>__{Arthur looks down into her eyes and hits `PLAY' on his iPhone. Music starts: it's not a slow, smoochy song but big, brassy and upbeat. MUSIC: `NELLIE THE ELEPHANT' BY MANDY MILLER Arthur ballroom dances Naomi at speed around the room.}
+<CHAR>__{MANDY MILLER} <CHAR_PAR>__{}
+<DIAL>__{To Bombay, a travelling circus came, they brought an intelligent elephant and Nellie was her name...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(LAUGHING)}
+<DIAL>__{What the bejeezus is this?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson used to sing it to me.}
+<DIAL_PAR>__{(SINGING ALONG)}
+<DIAL>__{One dark night, she slipped her iron chain. Off she ran to Hindustan and was never seen again. Nellie the Elephant packed her bags, And said goodbye to the circus, Off she went with a trumpety trump, Trump trump trump...}
+<ACTION>__{It's energetic, wonderful, as romantic as any slow dance. They stop dancing. Arthur stares at Naomi. At last, they kiss. But the music stops. It's Vivienne.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Is this the tour guide?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{She's a writer.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Is this the Vivienne?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Crowded field, writing.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Maybe someone will see her potential.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{We all know who's seen her potential.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Meaning?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Oh, of course, you don't know, do you?}
+<ACTION>__{Arthur suddenly goes pale.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Vivienne, please. Don't...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What is going on here?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{My son became fond of you. You're not the first. Or the last, I imagine. Anyway I was scanning his monthly expenses - which always makes for entertaining reading, all those gifts for all those girls - and found he'd bought an entire publishing company called...what was it now? Rainbow Press.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You bought Rainbow press? So you could tell them to publish my book?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{He knows people, dear. I'm sure you do too, though the people you know tend not to own books, let alone publishers. Arthur, I trust we'll see you back at the party? Susan's a little worried.}
+<ACTION>__{Vivienne leaves. Naomi storms away. Arthur chases.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{NAOMI! PLEASE! I didn't think I would ever see you again. I was just trying to give you some...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(GASPS)}
+<DIAL>__{Confidence? Self esteem isn't a gift, Arthur! It isn't a fur coat or a thousand billion orchids or an apartment made from truffles or whatever else you rich freaks use to express love!}
+<ACTION>__{Arthur looks incredibly hurt.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I do express love! I love you!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Don't say that!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You just told me to! And stop going on about me being rich! You think it's easy being trapped by money?}
+<ACTION>__{Naomi gets her old phone out. She speaks into it.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Hello, Amnesty? Come quick! Arthur's being held against his will in Guantamoney Bay!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Abu Greed?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Stop riffing with me! How dare you do what you did. I didn't need your money to feel good about myself!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No. Being cheap gives you that.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Huh?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{At least I'm prepared to have fun. To live. I'm not all `Oooh look at me with my antique food, aren't I cool?' And...and...your phone's RUBBISH! It's made of bits of old doorbell and vibrator, I bet you can only get calls from 1994 on it!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(BOILS OVER)}
+<DIAL>__{As long as I don't get any from a drunk, rich fuck up like you!}
+<ACTION>__{A door opens.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Hello? I heard shouting.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I'm an employee of Arthur's. I came to complain about the conditions.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi, please...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Mr Bach-Templemead, I know you thought putting half and half in the staff kitchen was an improvement.}
+<DIAL_PAR>__{(REALLY ANGRY)}
+<DIAL>__{But some people prefer Coffee Mate! You were disrespectful. I quit!}
+<ACTION>__{Naomi walks away, slamming a door behind her.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Because you changed the creamer?}
+<DIAL_PAR>__{(BEAT)}
+<DIAL>__{Arthur, Marty called from the hospital.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's okay, Hobson's fine. I spoke to her doctor.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Apparently you didn't.}
+<LOC>__{INT. HOSPITAL ROOM - NIGHT}
+<ACTION>__{Hobson is lying in bed, looking even iller than before.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{It's just a headache!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Stop saying that! You bribed a hospital orderly to tell me you were okay!}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Oh, bothersnaps. What do doctors know?}
+<ACTION>__{The door opens. Marty enters with a shopping cart.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Da dahhhh! I give you the amazing costly, health-giving presents!}
+<ACTION>__{Arthur starts to produce gifts for Hobson: jewellery, expensive bath products, perfumes, clothes, a DVD...}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{'Wake up and Smell the Carcass'..}
+<DIAL_PAR>__{(reads the DVD)}
+<DIAL>__{`A compilation of the band's most stomach-churning music videos and deathly live performances...'}
+<ACTION>__{He produces a DARTH VADER HELMET.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Put this on, please.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I don't want to put it on.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Put it on. Or I'll fire you.}
+<DIAL_PAR>__{(PAUSE)}
+<DIAL>__{Okay, or I won't fire you.}
+<ACTION>__{She dons the full face helmet.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(VADER VOICE)}
+<DIAL>__{How much did you waste on this poppycock?}
+<ACTION>__{Arthur and Marty laugh.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(VADER VOICE)}
+<DIAL>__{I see you've decided not to grow up after all.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{She sounds like Darth Invader!}
+<ACTION>__{Finally, Arthur unwraps a very high-end DVD player and TV.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Why, Arthur?}
+<LOC>__{INT. HOSPITAL ROOM - NIGHT}
+<ACTION>__{The room is dark. Arthur, Hobson and Marty are all on the bed, bathed in blue light from the huge new TV.}
+<CHAR>__{VOICEOVER } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Stargazer, known for her distinctive white mottled back...}
+<ACTION>__{It's a documentary about grizzly bears.}
+<CHAR>__{VOICEOVER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...is determined to catch the salmon, despite the treacherous rapids...}
+<ACTION>__{A DOCTOR enters.}
+<CHAR>__{DOCTOR} <CHAR_PAR>__{}
+<DIAL>__{Mr Bach-Templemead? Do you have a moment?}
+<LOC>__{INT. HOSPITAL CORRIDOR - NIGHT}
+<ACTION>__{Arthur's looking delighted. But the doctor is grave.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Home? That's great news. Isn't it?}
+<LOC>__{INT/EXT. ARTHUR'S APARTMENT. HOBSON'S ROOM - NIGHT}
+<ACTION>__{We see a short montage of Arthur, now sober, taking care of Hobson with Marty's help: Reading to her...Watching another bear documentary...Arthur doing silly yoga for Hobson...}
+<LOC>__{INT. ARTHUR'S APARTMENT. HOBSON'S ROOM - NIGHT}
+<ACTION>__{Arthur is quietly cleaning Hobson's room. He stumbles on a document. It reads: `THE BOY WHOSE HEART ESCAPED' BY N J SNART. FINAL MANUSCRIPT.' He opens it.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{How did this get here?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{I have no idea.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You might have a brain tumour but you're not a complete veggie burger just yet. Has Naomi been here?}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{She dropped by once or twice. Frightful needy trollop.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I thought she gave up writing.}
+<ACTION>__{Arthur's reading the manuscript, bearing Hobson's notations: `Shorten', `Wonderful - do NOT cut!', `Beautiful. I cried'.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Just trying to spare her outright humiliation while I'm still here.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Don't wear yourself out. You're not going anywhere soon.}
+<ACTION>__{He taps the top of a state-of-the-art heart monitor.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{World's most advanced heart rate monitor. The tiniest problem will alert your own private platoon of paramedics camped out downstairs...}
+<ACTION>__{Hobson takes Arthur's hand.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Arthur. I've loved caring for you so much. But you'll never grow up with me around. So either I retire. Or I die. Option 1 involves too much paperwork and blather with having to find somewhere else to live. And no offence to you, dear boy...}
+<ACTION>__{She glances at a MASSIVE PILE OF BEAR DOCUMENTARY DVDs beside THE WORLD'S BIGGEST TEDDY BEAR.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...but I think we've exhausted the bear-based entertainment. Which leaves option 2.}
+<ACTION>__{Arthur can't fight the tears any more.}
+<CHAR>__{HOBSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're a good son, Arthur. You can do anything with your life that you want. Just like I did.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But you spent half of it looking after a spoilt drunk twat.}
+<CHAR>__{HOBSON} <CHAR_PAR>__{}
+<DIAL>__{Exactly. Sorry Arthur. I'm past my use-by date.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Hobson, You don't win this one. I need you to care for me.}
+<DIAL_PAR>__{(holds up a pill)}
+<DIAL>__{Now take your fish oil.}
+<LOC>__{INT. HOBSON'S ROOM - NIGHT}
+<ACTION>__{Arthur, in a chair at the end of the bed, wakes with a start from a dream. He looks across to Hobson, who is very still.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Hobson?}
+<ACTION>__{The expensive monitor is dead. He jumps up.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{HOBSON!}
+<DIAL_PAR>__{(hammering the machine)}
+<DIAL>__{Why the fuck has the stupid thing not gone off?}
+<DIAL_PAR>__{(SHOUTS)}
+<DIAL>__{GET UP HERE! SHE'S NOT...}
+<ACTION>__{He sees that the monitor is unplugged. The cord is in Hobson's hand. It's over. Hobson's dead. Arthur sobs his heart out.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY}
+<ACTION>__{It's a few weeks later. The place is very, very messy. The place also seems to be heavily splattered with all colors of paint. SPLOTCH! A big lump of red paint thuds into Hobson's giant teddy bear, which is already heavily spattered. Arthur's sitting naked, apart from a helmet, in his tiny army paintball tank. He's in a blank, drunken daze, firing paint at the teddy. The tank turret rotates. He shoots walls, possessions, furniture. He stops.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Would Frog ever get up again? Or would he just sit in his tank, crying and soiling himself until he died of dehydration because he didn't even have the energy to eat a wet sandwich.}
+<ACTION>__{He looks down at an ashes urn.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hobson! Why are you in there when I need you?}
+<DIAL_PAR>__{(lifts lid off urn)}
+<DIAL>__{HOBSON!}
+<ACTION>__{He's rewarded with a face full of ashes. Angrily he spins the turret through 360 degrees, firing paint.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Arrrrgghhh!}
+<ACTION>__{Marty comes in - and is hit hard by paint.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Sorry.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{How's the tea?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Shockingly bad, thanks, Marty.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Want to talk about the Cubs game?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Nahhh. Can I be alone please?}
+<ACTION>__{Marty goes. Arthur picks up his phone and scrolls down to Naomi's name. He thinks for a moment, hits `call'.}
+<LOC>__{INT. NAOMI'S APARTMENT. DAY - CONTINUOUS}
+<ACTION>__{Naomi is shopping. She looks at the phone, sees Arthur's name. She so wants to answer. But doesn't.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY - CONTINUOUS}
+<ACTION>__{Arthur stands on the balcony. He peers down at Manhattan far, far below.}
+<LOC>__{INT. PIERRE HOTEL - HOTEL BEDROOM - DAY - CONTINUOUS}
+<ACTION>__{A COUPLE are having sex. A BODY falls past the window.}
+<LOC>__{INT. PIERRE HOTEL - RESTAURANT - DAY - CONTINUOUS}
+<ACTION>__{The body falls past a window. A huge crash from off.}
+<LOC>__{EXT. PIERRE HOTEL - DAY - CONTINUOUS}
+<ACTION>__{PASSERSBY are staring in horror at a yellow cab, its roof caved in, the DRIVER shaking in shock. Tilt up to find Hobson's HUGE teddy BEAR lying on the roof.}
+<LOC>__{EXT. ARTHUR'S APARTMENT. BALCONY - DAY}
+<ACTION>__{Arthur's on his phone again.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(leaving a message)}
+<DIAL>__{Naomi? I doubt you'll ever get this, because your voicemail probably consists of a 4000 year old woman who writes the message down in hieroglyphics then loses it down the back of her incontinence loin cloth. Hobson died. Hobson died and I've fallen apart...}
+<ACTION>__{The doorbell rings from off.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Marty! Can you get that? Marty!}
+<DIAL_PAR>__{(INTO PHONE)}
+<DIAL>__{Naomi? Could you get it? Hello?}
+<ACTION>__{He throws the cellphone off the roof. A couple of seconds pass. We hear a very faint howl of pain from whoever it hit.}
+<LOC>__{INT. CORRIDOR - DAY}
+<ACTION>__{Arthur opens the door. It's Vivienne.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur! You haven't answered the phone for eight days. Susan's beside herself. What's going on?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What do you think's going on? Hobson died.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Oh, that.}
+<ACTION>__{She bustles in past Arthur. A PLATOON OF MAIDS follows.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(TO MAIDS)}
+<DIAL>__{Chop chop! You cleany penthouseio! Come on, Arthur. Have to pick yourself up, lad. It's like when Nixon my Great Dane had to be put down. Frightful state for days. But I pulled myself together.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You're comparing Hobson to...a dog?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Well, yes. A faithful, humble companion who...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Um, I think I'd like you to leave, if that's okay. Now?}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Remember who pays for this apartment, Arthur. For everything!}
+<ACTION>__{He guides her out the door.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You had damn well better be at that wedding, boy.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Don't worry. If I'm going to drink myself to death I'll need resources. Bye Vivienne...}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{It's mother!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{My mother's dead.}
+<ACTION>__{He slams the door. The phone rings again.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hello? I'm sorry?}
+<LOC>__{INT. ATTORNEY'S OFFICE - DAY}
+<ACTION>__{Arthur is sitting in an estate attorney's next to MR FINKE, a small, dirty man. ATTORNEY MARGARET AHERNE is at a desk opposite them, reading from a will.}
+<CHAR>__{AHERNE} <CHAR_PAR>__{}
+<DIAL>__{The last will and testament of Jane Hobson.}
+<DIAL_PAR>__{(READS)}
+<DIAL>__{`I leave my life savings to the Tulare Bear Sanctuary, Tulare County, California.'}
+<ACTION>__{Aherne hands Mr Finke A CHECK for $8,864.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{That'll explain the strong smell of bear shit. Sorry.}
+<ACTION>__{Aherne opens a tiny envelope.}
+<CHAR>__{AHERNE} <CHAR_PAR>__{}
+<DIAL>__{To Arthur Bach Templemead, I leave this.}
+<ACTION>__{She produces a teabag.}
+<CHAR>__{AHERNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{To operate kettle, press red button. Milk in refrigerator; that's the big box with the pretty light that comes on when you open the door.}
+<DIAL_PAR>__{(PAUSE)}
+<DIAL>__{Arthur. You're going to be okay. Now it's your turn to look after someone. All my deepest, fondest love, my dearest boy. I'm smiling down at you - or more likely, up at you - forever and ever, H xxxxxxxx.}
+<LOC>__{INT. ARTHUR'S APARTMENT - DAY}
+<ACTION>__{Close up on the KETTLE, steam issuing forth from the spout. Then a MUG with the teabag in it. The kettle boils. A hand pours hot water into the mug. Milk is added. And a drop of vodka.}
+<LOC>__{EXT. CHURCH - DAY}
+<ACTION>__{Burt and Vivienne are standing outside, greeting GUESTS.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{I just want you to know, if he doesn't show up for this wedding, I can't know what I'll do.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Don't worry, Burt. He's cleaned himself up. He's stopped drinking, he's anxious to get a real job. He's become a responsible citizen.}
+<LOC>__{EXT. FIFTH AVENUE - DAY}
+<ACTION>__{Arthur is stalking - drunk but determined - through the crowds. He comes upon a group of tourists standing by a tour bus. Naomi's now wearing a headset mic, pointing south.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Due to a tragic error in the architect's drawing, the original Statue of Liberty unveiled in 1886 was just seven inches tall. 100,000 New Yorkers rioted, having come expecting to see something more impressive than a garden gnome holding up an ice cream...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi!}
+<ACTION>__{Arthur pushes his way through the tourists. He sees her bus and headset.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're on a bus? With a microphone?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Girl's gotta have a dream.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi. Can you take the next 60 years off?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you okay? You're a mess. You look like you...now.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry. I accidentally swallowed three bottles of hand sanitizer. Fascinating story...Okay.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Drinking was the only way I could get the courage to come here and say this: I don't need the money. I love the money. But I don't lie awake all night wondering how I'll live without ever seeing it again. I just wonder what it's like to go 24 hours without a steak tartare.}
+<ACTION>__{Naomi looks unconvinced. Arthur pulls out his wallet and takes out a load of credit cards.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The American Express Centurion card - you have to spend at least $250,000 a year to keep it, which I blow in a quiet week.}
+<ACTION>__{He drops it down a drain. He produces another card.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Sotheby's `World Elite' Mastercard for art collectors.}
+<ACTION>__{Drops it down drain too. The tourists are enjoying this.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And King of all idiotic reckless- SPEND-THE-FUCK-OUT-OF-EVERYTHING- FOR-TOMORROW-WE-DIE PLASTIC insanity: the Visa Black Card.}
+<ACTION>__{This last one he hands to a PASSING HOMELESS MAN.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{PIN 3487. Daily ATM limit $180,000.}
+<ACTION>__{The man runs into the road. As Arthur talks, out of focus we see the man hit by a car, but get up and keep going.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(producing fancy iPhone)}
+<DIAL>__{The world's only platinum iPhone. With police radio app.}
+<ACTION>__{He tosses it over his shoulder. It lands in the beef juice pan of a Street French Dip stall. A BIGGER CROWD is gathering. Arthur takes off his jacket.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Alexander Amosu. Vicuna wool, shorn once every three years from the South American camelid - $50,000.}
+<ACTION>__{He throws the jacket in a passing cab's window. He takes off his pants.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Westmancott trousers, ten months to design, fit and make. $21,000.}
+<ACTION>__{He hands the trousers to a PASSERBY. Off with his watch!}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(SHOUTS)}
+<DIAL>__{Who wants the watch Neil Armstrong wore to step on the sun!}
+<ACTION>__{Arthur flings it in the air. A crazed fight breaks out. Arthur stands before Naomi in just his underpants and socks.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{These are from The Gap.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{I'm so sorry about Hobson.}
+<ACTION>__{They step away from the tourists.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry about the Rainbow Press.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{It's okay. So how did Susan take it that you're not marrying her?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{She didn't.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You haven't told her?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{What's it to you? She's your arch- enemy.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Are you six? She isn't my enemy. She's the woman you proposed to!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I couldn't tell her! Today's the biggest day of her life!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{The wedding's today? When?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{12. Which is...}
+<DIAL_PAR>__{(looks at his wrist)}
+<DIAL>__{Where's my watch gone?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looks at her watch)}
+<DIAL>__{It's eight minutes to.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{It's too late, then.}
+<ACTION>__{Naomi hands Arthur her phone.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I don't know her number! It's in my phone's address book in that gloop.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Church?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{St. John the Divine. Can we please just get me some clothes...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{St John..Fourth largest church in the world...111th and Amsterdam. It's about four miles. Better hurry.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You want me to go there? Like this?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What's the alternative? Jilt Susan at the altar? Can I expect the same treatment when you dump me?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No! I love you!}
+<ACTION>__{Naomi starts herding her tourists onto her bus.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{C'mon, folks...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi! Susan's dad will...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Arthur. Prove you're not the same pampered little boy who can have what he wants then toss it aside when he's bored. Then we'll talk.}
+<ACTION>__{She sits in the driving seat and belts up.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Naomi! I don't even know the way!}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{5th...right on Broadway...left at Times...Right on 7th...back on Broadway....right on Amsterdam. The church is the big stone pointy thing full of rich people.}
+<ACTION>__{The bus door shuts. Naomi drives away.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{SHIT! TAXI!}
+<ACTION>__{A taxi stops. Arthur feels for his pockets. Ah shit.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Um, can anyone spare...}
+<DIAL_PAR>__{(to the DRIVER)}
+<DIAL>__{How much to St. John the Divine please?}
+<CHAR>__{DRIVER} <CHAR_PAR>__{}
+<DIAL>__{About 15 bucks...}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the crowd)}
+<DIAL>__{Can anyone spare $15 please?}
+<CHAR>__{DRIVER} <CHAR_PAR>__{}
+<DIAL>__{What about tip? You cheapskate?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{30?}
+<ACTION>__{The crowd just stare back. The taxi drives away.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Stop! STOP!}
+<ACTION>__{Arthur looks at a STREET CLOCK: 11:53. Arthur starts running in his underwear.}
+<LOC>__{INT. CHURCH - DAY - CONTINUOUS}
+<ACTION>__{GUESTS are taking their pews.}
+<LOC>__{EXT. FIFTH AVENUE - DAY - CONTINUOUS}
+<ACTION>__{Arthur runs along Fifth.}
+<LOC>__{INT. CHURCH - DAY - CONTINUOUS}
+<ACTION>__{Susan is being fussed over by BRIDESMAIDS.}
+<LOC>__{EXT. BROADWAY - DAY}
+<ACTION>__{Arthur runs up Broadway, passing a Watch and Clock store. Every timepiece reads 11:54.}
+<LOC>__{INT. CHURCH - DAY - CONTINUOUS}
+<ACTION>__{Burt, sitting in a pew, looks at his watch. He looks around for Arthur then scowls very scarily.}
+<LOC>__{EXT. TIMES SQUARE - DAY}
+<ACTION>__{Arthur stops, out of breath. He sees A LINE OF STREET ENTERTAINERS. That gives him an idea.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(SHOUTS)}
+<DIAL>__{Gather round for the nearly naked Yoga man - YOGI BARE! I give you...}
+<ACTION>__{Arthur strikes a sequence of silly poses and names.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{`Chicken forgetting birthday'...}
+<ACTION>__{TOURISTS throw money. Arthur grabs it up. He looks up at the Times Square digital clock: 11:56.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{TAXI!}
+<ACTION>__{A taxi stops. Arthur throws the money to THE DRIVER.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{How far can I go with $1.95 and a Japanese coin with a hole in it?}
+<CHAR>__{DRIVER} <CHAR_PAR>__{}
+<DIAL>__{A block and a half.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{GO!}
+<ACTION>__{Arthur jumps in. The cab screeches away.}
+<LOC>__{EXT. SEVENTH AVENUE - DAY}
+<ACTION>__{The cab halts. Arthur jumps out and starts running again. He sees A BUS with `COLUMBUS CIRCLE' in its window. We cut to people cheering Arthur, hanging on the bus's front bicycle rack. But the DRIVER sees him and hits the brakes. Arthur's flung forwards but gets up and keeps running. He sees a Subway Station.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(TO PASSERBY)}
+<DIAL>__{Excuse me, are there trains down there, like in films?}
+<CHAR>__{PASSERBY} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{Arthur runs down the steps.}
+<LOC>__{INT. SUBWAY - DAY}
+<ACTION>__{A train pulls on to the platform. Arthur leaps aboard.}
+<LOC>__{INT. TRAIN - DAY}
+<ACTION>__{Arthur stands among New Yorkers, none of whom bat an eyelid at his appearance. He looks up at the stations.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to A MALE PASSENGER)}
+<DIAL>__{Excuse me. Terribly sorry to bother you, but...}
+<ACTION>__{Without looking at him, the guy hands him a dollar.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Crikey. Thanks.}
+<LOC>__{INT. CHURCH. SACRISTY - DAY - CONTINUOUS}
+<ACTION>__{Susan is ready. She looks to the door. Erica, who is peering out, shakes her head with an `I told you so' look.}
+<LOC>__{INT. NAOMI'S TOUR BUS - DAY}
+<ACTION>__{Naomi's driving her bus up 42nd Street.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into a headset mic)}
+<DIAL>__{...originally a rough neighbourhood. Some say it was called 42nd Street because it wasn't safe to spend more than forty seconds on it.}
+<ACTION>__{A few grudging laughs from the tourists.}
+<CHAR>__{MALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{Excuse me.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{If you burst into song, you're off this bus.}
+<CHAR>__{MALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{Huh? I want to see St. John the Divine.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Sorry, sir, that's not on our route today. Anyway...}
+<CHAR>__{FEMALE TOURIST} <CHAR_PAR>__{}
+<DIAL>__{I want to know if Arthur's gonna make it.}
+<CHAR>__{OTHER FEMALE TOURIST } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You should be there for him.}
+<ACTION>__{Other tourists agree.}
+<CHAR>__{MALE TOURIST} <CHAR_PAR>__{}
+<DIAL_PAR>__{(WAVES LEAFLET)}
+<DIAL>__{It says here `ask about your personalised tours'. I want the personalised tour. To St. John the Divine!}
+<CHAR>__{ALL OTHER TOURISTS} <CHAR_PAR>__{}
+<DIAL>__{So do I! St. John the Divine, St. John the Divine, St. John the...}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Okay!}
+<LOC>__{EXT. STREET. DAY}
+<ACTION>__{Arthur comes bounding out of another station. Clutching his dollar, he sees a bus. He runs aboard, and up to the driver.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Ah! I'm trying to get to...}
+<ACTION>__{Arthur feels eyes on him. The bus is full of SCHOOL CHILDREN! It's a school bus! They all stare for a beat, then get out cellphones to report the weirdo in their midst, who runs off again and up Broadway, passing a store's line of shopping carts. He starts emptying them of quarters.}
+<CHAR>__{MANAGER} <CHAR_PAR>__{}
+<DIAL>__{Hey!}
+<ACTION>__{A police car rounds the corner.}
+<CHAR>__{POLICEMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(INTO MIC)}
+<DIAL>__{Uh, unit 6J, we have reports of an indecent exposure on a school bus.}
+<ACTION>__{Arthur jumps in a shopping cart; as the truck passes, he launches forward, grabbing the rear fender!}
+<LOC>__{INT. CHURCH - DAY}
+<ACTION>__{Burt gets up, squeezing past TIGER WOODS.}
+<LOC>__{EXT. CHURCH - DAY}
+<ACTION>__{Arthur's cab pulls up outside the church, surrounded by ONLOOKERS AND PAPARAZZI. Arthur leaps out and fights his way through the crowd. People start to recognise the crazed, sweating panting weirdo in underwear. Paparazzi and pedestrians photograph and film him. He runs into the church.}
+<LOC>__{INT. CHURCH - DAY - CONTINUOUS}
+<ACTION>__{The church is packed with THE GREAT, GOOD, RICH AND FAMOUS. Vivienne sits waiting. Arthur stumbles in at the back.}
+<LOC>__{INT. CHURCH - DAY}
+<ACTION>__{Arthur's trying to inch along the back. But the congregation falls silent, watching him. He stumbles up the aisle, looking up to Jesus, in similar scantily-clad appearance, on a cross.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'm not him.}
+<DIAL_PAR>__{(shows his wrists)}
+<DIAL>__{Look ma! No holes.}
+<ACTION>__{Arthur slips in a side door.}
+<LOC>__{INT. SACRISTY - DAY}
+<ACTION>__{Susan is sitting, sad, Bridesmaids comforting her.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Susan?}
+<ACTION>__{Susan turns and is shocked to see Arthur.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Arthur? What's going on?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Susan. I can't...I can't...}
+<ACTION>__{He leads her away from the bridesmaids.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{The girl at the party? The one who talked all that rubbish about Coffee Mate? I love her.}
+<ACTION>__{Susan slaps Arthur. Hard.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Shut up! We're getting married!}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But I don't love you!}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{And you think I love you?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Well, yes. What's not to...}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{I never have.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Susan, you're upset, you hate me. It's okay. Now I'm sorry, I have to go, or your dad's going to do whatever he did to your boyfriend from college.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Daddy never hurt Alex. He paid her parents to send her away..}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{HER? You're..a...}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Lesbian. Yes. You may have noticed that daddy is homophobic. He swore he'd disown me if it happened again.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{But...why do you want to marry...}
+<ACTION>__{Arthur glances across, sees Erica skulking.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hang on. Am I your beard?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Why else do you think I'd spend more than 30 seconds in your company? You're the perfect cover.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(REELING)}
+<DIAL>__{Have you been pretending to like Dane Cook as well?}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Wow. Wow. Well. Uh...}
+<DIAL_PAR>__{(heads to the door)}
+<DIAL>__{Thanks for your honesty. I don't feel so bad about calling this off.}
+<ACTION>__{Erica steps in his way.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Arthur, please. You can drink as much as you like, sneak off to Naomi. We keep the money. We live our lives. Everyone wins.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I may be a weak, pathetic drunk. But I won't marry a lesbian Dane Cook fan.}
+<ACTION>__{Arthur pushes past Erica.}
+<LOC>__{INT. CHURCH. ALTAR - NIGHT}
+<ACTION>__{Arthur stumbles out on the altar. The CONGREGATION stares. He taps a mic from the pulpit like a stand up.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Good evening, St. John the Divine! Anyone in from St. Patrick's? Bialystoker Synagogue? Manhattan Mosque? AA?}
+<LOC>__{EXT. CHURCH - DAY}
+<ACTION>__{Naomi's tour bus screeches up. She hurries out. SINT. CHURCH - DAY Arthur's still before the congregation, telling a story.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{...and the first turned to the second horse and said `That dog just spoke'.}
+<ACTION>__{The hateful silence that only 500 angry rich people can muster.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The joke being that it's inconsistent that the horses can speak but the dog can't.}
+<ACTION>__{Naomi creeps in at the back.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{The wedding's off. The bride has had second thoughts. I can't say I blame her. Would you marry me?}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(PAUSE)}
+<DIAL>__{You won't be seeing me again, as I'm going to be poor. I'll be shopping at the 99 Cent Store. Six pork chops for under a dollar!}
+<ACTION>__{TIGER WOODS discreetly scribbles `99c Store, chops' on a torn- out Bible page.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Great. I'm glad we had this talk. I'll let you get on with the wedding....}
+<ACTION>__{A huge crucifix strikes Arthur hard. Burt, crazed with hatred, drags him by his hair off the altar.}
+<LOC>__{INT. CHURCH. SACRISTY. DAY - CONTINUOUS}
+<ACTION>__{Burt is bashing Arthur's head HARD against a stone font.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Daddy, no! Stop it!}
+<ACTION>__{Vivienne bursts in. Followed by Naomi.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Burt! Get off my son!}
+<ACTION>__{But nothing's going to stop Burt.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(louder than anyone yet)}
+<DIAL>__{DADDY!!!}
+<ACTION>__{Susan is over Burt, brandishing a Virgin Mary statue.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{You wouldn't hurt me.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Wouldn't I? You crushed me.}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{I just wanted you to be happy.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Bullshit. You wanted to stop me being a lesbian!}
+<CHAR>__{BURT} <CHAR_PAR>__{}
+<DIAL>__{Shut up! Shut up you dirty little dyke harlot!}
+<ACTION>__{Erica leaps on Burt, pummelling his face with her fists.}
+<CHAR>__{ERICA} <CHAR_PAR>__{}
+<DIAL>__{You want some more, bitch? Huh?}
+<ACTION>__{Arthur looks up at Susan.}
+<CHAR>__{SUSAN} <CHAR_PAR>__{}
+<DIAL>__{Erica, that's enough, honey.}
+<ACTION>__{Erica stops. Susan kisses her.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Why didn't you tell me? We could have worked something out.}
+<ACTION>__{Naomi give Arthur a look.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm joking.}
+<LOC>__{INT. CHURCH - LATER}
+<ACTION>__{The church is empty, apart from Arthur and Naomi on the altar. Naomi's trying to remove something from Arthur's neck. Vivienne is sitting alone in a pew near the back.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{OW! Stop it! Why are you doing that?}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{Because I hate an infection! Keep still.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{No, you keep still.}
+<ACTION>__{He kisses Naomi passionately.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{What are we going to do, Arthur?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I'll get a job. I'll model cheap riding boots for people with no horses. You can write books about boys whose lungs have run away.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Stop this!}
+<ACTION>__{Vivienne walks up to the altar.}
+<CHAR>__{VIVIENNE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{A Bach-Templemead has never been poor and we're not about to try that experiment with you, Arthur. That said, you've shown strength of character for once, instead of blubbing on about frogs and friendship. The inheritance is yours. All I ask is, with Hobson gone, you finally start treating me like a mother.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Vivienne. I can't do that.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{I beg your pardon?}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{You've never earned that title. I wouldn't fake it with Susan. I won't with you.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur. I will withdraw this offer forever. Don't doubt me, boy.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I don't.}
+<ACTION>__{Arthur shakes Vivienne's hand.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Take care, Viv.}
+<ACTION>__{Arthur takes Naomi by the hand and they leave the church.}
+<CHAR>__{VIVIENNE} <CHAR_PAR>__{}
+<DIAL>__{Arthur! Arthur! I am serious! If you walk out of that door...}
+<ACTION>__{They're gone. Vivienne sits in a pew. For once she looks small, old, alone.}
+<LOC>__{EXT. CHURCH - DAY}
+<ACTION>__{Arthur and Naomi step into the daylight, pushing past paparazzi and press. Marty is waiting in the Batmobile, now repaired.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Sorry, Marty. This isn't mine any more. Fancy joining us for a bowl of Special J?}
+<ACTION>__{Marty gets out. The three walk away up Amsterdam Avenue.}
+<TRANS>__{FADE OUT:}
+<LOC>__{EXT. QUEENS - NIGHT}
+<ACTION>__{CAPTION: ONE MONTH LATER}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{OW!}
+<LOC>__{INT. NAOMI'S BEDROOM - NIGHT}
+<ACTION>__{Naomi's typing, sipping `Sprike' (fake Sprite). Beside her is a printed manuscript titled `SNART'S FAKE NEW YORK - A Bogus guide to the World's Greatest City.' On the computer screen is: `...the 1765 Irish Hair Famine swept through Manhattan, rendering every resident bald for a week.'}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{This is outrageous!}
+<LOC>__{INT. NAOMI'S APARTMENT. SHOWER - NIGHT - CONTINUOUS}
+<ACTION>__{Arthur's struggling with a very crap, piddly shower. Rather than the glory of Manhattan from his shower-in-the-sky, Arthur just has a bare wall opposite to look out on.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Operational heat controls in a shower are a basic human right!}
+<ACTION>__{A hole in a pipe sprays his groin with hot water. He screams.}
+<LOC>__{INT. NAOMI'S APARTMENT. SITTING ROOM - NIGHT - CONTINUOUS}
+<ACTION>__{Ralph and Marty sit watching sports, Marty cheering as the Yankees are losing, Ralph miserable, The doorbell rings.}
+<LOC>__{INT. NAOMI'S APARTMENT. BATHROOM DOOR. NIGHT}
+<ACTION>__{Ralph stands hammering at the bathroom door, holding a package.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Owww! My eyes! I'm blind!}
+<ACTION>__{Ralph hammers again. The bathroom door opens. Arthur's holding a giant bottle of cheap shampoo. His eyes are bright red, streaming.}
+<CHAR>__{ARTHUR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What the hell's in this shampoo? Napalm? It sure as hell isn't tea tree oil...}
+<ACTION>__{Ralph hands him the package.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{Package for you. With any luck an apartment for you and Lurch.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{I thought you liked me.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{I may have been seduced by money. It happens.}
+<LOC>__{INT. NAOMI'S APARTMENT. SITTING ROOM - NIGHT - CONTINUOUS}
+<ACTION>__{Naomi appears from the bedroom. She finds Arthur staring at a framed photo of Hobson as a beautiful young woman holding Arthur as a happy, laughing toddler. A note is attached.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading it out)}
+<DIAL>__{`Can I be your friend at least? Love, Vivienne xxx. P.S. Lunch sometime? P.P.S. The inheritance is yours. It always was.'}
+<ACTION>__{Arthur looks at Naomi, at Ralph, at Marty.}
+<CHAR>__{RALPH} <CHAR_PAR>__{}
+<DIAL>__{On balance, I'd go for it.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Money good.}
+<ACTION>__{They look at Naomi.}
+<CHAR>__{NAOMI} <CHAR_PAR>__{}
+<DIAL>__{You were never happy rich, honey. It's only been a month. Be strong. Remember: however hard life gets, love will always find a way.}
+<CHAR>__{NAOMI } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(off their stares:)}
+<DIAL>__{What? Can't a girl make a joke?}
+<LOC>__{EXT. MANHATTAN - NIGHT}
+<ACTION>__{Arthur steps out of a Bentley.}
+<LOC>__{INT. AA MEETING - NIGHT}
+<ACTION>__{Arthur enters the AA meeting, clutching Hobson's ashes.}
+<CHAR>__{ARTHUR} <CHAR_PAR>__{}
+<DIAL>__{Brought her for moral support. But I'll do the talking this time.}
+<TRANS>__{FADE OUT:}

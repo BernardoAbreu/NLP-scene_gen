@@ -1,0 +1,3625 @@
+<ACTION>__{State and Main}
+<TRANS>__{FADE IN:}
+<LOC>__{EXT. FIREHOUSE - DAY}
+<ACTION>__{Ann is walking down the street.  The firedog runs out of the firehouse, she gives the dog a biscuit, and pats him on the head. The fireman is out front with a cup of coffee.  Ann hands him a poster.}
+<LOC>__{EXT. STATE AND MAIN - INTERSECTION - DAY}
+<ACTION>__{Morris and Spud, two codgers, are about to cross the street when they hear a beeping and stop. As they cross, we see the tail end of a van, and the group nods in that direction.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{You hear that?}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Yes, I hear it.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Drive a man to drink.  Took me near half an-hour, get across the street yesterday.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{I saw Budgie Gagnon, leaning on the bank of the building.  Said, "What are you doin'?"  He said, "I'm waitin' for the 'leven o'clock crossing..."}
+<ACTION>__{As Morris and Spud speak a car is coming down the street, and bounces in the pothole.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Y'wanna fix something, you should fix the pothole.  Yessir, they should be trussed up, thrown off some high building.}
+<ACTION>__{DOUG MACKENZIE, a young Republican type, walks up to join them.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Who's that?}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Whoever spent ten, f'teen thousand dollars, a new traffic light, you could grow old, paint your house before it lets you cross the street, and then, not fix the pothole.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{What was wrong with the old traffic light?}
+<LOC>__{INT. COFFEE CORNER - DAY}
+<ACTION>__{They enter the Coffee Corner.  Carla is serving the folk, and Jack the owner is behind the counter.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I'm glad you asked... I'll tell you what was wrong with it.  And what was wrong with it was it was behind the times. Now: You want to bring business into this town?  You have to plan for a Waterford that Does Not Exist.  Not at the moment, no...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Morning, darling.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Morning.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Hi, Annie.}
+<ACTION>__{Ann hands Carla a poster.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Morning, Carla.}
+<ACTION>__{Doug and the two codgers move to a table by the window where Carla, the nubile waitress, brings them coffee.  Ann talks to a woman at the counter.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{...the damn thing...}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{No, I'm serious, election's coming up, a lot of people are pretty upset...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{They are, yes.  I'm sure they are...}
+<CHAR>__{WOMAN AT COUNTER} <CHAR_PAR>__{}
+<DIAL>__{Annie, I'm going to be a lil' late for the rehearsal, tonight.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{S'Okay, Maude.  You know your lines...?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{...I'm sure that people are upset...}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{I know 'em, I don't know what order they come in...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{We'll work it out.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What're they talking about?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Traffic light.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Waal, no, th'traffic light's Doug's thing.  That's his thing, fine.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Thank you, Jack, and...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{But we got to talk about the pothole.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Jack...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{A public office is a public trust... This is why this is America.  Question is: who owns the street.}
+<ACTION>__{Outside the front booth, on the street, the airport van cruises by.}
+<DIAL>__{EXT. STATE AND MAIN - DAY}
+<ACTION>__{As they walk out we hear a high pitched beeping sound at the traffic light.  We see DOC WILSON crossing the street, holding his doctor's bag.  An ELDERLY MAN approaches Doc at the crossing.  As Walt and Bill walk, the airport van follows them.}
+<CHAR>__{TOWNSMAN} <CHAR_PAR>__{}
+<DIAL>__{Doc, those pills, y'gave me for my back? I'm not sure that they work.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Well, I'm not sure either, but y'don't hear me complain... come by th'office, end of th'afternoon.}
+<CHAR>__{TOWNSMAN} <CHAR_PAR>__{}
+<DIAL>__{Thanks, Doc...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{This is your movie, this is small town America.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Town in New Hampshire was small town America, too.  Forty thousand dollars a day, to shoot on the street.  And then they kicked us out...}
+<ACTION>__{They stop in front of a rack of fifty "factory seconds." Black and red hunting jackets, in front of the sporting goods store.  The sign reads "FACTORY SECONDS, FIVE DOLLARS."}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{A jacket for five dollars... I can buy this town for fifty bucks.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You told me that about the last town.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Yeah, but they never made a movie here.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I'm bleeding, Bill, I'm bleeding...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{...why am I here?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What, what, what, what do they got that can pass for the Old Mill?}
+<ACTION>__{Bill shows Walt a brochure from Waterford, which shows a picture of the Old Mill.  Walt reads.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"The Waterford Mill, built in 1825, and long a tourist attraction..." Wake up Uberto}
+<TRANS>__{ANGLE:}
+<LOC>__{INT. THE AIRPORT VAN - CONTINUOUS}
+<ACTION>__{UBERTO is asleep.  Bill wakes him up.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{Where are we?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Givvem a cigarette...}
+<ACTION>__{Uberto comes out of the car and squints around.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{...they ship our Old Mill from New Hampshire?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{They're holding our Old Mill for ransom.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{We build it?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{We don't have to build it.}
+<ACTION>__{He shows Uberto the brochure.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{We build the fire hut?}
+<ACTION>__{Walt shows Uberto the Firehouse.  Uberto looks through the viewfinder.}
+<CHAR>__{UBERTO } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We have to lose the window.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...we can't lose the wind...}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pulling out storyboards)}
+<DIAL>__{Then I can't do this shot... you wants me to push in -- I can't push in through the window... we go back to New Hampshire?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{NO, we can't ever go back to New Hampshire.}
+<ACTION>__{A pick-up truck with two calves in it stops, the driver seen from the back is a farmer smoking a pipe.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{NO, we're gonna stay here.  This is what my people died for.  The right to make a movie in this town.}
+<LOC>__{INT. TAVERN INN LOBBY - DAY}
+<ACTION>__{A desk clerk, SCOTT, looks up.  Behind the desk a display of several souvenir plates, "Souvenir of Waterford, VT", with a picture of the Old Mill on them.  Walt picks one up and hands it to Bill.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{May I help you?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(followed Bill)}
+<DIAL>__{I want to talk to the manager.}
+<ACTION>__{Walt talks into his cell phone as he talks to Scott.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Would you like a room?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Na, we wanna rent the whole hotel.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Hello, Tracy, we gotta new town. We're...where are we?}
+<ACTION>__{BEAT.  Bill looks around, sees a sign on a desk.  Consults his tourist folder.  As they talk they walk into deserted ballroom and play shuffleboard and archery.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(carrying Waterford plate)}
+<DIAL>__{Waterford, Vermont.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...you got to get me that street for nothing...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{I will.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Waterford, Vermont.  Where is it? That's where it is...}
+<ACTION>__{Walt carries the shuffleboard stick over his shoulder.}
+<LOC>__{INT. WALT'S OFFICE - NIGHT}
+<ACTION>__{Walt is talking on a cellphone.  A male P.A. is bringing in bags of equipment.  Bill is still sitting perched on a desk, typing into his computer.  Uberto is sitting on a couch, smoking. We see the shuffleboard stick on the desk, and the Old Mill plate on the wall.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to phone)}
+<DIAL>__{Because, because...we don't have to build an Old Mill.  They have an Old Mill.  Yeah.  It's on a stream -- that's where you put a mill.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{...they run on water.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to phone)}
+<DIAL>__{Now: I'm looking at the...}
+<ACTION>__{He gestures for Bill who hands him the storyboards.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I've got scene twelve...}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{Shouldn't you be in school?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{It's night.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to phone as he shows the Old Mill storyboards to camera)}
+<DIAL>__{Scene twelve...arrival at the mill.}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{Scott enters.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Mr. Price, Mr. Price...?}
+<DIAL_PAR>__{(he hands Walt flowers)}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{What...?}
+<ACTION>__{They go back to the flowers.  Walt takes the card, reads.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{"Bring it in on time and there's more where these came from.  Marty.  P.S. I want to talk to you about a product tie in..."}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{I'll put the, in your r...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Somebody make a note.  I want Li..., for the broad...what does she like?  Lilacs. Okay.  A truck of lilacs when the broad comes.  And get something for Bab Barrenger, get him, what does he like...?}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Bob Barrenger...Bob...Bob Barrenger's in this movie?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{That's cor...}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(awed)}
+<DIAL>__{He's staying here?  Bob Barrenger is staying he...?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Put something in his room.  What does he like?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{14-year old girls.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Well, get him something else and let's get out of here in one piece.  Get him a half of a 28-year old girl.}
+<LOC>__{INT. PROD. OFFICE - WAITING ROOM - DAY}
+<ACTION_ALT>__{INSERT FRONT PAGE}
+<ACTION>__{"Burlington Banner".  Picture of movie star Bob Barrenger, and Banner headline: "Waterford chosen as sight of new Bob Barrenger film.  A story of small town life based on..." Carla knocks on the door to the back room, voices from inside.  Outside, on two chairs, the MAYOR, GEORGE BAILEY, a man in his fifties, and JOE WHITE, the writer, dressed in an army field jacket and jeans, waiting to be admitted. Joe is reading an old "Welcome to Waterford" tourist folder. The door to the room opens, and Joe stands, looks inside, squints.  Takes off his reading glasses and puts on another pair.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to the open door)}
+<DIAL>__{I, I'm sor...}
+<DIAL_PAR>__{(as the door closes, to a passing aide)}
+<DIAL>__{...I lost my typewriter...}
+<ACTION>__{Carla brushes past them.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Hi, Mr. Bailey...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Carla, would you tell them that I'm...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(from inside)}
+<DIAL>__{What?  What is it?}
+<ACTION>__{Carla enters the back room.  As she does so, she passes the First A.D., who is on the phone.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Could I speak to my wife, please?}
+<ACTION>__{CAMERA takes us with Carla into the back room.  Past the A.D.}
+<CHAR>__{SECRETARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to A.D.)}
+<DIAL>__{You've got a call...}
+<LOC>__{INT. PROD. OFFICE - WALT'S OFFICE - DAY}
+<ACTION>__{Inside the room, production boards being carried in, blackboards, schedules taped to the wall, sketches of Main Street, a large "days till shoot...4" sign.  The Old Mill plate is on the desk. The PRODUCTION DESIGNER is bent over a worktable, he holds a compass and refers to blueprints and a scale model of the Firehouse and the Old Mill, which are on the table. Walt is holding glossy photographs, and leafs through them as the Production Designer talks.  They leaf through storyboards. We see that Walt is leafing through glossy photos of horses. Walt has shuffleboard stick over his shoulder.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Storyboards of firehouse scene.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{And Uberto tells me he can't take this shot, unless they let him take out the firehouse window.}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{Walt, I've got to talk to you about the nude scene.}
+<ACTION>__{Carla enters.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Aren't you ever in school?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{There's other things to be learned.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Izzat so?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{The Mayor's outside.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What's his name?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Mr. Bailey.}
+<ACTION>__{Walt goes to the door, opens it and looks around.}
+<LOC>__{EXT. WALT'S OFFICE - DAY}
+<ACTION>__{Joe reading the Burlington Banner.  He stands up.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Mr. Bailey...Mr. Bailey...?}
+<ACTION>__{Walt and Mr. Bailey enter Walt's office.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to passing secretary)}
+<DIAL>__{I lost my typewriter...?}
+<CHAR>__{A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(passing)}
+<DIAL>__{Yes, could I please speak to my wife...?}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{Interior Walt's office.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I have to tell you, I can not express to you how happy...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{And we're glad to have you here...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{My golly, you know?  All my life I grew up in the city, but every summer... would you like a cigar?}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of cigars)}
+<DIAL>__{Aren't these illegal?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Why would they be illegal?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{...there's a trade embargo against Cuba.}
+<ACTION>__{Pause.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Well, you know, Walt, I just wanted to say that anything I could do...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{That's very kind of...as a matter-of fact, one, I hate to bother you with...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{...not at all...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...we need the shooting permit for Main Street...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Whatever you need.  The City Council, of course, has to pass on your...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...the city council...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{On your "permit," but that is less than a formality.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...it is?}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{I am the City Council.  We meet Friday, and I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{George, that is so kind of you.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{And, my wife wanted to, wanted me to ask you, we'd like to welcome you, we'd, she'd like to have you to dinner at our home.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{I don't mean to be...}
+<ACTION>__{He hands an invitation to Walt.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Are you kidding me?  We would be delighted.}
+<ACTION>__{Phone rings.  Walt motions to an aide, who writes in green on a production board... "Tuesday 12th, dinner, Mayor."}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Well, I won't take more of your time...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Walt, it's Marty on the Coast...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{We'll see you Tuesday, then...}
+<ACTION>__{Walt starts for the phone.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{It's one of the great, great pleasures meeting you...}
+<ACTION>__{Mayor leaves the office.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{It's Marty on the Coast.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{On the coast?  Of course he's on the coast, where's he gonna be, the Hague?}
+<ACTION>__{Walt goes to the phone.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{What?  Marty?!  Hi.  We're...}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{The new town is cheaper than the other town.  We're going to save a for...because..because we don't have to rebuild the Old Mill, they've got an Old Mill...they've got a firehouse...they...}
+<ACTION>__{A production assistant comes in, installing a piece of equipment.  She brushes past the drywipe board, where we see she wipes out "Dinner with the Mayor."}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Baby, baby, I want to save the money just as much as you do...no, no it's not coming out of my pocket.  It's going into my pock...my...my and your pock...yeah?  Okay.  A product placement - tell me ab...he's going through a tunnel.}
+<DIAL_PAR>__{(to Production Assistant)}
+<DIAL>__{Whoa, whoa, whoa, you wiped out the board.  DINNER WITH THE MAYOR, TUESDAY NIGHT, write it in red.  That's all we need, to miss Dinner with...}
+<ACTION>__{First A.D. sticks his head into the room.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{We can't shoot in the Old Mill.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to phone)}
+<DIAL>__{Wait a sec, Marty.  Call us back.  Two minutes.}
+<ACTION>__{He hangs up.  Pause.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{We can't shoot in the Old Mill.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I just saw the Mayor, he said anything we want.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{It burnt down.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{When did it burn down?}
+<ACTION>__{First A.D. takes out a book, "The History of Waterford" and reads.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Nineteen-sixty.  "Part of a spate of suspicious fires, the Old Mill, the..."}
+<ACTION>__{He hands Polaroids of the burnt Old Mill around.  All look at them.}
+<ACTION_ALT>__{ANGLE IN}
+<ACTION>__{Debris by some water.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You told me they had on Old Mill here...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{"Suspicions of arson, these fires, believed set by a disturbed teenager were, in fact, the inspiration for the formation of..."}
+<ACTION>__{He puts the Polaroids down by the model of the Old Mill.}
+<ACTION_ALT>__{BEAT}
+<ACTION>__{Joe White, the WRITER, enters.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{But, does it have to be an Old Mill?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Does it have to be an Old Mill?  Where have you been?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I was in New Hampshire.  I was at the Old Location.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We can't shoot the Old Mill.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(laughs)}
+<DIAL>__{You know, they told me there were gonna be some jokes.  Kid the New Guy...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{The Mill burnt down.}
+<ACTION>__{He shows the Polaroids -- they show the debris, and Bill standing by them.}
+<CHAR>__{BILL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Wonderful scr...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Can't...can't you build the Old Mill?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We're out of money.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You built an Old Mill in New Hampshire.}
+<CHAR>__{BI} <CHAR_PAR>__{}
+<DIAL>__{They're holding it for ransom.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Uh -- why did we have to leave New Hampshire?}
+<ACTION_ALT>__{PAUSE}
+<ACTION>__{The phone rings.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Halo?  Marty?}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{What would they have used instead of an old mill?  We need it tonight.}
+<DIAL_PAR>__{(to phone)}
+<DIAL>__{Marty?  Yeah you were saying?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can't write it.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I lost my typewriter.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Grace: get Mr. White a typewriter.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can only write on a manual.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know the feeling.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, you know, you know, that's a lie, I, I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Grace...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's a real fault, I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Grace.  Get Mr. White a manual typewriter.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{It's not a lie, it's a gift for fiction. And somebody find me my lucky pillow.}
+<ACTION>__{He nods at Joe, who leaves the office.  Hold on Walt as he looks at horse pictures.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{How big is this horse?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking at the resume)}
+<DIAL>__{Fifteen hands.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What is that in fingers...?  Just kidding, get me this horse.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{This horse is booked.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Tell the guy, get me the horse, I'll give him an associate producer credit.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, outside Walt's door, looking at his script and shaking his head.}
+<ACTION_ALT>__{ANGLE HIS POV INSERT THE SCRIPT}
+<ACTION>__{We see for the first time that the name of the script is "The Old Mill," by Joseph Turner White. We hear raucous laughter from Walt, et al, in the B.G.}
+<DIAL>__{INT. TAVERN INN LOBBY - DAY}
+<ACTION>__{Joe passes the First A.D. on the telephone, sees Bill.  The P.A.'s are humping mounds of luggage.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Well, no, the labor with a first child can sometimes be prolonged, as much as...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to P.A.)}
+<DIAL>__{Find Walt's lucky pillow.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What's an associate producer credit?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{It's what you give to your secretary instead of a raise.}
+<ACTION>__{Scott in an argument with an electrician.}
+<CHAR>__{ELECTRICIAN} <CHAR_PAR>__{}
+<DIAL>__{...put a VHS and an air-conditioner and a refrigerator in that room, she's going to blow...}
+<ACTION>__{A delivery man appears with an invoice and a crate.  Scott checks the invoice against a list.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{This isn't Evian Water.}
+<CHAR>__{DELIVERY MAN} <CHAR_PAR>__{}
+<DIAL>__{It's water.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{I can't sign for it, I'm...}
+<CHAR>__{ELECTRICIAN} <CHAR_PAR>__{}
+<DIAL>__{...she's going to blow.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Well, you re-wire...}
+<CHAR>__{ELECTRICIAN} <CHAR_PAR>__{}
+<DIAL>__{I rewire it, I'm going to have to tear out half the, look, what do they need with fifty-four telephone lines?}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Freddy, Freddy, I work for these people, you...it is to be done, you see that it's done...}
+<ACTION>__{The GIRL P.A. arrives with a huge bouquet.}
+<CHAR>__{GIRL P.A.} <CHAR_PAR>__{}
+<DIAL>__{I found lilacs!}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Wonderful, that's...}
+<ACTION>__{Joe the writer enters, goes up to the desk.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Did they find...}
+<ACTION>__{The Scott's eyes turn toward the door.  Everyone's eyes turn towards the door.}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(as he writes in his notebook)}
+<DIAL>__{Did they find my typewriter...}
+<ACTION_ALT>__{ANGLE POV}
+<ACTION>__{Bob Barrenger, the star, screamingly fit, leather jacket, jeans, carrying a gym bag.  He smiles, goes up to the desk. As he goes up to the desk, teenagers, who have been waiting in the lobby, crowd to him.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{I told you!!!  All of you get back!!! Get back!!!  This man is a guest here!}
+<ACTION>__{The teenagers retreat.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Hello, I'm...}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Oh, sir, I know who you are...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Bob Barrenger, I'm with the mo...}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Sir, sir, we're so, we're...}
+<DIAL_PAR>__{(he hits the bell)}
+<DIAL>__{Front!  Front!!  We are so, I've seen, I know everybody says this, but I've seen every every one of your...}
+<DIAL_PAR>__{(to Electrician)}
+<DIAL>__{Freddy, take Mr...}
+<CHAR>__{ELECTRICIAN} <CHAR_PAR>__{}
+<DIAL>__{...I'm working.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Your room is 414 through seventeen.  I'm Scott Larkin.  Anything you need, this is my private...}
+<DIAL_PAR>__{(hands him a card)}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Glad to meet you, Scottie.  I'm just here to do a job, just like the rest of these...}
+<ACTION>__{First A.D. walks through the lobby.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{Have you got the new pages on the Old Mill?  Hey, Bob.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Hey, Tommy.  Heard your wife's having a baby.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{That's right.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You know who the father is?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{They think it's your first wife.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That could be.}
+<ACTION>__{An old man, the BELLHOP, is sitting by the front door, eating his lunch out of an old galvanized tin lunch bucket.  He puts it down, and gets up and takes the bags. The lobby is filled with gawkers  CHUCKIE, a young boy holding a bat and ball, comes over with an autograph pad.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Scott)}
+<DIAL>__{I'm going to give you a list of Mr. Barrenger's dietary requirements.}
+<CHAR>__{CHUCKIE} <CHAR_PAR>__{}
+<DIAL>__{Mr. Barrenger, I...}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Not today, not today, Chuckie.  Mr. Barrenger has just...}
+<ACTION>__{Barrenger brushes him aside.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Chuckie)}
+<DIAL>__{How do you spell that, son?  With an I.E.?  Chuck?  What're your hobbies?}
+<CHAR>__{CHUCKIE} <CHAR_PAR>__{}
+<DIAL>__{Baseball.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Baseball!  That's the national sport. Gimme that!}
+<ACTION>__{He takes Chuckie's ball and autographs it: "CHUCKIE!  From your pal, Bob Barrenger."}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Chuckie...}
+<ACTION>__{CAMERA PANS off Bob as he talks to Chuckie, and onto Joe, who is wandering around the lobby.  The First A.D. comes up to Joe.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{How you doin' with the Old Mill pages?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I need my typewriter.  Did they find my...?}
+<LOC>__{INT. COFFEE CORNER - DAY}
+<ACTION_ALT>__{ANGLE INS.}
+<ACTION>__{PAN OFF "Trials of the Heart" theatrical poster.  Two old codgers, Morris and Spud, and Jack sitting in the same window booth chatting.  Phone rings.  Carla answers it.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Coffee Corner.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Fellow gets a calf, it's forty below, calf gets out, he hears that animal, he's going to, get up, pull on his jeans...}
+<ACTION>__{The Mayor is taking a pack of Camels from Carla's father.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Carla, at the counter, reading "The Old Mill" surreptitiously.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{He's going to get that calf.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Mmm...}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Thank you.}
+<DIAL_PAR>__{(hangs up, to her father who is behind the grill)}
+<DIAL>__{Vanilla Frappe.  Two tuna B.L.T.'s...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{What's a Tuna B.L.T.?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Oh, Dad, didn't you read in People Magazine...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Well, I for one, am glad of a little diversion and I'm glad they're here.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{What I am saying, is, we have to Look Out For Our Own... Now: they want to close down Main Street.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Y'wanna talk about Main Street, whyn't cha fix the pothole?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Doug, it's, what did you...?  Three days, three, four days.  We'll have a record of our wonderful life.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Annie:  you stick to the Amateur Theatricals.  This isn't quite the same thing, you see?  This is Big Business, in which, our Life}
+<DIAL_PAR>__{(to Mayor)}
+<DIAL>__{s'no less a commodity than...than our...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Water or mineral deposits.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Waal, that's what I'm saying.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Communist Country, he hears that Calf it's two a.m., four feet of snow, what does he say?  "That's the State's Calf out there..."  He rolls over.  "Wake me at Ten."}
+<ACTION>__{Carla, who has been waiting for the order to be prepared, takes it from her father, starts out the door.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I think that they're nice.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I'm sure they are.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That's the difference, Communism and you know...}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Communism's over.}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{That's what they said about Warner Brothers, 1985, but if you look at their price-per-share...}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Dad, I've got to go to Terry's house to study tonight...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I want you home by Nine.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I want to tell you something, Ann: you stay soft all your life, people despise you; it awakens Avarice in them, they take advantage of you, and that's Human Nature.}
+<ACTION>__{She gets up. She starts to exit the Coffee Corner.  Jack picks up a copy of 'People' magazine.}
+<ACTION_ALT>__{INSERT}
+<ACTION>__{An article of Bob Barrenger. Carla has gone over it with a highlighter.  The article is called "Bob Barrenger's Little Problem."}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{Interior Coffee Corner.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{We on for tomorrow night?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{After Drama Group.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Drama Group?}
+<ACTION>__{and Thursdays.  But after Play}
+<DIAL>__{Practice, I'm yours.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Go you Huskies.}
+<ACTION>__{He starts to exit and turns back.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{And I might have something important to tell you...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What is it, a surprise?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{That's right.}
+<ACTION>__{They exit.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{She coulda done better than him.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{It takes all kinds.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Zat what it takes?  I always wondered what it took...}
+<ACTION>__{We hear the TRAFFIC LIGHT beeping from the street.}
+<LOC>__{EXT. BOOKSHOP - DAY}
+<ACTION>__{Joe, pacing in front of the window.  Theatrical sign in the window.  Sign in the window: "Out!  Will return at..." Ann comes up to the door.  Starts opening it with a key.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I, excuse me, the sign says you'll be back at two.  It's quarter to three...}
+<ACTION>__{She looks up at the sign, changes the hand to read a quarter to three.  She opens the door.  Goes inside.  He follows. Camera follows.}
+<LOC>__{INT. BOOKSTORE - DAY}
+<ACTION>__{Old Bookstore and stationary store.  Several old typewriters for sale.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(off the sign)}
+<DIAL>__{You're doing a play...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Local Drama Group.}
+<DIAL_PAR>__{(she answers the phone)}
+<DIAL>__{Northern Books.  No, it hasn't come in yet.  As soon as it does.  Yup, you too, Marge.}
+<ACTION>__{She hangs up.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...small town.  I suppose.  You have to make your own fun.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Everybody makes their own fun.}
+<DIAL_PAR>__{(she answers another phone call)}
+<DIAL>__{F'you don't make it yourself, it ain't fun, it's entertainment.}
+<ACTION>__{She picks up half-knitted sweater off computer.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to phone while knitting)}
+<DIAL>__{Northern Books.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{What can I do for you?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I need a .}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{We got 'em.}
+<DIAL_PAR>__{(to phone)}
+<DIAL>__{North...No, Henry James was the novelist, Frank James was the criminal.}
+<DIAL_PAR>__{(to Joe, of the typewriter)}
+<DIAL>__{Yep, you came to the right place.}
+<DIAL_PAR>__{(to the phone)}
+<DIAL>__{Jessie James was the Brother.  Of the novelist.  That's right.  That's alright, Susie.  See you tomorrow, Susie.}
+<ACTION>__{He has picked up a typewriter, old, manual.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I want to rent this one.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Why don't you buy it, only forty bucks.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I have one, but they lost it.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Who?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{The people in New Hampshire.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{That's why they have state borders... whyn't you get a replacement?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, it had sentimental value.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You buy the typewriter, I'll get it all spruced up, good as new.  Better than new.  It has some history.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Other one has history, too.  I wrote my play on it.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You wrote a play on it?  What play is that?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You haven't heard of it.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What's it called?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{"Anguish."}
+<ACTION>__{Little kids enter to get candy.  As Joe speaks, he takes off his regular glasses and puts on his reading glasses and inserts a piece of paper into the typewriter and types, "Everyone makes their own fun -- if you don't make it yourself, it's not fun, it's entertainment."}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{"Anguish" by Joseph Turner White...?}
+<ACTION>__{He looks up.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You're Joseph Turner White?}
+<ACTION>__{He switches glasses to look at her.  A very OLD WOMAN comes in, goes back to the coffee machine.}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{Afternoon, Ann.}
+<ACTION>__{Ann takes down a book from a shelf.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Maude, this man wrote this play!}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{That a fact.  Now, is it a good play?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes, Maude, it is.  It is a very good play.}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{Well, then, what's he doing here?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What're you doing here?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Writing the movie.}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{You're writing a movie...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{What's it about?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It's about the quest for purity.}
+<LOC>__{INT. WALT'S ROOM - DAY}
+<ACTION>__{Walt, Bob Barrenger and the SCRIPT SUPERVISOR are savaging the script.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{...because he wouldn't say that: Look:}
+<DIAL_PAR>__{(flips through the script, reads)}
+<DIAL>__{"Sister, I've just come from a fire. There's some things I want to think out..." now, come one, come on... "Leave me alone."  a gesture...?  Alright?}
+<ACTION>__{Walt opens a case and extracts his lucky pillow which is embroidered "Shoot first.  Ask questions afterward."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What else?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Page...three.  Now: "It's a nice evening."}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{I'm not gonna say that..."It's a nice..."}
+<ACTION>__{Knock on the door.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Come in.}
+<ACTION>__{Joe enters.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Hey, Joe...Good.  You know B...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I grew up on your mov...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Do you mind if we don't go through the usual bullshit about how I loved it?}
+<ACTION>__{Knock on the door.  Carla enters with another brown bag.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I mean, okay, fine, but it's a motion Picture.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Thanks, honey, but next time, bring two, save yourself a trip.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{The people came to see a motion Picture.}
+<DIAL_PAR>__{(to Carla, who starts to leave)}
+<DIAL>__{Hold on...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{He's saying, what are you saying, Bobby?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Tell it with...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Tell it with pictures.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Tell it with pictures.  What I'm saying...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We've got four days to...}
+<ACTION>__{As Bob talks, he exchanges glances with Carla.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You look at: girl comes in the room, an apron, a brown bag, what is she...? She's a...?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{She's a...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{She's a waitress.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Hold on.  What Bob is saying, you don't need...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You don't need, "Hi, I've just come from the restaurant."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{You can go...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Alright: Let's}
+<DIAL_PAR>__{(he takes out a list, Carla exits)}
+<DIAL>__{Page five, the fucking horse dies.}
+<DIAL_PAR>__{(of Carla)}
+<DIAL>__{You know, she could be in the movie, she could, she's got a good face, she could be the Doctor's...uh, why does it have to be his, uh, wife...?  It could be his...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Bob, Bob, stick to the business, will you?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{No, you're absolutely...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{And you go start with that stuff in this town...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Everybody needs a hobby.  Okay, look Page...}
+<ACTION>__{Knock at door.  CLAIRE WELLESLEY enters, the FEMALE STAR. Very sexual.  Very serious.  Around thirty.  She looks in.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(rising)}
+<DIAL>__{Claire, when did you...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I just...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Claire, Bob Bar...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I saw Desert Sun, I wanna tell you...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{No, I was, I was, I was just learning on, it's a...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{How'd you like working with Richard Hill?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I loved it, he...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Isn't he...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{It's...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We're just talking about the...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Don't let me dis...I'll just...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No, no...please...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm looking at Page Five: "It's..."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{"It's a nice evening..."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{This is Joe White.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{How can I thank you?  How can I repay you for this part?  It's a... what a, thank you for this part.  The first scene at the Old Mill...}
+<ACTION>__{Pause.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Joe's been having some thoughts about the Old Mill Scene, Claire.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{What, what's there to think about?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{The scene's perfect...I, I get to say...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Yes, but, Joe, Joe's been, well, he's just been having a few, uh, "thoughts," about...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{How many times in your life do you get a speech like that?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{This scene is why I'm doing the movie. "Look at the mill, Frank -- look at the way it goes around...half of the time the darned wheel's under water, but..."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Yes, yes, but...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{"...but still it rises up.  It rises up, Frank, high as it can go."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Yeah.  Joe?  Would you, uh, tell Claire the, uh, the "thoughts" you've been...}
+<ACTION_ALT>__{PAUSE}
+<LOC>__{EXT. STATE AND MAIN - DAY}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Anne, who is putting up posters of the play.  She sighs and walks forward, into Joe, who is waiting at the traffic light, his bag on the ground beside him.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of typewriter)}
+<DIAL>__{All ready to go?}
+<ACTION>__{He nods.  Looks down at her posterior.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{So young, so unlined, so full of promise.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{So innocent.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I beg your pardon?}
+<ACTION>__{He extracts the book of his she had in her back pocket.  He looks at his photo on the back cover.  They start to cross the street.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I quit.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You quit.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I quit the movie.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Why did you quit?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Actually, I'm not sure if I quit.  I think that I got fired.  I'm such a liar.  I never could tell the truth.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Don't be so hard on yourself.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I just got kicked off my first movie.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Well.  Everybody has reversals.  If you were never down how would you know when you were up?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's good.  That's really good.  You have a gift for words.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's in your play.}
+<ACTION>__{She holds up "Anguish."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You like my play.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's about life.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Could you tell me when's the next train?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{N'about ten minutes.  What was your movie about?}
+<ACTION>__{They stop by the park bench.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(off his pause)}
+<DIAL>__{No, of course, you don't want to talk about it.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hands her the script)}
+<DIAL>__{It's about a man who gets a second chance.}
+<ACTION>__{The cop, CAL, passes.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Evening, Annie.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Evening, Cal.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{Would you tell me about it?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{No, of course, you want to get out of town.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It's...}
+<ACTION>__{He starts to walk, she puts the typewriter down on the ground.  Joe hesitates.  He puts the script under the typewriter.  He shakes his hand.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's okay...}
+<ACTION>__{They walk on.}
+<LOC>__{EXT. SPORTING GOODS STORE - DAY}
+<ACTION>__{The OWNER is closing up.}
+<CHAR>__{OWNER} <CHAR_PAR>__{}
+<DIAL>__{Evening, Annie.  See you at rehearsal.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You know your line?}
+<CHAR>__{OWNER} <CHAR_PAR>__{}
+<DIAL>__{"Rise, one need not bend the knee before the throne of justice."}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Go you Huskies.}
+<ACTION>__{He walks away.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of the clothing on the rack)}
+<DIAL>__{They leave it out all night?}
+<ACTION>__{He tries on a jacket.  One sleeve is one foot shorter than the other.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Not worth stealing.  Only thing in town worth something.  Stained glass window.}
+<ACTION>__{She gestures at the Firehouse.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Ever wonder why the dalmation's the symbol of the firehouse?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{First organized fire department was on the border of Dalmatia and Sardinia in the year 642.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But why the dalmation?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It was either that, or a sardine.}
+<ACTION>__{He nods, a BEAT.  He looks down at the jacket with one sleeve too short.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You get what you pay for.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's true.  You grow up here?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Central High, 'n' matinees, the Bijou Theatre.}
+<ACTION>__{They walk past the firehouse.  She gives the dog biscuit to the firedog who runs out of the firehouse to her.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Nice town.}
+<ACTION>__{BEAT.  He gets a bit choked up.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You want to talk about it?}
+<ACTION>__{Joe shakes his head.  They walk off.}
+<LOC>__{EXT. RAILROAD CROSSING - DAY}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...that...that he prayed for a second chance.  But...do you see?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That, he says, there are no second chances...that he's been presented what he prayed for...and: he's ruined it.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But, but but but...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{No, no, I see...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That: in an act of...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Of mercy...off...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I understand...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...that...he sees that...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{As the Old Mill goes around...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Of course, of course that's what I'm saying.  As the Old Mill goes around, he sees...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Of course.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...that it has been vouchsafed to him.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's that's that's that's beautiful.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{And you're the only one who'll ever hear that speech.  Just you.}
+<ACTION>__{BEAT.  They stop and look at each other.  BEAT.  A railroad crossing bar comes down behind them, as we hear the DINGING and realize we are at a railroad crossing.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Well.  It was a pleasure meeting you.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{And likewise.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Goodbye.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Goodbye.}
+<ACTION>__{PAUSE.  We see the train pass in the b.g.  We hear the train whistling.  It's way off.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Next train in'nt for two hours.}
+<ACTION>__{They walk on away from the station.  In the b.g. we see the stationmaster.  He and Ann wave.  They walk past the shingle for Doc Wilson.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{So that the Old Mill, the Old Mill represents...the wheel of fate is that too...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{No, no.  Of course, that's exactly what it represents.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That whole...}
+<ACTION>__{They walk on together and find themselves on a residential street.}
+<LOC>__{EXT. ANN'S HOUSE - DUSK}
+<ACTION>__{They are walking.  They stop in front of an old picket fence with a porch swing.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{The, the, the, the sanctity of everyday things...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Everyday things...yes.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{For example, he's just come back from a fire and he...um...}
+<DIAL_PAR>__{(he shakes his head)}
+<DIAL>__{That's a fine house.  You look at that, and you know, there's nice people that live there.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I live there.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Really.  With the porch swing and everything...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Surest thing you know.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I don't mean to impose, but...do you think we might...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's what the swing is there fore...}
+<ACTION>__{They walk onto the porch and sit on the swing.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{...that's what the swing is there fore...that its purpose, isn't it...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...I always thought so...}
+<ACTION>__{They swing back and forth.  The swing creaks.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...such a pleasant sound.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Mmm.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Cause, cause, it's...it's the simple things that...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...that.}
+<ACTION>__{Doug walks up.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Waal, there you are, and Have I Got Some News for you...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Doug, this is Joe White, and this is, this, this is my fiance, Doug Mac...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Sa pleasure.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Guess who is THIS CLOSE to a nomination to State Senate...which is this close to one stop from Congress!}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...who...?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, I guess I'll...get down to the station.  It was lovely meeting...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Mister White is...}
+<ACTION>__{Doug, as he takes Ann toward the door.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Nice meeting you...they were, let me tell you, they were a bit coy at first, I told them: Look: the people are tired, they're going to vote their pocketbook, yes, but...}
+<ACTION>__{Joe walks off and exchanges glances with Ann, who lingers behind.  She pushes the porch swing and exits.  As it swings, Joe watches.}
+<LOC>__{INT. TRAIN STATION - NIGHT}
+<ACTION>__{Joe enters with his bag.  He stands looking at the long poster reading: "Waterford, Home of the Huskies - Division Champions - 1971, 1972, 1974, 1975, 1976." BEAT.  Joe is looking at the banner when the old stationmaster enters.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What happened in 1973?}
+<ACTION>__{BEAT.  The stationmaster looks around, and leans in to Joe, confidentially. The DOOR opens.  It is Walt.  The stationmaster retreats. Walt comes forward.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Don't run off.  Don't run off, we need you.  You know why?  You're why we're here.  Your script is why we're here...}
+<DIAL_PAR>__{(of bag)}
+<DIAL>__{Gimme that.  Big deal.  We fight a little bit? You show me a family that doesn't.  But we got something special.  What is it? We're here to make a movie.  Can't use the Old Mill.  Well, that happens.  What you got to do, you find the essence - what was it, that brought us here.  It wasn't a building, Joe, it was an idea. It was an essence - what is the essence of your story?  Joe?}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It's about a man who gets a second chance.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Then, you write that.  And then this is our second chance.  That's why we're here.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I want to make a good film.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know you do.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{And maybe it will be a better movie without the old mill, I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Hey, it's with the G-ds.  We don't have the money, we have to write it out.  The best or not.}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{And that's a lesson.  You get your typewriter yet?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Um, no.}
+<ACTION>__{Walt picks up a cell phone, dials.  Lights of train go by outside.  Stationmaster enters and calls the train.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Grace, get on the other phone.  Call that girl: well, call her, and have whatsername send up some nosh...what do you like to drink...?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I don't drink.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Did my matzohs come?  Get some for everybody.}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Thank you.}
+<DIAL_PAR>__{(hangs up)}
+<DIAL>__{Lemme tell you about my first movie...}
+<LOC>__{EXT. BOOKSTORE - DAY}
+<ACTION>__{The production assistant is stapling a casting notice for "The Old Mill" half over the notice of the amateur theatricals poster.  Doug shows up, looks in the window. Looks at poster, takes it down, looks around.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The park bench.  Ann, her feet up on the old typewriter, is sitting, reading the script.  Doug comes up.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{What, what what are you doing here?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes, that's right.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Look at this.  Do you know what they're offering?  Look at this.  They treat us like we're their backyard.  Do you know what they're offering for three days to close down Main Street?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What are they offering?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Ten thousand dollars.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's so beautiful...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I beg your pardon?}
+<ACTION>__{Ann gestures at the script.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{"The mill grinds the grain, but the grain is not destroyed.  Although it is altered..."}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Sure, but... ten thousand dollars.  Do you know what they... this movie is budgeted at fifty million dol...they're coming up here, offer us a meal...}
+<LOC>__{INT. MAYOR'S HOME - DAY}
+<ACTION>__{The Mayor's Wife comes into the room.  Her hands are full of lists, giving instructions to a handyman.}
+<CHAR>__{SHERRY } <CHAR_PAR>__{(MAYOR'S WIFE)}
+<DIAL>__{The chairs go, the Lazyboy goes...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{...not the Lazyboy...}
+<ACTION>__{Cal, the policeman, enters, carrying an old spinning wheel.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Hi, Sherry...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{...put it in the living room.  And we have thirteen at the table.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{...we don't have thirteen at table...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Bob Barrenger, Claire Wellesley, the director...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Waal, then, invite someone else, then...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{I don't want to invite someone else because this is the most exclusive...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Waal, then, you know, you do whatever would make you happy.  Sher.  This is your party, and whatever...}
+<ACTION>__{Doug enters.  Cal exits carrying a pinball machine.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Hi Doug.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Cal.  I want a city council meeting.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{...little woman has gone crazy about our dinner party... City Council?  What's the trouble?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Main Street.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL_PAR>__{(sighs)}
+<DIAL>__{Doug, the traffic light...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Fuck the traffic light.  I'm talking about three percent of the adjusted gross of a Major Motion Picture.}
+<LOC>__{EXT. PARK - DAY}
+<ACTION>__{Joe walks up.  Ann is standing there.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(simultaneously)}
+<DIAL>__{What are you doing?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I love your script.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(simultaneously)}
+<DIAL>__{They decided, I decided to, to...you love what?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You're still here.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I...I decided to give it another ch...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I love your script.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{POSTMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as he delivers mail to Ann)}
+<DIAL>__{Mornin', Annie...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{See you at rehearsal tonight?}
+<CHAR>__{POSTMAN} <CHAR_PAR>__{}
+<DIAL>__{"In the name of justice, sir, I bid you pause; for she is our Queen..."}
+<ACTION>__{Postman exits.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{In fact, in fact, in fact, I'm not sure if I'm giving them a second chance, or they're giving it to me.  That's the truth.  The truth's best, don't you think?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You'd know better'n me.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{How can you say that?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's in your script...it's about getting a second chance.  Innit?  "You can go back..."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You bet your life.}
+<DIAL_PAR>__{(refers to script)}
+<DIAL>__{"The mill wheel goes around...some times it's even under water -- then it rises up, as high as it can go..."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But how do I...how do I do a film called "The Old Mill" when I don't have an old mill?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Well, first, you got to change the title.}
+<LOC>__{INT. PROD. OFFICE - DAY}
+<ACTION>__{Sign reads THREE DAYS till shoot. Walt is on the phone.  Covers the phone.  Crossed sticks on the wall, Walt plays with a shuffleboard discus.  Girl P.A. brings cup of coffee to Walt.  Her T-shirt reads: "DOES IT HAVE TO BE AN OLD MILL?"}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to A.D.)}
+<DIAL>__{No, he doesn't want to work out with Waterford Huskies...Because he's Bob Barrenger...Call up his girl in Aspen, have 'em ship his weight...Yeah, well, fine, he's not gonna do the Pond scene unless he can work out.  Call up his girl in Aspen, and have her ship the weights out...}
+<ACTION>__{Walt hangs up the phone.  Secretary enters with folders that she hands to Walt.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Who designed these costumes?  Who designed these costumes?  It looks like Edith Head puked and that puke designed these costumes.  Get Madge.}
+<CHAR>__{SECRETARY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to A.D.)}
+<DIAL>__{Your wife is on the phone.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I have no wife.}
+<ACTION>__{A P.A. comes in with a big bakery box.  They open it to show it is a huge loaf of bread, and on it is written, in bread, "Waterford Welcomes The Old Mill."}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(calling out)}
+<DIAL>__{We need a new name for the movie. Where's the writer?}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(entering with storyboards)}
+<DIAL>__{Wally, I got to takes out the window from the dog.  I can't shoot through...}
+<ACTION>__{CAMERA MOVES on past the production board, where we see "Dinner With Mayor" in red.  And the costume designer comes up.}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{...Claire's got a problem.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{Wally, if I hafes a moment of your time, look at these storyboards.  THIS SHOOT, I can't shoot this shot, you want.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{Because they gots a window with a dogs in it.  You want me to "push in."  Or can I lose the shot.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No you can't lose the shot.  The meaning of the film is in that shot.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{But, Wally, the window of the firehut...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I don't care.  Fix it.}
+<ACTION>__{He goes into comfab with the costume designer.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(of sketches)}
+<DIAL>__{You show Claire these sketches?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Did she throw up?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{That isn't very nice.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Oh, really, then why don't you sue me in the World Court.  Did she like the costumes?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{I can't tell.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Why not?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{She won't stop crying...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to an A.D.)}
+<DIAL>__{Find out when Marty Rossen's arriving, get him a bunch of Lilacs to send to the broad.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Towns out of Lilacs.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You go in her room, take the Lilacs from the water, dry them.  Go buy some cellophane, wrap 'em up, and get a card from Marty.}
+<DIAL_PAR>__{(to costume designer)}
+<DIAL>__{What's her problem?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{She doesn't want to bare her breasts.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{She doesn't want to bare her breasts...what, in the "nude scene?" What are we paying her three mil for?}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{She's got "religion."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Her religion bars her from fulfilling her contr...}
+<ACTION>__{CAMERA FOLLOWS Walt to the sound of crying.  We HEAR CRYING from the next room.  Walt opens the door quietly.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Claire?...Claire?}
+<DIAL_PAR>__{(to Uberto)}
+<DIAL>__{Just figure out how to take the shot. Claire...Claire?  It's Wally.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{May I come in?}
+<ACTION>__{BEAT.  He motions his entourage to stand back.}
+<LOC>__{INT. PROD. OFFICE - WASH ROOM - CONTINUOUS}
+<ACTION>__{He enters the room. CAMERA FOLLOWS.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(softly)}
+<DIAL>__{What is it, Pal...?}
+<ACTION>__{PAUSE.  Claire MUMBLES.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What...?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I can't do it, Walt.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You can't do what?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{It isn't right.  I can't...I...I know I si...I, they, I don't know if they told me it was in the con...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Forget the contract.  Claire.  What is it?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I don't want to take my shirt off in that con...what are these things that they're asking of me...?  Wha...wha... wha... I try to be good.  The only thing I care about is...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know that...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Is...is the MOVIE!}
+<ACTION>__{As they talk, the A.D.'s come in and hand him sheets to approve.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know that, Claire.  I, we all know...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Everybody, they, they, they treat me like a...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...no, they don't.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...they treat me like a child.  I, I...to bare my body.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Now, look.  Claire: Listen to me.}
+<DIAL_PAR>__{(he takes her hand in his)}
+<DIAL>__{I want to tell you a story.}
+<ACTION>__{The door to her room opens.  A P.A. brings in a bunch of Lilacs, hands them to Walt.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Fuck flowers, we aren't talking about flowers, we're talking about a human being.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I... i...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Who are these from?}
+<CHAR>__{PROD. ASST.} <CHAR_PAR>__{}
+<DIAL>__{Marty.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Well that's very thoughtful of him. Elanora Duse...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...I can't do it, Wally...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Listen to me.  Elanora Duse was playing Hamlet in London in 1905, and Royalty could not get a ticket.  She said, "I'm not doing the seven shows a week I signed for."  She said, "I cannot bare my soul seven times a week.  I am an artist.  I'll do four shows a week."}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{The greatest actress of her time.  You know what her Producer said?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause; softly)}
+<DIAL>__{What?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Nothing.  He held her and he wept. Because he...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Because he understood.  That was her life's blood on the stage.}
+<ACTION>__{Claire nods, breaks into sobs.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...I know...I know...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{...and, and, and did she?  And she did the seven shows?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No, she didn't Claire.  But I think you should do the scene.}
+<ACTION>__{Secretary comes in with memos and Walt deals with them while comforting Claire. BEAT.  She sobs.  She shakes her head.  She brings herself under control.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Wally...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know, I know.}
+<ACTION>__{He puts his arm around her, starts walking toward the door.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I know, it's the hardest thing in the world.  And it seems everybody wants...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...wants a piece...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{And you know what?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{We, we have to give it.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{...and my heart goes out to you, because I know...}
+<LOC>__{INT. PROD. OFFICE - BACK ROOM - DAY}
+<ACTION>__{He opens the door.  We HEAR the First A.D. and the Costume Designer chatting outside the door as they walk out.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{That, that's your life's blood on the st...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I don't know what she's bitching about, she's flashed her tits in the last five movies, she'd bare her breasts to do voice over.}
+<ACTION>__{CAMERA FOLLOWS the two out.  A tableau of the four of them. The First A.D. drinking coffee, sees he has been overheard.}
+<ACTION_ALT>__{BEAT}
+<ACTION>__{Claire starts soundlessly heaving, sobbing.  She goes "Oh!" as if she has just been hit in the stomach, falls back into the room, closes the door.  Sobbing sounds emanate.}
+<CHAR>__{FIRST A.D. } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{i...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Get Mitch Cohn on the phone in New York, tell him she's breaking her contract and we're very up...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We're very upset with her.  Get someone to double for her, her tits, the tits scene.  Call L.A.  I want to see some pictures of the women's tits.  Of their tits.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I'm very sorry I...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You're very sorry, you passive aggressive, son-of-a-bitch!  Can we replace him?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{We start shooting in three days.}
+<CHAR>__{COSTUME DESIGNER} <CHAR_PAR>__{}
+<DIAL>__{You want to see the fireman's costumes? Cause I found this Moleskin for the collar, it's not black, but it looks black...  it's not brown, but...}
+<CHAR>__{SECRETARY} <CHAR_PAR>__{}
+<DIAL>__{Marty Rossen's touched down.}
+<LOC>__{EXT. PARK BENCH - DAY}
+<ACTION>__{Ann and Joe sit on a bench.  He is looking at her as she finishes the script.  Tears in her eyes.  She closes the cover.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{What I need to say...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yes...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{About conflict...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's why you didn't want to take the Mill out...you've...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...the, the, the symbol of the fire...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{The Firehouse...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{But but but but but it's better without...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{How...?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Wait wait wait wait wait he get's a second chance, do you see?  And you get a second chance!}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{No, I don't...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as she holds the script)}
+<DIAL>__{He doesn't go back to the mill, he gets a second chance to go back to the firehouse...}
+<ACTION>__{Joe takes off one pair of glasses and changes them for another.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{You don't need the Mill.  This is what}
+<DIAL_PAR>__{(she gestures at the script)}
+<DIAL>__{you see: this is what you are.  This is what the script is saying...}
+<DIAL_PAR>__{(a person walks by)}
+<DIAL>__{Hi, Emma, see you tonight?}
+<ACTION>__{Emma waves and nods.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{This is, look:}
+<DIAL_PAR>__{(to Emma)}
+<DIAL>__{Go you Huskies.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{...what I see you saying, is: you have the two elements, Fire and Water.  The Firehouse, and the Old Mill...do you know, you could...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What are you doing tonight?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Me?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<ACTION>__{Joe and Ann walk down the street.  As they do so they are passed by the airport van.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Tonight, tonight, I...I have play practice...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...oh...oh.  Well.  That's very important.}
+<LOC>__{EXT. HOTEL STEPS - DAY}
+<ACTION>__{Walt and the A.D. come down the steps to meet the arriving airport van.  It stops.  MARTY ROSSEN gets out.  Walt hands his bags to a P.A.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Marteleh, vos macht a yid...?}
+<ACTION>__{He hands Marty the breadloaf.  Marty takes a bite.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You cool the broad out?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I left that for you.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{That's thoughtful.}
+<DIAL_PAR>__{(of the bread)}
+<DIAL>__{Ziz good, you try this?}
+<ACTION>__{As they speak, a P.A. is unloading Marty's high-end luggage from the van.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Oh yeah, I'm really gonna eat carbohydrates.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of the town)}
+<DIAL>__{What'd you do, build this...?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{How was your flight?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{We're flying over pigs, we're flying over sheep...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Did you bring Bob's weights}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{They're coming Fed Ex.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of the bags)}
+<DIAL>__{What's in all the bags?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{My undies, cause, you can't get this picture off on time I'm gonna wet myself.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I'm gonna bring it off.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{55 days and I take home the camera.  I got an idea for a product placement...}
+<ACTION>__{They start up the stairs when Doc Wilson walks by.  Girl on a scooter scooting the other way, her arm in a cast.  Marty and Walt turn back to watch on the steps, under the awning. Carla walks through carrying food bags.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Hiya Sally...}
+<CHAR>__{GIRL ON A SCOOTER} <CHAR_PAR>__{}
+<DIAL>__{Hiya Doc...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{How's the arm?}
+<CHAR>__{GIRL ON A SCOOTER} <CHAR_PAR>__{}
+<DIAL>__{Still itchin'.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Good!  A sign it's getting well.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of scene)}
+<DIAL>__{Stop...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{That's what I said.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{How are you getting on with these fine people?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Like dykes and dogs.}
+<LOC>__{INT. BOB'S ROOM - DAY}
+<ACTION>__{Bob is doing Tai Chi.  Knock on the door.  He goes to open it.  Carla is bringing him his dinner.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Yeah.  Come in.}
+<ACTION>__{She comes in.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I'm just...}
+<ACTION>__{She puts his dinner down on the coffee table.  He takes out money from his pants to pay her.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{The prices are going up.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{But, that's the way of the world, huh? Everybody's gotta eat.  Way of the world.}
+<ACTION>__{He sits before his dinner, hands her some money.  Remembers himself.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well, I'm pretty impolite.  Would you like some?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I don't eat vegetables.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, I can offer you something to drink?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Sure, what have you got?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What do you drink?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Bourbon and milk.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{How old are you?}
+<ACTION>__{Carla WHISPERS her age to him.  He makes her a drink out of his fridge, hands it to her.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Then I hope you wouldn't tell anyone I gave you this.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I wouldn't tell anyone anything that happened between me and somebody who was my friend.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Nice town that you've got here.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{You want to see it better, we could go out on the roof.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{...wouldn't that be dangerous?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{...not if you've got something to hold on to.}
+<LOC>__{EXT. MAIN STREET - DUSK}
+<ACTION>__{Joe is walking down the street.  A script in his hand, scribbling.  Uberto walks next to him.}
+<CHAR>__{UBERTO} <CHAR_PAR>__{}
+<DIAL>__{Because if you cannot tells me what is it, how I, how does I take a pictures of it?  Wally wants me, push in through the weendow...}
+<ACTION>__{Joe, as he is scribbling in the script.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, no, can I...if you'd excuse me, I've just got to...}
+<ACTION>__{He walks away and the CAMERA takes him into a backyard, by a bunch of clotheslines.  His glasses fall apart as he changes them.  He looks up as the wind blows the sheet. He sees Ann, sitting on the backstairs of what, as we draw closer, we see is the playhouse.  In back of her we see the "Trials of the Heart" flats, seen from the back. ANGLE JOE'S POV}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I thought you had Play Practice.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Don't look good for "Trial of the Heart."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, then, it don't look good for the Huskies...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's for sure.}
+<ACTION>__{They walk down the street.  As they walk down the street, the dog comes over and Annie throws him his bone over her shoulder.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What happened?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Cast stood me up.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Uh huh.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{They're all preparing for the auditions - your movie.}
+<ACTION>__{He gets an idea, and trades glasses, one pair for the other. He kneels.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{"Rise, one need not bend the knee before the throne of justice."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What are you doing down there?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{My glasses fell apart.  I lost the...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...lost the screw...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You got a paperclip?}
+<ACTION>__{A little kid is walking by, carrying a fishing rod.}
+<CHAR>__{LITTLE KID} <CHAR_PAR>__{}
+<DIAL>__{Evening, Annie.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Evenin', sweetheart.}
+<CHAR>__{LITTLE KID} <CHAR_PAR>__{}
+<DIAL>__{Go you Huskies.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You said it.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You like kids?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Never saw the point of 'em.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Me, too.  You have a paperclip?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Paperclip?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Fix my glasses.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Better idea.}
+<ACTION>__{She ducks under the sheet hanging by the door, she and Joe come upon the fishergirl, who is standing by the bank about to make a cast. We see Annie take some leader from the little girl and burn one end to make a hinge.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Gonna be good as new.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Better'n new, cause it's got a story. Want to do the other part?}
+<ACTION>__{Joe takes the hinge, and a match and tries to fix the hinge, and burns his finger.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Ow.}
+<ACTION>__{He grabs for the nearest object.  PAUSE.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<ACTION>__{Joe shows her.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Y'know what you got there?  You got a fishhook in your finger.}
+<LOC>__{EXT. BOOKSTORE - DUSK}
+<ACTION>__{Doug standing, holding a bunch of flowers.  The A.D. walks by.  Looks in the window.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I'm looking for the writer.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{What the hell are you so down about?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{My wife's going to have a baby.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{How about that.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Mmmm.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{You have children?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{No, but we're planning to.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Could you tell me where a fellow goes to get a drink in this town?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<LOC>__{INT. WALT'S HOTEL ROOM - NIGHT}
+<ACTION>__{Marty and Walt et al studying various documents.  Claire sitting there.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I want to tell you something, Wally, he's a pussycat. My thing is to see everybody does what they said they would and I have to do that.  Now: what is this you want Eight hundred Thousand Dollars to do what you're being paid to, you already signed you'd do...?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{What is that?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I think I should talk to my agent, Marty, you and I should, we should really not discuss...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Who is her agent?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Mitch Cohn...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{He's...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Get him on the phone.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{He's on the Island, he'll be back on...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Get him on the...}
+<ACTION>__{Claire starts back to her room.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I want you to hear this.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I really think that business...matters should be discussed between you t...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Well, I'm going to discuss 'em between you, babe, cause it's your idea, and you think you're going to sign to do a, then hold us up in the wilds sweetheart, you are in error...}
+<ACTION>__{Bill hands him the phone.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{He's on the ph...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes phone)}
+<DIAL>__{Mitch, th'Marty Rossen, I'm here in...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Wat...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I'm somewhere in the, I'm on location eh: This...well I'm going to solve it here, or this Bimbo you sent me's going to be doing a fuckin' donkey act in Akron, I'm talking about Restraint of Trade, Breach of...IT'S VERY SIMPLE...!}
+<ACTION>__{Joe enters.  His finger BANDAGED.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(tentatively)}
+<DIAL>__{Hi!}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Her tits!  Her tits!  How, that she signed IN HER CONTRACT, we hired her 'cause of ten years at the Actors Studio?  The way she played Medea?  Her last two pictures laid there on the screen like my first wife...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(starts to cry)}
+<DIAL>__{You have no right to...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Cool it babe, you started this...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What's the...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Where have you been?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on phone)}
+<DIAL>__{You tell me: you tell me now, I've got to shoot on Wednesday and I will not pay your Blood Money and P.S., pal, I put the word out on the street and Betty Boop can look for work in squigglevision.}
+<ACTION>__{Claire starts to get up.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Siddown!}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I really don't think you should be talking this way to a lady.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{...would you excuse me, please...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{You can't treat me like this.  I'm not a child!}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{She's absolutely r...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I'm not a child.  I have feelings... Don't you...don't, don't...don't...}
+<ACTION>__{Claire exits, crying.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(his suitcase next to him - into phone)}
+<DIAL>__{Well, you call him, and call me back, but this is it, pal.  You fuck with me, and I'm going to tear out your heart and piss on your lungs through the hole in your chest.  And the best to Marion...}
+<DIAL_PAR>__{(beat; hangs up; to Joe)}
+<DIAL>__{Where have you been?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{He says they're looking for you all day, you're on salary, he needs pages, what are you, you been 'haying?' Now:}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Marty...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Later for that, Walt, let's get this: we need the "pages" for the new "Old Mill"... alright?  We need a new title, we need a...}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Rewrites that Bob Barrenger requested... the "dead horse scene," the...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Whatever it is.  Go do it.  How you doing on the permit?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{It's just a formality.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{That's why I want it.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{Type it up and get it back to me in...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can't.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You can't write it?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can write it.  I can't type it.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I hurt my fingers.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Get a typist.  Get'im a typist.  Get outta here.}
+<ACTION>__{Joe exits.  They turn to survey the board.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Eight-hundred grand to show her tits...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Pay her.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I don't got the money.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Find the money.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I got a company...give us a million dollars, put their product in the film.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(looking at a paper Marty hands him)}
+<DIAL>__{No no no no no no no no find me the money...}
+<LOC>__{INT. JOE'S ROOM - NIGHT}
+<ACTION>__{Joe takes out paper, looks around.  Sighs.  Picks up phone, calls back.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{This is Joe White... in six ten, they're sending up a typist?}
+<ACTION>__{He takes out a sheet of foolscap and a pencil.  Starts to write.  A knock at the door.}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Okay, I thank you.  It's here.}
+<ACTION>__{He hangs up the phone, goes to the door, opens it.  It is Claire.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{You said, "You can't talk that way to a lady..."  You stood up for me.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{What do you have to drink?}
+<ACTION>__{She looks around, sees a gift basket containing a bottle of Stolichnaya and a box of matzoh, wrapped with a "Welcome Back" ribbon.}
+<CHAR>__{CLAIRE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Matzoh!  Are you Jewish?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I, actually, yes.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I love Jewish men.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{You know...where's your bathroom?}
+<ACTION>__{She goes into the bathroom.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You liked the script, huh...?}
+<LOC>__{EXT. MAIN STREET - NIGHT}
+<ACTION>__{Ann Black sitting on the park bench, holding the lure.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(still carrying bouquet of flowers)}
+<DIAL>__{Where have you been?}
+<ACTION>__{He gives her the bouquet.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Hi!}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{We had a date.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{We did...?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Where have you been?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I've been thinking.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Where have you been, we had a date for three...where have you been...?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I have to tell you something...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Well, I know, because they told me you were with that writer from the, you see, this is what I mean, the whole town has been warped by the, by the, by the presence of the movie company, they holler, and we jump, you have a date, they call, you're doing business nine o'clock at night.  It isn't...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I wasn't doing business...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Oh.  What were you doing, then, that's so important that you shouldn't call your fian...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's all over between us, Doug, I'm sorry, but that's the truth.  I've found someone else, and, it's very serious and it's the end.  I'm sorry.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{It isn't you, j...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Wai...It's so serious you couldn't call to tell me you'd be...what...?  What did you say...?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's all over between us.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I've found someone else.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Let me review here: You're...what are you...you've...it's all over between us?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Who is this person that you've found?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{He works on the movie.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{No.  Don't tell me that.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Why, you whore!}
+<ACTION>__{Doug starts to cry.  First A.D. shows up.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Can you type?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Never admit you can type.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{If you can type, they need you over at the hotel.}
+<LOC>__{INT. JOE'S ROOM - NIGHT}
+<ACTION>__{Joe is standing by the side of the bed, holding Claire's clothes, trying to induce her to put them on.  She is sitting on the side of the bed, naked.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Look.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I feel so close to you...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Look, look, I like you very much...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I like you, too.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But not that way...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{But we...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Look, look there's someone else...}
+<ACTION>__{Sound of a KNOCK at the door.}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Great.  Who is it?}
+<CHAR>__{ANN } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{"Room Service!"}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Claire)}
+<DIAL>__{Would you go in...}
+<ACTION>__{He gestures to the bathroom, he hands her her clothes.}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Would you put on your cl...}
+<DIAL_PAR>__{(to door)}
+<DIAL>__{Just leave it outside}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You have to sign for it.}
+<LOC>__{INT. HALL - NIGHT}
+<ACTION>__{Ann hurriedly arranging the flowers in the "platen" of the typewriter.  From inside the room we hear Joe's voice: "Alright, one moment!"  He opens the door.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I'm gonna be your typist for this evening.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Oh, G-d...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{And here's some hydrogen peroxide...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I don't drink.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It's for your finger.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{One moment.}
+<ACTION>__{He closes the door.}
+<LOC>__{INT. JOE'S ROOM - CONTINUOUS}
+<ACTION>__{Claire is still sitting on the bed, has a lit cigarette. Poured herself a drink.  Joe goes over to her, thrusts her clothes on the floor.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You have to hide.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Who is that?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's my...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Will you help me out...?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<ACTION>__{Joe hustles back to the door.  Opens the door.  Ann is still standing there with the typewriter.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You going to ask me in?}
+<ACTION>__{Joe looks back over his shoulder.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thought you might like this.}
+<ACTION>__{She hands him a bouquet.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes flowers)}
+<DIAL>__{Thank you.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Read the card.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(reading card)}
+<DIAL>__{"To the love of my life, Love, Doug."}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{The other side.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Oh.}
+<ACTION>__{He turns the card over.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Don't you think you should put them in water.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...because if you don't, they die.}
+<ACTION>__{She goes into the bathroom, fills up the vase.  Comes out.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Shouldn't we start?}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Start?  This isn't a good time.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Oh.  That's alright.  Then I'll come back at a better time.  What would be a better time.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Later on.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Then I'll come back, then.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You, um, you, um, you going out with your fiance?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{No, I just broke up with him.  I'll see you tomorrow.}
+<ACTION>__{She starts to exit.}
+<LOC>__{INT. TAVERN INN HALLWAY - NIGHT}
+<ACTION>__{Ann digs in pocket, takes out the lure we previously saw in Joe's finger.  She re-enters the room.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It occurred to me, you'd wanna have this: sort of a memento of our...}
+<ACTION_ALT>__{ANGLE ON ROOM}
+<ACTION>__{Claire is standing there, basically naked.  PAUSE.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Hi.  I hope I'm not disturbing...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{She came in here, wait, she...I was giving her a massage...wait...wait!  She came in here...she...}
+<DIAL_PAR>__{(to Claire)}
+<DIAL>__{...with respect...she took off her clothes, and she got in bed, I told her I could not -- we don't know each other, you see...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{We had a script conference.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I told her thank you very much, but it was inconvenient because, uh, because...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You can do it.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Because I'd met someone else.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(very simply)}
+<DIAL>__{Oh, okay.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You believe that?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I do if you do.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But it's absurd.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{So is our electoral process.  But we still vote.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Do you truly believe the electoral process is absurd?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I used to go out with a politician.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You used to go out with him, you broke up with him?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Sure did.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Time for a change.  Keep your margins straight.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yes.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Go you Huskies!}
+<LOC>__{INT. HALL - NIGHT}
+<ACTION>__{Ann puts down the typewriter and types into it, "The truth may not always set you free, but it is always the truth - Joseph Turner White, 'Anguish.'"  She affixes the lure to it and leaves them on the typewriter.  She starts down the hall, humming.  Behind her we see the door to Bob Barrenger's room open.  Bob comes out, looks down the hall.  The coast is clear.  Carla comes out.  They kiss chastely, say goodnight. She starts down the hall, humming.}
+<LOC>__{EXT. MAYOR'S PORCH - DAY}
+<ACTION>__{The postman walk sup.  We see two workmen putting up a sign over the door '1835.'  One has a copy of "The Hollywood Reporter" in his back pocket.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{And don't you worry about that permit...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Why, that's right fine...}
+<CHAR>__{POSTMAN} <CHAR_PAR>__{}
+<DIAL>__{Mornin' George.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Hey, Chunky.}
+<DIAL_PAR>__{(to Marty)}
+<DIAL>__{Well, we're glad to have you here.  My wife, Sherry, SHER, YOUR BROTHER'S HERE.}
+<DIAL_PAR>__{(to Marty)}
+<DIAL>__{We're having a party, matofact, Tuesday night, for Walt and Bob Barrenger...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Mmm....}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Havin' 'em over, home-cooked meal, if you'd...}
+<CHAR>__{MAYOR } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well, I'd be awfully...}
+<ACTION>__{A paint truck pulls up outside the Mayor's house.  Painters come out.  Sherry comes outside the house.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Where the hell have you been?  It's...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Sherry, this...}
+<CHAR>__{POSTMAN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(come back out of house with cup of coffee)}
+<DIAL>__{Mornin' Sherry.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{It's a quarter after nine, I've been on the phone to...}
+<CHAR>__{PAINTER} <CHAR_PAR>__{}
+<DIAL>__{Morning, Mrs. Baily, Mista Bailey...}
+<ACTION>__{He and his assistant go into the house with wallpaper.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{I've got two days to get this house...}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Dear, this is Mr. Rossen, he is the producer.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{I am so glad to meet you.  We are so glad to have you here, and welcome you to our...I, you know, they had c... I'm, yearly I redecorate our, to restore it to the, 1835...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What is that?}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{The house, the 1835.  The original kitchen, of course, burned in 1960, as part of a spate of fires...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{It's lovely.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{A spate of suspicious fires which were in fact the inspiration for the formation of the Waterford Huskies.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{My oh my.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{I'm...Tuesday evening we're having an informal dinner, I didn't know you'd be 'on set,' but if you'd like to join your...}
+<ACTION>__{Doug comes up the walk, a bit rabid.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I have to talk to you.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Doug, this is Mr...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Oh, how thoughtless of me.  Would you like a cup of tea...}
+<ACTION>__{Sherry disappears into the house.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{...he's the producer of the movie.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Marty)}
+<DIAL>__{I want you to hear this, pal...}
+<DIAL_PAR>__{(consults notebook)}
+<DIAL>__{Forget the overages, forget Ten Thousand Dollars, for three days to two weeks. You know what it would cost for them to build this set?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Two Million Dollars!  Now:}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Doug...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Now:  The Waterford Merchant's Association, of who I am Council...}
+<ACTION>__{In the B.G. we see Sherry and the painter.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Don't tell me you're out of Wallpaper.}
+<CHAR>__{PAINTER} <CHAR_PAR>__{}
+<DIAL>__{I told you, we could have it by Wednesday...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Wednesday, don't tell me Wednesday, the biggest grossing box office star in the world is coming for dinner Tuesday...}
+<CHAR>__{PAINTER} <CHAR_PAR>__{}
+<DIAL>__{Waal, if you ordered something common...}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Something common?  I'm going to give you something common.  I'm going to give you an injunction, is what I...Mister Mayor.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Huh.  Well, the Waterford Merchant's Association demands, through me as their council, five percent of the profits of the movie, as figured by and...}
+<DIAL_PAR>__{(checks his notebook)}
+<DIAL>__{geared to the most favorable definition of profits of either A) the Producer...}
+<ACTION>__{From INSIDE THE HOUSE, we hear the Mayor's wife screaming. Mayor runs inside, Doug and Marty follow.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Why, you little sheeny...}
+<LOC>__{INT. COFFEE CORNER - DAY}
+<ACTION>__{Geezers are at the front table in the window.  Carla's father, JACK, behind the counter trying to assemble an espresso machine, reading from the instructions.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{"Assembly of Death" did 95 million dollars the first weekend.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Yeaup, but those grosses are inflated.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{You think so?}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Waal, what was the per-screen average...?}
+<ACTION>__{Joe enters and exchanges greetings with the locals.  He changes his glasses and takes out a notebook.  He is shaking his head as he does so...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Cuppa coffee, and a...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{With you inna moment.  I'm a little short-handed.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Where's Carla?}
+<ACTION>__{Ann enters.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Hiya, Annie...}
+<ACTION>__{A crowd has gathered around the table as he tells the story.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Annie, sorry I ain't been to a meetin' of the Drama Club...}
+<ACTION>__{Ann shows a sniped "canceled" poster of her play.}
+<CHAR>__{MORRIS } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh, good...}
+<ACTION>__{He resumes talking to his companion.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Good morning to you...whatsa matter?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can't get it to come out right.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What's the scene...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It used to be the Old Mill.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What've you got?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{They meet on Main Street.  Her horse has just died.  He's coming from the fire.}
+<ACTION>__{He shuffles through his pages, he goes in his pocket for a note, he brings out the old lure.  He smiles at her, she smiles back.}
+<CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
+<DIAL>__{Annie, you want something to eat?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What's the scene about...?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It's good to see you, too...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Annie?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What about...what about...it's so presumptuous of me, to be, to be telling you how to wr...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Please...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{How about, he sees her on the street, he wipes the soot from his eyes.  He goes up to her.  "What happened to the horse?"  She looks at him.  She takes his hand...}
+<ACTION>__{She takes Joe's hand, and he winces.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Ah, ah, ah...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I hurt you?}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{What happened to his finger?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{It was burnt.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Mmm.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{And then it was really hurt.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Ah, ah, ah.  That's what she says, that's what she says.  He says, "Sister, I've come from a fire..."  But she, but she, she says it was not the fire which hurt you...it...}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{...how was it hurt?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...he stuck a fishhook in it.}
+<DIAL_PAR>__{(Morris nods)}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{She realizes -- it was not the fire which hurt him...that the true hurt was her.  Was her...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...yes.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...her unbridled sexuality.  That he...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...yes.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Has been wounded by her heat...by her infidelities...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Anybody here seen Carla?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Because, because, because if it's about purity, it's...it's...and then, then, you don't need the nude scene.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Because it's about purity...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's...that's exactly what it's about. Take...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's right...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...take any two people...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{...anybody seen my daughter...?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...take you and me...}
+<ACTION>__{He runs out.}
+<LOC>__{INT. WALT'S OFFICE - DAY}
+<ACTION>__{Uberto looking at storyboards and spinning the discuss and shaking his head. Walt on the phone.  First A.D. shows up.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on phone)}
+<DIAL>__{...the finest people you could ever hope to work with...}
+<DIAL_PAR>__{(to First A.D.)}
+<DIAL>__{You have the new Old Mill pages?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I can't find the writer.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on phone)}
+<DIAL>__{...totally false...totally false.  He is the, I would say the most responsible human being I have ever...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I have to talk to you.  My wife...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Not now.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{My wife is going to have a baby, and...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Oh, that's great.  Let's bring more people into this overcrowded world.}
+<ACTION>__{Girl P.A. walks through the b.g. in "Does it have to be an Old Mill?" T-shirt.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Take it off.  Take that stupid fucking shirt off right now.}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Well, if I had to say one thing, I would say it's purity.}
+<ACTION>__{Claire shows up, dressed in traveling clothes, her luggage behind her, followed by production assistant.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to P.A.)}
+<DIAL>__{Not now, I'm talking to the press. Claire!}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{What?  I have a five-o'clock plane to catch.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I, uh...}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{I've always thought so...}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Well, you just get an idea, and try to find the best way to express it in pictorial form.}
+<DIAL_PAR>__{(to Claire)}
+<DIAL>__{I've written a letter to the studio and to SAG protesting...}
+<DIAL_PAR>__{(opens door)}
+<DIAL>__{Bill: get a copy of that letter...!}
+<DIAL_PAR>__{(closes door)}
+<DIAL>__{I just wanted to tell you that I am past chagrined, I'm mortified at the way you were spoken to...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{An artist of your caliber...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I'm only trying to...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know what you are, I am so sorry that you...when I read that script I said there's only one person to play that part.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{The minute I read that script I said...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...she works with animals, she...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...yes...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...she has a home...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...I know, I'm so...because I said: yes, a woman who...the...the community respects her.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Please don't go.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Please don't go.  What can I do but beseech you...?  Trauma, toil...when are we free of them...?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{When...?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{He treated me as if I were a child...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Claire:}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{As an interpretive artist to a creative artist:}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Stay with me.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I need you.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{We start to shoot tomorrow and then it belongs to us.  Stay.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Stay.  Tonight...when...}
+<DIAL_PAR>__{(gestures outside)}
+<DIAL>__{When they've gone.  Let's talk.  Let's really talk.  We could, we'll have dinner, we'll...a bottle of some bad red wine, we'll get spaghetti, and we'll...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I'm sorry, Walt -- it's gone beyond that.}
+<ACTION>__{Claire exits.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Well, I've enjoyed it, too.  Any... any...any time...}
+<DIAL_PAR>__{(hangs up the phone)}
+<DIAL>__{What does the woman want from life?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{She wants eight-hundred thousand dollars to show her tits.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Pay her off.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{We don't have the money.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Find it.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{If you do the product placement...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{It's a computer company...IT'S A COMPUTER COMPANY - BAZOOMER-COM?!}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{"Bazoomer dot com."}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I can't put a computer in a movie shot in 1895...you wanna tell me how I'm gonna do that?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Actually, the art department had some ideas on...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{NO NO NO NO NO, PAY HER OFF.  DID YOU HEAR ME?!}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(picks up the phone and dials)}
+<DIAL>__{Gimme Howie Gold.  Howie?  Thizz...I neee... I NEED EIGHT-HUNDRED GRAND. I...I don't care where it comes from.}
+<DIAL_PAR>__{(to Walt)}
+<DIAL>__{It comes out of our end.}
+<DIAL_PAR>__{(Walt gestures do it)}
+<DIAL>__{I...I need...JUST GET ME THE MONEY.  I JUST GET ME THE GODDAMN MONEY...Look:}
+<ACTION>__{Joe barges in.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{She doesn't show her tits!!! She doesn't show her tits.  The breasts symbolize motherhood, the audience...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{The breasts symbolize motherhood...}
+<LOC>__{INT. WALT'S OFFICE - DAY}
+<ACTION>__{Joe holding forth to Bill, Walt and Marty.  Joe consults his notes, changes his glasses, reads on:}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{The movie's about purity.  So we don't show her breasts.  We show them to him. She keeps her back to the camera.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...she keeps her back to the camera?}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{It'll hurt the box-office.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{They know what her tits look like.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Know?  They could draw them from memory. You're fantastic.  What a find you are. Get outta here.  We need the Dead Horse scene.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I'm gonna nail it.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I know you are.  Go you Huskies.}
+<ACTION>__{Joe exits.  We see the notation, "Dinner at the Mayor's House." We see Marty walk up to a P.A. in the next room.  The P.A. hands Marty a slip of paper.  Walt goes to them.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{We got the permit.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Is that one hell of a kid?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{He just saved us eight-hundred thousand bucks.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{He's got a gift for fiction.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{We got to do something nice for him.}
+<ACTION>__{He takes out his cardcase.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Gimme a pencil.  Get him a bottle of...get him some maple syrup.  Stick this card on it, and put it in his room.}
+<CHAR>__{PROD. ASST.} <CHAR_PAR>__{}
+<DIAL>__{Maple syrup.}
+<ACTION>__{Marty writes on the card.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Yeah.}
+<ACTION_ALT>__{ANGLE ON CARD}
+<ACTION>__{It reads: "Your gift for fiction everything sweet."}
+<ACTION_ALT>__{ANGLE ON WALT}
+<ACTION>__{As he walks back into the other room, holding the permit.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(in b.g. as he takes back the card)}
+<DIAL>__{Hold on, I wanna add to that.}
+<ACTION>__{We see him take the card, write "Over" on it and draw an arrow.}
+<LOC>__{EXT. MAIN STREET - NIGHT}
+<ACTION>__{Joe, happy as a clam, sauntering down the street.  Smoking a huge cigar.  He passes two old codgers, Morris and Spud.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{You see where Tom Miller's playin' the Old Farmer?}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{He's been playin' Old Farmer nigh on sixty years.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{I read for that part.  Did pretty good, too.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Bet you did.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{But I couldn't r'member all the words. Ast them would they gimme a second chance.}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Ain't no second chances in life.}
+<CHAR>__{SPUD} <CHAR_PAR>__{}
+<DIAL>__{Zat true?}
+<CHAR>__{MORRIS} <CHAR_PAR>__{}
+<DIAL>__{Only second chance we git, z'ta make the same mistake twice...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, as he nods to himself, takes out a pad, starts to jot a note, fumbles with his glasses.  Joe saunters on, writing, we hear the beeping from the traffic light.  Joe hears a screeching of tires. He looks up, a film station wagon comes barreling around the corner, hits the pothole, goes out of control, careens, turns over, knocks down the control box of the traffic light. Joe holds a beat, runs over to the car, to driver's side. Battered driver, bleeding, upside down.  Joe drags him from the car.  It is Bob Barrenger.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Get the...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Are you al...?}
+<ACTION>__{Barrenger points to the other side.  Joe looks.}
+<ACTION_ALT>__{ANGLE POV}
+<ACTION>__{Carla is the passenger, she is dazed but unhurt.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The car.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{We gotta get her out of here.}
+<ACTION>__{Carla has extracted herself from the wreck, stands, woozily, on the sidewalk.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{Are you alright?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL_PAR>__{(nodding)}
+<DIAL>__{i...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You got to get out of here...}
+<ACTION>__{BEAT.  She nods, understanding.  A light comes on in the apartment over the store.  She looks up, starts away down the street.  BEAT.  Bob rocks back and forth.}
+<CHAR>__{BOB } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh G-d, oh G-d, oh G-d...do you have a cig...}
+<LOC>__{INT. BOB'S HOTEL ROOM - NIGHT}
+<ACTION>__{Bob is being bandaged by Doc Wilson.  Marty on the phone. Walt, the First A.D., and Joe also in the room.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{He's fine...it's a...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{You're going to be fine.  I'll stop by tomorrow.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Doc)}
+<DIAL>__{Thank you.}
+<ACTION>__{Doc exits.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Yessir...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{He's...you wanna talk to...?}
+<ACTION>__{Bob goes over to the phone, his head bandaged.  Walt, smoking, stands by the window.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Hello, Jerry.  I'm fine.  I'll be ready Wednes...I'm here to make a movie, Bob. Now don't you worry your, hey, Pal, when have I ever let you down bef...Okay, Babe, you, too.}
+<ACTION>__{He hangs up.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Are you okay?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Well, yeah, I'm fine, I reached over to, the girl had to be home, I don't know, it's a schoolnight, something...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Bobby...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Everybody needs a hob...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Walt, I wonder if I could take a minute of your time.  I need a day off...}
+<ACTION>__{There is an abrupt knocking at the door.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Who is it?}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Thiz the police.  Is Mr. Barrenger in there?}
+<ACTION>__{The boys in the room go into a whisper conference.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Okay, look, you, what is she, 19, twenty...oh Christ...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Uh, look...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Look: okay.  Okay.  Look: look you're driving, countryside, so on, you picked her up, she was hitch...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No, hey, hey...al, she hid in the back of the car!  Happens all the...}
+<ACTION>__{The knock is repeated.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(outside the door)}
+<DIAL>__{Is Mr. Barrenger there...?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{No, wait a, wait a, wait a...we can't put her in the car, she gets it in her head to sue, or rape, or some goddamn, she wasn't in...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{She wasn't in...you were al...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{There's no witnesses.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No, just the...there's no witnesses, right...?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{No, I just...just Joe, just Joe...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Joe, the writer?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Just him and me.}
+<ACTION>__{Knocking was repeated.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Then she wasn't in the car.  Say it.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{She wasn't in the...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Nobody knows it but us.  Alright?  It says here...}
+<DIAL_PAR>__{(to group)}
+<DIAL>__{Are we together on this?}
+<DIAL_PAR>__{(beat, each nods)}
+<DIAL>__{Because it's sink or swim here, pals...}
+<ACTION>__{They murmur their assent.  Knocking is repeated.  Walt goes to the door.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to First A.D. and Joe)}
+<DIAL>__{You guys had better leave us a...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Mr. Barrenger...}
+<ACTION>__{Marty ushers Joe and the First A.D. out the room.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Yes...?}
+<ACTION>__{The cop comes in the room.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{I'm very sorry to...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Well.  What seems to be the...?}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{I have to ask you these...um.  You have a valid drivers' license?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Of course he...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Could I see it, please...?}
+<ACTION>__{Bob gestures to his wallet which is on the desk.}
+<CHAR>__{CAL } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Were you under the inf...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{And who was driving the...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I was alone in the car.  I was driving.}
+<ACTION>__{The cop is writing down these statements.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Well, now, Mr. Barrenger, I'm very sorry, in fact, I'm as sorry as I could be, but...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I'm an attorney, if there's anything you have to say to...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{...I have to give you this ticket for damage to city property.  I'm really sorry, Sir, it's a formality, I hope you'll excuse...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{You have to what?}
+<ACTION>__{Cal reaches in back of him, on his belt, and takes out not the cuffs, but the summons book, he starts to write a summons.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{It's a formality.  Any case of damage to city prop...you hit the control box of the new stop light, and...}
+<DIAL_PAR>__{(apologetically he hands the ticket to Bob)}
+<DIAL>__{They'll, uh, these things happen, I hope you're alright, and that you're feeling...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Well, officer, don't worry ab...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{If there's anything I...}
+<ACTION>__{Marty walks him out into the hall.  Photographers and onlookers in the hall.  Phone rings.  Walt answers it.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Yeah.  Hello, Mr. Mayor...Walt Price! No, no, sir, he's fine.  Well, he's right here!  Would you like to...?}
+<DIAL_PAR>__{(covering phone)}
+<DIAL>__{You are not to see that girl again...do you...}
+<ACTION>__{Door to hall opens.  Claire comes in.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{Hello.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{...he's right here, Mr. Mayor...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Bob)}
+<DIAL>__{Bob, are you alright?}
+<LOC>__{EXT. FIRESTATION TO PRINTSHOP - NIGHT}
+<ACTION>__{The firetruck is being backed into the firestation.  Outside a couple of passerbys are running in the rain, putting their collars up. We see Joe is in the firestation writing in his book.  As the firetruck backs up we see the firedog bark, and Joe looks up. ANGLE JOE'S POV Ann is walking past the firestation.  Joe comes out to look at her.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Where you going?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Going home.}
+<ACTION>__{They start to walk down the street in the rain.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Going home, yeah.  I told them what you said...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL_PAR>__{(over a clap of thunder)}
+<DIAL>__{What?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I told them what you said about the script...}
+<ACTION>__{They take refuge under the awning of the printshop.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I didn't say anything special, I was just talking out loud.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...how else can you talk?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{No, that's true.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{No.  You, I told them, you can't betray with the picture what you're saying with the words.  And, I don't know, the movies, I don't know.  They should be socially uplifting, why does she have to show her br...what is this...?}
+<ACTION>__{They look in the window of the old printshop, the awning under which they have sheltered.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yessuh.  Joseph Knights printshop. Vacant for thirty years.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Is it...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Yep, n'it's for sale.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{One of the few things money can buy.}
+<ACTION>__{Joe looks in the window of the printshop.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I told them what you said about the script...}
+<ACTION>__{They take refuge under the awning of the printshop.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Would you like to see it?  I've got the key back at my store...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I'd love to.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann, runs out into the rain, Joe runs along side her.  In the b.g., we see the fireman closing the doors of the firehouse, and the firedog being restrained, on a leash, by him and shut up inside the firehouse.}
+<LOC>__{EXT. BOOKSHOP - NIGHT}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{How's your star?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Gosh, you look nice.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...what...?}
+<ACTION>__{There's a huge flash of lightning and a clap of thunder and the lights on the street flicker, and come back on.  BEAT.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Bookshop.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What would you do with it, the printshop...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Start back up the Waterford Sentinel. Town newspaper.  Show you the plans.}
+<ACTION>__{She goes into the washroom area, and comes out with two towels.  She throws one to Joe, and begins toweling her hair with the other. She hands him some plans, which show photos of the old printshop, and copies of the Old Waterford Sentinel, circa}
+<LOC>__{1900.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yes, it's a lovely idea...}
+<ACTION>__{She emerges from the back room.  She has stripped off her wet jacket and shirt, and put on a light stockboy's jacket.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Print it right here.}
+<ACTION>__{There's another clap of thunder, and all the lights go out.}
+<ACTION_ALT>__{PAUSE.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Oh, my.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Life in the country.  One second.}
+<ACTION>__{Ann takes a small match from the drawer, and lights a small kerosene barn lantern.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Well.  There you go.}
+<ACTION>__{She sits down on the couch, and spreads the plan on a small table.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Press still works.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It does?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Did as of last week.}
+<ACTION>__{She shows him the poster for "Trials of the Heart."}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Best way I know to get ink on your hands.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You'd do the newspaper right here.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{That's something a man could do...?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You know what else a man can do?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<ACTION>__{He moves closer to her.  He is about to kiss her when the firedog appears on the couch between them.}
+<CHAR>__{ANN } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{One moment...}
+<ACTION>__{She goes in the pocket of her jacket.  The dog follows her. She cannot find a dog biscuit.}
+<ACTION_ALT>__{BEAT}
+<ACTION>__{Joe pats the dog on the head.  Leads him to the front door, puts him out.  The door blows in the rain.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Pelting down out there.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{People might be better off.  They thought about it, spent the evening back in the...}
+<ACTION>__{She comes close to him.  The dog reappears between them.  Joe looks around, and goes back to a window, and shuts the window. Ann crosses to her desk.  Takes out a box of dog biscuits. The box is empty.  The two of them lead the dog out, and pet it on the head.  They turn back and the door is slammed.}
+<LOC>__{EXT. BOOKSHOP - NIGHT}
+<ACTION_ALT>__{BEAT}
+<ACTION>__{They start back to find the door locked.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Left the keys inside, in my jacket.}
+<ACTION>__{Joe nods.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well.  'S'pose I should be getting home...look.}
+<ACTION>__{They turn and Cal, the policeman, is standing next to them. In raingear.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Cal...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Annie, got an umbrella?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Nope.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{I'll walk you home, you can have my coat.}
+<ACTION>__{He starts taking off his slicker.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Then you'll be wet.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{I'm goin' off-shift.  Come on... I'll walk you home.}
+<ACTION>__{He covers her with his slicker, and they walk away. WE SEE in the b.g. Uberto and his helper at the firehouse. Uberto swings a shuffleboard disk, and the dalmation window shatters and falls in the street.  Some falls on his head.}
+<LOC>__{INT. COFFEE CORNER - DAY}
+<ACTION>__{Doug talking to Postman.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Ten dollars apiece for outdated textbooks you or I could buy retail for a dollar ninety-five.}
+<ACTION>__{Carla is serving breakfast, her wrist in a cast and a small bandage on her forehead.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Carla...how's the itching...?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Okay, Doc.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Bear with me, now -- because what're we getting for our money?  See the cat and dog?  See what I'm saying?  Nice to take this opportunity to mount an investigation of...}
+<ACTION>__{She assembles a tray, starts out the door as Maude comes in.}
+<CHAR>__{MAUDE} <CHAR_PAR>__{}
+<DIAL>__{Morning, Carla, what happened to you?}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{She went to fetch a pail of water.}
+<ACTION>__{Carla goes out the door.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to merchant)}
+<DIAL>__{You see what I'm saying, take this opportunity to mount an investigation of the price of school textbooks.  Bear with me now: both the cost, and the content of...look here...}
+<ACTION>__{He produces some first grade spelling text.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...because what're we getting for our money?  "See the nice dog.  See the nice cat?"}
+<ACTION>__{They move out of earshot.  Ann goes into the Real Estate Office NEXT DOOR to the Coffee Corner. Pausing long enough to look in the window at the placard advertising the Old Printshop.}
+<ACTION_ALT>__{ANGLE INSIDE POV}
+<ACTION>__{The placard "Old Printshop...78 thousand dollars" "Under Agreement."}
+<LOC>__{INT. WALT'S ROOM - DAY}
+<ACTION>__{Walt, Marty, Bob, Claire, Joe, coffee urns.  They work on the script.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{So you see what I'm saying...the movie is about purity...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I've always seen that.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We don't show her breasts, we just show your reaction...}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I'm so comfortable with that, Walt, I can't tell you...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Well, Joe said it, and he's right.}
+<ACTION>__{Knock at the door.  Marty goes to the door.}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{Carla outside the door, talking to Marty.  Marty takes tray. Carla has bandage on her head and a small cast on her wrist.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{And I have Mr. Barrenger's Tuna B...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hands her a bill)}
+<DIAL>__{Thank you.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I, well, you know, I tried to take him, in his room.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I think he's moved...}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I, uh...}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Um...}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{Inside the room.  Marty closing her out.  Bob and Claire talking.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{That makes a lot of sense, Claire, that makes a lot of...list...listen, cause the audience isn't coming to see your breasts.  They are coming to see you act.  What are you doin' this evening?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{I'm having dinner with W...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{We're going to discuss the scr...you wanna come along...?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{You mind...?}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{No, are you kidding me, Bob, not at all.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Marty...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Would you, tell the guy, get the A.D., someone, somewhere where we can get away, something, I want, you know, last day before the shooting, get away, forget it, have some local food.}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{You want...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I've got a date.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{He's got a date.  He's got a date, is this guy fantastic...? Already he learned how to write a movie, and he found a girl to get his toes curled, what a guy, what a...what a literary find!}
+<ACTION>__{First A.D. walks in, talking on a cellphone.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(on phone; sotto)}
+<DIAL>__{I'm trying, honey.  I'm...look, is your Ma, when is your mom coming?  Oh.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{What did the midwife...?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Did you, where are we going tonight?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{I...?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Some, you were, you were going to make a reservation for us?  Where's my schedule?  Where are we booked tonight?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{My wife's having a baby.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You what...?  Is that on the call sheet, is that on the callsheet, or is that personal business?  Ah, Christ. Marty...are we paying you?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<LOC>__{INT. BAR - MORNING}
+<ACTION>__{The bartender is looking down studying a vast book "State Statutes of Vermont".  Doug is drinking.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{She didn't even finish knitting me the sweater...}
+<ACTION>__{First A.D. walks in.  Doc Wilson walks in.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Doc...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{You doin' here, Doug?  Thought you started out the day with that pernicious caffeine...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Kiss my ass.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Well.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{He had a hard day.  Ann's deserted him for some guy on the movie.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Well, they don't always leave with the ones they came in with.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{Big day last night.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Hope to tell you.  Didn't I pick the fragments of glass out of Bob Barrenger's actual head myself.}
+<ACTION_ALT>__{ANGLE IN THE B.G.}
+<ACTION>__{We see Carla entering with bags of food and checks for bar patrons.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Carla.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Uncle Ron.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Cluster of events.  Don't see something, ten years, allasudden, three times inna night.}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{That's what they call an events cluster. Some guy orders a Manhattan, fifteen, twenty years, allasudden, three times inna night.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Who got their heads cut?}
+<CHAR>__{BARTENDER} <CHAR_PAR>__{}
+<DIAL>__{...some fella.  Orders a Manhattan.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Who got their heads cut?}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Uh, Bob Barrenger, fella, Cameraman...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{You said three...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Did I?  I think you're mistaken.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Doug, looking over at Carla, with a small cast on her wrist and her head beneath a babushka, in the lobby. Doug looks up.}
+<LOC>__{INT. CORRIDOR TAVERN MOTEL - DAY}
+<ACTION>__{Carla, being led by the hand, by Doug.  Following them, her Father Jack and Cal the trooper.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I wasn't in the car...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{We're going to s...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{Doug, she says that she wasn't in the c...}
+<ACTION>__{They stop at a room, knock on the door.  A PAUNCHY SALESMAN opens the door.}
+<CHAR>__{SALESMAN} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{I've got the wrong room.}
+<ACTION>__{The Procession reverses, starts down the hall, runs into Marty coming out of his room.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(to Cal)}
+<DIAL>__{Arrest him.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What is the...?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Arrest him.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{For what...?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Conspiracy in Statutory Rape.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Conspiracy in Statutory Rape?  Okay.  Of whom?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{This young woman.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Nobody touched me, I was at home.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{Who is it raped you?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Nobody.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Well, what's the beef?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{She was in the car with Bob Barrenger last night.  And she was injured coming home from a love tryst, so...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You were in the car with Bob?}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Then what is the...?}
+<ACTION>__{He steps back into a linen closet, takes Doug with him by the lapels.}
+<LOC>__{INT. LINEN CLOSET - HOTEL HALLWAY - DAY}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Now what is this, you sonofabitch! Because if you haven't heard about the laws of Malicious Prosecution, you're about to.  DON'T FLINCH WHILE I'M TALKING TO YOU, YOU TWO BIT SPEEDTRAP FRAUD: There's an old saying, two scariest things in the world, a black man with a knife and a Jew with a lawyer.  Now, I am a lawyer, and I am the Jew, and you continue ONE MOMENT with this slanderous shit here in this public place, I'm going to have your ass over my mantleplace.  THE KID WAS NOT IN THE CAR, SHE SAYS THAT SHE WASN'T IN THE CAR, NO ONE SAYS SHE WASN'T IN THE CAR, no one says that she was in the car, you have no corpus and you have no case, and you know it.  so i'm not paying patsy with you here, you motherfucker.  look in my eyes: i made eleven million bucks last year and i don't like being trifled with.  Now I think that the better part of valor, though we've got your back up here...the better part of valor is to step away.  Or, before G-d, I will see you disbarred.}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{Now, what do you think?}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{We all have a movie to make.  Now, can we stay together here...?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{What do you say?  Have a cigar.}
+<ACTION>__{He puts a cigar into Doug's pocket.}
+<LOC>__{INT. HALL - CONTINUOUS}
+<ACTION>__{The two come out of the linen closet, Marty with his arm around Doug.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{It's a mistake.  It's all over.}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{I'm sorry that we've inconvenienced you.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{I wasn't in the car.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{We know that you weren't.}
+<ACTION>__{They walk down the hall.  Before them, Claire, half-clothed, backing out of a motel room.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL>__{...because you treat me like a child...you treat me like a child... that's why I can't come...}
+<ACTION>__{The procession has reached the open door.  They look to see whom it is Claire is addressing.  Carla looks in the door. ANGLE CARLA'S POV Bob Barrenger, clutching a towel to his naked self, smoking a cigarette.}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{The group in the hall.  Carla points into the open door.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{He took advantage of me.}
+<LOC>__{INT. PROD. OFFICE - DUSK}
+<ACTION>__{Cal, Bob Barrenger, Walt, Doug, Carla and Jack.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{...upset and impressionable.}
+<DIAL_PAR>__{(to the A.D.)}
+<DIAL>__{Get me the Mayor.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{...I was just talking to that girl in the other room.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{...overcome by the events around her, the presence of a high-powered...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{I never touched her.  My mother's gr...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{And a fantasy object...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Cal)}
+<DIAL>__{Tell him to get dressed...}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Uh, sir...}
+<ACTION>__{The First A.D. enters with lawbooks, marked as to page.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(takes lawbooks)}
+<DIAL>__{Wally?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Look, Carla, this is a hard time for you.  Many young people go to Hollywood. I did...and we all dream of it, and here, here Hollywood has come to you.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Mr. Barrenger, I'm very sorry, but...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Here this dream world has come to you. Now, you obviously have an active, a vivid imagination.}
+<CHAR>__{CARLA} <CHAR_PAR>__{}
+<DIAL>__{Her...}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I swear that that woman in my room...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Be quiet, Bob.  A fertile mind.  Now we can use that kind of people in our work. Yes, we can.  Now, and this is what occurs to me... There's a part in the film...isn't that right, Marty?}
+<ACTION>__{Marty is perusing the lawbooks.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Mmm.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{That we could use you in and I think that's quite a fine trade-off all around and an ill wind that blows somebody good.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL_PAR>__{(of the book)}
+<DIAL>__{Here it is: Statutory r...blah, blah, blah, blah... "statutory"... "unsupported testimony by the..."}
+<DIAL_PAR>__{(he shows the book to Doug)}
+<DIAL>__{Hold on, Bobby.}
+<DIAL_PAR>__{(to Doug)}
+<DIAL>__{You've got nothing and you know it.  By G-d, you know it.  Harassment.  You need a... even if this was true, you need a witness.  You need someone puts her in the car.  And you've got nothing.  Now we all have...yes, give her that part in the film.}
+<DIAL_PAR>__{(to Carla)}
+<DIAL>__{Yes, we'd love to have you... Now: we all have more important things to do, isn't that right...?}
+<ACTION>__{Marty starts ushering everyone out of the room.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Isn't that right?  I'm sorry that you all went to this...}
+<CHAR>__{JACK} <CHAR_PAR>__{}
+<DIAL>__{I knew she wasn't in the car.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{This has been just an unfortunate.}
+<ACTION>__{He ushers them out, the phone is ringing.  Walt picks it up.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{Yes?  Hello, Mr. Mayor.  Nothing, just an, an unfortunate...}
+<DIAL_PAR>__{(he covers the phone)}
+<DIAL>__{It's the Mayor, he's saying...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Is he cool or angry?}
+<LOC>__{INT. MAYOR'S HOUSE - CONTINUOUS}
+<ACTION>__{Mayor on the phone.  Sherry in the b.g.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Well, these things happen.  Purpose of my call, my wife wanted to know what brand of cigarettes Mr. Barrenger smokes, so she could lay some out tonight...we got the list of his dietary requirements...}
+<LOC>__{INT. PROD. OFFICE - CONTINUOUS}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(hangs up phone)}
+<DIAL>__{So we just got lucky.}
+<CHAR>__{BILL} <CHAR_PAR>__{}
+<DIAL>__{Marty, it's Howie Gold on the coast.  He needs your confirmation on a request for money...?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{And I need a drink.}
+<ACTION>__{Marty exits.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Bob)}
+<DIAL>__{If your memory was as long as your dick, you'd be in good shape.  How long since you almost went to jail for this shit?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{How could she turn on me like that?  I thought she liked me.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Can we try to keep our pants buttoned and get out of this town in one piece?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I'm ready!}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Stay ready.  Stay by yourself in your room.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{What'll I do for fun?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Whyn't you learn your lines?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I know my lines...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{You do...?}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{I just don't know what order they come in...}
+<ACTION>__{Walt walks away from Bob, shaking his head.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Walt, as he walks down the stairs.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I tell you what, let's ditch these cockamamie locals.  I need to get outta here.  Go to some roadhouse tonight, just us.  Claire, Bob, siddown, have a bottle of wine.  Tell me where we're going, and let's go.}
+<ACTION>__{They walk by the bullpen, wherein we see P.A.s refilling Evian bottles from a ratty old watering can. P.A.s take us, with their Evian bottles, into Walt's office, where we see the "Dinner with the Mayor" sign.}
+<LOC>__{INT. MAYOR'S HOME - NIGHT}
+<ACTION>__{Twelve overdressed people, including the Postman, the Gunstore Owner, etc. sitting, still around the Mayor's laden dining table.  BEAT.  Sherry looks over her shoulder.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Next room, the Mayor on the phone.  Hushed.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Well, you must, where did they... where...I...}
+<ACTION_ALT>__{PAUSE}
+<ACTION>__{Very angry, he HANGS UP and looks out the window.}
+<ACTION_ALT>__{ANGLE POV}
+<ACTION>__{The Mayor lets the shade drop, walks back to the table. Silence.}
+<LOC>__{INT. BAR - NIGHT}
+<ACTION>__{Doug, in his cups, at the end of the bar with the First A.D.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Hey, you've gotta eat a peck of dirt...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{My wife just went into labor...}
+<ACTION>__{The bartender studies his state statutes book. BARTENDER'S POV Inside the book, the storyboards show the movie's heroes copulating.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Half a buck I'd close it down.  It's per...you know...it's perfidy, you got your Barrenger, molesting little girls.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{He should be put in jail.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Half a buck I'd put him in jail.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{You should.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I had a witness, I would.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{A witness to what?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{You know, the rape, to...even to the accident.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{You mean with White?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{You mean you need a witness in addition to White?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Who's White?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{The writer.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(beat)}
+<DIAL>__{He saw the accident...?}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Sure.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{He saw the girl in the car...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{You bet he did.}
+<LOC>__{INT. MAYOR'S HOME - NIGHT}
+<ACTION>__{The Mayor and his wife alone at the table.  The maid emptying trays of food, untouched, into a galvanized steel garbage pail placed in the middle of the room.  One of the guests leaving, putting on her coat.  Dips back into the dining room to try to pick up a tray of pate.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{Don't you touch that... I want them gone.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{I signed the permit.  I don't know how I can.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{I want them thrown in jail.}
+<CHAR>__{MAYOR} <CHAR_PAR>__{}
+<DIAL>__{Sherry, Sherry...}
+<ACTION>__{She empties it into the trash.  BEAT.  The guest, chagrined, leaves.  The Mayor, sitting and drinking booze out of a large glass.  The phone RINGS.  BEAT.  He goes to answer it.}
+<CHAR>__{MAYOR } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(into phone)}
+<DIAL>__{What?}
+<DIAL_PAR>__{(he jiggles the receiver)}
+<DIAL>__{Get me the State Police.}
+<LOC>__{EXT. PRINT SHOP - DAY}
+<ACTION>__{A sign in the window, "Sold" is stamped over and reads "Under Agreement." Early summer morning.  Joe, holding a cup of coffee, looking at the print shop.  Ann walks up.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Good morning.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Sleep well?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Yeah, you?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Oh yeah...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{We could live up here, live up in the country.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Now you're talking...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{And we could get up every morning...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...well, we do that anyway...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{And come to the printshop.  You know why?}
+<CHAR>__{JOE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{To print the newspaper.  And I'd come to write.  To write.  To write.  Right here in the office.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Not without a rolltop desk.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, I could get a rolltop desk.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Happen to know where there's one for sale.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well ain't you amazing.}
+<ACTION>__{They walk on, onto the scene of various filmfolk setting up.}
+<LOC>__{EXT. STATE AND MAIN - INTERSECTION - CONTINUOUS}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Lookit that, up already.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{That's why we filmfolk get along so well with you farmers.  Both up with the chickens.}
+<ACTION>__{They push through the mass.  The street is closed off by Police Cars. They come upon a TV REPORTER doing a standup in front of the firehouse where we see, in front, both the old firetruck and state trooper cars.}
+<CHAR>__{TV REPORTER} <CHAR_PAR>__{}
+<DIAL>__{Where Movie Star Bob Barrenger, fresh from his troubles with the law last year...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann and Joe, as they look on.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{A state trooper and Doug, as they walk through the crowd. Marty walks up to the TV REPORTER.}
+<CHAR>__{TV REPORTER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...is once again in hot water.  Involved in a car crash last night with a young, a very young woman, Mr. Barrenger is being arrested today for...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You better make sure you got your facts straight, pal, cause, you step off the line and I'm going to sue you personally for...}
+<ACTION>__{The trooper, Doug, and Bob Barrenger walk up to Marty.}
+<CHAR>__{TROOPER} <CHAR_PAR>__{}
+<DIAL>__{We're looking for a Joseph Turner White.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Oh, good, yes.  Good morning.  Where are you taking Mr. Barrenger?}
+<CHAR>__{TROOPER} <CHAR_PAR>__{}
+<DIAL>__{We are looking for a Mr. Joseph Turner White?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What are you doing with Mr. Barrenger?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{He's under arrest.}
+<ACTION>__{Doug hands the arrest warrant to Marty.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Oh, good.  I'm his lawyer...and you must be Perry Mason.  Guess what, you're about one-half step from a world of hurt...how diverting...the Mayor's gonna have your ass.  Can I watch?}
+<ACTION>__{CAMERA takes the group, the trooper, Doug, Bob, in handcuffs, Marty talking with them, through the crowd, on the back of which we see Ann and Joe.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Well, you guess what.  The Mayor sent me.  I have your Mr. Barrenger with a history of...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{...a history of nothing, he was acquitted.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Moral turp...you're on my home court, friend.  I have the Mayor and the town behind me, and forget making your movie: I may own the studio when I get through with you: I got a civil suit, I got rape, I got collusion...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You've got nothing, you don't have a witness...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{And I've got a witness!  Your Mr. White saw the crime.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{He told you that!?}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{He didn't have to tell.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{I want to talk to him.  Would you ex...}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Oh, you're his attorney, too?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Later for you, pal.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Okay.}
+<ACTION>__{He motions the cop to take out Barrenger.  Marty sees Joe in the back.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Bobby, don't say anything.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Nothing happened.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{We'll see about that at the inquest.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Marty, as he leads Joe down into an alleyway, and into a backyard, hung with washing on the lines.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Yeah, hi, pal.  I need to talk to you.}
+<LOC>__{INT. BOOKSHOP - DAY}
+<ACTION>__{Ann, Joe and Marty.  Cal has followed them into the bookstore.  He speaks privately with Ann and exits.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What is it all about?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I saw...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{How do they know that, you told them?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{No.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What did you say to them?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I didn't say anything to them.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{How do you know you saw it?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I don't know.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Well, then, you didn't see it, right?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I don't...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You didn't see it...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I...?  I saw it.  I was there.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You were there.  At...at 10:35...?}
+<ACTION>__{Joe takes the arrest warrant.  Looks at it.  Changes his glasses.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as he reads)}
+<DIAL>__{I was walking down the street...I remember, I was writing a...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What glasses were you wearing?}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Were you wearing your reading glasses?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{i...}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You told me you were writing.  Don't you wear your reading glasses to write...?}
+<ACTION>__{Marty's cellphone rings and he answers it.  After a pause, he hangs up.}
+<CHAR>__{MARTY } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{I've got to go to the jail.}
+<ACTION>__{He exits, leaving Walt alone with Ann and Joe.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann.  She sees something down the other street.  We see Cal, the policeman, enter and start toward Joe.  We see Ann restrain him, and speak to him in the b.g. for several moments.  He shakes his head, and she reasons with him, and there is a pause and he looks at Joe, and exits.}
+<ACTION_ALT>__{BEAT}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...he's going to give you a couple of minutes.}
+<ACTION_ALT>__{PAUSE}
+<ACTION>__{Joe walks Ann off to the closed back door of "The Waterford Players."}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What am I gonna do?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You got to tell 'em that you saw the accident.  Don't you?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I can't do that.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{If I tell them, they'll, if I tell them, they'll try Bob for rape, they'll... it'll ruin his career...}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{But that's what happened.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{But it'll stop the movie.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Maybe they'll be other movies.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{They'll...they'll blackball me.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Carla was in the car, right?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I...I think that's right.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{...you think that's right...}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What'm I gonna do?}
+<ACTION>__{Ann picks up a copy of the old Waterford Sentinel, which was left on the coffee table.  Ann hands the paper to Joe.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, holding the paper.}
+<ACTION_ALT>__{ANGLE INS.}
+<ACTION>__{The masthead reads, "Waterford Sentinel, All the News of the Mountains, 'You Shall Not Bear False  Witness.'"}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann, who has also picked up the "For Sale" sign, showing the printshop.  She stands looking at Joe.  BEAT.  Cal enters. They look towards him.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Lotta hubbub on the street.  I'm taking you the back way.}
+<LOC>__{EXT. BACKYARD OF THE BOOKSHOP - DAY}
+<ACTION>__{Cal walks with Joe, still holding the newspaper.  As they round a housecorner, Walt appears and walks with Joe.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL_PAR>__{(checks watch)}
+<DIAL>__{Let's speak English.  You've got to help the side.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{You want me to lie.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{To the contrary.  I want you to tell the truth.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{The truth is, you can't tell me, to a certainty, that you saw the thing.  You don't remember, a gun to your head, which glasses you have on.  And you have a fertile imagination.  Imagination wants to fill in the blanks.  Now.  IF you aren't sure, then they have nothing. Bob walks free.  As he should.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{Joe: wasn't long ago they buried actors at the crossroads with a stake through their heart, you know?  The people who are talking to you about the way we live though we may praise them, we fear them. And they fear us.  Because we tell the truth.  About our lives.  Now, this is a damn roost, and everyone knows it; the guy is looking for a case, he wants to make a name for himself...If we let him do that, if we let him do that, then we're being false to our community...to our community, you understand?  To our world.  Cause you are a part of that world, now.  You have to take off the steel Rolex and put on the Gold Rolex.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{And be part of your world.  I got a five picture deal with the studio.  And you stick with me.  You write one, two more, you stick with me, and you'll direct the third one.  You are a part of this world.  You have to do the right thing: we're out in the Provinces, the Sheriff, literally is at our door.  You have to stand with the troops, Joe.  That's the bottom line.  You have to...if you had the leisure to think it through, you'd see it for yourself.  The girl wasn't in the car.}
+<ACTION>__{Cal takes Joe to a side door of the courthouse.}
+<LOC>__{INT. SMALL COURTROOM - DAY}
+<ACTION>__{Joe coming in through the side entrance of the courtroom. Various law books and dusty forms on the shelves.  Cal leads him into the courtroom, empty, save for the court reporter, Maude and the BAILIFF.  Cal motions Joe forward.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{...Joseph Turner White...}
+<CHAR>__{BAILIFF} <CHAR_PAR>__{}
+<DIAL>__{Hear ye, hear ye.  Sixth District Court. And for the county of Kadona, State of Vermont, the honorable James Addison Flynn presiding.  All those having business before this court, draw forward and you will be heard.}
+<ACTION>__{Judge enters.}
+<CHAR>__{BAILIFF } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{All rise.}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Please...Mr. White?  This is a simple matter of...}
+<ACTION>__{Scott hands him a sheet of paper.}
+<CHAR>__{JUDGE } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Uh huh, all we need's a simple fact or to...you're going to give your recollection of the accident last evening, at the corner, State and Main. Would you please swear him in.}
+<CHAR>__{BAILIFF} <CHAR_PAR>__{}
+<DIAL>__{Do you swear to tell the truth...}
+<LOC>__{EXT. MAIN STREET - DAY}
+<ACTION>__{A crowd, moving along, with the TV Reporter.}
+<CHAR>__{TV REPORTER} <CHAR_PAR>__{}
+<DIAL_PAR>__{(talking into camera)}
+<DIAL>__{...the arraignment, as we said of Bob Barrenger, The Bob Barrenger, star of "The Old Mill," about to begin shooting here, in picaresque and sleepy...}
+<DIAL_PAR>__{(sound of shouting, and reporter looks around)}
+<DIAL>__{we should say, formerly sleepy...Yes, yes, it's...yes, it's Claire Wellesley, and we're going to try to get a look at...}
+<ACTION>__{The crowd moves away, revealing Ann, standing in front of the realtors, looking at a card in her hand.  She looks up to see Joe coming toward her.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Extreme close up, she smiles.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Extreme close up, Joe.  He looks toward Ann, sheepishly.}
+<ACTION_ALT>__{ANGLE BACK ON}
+<ACTION>__{Ann, as she looks down at the card in her hands.}
+<ACTION_ALT>__{ANGLE INSERT}
+<ACTION>__{It is the real estate placard for the printshop, marked "under agreement."}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann, as she rips it up.}
+<LOC>__{INT. LOBBY OF THE HOTEL - DAY}
+<ACTION>__{Joe, coming in, a hangdog look on his face.}
+<CHAR>__{P.A.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Joe)}
+<DIAL>__{They need those rewrites on the "Old Mill" scene...}
+<ACTION>__{Joe nods.  Continues through the lobby.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Various reporters, Scott being interviewed.}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{...about his personal life, though I can tell you a few things about...}
+<ACTION>__{Joe walks past.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Would you please hold all calls to my room?}
+<CHAR>__{SCOTT} <CHAR_PAR>__{}
+<DIAL>__{Though I can tell you a few things about his dietary requirements.}
+<ACTION>__{The old bellhop is packing up his lunchbox and changing into his streetclothes.}
+<LOC>__{INT. JOE'S ROOM - DAY}
+<ACTION>__{Joe enters and takes out his pad and pencil.  He sits on the bed.  On the pillow, he sees and picks up a black and red hunting jacket, onto which the one foot short sleeve has been knitted in baby blue.  There is a card in the picket that reads "Better than new -- it's got a story!"  He puts it down. He picks up his notebook, in which he has written: "The Purpose of the Second Chance is to allow you to make the same mistake twice." He stops by the mirror on the chiffonier into which he puts the lure, which still has the attached card reading "The truth may not always set you free, but it's always the truth - Joseph Turner White." Joe goes to the bed.  On the bed is a small package tied with ribbon.  Joe opens it.}
+<ACTION_ALT>__{ANGLE INS.}
+<ACTION>__{It is a small thing of maple syrup.  Attached to it is a card reading: "It is your invention which makes everything sweet." He takes off his jacket, and picks up his notebook.  Out of his jacket pocket falls the old copy of the Waterford Sentinel. He picks it up. ANGLE JOE'S POV The masthead: Waterford Sentinel "The Voice of the Mountains, You Shall Not Bear False Witness." He puts the newspaper down.  Picks up the maple sugar card again, and looks at it. He sees an arrow and turns it over}
+<ACTION_ALT>__{ANGLE INS.}
+<ACTION>__{The back of the card reads: "How about an Associate Producer credit...?" He takes the paper, balls it up and throws them into the trash.  He picks up the fishing lure which is resting on the typewriter.  Puts it into his pocket, thinks again, throws it in the trash.  Shakes his head, and picks up his suitcase and starts packing...}
+<LOC>__{EXT. ANN'S STREET - DAY}
+<ACTION>__{On Doc Wilson, as he walks down the street.  A little kid, on a scooter is going in the other direction.}
+<CHAR>__{KID ON SCOOTER} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Doc.}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Billy, where ya goin' in such a hurry?}
+<CHAR>__{KID ON SCOOTER} <CHAR_PAR>__{}
+<DIAL>__{Down the corner, see the ruckus...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Watch the curbs, now...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, as he stands across from Ann's house, looking at it.  He holds his suitcase.}
+<CHAR>__{DOC WILSON } <CHAR_PAR>__{(CONT'D)}
+<DIAL_PAR>__{(of his suitcase)}
+<DIAL>__{Where you off to?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I, uh...I'm leaving...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Why?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I perjured myself.}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{I told a lie, and I ruined my life. That's what I did.}
+<DIAL_PAR>__{(shrugs)}
+<DIAL>__{I don't suppose you could help me with that, could you?  Turn back the clock, or something?  Give me back my, give me back my purity, I don't suppose you could just wave your magic wand and do that, could you?  But what is truth? Eh?  Ain't that the thing?  What is true?}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{It's the truth that you should never trust anybody, wears a bowtie.  Cravat's s'posed to point down to accentuate the genitals, why'd you wanna trust somebody, s'tie points out to accentuate his ears?}
+<ACTION>__{Joe turns to see Doc swigging from his flask.  In the b.g., we see the bellhop walking.}
+<ACTION_ALT>__{BEAT}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Aren't you supposed to set an example for people?}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL>__{Nope.  I'm just supposed to hold people's hands while they die.  What'd you say your problem was?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I just swore my life away, back in that...}
+<CHAR>__{DOC WILSON} <CHAR_PAR>__{}
+<DIAL_PAR>__{(as he sees an older woman off on a porch to the side)}
+<DIAL>__{Mornin', Chessy, how's the back?}
+<ACTION>__{Doc walks off to his office.}
+<LOC>__{EXT. RAILROAD STATION - DAY}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I ruined my life.  Isn't that funny, that you can actually do it in one moment just like they say.  I ruined my life back in that courthouse.}
+<ACTION>__{Bellhop, who has walked up beside him...}
+<CHAR>__{BELLHOP} <CHAR_PAR>__{}
+<DIAL>__{What courthouse?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Courthouse back in town.}
+<CHAR>__{BELLHOP} <CHAR_PAR>__{}
+<DIAL>__{Town ain't got no courthouse.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{What?}
+<CHAR>__{BELLHOP} <CHAR_PAR>__{}
+<DIAL>__{Ain't got no courthouse.  Courthouse burnt down, 1960.}
+<ACTION>__{The train is arriving.  The stationmaster puts out the steps to help the people down.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{Well, where do they hold court?}
+<CHAR>__{BELLHOP} <CHAR_PAR>__{}
+<DIAL>__{Hold court, they have to, science lab, the high school.}
+<ACTION>__{An ELDERLY LOOKING JUDGE FELLOW descends from the train, followed by the CADDY with his golf bag.}
+<CHAR>__{STATION MASTER} <CHAR_PAR>__{}
+<DIAL>__{Mornin', judge, what brings you here?}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{I'm s'posed to hear some deposition, some fool saw the accident last night.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{...the courthouse burnt down...?}
+<CHAR>__{STATION MASTER} <CHAR_PAR>__{}
+<DIAL>__{Yep.  Courthouse burnt down, 1960.  Part of a spate of fires, Old Mill, Courthouse... S'posed to've been set by some deranged teenager.}
+<ACTION>__{Joe looks around. ANGLE JOE'S POV The old bellhop walking down the tracks.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, as he turns back into town.}
+<ACTION_ALT>__{ANGLE CLOSE UP}
+<ACTION>__{On the Station Master.}
+<CHAR>__{STATION MASTER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Yep, never did discover who set 'em...}
+<ACTION>__{He smiles, and lights his cigar.}
+<LOC>__{EXT. COURT HOUSE BUILDING - DAY}
+<ACTION>__{We see the crowd has moved down the street and the "Courthouse" building is empty.}
+<LOC>__{INT. COURT HOUSE BUILDING - DAY}
+<ACTION>__{Joe enters, and the camera takes him into the deserted building, through the courtroom and, in back, he sees Ann standing alone.  He walks back to her, through the doors which appear to be the Judge's chambers.}
+<ACTION_ALT>__{ANGLE REVERSED}
+<ACTION>__{We show that the walls of the Courtroom are the set, and we are back in the "Trials of the Heart" set.  Ann is sitting there.  Reading her play by Joe White.  He looks at her for an explanation.  Maude, the court reporter woman, is sitting in the b.g.  Ann is knitting in pink wool.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I thought you needed to get it out of your system.}
+<ACTION>__{Ann moves to embrace Joe.  They hear screaming.  They turn.}
+<LOC>__{EXT. MAIN STREET - DAY}
+<ACTION_ALT>__{ANGLE THEIR POV}
+<ACTION>__{At the end of the alleyway, in Main Street.  We see Sherry, the Mayor's wife, leading a crowd.}
+<CHAR>__{SHERRY} <CHAR_PAR>__{}
+<DIAL>__{...a blight, a blight and an obscenity...that's good English, isn't it?  How's that for entertainment?}
+<ACTION_ALT>__{ANGLE}
+<ACTION>__{At the mouth of the alleyway, on Main Street.  We see:}
+<ACTION_ALT>__{ANGLE INS.}
+<ACTION>__{The baseball on which is written "To Chucky from your best friend, Bob Barrenger."}
+<ACTION_ALT>__{ANGLE XCU}
+<ACTION>__{The distorted face of Chucky, heaving the baseball.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Bob Barrenger being led through the crowd, a baseball hitting him in the back of the head, as troopers hustle him toward the courthouse.  In the b.g., Ann and Joe emerging in the alleyway.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann and Joe, who starts to cross the street.  We see the airport van.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{What are you going to do?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I'm going to tell the truth.}
+<ACTION>__{They start to cross the street.  In the b.g., a little man with a bag (HOWIE) gets out of the airport van.  Joe and Ann walk toward the crowd at the mouth end of the high school.}
+<LOC>__{INT. HIGH SCHOOL CORRIDOR - DAY}
+<ACTION>__{A crowd of people, TV technicians, and a view of Doug on a TV monitor.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{...and to exterminate this vermin, yes, I use that term, who have abused, who have desecrated, yes, the license granted to them by a gracious nation...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Marty and Walt, standing near the monitor, looking on. Shaking their heads.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The monitor.  Doug, seen through the monitor.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...who spew filth and degradation...}
+<DIAL_PAR>__{(begins to wipe his head)}
+<ACTION>__{As he does so, a makeup person comes in and sponges him.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{...thank you...}
+<CHAR>__{TV REPORTER} <CHAR_PAR>__{}
+<DIAL>__{...you want to clean up?}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Doug, seen "live" in the next room, starting to wipe his brow.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{Yes, thank you.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Marty and Walt watching Doug, as he walks down the hall.}
+<CHAR>__{TECHNICIAN} <CHAR_PAR>__{}
+<DIAL>__{Five minutes, and we're going live to the network.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to himself)}
+<DIAL>__{...foreign, and un-American perversions of the Democratic process.  By those we have entrusted with our dreams...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Marty and Walt, looking on.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Do something.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{You tell me what to do, I'll do it.}
+<ACTION>__{They look on to the preparations for the TV.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...and I was just paying off my house in Malibu...}
+<ACTION>__{Ann and Joe push through the crowd.}
+<CHAR>__{WALT } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Thank G-d, it's up to you, Pal.  Sup to you...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I'm out.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I don't getcha.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{The girl was in the car.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I treated you like a son or nephew.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{It's no you, it's...}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{No, what is it?}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{I have to tell the truth.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{...that's just so narrow...}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{The girl was in the car.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{Then you're finished in show business.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{So be it.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{And my company sues your ass for sixty million dollars.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL>__{For what cause?}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{I don't need a cause, just a lawyer.}
+<ACTION>__{HOWIE GOLD shows up holding his bag.}
+<CHAR>__{HOWIE} <CHAR_PAR>__{}
+<DIAL>__{I'm a lawyer.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Howie...}
+<CHAR>__{HOWIE} <CHAR_PAR>__{}
+<DIAL>__{Yeah?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{What are you doing here?}
+<CHAR>__{HOWIE} <CHAR_PAR>__{}
+<DIAL>__{What am I doing here is I just flew seven hours cause you asked me here.}
+<CHAR>__{WALT} <CHAR_PAR>__{}
+<DIAL>__{What for?}
+<CHAR>__{HOWIE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(presenting the bag)}
+<DIAL>__{For this...I hope you need it, cause it's coming outta your budget...}
+<ACTION>__{ANGLE INS.: The Bag, as Marty opens it - it's full of MONEY.}
+<LOC>__{INT. LAVATORY HIGH SCHOOL - DAY}
+<ACTION>__{Doug is mopping his face up.  He looks up.  Marty is standing there.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Hi.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I'd prefer it if you didn't speak to me.}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<CHAR>__{I....} <CHAR_PAR>__{}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{...you know, there's nothing you could say, that could possibly make a difference, so, why don't you just save your breath...}
+<ACTION>__{Marty puts the case up on the washstand.}
+<CHAR>__{DOUG } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{What's in the case?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Eight-hundred thousand dollars in cash.}
+<ACTION_ALT>__{PAUSE}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{And what was it you wanted to say?}
+<CHAR>__{MARTY} <CHAR_PAR>__{}
+<DIAL>__{Gut Yuntif.}
+<LOC>__{INT. HIGH SCHOOL CORRIDOR - DAY}
+<ACTION>__{Ann and Joe passing through.  They stop and Joe comes up to a State Trooper.  As we press forward the Mob begins to reverse direction and passes back towards Joe.  Leaving the Hall empty, save for the Judge who comes out, putting his robs into his golf bag.}
+<CHAR>__{JOE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(to Judge)}
+<DIAL>__{I've come to give myself up...}
+<CHAR>__{JUDGE} <CHAR_PAR>__{}
+<DIAL>__{Well give yourself up to someone else. I'm gonna get in some golf.  Hiya, Annie.  Give yourself up to her.}
+<ACTION>__{And we see Joe has moved up to the TV monitor, where we see Doug, in the Science Lab, talking to the press, and holding his money bag in his arms.}
+<CHAR>__{DOUG} <CHAR_PAR>__{}
+<DIAL>__{I have learned a lesson.  And the lesson is this...that everybody needs a second chance.  You, me, and these fine, film people here.  You know, they have a high profile, but that doesn't mean they aren't deserving of our trust, and of our respect. You know, I think there is a lesson here, and the lesson is this: it is a lesson of Tolerance...and, as we look at this industry, at this clean, American industry, and as I begin my campaign for congress...}
+<ACTION_ALT>__{DISSOLVE}
+<LOC>__{EXT. MAIN STREET - DAY}
+<ACTION>__{Walt on the scene, talking with the cinematographer, and the Camera Operator, preparing the first shot.  The First A.D. instructing the extras.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Okay.  Are we getting set up here...are we getting set up...People...?  Can we settle...can we settle now...?}
+<LOC>__{EXT. MAIN STREET - CONTINUOUS}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann.  As she, holding the placard starts to cross the street. An old farmer smoking a pipe, driving a pick up is stopped by a P.A. talking on a walkie. We see that it is the "Judge" who listened to Walt's testimony.  Ann waves to him, and proceeds to the Old Firehouse, where they are about to make a movie...}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL>__{Okay, this is picture...}
+<ACTION>__{Ann stops at the back of the crowd of onlookers.  She waves to someone. ANGLE ANN'S POV It is Joe, sitting near the director, who waves back.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann, who is next to Cal, the policeman, now in leather jacket and leaning on his Harley motorcycle.}
+<CHAR>__{FIRST A.D. } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{Quiet, please...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The slate, which reads "The Fires Of Home."}
+<LOC>__{EXT. MAIN STREET - FIRESTATION - CONTINUOUS}
+<ACTION>__{Where they are filming the characters in turn of the century garb.  Bob Barrenger, dressed as a fireman, is polishing the old fire engine.  The actor playing Doc Morton walks past.}
+<CHAR>__{DOC MORTON} <CHAR_PAR>__{}
+<DIAL>__{Mornin', Harry.  Heard you had a little fire last night.}
+<CHAR>__{FIREMAN} <CHAR_PAR>__{}
+<DIAL>__{Waal, you didn't have nothin' to do, Doc, wouldn't life be dull...?}
+<ACTION>__{Two nuns walk by.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Mornin', sister.}
+<CHAR>__{CLAIRE} <CHAR_PAR>__{}
+<DIAL_PAR>__{(in nun garb)}
+<DIAL>__{We missed you in Church today, Frank.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Sister, I've just come from a fire...}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, sitting near the camera, looking through the script. Reading along, mouthing the words.  He wears the plaid jacket, one sleeve is pink, knitted.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{The on-lookers.  Ann, Cal, next to her, lounging on his motorcycle.  Grace and Maude, Spud and Morris, the Postman, the fake Judge, who is also the man smoking the pipe in the first sequence and is smoking a pipe now, Scott from the hotel, etc.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Crew, and the film within the film.  We see the lively stable across the way.  On its side are painted various ads.  Among them, one which says: "Stefan P. Bazoomercom" and Marty is standing next to it.  Looking on at the scene being filmed. An A.D. brings him a cup of coffee.  The A.D. is passing out pink bubblegum cigars, the bands of which read "It's a Girl!"}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Film within the film, the group at the camera watching, transfixed.}
+<CHAR>__{SISTER} <CHAR_PAR>__{}
+<DIAL>__{...to come by next Sunday, and we'll give you a second chance.}
+<CHAR>__{BOB} <CHAR_PAR>__{}
+<DIAL>__{Only second chance I know, chance t'make the same mistake twice.}
+<CHAR>__{SISTER} <CHAR_PAR>__{}
+<DIAL>__{Well, time will tell.}
+<ACTION>__{She walks past the "Bazoomer.com" ad.}
+<CHAR>__{FIRST A.D.} <CHAR_PAR>__{}
+<DIAL_PAR>__{(holding cellphone to his ear)}
+<DIAL>__{That's a cut!}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann and Cal, as they talk, the firedog comes over and Ann gives him a biscuit.  In the b.g., we see the man with the pipe get into his pickup and drive off.  The Postman goes off continuing his rounds.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann and Cal as they talk.  Next to them Morris and Spud congratulate each other.  Next to them, we see the fake judge and the bailiff.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Mom's expecting you for dinner tonight.}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{I'll be there.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{You bringing your new friend?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{Sure plan to}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL_PAR>__{(pause)}
+<DIAL>__{He have any special delivery requirements?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{He'll eat potroast and like it.}
+<CHAR>__{CAL} <CHAR_PAR>__{}
+<DIAL>__{Go you Huskies?}
+<CHAR>__{ANN} <CHAR_PAR>__{}
+<DIAL>__{You bet your life.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Joe, as he looks over at Ann and smiles.}
+<ACTION_ALT>__{ANGLE ON}
+<ACTION>__{Ann, giving him a "thumbs up" sign as the Firedog comes and sits next to her.  In the b.g., we see the pickup hit the pothole and bounce.}
+<TRANS>__{FADE TO BLACK:}
+<ACTION_ALT>__{THE END.}

@@ -1,12 +1,12 @@
 <TRANS>__{FADE IN:}
-<LOC>__{EXT. NEW YORK CITY SKYLINE  NIGHT}
+<LOC>__{EXT. NEW YORK CITY SKYLINE NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF THE NEW YORK CITY SKYLINE AT NIGHT, THE LIGHTS}
 <ACTION_ALT>__{OF THE CITY SHINING BRIGHTLY.}
-<LOC>__{EXT. WORKOUT AREA  SAME NIGHT}
+<LOC>__{EXT. WORKOUT AREA SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF MASTER KWAN'S SCHOOL, A RAMSHACKLE BUILDING IN A}
 <ACTION_ALT>__{BURNED OUT ROW OF STORES.}
 <ACTION>__{His is the only one still occupied, and it doesn't look that permanent. In the window is a cardboard, handwritten sign that reads "Kwan's Shaolin Kung Fu". What remains visible behind the poster and the security grate is an IMPRESSION of people moving and milling around.}
-<LOC>__{INT. WORKOUT AREA  SAME NIGHT}
+<LOC>__{INT. WORKOUT AREA SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF KWAN'S SHAOLIN KUNG FU SCHOOL. The students are doing their own thing, and they are a mixture of old and young, men and women. They are not dressed alike, as they would be in a Karate school: they are dressed in old T-shirts and tattered sweat pants. This is not a wealthy school, by any means, and that is typified by the appearance of SIFU KWAN, who is walking through the students as they train. He is wizened old man, 70 years old if he is a day, and he is dressed in a fraying Chinese jacket, scruffy cloth shoes and a discolored Chinese T-shirt.}
 <ACTION_ALT>__{ANGLE ON A YOUNG ADULT}
 <ACTION>__{Struggling through a horse stance, his face in real pain. He is trying his best to hold the stance, but his legs are quivering. He drops out of the stance onto his knees. Master Kwan is right beside him.}
@@ -25,12 +25,12 @@
 <ACTION>__{As he walks around the different people training. As one woman is moving through an intricate series of movements, he sighs and rearranges her hands.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{Tiger grasps his tail, not hamburger!}
-<ACTION>__{He    moves on, studying the room with his eyes, often glancing toward the    door, and then toward the small clock on a table near the door. It    is late, and Kwan is obviously waiting for someone to arrive. As he    is waiting, a young STUDENT comes up to Kwan.}
+<ACTION>__{He moves on, studying the room with his eyes, often glancing toward the door, and then toward the small clock on a table near the door. It is late, and Kwan is obviously waiting for someone to arrive. As he is waiting, a young STUDENT comes up to Kwan.}
 <CHAR>__{STUDENT} <CHAR_PAR>__{}
 <DIAL>__{Master Kwan, when can I learn flying kicks? I see Bruce Lee...}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{Bruce Lee actor, we fighters, warriors. A sparrow in flight is beautiful, but a side kick to the ribs is effective. Show me.}
-<ACTION>__{The boy shrugs    and then    starts throwing side kicks. Kwan   is half looking at the    boy and    half looking towards the door and   the clock. The boy throws    three or    four kicks and then stops. He is   watching Kwan watching    the door.    Kwan sees him, and turns back to   him.}
+<ACTION>__{The boy shrugs and then starts throwing side kicks. Kwan is half looking at the boy and half looking towards the door and the clock. The boy throws three or four kicks and then stops. He is watching Kwan watching the door. Kwan sees him, and turns back to him.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(shaking his head)}
 <DIAL>__{A Shaolin warrior lets nothing intrude. Continue, never mind.}
@@ -41,12 +41,12 @@
 <CHAR>__{MOTHER} <CHAR_PAR>__{}
 <DIAL>__{I only hope it brings him luck in the tournament.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
-<DIAL>__{Luck is no concern, Mrs. Rodriguez. Shaolin warriors depend on heart and soul  that's how they saved the T'ang emporer.}
+<DIAL>__{Luck is no concern, Mrs. Rodriguez. Shaolin warriors depend on heart and soul that's how they saved the T'ang emporer.}
 <ACTION>__{He looks again at the door, then claps his hands together, gathering his students around him.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Xie Xie, Mrs. Rodriguez.}
 <DIAL_PAR>__{(to class)}
-<ACTION>__{During my time training at the Shaolin Temple, the birthplace of the martial arts, I was lucky (glance at Mrs. Rodriguez)... er... fortunate to have the best instructors in the world train me. But, there was also time for individual training  where skills were honed like the blade of a sword. Now, it is that time for you. He turns to go. One of the students, before he can leave, clears his throat.}
+<ACTION>__{During my time training at the Shaolin Temple, the birthplace of the martial arts, I was lucky (glance at Mrs. Rodriguez)... er... fortunate to have the best instructors in the world train me. But, there was also time for individual training where skills were honed like the blade of a sword. Now, it is that time for you. He turns to go. One of the students, before he can leave, clears his throat.}
 <CHAR>__{STUDENT 2} <CHAR_PAR>__{}
 <DIAL>__{What do you want us to do?}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
@@ -57,12 +57,12 @@
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{No matter.}
 <ACTION>__{He exits, leaving his students staring vacantly after him. They look at each other, honestly not knowing what to do.}
-<LOC>__{EXT. DREW GARAGE  SAME NIGHT}
+<LOC>__{EXT. DREW GARAGE SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF OLD GARAGE.}
-<ACTION>__{It is kind of spooky, and there are no lights on outside. There is candlelight inside, and it is moving around  an effect not unlike a ghost carrying a candelabra.}
-<LOC>__{INT. DREW GARAGE  SAME NIGHT}
+<ACTION>__{It is kind of spooky, and there are no lights on outside. There is candlelight inside, and it is moving around an effect not unlike a ghost carrying a candelabra.}
+<LOC>__{INT. DREW GARAGE SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF INTERIOR.}
-<ACTION>__{The area is dilapidated, but very clean, with all kinds of kung fu and Chinese paraphenalia lying around. Around the corner comes the spooky light, and (with music building to a crescendo), we see DREW CARSON, a    muscular 16/17 year old, bowls of flaming wax on his bare shoulders,    moving through the garage, practicing his kung fu maneuvers.    He is kicking, punching, etc., occasionally spilling hot wax on his    skin (INSERT). In the background is a TV, and on it is showing a martial arts movie.}
+<ACTION>__{The area is dilapidated, but very clean, with all kinds of kung fu and Chinese paraphenalia lying around. Around the corner comes the spooky light, and (with music building to a crescendo), we see DREW CARSON, a muscular 16/17 year old, bowls of flaming wax on his bare shoulders, moving through the garage, practicing his kung fu maneuvers. He is kicking, punching, etc., occasionally spilling hot wax on his skin (INSERT). In the background is a TV, and on it is showing a martial arts movie.}
 <ACTION_ALT>__{ANGLE ON KWAN}
 <ACTION>__{Who is quietly settling into a shadowy corner of the garage, watching Drew.}
 <ACTION_ALT>__{ANGLE ON DREW}
@@ -87,10 +87,10 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I'll still win. Besides, the Shaolin monks never had tapes to study... they did it this way... right?}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
-<DIAL>__{Not quite  our drills at the temple had meaning. If we had tapes, we would have watched them.}
+<DIAL>__{Not quite our drills at the temple had meaning. If we had tapes, we would have watched them.}
 <ACTION>__{Drew starts to protest, but Kwan doesn't even let him start.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{"The    warrior who knows himself and his opponent will win 100    times in 100 battles." Study the tapes I gave you. All    these years of one on one training  you're the best I've    ever taught.}
+<DIAL>__{"The warrior who knows himself and his opponent will win 100 times in 100 battles." Study the tapes I gave you. All these years of one on one training you're the best I've ever taught.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{The best?}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
@@ -131,7 +131,7 @@
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{I wish I had the chance...}
 <ACTION>__{Kwan exits, and we...}
-<LOC>__{EXT. TREVOR ESTATE  DAY}
+<LOC>__{EXT. TREVOR ESTATE DAY}
 <ACTION>__{ESTABLISHING SHOT OF TREVOR GOTTITALL ESTATE, A HUGE PALATIAL SPREAD. The grounds are immaculate and huge, exquisitely kept and beautifully laid out. A gathering is around the pool and lawn area, where TREVOR and his team are having an exhibition for their guests. Polite applause is COMING FROM THE CROWD, ALL WELL-DRESSED AND OBVIOUSLY WELL-HEELED.}
 <ACTION_ALT>__{ANGLE ON TREVOR}
 <ACTION>__{As he knocks out an opponent.}
@@ -150,11 +150,11 @@
 <DIAL>__{Can't you get me any quality sparring partners?}
 <ACTION>__{The next guy comes up, but before they can start, the psychologist, DR. PFEELGUT, calls for "Time" and motions Trevor over.}
 <CHAR>__{PFEELGUT} <CHAR_PAR>__{}
-<DIAL>__{It's    not enough just to win, Trevor. You have to destroy your    opponent completely, mentally and physically. Beat him    once, he's a threat. Humiliate him, and he'll fear you    forever.}
+<DIAL>__{It's not enough just to win, Trevor. You have to destroy your opponent completely, mentally and physically. Beat him once, he's a threat. Humiliate him, and he'll fear you forever.}
 <ACTION>__{Trevor listens to this, nods his head once, and when Pfeelgut goes to leave, Trevor pushes him into the pool. Pfeelgut comes to the surface, smiling.}
 <CHAR>__{PFEELGUT } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Exactly!}
-<ACTION>__{Trevor goes back to the ring. He really takes it      to this guy, alternately playing with him and hurting him. As      the guy tries to hold his own, the string to his pants comes loose      and they start to fall down. He grabs for them with both hands, and      Trevor starts to back up, laughing with the rest of the group.}
+<ACTION>__{Trevor goes back to the ring. He really takes it to this guy, alternately playing with him and hurting him. As the guy tries to hold his own, the string to his pants comes loose and they start to fall down. He grabs for them with both hands, and Trevor starts to back up, laughing with the rest of the group.}
 <ACTION_ALT>__{ANGLE ON PFEELGUT}
 <ACTION>__{Toweling off, who is yelling to Trevor.}
 <CHAR>__{PFEELGUT } <CHAR_PAR>__{(CONT'D)}
@@ -162,7 +162,7 @@
 <ACTION>__{Trevor looks at him for a moment, not really understanding, then sees what the psychologist is saying. He lunges immediately forward and (in SLOW MOTION) knocks the guy out while he is still trying to pull his pants up.}
 <ACTION_ALT>__{ANGLE ON CROWD AS THEY ENJOY THE SHOW IMMENSELY}
 <ACTION>__{Trevor has learned the lesson of the day, and he walks off.}
-<LOC>__{INT. TREVOR HOUSE  SAME DAY}
+<LOC>__{INT. TREVOR HOUSE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF TREVOR BEING PAMPERED BY HIS ENTOURAGE}
 <ACTION>__{The masseur is massaging his shoulders, a woman is doing a pedicure and another is doing a manicure. An exercise physiologist is going over a computer print out with Trevor, when an old Korean master, MASTER KIM, comes into the room.}
 <CHAR>__{TREVOR} <CHAR_PAR>__{}
@@ -192,12 +192,12 @@
 <ACTION>__{The masseur nods and adjusts his technique accordingly.}
 <CHAR>__{TREVOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{It's hard being me, you know. So much pressure...}
-<LOC>__{EXT. COLISEUM  DAY}
+<LOC>__{EXT. COLISEUM DAY}
 <ACTION>__{People are streaming into the large building. The marquee out front reads "Diamond Nationals".}
-<LOC>__{INT. COLISEUM  SAME DAY}
-<ACTION>__{ESTABLISHING MONTAGE OF TOURNAMENT: CROWDS AND COMPETITORS. (SOME IDEAS, NOT IN ORDER) Competitors warming up (wall front stretch, very high; one guy kicking another in the head  tap, tap, tap; two man routine practicing  another one jumps in?; two beautiful girls sparring; crowd assembling; group of kids waiting  call comes over public address system, they run off; stand outside selling high tech equipment; different styles of fighter's clothes  camo, stars & stripes, "headhunter"; stern 9 year old girl doing kata; two toddlers barely seen through their safety equipment fighting furiously; two twins doing identical kata; breaking; etc.)}
+<LOC>__{INT. COLISEUM SAME DAY}
+<ACTION>__{ESTABLISHING MONTAGE OF TOURNAMENT: CROWDS AND COMPETITORS. (SOME IDEAS, NOT IN ORDER) Competitors warming up (wall front stretch, very high; one guy kicking another in the head tap, tap, tap; two man routine practicing another one jumps in?; two beautiful girls sparring; crowd assembling; group of kids waiting call comes over public address system, they run off; stand outside selling high tech equipment; different styles of fighter's clothes camo, stars & stripes, "headhunter"; stern 9 year old girl doing kata; two toddlers barely seen through their safety equipment fighting furiously; two twins doing identical kata; breaking; etc.)}
 <ACTION_ALT>__{ANGLE ON DREW AND KWAN}
-<ACTION>__{Walk into the area  Drew is dressed in the ill-fitting handmade suit by Mrs. Rodriguez. People recognize him as he walks past.}
+<ACTION>__{Walk into the area Drew is dressed in the ill-fitting handmade suit by Mrs. Rodriguez. People recognize him as he walks past.}
 <ACTION_ALT>__{ANGLE ON TREVOR}
 <ACTION>__{Making his entrance. He is in a perfectly laundered and pressed suit, and his assistant is carrying another suit pressed and ready to go.}
 <CHAR>__{COMPETITOR} <CHAR_PAR>__{}
@@ -238,11 +238,11 @@
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he packs up his stuff.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. NEW YORK BRIDGE  NIGHT}
+<LOC>__{EXT. NEW YORK BRIDGE NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF DREW AND KWAN WALKING ALONG A BRIDGE, THE ENTIRE}
 <ACTION_ALT>__{NEW YORK NIGHT SKYLINE IN THE B.G.}
 <ACTION>__{They are not talking, they are just walking, Drew kicking a can and contemplating the future, and the past.}
-<LOC>__{INT. KWAN HOUSE  SAME NIGHT}
+<LOC>__{INT. KWAN HOUSE SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF SMOKING ACUPUNCTURE NEEDLE, ITS TIP EMBEDDED IN DREW'S FOREARM. Kwan's hand COMES INTO FRAME and flicks the needle, sending it vibrating back and forth. CAMERA PULLS BACK TO REVEAL Drew sitting at the table in Kwan's house, the acupuncture needle in his arm and his face pensive and sad. Kwan busies himself around the needle, trying to alleviate the pain of Drew's bruises.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{Next time we get that guy...}
@@ -253,13 +253,13 @@
 <DIAL>__{... you should find a new student. I just can't do it I'm not getting any better!}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Don't talk like that. At Shaolin...}
-<ACTION>__{He pauses, and decides not to tell another Shaolin Temple story. Drew looks at him funny  this is very against his character.}
+<ACTION>__{He pauses, and decides not to tell another Shaolin Temple story. Drew looks at him funny this is very against his character.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I saw a Shaolin monk once. I was only 5 years old at the time, but I remember it like it was yesterday. I was coming back from the market with my father. Soldiers stopped us and were taking the food we had just bought. It was all we had left to eat  no more money. These were hard times in China, people were selling their children for food, and the soldiers had no right. Who can stop soldiers with guns, though? Yes?}
+<DIAL>__{I saw a Shaolin monk once. I was only 5 years old at the time, but I remember it like it was yesterday. I was coming back from the market with my father. Soldiers stopped us and were taking the food we had just bought. It was all we had left to eat no more money. These were hard times in China, people were selling their children for food, and the soldiers had no right. Who can stop soldiers with guns, though? Yes?}
 <ACTION>__{He pauses, and takes a sip of tea, checking the needle, adjusting it and turning it slightly this way and that.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Just as the soldiers were leaving, a monk stepped out of the crowd and told them very calmly to put the food back. Well, naturally, they didn't. They pushed the monk, and the next thing I knew the soldiers were in the street, and the food was back in my father's arms. 5 soldiers, and they were in a heap on the ground, their blood mixing with the dust of the street.}
-<ACTION>__{Kwan smiles with the memory  it is a sweet and heroic one.}
+<ACTION>__{Kwan smiles with the memory it is a sweet and heroic one.}
 <CHAR>__{KWAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{The crowd whispered "Shaolin", and he bowed to us, touched my cheek and smiled, then just walked on. I watched him until he disappeared in the distance. He was larger than life, a hero to a little boy of 5. I vowed then and there to become like him, fight for right like the Shaolin.}
 <ACTION>__{He pauses again, looking at Drew. Drew meets his gaze, wondering why he is telling him this story.}
@@ -294,21 +294,21 @@
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{What are you talking about?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{I'm going to the Shaolin Temple  they can train me so I will never lose like that again.}
+<DIAL>__{I'm going to the Shaolin Temple they can train me so I will never lose like that again.}
 <ACTION>__{Kwan feels Drew's forehead. A long beat here as Kwan studies Drew's eyes.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{He hit you so hard, you're delirious. I'll get a cold cloth.}
 <ACTION>__{He starts to get up, but Drew grabs his arm and forces him back down.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(eyes intent)}
-<DIAL>__{Don't you    see? You said    yourself I needed the right training     where better    than the Shaolin Temple? What's holding me    here? I have    the chance to do what you couldn't.    I will go to    the Shaolin Temple.}
+<DIAL>__{Don't you see? You said yourself I needed the right training where better than the Shaolin Temple? What's holding me here? I have the chance to do what you couldn't. I will go to the Shaolin Temple.}
 <ACTION>__{Kwan looks at him, realizes he's serious. He nods his head, giving the idea serious consideration. He smiles along with Drew.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
 <DIAL>__{I must pay for your ticket...}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{No! I'll make it there myself.}
 <CHAR>__{KWAN} <CHAR_PAR>__{}
-<DIAL>__{I grew up on the stories of the Shaolin, and you can be those stories. You can live my dream for me  at least let me help you. Let an old man make up for the trouble he's caused.}
+<DIAL>__{I grew up on the stories of the Shaolin, and you can be those stories. You can live my dream for me at least let me help you. Let an old man make up for the trouble he's caused.}
 <ACTION>__{Kwan touches Drew's bruised cheek, fatherly love in his eyes. Drew nods his head, then bows in the traditional Chinese manner.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Master...}
@@ -318,36 +318,36 @@
 <ACTION>__{As he packs for China.}
 <ACTION_ALT>__{ANGLE ON KWAN AND DREW}
 <ACTION>__{As Kwan drops drew off at the AIRPORT. Drew takes his suitcase and walks into the airport.}
-<LOC>__{EXT. CHANG AN LU  DAY}
+<LOC>__{EXT. CHANG AN LU DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW RUNNING ALONG BEIJING'S CHANG AN LU, A SEA}
 <ACTION_ALT>__{OF BICYCLES AROUND HIM.}
 <ACTION>__{Bicycle bells ring loudly as figures dressed in the same drab clothes ride around him, their faces covered with scarves and surgical masks against the northern China dirt. CAMERA PULLS BACK TO REVEAL TIAN AN MEN SQUARE and the huge photo of CHAIRMAN MAO on the front of the Meridian Gate of the Forbidden City. Drew continues his run, past a group of western-dressed lyou mang, who watch him run by through dark glasses. Drew runs through a large city park, stopping to watch a group of older citizens going through Tai Zhi routines under the weeping willow trees there. Drew runs through an open air food market, picking his way through flipping fish, dead frogs and all kinds of fruits and vegetables. People yell at each other, trying to get the best price. Young man brushing his teeth in the street. A group of toddlers, strung together with rope, walks down the street, their split pants showing glimpses of bare bottoms as they walk.}
-<LOC>__{EXT. TRAIN STATION  SAME DAY}
+<LOC>__{EXT. TRAIN STATION SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF SERIOUSLY OVERCROWDED TRAIN, PEOPLE PUSHING AND}
 <ACTION_ALT>__{SHOVING TO GET ON.}
 <ACTION>__{Drew walks up to it, a huge backpack on his back. He hesitates a moment, then starts forcing his way onto the train like everyone else. He manages to get in through a window.}
-<LOC>__{INT. CROWDED TRAIN  SAME DAY}
+<LOC>__{INT. CROWDED TRAIN SAME DAY}
 <ACTION>__{There are no seats. Drew takes his pack off and sits on it. Next to him is an old man, his teeth red and rotted from betel nut juice. The man smiles at Drew.}
-<LOC>__{EXT. CHINA COUNTRYSIDE  DAY}
-<ACTION_ALT>__{TRAIN RUSHING THROUGH THE COUNTRYSIDE. DREW POV EXT. COUNTRYSIDE  DAY}
+<LOC>__{EXT. CHINA COUNTRYSIDE DAY}
+<ACTION_ALT>__{TRAIN RUSHING THROUGH THE COUNTRYSIDE. DREW POV EXT. COUNTRYSIDE DAY}
 <ACTION>__{Drew watches the countryside go by. Temples, farms and rice paddies slide by, with an occasionally glimpse of the Great Wall.}
-<LOC>__{EXT. GREAT WALL  DAY}
+<LOC>__{EXT. GREAT WALL DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW, BACKPACK ON, AS HE WALKS ON THE GREAT}
 <ACTION_ALT>__{WALL.}
-<LOC>__{EXT. CHINA COUNTRYSIDE  NIGHT}
+<LOC>__{EXT. CHINA COUNTRYSIDE NIGHT}
 <ACTION_ALT>__{TRAIN RUSHING THROUGH DARKENED COUNTRYSIDE.}
-<LOC>__{INT. LUOYANG TRAIN STATION  DAY}
+<LOC>__{INT. LUOYANG TRAIN STATION DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW GETTING OFF THE TRAIN.}
 <ACTION>__{He stops on the platform for a moment, a huge colorful Chinese billboard in the b.g. A transit cop quickly comes up to him and prods him into motion. Drew walks on, passing a sign that reads "Luoyang".}
-<LOC>__{EXT. CHINESE STREETS  DAY}
+<LOC>__{EXT. CHINESE STREETS DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW MAKING HIS WAY TOWARD THE SHAOLIN TEMPLE.}
-<ACTION>__{He stops at    a drink stand and orders one. As soon as he stops, he is ringed with    people watching his every move  he feels almost like a movie star.    The woman in the stand hands him a drink, and takes the money out of    his hand.}
+<ACTION>__{He stops at a drink stand and orders one. As soon as he stops, he is ringed with people watching his every move he feels almost like a movie star. The woman in the stand hands him a drink, and takes the money out of his hand.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Where is the Shaolin Temple? Shaolin?}
 <ACTION>__{The woman just smiles and shakes her head, not comprehending.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Walking aimlessly. He comes to an intersection and sees a sign that says "Shaolin Temple" with an arrow. He goes in the direction that the arrow points.}
-<LOC>__{EXT. GIRL'S SCHOOL  SAME DAY}
+<LOC>__{EXT. GIRL'S SCHOOL SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUP OF GIRLS STANDING OUTSIDE THEIR SCHOOL.}
 <ACTION>__{Drew walks up and says hello.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -361,7 +361,7 @@
 <DIAL>__{I do. But wouldn't it make more sense for you to speak Chinese than to expect us to speak English?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(flustered)}
-<DIAL>__{You're right. I apologize  I've just been trying to get to the temple for a long time now.}
+<DIAL>__{You're right. I apologize I've just been trying to get to the temple for a long time now.}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{Why do you want to find the temple?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -369,31 +369,31 @@
 <DIAL>__{I am going to join the temple as a monk.}
 <ACTION>__{Ashema translates this for her friends, and they titter anew. They gesture to Drew's longish hair and laugh, and then make some attempts at martial arts movements.}
 <CHAR>__{ASHEMA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I'm going that way  I can take you.}
+<DIAL>__{I'm going that way I can take you.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{You have a car?}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{The next best thing.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{This is a Chinese car.}
-<ACTION>__{She pulls out her standard-issue black bicycle  she has customized it, however, with some colorful additions.}
+<ACTION>__{She pulls out her standard-issue black bicycle she has customized it, however, with some colorful additions.}
 <CHAR>__{ASHEMA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Hop on.}
 <ACTION>__{Drew does, and they take off, the girls from the school tittering as they drive off.}
-<LOC>__{EXT. CHINESE STREETS  SAME DAY}
+<LOC>__{EXT. CHINESE STREETS SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF ASHEMA PEDALING DREW.}
-<ACTION>__{It is not the most stable ride  Ashema is struggling to keep moving, while Drew is doing his best to stay on the bike.}
+<ACTION>__{It is not the most stable ride Ashema is struggling to keep moving, while Drew is doing his best to stay on the bike.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. CHINESE STREETS  SAME DAY}
+<LOC>__{EXT. CHINESE STREETS SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW PEDALING ASHEMA.}
-<ACTION>__{He is riding strongly, and she is comfortable in the back. They are getting stares from the people they pass, but Ashema seems to be enjoying the attention. Drew hits a bump, and Ashema holds his waist a little tighter. Neither of them mind  in fact, Drew starts looking for more bumps. He pulls around the corner into a wide area lined with drink and food stands.}
+<ACTION>__{He is riding strongly, and she is comfortable in the back. They are getting stares from the people they pass, but Ashema seems to be enjoying the attention. Drew hits a bump, and Ashema holds his waist a little tighter. Neither of them mind in fact, Drew starts looking for more bumps. He pulls around the corner into a wide area lined with drink and food stands.}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{We are here.}
 <ACTION_ALT>__{DREW STOPS THE BIKE AND LOOKS BACK AT HER. ASHEMA GESTURES TO THE}
 <ACTION>__{TEMPLE FRONT, AND DREW TURNS IN AWE.}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THE TEMPLE.}
-<ACTION>__{This is it  the temple he came halfway around the world to see. The Shaolin Temple, the birthplace of the martial arts.}
+<ACTION>__{This is it the temple he came halfway around the world to see. The Shaolin Temple, the birthplace of the martial arts.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Whoa!}
 <ACTION>__{Ashema climbs off the back and takes the bike from Drew, marveling at his awe-struck face.}
@@ -409,10 +409,10 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Hey, thanks a lot for the ride. I hope I see you again.}
 <ACTION>__{They wave at each other, and Ashema pushes her bike off. Drew turns back to stare at the front of the temple. He is letting it all sink in. After a moment, he picks up his backpack and heads for the front door. He pulls it open and disappears inside.}
-<LOC>__{INT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{INT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF TEMPLE INTERIOR AS DREW OPENS THE HEAVY DOOR.}
-<ACTION>__{The muted half light inside is in direct contrast to the sunlight of the day outside. Drew quietly closes the front door, and the half light takes over. He walks through the temple proper, and what follows is a MONTAGE of temple shots, establishing the feeling of the temple:    the famous Shaolin monk painting, the depressions in the floor of    the training hall, the incense blackened walls of the temple,    the temple figurines, the red lanterns hanging from the ceiling,    a huge wooden carving of Bodhidharma, etc. No one is around. Drew continues to explore, looking for someone to talk to. He wanders into another hall, following the O.S. sounds of CHANTING. Once inside this hall, he sees a group of monks, amid hanging incense burners and paper lanterns, sitting down on the floor chanting in rhythm. No one notices that Drew is standing there. The monks eyes are open, but they don't seem to see him. He stands there for a moment, then shrugs and walks out of that hall. He goes into a corridor, then passes the "Wooden Man Chamber". HE STICKS HIS HEAD IN, AND SEES ALL KINDS OF WOODEN STATUES LINED UP. HE ALMOST STARTS IN, BUT IS DISTRACTED BY THE SOUNDS OF TRAINING OUTSIDE (O.S.). HE WALKS OUT IN SEARCH OF THE SOUNDS.}
-<LOC>__{EXT. TRAINING AREA  SAME DAY}
+<ACTION>__{The muted half light inside is in direct contrast to the sunlight of the day outside. Drew quietly closes the front door, and the half light takes over. He walks through the temple proper, and what follows is a MONTAGE of temple shots, establishing the feeling of the temple: the famous Shaolin monk painting, the depressions in the floor of the training hall, the incense blackened walls of the temple, the temple figurines, the red lanterns hanging from the ceiling, a huge wooden carving of Bodhidharma, etc. No one is around. Drew continues to explore, looking for someone to talk to. He wanders into another hall, following the O.S. sounds of CHANTING. Once inside this hall, he sees a group of monks, amid hanging incense burners and paper lanterns, sitting down on the floor chanting in rhythm. No one notices that Drew is standing there. The monks eyes are open, but they don't seem to see him. He stands there for a moment, then shrugs and walks out of that hall. He goes into a corridor, then passes the "Wooden Man Chamber". HE STICKS HIS HEAD IN, AND SEES ALL KINDS OF WOODEN STATUES LINED UP. HE ALMOST STARTS IN, BUT IS DISTRACTED BY THE SOUNDS OF TRAINING OUTSIDE (O.S.). HE WALKS OUT IN SEARCH OF THE SOUNDS.}
+<LOC>__{EXT. TRAINING AREA SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF TRAINING AREA.}
 <ACTION>__{All manner of training equipment is standing outside (wooden men, posts, hanging targets, heavy bags, iron palm jugs, balance beams, etc.). A monk, the DRILL SERGEANT (hereafter D.S.), is standing in front of a wooden post, driving his hand into the wood. The post TREMBLES with every strike. Drew stands next to the monk, watching him intently. Again, the monk takes no notice of him.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -427,7 +427,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What's the deal here? Is everybody deaf in this temple? Even if you heard me, you wouldn't understand, would you? Huh, baldy? Shine your head for a quarter?}
 <ACTION>__{He walks off frustrated, wondering what he has to do to get noticed. He walks back into the chanting chamber.}
-<LOC>__{INT. TEMPLE  SAME DAY}
+<LOC>__{INT. TEMPLE SAME DAY}
 <ACTION>__{The monks are still chanting. Drew stands there, listening some more, moving with the beat, until they stop chanting. Drew, thinking it was some kind of performance, claps his hands.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{That was great! Great!}
@@ -470,7 +470,7 @@
 <DIAL>__{I just want to be a monk!}
 <ACTION>__{Drew is forced through the courtyard to the front door. They pass the monk who was sweeping up in the back of the temple. He watches with interest as they open the door and force Drew through it, out of the temple. He smiles.}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT. SHAOLIN COURTYARD  SAME DAY}
+<LOC>__{EXT. SHAOLIN COURTYARD SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW LANDING ON THE FLAGSTONES OF THE COURTYARD}
 <ACTION>__{WITH A THUMP! A group of people stop and watch the foreigner. The temple door closes with a solid boom.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -488,7 +488,7 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{They kicked me out...}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. TEMPLE STAND  EVENING}
+<LOC>__{EXT. TEMPLE STAND EVENING}
 <ACTION>__{ESTABLISHING SHOT OF DREW, ASHEMA AND OLD MAN, STILL SITTING AT THE TABLE, NOW LIT BY CANDLES AND A LANTERN. A bunch of tea bowls are scattered in front of Drew, as if he's been drinking heavily. He points to his teacup, and Ashema shakes her head.}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{You've had enough.}
@@ -515,13 +515,13 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{How long?}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
-<DIAL>__{A long time  through the worst weather. He just sat there, unmoving, through rain, sleet, snow.}
+<DIAL>__{A long time through the worst weather. He just sat there, unmoving, through rain, sleet, snow.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Did they let him in?}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <DIAL_PAR>__{(beat)}
-<DIAL>__{Of course they did  what kind of story do you think my Bau Bau would tell? He stayed in front of the temple until they could no longer say no. He went on to become one of the most famous monks in the history of the temple.}
+<DIAL>__{Of course they did what kind of story do you think my Bau Bau would tell? He stayed in front of the temple until they could no longer say no. He went on to become one of the most famous monks in the history of the temple.}
 <ACTION>__{Drew sits there, thinking, letting it all soak in. He then gets up and smiles.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Please tell your grandfather, your Bau Bau, he is a wise man. And that he tells a good story.}
@@ -535,7 +535,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{In front of the temple.}
 <ACTION>__{He walks off into the Chinese night.}
-<LOC>__{EXT. SHAOLIN TEMPLE  EARLY MORN}
+<LOC>__{EXT. SHAOLIN TEMPLE EARLY MORN}
 <ACTION>__{ESTABLISHING SHOT OF MIST-LADEN COURTYARD. The sun is barely coming up, and only a few shafts of light are illuminating the darkness. A figure can be seen sitting cross-legged in front of the door. It is Drew, backpack at his side. The front door opens and a monk pokes his head out to look around, and he sees Drew sitting there. His eyes widen in shock, then he quickly disappears inside. Almost immediately, the door opens again, and the Admissions Monk is standing there, surprised and angry to see Drew sitting there.}
 <CHAR>__{ADMISSIONS MONK} <CHAR_PAR>__{}
 <DIAL>__{Go home! You cannot stay here!}
@@ -543,7 +543,7 @@
 <CHAR>__{ADMISSIONS MONK } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Do you hear me? Go away!}
 <ACTION>__{Drew doesn't move. San De, the sweeping monk, walks out of the open door, a monk behind him carrying a suitcase. He walks past Drew, noticing him sitting there. He walks on. The Admissions Monk slams the door, angry.}
-<LOC>__{EXT. TEMPLE  MONTAGE SECTION}
+<LOC>__{EXT. TEMPLE MONTAGE SECTION}
 <ACTION_ALT>__{ANGLE ON DREW SWEATING IN THE HOT SUNSHINE}
 <ACTION>__{Sweat is running into Drew's eyes, and he is trying to keep them from stinging.}
 <ACTION_ALT>__{ANGLE ON DREW BEING TORMENTED BY LOCAL KIDS}
@@ -575,13 +575,13 @@
 <ACTION>__{Drew nods.}
 <ACTION_ALT>__{ANGLE ON DREW SURROUNDED BY KIDS}
 <ACTION>__{They are no longer tormenting him, they are playing around and with him. Drew is not moving, but he is part of their group. ANGLE ON DREW, THE SPIDER NOW SITTING ON HIS HAND Drew stares at the spider, his companion in the vigil. ANGLE ON DREW, BIRDS ALL AROUND HIM The birds are keeping him company, and they are singing for him. ANGLE ON DREW, THE FULL MOON IN THE B.G. Drew's form is firm and solid, the determination in his eyes easily seen as he stares at the moon. He will see this through.}
-<LOC>__{EXT. TEMPLE  DAY}
+<LOC>__{EXT. TEMPLE DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW STILL SITTING IN THE COURTYARD.}
-<ACTION>__{The    old monk, San De, comes back, the same monk following behind him with    the suitcase. He looks at Drew, a little surprise showing in his face    at seeing the American still there. He doesn't stop, though. He goes    into the temple, shaking his head.}
+<ACTION>__{The old monk, San De, comes back, the same monk following behind him with the suitcase. He looks at Drew, a little surprise showing in his face at seeing the American still there. He doesn't stop, though. He goes into the temple, shaking his head.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Same as the first shot, all alone in the temple.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF COURTYARD, DREW ALL ALONE. The door to the temple opens and out comes San De, alone this time. He walks over to where Drew is, stares at him for a moment, then sits down across from him. Drew tries not to look at him. San De runs his hand across his bald pate and smiles.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{My head is shiny enough already, don't you think?}
@@ -592,7 +592,7 @@
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{What are you trying to do?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{I want to become a monk  they won't let me in... Hey, you're just a grunt, a janitor sweeping up and all, don't sweat it. It's not your problem...}
+<DIAL>__{I want to become a monk they won't let me in... Hey, you're just a grunt, a janitor sweeping up and all, don't sweat it. It's not your problem...}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{Why are you sitting here?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -606,10 +606,10 @@
 <DIAL_PAR>__{(nodding)}
 <DIAL>__{Much of the training at the temple is in that direction self sacrifice. Tell me more.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{At first I was really bored, and very lonely. But then, things changed. Maybe it's like hitting the wall in running  it was like I became part of the courtyard, and I felt powerful. Even the spider became my friend...}
+<DIAL>__{At first I was really bored, and very lonely. But then, things changed. Maybe it's like hitting the wall in running it was like I became part of the courtyard, and I felt powerful. Even the spider became my friend...}
 <ACTION>__{Drew opens up his hand to reveal a spider sitting in his palm.}
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{It was an incredible experience  I said I'd do it, and I did it.}
+<DIAL>__{It was an incredible experience I said I'd do it, and I did it.}
 <ACTION>__{San De, watching Drew intently, smiles at this last. He stands up and bows to Drew. Drew bows back, from his seated position.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{I wish you all the best.}
@@ -617,7 +617,7 @@
 <DIAL>__{Same to you.}
 <ACTION>__{San De turns and goes into the temple, leaving Drew still sitting in the courtyard, the setting sun in the b.g.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION>__{ESTABLISHING SHOT OF COURTYARD, DREW ALL ALONE. O.S. comes the sounds of gongs and drums. A crowd has gathered in the courtyard. Ashema and her grandfather are in the crowd, and they work themselves up to where Drew is. Drew turns his head, and a procession of kids about his age (some older and some younger) come walking into the courtyard. The front door to the temple opens wide, and a column of monks, all in their best saffron robes, are lined up waiting to receive them. The young men who are walking in all still have hair, and they are carrying some baggage. They begin to enter the temple.}
 <CHAR>__{ASHEMA} <CHAR_PAR>__{}
 <DIAL>__{They are disciples. This is the last class for fighting monks at Shaolin.}
@@ -627,7 +627,7 @@
 <CHAR>__{ASHEMA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I'm sorry, Drew. It was a good effort.}
 <ACTION>__{Drew is sitting there, trying to understand what is happening when the door to the temple opens again. The Drill Sergeant appears in the doorway and impatiently motions for Drew to come in. The crowd has stopped and is watching the drama unfold. Drew gets up warily, expecting some trick. The Drill Sergeant motions again, wanting Drew to hurry up. Drew looks at Ashema and her Bau Bau and smiles. He picks up his backpack and starts towards the temple, limping from sitting for so long. The crowd goes crazy, clapping and yelling. Drew runs into the temple. The door closes behind him.}
-<LOC>__{INT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{INT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF INTERIOR OF TEMPLE.}
 <ACTION>__{The line of disciples has stopped, waiting for Drew. Drew, back pack in hand, takes his place at the end of the line. They parade past a line of monks assembled in the courtyard inside the temple. As they walk by, some of the monks look nonplused, while a few are put out by the fact that Drew is among them. Several of the disciples turn around to look at Drew, and a couple are openly hostile to him. They file up to a raised platform, on which stand 20 monks, each holding a scroll in their hands, one monk for every new disciple. A gong sounds, and the questions begin.}
 <ACTION_ALT>__{ANGLE ON FIRST DISCIPLE}
@@ -709,7 +709,7 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Great, just great.}
 <ACTION>__{They are motioned to follow Gao out of the courtyard and into the temple proper.}
-<LOC>__{INT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{INT. SHAOLIN TEMPLE SAME DAY}
 <ACTION>__{Drew walks behind the other disciples, who are lining up to get their robes. As he takes his place in line, a monk comes up to take Drew's backpack. Drew resists, and a tug of war ensues.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{What are you doing, man?}
@@ -721,7 +721,7 @@
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{It is unseemly to argue like this. Take the backpack into the sleeping quarters.}
 <DIAL_PAR>__{(to Drew)}
-<DIAL>__{Do not cling to material things  it is not good for your soul.}
+<DIAL>__{Do not cling to material things it is not good for your soul.}
 <ACTION>__{He walks away, and Drew reluctantly gives up his backpack. Drew lines back up, and is about to get his robes, when Gao slides over and takes them from him. Drew immediately shoves him and tries to grab the robes back. Gao smiles and moves away, holding the robes up and away from Drew. Drew is pissed and ready to go after Gao. Before he can, however, LI, another disciple, grabs another set of robes from the table and gives it to Drew, pulling him away from the confrontation.}
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What's with that guy?}
@@ -735,7 +735,7 @@
 <DIAL>__{No, that was me...}
 <ACTION>__{They both smile and walk off.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{INT. TEMPLE  SAME DAY}
+<LOC>__{INT. TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF MONKS HAVING THEIR HEADS SHAVED.}
 <ACTION>__{THE CAMERA MOVES DOWN the line of monks, as their hair is shaved off in clumps. Drew is standing next to his chair, arguing with the D.S. about the haircut.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -745,7 +745,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Can't I just wear a patch?}
 <ACTION>__{The D.S. shakes his head, and Drew sits down, unhappy. The barber starts on Drew's head, big clumps of hair falling down to the floor.}
-<LOC>__{EXT. SHAOLIN COURTYARD  EVENING}
+<LOC>__{EXT. SHAOLIN COURTYARD EVENING}
 <ACTION>__{ESTABLISHING SHOT OF MONKS, THEIR HEADS NEWLY SHAVED, STANDING OUT IN}
 <ACTION_ALT>__{THE COURTYARD.}
 <ACTION>__{They are running their hands over their heads. Drew comes out of the building, his head shaved completely clean.}
@@ -754,7 +754,7 @@
 <ACTION>__{He rubs his hand over his head, and then sees the others. Li is smiling.}
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{If I look half as stupid as you guys do, I'm really in trouble...}
-<LOC>__{INT. DORM  NIGHT}
+<LOC>__{INT. DORM NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF THEIR SLEEPING QUARTERS, AS THE MONKS FILE IN,}
 <ACTION_ALT>__{LED BY THE D.S.}
 <ACTION>__{A number of cots are lined up side by side. The D.S. has assigned a bed to each monk. Drew finds his bed, which is right next to Gao's.}
@@ -803,10 +803,10 @@
 <ACTION>__{Who seems to be sleeping peacefully.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he climbs back into bed, bone-weary. He lies back down to sleep.}
-<LOC>__{INT. SHAOLIN TEMPLE  MORNING}
+<LOC>__{INT. SHAOLIN TEMPLE MORNING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF LATRINE.}
-<ACTION>__{Drew stumbles in, bleary-eyed,    to relieve himself. He stands at the urinal, relaxing as he starts.    Suddenly, a huge stick WHACKS Drew across the rear end, the SOUND    reverberating through the latrine. Drew yelps and jumps, looking    around for the attacker. No one is there, and his underwear is now all wet.}
-<LOC>__{INT. DINING ROOM  SAME DAY}
+<ACTION>__{Drew stumbles in, bleary-eyed, to relieve himself. He stands at the urinal, relaxing as he starts. Suddenly, a huge stick WHACKS Drew across the rear end, the SOUND reverberating through the latrine. Drew yelps and jumps, looking around for the attacker. No one is there, and his underwear is now all wet.}
+<LOC>__{INT. DINING ROOM SAME DAY}
 <ACTION>__{ESTABLISHING TIGHT SHOT OF RICE GRUEL ("WATER RICE"), A SPOON}
 <ACTION_ALT>__{STIRRING THE MEAGER MIXTURE.}
 <ACTION>__{CAMERA PULLS BACK TO REVEAL Drew sitting with Li and some other disciples. Drew makes a face.}
@@ -822,10 +822,10 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Well, at least we start training today, right, guys?}
 <ACTION>__{A chorus of Yeahs.}
-<LOC>__{INT. DORM ROOM  SAME DAY}
+<LOC>__{INT. DORM ROOM SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF DORM ROOM, ALL THE DISCIPLES CHANGING INTO THEIR}
 <ACTION_ALT>__{WORKOUT CLOTHES.}
-<ACTION>__{They are the standard fighting monk issue  suitable for martial arts training.}
+<ACTION>__{They are the standard fighting monk issue suitable for martial arts training.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Wonder what they'll start us with first?}
 <CHAR>__{LI} <CHAR_PAR>__{}
@@ -835,7 +835,7 @@
 <CHAR>__{WU} <CHAR_PAR>__{}
 <DIAL>__{No, it'll be basics, first day. Horse stance, kicks and punches...}
 <ACTION>__{When they are all dressed, they run out of the room.}
-<LOC>__{EXT. TRAINING AREA  SAME DAY}
+<LOC>__{EXT. TRAINING AREA SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF ALL THE DISCIPLES LINED UP, READY FOR THE}
 <ACTION_ALT>__{TRAINING.}
 <ACTION>__{In the b.g. are the fighting monks, going through their routines.}
@@ -869,7 +869,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I came halfway around the world to dig latrines? I could have just joined the army...}
 <TRANS>__{DISSOLVE TO:}
-<ACTION_ALT>__{LATRINE WORK AREA  MONTAGE MONTAGE SEQUENCE OF WORK DETAIL. ANGLE ON DREW AND THE OTHER DISCIPLES}
+<ACTION_ALT>__{LATRINE WORK AREA MONTAGE MONTAGE SEQUENCE OF WORK DETAIL. ANGLE ON DREW AND THE OTHER DISCIPLES}
 <ACTION>__{Digging with their shovels. Their training clothes are already sweated through and dirty. Their shirts are off, and their arm muscles are bulging and shining in the hot sunshine.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he lifts up two heavy buckets of dirt on a pole, then places the pole on his shoulders, the muscles in his arms, shoulders and back straining. He walks off to the side of the area to dump it. As he dumps the dirt, a pole appears and CRACKS across his back. He drops the buckets and falls to the ground. He gets up as quickly as he can, but there is no one to be seen.}
@@ -904,17 +904,17 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I'm gonna get you, man. Oh, yeah...}
 <ACTION>__{Gao is laughing as he watches Drew go.}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW FILLING THE BUCKETS IN THE STREAM.}
 <ACTION>__{Once they are filled, he starts back for the temple. His shoulders are straining from the weight of the buckets. He goes over the path to the temple, having to negotiate logs over chasms, etc. After various trials and tribulations, Drew arrives at the temple, his arms incredibly tired. The D.S. is there waiting for him. Drew, determined not to show any weakness, raises the buckets a little bit higher. He comes to the D.S., proud and defiant. The D.S. motions for him to put the buckets down. Without thinking, Drew, puts the buckets down, and they both fall over, spilling their contents onto the ground. Drew tries to stop them, but he's too late. The water has all spilled out onto the ground.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Don't tell me, I know. Get more water...}
-<LOC>__{INT. DORM ROOM  NIGHT}
+<LOC>__{INT. DORM ROOM NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES ALL IN BED.}
 <ACTION>__{They are exhausted from their work. Drew is lying in bed, his eyes wide open, ready to get attacked.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As his eyes go closed, finally.}
-<LOC>__{EXT. WORK AREA  DAY}
+<LOC>__{EXT. WORK AREA DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW WALKING ON A RIDGE BETWEEN TWO LARGE HOLES,}
 <ACTION_ALT>__{CARRYING HUGE BASKETS OF DIRT ON HIS POLE.}
 <ACTION>__{He is balancing as he walks.}
@@ -924,7 +924,7 @@
 <DIAL>__{Back up and let me pass.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{No chance, Gao. You back up.}
-<ACTION>__{Gao smiles and shakes   his head. Gao starts forward, and WHACKS Drew in the leg with a leg   sweep. Drew tries to keep his balance, and fights a valient, but   losing battle. He falls over the side, the dirt in his buckets flying   everywhere. Gao wipes his hands off and continues walking. CLOSEUP ON DREW'S BLOODY HAND A huge splinter sticking out of it. He is in real pain. The D.S. walks over and looks at the splinter, and in one move pulls it out.}
+<ACTION>__{Gao smiles and shakes his head. Gao starts forward, and WHACKS Drew in the leg with a leg sweep. Drew tries to keep his balance, and fights a valient, but losing battle. He falls over the side, the dirt in his buckets flying everywhere. Gao wipes his hands off and continues walking. CLOSEUP ON DREW'S BLOODY HAND A huge splinter sticking out of it. He is in real pain. The D.S. walks over and looks at the splinter, and in one move pulls it out.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL_PAR>__{(heartlessly)}
 <DIAL>__{Shaolin monks feel no pain. Rub some dirt on it and you will be fine.}
@@ -945,17 +945,17 @@
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{He just wasn't good enough. I wouldn't be surprised if half of us go out the same way.}
 <ACTION>__{The D.S. appears and motions for them to work.}
-<LOC>__{INT. MEDITATION HALL  DAY}
+<LOC>__{INT. MEDITATION HALL DAY}
 <ACTION>__{ESTABLISHING SHOT OF DISCIPLES, DREW IN THE MIDDLE, SITTING IN ROWS IN THE INCENSE-FILLED MEDITATION CHAMBER. The monk in charge of the chamber is talking to them.}
 <CHAR>__{MEDITATION MONK} <CHAR_PAR>__{}
 <DIAL>__{Breath in through your nose, out through your mouth. Imagine yourself sitting on the bank of a river watching your thoughts flow by. Clear your mind... Think of nothing.}
 <ACTION>__{Drew sits, trying to think of nothing. He is not succeeding.}
-<LOC>__{INT. DINING AREA  NIGHT}
+<LOC>__{INT. DINING AREA NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF DREW WASHING DISHES, ALONE IN THE KITCHEN AREA. He bends over to get a dish, when a pole comes and SMACKS him on the rear end. He turns immediately in one direction, but gets hit again from the OTHER direction. Drew is furious, and he can't even see the attacker.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Come out, goddamn it! Show yourself!}
 <ACTION>__{No answer, as we HOLD on Drew looking around.}
-<LOC>__{EXT. WORK AREA  DAY}
+<LOC>__{EXT. WORK AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DARK BROWN LIQUID BEING POURED INTO A LARGE PIT.}
 <ACTION>__{Drew is walking with Li, having just dumped their buckets into a large hole.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -982,7 +982,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(to Li)}
 <DIAL>__{Well, somebody sure smells!}
-<LOC>__{EXT. WORK AREA  DAY}
+<LOC>__{EXT. WORK AREA DAY}
 <ACTION_ALT>__{THE DISCIPLES ARE WORKING EXTREMELY HARD.}
 <ACTION>__{As they work, a group of fighting monks walk by after a workout. Drew stops working and watches them pass.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -991,41 +991,41 @@
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Back to work.}
 <ACTION>__{Drew is about to say something, but doesn't. He returns to work.}
-<ACTION_ALT>__{DORM AREA  NIGHT ANGLE ON DREW MASSAGING HIS MUSCLES}
+<ACTION_ALT>__{DORM AREA NIGHT ANGLE ON DREW MASSAGING HIS MUSCLES}
 <ACTION>__{He is sitting with Li and a couple of the other disciples, Wu, Shu and Low.}
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I've got an idea on how to get even with our beloved Drill Sergeant...}
 <ACTION>__{They all huddle a little closer.}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF D.S. AS HE WALKS ALONG THE PATH.}
 <ACTION>__{In the b.g. can be seen Drew, Li, Wu and a couple other of the disciples. They are waiting for something. The D.S. hits the trip wire and suddenly two bamboo poles HURTLE towards him, ready to slam him in the shoulders. With one beautiful move, the D.S. breaks both poles, shattering when they hit his arms. The D.S. hardly breaks stride and continues walking. He looks back once, and sees the outline of the group of disciples.}
 <ACTION_ALT>__{ANGLE ON DREW AND THE GUYS}
 <ACTION>__{Who are up and running as soon as they are spotted. They run by Gao, who was watching from another area.}
-<LOC>__{EXT. D.S. QUARTERS  SAME DAY}
+<LOC>__{EXT. D.S. QUARTERS SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GAO WAITING OUTSIDE D.S. ROOM.}
 <ACTION>__{He looks around, knocks, and then goes in.}
-<LOC>__{EXT. COURTYARD  SAME DAY}
+<LOC>__{EXT. COURTYARD SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF ENTIRE CLASS GATHERED TOGETHER.}
 <ACTION>__{The D.S. walks into the front of the courtyard and addresses the group. Gao is standing off to the side, a smug smile on his face.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{You are all responsible for anything that happens within your group. What happened yesterday falls on everyone's shoulders. So, all of you will do double work...}
 <ACTION_ALT>__{ANGLE ON GAO}
 <ACTION>__{The smug smile gone now.}
-<LOC>__{INT. MEDITATION ROOM  DAY}
+<LOC>__{INT. MEDITATION ROOM DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUP OF DISCIPLES SEATED ON ROUND PILLOWS}
 <ACTION>__{PRACTISING ZAZEN, SITTING MEDITATION. Drew is in the center of the room, and the sound of light snoring is heard.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{It is him, he is asleep! Suddenly, a bamboo shinai is SLAMMED across Drew's back, waking him up.}
 <CHAR>__{MEDITATION MONK} <CHAR_PAR>__{}
 <DIAL>__{Bodhidharma meditated for 9 years without sleeping. Think you can manage 9 minutes?}
-<LOC>__{EXT. WORK AREA  DAY}
+<LOC>__{EXT. WORK AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THE ENTIRE GROUP LABORING IN THE FIELDS.}
 <ACTION>__{They are all singing "Chain Gang".}
 <ACTION_ALT>__{TIGHT ON SEVERAL OF THE DISCIPLES}
 <ACTION>__{They are good workers, and they don't mind the hard work nor the hot weather quite so much.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Working hard.}
-<LOC>__{INT. DORM AREA  NIGHT}
+<LOC>__{INT. DORM AREA NIGHT}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Who is holding court.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -1051,11 +1051,11 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You're either with us, Gao, or you're against us.}
 <ACTION>__{No answer from Gao. They exit the room.}
-<LOC>__{INT. HALLWAY  SAME NIGHT}
+<LOC>__{INT. HALLWAY SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF DREW AND THE BOYS RUSHING DOWN THE CORRIDOR, HEADING FOR SAN DE'S QUARTERS.}
 <ACTION_ALT>__{ANGLE ON D.S.}
 <ACTION>__{Heading for the same place but from a different direction.}
-<LOC>__{INT. SHAOLIN HALLWAY  SAME NIGHT}
+<LOC>__{INT. SHAOLIN HALLWAY SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF GROUP ASSEMBLED OUTSIDE SAN DE'S CHAMBERS. Drew goes to knock on the door, when it opens and San De is standing there. The D.S. has just arrived. He looks at San De for instructions, but San De indicates that he will deal with them.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Master San De!}
@@ -1073,11 +1073,11 @@
 <DIAL>__{No, really, I want to...}
 <ACTION>__{San De holds up his hand. He is the final authority.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
-<DIAL>__{Here at the temple,    we use a period of intense physical labor to test your    patience, and to teach you humility and self-reliance.    As you continue training, you will be given chores every    day  remember the first time you saw me I was sweeping?    Physical labor keeps us humble.}
+<DIAL>__{Here at the temple, we use a period of intense physical labor to test your patience, and to teach you humility and self-reliance. As you continue training, you will be given chores every day remember the first time you saw me I was sweeping? Physical labor keeps us humble.}
 <ACTION_ALT>__{ANGLE ON THE DISCIPLES}
 <ACTION>__{Who tonight have been anything but humble.}
 <CHAR>__{SAN DE } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You've all performed    admirably, and have learned an important lesson  to    obey your shr fu without question. Because of this, I've    decided to begin your martial training sooner than    what is prescribed. Tomorrow morning.}
+<DIAL>__{You've all performed admirably, and have learned an important lesson to obey your shr fu without question. Because of this, I've decided to begin your martial training sooner than what is prescribed. Tomorrow morning.}
 <ACTION>__{The disciples can hardly believe their luck.}
 <CHAR>__{SAN DE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{And, what did you have to say to me?}
@@ -1090,7 +1090,7 @@
 <ACTION>__{They all say "Thank you" as one, and then bow to the headmaster with their hands clasped in front of them. They turn away and head down the hallway.}
 <ACTION_ALT>__{ANGLE ON THE DISCIPLES}
 <ACTION>__{As they increase their pace, almost running through the halls with their excitement.}
-<LOC>__{INT. DORM AREA  SAME NIGHT}
+<LOC>__{INT. DORM AREA SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DOOR TO THE SLEEPING QUARTERS.}
 <ACTION>__{Suddenly, it BURSTS open and in come the disciples, led by Drew. They fan out into the room, Drew in the center.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -1114,7 +1114,7 @@
 <ACTION>__{He hits the lights and then closes the door. In the semi-darkness the room relaxes in a collective sigh. Drew stands up and packs up the stereo. Gao walks over past Drew.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{It's not over, American.}
-<LOC>__{INT. MAIN CHAMBER  MORNING}
+<LOC>__{INT. MAIN CHAMBER MORNING}
 <ACTION>__{ESTABLISHING SHOT OF CHAMBER FULL OF FIGHTING MONKS, ALL GOING}
 <ACTION_ALT>__{THROUGH THE SAME SET OF MOVEMENTS.}
 <ACTION>__{Kick. Punch. Kick. Punch.}
@@ -1143,7 +1143,7 @@
 <CHAR>__{MONK } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{At the Shaolin temple, we forge our bodies in the fire of our wills. We adhere to a vow of non-violence, unless someone else is in danger... Follow my movements...}
 <ACTION>__{He starts moving through a series of techniques, and the rest of the disciples try to mimic his actions. He is moving around the room, and they are trying to do what he is doing. Some are getting it, some aren't. Drew, used to a more individualized type of training, isn't getting it.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING TIGHT SHOT OF WEDGE THWOCKING INTO THE GROUND.}
 <ACTION>__{A hand COMES INTO FRAME, grabs the wedge and pulls it back out of the ground. PULL BACK TO REVEAL Drew, along with the other disciples, lined up and throwing these sharp wedges into the ground and pulling it back out. Their muscles are bulging with the effort.}
 <ACTION_ALT>__{ANGLE ON HUGE SMOKING BRASS URNS}
@@ -1158,7 +1158,7 @@
 <DIAL>__{I can't do this!}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Here at Shaolin, can't doesn't exist. Only won't.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES PAIRED OFF.}
 <ACTION>__{Drew is working with his friend Li. They are moving through a series of techniques, ending with a flashy kicking technique which is to blocked by a special Shaolin technique. Each time Li throws the final kick, Drew gets hit, HARD. His block isn't working. A monk comes up to him.}
 <CHAR>__{MONK} <CHAR_PAR>__{}
@@ -1173,16 +1173,16 @@
 <DIAL_PAR>__{(menacingly)}
 <DIAL>__{My turn.}
 <ACTION>__{He attacks, and Drew gets to the final technique. He blocks the way he did before, and he gets slammed brutally by Gao. Gao stands over him, smiling.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION>__{ESTABLISHING SHOT OF MONKS FLIPPING THROUGH THE AIR, DOING FLYING KICKS, AERIALS, ETC. A monk is alternately falling down and kipping up, falling down and kipping up. Drew's group is working on several very athletic maneuvers, none of which Drew is especially good at. Gao, of course, is having no trouble. Drew tries a flying move and falls into a heap on the ground. He is very angry, and he hits the ground with his fist.}
 <CHAR>__{MONK} <CHAR_PAR>__{}
-<DIAL>__{Emotions cloud the spirit  eliminate them.}
+<DIAL>__{Emotions cloud the spirit eliminate them.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{This isn't martial arts  it's gymnastics!}
+<DIAL>__{This isn't martial arts it's gymnastics!}
 <CHAR>__{MONK} <CHAR_PAR>__{}
 <DIAL>__{This is Shaolin Wu Shu. Continue.}
 <ACTION>__{Drew sits in the dirt, watching everyone around him sail through the air and flip over the ground. He is not a happy camper.}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF TRAINING AREA.}
 <ACTION>__{The entire group is gathered in a sort of pit, on a hard concrete floor. D.S. stands in the middle.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
@@ -1233,7 +1233,7 @@
 <ACTION>__{He tries to get up, but moans in pain and falls back down. Li helps him up and takes him to the showers.}
 <ACTION_ALT>__{ANGLE ON D.S.}
 <ACTION>__{Watching them go. There is a slight smile on his face.}
-<LOC>__{EXT. DORMITORY  SAME DAY}
+<LOC>__{EXT. DORMITORY SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF LI RUBBING THE BRUISE ON DREW'S SHOULDER WITH}
 <ACTION_ALT>__{TIGER BALM.}
 <ACTION>__{It is huge, and looks really painful.}
@@ -1245,7 +1245,7 @@
 <ACTION>__{Just as he is talking, Gao comes to the window with a pan of dirty water (from washing the floor of the dorm). GAO LOOKS DOWN (GAO POV) AND SEES DREW Hhe smiles, then pours the huge bucket over the edge, dousing Drew.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As the dirty water hits him, drenching him.}
-<LOC>__{EXT. WATERFALL  DAY}
+<LOC>__{EXT. WATERFALL DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF WATERFALL.}
 <ACTION>__{It is huge, and the water is crashing down from high above. ANGLE ON A MONK, INSIDE THE WATERFALL He is going through martial arts techniques as the water thunders onto him.}
 <ACTION_ALT>__{ANGLE ON D.S. AND GROUP}
@@ -1261,10 +1261,10 @@
 <DIAL>__{Next...}
 <ACTION>__{Each of them try it in turn. Everyone fails. Gao goes in, and he manages to stand under the impact of the water for a moment, before he too succumbs and goes down into the pool.}
 <ACTION_ALT>__{ANGLE ON DREW}
-<ACTION>__{It's his turn. He walks to the waterfall and goes in. He picks up an umbrella he stashed behind the waterfall (imprinted with a "NEW YORK GIANTS NFL" logo on it  unmistakably American). He walks into the waterfall, and the umbrella works for a moment. Drew is holding it with both hands, and he gets into a deep horse stance. He turns to smile at the D.S., and then waves at the others. As soon as he takes a hand off the handle of the umbrella, the water slams him and off he goes into the pool. He lands with a huge splash, doing a painful bellow flop. Drew comes to the surface, still clutching the now- destroyed umbrella. He smiles at the other disciples, who are still swimming, sheepishly.}
+<ACTION>__{It's his turn. He walks to the waterfall and goes in. He picks up an umbrella he stashed behind the waterfall (imprinted with a "NEW YORK GIANTS NFL" logo on it unmistakably American). He walks into the waterfall, and the umbrella works for a moment. Drew is holding it with both hands, and he gets into a deep horse stance. He turns to smile at the D.S., and then waves at the others. As soon as he takes a hand off the handle of the umbrella, the water slams him and off he goes into the pool. He lands with a huge splash, doing a painful bellow flop. Drew comes to the surface, still clutching the now- destroyed umbrella. He smiles at the other disciples, who are still swimming, sheepishly.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Thought I'd join you guys.}
-<LOC>__{INT. TEMPLE TRAINING HALL  DAY}
+<LOC>__{INT. TEMPLE TRAINING HALL DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUPS WORKING OUT.}
 <ACTION>__{Drew is in with the group. Gao and Drew are chosen to do a training exercise together.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
@@ -1283,7 +1283,7 @@
 <CHAR>__{MONK} <CHAR_PAR>__{}
 <DIAL>__{Then do it that way...}
 <ACTION>__{The Monk walks away, shaking his head.}
-<LOC>__{EXT. SHAOLIN TEMPLE  EVENING}
+<LOC>__{EXT. SHAOLIN TEMPLE EVENING}
 <ACTION>__{ESTABLISHING SHOT OF TEMPLE COURTYARD, EMPTY EXCEPT FOR DREW AND LI}
 <ACTION_ALT>__{PLAYING CATCH WITH A FRISBEE.}
 <ACTION>__{Drew is flipping it in a bunch of different ways, and Li is enjoying watching him. To the side of the courtyard are two brooms leaning against the wall.}
@@ -1296,7 +1296,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Yes, master.}
 <ACTION>__{He bows and smiles goodbye to Li. He walks into the main training chamber.}
-<LOC>__{INT. CHAMBER  SAME EVENING}
+<LOC>__{INT. CHAMBER SAME EVENING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WALKING INTO THE CHAMBER.}
 <ACTION>__{This is the chamber where they had their first workout, and Drew just stands there for a moment, soaking up the tradition of it. He walks to an area of the chamber under the famous painting and stands staring at it. QUICK CUTS to different ANGLES of the painting.}
 <ACTION_ALT>__{ANGLE ON DREW}
@@ -1310,7 +1310,7 @@
 <ACTION>__{Just then, out of the shadows comes an attacking staff, SLAMMING into Drew's unprotected stomach! Drew, ready to double over in pain, hears the staff hit the frisbee, and stands up straight, adjusting the frisbee that saved his stomach. Before he can react, the staff SMACKS him in the back of the head and sends him pitching to the floor.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he lands face down in the pile of dust and dirt he already swept up.}
-<LOC>__{EXT. SHAOLIN TEMPLE  EVENING}
+<LOC>__{EXT. SHAOLIN TEMPLE EVENING}
 <ACTION>__{ESTABLISHING SHOT OF TEMPLE COURTYARD, THE SUN SETTING IN THE}
 <ACTION_ALT>__{DISTANCE.}
 <ACTION>__{Drew is standing in front of a painting-statue of Bodhidharma, one in which he is made to look extremely fierce. San De walks up behind Drew and stands there for a moment.}
@@ -1321,9 +1321,9 @@
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{Come with me...}
 <ACTION>__{San De walks away, and Drew follows him.}
-<LOC>__{INT. SAN DE'S CHAMBERS  SAME NIGHT}
+<LOC>__{INT. SAN DE'S CHAMBERS SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF SAN DE BREWING TEA.}
-<ACTION>__{The room is filled with paintings and scrolls. A Golden Sash hangs in a place of honor. San De    puts the tea    leaves into the pot, then soaks them with boiling water.    He pours the    water out, then repeats the process several times.    His movements    are all very precise and careful  it almost looks    like a martial    art kata.}
+<ACTION>__{The room is filled with paintings and scrolls. A Golden Sash hangs in a place of honor. San De puts the tea leaves into the pot, then soaks them with boiling water. He pours the water out, then repeats the process several times. His movements are all very precise and careful it almost looks like a martial art kata.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{Legend states that Bodhidharma gave us tea. Once, while meditating, Bodhidharma fell asleep, a natural reaction we all have to fight against.}
 <ACTION>__{San De looks pointedly at Drew, who doesn't meet his eyes.}
@@ -1353,11 +1353,11 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Drink your tea.}
 <ACTION>__{Drew nods and sips at his tea.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF ONE OF THE INSTRUCTORS TEACHING A SOFT STYLE OF SHAOLIN WU SHU.}
 <ACTION>__{His body moves with the wind, bending and swaying. Another monk is attacking him with a hard style, and the soft style is very effective. Drew and Li try it, and Drew is having a lot of trouble. He is used to training hard style, and the soft style seems too weak for him. D.S. comes over.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{It's not fighting  I feel like I'm dancing or something... This soft stuff is unnatural  Fighting should be hard, tough...}
+<DIAL>__{It's not fighting I feel like I'm dancing or something... This soft stuff is unnatural Fighting should be hard, tough...}
 <ACTION>__{The D.S. holds out his hand, in a tight fist.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{If my hand was always like this, what would you call it?}
@@ -1370,14 +1370,14 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Again, deformed.}
 <ACTION>__{The D.S. nods and walks off, leaving Drew to stare questioningly at Li.}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION>__{ESTABLISHING SHOT OF TEMPLE COURTYARD, WHERE ALL THE DISCIPLES ARE}
 <ACTION_ALT>__{COLLECTED.}
 <ACTION>__{They are not dressed in their monastic robes, however. They are in street clothes. It is their day off! A monk comes down the line, handing out hats to the disciples. They put them on, and wait for instructions from the D.S.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Remember, let no one know you are disciples at the Shaolin Temple, but do not forget that you are. Dzai Jyan.}
 <ACTION>__{They file out.}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THE DISCIPLES EXITING THE TEMPLE.}
 <ACTION>__{As soon as they are out, the serious faces break into smiles, and they are teenagers again. Some of the disciples run off to join relatives waiting for them in the courtyard, while a group of them stick together. Drew is walking with Li, Wu and several others.}
 <ACTION_ALT>__{ANGLE ON THE GROUP}
@@ -1387,12 +1387,12 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Chill out, guys! It's our day off!}
 <ACTION>__{He bows to Bau Bau and then they walk off. They walk through the small town, checking it out. They walk through the countryside, enjoying their freedom. Drew has brought a frisbee with him, and they are tossing it around.}
-<LOC>__{EXT. LUOYANG CAVES  SAME DAY}
+<LOC>__{EXT. LUOYANG CAVES SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUP AS THEY WALK IN THE HILLS HOUSING THE FAMOUS LUO YANG CAVES.}
 <ACTION>__{The hills are filled with Buddhist carvings.}
-<ACTION_ALT>__{ANGLE ON CARVINGS  INTERCUT ANGLE ON DREW}
+<ACTION_ALT>__{ANGLE ON CARVINGS INTERCUT ANGLE ON DREW}
 <ACTION>__{As he walks by the carvings. The detail and the artistry are amazing.}
-<LOC>__{EXT. RIVERSIDE  SAME DAY}
+<LOC>__{EXT. RIVERSIDE SAME DAY}
 <ACTION_ALT>__{ANGLE ON DREW AND GROUP}
 <ACTION>__{As they walk by a riverside park. The park is filled with people, and a group of kids swinging into the river on a rope. Drew stops to watch them, then looks back at the others. They all shake their heads. Drew nods his. They continue to shake their heads. Drew starts running towards the kids, stripping off his shirt at the same time. The others pause for a moment, then follow his lead.}
 <ACTION_ALT>__{ANGLE ON GROUP}
@@ -1450,10 +1450,10 @@
 <ACTION>__{Li and the guys immediately hem and haw their negative replies, but Drew smiles and takes Ashema's hand. The girls start to giggle again. He brings her hand up to his lips, and kisses it gently.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{We'll be there.}
-<LOC>__{INT. DORM ROOM  NIGHT}
+<LOC>__{INT. DORM ROOM NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF DORM ROOM, LI STANDING IN FRONT OF DREW, THE}
 <ACTION_ALT>__{REST OF THE DISCIPLES GATHERED AROUND.}
-<ACTION>__{The room is dark  it's after lights out.}
+<ACTION>__{The room is dark it's after lights out.}
 <CHAR>__{LI} <CHAR_PAR>__{}
 <DIAL>__{Are you nuts? We can't go to a party, with GIRLS!}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -1473,7 +1473,7 @@
 <DIAL>__{And we don't know how to talk to girls...}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(trying to sound like an expert)}
-<DIAL>__{That's easy. You just talk to them like you would to the guys  you just don't tell them as much, and... not in the same way...}
+<DIAL>__{That's easy. You just talk to them like you would to the guys you just don't tell them as much, and... not in the same way...}
 <ACTION>__{Drew is in over his head.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{Like you know?}
@@ -1507,12 +1507,12 @@
 <ACTION_ALT>__{ANGLE ON DISCIPLES}
 <ACTION>__{Still moving and swaying to the music.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{INT. DORM ROOM  NIGHT}
+<LOC>__{INT. DORM ROOM NIGHT}
 <ACTION_ALT>__{ANGLE ON DISCIPLES}
 <ACTION>__{Now asleep and in bed, still clutching their pillows like they were girls.}
 <ACTION_ALT>__{ANGLE ON DOOR}
 <ACTION>__{As it opens. The D.S. looks in on the room, and sees all the kids holding their pillows. He shakes his head and then closes the door.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION>__{ESTABLISHING SHOT OF TWO BODIES FIGHTING, KICKING AND PUNCHING. CAMERA PULLS BACK TO REVEAL Drew and Gao going at it. The other disciples are paired off as well, but the only real action is here in this ring. Drew is getting tagged, hard, while the points he scores are all relatively controlled. After one particularly powerful shot, Drew stops.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I thought this was light contact!}
@@ -1529,7 +1529,7 @@
 <DIAL_PAR>__{(to others)}
 <DIAL>__{Back to work.}
 <ACTION>__{He turns and walks off, motioning for Drew and Gao to follow him. Drew follows immediately, with Gao behind him. Gao shoves him once.}
-<LOC>__{INT. SAN DE CHAMBER  SAME DAY}
+<LOC>__{INT. SAN DE CHAMBER SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW, GAO AND SAN DE IN THE SHADOWS OF SAN DE'S}
 <ACTION_ALT>__{ROOM.}
 <ACTION>__{San De is sitting down reading a Buddhist text. With a sigh, he puts it down. On the wall behind is hanging a Golden Sash.}
@@ -1557,7 +1557,7 @@
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{I didn't think you were...}
 <DIAL_PAR>__{(beat)}
-<DIAL>__{The Shaolin martial tradition is built on challenges. We challenge ourselves, but we do not fight with each other. Never do we fight to see who is best  we train to be able to right wrongs, not to let our hands and feet express emotions run wild. A Shaolin never throws a punch or kick in anger.}
+<DIAL>__{The Shaolin martial tradition is built on challenges. We challenge ourselves, but we do not fight with each other. Never do we fight to see who is best we train to be able to right wrongs, not to let our hands and feet express emotions run wild. A Shaolin never throws a punch or kick in anger.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Shake hands and let your emotions go.}
 <ACTION>__{Gao looks at Drew, knowing that the anger is already long gone, swept away in the shock of Drew taking the blame. They shake hands. Both Drew and Gao notice the Golden Sash hanging on the wall. It is occupying a place of honor.}
@@ -1578,7 +1578,7 @@
 <ACTION>__{Gao smiles and walks through the door. Just as he passes Drew, he punches him in the stomach.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{In your dreams...}
-<LOC>__{INT. DORM ROOM  DAY}
+<LOC>__{INT. DORM ROOM DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES GETTING READY TO GO OUT.}
 <ACTION>__{They are dressed in "street" clothes and are just pulling on their hats. Drew, instead of wearing his temple-issue hat, pulls on a New York Yankees baseball cap!}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -1589,20 +1589,20 @@
 <ACTION>__{There is a moment of indecision, then Gao frowns, shakes his head and comes jogging towards them.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{I'm coming, just to keep you out of trouble!}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME NIGHT}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF EMPTY COURTYARD BATHED IN MOONLIGHT.}
 <ACTION>__{Suddenly, a figure lands on the ground with a PUFF of dust. In a crouch, Drew scans the area, then motions for the others to jump down. Immediately, other figures land with PUFFs of dust all around him. As soon as they have all landed, they move off.}
 <ACTION_ALT>__{ANGLE ON GROUP}
-<ACTION>__{As they    sneak    through the courtyards and training areas of the temple.    They    are about halfway across from the front door of the temple    when a    monk comes walking towards them. He is weaving and bobbing     he    looks drunk. Drew shoots Li and Gao a questioning look. Drunk? In the temple? They take refuge behind a couple of the columns and watch as the monk makes his way past, weaving and throwing kicks and punches. It is a tense moment as the monk comes uncomfortably close to where Drew and Gao are standing, but he walks on.}
+<ACTION>__{As they sneak through the courtyards and training areas of the temple. They are about halfway across from the front door of the temple when a monk comes walking towards them. He is weaving and bobbing he looks drunk. Drew shoots Li and Gao a questioning look. Drunk? In the temple? They take refuge behind a couple of the columns and watch as the monk makes his way past, weaving and throwing kicks and punches. It is a tense moment as the monk comes uncomfortably close to where Drew and Gao are standing, but he walks on.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whisper)}
 <DIAL>__{Drunken Kung Fu...}
 <ACTION>__{Drew nods and leads them out of the temple.}
-<LOC>__{EXT. TEMPLE  SAME NIGHT}
+<LOC>__{EXT. TEMPLE SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUP AS THEY HEAD DOWN THE DARK STREETS OF THE}
 <ACTION>__{TOWN. EUPHORIA STRIKES, AND THEY ARE HAVING FUN (AD LIBS HERE) JUST}
 <ACTION_ALT>__{BEING FREE AND A.W.O.L.}
-<LOC>__{EXT. GIRL'S SCHOOL  SAME NIGHT}
+<LOC>__{EXT. GIRL'S SCHOOL SAME NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF FRONT OF GIRL'S SCHOOL. It is the same school where Drew first met Ashema. The guys, still happy, arrive at the school, and the realization of what they are about to do sinks in. They stop talking and are staring at the building. Drew starts toward the door, and nobody follows his lead. He stops and motions for them to join him. Nobody moves.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Are we men or are we sheep?}
@@ -1610,7 +1610,7 @@
 <CHAR>__{GROUP} <CHAR_PAR>__{}
 <DIAL>__{SHEEP!}
 <ACTION>__{And they follow Drew, the shepherd, in through the front door, making noises like sheep.}
-<LOC>__{INT. PARTY ROOM  SAME NIGHT}
+<LOC>__{INT. PARTY ROOM SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF PARTY.}
 <ACTION>__{It isn't happening. The boys are on one side, the girls are on the other. The music is bad Chinese rock and roll. The only ones together are Drew and Ashema, who are talking in the center of the room. The disciples are all clustered together, staring at the walls and the ceiling. A group of giggle girls are standing around Drew and Ashema. A group of toughs are standing at one side of the party room, observing everything that's going on.}
 <ACTION_ALT>__{ANGLE ON DREW AND ASHEMA}
@@ -1633,7 +1633,7 @@
 <ACTION>__{As the song the disciples have been singing in the fields blasts out. Immediately, the disciples start moving with the music, and suddenly the Party is happening.}
 <TRANS>__{DISSOLVE TO:}
 <ACTION_ALT>__{ANGLE ON DISCIPLES}
-<ACTION>__{Who are now slow dancing to a romantic melody  some holding the girls closer than others. Drew and Ashema are locked in an embrace, their eyes closed. A hand comes in and taps Drew on the shoulder.}
+<ACTION>__{Who are now slow dancing to a romantic melody some holding the girls closer than others. Drew and Ashema are locked in an embrace, their eyes closed. A hand comes in and taps Drew on the shoulder.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(eyes still closed)}
 <DIAL>__{Not now, Li...}
@@ -1651,18 +1651,18 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Can't we talk this over?}
 <ACTION>__{The tough pulls his fist back to strike Drew, who has been grabbed by two other toughs, his arms pinned behind his back. Suddenly, a figure FLIES in and SLAMS the tough to the ground. It is Gao, and he immediately sets on the other toughs. The room ERUPTS in a melee as the disciples go at it with the village toughs. The girls are SCREAMING as the boys kick and punch. The disciples are winning, having a great time, until the door to the room SLAMS open and the HEADMISTRESS comes storming in, screaming at the top of her lungs for them to stop. ANGLE ON DREW, GAO AND THE DISCIPLES As they all agree as one to hightail out of there. They go running past the Headmistress and out the door, full speed.}
-<LOC>__{EXT. GIRLS SCHOOL  SAME NIGHT}
+<LOC>__{EXT. GIRLS SCHOOL SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES SPRINTING THROUGH THE DARKNESS.}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME NIGHT}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME NIGHT}
 <ACTION_ALT>__{ANGLE ON THE DISCIPLES}
 <ACTION>__{As they climb back into the dorm room.}
-<LOC>__{INT. DORM ROOM  SAME NIGHT}
-<ACTION_ALT>__{ESTABLISHING SHOT AS THE LAST DISCIPLE CLIMBS THROUGH THE WINDOW  IT IS DREW.}
+<LOC>__{INT. DORM ROOM SAME NIGHT}
+<ACTION_ALT>__{ESTABLISHING SHOT AS THE LAST DISCIPLE CLIMBS THROUGH THE WINDOW IT IS DREW.}
 <ACTION>__{He lands on the hardwood floor, panting his lungs out after the run. After a BEAT, he lifts his head and looks right at Gao.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Did you say you were going to keep us OUT of trouble?}
 <ACTION>__{The group pauses for a BEAT, then they all laugh, relaxing.}
-<LOC>__{INT. DINNER ROOM  DAY}
+<LOC>__{INT. DINNER ROOM DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GAO CARRYING A PLATE OF CHINESE FOOD OVER TO A}
 <ACTION>__{TABLE WHERE THE DISCIPLES EATING, THEIR EYES SCANNING THE ROOM FOR}
 <ACTION_ALT>__{SIGNS OF WARNING.}
@@ -1682,9 +1682,9 @@
 <ACTION>__{He gets up to leave, and the others follow him.}
 <CHAR>__{LI} <CHAR_PAR>__{}
 <DIAL>__{Seperate us?}
-<LOC>__{EXT. COURTYARD  SAME DAY}
+<LOC>__{EXT. COURTYARD SAME DAY}
 <ACTION>__{IN THE COURTYARD ARE SEVERAL POLICEMEN, WAITING AROUND. Drew and the others spot the cops, and walk quickly to their dorm room.}
-<LOC>__{INT. DORM ROOM  SAME DAY}
+<LOC>__{INT. DORM ROOM SAME DAY}
 <ACTION_ALT>__{DREW AND THE OTHERS ARE FRANTIC.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Cops! Somebody called the cops?!?}
@@ -1695,7 +1695,7 @@
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Just Drew.}
 <ACTION>__{Drew looks at them and shrugs, then follows the D.S.}
-<LOC>__{INT. SAN DE CHAMBER  EVENING}
+<LOC>__{INT. SAN DE CHAMBER EVENING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF SAN DE AND THE GIRLS SCHOOL HEADMISTRESS.}
 <ACTION>__{Also in the room are two high-ranking police officials. The Headmistress is yelling at the top of her lungs, and San De is just sitting there, letting her vent. She has obviously been going at it for some time, because her face is sweaty and flushed. She stops when Drew and the D.S. enter and points an accusing finger at Drew.}
 <CHAR>__{HEADMISTRESS} <CHAR_PAR>__{}
@@ -1714,7 +1714,7 @@
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Who is staring down into the abyss.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
-<DIAL>__{This is a serious issue, there is no question. This we will have to take under advisement  but we will handle matters of this temple.}
+<DIAL>__{This is a serious issue, there is no question. This we will have to take under advisement but we will handle matters of this temple.}
 <CHAR>__{POLICE CAPTAIN} <CHAR_PAR>__{}
 <DIAL>__{This involves more than just the temple. I am authorized to escort him from your temple to the jail now, tonight, where he will be held until he leaves the country.}
 <ACTION>__{San De pauses, letting this sink in. The D.S. steps forward.}
@@ -1758,9 +1758,9 @@
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{As am I.}
 <ACTION>__{Drew gets up and walks out of the chamber.}
-<LOC>__{EXT. COURTYARD  SAME NIGHT}
+<LOC>__{EXT. COURTYARD SAME NIGHT}
 <ACTION>__{DREW WALKS BACK TO THE DORM ROOM, SLOWLY.}
-<LOC>__{INT. DORM ROOM  SAME NIGHT}
+<LOC>__{INT. DORM ROOM SAME NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WITH THE OTHER GUYS AROUND HIM.}
 <ACTION>__{He has just finished telling the disciples what is going on. They are shocked.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
@@ -1776,16 +1776,16 @@
 <ACTION_ALT>__{ANGLE ON DREW LYING IN THE DARK}
 <ACTION>__{Everyone else is asleep, but not Drew. He is staring at the ceiling.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{INT. DORM ROOM  MORNING}
+<LOC>__{INT. DORM ROOM MORNING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WAKING UP TO AN EMPTY ROOM.}
 <ACTION>__{Everyone is gone already, their beds made up. Drew gets up quickly and gathers up his few things. He puts on his New York Yankees cap and shoulders his back pack, then looks around the room one last time.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I hate long goodbyes anyway...}
 <ACTION>__{He exits the room.}
-<LOC>__{EXT. SHAOLIN COURTYARD  SAME DAY}
+<LOC>__{EXT. SHAOLIN COURTYARD SAME DAY}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Walking through the courtyard, for the last time. Only a few monks are around, and they don't meet Drew's eyes. The sounds of training can be heard O.S. Drew stops to listen to those sounds for a moment, then heads for the door.}
-<LOC>__{EXT. SHAOLIN TEMPLE  SAME DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE SAME DAY}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he leaves the temple. He pauses for a moment with the door open, then shuts it sadly. He looks out over the courtyard, which is completely deserted. Drew sighs, hitches his backpack onto his back and starts out. As he comes out of the doorway and into the courtyard proper, he sees...}
 <ACTION_ALT>__{THE ENTIRE CLASS OF DISCIPLES}
@@ -1796,7 +1796,7 @@
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{I'm with you!}
 <ACTION>__{A cheer goes up from the entire group as Drew, Li and Gao embrace. In the b.g. can be seen the D.S., who is observing all this.}
-<LOC>__{INT. SAN DE CHAMBER  DAY}
+<LOC>__{INT. SAN DE CHAMBER DAY}
 <ACTION>__{ESTABLISHING SHOT OF SAN DE'S CHAMBER, SAN DE WAITING FOR DREW IN ONE}
 <ACTION_ALT>__{OF THE CHAIRS.}
 <ACTION>__{The door opens and Drew walks in, the D.S. can be seen in the b.g. San De indicates one of the chairs for him to sit in. He does.}
@@ -1816,7 +1816,7 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Within myself?}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
-<DIAL>__{You must accept the responsibility for your life. If we force you out of the temple, you can always blame the temple for your failure  it never has to be your fault.}
+<DIAL>__{You must accept the responsibility for your life. If we force you out of the temple, you can always blame the temple for your failure it never has to be your fault.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Life without committment is no life at all.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -1833,7 +1833,7 @@
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{Don't let yourself down.}
 <ACTION>__{He bows to San De and then leaves the chamber.}
-<LOC>__{EXT. CHAMBER  SAME NIGHT}
+<LOC>__{EXT. CHAMBER SAME NIGHT}
 <ACTION>__{DREW COMES OUT, FINDING GAO AND LI WAITING FOR HIM.}
 <CHAR>__{GAO} <CHAR_PAR>__{}
 <DIAL>__{Are you staying?}
@@ -1844,7 +1844,7 @@
 <CHAR>__{LI} <CHAR_PAR>__{}
 <DIAL>__{Drew! Are you allright?}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{Yeah, I'm just a little on edge, that's all. Ever since I got to the temple, some nut has been attacking me with a stick  at night, in the toilet... anywhere! It's driving me crazy...}
+<DIAL>__{Yeah, I'm just a little on edge, that's all. Ever since I got to the temple, some nut has been attacking me with a stick at night, in the toilet... anywhere! It's driving me crazy...}
 <ACTION>__{Gao and Li look at each other, nodding.}
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What? Honest, it's happening! I...}
@@ -1853,7 +1853,7 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Special training? You mean...?}
 <ACTION>__{Gao and Li nod, and Drew walks with them, shaking his head.}
-<LOC>__{EXT. COUNTRYSIDE  MORNING}
+<LOC>__{EXT. COUNTRYSIDE MORNING}
 <ACTION>__{ESTABLISHING SHOT OF ASHEMA STANDING NEXT TO THE STREAM, WATCHING THE}
 <ACTION_ALT>__{WATER RUSH BY.}
 <ACTION>__{In the b.g. comes Drew, dressed in his monastic robes, no hat on his head. He is making no attempt to hide the fact that he is a monk. Drew walks up to Ashema and takes her hand, and they stand like that for a moment. She then turns to him, and starts to say something. Drew stops her with a finger on her lips, then strokes her cheek.}
@@ -1866,28 +1866,28 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{No. It is my choice, and my responsibility. I'm sorry...}
 <ACTION>__{He embraces her for the last time, and she openly begins to cry. He holds her for a moment, then breaks the embrace and with one last long look at Ashema, walks away.}
-<LOC>__{EXT. TRAINING AREA  DAY 103 (SPRING TIME)}
+<LOC>__{EXT. TRAINING AREA DAY 103 (SPRING TIME)}
 <ACTION>__{ESTABLISHING SHOT OF DREW WORKING ON THE "WOODEN MAN", A TRAINING}
 <ACTION_ALT>__{DEVICE.}
 <ACTION>__{The D.S. in the b.g. comes up and corrects his technique, and Drew immediately does it his way.}
-<LOC>__{EXT. POLE AREA  EVENING}
+<LOC>__{EXT. POLE AREA EVENING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WORKING ON THE POLES.}
-<ACTION>__{He is doing well, jumping from pole to pole, kicking    and punching. He tries an especially difficult sequence of moves, and    falls with a THUMP to the ground. Immediately, he is back up and    onto the poles. He tries the same set of moves, falls again. Instead    of being angry, Drew just laughs at himself, then climbs back up on    the poles.}
-<LOC>__{INT. MEDITATION HALL  NIGHT}
+<ACTION>__{He is doing well, jumping from pole to pole, kicking and punching. He tries an especially difficult sequence of moves, and falls with a THUMP to the ground. Immediately, he is back up and onto the poles. He tries the same set of moves, falls again. Instead of being angry, Drew just laughs at himself, then climbs back up on the poles.}
+<LOC>__{INT. MEDITATION HALL NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF BARE CHESTED DREW, SOAKED IN SWEAT. In the b.g. is a huge bronze buddha. Drew is in the same position as the Buddha.}
-<LOC>__{EXT. STREAM  DAY 106 (SUMMER TIME)}
+<LOC>__{EXT. STREAM DAY 106 (SUMMER TIME)}
 <ACTION>__{ESTABLISHING SHOT OF DREW DRAWING WATER FROM THE STREAM, IN THE}
 <ACTION_ALT>__{POINTED BARRELS.}
 <ACTION>__{He fills them up, and then starts moving back towards the temple, his arms up and strong.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he goes through a thicket of bamboo. as he gets to the center, he is attacked! The staff comes out, but Drew manages to block it with one of the buckets. The staff strikes again, and Drew blocks again! A third time, and Drew raises both buckets over his head to block it and drenches himself with the water. Then, the staff hits him in the stomach. His attacker has vanished, leaving Drew alternately moaning from the pain, and chuckling at himself in the bamboo.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ANGLE ON DREW AND LI}
 <ACTION>__{As they go through a very intricate, beautifully staged series of techniques. The last technique is a very powerful kick, and one which Drew is to block using the blocking technique he refused to learn before. This time, the kick is thrown and Drew blocks it with the new technique, sending Li pitching to the ground is a cloud of dust. Drew turns around and high-fives Gao.}
-<LOC>__{EXT. TRAINING AREA  ANOTHER ANGLE}
+<LOC>__{EXT. TRAINING AREA ANOTHER ANGLE}
 <ACTION_ALT>__{ESTABLISHING SHOT OF GROUP OF DISCIPLES GOING THROUGH A SERIES OF SOFT GONG FU MOVES.}
 <ACTION>__{Drew is next in line, and he moves through the techniques without a mistake. When he gets to the end of the routine, he breaks into a little dance step, having fun. The entire group breaks up in laughter.}
-<LOC>__{EXT. TEMPLE  DAY}
+<LOC>__{EXT. TEMPLE DAY}
 <ACTION>__{TIGHT SHOT OF D.S.' ARM Gao's hands are around his elbow, pulling down.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Using your muscles, bend my arm.}
@@ -1904,45 +1904,45 @@
 <DIAL>__{Master Shu's spirit is indeed strong.}
 <ACTION_ALT>__{ANGLE ON DREW AND GAO}
 <ACTION>__{Sweating from their efforts.}
-<LOC>__{EXT. TRAINING AREA  DAY 110 (AUTUMN TIME)}
-<ACTION>__{ESTABLISHING SHOT OF DISCIPLES DOING AERIAL MANUEVERS  KICKS, AERIALS, KIPS, ETC. Drew is on the ground, trying to do a kip. He is coming up, but then is crashing back down onto his spine. The D.S. comes up to him and points at his chest.}
+<LOC>__{EXT. TRAINING AREA DAY 110 (AUTUMN TIME)}
+<ACTION>__{ESTABLISHING SHOT OF DISCIPLES DOING AERIAL MANUEVERS KICKS, AERIALS, KIPS, ETC. Drew is on the ground, trying to do a kip. He is coming up, but then is crashing back down onto his spine. The D.S. comes up to him and points at his chest.}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
 <DIAL>__{Try to hit me here with your feet.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{With pleasure.}
 <ACTION>__{Drew tries another kip, pushing his feet towards the D.S.' chest. He lands on his feet easily, surprised.}
-<LOC>__{EXT. WATERFALL  DAY}
+<LOC>__{EXT. WATERFALL DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW AND GAO UNDER THE WATERFALL. THEY ARE BOTH}
 <ACTION>__{IN HORSE STANCES. THEY NOD AT EACH OTHER, AND THEY BEGIN GOING THROUGH A SLOW FORM, MOVING THEIR ARMS AND LEGS CAUTIOUSLY, BUT WITH}
 <ACTION_ALT>__{POWER.}
-<LOC>__{EXT. FOREST OF STONE  SUNSET}
+<LOC>__{EXT. FOREST OF STONE SUNSET}
 <ACTION>__{ESTABLISHING SHOT OF DREW TRAINING IN THE FOREST OF STONE, THE}
 <ACTION_ALT>__{BLAZING SUN BEHIND HIM.}
-<LOC>__{EXT. DINING HALL  NIGHT}
+<LOC>__{EXT. DINING HALL NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW CARRYING THE DIRTY PLATES FROM DINNER.}
 <ACTION>__{He carries them out to the garbage area, and begins to scrape them off. From out of nowhere comes the staff, swinging for Drew. Drew doesn't jump, but just calmly avoids it. The staff WHOOSHES over his head. Drew stands up, and the staff comes again, from a different direction. Drew avoids, and the staff finds empty air again. Drew goes on with cleaning the plates, a slight smile on his face. After a BEAT, he looks around, trying to find the attacker. When he is sure no one is around, he smiles bigger.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Allright! I did it!}
 <ACTION>__{As soon as he finishes saying that, the staff comes out and SLAMS him in the stomach, sending Drew to his knees in pain.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THE DISCIPLES THROWING FLYING KICKS.}
 <ACTION>__{The sequences are very beautiful as the monks throw kicks into the air and into targets.}
-<LOC>__{EXT. TRAINING AREA  ANOTHER ANGLE}
+<LOC>__{EXT. TRAINING AREA ANOTHER ANGLE}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW AND LI FIGHTING.}
-<ACTION>__{Drew is rushing Li, throwing every possible technique at him, which he blocks. Li gets into a low stance as he goes back, and Drew takes this opportunity  he uses Li's own leg as a step and jumps off of it, hitting him HARD with a jump spin hook. Li gets up right away and slaps Drew's hand.}
-<LOC>__{EXT. TEMPLE PATHS  MORNING 116 (WINTER TIME)}
+<ACTION>__{Drew is rushing Li, throwing every possible technique at him, which he blocks. Li gets into a low stance as he goes back, and Drew takes this opportunity he uses Li's own leg as a step and jumps off of it, hitting him HARD with a jump spin hook. Li gets up right away and slaps Drew's hand.}
+<LOC>__{EXT. TEMPLE PATHS MORNING 116 (WINTER TIME)}
 <ACTION_ALT>__{ESTABLISHING SHOT OF SNOWY MORNING.}
 <ACTION>__{A group of monks, Drew in the lead, come running down the path, barefoot in the snow.}
 <ACTION_ALT>__{ANGLE ON DISCIPLES}
 <ACTION>__{Throwing kicks and punches at icicles hanging from rocks on a cliff. Slow motion as the disciples shatter the ice.}
-<LOC>__{EXT. TEMPLE FIELDS  DAY 117 (SPRING TIME)}
+<LOC>__{EXT. TEMPLE FIELDS DAY 117 (SPRING TIME)}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES WORKING IN THE FIELDS.}
 <ACTION>__{They are singing again, but this time the song is in Chinese!}
-<LOC>__{EXT. ROOF OF THE WORLD  SUNSET}
+<LOC>__{EXT. ROOF OF THE WORLD SUNSET}
 <ACTION>__{ESTABLISHING SHOT OF DREW, POISED ON A ROCK PLATFORM AT THE ROOF OF THE WORLD, THE SUNSET IN THE B.G.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DISCIPLES WORKING ON THE UNBENDABLE ARM.}
-<ACTION>__{Drew is in the middle, and Gao is straining to bend his relaxed arm. He is getting the hang of it. The D.S. walks up with another monk with    a spear. Together, they position a wooden target. The monk bows    to D.S. and to the rest of the disciples, then positions the point    of the spear in the hollow of his neck. He then hands the shaft of the    spear to the D.S. The D.S. holds the shaft and starts to push, bending the spear, slowly but surely.}
+<ACTION>__{Drew is in the middle, and Gao is straining to bend his relaxed arm. He is getting the hang of it. The D.S. walks up with another monk with a spear. Together, they position a wooden target. The monk bows to D.S. and to the rest of the disciples, then positions the point of the spear in the hollow of his neck. He then hands the shaft of the spear to the D.S. The D.S. holds the shaft and starts to push, bending the spear, slowly but surely.}
 <ACTION_ALT>__{ANGLE ON DREW AND THE DISCIPLES}
 <ACTION>__{Amazed.}
 <ACTION_ALT>__{ANGLE ON THE MONK}
@@ -1950,9 +1950,9 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bowing)}
 <DIAL>__{Boy, his spirit is strong...}
-<LOC>__{EXT. TEMPLE GROUNDS  DAY 120 (SPRING TIME)}
+<LOC>__{EXT. TEMPLE GROUNDS DAY 120 (SPRING TIME)}
 <ACTION_ALT>__{TIGHT SHOT OF AMERICAN FOOTBALL SPINNING THROUGH THE AIR.}
-<ACTION>__{Set against a deep blue sky, it could be spinning anywhere  but the CAMERA PULLS BACK TO REVEAL the Shaolin Temple "forest of stupa", where the disciples are having a pick up football game  it's Sunday, the disciples' afternoon off. The football spins into the hands of Gao, who drops it. Drew runs over, showing Gao how to catch the ball, and how to make the cuts he has to make (no dialogue, music over). Gao follows Drew's instructions, then they run the play. This time Gao is all alone and he catches the ball easily for a touchdown. Drew runs up and high-fives Gao, then teaches him how to spike the ball. They are playing some more, having a great time. This time Drew goes out for a pass, with Gao playing defense. Li throws the pass, and Gao intercepts. Drew, laughing, goes after Gao.}
+<ACTION>__{Set against a deep blue sky, it could be spinning anywhere but the CAMERA PULLS BACK TO REVEAL the Shaolin Temple "forest of stupa", where the disciples are having a pick up football game it's Sunday, the disciples' afternoon off. The football spins into the hands of Gao, who drops it. Drew runs over, showing Gao how to catch the ball, and how to make the cuts he has to make (no dialogue, music over). Gao follows Drew's instructions, then they run the play. This time Gao is all alone and he catches the ball easily for a touchdown. Drew runs up and high-fives Gao, then teaches him how to spike the ball. They are playing some more, having a great time. This time Drew goes out for a pass, with Gao playing defense. Li throws the pass, and Gao intercepts. Drew, laughing, goes after Gao.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Who goes long for a pass, which Gao lets fly. It is immediately obvious that it is way too long.}
 <ACTION_ALT>__{ANGLE ON SAN DE}
@@ -1969,8 +1969,8 @@
 <ACTION>__{His stern face now taking on a mischevious look. He hefts the ball and puts his fingers on the laces.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
 <DIAL>__{Go long.}
-<ACTION>__{Drew pauses for a moment, not sure    what San De said, until San De motions with his left hand, like a    NFL quarterback, for Drew to go out. He takes off sprinting, with    Gao covering him like a blanket. San De throws the ball to him in a    perfect spiral, to a spot where Gao has no play on the throw, and    Drew catches it in stride. San De immediately returns to his meditation, while Drew and the others stand around dumbstruck.}
-<LOC>__{EXT. COUNTRYSIDE  DAY}
+<ACTION>__{Drew pauses for a moment, not sure what San De said, until San De motions with his left hand, like a NFL quarterback, for Drew to go out. He takes off sprinting, with Gao covering him like a blanket. San De throws the ball to him in a perfect spiral, to a spot where Gao has no play on the throw, and Drew catches it in stride. San De immediately returns to his meditation, while Drew and the others stand around dumbstruck.}
+<LOC>__{EXT. COUNTRYSIDE DAY}
 <ACTION>__{ESTABLISHING SHOT OF GAO, LI AND DREW RUNNING THROUGH THE}
 <ACTION_ALT>__{COUNTRYSIDE.}
 <ACTION>__{They come to a stream, and there by a stream is a beautiful young woman who can't get across the stream without getting her clothes soaked. Without thinking twice, Drew allows her to get on his back and carries her across the river. He deposits her on the other side and then continues running. Gao and Li run up next to Drew, and together they go back to the temple. When they stop outside the temple, they are breathing heavily. finally catching his breath, Gao turns to Drew.}
@@ -1982,12 +1982,12 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I left that girl at the stream. Are you two still carrying her?}
 <ACTION>__{He turns and walks away, leaving Li and Gao to puzzle that one out. As he walks away, San De comes out from behind a pillar where he had been sweeping, smiling and nodding his head at Drew's answer.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION>__{ESTABLISHING SHOT OF TRAINING GROUND, WHERE SEVERAL GROUPS OF}
 <ACTION_ALT>__{DISCIPLES ARE GOING AT IT.}
 <ACTION>__{The action is fast and furious.}
 <ACTION_ALT>__{ANGLE ON DREW AND GAO}
-<ACTION>__{Who are squared    off and fighting. They are intense, and the techniques they    are throwing are full power. Drew hits Gao, and he bends over. Drew    closes, thinking that he has Gao at his mercy. At the last minute,    Gao stands up and cold cocks Drew, who sags to the ground.}
+<ACTION>__{Who are squared off and fighting. They are intense, and the techniques they are throwing are full power. Drew hits Gao, and he bends over. Drew closes, thinking that he has Gao at his mercy. At the last minute, Gao stands up and cold cocks Drew, who sags to the ground.}
 <ACTION_ALT>__{TIGHT ON DREW}
 <ACTION>__{Who is trying to get his bearings.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2011,7 +2011,7 @@
 <ACTION>__{Drew raises his eyebrows, then looks over at Gao and Li. He rolls up his towel and snaps Gao with it as he walks by.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I wonder what you did now...}
-<LOC>__{INT. SAN DE CHAMBER  DAY}
+<LOC>__{INT. SAN DE CHAMBER DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW AND SAN DE SITTING ACROSS FROM EACH OTHER.}
 <ACTION>__{San De has an ornately embroidered golden box in his hand, and he is showing it to Drew.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
@@ -2026,18 +2026,18 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{You must return within three day... or don't bother to return at all.}
 <ACTION>__{San De stands and bows to Drew. Drew returns the bow, takes the map and the box, then leaves the chamber.}
-<LOC>__{EXT. TEMPLE  EARLY MORNING}
+<LOC>__{EXT. TEMPLE EARLY MORNING}
 <ACTION>__{ESTABLISHING SHOT OF DREW WALKING OUT OF THE TEMPLE INTO THE MIST-}
 <ACTION_ALT>__{SHROUDED COURTYARD.}
 <ACTION>__{He is off on his quest.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. COUNTRYSIDE  SAME DAY}
+<LOC>__{EXT. COUNTRYSIDE SAME DAY}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Walking strong. the sun is high in the sky, and the scenery behind is incredibly beautiful (Guilin?).}
-<LOC>__{EXT. SMALL TOWN  SAME DAY}
+<LOC>__{EXT. SMALL TOWN SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW STOPPING IN A SMALL TOWN, IN THE MIDDLE OF}
 <ACTION_ALT>__{AN OPEN AIR MARKET.}
-<ACTION>__{He goes over to a drink stand, and buys a cool drink. Just as he is about to drink it down, it is KNOCKED from his hand. Drew turns around and see four dirty thugs and their leader  the one who hit the glass. They are yelling at Drew in Chinese, which he doesn't understand.}
+<ACTION>__{He goes over to a drink stand, and buys a cool drink. Just as he is about to drink it down, it is KNOCKED from his hand. Drew turns around and see four dirty thugs and their leader the one who hit the glass. They are yelling at Drew in Chinese, which he doesn't understand.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{OK, boys, just let me get my glass and...}
 <ACTION>__{Drew, not looking for trouble, bends down to pick up the glass, and the leader kicks him in the rear end, sending him pitching to the ground. Drew rolls to a standing position, and the five men close on him. A crowd is now starting to form, eager to watch how the monk handles this situation. The thugs come after Drew, and the leader throws a roundhouse punch, hitting Drew square in the jaw. They continue to attack, while Drew tries to avoid getting hit. Drew catches a haymaker, and he spins and drops, and the thugs laugh, kick him a couple of times, and then kick dust and dirt onto him. Drew doesn't get up. They soon tire of the sport and move on, the crowd staring at Drew in pity.}
@@ -2049,16 +2049,16 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Oh, I don't think so...}
 <ACTION_ALT>__{ANGLE ON THE CROWD}
-<ACTION>__{It's getting good now. The fight    starts, and this    time Drew is unencumbered by    vows of non- violence.    He has a cause,    and he's enjoying every minute    of the fight. It    is over quickly,    as Drew is a superb fighter,    using incredible    techniques. The    thugs limp away, leaving Drew    with the little boy    and his father. Drew bends down and picks up the goods, handing them back to the boy and the father. Drew stops and kneels down in front of the boy, looking deep into his eyes. A whisper is going through the crowd: "Shaolin". Drew touches the boy's cheek, smiles, then stands up and bows. He moves on, the crowd watching him walk away. HOLD ON BOY'S FACE He now has a hero.}
-<LOC>__{EXT. COUNTRYSIDE  DAY}
+<ACTION>__{It's getting good now. The fight starts, and this time Drew is unencumbered by vows of non- violence. He has a cause, and he's enjoying every minute of the fight. It is over quickly, as Drew is a superb fighter, using incredible techniques. The thugs limp away, leaving Drew with the little boy and his father. Drew bends down and picks up the goods, handing them back to the boy and the father. Drew stops and kneels down in front of the boy, looking deep into his eyes. A whisper is going through the crowd: "Shaolin". Drew touches the boy's cheek, smiles, then stands up and bows. He moves on, the crowd watching him walk away. HOLD ON BOY'S FACE He now has a hero.}
+<LOC>__{EXT. COUNTRYSIDE DAY}
 <ACTION_ALT>__{ANGLE ON DREW WALKING THROUGH THE COUNTRYSIDE. HE STOPS AT A CROSSING}
 <ACTION>__{IN THE ROAD, CONSULTS THE MAP SAN DE GAVE HIM, THEN WALKS ON.}
-<LOC>__{EXT. MOUNTAINSIDE  EVENING}
+<LOC>__{EXT. MOUNTAINSIDE EVENING}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he climbs the side of a mountain.}
-<LOC>__{EXT. MOUNTAINSIDE TEMPLE  NIGHT}
+<LOC>__{EXT. MOUNTAINSIDE TEMPLE NIGHT}
 <ACTION>__{ESTABLISHING SHOT OF DREW, MEDITATING NEXT TO HIS SMALL FIRE. It is dark around him, with vague forms of the temple columns and statues. Drew is sitting with his eyes closed, oblivious to his surroundings.}
-<LOC>__{EXT. MOUNTAINSIDE  NEXT DAY}
+<LOC>__{EXT. MOUNTAINSIDE NEXT DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WORKING OUT NEXT TO A MOUNTAIN LAKE.}
 <ACTION>__{He is throwing kicks and going through his routines, concentrating on his breathing. As he finishes a particularly strenuous series, he strips off his clothes and dives into the lake. As Drew's head breaks the surface of the lake, he is surprised to see a beautiful woman standing next to where he left his clothes. Drew starts to get out of the lake, then remembers that he is naked he stops, not quite knowing what to do. He goes as close to the shore as he can without coming out of the water. The woman just smiles, and starts to strip off what clothing she has on. She is very sexy.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2082,7 +2082,7 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Besides, if I were to break my vows, it would not be with you.}
 <ACTION>__{He kisses her on the forehead, and then grabs the rest of his clothes, running up the path away from the lake.}
-<LOC>__{EXT. TEMPLE  SAME DAY}
+<LOC>__{EXT. TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF VERY ORNATE TEMPLE.}
 <ACTION>__{Drew walks up to the front of the temple, looks around for a moment, then takes a drink of water from the well out front. Just as he starts to drink, a huge TOUR BUS pulls up in front, air brakes HISSING. Before he can react, the doors open and a bunch of AMERICAN TOURISTS pile out of the bus and rush into the temple, jostling Drew from side to side.}
 <CHAR>__{TOURIST 1} <CHAR_PAR>__{}
@@ -2104,15 +2104,15 @@
 <DIAL>__{Monks don't like to be bothered, they are from a different world.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{I'll say...}
-<LOC>__{EXT. WATERFALL  EARLY MORNING}
+<LOC>__{EXT. WATERFALL EARLY MORNING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THUNDERING WATERFALL.}
-<ACTION>__{Drew stands at the side of the waterfall, studying his map. From his expression, we know that he has to go through the waterfall to get where he is going. Drew pockets the map, checks that the box is safely in place, then starts toward the waterfall. The drop off the side of the waterfall is incedible  steep and deadly.}
+<ACTION>__{Drew stands at the side of the waterfall, studying his map. From his expression, we know that he has to go through the waterfall to get where he is going. Drew pockets the map, checks that the box is safely in place, then starts toward the waterfall. The drop off the side of the waterfall is incedible steep and deadly.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{As he enters the waterfall. The water hits his back, almost pitching him into the abyss. Drew concentrates and moves forward, slowly but surely. He emerges on the other side, only to be confronted by a swamp. Jutting out of the swamp are rocks and tree stumps. Drew examines the distance between the objects, realizing that he can jump from place to place and make it across.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Just like at the temple...}
 <ACTION>__{He starts out, jumping onto the first stone, then moving on to the others. He almost falls a couple of times, but regains his balance. He gets a rythm going, and is soon almost halfway across. He gets to one particular rock, only to find out that it's the head of an alligator! Its mouth opens to bite him! Drew jumps off it quickly, onto a tree stump. When he lands on the stump, he examines it carefully to make sure it isn't something else. He continues across, more careful this time.}
-<LOC>__{EXT. MOUNTAINSIDE  SAME DAY}
+<LOC>__{EXT. MOUNTAINSIDE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW CLIMBING UP THE SIDE OF THE MOUNTAIN.}
 <ACTION>__{It is much steeper now, and the going is much tougher.}
 <ACTION_ALT>__{ANGLE ON DREW}
@@ -2147,23 +2147,23 @@
 <ACTION>__{As it spins down into the abyss.}
 <ACTION_ALT>__{ANGLE ON DREW AND MAN}
 <ACTION>__{As Drew pulls him up onto his back, and carries him up the rope to the other side of the gorge.}
-<LOC>__{INT. MAN'S HOUSE  SAME DAY}
+<LOC>__{INT. MAN'S HOUSE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW EATING WITH THE MAN HE SAVED.}
 <ACTION>__{They look at each other and smile, but Drew is anything but happy.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{What am I going to tell the arhat?}
-<LOC>__{EXT. MOUNTAINSIDE  SAME DAY}
+<LOC>__{EXT. MOUNTAINSIDE SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF DREW WALKING UP THE PATH TO THE ARHAT'S CAVE. There is no bounce to his step, and he is dreading this audience.}
-<LOC>__{EXT. ARHAT HUT  EVENING}
+<LOC>__{EXT. ARHAT HUT EVENING}
 <ACTION_ALT>__{ESTABLISHING SHOT OF ARHAT HUT.}
 <ACTION>__{Drew walks up to the entrance, looks around. He doesn't see anyone. He walks into the hut.}
-<LOC>__{INT. ARHAT HUT  EVENING}
-<ACTION_ALT>__{ESTABLISHING SHOT OF HUT AS DREW WALKS INTO THE HUT  NO ONE IS AROUND.}
+<LOC>__{INT. ARHAT HUT EVENING}
+<ACTION_ALT>__{ESTABLISHING SHOT OF HUT AS DREW WALKS INTO THE HUT NO ONE IS AROUND.}
 <ACTION>__{He walks through the rooms, looking at all the books and scrolls littered around the room.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Maybe he won't miss one little scroll...}
 <ACTION>__{He shakes his head and starts for the front door.}
-<LOC>__{EXT. ARHAT HUT  SAME EVENING}
+<LOC>__{EXT. ARHAT HUT SAME EVENING}
 <ACTION_ALT>__{DREW COMES OUT OF THE HUT AND WALKS AROUND TO THE AREA BEHIND THE}
 <ACTION>__{HUT, HIGH UP ON THE MOUNTAIN. The view is incredible. Drew stands looking at the view, and slowly becomes aware of a figure sitting on the ground near him. He looks down, and it is the ARHAT!}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2210,7 +2210,7 @@
 <DIAL>__{At the beginning of your training, you were to obey without question. Now, as you become a Shaolin, you must learn to question everything, and obey yourself.}
 <ACTION>__{Drew and the monk bow to each other, the sunset over the mountain in the b.g.}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. ARHAT HUT  NEXT MORNING}
+<LOC>__{EXT. ARHAT HUT NEXT MORNING}
 <ACTION>__{ESTABLISHING SHOT OF DREW COMING OUT OF THE HUT, HAVING JUST GOTTEN}
 <ACTION_ALT>__{UP.}
 <ACTION>__{The Arhat is already out there, moving through his gong fu moves.}
@@ -2227,12 +2227,12 @@
 <CHAR>__{ARHAT} <CHAR_PAR>__{}
 <DIAL>__{They should give you a bus schedule with that map...}
 <ACTION>__{He walks off to the hut, while Drew makes his way down to the bus stop.}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WALKING BACK INTO THE TEMPLE.}
 <ACTION>__{He is dirty, weary but triumphant. As he walks back through the temple to San De's chambers to report, he sees a group of people walking out the other way. The group is made up of the thugs who attacked him, the woman by the lake, and the man from the bridge. They are talking together on their way out.}
 <ACTION_ALT>__{ANGLE ON DREW}
-<ACTION>__{Smiling as he realizes that it was all a test  every moment of it.}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<ACTION>__{Smiling as he realizes that it was all a test every moment of it.}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW AND THE DISCIPLES TRAINING.}
 <ACTION>__{They are expert fighters now, and they move through the complicated routines with ease.}
 <ACTION_ALT>__{ANGLE ON DREW FLYING THROUGH THE AIR}
@@ -2241,7 +2241,7 @@
 <ACTION>__{Manipulating the spear like a master.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Up on the poles again. Only this time, squared off against him is Li. They move from pole to pole, throwing kicks and punches at each other.}
-<LOC>__{EXT. FARM  DAY}
+<LOC>__{EXT. FARM DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF THE GROUP OF DISCIPLES STANDING UNDER THE SWELTERING SUMMER SUN IN FRONT OF A RUN DOWN FARM BUILDING.}
 <ACTION>__{The D.S. is standing in front of them.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2253,14 +2253,14 @@
 <ACTION>__{Smiles grow on the faces of the disciples. They rush into the building.}
 <ACTION_ALT>__{FOLLOWING MONTAGE SECTION}
 <ACTION>__{Different shots of the monks tearing the building apart with kicks and punches. Shots of Drew, Gao and Li kicking through walls, through doors, through windows, etc. Some the three of them destroy together, others are seperate. Several shots of disciples as they concentrate on particularly difficult things, using their chi, smashing the bricks and wood apart. They are destroying the building, and they are having a GREAT TIME! (NOTE: Great place for HOT song over this scene)}
-<LOC>__{EXT. TRAINING AREA  DAY}
+<LOC>__{EXT. TRAINING AREA DAY}
 <ACTION>__{TIGHT SHOT OF DREW'S ARM PULL BACK TO REVEAL Drew standing there, calmly, while two full-sized disciples hang off his arm.}
-<LOC>__{EXT. TEMPLE  NIGHT}
+<LOC>__{EXT. TEMPLE NIGHT}
 <ACTION_ALT>__{ESTABLISHING SHOT OF DREW WALKING THROUGH THE COURTYARDS OF THE TEMPLE.}
 <ACTION>__{He is going nowhere in particular, just walking and thinking. Suddenly, out of nowhere, comes the staff and the ATTACK. Drew calmly avoids the first few strikes, blocks a couple more, then grabs the staff and PULLS. Out comes the D.S. into the night on the other end of the staff. He looks proudly at Drew.}
 <ACTION_ALT>__{ANGLE ON D.S.}
 <ACTION>__{As he smiles and bows in respect to Drew. Drew returns his bow.}
-<LOC>__{EXT. SHAOLIN TEMPLE  DAY}
+<LOC>__{EXT. SHAOLIN TEMPLE DAY}
 <ACTION>__{ESTABLISHING SHOT OF SAN DE WRITING BOLD, BLACK CALLIGRAPHY ON A BARE}
 <ACTION_ALT>__{WHITE PAPER.}
 <ACTION>__{The CAMERA follows the sweeping brush, as it ends with a FLOURISH. The CAMERA PULLS BACK TO REVEAL the temple courtyard, where San De and the D.S. are standing in front of the group of disciples.}
@@ -2288,11 +2288,11 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What did you do that for?}
 <CHAR>__{D.S.} <CHAR_PAR>__{}
-<DIAL>__{My last chance  when you come out the other side, we will be equals.}
+<DIAL>__{My last chance when you come out the other side, we will be equals.}
 <ACTION>__{Drew smiles at the D.S.'s attempt to lighten him up. He turns to look at the others from his disciple class, then opens the door and goes through.}
-<LOC>__{INT. WOODEN MAN CHAMBER  SAME DAY}
+<LOC>__{INT. WOODEN MAN CHAMBER SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF WOODEN MAN CHAMBER.}
-<ACTION>__{Drew pauses for a moment,      examining the room. It is filled with wooden statues of monks,      all in different fighting positions. The carvings are precise and      incredibly beautiful. Their arms, open hands, fists and legs are      fashioned out of hard wood, and they look very dangerous indeed. Drew gathers himself for a moment, then starts into the chamber. ANGLE ON DREW'S FOOT As it presses down on one of the stones of the floor. The attacks start  from all sides, as the wooden statues COME TO LIFE, spinning, lunging and striking. Drew is caught off guard, and is hit several times, driven back to the door of the chamber. The statues stop moving. Drew, a little scared, tries to remember the sequence of the statues, letting his arms practice for the attacks. There is fear in his eyes. He starts in again, and the attacks come again, but they are different this time. Drew is clobbered. Driven back to the door, Drew slumps against the wall. His face is already bruised and bleeding.}
+<ACTION>__{Drew pauses for a moment, examining the room. It is filled with wooden statues of monks, all in different fighting positions. The carvings are precise and incredibly beautiful. Their arms, open hands, fists and legs are fashioned out of hard wood, and they look very dangerous indeed. Drew gathers himself for a moment, then starts into the chamber. ANGLE ON DREW'S FOOT As it presses down on one of the stones of the floor. The attacks start from all sides, as the wooden statues COME TO LIFE, spinning, lunging and striking. Drew is caught off guard, and is hit several times, driven back to the door of the chamber. The statues stop moving. Drew, a little scared, tries to remember the sequence of the statues, letting his arms practice for the attacks. There is fear in his eyes. He starts in again, and the attacks come again, but they are different this time. Drew is clobbered. Driven back to the door, Drew slumps against the wall. His face is already bruised and bleeding.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispering)}
 <DIAL>__{I can't do it.}
@@ -2315,12 +2315,12 @@
 <CHAR>__{DREW } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Not this time.}
 <ACTION>__{Drew quickly walks through the door.}
-<LOC>__{EXT. TEMPLE  SAME DAY}
+<LOC>__{EXT. TEMPLE SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF CHEERING ASSEMBLAGE, SAN DE AND D.S. AT THE FRONT. HE HAS MADE IT!}
 <TRANS>__{DISSOLVE TO:}
-<LOC>__{EXT. TEMPLE  SAME DAY}
-<ACTION>__{MONTAGE OF SHOTS OF OTHER DISCIPLES  GAO, LI AND WU MAKE IT THROUGH, JOINING THE OTHERS AS FULL-FLEDGED FIGHTING MONKS. Drew is there each time to embrace them and congratulate them.}
-<LOC>__{EXT. TEMPLE  SAME DAY}
+<LOC>__{EXT. TEMPLE SAME DAY}
+<ACTION>__{MONTAGE OF SHOTS OF OTHER DISCIPLES GAO, LI AND WU MAKE IT THROUGH, JOINING THE OTHERS AS FULL-FLEDGED FIGHTING MONKS. Drew is there each time to embrace them and congratulate them.}
+<LOC>__{EXT. TEMPLE SAME DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF SAN DE AND D.S. STANDING BEFORE THE ASSEMBLED DISCIPLES.}
 <ACTION>__{There are a few missing from their ranks, monks who did not make it through the chamber, but the majority of them are there. The entire temple is gathered to watch the ceremony. San De and D.S. are dressed in elaborate ceremonial robes. After he goes through some complicated ceremonial movements, including the waving of smoking incense over them, San De spreads his hands}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
@@ -2333,7 +2333,7 @@
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Who sees him leave. He excuses himself from his group.}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT. BAMBOO GROVE  SAME EVENING}
+<LOC>__{EXT. BAMBOO GROVE SAME EVENING}
 <ACTION_ALT>__{ANGLE ON SAN DE}
 <ACTION>__{Who is walking in the bamboo grove, his hands behind him. Drew walks up to him and they bow.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
@@ -2355,7 +2355,7 @@
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{Anything.}
 <CHAR>__{SAN DE} <CHAR_PAR>__{}
-<DIAL>__{Before you leave for American, can you help at an international tournament in Beijing? The Shaolin temple has an entry, and he will be fighting men from all over the world  I'd like you to be there.}
+<DIAL>__{Before you leave for American, can you help at an international tournament in Beijing? The Shaolin temple has an entry, and he will be fighting men from all over the world I'd like you to be there.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{No problem.}
 <DIAL_PAR>__{(he smiles)}
@@ -2365,13 +2365,13 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{... alone.}
 <ACTION>__{From out of the bamboo grove comes Ashema, her hands in front of her and her head down. She is not sure Drew wants to see her. Drew looks at her, then back to San De, but he is already gone. They are alone. Drew walks to her, takes her chin in his hand and tilts it up to look at her face. Her eyes are full of love and tenderness, and a little fear. Drew kisses that fear away.}
-<LOC>__{EXT. BEIJING HALL  DAY}
+<LOC>__{EXT. BEIJING HALL DAY}
 <ACTION_ALT>__{ESTABLISHING SHOT OF HUGE EXHIBITION HALL. THE MARQUEE READS}
 <ACTION>__{"INTERNATIONAL WU SHU COMPETITION".}
-<LOC>__{INT. BEIJING HALL  SAME DAY}
+<LOC>__{INT. BEIJING HALL SAME DAY}
 <ACTION>__{ESTABLISHING SHOT OF HUGE HALL, THE FLOOR OF WHICH IS CROWDED WITH}
 <ACTION_ALT>__{RINGS.}
-<ACTION>__{One large raised ring is in the middle of the floor  the place for the finals.}
+<ACTION>__{One large raised ring is in the middle of the floor the place for the finals.}
 <ACTION_ALT>__{ANGLE ON SIDE OF THE RING}
 <ACTION>__{Where Li, Gao, San De, D.S. and some others are waiting. They are all in monastic garb. Drew and Ashema walk up to them, holding hands. Drew is dressed in a fighting monk's costume as well, and he bows to his fellow monks.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2439,7 +2439,7 @@
 <CHAR>__{TREVOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Bull! You're just chicken!}
 <CHAR>__{DREW} <CHAR_PAR>__{}
-<DIAL>__{The arts should never be about who is best  they are too important for that.}
+<DIAL>__{The arts should never be about who is best they are too important for that.}
 <ACTION>__{He bows to Trevor and starts out of the ring.}
 <ACTION_ALT>__{ANGLE ON CROWD}
 <ACTION>__{They don't know what's going on. ANGLE ON LI, GAO AND OTHERS They don't know either. They want Drew to fight him.}
@@ -2453,7 +2453,7 @@
 <ACTION_ALT>__{ANGLE ON TREVOR}
 <ACTION>__{Who is seething.}
 <CHAR>__{TREVOR} <CHAR_PAR>__{}
-<DIAL>__{I thought the Shaolin monks were warriors, not babies! Look at him  he is too scared to face me!}
+<DIAL>__{I thought the Shaolin monks were warriors, not babies! Look at him he is too scared to face me!}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{His face calm.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
@@ -2488,7 +2488,7 @@
 <ACTION>__{Drew nods, then turns to face the ring, where Trevor is still standing, trying to get someone to fight him. Drew walks with Gao back to the side of the ring. He turns to Gao and Li and together they high-five.}
 <CHAR>__{DREW} <CHAR_PAR>__{}
 <DIAL>__{For the temple...}
-<ACTION>__{Drew climbs into the ring. The crowd is going crazy. Trevor has a predator's grin on his face as he sits down in his corner to get ready to start the match. Immediately, his contingent of people start to work on him  massage, drinks, etc.}
+<ACTION>__{Drew climbs into the ring. The crowd is going crazy. Trevor has a predator's grin on his face as he sits down in his corner to get ready to start the match. Immediately, his contingent of people start to work on him massage, drinks, etc.}
 <ACTION_ALT>__{ANGLE ON DREW}
 <ACTION>__{Who sits alone in the other corner.}
 <ACTION_ALT>__{ANGLE ON LI AND GAO}
@@ -2504,7 +2504,7 @@
 <ACTION>__{They back up, and the fight begins. Trevor attacks hard, but Drew avoids easily, using all soft gong fu. He continues to attack, throwing flashy technique after flashy technique, but he can't touch Drew.}
 <CHAR>__{TREVOR} <CHAR_PAR>__{}
 <DIAL>__{Stay still, dammit! Stand and fight!}
-<ACTION>__{And he dances out of the way. Trevor is getting more and more angry. Soon, Drew tires of this game and decides to end this    quickly. He goes after Trevor, and it is immediately obvious that    Trevor is completely outclassed. Drew scores on Trevor at will,    and soon has Trevor totally confused and helpless with a mixture of    high kicks, takedowns, flips and punches. Trevor drops to one knee, his hands down at his side, note even bothering to defend himself. Drew grabs Trevor by the front of his uniform and pulls back his right hand in a fist. He is going to put him out with a good old- fashioned roundhouse punch.}
+<ACTION>__{And he dances out of the way. Trevor is getting more and more angry. Soon, Drew tires of this game and decides to end this quickly. He goes after Trevor, and it is immediately obvious that Trevor is completely outclassed. Drew scores on Trevor at will, and soon has Trevor totally confused and helpless with a mixture of high kicks, takedowns, flips and punches. Trevor drops to one knee, his hands down at his side, note even bothering to defend himself. Drew grabs Trevor by the front of his uniform and pulls back his right hand in a fist. He is going to put him out with a good old- fashioned roundhouse punch.}
 <ACTION_ALT>__{ANGLE ON LI AND GAO}
 <ACTION>__{Yelling for the knock out blow.}
 <ACTION_ALT>__{ANGLE ON D.S. AND SAN DE}
@@ -2515,7 +2515,7 @@
 <ACTION>__{Who knew the message all along.}
 <ACTION_ALT>__{WIDE ANGLE OF ENTIRE RING}
 <ACTION>__{Drew and Trevor standing together in the center. The monks on the side climb into the ring to celebrate with Drew.}
-<LOC>__{EXT. GREAT WALL  MORNING}
+<LOC>__{EXT. GREAT WALL MORNING}
 <ACTION>__{ESTABLISHING SHOT OF DREW STANDING ON THE GREAT WALL, THE SUNSET OVER}
 <ACTION_ALT>__{HIS SHOULDER.}
 <ACTION>__{He is doing the beginning of a Shaolin form. When he finishes the salute, a figure comes toward him. It is San De, and he has something in his hands. Drew bows to San De, and San De holds THE GOLDEN SASH out to him. Drew takes it and San De bows to him. Drew can't stand it anymore, and rushes up to San De. He gives him a hug.}

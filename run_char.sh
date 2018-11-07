@@ -48,33 +48,55 @@ mkdir -p $OUTPUT_FILE
 # 	sed -i -E "/<\/?b>/d" $FILE;
 # 	sed -i '/^\s*$/d' $FILE;
 # 	sed -i -E 's/\s+\*?\s*$//g' $FILE;
+	# sed -i -E "s/[\^~]//g" $FILE;
+ #    sed -i -E "s/[0-9]+EXT([\. ])/EXT\1/g" $FILE;
+ #    sed -i -E "s/[0-9]+INT([\. ])/INT\1/g" $FILE;
+ #    sed -i -E "s/([\.\,\!\"\?:\;])/ \1 /g" $FILE;
 # done
 
 # for FILE in $INPUT_DIR/*; do
-	FILE='inter/deeprising.txt'
-	BASEFILE=$(basename $FILE);
-	echo $BASEFILE;
-	sed -E "s/^[ \t]+([A-Z][A-Z\'\"\-\.0-9 ]*) *(\([a-zA-Z0-9\'\"\. ]+\))?$/<CHAR>__{\1} <CHAR_PAR>__{\2}/g" "${FILE}" > "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^(INT|EXT|[0-9]+)(.*)?$/<LOC>__{\1\2}/g" "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^ *([A-Z ]+:)$/<TRANS>__{\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^ {4,}((\(.*)|([^\)]+\)))$/<DIAL_PAR>__{\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^\s{4,}(.*)$/<DIAL>__{\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^\s*([A-Z \-\.]+)$/<ACTION_ALT>__{\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
-	sed -i -E "s/^\s*([^<].*)+$/<ACTION>__{\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	BASEFILE=$(basename $FILE);
+# 	echo $BASEFILE;
+# 	sed -E "s/^[ \t]+([A-Z][A-Z\'\"\-\.0-9 ]*) *(\([a-zA-Z0-9\'\"\. ]+\))?$/<CHAR>__{\L\1}\n\U<CHAR_PAR>__{\L\2}/g" "${FILE}" > "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^(INT|EXT|[0-9]+)(.*)?$/<LOC>__{\L\1\2}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^ *([A-Z ]+:)$/<TRANS>__{\L\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^ {4,}((\(.*)|([^\)]+\)))$/<DIAL_PAR>__{\L\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^\s{4,}(.*)$/<DIAL>__{\L\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^\s*([A-Z \-\.]+)$/<ACTION_ALT>__{\L\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
+# 	sed -i -E "s/^\s*([^<].*)+$/<ACTION>__{\L\1}/g" "${OUTPUT_FILE}/${BASEFILE}";
 # done
 
 
 # for FILE in $INPUT_DIR/*; do
-	FILE='inter/deeprising.txt'
-	BASEFILE=$(basename $FILE);
-	echo $BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<LOC>__\{[^\n]*) *\}\n<LOC>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<TRANS>__\{[^\n]*) *\}\n<TRANS>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<ACTION>__\{[^\n]*) *\}\n<ACTION>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<ACTION_ALT>__\{[^\n]*) *\}\n<ACTION_ALT>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<DIAL_PAR>__\{[^\n]*) *\}\n<DIAL_PAR>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
-	sed -i -E ":begin;$!N;s/^(<DIAL>__\{[^\n]*) *\}\n<DIAL>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	BASEFILE=$(basename $FILE);
+# 	echo $BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<LOC>__\{[^\n]*) *\}\n<LOC>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<TRANS>__\{[^\n]*) *\}\n<TRANS>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<ACTION>__\{[^\n]*) *\}\n<ACTION>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<ACTION_ALT>__\{[^\n]*) *\}\n<ACTION_ALT>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<DIAL_PAR>__\{[^\n]*) *\}\n<DIAL_PAR>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
+# 	sed -i -E ":begin;$!N;s/^(<DIAL>__\{[^\n]*) *\}\n<DIAL>__\{([^\n]*\})/\1 \2/;tbegin;P;D" changes/$BASEFILE;
 # done;
+
+
+for FILE in $INPUT_DIR/*; do
+	BASEFILE=$(basename $FILE);
+	echo $BASEFILE;
+	# sed -i -E "s/^<LOC>__/<L>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<TRANS>__/<T>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<ACTION>__/<A>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<ACTION_ALT>__/<B>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<DIAL>__/<D>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<DIAL_PAR>__/<P>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<CHAR>__/<C>__/g" changes/$BASEFILE;
+	# sed -i -E "s/^<CHAR_PAR>__/<E>__/g" changes/$BASEFILE;
+	# sed -i '/<E>__{}$/d' changes/$BASEFILE;
+	sed -i -E 's/\^\~/ /g' changes/$BASEFILE;
+	sed -i -E 's/[\-\-]/ /g' changes/$BASEFILE;
+	sed -i -E 's/[\\\-\/]/ /g' changes/$BASEFILE;
+	sed -i -E 's/\s+/ /g' changes/$BASEFILE;
+	sed -i -E "s/i'll/i will/g" changes/$BASEFILE;
+done;
 
 # rm "locs_.txt";
 # for FILE in $INPUT_DIR/*; do

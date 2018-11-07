@@ -40,7 +40,7 @@
 <DIAL>__{I must see for myself!  Just as the omen foretold!}
 <ACTION>__{The guards fearfully move aside as Bavmorda enters the cell.}
 <CHAR>__{BAVMORDA} <CHAR_PAR>__{}
-<DIAL>__{So.  You *were* the one.}
+<DIAL>__{So.  You were the one.}
 <CHAR>__{MOTHER} <CHAR_PAR>__{}
 <DIAL>__{Yes.  But nothing you can do will stop the prophecy.}
 <CHAR>__{BAVMORDA} <CHAR_PAR>__{}
@@ -1136,14 +1136,14 @@
 <DIAL>__{What's with you, Peck?}
 <ACTION>__{Willow lets it all pour out.  He begins to cry.}
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
-<DIAL>__{I miss my wife!  I miss my chil- dren!  My boy Ranon!  He's growing up so fast, he even helps me on the farm now!  And little Mims!  If you ever saw her sweet little face you'd *melt* Madmartigan, you'd *melt*!}
+<DIAL>__{I miss my wife!  I miss my chil- dren!  My boy Ranon!  He's growing up so fast, he even helps me on the farm now!  And little Mims!  If you ever saw her sweet little face you'd melt Madmartigan, you'd melt!}
 <DIAL_PAR>__{(sniffles)}
 <DIAL>__{Or maybe you wouldn't.  You don't know anything about love.  You don't know anything about any- thing...}
 <ACTION>__{Willow sits on the ground, exhausted.  Madmartigan picks up the baby and sits with her in his lap.}
 <CHAR>__{MADMARTIGAN} <CHAR_PAR>__{}
 <DIAL>__{I was in love once, Willow.  She had a hold on my heart.  I could barely function.}
 <DIAL_PAR>__{(a pause)}
-<DIAL>__{I *was* a great swordsman!  I was knighted!  I could have been king!}
+<DIAL>__{I was a great swordsman!  I was knighted!  I could have been king!}
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
 <DIAL>__{You?}
 <CHAR>__{MADMARTIGAN} <CHAR_PAR>__{}
@@ -1344,11 +1344,11 @@
 <DIAL>__{He turned that monster into stone!}
 <ACTION>__{Raziel peers sternly at Willow, who is eye-level with her cage.}
 <CHAR>__{RAZIEL} <CHAR_PAR>__{}
-<DIAL>__{Did *you* give that acorn its power?}
+<DIAL>__{Did you give that acorn its power?}
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <CHAR>__{RAZIEL} <CHAR_PAR>__{}
-<DIAL>__{A magician *makes* magic.  Any fool can use it.}
+<DIAL>__{A magician makes magic.  Any fool can use it.}
 <ACTION>__{Madmartigan shakes his head at her.}
 <CHAR>__{MADMARTIGAN} <CHAR_PAR>__{}
 <DIAL>__{Then you get us out of here.}
@@ -1424,7 +1424,7 @@
 <DIAL>__{As below, so above.  You hold the univers, Willow, in your hand.}
 <ACTION>__{Madmartigan clasps his forhead.}
 <CHAR>__{MADMARTIGAN} <CHAR_PAR>__{}
-<DIAL>__{I'm beginning to think you two *deserve* to be locked up.}
+<DIAL>__{I'm beginning to think you two deserve to be locked up.}
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
 <DIAL>__{The universe is a living creature, like you and me, Madmartigan.}
 <ACTION>__{Madmartigan cynically gazes at the sky, gesturing wide- ly.}
@@ -1568,7 +1568,7 @@
 <CHAR>__{SORSHA} <CHAR_PAR>__{}
 <DIAL>__{My mother calls that weakness.}
 <CHAR>__{MADMARTIGAN} <CHAR_PAR>__{}
-<DIAL>__{What do *you* call it?}
+<DIAL>__{What do you call it?}
 <ACTION>__{Sorsha turns and glares at Madmartigan.}
 <CHAR>__{SORSHA} <CHAR_PAR>__{}
 <DIAL>__{I do what I'm told.}
@@ -2307,7 +2307,7 @@
 <DIAL>__{As above, so below!  Universe of evil, Raziel!  It conquers even you!}
 <ACTION>__{Bavmorda hurls a final spell at Raziel, crippling her, throwing her into a corner.  Bavmorda laughs and goes to the altar.  The baby is gone. Willow races toward the door with the baby.  The door suddenly slams shut.  Bavmorda's voice roars out:}
 <CHAR>__{BAVMORDA} <CHAR_PAR>__{}
-<DIAL>__{*Stop!  Bring back that child!!!*}
+<DIAL>__{Stop!  Bring back that child!!!}
 <ACTION>__{Willow stops.  He turns around.  Bavmorda towers over him, grotesque, monstrous, poised to destroy Willow with her magic.}
 <CHAR>__{BAVMORDA} <CHAR_PAR>__{}
 <DIAL>__{Who are you?}
@@ -2315,7 +2315,7 @@
 <DIAL>__{I'm Willow Ufgood.  I'm a magician.}
 <ACTION>__{Bavmorda laughs.  Willopw slowly walks toward her.  he digs into his pocket.  Takes out the last magic acorn.}
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
-<DIAL>__{I'm a *great* magician.}
+<DIAL>__{I'm a great magician.}
 <ACTION>__{Willow throws the acorn at Bavmorda.  Her hand shoots out and catches it.  the acron begins to turn her to stone, petrifying her hand, her wrist, her arm.  Willow backs away, feeling successful.  But with intense con- centration of her evil will, Bavmorda fights off the acron's spell.  It reverses:  her arm, wrist and hand turn back to flesh.  She crushes the acorn in her fingers and lets the dust fall to the floor.}
 <CHAR>__{BAVMORDA} <CHAR_PAR>__{}
 <DIAL>__{Is that the extent of your power?}
@@ -2376,4 +2376,4 @@
 <CHAR>__{WILLOW} <CHAR_PAR>__{}
 <DIAL>__{Kiaya!!}
 <ACTION>__{He jumps off his pony and runs to her.  They collide, kiss and embrace.  Then Ranon and Mims jump on their father and hug him.  Family and friends smother their homecoming hero with love!}
-<DIAL>__{*THE END*}
+<CHAR>__{THE END} <CHAR_PAR>__{}

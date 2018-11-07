@@ -400,10 +400,10 @@
 <CHAR>__{KIRILL } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(to phone)}
 <DIAL>__{No, my dad's not involved. I'm a big boy now. I do my own stuff. Yeah. Merry Christmas. Kirill cuts the call and nods to Ozim, who stubs his cigar. Semyon notices their silent communication, then turns to one of the violin-playing angels, smiles, and kisses her on both cheeks.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. OZIM'S BARBER SHOP - NIGHT}
 <DIAL>__{We see the car pull up sharply outside Ozim's barber's shop. Nikolai jumps out and opens the door for Ozim.}
-<ACTION_ALT>__{OMITTED}
+
 <DIAL>__{The three men walk to the door beside the barber shop. Ozim takes a bunch of keys out and prepares to open the door to the upstairs. He stops.}
 <CHAR>__{OZIM} <CHAR_PAR>__{}
 <DIAL>__{The driver stays down here. Kirill smiles and shakes his head.}
@@ -1414,7 +1414,7 @@
 <DIAL>__{Semyon recommends these places for business meetings because you can see what tattoos a man has. Nikolai is pulling off his shirt and Ozim reacts to the sight of the fresh eight-pointed star tattoos. Ozim chuckles.}
 <CHAR>__{OZIM } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Come on. We have a lot to get through. Let's cook. Ozim disappears into a steam room, naked. Nikolai watches him go, a private agenda bubbling beneath the surface.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TURKISH BATHS. STEAM ROOM - DAY}
 <DIAL>__{Ozim and Nikolai sit side by side, sweating.    There is no one else in the steam room.}
 <CHAR>__{OZIM} <CHAR_PAR>__{}
@@ -1437,7 +1437,7 @@
 <DIAL>__{Nikolai is sweating hard, staring at the ceiling. The steam room door opens but the steam is now so thick he can't see who has entered.}
 <CHAR>__{NIKOLAI} <CHAR_PAR>__{}
 <DIAL>__{Ozim? He sees a shape... a clothed body. He realizes immediately. Suddenly one of the brothers is upon him and has him in a head lock. He strokes the tattoo on Nikolai's chest as if this were confirmation of who this is. He grunts an instruction and his brother emerges through the steam with an open razor. Nikolai is naked, alone. Suddenly he kicks the razor guy in the balls and uses a martial arts chop to free himself from the other brother. In the steam there are boots and bare feet and knees and fingers flying. Nikolai manages to gouge the eye of one brother and throw another against the wall. He obviously has serious combat training but the brothers are strong and angry. Suddenly Nikolai is slashed across the arm by the razor and blood oozes into the steam and hot water. All the men are slipping and falling on the blood and hot water. Another slash of the razor cuts his thigh open. All the men are now covered in blood and Nikolai, with a final surge of strength, manages to cripple one brother with a blow to the throat, and the other with an elbow to the temple. As the Chechens slump to the floor, Nikolai fumbles in the bloody water for the razor, finds it, kneels, and slashes their throats. He lurches to his feet, drops the razor, and staggers out of the steam room.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TRAFALGAR HOSPITAL. A AND E DEPARTMENT. CANTEEN - DAY}
 <DIAL>__{Aziz and a group of a dozen doctors and nurses are eating lunch, some in party hats, some drinking red wine out of paper cups. Aziz seems anxious, distracted. Anna enters in a hurry, locates Aziz and joins him.}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
@@ -1752,7 +1752,7 @@
 <CHAR>__{ANNA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calmly)}
 <DIAL>__{Well she's not. She's not.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TRAFALGAR HOSPITAL. CORRIDOR - NIGHT}
 <DIAL>__{Anna runs at breakneck speed through the corridors.}
 <LOC>__{EXT. TRAFALGAR HOSPITAL. CAR PARK - NIGHT}
@@ -1833,7 +1833,7 @@
 <DIAL>__{Maybe I can drive you somewhere? She shakes her head.}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
 <DIAL>__{There's someone I can call.   He'll come and fetch us. Nikolai nods, not liking the information but hiding it. Nikolai comes close and gently uncovers Christine's face. He smiles. Kirill is hooting the car horn. After a moment Nikolai and Anna kiss each other gently before Nikolai heads for the car.}
-<LOC>__{103   OMITTED                                                       103* INT. HELEN'S HOUSE. KITCHEN - DAY                             104*}
+<LOC>__{103                                                          103 INT. HELEN'S HOUSE. KITCHEN - DAY                             104}
 <DIAL>__{A summer's day. Anna, Helen and Uncle Stepan are preparing to eat Sunday lunch. Stepan is carving. The conversation is jovial as Anna and Helen bring dishes of food to the table. Then we hear a baby crying. Anna goes to a small crib and lifts a six-month-old Christine out. She hands her to Helen who hugs her. Over this happy scene we hear Tatiana in V.O., a repeat of the first words we heard her say.}
 <CHAR>__{TATIANA } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{My name is Tatiana. My father died in the mines in my village, so he was already buried when he died... Anna takes Christine back and takes her to the window to peer outside, staring across the park.}

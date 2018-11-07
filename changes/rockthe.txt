@@ -782,7 +782,7 @@
 <CHAR>__{GOODSPEED} <CHAR_PAR>__{}
 <DIAL>__{I think we can arrange that.}
 <ACTION>__{With that MASON picks up the pen and signs the pardon contract.  He hands it to Goodspeed, who exits. MASON turns toward the mirror, staring right through.}
-<LOC>__{INT.  F.B.I. ~ OBSERVATION ROOM - DAY SANCHEZ}
+<LOC>__{INT.  F.B.I.   OBSERVATION ROOM - DAY SANCHEZ}
 <ACTION>__{and GOODSPEED enter. GOODSPEED hands U.S. ATTORNEY REYNOLDS the signed pardon contract.}
 <CHAR>__{SANCHEZ} <CHAR_PAR>__{}
 <DIAL>__{Why didn't you throw in a trip to Fiji?}
@@ -969,11 +969,11 @@
 <ACTION>__{TRAFFIC LIGHT is red.  A SPARKLETTS WATER TRUCK proceeds into the intersection.}
 <LOC>__{INT.  MASON'S   CAR - DRIVING - DAY}
 <ACTION>__{MASON runs the red light.  The Sparkletts truck is in the intersection. MASON  violently throws the wheel.  The Humvee swerves to avoid the Sparkletts truck --}
-<LOC>__{EXT.  SAN FRANCISCO STREETS (TOP OF HILL #1) ~ DAY -- but doesn't make}
+<LOC>__{EXT.  SAN FRANCISCO STREETS (TOP OF HILL #1)   DAY -- but doesn't make}
 <ACTION>__{it.  Mason's Humvee SLAMS into the Sparkletts truck's BACK END, knocking it sideways.  The HUMVEE blasts through the intersection as --}
 <LOC>__{70 WATER BOTTLES (5 gallon each) tumble off the Sparkletts truck.  The}
 <ACTION>__{bottles roll down the hill, gaining speed.}
-<LOC>__{INT.  MASON'S HUMVEE ~ DAY the call connects.}
+<LOC>__{INT.  MASON'S HUMVEE   DAY the call connects.}
 <CHAR>__{JADE ANGELOU} <CHAR_PAR>__{}
 <DIAL_PAR>__{(O.S.)}
 <DIAL>__{Hello?}
@@ -1496,7 +1496,7 @@
 <LOC>__{INT.  ALCATRAZ - PRISON SHOWER ROOM - NIGHT}
 <ACTION>__{The FIBER-OPTIC CAMERA turns, looking in a 360 degree radius, and transmitting images of -- THE PRISON SHOWER - a tiled room with shower heads and a 20 160A ft. ceiling.  Above, a mezzanine circles the showers; here Alcatraz's guards once watched inmates below..}
 <LOC>__{INT.  DRAINAGE PIPE UNDER SHOWER ROOM - NIGHT}
-<ACTION>__{Commander Anderson views the shower room images on a TINY (2 inch by 2 inch) WRIST-HELD VIDEO MONITOR.  The shower is deserted, but there's something of interest ~- A MOTION DETECTOR (a blue beam flashed from a transmitter to 161A a receptor) across the grate.}
+<ACTION>__{Commander Anderson views the shower room images on a TINY (2 inch by 2 inch) WRIST-HELD VIDEO MONITOR.  The shower is deserted, but there's something of interest  - A MOTION DETECTOR (a blue beam flashed from a transmitter to 161A a receptor) across the grate.}
 <CHAR>__{COMMANDER ANDERSON} <CHAR_PAR>__{}
 <DIAL>__{Motion sensor.}
 <ACTION>__{Anderson gingerly lifts the grate.  Reigert wiggles his hands past the edges of the grate and nudges the beam transmitter (with one hand) and the beam receiver (with the other) away from the grate.}
@@ -1769,7 +1769,7 @@
 <DIAL>__{Something's a little off here: I'm the F.B.I. Agent, you're the convict, and you have all the guns.}
 <ACTION>__{MASON slaps the .9 MM pistol into Goodspeed's hand walks off. GOODSPEED follows.}
 <LOC>__{INT.  ALCATRAZ - TUNNEL UNDER PRISON MORGUE - NIGHT}
-<ACTION>__{MASON  and GOODSPEED arrive at a fork in the tunnel. _ DOWN THE FORK IN THE TUNNEL - is the PRISON MONO-RAIL SYSTEM: a single rail suspended from the tunnel ceiling, upon which SMALL CARTS are suspended.}
+<ACTION>__{MASON  and GOODSPEED arrive at a fork in the tunnel.   DOWN THE FORK IN THE TUNNEL - is the PRISON MONO-RAIL SYSTEM: a single rail suspended from the tunnel ceiling, upon which SMALL CARTS are suspended.}
 <CHAR>__{GOODSPEED} <CHAR_PAR>__{}
 <DIAL>__{The morgue?}
 <ACTION>__{MASON  nods.  Moves to a STEEL-RUNGED LADDER leading to a GARBAGE CHUTE against the wall.              GOODSPEED follows.}
@@ -1868,7 +1868,7 @@
 <LOC>__{INT.  ALCATRAZ - MONO-RAIL TUNNEL - NIGHT The three carts fly down the}
 <ACTION>__{mono-rail: GOODSPEED and MASON (in CART 1) 50 feet ahead of Scarpetti (in CART 2), who is 50 feet ahead of Hendrix (in CART 3) IN CARTS 2 AND 3 - SCARPETTI and HENDRIX fire M-16s. IN CART 1 - MASON and GOODSPEED duck as BULLETS RICOCHET around the tunnel walls. They pop up and return fire. IN CART 2 - SCARPETTI arms hi over/under M-16 grenade launcher with a grenade and...   FIRES. THE GRENADE PROJECTILE shoots down the monorail tunnel. IN CART 1 - MASON  AND GOODSPEED duck as the GRENADE PROJECTILE wings over their heads, continues down the tunnel and DETONATES against the tunnel wall. CART 1 roars through smoke and debris left by grenade explosion.  As it rounds a corner, MASON grabs A SPLINTERED TIMBER and releases from the cart.  CART 1, with GOODSPEED alone continues down the mono-rail. MASON  yanks down a 5 ft. long BROKEN SECTION OF SEWAGE PIPE and presses himself against the tunnel wall. AS CART 2 rounds the corner... WHAM!!  MASON  swings, hitting Scarpetti flush in the forehead, killing him and blowing him off the cart.  Cart 2, without Scarpetti, continues down the mono-rail. MASON  waits.  As CART 3 rounds the corner MASON  swings again But Hendrix is waiting for it. Hendrix grabs the swinging pipe and pulls MASON into Cart 3! IN CART 3 - HENDRIX AND MASON}
 <ACTION_ALT>__{FIGHT SCENE}
-<ACTION>__{Mason's sprawled on the floor of the cart.  Hendrix levels his M-16. MASON whipsaws the legs under Hendrix, bowling him over, the M-16 falling away from the cart. MASON and Hendrix get to their feet.. They trade blow after blow as the Cart ROARS through the tunnel. IN CART 1 ~ GOODSPEED looks over his shoulder at MASON and Hendrix locked in mortal combat.  He pulls the CART BRAKE.  Cart 1 begins slowing down.  CART 2 (Scarpettils) rams into it. Now Carts 1 and 2 are together.  And on comes -- CART 3 - Hendrix knocks MASON to the floor of the cart.  Hendrix dives atop Mason, strangling him. mason's head is bent over the front lip of the cart.  MASON looks down the mono-rail track.  To his horror he sees CARTS 1 and 2 slowing down ... IN CART 1 -             GOODSPEED realizes that his cart is going to ram Mason's outstretched head.  He releases the brake, and Cart 1 picks up speed ... IN CART 3 - Hendrix draws the knife.  Hendrix raises the knife.  With his last strength, MASON rolls away.  Hendrix plunges the knife down, missing Mason, him momentum carrying his head and shoulders over the front lip of the cart.  MASON SCREAMS at Goodspeed.}
+<ACTION>__{Mason's sprawled on the floor of the cart.  Hendrix levels his M-16. MASON whipsaws the legs under Hendrix, bowling him over, the M-16 falling away from the cart. MASON and Hendrix get to their feet.. They trade blow after blow as the Cart ROARS through the tunnel. IN CART 1   GOODSPEED looks over his shoulder at MASON and Hendrix locked in mortal combat.  He pulls the CART BRAKE.  Cart 1 begins slowing down.  CART 2 (Scarpettils) rams into it. Now Carts 1 and 2 are together.  And on comes -- CART 3 - Hendrix knocks MASON to the floor of the cart.  Hendrix dives atop Mason, strangling him. mason's head is bent over the front lip of the cart.  MASON looks down the mono-rail track.  To his horror he sees CARTS 1 and 2 slowing down ... IN CART 1 -             GOODSPEED realizes that his cart is going to ram Mason's outstretched head.  He releases the brake, and Cart 1 picks up speed ... IN CART 3 - Hendrix draws the knife.  Hendrix raises the knife.  With his last strength, MASON rolls away.  Hendrix plunges the knife down, missing Mason, him momentum carrying his head and shoulders over the front lip of the cart.  MASON SCREAMS at Goodspeed.}
 <CHAR>__{MASON} <CHAR_PAR>__{}
 <DIAL>__{BRAKE! ! !}
 <ACTION>__{IN CART 1 - GOODSPEED pulls the cart brake and -- -- CART 3 SLAMS into CARTS 1 and 2 at 20 m.p.h., crushing Hendrixls head and torso between Carts 2 and 3. The collision knocks MASON off Cart 3, SLAMMING his head against the tunnel wall.  MASON  falls unconscious.to the tunnel floor, while -- -- CART 1 is shoved by the collision across.a DITCH OF WATER in the tunnel floor. GOODSPEED groggily gets to his feet. Jumps down from the cart.}
@@ -2148,7 +2148,7 @@
 <ACTION_ALT>__{MASON}
 <ACTION>__{fiercely yanks the rope toward him.  The heavy rolling caster jerks from the floor.  The CASTER, pulling the rope, flies past Mason's cell -- -- shooting in an arc around the corner of the cell block, still pulling the rope, where -- -- the caster-pulled ROPE catches the CELL RELEASE LEVER against the wall.  The rope coils, WRAP WRAP WHAP, around the release lever handle.}
 <ACTION_ALT>__{MASON}
-<ACTION>__{tugs the rope taut like he's just snagged a fish. Then he pulls slowly and delicately. THE CELL DOOR RELEASE LEVER pulls down and -- -~ MASON'S CELL DOOR (and all the doors on that tier) open at once.  And}
+<ACTION>__{tugs the rope taut like he's just snagged a fish. Then he pulls slowly and delicately. THE CELL DOOR RELEASE LEVER pulls down and -- -  MASON'S CELL DOOR (and all the doors on that tier) open at once.  And}
 <ACTION_ALT>__{MASON}
 <ACTION>__{smiles.}
 <LOC>__{INT.  GOODSPEED'S CELL - MORNING}
@@ -2440,7 +2440,7 @@
 <ACTION>__{GOODSPEED  looks around frantically.  Only one place to go. Up. GOODSPEED scrambles up the interior metal stairs.}
 <LOC>__{EXT.  LOWER LIGHTHOUSE ROOFTOP - DAY}
 <ACTION_ALT>__{GOODSPEED}
-<ACTION>__{emerges on the roof.  Sets down the chem round.  Pulls out the POISON PEARL STRANDS, his hand shaking.  With the other hand, he unclips the ROCKET GUIDANCE CHIP. The COPPER STRANDS holding the pearls are corroded.  A strand BREAKS. Four PEARLS fall. GOODSPEED catches three.  The FOURTH drops, hitting his SHOE.  It rolls along the rooftop. GOODSPEED sets aside the other pearls and dives, grabbing the stray pearl an inch from the roof,s edge. Suddenly THE HUGE LIGHTHOUSE WINDOW behind GOODSPEED EXPLODES, showering GOODSPEED with glass. ON THE ADJACENT ROOFTOP ~ PVT.  MCCOY, wielding a smoking .60 Cal MACHINE GUN.  McCoy fires a wicked, long, sustained burst, emptyinc his entire ammunition belt. THE LIGHTHOUSE SEARCHLIGHT FRESNEL blows to shreds. GOODSPEED rolls away, GLASS SHARDS raining down on him, cutting him-. He's a sitting duck. MCCOY casts aside the .60 Cal and unshoulders a SNIPER RIFLE.  Draws a bead on GOODSPEED again.  GOODSPEED, bleeding, terrified, cowers, awaiting death. A SILHOUETTE APPEARES behind McCoy.  It's MASON, dirty and bloodied. McCoy spins.  MASON bats the rifle aside, KNEES McCoy in the solar plexus, grips McCoyls NECK -- SNAP! -and HURLS him off the roof.  McCoy falls 5 floors. GOODSPEED gives MASON a thankful glance.  And hears THE DOOR BURST OPEN}
+<ACTION>__{emerges on the roof.  Sets down the chem round.  Pulls out the POISON PEARL STRANDS, his hand shaking.  With the other hand, he unclips the ROCKET GUIDANCE CHIP. The COPPER STRANDS holding the pearls are corroded.  A strand BREAKS. Four PEARLS fall. GOODSPEED catches three.  The FOURTH drops, hitting his SHOE.  It rolls along the rooftop. GOODSPEED sets aside the other pearls and dives, grabbing the stray pearl an inch from the roof,s edge. Suddenly THE HUGE LIGHTHOUSE WINDOW behind GOODSPEED EXPLODES, showering GOODSPEED with glass. ON THE ADJACENT ROOFTOP   PVT.  MCCOY, wielding a smoking .60 Cal MACHINE GUN.  McCoy fires a wicked, long, sustained burst, emptyinc his entire ammunition belt. THE LIGHTHOUSE SEARCHLIGHT FRESNEL blows to shreds. GOODSPEED rolls away, GLASS SHARDS raining down on him, cutting him-. He's a sitting duck. MCCOY casts aside the .60 Cal and unshoulders a SNIPER RIFLE.  Draws a bead on GOODSPEED again.  GOODSPEED, bleeding, terrified, cowers, awaiting death. A SILHOUETTE APPEARES behind McCoy.  It's MASON, dirty and bloodied. McCoy spins.  MASON bats the rifle aside, KNEES McCoy in the solar plexus, grips McCoyls NECK -- SNAP! -and HURLS him off the roof.  McCoy falls 5 floors. GOODSPEED gives MASON a thankful glance.  And hears THE DOOR BURST OPEN}
 <ACTION_ALT>__{BELOW.}
 <LOC>__{INT.  LOWER LIGHTHOUSE ROOFTOP - DAY}
 <ACTION>__{FRYE roars inside.  Looks around.  Starts up the stairs.}
@@ -2497,7 +2497,7 @@
 <CHAR>__{F.B.I. TECHNICIAN} <CHAR_PAR>__{}
 <DIAL>__{Green smoke!  It's...   GOODSPEED!!}
 <ACTION>__{A RADIO OPERATOR fires a message to command.}
-<LOC>__{INT.  PIER 39 ~ F.B.I. COMMAND CENTER - DAY}
+<LOC>__{INT.  PIER 39   F.B.I. COMMAND CENTER - DAY}
 <CHAR>__{SANCHEZ} <CHAR_PAR>__{}
 <DIAL>__{Abort.  Abort immediately.}
 <LOC>__{EXT.  ALCATRAZ - SHORELINE - DAY}

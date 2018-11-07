@@ -1803,7 +1803,7 @@
 <DIAL>__{I'm home.}
 <ACTION>__{He picks up the bowl of food he left on the porch, unlocks the door, goes inside, and sees the cat napping on his desk. He stares at it. Then at the door he just came through. Then the windows: all shut. Nothing has been disturbed as far as he can tell, but someone has been in here.}
 <LOC>__{161AA   INT. SALANDER'S APARTMENT - DAY                          161AA}
-<ACTION>__{A window on Salander's laptop shows a map of Sweden divided into its 21 counties: Stockholm, Vasterbotten, Uppsala, etc. She starts with Skane. Hacks *however one does that* into its police department's crime database (or various county newspapers' databases). She fills in the year field with - 1947-1966 - and continues to types quickly. When we see what that is, she's in the middle of typing this filters list - Homicide Female Rape Decapitation Dismemberment Fire Altar Priest Prostitute Unsolved Mari Magda Sara}
+<ACTION>__{A window on Salander's laptop shows a map of Sweden divided into its 21 counties: Stockholm, Vasterbotten, Uppsala, etc. She starts with Skane. Hacks however one does that into its police department's crime database (or various county newspapers' databases). She fills in the year field with - 1947-1966 - and continues to types quickly. When we see what that is, she's in the middle of typing this filters list - Homicide Female Rape Decapitation Dismemberment Fire Altar Priest Prostitute Unsolved Mari Magda Sara}
 <ACTION_ALT>__{R.L.}
 <ACTION>__{The search produces a screen showing matches to some of the filter words - the rest of the case synopses greyed out. But also, with all of them, there's this message:}
 <DIAL>__{Full Police Report Not Digitized}

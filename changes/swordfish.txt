@@ -1227,7 +1227,7 @@
 <DIAL_PAR>__{(walking toward desk)}
 <DIAL>__{Look at these.}
 <ACTION>__{Kaplan spreads out the surveillance photos on the desk. The Senator looks up at Kaplan.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. REISMAN'S HOUSE - DAY}
 <ACTION>__{Reisman, who now stands in a windowless room. The only furniture is a desk on which rests a small laptop and what appears to be a speaker. An OPERATOR sits at the desk, while Kaplan hovers in the b.g.}
 <CHAR>__{REISMAN} <CHAR_PAR>__{}
@@ -1400,7 +1400,7 @@
 <CHAR>__{GABRIEL} <CHAR_PAR>__{}
 <DIAL>__{You're on my good side and you want to stay there. Stanley, I like you, but don't confuse kindness with weakness. So, get in the fuckin' car. I need my hydra.}
 <TRANS>__{FADE TO BLACK: FADE IN:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. GABRIEL'S HOUSE - LIVING ROOM - NIGHT}
 <ACTION>__{Stanley is working at his terminal.}
 <CHAR>__{GINGER} <CHAR_PAR>__{}
@@ -1425,7 +1425,7 @@
 <DIAL>__{You're starting to sound just like him.}
 <ACTION>__{They look at each other.    Stanley turns toward the computer screens.}
 <TRANS>__{FADE TO BLACK: FADE IN:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                    &}
 <LOC>__{96}
 <ACTION>__{CLOSEUP - FLY-FISHING REEL as it quickly unwinds.}
@@ -1482,7 +1482,7 @@
 <ACTION>__{His hands fly across the computer keys, he slides in a zip disk, transfers the file, and runs for the door.}
 <LOC>__{EXT. GABRIEL'S HOUSE - MORNING}
 <ACTION>__{Outside, Marco waits in his black Porsche Turbo ready to roll. Stanley walks out of the house.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                  thru}
 <LOC>__{103A INT. PARKING GARAGE (WASHINGTON, D.C.) - NIGHT}
 <ACTION>__{A snazzy, sweat-suited Kaplan walks out to his shiny new silver Porsche, racquet ball racquet flipping in hand. He's so downright happy in his confidence that he is on the fast track to political Valhalla, due to his handling of this Gabriel Shear debacle, he is whistling. He CLICKS the Porsche key, unlocking the driver's door, tosses in his racquet and climbs in.}
@@ -1836,7 +1836,7 @@
 <DIAL>__{Let's roll.}
 
 <ACTION>__{The driver pulls the door lever and it closes. The bus pulls into gear and slowly moves forward. The cops and FBI agents just stare vacantly at the bus.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. STARBUCKS COFFEE SHOP - DAY}
 <CHAR>__{ROBERTS} <CHAR_PAR>__{}
 <DIAL>__{You just gonna let them drive the fuck on outta here?}
@@ -1870,7 +1870,7 @@
 <CHAR>__{GABRIEL} <CHAR_PAR>__{}
 <DIAL>__{Really? Five hundred bucks says I do. Tell ya what, Stanley, I'll even spot you the five bills.}
 <ACTION>__{Gabriel walks to the front of the bus, puts on a headset, and keys a mic.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                               thru}
 <LOC>__{132 INT. BUS - DAY}
 <ACTION>__{We are moving through the city. Behind the bus, a huge caravan of police cars and SWAT trucks follow.}
@@ -1914,7 +1914,7 @@
 <CHAR>__{GABRIEL} <CHAR_PAR>__{}
 <DIAL>__{I saw Sugarland Express, Stan. Didn't like the way it ended.}
 <ACTION>__{We see a sign that says "LAX."          The bus turns off before they get to the sign.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BUS - DAY}
 <CHAR>__{STANLEY} <CHAR_PAR>__{}
 <DIAL>__{I thought we were going to the airport.}
@@ -1929,7 +1929,7 @@
 <CHAR>__{GABRIEL} <CHAR_PAR>__{}
 <DIAL>__{Gentlemen...}
 <ACTION>__{Stanley looks out the window as two of the mercs scramble through hatches in the roof.}
-<ACTION_ALT>__{OMITTED}
+
 
 <LOC>__{EXT. SKY - DAY}
 <ACTION>__{A huge black Sikorsky sky crane drops out of the sky. It has matched speed with the bus dragging four crane cables under it.}
@@ -1944,10 +1944,10 @@
 <ACTION>__{Roberts, hauling ass after the bus, sees the Sikorsky.}
 <CHAR>__{ROBERTS} <CHAR_PAR>__{}
 <DIAL>__{Well why the fuck not.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SANTA MONICA AIRPORT - DAY}
 <ACTION>__{The SWAT teams sit and just continue to wait for Gabriel, who will never show up.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SANTA MONICA AIRPORT - DAY}
 <ACTION>__{Joy and Agent Thomas come SCREECHING up at the airport. Agent Thomas's PHONE RINGS and he answers it. Joy walks over to the SWAT leader.}
 <CHAR>__{A.D. JOY} <CHAR_PAR>__{}
@@ -2005,7 +2005,7 @@
 <ACTION>__{The concussion BLOWS OUT every WINDOW of the bus.   The hostages scramble to hold on.}
 <LOC>__{EXT. L.A. SKY - DAY}
 <ACTION>__{The bus now hangs suspended perpendicular to the ground. The Sikorsky starts to climb again.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                      &}
 <LOC>__{155 INT. BUS - DAY}
 <ACTION>__{Gabriel turns to the merc driving the bus, who is wearing a headset.}
@@ -2032,7 +2032,7 @@
 <ACTION>__{SWAT trucks pull up and SWAT guys roll out.}
 <LOC>__{INT. BUILDING - DAY}
 <ACTION>__{Roberts rushes into the skyscraper.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BUILDING - DAY}
 <ACTION>__{SWAT commandos hit the stairs and elevators.}
 <LOC>__{EXT. SKYSCRAPER ROOF - DAY}
@@ -2048,7 +2048,7 @@
 <ACTION>__{Gabriel strides away. We hear the WHINE of the EXPLORER as it does its final POWER UP for lift off. Stanley looks around the bus futilely for some way to stop Gabriel. Stan can hear the cavalry about to arrive. The Explorer slowly lifts upward.}
 <LOC>__{EXT. SKYSCRAPER ROOF - DAY}
 <ACTION>__{The Explorer shoots upward into the sky.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BUS}
 <ACTION>__{Stan looks around, all the hostages look back at him. Stanley sees one of the Stinger missile launchers, broken free of its box.}
 <LOC>__{EXT. BUS}
@@ -2114,7 +2114,7 @@
 <DIAL>__{No more elephant.}
 <ACTION>__{FLASHBACK - SWAT GUYS in black urban assault gear, pushing Stan to the ground.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{CLOSEUP - STANLEY (PRESENT) Realization sinking in.}
 <LOC>__{INT. GABRIEL'S HOUSE - GINGER'S ROOM}
 <ACTION>__{Ginger looks at him, holding her Glock, a wire taped between her breasts.}

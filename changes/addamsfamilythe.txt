@@ -20,11 +20,11 @@
 <ACTION>__{The room is a dusty, cobweb-filled, long-unoccupied shrine to Gomez's lost brother, Fester. Gomez drifts in from the doorway. The room has remained untouched since Fester's disappearance as a teenager. The thick coating of dust and cobwebs adorns the mementoes of a rapscallion's youth - a football pennant from Alcatraz, headless sports trophies, a high school photo with all the other students keeping as much distance from Fester as possible. As he lovingly and morosely surveys the room:}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{... And for twenty-five years, nothing. Not a whisper, not a clue. I'm beginning to think my my brother truly is lost.}
-<ACTION>__{Gomez sighs.   Thing TUGS at his cuff, pulling him towards the}
+<ACTION>__{Gomez sighs. Thing TUGS at his cuff, pulling him towards the}
 <LOC>__{INT. HALLWAY - SAME TIME}
 <ACTION>__{Galloping ahead of Gomez, Thing leaps onto an old-fashioned door latch and the door swings open INTO}
 <LOC>__{INT. GOMEZ AND MORTICIA'S BEDROOM - SAME TIME}
-<ACTION>__{Gomez approaches the bed.   Asleep on scarlet satin sheets is... MORTICIA}
+<ACTION>__{Gomez approaches the bed. Asleep on scarlet satin sheets is... MORTICIA}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gazing at Morticia)}
 <DIAL>__{Look at her -- I would die for her. I would kill for her. Either way -- what bliss.}
@@ -36,11 +36,11 @@
 <DIAL_PAR>__{(passionately)}
 <DIAL>__{Oh, yes, yes. Completely.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. PUGSLEY'S ROOM - SAME TIME}
-<ACTION>__{Pugsley crouches on the floor, playing with his kid-sized chemistry set. The walls of his room are covered with road signs he's collected -- "Bridge Out!", "Detour! Excavation Ahead!", "Dangerous Undertow!", "Keep Clear! High Voltage!" SAWED-OFF STOP SIGNS, still on their poles, are stacked in the corner. In another corner stands a CYLINDRICAL FLOOR-TO-CEILING FISH TANK, FILLED WITH PIRANHA. This tubby energetic monster of a nine-year-old boy has every chance of growing up to be the public monster his parents would be proud of. He MIXES chemicals in a beaker. The brew steams.    Grin- ning wickedly, Pugsley SWALLOWS it down. He contorts, undergoing the beginnings of a transforma- tion, then SHRINKS to the size of a mouse. Laughing, he crawls out of his human-size pajamas.}
+<ACTION>__{Pugsley crouches on the floor, playing with his kid-sized chemistry set. The walls of his room are covered with road signs he's collected -- "Bridge Out!", "Detour! Excavation Ahead!", "Dangerous Undertow!", "Keep Clear! High Voltage!" SAWED-OFF STOP SIGNS, still on their poles, are stacked in the corner. In another corner stands a CYLINDRICAL FLOOR-TO-CEILING FISH TANK, FILLED WITH PIRANHA. This tubby energetic monster of a nine-year-old boy has every chance of growing up to be the public monster his parents would be proud of. He MIXES chemicals in a beaker. The brew steams. Grin- ning wickedly, Pugsley SWALLOWS it down. He contorts, undergoing the beginnings of a transforma- tion, then SHRINKS to the size of a mouse. Laughing, he crawls out of his human-size pajamas.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ATTIC - SAME TIME}
 <ACTION>__{Solemn and mournful, ten-year-old Wednesday has black hair and white skin like her mother. She sits on a stool among the stored Addams' family objects, ONE END OF A STRING TIED TO HER TOOTH, THE OTHER TIED TO A TRAP DOOR. The trap door is flung open, GRANNY pokes her head through. She's a giggly hag who looks like she was in the bathtub when the hairdryer fell in. Wednesday's pulled tooth swings at the end of the string.}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
@@ -50,7 +50,7 @@
 <DIAL>__{You kids are going to have to kill your own breakfast this morning.}
 <ACTION>__{Wednesday opens a cigar box. Inside the box are assorted human and animal teeth, fangs and dentures, along with a collection of glass eyes. Wednesday drops her tooth in the box.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. GOMEZ AND MORTICIA'S BEDROOM - SAME TIME}
 <ACTION>__{Gomez takes Morticia in his arms. As she languidly drapes herself across his chest, she is caught in a sudden shaft of sunlight. She squints. On the bedside table beside her, Morticia's OVERSIZED CARNIVOROUS}
 <ACTION_ALT>__{ORCHID WILTS.}
@@ -90,13 +90,13 @@
 <ACTION_ALT>__{FROM ABOVE}
 <ACTION>__{the fog machine hurtles downwards, missing decapitating Gomez by millimeters. It crashes below, smashing through the front porch roof.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ENTRANCE HALL - LATER}
 <ACTION>__{Standing beside the front door is LURCH, the gigantic family butler, a reanimated stitched-together behemoth. He holds two brown paper lunch bags in his enormous hands. The bags' contents wriggle, eager to escape.}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(taking her bag)}
 <DIAL>__{Thank you, Lurch.}
-<ACTION>__{Pugsley takes his bag, opens it, and peers inside.    Lurch GROWLS, and Pugsley closes the bag.}
+<ACTION>__{Pugsley takes his bag, opens it, and peers inside. Lurch GROWLS, and Pugsley closes the bag.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BALCONY OUTSIDE GOMEZ AND MORTICIA'S BEDROOM -}
 <ACTION_ALT>__{SAME TIME}
@@ -125,7 +125,7 @@
 <ACTION_ALT>__{THEIR POV}
 <ACTION>__{Tires smoking, the school bus strains to chug down the road. Gleefully hanging from the rear bumper is Pugsley, dragging his heels.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. THE CONSERVATORY - LATER THAT MORNING}
 <ACTION>__{Morticia, wearing gardening gloves, is snipping the blossoms off her roses. Gomez sits at a table, playing CHESS with Thing.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
@@ -166,13 +166,13 @@
 <DIAL_PAR>__{(clutching him savagely)}
 <DIAL>__{Say it, Gordon. Make me believe it.}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
-<DIAL>__{I love you.   And I want money.}
+<DIAL>__{I love you. And I want money.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(very no-nonsense)}
 <DIAL>__{We've got to find Tully.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BALLROOM - SAME TIME}
-<ACTION>__{Morticia is looking for her children. She discovers Pugsley ASLEEP, curled up on the SILVER PLATTER WHERE THE TWO-HEADED PIG LAY. She finds this enchanting. Gomez enters.   Morticia shushes him; she points to the platter.}
+<ACTION>__{Morticia is looking for her children. She discovers Pugsley ASLEEP, curled up on the SILVER PLATTER WHERE THE TWO-HEADED PIG LAY. She finds this enchanting. Gomez enters. Morticia shushes him; she points to the platter.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispering)}
 <DIAL>__{Look - our little boy.}
@@ -209,32 +209,32 @@
 <DIAL>__{Up here.}
 <ACTION>__{They look up at Fester, looking down at them from Wednesday's window.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Fester! You take the ravine!     And the unmarked, abandoned well!}
+<DIAL>__{Fester! You take the ravine! And the unmarked, abandoned well!}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL>__{Somebody should stay behind - in case she comes back.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Good man!   Good thinking!}
+<DIAL>__{Good man! Good thinking!}
 <CHAR>__{GRANNY} <CHAR_PAR>__{}
 <DIAL>__{Then who'll take the swamp?}
-<ACTION>__{Thing tugs at the cuff of Gomez's pants.       Gomez nods.}
+<ACTION>__{Thing tugs at the cuff of Gomez's pants. Gomez nods.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{That's the spirit, Thing - lend a hand! Let's go!}
 <ACTION>__{They all sweep off, with Gomez in the lead.}
 <LOC>__{INT. WEDNESDAY'S ROOM - A SHORT WHILE LATER}
-<ACTION>__{Fester is still at the window.      Abigail joins him.}
+<ACTION>__{Fester is still at the window. Abigail joins him.}
 <ACTION_ALT>__{THEIR POV}
 <ACTION>__{Spread far and wide over the grounds, the various members of the family search for Wednesday, tiny lights aloft, calling.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL>__{Where the hell is Tully?}
 <ACTION>__{They head out.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. DEN - A LITTLE LATER}
 <ACTION>__{Fester and Virginia find... TULLY - sitting in an armchair, basking in the rays of sunshine that beam from a copy of "The Sun Also Rises." Tully smiles at them.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL>__{What are you doing?}
 <CHAR>__{TULLY} <CHAR_PAR>__{}
-<DIAL>__{Relaxing.   Taking a little sun.}
+<DIAL>__{Relaxing. Taking a little sun.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL>__{Have you gone mad?}
 <CHAR>__{TULLY} <CHAR_PAR>__{}
@@ -264,7 +264,7 @@
 <ACTION>__{Inside it is catacomb-like, filled with the bleached bones of the Addams dead. Gomez's torch casts shadows -- one of which belongs to Wednesday, curled asleep on a stone sarcophagus. Relieved to find her, Gomez approaches quietly. He doesn't want to wake her up. He lifts her tenderly in his arms.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. GATE - DARKNESS BEFORE DAWN}
-<ACTION>__{Gate can't open. He rattles miserably on his hinges -- locked tight with heavy chains and yellow police tape - large "NO TRESPASSING!! COURT ORDER!! ADDAMS FAMILY - KEEP OUT!!" signs are posted on Gate's rusty bars. PULL BACK TO REVEAL -- the family, appalled at the sight of Gate.    Lurch carries the sleeping Wednesday and Pugsley.}
+<ACTION>__{Gate can't open. He rattles miserably on his hinges -- locked tight with heavy chains and yellow police tape - large "NO TRESPASSING!! COURT ORDER!! ADDAMS FAMILY - KEEP OUT!!" signs are posted on Gate's rusty bars. PULL BACK TO REVEAL -- the family, appalled at the sight of Gate. Lurch carries the sleeping Wednesday and Pugsley.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{What's all this?}
 <ACTION>__{TULLY -- hurries down the walkway, waving his legal document.}
@@ -301,11 +301,12 @@
 <DIAL_PAR>__{(fervently)}
 <DIAL>__{They say a man who represents himself has a fool for a client. Well, with God as my witness - I am that fool!}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. COURTROOM - DAY}
 <ACTION>__{C.U. GAVEL -- hammers on the Judge's bench. PULL BACK to reveal --}
 <ACTION_ALT>__{JUDGE WOMACK}
-<ACTION>__{is the presiding judge.   He hammers the bench again, then reads his decision.}
+<ACTION>__{is the presiding judge. He hammers the bench again, then reads his decision.}
 <CHAR>__{JUDGE WOMACK} <CHAR_PAR>__{}
 <DIAL>__{Given applicable standards of proof, the attempts to impugn this man's character or question his identity have been woefully inadequate. It is with no small amount of personal satisfaction that I declare Fester Addams legal executor of the Addams estate and rightful owner of all properties and possessions contained herein. Gomez Addams...}
 <DIAL_PAR>__{(He holds up a golf ball)}
@@ -316,7 +317,7 @@
 <ACTION_ALT>__{GOMEZ}
 <ACTION>__{already sits in the passenger seat of the Duesenberg, his coat draped over his shoulders as if he were an invalid, his head thrown back. Morticia carries out Cleo, her carnivorous plant. Granny carries her favorite cauldron, Wednesday one of her Marie Antoinette dolls, Pugsley his chemistry set. Lurch uproots his favorite tree and joins the procession. Thing follows, dragging a toy wagon packed with his rings, his glove.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ADDAMS OVERGROWN DRIVEWAY - LATER}
 <ACTION>__{The Duesenberg eases out of the driveway and onto the street, WEIGHED DOWN by Lurch's tree, sticking out of the trunk.}
 <ACTION_ALT>__{FESTER}
@@ -335,10 +336,10 @@
 <DIAL>__{Just as long as we're together, n'est pas, mon cher?}
 <ACTION>__{As she turns to Gomez, we see the interior of the bungalow -- all ersatz cowboy and Indian mixed with chrome-plated plastic and orange shag carpet.}
 <ACTION_ALT>__{GOMEZ}
-<ACTION>__{sits slumped in a   chair made from wagon wheel and nauga- hyde. It's as if    all of his insane, vibrant energy has been leeched from   him. He's a broken man. He looks back at her as if he's   never heard French.}
+<ACTION>__{sits slumped in a chair made from wagon wheel and nauga- hyde. It's as if all of his insane, vibrant energy has been leeched from him. He's a broken man. He looks back at her as if he's never heard French.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{Huh?}
-<ACTION>__{Wednesday tends to him.    She and her mother exchange a worried look.}
+<ACTION>__{Wednesday tends to him. She and her mother exchange a worried look.}
 <ACTION_ALT>__{PUGSLEY}
 <ACTION>__{comes from the bathroom, nibbling a wrapped bar of motel soap.}
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
@@ -359,9 +360,9 @@
 <ACTION>__{Wednesday exchanges a panic-stricken look with Morticia. The family moves closer to Gomez.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{But maybe I'll have one of those...}
-<ACTION>__{He takes a bar of soap from Pugsley.     Gomez unwraps it and morosely eats.}
+<ACTION>__{He takes a bar of soap from Pugsley. Gomez unwraps it and morosely eats.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ADDAMS MANSION - MIDWAY TO THE VAULT}
 <ACTION>__{C.U. on three hands, as they reach up to pull three of the countless chains.}
 <TRANS>__{CUT TO:}
@@ -377,7 +378,7 @@
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL>__{We are Addamses, and we will not submit. Who recalls the fable of the tortoise and the hare? The swift, yet lazy little cottontail, and his slow but determined companion? What does that story teach us, as Addamses?}
 <CHAR>__{GRANNY} <CHAR_PAR>__{}
-<DIAL>__{Kill the hare. Skin it.   Boil it.}
+<DIAL>__{Kill the hare. Skin it. Boil it.}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL>__{Put the tortoise on the highway.}
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
@@ -394,14 +395,15 @@
 <DIAL>__{We're Addamses...}
 <ACTION>__{He burps -- soap bubbles floating from his mouth.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMMITTED OMITTED}
+<ACTION_ALT>__{OMMITTED}
+
 <LOC>__{EXT. SIDEWALK IN FRONT OF THE WAMPUM COURT - DAY}
 <ACTION>__{Wednesday and Pugsley have set up a LEMONADE STAND, their contribution to the Addams' financial well-being. An array of POISONS are lined up on their rickety table. They've slashed their prices to a nickel per cup. The pitcher on the table before them steams. Cars speed by. Carrying a SAMPLE VACUUM CLEANER and a bucket, Lurch comes out of the motel courtyard. Pugsley offers him a cup of punch.}
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
-<DIAL>__{Here, Lurch.   On the house.}
+<DIAL>__{Here, Lurch. On the house.}
 <ACTION>__{Lurch downs it in a gulp and heads off. Feeling the effects of the lemonade, Lurch BURPS -- a tongue of flame shoots from his mouth and INCINERATES A WOODEN INDIAN advertising the Wampum Court.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. EMPLOYMENT AGENCY}
 <ACTION>__{Morticia is being interviewed by a PERSONNEL OFFICER, a relentlessly perky gal with a clipboard.}
 <CHAR>__{PERSONNEL OFFICER} <CHAR_PAR>__{}
@@ -462,29 +464,31 @@
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <CHAR>__{GIRL SCOUT} <CHAR_PAR>__{}
-<DIAL>__{Well... I   tell you what. I'll buy a cup, if   you buy a box of my delicious   girl scout cookies. Do we have a   deal?}
+<DIAL>__{Well... I tell you what. I'll buy a cup, if you buy a box of my delicious girl scout cookies. Do we have a deal?}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL>__{Are they made from real girl scouts?}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. SUBURBAN HOUSE - DAY}
 <ACTION>__{White clapboard. Geraniums in the flower boxes. Surrounded by a white picket fence. Carrying his SAMPLE VACUUM CLEANER AND BUCKET, the tools of his new trade, Lurch carefully opens the little white gate. AT THE DOOR, he rings the doorbell, afraid he might break something. A BLONDE HOUSEWIFE in tennis whites, obviously in a hurry, opens the door -- only to be greeted by a BUCKETFUL OF SLOP thrown past her, onto her peach Oriental rug. She SCREAMS in horror, turns to challenge the perpetrator of this atrocity and, seeing Lurch, SCREAMS again. In a panic, she tries to slam the door on Lurch, but, like the salesman's manual undoubtedly advised, he STICKS his foot in the way. The door partially RIPS off its hinges. Lurch steps inside and shuts the door as best he can. A moment passes. The door swings open and Lurch exits, jauntily waving a check.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED}
-<ACTION>__{&                                                                &}
+
+
+<ACTION>__{& &}
 <LOC>__{143}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. DAYCARE CENTER - DAY}
 <ACTION>__{Morticia is telling a story to a group of TODDLERS, who have gathered in a circle around her, sitting on carpet squares. The room is sunny and cheerful, with crayon drawings taped to the walls.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL>__{... and so the witch lured Hansel and Gretel into the candy house, by promising them more sweets. And she told them to look in the oven, and she was about to push them in, when, low and behold, Hansel pushed the poor, defenseless witch into the oven instead. Where she was burned alive, writhing in agony. Now, boys and girls, what do you think that feels like?}
 <ACTION>__{After a beat, all the toddlers begin to CRY and WAIL.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{thru                                                              thru}
+
+<ACTION>__{thru thru}
 <LOC>__{147}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{thru                                                              thru}
-<ACTION_ALT>__{OMITTED}
+
+<ACTION>__{thru thru}
+
 <LOC>__{EXT. WAMPUN BUNGALOW - DAY}
 <ACTION>__{Granny holds a club behind her back as she stalks something.}
 <CHAR>__{GRANNY} <CHAR_PAR>__{}
@@ -505,7 +509,7 @@
 <ACTION>__{Granny, running now, club raised, hurries past the open window of the bungalow. She stops at the sight of Gomez inside, standing on the bed, staring at the television. C.U. on the TV set - Gomez is now watching Geraldo Rivera, hosting his tabloid style show.}
 <CHAR>__{GERALDO} <CHAR_PAR>__{}
 <DIAL>__{Voodoo zombies - the stuff of legend, or a living nightmare? Do zombies really exist? How are they made? Where can we find them? Call in with your comments.}
-<ACTION>__{A CALL-IN NUMBER is flashed on the screen.    Gomez reaches for the phone.}
+<ACTION>__{A CALL-IN NUMBER is flashed on the screen. Gomez reaches for the phone.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ADDAMS MANSION DINING ROOM - DAY}
 <ACTION>__{Abigail and Gordon are seated at opposite ends of the table, having lunch. It is very quiet.}
@@ -525,7 +529,7 @@
 <ACTION>__{As Fester repeats "Yes, Mother", in his drone, Abigail mimics him, silently.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BUNGALOW - AN HOUR LATER}
-<ACTION>__{C.U. on the TV screen.   Geraldo is talking to a woman in the studio audience.}
+<ACTION>__{C.U. on the TV screen. Geraldo is talking to a woman in the studio audience.}
 <CHAR>__{GERALDO} <CHAR_PAR>__{}
 <DIAL>__{So your son was brainwashed by voodoo slave masters and forced to recruit others. Let's take a call.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
@@ -534,7 +538,7 @@
 <CHAR>__{GERALDO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(cutting him off)}
 <DIAL>__{Mr. Addams, please stop calling. We don't know where they meet.}
-<ACTION>__{PULL BACK to the motel room. Gomez lets the phone drop. Morticia, seated on the edge of the box spring, tries to comfort him. Pugsley, Wednesday and Lurch are seated nearby, very worried about Gomez, as at a death watch. Gomez is now surrounded by junk food, and a mountain of junk food wrappers, bags and styrofoam containers. Ritually, as handmaidens, Morticia brings Gomez the remote control for the TV, and Wednesday brings him a copy of TV Guide. Pugsley brings Gomez a bag of "Doritos", and Lurch brings him a canister of "Pringles". Gomez uses the remote to switch channels.   An episode of "The Cosby Show" comes on.}
+<ACTION>__{PULL BACK to the motel room. Gomez lets the phone drop. Morticia, seated on the edge of the box spring, tries to comfort him. Pugsley, Wednesday and Lurch are seated nearby, very worried about Gomez, as at a death watch. Gomez is now surrounded by junk food, and a mountain of junk food wrappers, bags and styrofoam containers. Ritually, as handmaidens, Morticia brings Gomez the remote control for the TV, and Wednesday brings him a copy of TV Guide. Pugsley brings Gomez a bag of "Doritos", and Lurch brings him a canister of "Pringles". Gomez uses the remote to switch channels. An episode of "The Cosby Show" comes on.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{Re-run.}
 <ACTION>__{He switches off the set and stares at the blank screen.}
@@ -548,16 +552,16 @@
 <ACTION>__{Granny opens the door and sticks her head in.}
 <CHAR>__{GRANNY} <CHAR_PAR>__{}
 <DIAL>__{Dinner's going to be late.}
-<ACTION>__{She slams the door.   We hear her whistling.}
+<ACTION>__{She slams the door. We hear her whistling.}
 <CHAR>__{GRANNY } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Here, boy.   Here, boy.}
+<DIAL>__{Here, boy. Here, boy.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. WAMPUM COURT - LATER}
 <ACTION>__{Morticia is putting Wednesday to bed.}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL>__{If that man isn't Uncle Fester, then who is he, mother?}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
-<DIAL>__{I don't know, darling.   I wish I did.}
+<DIAL>__{I don't know, darling. I wish I did.}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL>__{Why is that lady doing all this?}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
@@ -659,8 +663,8 @@
 <LOC>__{EXT. BUNGALOW - NIGHT}
 <ACTION>__{Thing leaps dramatically onto the porch, then stops dead to knock on the cabin door. After a beat:}
 <CHAR>__{GOMEZ } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Who is it?     We're paid through Thursday.}
-<ACTION>__{He opens the door.    Thing rushes in.}
+<DIAL>__{Who is it? We're paid through Thursday.}
+<ACTION>__{He opens the door. Thing rushes in.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BUNGALOW - MINUTES LATER}
 <ACTION>__{Thing skitters on the kitchen counter, frantically signing. In the background, the rest of the family sleeps.}
@@ -670,10 +674,10 @@
 <ACTION>__{Frustrated, Thing grabs a SPOON and begins tapping out}
 <ACTION_ALT>__{MORSE CODE.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Morticia in danger... stop!    Send help at once ... stop!}
-<ACTION>__{Thing flops down in exhausted triumph.    Gomez grabs him and heads off.}
+<DIAL>__{Morticia in danger... stop! Send help at once ... stop!}
+<ACTION>__{Thing flops down in exhausted triumph. Gomez grabs him and heads off.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. GOMEZ'S STUDY - A FEW MINUTES LATER}
 <ACTION>__{Morticia is now lashed to an ENORMOUS TORTURE WHEEL. Tully and Abigail are tending the stick BRANDING IRONS stuck in the roaring fire.}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
@@ -708,8 +712,8 @@
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL>__{... be my guest.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{thru                                                             thru}
+
+<ACTION>__{thru thru}
 <LOC>__{164 INT. DUESENBERG - NIGHT}
 <ACTION>__{Gomez cuts the engine. The car glides silently through Gate -- who opens uncharacteristically without a creak. Gomez stops the car and skulks out. Thing skulks after him. Gomez sees the reflections of the roaring fire through the study window.}
 <TRANS>__{CUT TO:}
@@ -726,9 +730,9 @@
 <DIAL>__{Darling, take care!}
 <ACTION>__{Without even looking, Gomez parries Tully's blow from behind. Then he whirls on Tully.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Dirty pool, old man.      Never again!}
+<DIAL>__{Dirty pool, old man. Never again!}
 <CHAR>__{TULLY} <CHAR_PAR>__{}
-<DIAL>__{This is for keeps, Gomez!      Not just doubloons!}
+<DIAL>__{This is for keeps, Gomez! Not just doubloons!}
 <ACTION>__{Tully feints, then slashes - shredding the front of Gomez's jacket.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{One for you, Tully, and...}
@@ -740,7 +744,7 @@
 <DIAL>__{Gomez... it's Tully. I'm your lawyer. I'm on retainer.}
 <CHAR>__{ABIGAIL } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Let him up!}
-<ACTION>__{Gomez turns to see... ABIGAIL - who now has a pistol aimed at Morticia.       One shot and Morticia will die horribly. Gomez throws aside his sword.      Tully scrambles to his feet.}
+<ACTION>__{Gomez turns to see... ABIGAIL - who now has a pistol aimed at Morticia. One shot and Morticia will die horribly. Gomez throws aside his sword. Tully scrambles to his feet.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Gomez)}
 <DIAL>__{That's right! Now get moving - Addams, take him to the vault. And if you're not back in one hour...}
@@ -750,7 +754,7 @@
 <DIAL>__{I displace her.}
 <ACTION>__{Gomez is near enough now to take Morticia's hand, on the torture wheel.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Tish - seeing you like this.   My blood boils.}
+<DIAL>__{Tish - seeing you like this. My blood boils.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL>__{As does mine.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
@@ -767,7 +771,7 @@
 <DIAL>__{A day alone - only that would be death.}
 <ACTION>__{Gomez kisses Morticia's hand.}
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
-<DIAL>__{Knock it off!    The vault, Addams - right now!}
+<DIAL>__{Knock it off! The vault, Addams - right now!}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL>__{But, Mother can't we...}
 <ACTION>__{Gomez reaches for the book that will open the secret panel:}
@@ -793,7 +797,7 @@
 <CHAR>__{TULLY} <CHAR_PAR>__{}
 <DIAL>__{I'm your friend, Gordon - think of the doubloons!}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
-<DIAL>__{They're not yours, Tully!     Back off!}
+<DIAL>__{They're not yours, Tully! Back off!}
 <ACTION>__{ANGLE on Gomez, releasing Morticia from the torture wheel.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL>__{Quickly, my darling!}
@@ -823,18 +827,19 @@
 <CHAR>__{ABIGAIL} <CHAR_PAR>__{}
 <DIAL>__{Stop whining, you little good- for-nothing! Be a man!}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
-<DIAL>__{You're a terrible mother!   There, I said it!}
+<DIAL>__{You're a terrible mother! There, I said it!}
 <ACTION>__{Fester opens the book, and blasts Tully out of the window. Then he blasts Abigail out as well. ANGLE ON GOMEZ, who has now pulled the right book, "Greed", to open the bookshelf. Amid the storm, he is leading Morticia behind the bookshelf. He tries to hold the bookshelf open for Fester to follow, fighting the gale force winds.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calling out to Fester)}
 <DIAL>__{Old man! This way!}
 <ACTION>__{ANGLE ON THING, across the room, struggling across the floor toward the bookshelf. Thing fights the wind, which pelts him with papers and other flying debris. Gomez can no longer fight the storm, and the bookshelf slams shut. Fester desperately tries to close the book to quell the storm, but a HUGE BOLT OF LIGHTNING ZAPS HIM. He falls to the floor, with electricity coursing through him. MOVE IN on the storm raging within the pages of the book, then -}
 <TRANS>__{FADE TO BLACK: FADE IN ON:}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{thru                                                             thru}
+
+<ACTION>__{thru thru}
 <LOC>__{169}
-<ACTION_ALT>__{OMITTED OMITTED}
-<ACTION>__{thru                                                             thru}
+
+
+<ACTION>__{thru thru}
 <LOC>__{173 EXT. ADDAMS MANSION, NEXT OCTOBER - NIGHT}
 <ACTION>__{A group of little CHILDREN approach the front door. There is a hand-lettered sign on the door reading "HALLOWEEN OPEN HOUSE." The children are dressed in traditional Halloween costumes - there's a witch, a ghost, a skeleton, etc., and they all carry trick-or-treat bags. They giggle and chatter. One of the children is pushed forward, and he KNOCKS on the front door. As the door opens, the children CHANT:}
 <CHAR>__{CHILDREN} <CHAR_PAR>__{}
@@ -842,7 +847,7 @@
 <ACTION>__{They freeze in mid-chant. We do not see who has opened the door, but the children do. After a beat, they SCREAM IN HORROR and run, terrified, back toward the street.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. FRONT HALL - SAME TIME}
-<ACTION>__{Lurch is closing the front door, looking puzzled. The family is busily decorating the house for their annual Halloween festivities. All the decorations are elegant yet ancient, dusty and faded. The crystal gloves in the chandeliers have been replaced by miniature jack o- lanterns. Skeletons, each wearing a top hat, hang from the sconces by the nooses around their necks. There are clusters of black and orange balloons, covered with cobwebs. Uncle Fester and Thing are draping the banisters and stairway railings with a garland made from crepe paper, dead branches and spanish moss. Skulls, each holding a candle, are scattered about, on the stairs and the furniture. A stuffed, life-size scarecrow leans against the stairway, with a pitchfork through its throat. A banner on the wall reads "HAPPY HALLOWEEN", and the letters drip with blood. Gomez hangs upside down from the balcony.   Morticia hands him a decoration. Granny appears from the kitchen, carrying a tray of food.}
+<ACTION>__{Lurch is closing the front door, looking puzzled. The family is busily decorating the house for their annual Halloween festivities. All the decorations are elegant yet ancient, dusty and faded. The crystal gloves in the chandeliers have been replaced by miniature jack o- lanterns. Skeletons, each wearing a top hat, hang from the sconces by the nooses around their necks. There are clusters of black and orange balloons, covered with cobwebs. Uncle Fester and Thing are draping the banisters and stairway railings with a garland made from crepe paper, dead branches and spanish moss. Skulls, each holding a candle, are scattered about, on the stairs and the furniture. A stuffed, life-size scarecrow leans against the stairway, with a pitchfork through its throat. A banner on the wall reads "HAPPY HALLOWEEN", and the letters drip with blood. Gomez hangs upside down from the balcony. Morticia hands him a decoration. Granny appears from the kitchen, carrying a tray of food.}
 <CHAR>__{GRANNY} <CHAR_PAR>__{}
 <DIAL>__{Well, it's their loss. I even made finger sandwiches.}
 <ACTION>__{Perched on Fester's shoulder, Thing shakes in fear.}
@@ -864,7 +869,7 @@
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL>__{What can I say? He's going to break hearts.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
-<DIAL>__{Let's get a picture!     Lurch?}
+<DIAL>__{Let's get a picture! Lurch?}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL>__{Oh yes - in the den.}
 <ACTION>__{Everyone starts to move toward the den. There is a KNOCK on the door. Everyone turns. Lurch opens the door. Standing outside are Margaret and Cousin It. Margaret is dressed as a fairy princess, complete with wand. Cousin It wears a cowboy hat, a bandanna and a holster. Margaret is radiant, obviously very much in love.}
@@ -883,7 +888,7 @@
 <DIAL>__{It is a wonderful hat.}
 <CHAR>__{MARGARET} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Wednesday)}
-<DIAL>__{And what are you, darling?   Where's your costume?}
+<DIAL>__{And what are you, darling? Where's your costume?}
 <CHAR>__{WEDNESDAY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(solemnly)}
 <DIAL>__{This is my costume. I'm a homicidal maniac. They look just like everyone else.}
@@ -902,7 +907,7 @@
 <DIAL>__{But not enough.}
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Fester)}
-<DIAL>__{She wasn't your mother.     She just said that.}
+<DIAL>__{She wasn't your mother. She just said that.}
 <CHAR>__{COUSIN IT} <CHAR_PAR>__{}
 <DIAL>__{Ooot oot gleep.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
@@ -913,7 +918,7 @@
 <CHAR>__{COUSIN IT} <CHAR_PAR>__{}
 <DIAL>__{Ooot oot oot.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
-<DIAL>__{How true.   Stranger things have happened.}
+<DIAL>__{How true. Stranger things have happened.}
 <CHAR>__{MARGARET} <CHAR_PAR>__{}
 <DIAL>__{I'm sorry, and I'm not bitter, but I blame Tully.}
 <CHAR>__{COUSIN IT} <CHAR_PAR>__{}
@@ -931,7 +936,7 @@
 <DIAL>__{Pugsley...}
 <CHAR>__{PUGSLEY} <CHAR_PAR>__{}
 <DIAL>__{For the picture?}
-<ACTION>__{Fester pops a light bulb into his mouth.   It lights. Pugsley giggles. Gomez stands up, having finished the pumpkin. He places it on a table, and lights the candle inside. The pumpkin glows. It has ONE EYE IN THE MIDDLE OF ITS FOREHEAD. Everyone oohs and ahhs.}
+<ACTION>__{Fester pops a light bulb into his mouth. It lights. Pugsley giggles. Gomez stands up, having finished the pumpkin. He places it on a table, and lights the candle inside. The pumpkin glows. It has ONE EYE IN THE MIDDLE OF ITS FOREHEAD. Everyone oohs and ahhs.}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL>__{You know, all the old sayings are true. There's no place like home. And blood is thicker than water.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
@@ -965,7 +970,7 @@
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Wednesday)}
 <DIAL>__{I tell you what - we'll give you a head start. Three skulls and a pelvis - how's that?}
-<ACTION>__{Pugsley and Wednesday cheer and run out.   Fester faces Gomez.}
+<ACTION>__{Pugsley and Wednesday cheer and run out. Fester faces Gomez.}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
 <DIAL>__{My own dear brother - who could be more precious?}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
@@ -973,7 +978,7 @@
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(touched by the brothers devotion)}
 <DIAL>__{And just as refreshing.}
-<ACTION>__{Gomez offers his hand.   Fester takes it, in a manly handshake.}
+<ACTION>__{Gomez offers his hand. Fester takes it, in a manly handshake.}
 <CHAR>__{GOMEZ} <CHAR_PAR>__{}
 <DIAL>__{Let us never be parted.}
 <CHAR>__{FESTER} <CHAR_PAR>__{}
@@ -988,7 +993,7 @@
 <DIAL>__{We'll catch up.}
 <ACTION>__{Fester runs out.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FRONT HALL}
 <ACTION>__{Everyone is gone. Morticia and Gomez have drifted into the front hall; they are moving toward the front door.}
 <CHAR>__{MORTICIA} <CHAR_PAR>__{}

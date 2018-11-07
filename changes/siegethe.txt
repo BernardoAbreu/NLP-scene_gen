@@ -77,7 +77,7 @@
 <DIAL>__{Residence or business?}
 <CHAR>__{TINA} <CHAR_PAR>__{}
 <DIAL>__{A bus.}
-<ACTION>__{Sequence omitted from original script. THE 99 BUS -- SEEN FROM ABOVE Surrounded by a phalanx of Black-and-Whites. BACK TO -- THE SITUATION ROOM They have been joined by Anthony Hubbard, the ASAC.}
+<ACTION>__{Sequence  from original script. THE 99 BUS -- SEEN FROM ABOVE Surrounded by a phalanx of Black-and-Whites. BACK TO -- THE SITUATION ROOM They have been joined by Anthony Hubbard, the ASAC.}
 <CHAR>__{HUB} <CHAR_PAR>__{}
 <DIAL>__{SWAT?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -285,7 +285,7 @@
 <CHAR>__{HUB} <CHAR_PAR>__{}
 <DIAL>__{You're staying with your family. I'm back in the morning.}
 <TRANS>__{CUT TO:}
-<ACTION>__{Sequence omitted from original script. Sequence omitted from original script. (ALREADY SHOT)}
+<ACTION>__{Sequence  from original script. Sequence  from original script. (ALREADY SHOT)}
 <LOC>__{INT. HUB'S OFFICE - EARLY MORNING}
 <ACTION>__{Hub is looking at surveillance photos of Elise. Frank enters.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -805,7 +805,7 @@
 <ACTION>__{TWO HOURS LATER -- In THE LAB. A FINGERPRINT EXPERT sifts through a plastic bag of fingertips and teeth. Scans each into a computer.}
 <CHAR>__{FINGERPRINT EXPERT} <CHAR_PAR>__{}
 <DIAL>__{Not yet.}
-<ACTION>__{Sequence omitted from original script. TWO HOURS LATER -- Hub is STARING AT THE TV SETS which are all REPLAYING the terrible incident, over and over again.}
+<ACTION>__{Sequence  from original script. TWO HOURS LATER -- Hub is STARING AT THE TV SETS which are all REPLAYING the terrible incident, over and over again.}
 <CHAR>__{TV SOUND BITE} <CHAR_PAR>__{}
 <DIAL>__{"-- Today; Tel Aviv has come to Brooklyn. The question... is why."}
 <ACTION>__{Finally, he turns away so no one will see. His eyes are hot with the emotion.}
@@ -893,7 +893,7 @@
 <CHAR>__{ELISE} <CHAR_PAR>__{}
 <DIAL>__{We ordering in --?}
 <TRANS>__{CUT TO:}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <ACTION_ALT>__{IN A DOWNTOWN DELI}
 <ACTION>__{Hub and Elise sit, eating corned beef sandwiches.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
@@ -947,7 +947,7 @@
 <DIAL>__{Sorry, boss. Hello, Elise. Mmmm, is that pastrami?}
 <DIAL_PAR>__{(tastes it; then with his mouth full)}
 <DIAL>__{Oh, yeah, we made the guy in the picture.}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{A CAFE}
 <ACTION>__{Where Students sit inside and SMOKE, then SMOKE some more.}
@@ -1161,7 +1161,7 @@
 <ACTION>__{Seen again, FROM MUCH FARTHER AWAY by Hub who stands on a ROOFTOP across the way, watching through 1050 BINOCULARS. Frank stands beside him.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Beats cable.}
-<ACTION>__{Sequence omitted from original script. Sequence omitted from original script. Sequence omitted from original script. Sequence omitted from original script. THE FEDERAL BUILDING -- NEXT MORNING Hub heads for his office, his SECRETARY nods inside. Someone is waiting. It's Devereaux, in a civilian suit.}
+<ACTION>__{Sequence  from original script. Sequence  from original script. Sequence  from original script. Sequence  from original script. THE FEDERAL BUILDING -- NEXT MORNING Hub heads for his office, his SECRETARY nods inside. Someone is waiting. It's Devereaux, in a civilian suit.}
 <CHAR>__{DEVEREAUX} <CHAR_PAR>__{}
 <DIAL>__{Hi. I understand they call you Hub.}
 <CHAR>__{HUB} <CHAR_PAR>__{}
@@ -1336,7 +1336,7 @@
 <DIAL>__{-- three of them. All day long they watch tv. And eat pizza. Nothing but pizza, pizza, pizza...}
 <ACTION>__{Hub looks over at Frank. They've got a way in.}
 <TRANS>__{CUT TO:}
-<ACTION>__{Sequence omitted from original script. Sequence omitted from original script. DARK HALLWAY -- DAY Mike Johannson, carrying two PIZZAS, knocks on a door.}
+<ACTION>__{Sequence  from original script. Sequence  from original script. DARK HALLWAY -- DAY Mike Johannson, carrying two PIZZAS, knocks on a door.}
 <ACTION_ALT>__{IN THE SHADOWS BELOW}
 <ACTION>__{Hub, Frank, and a small army of AGENTS lock and load.}
 <ACTION_ALT>__{A YOUNG ARAB}
@@ -1527,7 +1527,7 @@
 <ACTION>__{But we can only LIP-READ her question. He's sweating now. Over this, we HEAR:}
 <CHAR>__{ARMY GENERAL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Either we answer this threat quickly and convincingly or next week there'll be a hundred more all over the world.}
-<ACTION>__{Sequence omitted from original script. ON CAPITOL HILL -- LATER THAT DAY As Hub climbs the steps toward the gleaming dome, the debate continues within:}
+<ACTION>__{Sequence  from original script. ON CAPITOL HILL -- LATER THAT DAY As Hub climbs the steps toward the gleaming dome, the debate continues within:}
 <CHAR>__{CONGRESSMAN MARSHALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Sounds great, General, except why can't we find out who's behind it -- ?}
 <ACTION_ALT>__{IN THE ROTUNDA LIBRARY}
@@ -1658,7 +1658,7 @@
 <ACTION>__{-- THE VAN JUMPS THE CURB and heads across the plaza on A COLLISION COURSE with the glass lobby of the FEDERAL BUILDING. Frank and Danny are rooted to the ground. BACK TO -- THE SITUATION ROOM Close on Sharon/Elise. As time elongates. She knows.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
 <DIAL>__{We don't know.}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <TRANS>__{DISSOLVE TO:}
 <ACTION>__{WHITE SCREEN (ALL SOUND OUT) Puffy clouds in a blue sky. As we TILT DOWN into:}
 <ACTION_ALT>__{THE GUTTED RUIN}
@@ -1809,7 +1809,7 @@
 <DIAL>__{That's good sound.}
 <CHAR>__{HUB } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Except they're not saying anything worth listening to.}
-<ACTION>__{Sequence omitted from original script. IN A HAMMAM (BATH-HOUSE) Samir chats with a couple of older men in the steaming waters.}
+<ACTION>__{Sequence  from original script. IN A HAMMAM (BATH-HOUSE) Samir chats with a couple of older men in the steaming waters.}
 <TRANS>__{MORE FREEZE FRAMES:}
 <CHAR>__{FRANK } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{One's his uncle, he owns the place. The other's a doctor. They check out clean.}
@@ -1817,7 +1817,7 @@
 <DIAL>__{He go there every day?}
 <CHAR>__{FRANK } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{A clean body and a pure heart.}
-<ACTION>__{Sequence omitted from original script. Sequence omitted from original script. A TV LOGO: FOX NEWS SPECIAL REPORT: NEW YORK UNDER SIEGE}
+<ACTION>__{Sequence  from original script. Sequence  from original script. A TV LOGO: FOX NEWS SPECIAL REPORT: NEW YORK UNDER SIEGE}
 <CHAR>__{NEWSCASTER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{"Tonight we take a close look at the tragic sight of a city under siege."}
 <ACTION>__{HUB'S APARTMENT Hub sits on his sofa, watching the special report. Spread out before him, the surveillance PHOTOS of Sharon and Samir.}
@@ -2004,7 +2004,7 @@
 <DIAL>__{Leave.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
 <DIAL>__{No.}
-<ACTION>__{When they embrace, their ferocity and desperation is something more than comfort and less than love. Sequence omitted from original script.}
+<ACTION>__{When they embrace, their ferocity and desperation is something more than comfort and less than love. Sequence  from original script.}
 <TRANS>__{CUT TO:}
 <ACTION>__{THE CHIEF OF STAFF'S OFFICE -- NIGHT The Chief of Staff is working late in a cardigan sweater. Devereaux, in his impeccable suit, stands opposite him. Even at ease he is smartly erect.}
 <CHAR>__{CHIEF OF STAFF} <CHAR_PAR>__{}
@@ -2490,14 +2490,14 @@
 <ACTION>__{The two MPs lead Hub out of the room.}
 <CHAR>__{DEVEREAUX} <CHAR_PAR>__{}
 <DIAL>__{Let's get this over with.}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <TRANS>__{TIME CUT TO:}
 <ACTION>__{OUTSIDE THE LOCKER ROOM -- HOURS LATER Sharon emerges from the shower room. She is shattered. The blood drained from her face. As if carrying with her all the sin that was committed in the next room.}
 <ACTION_ALT>__{FROM INSIDE THE SHOWER ROOM}
 <ACTION>__{The sound of a GUNSHOT. The door opens and Devereaux emerges, in the torment of a man of honor who is living a lie.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
 <DIAL>__{He knew nothing.}
-<ACTION>__{Devereaux turns and walks off down the corridor. Sequence omitted from original script.}
+<ACTION>__{Devereaux turns and walks off down the corridor. Sequence  from original script.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{THE LINCOLN MEMORIAL}
 <ACTION>__{Glorious, alabaster stone -- floodlit at night. A symbol of all that is good and free and just. Hub drives a rental car, staring out at the monuments.}
@@ -2560,7 +2560,7 @@
 <DIAL>__{You know who. How much is she complicit in all this?}
 <CHAR>__{CHIEF OF STAFF} <CHAR_PAR>__{}
 <DIAL>__{Ask her.}
-<ACTION>__{Hub looks up. Sharon emerges from the hallway. Sequence omitted from original script. ON THE STREETS OF GEORGETOWN -- LATER THAT NIGHT Hub and Sharon sit in silence in Hub's rental car:}
+<ACTION>__{Hub looks up. Sharon emerges from the hallway. Sequence  from original script. ON THE STREETS OF GEORGETOWN -- LATER THAT NIGHT Hub and Sharon sit in silence in Hub's rental car:}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
 <DIAL>__{I ran an Iraqi network for two years. Samir recruited them from among the Sheik's followers. I trained them in the North. Then we played them back into Baghdad, two, three at a time, hiding them in the mosques...}
 <ACTION>__{Her voice softens just a bit as memory takes over.}
@@ -2612,9 +2612,9 @@
 <ACTION>__{THE BROOKLYN BRIDGE -- (TO ESTABLISH) -- NEXT MORNING}
 <CHAR>__{TALK RADIO } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{-- the people of Brooklyn will not be held hostage! This afternoon, join community and religious leaders in a march to protest the mass arrests --}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <TRANS>__{CUT TO:}
-<ACTION>__{Sequence omitted from original script. BOROUGH HALL PARK -- LATER THAT DAY}
+<ACTION>__{Sequence  from original script. BOROUGH HALL PARK -- LATER THAT DAY}
 <CHAR>__{MARCH ORGANIZER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(handing out leaflets)}
 <DIAL>__{March on city hall. Today. No fear.}
@@ -2741,7 +2741,7 @@
 <DIAL>__{Get me Devereaux.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{BOROUGH HALL}
-<ACTION>__{THE CROWD is getting fired up as the SPEAKER exhorts them. SOLDIERS watch uneasily, not certain how to respond as the crowd begins to CHANT, "No Fear! No fear!" Sequence omitted from original script.}
+<ACTION>__{THE CROWD is getting fired up as the SPEAKER exhorts them. SOLDIERS watch uneasily, not certain how to respond as the crowd begins to CHANT, "No Fear! No fear!" Sequence  from original script.}
 <ACTION_ALT>__{THE APARTMENT}
 <ACTION>__{Sharon goes to a closet and takes out some old clothes. She TURNS OFF THE TV. Then:}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
@@ -2791,7 +2791,7 @@
 <ACTION>__{Hub stares in dread fascination.}
 <CHAR>__{HUB} <CHAR_PAR>__{}
 <DIAL>__{It's a shroud.}
-<ACTION>__{And he's out the door in a heartbeat. Sequence omitted from original script.}
+<ACTION>__{And he's out the door in a heartbeat. Sequence  from original script.}
 <ACTION_ALT>__{BACK IN THE SURVEILLANCE VAN}
 <ACTION>__{Frank and Hub listen to a playback of Sharon's conversation with Samir on the digital recorders.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}
@@ -2804,13 +2804,13 @@
 <ACTION>__{It hits them both at the same time.}
 <CHAR>__{HUB} <CHAR_PAR>__{}
 <DIAL>__{The hammam.}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <LOC>__{EXT. THE SURVEILLANCE VAN}
 <ACTION>__{Hub and Frank hit the street at a dead run.}
 <ACTION_ALT>__{BENEATH THE BROOKLYN BRIDGE}
 <ACTION>__{Samir opens a padlocked door with a key. He and Sharon disappear within.}
 <ACTION_ALT>__{A HAMMAM}
-<ACTION>__{An Arab bath-house. Rays of sunlight play off the steaming waters. Their footsteps ECHO off the tiled mosaic walls. Sequence omitted from original script.}
+<ACTION>__{An Arab bath-house. Rays of sunlight play off the steaming waters. Their footsteps ECHO off the tiled mosaic walls. Sequence  from original script.}
 <ACTION_ALT>__{IN THE BATHOUSE}
 <ACTION>__{Samir kneels to touch the steaming water.}
 <CHAR>__{ELISE} <CHAR_PAR>__{}

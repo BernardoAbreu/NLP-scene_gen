@@ -35,7 +35,7 @@
 <CHAR>__{FATHER} <CHAR_PAR>__{}
 <DIAL>__{You already know what they are.}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
-<DIAL>__{You mean Sandro, don't you?  Well, I beg of you, please, spare me that. Goodbye, Dad.}
+<DIAL>__{You mean Sandro, don't you? Well, I beg of you, please, spare me that. Goodbye, Dad.}
 <ACTION>__{She kisses him on the cheek but the father remains unmoved. It is obvious that he still has something else he wants to say to her. In fact, after gazing upon his daughter with a certain amount of pity, he finally does say it.}
 <CHAR>__{FATHER} <CHAR_PAR>__{}
 <DIAL>__{That type will never marry you, my child.}
@@ -70,7 +70,7 @@
 <DIAL>__{I see... so it's farewell to the yacht...and farewell to the cruise...}
 <ACTION>__{Anna pays no heed to Claudia's teasing comments but follows her own original line of thought.}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
-<DIAL>__{You know, it's terrible to be far away from one another. Really, it's difficult to keep an affair going when one is here and the other is somewhere else. But, at the same time...it's comforting.  Because it gives you a chance to consider what you want and how you want it... but when he's right there before you all the time... well, he's right there...}
+<DIAL>__{You know, it's terrible to be far away from one another. Really, it's difficult to keep an affair going when one is here and the other is somewhere else. But, at the same time...it's comforting. Because it gives you a chance to consider what you want and how you want it... but when he's right there before you all the time... well, he's right there...}
 <DIAL_PAR>__{(Then, with a sense of exasperation)}
 <DIAL>__{Oh, let's go back....}
 <ACTION>__{Claudia notices Sandro leaning out of the window from his apartment on the first floor of the building. He is looking at them attentively. He is a young man of thirty-five. His shirt is unbuttoned and the tie around his neck is unknotted. Realizing that he has been spotted, he smiles and waves a cheerful hello.}
@@ -146,7 +146,7 @@
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{Shall we go for a swim?}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
-<DIAL>__{Oh, no... please... not here.  It looks too dangerous.}
+<DIAL>__{Oh, no... please... not here. It looks too dangerous.}
 <ACTION>__{The yacht proceeds to encircle the island. Up ahead, another island comes into view. It is smaller, brighter, and less foreboding. Corrado gets up and comes over to the prow to join Sandro, Anna and Claudia. He is immediately followed by Giulia, who peers intently at the landscape.}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL>__{At one time the Aeolian isles were all volcanoes.}
@@ -176,7 +176,7 @@
 <DIAL>__{How's the water?}
 <ACTION>__{Sandro looks up and, pointing to the rocks at the highest part of the island, answers her.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
-<DIAL>__{Let's see you dive from the top of those rocks, Giulia. That would be really sensational.  Come on, Giulia ... your life is much too circumscribed.}
+<DIAL>__{Let's see you dive from the top of those rocks, Giulia. That would be really sensational. Come on, Giulia ... your life is much too circumscribed.}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL>__{What has everybody got against me this morning?}
 <ACTION>__{From inside the cabin, a feminine voice is heard shouting:}
@@ -253,7 +253,7 @@
 <DIAL>__{A shark!... A shark!}
 <ACTION>__{They all turn around to look at her. Anna is swimming furiously towards the boat. Then, immediately, the booming voice of the sailor aboard the yacht sounds out:}
 <CHAR>__{SAILOR} <CHAR_PAR>__{}
-<DIAL>__{Don't move,  lady... Stay where you are... Stop! Everybody keep still.}
+<DIAL>__{Don't move, lady... Stay where you are... Stop! Everybody keep still.}
 <ACTION>__{But Sandro ignores the warning and starts swimming out towards Anna like a demon. Raimondo, who was about to climb aboard the yacht, grasps his spear-gun firmly in his hand, hurls himself back into the water, and also starts to swim in Anna's direction. Claudia is stricken with fear, and holds on tight to Giulia. Anna has stopped swimming and is cautiously looking around to see if anything comes up out of the water. Then, she looks up and seeing Sandro and Raimondo approaching, she shouts:}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
 <DIAL>__{Stay away!}
@@ -309,7 +309,7 @@
 <DIAL>__{There's the difference between you and me: you know how to put over certain things, and I don't. Sometimes I envy you.}
 <ACTION>__{Anna is all dressed and ready. She opens the door and steps outside, as Claudia follows behind.}
 <TRANS>__{SCENE:}
-<ACTION>__{Out on the deck, Sandro, Patrizia, Raimondo and Giulia are looking over the side of the boat, watching the sailor as he approaches the yacht with a rubberized raft.  Giulia, with her usual air of affectation, looks down at the water splashing up against the raft and asks the sailor:}
+<ACTION>__{Out on the deck, Sandro, Patrizia, Raimondo and Giulia are looking over the side of the boat, watching the sailor as he approaches the yacht with a rubberized raft. Giulia, with her usual air of affectation, looks down at the water splashing up against the raft and asks the sailor:}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL>__{But aren't you afraid?}
 <CHAR>__{SAILOR} <CHAR_PAR>__{}
@@ -355,7 +355,7 @@
 <DIAL>__{I'm taking the boat right up to the shore, and we'll let you get off from the gangplank as soon as we get there.}
 <ACTION>__{Then he disappears inside and soon the yacht starts moving towards the shore. Claudia peers out over the landscape; the islands are sharply silhouetted against the sea and sky, the volcano on Stromboli smokes feebly, and in the distance a ship passes by. Claudia is plainly enchanted by the view. Then she collects her thoughts and slowly heads towards the cabin.}
 <TRANS>__{SCENE:}
-<ACTION>__{Patrizia, seated at a small table inside the cabin, is busy working on a complicated jigsaw puzzle, which, once completed, is supposed to represent a typically classical scene. One by one, she selects the various pieces of cardboard and inserts them in their rightful places. Simultaneously, she is munching on some crackers spread with jam, and a piece of cold fruit. Beside her is Raimondo.  He is staring at Patrizia with such an intense expression that she becomes thoroughly annoyed and says to him, as she continues working at her puzzle:}
+<ACTION>__{Patrizia, seated at a small table inside the cabin, is busy working on a complicated jigsaw puzzle, which, once completed, is supposed to represent a typically classical scene. One by one, she selects the various pieces of cardboard and inserts them in their rightful places. Simultaneously, she is munching on some crackers spread with jam, and a piece of cold fruit. Beside her is Raimondo. He is staring at Patrizia with such an intense expression that she becomes thoroughly annoyed and says to him, as she continues working at her puzzle:}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
 <DIAL>__{What do you want, Raimondo? Do you want me? A few years ago, maybe... but now... And, then, at this hour of the day!}
 <ACTION>__{Coming down the steps that lead into the cabin, Claudia overhears the end of the conversation, and decides to withdraw. But Patrizia sees her and calls her back.}
@@ -438,7 +438,7 @@
 <DIAL>__{Do you know why? Because if you saw those ruins I'm sure you would have said they were very, very beautiful. You always say "how beautiful" to everything -- whether it's the sea, or a baby, or a cat! You have such a sensitive little heart that it throbs for anything.}
 <CHAR>__{CORRADO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(ironically)}
-<DIAL>__{But Corrado...  If something is beautiful why shouldn't one say so?}
+<DIAL>__{But Corrado... If something is beautiful why shouldn't one say so?}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(referring to Corrado)}
 <DIAL>__{He never misses a chance to humiliate me, to let me know that he doesn't care about me any more.}
@@ -495,7 +495,7 @@
 <DIAL_PAR>__{(angrily)}
 <DIAL>__{But I think we should talk about it. Or are you fully convinced that we too won't understand each other?}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
-<DIAL>__{There will be plenty of time to talk about it later.  We'll  get married  soon.  That way we'll have more time...}
+<DIAL>__{There will be plenty of time to talk about it later. We'll get married soon. That way we'll have more time...}
 <CHAR>__{ANNA} <CHAR_PAR>__{}
 <DIAL>__{In this case, getting married means nothing. Aren't we already the same as being married? And Corrado and Giulia -- aren't they already the same as being married?}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
@@ -596,7 +596,7 @@
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{Anna is an excellent swimmer. Even with a cramp, she would have managed to reach shore somehow.}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
-<DIAL>__{But you have to  consider all possibilities, Sandro.}
+<DIAL>__{But you have to consider all possibilities, Sandro.}
 <ACTION>__{Incensed by her remark, which he considers to be absurd, Sandro moves away from Patrizia and goes towards the stern of the boat where he notices Corrado signaling to them from a remote section of the beach.}
 <CHAR>__{CORRADO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calling out)}
@@ -693,7 +693,7 @@
 <DIAL_PAR>__{(then turning to the old man)}
 <DIAL>__{A girl who was with us has disappeared.}
 <CHAR>__{OLD MAN} <CHAR_PAR>__{}
-<DIAL>__{What do you mean... disappeared?  Was she drowned?}
+<DIAL>__{What do you mean... disappeared? Was she drowned?}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
 <DIAL>__{No, she didn't drown... She just disappeared, and nobody knows where.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
@@ -781,7 +781,7 @@
 <DIAL>__{Nothing here!}
 <ACTION>__{The Marshal turns around in disgust and looks at Corrado who is frankly sick and tired of the whole operation.}
 <CHAR>__{CORRADO} <CHAR_PAR>__{}
-<DIAL>__{Don't look at me like that, Marshal...  I had nothing to do with it.}
+<DIAL>__{Don't look at me like that, Marshal... I had nothing to do with it.}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(referring to the frogmen below)}
 <DIAL>__{Let's hope they don't find her... If they do, they would find her dead.}
@@ -834,7 +834,7 @@
 <DIAL>__{And sometimes even twenty-four... depending on the wind...}
 <CHAR>__{CARABINIERE} <CHAR_PAR>__{}
 <DIAL>__{If the girl disappeared yesterday afternoon, we'll have to wait at least until three or four o'clock.}
-<ACTION>__{Sandro looks at them without commenting, then turns and walks away towards the center of the village. The houses and shops around the square are very plain and shabby. Sandro spots a barber shop and, fingering his day-old beard, enters for a shave. Shortly thereafter, a clamor of voices is heard outside and Sandro comes dashing out of the shop. Seeing the islanders fighting and arguing about something drawn up from the sea, he runs over to find out what it is.  As he arrives on the scene, two policemen step out of the confusion dragging a large crate, which they carry over to the door of a nearby shack, amid the protests of the islanders who are still arguing and shouting among themselves.}
+<ACTION>__{Sandro looks at them without commenting, then turns and walks away towards the center of the village. The houses and shops around the square are very plain and shabby. Sandro spots a barber shop and, fingering his day-old beard, enters for a shave. Shortly thereafter, a clamor of voices is heard outside and Sandro comes dashing out of the shop. Seeing the islanders fighting and arguing about something drawn up from the sea, he runs over to find out what it is. As he arrives on the scene, two policemen step out of the confusion dragging a large crate, which they carry over to the door of a nearby shack, amid the protests of the islanders who are still arguing and shouting among themselves.}
 <CHAR>__{VOICES} <CHAR_PAR>__{}
 <DIAL>__{It belongs to me... We found it...}
 <CHAR>__{GENTLEMAN} <CHAR_PAR>__{}
@@ -985,7 +985,7 @@
 <DIAL>__{What do you want us to do? I don't know myself... But we'll do something.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{I'll go and get my valise.}
-<ACTION>__{Sandro goes aboard the yacht and enters the cabin. On the way to his room he meets Claudia who has just changed clothes and is about to return ashore. They stare at each other for a moment without saying anything. But the intensity in Claudia's look, mixed with fear and desire, is so overpowering that Sandro takes her in his arms and kisses her. Claudia immediately releases herself from his embrace, but for the moment it lasted, the kiss was full and  passionate.  Then she turns and goes out on deck. Sandro remains there, momentarily stunned, then picks up his valise and returns ashore. As Claudia, followed by Sandro, steps back on the beach, she is met by Patrizia.}
+<ACTION>__{Sandro goes aboard the yacht and enters the cabin. On the way to his room he meets Claudia who has just changed clothes and is about to return ashore. They stare at each other for a moment without saying anything. But the intensity in Claudia's look, mixed with fear and desire, is so overpowering that Sandro takes her in his arms and kisses her. Claudia immediately releases herself from his embrace, but for the moment it lasted, the kiss was full and passionate. Then she turns and goes out on deck. Sandro remains there, momentarily stunned, then picks up his valise and returns ashore. As Claudia, followed by Sandro, steps back on the beach, she is met by Patrizia.}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
 <DIAL>__{We've decided to go to Montaldo's place. In fact, Ettore should already be there.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
@@ -1008,7 +1008,7 @@
 <DIAL>__{Claudia isn't coming with us. Will you please take care of her luggage? Thanks.}
 <ACTION>__{Raimondo goes aboard the yacht and returns with Claudia's valise. He consigns it to one of the carabinieri who, in turn, takes it aboard the patrol boat. Claudia follows him aboard. The Marshal comes out of the radio room, steps ashore, then joins Sandro and Anna's father on the motorboat, while Patrizia, Giulia, Corrado and Raimondo go aboard the yacht.}
 <TRANS>__{SCENE:}
-<ACTION>__{In the seaport town of Milazzo, on the Sicilian mainland, Sandro and Anna's father are seated in an office at police headquarters.  The sailors picked up on a charge of carrying contraband are being questioned by the police Lieutenant.}
+<ACTION>__{In the seaport town of Milazzo, on the Sicilian mainland, Sandro and Anna's father are seated in an office at police headquarters. The sailors picked up on a charge of carrying contraband are being questioned by the police Lieutenant.}
 <CHAR>__{SAILOR} <CHAR_PAR>__{}
 <DIAL>__{No, sir, Lieutenant, we weren't even able to drop anchor once ... the sea was too rough.}
 <ACTION>__{The Lieutenant motions for the sailor to come up to the desk, then points to a sheet of paper in front of him.}
@@ -1154,7 +1154,7 @@
 <DIAL>__{And what did they say about me?}
 <CHAR>__{MAN'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{They told me that you were a very nice girl, that you always mind your business... In other words, things of that sort.}
-<ACTION>__{There is a moment of silence. Then, the sound of music is heard coming from the compartment. Claudia and Sandro look at one another with a smile on their faces. Then Claudia leans over to peek into the compartment. The woman is young; she has thick, wavy brown hair.  He is one of those typical seducers from the provinces, with black hair. There is a tiny radio between them. Sandro also takes a peek into the compartment. Then they withdraw as the two resume their conversation.}
+<ACTION>__{There is a moment of silence. Then, the sound of music is heard coming from the compartment. Claudia and Sandro look at one another with a smile on their faces. Then Claudia leans over to peek into the compartment. The woman is young; she has thick, wavy brown hair. He is one of those typical seducers from the provinces, with black hair. There is a tiny radio between them. Sandro also takes a peek into the compartment. Then they withdraw as the two resume their conversation.}
 <CHAR>__{WOMAN'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{We have a radio like this, too.}
 <CHAR>__{MAN'S VOICE} <CHAR_PAR>__{}
@@ -1269,7 +1269,7 @@
 <DIAL>__{Goffredo is the Princess' nephew. He's eighteen years old, the lucky boy. And, what do you know -- he paints.}
 <CHAR>__{GOFFREDO} <CHAR_PAR>__{}
 <DIAL>__{Anybody can hold a brush in his hand. All you need is to buy some oils and start painting. Even Rembrandt did the same.}
-<ACTION>__{Giulia laughs with a strange sense of excitement, then takes Goffredo by the arm and leaves. Claudia remains alone. She watches the group heading towards the house,  Giulia holding tight to  Goffredo, Ettore  to Patrizia. Their voices are heard, somewhat unclear.}
+<ACTION>__{Giulia laughs with a strange sense of excitement, then takes Goffredo by the arm and leaves. Claudia remains alone. She watches the group heading towards the house, Giulia holding tight to Goffredo, Ettore to Patrizia. Their voices are heard, somewhat unclear.}
 <CHAR>__{ETTORE} <CHAR_PAR>__{}
 <DIAL>__{But... where is the Prince?... Is he well?}
 <CHAR>__{PRINCESS} <CHAR_PAR>__{}
@@ -1289,13 +1289,13 @@
 <DIAL>__{It's Queen Saroya... I saw her... So, who could it be?}
 <CHAR>__{THIRD YOUNG MAN} <CHAR_PAR>__{}
 <DIAL>__{They've torn her dress... She's almost nude... She ran into the shop to hide herself...}
-<ACTION>__{A police siren is heard from afar, then before long it fills the air and dominates every other sound.  An Alfa Romeo pulls up, followed by a police wagon full of policemen. Both vehicles maneuver their way through the crowd like snakes through a jungle, and stop right in front of the shop. Sandro takes advantage of the opening created by the two cars and thus finds himself a few steps away from the door. Bending over in order to see through the small space left open by the half-drawn shutters, he notices several newspapermen and photographers.}
+<ACTION>__{A police siren is heard from afar, then before long it fills the air and dominates every other sound. An Alfa Romeo pulls up, followed by a police wagon full of policemen. Both vehicles maneuver their way through the crowd like snakes through a jungle, and stop right in front of the shop. Sandro takes advantage of the opening created by the two cars and thus finds himself a few steps away from the door. Bending over in order to see through the small space left open by the half-drawn shutters, he notices several newspapermen and photographers.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to one of the newspapermen)}
 <DIAL>__{Which one of you is Zuria?}
 <CHAR>__{NEWSPAPERMAN} <CHAR_PAR>__{}
 <DIAL>__{He's inside.}
-<ACTION>__{Meanwhile, the policemen have come out of the wagon and arrive at the door of the shop, with the Chief of Police leading the way. One of them raises the shutter, and the crowd, which has backed away slightly at the insistence of the police, begins pressing forward threateningly. Soon pandemonium breaks loose. In the confusion, Sandro manages to get inside the store along with the policemen and two photographers. The shutter is again lowered, just a few inches behind him. Standing in the middle of the shop is a most charming and provocative young brunette with tight-fitting pants and a blouse that is open almost from the neck to the waist. She is wearing nothing under her blouse, so that with every movement of her body, one cannot help catching a glimpse of her naked breasts. As the policemen come forward, she receives them with a smile. Sandro asks one of the journalists standing nearby if he can tell him which one of them is Zuria.  The journalist points to a man who is only a few steps away -- a man not very old but who has a ravaged face, and whose hair is almost completely white.}
+<ACTION>__{Meanwhile, the policemen have come out of the wagon and arrive at the door of the shop, with the Chief of Police leading the way. One of them raises the shutter, and the crowd, which has backed away slightly at the insistence of the police, begins pressing forward threateningly. Soon pandemonium breaks loose. In the confusion, Sandro manages to get inside the store along with the policemen and two photographers. The shutter is again lowered, just a few inches behind him. Standing in the middle of the shop is a most charming and provocative young brunette with tight-fitting pants and a blouse that is open almost from the neck to the waist. She is wearing nothing under her blouse, so that with every movement of her body, one cannot help catching a glimpse of her naked breasts. As the policemen come forward, she receives them with a smile. Sandro asks one of the journalists standing nearby if he can tell him which one of them is Zuria. The journalist points to a man who is only a few steps away -- a man not very old but who has a ravaged face, and whose hair is almost completely white.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{Zuria?}
 <CHAR>__{ZURIA} <CHAR_PAR>__{}
@@ -1347,7 +1347,7 @@
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{You're kidding!}
 <CHAR>__{ZURIA} <CHAR_PAR>__{}
-<DIAL>__{No, I'm not. Why do you think she does all this? It's one of the many ways she can put herself on display. When you bait the trap, the mouse will snap. To tell you the truth,  if it wasn't for the fact that one hundred thousand lire represents my whole month's salary, well... But you had something you wanted to ask me?}
+<DIAL>__{No, I'm not. Why do you think she does all this? It's one of the many ways she can put herself on display. When you bait the trap, the mouse will snap. To tell you the truth, if it wasn't for the fact that one hundred thousand lire represents my whole month's salary, well... But you had something you wanted to ask me?}
 <ACTION>__{Sandro is still looking at the journalist with a sense of incredulity, almost as if he felt Zuria's conversation was something out of this world. But he is brought back to reality by Zuria's last remark, which is made as the journalist starts walking at a very hurried pace.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{I read one of your articles regarding the disappearance of a girl. I'm that girl's fianc.}
@@ -1379,7 +1379,7 @@
 <DIAL>__{Then let's call it a business proposition. Something to round out your salary.}
 <ACTION>__{The journalist clears his throat without answering. Then he grabs Sandro by the arm and takes him back to the other side of the street where a few people, left over from the crowd, are still discussing the incident that just took place as they gradually drift away from the scene. The traffic is now back to normal.}
 <TRANS>__{SCENE:}
-<ACTION>__{At the Princess' villa, Claudia is in her room, applying some fresh make-up in front of a small dressing table. Although she appears thoroughly engrossed in all the minute details of her make-up, nevertheless, she seems considerably  interested in any sound that comes through her window. The rumble of a motor is heard. Claudia runs to the window and looks out into the garden. A dark car pulls up in front of the service entrance. A uniformed chauffeur gets out of the car and enters the house carrying a package under his arm. There is an obvious look of disappointment on Claudia's face. She is about to return to the dressing table when she notices, there in the garden, Giulia heading towards the house accompanied by the young Prince, Goffredo. Claudia is profoundly shocked by Giulia's behavior as she laughs, jokes, bends over to pick up some flowers, and skips along unashamedly. In the meantime, Patrizia has entered the room with two wigs, one of which she is wearing and the other in her hand. She also has on a cocktail dress, but one that is more elaborate than Claudia's. Patrizia immediately goes up to the mirror of the dressing table and, while she finishes arranging the wig on her head, says to her friend:}
+<ACTION>__{At the Princess' villa, Claudia is in her room, applying some fresh make-up in front of a small dressing table. Although she appears thoroughly engrossed in all the minute details of her make-up, nevertheless, she seems considerably interested in any sound that comes through her window. The rumble of a motor is heard. Claudia runs to the window and looks out into the garden. A dark car pulls up in front of the service entrance. A uniformed chauffeur gets out of the car and enters the house carrying a package under his arm. There is an obvious look of disappointment on Claudia's face. She is about to return to the dressing table when she notices, there in the garden, Giulia heading towards the house accompanied by the young Prince, Goffredo. Claudia is profoundly shocked by Giulia's behavior as she laughs, jokes, bends over to pick up some flowers, and skips along unashamedly. In the meantime, Patrizia has entered the room with two wigs, one of which she is wearing and the other in her hand. She also has on a cocktail dress, but one that is more elaborate than Claudia's. Patrizia immediately goes up to the mirror of the dressing table and, while she finishes arranging the wig on her head, says to her friend:}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
 <DIAL>__{Are you ready? I'm not. That's all we needed -- a cocktail party... The vitality some people have irritates me!}
 <DIAL_PAR>__{(indicating the wig on her head)}
@@ -1394,9 +1394,9 @@
 <DIAL>__{Do you consider that a compliment?}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
 <DIAL>__{No.}
-<ACTION>__{The two of them burst out laughing and together they leave the room. Then after a few steps through the corridor, they separate with a friendly gesture towards each other. Patrizia goes into her room while Claudia prepares to descend the wide stairway. Coming up the same stairway are Giulia and the young Prince, Goffredo.  There is something of an embarrassing moment between them. Then Giulia, aware of Claudia's presence, detaches herself from Goffredo and, as they reach the top of the stairs, she comes over to Claudia and takes her by the wrist in order to confide with her more intimately.}
+<ACTION>__{The two of them burst out laughing and together they leave the room. Then after a few steps through the corridor, they separate with a friendly gesture towards each other. Patrizia goes into her room while Claudia prepares to descend the wide stairway. Coming up the same stairway are Giulia and the young Prince, Goffredo. There is something of an embarrassing moment between them. Then Giulia, aware of Claudia's presence, detaches herself from Goffredo and, as they reach the top of the stairs, she comes over to Claudia and takes her by the wrist in order to confide with her more intimately.}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
-<DIAL>__{He wants to show me his paintings. He won't let go  of me  anymore.  Poor thing, he must have a crush on me...}
+<DIAL>__{He wants to show me his paintings. He won't let go of me anymore. Poor thing, he must have a crush on me...}
 <ACTION>__{She laughs with an obvious sense of amusement, but she is also tickled by her own vanity. Claudia looks at her without knowing what to say to her.}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(even more excited)}
@@ -1459,7 +1459,7 @@
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(almost unconsciously)}
 <DIAL>__{Giulia!}
-<ACTION>__{Giulia quickly turns around, her face is flushed with excitement but also with an expression that seems somewhat triumphant. Before anybody has a chance to say anything, she heads towards the door, swings it open and stands firmly on the threshold,  obviously intent on telling Claudia to leave. In fact, Claudia doesn't wait to be told but immediately walks out into the hallway.}
+<ACTION>__{Giulia quickly turns around, her face is flushed with excitement but also with an expression that seems somewhat triumphant. Before anybody has a chance to say anything, she heads towards the door, swings it open and stands firmly on the threshold, obviously intent on telling Claudia to leave. In fact, Claudia doesn't wait to be told but immediately walks out into the hallway.}
 <CHAR>__{GIULIA} <CHAR_PAR>__{}
 <DIAL>__{And tell Corrado, too, that I'm here... if he wants me. You can also tell him that my tiny little heart is beating like mad, and that at this moment, it's the only thing that interests me. Is that clear?}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
@@ -1509,7 +1509,7 @@
 <DIAL>__{That's what I'd like to know myself.}
 <CHAR>__{HUSBAND} <CHAR_PAR>__{}
 <DIAL>__{Fine, that makes two of us who want to know. In fact, three, with him.}
-<ACTION>__{He indicates Sandro.  Then, seeing a fat, luscious female customer enter the store, he turns to her and continues:}
+<ACTION>__{He indicates Sandro. Then, seeing a fat, luscious female customer enter the store, he turns to her and continues:}
 <CHAR>__{HUSBAND} <CHAR_PAR>__{}
 <DIAL>__{Ah, Lady Amalia, would you be interested in knowing why I told the newspapers about a certain girl who came here the other day and then disappeared?}
 <ACTION>__{The woman, anxious to learn about any new bit of gossip, becomes immediately interested.}
@@ -1585,7 +1585,7 @@
 <DIAL>__{Did your car break down?}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{No. I only want some information.}
-<ACTION>__{Meanwhile, the driver's assistant gets down from the bus and the passengers lean out of the windows.  Claudia has also gotten out of the car and appears on the scene.}
+<ACTION>__{Meanwhile, the driver's assistant gets down from the bus and the passengers lean out of the windows. Claudia has also gotten out of the car and appears on the scene.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{We're searching for a girl of about twenty-five... Seems she boarded this bus two days ago, in the afternoon... You should remember her because she was a stranger around here...}
 <ACTION>__{The driver gets down from the bus and comes over to Sandro, scratching his head.}
@@ -1603,7 +1603,7 @@
 <ACTION>__{Sandro turns and goes back to his car while the others climb back on the bus which begins to leave. Claudia and Sandro remain standing near the car, watching the bus disappear. Then Claudia turns and looks out over the fields. She sees a dry riverbed filled with stones that sparkle in the sun, beside it a high rocky bank. Sandro stands next to her and she becomes vividly aware of his presence. As she glances at him, he turns around, then she quickly starts up a conversation as though she were anxious not to have any romantic mood develop between them.}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
 <DIAL>__{My God ... Let's hope it was her.}
-<ACTION>__{Then, still feeling Sandro's eyes fixed upon her, she turns and starts heading towards the car.  Sandro catches up with her and takes her hand. Before they climb into the car they look at each other intensely. A moment later, the car takes off at full speed.}
+<ACTION>__{Then, still feeling Sandro's eyes fixed upon her, she turns and starts heading towards the car. Sandro catches up with her and takes her hand. Before they climb into the car they look at each other intensely. A moment later, the car takes off at full speed.}
 <TRANS>__{SCENE:}
 <ACTION>__{In a courtyard of the midwife's house, Sandro and Claudia are questioning a middle-aged woman.}
 <CHAR>__{MIDWIFE} <CHAR_PAR>__{}
@@ -1638,7 +1638,7 @@
 <ACTION>__{The car continues onward, passing an abandoned factory, then a railroad station, also abandoned, its tracks covered by weeds, the ticket office haphazardly boarded up with old wooden planks.}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
 <DIAL>__{Look at that: a factory... a station... and look at those tracks, all full of weeds... But why?}
-<ACTION>__{Sandro shrugs his shoulders and continues driving without saying a word. Up ahead a small town comes into view, with monotonous rows of newly constructed homes lined up along the side of the road. The car enters the town and stops. Sandro gets out and goes over to a fountain nearby, but the fountain is dry. Somewhat surprised, he begins to look around. And only then do Sandro and Claudia become aware that the silence around them is an unnatural one, that the doors and the windows of all the houses in the town are tightly shut. There is no sign of life anywhere, except for the weeds growing between the cracks in the walls, invading and suffocating everything in sight. Claudia gets out of the car, joins Sandro, and together they start walking along the streets. The sun beats furiously down upon the crumbling houses, upon the church, upon the useless monument in the square on which a dedication is inscribed: "To The Agricultural Worker." Sandro looks around in absolute silence. Claudia is also  silent, somewhat dismayed. Instinctively, she presses up close to Sandro who leads her to a shady spot where the ground is overgrown with weeds. Sandro and Claudia are lying next to each other on the grass. Sandro appears calm but is actually looking at Claudia as though he were about to embrace her with his eyes. Then he takes her hand. Claudia offers no resistance; in fact, she entwines her fingers around his, almost with a sense of desperation. Sandro tries to kiss her. She makes a feeble attempt to resist, looks around, and sees the deserted town, the barren fields, the crumbling, sun-baked walls. She turns and looks at Sandro again, and now it is she who kisses him. When they break apart, they stretch themselves out upon the grass. Sandro kisses her violently, again and again and again...}
+<ACTION>__{Sandro shrugs his shoulders and continues driving without saying a word. Up ahead a small town comes into view, with monotonous rows of newly constructed homes lined up along the side of the road. The car enters the town and stops. Sandro gets out and goes over to a fountain nearby, but the fountain is dry. Somewhat surprised, he begins to look around. And only then do Sandro and Claudia become aware that the silence around them is an unnatural one, that the doors and the windows of all the houses in the town are tightly shut. There is no sign of life anywhere, except for the weeds growing between the cracks in the walls, invading and suffocating everything in sight. Claudia gets out of the car, joins Sandro, and together they start walking along the streets. The sun beats furiously down upon the crumbling houses, upon the church, upon the useless monument in the square on which a dedication is inscribed: "To The Agricultural Worker." Sandro looks around in absolute silence. Claudia is also silent, somewhat dismayed. Instinctively, she presses up close to Sandro who leads her to a shady spot where the ground is overgrown with weeds. Sandro and Claudia are lying next to each other on the grass. Sandro appears calm but is actually looking at Claudia as though he were about to embrace her with his eyes. Then he takes her hand. Claudia offers no resistance; in fact, she entwines her fingers around his, almost with a sense of desperation. Sandro tries to kiss her. She makes a feeble attempt to resist, looks around, and sees the deserted town, the barren fields, the crumbling, sun-baked walls. She turns and looks at Sandro again, and now it is she who kisses him. When they break apart, they stretch themselves out upon the grass. Sandro kisses her violently, again and again and again...}
 <TRANS>__{SCENE:}
 <ACTION>__{The early twilight shadows are beginning to fall. The sky is still clear but the sun is fading. There is a deep silence and the air is absolutely still. In a certain sense, Sandro's car, standing there in the middle of the deserted street, is the only thing alive in that desolate town. Huddled close to each other, Claudia and Sandro are asleep on the grass. Lazily, Claudia awakens, and then Sandro also opens his eyes. They are both somewhat disheveled.}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
@@ -1733,7 +1733,7 @@
 <DIAL>__{So... Oh, how I wish that everything were so much simpler... that people could just come together by the color of their hair or the size of their shoes. What size shoe do you wear? Size 9. That's a very lovely size. But I'm sorry, I wear size 8.}
 <ACTION>__{Sandro smiles and playfully ruffles Claudia's hair. She also smiles, then slowly they both head towards the hotel.}
 <TRANS>__{SCENE:}
-<ACTION>__{It is morning inside the Hotel Trinacria.  Claudia has just had breakfast in her room and is almost finished dressing. It is a rather large room, set out with old pieces of furniture. The place is in a state of disarray, and the door leading into Sandro's room is wide open. Because of the general disorder, Claudia is unable to find her stockings. But instead of being angered by this, she appears quite jovial and laughs gaily. As she continues to look for her stockings, Sandro appears in the doorway.}
+<ACTION>__{It is morning inside the Hotel Trinacria. Claudia has just had breakfast in her room and is almost finished dressing. It is a rather large room, set out with old pieces of furniture. The place is in a state of disarray, and the door leading into Sandro's room is wide open. Because of the general disorder, Claudia is unable to find her stockings. But instead of being angered by this, she appears quite jovial and laughs gaily. As she continues to look for her stockings, Sandro appears in the doorway.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{Are you ready?}
 <ACTION>__{Claudia comes up to Sandro and gazes upon him with a look of adoration.}
@@ -1781,10 +1781,10 @@
 <DIAL_PAR>__{(apathetically)}
 <DIAL>__{Nobody there.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
-<DIAL>__{But it says it's open from 9:30 to 10:30., and it's ten o'clock now...  That's a fine way to greet tourists.}
+<DIAL>__{But it says it's open from 9:30 to 10:30., and it's ten o'clock now... That's a fine way to greet tourists.}
 <CHAR>__{COACHMAN} <CHAR_PAR>__{}
 <DIAL>__{Tourists? Last year a few Frenchmen came here and they all walked around in their bathing suits. So they were made to understand that it was better if they didn't come at all.}
-<ACTION>__{Sandro shakes his head and is about to say something but he sees the door opening and a man appears.  Sandro goes over to him.}
+<ACTION>__{Sandro shakes his head and is about to say something but he sees the door opening and a man appears. Sandro goes over to him.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
 <DIAL>__{Are you the custodian?}
 <CHAR>__{CUSTODIAN} <CHAR_PAR>__{}
@@ -1956,7 +1956,7 @@
 <DIAL>__{That's not true. I love you.}
 <ACTION>__{He returns to his room, closing the door behind him. He seems somewhat meditative, as though the little discourse he has just delivered has in some way touched him deeply. He also seems a little sad. Then he puts on his tie and jacket, lights up a cigarette, and goes to the door.}
 <TRANS>__{SCENE:}
-<ACTION>__{Sandro comes out of his room and walks along through the corridors, heading towards the reception halls down at the other end. Other persons are walking up and down the corridor in both directions. Sandro's attention is attracted by the figure of a woman who is coming his way at a rather quick pace. She is wrapped in a tight-fitting evening dress that emphasizes the various harmonious parts of her body. Sandro looks at her. He seems to recognize her but isn't quite sure who it is. The girl passes alongside of him and apparently she too has the same impression, for she gives him a look that lasts much longer than it normally would between two complete  strangers. She stops in front of a door but before entering, she casts another glance at Sandro, who suddenly recalls that she is the same woman who had almost provoked a riot in the streets of Messina and who was forced to take refuge in a men's shop. There is a moment of hesitation, then the girl opens the door and disappears into the room. Sandro continues on ahead until he reaches the bar, which is still very crowded. Evening clothes of all kinds. Shiny silks. Jewels dangling from wrists, necks and ears that are either white or bronzed by the sun. Shoes of silver or lustrous black. Headdresses of many women -- high, cropped or short and bobbed. Men with hair well groomed but also frequently mussed. A vast, tumultuous wave of people, all wealthy and respectable, talking, laughing and carrying on as though the whole wide world was right there and everybody in it was like them. Snatches of witticisms. Faces of passing people. Hands reaching out for glasses. The expressions on the face of the barman, smiling and indifferent. The sad, sullen face of the cloakroom attendant. The dumbfounded look on the face of a thirteen-year-old elevator boy. Sandro feels very much at home in this milieu. One thinks so little, forgets so easily. And things are so conveniently ignored, beginning with one's own self. Sandro moves through the crowd, here and there. Standing next to the orchestra is a girl in black pants, singing strange songs in a soft, suggestive voice. Sandro encounters Ettore. As soon as he sees Sandro, Ettore comes over and places an arm around his shoulder, almost in the form of an embrace.}
+<ACTION>__{Sandro comes out of his room and walks along through the corridors, heading towards the reception halls down at the other end. Other persons are walking up and down the corridor in both directions. Sandro's attention is attracted by the figure of a woman who is coming his way at a rather quick pace. She is wrapped in a tight-fitting evening dress that emphasizes the various harmonious parts of her body. Sandro looks at her. He seems to recognize her but isn't quite sure who it is. The girl passes alongside of him and apparently she too has the same impression, for she gives him a look that lasts much longer than it normally would between two complete strangers. She stops in front of a door but before entering, she casts another glance at Sandro, who suddenly recalls that she is the same woman who had almost provoked a riot in the streets of Messina and who was forced to take refuge in a men's shop. There is a moment of hesitation, then the girl opens the door and disappears into the room. Sandro continues on ahead until he reaches the bar, which is still very crowded. Evening clothes of all kinds. Shiny silks. Jewels dangling from wrists, necks and ears that are either white or bronzed by the sun. Shoes of silver or lustrous black. Headdresses of many women -- high, cropped or short and bobbed. Men with hair well groomed but also frequently mussed. A vast, tumultuous wave of people, all wealthy and respectable, talking, laughing and carrying on as though the whole wide world was right there and everybody in it was like them. Snatches of witticisms. Faces of passing people. Hands reaching out for glasses. The expressions on the face of the barman, smiling and indifferent. The sad, sullen face of the cloakroom attendant. The dumbfounded look on the face of a thirteen-year-old elevator boy. Sandro feels very much at home in this milieu. One thinks so little, forgets so easily. And things are so conveniently ignored, beginning with one's own self. Sandro moves through the crowd, here and there. Standing next to the orchestra is a girl in black pants, singing strange songs in a soft, suggestive voice. Sandro encounters Ettore. As soon as he sees Sandro, Ettore comes over and places an arm around his shoulder, almost in the form of an embrace.}
 <CHAR>__{ETTORE} <CHAR_PAR>__{}
 <DIAL>__{Well, finally... Come, I'll introduce you to my friends.}
 <CHAR>__{SANDRO} <CHAR_PAR>__{}
@@ -1978,7 +1978,7 @@
 <CHAR>__{ETTORE} <CHAR_PAR>__{}
 <DIAL>__{What is it?}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
-<DIAL>__{Nothing, nothing  at all. I was just looking for Sandro.}
+<DIAL>__{Nothing, nothing at all. I was just looking for Sandro.}
 <CHAR>__{ETTORE} <CHAR_PAR>__{}
 <DIAL>__{And you expect to find him in here? Go and ask Claudia.}
 <CHAR>__{PATRIZIA} <CHAR_PAR>__{}
@@ -2001,4 +2001,4 @@
 <DIAL>__{You should never wish to get melodramatic over anything.}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}
 <DIAL>__{Yes, you're right. I'm sick and tired of being like that.}
-<ACTION>__{Claudia gets up and leaves the room. She continues walking down along the corridor, checking here and there. But the hotel is deserted. There are still a few lights  on in  the reception hall but not enough to illuminate the place adequately. Finally, she reaches the main hall and stops. The only signs of last night's party is a certain disorder in the placement of the armchairs and ashtrays filled with cigarette butts. Even the main hall seems completely deserted. But all of a sudden, Claudia becomes aware of something moving on a sofa at the far end of the room. She takes a few steps, walking silently over the thick carpet, so as to get a better look. There seems to be a slight movement among what appears to be a jumbled pile of male and female clothes, partly hidden from view by the back of the sofa. Claudia goes up still closer because she is not able to see clearly what or who it is. Only that she has the impression of having seen that suit before... A man's suit. She is now able to distinguish what it is: a couple embracing and kissing. Claudia approaches still closer. She is now just a few steps away. Little by little, as she advances, her face takes on such a painful look of astonishment that she appears almost petrified. She hesitates and bumps up against a little table that makes a small noise. The couple on the sofa come out of their embrace and look up. The man is Sandro; the woman is the girl from Messina. Sandro looks at Claudia as though he were filled with terror. The girl, instead, seems quite amused. Claudia remains for a moment, staring at them as if she can't believe her own eyes, and is incapable of making any move. Then, she abruptly turns away and starts running. She runs through the main hall, the reception room, the courtyard, and out into the street. There is not a soul to be seen. No sound. The day is breaking clear and serene. Claudia comes over to a bench with its paint all peeling off, but she doesn't sit down. Transfixed, and with her eyes almost wide open, she stares out at the sea, and at the waves which are also a mystery unto themselves. Footsteps are heard approaching from behind, but Claudia doesn't even bother to turn. It seems that nothing could distract her from that painful state of shock which is written all over her face. A young laborer in overalls, carrying a small bundle under his arm, passes by, glancing at her with a look of curiosity. He walks a few paces ahead, then turns around to look at her again as though she were some kind of strange creature. The sound of footsteps dies down in the distance, and everything is silent once more. There is only the gentle lapping of the waves as they roll up against the shore. Claudia is completely oblivious to the scene. Several birds swoop down emitting their small cries. A sudden but almost imperceptible sea breeze ripples Claudia's hair. Other footsteps are heard approaching: slow, heavy. Claudia is still not stirred from her thoughtful, trance-like state. The footsteps come to a halt directly behind her. It is Sandro. He appears thoroughly crestfallen. He doesn't even have enough courage to look at Claudia. His face is worn and disfigured, like that of a tired old man. And he lets himself fall limp onto the bench. They both remain completely motionless, without looking at each other. And detached: Claudia standing, Sandro seated. Behind them, the skeleton of cement. Further off, the sea. Gradually, Claudia turns her head towards Sandro. Her eyes are filled with tears. She looks down upon him as though he were something that greatly pained her. She moves up closer to the bench. Sandro doesn't budge an inch. Claudia reaches out to him with her hand, then slowly, gently, and with an overwhelming sense of desperation, she caresses his hair.}
+<ACTION>__{Claudia gets up and leaves the room. She continues walking down along the corridor, checking here and there. But the hotel is deserted. There are still a few lights on in the reception hall but not enough to illuminate the place adequately. Finally, she reaches the main hall and stops. The only signs of last night's party is a certain disorder in the placement of the armchairs and ashtrays filled with cigarette butts. Even the main hall seems completely deserted. But all of a sudden, Claudia becomes aware of something moving on a sofa at the far end of the room. She takes a few steps, walking silently over the thick carpet, so as to get a better look. There seems to be a slight movement among what appears to be a jumbled pile of male and female clothes, partly hidden from view by the back of the sofa. Claudia goes up still closer because she is not able to see clearly what or who it is. Only that she has the impression of having seen that suit before... A man's suit. She is now able to distinguish what it is: a couple embracing and kissing. Claudia approaches still closer. She is now just a few steps away. Little by little, as she advances, her face takes on such a painful look of astonishment that she appears almost petrified. She hesitates and bumps up against a little table that makes a small noise. The couple on the sofa come out of their embrace and look up. The man is Sandro; the woman is the girl from Messina. Sandro looks at Claudia as though he were filled with terror. The girl, instead, seems quite amused. Claudia remains for a moment, staring at them as if she can't believe her own eyes, and is incapable of making any move. Then, she abruptly turns away and starts running. She runs through the main hall, the reception room, the courtyard, and out into the street. There is not a soul to be seen. No sound. The day is breaking clear and serene. Claudia comes over to a bench with its paint all peeling off, but she doesn't sit down. Transfixed, and with her eyes almost wide open, she stares out at the sea, and at the waves which are also a mystery unto themselves. Footsteps are heard approaching from behind, but Claudia doesn't even bother to turn. It seems that nothing could distract her from that painful state of shock which is written all over her face. A young laborer in overalls, carrying a small bundle under his arm, passes by, glancing at her with a look of curiosity. He walks a few paces ahead, then turns around to look at her again as though she were some kind of strange creature. The sound of footsteps dies down in the distance, and everything is silent once more. There is only the gentle lapping of the waves as they roll up against the shore. Claudia is completely oblivious to the scene. Several birds swoop down emitting their small cries. A sudden but almost imperceptible sea breeze ripples Claudia's hair. Other footsteps are heard approaching: slow, heavy. Claudia is still not stirred from her thoughtful, trance-like state. The footsteps come to a halt directly behind her. It is Sandro. He appears thoroughly crestfallen. He doesn't even have enough courage to look at Claudia. His face is worn and disfigured, like that of a tired old man. And he lets himself fall limp onto the bench. They both remain completely motionless, without looking at each other. And detached: Claudia standing, Sandro seated. Behind them, the skeleton of cement. Further off, the sea. Gradually, Claudia turns her head towards Sandro. Her eyes are filled with tears. She looks down upon him as though he were something that greatly pained her. She moves up closer to the bench. Sandro doesn't budge an inch. Claudia reaches out to him with her hand, then slowly, gently, and with an overwhelming sense of desperation, she caresses his hair.}

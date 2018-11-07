@@ -359,7 +359,7 @@
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{Tell you what. You show me a pay stub with $72,000 on it, I'm quitting my job right now and coming to work with you.}
 <ACTION>__{As Jordan retrieves his briefcase to find a paystub --}
-<LOC>__{30B   As Jordan hands Donnie his paystub and sure enough, it's         *30B}
+<LOC>__{30B   As Jordan hands Donnie his paystub and sure enough, it's         30B}
 <ACTION>__{north of seventy-two k.}
 <CHAR>__{DONNIE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Holy shit.}
@@ -475,7 +475,7 @@
 <ACTION>__{CLOSE ON Jordan, brow furrowing as his wheels turn.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I mean what person of any substance would trust this bunch of jerk-offs? Like the Pinhead, Robbie Feinberg.}
-<LOC>__{46A   INSERT ID PHOTO - TOBY WELCH                                    *46A}
+<LOC>__{46A   INSERT ID PHOTO - TOBY WELCH                                    46A}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Toby Welch. I mean, look at this fucking Cro-Magnon, I wouldn't trust him to pick up a rock.}
 <ACTION>__{(ALT)}
@@ -834,19 +834,19 @@
 <ACTION>__{Jordan takes the bill, starts flipping through it.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{In Stratton parlance, there were three kinds of hookers. There were blue chips, the top of the line. Model material. They were priced between $300 and $500 and made you wear a condom unless you gave them a hefty tip, which I always did.}
-<LOC>__{77A   A "BLUE CHIP" HOOKER FLOATS THROUGH, SURROUNDED BY             *77A}
+<LOC>__{77A   A "BLUE CHIP" HOOKER FLOATS THROUGH, SURROUNDED BY             77A}
 <ACTION_ALT>__{STRATTON BROKERS.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Then came NASDAQs, who were pretty, but not great, usually in the two to three hundred dollar range.}
-<LOC>__{77B   A "NASDAQ" HOOKER DANCES THROUGH BULLPEN. STRATTON             *77B}
+<LOC>__{77B   A "NASDAQ" HOOKER DANCES THROUGH BULLPEN. STRATTON             77B}
 <ACTION_ALT>__{BROKERS WATCH.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Finally there were pink sheets, skanks, the bottom of the barrel.}
-<LOC>__{77C   A "PINK SHEET" HOOKER, COVERED IN TATTOOS, IS ON ALL           *77C}
+<LOC>__{77C   A "PINK SHEET" HOOKER, COVERED IN TATTOOS, IS ON ALL           77C}
 <ACTION_ALT>__{FOURS AS SEA OTTER RIDES HER LIKE A PONY.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{They usually cost a hundred or less, and if you didn't wear a condom, you'd get a penicillin shot the next day and pray your dick didn't fall off.}
-<LOC>__{77D   THE ABOVE-MENTIONED "PINK SHEET" HOOKER SITS ON A STOOL,       *77D}
+<LOC>__{77D   THE ABOVE-MENTIONED "PINK SHEET" HOOKER SITS ON A STOOL,       77D}
 <ACTION_ALT>__{AS SEA OTTER FUCKS HER.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Not that we didn't fuck them, too. Believe me, we did.}
@@ -925,12 +925,12 @@
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{...Steve... M-m-madden...}
 <ACTION>__{Donnie gesticulates wildly. The guys crack up. WE PUSH IN ON Donnie, practically drooling, as Jordan gives us a quick tutorial on ludes...}
-<LOC>__{79A   QUAALUDE TUTORIAL                                              *79A}
+<LOC>__{79A   QUAALUDE TUTORIAL                                              79A}
 <TRANS>__{CUT TO:}
 <ACTION>__{Extreme close up of guys doing drugs.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{The quaalude was first synthesized in 1951 by an Indian doctor -- that's dot Indian, not feathers -- as a sedative, and was prescribed to stressed housewives with sleep disorders. Pretty soon someone figured out that if you resisted the urge to sleep for fifteen minutes, you got a pretty kick-ass high from it. Didn't take long for people to start abusing ludes, `course, and in 1982 the U.S. Government Schedule One'd them, along with the rest of the world. Which meant there was only a finite amount of these things left. No shit, you can't even find `em anymore today. You people're all shit outta luck.}
-<LOC>__{79B   BACK TO SCENE                                                  *79B}
+<LOC>__{79B   BACK TO SCENE                                                  79B}
 <CHAR>__{JORDAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Donnie)}
 <DIAL>__{What're you saying, buddy?}
@@ -1249,14 +1249,14 @@
 <ACTION>__{Jordan is down on one knee, proposing; Naomi hyperventilates as he puts the ring on her finger -- a seven carat, yellow canary diamond in a platinum setting.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I held my bachelor party at the Tangiers in Las Vegas -- one last blowout for the Gods before I settled down for good.}
-<LOC>__{INT. TRANS CAPITAL AIRLINES - JUMBO JET - NIGHT                *106}
+<LOC>__{INT. TRANS CAPITAL AIRLINES - JUMBO JET - NIGHT                106}
 <ACTION>__{Inside a jumbo jet, a wild, mid-air party is in progress.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{A hundred Strattonites flew in with fifty hookers and enough drugs to open a pharmacy.}
 <ACTION>__{Various images -- Stratton Brokers drink, do coke, a half- dozen in mid-orgy with Hookers, naked in the aisle as others pour champagne on them.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{All told, the weekend cost me almost two million dollars--}
-<LOC>__{107   PERIOD VEGAS ADS                                               *107 INT. TANGIERS - PRESIDENTIAL SUITE - DAY                       *108}
+<LOC>__{107   PERIOD VEGAS ADS                                               107 INT. TANGIERS - PRESIDENTIAL SUITE - DAY                       108}
 <ACTION>__{The Tangiers Presidential Suite is a shambles on the level of Hiroshima. A giant crystal chandelier lays shattered on the floor; Jordan asleep in the massive bed, a Blue Chip Hooker on either side of him; other passed- out BODIES lay amid debris and broken, toppled furniture.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{But the wedding was like something out of a fairy tale--}
@@ -1798,7 +1798,7 @@
 <DIAL>__{Switzerland?    What the fuck is in Switzerland?}
 <CHAR>__{JORDAN} <CHAR_PAR>__{}
 <DIAL>__{Swiss cheese, Naomi, what do you fucking think?}
-<LOC>__{INT. STRATTON OAKMONT III - CONFERENCE ROOM - DAY               *139}
+<LOC>__{INT. STRATTON OAKMONT III - CONFERENCE ROOM - DAY               139}
 <ACTION>__{(SUMMER `95) Jordan sits talking with Rugrat and Donnie.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Rugrat set up a meeting with a Swiss Banker he knew from law school who could launder our money, but it wasn't till noon the next day.}
@@ -1821,13 +1821,13 @@
 <ACTION>__{Jordan is barely conscious as a Hooker rides him.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{And by ten I didn't know who or what I was doing -- the amnesia phase. We boarded the plane just before midnight.}
-<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - NIGHT (SUMMER `95)        *144}
+<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - NIGHT (SUMMER `95)        144}
 <ACTION>__{Jordan boards, slurring, drooling, completely wasted.}
 <CHAR>__{JORDAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to a Stewardess)}
 <DIAL>__{Sweetheart! Look at you!}
 <ACTION>__{And as he hugs her, then stumbles toward his seat...}
-<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - DAY (SUMMER `95)          *145}
+<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - DAY (SUMMER `95)          145}
 <ACTION>__{Quiet; morning sunlight bleeds through the window. Jordan's eyes flicker open. He yawns, looks around, tries to get up; he can't move. He looks down, sees six seat belts restraining his arms and legs. Jordan looks over at Donnie, mouth agape, asleep next to him.}
 <CHAR>__{JORDAN} <CHAR_PAR>__{}
 <DIAL>__{Donnie.   Donnie, wake up.}
@@ -1842,7 +1842,7 @@
 <ACTION>__{FLASHBACK -- As PASSENGERS scream, Jordan wildly humps a STEWARDESS, the CAPTAIN struggling to restrain him.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{This was fucking great. I hadn't laundered a dime yet and already I was under arrest.}
-<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - DAY (SUMMER `95)          *147}
+<LOC>__{INT. ZURICH AIRLINES - FIRST CLASS - DAY (SUMMER `95)          147}
 <ACTION>__{A pensive Jordan sits, mind racing.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Worse yet was the plastic baggie of ludes that Donnie'd stuffed up his ass.}
@@ -2663,7 +2663,7 @@
 <DIAL>__{Mayday! This is Captain Ted Beecham aboard the Yacht Naomi! This is a Mayday!}
 <CHAR>__{CAPTAIN TED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{We are going down at the head fifty miles off the coast of Rome and we require immediate assistance!}
-<LOC>__{INT. ITALIAN NAVAL DESTROYER - BELOW DECK - NIGHT                   *211}
+<LOC>__{INT. ITALIAN NAVAL DESTROYER - BELOW DECK - NIGHT                   211}
 <ACTION>__{(SUMMER `96) Off to the side, Jordan watches as Naomi, their Friends, and the yacht's Crew Members dance to blaring techno music. A small group of Italian SAILORS cheer them on.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{The nice thing about getting rescued by Italians is that the first thing they do is feed you and make you drink red wine. Then they make you dance.}
@@ -2671,7 +2671,7 @@
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Did you see that? That was the plane I sent for to come get us. I shit you not, it exploded when a seagull flew into the engine, three people killed. You want a sign from God, well after all this I finally got the message. I had to make some fucking changes.}
 <TRANS>__{FADE OUT:}
-<LOC>__{24 MONTHS LATER INT. JORDAN'S ESTATE - LIVING ROOM - DAY (SUMMER `98)               *215}
+<LOC>__{24 MONTHS LATER INT. JORDAN'S ESTATE - LIVING ROOM - DAY (SUMMER `98)               215}
 <ACTION>__{Jordan, looking healthier than we've seen him thus far, sits on the couch; stacks of paperwork on the coffee table. After a few beats, Naomi enters from the kitchen.}
 <CHAR>__{NAOMI} <CHAR_PAR>__{}
 <DIAL>__{Dinner's ready.}
@@ -2766,7 +2766,7 @@
 <DIAL>__{I can make bail.}
 <CHAR>__{NOLAN DRAGER} <CHAR_PAR>__{}
 <DIAL>__{I don't mean the ten million, I mean for legal fees. Cuz if you want to fight this thing, it's gonna be expensive. Like, sell- everything-you-own-expensive.}
-<LOC>__{EXT. U.S. ATTORNEY'S OFFICE - DAY      (SEP `98)               *224}
+<LOC>__{EXT. U.S. ATTORNEY'S OFFICE - DAY      (SEP `98)               224}
 <ACTION>__{Jordan exits the building. He's fucked and he knows it. He sees beautiful Naomi waiting for him beside a limosine; life isn't totally hopeless. He approaches.}
 <CHAR>__{JORDAN} <CHAR_PAR>__{}
 <DIAL>__{Nay, thank God. I'm so glad you're here.}
@@ -3016,7 +3016,7 @@
 <ACTION>__{Jordan stands addressing his 700 Brokers. WE SEE the eager young FACES, hanging on his every word.}
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I gave up everyone, and in return got three years in some hellhole in Nevada I'd never even heard of. Like Mad Max'd said, the chickens'd come home to roost. Whatever the fuck that means.}
-<LOC>__{INT. FEDERAL COURTROOM - QUEENS - DAY      (MAR `99)           *236}
+<LOC>__{INT. FEDERAL COURTROOM - QUEENS - DAY      (MAR `99)           236}
 <ACTION>__{Sentencing.   Jordan's mother is there, tears in her eyes.}
 <CHAR>__{NOLAN DRAGER} <CHAR_PAR>__{}
 <DIAL>__{I hope your Honor would agree that Mr. Belfort has distinguished himself in terms of his cooperation in this white collar fraud. Mr. Belfort has helped the government win convictions over two dozen serious offenders and helped them recover millions of dollars to be made available for restitution to the victims.}
@@ -3047,7 +3047,7 @@
 <CHAR>__{JORDAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{For a brief, fleeting moment, I'd forgotten I was rich and lived in America.}
 <TRANS>__{BLACK OUT:}
-<LOC>__{INT. HOTEL BANQUET HALL - EARLY 2000'S - DAY                        *248}
+<LOC>__{INT. HOTEL BANQUET HALL - EARLY 2000'S - DAY                        248}
 <ACTION>__{CLOSE ON A MOVIE SCREEN: DIFFERENT INTERVIEWS...}
 <CHAR>__{AFRICAN KID} <CHAR_PAR>__{}
 <DIAL>__{I watch him speak and what he says is motivational about life. He tells about life and how you can be more rich.}

@@ -72,7 +72,7 @@
 <ACTION>__{Laughter in the audience.}
 <CHAR>__{PREM } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{So, ladies and gentlemen, Jamal Malik from Mumbai, let's play Who Wants To Be A Millionaire...!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. POLICE INTERVIEW ROOM. DAY.}
 <ACTION>__{Jamal's body dangles motionless from the ceiling. His head is bowed and he is moaning to himself. The ceiling fan thumps round slowly. In the corner, Constable Srinivas mops his brow and lights a cigarette. Hot work. The door opens and the Inspector of Police walks in. A rumpled man in his late forties who has seen pretty much everything. He eyes Jamal, surprised.}
 <CHAR>__{INSPECTOR} <CHAR_PAR>__{}
@@ -708,7 +708,8 @@
 <DIAL>__{That's the chutiye out the way. Now, man to man. How did you know all the answers?}
 <CHAR>__{JAMAL} <CHAR_PAR>__{}
 <DIAL>__{If I knew, I'd tell you.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. STUDIO. NIGHT.}
 <CHAR>__{PREM} <CHAR_PAR>__{}
 <DIAL>__{Now we're into the serious money. For two hundred and fifty thousand rupees, ladies and gentlemen, a quarter of a million rupees...the song Chalo Ri Murali was written by which}
@@ -1707,7 +1708,7 @@
 <DIAL>__{I don't know and I don't care.}
 <ACTION>__{The Guard raises his stick and gives him a roar. Jamal backs away onto the street. The Guard slams the gate shut. Jamal looks despairingly up and down the street at the teeming traffic, the crowds.}
 <DIAL>__{PREM V/O Ready for another question. JAMAL V/O Yes. I'm ready.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. STUDIO. NIGHT.}
 <ACTION>__{We are back in the Studio.}
 <CHAR>__{PREM} <CHAR_PAR>__{}
@@ -2269,7 +2270,7 @@
 <ACTION>__{By the time Jamal has fought himself to where Latika was- she is gone. He whirls around, mad with frustration.}
 <CHAR>__{JAMAL } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Latika! Latika!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. CHHATRAPATI SHIVAJI TERMINUS. DAY.}
 <ACTION>__{Latika is jumping the tracks, crossing in front of trains. But the Thugs are gaining on her. He brings her down and drags her across to Javed's waiting Mercedes. Salim is standing by the car. Jamal pushes through the crowds just in time to see Salim bundling her into the car.}
 <CHAR>__{JAMAL} <CHAR_PAR>__{}
@@ -2419,7 +2420,7 @@
 <ACTION>__{....alighting on a crowd of hundreds of people jostling to get a view of the building. News crews are setting up around them. A tv Reporter is doing a piece to camera.}
 <CHAR>__{TV REPORTER} <CHAR_PAR>__{}
 <DIAL>__{....behind the walls of this police station lies the mystery all of India is talking about. Did Jamal Malik, an uneducated, eighteen year-old boy from the slums of Mumbai win one Crore rupees by fair means or foul? And in the crowds all around me there is an even bigger question. Will he be back on the show tonight to play for twenty million rupees...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. POLICE OFFICE. DAY.}
 <ACTION>__{The Commissioner is waiting in the outer office.}
 <CHAR>__{COMMISSIONER OF POLICE} <CHAR_PAR>__{}
@@ -2537,7 +2538,7 @@
 <CHAR>__{BEGGAR} <CHAR_PAR>__{}
 <DIAL>__{Crorepati! Crorepati!}
 <ACTION>__{Other beggars- just like the one Jamal used to be- join him and start cheering and applauding. The jeep pulls away.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SLUM. NIGHT.}
 <ACTION>__{At the chi stall, everyone gathers around the tv, watching.}
 <LOC>__{EXT. ROADSIDE CHI HOUSE. NIGHT.}
@@ -2582,7 +2583,9 @@
 <DIAL>__{Get me the Inspector on the phone now!}
 <LOC>__{INT. INSPECTOR'S OFFICE. NIGHT.}
 <ACTION>__{The Inspector wanders into his office, still deep in thought. Switches on the television just as the Millionaire music starts. Sits. The phone rings.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{INT. STUDIO. NIGHT.}
 <ACTION>__{Prem and Jamal walk on-stage. Blinding light. They take their seats to tumultuous applause.}
 <CHAR>__{PREM} <CHAR_PAR>__{}
@@ -2603,7 +2606,7 @@
 <ACTION>__{An involuntary laugh comes out of Jamal's mouth.}
 <LOC>__{INT. ROADSIDE SHACK. NIGHT.}
 <ACTION>__{In the shack, sitting on an upturned oil drum, surrounded by puzzled Indians in rags, a slow smile comes to Latika's face.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. STUDIO. NIGHT.}
 <ACTION>__{Camera on Prem.}
 <CHAR>__{PREM} <CHAR_PAR>__{}
@@ -2749,7 +2752,7 @@
 <ACTION>__{He nods towards the outside world. Dazed, Jamal gets out.}
 <LOC>__{EXT. CHHATRAPATI SHIVAJI TERMINUS. NIGHT.}
 <ACTION>__{Jamal finds himself    gazing up     at VT station. Slowly, he wanders inside. The    Inspector     takes the contents of the file and tears them    slowly in     half. Lets the pieces fall on the ground.    Gets back     in the jeep and drives away.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. CHHATRAPATI SHIVAJI TERMINUS. NIGHT.}
 <ACTION>__{VT station is awash with the evening commute. Thousands of people crowd the platforms, jostling the only still figure who is sitting at the base of the statue of Frederick Stevens. Jamal. Then there is a gap in the wall of bodies that swirls around him. Jamal gets to his feet.}
 <CHAR>__{JAMAL} <CHAR_PAR>__{}

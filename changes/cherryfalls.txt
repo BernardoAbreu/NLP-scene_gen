@@ -653,7 +653,7 @@
 <DIAL>__{Well yeah. Of course. Everyone kisses.}
 <CHAR>__{BRENT} <CHAR_PAR>__{}
 <DIAL>__{I'm not criticizing.}
-<DIAL_PAR>__{(very uncomfortable)_}
+<DIAL_PAR>__{(very uncomfortable) }
 <DIAL>__{Did you two get any further?}
 <CHAR>__{JODY} <CHAR_PAR>__{}
 <DIAL>__{A little.}
@@ -1841,7 +1841,7 @@
 <DIAL>__{He's a rapist. Like mine.}
 <ACTION>__{She grimaces. The disinfectant hurts.}
 <CHAR>__{JODY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(a little scared)_}
+<DIAL_PAR>__{(a little scared) }
 <DIAL>__{Your father raped someone?}
 <CHAR>__{LEONARD} <CHAR_PAR>__{}
 <DIAL>__{Lisa Sherman was my mother. Do you know who that is?}

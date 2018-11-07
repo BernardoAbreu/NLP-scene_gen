@@ -11,15 +11,15 @@
 <ACTION>__{The Pilot is being carried across the desert.  A mask covers his face. His view of the world is through the slats of reed.  He glimpses camels, fierce low sun, the men who carry him.}
 <LOC>__{EXT.    AN  OASIS.    DUSK.}
 <ACTION>__{The Pilot sees a man squat down beside him, takes a date from a sack and begin to chew it.  Carefully, the Bedouin eases the mask from the Pilot's face, leaving bandages of cloth and oil, but revealing a mouth. He stops chewing and passes the pulped date into the Pilot's mouth. Mouth to mouth.}
-<LOC>__{4a*.    EXT.    DESERT.    DAWN.}
+<LOC>__{4a.    EXT.    DESERT.    DAWN.}
 <ACTION>__{THE CARAVANSERAI CROSSES THE DESERT, silhouetted against the dunes.}
 <LOC>__{EXT.    AN  OASIS.    NIGHT.}
 <ACTION>__{The SOUND OF GLASS, of tiny chimes.  A music of glass. AN ARAB HEAD APPEARS ON A MOVING TABLE IN THE DESERT.  It floats in darkness, shimmering from the light of a fire.  The image develops to reveal a man carrying a giant wooden yoke from which hang DOZENS OF SMALL GLASS BOTTLES, on different lengths of string and wire.  He could be an angel. The man approaches the litter which carries the Pilot.  He's still in the protective reed mask, wrapped in blankets.  The MERCHANT DOCTOR stands over the burned body and sinks sticks either side of him deep into the sand, then moves away, free of the yoke, which balances in the support of the two crutches.  He puts some liquid in the Pilot's tongue, whose eyes almost instantly begin to roll.  Then he slowly sets about peeling away the layers of oiled cloth which protect the Pilot's flesh. The Merchant Doctor crouches in front of the curtain of bottles and MAKES A SKIN CUP with the soles of his feet, then leans back to pluck, hardly looking, certain bottles, which he uncorks and mixes in the bowl he'd made with his feet.  This mixture he uses to anoint the burned skin.  Next he finds green-black PASTE - ground Peacock Bone - and BEGINS TO RUB IT on to the Pilot's rib cage.  All the while he us humming and chanting.  The bottles continue to jingle.}
-<LOC>__{6*.    EXT.    ITALIAN HILL ROAD.    EARLY 1945.    DAY.}
+<LOC>__{6.    EXT.    ITALIAN HILL ROAD.    EARLY 1945.    DAY.}
 <ACTION>__{The sand gives way to trees, the jingling bottles to distant church bells, as A CONVOY OF TWENTY TRUCKS - Red Cross vehicles and some supply vehicles - snakes along a bumpy hill road.  The war in Italy is largely over and the Allies are moving up the country, the wounded and supply lines slowly following.}
-<LOC>__{7*.    INT.    RED CROSS TRUCK.    DAY.}
+<LOC>__{7.    INT.    RED CROSS TRUCK.    DAY.}
 <ACTION>__{A young CANADIAN NURSE, HANA, sits in a truck full of patients.  Hana pays special care to the PATIENT lying in the stretcher alongside her. This is the PILOT - now known as THE ENGLISH PATIENT.  A web of scars covers the Patient's face and body.  They have the quality of a livid tattoo, magenta and green-black.  The hair has largely gone and the effect is curious, lassoing his features, the strong nose, the eyes liquid.  It's a warrior's face.  But he has no physical strength.  He coughs violently as the trucks shudders along the road.}
-<LOC>__{8*.    EXT.    ITALIAN HILL ROAD.    DAY.}
+<LOC>__{8.    EXT.    ITALIAN HILL ROAD.    DAY.}
 <ACTION>__{A JEEP pulls out of the line and approaches the Red Cross truck containing Hana and the Patient.  The horn blows and Hana looks out to see it contains her best friend, JAN.  TWO YOUNG SOLDIERS sit up front, one driving, both grinning.  Jan signals for Hana's attention.}
 <CHAR>__{JAN} <CHAR_PAR>__{}
 <DIAL>__{There's meant to be lace in the next village - the boys are taking me.}
@@ -39,7 +39,7 @@
 <DIAL_PAR>__{(getting the money)}
 <DIAL>__{I love you.}
 <ACTION>__{The Jeep accelerates away.  Hana sighs to the patient. Suddenly AN EXPLOSION shatters the calm as the jeep runs over a MINE. The jeep is THROWN into the air.  The convoy halts and there's chaos as soldiers run back pulling people out of the vehicles.  Hana runs the other way, towards the accident, until she is prevented from passing by a soldier.}
-<LOC>__{9*.    EXT.    ITALIAN HILL ROAD.    LATER.}
+<LOC>__{9.    EXT.    ITALIAN HILL ROAD.    LATER.}
 <ACTION>__{-- and there's still chaos as two SAPPERS arrive on motorcycles.  One of them, a SIKH, wears a turban. The motorcycles arrive at the front of the convoy.  A nurse, MARY, is helping a doctor, OLIVER, attend to the injured driver.  The other two bodies are covered with blankets.  There's blood everywhere.  The Sikh and his colleague pull out the paraphernalia of their bomb disposal equipment.}
 <LOC>__{EXT.    ITALIAN HILL ROAD.    DAY.}
 <ACTION>__{KIP, the Sikh Lieutenant, and HARDY, his sergeant, explore the road ahead of the becalmed convoy, using saucer-like METAL DETECTORS and HEADSETS.  Kip is young, lithe, contained, utterly focused as they inch along the debris-strewn road.  He stiffens as he registers metal.  With a bayonet he carefully scrapes at the mud-caked surface.  Something GLEAMS.  Suddenly, A PAIR OF FEET walks across his vision as HANA HURRIES PAST, walking carelessly up the road.  It's so surreal that neither man registers at first, and then Kip is shouting.}
@@ -59,7 +59,7 @@
 <ACTION>__{The CONVOY is threading through A RUINED VILLAGE, passing the souvenirs of war.  An overturned vehicle now used as a game by some children, dejected refugees tramping along the side of the road.  From the end of one of the buildings are hanging HALF A DOZEN CORPSES, strung upside down with crude placards denouncing, in Italian, their collaboration with the Nazis.}
 <LOC>__{INT.    RED CROSS TRUCK.    CONTINUOUS.}
 <ACTION>__{Hana sees all this as she sits blankly inside the truck, the Patient swaying alongside her.  She puts out her hand to steady him.}
-<LOC>__{13*.    EXT.    CONVOY SITE, ITALY.    DUSK.}
+<LOC>__{13.    EXT.    CONVOY SITE, ITALY.    DUSK.}
 <ACTION>__{THE CONVOY is making a PITSTOP.  The trucks are silhouetted in a line. Hana helps lift the Patient's stretcher onto the ground.  She bends to him.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Do you need something?}
@@ -77,13 +77,13 @@
 <ACTION>__{The Patient laces her fingers into his crabbed hand.}
 <LOC>__{EXT.    THE MONASTERY.    DAY.}
 <ACTION>__{Hana is investigating the MONASTERY OF ST. ANNA, wandering through its overgrown gardens, past a pond.  What sanctuary it seems to offer.}
-<LOC>__{15*.    INT.    THE MONASTERY LIBRARY.    DAY.}
+<LOC>__{15.    INT.    THE MONASTERY LIBRARY.    DAY.}
 <ACTION>__{Hana explores via a gaping hole in a LIBRARY where the walls have collapsed from shelling.  The garden intrudes, ivy curls around the shelves.  Bloated books lie abandoned, and there's a PIANO tiled up on one side.  Hana presses the keys through the filthy tarpaulin which covers it.  Everywhere there are signs of a brief German occupation.}
-<LOC>__{15a*.    INT.    MONASTERY CLOISTERS.    DAY.}
+<LOC>__{15a.    INT.    MONASTERY CLOISTERS.    DAY.}
 <ACTION>__{Past the Library is a CLOISTERS, drenched with silver light.}
-<LOC>__{15b*.    INT.    THE MONASTERY STAIRS.    DAY.}
+<LOC>__{15b.    INT.    THE MONASTERY STAIRS.    DAY.}
 <ACTION>__{Hana goes upstairs, negotiating a huge VOID in the stone treads two thirds of the way up.}
-<LOC>__{15c*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{15c.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{She comes across a small CHAPEL, with the remains of murals and an altar pressed into service by the Germans as a table.  Hana finds an old bed, and a mattress.}
 <LOC>__{EXT.    THE MONASTERY GARDEN.    DAY.}
 <ACTION>__{Hana comes out, passes a DRY WATER TROUGH.  She hears a rustling on the gravel and turns to see A TORTOISE ambling towards the trough.  On cue there's A GURGLING SOUND.  THE HANDLELESS PUMP IS SUDDENLY GUSHING, splashing water everywhere.  The Tortoise, clearly arriving for this, enjoys a welcome shower.  Hana goes to the trough, dips her hands into the water.  Looks around her, and makes a decision.}
@@ -111,7 +111,7 @@
 <ACTION>__{Hana nods.  A tiny smile.  Oliver shrugs helplessly.}
 <CHAR>__{OLIVER} <CHAR_PAR>__{}
 <DIAL>__{We're heading for Leghorn.  Livorno the Italians call it.  We'll expect you.}
-<LOC>__{18*.    INT.    THE MONASTERY.    DAY.}
+<LOC>__{18.    INT.    THE MONASTERY.    DAY.}
 <ACTION>__{TWO SOLDIERS are helping Mary and Hana carry the Patient into the monastery.  Hana indicates the stairs.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Up there.}
@@ -125,22 +125,22 @@
 <ACTION_ALT>__{CHAPEL.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{In here.}
-<LOC>__{18a*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{18a.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Hana lets Mary take the weight while she goes to the bed and pulls away the drapes, sending up a cloud of dust.  They lower the Patient onto the bed.  She turns to the SOLDIERS.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Thank you.}
 <ACTION>__{She shuts the door on them, leaving Mary staring aghast at the room, its faded frescoes, its mold, its chaos.  Hana smiles, opens a shutter to let a fierce envelope of light into the room.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Good. She goes to Mary and hugs her.}
-<LOC>__{19*.    INT.    HANA'S ROOM.    THE MONASTERY.    DAY.}
+<LOC>__{19.    INT.    HANA'S ROOM.    THE MONASTERY.    DAY.}
 <ACTION>__{A smaller upstairs room completely bare.  As Hana tugs off her uniform, she looks out of the window to see the departing Convoy.  A cotton dress goes on over her head and she emerges looking suddenly younger and rather fragile.   THROUGH THE DAMAGED FLOOR OF HER ROOM SHE HAS A}
 <ACTION_ALT>__{VIEW OF THE PATIENT BELOW HER.  SHE LOOKS AT HIM.  NOW SHE HAS SCISSORS}
 <TRANS>__{AND STARTS TO CUT OFF HER HAIR:}
 <ACTION>__{, NOT AGGRESSIVELY, BUT IN A GESTURE OF A}
 <ACTION_ALT>__{NEW BEGINNING.}
-<LOC>__{19a*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{19a.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{HANA walks down to the Patient's Room and stands in the doorway.  The Patient turns his head to her.  He's grinning.  He puts up a thumb.  On the track a song begins:  Some Other Time.}
-<LOC>__{20*.    EXT.  BASECAMP AT POTTERY HILL.  1938.  LATE DAY.}
+<LOC>__{20.    EXT.  BASECAMP AT POTTERY HILL.  1938.  LATE DAY.}
 <ACTION>__{MADOX, a weather-beaten man who is working on the guts of an BATTERED TIGER MOTH AEROPLANE.  His face is blackened with oil.  A second European, ALMASY, stands beside him, holding tools and a section of the camshaft.  Madox yanks out a perished rubber hose and holds it up for Almasy to inspect.  Behind them is an ENCAMPMENT - some camels foraging in the meager scrub, half a dozen black tents of the BEDOUIN: guides and servants to the Almasy/Madox Expedition.  It's 1938 and the whole continent is full of such expeditions, competing with each other, pursuing lost treasures, sources of rivers, hidden cities. D'AGOSTINO, the team's Italian ARCHEOLOGIST, drives towards the plane in one of the expedition's adapted FORD MOTORCARS.  He gets out carrying a large earthenware WATER JAR.  He looks very pleased with himself as he shows the jar to Almasy and then passes it to Madox.}
 <CHAR>__{D'AGOSTINO} <CHAR_PAR>__{}
 <DIAL>__{Thirsty?}
@@ -197,7 +197,7 @@
 <ACTION>__{The unmistakable buzz of AN AEROPLANE distracts them.}
 <CHAR>__{MADOX} <CHAR_PAR>__{}
 <DIAL>__{Good, and here comes reinforcements.}
-<LOC>__{21a*.    EXT.    BASE CAMP AT POTTERY HILL.    DAY.}
+<LOC>__{21a.    EXT.    BASE CAMP AT POTTERY HILL.    DAY.}
 <ACTION>__{LATER and a smart new aeroplane, a STEERMAN, makes a smooth landing on the flat desert.  The expedition team drives over to meet the arrivals. Almasy is not with them.  He's walking, apparently not so enthusiastic. A young, kissed and newly-married couple emerge from the plane.  They are GEOFFREY AND KATHARINE CLIFTON. And it's immediately clear that Katharine is the woman in the plane- crash at the beginning of the film. Madox makes all the introductions.  Hands are shaken, hellos all round, as the couple disembark in their leather flying gear.  Geoffrey removes his helmet and, in what we will come to know as an ubiquitous gesture, produces a bottle of CHAMPAGNE and sets off the cork with a flourish.}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{I hereby Christen us the International Sand Club!}
@@ -244,7 +244,7 @@
 <ACTION>__{Hana is dropping armfuls of books into the cavities of the damaged stairs, and with others, she is improvising new steps.  The heavy volumes are perfect for treading on.}
 <LOC>__{INT.   LIBRARY.   DAY.}
 <ACTION>__{Hana comes in, gathers up another armful of books and carries them out to continue her stair repairs.}
-<LOC>__{26*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{26.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Hana enters.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{What was all the banging?  Were you fighting rats or the entire German army?}
@@ -356,7 +356,7 @@
 <DIAL_PAR>__{(smiles)}
 <DIAL>__{Yes, thank you, Gyges, son of Daskylus - Candaules said to him I don't think you believe me when I tell you how beautiful my wife is.  And although Gyges replied he did find the Queen magnificent the King insisted he would find some way to prove beyond dispute that she was fairest of all women.  Do you all know this story?}
 <ACTION>__{The men all encourage her to continue her story.}
-<LOC>__{33*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{33.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{- and Hana's voice CONTINUES THE STORY as she reads to the Patient who listens, eyes closed, still in the desert.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(reading from the Herodotus)}
@@ -371,7 +371,7 @@
 <DIAL>__{I'm not laughing at you.  Go on, please.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{When my wife comes to lie down she always lays her garments one by one on a seat near the entrance of the room, and from where you stand you will be able to gaze on her at your leisure...}
-<LOC>__{34*.    EXT.    BASECAMP AT POTTERY HILL.    NIGHT.}
+<LOC>__{34.    EXT.    BASECAMP AT POTTERY HILL.    NIGHT.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(her story continuing)}
 <DIAL>__{And that evening, it's exactly as the King had told him, she goes to the chair and removes her clothes, one by one, until she stand naked in full view of Gyges.  And indeed she was more lovely than he could have imagined.}
@@ -426,7 +426,7 @@
 <ACTION>__{He turns over the propeller, the engine cranks up.}
 <LOC>__{EXT.    GILF KEBIR PLATEAU.    MORNING.}
 <ACTION>__{Both planes are scouting the Gilf Kebir region.  Geoffrey flies up alongside Madox and wiggles his wings.  Madox waves. They're flying over a distinctive group of GRANITE MASSIFS, Crater- shaped hills.  The broken towers of the Gilf Kebir.  Almasy is distracted by them.  He turns to Madox and points down, indicating they should explore them. Madox gestures to the Cliftons to PHOTOGRAPH the Massifs.  A THUMBS UP from Geoffrey.}
-<LOC>__{39*.    INT.    THE PATIENT'S ROOM.    MORNING.}
+<LOC>__{39.    INT.    THE PATIENT'S ROOM.    MORNING.}
 <ACTION>__{Hana gives the Patient his injection, now she begins to change the sheet.  The light streams in from the open window.  She looks up at the green hills rolling away from the Monastery, the village in the distance.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{I should try and move your bed.  I want you to be able to see the view.  It's good, it's a view from a monastery.}
@@ -458,9 +458,9 @@
 <DIAL>__{Because I'm a nurse.}
 <LOC>__{EXT.    THE MONASTERY GARDENS.    NOON.}
 <ACTION>__{The TORTOISE heads towards the trough, to the gurgling accompaniment. It reaches the shade only to be greeted by the obstacle of some tennis shoes, a frock.  It clambers over as the water begins to belch out. Hana, naked, kneeling in the trough, receives the shower with a great YELP of shivering joy.}
-<LOC>__{41*.    EXT.    THE MONASTERY CLOISTERS.    NIGHT.}
+<LOC>__{41.    EXT.    THE MONASTERY CLOISTERS.    NIGHT.}
 <ACTION>__{It's dark, but something is going on here.  Hana is caught by the stray shafts of moonlight.  She is SCRATCHING something on the flagstones. Her skirt is bunched up around her thighs.  She throws something in the air.  It's a SPILE, used to tap into the maple tree for syrup.  It lands with a crack.  Suddenly she is flying across the space, a hop, a skip, a jump.  Then turns at the other end, dips for the stone, then back again, in this blindman's version of HOPSCOTCH.}
-<LOC>__{42*.    INT.    TRAIN.    ITALY 1944.    BEFORE DAWN.}
+<LOC>__{42.    INT.    TRAIN.    ITALY 1944.    BEFORE DAWN.}
 <ACTION_ALT>__{AS HANA HOPS AND JUMPS IN THE SHADOWS SHE IS SUDDENLY ON A TRAIN IN}
 <LOC>__{1944.  A HOSPITAL TRAIN ploughs through the night carrying the wounded}
 <ACTION>__{back to Naples. Hana walks through a long carriage.  HER HAIR IS LONG.  She could be ten years younger than the Hana at the Monastery.  And easy.  She stops at the bunk of A NEW PATIENT.  Hana bends to the boy.  He's had shrapnel in his legs and cheek.  She speaks softly to him.}
@@ -518,7 +518,7 @@
 <ACTION>__{Hana lies alone in her bed covered by a curtain.  There's a sharp NOISE.  She's very frightened.  She has her pistol under her pillow and pulls it out, listens, holding her breath.  Another BANG.  She listens.}
 <LOC>__{EXT.    THE MONASTERY.    HANA'S GARDEN.    DAY.}
 <ACTION>__{Hana has been reviving a vegetable patch.  She comes to garden.  CROWS are feasting.  She's furious, shouts, runs at them.  Nature, wildness, insisting on invading her peace.}
-<LOC>__{46*.    EXT.    THE MONASTERY.    GRAVEYARD.    MORNING.}
+<LOC>__{46.    EXT.    THE MONASTERY.    GRAVEYARD.    MORNING.}
 <ACTION>__{Hana appears from the Cemetery, dragging A METAL CRUCIFIX.  It's bigger than she is, and she drags it, as if approaching Calvary.  A MAN WATCHER HER FROM A BICYCLE.  He's approaching fifty, grizzled and attractive, and could be Italian.  His hands are bandaged.  Hana aims the cross at the soil, but is not quite bit or strong enough.  The man, CARAVAGGIO, chooses this moment to introduce himself.  He drops the bicycle on the ground with a clatter.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(very cheerful)}
@@ -537,7 +537,7 @@
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{I'd like to take credit, but it's from Mary.  My name's David Caravaggio, but nobody ever called me David. Caravaggio they find to absurd to miss out on.}
 <ACTION>__{During this he attempts the same thing with his other hand to Hana's other ear.  THE EGG DROPS TO THE GROUND.  Cursing, he gets on his knees and starts to scoop it up, preserving it.}
-<LOC>__{47*.    INT.    THE MONASTERY.    KITCHEN.    DAY.}
+<LOC>__{47.    INT.    THE MONASTERY.    KITCHEN.    DAY.}
 <ACTION>__{Hana has taken his eggs and put them into a bowl.  She beats them with a knife picking out the bits of shell.  Caravaggio watches, takes in how little food there is otherwise.  The table seems useful more as a sewing area than for cooking - it's STREWN WITH ALTAR CLOTHS being sewn into drapes.  On a tray on the table are TWO PHIALS OF MORPHINE from the Patient's room.  As Hana turns to the stove, he's moved and covered them with his bandaged hands, a second later and he's juggled them into his pockets with the slightest clink.  Hana looks at him.  He shrugs, nods at the eggs.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{They're fresh.  I haven't eaten an egg in...have you noticed there are chickens? You get chickens in Italy but no eggs. In Africa there were always eggs, but never chickens.  Who separates them?}
@@ -703,7 +703,7 @@
 <DIAL>__{Darling, for goodness' sake!}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{Well, she is!}
-<LOC>__{54*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{54.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Hana, having already replaced the bedlinen, is standing on a stepladder trying to hang home-made drapes around the bed as Caravaggio knocks tentatively, then comes in.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Hello.}
@@ -724,7 +724,7 @@
 <ACTION>__{And she exits.  The men consider her.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Does she have war wounds?}
-<LOC>__{55*.    INT.    THE MONASTERY.    HANA'S ROOM.    DAY.}
+<LOC>__{55.    INT.    THE MONASTERY.    HANA'S ROOM.    DAY.}
 <ACTION>__{As Hana walks up her stairs she finds herself overhearing their conversation as it threads up through the hole in the ceiling.  She strips her own bed of the curtain she uses for a sheet.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{I think anybody she ever loves tends to die on her.}
@@ -740,7 +740,7 @@
 <DIAL>__{I told her you would never invent such a preposterous name.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{I told her you can forget everything but you never forget your name.}
-<LOC>__{56*.    EXT.    BEACH CABIN.    ITALY.    DAY.}
+<LOC>__{56.    EXT.    BEACH CABIN.    ITALY.    DAY.}
 <ACTION>__{HANA IS STILL LISTENING BUT NOW SHE'S OUTSIDE A CABIN.  She's in her uniform, clearing things away.  The Cabin door is ajar.  An OFFICER moves around, then sits to make notes.}
 <DIAL_PAR>__{OFFICER (O/S)}
 <DIAL>__{What about your rank or serial number?}
@@ -782,7 +782,7 @@
 <CHAR>__{STUART} <CHAR_PAR>__{}
 <DIAL>__{My leave is canceled.  I can't meet you later.}
 <ACTION>__{Hana frowns, helpless.  As if to emphasize this, a Staff Nurse comes by, carrying a bowl and a withering look.}
-<LOC>__{58*.    INT.    BEACH CABIN.    DAY.}
+<LOC>__{58.    INT.    BEACH CABIN.    DAY.}
 <ACTION>__{Hana enters, approaches the Patient.  She's circumspect.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Excuse me -}
@@ -829,7 +829,7 @@
 <DIAL>__{I'm feeling old.}
 <ACTION>__{They EMBRACE, fiercely, hardly making a sound, or moving.  THE PATIENT}
 <ACTION_ALT>__{ROARS THE SONG.}
-<LOC>__{59*.    EXT.   THE MONASTERY.   HANA'S GARDEN.   MORNING.}
+<LOC>__{59.    EXT.   THE MONASTERY.   HANA'S GARDEN.   MORNING.}
 <ACTION>__{A battered open backed TRUCK comes into the Monastery.  An ITALIAN PARTISAN sits in the back, a SHOTGUN resting on his knees.  The truck stops, and Caravaggio emerges from the passenger door.  He collects some packages from the PARTISAN, including a dead RABBIT, and then exchanges a few words with the driver.  Hana, who's watching all of this from her garden, sees that the driver is a WOMAN.  The woman's name is GIOIA, and Caravaggio leans into the window to make his goodbye to her. Caravaggio approaches the Vegetable Garden as Hana comes to greet him. He throws her the rabbit, and hurries up the stairs without pausing, clutching the other boxes.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Supper.}
@@ -840,9 +840,9 @@
 <DIAL_PAR>__{(not stopping)}
 <DIAL>__{Rabbit hunting.}
 <ACTION>__{Hana looks at the rabbit.  She's angry.  Caravaggio hasn't been around for a week.}
-<LOC>__{60*.    INT.  THE MONASTERY.  DOWNSTAIRS CORRIDOR.  DAY.}
+<LOC>__{60.    INT.  THE MONASTERY.  DOWNSTAIRS CORRIDOR.  DAY.}
 <ACTION>__{Hana heads up for the kitchen, then stops as there's a faint CRASH from upstairs.}
-<LOC>__{61*.    INT.   THE MONASTERY.   UPSTAIRS CORRIDOR.   DAY.}
+<LOC>__{61.    INT.   THE MONASTERY.   UPSTAIRS CORRIDOR.   DAY.}
 <ACTION>__{Hana, the rabbit still in her hands, comes along the corridor to find Caravaggio SLUMPED on the floor, retching.  The discarded NEEDLE lies beside him, the new package of MORPHINE CAPSULES ripped open.  He looks up at Hanna, glazed.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{I could help you.  I could get you off that.}
@@ -861,7 +861,7 @@
 <DIAL>__{Some gave me a dress.}
 <DIAL_PAR>__{(starts to tear at a parcel)}
 <DIAL>__{You know what's great?  What I'm learning? You win a war and you not only gain the miles you get the moral ground. Everywhere I go, we're in the right. I like that.}
-<LOC>__{62*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{62.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Hana comes in, carrying a batch of the new morphine.  She's wearing a different FROCK.  It's not new, and it's faded, but the change of color is startling.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Something smells so rich.  My stomach is heaving -}
@@ -873,7 +873,7 @@
 <DIAL>__{He keeps asking me questions about you. Do you know him?  Do you recognize him?}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Do I recognize him?  I recognize what he is. I like him.  He's Canadian.  He can read Italian.  He can catch rabbits.}
-<LOC>__{63*.    EXT.    BASECAMP AT POTTERY HILL.    DUSK.}
+<LOC>__{63.    EXT.    BASECAMP AT POTTERY HILL.    DUSK.}
 <ACTION>__{Almasy squats with an ANCIENT ARAB outside his rudimentary house, while he draws on the sand, talking in some arcane dialect, scratching out a possible location for the lost oasis.  The man stops speaking and scours the sky a beat or two before we or Almasy hear the faint noise of a PLANE.  It's Clifton's Steerman, Rupert Bear, coming in to land. Almasy doesn't look up. The Arab continues to talk.  The newly-arrived Katharine has scrambled up the hill to speak to Almasy.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(diffident)}
@@ -912,7 +912,7 @@
 <ACTION>__{The Arab speaks again.  Almasy speaks without looking at her.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{The one who appears not to be moving.}
-<LOC>__{64*.    INT.    TENT.   BASECAMP AT POTTERY HILL.   NIGHT.}
+<LOC>__{64.    INT.    TENT.   BASECAMP AT POTTERY HILL.   NIGHT.}
 <ACTION>__{Katharine comes in.  Then, a beat, and Almasy.  Clifton is holding up the champagne.}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{Gentlemen, to Zerzura.}
@@ -947,7 +947,7 @@
 <DIAL>__{Oh.}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{But finally able to explore the Cairo night-life.  I shall produce an authoritative guide to the Zinc Bars and - I want to say Harems - am I in the right country for Harems?}
-<LOC>__{65*.    EXT.     BASECAMP AT POTTERY HILL.    MORNING.}
+<LOC>__{65.    EXT.     BASECAMP AT POTTERY HILL.    MORNING.}
 <ACTION>__{As Clifton prepares to leave in the Steerman, Almasy approaches.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Safe journey.}
@@ -971,13 +971,13 @@
 <DIAL_PAR>__{(laughing it off)}
 <DIAL>__{Why are you people so threatened by a woman?!}
 <ACTION>__{He settles into the controls.  Almasy watches the plane taxi away. Doesn't move at all.  Katharine waves from the tent as the Steerman takes off.}
-<LOC>__{65a*.    EXT.    BASECAMP AT POTTERY HILL.}
+<LOC>__{65a.    EXT.    BASECAMP AT POTTERY HILL.}
 <ACTION>__{The THREE FORD CARS leave the campsite, loaded for a scouting expedition.  The rest of the party, Bedouin, tents, camels and Tiger Moth is left behind.  Madox shouts last-minute instructions from the window of his car.}
-<LOC>__{66*.    EXT.    DESERT EN ROUTE TO CAVE OF SWIMMERS.    DAY.}
+<LOC>__{66.    EXT.    DESERT EN ROUTE TO CAVE OF SWIMMERS.    DAY.}
 <ACTION>__{FENELON-BARNES sits astride his camel, and wipes away the sweat.  The desert stretches for miles, shimmering, the sun baking the sand.  His GUIDES wind their headcloths tighter.  Nobody speaks.  Then one of them looks round, raises a hand.  A BUZZING noise.  They all turn.  A SMALL CLOUD OF DUST EMERGES OVER A RIDGE.  Locusts?  A sandstorm? A CARAVAN OF CARS, the Almasy/Madox expedition, bumps along, suspensions threatened by the constant dips and ridges.  On each car there are three in the passenger cabin, the open backs crammed with drums of gasoline and water and equipment.  On the front vehicle, the tenth member of the party, KAMAL, acts as a navigator and sits on a CAMEL SADDLE, a rodeo cowboy, on the roof of the leading car, driven by Madox.  As they spot FENELON-BARNES they sound their horns and wave good-naturedly.  F-B scowls, watches them roar by, stealing his thunder.}
-<LOC>__{66a*.    EXT.  DESERT EN ROUTE TO CAVE OF SWIMMERS.   DAY.}
+<LOC>__{66a.    EXT.  DESERT EN ROUTE TO CAVE OF SWIMMERS.   DAY.}
 <ACTION>__{ONE OF THE CARS IS HOPELESSLY BOGGED DOWN IN HEAVY SAND.  It's contents have been unloaded, and a rope ladder is being inserted under the tires.  The entire company huff and puff and argue about the best means of extricating the vehicle.}
-<LOC>__{67*.    INT.    CAR EN ROUTE TO CAVE OF SWIMMERS.    DAY.}
+<LOC>__{67.    INT.    CAR EN ROUTE TO CAVE OF SWIMMERS.    DAY.}
 <ACTION>__{LATER - Almasy drives the second car, accompanied by Katharine and Al Auf.  Katharine breaks the long silence.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{I've been thinking about - how does somebody like you decide to come to the desert?  What is it?  You're doing whatever you're doing - in your castle, or wherever it is you live, and one day, you say, I have to go to the desert - or what?}
@@ -1000,16 +1000,16 @@
 <DIAL_PAR>__{(sings wickedly)}
 <DIAL>__{I'll be down to get you in the taxi, honey, you'd better be ready about half-past eight...!}
 <ACTION>__{Al Auf nods and grins furiously, joins in, impersonating Almasy. Almasy grunts in irritation.}
-<LOC>__{68*.    EXT.  NEAR THE BASECAMP AT THE CAVE OF SWIMMERS.  DUSK.}
+<LOC>__{68.    EXT.  NEAR THE BASECAMP AT THE CAVE OF SWIMMERS.  DUSK.}
 <ACTION>__{The group is investigating a cleft in the rocky massif.  They climb slowly.  Below them, A NEW AND TEMPORARY BASE CAMP. The group winds around the rock.  Almasy turns to offer a hand to Katharine behind him, pulling her up to the next rock slab.  She smiles at him.  He smiles back curtly, continues. The group stops at a level plateau.  The Arabs stand apart and SING THEIR PRAYERS AT DUSK.  Al Auf leads the incantations.}
 <CHAR>__{AL AUF} <CHAR_PAR>__{}
 <DIAL>__{Allahu Akbar, Allahu Akbar...}
 <ACTION>__{The westerners wait respectfully.  As the sun sets in glory, Almasy looks over at the range of rocks.  One particular range seems to look exactly like A WOMAN'S BACK.  He squints at the rock.  Almasy discreetly pulls out his COMPASS.}
-<LOC>__{69*.    EXT.    CAVE OF SWIMMERS.    DUSK.}
+<LOC>__{69.    EXT.    CAVE OF SWIMMERS.    DUSK.}
 <ACTION>__{Almasy clambers up the rocks, coming through a narrow crevice to find A NATURAL SHELF.  He scrambles up this path, reaching up, only to notice that his hand almost perfectly covers A PAINTED HAND on the rock, and as he digests this he realizes he has climbed past what is THE MOUTH OF A CAVE.  He disappears inside.}
 <LOC>__{INT.    CAVE OF SWIMMERS.    FLASHLIGHT.}
 <ACTION>__{A FLASHLIGHT squirts into the cave.  Almasy treads cautiously along the narrow winding passage.  He comes to an open cavern and takes his flashlight up to a wall.  PAINTINGS EMERGE, figures, animals,  ancient pictures.  A giraffe.  Cattle.  Fish.  Men with bows and arrows. Almasy is astonished by what he sees.}
-<LOC>__{71*.    EXT.    NEAR THE CAVE OF SWIMMERS.    EVENING.}
+<LOC>__{71.    EXT.    NEAR THE CAVE OF SWIMMERS.    EVENING.}
 <ACTION>__{The others watch as a flashlight bobs and jerks among the rocks as Almasy comes scrambling down, transformed into an excited teenager.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Madox!  Madox!}
@@ -1021,7 +1021,7 @@
 <DIAL>__{My God, they're swimming!}
 <ACTION>__{The others crowd round.  FIVE EXCITED FACES IN THE GREEN GLOOM OF THE}
 <ACTION_ALT>__{CAVE.}
-<LOC>__{73*.    EXT.    CAVE OF SWIMMERS.    DAY.}
+<LOC>__{73.    EXT.    CAVE OF SWIMMERS.    DAY.}
 <ACTION>__{A hive of activity.  The team has set up TRESTLES to catalogue the finds as the Bedouin come out with baskets of detritus, which they empty onto a growing heap as the Cave is cleared out.  Entering the cave, Almasy passes with camera equipment, just as D'Ag emerges carrying the corpse of a perfectly preserved DESERT FOX.  D'Ag gestures to Almasy with his customary enthusiasm, holding up the body of the fox.}
 <CHAR>__{D'AGOSTINO} <CHAR_PAR>__{}
 <DIAL>__{Have you seen this?  Astonishing. Perfectly preserved.}
@@ -1029,7 +1029,7 @@
 <ACTION>__{Inside, Bermann is setting up LAMPS, running wires from a car BATTERY. Kamal is helping him.  And as Almasy arrives he catches a tiny moment of tenderness between them.  Bermann, seeing him, quickly disengages and busies himself with the lights.  At another wall, Katharine is catching.}
 <LOC>__{EXT.    THE DESERT.    DAY.}
 <ACTION>__{The CARS are heading back to Basecamp.  They bounce over the sand.}
-<LOC>__{76*.    INT.    BERMANN'S CAR.    DAY.}
+<LOC>__{76.    INT.    BERMANN'S CAR.    DAY.}
 <ACTION>__{Bermann is driving the lead CAR along some STEEP DUNES.  Almasy beside him.  Bermann is peeling AN ORANGE, a segment of which he holds out of the window.  Kamal, riding shotgun, leans down and collects it, his head dipping in to grin at Bermann.  Bermann looks uneasily as Almasy. He wants to tell him of his passion, of his absolute love for Kamal, but he daren't.}
 <CHAR>__{BERMANN} <CHAR_PAR>__{}
 <DIAL>__{I love the desert, you see.  That's my, that's my - I can't think of the word.}
@@ -1043,9 +1043,9 @@
 <ACTION>__{THE CAR LURCHES SIDEWAYS AND TOPPLES OVER THE EDGE.  D'Ag - following, Fouad beside him - brakes sharply, but can't stop his own car from being caught in the avalanche of sand, and IT PLUNGES DOWN THE DUNE AND}
 <LOC>__{INTO BERMANN'S UPTURNED CAR WITH AN OMINOUS CRUNCH, the radiator}
 <ACTION>__{exploding.  Only Madox, Katharine beside him, and a little way behind, manages to stay clear of the trouble.  He jumps out of the vehicle and slides down the dune to find pandemonium as the passengers stumble out of the cars, sand flying, smoke pouring from the upright vehicle, the wheels of the overturned car spinning wildly in the air, a puddle of oil spreading ominously.}
-<LOC>__{77*.    EXT.    THE DESERT.    DAY.}
+<LOC>__{77.    EXT.    THE DESERT.    DAY.}
 <ACTION>__{LATER and the group have cleaned up as best as possible.  D'Ag, Bermann, and Fouad are a little worse for wear.  Fouad's arm is in a sling, and D'Ag is sporting a bloody head-bandage.  Bermann has broken a finger and is being attended to by Madox.  The luggage, water and petrol have been stacked up and the men are loading up the remaining car.  Almasy is working at the crumpled end of the vehicle.  He's having no success.}
-<LOC>__{78*.    EXT.    THE DESERT.    DAY.}
+<LOC>__{78.    EXT.    THE DESERT.    DAY.}
 <ACTION>__{Almasy, Kamal and two of the other young Bedouin stand around the mess of the two broken vehicles.  The ONE WORKING CAR is loaded with men and provisions.  Katharine sits inside, next to Madox, Almasy comes over to her window, to speak past her to Madox.}
 <CHAR>__{MADOX} <CHAR_PAR>__{}
 <DIAL>__{I'll be back as quick as I can. Thirty-six hours at the outside.}
@@ -1134,11 +1134,11 @@
 <DIAL>__{Fiction.  We had a house on that coast and it never rained blood.  Go on.  More.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{All true.  Herodotus, your friend, tells of a wind - the Simoon - so evil that a nation declared war on it and marched out to fight it in full battle dress, their swords raised.}
-<LOC>__{87*.    EXT.    THE DESERT.    DAY.}
+<LOC>__{87.    EXT.    THE DESERT.    DAY.}
 <ACTION>__{MORNING.  The sand has almost COMPLETELY ENGULFED the car on the exposed side, covering the windshield like snow, and encroaching onto the door of the protected flank.}
-<LOC>__{88*.    INT.    CAR.    DAY.}
+<LOC>__{88.    INT.    CAR.    DAY.}
 <ACTION>__{Almasy is woken by sound of A DISTANT ENGINE.  He jerks up, waking Katharine in the process, and heaves against the door.  He can't open it, and has to lean his feet against the passenger door, lying across Katharine, kicking it open.}
-<LOC>__{89*.    EXT.    THE DESERT.    DAY.}
+<LOC>__{89.    EXT.    THE DESERT.    DAY.}
 <ACTION>__{By the time Almasy emerges from the car, the sand pouring into the cabin, MADOX'S CAR IS ROARING ALONG THE HORIZON.  Almasy waves, shouts, and then runs back into the car, finds his flare-gun, and SENDS A FLARE high into the sky.  Katharine is with him now, and they watch, helplessly, as the car bounces away from them, Madox a man on a mission.  Katharine panics, THE SAND HAS ERASED ALL TRACES OF THEM. She speaks quietly, shocked.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{Our tracks, where are they?}
@@ -1165,9 +1165,9 @@
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{Find that plant.  Cut out its heart.}
 <ACTION>__{They hear NOISES, scrabbling, faint thumps.  Almasy scrapes at the sand and they find the glass of the car.  The angle of the cab, tilted up to the sky, has made it impossible for the trapped boys to lever it open. Their oxygen is rapidly deteriorating.  Almasy pulls the door and it cranks open.}
-<LOC>__{90*.    EXT.    THE DESERT.    DAY.}
+<LOC>__{90.    EXT.    THE DESERT.    DAY.}
 <ACTION>__{Katharine sits in the car, putting her pictures into the Herodotus. It's full of ALMASY'S HANDWRITING, PHOTOGRAPHS, SOME PRESSED FLOWERS. She deciphers a page of his words and drawings.  It's almost exclusively about her, the lines studded with K.s.  She reads, astonished, then looks at him as he and two of the three Bedouin circle the area of the cars in ever-widening circles, like water-diviners, like Kip searches for mines.  Kamal is slumped against the front of the car.  He's sick.  Almasy suddenly drops to his knees and begins to shovel into the sand.  He pulls out A CAN OF WATER.  Turns to Katharine and holds it triumphantly in the air.}
-<LOC>__{91*.    INT.    THE DESERT.    NIGHT.}
+<LOC>__{91.    INT.    THE DESERT.    NIGHT.}
 <ACTION>__{There's a small, weak fire.  The group crouch around it.  The boys talk noisily to Almasy.  Kamal is wrapped in a blanket and shivering. Almasy gives him water, speaks to Katherine.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Kamal is passing blood.  He must have had some internal damage in the crash. He needs medicine.  I think we must risk the other flare.}
@@ -1228,7 +1228,7 @@
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{You still have sand in your hair.}
 <ACTION>__{She starts to BEAT on his head and shoulders, violently.  He pulls back, to look at her, the tears streaming down her face.  She kneels and covers his face with kisses.  He pulls blindly at her dress and it RIPS across her breasts.}
-<LOC>__{95*.    INT.    BATHROOM.    DAY.}
+<LOC>__{95.    INT.    BATHROOM.    DAY.}
 <ACTION>__{Almasy is in the bath.  Katharine, wearing his dressing gown, pours in a jug of steaming water.  Almasy leans over the rim of the bath.  He's sewing, carefully repairing the torn dress.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{I'm impressed you can sew.}
@@ -1271,7 +1271,7 @@
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Ownership.  Being owned.  When you leave, you should forget me.}
 <ACTION>__{She freezes, pulls herself away, out of the bath, looks at him, then SLAPS HIM VERY HARD across the face. She picks up her dress, the thread and needle dangling from it, and walks, dripping, out of the room.}
-<LOC>__{96*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{96.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{To the Patient it's as if Katharine is walking out of his wall.  He sighs with pain, then looks away to where Hana has fallen asleep on the bed, almost on top of him.  He touches her.   He speaks as if each word burns him.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Could I ask you to move?  I'm sorry - but when you turn, the sheets, I can't really bear the sheets moving over me. Sorry.}
@@ -1280,9 +1280,9 @@
 <DIAL>__{Yes, of course, I'm so sorry. Stupid of me. Hana gets up, upset to have hurt him.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{I'm so sorry.}
-<LOC>__{97*.    INT.    THE MONASTERY KITCHEN.    NIGHT.}
+<LOC>__{97.    INT.    THE MONASTERY KITCHEN.    NIGHT.}
 <ACTION>__{Hana comes to the table, carrying a jug of water and a bowl.   She's still sad.  She unbuttons her dress, pulling it off her shoulder, begins to pour the water to cool herself against the night's pressing heat.}
-<LOC>__{98*.    EXT.    EMERGENCY FIELD HOSPITAL.   1944.    LATE DAY.}
+<LOC>__{98.    EXT.    EMERGENCY FIELD HOSPITAL.   1944.    LATE DAY.}
 <ACTION>__{The EMERGENCY FIELD HOSPITAL is a cluster of tents practically ahead of the Front Line SPORADIC GUN FIRE, LIGHT AND HEAVY, SOUNDS THROUGHOUT. Mary walks by on her way to the Nurse's tent.  It's 1944 and the war in Italy is still intense.}
 <LOC>__{INT.    EMERGENCY FIELD HOSPITAL TENT.    LATE DAY.}
 <ACTION>__{JAN is washing out of her HELMET, and stands naked in her socks.  Hana is using a flannel to wash Jan's back.  A couple of other girls like, exhausted, on their cots.  The mud is everywhere.  Another nurse is making tea out of an adapted plasma can on their tiny primus. MARY comes in and flops down.  She's GIVEN BLOOD and is pale and enervated.}
@@ -1387,7 +1387,7 @@
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(furious)}
 <DIAL>__{Please don't creep around this house.}
-<LOC>__{103*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{103.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Hana sits reading from the Herodotus.  She shows the Patient the page where a CHRISTMAS CRACKER WRAPPER covered in handwriting has been glued in.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Tell me about this, this is in your handwriting - December 22nd - Betrayals in war are childlike compared with our betrayals during peace.  New lovers are nervous and tender, but smash everything - for the heart is an organ of fire...}
@@ -1464,7 +1464,7 @@
 <DIAL>__{It's Geoffrey under this.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{I haven't, no.  Sorry.}
-<LOC>__{106a*.    INT.    SIDE ROOM IN AMBASSADOR'S RESIDENCE.    DAY.}
+<LOC>__{106a.    INT.    SIDE ROOM IN AMBASSADOR'S RESIDENCE.    DAY.}
 <ACTION>__{Geoffrey continues scouting the warren of tiny rooms that run off the central courtyard.  He finds Katharine sitting in one, smoking, surrounded by oppressive and elaborate tiling.  Clifton wonders briefly how Almasy had missed Katharine.}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{Darling, I just heard.  You poor sausage, are you all right?}
@@ -1497,7 +1497,7 @@
 <DIAL>__{What?}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL>__{Marzipan!  I think you've got marzipan in your hair.  No wonder you're homesick.}
-<LOC>__{107*.    INT.    THE PATIENT'S ROOM.    EVENING.}
+<LOC>__{107.    INT.    THE PATIENT'S ROOM.    EVENING.}
 <ACTION>__{The Patient lies alone in his room.  CLIFTON'S FACE stares back at him from among the frescoes.  Then something distracts him.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Are you outside?}
@@ -1530,7 +1530,7 @@
 <ACTION>__{HANA'S PIANO CONTINUES.  Upstairs, Caravaggio chats with the Patient while working his arms to RAISE A VEIN, a boot-lace tied around it, preparing an injection for himself, tapping the syringe.  During this:}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{I have come to love that little tap of the fingernail against the syringe.  Tap.}
-<LOC>__{110*.    INT.    MONASTERY LIBRARY.    DAY.}
+<LOC>__{110.    INT.    MONASTERY LIBRARY.    DAY.}
 <ACTION>__{Hana plays.  GUN SHOTS punctuates the music.  She's totally engrossed and only hears the second or third shot.  Her hands falter, she looks up to see A SIKH SOLDIER RUNNING ACROSS THE FIELD WAVING HIS ARMS, his REVOLVER held aloft.  He approaches the door, his face creased with anxiety, and raps on the shattered frame.  It's KIP. She gets up and walks past Kip standing at the door, and continues the seven or eight feet to the right and out into the garden VIA THE HOLE}
 <ACTION_ALT>__{RIPPED OUT OF THE WALL.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
@@ -1555,9 +1555,9 @@
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{I don't think so.}
 <ACTION>__{Hana bends to see what Kip's looking at under the piano.  Wires run from the wall to the instrument onto which is taped an EXPLOSIVE CHARGE.   If Hana had succeeded in moving the piano she would have triggered the charge.  Kip looks at Hana who conceals her dismay with a shrug.}
-<LOC>__{110a*.    EXT.    THE MONASTERY GARDEN.    DUSK.}
+<LOC>__{110a.    EXT.    THE MONASTERY GARDEN.    DUSK.}
 <ACTION>__{Across from the terrace, HARDY AND KIP ARE PUTTING UP THEIR TENTS. Caravaggio stands, chatting amiably to them, holding a haversack, smoking a cigarette.}
-<LOC>__{111*.    INT.    THE PATIENT'S ROOM.    DUSK.}
+<LOC>__{111.    INT.    THE PATIENT'S ROOM.    DUSK.}
 <ACTION>__{Hana looks down from the Patient's room, watching the tents go up.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{He wants us to move out, says there could be fifty more mines in the building. He thinks I'm mad because I laughed at him.  He's Indian, he wears a turban.}
@@ -1583,7 +1583,7 @@
 <DIAL>__{They have to clear all the local roads of mines.  That's a big job.  They won't stay in the house.  They're putting up their tent in the garden.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{In that case, I suppose we can't charge.}
-<LOC>__{112*.    INT.    OFFICE, BRITISH HQ.    CAIRO.    DAY.}
+<LOC>__{112.    INT.    OFFICE, BRITISH HQ.    CAIRO.    DAY.}
 <ACTION>__{A SMALL OFFICE, shared by two men, and a mountain of filing cabinets and paper.  There are AERIAL MAPS all over the walls.  Clifton is on the telephone, while his colleague, RUPERT DOUGLAS, works at the desk.}
 <CHAR>__{CLIFTON} <CHAR_PAR>__{}
 <DIAL_PAR>__{(into the phone)}
@@ -1734,7 +1734,7 @@
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Kip's another one.}
 <ACTION>__{She goes to the window, looks over to where the tents are pitched, sees Hardy shaving, Kip IN THE PROCESS OF WASHING HIS HAIR, his turban HANGING LIKE A RIBBON between two trees to dry.  He's perched a bowl on the sundial and is dipping his long coal-black hair into it.  As Hana watches Kip, Caravaggio changes the record.  The Patient identifies it immediately.}
-<LOC>__{121*.    EXT.    MONASTERY GARDEN.     MORNING.}
+<LOC>__{121.    EXT.    MONASTERY GARDEN.     MORNING.}
 <ACTION>__{Hana walks past the tent, and passes Hardy.  She's carrying a small cup, which she's a little furtive about.  He's carrying a whole armada of OIL LIGHTS.  He nods upstairs.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Hello.}
@@ -1832,12 +1832,12 @@
 <DIAL>__{Have either of you ever tried condensed milk sandwiches?}
 <LOC>__{125    DELETED. 126.                INT.    THE PATIENT'S ROOM.   MORNING.}
 <ACTION>__{Caravaggio and the Patient are singing - an Arab song which they both know from Cairo days.  THUNDER accompanies them.  It's pouring. Suddenly the door is flung open and HANA, KIP and HARDY appear.  They have the stretcher with them.}
-<LOC>__{127*.    EXT.    THE MONASTERY CLOISTERS.    MORNING.}
+<LOC>__{127.    EXT.    THE MONASTERY CLOISTERS.    MORNING.}
 <ACTION>__{A whoop precedes THE HEADLONG RUSH OF KIP, HARDLY and CARAVAGGIO as they cart the Patient across the Cloisters like manic stretcher- bearers.  Hana is with them, holding an umbrella over the Patient who bounces uncomfortably.  He is nervous, a little giddy.  The rain buckets down.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(no irony)}
 <DIAL>__{Careful - careful!}
-<LOC>__{127a*.    EXT.    THE MONASTERY GARDEN.    MORNING.}
+<LOC>__{127a.    EXT.    THE MONASTERY GARDEN.    MORNING.}
 <ACTION>__{The storm tour includes a trip around the pond.  The Patient pushes away the umbrella, lets the rain drench him.   He grins at Hana.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{This is wonderful!}
@@ -1846,7 +1846,7 @@
 <DIAL>__{What's he saying?}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{He's saying it's wonderful!}
-<LOC>__{128*.    INT.  LIBRARY OF THE DEPARTMENT OF EGYPTOLOGY.  DAY.}
+<LOC>__{128.    INT.  LIBRARY OF THE DEPARTMENT OF EGYPTOLOGY.  DAY.}
 <ACTION>__{Madox and Almasy are camped in one corner of THE LIBRARY, hunched over their maps and papers and journals and clashing furiously over the site of the next part of the expedition.}
 <CHAR>__{MADOX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(pushing away his charts)}
@@ -1912,7 +1912,7 @@
 <ACTION>__{They watch the screen.  Katharine is weeping.  Almasy doesn't understand.  He puts his arm around her.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{I can't do this, I can't do this any more.}
-<LOC>__{131*.    EXT.    GROPPI PARK.    CAIRO.    EVENING.}
+<LOC>__{131.    EXT.    GROPPI PARK.    CAIRO.    EVENING.}
 <ACTION>__{A man walks round with A HAND BELL - announcing that the Park is closing.  He turns off the gaslights which illuminate the animal cages. Almasy and Katharine sit stiffly on a bench.  They don't speak.  Almasy puts his hands to his head, he rubs his shoulders.  The lights are gradually being extinguished around them.}
 <DIAL>__{Finally, Katharine gets up.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
@@ -1935,7 +1935,7 @@
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{You will.  You will.}
 <ACTION>__{Then she turns sharply from him and catches her head against the gatepost, staggers at the shock of it, then hurries away.}
-<LOC>__{132*.    INT.    THE PATIENT'S ROOM.    MORNING.}
+<LOC>__{132.    INT.    THE PATIENT'S ROOM.    MORNING.}
 <ACTION>__{Hana sits with the English Patient - the room shuttered against the morning light.  His breathing is noticeably worsening, a shudder of a breath, the shallow rise and fall of his chest perceptible.  Hana frets, touches his wrist, feeling for the pulse.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{I'm still here.}
@@ -1951,7 +1951,7 @@
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{It's the boy.}
 <ACTION>__{Hana goes to the window, opens the shutters.  The day pours in.}
-<LOC>__{132A*.    EXT.    MONASTERY OLIVE GROVES.    DAY.}
+<LOC>__{132A.    EXT.    MONASTERY OLIVE GROVES.    DAY.}
 <ACTION>__{Hana sees Kip - barely visible - standing at the far perimeter of the garden in the olive groves, HIS HANDS RAISED ABOVE HIM, HIS LEG HELD OUT STRANGELY.  WIRES run from his foot in all directions as if he'd trodden in some elaborate steel cobweb.}
 <LOC>__{EXT.    MONASTERY OLIVE GROVES.    DAY.}
 <ACTION>__{Hana appears at the edge of the Olive groves and hurries towards Kip, who hasn't moved.  He shouts warning her.}
@@ -2060,14 +2060,14 @@
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Hold the ends.}
 <ACTION>__{The Patient holds them.  Caravaggio walks backwards, the bandages unraveling and unraveling.}
-<LOC>__{141*.    INT.  TOBRUK.  BRITISH HEADQUARTERS.  JUNE 1942.  DAY.}
+<LOC>__{141.    INT.  TOBRUK.  BRITISH HEADQUARTERS.  JUNE 1942.  DAY.}
 <ACTION>__{Caravaggio, thumbs intact and wearing a crumpled linen suit, walks through the mangled corridors of British HQ.  Smoke is rising from buildings, the ominous scream of Stuka dive-bombers in the distance as the harbor is pounded, the steady thud of explosions.  TOBRUK IS UNDER SIEGE.  BHQ is a place in the throws of dismantling itself. SECRETARIES are visiting braziers manned by ARAB BOYS who stoke the fires as boxes of papers are fed into them.  ASHES hover in the air.}
-<LOC>__{142*.    INT.   BHQ.    TOBRUK.    DAY.}
+<LOC>__{142.    INT.   BHQ.    TOBRUK.    DAY.}
 <ACTION>__{Caravaggio walks through a large room crowded with desks.  From one of them, a young woman, AICHA, kisses him, frowning at the chaos and the shelling.}
 <CHAR>__{AICHA} <CHAR_PAR>__{}
 <DIAL>__{He's waiting for you.}
 <ACTION>__{Some doors are open, revealing men and women in uniform urgently SHREDDING DOCUMENTS.  Caravaggio knocks at an office whose door is ajar and where the incumbent, FENELON-BARNES, is stripping the room of his personal possessions-  photographs, stone branches, a cricket bat.}
-<LOC>__{142a*.    INT.   FENELON-BARNES OFFICE.   BHQ.   TOBRUK.   DAY.}
+<LOC>__{142a.    INT.   FENELON-BARNES OFFICE.   BHQ.   TOBRUK.   DAY.}
 <ACTION>__{Caravaggio enters.}
 <DIAL>__{FENELON-BARNES}
 <DIAL_PAR>__{(barely looking up)}
@@ -2077,7 +2077,7 @@
 <DIAL_PAR>__{(then, awkward)}
 <DIAL>__{Look, Moose, we need you to stay in Tobruk.  A bit of a short straw but the thinking is we'll be back - I mean, we will be back - but...and in the interim we need eyes and ears on the ground.}
 <ACTION>__{A BIG BOMB lands nearby.  The building shudders and plaster dust drops from the ceiling.  Almost oblivious, the two men head out of the office.  Fenelon-Barnes lugs the TRUNK last glimpsed in his tent by Almasy, until Caravaggio takes over.}
-<LOC>__{143*.    INT. CORRIDOR OF BRITISH HEADQUARTERS. TOBRUK. DAY.}
+<LOC>__{143.    INT. CORRIDOR OF BRITISH HEADQUARTERS. TOBRUK. DAY.}
 <ACTION>__{Fenelon-Barnes and Caravaggio make their way down the stairs and to the entrance.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{We have 30, 000 troops in Tobruk. What are they going to be doing? FENELON-BARNES}
@@ -2086,22 +2086,22 @@
 <ACTION>__{AICHA is at the bottom of the stairs.  She falls into step.}
 <DIAL>__{FENELON-BARNES Jerry's got our maps you know.  Swines. Before the war we helped them run about the desert making maps - and now they get spies into Cairo using our maps, they'll get Rommel into Cairo using our maps. The whole of the desert like a bus route and we gave it to them.   Any foreigner who turned up - welcome to the Royal Geographic, take our maps.  Madox went mad, you know - you knew Peter Madox? - after he found out he'd been betrayed by his friend. Absolutely destroyed the poor sod.  Shot himself in a church in Dorset.}
 <ACTION>__{Caravaggio opens the door, Fenelon-Barnes goes through.}
-<LOC>__{144*.    EXT.    BRITISH HEADQUARTERS.    TOBRUK.    DAY.}
+<LOC>__{144.    EXT.    BRITISH HEADQUARTERS.    TOBRUK.    DAY.}
 <ACTION>__{The Fenelon-Barnes trunk is taken from Caravaggio and joins the pile of luggage and artifacts, which wait to be shipped out.}
 <DIAL>__{FENELON-BARNES I'd like to get that bastard Almasy - settle the score, eh?  That's my fantasy - said he, clearing out. Must have been a spy all along.}
-<LOC>__{145    DELETED. 146*.    EXT.    TOBRUK DOCKSIDE.    DAY.}
+<LOC>__{145    DELETED. 146.    EXT.    TOBRUK DOCKSIDE.    DAY.}
 <ACTION>__{A GERMAN TROOP CARRIER rumbles forward passing a line of BEDRAGGLED BRITISH POWS as they're marched along the side of harbor.}
-<LOC>__{146a*. EXT.    TOBRUK RUINED QUARTER.    DAY.}
+<LOC>__{146a. EXT.    TOBRUK RUINED QUARTER.    DAY.}
 <ACTION>__{A HILL OF SALVAGED ARMY BOOTS is being explored by a couple of GERMAN SOLDIERS in search of better footwear.  Below them the POWS trudge by, one of them barefoot.  ONE OF THE GERMANS tosses down a pair of boots then continues his own perusal.}
-<LOC>__{146b*. EXT.    TOBRUK SQUARE.    DAY.}
+<LOC>__{146b. EXT.    TOBRUK SQUARE.    DAY.}
 <ACTION>__{A crowd of Tobruk CIVILIANS - French and Italians among the MOSTLY ARAB FACES.  Their papers are being thoroughly checked by officers sitting at open desks. IN A LINE, WEARING HIS SHABBY SUIT, IS CARAVAGGIO.  AN ARAB WOMAN in front of him is arguing over the identity of her ominously CAUCASIAN-LOOKING CHILD.  An INTERPRETER mediates.  The OFFICER doesn't believe the woman.  She's getting frantic at the possibility of losing her child. Suddenly there's a disturbance as a WOMAN is dragged along the line by her hair.  She's bloodied, and has been tortured, and it's hard to recognize her as the pretty AICHA.  She touches a couple of people in the line.  They're horrified.  Soldiers pull them away.  Caravaggio doesn't look, stares straight ahead.  An officer watches him AS HE}
 <ACTION_ALT>__{TURNS BRIEFLY AND HELPLESSLY OUT OF CONCERN FOR HER.  THEIR EYES CATCH FOR AN INSTANT AND THE OFFICER SEES IT.}
 <ACTION>__{CARAVAGGIO RUNS, bolts for cover, vaulting the rubble which blocks one corner of the square.  The CONGREGATION throws itself to the ground until the square has only standing soldiers and a running man.}
-<LOC>__{146c*. EXT.   TOBRUK.   INTERIOR OF RUINED BUILDING.   DAY.}
+<LOC>__{146c. EXT.   TOBRUK.   INTERIOR OF RUINED BUILDING.   DAY.}
 <ACTION>__{Shots pursue Caravaggio as he disappears behind the rubble, then bobs up again as he darts inside a blasted building.  He clambers up some ruined stairs, heaves over the wall.}
-<LOC>__{146d*. EXT.   TOBRUK.   FACADE OF RUINED BUILDING.   DAY.}
+<LOC>__{146d. EXT.   TOBRUK.   FACADE OF RUINED BUILDING.   DAY.}
 <ACTION>__{CARAVAGGIO grabs a metal bar on the facade of the building, from which he hangs, looking for the next foothold.  Soldiers appear along the top of the building, shouting, rifles ready.  AN OFFICER arrives and stops the soldiers firing, and the others begin to laugh as Caravaggio hangs from the bar fifteen feet above a balcony, slowly losing his strength. Another SOLDIER waits for him in the balcony below.  Now he starts to laugh.  Caravaggio hangs.}
-<LOC>__{147*.    INT. INTERROGATION ROOM. TOBRUK. NOVEMBER 13,1942. DAY.}
+<LOC>__{147.    INT. INTERROGATION ROOM. TOBRUK. NOVEMBER 13,1942. DAY.}
 <ACTION>__{Caravaggio is slumped at a table, HIS HANDS MANACLED TO ITS THICK WOODEN LEGS.  There's A TELEPHONE at another table in the corner of the room attended by a CLERK with A STENOGRAPHER working next to him.  The room has stone walls which appear damp, and no windows.  SOLDIERS stand guard at the door.  It's a horrible room.  Caravaggio is trying to sleep, he's unshaven, and pasty-looking.  His interrogator, Muller, seems incredibly tired and aggravated.  He's on the phone.}
 <CHAR>__{MULLER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in German)}
@@ -2218,14 +2218,14 @@
 <ACTION>__{The nurse, horrified, shakes her head.  Muller snatches the razor from her and heads towards the prostate Caravaggio. One Guard has got to his feet and grips Caravaggio around the neck in half-nelson, others holding his legs, while Muller approaches. Caravaggio can't move.  He's gurgling as the Guard almost strangles him.  His eyes are streaming with tears. Now Muller is at his other hand, and the ROAR of pain again lifts Caravaggio to his feet, THE WHOLE TABLE RISING IN THE AIR, his mutilated hands slipping from the handcuffs lie Houdini, the drawers of the table SPILLING their contents everywhere, before he sinks to his knees like a gored bull and BLACKS OUT.}
 <LOC>__{INT.    INTERROGATION ROOM.    TOBRUK.    DAY.}
 <ACTION>__{LATER, and Caravaggio comes round.  His eyes open and then his face spasms with pain.  He looks down at his ruined hands, then realizes he's alone on the floor of the room, the papers still scattered, the table on its side.  He gets up and staggers out of the open door and up the stairs.}
-<LOC>__{149*.    INT.  STAIRS FROM INTERROGATION ROOM.  TOBRUK.   DAY.}
+<LOC>__{149.    INT.  STAIRS FROM INTERROGATION ROOM.  TOBRUK.   DAY.}
 <ACTION>__{The corridor is deserted, but the body of a GERMAN SOLDIER sprawls on the stairs leading up to daylight.  Outside Caravaggio can hear fighting.}
-<LOC>__{150*.    EXT.    ROOF.    INTERROGATION BUILDING.    DAY.}
+<LOC>__{150.    EXT.    ROOF.    INTERROGATION BUILDING.    DAY.}
 <ACTION>__{Caravaggio walks unsteadily along the roof of the building.  Grey and yellow gusts of smoke and the rat-ta-tat-tat of machine gun fire accompany him, and there's the sound of vehicles screeching and people shouting nearby, but no visual clues as to what's happening.}
 <ACTION_ALT>__{SUDDENLY A PARACHUTE FLOATS DOWN BY HIM.  THEN ANOTHER.  THEN ANOTHER.}
 <ACTION>__{HE'S SURROUNDED BY PARACHUTES.  THE BRITISH ARE RECLAIMING TOBRUK.  A PARATROOPER LANDS ON THE ROOF, AND GESTURES TO CARAVAGGIO TO RAISE HIS}
 <ACTION_ALT>__{HANDS.  HE SLOWLY DOES SO.}
-<LOC>__{151*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{151.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{Caravaggio stands in front of the bed, holding up his NAKED HANDS to the Patient, like a man surrendering - two flaps like gills where his thumbs were.  The Patient reaches out to take his hands and gently lowers them.  Caravaggio finds his bandages, start to wrap them back round his fists.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{The man who took my thumbs, I found him eventually - he's dead.  The man who took my photograph, I found him too - that took me a year.  He's dead.  Another man took that man across the desert to Cairo.  Now I intend to find him.}
@@ -2272,9 +2272,9 @@
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(darkly)}
 <DIAL>__{Absolutely right, shut up.  Lashings of apologies all round.}
-<LOC>__{153*.    EXT.    AMBASSADOR'S RESIDENCE.    NIGHT.}
+<LOC>__{153.    EXT.    AMBASSADOR'S RESIDENCE.    NIGHT.}
 <ACTION>__{Later, now MOST OF THE GROUP ARE DANCING.  We see Katharine dancing with Rupert Douglas, enjoying herself.  Bermann is there and even Madox jogging and grinning foolishly.  Clifton looks at Katharine who, as the dance ends, excuses herself to go to the cloakroom.  Almasy hovers in the shadows, unseen.}
-<LOC>__{154*.    INT.    AMBASSADOR'S RESIDENCE.    NIGHT.}
+<LOC>__{154.    INT.    AMBASSADOR'S RESIDENCE.    NIGHT.}
 <ACTION>__{Katharine comes along the familiar warren of rooms and corridors and is suddenly confronted by Almasy, tortured and out of control.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Why did you hold his collar?}
@@ -2312,7 +2312,7 @@
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Would you like me to?}
 <ACTION>__{He nods.  She gets up, touches his hand, then leaves.}
-<LOC>__{156*.    INT.    THE MONASTERY, LANDING AND STAIRS.    NIGHT.}
+<LOC>__{156.    INT.    THE MONASTERY, LANDING AND STAIRS.    NIGHT.}
 <ACTION>__{Hana leaves the room, then turns and sees A TINY LAMP on the floor, it's made from a SNAIL SHELL and oil.  She bends to it curiously, then sees a second lamp half-way down the stairs, then a third further down. She smiles in the light, then follows the trail.}
 <LOC>__{EXT.    THE MONASTERY CLOISTERS.    NIGHT.}
 <ACTION>__{In the Cloisters THE TRAIL OF SHELL LAMPS CONTINUES, like tiny cat's eyes.  As they reach the hopscotch chalk marks, they outline the squares.  Hana HOPSCOTCHES and then follows the light, disappearing round a corner.}
@@ -2473,11 +2473,11 @@
 <DIAL>__{and us - he never once... He didn't ask me if I could spin the ball at cricket or the kamasutra or - I don't even know what I'm talking about.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{You loved him.}
-<LOC>__{169*.    INT.    THE PATIENT'S ROOM.    EVENING.}
+<LOC>__{169.    INT.    THE PATIENT'S ROOM.    EVENING.}
 <ACTION>__{Caravaggio, reading Dante aloud in Italian, smoking, walks over to the window, looks out.}
-<LOC>__{169*.    EXT.    KIP'S TENT.    EVENING.}
+<LOC>__{169.    EXT.    KIP'S TENT.    EVENING.}
 <ACTION>__{Hana is approaching Kip's tent, carrying a light.  She ducks inside the tent and the light disappears.}
-<LOC>__{169b*.    INT.    THE PATIENT'S ROOM.    EVENING.}
+<LOC>__{169b.    INT.    THE PATIENT'S ROOM.    EVENING.}
 <ACTION>__{Caravaggio turns back into the room, towards the Patient, still reading.}
 <LOC>__{INT.    KIP'S TENT.    NIGHT.}
 <ACTION>__{Hana lies over Kip, unraveling his turban, slowly, sensual.}
@@ -2496,7 +2496,7 @@
 <ACTION>__{But she continues unraveling the turban.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Then I tell myself he spends all day searching, in the night he wants to be found.}
-<LOC>__{171*.    EXT.   BASECAMP AT THE CAVE OF SWIMMERS.  1939.  DAY.}
+<LOC>__{171.    EXT.   BASECAMP AT THE CAVE OF SWIMMERS.  1939.  DAY.}
 <ACTION>__{The Expedition Team is packing up the Basecamp.  Madox and Almasy are loading things into the plane.  FOUAD, AL AUF and others work at the cars.}
 <CHAR>__{MADOX} <CHAR_PAR>__{}
 <DIAL>__{Had a letter from my wife.  The wisteria is still out, which I'm looking forward to.  She says Dorset is gripped with Invasion Fever.  Wrong coast I should have thought, still...}
@@ -2539,19 +2539,19 @@
 <DIAL_PAR>__{(then shrugs)}
 <DIAL>__{You'll never come to Dorset.}
 <ACTION>__{The plane roars into life.  Almasy watches it taxi away - then heads back to continue with his packing up.}
-<LOC>__{172*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{172.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{MADOX SHOOTS HIMSELF BEHIND THE ALTAR IN THE ROOM.  The Patient's stertorous breathing, each intake accompanied by a small noise, a note, suddenly stops.  Then steadies again.  He appears to be alone.}
 <LOC>__{EXT.    GARDEN.    NIGHT.}
 <ACTION>__{Kip is in the tent, looking out of the flap, waiting for Hana.}
-<LOC>__{174*.    INT.    THE MONASTERY KITCHEN.    NIGHT.}
+<LOC>__{174.    INT.    THE MONASTERY KITCHEN.    NIGHT.}
 <ACTION>__{Kip walks in looking for Hana.}
-<LOC>__{174a*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{174a.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{Kip enters, sees Hana is not with the Patient, hears his uneven breathing, then goes out.  From the shadows of the room, CARAVAGGIO shifts position.   He's slumped on the floor, staring at the man prone in the bed.}
-<LOC>__{174b*.    INT.    HANA'S ROOM.    NIGHT.}
+<LOC>__{174b.    INT.    HANA'S ROOM.    NIGHT.}
 <ACTION>__{Into her bedroom, Kip can't find her there either.  He turns to go, walking down the wooden stairs, until her voice stops him in his tracks.  She's in the shadows of the eaves.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{Sometimes I need you to find me.}
-<LOC>__{175*.    INT.    THE PATIENT'S ROOM.     NIGHT.}
+<LOC>__{175.    INT.    THE PATIENT'S ROOM.     NIGHT.}
 <ACTION>__{The Patient's eyes open to see Caravaggio at the morphine.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Hana tells me you're leaving.}
@@ -2599,9 +2599,9 @@
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(a bitter laugh)}
 <DIAL>__{Is that what you thought?  That I betrayed the British?  The British betrayed me.  The British betrayed me.}
-<LOC>__{176*.    EXT.   BASECAMP AT CAVE OF SWIMMERS.   1939.   DAY.}
+<LOC>__{176.    EXT.   BASECAMP AT CAVE OF SWIMMERS.   1939.   DAY.}
 <ACTION>__{Almasy sits on a ridge transferring map of information from his Herodotus onto a sheet of paper.  He looks up at the sound of Clifton's approaching Steerman.  He folds up the map and sticks it inside one of Clifton's CHAMPAGNE BOTTLES and lodges it between the rocks.}
-<LOC>__{176a*.    INT.    STEERMAN.    DAY.}
+<LOC>__{176a.    INT.    STEERMAN.    DAY.}
 <ACTION>__{Clifton is flying the STEERMAN up to Gilf Kebir.  From the air it's possible to make out Almasy scrambling down from the ridge towards where the stones indicate a landing area, carrying the last of the materials from the Cave of Swimmers.  Almasy waves in recognition and welcome.}
 <LOC>__{EXT.   BASECAMP AT THE CAVE OF SWIMMERS.   DAY.}
 <ACTION>__{Almasy watches as the plane drops towards him, shielding his eyes against the sun.  the plane bounces along the runway, not quite landing.  Almasy continues packing the equipment. Almasy looks up to see the plane swerve, now suddenly HEADING STRAIGHT TOWARDS HIM.  He's completely vulnerable, nowhere to run.  He dives at the ground.  THE PLANE SMASHES AGAINST AN INVISIBLE RIDGE AND TURNS OVER AND OVER, the wings snapping off like twigs as it hurtles past the prostrate Almasy.  He gets to his feet and starts to run towards the wreckage. A blue line of smoke is uncoiling from the plane, but no fire.  Almasy pulls away the debris to find  GEOFFREY - SLUMPED, NECK BROKEN, BLOODY. He tries to move him, and in the process reveals, to his ABSOLUTE horror, KATHARINE, STARING GRIMLY AHEAD, UNABLE TO MOVE.  He's frantic.}
@@ -2650,7 +2650,7 @@
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{Of course.  You idiot.  I always wear it. I've always worn it.  I've always loved you.}
 <ACTION>__{Almasy CRIES as he walks - huge sobs, no words - convulsed with the pain of it.  They approach the Cave.}
-<LOC>__{179*.    INT.    CAVE OF SWIMMERS.    DAY.}
+<LOC>__{179.    INT.    CAVE OF SWIMMERS.    DAY.}
 <ACTION>__{Almasy comes through in shadows, carrying Katharine, blocking out the light that pours into the entrance of the cave.  Once inside, he sets her down incredibly gently, makes a bed of blankets and the parachute. He turns on his flashlight.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{It's so cold.}
@@ -2661,7 +2661,7 @@
 <DIAL>__{Don't leave me!}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{I'm just going to find things for the fire.}
-<LOC>__{179a*.    INT.    CAVE OF SWIMMERS.    TORCHLIGHT.}
+<LOC>__{179a.    INT.    CAVE OF SWIMMERS.    TORCHLIGHT.}
 <ACTION>__{Almasy returns with the stocks of ACACIA TWIGS the Expedition had cached.  As he makes the fire, the light sends his shadow flitting across the walls.}
 <CHAR>__{KATHARINE} <CHAR_PAR>__{}
 <DIAL>__{Shall we be all right?}
@@ -2714,13 +2714,13 @@
 <DIAL>__{I stopped at noon and at twilight. Three days there, I told her, then three hours back by jeep.  Don't go anywhere.  I'll be back.}
 <LOC>__{EXT.    THE DESERT.    DAWN.}
 <ACTION>__{He trudges on, his eyes opening and closing.  He's singing to keep awake.  Darktown Strutter's Ball. - I'll be down to get you in the taxi, honey...  He does a little shuffle.  Looks behind at the crazy trail of his footprints.}
-<LOC>__{182a*.    EXT.    THE CHOTT.    DAWN.}
+<LOC>__{182a.    EXT.    THE CHOTT.    DAWN.}
 <ACTION>__{A vast flat expanse of dried salt lake.  A remorseless horizon.  Almasy walks, checking the compass, squinting at the sun.  then he sees a cloud of dust traveling across the horizon.  It comes closer moving at great speed, reveals itself.  An OSTRICH.}
 <LOC>__{EXT.    WELL.    DAY.}
 <ACTION>__{Almasy lowers himself by an old rope down into a gully.  He approaches a pile of stones and removes them to reveal a brackish pool of filthy water.  He drinks, pouring water over his head, grimacing at the taste, but parched too.}
-<LOC>__{184*.    EXT.    APPROACHING EL TAJ.    DAY.}
+<LOC>__{184.    EXT.    APPROACHING EL TAJ.    DAY.}
 <ACTION>__{Almasy gets his first sight of the fortress town of EL TAJ and sinks to his knees, in relief and exhaustion.  Then he gets up and trudges towards the town.  A CORPORAL with a rifle in his hands appears.}
-<LOC>__{184a*.    INT.    EL TAJ.    DAY.}
+<LOC>__{184a.    INT.    EL TAJ.    DAY.}
 <ACTION>__{The Corporal brings Almasy into a square.  A young OFFICER appears from the shadows of his office.  His JEEP is parked in the shade.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Good morning!}
@@ -2766,7 +2766,7 @@
 <DIAL_PAR>__{(snapping)}
 <DIAL>__{No!  NO!  Don't radio anybody, just give me the fucking jeep!}
 <ACTION>__{Almasy sets on the Officer, hauling him by the lapels, but them immediately loses his balance.  As he stumbles up he gets the stock of the Corporal's RIFLE across his head, KNOCKING HIM TO THE GROUND.}
-<LOC>__{185*.    EXT.   EL TAJ STREET.    DAY.}
+<LOC>__{185.    EXT.   EL TAJ STREET.    DAY.}
 <ACTION>__{Almasy, head pounding, is in the back of the jeep, chained to the tailgate.  He's desperate.  The Corporal is driving.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouting hoarse)}
@@ -2786,9 +2786,9 @@
 <DIAL>__{Let me out, let me out, let me out - Katharine!  Katharine!}
 <LOC>__{INT.    CAVE OF SWIMMERS.    TORCHLIGHT.}
 <ACTION>__{Katharine has been writing in the Herodotus.  The torchlight FLICKERS. She shakes the torch.   It FLICKERS again.  Then goes out.  Absolute BLACKNESS.  The sound of her trembling breath.}
-<LOC>__{187*.    EXT.    A TRAIN.    THE DESERT.    DUSK.}
+<LOC>__{187.    EXT.    A TRAIN.    THE DESERT.    DUSK.}
 <ACTION>__{A TRAIN scuttles through the desert.}
-<LOC>__{187a*.    INT.    THE TRAIN.    THE DESERT.    DUSK.}
+<LOC>__{187a.    INT.    THE TRAIN.    THE DESERT.    DUSK.}
 <ACTION>__{Almasy is HANDCUFFED to the metal grille of the goods compartment. He's lying down amongst a bunch of other prisoners and their little bundles of possessions in this makeshift cell - some Arabs, some Italians. A SERGEANT pushes a lavatory-bound prisoner along the corridor, leaving behind A YOUNG PRIVATE who sits on a packing case, with a rifle across his lap, reading a Penguin edition of Gulliver's Travels.  Almasy is in complete despair to be on the train.  He tries to move, but he's locked tight to the grille.  He rattles the cuffs against the metal.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{Excuse me.}
@@ -2815,7 +2815,7 @@
 <ACTION>__{Almasy arrives at the rear of the train, passes the Kitchen carriage, where Arabs sweat over the boiler.  He pulls open the back door only to surprise a GUARD, who's lolling casually, enjoying the sunset.  Almasy SHOOTS HIM with his stole rifle.  He clambers over the guard rail and leaps off the train - tumbling into the desert sunset.}
 <LOC>__{EXT.    RAILWAY TRACK.    THE DESERT.    EVENING.}
 <ACTION>__{Almasy, silhouetted against the evening sky, walks back down the track, THREE HUNDRED MILES AWAY from the dying Katharine Clifton, no way now of saving her.  He is a tiny speck in the vast desert.  His heart broken.  He sinks to his knees in despair.}
-<LOC>__{191*.    INT.    THE PATIENT'S ROOM.    NIGHT.}
+<LOC>__{191.    INT.    THE PATIENT'S ROOM.    NIGHT.}
 <ACTION>__{The Patient is exhausted.  He has said aloud what has tortured him. His failure to save Katharine.  He looks at Caravaggio.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{So yes.  She died because of me. Because I loved her.  Because I had the wrong name.}
@@ -2839,7 +2839,7 @@
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(teasing him)}
 <DIAL>__{Nya-nya-nya!}
-<LOC>__{193*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{193.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Caravagio is injecting the Patient with morphine.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{And did you never see Katharine?  You never got back to the Cave?}
@@ -2849,7 +2849,7 @@
 <ACTION>__{Kip hammers the metal into its new shape.  He stops, distracted by something he's listening to on his crystal set.  It's new he seems not to fully understand, about a bomb dropping on Japan.  A NEW KIND OF}
 <ACTION_ALT>__{BOMB. THE METAL GLOWS A VIVID RED ON THE ANVIL.}
 <ACTION>__{Suddenly Kip slops it into the trough of water, sending a great hissing column of steam.}
-<LOC>__{195*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{195.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{Caravaggio sits by the Patient.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{You get to the morning and the poison leaks away, doesn't it? Black nights, fucking black nights, when you want to howl like a dog. I thought I would kill you.  You killed my friends, you ruined my hands.  But the girl was always here, like some Guardian Angel.}
@@ -2935,7 +2935,7 @@
 <DIAL>__{Then come with me.}
 <LOC>__{EXT.    THE MONASTERY.    DAY.}
 <ACTION>__{Next morning and Kip has attached what he was making in the forge - A NEW HANDLE - to the pump.  Now he works it, producing a steady stream of water.  His motorbike is against the wall.  He goes to it. Caravaggio is watching.  He hugs Kip, wrapping his arms around the boy like a bear.}
-<LOC>__{199a*.    EXT.    HANA'S VEGETABLE GARDEN.    DAY.}
+<LOC>__{199a.    EXT.    HANA'S VEGETABLE GARDEN.    DAY.}
 <ACTION>__{HANA stands by her Vegetable Garden.  Kip stops the motorbike.  She goes to him, stands, FASTENS THE TOP BUTTON of his coat.  You feel she might jump on the seat behind him.  But she doesn't.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{I'll always go back to that church. Look at my painting.}
@@ -2951,7 +2951,7 @@
 <ACTION>__{She kisses him, gently on the mouth.  He closes his eyes.}
 <CHAR>__{THE PATIENT} <CHAR_PAR>__{}
 <DIAL>__{Read to me, will you?  Read me to sleep.}
-<LOC>__{201*.    EXT.(NEAR THE) BASECAMP. CAVE OF SWIMMERS. 1942. DAY.}
+<LOC>__{201.    EXT.(NEAR THE) BASECAMP. CAVE OF SWIMMERS. 1942. DAY.}
 <ACTION>__{The familiar cleft in the rocks.  A PLANE is coming in to land.}
 <LOC>__{INT.    CAVE OF SWIMMERS.    TORCHLIGHT.}
 <ACTION>__{A flashlight flickers in the cave.  ALMASY APPEARS. KATHARINE'S CORPSE lies where he left her - a ghost on a bed of silk and blankets.  The chill of the cave has preserved her.  She could be asleep.  She clutches the Herodotus.}
@@ -2960,7 +2960,7 @@
 <ACTION>__{He sobs, whispering to her.  He's terribly cold, exhausted.  He slips underneath the covers to be next to her, and closes his eyes.}
 <CHAR>__{ALMASY} <CHAR_PAR>__{}
 <DIAL>__{I'm so tired.}
-<LOC>__{203*.    INT.    THE PATIENT'S ROOM.    DAY.}
+<LOC>__{203.    INT.    THE PATIENT'S ROOM.    DAY.}
 <ACTION>__{The Patient is slipping away.  Hana is reading from the last pages of the Herodotus where KATHARINE HAS WRITTEN IN THE MARGINS.}
 <CHAR>__{HANA} <CHAR_PAR>__{}
 <DIAL>__{My darling, I'm waiting for you - how long is a day in the dark, or a week?}
@@ -2976,20 +2976,20 @@
 <ACTION>__{THE BED IS EMPTY, THE MATTRESS STRIPPED.  Hana stands in the doorway, then sees THE HERODOTUS on the bedside table. She picks it up, goes to the page of Katharine's letter, continues to read.}
 <DIAL_PAR>__{KATHARINE (O/S)}
 <DIAL>__{We die, we die rich with lovers and tribes, tastes we have swallowed...}
-<LOC>__{206*.    EXT.    LANE OUTSIDE THE MONASTERY GARDEN.    DAY.}
+<LOC>__{206.    EXT.    LANE OUTSIDE THE MONASTERY GARDEN.    DAY.}
 <ACTION>__{Caravaggio is at the gate to the Monastery.  The TRUCK we saw before is waiting with him.  The PARTISAN with his head bandana and shotgun remains the same, but now there are CHILDREN in the back and a WOMAN sits behind the man, nursing a two-year-old.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Hana!  Come on!}
 <ACTION>__{He gets up into the BALUSTRADE, tentatively finds his balance, then starts to walk, heel to toe - slowly, and then with more confidence - along the long thin line of stone.  The children watch intently.  He turns and bows.}
 <DIAL_PAR>__{KATHARINE (O/S)}
 <DIAL>__{...bodies we have entered and swum up like rivers, fears we have hidden in like this wretched cave...}
-<LOC>__{207*.    EXT.    THE MONASTERY CLOISTERS.    DAY.}
+<LOC>__{207.    EXT.    THE MONASTERY CLOISTERS.    DAY.}
 <ACTION>__{Hana walks across the cloisters, passing the chalked hopscotch squares, leaving it all behind.  Then she stops, bends, retrieves A SNAIL SHELL, keeps going.  KATHARINE'S VOICE CONTINUES.}
 <LOC>__{INT.    THE CAVE OF SWIMMERS.    TORCHLIGHT.}
 <ACTION>__{ALMASY SMUDGES KATHARINE'S PALE FACE WITH COLOR.  OCHRE across her brow, BLUE on her eyelids, RED on her lips.  He presses his cheek to hers, smoothes her hair.}
 <DIAL_PAR>__{KATHARINE (O/S)}
 <DIAL>__{...I want all this marked on my body. We are the real countries, not the boundaries drawn on maps with the names of powerful men...}
-<LOC>__{209*.    EXT.    THE LANE OUTSIDE MONASTERY GARDEN.    DAY.}
+<LOC>__{209.    EXT.    THE LANE OUTSIDE MONASTERY GARDEN.    DAY.}
 <ACTION>__{KATHARINE'S VOICE CONTINUES.  Hana comes out to the truck, carrying her small bundle.  Caravaggio effects some introduction, beginning with the woman driver, Gioia.  She and Caravaggio smile like lovers.}
 <CHAR>__{CARAVAGGIO} <CHAR_PAR>__{}
 <DIAL>__{Hana - this is Gioia.}

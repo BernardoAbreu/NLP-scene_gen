@@ -224,7 +224,7 @@
 <CHAR>__{GORDON} <CHAR_PAR>__{}
 <DIAL>__{Watch the swirling spiral!   Lie down, bad dog!}
 <ACTION>__{As Gordon notices that his contraption's failed...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FAT-CAN'S - BOUDOIR - GORDON/DORA}
 <ACTION>__{is busy trying to get the spiral going again, doesn't see McGrath reach for his boot knife. Just as the deranged general's about to plunge it into Gordon/Dora... ... the WINDOW EXPLODES. Jim West comes tumbling into the room, kicks the knife out of McGrath's hand in one smooth move. West rolls to his feet, fixes a gallant smile on Gordon/Dora.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
@@ -1169,7 +1169,7 @@
 <DIAL>__{I'll spare you.}
 <DIAL_PAR>__{(to Rita)}
 <DIAL>__{Make yourself a sandwich to take with you. You're getting off.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                   &}
 <LOC>__{84 INT. WANDERER - PARLOR CAR - NIGHT}
 <ACTION>__{Rita hasn't even waited for anyone's approval to start eating. West shakes his head at her chutzpa.}
@@ -1284,7 +1284,7 @@
 <CHAR>__{GORDON} <CHAR_PAR>__{}
 <DIAL>__{Did I?   No...}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WANDERER - PARLOR CAR - DAY}
 <ACTION>__{Gordon and West react as Coleman's voice booms out of the pipe.}
 <CHAR>__{COLEMAN } <CHAR_PAR>__{(V.O.)}
@@ -1319,7 +1319,7 @@
 <CHAR>__{LOVELESS} <CHAR_PAR>__{}
 <DIAL>__{Amazonia, shall we disabuse our friends of the notion that one's problems are solved when we see the light at the end of the tunnel!}
 <ACTION>__{As Munitia swivels the cannon barrel...}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                  thru}
 <LOC>__{97 INT. WANDERER - PARLOR CAR - DAY}
 <ACTION>__{West and Gordon are about to head forward when Gordon glances out the back, grabs West.}
@@ -1330,7 +1330,7 @@
 <ACTION>__{As West looks out the back too... KA-BOOM!! A SHELL EXPLODES just to the right of them. Now ANOTHER EXPLOSION to the left of them. The Wanderer rocks precariously from wheel to wheel, throwing a screaming Rita back and forth between West and Gordon.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{They couldn't fire the cannon at us from in front. Any other questions?}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WANDERER - PARLOR CAR - DAY}
 <ACTION>__{West jumps up on the pool table.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
@@ -1371,7 +1371,7 @@
 <DIAL_PAR>__{(looks up, wry smile)}
 <DIAL>__{Fire away!}
 <ACTION>__{But it's a little difficult with him stroking her buttocks. BOOM! The CANNON FIRES...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WANDERER - PARLOR CAR - DAY}
 <ACTION>__{Gordon and Rita are looking out the back when they see the latest missile headed their way. Gordon pulls Rita down at the last second as a huge steel arrow shoots through the door, past their heads... and into the parlor wall. As metal barbs flick out, locking the tip in, and the steel chain it's attached to draws tight...}
 <LOC>__{EXT. LOVELESS'S TRAIN - ROOF - MOVING - DAY}
@@ -1542,7 +1542,7 @@
 <ACTION>__{CLOSE - PARTNERS meeting mid-air. They drop OUT OF FRAME, just as... the two discs collide with a MIGHTY EXPLOSION that is heard by...}
 <LOC>__{INT. WANDERER - PARLOR CAR - DAY}
 <ACTION>__{Loveless raises his glass to Rita, makes a little kissing gesture. She looks like she'd like to kill herself.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. RIVER CANYON NEAR CORNFIELD - WEST AND GORDON - DAY}
 <ACTION>__{are still in mid-air, both looking down.}
 <CHAR>__{GORDON} <CHAR_PAR>__{}
@@ -1749,7 +1749,7 @@
 <DIAL>__{Yeah, it would. That's Loveless' Lair.}
 <LOC>__{EXT. SPIDER CANYON - POV FROM RIM - DAY}
 <ACTION>__{A natural bowl that appears to have been made by a meteor, is gouged out of the desert floor. In the bowl are several spectacular Victorian-style buildings made almost entirely of glass, plus a huge silo. Ant-sized figures are moving around.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SPIDER CANYON - DAY}
 <ACTION>__{Now they hear a strange sound. To modern ears, a WHINE as from a jet engine. Loveless appears in the f.g. He's rising on a steel platform as if on some unseen elevator. Up, up, up he goes... as now more of the contraption comes}
 <LOC>__{INTO VIEW. Alloy girders, multi-levels, control boards...}
@@ -1767,7 +1767,7 @@
 <DIAL>__{We'll see about that. The fool doesn't even realize he's trapped.}
 <LOC>__{EXT. MESAS NEAR SPIDER CANYON RIM - DAY}
 <ACTION>__{Suddenly... a VOLLEY OF CANNON FIRE EXPLODES the impediment to dust. The Tarantula marches on.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                    &}
 <LOC>__{147 INT. WANDERER - PARLOR CAR (STOPPED) - DAY}
 <ACTION>__{West is dressing for battle. He straps his six guns on his hips, flips the pool table over, grabs a coach gun, tucks that behind his chaps. He belts on his shotgun shell bandolero. An extra six gun gets tucked in the belt. Another in his boot. Pocketfuls of shells. The man's ready for war.}
@@ -1858,7 +1858,7 @@
 <CHAR>__{GORDON} <CHAR_PAR>__{}
 <DIAL>__{You know him, sir...}
 <ACTION>__{Gordon/Grant shifts his eyes toward...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. PROMONTORY POINT - REAR OF TARANTULA - DAY}
 <ACTION>__{West running undetected to the rear leg. As the lone cowboy starts to climb up toward the belly of the beast...}
 <LOC>__{EXT. PROMONTORY POINT - TWO GRANTS - DAY}
@@ -1889,7 +1889,7 @@
 <ACTION>__{But West's bullets, as well as the Union soldiers' covering FIRE, PING harmlessly against the Tarantula's}
 <ACTION_ALT>__{ALLOY SKIN.}
 <ACTION>__{ANGLE ON BRIDGE - LOVELESS grows impatient with the gun battle.   He pulls a lever.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                     &}
 <LOC>__{169}
 <ACTION>__{ANGLE - WEST Down below, nozzles on the Tarantula's legs suddenly ERUPT in clouds of skin-scalding STEAM. West screams in pain and falls... 30 feet...}
@@ -2096,7 +2096,7 @@
 <ACTION>__{Gordon tries to compose himself.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{That flyin' machine idea of yours... were you just acting like you knew what you were talking about... or could you build it?}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                      &}
 <LOC>__{183 EXT. NEAR SPIDER CANYON - WANDERER - STOPPED - DUSK}
 <ACTION>__{PANNING an expanse of canvas comprising a 20-foot wing span. In the b.g., we hear Gordon SCRIBBLING.}
@@ -2382,7 +2382,7 @@
 <CHAR>__{PRESIDENT GRANT} <CHAR_PAR>__{}
 <DIAL>__{Let's see how clever you really are...}
 <ACTION>__{Gordon frantically starts pulling this lever and that. Meanwhile...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TARANTULA - BELOW DECK - DUSK}
 <ACTION>__{West approaches Loveless.    There's going to be some payback.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
@@ -2447,7 +2447,7 @@
 <DIAL_PAR>__{(downward)}
 <DIAL>__{Now that looked like it hurt.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. PROMONTORY POINT - CLOSE ON GOLDEN SPIKE - DAY}
 <ACTION>__{It's driven finally into place to a rousing cheer. PULL BACK to reveal that President Grant, his sleeves rolled up, has delivered the blow. Hats in the air, handshakes, pictures. The specter of Loveless and his evil plot a fading memory. Grant turns to West and Gordon.}
 <CHAR>__{PRESIDENT GRANT} <CHAR_PAR>__{}

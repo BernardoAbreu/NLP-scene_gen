@@ -69,7 +69,8 @@
 <TRANS>__{WE MATCH CUT TO:}
 <ACTION_ALT>__{ROBERT}
 <ACTION>__{In the hotel rooms, making the same motions.  Satisfied, he straightens, then turns to look at himself.}
-<ACTION_ALT>__{OMITTED ANGLE ON ROBERT}
+
+<ACTION_ALT>__{ANGLE ON ROBERT}
 <ACTION>__{Back at the hotel room window now.  Reaches to the table and lifts the wine glass.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. DIRT ROAD - DAY}
@@ -119,7 +120,8 @@
 <CHAR>__{JAVIER} <CHAR_PAR>__{}
 <DIAL>__{No, there's no mistake.}
 <ACTION>__{Javi motions to Manolo who cuffs both teenagers.  The driver begins spewing OBSCENITIES under his breath.  Javi puts the driver in the front of the Shadow.  Manolo follows in the moving van.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. DIRT ROAD - MEXICO - LATER}
 <ACTION>__{The truck follows the Shadow down a desert road. Suddenly, from behind, four armored SUV's with tinted windows appear, closing fast. The SUV's force both vehicles off the road where they pull to a stop.  A long beat as hot wind blows desert detritus past the truck. Finally, the SUV doors open and FEDERAL POLICE OFFICERS surround them like a SWAT team. The passenger door of the lead SUV opens and GENERAL ARTURO SALAZAR, 50's, a squat, powerful presence in a perfectly pressed uniform gets out and approaches Javi.}
 <CHAR>__{SALAZAR} <CHAR_PAR>__{}
@@ -161,7 +163,9 @@
 <CHAR>__{JAVIER} <CHAR_PAR>__{}
 <DIAL>__{I don't know.  Something.}
 <ACTION>__{They start for their car.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{EXT. DEL MAR SELF-STORAGE - DAY}
 <ACTION>__{SUPERTITLE: SAN DIEGO Two men, RAY CASTRO, 30's, proud, ambitious, and MONTEL GORDON, 40's, suspicious of everyone including himself and always, always the smartest guy in the room, walk from a Lincoln Towncar toward a dumpy office.  Castro is talking under his breath --}
 <CHAR>__{CASTRO} <CHAR_PAR>__{}
@@ -690,7 +694,7 @@
 <DIAL>__{We have a warrant to search your home, Mrs. Ayala.}
 <ACTION>__{Gordon hits the side of the cruiser and it pulls away.  Carl looks at his wife through the window. Gordon and Castro head up the driveway toward her house. Helena is left standing in the street.  NEIGHBORS, who have appeared in front yards and at the ends of driveways, stare at her with suspicion.  David approaches and holds onto her leg.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SALAZAR'S HEADQUARTERS - ANTEROOM - DAY}
 <ACTION>__{Javi and Manolo wait in Salazar's anteroom.  A ceiling fan swirls the air.  After a moment the door opens and an AIDE motions to them.  They stand.}
 <CHAR>__{AIDE} <CHAR_PAR>__{}
@@ -835,7 +839,8 @@
 <DIAL>__{Javi is working on his second beer when he seems to recognize somebody.}
 <ACTION_ALT>__{ACROSS THE ROOM}
 <ACTION>__{Francisco "Frankie" Flowers has entered the bar.  Javi watches him circulate through the room then settle at the bar.  Javier finishes his beer, rises, and takes the empty seat next to Francisco.  Manolo watches. Very quickly Javi strikes up a conversation.  We don't hear what they're saying but it doesn't matter because Francisco clearly likes Javi. Off Francisco's anticipatory smile --}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. MILITARY BASE - MEXICO - DAY}
 <ACTION>__{The back of a blue van opens and a blindfolded Francisco falls onto the ground. Surrounding him are Javi and Salazar, who watch as two of Salazar's MEN drag Francisco away toward an abandoned mission- style building.}
 <CHAR>__{SALAZAR} <CHAR_PAR>__{}
@@ -910,7 +915,7 @@
 <DIAL>__{He's gonna fucking die right here on the kitchen floor --}
 <CHAR>__{ANOTHER KID} <CHAR_PAR>__{}
 <DIAL>__{He can't.  My parents are in Barbados --}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SUBURBAN HOSPITAL EMERGENCY ENTRANCE - NIGHT}
 <ACTION>__{The Taurus wagon races up to the emergency room of Suburban Hospital.  The back door opens and Bowman tumbles out onto the wheelchair ramp under the fluorescent lights. The car screeches around the circle --}
 <ACTION_ALT>__{ACROSS THE PARKING LOT}
@@ -920,7 +925,7 @@
 <CHAR>__{SETH} <CHAR_PAR>__{}
 <DIAL>__{Nobody has anything on them, right?}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TORTURE ROOM - BARRACKS - DAY}
 <ACTION>__{Francisco is strapped naked into a chair.  Duct tape covers his mouth.  His face is bruised and swollen.  A cruel TORTURER talks to him calmly while dumping chili powder into a container of soda water.}
 <CHAR>__{TORTURER} <CHAR_PAR>__{}
@@ -1460,7 +1465,9 @@
 <CHAR>__{GORDON} <CHAR_PAR>__{}
 <DIAL>__{It's good.  Not too sweet.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{EXT. TIJUANA STREET - MORNING}
 <ACTION>__{This is a questionable neighborhood pushed up against the edge of poverty. Anna hurries across the street.}
 <LOC>__{EXT. JAVI'S APARTMENT BUILDING - MORNING}
@@ -1650,7 +1657,7 @@
 <CHAR>__{ROBERT} <CHAR_PAR>__{}
 <DIAL>__{If I'm not mistaken, we got DEA, Pentagon, U.S. Attorneys office, about a billion dollars of budget right here.  So what are you people waiting for?}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SAN DIEGO OFFICE BUILDING - DAY}
 <ACTION>__{Establishing shot of a tall glass building in the downtown skyline of San Diego.}
 <LOC>__{INT. ARNIE METZGER'S OFFICE - DAY}
@@ -1691,7 +1698,11 @@
 <DIAL>__{And I'm wondering who would want to be with someone like that?}
 <ACTION>__{It takes a great effort for Arnie not to answer.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{INT. ARMORED SUV - MEXICO - DAY}
 <ACTION>__{Javier and Manolo ride through a nice neighborhood in Mexico City.  Javi isn't familiar with the roads and drives cautiously. A young lady, ROSARIO, early 20's, sexy and vulnerable, rides in the back of the SUV.}
 <CHAR>__{ROSARIO} <CHAR_PAR>__{}
@@ -1834,7 +1845,9 @@
 <CHAR>__{ROBERT} <CHAR_PAR>__{}
 <DIAL>__{Oh, yes I can.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{INT.  - SAN DIEGO - DAY}
 <ACTION>__{Javier drinks toward downtown.  He's sipping a Burger King soft-drink.  On the seat next to him is a shopping bag from Target.  He takes an exit.  Javier pulls into the underground parking lot of a fancy office tower.}
 <LOC>__{INT. POLICE SEDAN - DAY}
@@ -2000,7 +2013,9 @@
 <LOC>__{INT. CARL'S PRIVATE STUDY - CONTINUOUS}
 <ACTION>__{Helena enters the room.  She hits a desk lamp and we're in a very comfortable and masculine upstairs study: bookshelves holding hundreds of art books; comfortable chairs; MacIntosh stereo; discreet flatscreen HD TV. Helena stares at a painting on one of the bookshelves.  It is "Boy with a Hoop," a small portrait by Rafael Colonel. She goes to it and looks from different angles.  She reaches out and jiggles the oil.  Nothing happens.  She looks behind the painting at the backing. She notices that one corner is not glued down.  She picks up a letter opener and pries the paper back.  An envelope slips out. Inside the envelope: neat, thin strips of paper dense with information in a miniscule type and a magnetic key card.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{INT.  HELICOPTER - DAY}
 <ACTION>__{Robert and Sheridan ride in the back of the chopper.  Each looks out his own window. A newspaper on the seat between them shows a front page photo of General Salazar, exultant, and the headline reads in Spanish, "Salazar Named Chief of Anti-Narcotics Operations."}
 <LOC>__{EXT. MEXICO CITY - DAY}
@@ -2082,7 +2097,10 @@
 <DIAL>__{No, not really.}
 <ACTION>__{Helena catches Carl's eye and they share a grim moment.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
 <LOC>__{INT. CARL'S UPSTAIRS STUDY - DAY}
 <ACTION>__{Helena sits at Carl's office desk.  On the desk in front of her are the lists she found and an encrypted cell phone. Helena picks up the phone.  Her hands are shaking.  She is crying as she dials.  A voice on the other end answers.}
 <CHAR>__{FRANCISCO } <CHAR_PAR>__{(V.O.)}
@@ -2120,7 +2138,8 @@
 <CHAR>__{FRANCISCO} <CHAR_PAR>__{}
 <DIAL>__{Careful... You're sounding like your husband, Mrs. Ayala.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. JAVI'S APARTMENT - NIGHT}
 <ACTION>__{Anna sits in the living room, staring.  She appears too upset to speak.  The apartment is cleaner.  There have been other changes.  There's a new rug.}
 <CHAR>__{JAVIER} <CHAR_PAR>__{}
@@ -2293,7 +2312,7 @@
 <ACTION>__{They reach the car.}
 <CHAR>__{RUIZ} <CHAR_PAR>__{}
 <DIAL>__{Would you mind if today we walked? It's one block.  I could use the fresh air.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FRANCISCO'S CAR - CONTINUOUS}
 <ACTION>__{Across the street, Francisco, encrypted cell phone to his ear, watches from his own car as Gordon, Castro, and Ruiz stand by their car without getting in, then walk away from the car.}
 <CHAR>__{FRANCISCO} <CHAR_PAR>__{}
@@ -2338,7 +2357,7 @@
 <LOC>__{EXT. COURT PARKING LOT - DAY}
 <ACTION>__{The cruiser EXPLODES. Gordon hits the pavement.  Parts of the car begin raining down around him.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SIDEWALK CAFE - SAN DIEGO - DAY}
 <ACTION>__{A fire truck and paramedic unit WHIZZES by.  Manolo sits at an outdoor cafe table, waiting.  He can't help looking around at the attractive people, but he's also nervous. Suddenly two MEN, recognizable as Salazar's OFFICERS from the desert drug bust, sitting at a nearby table, rise and move to Manolo's table.}
 <DIAL>__{MAN #1 Manolo, how are you?}
@@ -2432,7 +2451,7 @@
 <ACTION>__{Javi drives through the streets of Tijuana.  He brakes for a stop sign and watches, trance-like, the pedestrians crossing in front of him.  As the intersection clears he remains still. A HONK from behind brings him back and he pulls forward passing Helena Ayala who crosses going the opposite direction. We stay with her.}
 <LOC>__{EXT. TIJUANA - DAY}
 <ACTION>__{Helena walks down a nightlife street that is tawdry and stale in the midday sun.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. CLUB PLATINUM - DAY}
 <ACTION>__{A shrewd Obregon Lieutenant, JUAN MARQUEZ, 40, sits at a table opposite Helena.  The Strange Man who both threatened Helena's child and executed Francisco sits in another chair.}
 <CHAR>__{MARQUEZ} <CHAR_PAR>__{}
@@ -2525,7 +2544,13 @@
 <LOC>__{INT. CLUB PLATINUM - LADIES' ROOM - DAY}
 <ACTION>__{Helena goes into a stall.  She extracts the cocaine from her handbag. She looks at it, trying to figure out where it goes.  She hikes up her skirt.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
+
+
 <LOC>__{INT. HOTEL ROOM - DAY}
 <ACTION>__{Javier is hooked up to a polygraph machine watched closely by a POLYGRAPH OPERATOR.  Hughes and Johnson watch as Javi talks into a tape recorder on the table.}
 <CHAR>__{JAVIER} <CHAR_PAR>__{}
@@ -2547,7 +2572,8 @@
 <CHAR>__{JAVIER} <CHAR_PAR>__{}
 <DIAL>__{I feel like a traitor.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. BORDER CROSSING AUTOMOBILE CHECKPOINT - DAY}
 <ACTION>__{Javi goes into Mexico.  Pan over to Helena's Mercedes.}
 <LOC>__{INT. HELENA'S CAR - DAY}
@@ -2618,7 +2644,7 @@
 <DIAL>__{I'm desperate, but I'm not stupid.}
 <ACTION>__{I flushed it in the bathroom of their godawful nightclub.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ROBERT AND BARBARA'S BEDROOM - EARLY MORNING}
 <ACTION>__{Robert sleeps in his clothes on top of the covers.  Barbara is asleep beside him.  The phone rings.  Robert answers. Barbara watches.}
 <CHAR>__{ROBERT} <CHAR_PAR>__{}
@@ -2804,7 +2830,14 @@
 <DIAL>__{I've been doing research for the school paper, that's what I've been doing, like on assignment kind-of, I've seen some stuff you wouldn't believe, but I'm gonna write it all down into lyrics.  They think I'm really good, everybody says so, what do you think?}
 <ACTION>__{Robert fights back tears.  He reaches over and takes his daughter's hand.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
+
+
+
 <LOC>__{INT. CLUB PLATINUM OFFICE - DAY}
 <ACTION>__{Juan Marquez sits across the desk from Javi.  Tigrillo and PABLO, 30's, are also in the meeting.}
 <CHAR>__{MARQUEZ} <CHAR_PAR>__{}
@@ -2909,14 +2942,14 @@
 <DIAL>__{Don't die on me.  You will not die on me.  Do you hear me?  Don't you die on me.}
 <ACTION>__{Ruiz's convulsions get worse, his claw-like fingers scratch across the tile.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. COURTROOM - SAN DIEGO - DAY}
 <ACTION>__{The court is packed.  Helena and Arnie watch from the gallery. The judge is at the bench. The prosecutor rises --}
 <CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
 <DIAL>__{Your honor, ladies and gentlemen of the jury...  Because of the sudden death of Eduardo Ruiz, the people have decided that at this point we cannot continue our case against Carl Ayala.}
 <ACTION>__{The court ERUPTS.  Reporters scatter.  Helena cheers.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WHITE HOUSE OFFICE - DAY}
 <ACTION>__{Robert Wakefield enters the office of the Chief of Staff, who looks up from what he's doing, which is reading Robert's report, and is already mid-sentence.}
 <CHAR>__{CHIEF OF STAFF} <CHAR_PAR>__{}
@@ -2946,7 +2979,7 @@
 <DIAL>__{Today I'm very proud to announce that Mexico, with the help of our American partners, is finally winning the war against narcotics trafficking.}
 <ACTION>__{The PRESS begins shouting questions --}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HEADQUARTERS, I.N.C.D. - MEXICO - DAY}
 <ACTION>__{Robert and Javi walk through the headquarters, a nondescript government building. Robert extracts photographs of the bust from a manila envelope.  The crates of cocaine are clearly marked "911."}
 <CHAR>__{ROBERT} <CHAR_PAR>__{}

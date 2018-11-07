@@ -289,7 +289,7 @@
 <DIAL>__{Are you all right, dear?}
 <CHAR>__{LILLIAN} <CHAR_PAR>__{}
 <DIAL>__{I'm fine, perfectly fine.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FRONT PORCH - NIGHT}
 <ACTION>__{Ernest stands on the porch holding his little bag.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -298,10 +298,10 @@
 <DIAL>__{Francie, you'll learn that sometimes it's best to stay low and just walk away.}
 <ACTION>__{He trudges out and down the walk. Frances watches him, shaking her head. That is not a lesson she wants to learn.}
 <TRANS>__{FADE TO BLACK:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. THEATRE LOBBY - NIGHT}
 <ACTION>__{Opening night. Harry is reading a playbill displayed in a theatre lobby: "1934 Spring Production... University of Washington Players Present: 'Uncle Vanya' by Anton Chekhov." Frances is playing Sonia. Harry turns and enters the theatre.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. UNIVERSITY THEATRE STAGE - NIGHT}
 <ACTION>__{Frances on stage seen from a distance.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -782,7 +782,7 @@
 <DIAL>__{That's right. You're an actress, Miss Farmer and your job is to act.}
 <ACTION>__{She's about to reply, but he quickly takes her hand and raises it to his lips. Kisses it very formally, like a suitor. Then turns and walks into the sumptuous executive office building. She watches him go.}
 <TRANS>__{FADE OUT:}
-<ACTION_ALT>__{OMITTED}
+
 <TRANS>__{FADE IN:}
 <LOC>__{EXT. THEATRE MARQUEE - NIGHT}
 <ACTION>__{Brightly colored bulbs flashing, causing the wisps of fog around them to glow. The bulbs spell:}
@@ -886,7 +886,7 @@
 <ACTION>__{A hideous silence. Judge Hillier is fuming. His wife is aghast, the key to the city extended awkwardly in front of her. She shoves it into Frances' arms. Frances moves to leave, but her arm is taken by the Studio Executive, who escorts her into the theatre. The crowd follows. Lillian is utterly mortified.}
 <LOC>__{EXT. THEATRE - NIGHT}
 <ACTION>__{We TRACK along the side of the theatre. An exit door is thrown open, and Frances storms out. As she does, she trips over an OLD INDIAN BEGGAR. She stops and looks at him. He peers up at her with large forlorn eyes... then holds out his hand. A connection is made. All the anger drains out of her. She gives him money, several bills. He breaks into a wonderful crooked grin. She starts away, hesitates, then hands him the key to the city. He stares at it, bewildered. She strides away toward her limousine, which is now parked with several others at the end of the alley. The CHAUFFEURS are talking and smoking a cigarette. Her chauffeur sees her and hurries to his limo. As it pulls into the street, we see Harry drift back to the curb and stare after it.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. WEST POINT BEACH - NIGHT}
 <ACTION>__{Frances sits on the old wood jetty staring out at the water, the lighthouse... Harry approaches.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
@@ -1102,7 +1102,7 @@
 <DIAL>__{Goodbye, Dick.}
 <ACTION>__{A mirror sits on top of the bureau. She looks into it. Doesn't like her expression. Turns the mirror away.}
 <TRANS>__{FADE OUT:}
-<ACTION_ALT>__{OMITTED}
+
 <TRANS>__{FADE IN:}
 <LOC>__{INT. THEATRE LOBBY - NIGHT}
 <ACTION>__{A playbill in a theatre lobby reads: "Mt. Kisco Playhouse,}
@@ -1254,7 +1254,7 @@
 <DIAL>__{Particularly Louella Parsons!}
 <ACTION>__{During this conversation, Bebe has been drawing on the Variety. We now see his work. Beneath the headline was a photo of Frances, on whom Bebe has drawn a mustache.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BELASCO THEATRE - NIGHT}
 <ACTION>__{The marquee for "Golden Boy" reads "Held Over". USHERS are opening the glass doors from the empty lobby onto the street. We HEAR thunderous applause from the inside.}
 <LOC>__{EXT. BACKSTAGE DOOR - ALLEY - NIGHT}
@@ -1329,7 +1329,7 @@
 <DIAL_PAR>__{(turning)}
 <DIAL>__{You're wasting your time, lady. Nothing's off the record with me.}
 <ACTION>__{He is gone.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WORKING CLASS BAR - NIGHT}
 <ACTION>__{Odets sits at a table in back, drinking and writing in a notebook. Frances comes up to him. He smiles, draws her to him for a hug.}
 <CHAR>__{ODETS} <CHAR_PAR>__{}
@@ -1356,7 +1356,7 @@
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
 <DIAL>__{Yeah. Yeah, tonight I think I got it.}
 <ACTION>__{She is crying.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ODETS' APARTMENT - DAY}
 <ACTION>__{Frances comes in the front door with a bag of groceries, removes her key. Walks into the living room, stops short. Clurman is sitting on the couch, a bottle and two glasses in front of him.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -1426,7 +1426,7 @@
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
 <DIAL>__{Prick!}
 <ACTION>__{He stands and, with as much dignity as he can muster, leaves. Frances is shaking. She rips open the letter he gave her. Stares at it in horror...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BOOKIE JOINT - DAY}
 <ACTION>__{Plain room. A few tables with phones, men on the phones writing down numbers. Behind them are blackboards with horses' names and prices. Off to one side Harry is conferring with the OWNER.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
@@ -1435,7 +1435,7 @@
 <CHAR>__{MAN AT PHONE} <CHAR_PAR>__{}
 <DIAL>__{You Harry York?}
 <ACTION>__{Harry nods, startled. The Man at the table holds up the phone and goes to his next call. Harry takes the phone.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ODETS' APARTMENT - NEW YORK - NIGHT}
 <ACTION>__{Frances on the phone. A half-packed bag lies on the bed. A bottle and glass sit beside her. She's been crying and drinking.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -1444,13 +1444,13 @@
 <DIAL>__{Jesus, Frances, how'd you find me?}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
 <DIAL>__{I called your god-damned office! I want you to kill him, Harry. You'll do that for me, won't you? I loved him, I loved him... that bastard.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BOOKIE'S OFFICE - NIGHT}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Calm down, Frances.}
 <CHAR>__{FRANCES } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Don't tell me what to do, just give me his head on a platter!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ODETS' APARTMENT - NEW YORK - NIGHT}
 <ACTION>__{Frances unfolds the crumpled letter Clurman gave her.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -1460,7 +1460,7 @@
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sobbing)}
 <DIAL>__{Harry, I hate being in love. I don't ever want to be in love again. I just hate it!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BOOKIE JOINT - DAY}
 <ACTION>__{With the patter of the bookie taking bets beside him, Harry listens to Frances' sobs.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
@@ -1655,7 +1655,7 @@
 <DIAL_PAR>__{(panting)}
 <DIAL>__{Santa Monica, this is motor six-sixty- six. I got a live one here.}
 <TRANS>__{FADE OUT: FADE IN:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BEACH HOUSE BALCONY - DAY}
 <ACTION>__{CLOSE ON front page of the Los Angeles Times, October 1942. The headlines read: "24 Jap Ships Sunk", "Errol Flynn Sex Trial Delayed", "Frances Farmer Arrested on Drunk Driving Charge -- Actress Gets $250 Fine and Six Months Probation." CAMERA PULLS BACK to show several newspapers spread out on the balcony of Frances' beach house. As the papers ruffle in the wind, a little kitten swipes at them. Frances sits in the sun writing in her diary, the same one we saw at the opening of the film. A man's shoes COME INTO}
 <ACTION_ALT>__{VIEW.}
@@ -1720,7 +1720,7 @@
 <DIAL_PAR>__{(right now)}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{You're coming.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SAN DIEGO BAR - NIGHT}
 <ACTION>__{Waterfront bar, full of SAILORS, WHORES, and HEAVY DRINKERS. Hanging over the bar is San Diego paraphernalia. Frances and Harry sit at a table. Heavy boozing has led to philosophizing:}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}
@@ -1863,7 +1863,7 @@
 <DIAL>__{GET OUT!}
 <CHAR>__{COP} <CHAR_PAR>__{}
 <DIAL>__{You're under arrest.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SANTA MONICA POLICE STATION - NIGHT}
 <ACTION>__{Frances is being led to the booking desk. All around her Photographers snap her picture, and Reporters walk alongside subjecting her to a never-ending barrage of questions. Frances just smokes a cigarette and smiles grimly at the dour-faced SERGEANT facing her.}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
@@ -2016,7 +2016,7 @@
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{First things first, little sister. Trust me.}
 <ACTION>__{She kisses Frances on the forehead. Frances looks at the two Women. They are smiling understandingly at Lillian. Frances looks a little alarmed.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ENTRANCE DRIVE - DAY}
 <ACTION>__{A wood-panelled station wagon turns the corner of a tree- lined road and heads up toward tall wrought-iron gates. On a white-washed wall are black letters: "MEADOW WOOD CONVALESCENT HOME". The Station wagon, a similar sign on its door, pulls up. The gates swing slowly open, and it travels up a long tree-lined driveway. As it goes by, we see Frances sitting in the back seat between Lillian and one of the Women from the previous scene. The car heads up toward a large Spanish-style building set back among some trees.}
 <LOC>__{INT. A SMALL OFFICE - DAY}
@@ -2448,7 +2448,7 @@
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Will you marry me?}
 <ACTION>__{She laughs happily. He joins her, but his seems a little forced. She leans her head on his shoulder and holds him tight. They dance...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FARMER HOUSE - SEATTLE - DAY}
 <ACTION>__{The Lincoln, Harry at the wheel, drives up and stops. Harry shakes his head.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
@@ -2516,7 +2516,7 @@
 <CHAR>__{FBI MAN} <CHAR_PAR>__{}
 <DIAL>__{I'd give you till ten, Al, but we ain't got the time.}
 <TRANS>__{SMASH CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. JUDGE'S CHAMBERS}
 <ACTION>__{Judge Hillier walking... out of the chamber and down a corridor. His stride is long, his demeanor purposeful. The corridor leads into a courtroom. Harry standing at attention. We hear Hillier climb onto the bench and be introduced by the court official. Harry stares up at the judge.}
 <CHAR>__{HILLIER} <CHAR_PAR>__{}
@@ -2607,7 +2607,7 @@
 <ACTION>__{They look at each other across the desk for an uncomfortable moment, then Frances slowly leaves. He looks sadly after her.}
 <LOC>__{EXT. FLEA-BAG HOTEL - DAY}
 <ACTION>__{Frances exits and starts across the road. Ernest comes to the window to watch her leave. It is raining and the water on the glass distorts his view.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FARMER HOUSE - FRANCES' ROOM - DAY}
 <ACTION>__{Lillian is straightening up Frances' room, rearranging things to suit herself. She hears the door slam downstairs.}
 <CHAR>__{FRANCES } <CHAR_PAR>__{(O.S.)}
@@ -3118,7 +3118,7 @@
 <DIAL>__{What?}
 <CHAR>__{OLDER NURSE} <CHAR_PAR>__{}
 <DIAL>__{'Incurable.'}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. STEILACOOM - HOLDING WARD - DAY}
 <ACTION>__{Frances, barely conscious, lies strapped to a bed. Doyle and an ORDERLY approach her. Doyle nods toward her as if to say: that one. He and the Orderly unstrap her.}
 <CHAR>__{FRANCES} <CHAR_PAR>__{}

@@ -1806,8 +1806,9 @@
 <DIAL>__{Jesus, Creasy. You're talking war.}
 <LOC>__{INT. PUBLIC SWIMMING POOL - MEXICO CITY}
 <ACTION>__{The surface breaks as Creasy enters the water     wearing a red T-shirt to hide the bandages. He begins      a slow laborious stroke.  A pale attempt at getting     back into shape. A ribbon of  maroon trails him through     the water.}
-<LOC>__{INT. GARAGE - SUBURBS MEXICO CITY - NIGHT *RETHINK}
-<ACTION>__{LOCATION* Fluorescents flicker on. A Fiat up on the hydraulic lift. A section of the garage is portioned off by heavy steel sheeting with a padlocked door. One of the two men unlocks it.      Creasy and Rayburn enter.}
+<LOC>__{INT. GARAGE - SUBURBS MEXICO CITY - NIGHT RETHINK}
+<ACTION_ALT>__{LOCATION}
+<ACTION>__{Fluorescents flicker on. A Fiat up on the hydraulic lift. A section of the garage is portioned off by heavy steel sheeting with a padlocked door. One of the two men unlocks it.      Creasy and Rayburn enter.}
 <ACTION_ALT>__{PARTITION}
 <ACTION>__{Three long steel tables.    Covered with weapons.}
 <CHAR>__{RAYBURN} <CHAR_PAR>__{}

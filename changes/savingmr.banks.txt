@@ -1748,7 +1748,7 @@
 <DIAL_PAR>__{(HE CHOKES)}
 <DIAL>__{Don't leave yourself always searching for-- something--}
 <ACTION>__{He coughs to stop a crying jag and leaves her alone on the porch. Ginty is unnerved by her Travers' demeanor, she creeps around to the side of the house where she watches her father appears in the window of the washroom. She doesn't know what to do as he leans his head against the wall and breaks down sobbing.}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{}
 <LOC>__{INT. LIMO - MORNING}
 <ACTION>__{Ralph looks at Pamela in his rear-view, she seems weak, the steely fight flown away on the East wind. Her arms wrapped around her chest, her face turned to the window.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
@@ -2171,7 +2171,7 @@
 <CHAR>__{GINTY} <CHAR_PAR>__{}
 <DIAL>__{It's time to go home, ma.}
 <ACTION>__{She reaches out her hand--}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{}
 <LOC>__{INT. SUITE - EVENING}
 <ACTION>__{Pamela looks through a stack of books intently, jotting something down on a piece Beverly Hills Hotel stationery every now and then. Presently, the phone rings. Pamela almost jumps out of her skin. She rushes to grab it.}
 <CHAR>__{PAMELA} <CHAR_PAR>__{}
@@ -2944,7 +2944,7 @@
 <CHAR>__{TOMMIE} <CHAR_PAR>__{}
 <DIAL>__{Okay.}
 <ACTION>__{Walt walks away, he's lost a bit of steam. Tommy watches him go.}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{}
 <LOC>__{INT. PAMELA'S OFFICE - DAY.}
 <ACTION>__{Pamela taps away on her typewriter with gusto. She pings the return and breathes, satisfied.}
 <CHAR>__{PAMELA} <CHAR_PAR>__{}

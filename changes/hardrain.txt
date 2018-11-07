@@ -1396,8 +1396,8 @@
 <ACTION>__{Jim looks over to see... THE JET-SKI Floating in the water. And not far from it is...}
 <ACTION_ALT>__{KENNY}
 <ACTION>__{Still twitching.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+<ACTION>__{Sequence  from original script.}
 <LOC>__{INT. HOUSE - BEDROOM}
 <ACTION>__{Doreen holds the shotgun on Tom and Karen as they move away from the window, hands raised.}
 <CHAR>__{DOREEN} <CHAR_PAR>__{}

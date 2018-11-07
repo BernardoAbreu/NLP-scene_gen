@@ -1110,7 +1110,7 @@
 <DIAL>__{Papa.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiling indulgently at Johan's interruption)}
-<DIAL>__{_______________________________}
+<DIAL>__{}
 <CHAR>__{JOHAN} <CHAR_PAR>__{}
 <DIAL>__{Stanley's here, Papa.}
 <ACTION>__{Johan leaves.}

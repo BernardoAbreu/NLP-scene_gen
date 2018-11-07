@@ -422,7 +422,7 @@
 <CHAR>__{PUBKEEPER} <CHAR_PAR>__{}
 <ACTION>__{'Course I'm sure if they knew it was you lot comin', they'd be pleased to wait!}
 <TRANS>__{CUT TO:}
-<LOC>__{37 OMITTED EXT. TERMINAL - TITANIC}
+<LOC>__{37  EXT. TERMINAL - TITANIC}
 <ACTION>__{Jack and Fabrizio, carrying everything they own in the world in the kit bags on their shoulders, sprint toward the pier. They tear through milling crowds next to the terminal. Shouts go up behind them as they jostle slow-moving gentlemen. They dodge piles of luggage, and weave through groups of people. They burst out onto the pier and Jack comes to a dead stop... staring at the cast wall of the ship's hull, towering seven stories above the wharf and over an eighth of a mile long. The Titanic is monstrous. Fabrizio runs back and grabs Jack, and they sprint toward the third class gangway aft, at E deck. They reach the bottom of the ramp just as SIXTH OFFICER MOODY detaches it at the top. It starts to swing down from the gangway doors.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{Wait!! We're passengers! Flushed and panting, he waves the tickets.}
@@ -446,7 +446,7 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{We are the luckiest sons of bitches in the world!}
 <TRANS>__{CUT TO:}
-<LOC>__{39 OMITTED EXT. TITANIC AND DOCK - DAY}
+<LOC>__{39  EXT. TITANIC AND DOCK - DAY}
 <ACTION>__{The mooring lines, as big around as a man's arm, are dropped into the water. A cheer goes up on the pier as SEVEN TUGS pull the Titanic away from the quay.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. AFT WELL DECK / POOP DECK - DAY}
@@ -460,7 +460,7 @@
 <CHAR>__{FABRIZIO} <CHAR_PAR>__{}
 <ACTION>__{Goodbye! I will never forget you!!}
 <TRANS>__{CUT TO:}
-<LOC>__{42 OMITTED EXT. SOUTHAMPTON DOCK - DAY}
+<LOC>__{42  EXT. SOUTHAMPTON DOCK - DAY}
 <ACTION>__{The crowd of cheering well-wishers waves heartily as a black wall of metal moves past them. Impossibly tiny figues wave back from the ship's rails. Titanic gathers speed.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. RIVER TEST - DAY}
@@ -511,7 +511,7 @@
 <CHAR>__{OLD ROSE } <CHAR_PAR>__{(V.O.)}
 <ACTION>__{By the next afternoon we had made our final stop and we were steaming west from the coast of Ireland, with nothing out ahead of us but ocean...}
 <TRANS>__{CUT TO:}
-<LOC>__{50 OMITTED EXT. BOW - DAY}
+<LOC>__{50  EXT. BOW - DAY}
 <ACTION>__{The ship glows with the warm creamy light of late afternoon. Jack and Fabrizio stand right at the bow gripping the curving railing so familiar from images of the wreck. Jack leans over, looking down fifty feet to where the prow cuts the surface like a knife, sending up two glassy sheets of water.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. / EXT. TITANIC - SERIES OF SCENES - DAY}
@@ -1237,7 +1237,7 @@
 <CHAR>__{ROSE} <CHAR_PAR>__{}
 <ACTION>__{Wait... stop! She bends down, pulling off her high heeled shoes, and flings them to Tommy. Then she grabs Jack and they plunge back into the fray, dancing faster as the music speeds up.}
 <TRANS>__{CUT TO:}
-<LOC>__{86 OMITTED INT. THIRD CLASS GENERAL ROOM}
+<LOC>__{86  INT. THIRD CLASS GENERAL ROOM}
 <ACTION>__{The scene is rowdy and rollicking. A table gets knocked over as a drunk crashes into it. And in the middle of it... Rose dancing with Jack in her stocking feet. The steps are fast and she shines with sweat. A space opens around them, and people watch them, clapping as the band plays faster and faster. FABRIZIO AND HELGA. Dancing has obviated the need for a common language. He whirls her, then she responds by whirling him... Fabrizio's eyes go wide when he realizes she's stronger than he is. The tune ends in a mad rush. Jack steps away from Rose with a flourish, allowing her to take a bow. Exhilarated and slightly tipsy, she does a graceful ballet ployer, feet turned out perfectly. Everyone laughs and applauds. Rose is a hit with the steerage folks, who've never had a lady party with them. They move to a table, flushed and sweaty. Rose grabs Fabrizio's cigarette and takes a big drag. She's feeling cocky. Fabrizio is grinning, holding hands with Helga.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{How you two doin'?}
@@ -1608,7 +1608,7 @@
 <CHAR>__{COLONEL GRACIE} <CHAR_PAR>__{}
 <ACTION>__{We're going like hell I tel you. I have fifty dollars that says we make it into New York Tuesday night! Cal looks at his gold pocket watch, and scowls, not listening.}
 <TRANS>__{CUT TO:}
-<LOC>__{118 OMITTED INT. BOILER ROOM SIX}
+<LOC>__{118  INT. BOILER ROOM SIX}
 <ACTION>__{The furnaces roar, silhouetting the glistening stokers. Jack kisses Rose's face, tasting the sweat trickling down from her forehead. They kiss passionately in the steamy, pounding darkness.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HOLD #2}
@@ -1756,7 +1756,7 @@
 <ACTION>__{her drink to a passing waiter.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
 <ACTION>__{Hey, can I get some ice here, please? Silently, a moving wall of ice fills the window behind her. She doesn't see it. It disappears astern.}
-<LOC>__{148 OMITTED 149 IN THE CROW'S NEST Fleet turns to his Lee...}
+<LOC>__{148  149 IN THE CROW'S NEST Fleet turns to his Lee...}
 <CHAR>__{FLEET} <CHAR_PAR>__{}
 <ACTION>__{Oy, mate... that was a close shave.}
 <CHAR>__{LEE} <CHAR_PAR>__{}
@@ -2356,7 +2356,7 @@
 <LOC>__{EXT. BRIDGE / FORWARD WELL DECK / FOC'SLE}
 <ACTION>__{AT THE BOW... the place where Jack and Rose first kissed... the bow railing goes under water water. Water swirls around the captsans and windlasses on the foc'sle deck. Smith strides to the bridge rail and looks down at the well deck. Water is shipped over the sides and the well deck is awash. Two men run across the deck, their feet sending up spray. Behind Smith, Boxhall fires another rocket. WHOOSH!}
 <TRANS>__{CUT TO:}
-<LOC>__{199 OMITTED 200 OMITTED INT. E-DECK CORRIDORS AND STAIRWELL}
+<LOC>__{199  200  INT. E-DECK CORRIDORS AND STAIRWELL}
 <ACTION>__{Fabrizio, standing with Helga Dahl and her family, hears Jack's voice.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{Fabrizio! Fabri! Fabrizio turns and sees Jack and Rose pushing through the crowd. He and Jack hug like brothers.}
@@ -2384,7 +2384,7 @@
 <CHAR>__{FABRIZIO} <CHAR_PAR>__{}
 <ACTION>__{I will never forget you. He turns to Jack, who leads the way out of the crowd. Looking back Fabrizio sees her face disappear into the crowd.}
 <TRANS>__{CUT TO:}
-<LOC>__{202 OMITTED 203 OMITTED INT. CAL AND ROSE'S SUITE}
+<LOC>__{202  203  INT. CAL AND ROSE'S SUITE}
 <ACTION>__{CLUNK! Cal opens his safe and reaches inside. As Lovejoy watches, he pulls out two stacks of bills, still banded by bank wrappers. Then he takes out "Heart of the Ocean", putting it in the pocket of his overcoat, and locks the safe.}
 <CHAR>__{CAL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(holding up stacks of bills)}
@@ -2472,7 +2472,7 @@
 <CHAR>__{CAL} <CHAR_PAR>__{}
 <ACTION>__{Mr. Murdoch, I'm a businessman, as you know, and I have a business proposition for you.}
 <TRANS>__{CUT TO:}
-<LOC>__{218 OMITTED EXT. BOAT DECK, PORT}
+<LOC>__{218  EXT. BOAT DECK, PORT}
 <ACTION>__{Jack, Rose et al burst out onto the boat deck from the crew stairs just aft of the third funnel. They look at the empty davits.}
 <CHAR>__{ROSE} <CHAR_PAR>__{}
 <ACTION>__{The boats are gone! She sees Colonel Gracie chugging forward along the deck, escorting two first class ladies.}
@@ -2625,7 +2625,7 @@
 <CHAR>__{LIGHTOLLER} <CHAR_PAR>__{}
 <ACTION>__{Hold it! Hold it! The weight of the boat snaps the oars and it crashes to the deck, upside down. The two Swedish cousins, OLAUS and BJORN GUNERSEN, jump back as the boat nearly hits them.}
 <TRANS>__{CUT TO:}
-<LOC>__{232 OMITTED INT. STAIRWELL}
+<LOC>__{232  INT. STAIRWELL}
 <ACTION>__{Jack and Rose run up seemingly endless stairs as the ship groans and torgues around them.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BOAT DECK, STARBOARD SIDE}
@@ -2725,7 +2725,7 @@
 <LOC>__{INT. BOAT DECK FOYER / GRAND STAIRCASE}
 <ACTION>__{Water raors through the doors and windows, cascading down the stairs like a rapids. John Jacob Astor is swept down the marble steps to A-Deck, which is already flooded... a roiling vortex. He grabs the headless cherub at the bottom of the staircase and wraps his arms around it. Astor looks up in time to see the 30 foot glass dome overhead EXPLOSE INWARD with the wave of water washing over it. A Niagara of sea water thunders down into the room, blasting through the first class opulence. IT is the Armageddon of elegance.}
 <TRANS>__{CUT TO:}
-<LOC>__{254 OMITTED INT. BELOWDECKS}
+<LOC>__{254  INT. BELOWDECKS}
 <ACTION>__{The flooding is horrific. Walls and doors are splintered like kindling. Water roars down corridors with pile-driver force. The CARTMELL FAMILY is at the top of a stairwell, jammed against a locked gate like Jack and Rose were. Water boils up the stairwell behind them. Bert Cartmell shakes the gate futilely, shouting for help. Little Cora wails as the water boils up around them all.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. STERN}
@@ -2734,7 +2734,7 @@
 <ACTION>__{Sorry, miss! Hundreds of people are already on the poop deck, and more are pouring up every second. Jack and Rose cling together as tehy struggle across the tilting deck.}
 <LOC>__{257 As the bow goes down, the STERN RISES. IN BOAT 2, which is just off the}
 <ACTION>__{stern, passengers gape as the giant bronze propellers rise out of the water like gods of the deep, FILLING FRAME behind them. People are JUMPING from the well deck, the poop deck, the gangway doors. Some hit debris in the water and are hurt or killed.}
-<LOC>__{258 OMITTED 259 OMITTED EXT. STERN}
+<LOC>__{258  259  EXT. STERN}
 <ACTION>__{ON THE POOP DECK Jack and Rose struggle aft as the angle increases. Hundreds of passengers, clinging to every fixed object on deck, huddle on their knees around FATHER BYLES, who has his voice raised in prayer. They are praying, sobbing, or just staring at nothing, their minds blank with dread. Pulling himself from handhold to handhold, Jack tugs Rose aft along the deck.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{Come on, Rose. We can't expect God to do all the work for us. They struggle on, pushing through the praying people. A MAN loses his footing ahead and slides toward them. Jack helps him.}
@@ -2811,7 +2811,7 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{Keep swimming. Keep moving. Come one, you can do it. All about them there is a tremendous wailing, screaming and moaning... a chorus of tormented souls. And beyond that... nothing but black water stretching to the horizon. The sense of isolation and hopelessness is overwhelming.}
 <TRANS>__{CUT TO:}
-<LOC>__{282 OMITTED EXT. OCEAN}
+<LOC>__{282  EXT. OCEAN}
 <ACTION>__{Jack strokes rhythmically, the effort keeping him from freezing.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <ACTION>__{Look for something floating. Some debris... wood... anything.}
@@ -2999,7 +2999,7 @@
 <DIAL_PAR>__{(closing her eyes)}
 <ACTION>__{I don't even have a picture of him. He exists now only in my memory.}
 <TRANS>__{CUT TO:}
-<LOC>__{304 OMITTED EXT. OCEAN FLOOR / TITANIC WRECK}
+<LOC>__{304  EXT. OCEAN FLOOR / TITANIC WRECK}
 <ACTION>__{The Mir submersibles make their last pass over the ship. We hear Yuri the pilot on the UQC:}
 <CHAR>__{YURI} <CHAR_PAR>__{}
 <ACTION>__{Mir One returning to surface. The sub rises off the deck of the wreck, taking its light with it, leaving the Titanic once again it its fine and private darkness.}

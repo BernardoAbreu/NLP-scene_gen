@@ -1037,7 +1037,7 @@
 <ACTION_ALT>__{ON FORD}
 <ACTION>__{Concentrating, Ford holds a needle and thread and a piece of cloth on which he's drawn an approximation of the post office shoulder patch. By moonlight he embroiders it in. Not exactly work you'd pay money for, but not bad either.}
 <LOC>__{INT. ABANDONED HOTEL - ROOM 7 - CLOSE ON STRING-TIED}
-<ACTION>__{PACKAGE - NIGHT ~from the previous scene.       It's on the table with a growing stack of mail. The Postman is in bed, trying to sleep. But it's hard- coming. He laces his fingers behind his head, stares up at the moon through a hole in the wall. A KNOCK at the door.}
+<ACTION>__{PACKAGE - NIGHT from the previous scene.       It's on the table with a growing stack of mail. The Postman is in bed, trying to sleep. But it's hard- coming. He laces his fingers behind his head, stares up at the moon through a hole in the wall. A KNOCK at the door.}
 <CHAR>__{THE POSTMAN} <CHAR_PAR>__{}
 <DIAL>__{Just leave it.}
 <ACTION>__{There's a pause.    And then, ANOTHER KNOCK.}

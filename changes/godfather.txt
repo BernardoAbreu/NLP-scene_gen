@@ -1,6 +1,7 @@
 <ACTION>__{The Godfather}
 <ACTION_ALT>__{THE GODFATHER}
-<ACTION>__{_____________ Screenplay by}
+<DIAL>__{}
+<ACTION>__{Screenplay by}
 <ACTION_ALT>__{MARIO PUZO}
 <ACTION>__{and}
 <ACTION_ALT>__{FRANCIS FORD COPPOLA THIRD DRAFT                PARAMOUNT PICTURES}
@@ -558,7 +559,7 @@
 <ACTION>__{CLOSE VIEW on the GODFATHER.  Nodding.}
 <CHAR>__{DON CORLEONE} <CHAR_PAR>__{}
 <DIAL>__{Send Johnny my congratulations.}
-<ACTION>__{----------------------------------------FADE OUT: -------- (SCENES 12 & 12 OMITTED)}
+<ACTION>__{----------------------------------------FADE OUT: -------- (SCENES 12 & 12 )}
 <TRANS>__{FADE IN:}
 <LOC>__{EXT DAY: FIFTH AVENUE (WINTER 1945)}
 <ACTION>__{Fifth Avenue in the snow.  Christmas week.  People are bundled up with rosy faces, rushing to buy presents. KAY and MICHAEL exit a Fifth Avenue department store, carrying a stack of gaily wrapped gifts, arm in arm.}

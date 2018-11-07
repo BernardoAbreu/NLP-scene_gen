@@ -99,7 +99,7 @@
 <CHAR>__{CARNBY} <CHAR_PAR>__{}
 <DIAL>__{If you can...}
 <ACTION>__{The Cabbie GUNS the motor and speeds off.}
-<LOC>__{13CC EXT. CITY STREETS                                            13CC}
+<LOC>__{13CC EXT. CITY STREETS 13CC}
 <ACTION>__{Carnby's taxi accelerates down the street, pulling away from Pinkerton's taxi. As soon as it's evident that they are on to him, Pinkerton's taxi speeds up to give chase. The two taxis rocket down the streets, swerving past cars, SCREECHING around corners. Carnby's taxi speeds down the streets, narrowly avoiding collisions with other cars and PEDESTRIANS. Pinkerton just plows through whatever's in his way, SMASHING past other cars, forcing Pedestrians to jump out of the way. Pinkerton accelerates and tries to force Carnby's taxi off the road. The taxi's GRIND against one another. Carnby's taxi SCREECHES around a corner, speeding into a side street that leads to the Market Street.}
 <LOC>__{EXT. MARKET STREET 13D}
 <ACTION>__{A busy street crowded with PEDESTRIANS, open shops, and produce stalls. Carnby's taxi races down the busy Market Street, followed by Pinkerton. They swerve and SCREECH down the Street, cutting off other cars, and narrowly avoiding Pedestrians. But then Pinkerton's taxi ZOOMS up beside Carnby's taxi and BUMPS into it with a GRINDING CRUSH of metal. Not stopping, Pinkerton's taxi continues to GRIND into Carnby's taxi. The momentum pushes Carnby's taxi around sideways. Pinkerton's taxi then SLAMS Carnby's sideways taxi into a parked car with a CRUSH of metal and SHATTERING glass. There's a moment as Carnby, trapped inside the CRUSHED taxi and Pinkerton, flooring the accelerator to add more pressure, exchange a look. Pinkerton's expression is fierce. Pinkerton gears the taxi into reverse, backing up in order to smash into Carnby's taxi again. The Cabbie is trapped by the crushed front of the taxi. His face is covered with a spiderweb of deep cuts. The Cabbie struggles to get loose.}
@@ -122,7 +122,7 @@
 <LOC>__{INT. ICE FACTORY 13J}
 <ACTION>__{The refrigerated Ice Factory is filled with neat rows of ice blocks. FACTORY WORKERS mill about, transporting the blocks of ice through the Factory. Carnby hides between the rows of ice blocks. He checks the Beat Cop's gun to make sure it's loaded. It is. Carnby stops, sensing something. In one fluid motion, Carnby suddenly spins, turning in the other direction and FIRING the gun. We follow the bullet as it rockets through the Ice Factory. It WHIZZES along, until we see Carnby's intended target. Pinkerton comes through the Ice Factory, running at Carnby. The bullet flies directly at him. The bullet hits Pinkerton in the shoulder. But it only seems to anger Pinkerton further. He keeps running at Carnby. Pinkerton leaps at Carnby. Carnby FIRES again. But Pinkerton dodges the bullet and it hits a block of ice, SHATTERING it in a hail of ice shards. Pinkerton rolls with his dodge and races off into the stacks of ice blocks. Carnby tries to track Pinkerton's movements through the ice stacks. He hears the sound of Pinkerton MOVING, but can't see him. His gun is ready. He searches around. Suddenly, there's a RUSH of movement behind him. Carnby dodges just as Pinkerton's fist comes flying out. Pinkerton connects with an ice block, SHATTERING it. Carnby is backed into a dead end in the Ice Factory. He turns to face Pinkerton, gun ready. But Pinkerton is on him too quickly. He lunges at Carnby, hoisting him over his head and SLAMMING him down on a conveyer belt. Pinkerton drags Carnby along the conveyer belt. But Carnby grabs a hanging chain to steady himself. With a quick kick, Carnby uses the momentum to flip Pinkerton over him. Pinkerton flies through the air towards a large ice pick wedged into the wall. The sharp point of the ice pick punches right through Pinkerton's torso, impaling him. He is immediately killed. Carnby leans up against the wall, steadying himself. He pulls the stone carving out of his pocket to check it. In the fight, the carving has been cracked into pieces. But the broken carving reveals something hidden inside it, a small gold artifact that was concealed in the carving. The artifact is a gold circle, flat on the top and bottom, its thick round side engraved with intricate Abkani symbols. This is the lynchpin artifact, the piece which connects the other artifacts together.}
 <LOC>__{EXT. MUSEUM - DAY 17}
-<ACTION>__{The elegant Museum of Natural History. A wide staircase leads up to an entranceway surrounded by stone pillars. Over the front of the Museum hangs a large banner reading: "SECRETS OF THE ANCIENT ABKANI  COMING SOON".}
+<ACTION>__{The elegant Museum of Natural History. A wide staircase leads up to an entranceway surrounded by stone pillars. Over the front of the Museum hangs a large banner reading: "SECRETS OF THE ANCIENT ABKANI COMING SOON".}
 <LOC>__{INT. MUSEUM/MAIN HALL - DAY 18}
 <ACTION>__{The high-ceilinged Main Hall of the Museum. Glass display cases are set up to showcase archeological artifacts. ALINE CEDRAC (late 20s), studious but dynamic, stands in front of a display case. She carries a clipboard. A heavy-set GUARD (early 50s) approaches, followed by a DELIVERY GUY (late 20s), who hauls in a crate on a dolly.}
 <CHAR>__{GUARD} <CHAR_PAR>__{}
@@ -190,7 +190,7 @@
 <DIAL>__{Edward, John here. Hope things went well wherever you were this time. And, please, do not, I repeat, do not tell me about it. Every time you tell me about your latest case, I get nightmares for a week. Anyway, give me a call when you get back. Linda wants to have you by for dinner. Lord knows why, but she seems to like you. And if you haven't scared Aline away yet, bring her along.}
 <ACTION>__{The Loft is a large, incredibly cool-looking space. In one corner is a lab area filled with high-tech scientific equipment. At another work station, dozens of drawings, maps, and photos are spread out next to a flat-screen computer. A few photos are tacked to a corkboard. Several bookshelves, all crammed with books, line one wall. A old framed photograph sits on a bookshelf, a faded photo of twenty CHILDREN sitting on the front steps of the Orphanage. Sister Clara stands with them. Young Edward sits to one side. A weapons cabinet features racks lined with guns and blade weapons. In another corner is a work-out area. The sleek, modern kitchen and living quarters are in another corner. The bed is set up against a wall of large windows. Outside the windows, the sun is setting. Approaching the lab area, Carnby takes out the lynchpin artifact. He turns it around in his fingers, watching the light glint off it.}
 <LOC>__{EXT. DOCKS - NIGHT 24}
-<ACTION>__{The Ship is docked at a mist-enshrouded pier. Overhead lights along the dock illuminate the area. A transport truck is parked on the Dock just next to the Ship's loading ramp. In front of the ramp, five CREWMEN with automatic weapons stand guard, smoking and looking vigilant. SCENE 25 OMITTED}
+<ACTION>__{The Ship is docked at a mist-enshrouded pier. Overhead lights along the dock illuminate the area. A transport truck is parked on the Dock just next to the Ship's loading ramp. In front of the ramp, five CREWMEN with automatic weapons stand guard, smoking and looking vigilant. SCENE 25 }
 <LOC>__{EXT. SHIP DECK - NIGHT 26}
 <ACTION>__{Standing on the Ship's wide deck, Captain Chernick looks impatient. Hudgens stands over the large, barnacle-covered container. The container is secured with a heavy rusted lock. Two large, muscular men, the FIRST MATE and CREWMAN BARNES, check the chains connecting the container to the huge crane on the deck. They are preparing to load it onto the truck on the Dock.}
 <CHAR>__{CAPTAIN CHERNICK} <CHAR_PAR>__{}
@@ -263,16 +263,16 @@
 <ACTION>__{The lights in the Storage Room start to flicker on and off. Hudgens looks up at the lights.}
 <CHAR>__{HUDGENS} <CHAR_PAR>__{}
 <DIAL>__{They're faster than I thought...}
-<ACTION>__{SCENE 38 OMITTED}
+<ACTION>__{SCENE 38 }
 <LOC>__{INT. SHIP DECK 39}
 <ACTION>__{he lights continue to flicker. Captain Chernick turns to the Storage Room door. He looks back at the First Mate and Crewman Barnes.}
 <CHAR>__{CAPTAIN CHERNICK} <CHAR_PAR>__{}
 <DIAL>__{Kill him.}
 <ACTION>__{The First Mate and Crewman Barnes pull out revolvers. They approach the Storage Room door. There's a WHOOSH of movement behind them. The three men all turn, surprised. But nothing is there. Suddenly, Captain Chernick is thrown back by something invisible. He is hoisted into the air. He looks shocked. Captain Chernick seems to be floating just above the ground, although it is clear something invisible is holding him up. The First Mate and Crewman Barnes look on, stunned, their revolvers aimed at the floating Captain. Captain Chernick's body contorts, as if something had been thrust into it. With a burst of blood, a hole is ripped into his torso, killing him. Captain Chernick's lifeless body is dropped to the ground. Terrified, the First Mate and Crewman Barnes aim their}
-<LOC>__{4    revolvers at the empty air. They OPEN FIRE. INT. SHIP STORAGE ROOM}
+<LOC>__{4 revolvers at the empty air. They OPEN FIRE. INT. SHIP STORAGE ROOM}
 <ACTION>__{0 Hudgens stands at the door, listening to the GUNFIRE. He looks through the peephole in the door. The peephole is dirty, hard to see through. Something frantic is happening outside the door, but it's hard to see exactly what. There is more GUNFIRE and then SCREAMING. Short BURSTS of AUTOMATIC GUNFIRE follow, and more SCREAMING. And then, all is quiet. Hudgens grabs a discarded metal rod and jams it into the door handle, wedging it closed. He backs away from the door. The only weapon he can see is a box-cutter. He grabs it, holding it out in front of him. Suddenly, there's a CRASH at the door. Something pushes at the door, trying to get in. The door RATTLES and THUMPS from the impact. Hudgens, still holding the box-cutter, strains against the door, using all the effort he can muster to keep it shut. The metal rod wedged against the door is starting to buckle. Suddenly, the door is still. Hudgens waits. Nothing. There's a CRASH as another impact hits the door. The RACKET is even more intense. But the door holds. Finally, the thrashing stops. All is quiet again. The lights in the Storage Room stop flickering. They come back on. Hudgens listens, straining to hear anything at all. Cautious, Hudgens pulls away the metal rod. He gingerly touches the door. With a long CREAK, it slowly swings open. The crowbar was shaken loose from all the impacts. SCENE 45 INCORPORATED INTO SCENE 40}
 <LOC>__{46 INT. SHIP DECK - CONTINUOUS}
-<ACTION>__{Hudgens steps out of the Storage Room. He looks around the Deck. Mist blows in off the water. The night is quiet. Bodies lie everywhere, Captain Chernick, the First Mate, Crewman Barnes, the other Crewmen. Their weapons lie next to their slashed, ripped open bodies. Bullet holes are pocked around the Deck. Streaks of blood are smeared everywhere. Shell casings and corpses are all that remain of the battle. Tense, carefully looking around, Hudgens walks up to the empty gold container. He reaches into it, pressing a concealed panel at the back of the container. The panel opens, revealing a small artifact. The artifact is a thin hollow cylinder with a thick little protrusion on one end. It is covered in Abkani symbols. Hudgens takes out the artifact. He turns it around in his hand. He looks pleased. SCENE 47 OMITTED}
+<ACTION>__{Hudgens steps out of the Storage Room. He looks around the Deck. Mist blows in off the water. The night is quiet. Bodies lie everywhere, Captain Chernick, the First Mate, Crewman Barnes, the other Crewmen. Their weapons lie next to their slashed, ripped open bodies. Bullet holes are pocked around the Deck. Streaks of blood are smeared everywhere. Shell casings and corpses are all that remain of the battle. Tense, carefully looking around, Hudgens walks up to the empty gold container. He reaches into it, pressing a concealed panel at the back of the container. The panel opens, revealing a small artifact. The artifact is a thin hollow cylinder with a thick little protrusion on one end. It is covered in Abkani symbols. Hudgens takes out the artifact. He turns it around in his hand. He looks pleased. SCENE 47 }
 <LOC>__{INT. BUREAU 713/HALLWAY - NIGHT 48}
 <ACTION>__{Everything in Bureau 713's Headquarters looks sleek and high- tech. There are no windows anywhere. COMMANDER BURKE (late 30s) strides purposefully down the hallway. He is confident to the point of arrogance. His second-in-command, AGENT MILES (mid-30s), driven and efficient, hurries to keep up.}
 <CHAR>__{BURKE} <CHAR_PAR>__{}
@@ -303,7 +303,7 @@
 <CHAR>__{AGENT YONEK} <CHAR_PAR>__{}
 <DIAL>__{Recalibrating sensors now, sir.}
 <ACTION>__{Burke looks concerned for the first time.}
-<LOC>__{INT. ORPHANAGE/DEN - NIGHT   - TWENTY YEARS AGO 50}
+<LOC>__{INT. ORPHANAGE/DEN - NIGHT - TWENTY YEARS AGO 50}
 <ACTION>__{Young Edward (age 10) walks through the Den. The lights are all out. The Den is musty, but clean. A sliver of light glows from underneath the doorway to Sister Clara's bedroom. Young Edward KNOCKS softly on the door. Sister Clara opens the door. She wears her nightgown.}
 <CHAR>__{SISTER CLARA} <CHAR_PAR>__{}
 <DIAL>__{Still having trouble sleeping, Edward? You can't stay up all night, you know.}
@@ -391,7 +391,7 @@
 <ACTION>__{Carnby gets up to leave. He picks up the file.}
 <CHAR>__{CARNBY } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Thanks Fischer. It's good to know I've still got friends at 713.}
-<ACTION>__{SCENE 59 OMITTED}
+<ACTION>__{SCENE 59 }
 <LOC>__{EXT. MUSEUM - DUSK 60}
 <ACTION>__{As the sun sets, the streetlights around the Museum all come on in unison, bathing the area in a warm glow. The lights are all on in the Museum.}
 <LOC>__{INT. MUSEUM/ALINE'S OFFICE - NIGHT 61}
@@ -1377,7 +1377,7 @@
 <CHAR>__{HUDGENS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{When we found the first of them, 713 saw just another threat to be eliminated. But I knew it was something more. It was the first. The first to wake. I've woken others since then. But the rest are coming...}
 <ACTION>__{As Hudgens speaks, Carnby, Burke, and Aline exchange a look between them. Carnby's eyes indicate the C-4 in Agent Barr's pack. Burke and Aline understand. The cracks splinter out, dividing, until they cover the entire door. In a rush of fragments, the cracked gold crumbles to the ground. he empty doorway now leads into darkness on the other side. SCENES 170B TO 170D NOW SCENES 119H TO 119J}
-<LOC>__{1     SCENE 174 INCORPORATED INTO SCENE 170}
+<LOC>__{1 SCENE 174 INCORPORATED INTO SCENE 170}
 <CHAR>__{INT. CAVE} <CHAR_PAR>__{}
 <ACTION>__{Hudgens steps through the doorway. The doorway opens up into a vast Cave, hundreds of feet high and wide, stretching off into darkness. The cave walls are rough-hewn rock, untouched by human hands. The walls of the Cave are marked with hundreds and hundreds of tunnels, pocking the rock like a hive, leading off into the depths of the mountain. Hudgens moves into the Cave, tentative, but excited. Suddenly, there's a SCRATCHING, SCURRYING sound. A xenomorph creature emerges out of one of the tunnels. Out of another tunnel comes a second xenomorph. And a third. Across the vast cave, dozens of xenomorphs creep out of individual tunnels. Hudgens steps further into the Cave. The xenomorphs approach him, their heads darting about. The xenomorphs surround Hudgens on all sides. His steps are careful. He reaches his hand out to one of the creatures.}
 <ACTION_ALT>__{T}
@@ -1432,7 +1432,7 @@
 <ACTION>__{A tremendous EXPLOSION rocks the Shaft. A swirling geyser of flame shoots up towards the top of the Shaft.}
 <LOC>__{EXT. ORPHANAGE - DAWN}
 <ACTION>__{Carnby and Aline dive out of the Shaft just in time. The geyser of flame erupts out of the Storm Cellar. The shock-wave knocks them to the ground. A cloud of dust swirls up out of the Shaft.}
-<LOC>__{EXT. MINE   - DAY}
+<LOC>__{EXT. MINE - DAY}
 <ACTION>__{The Mine shakes from the explosion. Great clouds of dust and rock fragments billow out of the Entrance Hall.}
 <ACTION_ALT>__{T}
 <ACTION>__{he whole mountain RUMBLES from the detonation.}

@@ -2202,7 +2202,7 @@
 <DIAL>__{Okay.}
 <ACTION>__{With fingers, they both count off "One. Two. Three."}
 <CHAR>__{ADAM                              ZACK} <CHAR_PAR>__{}
-<DIAL>__{**}
+<DIAL>__{}
 <ACTION>__{Jimmy.                              Jimmy in makeup.}
 <CHAR>__{ADAM} <CHAR_PAR>__{}
 <DIAL>__{Jimmy?}
@@ -2548,7 +2548,7 @@
 <DIAL>__{How was your drive? We flew.}
 <ACTION>__{Victor hands the gun off to Vic Jr., who rests it at the back of Simon's head. Simon is moments away from execution. All at once...}
 <CHAR>__{GAINES                                SIMON} <CHAR_PAR>__{}
-<ACTION>__{HeyHeyHey. Not here, not now.          Please no. God! Shit! I This is so not where you want          don't wanna die.                           ** to be doing this.}
+<ACTION>__{HeyHeyHey. Not here, not now.          Please no. God! Shit! I This is so not where you want          don't wanna die.                            to be doing this.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{Do it.}
 <ACTION>__{Vic Jr. COCKS the gun. Simon SQUEALS. At the last moment...}
@@ -2585,7 +2585,7 @@
 <CHAR>__{VIC JR.} <CHAR_PAR>__{}
 <DIAL>__{I can't. 109-113.}
 <CHAR>__{VICTOR                                VIC JR.} <CHAR_PAR>__{}
-<ACTION>__{What do you mean you can't?           It's hard to shoot somebody (beat)                            who knows they're gonna be               ** You pull the fucking trigger.         shot. It's dif'rent.}
+<ACTION>__{What do you mean you can't?           It's hard to shoot somebody (beat)                            who knows they're gonna be                You pull the fucking trigger.         shot. It's dif'rent.}
 <CHAR>__{SIMON} <CHAR_PAR>__{}
 <DIAL>__{It's all right. Really.}
 <ACTION>__{Claire rolls her eyes -- this is going to take forever. While the Vic's argue, Claire grabs her coat and purse.}

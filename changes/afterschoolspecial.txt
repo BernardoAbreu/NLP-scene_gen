@@ -11,7 +11,7 @@
 <ACTION>__{The sounds echo in the empty hall. Behind the stage a light from an open door...}
 <CHAR>__{MATT } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{This is unwatchable. It's not even in focus. And geez, look, the boom mike is in the shot. This is really shoddy work.}
-<LOC>__{INT. WILLIAM WALL HIGH SCHOOL - A/V ROOM   - DAY}
+<LOC>__{INT. WILLIAM WALL HIGH SCHOOL - A/V ROOM - DAY}
 <ACTION>__{The door leads into this room, as we continue on to a TV MONITOR displaying a sweaty guy's ugly face.}
 <CHAR>__{DEACON } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Why do they always show the guy's face? It's like, can't we just assume he's enjoying it?}
@@ -73,7 +73,7 @@
 <DIAL>__{All great directors start this way. I'm documenting the essence of high school. Teenagers running to meet their destiny only to find it's just home room. It's very existential.}
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{So's my balls. See you later.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. OUTSIDE THE LOCKER ROOMS - DAY}
 <ACTION>__{Matt trudges into the locker room area, holding a towel to his bloody nose.}
 <CHAR>__{DEACON } <CHAR_PAR>__{(V.O.)}
@@ -226,7 +226,7 @@
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{Oh, that's just not fair.}
 <ACTION>__{Fred adjusts himself.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. VIDEO CASA DEL RUSS A.K.A. RUSS'S VIDEO MAGIC - DAY}
 <ACTION>__{Fred arrives dressed for work (name tag, shirt, etc.) and waves to RUSS, the scraggly owner of this small video rental store. Fred passes J.T., Mark, Wendy, and Kelly and a bunch of other CUSTOMERS on his way to the back section of the store.}
 <ACTION_ALT>__{ADULT SECTION}
@@ -273,7 +273,7 @@
 <ACTION>__{The Tester rubs his brow.}
 <LOC>__{INT. DMV - DAY}
 <ACTION>__{FLASH! Deacon's picture is taken. He passed.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. DEACON'S HOUSE - DAY}
 <ACTION>__{It's dark, but suddenly the lights come on.}
 <CHAR>__{EVERYONE} <CHAR_PAR>__{}
@@ -374,7 +374,7 @@
 <DIAL>__{He's got a point.}
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{Fine. Watch your balls.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. COOP'S HOUSE - NIGHT}
 <ACTION>__{CLOSE ON a set of feet, stomping on a Sony D.D.R. mat. REVEAL TOM COOPERMAN dancing up a storm, in a heated competition against several challengers. The CROWD goes wild at Coop's moves. The DOORBELL RINGS. Continuing his dance steps, Coop moves to the door.}
 <LOC>__{EXT. COOP'S HOUSE - FRONT DOOR - NIGHT}
@@ -460,7 +460,7 @@
 <DIAL>__{What an asshole.}
 <ACTION>__{As soon as Jake is out of sight, Deacon turns back to Naomi, but she's already gone, stranding Deacon. What just happened here? REVEAL Matt helping Roger drink a beer in the background.}
 <LOC>__{EXT. COOP'S HOUSE - BACK YARD - LATER}
-<ACTION>__{Deacon wanders out back. It's   very dark and there are several people in the pool, including   Jake's good-looking friends, Kelly, Wendy, J.T., and MARK.   It's hard to tell in the dark water, but it looks like they   might not be wearing any clothes. Deacon sees this and   starts to walk away.}
+<ACTION>__{Deacon wanders out back. It's very dark and there are several people in the pool, including Jake's good-looking friends, Kelly, Wendy, J.T., and MARK. It's hard to tell in the dark water, but it looks like they might not be wearing any clothes. Deacon sees this and starts to walk away.}
 <CHAR>__{J.T.} <CHAR_PAR>__{}
 <DIAL>__{Deacon. I heard it was your birthday. Come on in the pool, man.}
 <CHAR>__{DEACON} <CHAR_PAR>__{}
@@ -617,7 +617,7 @@
 <CHAR>__{MRS. LEWIS} <CHAR_PAR>__{}
 <DIAL>__{Well, it's also a lot of money. I'll tell you what. Maybe you can get an after school job to earn money for a car. I'll talk to your father.}
 <ACTION>__{Deacon is stewing.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FRED'S BEDROOM - DAY}
 <ACTION>__{CLOSE ON a web browser as the following URL is typed in: www.nicelookinggirlsthatgetnaked4U.com. The Cyber Granny parental block pops up. Denied. www.homeroomteachersdoingitbeforeschool.com Cyber Granny. Denied. www.ineedfreepornnow.org Denied.}
 <CHAR>__{FRED} <CHAR_PAR>__{}
@@ -1157,7 +1157,7 @@
 <ACTION>__{- CLOSE ON a trashcan, the guys are throwing up. PULL BACK TO}
 <TRANS>__{REVEAL:}
 <ACTION>__{- Boot and rally. The guys wipe their faces and join a gaggle of Strippers heading into an Amusement Park.}
-<LOC>__{EXT. AMUSEMENT PARK - VARIOUS BOOTHS   - NIGHT}
+<LOC>__{EXT. AMUSEMENT PARK - VARIOUS BOOTHS - NIGHT}
 <ACTION>__{- Carney games. Matt wins a stuffed animal for Plantain. - Cotton candy, Roller Coaster rides, etc.}
 <LOC>__{EXT. AMUSEMENT PARK - FUDGE FACTORY - NIGHT}
 <ACTION>__{- The group is crammed into a booth at the Fudge Factory, eating ice cream sundaes. Matt shoots the straw wrapper at one stripper. She whips some ice cream at him. Food fight!}
@@ -1496,7 +1496,7 @@
 <CHAR>__{COOP } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(awestruck)}
 <DIAL>__{You guys are gonna be legends of the school.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FRED'S BEDROOM - NIGHT}
 <ACTION>__{Fred and Matt are huddled around the computer.}
 <CHAR>__{FRED} <CHAR_PAR>__{}
@@ -1524,7 +1524,8 @@
 <CHAR>__{MATH TEAM CAPTAIN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Now that really computes!}
 <ACTION>__{Click. Pre-order.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. JAPAN - DAY}
 <ACTION>__{STOCK FOOTAGE: Recognizable Japanese landmarks, etc.}
 <LOC>__{INT. TEEN BOY'S BEDROOM - KYOTO, JAPAN - NIGHT}
@@ -1534,7 +1535,8 @@
 <CHAR>__{CHEERLEADER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Oh, God, yes! I never knew math could be so stimulating!}
 <ACTION>__{Click. Pre-order.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. WILLIAM WALL HIGH SCHOOL - PARKING LOT - DAY}
 <ACTION>__{Deacon and his biology class are getting on a school bus. Nearby, Naomi is crossing the parking lot when she trips and spills her latte on her shirt. People start laughing, but Deacon instinctively rushes over to pick up her books.}
 <CHAR>__{DEACON} <CHAR_PAR>__{}
@@ -1899,8 +1901,8 @@
 <ACTION>__{Deacon's mind is racing. Then,}
 <CHAR>__{ASHLEY} <CHAR_PAR>__{}
 <DIAL>__{I'm Deacon's girlfriend. Ashley.}
-<CHAR>__{MRS. LEWIS                       MR. LEWIS} <CHAR_PAR>__{}
-<ACTION>__{His girlfriend?                  His girlfriend?}
+<CHAR>__{MRS. LEWIS MR. LEWIS} <CHAR_PAR>__{}
+<ACTION>__{His girlfriend? His girlfriend?}
 <CHAR>__{DEACON} <CHAR_PAR>__{}
 <DIAL>__{Yes, my girlfriend.}
 <CHAR>__{MRS. LEWIS} <CHAR_PAR>__{}
@@ -2417,7 +2419,11 @@
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{Fine.}
 <ACTION>__{Matt and Fred get up and leave.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{INT. DEACON'S HOUSE - KITCHEN - NIGHT}
 <ACTION>__{The family eats dinner in silence. Deacon feels like shit.}
 <CHAR>__{MRS. LEWIS} <CHAR_PAR>__{}
@@ -2514,7 +2520,7 @@
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{How was it?}
 <CHAR>__{DEACON} <CHAR_PAR>__{}
-<DIAL>__{Good.   At first. But then I kept   thinking about   all the pornos. Trying to   hit the right   spots, positions. I don't   know. After   a while it kind of seemed   like work.}
+<DIAL>__{Good. At first. But then I kept thinking about all the pornos. Trying to hit the right spots, positions. I don't know. After a while it kind of seemed like work.}
 <CHAR>__{MATT} <CHAR_PAR>__{}
 <DIAL>__{I find that extremely difficult to believe.}
 <ACTION>__{Deacon laughs.}
@@ -2934,10 +2940,14 @@
 <DIAL>__{Who the hell are you?}
 <CHAR>__{VIC} <CHAR_PAR>__{}
 <DIAL>__{The competition. And who the hell are you, coming into my town, paying girls double what I'm paying them? This stupid After School Special shit is cutting into my business. So now I'm putting you out of business.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. DEACON'S HOUSE - FAMILY ROOM - NIGHT}
 <DIAL>__{The folks are reading.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
 <LOC>__{EXT. ABANDONED WAREHOUSE - NIGHT}
 <DIAL>__{CLOSE ON the Aerostar bumper sticker, "My child is on the honor roll at William Wall High School." CRANE SHOT up to the second floor landing.}
 <LOC>__{INT. ABANDONED WAREHOUSE - NIGHT}
@@ -2999,7 +3009,7 @@
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{Except you promise to supply us with quality porn free of charge.}
 <DIAL_PAR>__{(off Deacon's look)}
-<CHAR>__{FRED   } <CHAR_PAR>__{(CONT'D)}
+<CHAR>__{FRED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{It could come in handy. I mean, until we get girlfriends.}
 <CHAR>__{MATT} <CHAR_PAR>__{}
 <DIAL>__{And...}

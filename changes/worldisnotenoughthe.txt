@@ -513,7 +513,7 @@
 <DIAL_PAR>__{(excellent English)}
 <DIAL>__{Bond. A government man. I'm afraid since you English got the boss killed we've been a little...jumpy.}
 <ACTION>__{Bond stares ahead, watches a PRIVATE JET swoops past...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. AIRSTRIP AREA NEAR CONSTRUCTION SITE, NEAR CAUCASUS}
 <ACTION>__{MOUNTAINS - DAY The jet lands on a runway of the metal sheets Bond saw being laid as he passed...}
 <LOC>__{EXT. CONSTRUCTION SITE, NEAR CAUCASUS MOUNTAINS - DAY}
@@ -614,7 +614,7 @@
 <DIAL>__{Some say oil is in my family's blood.  I say our blood is in the oil. This is the very heart of the planet.  Up here in the hills was Eden, literally.  Look what the Russians did to it.  Now we have a second chance and this time we'll do it right. When the other wells have all dried up, she'll still be pumping her lifeblood to the world.  And this}
 <DIAL_PAR>__{(proudly, of pipeline)}
 <DIAL>__{Will be one of the main arteries...}
-<ACTION>__{OMITTED 75-}
+
 <LOC>__{EXT. POV FROM HELICOPTER - DAY}
 <ACTION>__{Bond and Elektra travel beside the vast pipe through dramatic, beautiful, scenery...}
 <LOC>__{INT. HELICOPTER - DAY}
@@ -1311,7 +1311,8 @@
 <DIAL>__{They won't get far. Every warhead has a locator card.  A Miratom device.  Emits a high-pitched signal on Russian emergency frequencies. We can track the bomb.}
 <CHAR>__{BOND} <CHAR_PAR>__{}
 <DIAL>__{With this?}
-<ACTION>__{Bond removes the locator card from his jacket and shows it to her.  It flashes in the sun. Christmas shakes her head, disgusted. OMITTED 170 - 172}
+<ACTION>__{Bond removes the locator card from his jacket and shows it to her.  It flashes in the sun. Christmas shakes her head, disgusted.}
+
 <TRANS>__{DISSOLVE:}
 <LOC>__{INT. BRIEFING ROOM, CASTLE THANE (MI-6 HQ) - DAY}
 <ACTION>__{Busy.  Analysts huddle over monitors showing satellite images, trying to track the plane.}
@@ -1346,7 +1347,7 @@
 <ACTION>__{M stares at the girl's face, her whole sordid history written there.  M turns away from the screen and says to Tanner...}
 <CHAR>__{M} <CHAR_PAR>__{}
 <DIAL>__{Get me out there.}
-<ACTION>__{OMITTED:174 - 201}
+
 <LOC>__{EXT. ELEKTRA'S VILLA, BAKU - STORM APPROACHING}
 <ACTION>__{Elektra's villa against blue-black storm clouds, the Caspian choppy, wind blowing.}
 <LOC>__{INT. ELEKTRA'S VILLA - BAKU - DAY}
@@ -1531,7 +1532,8 @@
 <LOC>__{INT. COMMAND ROOM - PIPELINE CONTROL CENTRE - CONTINUOUS}
 <ACTION>__{The room is quiet, tense.  M and her two men, Elektra, Gabor, the King TECHNICIAN and three armed security guards at the doors. They are the only ones left.  Going down with the ship...if it goes.  M and Elektra watch the two lights now together on the console.  A tense silence.  Everyone's edgy. Elektra perhaps a little more than the rest.  She exchanges a glance with Gabor.}
 <LOC>__{INT. ELECTRIC RIG - PIPELINE (TRAVELLING) - DAY}
-<ACTION>__{CLOSE INSIDE THE BOMB:  the timer.  1:45 MINUTES. Bond's face betrays the difficulty of what they're attempting.  The digital clock ticks down... 1:30, 1:29... OMITTED 217-218}
+<ACTION>__{CLOSE INSIDE THE BOMB:  the timer.  1:45 MINUTES. Bond's face betrays the difficulty of what they're attempting.  The digital clock ticks down... 1:30, 1:29...}
+
 <LOC>__{INT. PIPELINE - DAY}
 <ACTION>__{The rigs speed through the tunnel. Nothing to see.  But WHOOSH!  As the rigs hurtle past...}
 <LOC>__{INT. ELECTRIC RIG - PIPELINE (TRAVELLING) - DAY}
@@ -1771,7 +1773,8 @@
 <LOC>__{EXT. WALKWAYS - SAME}
 <ACTION>__{Bond sees Zukovsky and Christmas swimming to safety.  The chopper bears down on him.  He leaps back to what's left of the building, picks up a flare gun.  He jumps down to a walkway at water level and cranks open a rusted GAS JET...he then waits for the Chopper to line up over it as it approaches Bond for the kill.... Bond fires the flare gun... THE GAS EXPLODES! The Chopper tries to pull away, but it's too late.  The flames engulf it, igniting a fireball.}
 <ACTION_ALT>__{IN THE WATER}
-<ACTION>__{Zukovsky pulls himself back onto a walkway and heads for the factory, but speeding at him are to FREE-FLYING SAW BLADES from the chopper that has just exploded! OMITTED 231S to 231Z}
+<ACTION>__{Zukovsky pulls himself back onto a walkway and heads for the factory, but speeding at him are to FREE-FLYING SAW BLADES from the chopper that has just exploded!}
+
 <LOC>__{EXT. WALKWAY}
 <ACTION>__{Zukovsky dives away -- into a CAVIAR PIT.  The saws embed in the cabin behind him. The caviar pit is like sinking sand, deep -- he's going under.  Flounders, trying to cling to a crate blown in there by the explosion.  Then he looks in horror:}
 <LOC>__{EXT. SIDE OF CAVIAR PIT (OLD SC. 199)}
@@ -1835,7 +1838,7 @@
 <DIAL>__{Where?}
 <CHAR>__{ZUKOVSKY} <CHAR_PAR>__{}
 <DIAL>__{Istanbul.}
-<ACTION>__{OMITTED:233}
+
 <LOC>__{INT/EXT. BALCONY/MAIDEN'S TOWER - BOSPHORUS - NIGHT}
 <ACTION>__{Beyond iron balustrades we see one of the most fabulous views in the world -- on one side the still waters of the Golden Horn, on the other, the dancing waves of the unsheltered Bosphorus -- and in between, the tumbling roofs, soaring minarets and crouching mosques of the Pera district. RENARD scans the water with night-vision binoculars.}
 <LOC>__{EXT. BOSPHORUS - NIGHT - HIS GREEN POV:}
@@ -1893,7 +1896,7 @@
 <ACTION_ALT>__{IT READS TWO A.M.}
 <ACTION>__{She drops her head back on the wall.  She will not sleep tonight.}
 <TRANS>__{DISSOLVE TO:}
-<ACTION>__{OMITTED: 236 - 243}
+
 <LOC>__{EXT. ISTANBUL - DAWN}
 <ACTION>__{ESTABLISH the vast city astride the Bosphorus.}
 <LOC>__{EXT. ISTANBUL STREETS - SAME}
@@ -2421,7 +2424,7 @@
 <ACTION_ALT>__{BOND AND RENARD}
 <ACTION>__{struggle...  Both slamming into switches and buttons.}
 <TRANS>__{CUT TO:}
-<ACTION>__{OMITTED 314-316}
+
 <LOC>__{INT. SUBMARINE - CONTINUOUS}
 <ACTION>__{THE GAUGE IS PASSING 4900, EDGING TOWARDS THE NO-WAY-BACK}
 <LOC>__{5000 MARK.  Meltdown imminent...}

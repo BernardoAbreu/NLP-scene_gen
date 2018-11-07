@@ -391,7 +391,7 @@
 <CHAR>__{VERA JOHNSON} <CHAR_PAR>__{}
 <DIAL>__{I'm sure you would, dear. But I couldn't give you the same job satisfaction Jeff gave you.}
 <ACTION>__{Jennifer, embarrassed, didn't know Vera knew.    Nor did Dodge.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. CONDOMINUM COMPLEX - DAY}
 <ACTION>__{A retirement community in the Florida sunshine.}
 <LOC>__{INT. CONDO ELEVATOR/HALLWAY - DAY - THE ELEVATOR DOORS}
@@ -744,7 +744,7 @@
 <ACTION>__{A NETWORK ANCHOR at an election-night news set.}
 <CHAR>__{NETWORK ANCHOR} <CHAR_PAR>__{}
 <DIAL>__{If you're just joining us, our exit polls project that in Florida, an unknown, independent candidate whose sole asset appears to be his name may just possibly win a slim victory.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                               thru}
 <LOC>__{42 EXT. BAIT SHACK - NIGHT}
 <ACTION>__{Blinding lights. Media circus.     TV power cords, a huge tangle snaking back toward mobile   generators. Cameramen narrowly miss knocking each other   into the water. A STEEL DRUM BAND plays "Happy Days   Are Here Again." The small crowd -- Tommy's cronies, their pals, and a jubilant contingent of Panthers led by Hattie -- lets out a great WHOOP.}
@@ -799,7 +799,7 @@
 <DIAL>__{Oh, Jesus, the IMF's in town.    Where are we going to find a room?}
 <CHAR>__{TOMMY} <CHAR_PAR>__{}
 <DIAL>__{Four rooms.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. AIRPORT BAR - DAY}
 <ACTION>__{The entourage is enjoying a round of libations. Reinhardt runs up.}
 <CHAR>__{REINHARDT} <CHAR_PAR>__{}
@@ -836,10 +836,10 @@
 <DIAL>__{Thanks for getting us settled, really appreciate it.}
 <DIAL_PAR>__{(to driver)}
 <DIAL>__{Madison Hotel.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. MEMORIAL BRIDGE - MAGIC HOUR}
 <ACTION>__{The bridge over the Potomac has a classic view of the Lincoln Memorial and the Washington Monument. Their taxi drives by.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                               &}
 <LOC>__{54 EXT. CANNON BUILDING - DAY}
 <ACTION>__{Morning. Tommy and cronies get out of a cab and bound up the grand flight of stairs. In b.g., the Capitol dome.}
@@ -1233,7 +1233,7 @@
 <ACTION>__{She slips out through the sea of revelers.}
 <LOC>__{EXT. CAPITOL - DAY}
 <ACTION>__{A fine Washington morning.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. CAPITOL STEPS - DAY}
 <ACTION>__{Rep. ELIJAH MARSHALL, 50s, black, and a pain in Dodge's ass, is shaking hands and saying goodbye to some Constituents. Dodge approaches.}
 <CHAR>__{DODGE} <CHAR_PAR>__{}
@@ -1947,7 +1947,7 @@
 <DIAL>__{Oh, yeah, I met one of those geeks. So what can I do?}
 <CHAR>__{CELIA} <CHAR_PAR>__{}
 <DIAL>__{Make a stink. Round up some Members and hold a press conference. Get that committee of yours to hold hearings. Haul in in the Environmental Protection Agency, the Surgeon General, the National Academy of Sciences. Get the issue on every breakfast table in America.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. POWER AND ENTERPRISE COMMITTEE - DAY}
 <ACTION>__{A press conference. Half a dozen congressmen, Tommy among them. Iowa is speaking to the few Cameras and Reporters. Beside him, Mickey Juba and her mother. Reinhardt and Ceila among the handful of staff and onlookers.}
 <CHAR>__{IOWA} <CHAR_PAR>__{}
@@ -1969,7 +1969,7 @@
 <CHAR>__{TOMMY} <CHAR_PAR>__{}
 <DIAL>__{Speaking of hopeless causes...}
 <ACTION>__{They kiss, and slide OUT OF FRAME.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                   &}
 <LOC>__{114 INT. DODGE'S OFFICE - NIGHT}
 <ACTION>__{An impressive THUNDERSTORM pounds on Dodge's windows.}
@@ -2117,7 +2117,7 @@
 <CHAR>__{DODGE} <CHAR_PAR>__{}
 <DIAL>__{I'll drink to that.}
 <ACTION>__{Dodge and Andersen shoot each other a look.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                 &}
 <LOC>__{117 EXT. TOMMY'S HOUSE - NIGHT}
 <ACTION>__{Tommy pulls up in a Corvette with Florida congressional plates in front of his Capitol Hill row house.}

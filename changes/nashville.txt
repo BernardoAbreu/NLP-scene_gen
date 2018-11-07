@@ -252,7 +252,7 @@
 <CHAR>__{BUD} <CHAR_PAR>__{}
 <DIAL>__{Okay. Anything you want me to say?}
 <CHAR>__{HAVEN} <CHAR_PAR>__{}
-<DIAL>__{Say I had to get back to the session. ~ God -- All school did for you, you can put in a thimble.}
+<DIAL>__{Say I had to get back to the session.   God -- All school did for you, you can put in a thimble.}
 <CHAR>__{PEARL} <CHAR_PAR>__{}
 <DIAL>__{The cops came through and broke it up. I finally just had to call Chet and say, 'Chet, get over here. There are two old bays here breaking up the furniture...'}
 <TRANS>__{CUT TO:}
@@ -361,7 +361,7 @@
 <CHAR>__{TRIPLETTE} <CHAR_PAR>__{}
 <DIAL>__{Ryan O'Neal.}
 <CHAR>__{REESE} <CHAR_PAR>__{}
-<DIAL>__{You really do?  ~ God -- How come you know them?}
+<DIAL>__{You really do?    God -- How come you know them?}
 <CHAR>__{TRIPLETTE} <CHAR_PAR>__{}
 <DIAL>__{Oh, you meet them at parties and stuff.}
 <CHAR>__{REESE} <CHAR_PAR>__{}
@@ -2319,7 +2319,7 @@
 <LOC>__{188    NEW ANGLE}
 <ACTION>__{Albuquerque starts to take off her clothes. The MC hasn't noticed, but the grandstand has. People shout, "Take it off..." ALBUQUERQUE loves it. Before ALBUQUERQUE can remove the last two garments, the MC rushes over and grabs the mike.}
 <CHAR>__{MC} <CHAR_PAR>__{}
-<DIAL>__{We'd 1ike~to announce the winner of tonight's contest. Albuquerque, How about some applause for a darling little lady}
+<DIAL>__{We'd 1ike to announce the winner of tonight's contest. Albuquerque, How about some applause for a darling little lady}
 <CHAR>__{ALBUQUERQUE} <CHAR_PAR>__{}
 <DIAL>__{Oh, I'm not through.}
 <CHAR>__{MC} <CHAR_PAR>__{}

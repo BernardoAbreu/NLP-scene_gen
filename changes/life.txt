@@ -1562,8 +1562,8 @@
 <ACTION>__{The trusties shove them each into a small, dank cell and slam the doors behind them. Dillard secures both doors with an iron bar.}
 <CHAR>__{DILLARD} <CHAR_PAR>__{}
 <DIAL>__{See you in a week, boys.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. RAY'S CELL -- DAY}
 <ACTION>__{Ray slumps to the floor, propping his feet against the wall.}
 <CHAR>__{RAY} <CHAR_PAR>__{}
@@ -2116,7 +2116,7 @@
 <ACTION>__{INSERT -- TIME PASSAGE A. In his Pittsburgh Crawfords uniform, Can't Get Right lays into a fast ball, sending it soaring into the bleachers... B. People dance in the street in Time Square, marking the end of WWII... C. Hoppin' Bob drops a package on Ray's bunk. Ray rips off the brown paper to reveal a book: "So You Want to Learn to Fly..." D. Claude and Sylvia make love in the tonk house... E. In the mess hall, Ray pointedly carries his tray past a table where Claude sits with Willie... F. An A-bomb explodes in the Bikini Atolls... G. Jimmy Stewart hugs his wife and children at the end of "It's a Wonderful Life"... H. Jackie Robinson slides across home plate at Ebbets Field... I. Ray runs full tilt across a field toward a barn. Sure enough, there's the single engine crop duster parked right where he said it would be... J. Claude and another INMATE repair a hole in the bunkhouse roof. They dive for cover as Ray's crop duster swoops low overhead and dips out of sight beyond the trees. A puff of smoke rises into the sky... K. Soot-stained, Ray is marched to the hole and shoved inside... L. Newly elected president Harry Truman holds up a copy of the Chicago Tribune baring the headline "Dewey Defeats Truman"... M. RCA unveils the first color television... N. Cars pull up next to speaker poles in front of a drive-in movie screen... O. In the bunkhouse, early rock and roll plays on a modern}
 <LOC>__{1950s radio that sits where the old vacuum tube receiver}
 <ACTION>__{used to be. A YOUNG TOUGH now occupies Radio's old bunk... P. At the poker table, Poker Face slumps forward onto his pile of chips, revealing a straight flush. The other men quickly fold... Q. With a TRUSTY standing guard, Claude and Ray silently shovel dirt into Poker Face's grave. The CAMERA MOVES past gravemarkers -- Biscuit, Jangle Leg, Radio... R. Marilyn Monroe's skirt rises on a blast of subway air in "The Seven-Year Itch"... S. Rosa Parks is arrested for refusing to sit in the back of the bus... T. Elvis Presley creates a sensation on the Ed Sullivan Show... U. School children learn to "duck and cover" in the event of nuclear attack... V. The inmates of Camp 8 work to level a road. Ray's on one side, Claude's on the other... W. Prisoners mingle with friends and family on visiting Sunday. Claude waits on the bunkhouse steps. His face brightens when Sylvia appears... X. Blacks sit-in at lunch counters in Greensboro, N.C... Y. Kennedy is elected...}
-<ACTION_ALT>__{Z. OMITTED...}
+
 <ACTION>__{AA. Martin Luther King delivers his "I have a dream" speech at the Lincoln Memorial... BB. The Zapruder footage of Kennedy being shot... CC. American soldiers jump down from helicopters and run for the jungles in Vietnam... DD. Ford introduces the 1965 Mustang... EE. The assassination of Malcolm X... FF. Muhammad Ali looms over Sonny Liston, asking "What's my name?"... GG. The CAMERA MOVES past more gravemarkers -- Hoppin' Bob, Goldmouth -- to find Claude and Ray silently shoveling dirt over another casket. Ray pounds a simple marker into the ground: Cookie. Briefly, they lock eyes. But neither one speaks and the moment passes... HH. Go-Go dancers... II. Mao Tse Tung... JJ. Jimi Hendrix at the Monterey Pop Festival... KK. TV's Batman and Robin battle the forces of evil in Gotham City... LL. Black Panthers... MM. Peace Protesters... NN. The death of Martin Luther King... OO. Robert Kennedy... PP. Neil Armstrong sets foot on the moon... QQ. Vida Blue rears back and fires a pitch in the 1972 World Series...}
 <LOC>__{EXT. CAMP 8 YARD -- DAY}
 <ACTION>__{On the porch, Willie, now in his 70s, sits in a wheelchair watching the ball game on a black-and-white television. A TRUSTY waits nearby. Ray, now in his mid-60s, emerges from the bunkhouse lugging a duffle bag.}
@@ -2248,10 +2248,10 @@
 <DIAL>__{Oh, yard boy, these pansies could use some attention over here. Perhaps some fertilizer would restore their exuberance.}
 <LOC>__{EXT. MARSH -- DAY}
 <ACTION>__{Claude and Ray beat the bulrushes with switches, rustling a couple of pheasants from their hiding spot. As the birds take wing, Wilkins aims his shot gun and fires twice in rapid succession. Both birds fall from the sky in a flutter of feathers.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
+
+
 <LOC>__{INT. SUPERINTENDENT'S MANSION -- DAY}
 <ACTION>__{Claude fills Wilkins' water glass as the Superintendent takes a bite of lamb chop and winces in pain.}
 <CHAR>__{WILKINS} <CHAR_PAR>__{}
@@ -2630,8 +2630,8 @@
 <CHAR>__{RAY} <CHAR_PAR>__{}
 <DIAL>__{Hey, man, cover that shit up!}
 <ACTION>__{Disgusted, Ray discards his own Jell-O. He pulls out his daddy's pocket watch and checks the time. The little mechanical tune nags at him. He snaps the lid shut and considers the watch resting in the palm of his hand.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. INFIRMARY -- NIGHT}
 <ACTION>__{The building is dark. But then, through a first-floor window, we see the unmistakable orange glow of a fire.}
 <LOC>__{INT. INFIRMARY -- NIGHT}

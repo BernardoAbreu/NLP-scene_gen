@@ -68,7 +68,7 @@
 <DIAL_PAR>__{(more)}
 <CHAR>__{VALJEAN } <CHAR_PAR>__{(cont'd)}
 <DIAL>__{And now lets see What this new world Will do for me!}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{EXT. COUNTRY ROAD - DAY}
 <ACTION>__{Valjean strides down the long rising road, pulling his thin coat close round him against the cold winter wind. He passes a long line of labourers working. He approaches the OVERSEER.}
 <CHAR>__{VALJEAN} <CHAR_PAR>__{}
@@ -82,7 +82,7 @@
 <ACTION>__{The overseer scans the yellow paper, and hands it back.}
 <CHAR>__{OVERSEER} <CHAR_PAR>__{}
 <DIAL>__{No work here.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{EXT. MOUNTAIN ROAD - END OF DAY}
 <ACTION>__{Valjean slogs on up the rising track into the mountains. Snow on the ground here, and darkness falling. He looks up and sees ahead a village built on a rock cliff, its lights twinkling, the snowy mountains rising behind. The tower of its handsome church rises up like a promise of refuge. This is Digne.}
 <LOC>__{EXT. DIGNE - DUSK}
@@ -210,7 +210,7 @@
 <CHAR>__{BEGGARS' CHORUS} <CHAR_PAR>__{}
 <DIAL>__{At the end of the day there's another day dawning And the sun in the morning is waiting to rise Like the waves crash on the sand Like a storm that'll break any second There's a hunger in the land There's a reckoning still to be reckoned And there's gonna be hell to pay At the end of the day!}
 <ACTION>__{Javert looks round at the factory buildings, the boats in the harbour, the poor clamouring behind him, and rides on.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{EXT. FACTORY YARD, MONTREUIL - DAY}
 <ACTION>__{Heavy carts wait to be loaded with wooden crates of goods. Workmen carry the crates out of the factory as the FOREMAN strides in through the doors, gesturing to a cart driver, FAUCHELEVENT, who's taking a quick rest on a crate.}
 <LOC>__{INT. FACTORY, MONTREUIL - MEN'S SECTION - DAY}
@@ -878,7 +878,8 @@
 <DIAL>__{Everybody raise a glass!}
 <CHAR>__{MADAME THENARDIER} <CHAR_PAR>__{}
 <DIAL>__{Raise it up the master's arse! THENARDIER/CUSTOMERS Everybody raise a glass to the master of the house!}
-<LOC>__{40/41   SCENES OMITTED                                           40/41 EXT. WOOD BY THE INN - NIGHT}
+
+<LOC>__{EXT. WOOD BY THE INN - NIGHT}
 <ACTION>__{Cosette has filled her buckets at the well in the wood, and is now heading back. Through the dark trees ahead we glimpse the cheerful lights of the Frost Fair and the distant inn. She goes slowly, because the buckets are heavy. She hums to herself to keep her spirits up, a wordless verse of `Castle on a Cloud'. After a few steps she pauses to rest the weight of the buckets. Strong arms reach for the buckets and lift them out of her hands. She looks up, amazed. There's Valjean.}
 <CHAR>__{VALJEAN} <CHAR_PAR>__{}
 <DIAL>__{Hush now, do not be afraid of me. Don't cry. Show me where you live.}
@@ -973,7 +974,7 @@
 <ACTION>__{Valjean and Cosette make their way down a darkened street.}
 <LOC>__{EXT. PARIS - RIVER SEINE - NIGHT}
 <ACTION>__{Valjean and Cosette turn down a narrow street, no longer hurrying. The narrow street turns, and opens out onto the river. Valjean stops. There, on the other side of the river, in the light of a lamp, stands Javert.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{EXT. MAZE OF OLD STREETS - NIGHT}
 <ACTION>__{Now Valjean and Cosette are running - down narrow alleys, into small dark courtyards, not knowing which way to turn. Whenever Valjean thinks they've thrown their pursuer, there he is, not far behind. And he's no longer alone. With him are a detachment of soldiers. Javert and his team never seem to run. But he's always there.}
 <LOC>__{EXT. DEAD END - NIGHT}
@@ -1185,7 +1186,8 @@
 <DIAL>__{Eponine, do this for me, Discover where she lives. But careful how you go - Don't let your father know. Eponine! I'm lost until she's found.}
 <CHAR>__{EPONINE} <CHAR_PAR>__{}
 <DIAL>__{You see? I told you so! There's lots of things I know! Eponine, she knows her way around.}
-<LOC>__{56-61   SCENES OMITTED                                         56-61 EXT. PARIS POLICE HQ - NIGHT}
+
+<LOC>__{EXT. PARIS POLICE HQ - NIGHT}
 <ACTION>__{WIDE of the Police Headquarters on the Isle de la Cite: a huge bureaucracy. The camera finds Javert standing inside looking out of a door leading onto the roof. As he sings he walks out onto the roof and stands by the symbol of the HQ, a monumental stone eagle. He looks down at the lights reflected in the river below. Then up at the great city. Javert too has a God, and this is his prayer.}
 <CHAR>__{JAVERT} <CHAR_PAR>__{}
 <DIAL>__{There, out in the darkness A fugitive running Running from God Fallen from grace - God be my witness I never shall yield Till we come face to face - Till we come face to face... He knows his way in the dark Mine is the way of the Lord Those who follow the path of the righteous Shall have their reward And if they fall As Lucifer fell - The flame! The sword! Stars in your multitudes! Scarce to be counted Filling the darkness With order and light - You are the sentinels Silent and sure Keeping watch in the night - Keeping watch in the night... You know your place in the sky You hold your course}
@@ -1396,7 +1398,7 @@
 <CHAR>__{THENARDIER} <CHAR_PAR>__{}
 <DIAL>__{One little scream and you'll regret it for a year!}
 <ACTION>__{He goes to the gate and opens it. Eponine screams.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{INT. RUE PLUMET, PARIS - NIGHT}
 <ACTION>__{Valjean, now in his own bedroom, hears the scream and turns to the window.}
 <LOC>__{EXT. RUE PLUMET - NIGHT}
@@ -1437,7 +1439,7 @@
 <CHAR>__{VALJEAN} <CHAR_PAR>__{}
 <DIAL>__{Hurry, Cosette! It's time to close another door And live another day!}
 <ACTION>__{Valjean leaves to start packing. Feverishly, Cosette scribbles a letter.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{EXT. GARDEN, RUE PLUMET - NIGHT}
 <ACTION>__{Cosette hurries down the   garden to the gate, and goes to put the folded letter in   the grill where her and Marius' hands entwined. Then she   sees Eponine. Eponine steps forward. She thrusts her   letter into her hand.}
 <CHAR>__{COSETTE} <CHAR_PAR>__{}
@@ -1465,7 +1467,7 @@
 <ACTION>__{Marius sets off at a run towards the Rue Plumet.}
 <LOC>__{EXT. RUE PLUMET - NIGHT}
 <ACTION>__{Marius finds the gate broken open, sees the house beyond dark and deserted. He pushes in to the garden, up to the house windows, sees the rooms empty within. He stands staring, in shock. Eponine has followed him, and watches him in silence.}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{INT. CARRIAGE - NIGHT.}
 <ACTION>__{Valjean and Cosette sit on either side of the carriage, apart, staring out of their respective windows. A stark contrast to the carriage scene when Valjean sang to Cosette as a little girl.}
 <CHAR>__{VALJEAN} <CHAR_PAR>__{}
@@ -2118,7 +2120,7 @@
 <ACTION>__{Marius and Cosette, newly married, are walking towards Marius' house through an aisle created by wedding guests. Carriages line the street.}
 <CHAR>__{WEDDING GUESTS} <CHAR_PAR>__{}
 <DIAL>__{Ring out the bells Upon this day of days! May all the angels Of the Lord above In jubilation Sing their songs of praise! And crown this blessed time With peace and love!}
-<ACTION_ALT>__{SCENE OMITTED}
+
 <LOC>__{INT. MARIUS'S FAMILY HOUSE, PARIS - DAY}
 <ACTION>__{Waltz music plays as Marius and Cosette lead the dancing at the wedding reception. As the dance proceeds, two extraordinary figures enter, and start helping themselves to the drink and the food. They are Thenardier and his wife, dressed up for high society.}
 <CHAR>__{MAJORDOMO} <CHAR_PAR>__{}

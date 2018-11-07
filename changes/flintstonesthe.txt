@@ -1590,7 +1590,7 @@
 <CHAR>__{LAVA} <CHAR_PAR>__{}
 <DIAL>__{That's brilliant, Unc... Mister Slate. In fact, maybe you can help me with the centerpiece of the complex...}
 <DIAL_PAR>__{(indicating the convention center)}
-<DIAL>__{... I wanna call 'em the FibreSphere and the '____' something Needle... but I just can't...}
+<DIAL>__{... I wanna call 'em the FibreSphere and the '    ' something Needle... but I just can't...}
 <CHAR>__{SLATE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(modestly)}
 <DIAL>__{How about, 'Slate Needle'?}

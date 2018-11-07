@@ -1,8 +1,9 @@
 <ACTION>__{"The X Files", production draft, by Chris Carter X-FILES}
 <CHAR>__{FIGHT THE FUTURE} <CHAR_PAR>__{}
 <ACTION_ALT>__{CHRIS CARTER}
-<DIAL>__{6/30/97}
-<ACTION>__{NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE NUMBERS, AND SOME "SCENE OMITTED" SLUGS. THEY HAVE}
+
+<ACTION>__{NOTE: THE HARD COPY OF THIS SCRIPT CONTAINED SCENE}
+
 <ACTION_ALT>__{BEEN REMOVED FOR THIS SOFT COPY.}
 <TRANS>__{FADE IN:}
 <LOC>__{EXT. SNOWSCAPE}
@@ -1997,7 +1998,7 @@
 <ACTION_ALT>__{ANGLE OVER MULDER}
 <ACTION>__{Pulling himself to his feet. Beholding the space before him. Looking down to the center floor where a large central theater gives off a light different from elsewhere in the dome. An icy, bright glow. Leading down to the central theater far below are several LARGE TUBULAR SPOKES. (One of which leads up right next to Mulder's position.)}
 <ACTION_ALT>__{ANGLE ON MULDER}
-<ACTION>__{Reacting to this. Then something captures his attention. MULDER'S POV There on the floor, far down below, is THE BUBBLE LITTER Scully was transported in. (NOTE* Scully's clothes are still in the bubble litter.) Standing out as a rather human artifact against the otherwise dull gray bulwarks and architecture surrounding it.}
+<ACTION>__{Reacting to this. Then something captures his attention. MULDER'S POV There on the floor, far down below, is THE BUBBLE LITTER Scully was transported in. (NOTE Scully's clothes are still in the bubble litter.) Standing out as a rather human artifact against the otherwise dull gray bulwarks and architecture surrounding it.}
 <LOC>__{INT. CENTRAL THEATER - BALCONY - CONTINUOUS - WIDE ON}
 <ACTION_ALT>__{MULDER}
 <ACTION>__{looks beside him where the joint that connects two sections of one of the long tube spokes is designed with an allowance -- a separation that might allow a man to slip through the joint into the tube. Which is what Mulder does here.}

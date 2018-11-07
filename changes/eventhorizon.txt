@@ -129,7 +129,7 @@
 <DIAL>__{The Lewis and Clark just returned from patrol in the asteroid belt, she's docked in bay four.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. DAYLIGHT STATION/EXT. LEWIS AND CLARK}
-<ACTION>__{The Lewis and Clark pulls away from Daylight station, turns towards the depths of space. It is a tough-looking spacecraft, all engine. Sequence omitted from original script.}
+<ACTION>__{The Lewis and Clark pulls away from Daylight station, turns towards the depths of space. It is a tough-looking spacecraft, all engine. Sequence  from original script.}
 <LOC>__{INT. LEWIS AND CLARK - BRIDGE}
 <ACTION>__{MOVE IN on thick quartz windows near the ship's nose: the bridge... Split level. Above: avionics, navigation, flight control. STARCK (female, Navigator, sharp mind, sharp tongue) checks the navigation data on her screen as SMITH (male, Pilot, wrapped too tight) punches in the course.}
 <CHAR>__{SMITH} <CHAR_PAR>__{}
@@ -2303,7 +2303,7 @@
 <ACTION>__{Smith smiles.}
 <CHAR>__{SMITH} <CHAR_PAR>__{}
 <DIAL>__{About goddam time.}
-<ACTION>__{Sequence omitted from original script.}
+<ACTION>__{Sequence  from original script.}
 <LOC>__{INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - WITH AIRLOCKS}
 <ACTION>__{Weir follows Miller down the Corridor.}
 <CHAR>__{WEIR} <CHAR_PAR>__{}

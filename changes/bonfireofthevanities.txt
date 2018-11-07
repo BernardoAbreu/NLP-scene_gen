@@ -8,7 +8,7 @@
 <ACTION>__{MOVING south TO north FROM the Battery and the World Trade Center, streets and buildings FLIPPING PAST like black diamonds spilling INTO our peripheral vision and DISAPPEARING as we SPEED uptown TOWARD... FIFTH AVENUE - NIGHT Cars and people caught in the same frantic ballet of shining lights as we RACE UP the avenue, and the voice of Peter Fallow speaks to us...}
 <CHAR>__{PETER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Yes. We're getting closer. Can you feel it. Can you see it? The heat. The brilliance. Moving fast into the heart of it. Buzz. Buzz. Can you feel the buzz? The city is pulling you in. The city of light. The city of diabolical promise. The city of answered prayers.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                              thru}
 <LOC>__{11 EXT. STREET - LIMOUSINE - NIGHT}
 <ACTION>__{pulls up to the World Financial Center and drives into the lower garage.}
@@ -76,7 +76,7 @@
 <ACTION>__{Sherman gets the leash fastened. He stands up, pulls on a rubberized British riding mac. Judy flicks a tiny plastic bag out of a cleverly-concealed container and hands it to Sherman.}
 <CHAR>__{JUDY} <CHAR_PAR>__{}
 <DIAL>__{Have a nice time.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                  &}
 <LOC>__{15 INT. McCOY APARTMENT BUILDING - LOBBY - SHERMAN - NIGHT}
 <ACTION>__{pulls Marshall out of the elevator. MARSHALL SQUEALS and drags his nails across the lobby, trying desperately to avoid this walk.}
@@ -233,7 +233,7 @@
 <CHAR>__{PETER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Sherman was a master of the universe. He deserved better.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                   thru}
 <LOC>__{31 INT. BOND TRADING ROOM - SHERMAN - DAY}
 <ACTION>__{walks into the chaos and moves through the din, a smile of pleasure and anticipation on his lips. We catch bits of conversation.}
@@ -364,11 +364,11 @@
 <DIAL>__{I'm sure that's the turnoff to Manhattan.}
 <CHAR>__{SHERMAN } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Well, I can't get over there now. We'll have to exit and get back on.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{THEIR POV - MORE SIGNS "EAST BRONX NEW ENGLAND" and "EAST 138TH BRUCKNER BLVD."}
 <LOC>__{EXT. MERCEDES - NIGHT}
 <ACTION>__{veers onto ramp and heads toward the 138th St. exit.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. MERCEDES - NIGHT}
 <ACTION>__{is suddenly off the expressway and driving at ground level -- a dark street, piled at one side with car tires -- totally bleak.}
 <LOC>__{INT. MERCEDES - SHERMAN AND MARIA - NIGHT}
@@ -696,7 +696,7 @@
 <DIAL>__{Oh, no. Not me. Kramer, this is all yours. I'll see you gentlemen later.}
 <ACTION>__{Andruitti turns and goes.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                      &}
 <LOC>__{96 INT. REV. BACON'S CHURCH (HARLEM) - CLOSE ON CHOIR OF}
 <ACTION>__{BLACK WOMEN - DAY in the middle of a hymn. tirade.}
@@ -824,7 +824,7 @@
 <DIAL>__{I don't make the rules. MR. McCOY All the more reason not to play the game.}
 <CHAR>__{SHERMAN} <CHAR_PAR>__{}
 <DIAL>__{We're having a little... It's nothing serious. Really.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. LEICESTER'S RESTAURANT - CLOSE ON PETER FALLOW -}
 <ACTION_ALT>__{NIGHT}
 <ACTION>__{Peter's face is flat on the bar. He looks bad -- drunk, out of shape, disheveled and probably unclean.}
@@ -912,7 +912,7 @@
 <DIAL>__{Nothing to know, I'm working at home today, that's all.}
 <CHAR>__{FOX} <CHAR_PAR>__{}
 <DIAL>__{Good, good, good. I got something I want to talk to you about, Peter. I think there's a hell of a story in it...}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                               thru}
 <LOC>__{114A INT. TV SET - HOSPITAL ROOM - ALBERT FOX - DAY}
 <ACTION>__{is standing by a bed. In the bed is a midget -- a man. He has a bandage around his head. Standing with Albert is another midget -- a woman. She is crying.}
@@ -1055,7 +1055,7 @@
 <DIAL_PAR>__{(on phone)}
 <DIAL>__{No. I don't think that's necessary...}
 <ACTION>__{And then shock as Sherman recognizes... ANGLE - NEWSPAPER PHOTO of Henry Lamb dressed in a cap and gown.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                             thru}
 <LOC>__{126}
 <ACTION>__{ANGLE - SHERMAN is losing control.}
@@ -1073,7 +1073,7 @@
 <DIAL>__{Feds buying all coupons! Market subject!}
 <DIAL_PAR>__{VOICE #2 (O.S.)}
 <DIAL>__{Holy fucking shit. I want out!    I want out!!}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                   &}
 <LOC>__{129 EXT. STREET - SHERMAN - DAY}
 <ACTION>__{is standing outside Maria's apartment building. A cab pulls up. Maria gets out. She is carrying a large portfolio-type case, suitable for transporting a painting. Sherman intercepts her.}
@@ -1158,7 +1158,7 @@
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BRONX STREET - LARGE WHITE VAN - DAY}
 <ACTION>__{pulls up in front of the Edgar Allen Poe housing project. Signs on the van read, "Channel 1 News - The Live 1." The streets are empty.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                   thru}
 <LOC>__{135}
 <ACTION>__{ANGLE - PETER FALLOW getting out of a taxi.     He approaches Buck.}
@@ -1181,7 +1181,7 @@
 <DIAL>__{Oh, you're the reason we're up in this godforsaken place. You and your little newspaper article.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Sorry about that.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                       &}
 <LOC>__{140}
 <ACTION>__{ANGLE - HOUSING PROJECT Reverend Bacon comes out of the building with Annie and the gospel singers who take their places in the rubble. Bacon goes to Fallow and Corsaro.}
@@ -1206,7 +1206,7 @@
 <CHAR>__{CORSARO} <CHAR_PAR>__{}
 <DIAL>__{We're about ready here.}
 <ACTION>__{Bacon leaves Peter. ANGLE - REMOTE TOWER A silvery shaft with bright orange cable wrapped around it rising two and a half stories above the street now. People start coming out of the buildings to see what's going on.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                thru}
 <LOC>__{146}
 <ACTION>__{ANGLE - REVEREND BACON speaks to the crowd.}
@@ -1218,7 +1218,7 @@
 <CHAR>__{BACON} <CHAR_PAR>__{}
 <DIAL>__{This man has turned his back on Henry Lamb. And I, for one, am not going to stand for it. No sir!}
 <ACTION>__{During the above, a group of kids are pushing and shoving and laughing behind Bacon, trying to get on camera. Also during Bacon's speech...}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{ANGLE - BUCK justice is white justice." "Lamb slaughtered by indifference." "Hit 'n' run 'n' lie to the people." ANGLE - CORSARO approaches Fallow while Bacon is speaking.}
 <CHAR>__{CORSARO} <CHAR_PAR>__{}
 <DIAL>__{He's something, isn't he?}
@@ -1286,7 +1286,7 @@
 <ACTION>__{Ray leaves.    Weiss sits down looking sadly at the television.}
 <CHAR>__{WEISS} <CHAR_PAR>__{}
 <DIAL>__{Yesterday I was a respected Jewish liberal. Ten minutes of news like this and all of a sudden I'm a hymie racist pig.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                              &}
 <LOC>__{152}
 <ACTION>__{ANGLE - TV The crowd screaming "Justice!    Justice!   Justice!" ANGLE - BACK TO SCENE}
@@ -1304,7 +1304,7 @@
 <CHAR>__{WEISS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{No matter what it takes. I am no racist Hymie. By November, they're going to be thinking of me as the first black District Attorney of Bronx County. They're going to beg me to be mayor. We're going to walk away with that election. That's what we're going to do. If we have to screw every white asshole from Albany to Park Avenue -- that's what we're going to do.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                  thru}
 <LOC>__{174 EXT. STREET SIGN - DUSK}
 <ACTION>__{Reading:   "PARK AVE."}
@@ -1431,7 +1431,7 @@
 <CHAR>__{GOLDBERG} <CHAR_PAR>__{}
 <DIAL>__{Nothin' at first. But he's confused. And his eyes are getting bigger and he's double-talking like a son of a bitch. I'm thinking there's something there.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. CRIMINAL JUSTICE BLDG. - STAIRCASE - EVENING}
 <ACTION>__{As they reach Weiss.}
 <CHAR>__{KRAMER} <CHAR_PAR>__{}
@@ -1627,7 +1627,7 @@
 <DIAL>__{Really, Sherman, you'd do anything to ruin this for me. Wouldn't you? Now please. Get dressed.}
 <LOC>__{INT. OPERA HOUSE - ONSTAGE - NIGHT}
 <ACTION>__{The last scene of Don Giovanni is being played out.       The Commandatori has the Don in his grip, urging him to "repent." The Don refuses. The MUSIC THUNDERS threateningly.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{ANGLE - SHERMAN in a box with Judy and Leonard and Inez Bavardage. Sherman is transfixed by what he is seeing on the stage. He flips through his libretto. HIS POV - TEXT and the word "repent" in English and Italian. ANGLE - STAGE as the floor opens up around Don Giovanni.       Flames and demons reach for him. ANGLE - SHERMAN breaking into a sweat.    He reaches for Judy.}
 <CHAR>__{JUDY} <CHAR_PAR>__{}
 <DIAL>__{Shhh!}
@@ -1766,11 +1766,11 @@
 <CHAR>__{AUBREY} <CHAR_PAR>__{}
 <DIAL>__{We are unable to stop, until death itself takes us into his arms and burns us with the fever of living, dragging us like Don Juan into the bonfires of hell. The words of the ghost ringing in our ears... 'Repent! Repent!'}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                thru}
 <LOC>__{206 EXT. APARTMENT BUILDING - SHERMAN - DAWN}
 <ACTION>__{comes out of the building and stands waiting as the rain pours down on this bleak day. A police car pulls up. Sherman gets inside.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                   &}
 <LOC>__{209 INT. POLICE CAR - KILLIAN, MARTIN, GOLDBERG - DAWN}
 <CHAR>__{MARTIN} <CHAR_PAR>__{}
@@ -1855,7 +1855,8 @@
 <CHAR>__{KILLIAN} <CHAR_PAR>__{}
 <DIAL>__{Yeah?   Fuck you, too, Kramer.}
 <ACTION>__{ANGLE - PETER FALLOW pulls himself up off the ground.     He is more dazed than hurt.}
-<ACTION_ALT>__{OMITTED QUICK CUTS}
+
+<ACTION_ALT>__{QUICK CUTS}
 <ACTION>__{A)   Sherman's cuffs are removed. B)   The contents of Sherman's pockets are laid on}
 <DIAL>__{the table.}
 <ACTION>__{C)   Sherman removes his belt.    His pants drop to his}
@@ -2069,7 +2070,7 @@
 <ACTION>__{Sherman takes a long drink.}
 <LOC>__{INT. TUNNEL - TRAIN - LATE AFTERNOON}
 <ACTION>__{CLATTERS through the darkness.}
-<LOC>__{228-I   INT. SUBWAY CAR - PETER AND SHERMAN - LATE AFTERNOON           228-I*}
+<LOC>__{228-I   INT. SUBWAY CAR - PETER AND SHERMAN - LATE AFTERNOON           228-I}
 <ACTION>__{as the car slows down.     Sherman is slightly drunk.}
 <CHAR>__{SHERMAN} <CHAR_PAR>__{}
 <DIAL>__{... and then this newspaper thing started, this Peter Fallow person, and all the facts were wrong, total disregard for the truth. Why do they do this?}
@@ -2094,7 +2095,7 @@
 <ACTION>__{ANGLE - CLOSE ON PETER as the doors close and the train pulls away.}
 <LOC>__{EXT. PARK AVENUE - DEMONSTRATORS - NIGHT}
 <ACTION>__{are marching up and down in front of Sherman's apartment building. Among them are five very tall black men play- ing with a basketball. ANGLE - SHERMAN stops near the building. The basketball flies toward him. He catches it. Before anyone sees him, he enters through the service entrance.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ELEVATOR - SHERMAN - NIGHT}
 <ACTION>__{looks like he feels -- unclean, unshaven, slightly drunk, his clothes soiled, torn and disheveled. He seems to stoop slightly under the weight of his humiliation. ANGLE - ELEVATOR DOORS open and suddenly we are in the midst of... ANGLE - PARTY in high gear. Most of the guests are recognizable from the previous party at the museum. Sherman is shocked. But before he can get his bearings...}
 <CHAR>__{BOBBY SHALFET} <CHAR_PAR>__{}
@@ -2276,7 +2277,7 @@
 <ACTION>__{Sherman reloads and keeps FIRING until everyone is gone. LAMPS EXPLODE, furniture splinters, plaster falls.}
 <CHAR>__{SHERMAN} <CHAR_PAR>__{}
 <DIAL>__{Sherman McCoy is dead. Sherman McCoy of Park Avenue and Wall Street and Southampton -- gone. Dead. I will never be Sherman McCoy again. Never!}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                      thru}
 <LOC>__{247 INT. LEICESTER'S - CLOSE ON PETER - NIGHT}
 <ACTION>__{who looks very depressed.}
@@ -2307,7 +2308,7 @@
 <CHAR>__{CAROLINE} <CHAR_PAR>__{}
 <DIAL>__{Excuse me, Peter. There's a phone call for you upstairs in the office.}
 <ACTION>__{Peter makes excuses to Gerald and Evelyn and follows Caroline away.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. UPSTAIRS OFFICE - PETER AND CAROLINE - NIGHT}
 <ACTION>__{come into the office.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -2354,7 +2355,7 @@
 <ACTION>__{She takes one of the Xerox copies and hands it to Peter. Peter leaves. Caroline looks at the Xerox copy.}
 <CHAR>__{CAROLINE} <CHAR_PAR>__{}
 <DIAL>__{Maybe I should advertise...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. RESTAURANT - MAITRE D' - DAY}
 <ACTION>__{points Fallow toward Arthur Ruskin's table.}
 <CHAR>__{MAITRE D'} <CHAR_PAR>__{}
@@ -2493,7 +2494,7 @@
 <CHAR>__{MARIA} <CHAR_PAR>__{}
 <DIAL>__{... Peckerhead. I am here for my husband's funeral. Understand? Now go away. Disappear. Disintegrate.}
 <ACTION>__{She gets into the car.     Fallow watches the car pull away. He smiles.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. HOSPITAL - NEWSSTAND - DAY}
 <ACTION>__{The headline on the City Lights reads: "FINANCIER'S WIDOW IS MCCOY MYSTERY WOMAN"}
 <LOC>__{INT. HOSPITAL ROOM - HENRY LAMB - DAY}
@@ -2537,7 +2538,7 @@
 <ACTION_ALT>__{CLOSE ON PETER}
 <CHAR>__{PETER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{How could I turn my back on the plight of this grief stricken woman? How could I turn my back on a 'profitable relationship'? I was touched to the depths of what was left of my soul... and my bank account.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                thru}
 <LOC>__{262A INT. WEISS'S OFFICE - CLOSE ON NEWSPAPER - DAY}
 <ACTION>__{The headline reads:}
@@ -2635,10 +2636,10 @@
 <DIAL>__{An idea about what to wear when you go to this funeral.}
 <CHAR>__{SHERMAN} <CHAR_PAR>__{}
 <DIAL>__{What funeral?}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FUNERAL PARLOR (MADISON AVENUE) - DAY}
 <ACTION>__{A procession of limousines pushing through a crowd of press and bystanders to deposit the mourners at the front door. Among those arriving, we see Jed Kramer.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                    thru}
 <LOC>__{269A INT. FUNERAL PARLOR - MARIA - DAY}
 <ACTION>__{dressed in black enters and walks down the aisle.        People stop her and offer condolences. ANGLE - KRAMER comes into the chapel. ANGLE - SHERMAN wearing dark glasses and a raincoat, hiding near a door- way that leads into an adjacent "family room." As Maria passes, he signals her. FOLLOW Maria INTO:}
@@ -2921,7 +2922,7 @@
 <DIAL>__{You bald-headed Uncle Tom pussy!!}
 <DIAL_PAR>__{(to the crowd)}
 <DIAL>__{Are you going to take this Park Avenue justice!? Are you?}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{ANGLE - CROWD closing in on Sherman and the Judge. The Judge grabs Sherman and pulls him through the door.}
 <LOC>__{INT. CORRIDOR - SHERMAN AND JUDGE}
 <ACTION>__{come out of the courtroom, pursued by the spectators. They are pressed against a huge statue of "blind justice" at the end of the corridor. SEVERAL ANGLES - MOBS OF PEOPLE rushing at Sherman and the Judge from different sides. ANGLE - STATUE teeters. ANGLE - KRAMER in the mob, pressing toward Sherman and the Judge.}
@@ -2932,7 +2933,7 @@
 <CHAR>__{KRAMER} <CHAR_PAR>__{}
 <DIAL>__{This fucking face is going to see you shining shoes in Grand Central Station.}
 <ACTION>__{More pushing until...}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                  &}
 <LOC>__{294}
 <ACTION>__{ANGLE - STATUE falls. People scream and scatter. The statue shatters as it hits the floor. The bronze sword slides across the floor and comes to rest at Sherman's feet. ANGLE - SCENE The Judge is hit on the head by some debris. He stumbles, blinded by the plaster dust. Sherman grabs the sword.}
@@ -2952,7 +2953,7 @@
 <CHAR>__{WEISS} <CHAR_PAR>__{}
 <DIAL>__{And this man's name will live in infamy. Like Adolf Hitler! Like Son of Sam! Like Idi Amin! John Wilkes Booth! Ted Bundy! Jesse Helms!}
 <ACTION>__{Sherman smacks Weiss with the sword and moves toward the stairs with the Judge.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{ANGLE - FALLOW approaches Sherman.}
 <CHAR>__{FALLOW} <CHAR_PAR>__{}
 <DIAL>__{Sherman! Sherman! Congratulations. This is going to make one hell of a story!!}
@@ -2982,7 +2983,7 @@
 <CHAR>__{PETER } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{And so we come to the end of our story. Sherman, you see, who started with so much, lost everything. But he gained his soul. Whereas I, you see, who started with so little, gained everything...}
 <TRANS>__{DISSOLVE TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                thru}
 <LOC>__{303 INT. WINTER GARDEN - FALLOW - NIGHT}
 <ACTION>__{coming out of the wall of flashbulbs we saw at the beginning. A vast crowd of black ties and evening gowns surge toward him, cheering, applauding. A voice rings out on a microphone...}

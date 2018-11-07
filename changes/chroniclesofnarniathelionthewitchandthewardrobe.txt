@@ -5,17 +5,19 @@
 <CHAR>__{MRS. PEVENSIE} <CHAR_PAR>__{}
 <DIAL>__{Edmund Get Away from there! What do you think you're doing?! Peter!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(grabs Edmund) Come on! To the shelter,}
-<DIAL>__{now!}
+<DIAL_PAR>__{(grabs Edmund)}
+<DIAL>__{Come on! To the shelter, now!}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(grabs things from next to her bed with}
-<DIAL>__{a flashlight, notices Lucy in bed) Lucy, come on! Lucy!}
+<DIAL_PAR>__{(grabs things from next to her bed with a flashlight, notices Lucy in bed)}
+<DIAL>__{Lucy, come on! Lucy!}
 <ACTION>__{Pevensies are running to the shelter, we hear them shouting, Hurry up! and RUN! Edmund turns around, as if forgetting something.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Wait, dad!}
 <ACTION>__{Run inside, grabs picture gets blown against the wall}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Come on idiot (Throws Edmund onto the ground and starts shouting) Why do you always have to be so selfish! You only think about yourself. Why can't you ever do as you're told!}
+<DIAL>__{Come on idio}
+<DIAL_PAR>__{(Throws Edmund onto the ground and starts shouting)}
+<DIAL>__{Why do you always have to be so selfish! You only think about yourself. Why can't you ever do as you're told!}
 <ACTION>__{Peter slams the shelter door}
 <ACTION_ALT>__{TRAIN STATION...}
 <CHAR>__{ANNOUNCER} <CHAR_PAR>__{}
@@ -39,7 +41,8 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Come on, we've got to stay together now. Everything's going to be okay}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{Peter! (Susan Snatches papers)}
+<DIAL>__{Peter}
+<DIAL_PAR>__{(Susan Snatches papers)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{I know how to get on a train}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -75,7 +78,7 @@
 <DIAL>__{YES, Mom!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{ED!}
-<ACTION>__{To Lucy You saw the outside. This place is huge. We'll be able to do whatever we want.  Tomorrow's going to be great. Really. *BORING*}
+<ACTION>__{To Lucy You saw the outside. This place is huge. We'll be able to do whatever we want.  Tomorrow's going to be great. Really. BORING}
 <ACTION_ALT>__{RAIN PATTERING ON WINDOW}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Gas-tro-vas-cu-lar.}
@@ -95,7 +98,8 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{One...two...three...four...}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL_PAR>__{(pushes Lucy) Get out! I was here first!}
+<DIAL_PAR>__{(pushes Lucy)}
+<DIAL>__{Get out! I was here first!}
 <ACTION>__{Lucy finds wardrobe with Peter counting in the background.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Eight four, eighty five...}
@@ -106,8 +110,9 @@
 <CHAR>__{LUCY AND TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{AAAUUUGGGGHHHHH!!!}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(slowly walking out as Lucy picks up}
-<DIAL>__{packages) Uh, CH... gk, ch (random noises)}
+<DIAL_PAR>__{(slowly walking out as Lucy picks up packages)}
+<DIAL>__{Uh, CH... gk, c}
+<DIAL_PAR>__{(random noises)}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Were you hiding from me?}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
@@ -141,7 +146,9 @@
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{I'm sorry, please allow me to introduce myself, my name is Tumnus}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL>__{Glad to meet you, Mr. Tumnus! *extends hand* I'm Lucy Pevensie. Oh, you shake it!}
+<DIAL>__{Glad to meet you, Mr. Tumnus!}
+<DIAL_PAR>__{(extends hand)}
+<DIAL>__{I'm Lucy Pevensie. Oh, you shake it!}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{Why?}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
@@ -179,18 +186,18 @@
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{We haven't had Christmas in a hundred years here.}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(shocked) No presents for a hundred}
-<DIAL>__{years?}
+<DIAL_PAR>__{(shocked)}
+<DIAL>__{No presents for a hundred years?}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{But, oh, you would have loved Narnia in spring! The Dryads and the Fauns would dance all night... but we never got tired. And oh, the music! Such music. Would you... like to hear some now?}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{yes please}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(gets flute out) Now, are you familiar}
-<DIAL>__{with the Narnia lullabies?}
+<DIAL_PAR>__{(gets flute out)}
+<DIAL>__{Now, are you familiar with the Narnia lullabies?}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(shakes her head): No, I'm afraid I'm}
-<DIAL>__{not}
+<DIAL_PAR>__{(shakes her head)}
+<DIAL>__{No, I'm afraid I'm not}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{Good, because this probably won't sound anything like one.}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
@@ -215,8 +222,8 @@
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{We must move quietly the woods are full of her spies, even some of the trees are on her side}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL>__{I think so. (Tumnus starts to return}
-<DIAL_PAR>__{her handkerchief, but she gives it back)}
+<DIAL>__{I think so}
+<DIAL_PAR>__{(Tumnus starts to return her handkerchief, but she gives it back)}
 <DIAL>__{Keep it, you need it more than I do.}
 <ACTION>__{Tumnus laughs, and touches Lucy's nose...}
 <CHAR>__{MR. TUMNUS} <CHAR_PAR>__{}
@@ -257,11 +264,11 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Why don't you just stop it, you always have to make everything worse. Grow up!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{Shut up! You think you're dad, but you're}
-<DIAL_PAR>__{not! (storms out)}
+<DIAL>__{Shut up! You think you're dad, but you're not}
+<DIAL_PAR>__{(storms out)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL>__{well, that was nicely handled! (walks}
-<DIAL_PAR>__{away too..)}
+<DIAL>__{well, that was nicely handled}
+<DIAL_PAR>__{(walks away too..)}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{It was really there...}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -269,8 +276,8 @@
 <ACTION_ALT>__{THAT EVENING... EDMUND ENTERS NARNIA AND MEETS THE WHITE WITCH}
 <ACTION>__{Lucy closes the wardrobe and she dissolves to night Pan down on candle burning out, Lucy gets out boots and not slippers and takes candle. Flushing toilet as Edmund comes out and sees Lucy Follows her to wardrobe Candle blows out when she opens it and walks in as Edmund does}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{Lucy, Lucy. I hope you're not afraid}
-<DIAL_PAR>__{of the dark (shuts door)}
+<DIAL>__{Lucy, Lucy. I hope you're not afraid of the dar}
+<DIAL_PAR>__{(shuts door)}
 <ACTION>__{Lucy, Lucy? Edmund is soon in Narnia, he walks around... and is amazed by it all}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Lucy? Lucy! I think I believe you now!}
@@ -278,7 +285,8 @@
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Lucy?}
 <CHAR>__{DWARF} <CHAR_PAR>__{}
-<DIAL_PAR>__{Yah! (whipping sound)}
+<DIAL>__{Yah}
+<DIAL_PAR>__{(whipping sound)}
 <ACTION>__{Edmund dives out of the way into the snow and then the dwarf jumps out and throws a whip around Edmunds legs Dwarf puts knife to Edmund's throat}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{What is it Ginarrbrik?}
@@ -303,9 +311,13 @@
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{four}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Edmund you look so cold! Come and sit with me here on my sledge. (Edmund joins her) Now, would like something warm to drink.}
+<DIAL>__{Edmund you look so cold! Come and sit with me here on my sledge}
+<DIAL_PAR>__{(Edmund joins her)}
+<DIAL>__{Now, would like something warm to drink.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{Yes...your majesty.(Take vial and drops a green drop on snow that become a hot drink that the dwarf gives Edmund) How did you do that?}
+<DIAL>__{Yes...your majesty.(Take vial and drops a green drop on snow that become a hot}
+<DIAL_PAR>__{drink that the dwarf gives Edmund)}
+<DIAL>__{How did you do that?}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{I can make anything you like.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
@@ -320,12 +332,15 @@
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{They're nothing special}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{I have no children of my own and you are such a good little boy (I never could hear those words right) where I could see, one day, you becoming prince of Narnia - maybe even king.}
+<DIAL>__{I have no children of my own and you are such a good little bo}
+<DIAL_PAR>__{(I never could hear those words right)}
+<DIAL>__{where I could see, one day, you becoming prince of Narnia - maybe even king.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL_PAR>__{(mouth full) Really?}
+<DIAL_PAR>__{(mouth full)}
+<DIAL>__{Really?}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL_PAR>__{(nods) Of course you'd have to bring}
-<DIAL>__{your family.}
+<DIAL_PAR>__{(nods)}
+<DIAL>__{Of course you'd have to bring your family.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{They're nothing special}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
@@ -339,16 +354,19 @@
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Couldn't I have some more now?}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{NO! (smiles) Don't want to ruin you appetite.}
+<CHAR>__{NO} <CHAR_PAR>__{}
+<DIAL_PAR>__{(smiles)}
+<DIAL>__{Don't want to ruin you appetite.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{I'm going to miss you Edmund. But we are going to see each other soon.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{I hope so.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Until then...dear one. (WW drives of}
-<DIAL_PAR>__{and Ed is left alone)}
+<DIAL>__{Until then...dear one}
+<DIAL_PAR>__{(WW drives of and Ed is left alone)}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{Edmund? Oh Edmund!!!! (hugs her brother)}
+<DIAL>__{Edmund? Oh Edmund!!!}
+<DIAL_PAR>__{(hugs her brother)}
 <DIAL>__{I saw Mr. Tumnus again and he's fine!!! The White Witch hasn't found out about him helping me!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{The White Witch?}
@@ -363,8 +381,8 @@
 <DIAL_PAR>__{(turns on the light and jumps on Peter)}
 <DIAL>__{Peter, Peter wake up! It's there, it's really there!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(rolls over still half asleep) Lucy,}
-<DIAL>__{what are talking about?}
+<DIAL_PAR>__{(rolls over still half asleep)}
+<DIAL>__{Lucy, what are talking about?}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Narnia! It's all in the wardrobe, like I told you!}
 <ACTION>__{Susan comes in.}
@@ -377,8 +395,8 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Well, he didn't actually go there with me. What were you doing Edmund?}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{I-I was just playing along. You know what little children are like these days, they just don't know when to stop pretending (sits on his bed looking}
-<DIAL_PAR>__{smugly at Lucy)}
+<DIAL>__{I-I was just playing along. You know what little children are like these days, they just don't know when to stop pretendin}
+<DIAL_PAR>__{(sits on his bed looking smugly at Lucy)}
 <ACTION>__{Lucy starts to cry and runs out of the room. Susan runs after her and so does Peter - who shoves Edmund over}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Ow!}
@@ -391,8 +409,8 @@
 <DIAL>__{Yes Professor. Come on, dear.}
 <ACTION>__{Mrs. Macready takes Lucy down the hall. Peter and Susan turn to go}
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
-<DIAL>__{*Ahem* (the two turn and follow him into his office and the Professor sits at his desk and takes some tobacco out of it's silver apple case and puts it}
-<DIAL_PAR>__{in his pipe)}
+<DIAL>__{Ahem}
+<ACTION>__{The two turn and follow him into his office and the Professor sits at his desk and takes some tobacco out of it's silver apple case and puts it in his pipe}
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
 <DIAL>__{You seem to have upset the internal balance of my housekeeper.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -406,7 +424,8 @@
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
 <DIAL>__{Hence the weeping}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{We can handle it! (takes Susan's sleeve)}
+<DIAL>__{We can handle it}
+<DIAL_PAR>__{(takes Susan's sleeve)}
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
 <DIAL>__{Oh, I can see that.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
@@ -461,8 +480,8 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Are you ready then?}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{Are you? (smacks his bat on the ground}
-<DIAL_PAR>__{and gets ready to hit the ball)}
+<DIAL>__{Are you}
+<DIAL_PAR>__{(smacks his bat on the ground and gets ready to hit the ball)}
 <ACTION>__{Peter pitches the ball, hard, and Edmund whacks it good and it smashes through an upstairs window and crashes into a suit of armor.}
 <ACTION_ALT>__{UPSTAIRS}
 <ACTION>__{The children are looking at the broken window and the suit of armor on the floor}
@@ -475,8 +494,8 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Run!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL_PAR>__{(runs to the wardrobe and opens the}
-<DIAL>__{door) Come on!}
+<DIAL_PAR>__{(runs to the wardrobe and opens the door)}
+<DIAL>__{Come on!}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{You have got to be joking.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -496,25 +515,28 @@
 <DIAL>__{No, it wouldn't. But this might!}
 <ACTION>__{Lucy nails Peter in the face with a snowball, he throws one back at her and a snowball fight begins. Susan hits Ed in the arm with one}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{Ow! (rubs his arm) Stop it! (They all}
-<DIAL_PAR>__{realize that Ed lied)}
+<DIAL>__{Ow}
+<DIAL_PAR>__{(rubs his arm)}
+<DIAL>__{Stop it}
+<DIAL_PAR>__{(They all realize that Ed lied)}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{You little liar!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{You didn't believe her either!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Apologize to Lucy. (He just looks at}
-<DIAL_PAR>__{her)}
+<DIAL>__{Apologize to Lucy}
+<DIAL_PAR>__{(He just looks at her)}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Say you're sorry! (Peter steps up to}
-<DIAL_PAR>__{him)}
+<DIAL>__{Say you're sorry}
+<DIAL_PAR>__{(Peter steps up to him)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Alright! I'm sorry.}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{That's alright, some little children just don't know when to stop pretending.}
 <DIAL_PAR>__{(looks at him smugly)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL_PAR>__{(mutters): Very funny.}
+<DIAL_PAR>__{(mutters)}
+<DIAL>__{Very funny.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Maybe we should go back}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
@@ -524,17 +546,18 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{I all want you to meet Mr. Tumnus!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Well Mr. Tumnus it is (walks into the}
-<DIAL_PAR>__{wardrobe again)}
+<DIAL>__{Well Mr. Tumnus it i}
+<DIAL_PAR>__{(walks into the wardrobe again)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{We can't just walk around in these clothes!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(comes out) We can use these coats.}
+<DIAL_PAR>__{(comes out)}
+<DIAL>__{We can use these coats.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Peter, they don't belong to us.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Well I don't think the professor will mind. And if you think about it logically we are not even taking them out of the}
-<DIAL_PAR>__{wardrobe. (Hands coat to Edmund)}
+<DIAL>__{Well I don't think the professor will mind. And if you think about it logically we are not even taking them out of the wardrobe}
+<DIAL_PAR>__{(Hands coat to Edmund)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{But that's a girl's coat!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
@@ -542,8 +565,8 @@
 <ACTION_ALT>__{DISCOVERING NARNIA}
 <ACTION>__{Start walking toward Mr. Tumnus' cave through snow}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL>__{...and tea and... (Sees open door and}
-<DIAL_PAR>__{runs off)}
+<DIAL>__{...and tea and..}
+<DIAL_PAR>__{(Sees open door and runs off)}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{LUCY!}
 <ACTION>__{They all run to Tumnus' house}
@@ -580,7 +603,10 @@
 <DIAL>__{It's a beaver.}
 <ACTION>__{Peter approaches the beaver, clicking his tongue}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Here, boy *clicks* come here...*clicks*}
+<DIAL>__{Here, boy}
+<DIAL_PAR>__{(clicks)}
+<DIAL>__{come here ...}
+<DIAL_PAR>__{(clicks)}
 <ACTION>__{Peter let's out his hand, Mr. Beaver stares at it then sits upright}
 <CHAR>__{MR.BEAVER} <CHAR_PAR>__{}
 <DIAL>__{Well, I ain't gonna smell it if that's what you want!}
@@ -598,8 +624,7 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Is he alright?}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
-<DIAL>__{Further in.(Mr. Beaver scurries off,}
-<DIAL_PAR>__{Susan grabs Peter by the arm)}
+<DIAL_PAR>__{Further in.(Mr. Beaver scurries off, Susan grabs Peter by the arm)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Peter, we don't know what you are doing.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
@@ -627,8 +652,8 @@
 <DIAL>__{Is that you Beaver? I find out you've been out with Badger again I'll...Oh, they're not Badgers. I never thought I would see this day}
 <ACTION>__{to Mr. Beaver You couldn't give me ten minutes warning...look at this fur.}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
-<DIAL>__{I would have given you a week if I thought}
-<DIAL_PAR>__{it would help (hee hee)}
+<DIAL>__{I would have given you a week if I thought it would hel}
+<DIAL_PAR>__{(hee hee)}
 <CHAR>__{MRS. BEAVER} <CHAR_PAR>__{}
 <DIAL>__{Well you must be cold and hungry. Let's get you inside for some food and civilized conversation.}
 <ACTION>__{Lucy, Susan & Peter follow Mrs. Beaver inside, Edmund see's Jadis's castle...right where it's suppose to be}
@@ -686,7 +711,9 @@
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Thank you for your hospitality.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL>__{Ed, time to go- Ed? (looks around the room) I'm going to kill him.}
+<DIAL>__{Ed, time to go- Ed}
+<DIAL_PAR>__{(looks around the room)}
+<DIAL>__{I'm going to kill him.}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
 <DIAL>__{You may not have to...Has Edmund been to Narnia before?}
 <ACTION>__{Shot of Ed walking to the Witch's castle without his coat - shot of the others trying to catch up to him}
@@ -694,7 +721,8 @@
 <DIAL>__{Hurry up!}
 <ACTION>__{They reach the top of the hill and see Ed going through the Witch's castle gates}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(shouting) Edmund!}
+<DIAL_PAR>__{(shouting)}
+<DIAL>__{Edmund!}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
 <DIAL>__{Shh! They'll hear ya!}
 <ACTION>__{Peter starts to run after Edmund but Mr. Beaver grabs him by the sleeve of his coat}
@@ -726,13 +754,15 @@
 <DIAL>__{My apologies, fortunate favourite of the queen - or perhaps not so fortunate.}
 <ACTION>__{walks into the throne-room}
 <CHAR>__{MAUGRIM} <CHAR_PAR>__{}
-<DIAL>__{Wait here (Edmund sees the glorious throne, and sits on it longingly. Then, the witch comes up behind him and says,}
+<DIAL>__{Wait her}
+<DIAL_PAR>__{(Edmund sees the glorious throne, and sits on it longingly. Then,}
+<DIAL>__{the witch comes up behind him and says,}
 <DIAL_PAR>__{scaring him half to death.)}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{You like it!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL_PAR>__{(he jumps up startled) Ye... yes, your}
-<DIAL>__{majesty!}
+<DIAL_PAR>__{(he jumps up startled)}
+<DIAL>__{Ye... yes, your majesty!}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{I thought you might}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
@@ -795,7 +825,8 @@
 <DIAL>__{There was no room next to the jam!}
 <ACTION>__{He jumps out of the hole. Everyone else follow. Once Peter gets out, Lucy falls on a bunch of stone things. Lucy gets up! They all see stone animals!}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
-<DIAL_PAR>__{He was my best mate! (cries)}
+<DIAL>__{He was my best mate}
+<DIAL_PAR>__{(cries)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{What happened to them?}
 <CHAR>__{FOX} <CHAR_PAR>__{}
@@ -856,8 +887,8 @@
 <ACTION_ALT>__{BACK TO THE WITCHES HOUSE.. IN THE DUNGEON}
 <ACTION>__{Edmund, in chains at the witches palace. He attempts to eat the food he is given, but coughs and spits it out, because of its taste. He then attempts to drink a cup, which is frozen. He then throws it on the tray.}
 <CHAR>__{MR. TUMNUS} <CHAR_PAR>__{}
-<DIAL>__{Are you gonna eat that? (from the other}
-<DIAL_PAR>__{prison)}
+<DIAL>__{Are you gonna eat that}
+<DIAL_PAR>__{(from the other prison)}
 <ACTION>__{Edmund gives him the food.}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Mr... Tumnus.}
@@ -869,15 +900,16 @@
 <DIAL>__{You have the same nose.}
 <ACTION>__{Edmund rubs his nose.}
 <CHAR>__{MR. TUMNUS} <CHAR_PAR>__{}
-<DIAL_PAR>__{Is your sister alright? (no answer)}
+<DIAL>__{Is your sister alright}
+<DIAL_PAR>__{(no answer)}
 <DIAL>__{Is she safe?}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{I... I don't know!}
 <ACTION>__{White Witch comes in and they go back to their places}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{My wolves tore that dam apart, your little family was nowhere to be found.}
-<DIAL_PAR>__{(Lifts Edmund off the ground) Where}
-<DIAL>__{are they?!}
+<DIAL_PAR>__{(Lifts Edmund off the ground)}
+<DIAL>__{Where are they?!}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{I don't know..}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
@@ -887,8 +919,7 @@
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{Aslan! Where?}
 <CHAR>__{MR. TUMNUS} <CHAR_PAR>__{}
-<DIAL>__{Stranger has only been in Narnia a short...(Hit}
-<DIAL_PAR>__{in head)}
+<DIAL_PAR>__{Stranger has only been in Narnia a short...(Hit in head)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{I left before I could hear anymore...I wanted to see you again.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
@@ -896,13 +927,20 @@
 <CHAR>__{GUARD} <CHAR_PAR>__{}
 <DIAL>__{Yes, your majesty}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Release the Faun (Guard hit chains and Tumnus cries out in pain as they drop him by the Witch) Do you know why you are here?}
+<DIAL>__{Release the Fau}
+<DIAL_PAR>__{(Guard hit chains and Tumnus cries out in pain as they drop him by the Witch)}
+<DIAL>__{Do you know why you are here?}
 <CHAR>__{MR. TUMNUS} <CHAR_PAR>__{}
 <DIAL>__{Because I believe in a free Narnia}
 <ACTION>__{Witch stares at him coldly}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL_PAR>__{You're here because he (points at Edmund)}
-<DIAL>__{turned you in...for sweeties. (turns to dwarf and guard) Take him (Tumnus) upstairs and ready my sleigh, Edmund misses his family.}
+<DIAL>__{You're here because h}
+<DIAL_PAR>__{(points at Edmund)}
+<DIAL>__{turned you in...for sweeties}
+<DIAL_PAR>__{(turns to dwarf and guard)}
+<DIAL>__{Take hi}
+<DIAL_PAR>__{(Tumnus)}
+<DIAL>__{upstairs and ready my sleigh, Edmund misses his family.}
 <ACTION_ALT>__{THE ROCK BRIDGE}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
 <DIAL>__{Now Aslan's camp is just over there by the stone table just across the frozen river.}
@@ -980,8 +1018,8 @@
 <CHAR>__{FATHER CHRISTMAS} <CHAR_PAR>__{}
 <DIAL>__{And, Peter. These are tools, not toys. The time to use them may be soon at hand.}
 <CHAR>__{FATHER CHRISTMAS} <CHAR_PAR>__{}
-<DIAL>__{Bare them well! I best be off, winter is almost over and things do pile up when you've been gone a thousand years. Long live Aslan! (he gets in his sleigh}
-<DIAL_PAR>__{and rides off)}
+<DIAL>__{Bare them well! I best be off, winter is almost over and things do pile up when you've been gone a thousand years. Long live Aslan}
+<DIAL_PAR>__{(he gets in his sleigh and rides off)}
 <CHAR>__{THE CHILDREN} <CHAR_PAR>__{}
 <DIAL>__{Bye... Merry Christmas!}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
@@ -1011,15 +1049,16 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Mum's not here!!!}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(sees wolves) Oh no!}
+<DIAL_PAR>__{(sees wolves)}
+<DIAL>__{Oh no!}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Run!!!!!}
 <ACTION>__{Wolves leap infront of them, growling & sneering...}
 <CHAR>__{MAUGRIM} <CHAR_PAR>__{}
 <DIAL>__{Put that down boy, someone might get hurt.}
 <CHAR>__{MR. BEAVER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(pinned down) Don't worry about me!}
-<DIAL>__{Slit his throat!}
+<DIAL_PAR>__{(pinned down)}
+<DIAL>__{Don't worry about me! Slit his throat!}
 <CHAR>__{MAUGRIM} <CHAR_PAR>__{}
 <DIAL>__{Leave now while you can, and you're brother leaves with you.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
@@ -1052,10 +1091,12 @@
 <DIAL>__{I don't think you'll be needing those coats any more!}
 <ACTION>__{Walk through and see spring coming about and flowers budding as they leave there coats and head toward Aslan's Camp BACK TO THE WATERFALL, THE WITCH, EDMUND AND DWARF}
 <CHAR>__{DWARF} <CHAR_PAR>__{}
-<DIAL_PAR>__{It's so warm here! (Cold look from Witch)}
+<DIAL>__{It's so warm here}
+<DIAL_PAR>__{(Cold look from Witch)}
 <DIAL>__{I think I'll go check the sleigh.}
 <CHAR>__{WOLF} <CHAR_PAR>__{}
-<DIAL_PAR>__{We found the traitor (Carrying the Fox)}
+<DIAL>__{We found the traito}
+<DIAL_PAR>__{(Carrying the Fox)}
 <DIAL>__{He was gathering troops near the sharwood forest.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{Nice of you to drop by. I understand you were so helpful to my wolves last night.}
@@ -1064,22 +1105,22 @@
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{Don't waste my time with flattery.}
 <CHAR>__{FOX} <CHAR_PAR>__{}
-<DIAL>__{Not to seem rude, but I wasn't actually}
-<DIAL_PAR>__{talking to you (Looks at Edmund)}
+<DIAL>__{Not to seem rude, but I wasn't actually talking to yo}
+<DIAL_PAR>__{(Looks at Edmund)}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(Looks first to Edmund and than at Fox)}
-<DIAL>__{Where is ASLAN! Answer me! (About to}
-<DIAL_PAR>__{hit him with wand)}
+<DIAL>__{Where is ASLAN! Answer me}
+<DIAL_PAR>__{(About to hit him with wand)}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Wait! The Beavers said something about the Stone Table and an army.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{Thank you Edmund. It is good for this creature to see some honesty before he dies..}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
-<DIAL>__{NO!(Fox to stone and White Slaps Edmund}
-<DIAL_PAR>__{across face)}
+<DIAL_PAR>__{NO!(Fox to stone and White Slaps Edmund across face)}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Think who's side you are on. MINE...(turns his head) Or theirs? If it is a war}
-<DIAL_PAR>__{Aslan wants (turns butterfly to stone)}
+<DIAL_PAR>__{Think who's side you are on. MINE...(turns his head)}
+<DIAL>__{Or theirs? If it is a war Aslan want}
+<DIAL_PAR>__{(turns butterfly to stone)}
 <DIAL>__{It's a war he shall get.}
 <ACTION>__{AT ASLAN'S CAMP}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
@@ -1091,7 +1132,8 @@
 <DIAL>__{Oh stop your fussing Mrs. Beaver. You look lovely.}
 <ACTION>__{Peter pulls out sword.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(To Oreius) We have come to see Aslan.}
+<DIAL_PAR>__{(To Oreius)}
+<DIAL>__{We have come to see Aslan.}
 <ACTION>__{Tent starts to blow in breeze and everyone kneels. Aslan comes from the tent and the children kneel}
 <CHAR>__{ASLAN} <CHAR_PAR>__{}
 <DIAL>__{Welcome Peter Adam's son, Welcome Susan and Lucy daughters-of-Eve. Welcome Beavers. You have my thanks, but where is the fourth.}
@@ -1147,8 +1189,8 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Yes, before you go boring.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL>__{Oh really (Splashes water and this continues}
-<DIAL_PAR>__{as Susan goes to get towel and...)}
+<DIAL>__{Oh reall}
+<DIAL_PAR>__{(Splashes water and this continues as Susan goes to get towel and...)}
 <ACTION_ALT>__{WOLVES}
 <CHAR>__{WOLF} <CHAR_PAR>__{}
 <DIAL>__{Now, We're very tired. We'd prefer to kill you quickly.}
@@ -1175,8 +1217,8 @@
 <CHAR>__{DWARF} <CHAR_PAR>__{}
 <DIAL>__{You're not going to kill him?}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Not yet! We have work to do (turning}
-<DIAL_PAR>__{to Otmin)}
+<DIAL>__{Not yet! We have work to d}
+<DIAL_PAR>__{(turning to Otmin)}
 <ACTION>__{MORNING ASLAN'S CAMP Aslan and Edmund are on the rock above camp Peter comes out and see him and then the girls}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{EDMUND!}
@@ -1186,8 +1228,8 @@
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
 <DIAL>__{Hello...}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL>__{Oh, Edmund (Hugs him and Susan does}
-<DIAL_PAR>__{too)}
+<DIAL>__{Oh, Edmun}
+<DIAL_PAR>__{(Hugs him and Susan does too)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{How are you feeling?}
 <CHAR>__{EDMUND} <CHAR_PAR>__{}
@@ -1214,12 +1256,13 @@
 <DIAL>__{I've seen what the White Witch can do and I've helped her do it, and we can't leave these people behind to suffer for it.}
 <ACTION>__{Lucy holds Ed's hand.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL>__{Well I guess that's it then. *gets up*}
+<DIAL>__{Well I guess that's it then.}
+<DIAL_PAR>__{(gets up)}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Where are you going?}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(picks up bow and quiver) To get in}
-<DIAL>__{some practice.}
+<DIAL_PAR>__{(picks up bow and quiver)}
+<DIAL>__{To get in some practice.}
 <ACTION>__{Susan and Lucy practice shooting at the target. Then it cuts to Peter and Edmund practicing sword fighting}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Come on Ed, sword hand up like Oreius showed us.}
@@ -1246,7 +1289,11 @@
 <CHAR>__{ASLAN} <CHAR_PAR>__{}
 <DIAL>__{Do not cite the Deep Magic to me, Witch. I was there when it was made.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
-<DIAL>__{Then you will know that the boy belongs to me. (turns to crowd) That boy (points to Edmund) will die on the Stone Table.}
+<DIAL>__{Then you will know that the boy belongs to me}
+<DIAL_PAR>__{(turns to crowd)}
+<DIAL>__{That bo}
+<DIAL_PAR>__{(points to Edmund)}
+<DIAL>__{will die on the Stone Table.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{Come and take it then.}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
@@ -1277,8 +1324,8 @@
 <CHAR>__{ASLAN} <CHAR_PAR>__{}
 <DIAL>__{It is time. From now on, I must go on alone. Thank you Susan. Thank you Lucy. And farewell.}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(later after lots of jeers towards Aslan}
-<DIAL>__{as he walks to the Stone Table) Why doesn't he fight back?}
+<DIAL_PAR>__{(later after lots of jeers towards Aslan as he walks to the Stone Table)}
+<DIAL>__{Why doesn't he fight back?}
 <CHAR>__{WHITE WITCH} <CHAR_PAR>__{}
 <DIAL>__{Bind him. Wait. First let him be shaved.}
 <ACTION>__{More jeers and catcalls...}
@@ -1361,7 +1408,8 @@
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{We sent the word that you were dead. Peter and Edmund would have gone to war.}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(draws knife) We have to help them.}
+<DIAL_PAR>__{(draws knife)}
+<DIAL>__{We have to help them.}
 <CHAR>__{ASLAN} <CHAR_PAR>__{}
 <DIAL>__{We will, but not alone. Now, climb on my back. We have a long ways to go and little time to get there. And you might want to cover your ears. ROAR!!!!!!!!!!!!!}
 <ACTION_ALT>__{BACK TO THE BATTLE}
@@ -1406,7 +1454,8 @@
 <DIAL>__{Where's Edmund?}
 <ACTION>__{The dwarf hobbles up and is about to finish Edmund}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{Edmund! (shoots arrow, kills the dwarf)}
+<DIAL>__{Edmund}
+<DIAL_PAR>__{(shoots arrow, kills the dwarf)}
 <ACTION>__{Edmund coughs and gasps. Lucy pulls out her cordial and places one drop on Edmund's lips. He stops moving momentarily before gasping and sitting up}
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{When are you ever going to do are you're told?}
@@ -1415,10 +1464,14 @@
 <DIAL>__{Bring forth the crowns!}
 <ACTION>__{Tumnus and Mr. Beaver bring out the crowns.}
 <CHAR>__{ASLAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(As they put on her crown) To the glistening}
-<DIAL>__{eastern sea, I give you Queen Lucy the Valiant. To the great western woods,}
-<DIAL_PAR>__{(puts his crown on) King Edmund the}
-<DIAL>__{Just. To the radiant southern sun, (puts crown on) Queen Susan the Gentle. (crown put on) And to the clear northern skies, King Peter the Magnificent. Once a king or Queen of Narnia, always a king or queen.}
+<DIAL_PAR>__{(As they put on her crown)}
+<DIAL>__{To the glistening eastern sea, I give you Queen Lucy the Valiant. To the great western woods,}
+<DIAL_PAR>__{(puts his crown on)}
+<DIAL>__{King Edmund the Just. To the radiant southern sun}
+<DIAL_PAR>__{(puts crown on)}
+<DIAL>__{Queen Susan the Gentle}
+<DIAL_PAR>__{(crown put on)}
+<DIAL>__{And to the clear northern skies, King Peter the Magnificent. Once a king or Queen of Narnia, always a king or queen.}
 <CHAR>__{EVERYONE} <CHAR_PAR>__{}
 <DIAL>__{Long live King Peter! Long live Queen Susan! Long live King Edmund! And long live Queen Lucy!}
 <ACTION>__{Aslan walking on the beach in the sunset Lucy runs out to the balcony and see him walking away}
@@ -1431,7 +1484,8 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{No, but he's good...}
 <CHAR>__{TUMNUS} <CHAR_PAR>__{}
-<DIAL_PAR>__{Here (pulling a hankie from his person)}
+<DIAL>__{Her}
+<DIAL_PAR>__{(pulling a hankie from his person)}
 <DIAL>__{I think you need this more than I do.}
 <ACTION>__{she takes it and sees that Aslan has disappeared and begins to cry softly, her and Tumnus hold hands as she looks into the sunset. YEARS LATER, OUT ON HORSES CHASING THE WHITE STAG. EDMUND SLOWS}
 <ACTION_ALT>__{DOWN}
@@ -1448,7 +1502,8 @@
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{You girls stay at the castle, I'll go get the stag myself.}
 <CHAR>__{PETER} <CHAR_PAR>__{}
-<DIAL_PAR>__{What is this? (they get off their horse)}
+<DIAL>__{What is this}
+<DIAL_PAR>__{(they get off their horse)}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{It seems like a dream...}
 <CHAR>__{LUCY} <CHAR_PAR>__{}
@@ -1462,9 +1517,12 @@
 <CHAR>__{PETER} <CHAR_PAR>__{}
 <DIAL>__{These aren't branches...}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{There coats (Voices start to change)}
+<DIAL>__{There coat}
+<DIAL_PAR>__{(Voices start to change)}
 <CHAR>__{ALL} <CHAR_PAR>__{}
-<DIAL>__{Stop pushing...ah.... (Wardrobe door flies open and all four fall on floor, the door to the room opens and the professor}
+<DIAL>__{Stop pushing...ah...}
+<DIAL_PAR>__{(Wardrobe door flies open and all four fall on floor,}
+<DIAL>__{the door to the room opens and the professor}
 <DIAL_PAR>__{walks in with the ball)}
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
 <DIAL>__{There you are. Now what were children doing the wardrobe?}
@@ -1480,6 +1538,6 @@
 <CHAR>__{LUCY} <CHAR_PAR>__{}
 <DIAL>__{Will we ever go back?}
 <CHAR>__{PROFESSOR} <CHAR_PAR>__{}
-<DIAL>__{I expect so, probably when you least expect it. What's to say Keep your eyes open (They walk out the room and the wardrobe door opens a crack and a light}
-<DIAL_PAR>__{and smoke come out and we hear a roar)}
+<DIAL>__{I expect so, probably when you least expect it. What's to say Keep your eyes ope}
+<DIAL_PAR>__{(They walk out the room and the wardrobe door opens a crack and a light and smoke come out and we hear a roar)}
 <ACTION_ALT>__{THE END}

@@ -1731,7 +1731,7 @@
 <CHAR>__{BANE} <CHAR_PAR>__{}
 <DIAL>__{I am necessary evil.}
 <ACTION>__{Stryver, on the steps outside the living room, flinches.}
-<CHAR>__{SCENE OMITTED} <CHAR_PAR>__{}
+<CHAR>__{SCENE } <CHAR_PAR>__{}
 <LOC>__{INT./EXT. CRUISER ON GOTHAM STREETS - MOMENTS LATER}
 <ACTION>__{Wayne stares out the window. Blake glances across.}
 <CHAR>__{BLAKE} <CHAR_PAR>__{}

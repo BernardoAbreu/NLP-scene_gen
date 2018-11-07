@@ -91,7 +91,7 @@
 <CHAR>__{MARGOT} <CHAR_PAR>__{}
 <DIAL>__{Why else would he be taking you to The Ivy? You've been dating for a year — it's not like he's trying to impress you.}
 <CHAR>__{SERENA} <CHAR_PAR>__{}
-<DIAL>__{Elle, you've heard the man pass gas in his sleep. That practically means you're pre-engaged.                                                                                          '"*}
+<DIAL>__{Elle, you've heard the man pass gas in his sleep. That practically means you're pre-engaged.                                                                                          '"}
 <ACTION>__{The Saleswoman approaches with the dress, kiss-assy smile on her face.}
 <CHAR>__{SALESWOMAN} <CHAR_PAR>__{}
 <DIAL>__{Did you see this one? We just got it in yesterday.}
@@ -517,9 +517,9 @@
 <CHAR>__{ELLE} <CHAR_PAR>__{}
 <DIAL>__{Dylan!          We love you!}
 <ACTION>__{Dylan McDermott burns rubber as he flees.}
-<LOC>__{EXT. USC CAMPUS - DAY                                                                                                   31 "*}
+<LOC>__{EXT. USC CAMPUS - DAY                                                                                                   31 "}
 <ACTION>__{ON.VIDEO, Elle jogs while she addresses the camera.}
-<DIAL>__{ELLE                                                                                   :*}
+<TRANS>__{ELLE                                                                                   :}
 <DIAL_PAR>__{(to camera)}
 <DIAL>__{I'm totally focused and goal-oriented. Plus I ' m able to sway people with my very convincing arguments.}
 <ACTION>__{She turns to Serena, jogging next to her.}
@@ -939,7 +939,7 @@
 <DIAL>__{I ' m not pretty — I ' m genetically blessed.}
 <ACTION>__{Paulette rolls her eyes, shaking her bottle of polish and starting on Elle's right hand.}
 <CHAR>__{PAULETTE} <CHAR_PAR>__{}
-<DIAL>__{Is sJie.?                                                                                              "*}
+<DIAL>__{Is sJie.?                                                                                              "}
 <CHAR>__{ELLE} <CHAR_PAR>__{}
 <DIAL>__{She could use some mascara and some serious highlights, but she's not completely unfortunate- looking.}
 <CHAR>__{UPS GUY } <CHAR_PAR>__{(O.S.)}
@@ -1119,7 +1119,7 @@
 <ACTION>__{Elle shuts the door behind her and looks at Underdog.}
 <CHAR>__{ELLE} <CHAR_PAR>__{}
 <DIAL>__{I can't believe this. Not only do I not have Warner, but I ' m —unpopular!}
-<ACTION>__{The realization hits her hard. Underdog barks.                                                    She looks at him.*}
+<ACTION>__{The realization hits her hard. Underdog barks.                                                    She looks at him.}
 <CHAR>__{ELLE } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(continuing)}
 <DIAL>__{But I wasn't invited.}

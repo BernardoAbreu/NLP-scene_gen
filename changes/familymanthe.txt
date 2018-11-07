@@ -183,7 +183,7 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Just until the Deutsche Mark turns...}
 <ACTION>__{Jack exits the building...}
-<LOC>__{9   OMITTED EXT. CENTRAL PARK - MORNING}
+<LOC>__{9    EXT. CENTRAL PARK - MORNING}
 <ACTION>__{Jacks Ferrari racing through the park...}
 <LOC>__{EXT. LASSITER BUILDING - MORNING}
 <ACTION>__{A modern Wall Street building.  The sign above the glass doors reads, P.K. Lassiter and Associates, Investment House. The Ferrari SCREECHES to a halt.  Jack gets out, heads into the building...}
@@ -2243,7 +2243,7 @@
 <CHAR>__{KATE } <CHAR_PAR>__{(CONTD)}
 <DIAL>__{Youre gonna break a lot of hearts, you know.}
 <ACTION>__{A smile from Annie... Pull back to reveal...Jack standing at the door, watching ...appreciating the kind of mother Kate is...}
-<LOC>__{79   OMITTED EXT. LOIRE - NIGHT}
+<LOC>__{79    EXT. LOIRE - NIGHT}
 <ACTION>__{A small, elegant French restaurant hidden on a tree- lined lower Manhattan street.}
 <LOC>__{INT. LOIRE - SAME TIME}
 <ACTION>__{Jack is wearing the suit Kate gave him.  Its not a Zegna, but he looks pretty damn good. He leads Kate toward the cloak room at this intimate restaurant... He helps her off with her coat.  Kates wearing the sexy little black dress and we can immediately see its effectiveness...}
@@ -2853,7 +2853,7 @@
 <CHAR>__{KATE} <CHAR_PAR>__{}
 <DIAL>__{They already do envy us, Jack...}
 <ACTION>__{Kate picks up her bag and walks out of the apartment.}
-<LOC>__{102  OMITTED INT. ANNIES ROOM - NIGHT}
+<LOC>__{102   INT. ANNIES ROOM - NIGHT}
 <ACTION>__{Annie is in a nightgown, practicing her violin. Jack walks in. Its all he can do to hold back cringing at the missed notes. Annie finishes the piece, lowering the bow.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Very nice. What is it?}
@@ -2916,7 +2916,7 @@
 <DIAL_PAR>__{(a curious look)}
 <DIAL>__{Ringing my bell...}
 <ACTION>__{On Jacks anxious face...}
-<LOC>__{109  OMITTED}
+<LOC>__{109  }
 <ACTION_ALT>__{CHAPTER FIFTEEN  SAYING GOODBYE}
 <LOC>__{INT. CONVENIENCE STORE - NIGHT}
 <ACTION>__{On Jack...crouched down in an aisle of this local convenience store...checking out the bags of rock salt... He looks at the price tag on one of the bags...}

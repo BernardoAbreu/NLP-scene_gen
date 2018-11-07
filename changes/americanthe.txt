@@ -978,7 +978,7 @@
 <ACTION>__{JACK is asleep. He is not alone. In the bed beside him:}
 <CHAR>__{INGRID.} <CHAR_PAR>__{}
 <ACTION>__{Pale as death. Eyes rolled back in her sockets.}
-<DIAL>__{***}
+<DIAL>__{}
 <ACTION>__{JACK wakes up suddenly, gasping. The bed is empty, the sheets twisted and damp.}
 <LOC>__{EXT. CASTEL DEL MONTE- DAWN}
 <ACTION_ALT>__{SUNRISE...}
@@ -1058,7 +1058,7 @@
 <ACTION>__{We're recognise the secret courtyard: the one reached by means of the hidden archway. With one hand, JACK feeds another SUGAR CUBE to the MONGREL. With the other hand, he holds his WALTHER behind his back... ...and cocks it.}
 <LOC>__{EXT. ALLEYWAY- NIGHT}
 <ACTION>__{The YOUNG MAN is waiting at the far end of the alleyway, hugging the wall, scanning the CROSSROADS ahead, unsure which of the four possible alleyways holds his prey. JACK emerges from the HIDDEN ARCHWAY and walks quickly up behind him. JACK has removed his shoes and his bare feet are silent. He has thirty metres to cover. The gun hangs heavy in his right hand. It's fitted with a TAC 65 SOUND SUPPRESSOR. He raises his right hand. Twenty metres. The gun is pointing at the YOUNG MAN. Fifteen metres. His finger takes up the slack of the trigger. Ten meters. Then: A DUCATI turns into the alleyway behind JACK, its headlights on full beam. JACK drops his right hand and thrusts his silenced WALTHER deep into his jacket pocket. The YOUNG MAN looks his way. JACK is outlined by the moped's beam of light. The two men are face to face, within spitting distance. The DUCATI hurtles towards the YOUNG MAN. The MAN ON THE DUCATI is wearing a tinted BLACK CRASH HELMET. The YOUNG MAN's eyes widen with fear. BANG! The DUCATI misfires. Mistaking the sound for gunfire, the YOUNG MAN drops, rolls and fires back. We hear the sound of a single suppressed shot: CHOOP! The BULLET grazes the FRONT SUSPENSION of the DUCATI and lodges in the REAR COWLING. The MAN ON THE DUCATI swerves and crashes, hitting a stone staircase. JACK looks around. The YOUNG MAN has disappeared. The MAN ON THE DUCATI is out cold. The front wheel of his DUCATI turns slowly, squeaking. CHOOP! A bullet hits the road not far from JACK. CHOOP! Another bullet hits the wall behind him. Swiftly, JACK grabs hold of the battered 1970s DUCATI...}
-<LOC>__{EXT. CASTEL DEL MONTE,    MEDIAVEVAL MAZE- NIGHT}
+<LOC>__{EXT. CASTEL DEL MONTE, MEDIAVEVAL MAZE- NIGHT}
 <ACTION>__{JACK rides the classic DUCATI, turning left and right without hesitation, through archways, down steps, dropping level by level, cursing in time with his jagged breathing until...}
 <LOC>__{EXT. CASTEL DEL MONTE, OUTSKIRTS OF TOWN- NIGHT}
 <ACTION>__{JACK emerges from the bottom of the town and races away on the winding road. Silence. All we can hear are the crickets. Then the sound of a car. An AUDI tears past us, following JACK out of town.}
@@ -1447,7 +1447,7 @@
 <DIAL>__{Buona sera. Desidera?}
 <ACTION>__{CLARA orders, full of Italian charm, putting JACK at his ease. He watches her contentedly: the way she talks and moves.}
 <LOC>__{EXT. CORSO FREDERICO- NIGHT}
-<ACTION>__{JACK   and CLARA are walking. He has a cigarette in his mouth. They   look like film stars. CLARA slips her arm through his. They   say nothing. The pedestrian shopping street is thronging with   other couples.}
+<ACTION>__{JACK and CLARA are walking. He has a cigarette in his mouth. They look like film stars. CLARA slips her arm through his. They say nothing. The pedestrian shopping street is thronging with other couples.}
 <LOC>__{EXT. COFFEE BAR- NIGHT}
 <ACTION>__{The coffee bar has an outside section. CLARA and L'AMERICANO are seated in a throng of happy youngsters Clara's age. JACK is the oldest person there. The WAITRESS brings two glasses of PROSECCO. She puts a small silver bowl of raspberry ice cream down in front of JACK. In front of CLARA she puts down an extravagant ice cream sundae. CLARA grins at her sundae like a little girl. She's a bit drunk.}
 <CHAR>__{CLARA} <CHAR_PAR>__{}
@@ -1634,7 +1634,7 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Put them in the back. We've got a way to go.}
 <ACTION>__{She puts the plastic bag in the trunk. Inside the trunk is the PICNIC HAMPER.}
-<LOC>__{INT. CAR-   DAY}
+<LOC>__{INT. CAR- DAY}
 <ACTION>__{CLARA climbs in and fastens her seat-belt. She puts the RED PURSE between her legs. JACK glances at the}
 <ACTION_ALT>__{RED PURSE.}
 <ACTION>__{And drives.}

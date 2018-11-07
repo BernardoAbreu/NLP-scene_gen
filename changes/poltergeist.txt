@@ -174,7 +174,7 @@
 <ACTION>__{Two hands lift it from the shadows and into the light. The lid starts to open and just as we expect to see Tweety-one we see the “stash” instead. Steve removes a lid of grass and some zigzag papers and starts to roll a joint. On the TV is an old MGM movie. Diane is reading Carl Jung’s MAN AND HIS SYMBOLS. Steve picks up a brochure on pool equipment and diving boards.}
 <CHAR>__{DIANE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(taking a hit)}
-<DIAL>__{Sleepwalking. Sleepwalking. Nocturnal Somnambulism. * I’ll betcha it’s genetic. Carol Anne all last week and then last night. Me when I was ten. I once walked four blocks and fell asleep in the back seat of this man’s car. He went all the way to work before discovering me. God. I started screaming... people ran over. The police came. They took the guy downtown. My father had me examined for bruises, hickeys, I don’t know. Oh shit, Steven! If we dig the pool and Carol Anne falls in before there’s any water... Steven... are you listening?}
+<DIAL>__{Sleepwalking. Sleepwalking. Nocturnal Somnambulism.  I’ll betcha it’s genetic. Carol Anne all last week and then last night. Me when I was ten. I once walked four blocks and fell asleep in the back seat of this man’s car. He went all the way to work before discovering me. God. I started screaming... people ran over. The police came. They took the guy downtown. My father had me examined for bruises, hickeys, I don’t know. Oh shit, Steven! If we dig the pool and Carol Anne falls in before there’s any water... Steven... are you listening?}
 <ACTION>__{Steven takes the joint back from Diane and pulls it down halfway in one breath -- holding the hit.}
 <CHAR>__{STEVEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(he talks like Dennis Hopper)}
@@ -204,7 +204,8 @@
 <CHAR>__{DIANE} <CHAR_PAR>__{}
 <DIAL>__{Yeah and, our pool will be alive with a thousand guests.}
 <CHAR>__{STEVEN} <CHAR_PAR>__{}
-<DIAL>__{I’m the wind and you’re the feather! *** REST OF SCENE MISSING ***}
+<DIAL>__{I’m the wind and you’re the feather!}
+<CHAR>__{REST OF SCENE MISSING } <CHAR_PAR>__{}
 <LOC>__{INT. CHILDREN’S BEDROOM - NIGHT}
 <ACTION>__{Steven flops Robbie onto his pillow just as a flash lights the room and the tree outside the window. Carol Anne lies awake, watching.}
 <CHAR>__{ROBBIE} <CHAR_PAR>__{}
@@ -498,7 +499,9 @@
 <ACTION>__{They turn but it’s too late. Carol Anne shoots across the room faster than before, and with no one to catch her. ANGLE - KITCHEN WALL At a sickening speed her helmet smashes into the wall. Diane SCREAMS. Steve runs over. An eight-inch hole in the wall and the cracked plastic on the helmet testify to the force of impact. Carol Anne is dazed but unhurt.}
 <CHAR>__{CAROL ANNE} <CHAR_PAR>__{}
 <DIAL>__{You promised pizza.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{EXT. BEN TUTHILL’S FRONT PORCH - LIGHT}
 <ACTION>__{The front door opens and Tuthill steps into the bug light. An obvious strain in this conversation. The motives various, the feelings mutual. About a thousand mosquitos chow down on the Freelings while they talk.}
 <CHAR>__{STEVEN} <CHAR_PAR>__{}
@@ -608,7 +611,7 @@
 <ACTION>__{CLOSE - CAROL ANNE’S TINY HANDS The sheets start to peel back. The closet swallows toys and posters of Darth Vader and R2D2, then sucks harder, the NOISE something like a colossal straw pulling at the last drop from a deep, deep well. Only now does the bed give way, flipping into the air and flying across the room, slamming Carol Anne inside and blocking the opening with its frame and springs.}
 <LOC>__{EXT. SECOND STORY WINDOW - NIGHT}
 <ACTION>__{ANGLE - TREE Steve tears at the branches, trying to free Robbie. A crimson fluid pumps thick from the branches that Steve destroys. As suddenly as it began, the final burst of wind passes the tree like the caboose at the end of a runaway train. He frees his son and they topple out of the tree. Robbie throws his arms around his Dad and the two hold on for their lives, gasping, hugging, choking on the rain and sap. The tree is uprooted before them and disappears into the storm.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FREELING’S BACK YARD - NIGHT}
 <ACTION>__{Steve and Robbie lie on the ground. Both are numb and buzzing. Diane runs over and hugs them. Then Dana looks in the sky and points to the horizon.}
 <CHAR>__{DANA} <CHAR_PAR>__{}
@@ -833,7 +836,8 @@
 <ACTION>__{Everyone turns away from Diane and back to the TV. They strain their hearing, leaning forward, watching...}
 <CHAR>__{VOICE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly, sweetly, far away)}
-<DIAL>__{Hello, Daddy. *** PAGE MISSING ***}
+<DIAL>__{Hello, Daddy.}
+<CHAR>__{PAGE MISSING } <CHAR_PAR>__{}
 <CHAR>__{DIANE} <CHAR_PAR>__{}
 <DIAL>__{Carol Anne. Where is this light?}
 <CHAR>__{DR. LESH} <CHAR_PAR>__{}

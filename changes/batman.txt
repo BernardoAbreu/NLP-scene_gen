@@ -4,7 +4,7 @@
 <LOC>__{EXT. CATHEDRAL - NIGHT}
 <ACTION>__{Amid the chrome and glass sits a dark and ornate Gothic anomaly: old City Cathedral, once grand, now abandoned -- long since boarded up and scheduled for demolition. On the rooftop far above us, STONE GARGOYLES gaze down from their shadowy, windswept perches, keeping monstrous watch over the distant streets below, sightless guardians of the Gotham night. One of them is moving.}
 <LOC>__{EXT. GOTHAM SQUARE - NIGHT}
-<ACTION>__{The pulsing heart of downtown Gotham, a neon nightmare of big-city corruption, almost surreal in its oppressiveness. Hookers wave to drug dealers. Street hustlers slap high- fives with three-card monte dealers. They all seem to know each other... with one conspicuous exception: A TOURIST FAMILY, Mom, Dad, and little Jimmy, staring straight  ahead as they march in perfect lockstep down the main drag. They've just come out of a bit show two blocks over; the respectable theatre crowd has thinned out, and now -- Playbills in hand -- they find themselves adrift in the predatory traffic of Gotham's meanest street.}
+<ACTION>__{The pulsing heart of downtown Gotham, a neon nightmare of big-city corruption, almost surreal in its oppressiveness. Hookers wave to drug dealers. Street hustlers slap high- fives with three-card monte dealers. They all seem to know each other... with one conspicuous exception: A TOURIST FAMILY, Mom, Dad, and little Jimmy, staring straight ahead as they march in perfect lockstep down the main drag. They've just come out of a bit show two blocks over; the respectable theatre crowd has thinned out, and now -- Playbills in hand -- they find themselves adrift in the predatory traffic of Gotham's meanest street.}
 <CHAR>__{MOM} <CHAR_PAR>__{}
 <DIAL>__{For God's sake, Harold, can we please just get a taxi??}
 <CHAR>__{DAD} <CHAR_PAR>__{}
@@ -17,7 +17,7 @@
 <ACTION>__{Nearby, STREET TYPES are beginning to snicker. DAD surveys them nervously, gestures toward the subway map.}
 <CHAR>__{DAD} <CHAR_PAR>__{}
 <DIAL>__{Put that away. We'll look like tourists.}
-<ACTION>__{TWO COPS lean on their patrol car outside an all-night souvlaki stand, sipping coffee and chatting with a HOOKER. The HOOKER smiles at JIMMY.  JIMMY smiles back. MOM yanks him off down the street and glowers at DAD.}
+<ACTION>__{TWO COPS lean on their patrol car outside an all-night souvlaki stand, sipping coffee and chatting with a HOOKER. The HOOKER smiles at JIMMY. JIMMY smiles back. MOM yanks him off down the street and glowers at DAD.}
 <CHAR>__{DAD } <CHAR_PAR>__{(cont.)}
 <DIAL>__{We'll never get a cab here. Let's cut over to Seventh.}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
@@ -33,7 +33,7 @@
 <DIAL>__{Mister. How about it. One dollar?}
 <DIAL_PAR>__{(standing up)}
 <DIAL>__{One dollar, man. Are you deaf? Are you deaf? -- Do you speak English??}
-<ACTION>__{By now the TOURISTS are halfway across the street. Mercifully, the DERELICT doesn't seem to be following. They pick up their pace. They don't see the SHADOWY FIGURE in the alleyway. They don't see the GUN until a gloved hand brings it down, butt-first, across the back of DAD's neck. DAD crumples. MOM grabs JIMMY and backs up against a brick wall, too terrified to scream. The DERELICT races across the street to join his confederate, the STREET PUNK, who's already searching for DAD's wallet. MOM's mouth opens in panic. They can see she's about to snap -- so  the STREET PUNK, still in a crouch, trains his gun on JIMMY.}
+<ACTION>__{By now the TOURISTS are halfway across the street. Mercifully, the DERELICT doesn't seem to be following. They pick up their pace. They don't see the SHADOWY FIGURE in the alleyway. They don't see the GUN until a gloved hand brings it down, butt-first, across the back of DAD's neck. DAD crumples. MOM grabs JIMMY and backs up against a brick wall, too terrified to scream. The DERELICT races across the street to join his confederate, the STREET PUNK, who's already searching for DAD's wallet. MOM's mouth opens in panic. They can see she's about to snap -- so the STREET PUNK, still in a crouch, trains his gun on JIMMY.}
 <CHAR>__{STREET PUNK} <CHAR_PAR>__{}
 <DIAL>__{Do the kid a favor, lady. Don't scream.}
 <ACTION>__{The poor woman is utterly horrified. TEARS stream down her face. But she keeps her wits about her, stifles the urge to shriek, and hustles JIMMY off down the street. The two PUNKS watch them break into a run -- then chuckle, slap hands, race off in the opposite direction.}
@@ -85,7 +85,7 @@
 <ACTION_ALT>__{DROP.}
 <ACTION>__{Standing at the edge of the roof, bathed in moonlight, is a}
 <ACTION_ALT>__{BLACK APPARITION. IT DOES NOT MOVE.}
-<ACTION>__{EDDIE stands rooted to the spot, a choked gurgle in his throat, as if he's just seen his own death. The BLACK FIGURE advances, spreading  its arms. Or rather, its WINGS: GREAT BLACK BATWINGS, flapping in the wind. NICK drops to the gravel, gropes for the gun, brings it up. And still the BLACK FIGURE draws closer, deliberate, menacing. On its chest: THE EMBLEM OF A BAT, in an oval yellow field, glowing like a target in the darkness... NICK FIRES TWICE. TWO CLEAN HITS. The strange black figure is knocked bodily to the roof. Trembling, sweating buckets, NICK gets to his feet. He whacks a motionless EDDIE on the arm --}
+<ACTION>__{EDDIE stands rooted to the spot, a choked gurgle in his throat, as if he's just seen his own death. The BLACK FIGURE advances, spreading its arms. Or rather, its WINGS: GREAT BLACK BATWINGS, flapping in the wind. NICK drops to the gravel, gropes for the gun, brings it up. And still the BLACK FIGURE draws closer, deliberate, menacing. On its chest: THE EMBLEM OF A BAT, in an oval yellow field, glowing like a target in the darkness... NICK FIRES TWICE. TWO CLEAN HITS. The strange black figure is knocked bodily to the roof. Trembling, sweating buckets, NICK gets to his feet. He whacks a motionless EDDIE on the arm --}
 <CHAR>__{NICK } <CHAR_PAR>__{(cont.)}
 <DIAL>__{I'm gettin' outta here.}
 <ACTION>__{-- and bends to retrieve his loot. EDDIE lets out a strange, pre-verbal squeal... ... and NICK sees THE HUMAN BAT, BACK ON ITS FEET, NIGHTMARISH, UNDEAD, MOVING SLOWLY AND INEVITABLY CLOSER. Panic. Sheer, raw, unrelenting panic. Stolen money flutters out of NICK's hands. He scuttles around the periphery of the roof, his feet skidding on the gravel as he searches for a way down. The BLACK SPECTRE is blocking his path to the fire escape. Trapped like a rat, NICK FIRES WILDLY. EDDIE is frozen in place, his eyes glazed over, his face drained of blood. The BAT treads calmly past. A LEG snakes out. A BLACK BOOT catches EDDIE high on the chest -- -- LIFTS HIM CLEANLY OFF HIS FEET -- -- AND SENDS HIM FLYING THROUGH THE AIR. EDDIE slams into a brick chimney and slumps to the roof unconscious, a broken, weightless puppet. THIS ACTION IS SO SMOOTH, SO AUTOMATIC, THAT THE BAT DOES NOT EVEN BREAK HIS STRIDE. NICK sees his chance and CHARGES past the black wraith, scrambling toward the fire escape... A GLOVED HAND slices through the air, and NICK pitches forward, his legs ensnared in a tangle of WIRES. Screaming now, he drags himself across the gravel roof, the looming figure of the BAT at his heels... ... until there's no place left to go. NICK cowers against the ledge, his pants torn, his hands and knees bloody. He has dissolved into total mindless hysteria. Almost by reflex, NICK keeps shooting. He'd do better if he could manage to open his eyes. By now the hammer is falling on an empty chamber, but NICK continues, obsessively, to pull the trigger. He weeps; he moans; he wails... THE BAT grabs a fistful of NICK's shirt, and with supernatural ease HOISTS HIM into the air.}
@@ -220,7 +220,7 @@
 <ACTION>__{Gotham city's leading tabloid daily. COPY BOYS rush to and fro; REPORTERS pound out articles on computer terminals. ALEXANDER KNOX saunters in, a sheath of typed pages in his hand, and pauses at a CARTOONIST's drawing table.}
 <CHAR>__{KNOX} <CHAR_PAR>__{}
 <DIAL>__{What have you got for me, Jerry?}
-<ACTION>__{JERRY holds up a cartoon: a HUMAN BAT, with an awful, fanged rodent's face, wearing a business suit. The caption at the top reads: "HAVE YOU SEEN THIS MAN?"  KNOX nods in approval.}
+<ACTION>__{JERRY holds up a cartoon: a HUMAN BAT, with an awful, fanged rodent's face, wearing a business suit. The caption at the top reads: "HAVE YOU SEEN THIS MAN?" KNOX nods in approval.}
 <CHAR>__{KNOX } <CHAR_PAR>__{(cont.)}
 <DIAL>__{Nice, but... maybe a little more gore on the fangs, huh?}
 <ACTION>__{He pats JERRY on the shoulder, moves on. A BESPECTACLED COLLEAGUE spots him and calls out:}
@@ -240,7 +240,7 @@
 <DIAL>__{Honey -- I would know any randomly selected square inch of Vicki Vale.}
 <DIAL_PAR>__{(grinning)}
 <DIAL>__{If I had a good enough hint.}
-<ACTION>__{He points at the oversized CAMERA BAG on his desk. It bears the monogram "V.V."  VICKI catches on, makes a face at him.}
+<ACTION>__{He points at the oversized CAMERA BAG on his desk. It bears the monogram "V.V." VICKI catches on, makes a face at him.}
 <CHAR>__{KNOX } <CHAR_PAR>__{(cont.)}
 <DIAL>__{Where the hell have you been?}
 <CHAR>__{VICKI} <CHAR_PAR>__{}
@@ -287,7 +287,7 @@
 <ACTION>__{Overwhelmed with glee, he offers her his arm.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. PENTHOUSE - DAY}
-<ACTION>__{A HUGE PLATE GLASS WINDOW opens on the best view in Gotham. This spectacular penthouse suite is just one of the power perks available to CARL GRISSOM, kingpin of the Gotham City rackets, fat, fifty, and utterly without charm. GRISSOM, behind a big broad desk, addresses his LIEUTENANTS -- a fearsome assemblage of bloodless white-collar types and few outright goons, sprawled in chairs throughout this makeshift 'boardroom.'  The big boss waves a copy of the Gotham Globe -- with HARVEY DENT's face on the cover.}
+<ACTION>__{A HUGE PLATE GLASS WINDOW opens on the best view in Gotham. This spectacular penthouse suite is just one of the power perks available to CARL GRISSOM, kingpin of the Gotham City rackets, fat, fifty, and utterly without charm. GRISSOM, behind a big broad desk, addresses his LIEUTENANTS -- a fearsome assemblage of bloodless white-collar types and few outright goons, sprawled in chairs throughout this makeshift 'boardroom.' The big boss waves a copy of the Gotham Globe -- with HARVEY DENT's face on the cover.}
 <CHAR>__{GRISSOM} <CHAR_PAR>__{}
 <DIAL>__{Nine points ahead in the new poll. I don't like the way this is shaping up.}
 <ACTION>__{JACK NAPIER slouches in an easy chair off to GRISSOM's right, doing his trademark one-handed shuffle.}
@@ -857,7 +857,7 @@
 <ACTION>__{A COPY BOY approaches his desk with a MANILA FOLDER:}
 <CHAR>__{COPY BOY} <CHAR_PAR>__{}
 <DIAL>__{Here's that morgue file you wanted.}
-<ACTION>__{KNOX leans back in his chair. The file is labelled "BRUCE WAYNE: 1982-1987."  KNOX opens it and begins to leaf through old clippings from back issues of the Globe. WAYNE FOUNDATION TO FUND LOW-COST HOUSING. MILLIONAIRE}
+<ACTION>__{KNOX leans back in his chair. The file is labelled "BRUCE WAYNE: 1982-1987." KNOX opens it and begins to leaf through old clippings from back issues of the Globe. WAYNE FOUNDATION TO FUND LOW-COST HOUSING. MILLIONAIRE}
 <ACTION_ALT>__{HEADS CHARITY DRIVE FOR GOTHAM HANDICAPPED. HURRICANE}
 <ACTION>__{VICTIMS SAY 'THANK YOU' TO BRUCE WAYNE. KNOX's face sags in dismay. Every article seems to be telling us just how swell a rich philanthropist can be.}
 <CHAR>__{KNOX} <CHAR_PAR>__{}
@@ -959,11 +959,11 @@
 <DIAL>__{... Looks like a convention.}
 <ACTION>__{And indeed, there are HALF A DOZEN STREET MIMES converging on the center of the plaza. RICORSO and co. approach the mirrored-glass entrance of a skyscraper. In the lobby, A MIME -- who's been annoying the passersby -- THROWS A BOLT, LOCKING THE DOORS from inside. A BODYGUARD bangs on the glass. Nearby, ANOTHER MIME reaches into a trash bin -- and pulls out a MACHINE GUN. SUDDEN SCREAMS OF TERROR from the onlookers. VICKI turns to BRUCE. Before she can get his name out, he's HOISTED HER BODILY and THROWN HER behind a marble fountain.}
 <ACTION_ALT>__{SERIES OF SHOTS}
-<ACTION>__{BRUCE'S EYES darting birdlike around the plaza -- INTERCUT : with the following POV SHOTS, ALL IN SLOW MOTION: -    TWO MIMES with machine guns. One of them lining PHILLY}
+<ACTION>__{BRUCE'S EYES darting birdlike around the plaza -- INTERCUT : with the following POV SHOTS, ALL IN SLOW MOTION: - TWO MIMES with machine guns. One of them lining PHILLY}
 <DIAL>__{and co. up against the glass doors, the other holding the CROWD at bay;}
-<ACTION>__{-    A WOMAN in the crowd fainting. A THIRD MIME gleefully}
+<ACTION>__{- A WOMAN in the crowd fainting. A THIRD MIME gleefully}
 <DIAL>__{imitating her swoon, to no one's amusement;}
-<ACTION>__{-    PHILLY and his goons, COWERING, hands in the air, as}
+<ACTION>__{- PHILLY and his goons, COWERING, hands in the air, as}
 <DIAL>__{OTHER MIMES cruelly mimic their terrified poses...}
 <ACTION>__{... and suddenly BRUCE is RUNNING FRANTICALLY, looking for a secluded spot, an alleyway, anything. No go. He's out in the open, with onlookers everywhere. In his civvies, he's just another citizen... TOTALLY IMPOTENT. He darts around a corner, backs against a wall. WOMEN, CHILDREN, GROWN MEN race past. No privacy. He's practically quaking now, in the throes of some terrible anxiety. He looks up at the sky overhead, terrified. A BRILLIANT SUN bears down on him as MACHINE GUNS CHATTER.}
 <ACTION_ALT>__{ANGLE ON PHILLY AND BODYGUARDS}
@@ -1147,11 +1147,11 @@
 <ACTION>__{Television sets all over Gotham, as startled citizens react to the JOKER's maniacal promo.}
 <CHAR>__{JOKER} <CHAR_PAR>__{}
 <DIAL>__{I know what you're saying. Where can I buy these fine, fine products? Well, that's the gag, folks, you never know. Chances are... you've bought 'em already!!!}
-<ACTION>__{As his RANT CONTINUES, we SEE: -    A YOUNG MAN watching the bedroom TV as he dresses for}
+<ACTION>__{As his RANT CONTINUES, we SEE: - A YOUNG MAN watching the bedroom TV as he dresses for}
 <DIAL>__{a date. He's got an aerosol deodorant can poised under one arm, ready to spray. He looks down at the can, suddenly uncertain. Could it be...?}
-<ACTION>__{-    A FAMILY in their kitchen, eyeing a 12-inch portable}
+<ACTION>__{- A FAMILY in their kitchen, eyeing a 12-inch portable}
 <DIAL>__{as MOM serves dinner. They dig in automatically, then FREEZE with their forks in midair.}
-<ACTION>__{-    A MIDDLE-AGED MATRON at the living-room TV. Shocked,}
+<ACTION>__{- A MIDDLE-AGED MATRON at the living-room TV. Shocked,}
 <DIAL>__{she calls to her husband -- and gets no reply. We FOLLOW HER to the bathroom door. On the floor she sees AN OVERTURNED SHAMPOO BOTTLE. Then: her HUSBAND, slumped down in the tub, a lethal GRIN on his face. She lets out a SHRIEK.}
 <LOC>__{INT. WAYNE MANOR - STUDY - NIGHT}
 <ACTION>__{ALFRED THE BUTLER in a crouch, glued to the tube.}
@@ -1165,24 +1165,24 @@
 <DIAL>__{Now on your grocer's shelf. So remember -- use Joker brand -- and put on a happy face!!}
 <ACTION>__{MUSIC UP. VIDEO SNOW fills the screen as the jammed transmission end. ALFRED looks over his shoulder. TRACK IN ON THE GRIM, DETERMINED FACE OF BRUCE WAYNE.}
 <ACTION_ALT>__{SERIES OF SHOTS}
-<ACTION>__{-    The Gotham Globe cartwheeling into frame:}
+<ACTION>__{- The Gotham Globe cartwheeling into frame:}
 <ACTION_ALT>__{PANIC GRIPS GOTHAM}
-<ACTION>__{Contaminated Products Claim 72 Lives WHO IS THE MYSTERIOUS "JOKER"? -    An ANCHORWOMAN on the evening news. Her complexion is}
+<ACTION>__{Contaminated Products Claim 72 Lives WHO IS THE MYSTERIOUS "JOKER"? - An ANCHORWOMAN on the evening news. Her complexion is}
 <DIAL>__{curiously sallow. BLACK BAGS show under her eyes.}
 <CHAR>__{ANCHORWOMAN} <CHAR_PAR>__{}
 <DIAL>__{... sixteen new deaths, with no clues as to the Joker's identity or demands. The list at potentially lethal products now includes: perfume -- mascara -- cold cream --}
-<ACTION>__{-    The makeover counter at Bloomingdale's. SECURITY}
+<ACTION>__{- The makeover counter at Bloomingdale's. SECURITY}
 <DIAL>__{GUARDS rush to the scene as THREE MATRONLY CUSTOMERS go into simultaneous smiling fits.}
-<ACTION>__{-    An ANCHORMAN with a BIG UGLY ZIT on his nose:}
+<ACTION>__{- An ANCHORMAN with a BIG UGLY ZIT on his nose:}
 <CHAR>__{ANCHORMAN} <CHAR_PAR>__{}
 <DIAL>__{Men's cologne toothpaste mouthwash -- underarm deodorant --}
-<ACTION>__{-    A SUBWAY CAR jammed with STRAPHANGERS. HUGE PATCHES OF}
+<ACTION>__{- A SUBWAY CAR jammed with STRAPHANGERS. HUGE PATCHES OF}
 <DIAL>__{SWEAT under every arm. The doors slide open; ONCOMING PASSENGERS RECOIL VISIBLY at the unendurable stench.}
-<ACTION>__{-    The original ANCHORWOMAN, whose look is now 100%}
+<ACTION>__{- The original ANCHORWOMAN, whose look is now 100%}
 <DIAL>__{natural. Her hair is frizzy. Her eyebrows are missing altogether. Every wrinkle on her face is plainly visible.}
 <CHAR>__{ANCHORWOMAN} <CHAR_PAR>__{}
 <DIAL>__{Hair spray -- eyebrow pencil -- moisturizing cream --}
-<ACTION>__{-    A LARGE DRUGSTORE. CASHIERS sit idly by the registers.}
+<ACTION>__{- A LARGE DRUGSTORE. CASHIERS sit idly by the registers.}
 <DIAL>__{The store is utterly devoid of customers.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. STREET - DUSK}
@@ -1353,7 +1353,7 @@
 <ACTION>__{The engines are revving up even as BATMAN vaults into the cockpit alongside VICKI. Guns in hand, the JOKER'S GOONS Are stumbling out of the Fluegelheim, hacking, coughing, blinded by smoke. They DIVE FOR THEIR LIVES as the BATMOBILE comes barrelling out of the alley at ninety miles an hour. THE JOKER emerges just as the BATMOBILE careens off.}
 <CHAR>__{JOKER} <CHAR_PAR>__{}
 <DIAL>__{I WANT HIM!! I WANT HIM!!}
-<ACTION>__{The JOKER climbs into the back of a van labelled "MONARCH PLAYING CARDS."  Half his GOONS pile into the van behind him, the other half into a second car nearby.}
+<ACTION>__{The JOKER climbs into the back of a van labelled "MONARCH PLAYING CARDS." Half his GOONS pile into the van behind him, the other half into a second car nearby.}
 <LOC>__{EXT. STREETS - THAT MOMENT}
 <ACTION>__{SIRENS HOWL as POLICE CARS converge on the Flugelheim.}
 <LOC>__{INT. BATMOBILE - THAT MOMENT}
@@ -1864,7 +1864,7 @@
 <CHAR>__{BRUCE} <CHAR_PAR>__{}
 <DIAL>__{Do you want a drink?}
 <CHAR>__{KNOX} <CHAR_PAR>__{}
-<DIAL>__{Yeah, a drink. "Civilized."  Man-to- man, right?}
+<DIAL>__{Yeah, a drink. "Civilized." Man-to- man, right?}
 <CHAR>__{BRUCE} <CHAR_PAR>__{}
 <DIAL>__{Alfred, bring something for Mr. Knox. -- I'll have one too.}
 <TRANS>__{CUT TO:}

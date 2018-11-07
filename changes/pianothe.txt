@@ -765,7 +765,7 @@
 <DIAL>__{previous speech) What do they say? Are they selling? Offer the blankets for half the land.}
 <ACTION>__{STEWART holds up his ten fingers and then two more.}
 <CHAR>__{STEWART} <CHAR_PAR>__{}
-<DIAL>__{T-w~e-l-v~e.}
+<DIAL>__{T-w e-l-v e.}
 <CHAR>__{BAINES} <CHAR_PAR>__{}
 <DIAL>__{Te, kawnarna paraikete mo te tahi hawlie 0 te whenna uci.}
 <DIAL_PAR>__{(he'll give you twelve blankets for half the land.)}
@@ -886,7 +886,7 @@
 <ACTION>__{Inside the hut ADA had lifted the top of the piano and is peering in while playing notes to check tune and damage.}
 <CHAR>__{STEWART} <CHAR_PAR>__{}
 <DIAL>__{Is it all right? Aren't you going to play something?}
-<ACTION>__{ADA pulls up a chair and seats herself at the piano. She rubs her hands and places them lightly on the keys, she turns from habit over her left shoulder where STEWART waits crossed armed. Quickly she removes her hands, stands and gestures FLORA to play. FLORA proudly takes ~p the seat, she pulls her lips in trying to control her happiness to say in front of both her mother and STEWART.}
+<ACTION>__{ADA pulls up a chair and seats herself at the piano. She rubs her hands and places them lightly on the keys, she turns from habit over her left shoulder where STEWART waits crossed armed. Quickly she removes her hands, stands and gestures FLORA to play. FLORA proudly takes  p the seat, she pulls her lips in trying to control her happiness to say in front of both her mother and STEWART.}
 <CHAR>__{FLORA} <CHAR_PAR>__{}
 <ACTION>__{What will I play? She looks to ADA, who looks back through her not concentrating.}
 <CHAR>__{STEWART} <CHAR_PAR>__{}
@@ -1097,7 +1097,7 @@
 <DIAL_PAR>__{(quietly) Mama.}
 <CHAR>__{STEWART} <CHAR_PAR>__{}
 <DIAL>__{Take this to Baines. Tell him if he ever tries to see her again I'll take off another and another and another!}
-<ACTION>__{The figures seem tiny amidst the rain drenched skeleton forest. SCENE 12O DELETED* Sc 121EXT     MAORI PA     DAY     Sc 121 The formal farewells are over and HIRA and BAINES finishes shaking hands and pressing noses with her people. HIRA holds his arm, she is sad and tearful. He places his hat on her head affectionately and slips her a much appreciated tin of tobacco. A soft rain begins to fall. BAINES and HIRA make their way past the Meeting House and the low sleeping houses to the Pa entrance where his horse waits,}
+<ACTION>__{The figures seem tiny amidst the rain drenched skeleton forest. SCENE 12O DELETED Sc 121EXT     MAORI PA     DAY     Sc 121 The formal farewells are over and HIRA and BAINES finishes shaking hands and pressing noses with her people. HIRA holds his arm, she is sad and tearful. He places his hat on her head affectionately and slips her a much appreciated tin of tobacco. A soft rain begins to fall. BAINES and HIRA make their way past the Meeting House and the low sleeping houses to the Pa entrance where his horse waits,}
 <CHAR>__{HIRA} <CHAR_PAR>__{}
 <DIAL>__{I worry for us Peini. Pakeha cunning like wind, KNOCK you over, yet you not see it. Some they say, how can pakeha get our land if we won't sell it?"}
 <ACTION>__{A crowd of children run beside them, dogs scurry off and pigs are kicked out of the way, their owners protesting loudly. Some hold mats over their heads to protect themselves from the rain, one has a battered umbrella.}
@@ -1311,7 +1311,7 @@
 <ACTION_ALT>__{BAINES.}
 <CHAR>__{HIRA} <CHAR_PAR>__{}
 <DIAL>__{He rimu teretere koc ete. Peini eeeii, Tere 'Ci Tawhiti 'ci Paniamao eeeii He waka Teretere He waka teretere. Ko koe ka tere 'ci tua whakuere eeeii. You are like seaweed drifting in the sea BAINES. Drift far away, drift far beyond the horizon A canoe glides hither, a canoe glides thither But you though will journey on and eventually}
-<DIAL_PAR>__{be beyond the veil~)}
+<DIAL_PAR>__{be beyond the veil )}
 <ACTION_ALT>__{UNSUBTITLED}
 <DIAL_PAR>__{(by Selwyn Mum)}
 <CHAR>__{MAROI OARSMEN} <CHAR_PAR>__{}

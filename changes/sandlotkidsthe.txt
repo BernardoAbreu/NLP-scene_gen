@@ -1242,7 +1242,7 @@
 <CHAR>__{HAM } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Hey, check me out! I'm the mighty King Kong!}
 <DIAL_PAR>__{(DODGING BLOWS)}
-<DIAL>__{Hey! C'mon! It was a joke, ya dopes! Do I _look_ like a monkey?!}
+<DIAL>__{Hey! C'mon! It was a joke, ya dopes! Do I  look  like a monkey?!}
 <CHAR>__{A GROUP} <CHAR_PAR>__{}
 <ACTION>__{of other kids comes out behind them. LITTLE LEAGUERS. Matching caps and shirts. The gang straightens up.}
 <CHAR>__{LEAGUER PUNK 1} <CHAR_PAR>__{}
@@ -1908,7 +1908,7 @@
 <CHAR>__{MOM} <CHAR_PAR>__{}
 <DIAL>__{Has he ever told you about that ball?}
 <CHAR>__{SCOTTY} <CHAR_PAR>__{}
-<DIAL>__{Uh - no, not really, I don't think so - no, he hasn't at all - I don't know _anything_ about it.}
+<DIAL>__{Uh - no, not really, I don't think so - no, he hasn't at all - I don't know anything  about it.}
 <CHAR>__{MOM} <CHAR_PAR>__{}
 <DIAL>__{It's signed by Babe Ruth...}
 <ACTION>__{Sweet mother of - Mom knows! Scotty may collapse.}
@@ -2479,7 +2479,7 @@
 <ACTION_ALT>__{FROM THIS HEIGHT}
 <ACTION>__{this all looks like the end of a "Dr. Suess" book!}
 <ACTION_ALT>__{SCOTTY AND THE GANG}
-<ACTION>__{search through the confusion. _They've lost Benny_! Suddenly, doubling back on them}
+<ACTION>__{search through the confusion.  They've lost Benny ! Suddenly, doubling back on them}
 <CHAR>__{BENNY} <CHAR_PAR>__{}
 <TRANS>__{SHOOTS BY:}
 <CHAR>__{BENNY} <CHAR_PAR>__{}

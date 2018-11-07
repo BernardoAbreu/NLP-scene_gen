@@ -1749,7 +1749,7 @@
 <ACTION>__{Will turns to face a pile of pirated components from various par of the ship. He lifts a circular bubble of diodes. Smiles.}
 <CHAR>__{WILL} <CHAR_PAR>__{}
 <DIAL>__{Mom always said I should try to make new friends.}
-<ACTION>__{CHAPTER 15: Follow Orders! * return to CHAPTER --------------------------}
+<ACTION>__{CHAPTER 15: Follow Orders!  return to CHAPTER --------------------------}
 <LOC>__{INT.-BRIDGE}
 <ACTION>__{Maureen stands at her life sciences station with John and Don.}
 <CHAR>__{MAUREEN} <CHAR_PAR>__{}

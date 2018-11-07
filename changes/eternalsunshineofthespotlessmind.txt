@@ -1409,7 +1409,7 @@
 <DIAL>__{Um, okay.  I'll call my study partner.}
 <CHAR>__{CLEMENTINE} <CHAR_PAR>__{}
 <DIAL>__{Yay!  It'll be great!  I'll get my shit.}
-<ACTION>__{She runs into the bedroom.  Patrick is at the phone and realizes he doesn't know Joel's number.  After a moment's thought, he *69's.  The phone rings.}
+<ACTION>__{She runs into the bedroom.  Patrick is at the phone and realizes he doesn't know Joel's number.  After a moment's thought, he 69's.  The phone rings.}
 <CHAR>__{JOEL'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{Hi, it's Joel.  Please leave a message after the beep.}
 <ACTION>__{Beep.}

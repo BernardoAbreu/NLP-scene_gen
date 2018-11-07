@@ -1538,7 +1538,7 @@
 <DIAL_PAR>__{(in mock awe)}
 <DIAL>__{Oh you are something special Johnny Story.}
 <ACTION>__{Johnny smiles and puts him in a head lock, they fall to the floor wrestling.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. RESTAURANT - BELOW THE SPEELER}
 <ACTION>__{One Two and Mumbles are here eating and holding their implements of destruction to be used on the next "job" we SEE the details.}
 <CHAR>__{MUMBLES} <CHAR_PAR>__{}
@@ -1609,9 +1609,13 @@
 <DIAL>__{He looked after my Mum, how come he never told me?}
 <CHAR>__{MUMBLES} <CHAR_PAR>__{}
 <DIAL>__{'Cos that's Handsome Bob and he's class.}
-<ACTION_ALT>__{OMITTED OMITTED THRU                                                                   THRU}
+
+
+<ACTION_ALT>__{THRU                                                                   THRU}
 <LOC>__{72E}
-<ACTION_ALT>__{OMITTED OMITTED THRU                                                                   THRU}
+
+
+<ACTION_ALT>__{THRU                                                                   THRU}
 <LOC>__{72J INT. NIGHT CLUB - BACKSTAGE}
 <ACTION>__{Roman and Mickey have got a BAND on stage and the place is filling up. Roman is on the phone looking concerned as Mickey looks on, he puts the phone down. We CUT TO : our BAND playing on stage, modern young punksters, Arctic Monkey types. Plenty of attitude.}
 <LOC>__{EXT. NIGHT CLUB DOOR - NIGHT}
@@ -1727,7 +1731,9 @@
 <DIAL>__{You see, Johnny "the crack head" Story knows that a "Rocka" is worth more dead than alive, silly world ain't it?}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Mr Story doesn't get his gear from me, he has to travel far and wide. Leave me your number and if the dead feels like calling, you'll be the first to know.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{INT. RANGE ROVER}
 <ACTION>__{We SEE inside the Range Rover where there is a DRIVER with our TWO CHECHNYANS. The CHECHNYANS have suitcases handcuffed to their wrists. They speak in their native tongue.}
 <CHAR>__{CHECHNYAN 1} <CHAR_PAR>__{}
@@ -1743,13 +1749,14 @@
 <ACTION>__{CHECHNYAN 2 pulls up his trouser leg to reveal massive scars on his shin.}
 <CHAR>__{CHECHNYAN 2 } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{How many of these have you got?}
-<ACTION_ALT>__{OMITTED THRU                                                                 THRU}
+
+<ACTION_ALT>__{THRU                                                                 THRU}
 <LOC>__{92C INT. RANGE ROVER}
 <ACTION>__{Chechnyan 1 pulls his shirt up to reveal more wounds.}
 <CHAR>__{CHECHNYAN 1} <CHAR_PAR>__{}
 <DIAL>__{Six thirty calibe,....}
 <ACTION>__{SMASH!!!! Their car is smashed into a tailspin, by Handsome Bob's truck. The Range Rover eventually lands on it's side, steam, spinning wheels, smoke, and glass is everywhere.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. STREET}
 <ACTION>__{Bob jumps out of his truck and runs down to the second getaway car waiting. We SEE One Two and Mumbles get out of their car and run over to the Range Rover on its side, they are carrying an axe and bolt cutters. Inside, CHECHNYAN 2 slowly opens his dazed eyes, to SEE an axe chopping through the window. TWO CHOPS and the window gives in. One Two leans in and grabs the case, but it's chained to CHECHNYAN 2's wrist. One Two pulls the arm out of the window and Mumbles uses massive bolt cutters to cut the case free.}
 <CHAR>__{MUMBLES} <CHAR_PAR>__{}

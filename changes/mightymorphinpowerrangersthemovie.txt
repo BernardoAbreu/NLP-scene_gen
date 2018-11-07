@@ -147,7 +147,7 @@
 <CHAR>__{REPORTER} <CHAR_PAR>__{}
 <DIAL>__{We're here at the World Center Construction Site, where a mysterious object was just uncovered in a freak accident in which one workman suffered minor injuries...}
 <LOC>__{12}
-<ACTION>__{thru    OMITTED}
+<ACTION>__{thru    }
 <LOC>__{13 INT.  ERNIE'S WATERFRONT CAFE - DAY}
 <ACTION>__{CLOSE ON - T.V.  SCREEN We see the reporter then a few cuts of GEOLOGISTS combing the site with scanning equipment and COPS sealing off the area with yellow tape.}
 <CHAR>__{REPORTER} <CHAR_PAR>__{}
@@ -326,7 +326,7 @@
 <ACTION>__{His eyes come alive.}
 <CHAR>__{IVAN} <CHAR_PAR>__{}
 <DIAL>__{Smell's like...   TEENAGERS!}
-<LOC>__{17   OMITTED EXT.  CONSTRUCTION SITE - NIGHT}
+<LOC>__{17    EXT.  CONSTRUCTION SITE - NIGHT}
 <ACTION>__{On cue, the Power Rangers TELEPORT into the construction site. They're surrounded by rock piles, pools of water and a plethora of building supplies.  Billy looks down at the mud puddle he's standing in.}
 <CHAR>__{BILLY} <CHAR_PAR>__{}
 <DIAL>__{Remind me to have a word with Alpha about his teleporting calculations.}
@@ -679,7 +679,7 @@
 <ACTION>__{The kids TRANSFORM INTO SIX STREAKS OF COLOR AND BLAST 0FF THROUGH THE CEILING.  Alpha shakes his head in despair.}
 <CHAR>__{ALPHA 5} <CHAR_PAR>__{}
 <DIAL>__{Ay, yi, yi, yi.  They're DOOMED!!}
-<LOC>__{23 thru 27        OMITTED EXT.  EARTH - NIGHT}
+<LOC>__{23 thru 27         EXT.  EARTH - NIGHT}
 <ACTION>__{We see the SIX COLORED STREAKS BLAST away from earth and SHOOT PAST the moon. The CAMERA MOVES IN on Zedd's ominous palace which rises up out of the tortured landscape.  Zedd, Rita, Mordant and Goldar are standing on the balcony.}
 <LOC>__{INT.  ZEDD'S PALACE - NIGHT}
 <ACTION>__{Zedd, Rita and their minions are inside Zedd's dark palace Goldar looks through Rita's telescope as Rita rants.}
@@ -771,7 +771,7 @@
 <CHAR>__{MORDANT} <CHAR_PAR>__{}
 <DIAL>__{Watch the HAIRRRRRRRR!!}
 <ACTION>__{He SWINGS PAST CAMERA and out of sight.}
-<LOC>__{30  thru  32A  OMITTED EXT.  SPACE}
+<LOC>__{30  thru  32A   EXT.  SPACE}
 <ACTION>__{The COLORED STREAKS OF LIGHT SHOOT THROUGH THE COSMOS, heading down toward the planet, PHAEDOS.  It's emerald green with two radiant golden circles around it.}
 <LOC>__{EXT. JUNGLE CLEARING / PHAEDOS - DAY}
 <ACTION>__{The STREAKS OF COLOR hit the jungle floor and only FIVE  RANGERS}
@@ -781,7 +781,7 @@
 <CHAR>__{KIMBERLY} <CHAR_PAR>__{}
 <DIAL>__{Where' s  BILLY? !}
 <ACTION>__{The kids search the sky in a panic.}
-<LOC>__{32D   OMITTED INT.  COMMAND CENTER - DAY}
+<LOC>__{32D    INT.  COMMAND CENTER - DAY}
 <ACTION>__{Alpha works frantically hitting buttons and levers.}
 <CHAR>__{ALPHA 5} <CHAR_PAR>__{}
 <DIAL>__{Ay, yi, yi, yi!  The filamentary transistors have malfunctioned!}
@@ -864,7 +864,7 @@
 <ACTION>__{Goldar blocks their way.}
 <CHAR>__{IVAN} <CHAR_PAR>__{}
 <DIAL>__{You'll have to do.}
-<LOC>__{34   thru   38   OMITTED EXT.  PHAEDOS JUNGLE - DAY}
+<LOC>__{34   thru   38    EXT.  PHAEDOS JUNGLE - DAY}
 <ACTION>__{The Rangers move through foreboding jungle terrain, their ears alert to all the UNEARTHLY SOUNDS around them.  Tommy watches Kimberly, who seems to be lost in thought.}
 <CHAR>__{TOMMY} <CHAR_PAR>__{}
 <DIAL>__{Hey.}
@@ -975,7 +975,7 @@
 <CHAR>__{WIZARD} <CHAR_PAR>__{}
 <DIAL>__{Come on, come all -- it's an COZE FREE FOR ALL!}
 <ACTION>__{He smiles, revealing a glistening silver tooth.}
-<LOC>__{40   thru   42   OMITTED EXT.  DULCEA'S MOUNTAINSIDE COMPLEX - DAY}
+<LOC>__{40   thru   42    EXT.  DULCEA'S MOUNTAINSIDE COMPLEX - DAY}
 <ACTION>__{An oriental garden set against a stunning hillside vista.}
 <LOC>__{EXT.  DULCEA'S CAMP / PHAEDOS - DAY}
 <ACTION>__{The kids are seated on rocks by a lakeside, all of them drinking from clay mugs.  Dulcea finishes handing out bowls. Aisha stares into hers with a grim expression.}
@@ -1054,7 +1054,7 @@
 <ACTION>__{Night has fallen on Angel Grove.  We PAN ACROSS a quiet, middle- class neighborhood, settle on a two story house.}
 <LOC>__{INT.  LIVING ROOM / KELMAN-RESIDENCE - DAY   (OLD SC 41)}
 <ACTION>__{CLOSE ON - OOZE CONTAINER We PULL BACK to reveal it's sitting on a table. Mr Kelman enters, looks it over curiously.  He picks it up, opens it and sticks his finger inside. Suddenly a CRACKLING ELECTRICAL CURRENT RUNS OVER HIS ENTIRE BODY.  His face goes blank and his eyes momentarily GLOWS PURPLE.  Now he strides purposefully out the door.}
-<LOC>__{43C   thru   47   OMITTED EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
+<LOC>__{43C   thru   47    EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
 <ACTION>__{Dulcea and the Rangers are gathered around a bird-bath stand with FLAMES leaping out of it.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{In the language of the Nathadians, "Nin" stands for "man", "jetti" stands for "animal".  Ninjetti  - man and animal, together as one.}
@@ -1138,7 +1138,7 @@
 <ACTION>__{The kid BASHES IN a mailbox then runs off.  Fred looks startled.}
 <CHAR>__{FRED} <CHAR_PAR>__{}
 <DIAL>__{That guy was the student body President}
-<LOC>__{49   thru   50   OMITTED EXT.  DULGEA'S GARDEN - DAY}
+<LOC>__{49   thru   50    EXT.  DULGEA'S GARDEN - DAY}
 <ACTION>__{Kimberly and Snoggle observe as Dulcea walks ON HER HANDS across a narrow bamboo log that spans a pond.  A waterfall churns in the b.g.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{The crane maintains it's agility through the perfect harmony of mind, body and spirit.}
@@ -1153,7 +1153,7 @@
 <ACTION>__{He marches to the pole, Dulcea holds him back.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{Snoggle, we don't have time for you to show off}
-<LOC>__{52   thru   53   OMITTED EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
+<LOC>__{52   thru   53    EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
 <ACTION>__{Dulcea and Rocky are standing at the bottom of a twenty foot pole with an exotic oriental carving}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{The ape is strong, but more importantly it is flexible and free.}
@@ -1185,7 +1185,7 @@
 <CHAR>__{AISHA} <CHAR_PAR>__{}
 <DIAL>__{Girl, you've got to be kidding me.}
 <ACTION>__{Snoggle recovers and faces Aisha.  Aisha shrugs, goes into a bear stance.  Snoggle charges, SLAMS INTO HER and sends HER FLYING!}
-<LOC>__{54D   thru   54E   OMITTED EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
+<LOC>__{54D   thru   54E    EXT.  DULCEA'S GARDEN / PHAEDOS - DAY}
 <ACTION>__{Dulcea and Tommy are standing on a towering rock rising out of a dark lake.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{The falcon never struggles with the air, but rather becomes one with it.}
@@ -1210,7 +1210,7 @@
 <ACTION>__{Zordon shudders in pain, closes his eyes.  Alpha watches over his mentor, shakes his head in anguish.}
 <CHAR>__{ALPHA} <CHAR_PAR>__{}
 <DIAL>__{Ay, yi, yi, yi, yi .}
-<LOC>__{55   OMITTED EXT.  DULCEA'S GARDEN / PHAEDOS - NIGHT}
+<LOC>__{55    EXT.  DULCEA'S GARDEN / PHAEDOS - NIGHT}
 <ACTION>__{Dulcea leads the kids through a circular opening in one wall, all of them look completely wiped out.  She reaches an ornate doorway, faces the Rangers.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
 <DIAL>__{Each of you must reach deep within and draw upon your natural instincts...  Only then will you know the way of the Ninjetti.}
@@ -1420,7 +1420,7 @@
 <CHAR>__{BULK AND SKULL} <CHAR_PAR>__{}
 <DIAL>__{OOZE  RULES !}
 <ACTION>__{Fred rolls his eyes and hurries away.}
-<LOC>__{56   thru   57A   OMITTED EXT.  JUNGLE / PHAEDOS - MORNING}
+<LOC>__{56   thru   57A    EXT.  JUNGLE / PHAEDOS - MORNING}
 <ACTION>__{Dulcea leads Snoggle and the Rangers up a stone path.  They approach a bush filled with exotic berries.  All of them start eating the berries.}
 <CHAR>__{TOMMY} <CHAR_PAR>__{}
 <DIAL>__{Dulcea... how do you and Zordon know each other?}
@@ -1486,7 +1486,7 @@
 <DIAL>__{Just shut your gap!}
 <CHAR>__{GOLDAR} <CHAR_PAR>__{}
 <DIAL>__{Did I say anything?}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT.  COMMAND CENTER - DAY}
 <ACTION>__{Zordon is looking more decrepit than ever.  Alpha inserts tube into a make-shift electronic contraption.}
 <CHAR>__{ALPHA 5} <CHAR_PAR>__{}
@@ -1508,7 +1508,7 @@
 <ACTION>__{As Ivan speaks we see Mordant behind him waving into camera.}
 <CHAR>__{IVAN} <CHAR_PAR>__{}
 <DIAL>__{Are you bored with your work? Are you bored with your family Are you bored with your 1ife Well, come on down to Ooze City and LET'S GET STICKY!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ROCKY TERRAIN  -  DAY}
 <ACTION>__{The group reaches the crest of a ridge -- off in the background we can see the outline of the Nathadian Monolith.}
 <CHAR>__{DULCEA} <CHAR_PAR>__{}
@@ -1553,7 +1553,7 @@
 <DIAL>__{Ka'Alabas tor nartu En'Kata-Tay.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{May your animals watch over you.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT.  CHEMICAL PLANT - DAY}
 <ACTION>__{The sky above the chemical plant is BOILING WITH DARK CLOUDS.}
 <LOC>__{INT.  CHEMICAL PLANT - DAY}
@@ -1694,7 +1694,7 @@
 <CHAR>__{ZORDON} <CHAR_PAR>__{}
 <DIAL>__{... Alpha, keep trying!}
 <LOC>__{74}
-<ACTION>__{thru   OMITTED                                                   thru}
+<ACTION>__{thru                                                      thru}
 <LOC>__{75 EXT.  MONOLITH - DAY}
 <ACTION>__{The kids climb up on top of the rock bluff -- before them is a huge black Monolith.  There's all sorts of charred bones and skeletons strewn around it, some of them human, some of them alien. They approach the massive block, stand before it in awe struck silence.  In the middle of the Monolith there's a large circle with the six animals of the Ninjetti carved into it.}
 <CHAR>__{ROCKY} <CHAR_PAR>__{}
@@ -1755,7 +1755,7 @@
 <DIAL>__{WE... ARE THE NINJETTI!!!}
 <ACTION>__{A mysterious HALO OF LIGHT SHROUDS the Rangers and they dissapear}
 <LOC>__{INTO THIN AIR.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT.  MONOLITH - DAY}
 <ACTION>__{The kids BURST THROUGH A WALL OF LIGHT and come down together inside a vast cavern.  There's a pyramid shaped steel object in the center of the room, a RADIANT LIGHT SHINING FROM IT.}
 <CHAR>__{AISHA} <CHAR_PAR>__{}
@@ -1845,7 +1845,7 @@
 <CHAR>__{BULK} <CHAR_PAR>__{}
 <DIAL>__{We could take it with us.}
 <ACTION>__{Skull nods, relieved.  They gather up the pizza and move off after the others.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT.  COMMAND CENTER - NIGHT}
 <ACTION>__{The Rangers MATERIALIZE in the Command Center with their helmets off.}
 <CHAR>__{AISHA} <CHAR_PAR>__{}
@@ -1993,7 +1993,7 @@
 <ACTION>__{The behemoths CHARGE each other and the mother of all battles begins.}
 <LOC>__{EXT.  GREENWAY STREET - NIGHT}
 <ACTION>__{The parents continue to advance through the city like robots.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT.  MAIN STREET - NIGHT}
 <ACTION>__{The battle continues.  Remarkably, these enormous machines pull off DOUBLE PUNCHES, DROP KICKS, ROUNDHOUSE HOOKS, SPINBACK KICKS -- YOU NAME IT!}
 <CHAR>__{KIMBERLY  } <CHAR_PAR>__{(V.O.)}
@@ -2039,7 +2039,7 @@
 <ACTION_ALT>__{THROUGHOUT THE COCKPIT.}
 <CHAR>__{RANGERS} <CHAR_PAR>__{}
 <DIAL>__{WHOOAAAAAHHH!!!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT.  MEGAZORD}
 <ACTION>__{Rolls clear, SMOKE AND SPARKS SPITTING FROM ITS JOINTS.}
 <CHAR>__{BILLY  } <CHAR_PAR>__{(V.O.)}
@@ -2187,7 +2187,7 @@
 <CHAR>__{SKULL} <CHAR_PAR>__{}
 <DIAL>__{BULK!!}
 <ACTION>__{They embrace -- Skull practically gets crushed by his burly friend.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT.  SNOW GLOBE / ZEDD'S PALACE}
 <ACTION>__{Zedd and Rita continue watching the battle from the snow globe.}
 <CHAR>__{RITA} <CHAR_PAR>__{}
@@ -2210,7 +2210,7 @@
 <DIAL>__{GIVE IT EVERYTHING WE'VE GOT!}
 <ACTION>__{All the Rangers go to work.}
 <LOC>__{118}
-<ACTION>__{thru   OMITTED                                                   thru}
+<ACTION>__{thru                                                      thru}
 <LOC>__{118A EXT.  OUTER SPACE}
 <ACTION>__{Ivan/Colossus continues to SQUEEZE Megazord.  We hear SCREECHING METAL and BURSTING VALVES.}
 <LOC>__{INT.  COMMAND CENTER}

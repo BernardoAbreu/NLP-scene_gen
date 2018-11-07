@@ -347,7 +347,7 @@
 <ACTION>__{Kate chugs what's left in the flask.}
 <ACTION_ALT>__{ACROSS THE PARKING LOT}
 <ACTION>__{MR. DAVIES -- the assistant principal, early-40's, slightly nerdy but not bad looking, watches -- -- Kate drink in her car. CHILDREN pass by in the distance. Mr. Davies takes a beat, but instead of saying anything he walks away through the parking lot. Kate doesn't notice she's been seen.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ELEMENTARY SCHOOL - CLASSROOM - DAY}
 <ACTION>__{Kate stands next to a CHALKBOARD in front of a class of THIRD GRADERS. She's really animated -- doing her "game show hostess" schtick. On the chalkboard are the letters: "AN"}
 <CHAR>__{KATE} <CHAR_PAR>__{}
@@ -1501,7 +1501,8 @@
 <ACTION>__{Kate smiles and snuggles up into Charlie's arms.}
 <LOC>__{INT. SUBARU (MOVING) - DAY}
 <ACTION>__{Kate and Charlie drive and listen to MUSIC.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT./EXT. SUBARU - LAKE ARROWHEAD - RESIDENTIAL STREET - DAY}
 <ACTION>__{Kate and Charlie are parked in front of a -- -- HOUSE. Small. A little run-down. Sort of a vague ski cabin look. There's some dirty lawn furniture in the front yard as well as a DOZEN LAWN-GNOMES.}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
@@ -1699,7 +1700,7 @@
 <CHAR>__{CHARLIE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You were probably the coolest girl in town -- and the prettiest. I'm sure everyone was in love with you.}
 <ACTION>__{Kate giggles. They kiss. It's sweet.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ELEMENTARY SCHOOL - CLASSROOM - DAY}
 <ACTION>__{Kate walks in to her class to find --}
 <CHAR>__{TEACHERS} <CHAR_PAR>__{}
@@ -1826,7 +1827,7 @@
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Owen)}
 <DIAL>__{It's your birthday, man, so I'm not gonna make a big deal out of this -- but you need to shut the fuck up sometimes.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. KATE & CHARLIE'S HOUSE - BEDROOM/BATHROOM - NIGHT -}
 <ACTION_ALT>__{MOMENTS LATER}
 <ACTION>__{Charlie walks in to see Kate getting ready to go to bed.}

@@ -10,7 +10,7 @@
 <LOC>__{40's, normally gruff, but completely cowed by the damage}
 <ACTION>__{below. The PILOT, unfazed.}
 <CHAR>__{PILOT} <CHAR_PAR>__{}
-<DIAL>__{Hurricane Beth, huh? Had    an ex-wife named Beth, this is pretty   much par for the course. This area    got the worst of it, I hope these   guys are all intact-}
+<DIAL>__{Hurricane Beth, huh? Had an ex-wife named Beth, this is pretty much par for the course. This area got the worst of it, I hope these guys are all intact-}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{That's enough, Lieutenant.}
 <ACTION>__{SOMEONE'S P.O.V. - RUNNING through the underbrush - ducking branches, pushing through bushes, splashing through streams. LABORED BREATHING wheezes over the sound track. We're headed for a CLEARING...}
@@ -38,12 +38,12 @@
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{Get us on the ground!}
 <LOC>__{EXT. CLEARING -- SUNRISE}
-<ACTION>__{As the Helicopter comes in for a landing, the Bigger Man kneels next to the Smaller Man, who bleeds from a bullet wound to the arm.  His face, pale, sweating. The Bigger Man wipes the Smaller Man's brow and speaks softly and seriously.}
+<ACTION>__{As the Helicopter comes in for a landing, the Bigger Man kneels next to the Smaller Man, who bleeds from a bullet wound to the arm. His face, pale, sweating. The Bigger Man wipes the Smaller Man's brow and speaks softly and seriously.}
 <CHAR>__{BIGGER MAN} <CHAR_PAR>__{}
 <DIAL>__{Are you ready for this?}
 <ACTION>__{The Smaller Man nods.}
 <LOC>__{INT. ROADHOUSE -- MORNING}
-<ACTION>__{A full on shit-kicking dive.     Nearly empty, given the hour. A TELEVISION plays the morning    news over the bar.  Only two inhabitants - one a BARTENDER,    the other the lone CUSTOMER, smoking and picking at a plate    of criminally runny eggs.}
+<ACTION>__{A full on shit-kicking dive. Nearly empty, given the hour. A TELEVISION plays the morning news over the bar. Only two inhabitants - one a BARTENDER, the other the lone CUSTOMER, smoking and picking at a plate of criminally runny eggs.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Tell the truth, Vic. You made these with a blender, right?}
 <ACTION>__{He grins and we get our first good look at TOM HARDY - Three day stubble, dark rings around his eyes, but a with strong jaw and steady voice. Not your average barfly. Somebody who maybe used to be somebody.}
@@ -67,10 +67,10 @@
 <DIAL>__{Hurricane kept you up, too?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, and I could've used the sleep. I'm supposed to meet people here tonight, try and get some work going.}
-<ACTION>__{He stops, his attention suddenly on the TV.    A NEWSCASTER:}
+<ACTION>__{He stops, his attention suddenly on the TV. A NEWSCASTER:}
 <CHAR>__{NEWSCASTER} <CHAR_PAR>__{}
 <DIAL>__{...is expected to announce the grand jury indictments in the Guissepe Torres police corruption case as early as tomorrow afternoon. Speculations abound that up to ten former homicide detectives could be named in the proceedings-}
-<ACTION>__{The Bartender turns the TV off hastily.   Embarrassed:}
+<ACTION>__{The Bartender turns the TV off hastily. Embarrassed:}
 <CHAR>__{BARTENDER} <CHAR_PAR>__{}
 <DIAL>__{Sorry.}
 <ACTION>__{Hardy just looks away. The Bartender puts an empty glass down and fills it to the lip with bourbon. Hardy nods a "thank you" and reaches for the glass when the PAGER on his hip goes off. He checks the number.}
@@ -120,7 +120,7 @@
 <DIAL>__{I read about what's been happening With you... I should have called-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{What kind of trouble are you in?}
-<ACTION>__{Styles looks at the ground.      Momentarily flustered.}
+<ACTION>__{Styles looks at the ground. Momentarily flustered.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{That bad?}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
@@ -137,20 +137,20 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Hostile and uncooperative.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Fantastic.   You want to tell me what's going on?}
+<DIAL>__{Fantastic. You want to tell me what's going on?}
 <LOC>__{INT. FORT MCKINLEY -- CORRIDORS MORNING}
 <ACTION>__{Hardy follows Styles and Osborne. They pass SOLDIERS replacing broken windows and sweeping up glass.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{The official term for it is "Clusterfuck" . By the time Beth hit us, I'd canceled all off base exercises save one - a six man cadet team and their Drill out in the bush. We're missing three and the Sergeant. The cadets are in their eighth week of the cycle, nobody here knows much about them, up to and including their names. But the Sergeant...}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{It's not West, is it?    Tell me it's not West.}
+<DIAL>__{It's not West, is it? Tell me it's not West.}
 <ACTION>__{Styles' look tells him it is.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Ah, Christ}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{You knew Sergeant West?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{He was our Drill here.    Man's older than sand.}
+<DIAL>__{He was our Drill here. Man's older than sand.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{A few years ago, the Army picked our good buddy as their go to non-com to trot out to the press to talk about the kinder, gentler military. He even did the standard video greeting played to all incoming Basic cadets across the country.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -172,7 +172,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I'm assuming that's what made him the dead one?}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{Cadet Roberto R. Nunez.   Killed right in front of me.}
+<DIAL>__{Cadet Roberto R. Nunez. Killed right in front of me.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Search parties for the others are fanning out in a ten click radius from the pickup. If they're hurt and we can get to them in time...}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
@@ -215,13 +215,13 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Hurricane knocked out our Mainframe, so all we have are their dogtags. Cadets Raymond Dunbar and Levi Kendall-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Levi?   Who names their kid Levi-}
+<DIAL>__{Levi? Who names their kid Levi-}
 <CHAR>__{OSB0RNE} <CHAR_PAR>__{}
 <DIAL>__{Senator Jonathan Kendall, of Ohio.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Christ... Remind me to thank Bill for mentioning that on the phone-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{Kendall Junior is still  in surgery, so he won't be available  to answer for his name or anything  else for another hour - the cadet  we're talking to first is Dunbar.}
+<DIAL>__{Kendall Junior is still in surgery, so he won't be available to answer for his name or anything else for another hour - the cadet we're talking to first is Dunbar.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{He's in interrogation?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -241,7 +241,7 @@
 <DIAL>__{That is the most unprofessional-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Is he handsome, self assured, carry himself well, does he look you in the eyes or down at the floor, does he have good bones, suggesting good breeding, does he slouch or sit up straight - these are important questions, as they reveal a great deal about this man's character so please get over yourself for two and a half seconds and tell me is he cute?}
-<ACTION>__{Osborne stares at him.    She finally nods.}
+<ACTION>__{Osborne stares at him. She finally nods.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Thank you. At some point in there I'm gonna rub my nose. When I do, go at him with everything you got.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -263,13 +263,13 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Go.}
 <LOC>__{INT. COFFEE ROOM -- MORNING}
-<ACTION>__{Dunbar looks up as they enter.    Hardy smiles, cheerily.}
+<ACTION>__{Dunbar looks up as they enter. Hardy smiles, cheerily.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Cadet Dunbar, good morning! I'm Tom Hardy and I believe you've already met Officer Osborne. I understand you had a rough time of it last night?}
-<ACTION>__{No response.    Hardy takes a seat across from the cadet.}
+<ACTION>__{No response. Hardy takes a seat across from the cadet.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Not talking, huh? You probably just want to get some food and some sleep. They feed you yet?}
-<ACTION>__{No response.    Hardy reaches into his pocket.   Pulls out a}
+<ACTION>__{No response. Hardy reaches into his pocket. Pulls out a}
 <ACTION_ALT>__{DONUT.}
 <ACTION>__{Dunbar eyes it, wary but definitely wanting it.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -277,10 +277,10 @@
 <ACTION>__{Dunbar grabs the donut, wolfing it down.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Want another one?}
-<ACTION>__{No response.    Osborne looks to her watch - it's been a minute.}
+<ACTION>__{No response. Osborne looks to her watch - it's been a minute.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Maybe later. Ray, let me say this up front - I'm not a cop.}
-<ACTION>__{Dunbar turns away, no longer interested.   Hardy continues:}
+<ACTION>__{Dunbar turns away, no longer interested. Hardy continues:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I used to be, but that's beside the point. Who I am doesn't really matter; what matters is that right now, you're in a shitload of trouble. You understand that, right?}
 <ACTION>__{No response.}
@@ -289,9 +289,9 @@
 <ACTION>__{Dunbar looks up at this, surprised.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I don't know those guys, you do. They die, to me, it's like seeing a couple people died in a fire on the news - tragic, but it doesn't affect me. The only thing I care about is I agreed to do a favor for a friend and try and talk to you till your transpo shows up. You like baseball?}
-<ACTION>__{No response.   Osborne looks at her watch - two minutes.}
+<ACTION>__{No response. Osborne looks at her watch - two minutes.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{I could talk baseball for   days. Batting averages, ERA's, I   got statistics in my brain, I   don't know how I remember them. It's    freaky. You wanna talk baseball?}
+<DIAL>__{I could talk baseball for days. Batting averages, ERA's, I got statistics in my brain, I don't know how I remember them. It's freaky. You wanna talk baseball?}
 <ACTION>__{Dunbar, completely confused.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Come on Ray, we're gonna be here five hours, we gotta talk about something. So who do you like?}
@@ -349,7 +349,7 @@
 <LOC>__{INT. COFFEE ROOM -- MORNING}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You kill them?}
-<ACTION>__{No answer.    Hardy rubs his nose.   Osborne steps forward.}
+<ACTION>__{No answer. Hardy rubs his nose. Osborne steps forward.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{The Colonel saw you shoot Nunez, You're a murderer-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -400,7 +400,7 @@
 <LOC>__{EXT. FORT MCKINLEY -- PARADE GROUNDS -- EIGHT WEEKS AGO}
 <ACTION>__{Row upon row of freshly shaven headed CADETS stand at attention. Their first day of boot camp.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{First day was when I met Pike.    Sarge hated him from the beginning.}
+<DIAL>__{First day was when I met Pike. Sarge hated him from the beginning.}
 <ACTION>__{A man with a face of granite strides up and down the lines. Two ivory handled pistols on his hips. His lifeless cobalt blue eyes take in the Cadets. This is SERGEANT WEST.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{You motherfuckers have just made the worst mistake of your lives! You have chosen to join my Army! This Army is my mother, my father, and my little virgin sister and I will not allow anyone or anything that is not up to my standards near her pretty little virgin cooze, do you understand me - give me a sir, yes, sir!}
@@ -416,7 +416,7 @@
 <DIAL>__{Sir, yes, sir!}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{So forget what you've seen on Sixty fucking Minutes about the kinder, gentler military - you will either succeed, quit, or die by my hand!}
-<ACTION>__{He walks over to a tall black cadet in the front row.   PIKE.}
+<ACTION>__{He walks over to a tall black cadet in the front row. PIKE.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{My power here is absolute, isn't that right, nigger?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
@@ -435,7 +435,7 @@
 <ACTION>__{Pike somehow gets to his feet, vomit streaking his clothes.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{What the fuck have you done to that uniform, take it off, take it off, take it off!}
-<ACTION>__{Pike, still gasping, can't move fast enough.    West slaps him again and tears the man's shirt off.}
+<ACTION>__{Pike, still gasping, can't move fast enough. West slaps him again and tears the man's shirt off.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Get those fucking pants off, I want you buck ass naked, you don't deserve to wear these beautiful United States Army issue clothes!}
 <ACTION>__{Pike struggles off the rest of his clothes until he is NAKED. West turns and spies Dunbar in the line.}
@@ -456,7 +456,7 @@
 <DIAL>__{The rest of you, fallout for physicals!}
 <ACTION>__{The rest of the Cadets fallout, following West away to one of the buildings, leaving Dunbar and Pike. One with a gun, the other naked.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Fifteen guys quit that day.    But not Pike.}
+<DIAL>__{Fifteen guys quit that day. But not Pike.}
 <LOC>__{EXT. OBSTACLE COURSE -- EIGHT WEEKS AGO -- MORNING}
 <ACTION>__{The CADETS, navigating a log spanned over a PIT OF MUD.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
@@ -467,7 +467,7 @@
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{He'd zero in on a fella and ride him till he quit.}
 <LOC>__{EXT. MAIN GATE -- EIGHT WEEKS AGO -- NIGHT}
-<ACTION>__{Anderson, now in civilian clothes, gets into a TAXI.   Quit.}
+<ACTION>__{Anderson, now in civilian clothes, gets into a TAXI. Quit.}
 <LOC>__{EXT. FIRING RANGE -- EIGHT WEEKS AGO -- MORNING}
 <ACTION>__{West, screaming at a weasely looking cadet named CHILDS.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
@@ -491,7 +491,7 @@
 <ACTION>__{West pulls Nunez out of line by his ear and kicks him over towards a separate muster of our Four Section Eighters.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{They figured we were the boys who'd meet with a "training accident" .}
-<ACTION>__{Nunez takes a place among them.   Looking absolutely terrified.}
+<ACTION>__{Nunez takes a place among them. Looking absolutely terrified.}
 <LOC>__{INT. COFFEE ROOM -- PRESENT DAY}
 <ACTION>__{Osborne leans forward.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -522,7 +522,7 @@
 <ACTION>__{Behind Childs runs Pike.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Pike I told you about. He took the brunt of it from Mueller and West. Once they found it out he was a convict they were merciless. DUNBAR (V.O.) (CONT'D) He'd been busted for Auto Theft, judge gave him the option of jailor the Army. He made the wrong choice.}
-<ACTION>__{Next to Pike, Dunbar and KENDALL run side by side.   Kendall is short like Childs, but also weak. Wheezing.}
+<ACTION>__{Next to Pike, Dunbar and KENDALL run side by side. Kendall is short like Childs, but also weak. Wheezing.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Finally Kendall and me. Kendall was a smart guy, we got along okay. Pike and I tried to help him, but...}
 <ACTION>__{Kendall falters and Pike stops to try and help him up. West smacks the him away, practically kicking Kendall to his feet.}
@@ -536,7 +536,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{And those were the guys who went on the exercise with you?}
 <CHAR>__{DUN BAR} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   And that's all I'm saying.}
+<DIAL>__{Yeah. And that's all I'm saying.}
 <ACTION>__{Hardy leans back in his chair.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You smoke, Ray?}
@@ -546,11 +546,11 @@
 <DIAL>__{No, actually, I just left mine in the car and was hoping you had some.}
 <ACTION>__{Dunbar studies him for a moment and then pulls a pack of Dorals from his pocket and puts them on the table.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{My brand.   Must be my lucky day.}
-<ACTION>__{He takes one and lights it.      Dunbar does the same.}
+<DIAL>__{My brand. Must be my lucky day.}
+<ACTION>__{He takes one and lights it. Dunbar does the same.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Let me ask you one thing. You seem like a good guy, Ray. You carried Kendall wounded to the pickup. So what I don't get is what you did to make Nunez want to kill you?}
-<ACTION>__{Dunbar just looks at the ground. A KNOCK at the door.    Hardy and Osborne turn to see an M.P. stick his head in.}
+<ACTION>__{Dunbar just looks at the ground. A KNOCK at the door. Hardy and Osborne turn to see an M.P. stick his head in.}
 <CHAR>__{M. P.} <CHAR_PAR>__{}
 <DIAL>__{Sirs?}
 <LOC>__{INT. FORT MCKINLEY -- CORRIDORS -- MORNING}
@@ -558,7 +558,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{He's not done by a longshot, I can get more out of him-}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{He can wait.     Kendall's out of surgery.}
+<DIAL>__{He can wait. Kendall's out of surgery.}
 <LOC>__{EXT. ARMY JEEP (MOVING) -- MORNING}
 <ACTION>__{Hardy and Osborne sit in the back of the open car as it rumbles across the grounds, headed towards the Base Hospital. They sit in silence until:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -583,7 +583,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You had a mobile of bayonets above your crib.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{Something like that.     You?}
+<DIAL>__{Something like that. You?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I lost a bet.}
 <ACTION>__{Osborne laughs.}
@@ -593,7 +593,7 @@
 <DIAL>__{Yeah. That's just the story I tell the girls to get them into bed. Truth is... I don't know. The whole honor and duty thing. Make a difference in the world, crap like that. Didn't really work out.}
 <ACTION>__{Osborne studies him.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{I bet    that's the second story you tell    the girls to get them into bed, after    you make them laugh with the first    one.}
+<DIAL>__{I bet that's the second story you tell the girls to get them into bed, after you make them laugh with the first one.}
 <ACTION>__{Hardy just smiles.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{This is the straight hitting on me you were talking about, isn't it?}
@@ -639,18 +639,18 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Got it.}
 <LOC>__{INT. BASE HOSPITAL -- KENDALL'S ROOM -- DAY}
-<ACTION>__{Kendall lies in a bed, a network of tubes in his arm.   He is awake but pale, still weak. He studies his visitors.}
+<ACTION>__{Kendall lies in a bed, a network of tubes in his arm. He is awake but pale, still weak. He studies his visitors.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{You... I've seen you around the Base. But you...}
 <DIAL_PAR>__{(POINTING TO HARDY)}
 <DIAL>__{You're not Army, are you?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Coast Guard, special detective detail. We feel this incident may have put the beaches of Florida at risk.}
-<ACTION>__{Kendall's laugh turns into a cough.   Placing Hardy.}
+<ACTION>__{Kendall's laugh turns into a cough. Placing Hardy.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{That's it. You're that policeman with friends in low places. Tell me, how's Guissepe Torres doing these days? Those racketeering indictments must have really been a downer-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Levi, you got about four hours before armed men show up here, put you on a plane to Washington, and lock you in a very small dark room.  I suggest you talk to us.}
+<DIAL>__{Levi, you got about four hours before armed men show up here, put you on a plane to Washington, and lock you in a very small dark room. I suggest you talk to us.}
 <ACTION>__{Kendall smiles again, not losing any of his cool.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{I've done nothing wrong.}
@@ -667,7 +667,7 @@
 <ACTION>__{Hardy stares at him for a moment and then gets up to leave.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{It's too early in the day for me to give a shit about some pissant cadet's bad version of "intrigue". You want to talk to us, send word over to the brig. Let's go.}
-<ACTION>__{Nonplussed, Osborne follows.    Hardy turns back at the door.}
+<ACTION>__{Nonplussed, Osborne follows. Hardy turns back at the door.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You're working too hard, Levi. I can tell cause you're sweating. And you're sweating cause you have no idea what Dunbar's already told us.}
 <LOC>__{INT. BASE HOSPITAL -- CORRIDORS -- DAY}
@@ -682,7 +682,7 @@
 <DIAL_PAR>__{(noticing)}
 <DIAL>__{Thought you didn't have cigarettes-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{I lied.   Wait for it...}
+<DIAL>__{I lied. Wait for it...}
 <ACTION>__{Osborne just stares at him, not knowing what to say next. The PHONE at the Nurse's Station rings and a NURSE answers. Listens for a moment, hangs up, and turns to them.}
 <CHAR>__{NURSE} <CHAR_PAR>__{}
 <DIAL>__{Cadet Kendall-}
@@ -730,7 +730,7 @@
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Hurricane's due after midnight and we're still going out?}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
-<DIAL>__{Toughens us up, Pike.    You don't like it, quit.}
+<DIAL>__{Toughens us up, Pike. You don't like it, quit.}
 <ACTION>__{Pike pulls on his pants and shoots him the finger.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Maybe we shouldn't go.}
@@ -746,14 +746,14 @@
 <DIAL>__{You really heard this?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{You know Popham, works in the kitchen? He told me it was on the radio.}
-<ACTION>__{He stops, listening.    They all hear the WIND, HOWLING outside.}
+<ACTION>__{He stops, listening. They all hear the WIND, HOWLING outside.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{We should tell him we're not going.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Oh, yeah, "Excuse me, Sergeant, sir, we don't feel like going out - we don't want to get rained on." He'll kick our asses from here to Cleveland.}
 <ACTION>__{He pulls on his rain poncho and is out the door, Nunez right behind him. The others, getting ready, all except Kendall. Dunbar comes over and puts a hand on his shoulder.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{He's right.    We don't have a choice.}
+<DIAL>__{He's right. We don't have a choice.}
 <LOC>__{EXT. FORT MCKINLEY -- TARMAC -- LAST NIGHT}
 <ACTION>__{The six cadets, mustered in front of West and a TRANSPORT CHOPPER. West hands out M-16's, sidearms, and grenades while yelling above the wind.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
@@ -785,7 +785,7 @@
 <DIAL>__{He whispered it in my ear.}
 <ACTION>__{Hardy scratches his temple.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Levi, I don't know   if you're familiar with investigative   work, but we have this little thing   called "motive" and you just gave   yourself one.}
+<DIAL>__{Levi, I don't know if you're familiar with investigative work, but we have this little thing called "motive" and you just gave yourself one.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{You said you wanted to know what happened- I'm telling you the truth.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -806,10 +806,10 @@
 <ACTION>__{We track with Kendall and Childs as they head away from the Landing Zoe, rifles up, heads down, side by side. Moving the brush quickly and quietly, eyes scanning for targets.}
 <CHAR>__{KENDALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I knew Childs a little, we worked at the PX together.}
-<ACTION>__{The wind is picking up and it's started to RAIN.   Their ponchos flap loudly against the elements.}
+<ACTION>__{The wind is picking up and it's started to RAIN. Their ponchos flap loudly against the elements.}
 <CHAR>__{KENDALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I started getting it in my head that maybe West had paid him, maybe he was the one who was supposed to give me a training accident-}
-<ACTION>__{The ROAR of GUNFIRE!  Kendall turns  towards it,  SCREAMING for a moment... Until he sees Childs  lower his  smoking rifle, a SHREDDED TARGET on a tree in front  of them.   He looks down, noticing has his own weapon TRAINED  ON CHILDS.  .. Childs steps forward, knocking Kendall's rifle away.}
+<ACTION>__{The ROAR of GUNFIRE! Kendall turns towards it, SCREAMING for a moment... Until he sees Childs lower his smoking rifle, a SHREDDED TARGET on a tree in front of them. He looks down, noticing has his own weapon TRAINED ON CHILDS. .. Childs steps forward, knocking Kendall's rifle away.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{Don't you ever point a gun at me!}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -836,7 +836,7 @@
 <ACTION>__{CLOSE. ON KENDALL'S FINGER - Clicking off the safety again. Moving towards the trigger...}
 <CHAR>__{KENDALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{But if I struck first and took out Childs, then maybe I could make it out alive...}
-<ACTION>__{Kendall raises the rifle.    Sights Childs' back.      A moment of utter silence and then...}
+<ACTION>__{Kendall raises the rifle. Sights Childs' back. A moment of utter silence and then...}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- PRESENT DAY}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Maybe I shouldn't tell you that. Maybe I should tell you I wasn't scared at all. But I was...}
@@ -845,13 +845,13 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{But you didn't.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
-<DIAL>__{No.    Poetic justice, though.}
+<DIAL>__{No. Poetic justice, though.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Why?}
-<ACTION>__{No reply.   Hardy smiles, understanding.}
+<ACTION>__{No reply. Hardy smiles, understanding.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Because Childs is the one who shot you.}
-<ACTION>__{Osborne looks up, surprised.           Kendall nods.}
+<ACTION>__{Osborne looks up, surprised. Kendall nods.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{But that came later.}
 <LOC>__{EXT. LOUISIANA BAYOU -- LAST NIGHT}
@@ -860,8 +860,8 @@
 <DIAL>__{Over there!}
 <ACTION>__{Childs points to the right, where the dim shine of PHOSPHOROUS can be seen through the trees. He drags Kendall to his feet and the two take off running towards it. Kendall panting and scared, ducking branches and leaping ditches as the two sprint towards the dying glow.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
-<DIAL>__{Hello!    HEL-}
-<ACTION>__{The sound of GUNFIRE!   Childs TACKLES Kendall...}
+<DIAL>__{Hello! HEL-}
+<ACTION>__{The sound of GUNFIRE! Childs TACKLES Kendall...}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{GET DOWN!}
 <ACTION>__{They hit the deck, face down in mud. It takes them a second to realize the shots are not directed at them.}
@@ -876,7 +876,7 @@
 <DIAL>__{Don't want to go-}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{Fine.}
-<ACTION>__{Childs rises and heads towards where the sounds were. Kendall, lying in the rain and mud, shivering.    Alone.   After a moment he gets up and follows.}
+<ACTION>__{Childs rises and heads towards where the sounds were. Kendall, lying in the rain and mud, shivering. Alone. After a moment he gets up and follows.}
 <LOC>__{EXT. LOUISIANA BAYOU -- CREEK BED,-- LAST NIGHT}
 <ACTION>__{The SCORCHED GROUND and TREES smolder under the rainfall. Kendall finds Childs, standing down by the creek. Something lies by his feet.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -889,9 +889,9 @@
 <DIAL>__{Did- Did you-}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{It was the grenade you fucking idiot. Look at him!}
-<ACTION>__{Kendall can't.   He sits, sobbing.   Part horror, part relief.}
+<ACTION>__{Kendall can't. He sits, sobbing. Part horror, part relief.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
-<DIAL>__{This isn't our area.   Whose area is This-}
+<DIAL>__{This isn't our area. Whose area is This-}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Can anybody hear me!}
 <ACTION>__{Childs pivots at the sound of Mueller coming over the ridge.}
@@ -906,7 +906,7 @@
 <DIAL>__{You killed him you fucking faggot-}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{We found him like this! Kendall was with me the whole- Listen to me!}
-<ACTION>__{Mueller, finally seeming to understand.    Lowering the gun.}
+<ACTION>__{Mueller, finally seeming to understand. Lowering the gun.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Jesus, Jesus fucking Christ...}
 <ACTION>__{Muttering to himself, walking in circles.}
@@ -933,16 +933,16 @@
 <DIAL>__{HEY!}
 <ACTION>__{Mueller stops, eyes crazed. Childs looks to the sky, which is becoming worse by the second.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
-<DIAL>__{We have to get out of this.    To find the cabin.}
+<DIAL>__{We have to get out of this. To find the cabin.}
 <ACTION>__{He helps Kendall to his feet.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{What about Pike?}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
-<DIAL>__{Maybe he'll be there.    Either way, we have to go.}
-<ACTION>__{Kendall nods, slowly.   The two start up the hill.}
+<DIAL>__{Maybe he'll be there. Either way, we have to go.}
+<ACTION>__{Kendall nods, slowly. The two start up the hill.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Shouldn't we- I mean, we shouldn't just leave him here.}
-<ACTION>__{He points down to West's body.    Childs looks at it.}
+<ACTION>__{He points down to West's body. Childs looks at it.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{You can carry him if you want.}
 <ACTION>__{He and Kendall continue on. Mueller lingers a moment longer and then turns, following them up the hill.}
@@ -963,7 +963,7 @@
 <DIAL>__{Where's Pike?}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{We don't know. West is dead.}
-<ACTION>__{Silence. Dunbar and Nunez stare at him.    Mueller jerks a hand towards Kendall and Childs.}
+<ACTION>__{Silence. Dunbar and Nunez stare at him. Mueller jerks a hand towards Kendall and Childs.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{They found him. Poor fucker was Practically blown in half-}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -994,7 +994,7 @@
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{I hated West, Childs hated West, everyone with a goddamn brain hated West but that doesn't mean we killed him!}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
-<DIAL>__{What if it wasn't one of us?    What if it was a local-}
+<DIAL>__{What if it wasn't one of us? What if it was a local-}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{He was blown up by a phosphorous grenade, they don't exactly sell those at 7-11.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
@@ -1003,7 +1003,7 @@
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{He is the only one unaccounted for.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
-<DIAL>__{Maybe he's dead too.    Maybe you killed Them both, Mueller-}
+<DIAL>__{Maybe he's dead too. Maybe you killed Them both, Mueller-}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Shut up.}
 <DIAL_PAR>__{(to Mueller)}
@@ -1014,16 +1014,16 @@
 <DIAL>__{We were each given three so whoever killed West will be missing one.}
 <ACTION>__{Mueller angrily digs into his sack and pulls out his grenades.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
-<DIAL>__{See?   Three.     Now can we please-}
-<ACTION>__{He stops. Hearing a SOUND outside.        Through the wind and rain, FOOTSTEPS on the porch. They all turn to the door.       Waiting... The DOOR SWINGS OPEN.. Pike.       Covered in BLOOD.}
+<DIAL>__{See? Three. Now can we please-}
+<ACTION>__{He stops. Hearing a SOUND outside. Through the wind and rain, FOOTSTEPS on the porch. They all turn to the door. Waiting... The DOOR SWINGS OPEN.. Pike. Covered in BLOOD.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Hey, guys.}
 <ACTION>__{They stare at him as he calmly closes the door and walks over to the empty FIREPLACE. Finally:}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{Whose blood is that, Jay?       West's.}
+<DIAL>__{Whose blood is that, Jay? West's.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Any kindling for afire?}
-<ACTION>__{He looks around for kindling.       A beat.}
+<ACTION>__{He looks around for kindling. A beat.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{What do you mean, West's?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
@@ -1054,21 +1054,21 @@
 <DIAL>__{What are you talking about?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{A gay Senator's son who let his Sarge get fragged on a training exercise? The press'll crucify you and your father. His career will be over and it'll be your fault. But we do this different and you come out a hero.}
-<ACTION>__{On Kendall, thinking about it.    A beat.}
+<ACTION>__{On Kendall, thinking about it. A beat.}
 <CHAR>__{KENOALL} <CHAR_PAR>__{}
 <DIAL>__{How?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Mueller.    He's as bad as West and we both know   it. Now I can't do it, cause I'm   tied up, but we get the others to   go along-}
+<DIAL>__{Mueller. He's as bad as West and we both know it. Now I can't do it, cause I'm tied up, but we get the others to go along-}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Don't think I want to hear this-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Someone else can do the deed, it doesn't have to be you. Maybe Nunez too, he's got a tendency to follow Mueller, but the rest of us can come out ahead - the guys who took out their Sergeant's killers!}
 <CHAR>__{PIKE } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{We'll   move the bodies out to the creek   and say we came over the hill right   as they fragged West, all we gotta   do is tell the story right.}
-<ACTION>__{Kendall stares at him.   Disgusted.}
+<DIAL>__{We'll move the bodies out to the creek and say we came over the hill right as they fragged West, all we gotta do is tell the story right.}
+<ACTION>__{Kendall stares at him. Disgusted.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{You're sick, Pike.}
-<ACTION>__{He turns and walks away.   Pike watches him go.}
+<ACTION>__{He turns and walks away. Pike watches him go.}
 <CHAR>__{KENDALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Later on I.saw him talking to Dunbar. They had been close. I was in another room when it happened.}
 <LOC>__{INT. CABIN -- KITCHEN LAST NIGHT}
@@ -1078,13 +1078,13 @@
 <CHAR>__{KENDALL } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I don't think he meant to do it. It was just reflex - he'd already been gutshot. I must have passed out cause next thing I knew...}
 <LOC>__{EXT. LOUISIANA BAYOU -- DAWN}
-<ACTION>__{The sounds of RUNNING  and HEAVY BREATHING. Kendall's eyes flutter open. He's on   Dunbar's back, being carried through the woods. The sound   of GUNFIRE and a TREE BRANCH SHATTERS next to them. Someone   is chasing them. Trying to kill them. Nunez. Dunbar bobs and weaves as another volley of bullets comes from behind and we can now hear ROTOR BLADES APPROACHING...}
+<ACTION>__{The sounds of RUNNING and HEAVY BREATHING. Kendall's eyes flutter open. He's on Dunbar's back, being carried through the woods. The sound of GUNFIRE and a TREE BRANCH SHATTERS next to them. Someone is chasing them. Trying to kill them. Nunez. Dunbar bobs and weaves as another volley of bullets comes from behind and we can now hear ROTOR BLADES APPROACHING...}
 <LOC>__{EXT. CLEARING -- DAWN}
 <ACTION>__{As Dunbar bursts into the sunlight, carrying Kendall. The entire thing dreamlike, what we saw at the opening, but from KENDALL'S VIEWPOINT -- the helicopter overhead, Nunez behind, Dunbar turning and shooting, NUNEZ GOING DOWN...}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- PRESENT DAY}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{And that's it.}
-<ACTION>__{Hardy is silent.    Staring at him.}
+<ACTION>__{Hardy is silent. Staring at him.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Nunez was chasing Dunbar.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -1097,9 +1097,9 @@
 <DIAL>__{Why did he come back for you?}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{I honestly don't know. Maybe to have someone to cover for him. And I wish I could, but there's no doubt in my mind he killed those men.}
-<ACTION>__{Silence.   Kendall's got nothing more to say.}
+<ACTION>__{Silence. Kendall's got nothing more to say.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Okay. I think that's it.     He rises and walks to the door.}
+<DIAL>__{Okay. I think that's it. He rises and walks to the door.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Mr. Hardy?}
 <ACTION>__{Hardy turns back.}
@@ -1160,7 +1160,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You mean not enough to save you.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{JAG gets here in three hours.   Try for the confession.}
+<DIAL>__{JAG gets here in three hours. Try for the confession.}
 <LOC>__{INT. COFFEE ROOM -- DAY}
 <ACTION>__{Dunbar looks up as Hardy and Osborne enter.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -1184,7 +1184,7 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{He said he worked there-}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{No, did he tell you about it?   About the business Childs ran?}
+<DIAL>__{No, did he tell you about it? About the business Childs ran?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{What business?}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -1231,7 +1231,7 @@
 <DIAL>__{You knew what he was capable of and you just stood by. It was just a matter of time till somebody fragged his ass, and you know what? He deserved it. There's your confession.}
 <ACTION>__{He pushes past a shocked Styles and walks out the door.}
 <LOC>__{EXT. FORT MCKINLEY -- PARADE GROUNDS -- DAY}
-<ACTION>__{Hardy storms across the grass.   Osborne, still following.}
+<ACTION>__{Hardy storms across the grass. Osborne, still following.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Goddammit, Hardy, you can't just leave-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -1245,7 +1245,7 @@
 <DIAL>__{You did more than try. You cracked Dunbar in less than three minutes, as an investigator you're phenomenal-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Phenomenal at taking bribes, right?}
-<ACTION>__{A beat.   Osborne shakes her head.}
+<ACTION>__{A beat. Osborne shakes her head.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{I was starting to believe you, you know? That you weren't who everyone Said. I guess I was wrong-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -1262,7 +1262,7 @@
 <ACTION>__{Hardy looks at the ground.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Two and a half hours. That's all I'm asking. Two and a half hours to maybe get the truth. Silence.}
-<ACTION>__{Hardy looks back up at her.     Speaking softly:}
+<ACTION>__{Hardy looks back up at her. Speaking softly:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I didn't shoot West...}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -1298,7 +1298,7 @@
 <DIAL>__{Holy fuck... Holy fuck, what the fuck did you guys do?}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{We found him like this...}
-<ACTION>__{Dunbar edges closer, looking at West.   With BULLET HOLES. His chest, riddled.}
+<ACTION>__{Dunbar edges closer, looking at West. With BULLET HOLES. His chest, riddled.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Somebody emptied a full clip into him- HARDY (V.O.} Stop.}
 <LOC>__{INT. COFFEE ROOM -- PRESENT DAY}
@@ -1321,7 +1321,7 @@
 <LOC>__{INT. CABIN -- LAST NIGHT}
 <DIAL>__{MUE:LLER Pike and I got separated... then I heard gunfire. Close.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{So did we.   Why didn't you come?}
+<DIAL>__{So did we. Why didn't you come?}
 <ACTION>__{Mueller looks down, scared.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{I was afraid... Mueller voice FADES OUT as he continues to talk.}
@@ -1332,7 +1332,7 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{At least you and Kendall agree on that.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{What happened next?     Dunbar shudders.}
+<DIAL>__{What happened next? Dunbar shudders.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Pike came back.}
 <LOC>__{INT. CABIN -- LAST NIGHT}
@@ -1356,16 +1356,16 @@
 <ACTION>__{A beat.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{What?}
-<ACTION>__{Silence.   All of them staring at Pike.}
+<ACTION>__{Silence. All of them staring at Pike.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Where have you been, Jay?}
-<ACTION>__{Pike, suddenly understanding.      Fear creeping into his face.}
+<ACTION>__{Pike, suddenly understanding. Fear creeping into his face.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Oh, no. . . no, fuck that-}
 <ACTION>__{He moves to the door, but. . .}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{Hey!}
-<ACTION>__{Nunez, with his PISTOL out.      Trained on Pike.}
+<ACTION>__{Nunez, with his PISTOL out. Trained on Pike.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Roberto, what the fuck?}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -1391,8 +1391,8 @@
 <ACTION_ALT>__{IN THE LIVING ROOM}
 <ACTION>__{Pike, tied to the chair. Dunbar sitting in a corner, listening to the hurricane rage outside. Pike watches him.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Just like the first day, huh?    You standing guard on me.}
-<ACTION>__{A CREAKING as the cabin SHIFTS on it's foundation.   Dunbar looks up at the roof, scared. It holds.}
+<DIAL>__{Just like the first day, huh? You standing guard on me.}
+<ACTION>__{A CREAKING as the cabin SHIFTS on it's foundation. Dunbar looks up at the roof, scared. It holds.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{This place ain't gonna hold much longer.}
 <ACTION>__{Dunbar doesn't reply. Still staring nervously at the roof. Pike looks to make sure the others out of earshot, then:}
@@ -1418,7 +1418,7 @@
 <DIAL>__{Which anyone coulda taken out of my gear on the chopper. Were you watching your pack on the ride in?}
 <ACTION>__{Dunbar starts to get up.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Ray, this is my life    here. I ain't gonna pretend I'm not    happy West is gone, but you know I    couldn't have done this. It's not     in me.}
+<DIAL>__{Ray, this is my life here. I ain't gonna pretend I'm not happy West is gone, but you know I couldn't have done this. It's not in me.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{If not you, then who?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
@@ -1430,7 +1430,7 @@
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{That's exactly what he says about you.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Who you gonna trust, Ray?    Him or your friend?}
+<DIAL>__{Who you gonna trust, Ray? Him or your friend?}
 <ACTION>__{Dunbar stares at him.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{You hated West, Mueller loved him-}
@@ -1443,18 +1443,18 @@
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Why?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Just look.   Little pocket.}
-<ACTION>__{Dunbar walks over to Pike's pack and unzips it.    Checks the little pocket. Pulls out a VIAL and a SYRINGE.}
+<DIAL>__{Just look. Little pocket.}
+<ACTION>__{Dunbar walks over to Pike's pack and unzips it. Checks the little pocket. Pulls out a VIAL and a SYRINGE.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Combat grade morphine.    Mueller sold it to me. .}
+<DIAL>__{Combat grade morphine. Mueller sold it to me. .}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{You're lying-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{Pull up my sleeve.    Right arm.}
+<DIAL>__{Pull up my sleeve. Right arm.}
 <ACTION>__{Dunbar does to reveal a cluster of TRACK MARKS.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{That look like a lie to you? I been using solid for the last eight weeks.}
-<ACTION>__{Dunbar sits down.   Not knowing what to say.}
+<ACTION>__{Dunbar sits down. Not knowing what to say.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{After that first night on the parade Grounds with you, I was bad - Exposure, malnutrition, the works. I needed something to keep me from crashing. Mueller found me.}
 <LOC>__{INT. CADET SHOWERS -- EIGHT WEEKS AGO}
@@ -1468,16 +1468,16 @@
 <DIAL>__{Later on Childs got assigned there, started running the shit out to every cadet who needed it. But I was our class's first customer.. .}
 <ACTION>__{Pike hands the smiling Mueller a WAD OF CASH...}
 <LOC>__{INT. CABIN -- LAST NIGHT}
-<ACTION>__{Dunbar staring open mouthed at Pike.    Shocked.}
+<ACTION>__{Dunbar staring open mouthed at Pike. Shocked.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Why... why didn't you tell me?}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Becoming a morphine addict during Basic ain't exactly something you want to broadcast. Only Mueller and Childs know.}
-<ACTION>__{A beat.   Dunbar gets to his feet.}
+<ACTION>__{A beat. Dunbar gets to his feet.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{That still doesn't mean you didn't kill him.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{You saw West, right?   How was he killed?}
+<DIAL>__{You saw West, right? How was he killed?}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Full clip to the body-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
@@ -1486,7 +1486,7 @@
 <DIAL>__{His chest was hamburger-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{That's close range. You go full auto on a guy from close range, you're gonna be swimming in blood. Look at my uniform. Nothing.}
-<ACTION>__{Dunbar looks.   Not a speck of blood on it.}
+<ACTION>__{Dunbar looks. Not a speck of blood on it.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{And where's Mueller's? When I came in, he was only wearing a t-shirt.}
 <ACTION>__{Dunbar looks over to fireplace, where ashes are smoldering...}
@@ -1552,23 +1552,23 @@
 <DIAL>__{No... no, we can just wait till we get back and then tell the M.P.'s-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{We wait and I'm a dead man. I got a black face, a criminal record, and over a hundred other cadets who'll testify how much I hated West - my court martial will take six minutes. It's either me or them, Ray, and you gotta decide right now.}
-<ACTION>__{The cabin SHIFTS again.     Dunbar stares at him.}
+<ACTION>__{The cabin SHIFTS again. Dunbar stares at him.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Untie me.}
 <ACTION>__{Dunbar doesn't move.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Untie me, Ray.}
-<ACTION>__{A long beat.   The two men stare at each other. And then Dunbar pulls his knife from his boot and leans down to cut Pike's bonds.}
+<ACTION>__{A long beat. The two men stare at each other. And then Dunbar pulls his knife from his boot and leans down to cut Pike's bonds.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{Thank God. . .}
 <CHAR>__{MUELLER } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{What the fuck are you doing?}
-<ACTION>__{Dunbar freezes.   Caught. He looks to the open kitchen door where Mueller stands.}
+<ACTION>__{Dunbar freezes. Caught. He looks to the open kitchen door where Mueller stands.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Guys, get out here!}
 <ACTION>__{The others enter the room. Dunbar, kneeling there, knife inches away from severing Pike's ropes.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
-<DIAL>__{This place is going, Mueller.     We gotta move-}
+<DIAL>__{This place is going, Mueller. We gotta move-}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Shut the fuck up.}
 <DIAL_PAR>__{(to the others)}
@@ -1581,7 +1581,7 @@
 <ACTION>__{Childs motions to Dunbar.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{Get away from there.}
-<ACTION>__{He's serious.    Dunbar moves away from Pike.}
+<ACTION>__{He's serious. Dunbar moves away from Pike.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{We all know what you did, Pike. I don't know what kind of nigger voodoo You been working in here, but-}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
@@ -1622,7 +1622,7 @@
 <DIAL>__{Mueller, what the fuck-}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Don't do this-}
-<ACTION>__{Pike, EYES LOCKED with Mueller.    Continuing:}
+<ACTION>__{Pike, EYES LOCKED with Mueller. Continuing:}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{A test will no doubt link you to the Killing-}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -1640,13 +1640,13 @@
 <ACTION>__{Pike leans forward.}
 <CHAR>__{PIKE} <CHAR_PAR>__{}
 <DIAL>__{You stupid white trash motherfucker, I saw you do it-}
-<ACTION>__{And Mueller FIRES. Pike's head SNAPS BACK. The gunshot, DEAFENING.    Then, for an eternity, SILENCE. Nobody moves.   Nobody breathes.   As if time has stopped.}
+<ACTION>__{And Mueller FIRES. Pike's head SNAPS BACK. The gunshot, DEAFENING. Then, for an eternity, SILENCE. Nobody moves. Nobody breathes. As if time has stopped.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Oh.. . my God...}
 <ACTION>__{Mueller lowers his arm, the pistol clattering to the floor. His face, as shocked as the others.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{He wouldn't... stop talking...}
-<ACTION>__{He takes a step forward towards Pike.    A hole in the middle of the black man's forehead.}
+<ACTION>__{He takes a step forward towards Pike. A hole in the middle of the black man's forehead.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
 <DIAL>__{So you killed him?}
@@ -1655,12 +1655,12 @@
 <ACTION>__{Almost mechanically, Dunbar begins to reach for his own gun... The unmistakable sound of a two rifles' magazines being RACKED simultaneously. Dunbar turns to see Childs and Nunez, their M-16's in hand. Levelled at him.}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{Get that hand away.}
-<ACTION>__{Dunbar does.    Looks to Nunez.}
+<ACTION>__{Dunbar does. Looks to Nunez.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{You too?}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
 <DIAL>__{We can still come out of this okay. Pike got free, he got a gun, he came after us. That's the story.}
-<ACTION>__{Mueller collapses on the ground.   Head in hands.}
+<ACTION>__{Mueller collapses on the ground. Head in hands.}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{West was one thing, but this-}
 <CHAR>__{CHILDS} <CHAR_PAR>__{}
@@ -1674,7 +1674,7 @@
 <DIAL>__{Okay-}
 <ACTION>__{He is cut off as the WIND outside ROARS - the HURRICANE mounting to it's FULL FORCE - and the WINDOWS BLOW INWARDS, showering Childs, Mueller, and Nunez with glass! Dunbar's hand flies to his pistol, PULLING IT... Mueller, SCREAMING, trying to claw the glass from his EYES... Childs, seeing Dunbar move, PULLS THE TRIGGER. .. . And the cabin is filled with the THUNDER OF GUNFIRE as Kendall goes down, clutching his ARM... DUNBAR FIRES, hitting Childs directly in the chest... Childs, still shooting, falls back, his random spray of bullets PUNCHING INTO MUELLER who jerks like a marionette... Nunez, drawing a bead on Dunbar, about to shoot, when... A great CRESCENDO of WOOD SPLINTERING and SUPPORTS BUCKLING overtakes them and the CABIN'S ROOF COMES DOWN ON THEIR HEADS.}
 <LOC>__{EXT. DEMOLISHED CABIN -- FIRST LIGHT}
-<ACTION>__{Hours later. The rain has lessened and the Hurricane has begun to lift as Dunbar pulls himself from the debris. Hearing a FAINT CRY from his left. Kendall.   Half conscious, his arm, bloody. Dunbar slings the man across his shoulders as the rising sun begins to peak through the clouds overhead.}
+<ACTION>__{Hours later. The rain has lessened and the Hurricane has begun to lift as Dunbar pulls himself from the debris. Hearing a FAINT CRY from his left. Kendall. Half conscious, his arm, bloody. Dunbar slings the man across his shoulders as the rising sun begins to peak through the clouds overhead.}
 <LOC>__{EXT. LOUISIANA BAYOU -- SUNRISE}
 <ACTION>__{Dunbar, carrying Kendall towards the clearing when GUNFIRE comes from behind. He turns to look... Nunez. The only other survivor from the Cabin. A hundred yards back, rifle in hand, coming after them with a vengeance. Dunbar, sprinting towards the clearing, bullets at his heels and as he bursts from the tree line he looks up to see a}
 <ACTION_ALT>__{HELICOPTER OVERHEAD}
@@ -1703,7 +1703,7 @@
 <DIAL>__{Why didn't you tell us all this in the first place?}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Would you have believed me?}
-<ACTION>__{Their faces say "no".   Osborne spreads a MAP out on the table.}
+<ACTION>__{Their faces say "no". Osborne spreads a MAP out on the table.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Where's the cabin?}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -1765,7 +1765,7 @@
 <DIAL>__{You want Kendall, don't you?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{He tried to burn Dunbar to us. You don't do that if you're not involved.}
-<ACTION>__{Hardy nods, agreeing.   Styles stares at them.}
+<ACTION>__{Hardy nods, agreeing. Styles stares at them.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{You both know if you do this, if you go after a Senator's son and you're wrong... it's not just me in the hot seat anymore.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -1775,19 +1775,19 @@
 <DIAL>__{I'm giving you a chance to walk away.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{We know.}
-<ACTION>__{Styles nods and looks to his desk.      Almost to himself:}
+<ACTION>__{Styles nods and looks to his desk. Almost to himself:}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{You don't get to be a Colonel without compromising. Without getting out of the way of the bigger dogs. You politic, play it safe, think of the career first. And when things get dirty, you just look the other way...}
-<ACTION>__{He looks back up at Hardy.      His eyes, steeled.}
+<ACTION>__{He looks back up at Hardy. His eyes, steeled.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{Four of my men are dead. You think Kendall had something to do with it, then you go get the son of a bitch.}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- DAY}
-<ACTION>__{Kendall lies in his bed, looking worse than before.   Hardy and Osborne enter.}
+<ACTION>__{Kendall lies in his bed, looking worse than before. Hardy and Osborne enter.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Pike never confessed.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{We've been making progress, I see.}
-<ACTION>__{Osborne looks to her watch.   Kendall notices.}
+<ACTION>__{Osborne looks to her watch. Kendall notices.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Running out of time, are we? Tick- Tock, tick-tock, how long till your witnesses fly the coop?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -1831,7 +1831,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Dunbar was running out the door? Ohhhhhh... See that's where I was confused, because I thought you said Nunez was running out the door.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
-<DIAL>__{No.   I said Dunbar.}
+<DIAL>__{No. I said Dunbar.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Huh. You know, I really thought you said Nunez. I thought you said "Dunbar was gone," My fault, I gotta check the tape on that.}
 <DIAL_PAR>__{(off Kendall's look)}
@@ -1843,7 +1843,7 @@
 <DIAL>__{Well?}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Sorry to disappoint. I'm on painkillers for the injury - they cloud the mind. You're right, it was Nunez. Any more questions?}
-<ACTION>__{Hardy doesn't know what to say.   That was his ace card.}
+<ACTION>__{Hardy doesn't know what to say. That was his ace card.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Don't get me wrong, Mueller and Childs were quite the pair, the type of guys you didn't feel comfortable going to sleep around. Completely capable of murder. But as I said, I didn't hear the exchange before the shooting. I wasn't in the room.}
 <ACTION>__{Osborne furrows her brow at this as Hardy continues.}
@@ -1857,7 +1857,7 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{I need to talk to you outside.}
 <LOC>__{EXT. BASE HOSPITAL -- CORRIDOR -- DAY}
-<ACTION>__{Osborne and Hardy, exiting the room.      Whispering:}
+<ACTION>__{Osborne and Hardy, exiting the room. Whispering:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{We're fucked, I know-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -1869,12 +1869,12 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Are you sure?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{Positive.    Hardy, they planned this.}
-<ACTION>__{She grins.    He grins back.}
+<DIAL>__{Positive. Hardy, they planned this.}
+<ACTION>__{She grins. He grins back.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Not bad for hostile and uncooperative, eh?}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- DAY}
-<ACTION>__{Hardy and Osborne reenter, smiling.      Kendall chuckles.}
+<ACTION>__{Hardy and Osborne reenter, smiling. Kendall chuckles.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Something funny, Levi?}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -1884,7 +1884,7 @@
 <DIAL>__{Why don't you talk to Levi off the record for a second?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Good idea.}
-<ACTION>__{Smiling, she stops the tape.    Then turns to Kendall.}
+<ACTION>__{Smiling, she stops the tape. Then turns to Kendall.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{You and Dunbar got your stories straight. Little details, little inconsistencies, designed to bounce us back from one of you to the other, asking questions, killing time, until the transport arrives and whisks you away to where Senator Daddy can protect you. You think you're just going to slide out of this? You're an accessory to murder, Levi, you're Going to jail-}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -1916,7 +1916,7 @@
 <DIAL>__{Wait-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{What.}
-<ACTION>__{Silence.   Kendall takes a deep breath.}
+<ACTION>__{Silence. Kendall takes a deep breath.}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{Dunbar's telling the truth.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -1934,7 +1934,7 @@
 <ACTION>__{Osborne holds up the microrecorder and starts the tape again.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Who killed Sergeant West?}
-<ACTION>__{Kendall stares at the recorder.   A long pause.}
+<ACTION>__{Kendall stares at the recorder. A long pause.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Who, Levi-}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
@@ -1967,10 +1967,10 @@
 <DIAL>__{I told him what had really happened to West. Told him to keep quiet about it or I'd destroy him. Because if it came out that I was involved with the whole PX scam, my father would be finished.}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- PRESENT DAY}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
-<DIAL>__{I scared Dunbar into silence.  He's been trying to cover for me the whole time. We got here, you came to  see me... I didn't know if I could trust him with that kind of secret-}
+<DIAL>__{I scared Dunbar into silence. He's been trying to cover for me the whole time. We got here, you came to see me... I didn't know if I could trust him with that kind of secret-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{So you framed him. The same way Childs was going to frame Pike.}
-<ACTION>__{Kendall nods.   Crying a little.}
+<ACTION>__{Kendall nods. Crying a little.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Little advice, Levi, next time you frame a guy, pick someone who can't defend themselves.}
 <ACTION>__{Kendall says nothing.}
@@ -1986,10 +1986,10 @@
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- PRESENT DAY}
 <CHAR>__{KENDALL} <CHAR_PAR>__{}
 <DIAL>__{And he did.}
-<ACTION>__{Kendall finishes, wiping his face.    Osborne turns to Hardy.}
+<ACTION>__{Kendall finishes, wiping his face. Osborne turns to Hardy.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{That's how you do good cop/bad cop.}
-<ACTION>__{Hardy smiles and gets up.   Walking slowly to Kendall's bed.}
+<ACTION>__{Hardy smiles and gets up. Walking slowly to Kendall's bed.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Childs did it, huh?}
 <ACTION>__{Kendall nods, still a little teary.}
@@ -2057,13 +2057,13 @@
 <DIAL>__{Fuh-Fucking Pike.}
 <ACTION>__{And relapses into ANOTHER FIT as SECURITY GUARDS drag Hardy and Osborne from the room.}
 <LOC>__{INT. BASE HOSPITAL -- WAITING ROOM -- DAY}
-<ACTION>__{Later.   Hardy and Osborne sit in silence, eyes downcast. Waiting. Hardy pulls his last cigarette from the pack, lights it, crumples the pack and tosses it into a garbage can.}
+<ACTION>__{Later. Hardy and Osborne sit in silence, eyes downcast. Waiting. Hardy pulls his last cigarette from the pack, lights it, crumples the pack and tosses it into a garbage can.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I pushed him too hard.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{You couldn't have known-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Yeah, I could've.      Should've.}
+<DIAL>__{Yeah, I could've. Should've.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{You wanted to get the truth.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2077,9 +2077,9 @@
 <DIAL>__{Yeah.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{So did I.}
-<ACTION>__{She looks back to the floor. Hardy takes a drag from the cigarette, and then tosses that away too. The door opens and Styles walks into the room.    Somber.}
+<ACTION>__{She looks back to the floor. Hardy takes a drag from the cigarette, and then tosses that away too. The door opens and Styles walks into the room. Somber.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{It's over.   Time of death was 4:42.}
+<DIAL>__{It's over. Time of death was 4:42.}
 <CHAR>__{STYLES } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{JAG's been notified and I called the Senator myself. My report will reflect that his medical condition made this unavoidable... you two had no culpability in the matter.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2101,7 +2101,7 @@
 <DIAL>__{What happens to Dunbar now?}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{Gets on his plane in ten minutes, which means you two are done. You'll understand if I don't walk you out.}
-<ACTION>__{Hardy gets up to go and then stops.   Realizing something.}
+<ACTION>__{Hardy gets up to go and then stops. Realizing something.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{They're taking your command, aren't they?}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
@@ -2121,7 +2121,7 @@
 <LOC>__{EXT. FORT MCKINLEY -- PARADE GROUNDS -- EVENING}
 <ACTION>__{The sun, beginning to dip in the sky, as Hardy and Osborne exit the hospital.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{Your car's in the motor pool.     I'll walk you over.}
+<DIAL>__{Your car's in the motor pool. I'll walk you over.}
 <ACTION>__{They walk in silence, for a bit.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{So what now?}
@@ -2131,7 +2131,7 @@
 <DIAL>__{Think it'll work?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Nah.}
-<ACTION>__{They pass a GROUP OF CADETS doing drills.    Hardy, watching them. Almost looking wistful.}
+<ACTION>__{They pass a GROUP OF CADETS doing drills. Hardy, watching them. Almost looking wistful.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{You know, you never told me why you left the army.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2176,16 +2176,16 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{No, no that was Cadet Dunbar-}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
-<DIAL>__{You mean Ray Dunbar?     Well, that ain't right.}
+<DIAL>__{You mean Ray Dunbar? Well, that ain't right.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Why not?}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
-<DIAL>__{I saw 'em get off the chopper.     White guys, right? Two}
+<DIAL>__{I saw 'em get off the chopper. White guys, right? Two}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{So?}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
 <DIAL>__{Ma'am, Ray Dunbar's black.}
-<ACTION>__{Hardy and Osborne stare at him.    Shocked A beat.}
+<ACTION>__{Hardy and Osborne stare at him. Shocked A beat.}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
 <DIAL>__{Did I say something wrong-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2216,7 +2216,7 @@
 <DIAL>__{M.P.'s, escort this man off the base!}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiling)}
-<DIAL>__{Sorry, detectives.     Time's up.}
+<DIAL>__{Sorry, detectives. Time's up.}
 <ACTION>__{As the M.P.'s grab Hardy, dragging him away. Osborne, trying to stop them. Dunbar, climbing the stairs onto the plane... Osborne pulls her SIDEARM, levelling it at him as Hardy yells:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{James Randall Pike, COME ON DOWN!}
@@ -2229,7 +2229,7 @@
 <DIAL>__{This is your entire career here-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Fuck off.}
-<ACTION>__{She slams the door and BARRICADES it.    Turns to Hardy.}
+<ACTION>__{She slams the door and BARRICADES it. Turns to Hardy.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{We got maybe three minutes till they break it down.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2238,7 +2238,7 @@
 <DIAL>__{You want to talk about baseball now?}
 <ACTION>__{Hardy practically throws Dunbar into a chair.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{No more games, right, Pike?    It was you who West singled out...}
+<DIAL>__{No more games, right, Pike? It was you who West singled out...}
 <TRANS>__{FLASHCUT TO :}
 <ACTION>__{- WEST on the parade grounds, now strangling DUNBAR on the first day...}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2262,7 +2262,7 @@
 <DIAL>__{Can't do that now, though, can you?}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{You walked into the army a convicted felon with a sentence of five years in a uniform and were going walk out eight weeks later with a different name, a clean record, and an honorable discharge - a guy who did "everything he could" to save his friends.}
-<ACTION>__{Dunbar looks at them.   One to the other.   Slowly.}
+<ACTION>__{Dunbar looks at them. One to the other. Slowly.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Is that what I did, now? And of course, you can prove all of it.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -2298,7 +2298,7 @@
 <DIAL>__{Isn't this how your story goes? Pike annoys someone so much he gets shot in the head-}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Please, please don't-}
-<ACTION>__{A POUNDING on the locked door.    Hardy ignores it.}
+<ACTION>__{A POUNDING on the locked door. Hardy ignores it.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{We can tie you to the chair if it'll work better for you-}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -2336,18 +2336,18 @@
 <DIAL>__{Goddammit, what did you DO?!}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{I COULDN'T KILL HIM!}
-<ACTION>__{He breaks down sobbing.   Styles holds up a hand to the M.P.'s.}
+<ACTION>__{He breaks down sobbing. Styles holds up a hand to the M.P.'s.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{Hang on.}
 <CHAR>__{JAG LAWYER} <CHAR_PAR>__{}
 <DIAL>__{Colonel-}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{No.   I want to hear this.}
-<ACTION>__{The JAG Lawyer glowers as the M.P.'s stand down.   Dunbar tries to pull himself together. To Hardy:}
+<DIAL>__{No. I want to hear this.}
+<ACTION>__{The JAG Lawyer glowers as the M.P.'s stand down. Dunbar tries to pull himself together. To Hardy:}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{You're right. I was the one he singled out. Beat me morning, noon, and night, ran me ragged. When Mueller found me, I was gone. He gave me a little taste...}
 <LOC>__{INT. CADET SHOWERS -- EIGHT WEEKS AGO}
-<ACTION>__{Mueller showing the syringe to the naked Dunbar.   Dunbar's voice over speaks in unison with Mueller:}
+<ACTION>__{Mueller showing the syringe to the naked Dunbar. Dunbar's voice over speaks in unison with Mueller:}
 <CHAR>__{MUELLER AND DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I got a friend with an in at the PX, can hook you up...}
 <LOC>__{INT. COFFEE ROOM -- PRESENT EVENING}
@@ -2361,10 +2361,10 @@
 <ACTION>__{Dunbar, alone, sleeve rolled up, arm tied off: Sliding the needle into his vein...}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{That was his game, see? Ride the cadets so hard they'd need something to stay on their feet. Then he'd send Mueller or Kendall to them, waving around their magic needle promising to make it all go away.}
-<ACTION>__{He hits the plunger, injecting.   His face goes tranquil.}
+<ACTION>__{He hits the plunger, injecting. His face goes tranquil.}
 <LOC>__{INT. COFFEE ROOM -- PRESENT EVENING}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{It wasn't a new thing either.   He'd been doing this for years.}
+<DIAL>__{It wasn't a new thing either. He'd been doing this for years.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Every nine weeks, a new class of cadets, new potential customers. The amount of money involved over that period of time... this was some high stakes shit.}
 <ACTION>__{He takes a deep breath, looking at them.}
@@ -2388,8 +2388,8 @@
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{Sir, I wasn't-}
 <CHAR>__{WEST} <CHAR_PAR>__{}
-<DIAL>__{I know you were. Cadet  Mueller found the letter you'd written to the Colonel in your locker.  You were going to betray us all.  Now, run.}
-<ACTION>__{He points to the door. The hurricane, RAGING outside.   Nunez looks to the others, then the door, and understands. He takes off running out the door.       Gone. West walks over to a table covered with a tarp. Pulls the cloth aside to reveal M-16's, PISTOLS, and GRENADES.}
+<DIAL>__{I know you were. Cadet Mueller found the letter you'd written to the Colonel in your locker. You were going to betray us all. Now, run.}
+<ACTION>__{He points to the door. The hurricane, RAGING outside. Nunez looks to the others, then the door, and understands. He takes off running out the door. Gone. West walks over to a table covered with a tarp. Pulls the cloth aside to reveal M-16's, PISTOLS, and GRENADES.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Now we'll see whose training's paid off the most. You are to hunt Cadet Nunez down and bring his body back to me. If you fail and he escapes, we all go down together.}
 <ACTION>__{The remaining five cadets, understanding there is no place for friendship or kindness here. This is life and death. They walk to the table and gear up.}
@@ -2404,18 +2404,18 @@
 <ACTION>__{Nunez TACKLES HIM at full speed, feet SLIPPING on the wet hill, and the two TUMBLE head first into a GULLY. Punching, kicking, biting, anything to stop the other man. Nunez, CHOKING Mueller as he strains to reach his gun...}
 <CHAR>__{MUELLER} <CHAR_PAR>__{}
 <DIAL>__{Roberto...}
-<ACTION>__{With a HEAVE, Nunez SNAPS HIS NECK.        Mueller lies still.}
+<ACTION>__{With a HEAVE, Nunez SNAPS HIS NECK. Mueller lies still.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{He took his gun. Used it on Childs.}
 <ACTION>__{Nunez spins, seeing CHILDS BEHIND HIM. He DIVES as Childs fires! Hits the ground in a roll, comes up with Mueller's rifle, and SHOOTS - BLOWING CHILDS BACK against the wet rocks.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I can't imagine what it was like. Having your friends try to kill you...}
-<ACTION>__{Nunez slumps against the gully's wall, breathing hard.          In agony over what he's just had to do.}
+<ACTION>__{Nunez slumps against the gully's wall, breathing hard. In agony over what he's just had to do.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{But you do what you have to survive.}
 <ACTION>__{Closing his eyes, Nunez steels himself. Wipes the blood from his hands and climbs out of the gully.}
 <ACTION_ALT>__{ELSEWHERE}
-<ACTION>__{PIKE, creeping through the foliage. Trying to listen for sounds of movement through the storm. His eyes narrow as he hears a HIGH PITCHED WHINE... The bullet hits his forehead dead center.        He crumples. PULL BACK TO REVEAL - Nunez in a tree, thirty meters away. Lowering his rifle.      He climbs down.}
+<ACTION>__{PIKE, creeping through the foliage. Trying to listen for sounds of movement through the storm. His eyes narrow as he hears a HIGH PITCHED WHINE... The bullet hits his forehead dead center. He crumples. PULL BACK TO REVEAL - Nunez in a tree, thirty meters away. Lowering his rifle. He climbs down.}
 <CHAR>__{DUNBAR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Kendall and I found Dunbar a couple minutes later.}
 <TRANS>__{TIME CUT TO:}
@@ -2426,18 +2426,18 @@
 <TRANS>__{YELLING OVER THE HURRICANE:}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{Put it down!}
-<ACTION>__{A Mexican stand-off.   The rain continues to fall.}
+<ACTION>__{A Mexican stand-off. The rain continues to fall.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{I just want to go!}
 <ACTION>__{Nunez shakes his head.}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
-<DIAL>__{You were gonna kill me, Pike!    Thought you were my friend!}
+<DIAL>__{You were gonna kill me, Pike! Thought you were my friend!}
 <ACTION>__{Dunbar, torn. He can't bring himself to shoot, but he can't surrender either.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{I have to get Kendall to a hospital!}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{He was gonna kill me too!}
-<ACTION>__{Silence.   The two men still facing each other.}
+<ACTION>__{Silence. The two men still facing each other.}
 <DIAL_PAR>__{NUNEZ {CONT'D)}
 <DIAL>__{I snapped Mueller's neck! He was my best friend and I had to snap his neck because he was gonna shoot me for drugs! For West!}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -2446,23 +2446,23 @@
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{You'll shoot me in the back!}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{You killed three people!    Isn't that enough for one night?}
-<ACTION>__{More silence.   Neither moves.    The sky above, a maelstrom.}
+<DIAL>__{You killed three people! Isn't that enough for one night?}
+<ACTION>__{More silence. Neither moves. The sky above, a maelstrom.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{I don't want to die out here, Roberto! Do you?}
-<ACTION>__{Nunez, staring at him.     Deciding.}
+<ACTION>__{Nunez, staring at him. Deciding.}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
 <DIAL>__{If you even twitch...}
-<ACTION>__{Dunbar nods. Nunez begins backing away, rifle still trained on him. And then Dunbar spies something behind and to the left of Nunez... West. Staring down at him from behind some brush.       Watching. Nunez, slowly backing away. He pauses as his foot catches on a fallen branch. Looks away from Dunbar for a split second to step over it... West nods to Dunbar as if to say "Go on. . . "}
+<ACTION>__{Dunbar nods. Nunez begins backing away, rifle still trained on him. And then Dunbar spies something behind and to the left of Nunez... West. Staring down at him from behind some brush. Watching. Nunez, slowly backing away. He pauses as his foot catches on a fallen branch. Looks away from Dunbar for a split second to step over it... West nods to Dunbar as if to say "Go on. . . "}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
 <DIAL>__{Forgive me. ..}
 <ACTION>__{And Dunbar FIRES. Nunez, caught by the burst, GOES DOWN. The echo of the gunshots, swallowed by the storm. Dunbar lowers his head in agony. West walks down.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
-<DIAL>__{Congratulations, Cadet Pike.      You get the gold star.}
+<DIAL>__{Congratulations, Cadet Pike. You get the gold star.}
 <ACTION>__{Dunbar stares at his Sergeant through the rain.}
 <CHAR>__{DUN BAR} <CHAR_PAR>__{}
 <DIAL>__{Fuck you.}
-<ACTION>__{West smiles.   Tilts his head to Kendall.}
+<ACTION>__{West smiles. Tilts his head to Kendall.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{You'd best get him out of here. Don't worry about the bodies, they'll be taken care of.}
 <ACTION>__{Dunbar doesn't move.}
@@ -2470,10 +2470,10 @@
 <DIAL>__{This is where we part ways, Cadet. You tell them I died out here, or I'll come back for you. Tell them one of the others did me. Mueller, Childs, I don't care who. You and Kendall, you tell them a story.}
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{You can tell a story, can't you?}
-<ACTION>__{Dunbar doesn't reply.   West laughs and flips him a salute.}
+<ACTION>__{Dunbar doesn't reply. West laughs and flips him a salute.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Dismissed.}
-<ACTION>__{And West turns and walks away, stepping over Nunez.   Giving Dunbar a clear shot at his back. Dunbar raises his rifle, wanting, needing, dying to shoot the old man... But he can't.   West disappears into the bayou. A GROAN from the ground. Kendall. Dunbar's reverie broken, he leans down, beginning to unbutton the Dunbar Uniform...}
+<ACTION>__{And West turns and walks away, stepping over Nunez. Giving Dunbar a clear shot at his back. Dunbar raises his rifle, wanting, needing, dying to shoot the old man... But he can't. West disappears into the bayou. A GROAN from the ground. Kendall. Dunbar's reverie broken, he leans down, beginning to unbutton the Dunbar Uniform...}
 <LOC>__{INT. COFFEE ROOM -- PRESENT EVENING}
 <ACTION>__{Dunbar stubs out a cigarette, finished. Hardy, Osborne, Styles, and the JAG Lawyer gaping at what he has just said.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
@@ -2487,9 +2487,9 @@
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{No bodies, no West...}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{No death certificates.    No crime.}
+<DIAL>__{No death certificates. No crime.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{Just four people MIA.    Silence.}
+<DIAL>__{Just four people MIA. Silence.}
 <ACTION>__{The JAG Lawyer steps forward.}
 <CHAR>__{JAG LAWYER} <CHAR_PAR>__{}
 <DIAL>__{You'll testify to this, the corruption, the drug scam?}
@@ -2504,19 +2504,19 @@
 <DIAL>__{All the proof you need will be when West comes back and puts a bullet in my brain. But I'll do it. I'm a dead man, anyway. Like Kendall.}
 <DIAL_PAR>__{(looking at Hardy)}
 <DIAL>__{We both should have died out there with our brothers. I know that now.}
-<ACTION>__{Silence.   The JAG Lawyer looks to Hardy, all anger gone.}
+<ACTION>__{Silence. The JAG Lawyer looks to Hardy, all anger gone.}
 <CHAR>__{JAG LAWYER} <CHAR_PAR>__{}
 <DIAL>__{I'll take him now if you don't mind.}
 <ACTION>__{Hardy nods. Dunbar rises and slowly walks to the door. Turning back to Hardy.}
 <CHAR>__{DUNBAR} <CHAR_PAR>__{}
-<DIAL>__{Tell me, detective.   Did you get what you wanted?}
+<DIAL>__{Tell me, detective. Did you get what you wanted?}
 <ACTION>__{Hardy shakes his head, sadly.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Not even close.}
-<ACTION>__{They leave.   Styles walks over to Hardy.}
+<ACTION>__{They leave. Styles walks over to Hardy.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{Tom-}
-<ACTION>__{Hardy holds up a hand, cutting him off. Styles nods, understanding, and leaves, closing the door behind him. Hardy and Osborne stand there.   Not speaking.    It's done.}
+<ACTION>__{Hardy holds up a hand, cutting him off. Styles nods, understanding, and leaves, closing the door behind him. Hardy and Osborne stand there. Not speaking. It's done.}
 <LOC>__{INT. FORT MCKINLEY -- OFFICER'S CLUB -- NIGHT}
 <ACTION>__{Several hours and bourbons later, Hardy sits at the bar, drunk and alone. Out of place, the only one not in uniform. Osborne walks in, locates Hardy, and strides over to the bar, a sheaf of papers under her arm. Her face, stoic.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
@@ -2531,7 +2531,7 @@
 <ACTION>__{He chuckles.}
 <DIAL_PAR>__{HARDY {CONT'D)}
 <DIAL>__{Seven. That's the answer to Kendall's question. How many? Seven.}
-<ACTION>__{Osborne looks at him.    Realizing what he's saying.}
+<ACTION>__{Osborne looks at him. Realizing what he's saying.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{This isn't the time-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2542,7 +2542,7 @@
 <DIAL>__{Tough.}
 <ACTION>__{He pours himself another drink.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Thing about    taking money is, you don't have    to do anything.  You just sit there.     Maybe you don't return a phone call.     Maybe you don't follow up a lead.     But that's it.  Keep the money, your    work's done.}
+<DIAL>__{Thing about taking money is, you don't have to do anything. You just sit there. Maybe you don't return a phone call. Maybe you don't follow up a lead. But that's it. Keep the money, your work's done.}
 <ACTION>__{Osborne stares at him.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Seven unsolved murders. And you know what? It didn't weigh on my conscience. Not one goddamn bit.}
@@ -2563,14 +2563,14 @@
 <ACTION>__{He motions to the bartender for another glass, but Osborne takes his hand, stopping him.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{And because you're a good man, I know you'll do the right thing.}
-<ACTION>__{Hardy looks at her, questioning.   Osborne takes a deep breath.}
+<ACTION>__{Hardy looks at her, questioning. Osborne takes a deep breath.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Pike never made it to D.C.. Somebody took him off the plane before it left. My guess is he's already dead.}
 <ACTION>__{Hardy stares at her.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{West?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
-<DIAL>__{Nobody saw.    But I don't think so.}
+<DIAL>__{Nobody saw. But I don't think so.}
 <ACTION>__{She puts the papers on the bar.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{These are the requisitions from the PX, the ones used to release the drugs to Mueller. West signed half of them - Pike was telling the truth. Look who signed the other half.}
@@ -2579,9 +2579,9 @@
 <DIAL>__{Do I have a choice in this?}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Yeah. I can wait till you're off the base and do it myself.}
-<ACTION>__{Hardy stares at his glass.   Deciding.}
+<ACTION>__{Hardy stares at his glass. Deciding.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{Fuck it.   Let's go finish this.}
+<DIAL>__{Fuck it. Let's go finish this.}
 <LOC>__{INT. STYLES' OFFICE -- NIGHT}
 <ACTION>__{Styles, finishing his paperwork. He rises and turns off his desk light, bathing the office in DARKNESS. He's about to leave when he notices a SILHOUETTE in the doorway.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2608,7 +2608,7 @@
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Stay where you are.}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
-<DIAL>__{Or what?   You've gone round the bend-}
+<DIAL>__{Or what? You've gone round the bend-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{West had a partner. Someone who knew how to get things done.}
 <ACTION>__{Hardy throws the papers onto Styles' desk.}
@@ -2625,7 +2625,7 @@
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{I'm not even going to dignify that-}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{No!  You will stand there and you will listen! What happened to you, Bill?  You were the one who joined up to do good in the world. You were the one who believed in it-}
+<DIAL>__{No! You will stand there and you will listen! What happened to you, Bill? You were the one who joined up to do good in the world. You were the one who believed in it-}
 <CHAR>__{STYLES} <CHAR_PAR>__{}
 <DIAL>__{You want to get into a finger pointing contest about character? The army kicked you out for drugs, the cops fired you for taking bribes from a mobster, and you think you can stand there and lecture me on codes of conduct? There's only one criminal standing in this room and it's you.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
@@ -2682,10 +2682,10 @@
 <DIAL>__{He was your friend.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Yeah. But he was a lot of other things, too. Thanks.}
-<ACTION>__{She nods.   An awkward moment.      Finally:}
+<ACTION>__{She nods. An awkward moment. Finally:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{I'll see you.}
-<ACTION>__{He turns away.   Walking towards his car.}
+<ACTION>__{He turns away. Walking towards his car.}
 <CHAR>__{OSBORNE} <CHAR_PAR>__{}
 <DIAL>__{Hey, Hardy!}
 <ACTION>__{He turns back. She walks up and holds something out to him. A ten dollar bill.}
@@ -2705,10 +2705,10 @@
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Welcome, Cadets. The art of warfare is simple and complex. Simple in its goal, complex in its execution.}
 <LOC>__{INT. HARDY'S GTO (MOVING) -- NIGHT}
-<ACTION>__{It's started to rain.    Hardy drives in silence.}
+<ACTION>__{It's started to rain. Hardy drives in silence.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{As Sun Tzu writes, the true warfare is deception.}
-<ACTION>__{A HITCHHIKER up ahead.    Hardy pulls over for him.}
+<ACTION>__{A HITCHHIKER up ahead. Hardy pulls over for him.}
 <LOC>__{INT. OSBORNE'S APARTMENT -- NIGHT}
 <ACTION>__{Osborne, drinking and watching.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
@@ -2733,7 +2733,7 @@
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Is this about that little drug business you all are running? Yeah, I know about that, Roberto told me-}
 <CHAR>__{NUNEZ} <CHAR_PAR>__{}
-<DIAL>__{Shut up!    Look, we won't say anything-}
+<DIAL>__{Shut up! Look, we won't say anything-}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Fuck that. You little pissers really think you can throw a scare into me?}
 <ACTION>__{Dunbar raises his rifle and SHOOTS NUNEZ. He goes down, twitches once and lies still. Dead. West looks at Dunbar.}
@@ -2747,7 +2747,7 @@
 <ACTION>__{Hardy just smiles.}
 <CHAR>__{WEST} <CHAR_PAR>__{}
 <DIAL>__{Should've known you were involved in this. Come on then. Let's see you try and stick me-}
-<ACTION>__{Moving faster than   West thought imaginable, Hardy moves and the knife FLASHES,   CUTTING WEST OPEN stem to sternum. Hardy grips the older man   by the shoulders, lowering him to the ground as he dies.    Whispering in his ear:}
+<ACTION>__{Moving faster than West thought imaginable, Hardy moves and the knife FLASHES, CUTTING WEST OPEN stem to sternum. Hardy grips the older man by the shoulders, lowering him to the ground as he dies. Whispering in his ear:}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
 <DIAL>__{Stem to sternum. You taught me well, Sarge.}
 <ACTION>__{And WEST DIES. A moment of utter silence and then VOICES FROM THE PAST begin coming back to us:}
@@ -2795,9 +2795,9 @@
 <LOC>__{INT. COFFEE ROOM -- EARLIER}
 <ACTION>__{Hardy, taking a cigarette from Dunbar's pack.}
 <CHAR>__{HARDY} <CHAR_PAR>__{}
-<DIAL>__{My brand.   Must be my lucky day.}
+<DIAL>__{My brand. Must be my lucky day.}
 <LOC>__{INT. KENDALL'S HOSPITAL ROOM -- EARLIER}
-<ACTION>__{Kendall, coughing fit.   Hardy, getting him a GLASS OF WATER.}
+<ACTION>__{Kendall, coughing fit. Hardy, getting him a GLASS OF WATER.}
 <CHAR>__{WEST } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{. . . some of which you may have to sacrifice for the greater good.}
 <ACTION>__{Hardy, secretly dissolving a POWDER into Kendall's water.}
@@ -2807,14 +2807,14 @@
 <ACTION>__{Hardy, confronting Styles in the dark.}
 <CHAR>__{WEST } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Make no mistake, the innocent will die. . .}
-<ACTION>__{Osborne, FIRING TWICE into Styles.   As he hits the wall}
+<ACTION>__{Osborne, FIRING TWICE into Styles. As he hits the wall}
 <CHAR>__{HARDY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Next time you frame a guy, pick someone who can't defend themselves... But it will not be in vain. Sometimes, you can trick the enemy into doing your work for you. . .}
 <ACTION>__{Osborne, staring down at WEST'S PISTOL.}
 <CHAR>__{HARDY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{He still carry those guns?}
 <LOC>__{INT. STYLES' OFFICE -- EARLIER}
-<ACTION>__{Earlier.   Alone, Hardy plants West's pistol in Styles' desk.}
+<ACTION>__{Earlier. Alone, Hardy plants West's pistol in Styles' desk.}
 <CHAR>__{WEST } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{...if you engage in a clever enough subterfuge.}
 <LOC>__{INT. BASE PX -- BACKROOM -- EARLIER}
@@ -2865,7 +2865,7 @@
 <CHAR>__{WEST } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{You can tell a story, can't you?}
 <LOC>__{EXT. ROADHOUSE PARKING LOT -- NIGHT}
-<ACTION>__{Silence.   We slowly move towards Hardy's parked GTO...}
+<ACTION>__{Silence. We slowly move towards Hardy's parked GTO...}
 <CHAR>__{HARDY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Murder is basic.}
 <ACTION>__{Focusing on the TRUNK...}

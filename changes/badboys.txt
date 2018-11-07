@@ -8,7 +8,7 @@
 <DIAL>__{What's taking so long back there?}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{REAR}
-<ACTION>__{Where the rest of the gang waits.      NOAH, KUNI, FERGUSON, and CASPER. All dressed in black      like Fouchet, except for ANDY. He stands and shows off      his Miami PD uniform. His English is poor, yet he's got     a big, happy-to-be- along grin on his face.}
+<ACTION>__{Where the rest of the gang waits. NOAH, KUNI, FERGUSON, and CASPER. All dressed in black like Fouchet, except for ANDY. He stands and shows off his Miami PD uniform. His English is poor, yet he's got a big, happy-to-be- along grin on his face.}
 <CHAR>__{ANDY} <CHAR_PAR>__{}
 <DIAL>__{How do I look? Like the real thing, yeah?}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
@@ -20,11 +20,11 @@
 <DIAL>__{I'm the decoy.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{Right you are.}
-<ACTION>__{Over the seat Fouchet reveals a SHOTGUN.     BOOM!}
+<ACTION>__{Over the seat Fouchet reveals a SHOTGUN. BOOM!}
 <LOC>__{EXT. VAN IN MOTION}
 <ACTION>__{Andy's body is blown through the rear doors as the van turns a corner.}
 <LOC>__{INT. VAN - FOUCHET}
-<ACTION>__{He dials 911 on his cellular phone.     Fouchet sounds distressed.}
+<ACTION>__{He dials 911 on his cellular phone. Fouchet sounds distressed.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{Please help! I just saw a policeman shot! Send help. Hurry! I'm at the corner of...}
 <LOC>__{EXT. NEAR DOWNTOWN - VAN - NIGHT}
@@ -37,7 +37,7 @@
 <LOC>__{INT. COLONY HOTEL - NIGHT}
 <ACTION>__{Where the buffed DESK MANAGER gets off the phone to greet the effeminate pair.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Good evening.    I'm Mike --}
+<DIAL>__{Good evening. I'm Mike --}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{-- And I'm Marcus.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
@@ -45,7 +45,7 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{No chest hair. And packin'.}
 <CHAR>__{DESK MANAGER} <CHAR_PAR>__{}
-<DIAL>__{I'm sorry.   But our guest list is private.}
+<DIAL>__{I'm sorry. But our guest list is private.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Oh, didn't they say? There's going to be party! It's B.Y.O.B.O. --}
 <DIAL_PAR>__{(leans in close)}
@@ -60,8 +60,8 @@
 <LOC>__{INT. COLONY HOTEL - SUITE 202 - NIGHT}
 <ACTION>__{On the table are two briefcases. Each opened. One containing cocaine. The other, cash. A pistol next to each. REVEAL the dealers. Two young Dominicans seated across from the TV, getting high, drinking beer and laughing out loud at the Spanish language version of Time Traxx. Then -- BANG! The door's kicked in and Lowrey's first through. Burnett on backup.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Police!   On the floor!}
-<ACTION>__{But the dealers split, rolling out of their chairs.   One goes left and the other, right.}
+<DIAL>__{Police! On the floor!}
+<ACTION>__{But the dealers split, rolling out of their chairs. One goes left and the other, right.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{BEDROOM}
 <ACTION>__{Lowrey tackles the first dealer to the floor. A LATINA girl screams. Lowrey unfortunately looks and takes a hard fist across the ear from the dealer. Angered, Lowrey swings his pistol up underneath the perp's jaw and knocks him through the bathroom door. Lowrey cuffs him to the sink. Meanwhile... Back to:}
@@ -71,7 +71,7 @@
 <DIAL>__{Lowrey!}
 <ACTION>__{Burnett stomps the bad guy's instep. The guy buckles. Burnett rolls away and stands in front of a window, just in time to see the angry Dominican heading straight for him.}
 <LOC>__{EXT. COLONY HOTEL - CONTINUOUS ACTION}
-<ACTION>__{Burnett   and the other dealer come crashing out onto the balcony,   then over onto an awning, rolling off onto some occupied   cafe tables. Patrons scatter. Uniformed cops move in   to assist.}
+<ACTION>__{Burnett and the other dealer come crashing out onto the balcony, then over onto an awning, rolling off onto some occupied cafe tables. Patrons scatter. Uniformed cops move in to assist.}
 <ACTION_ALT>__{LOWREY}
 <ACTION>__{appears soon after, walking down the hotel steps, leading the Latina in his cuffs, and wearing his jacket.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -85,26 +85,26 @@
 <LOC>__{EXT. MIAMI'S OLDEST POLICE STATION (DOWNTOWN) - NIGHT}
 <ACTION>__{The HELICOPTER ROARS low over the rooftops toward the causeway bridge.}
 <LOC>__{EXT. POLICE STATION - ROOFTOP - FOUCHET - NIGHT}
-<ACTION>__{As the helicopter passes over, he appears  from behind a large exhaust port. Casper, Ferguson, and   Noah behind him, all wearing high-tech miner's helmets  with built-in radio headsets, and an array of high-tech  tools.}
+<ACTION>__{As the helicopter passes over, he appears from behind a large exhaust port. Casper, Ferguson, and Noah behind him, all wearing high-tech miner's helmets with built-in radio headsets, and an array of high-tech tools.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{It's time.}
 <ACTION>__{The team crosses the roof to a huge air conditioning unit. They climb inside, carrying a six-foot-long metal case and what looks like a black scuba tank.}
 <LOC>__{INT. AIR UNIT/SHAFTS}
 <ACTION>__{Though it's windy and cramped in here, at least it's cool. From a prone position, Fouchet puts on his night vision goggles and reveals a palm top computer. Quickly he scrolls through the labyrinthine schematics loaded onto the unit. TILT DOWN to see the various ducts. Endless. Bottomless. But clearly, Fouchet's a man who knows his way.}
 <LOC>__{INT. POLICE STATION - SERIES OF SHOTS - NIGHT}
-<ACTION>__{Seemingly empty.   From squad rooms to locker rooms to booking.}
+<ACTION>__{Seemingly empty. From squad rooms to locker rooms to booking.}
 <LOC>__{INT. EVIDENCE ROOM - GUARD STATION}
 <ACTION>__{OFFICER BILL O'FEE, 50s, reads a magazine and drinks coffee. Video monitors in front of him show the different lockers inside the evidence room. We see one room with stacks upon stacks of heroin.}
 <ACTION_ALT>__{IN AIR UNIT}
 <ACTION>__{The team, attached to cables, slide into the building's guts and disappear. STATIC CRACKLES:}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
-<DIAL>__{We're in.     Start the video.}
+<DIAL>__{We're in. Start the video.}
 <LOC>__{EXT. POLICE STATION - ALLEY - NIGHT}
 <ACTION>__{Kuni finds the conduit he's looking for, splices it, cuts into it with a Makita battery-powered circular saw, then attaches a handheld high-8 video machine and starts the video feed. The unit is strapped to the conduit.}
 <LOC>__{INT. GUARD STATION - NIGHT}
-<ACTION>__{The MONITORS FLUTTER, then STABILIZE.    Turning the page, O'Fee sugars his coffee.}
+<ACTION>__{The MONITORS FLUTTER, then STABILIZE. Turning the page, O'Fee sugars his coffee.}
 <LOC>__{INT. TRASH CHUTE ROOM - NIGHT}
-<ACTION>__{An air vent smashes to the floor.    Two guys pull the metal case inside the room.}
+<ACTION>__{An air vent smashes to the floor. Two guys pull the metal case inside the room.}
 <LOC>__{INT. EVIDENCE ROOM - HEROIN LOCKER - NIGHT}
 <ACTION>__{BANG! Another air conditioning vent grate crashes to the floor. Their headlights blazing, two men clamber into the cavernous room, Fouchet along with Casper. This is the special Drug Holding Room: The lock cuts like butter and the steel door is yanked open. One hundred million dollars in heroin. Each kilo brick is stamped with a distinctive octopus logo.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
@@ -116,7 +116,7 @@
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{Then do him, now!}
 <ACTION_ALT>__{GUARD STATION}
-<ACTION>__{Sure enough.    As O'Fee stands from his desk --}
+<ACTION>__{Sure enough. As O'Fee stands from his desk --}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{VENT ABOVE}
 <ACTION>__{Where Ferguson is waiting with an air-powered tranquil- izer gun. He cuts loose a silent round that strikes O'Fee at the base of the neck. O'Fee stops. But before he can think to reach back at what hit him, his knees buckle and he drops to the linoleum. Out cold.}
@@ -153,21 +153,21 @@
 <LOC>__{INT. BATHROOM}
 <ACTION>__{All marble and brass. Lowrey opens up his medicine cabinet. Locating a new bottle of aspirin... he suddenly realizes that the SHOWER is RUNNING. Confused, he pulls open the shower curtain slightly. From the back, it's an incredible body, then she turns around and it's --}
 <ACTION_ALT>__{THE LATINA}
-<ACTION>__{Yes.   The very same as the one he just saw in bed.    What?}
+<ACTION>__{Yes. The very same as the one he just saw in bed. What?}
 <CHAR>__{LATINA TWIN} <CHAR_PAR>__{}
 <DIAL>__{'Morning.}
 <ACTION>__{Lowrey closes the curtain on her. Frowns at this impossibility. He steps back into the doorway and peers over at his bed. Yep, same face. Twins?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shaking his head)}
 <DIAL>__{Oh man...}
-<ACTION>__{He tears open the bottle of aspirin.    Chug-a-lugs.}
+<ACTION>__{He tears open the bottle of aspirin. Chug-a-lugs.}
 <LOC>__{INT. BURNETT HOUSE - BEDROOM - MORNING}
 <ACTION>__{Burnett and his young wife, THERESA, are jarred awake by the CLOCK RADIO BLARING on the night stand. Theresa gropes for RADIO, shuts it OFF. Burnett playfully gropes for her.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Marcus, what are you doing?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{We're always saying we should spend more quality time together. Well, I got the time... and you got the quality...}
-<ACTION>__{She laughs.   He kisses her.}
+<ACTION>__{She laughs. He kisses her.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{I can remember when we used to do it every morning.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
@@ -190,10 +190,10 @@
 <DIAL>__{Kids, knock it off... or your momma's gonna whoop your butts!}
 <ACTION>__{Theresa laughs in spite of herself as the kids continue to fight. Into this craziness enters Mike Lowrey...}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Ah, family life. Reminds me why I stay single. JILL & QUINCY Uncle Mike!   Uncle Mike!}
+<DIAL>__{Ah, family life. Reminds me why I stay single. JILL & QUINCY Uncle Mike! Uncle Mike!}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Hiya, kids.   Mornin', Theresa.}
-<ACTION>__{Lowrey pecks Theresa on the cheek.   She recoils.}
+<DIAL>__{Hiya, kids. Mornin', Theresa.}
+<ACTION>__{Lowrey pecks Theresa on the cheek. She recoils.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Don't kiss me, Lowrey. I don't know where those lips were last night.}
 <CHAR>__{QUINCY} <CHAR_PAR>__{}
@@ -230,7 +230,7 @@
 <DIAL>__{Marcus... I need you to stop at Save-More on the way home and pick up exactly what's on the list.}
 <ACTION>__{She hands Burnett a long list.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Oh, baby.   Damn.}
+<DIAL>__{Oh, baby. Damn.}
 <ACTION>__{Lowrey shakes his head.}
 <LOC>__{EXT. MIAMI P.D. - DAY}
 <ACTION>__{Lowrey and Burnett pull up in Porsche.}
@@ -333,7 +333,7 @@
 <LOC>__{INT. SQUAD ROOM - DAY}
 <ACTION>__{Lowrey and Burnett with their desks opposite each other. The CAMERA CIRCLES while they lay the arm on some informants.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{There's gonna be a lotta cash when the dope hits the street. We want you to put the word out through your bank and hustle the account.  You help us, maybe we can see about getting those R.T.C. auditors off your ass.}
+<DIAL>__{There's gonna be a lotta cash when the dope hits the street. We want you to put the word out through your bank and hustle the account. You help us, maybe we can see about getting those R.T.C. auditors off your ass.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Listen, Cedras. You and I both know you're the number one importer for the Simona Brothers. And I'm tellin' you there's a buttload of H on the move and someone's gonna wanna stick their dick in it. So it better not be yours. You hear something? You call us. You hear nada? You better get the fuck outta town.}
 <LOC>__{INT. UNMARKED CAR - DAY}
@@ -341,7 +341,7 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Not a fucking lead. So now that we've done the obvious, we need a shortcut.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Okay.   So we talk to Max.}
+<DIAL>__{Okay. So we talk to Max.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Huh uh. Not this time. I'm tired of you working pussy into everything we do.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
@@ -353,9 +353,9 @@
 <ACTION_ALT>__{BURNETT AND LOWREY}
 <ACTION>__{enter. And while Lowrey cruises amongst the sweaty flesh as if it were a day in the park, Burnett lags. Maybe he has been married too long.}
 <ACTION_ALT>__{CLOSE ON MAX LOGAN}
-<ACTION>__{she's doing sit-ups on an incline bench.     She notices Lowrey.}
+<ACTION>__{she's doing sit-ups on an incline bench. She notices Lowrey.}
 <CHAR>__{MAX} <CHAR_PAR>__{}
-<DIAL>__{Hi, Mike.   You come to work-out?}
+<DIAL>__{Hi, Mike. You come to work-out?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Raincheck, darlin'. Gotta talk. Anyplace we can go?}
 <CHAR>__{MAX} <CHAR_PAR>__{}
@@ -386,8 +386,8 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{A cop.}
 <CHAR>__{BLACK WOMAN} <CHAR_PAR>__{}
-<DIAL>__{Oooh.    I love cops.}
-<ACTION>__{The other girls are suddenly interested, too.   Burnett swallows and...}
+<DIAL>__{Oooh. I love cops.}
+<ACTION>__{The other girls are suddenly interested, too. Burnett swallows and...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You know? I'm a cop. I shot somebody just last week. Didn't kill him, just shot him in the ass.}
 <ACTION>__{Stone cold looks from them all. They walk away with Burnett giving a "what did I say" look. Lowrey appears.}
@@ -414,7 +414,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{You gonna let every old motherfucker pass you? Or just the ones with big-ass trailers draggin' behind? A-c-c-el-er-ate.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{I don't have a death wish like you. I  got a family that counts on me.  A mortgage to pay. And I'm not sayin' it's me, but most of the guys in the station think you're some rich kid playin' cop.}
+<DIAL>__{I don't have a death wish like you. I got a family that counts on me. A mortgage to pay. And I'm not sayin' it's me, but most of the guys in the station think you're some rich kid playin' cop.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Who said that?}
 <ACTION>__{Burnett mumbles an answer.}
@@ -439,7 +439,7 @@
 <ACTION>__{Burnett and Lowrey step from their unmarked car and start up the steps to this stony, estate-sized house.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{The air conditioning business has been good to Orona.}
-<ACTION>__{Lowrey rings the bell.   They wait.   No answer.}
+<ACTION>__{Lowrey rings the bell. They wait. No answer.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Well, we can leave a note or we can break and enter --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
@@ -447,11 +447,11 @@
 <LOC>__{INT. ESTATE - REAR DOOR}
 <ACTION>__{Lowrey kicks the door in.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Uh oh.    No alarm.}
+<DIAL>__{Uh oh. No alarm.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Aw, man.    Did you cut one?}
+<DIAL>__{Aw, man. Did you cut one?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{No, man.    Musta been you.}
+<DIAL>__{No, man. Musta been you.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Not me.}
 <ACTION>__{Lowrey and Burnett look at each other and draw guns.}
@@ -468,12 +468,12 @@
 <DIAL>__{Where... are... the... drugs?}
 <DIAL_PAR>__{(shrugs)}
 <DIAL>__{He ain't sayin' nothin'. He must be guilty of somethin'.}
-<ACTION>__{Meanwhile, Lowrey's got   no problem with the dead body. He tries opening a desk   drawer, but Orona's rigor mortis- stiffened knee is in the   way. So Lowrey gives it a shove and the chair swivels.    Orona's dead arm sweeps the lamp off the desk.}
+<ACTION>__{Meanwhile, Lowrey's got no problem with the dead body. He tries opening a desk drawer, but Orona's rigor mortis- stiffened knee is in the way. So Lowrey gives it a shove and the chair swivels. Orona's dead arm sweeps the lamp off the desk.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Whoa. Watch where you're swinging them dead arms, Orona. You're gonna fuck up your own crime scene.}
 <ACTION>__{Lowrey braves the body and gingerly pokes around his pockets.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Watch what you touch.   That's evidence.}
+<DIAL>__{Watch what you touch. That's evidence.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Not touching. Browsing... Mr. Orona. You've got the right to remain silent. Anything you say'll surprise the shit out of us.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -511,9 +511,9 @@
 <ACTION_ALT>__{FRONT DOOR}
 <ACTION>__{It swings open to reveal JULIE MOTT, 24, just as beautiful as Max and dressed to be undressed. She drops one of those big, model's shoulder bags to the floor and gazes curiously back at Lois and Max. Her ears are burning.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Okay.   So what'd I miss?}
+<DIAL>__{Okay. So what'd I miss?}
 <LOC>__{EXT. BILTMORE HOTEL (MIAMI BEACH) - MAGIC HOUR}
-<ACTION>__{The hotel bustles with activity.     Cabs pull up.   Doormen. Bellhops. Rich people.}
+<ACTION>__{The hotel bustles with activity. Cabs pull up. Doormen. Bellhops. Rich people.}
 <LOC>__{EXT. BILTMORE HOTEL - COURTYARD - DUSK}
 <ACTION>__{As Max and Julie walk through...}
 <CHAR>__{MAX} <CHAR_PAR>__{}
@@ -523,13 +523,13 @@
 <CHAR>__{MAX} <CHAR_PAR>__{}
 <DIAL>__{What about Ronny?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Sex addict.     Coke addict. Redhead.}
+<DIAL>__{Sex addict. Coke addict. Redhead.}
 <CHAR>__{MAX} <CHAR_PAR>__{}
 <DIAL>__{You were a redhead?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Only for two days. It wasn't even a phase.}
 <CHAR>__{MAX} <CHAR_PAR>__{}
-<DIAL>__{Okay.   Mark.}
+<DIAL>__{Okay. Mark.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Oooh. Bad loser and bad, bad blonde. Farrah, frosted kinda big bad blonde. Oooh.}
 <ACTION>__{Max laughs.}
@@ -549,7 +549,7 @@
 <CHAR>__{MAX} <CHAR_PAR>__{}
 <DIAL>__{He's just a friend.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Yeah, right.     You're in love.}
+<DIAL>__{Yeah, right. You're in love.}
 <CHAR>__{MAX} <CHAR_PAR>__{}
 <DIAL>__{It's never gonna happen. I'm great at turning lovers into friends. But turning friends into lovers, I can't do.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -561,8 +561,8 @@
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{Max, my little carina. It's been a long time. And who's your friend?}
 <CHAR>__{MAX} <CHAR_PAR>__{}
-<DIAL>__{Eddie.   Julie.}
-<ACTION>__{Julie sizes him up.    Good taste.   His suit.   Bad taste. His personality.}
+<DIAL>__{Eddie. Julie.}
+<ACTION>__{Julie sizes him up. Good taste. His suit. Bad taste. His personality.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{Come on, Julie. Come in, Max. Welcome to the Al Capone suite.}
 <ACTION>__{Thev're stepped into a grand, opulent suite. High arched ceilings. Magnificent antique furniture. Killer view. No party guests.}
@@ -572,7 +572,7 @@
 <ACTION_ALT>__{CLOSE ON JULIE}
 <ACTION>__{Not happy. Stuck at the Biltmore with a Scarface wannabe. She looks over at Max. Let's get outta here.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Excuse me?   I need to use the bathroom.}
+<DIAL>__{Excuse me? I need to use the bathroom.}
 <ACTION>__{Julie crosses to the bathroom.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{Wow, Maxi. I thought you dropped off the edge of the earth and died. Either that or you moved to California.}
@@ -582,7 +582,7 @@
 <DIAL>__{No. Don't go yet. We can party. Just us three. Look at what Eddie's got to play with.}
 <ACTION>__{From underneath the couch Eddie reveals a single key of heroin. Max tries to hide the recognition that she just hit paydirt on the very first try.}
 <LOC>__{INT. BATHROOM - JULIE}
-<ACTION>__{Where she's silently cursing Max for getting her into this lame-ass party when she hears MUFFLED VOICES outside the bathroom. Instinctively, Julie peers through the louvered shades. JULIE'S POV - THROUGH SHADES She sees Eddie opening the door to Fouchet.   Casper and Noah follow him inside.}
+<ACTION>__{Where she's silently cursing Max for getting her into this lame-ass party when she hears MUFFLED VOICES outside the bathroom. Instinctively, Julie peers through the louvered shades. JULIE'S POV - THROUGH SHADES She sees Eddie opening the door to Fouchet. Casper and Noah follow him inside.}
 <TRANS>__{CUT BACK TO:}
 <LOC>__{INT. AL CAPONE SUITE}
 <ACTION>__{Eddie is instantly nervous in the presence of Fouchet.}
@@ -607,16 +607,16 @@
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(freaked)}
 <DIAL>__{Our dope... That was the deal, yeah? Right. Until we got the money --}
-<ACTION>__{BAM!   Fouchet SHOOTS Eddie in the knee.   Eddie screams!}
+<ACTION>__{BAM! Fouchet SHOOTS Eddie in the knee. Eddie screams!}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{You fucker... fucker fucker fucker!!!}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{I have four more days until I make the deal. When it's done you get your money. Now, what part don't you understand?}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
-<DIAL>__{Hey, man.   You need me.}
+<DIAL>__{Hey, man. You need me.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{I don't need anybody. I got three little angels looking over my shoulder.}
-<ACTION>__{REVERSE SHOT - EDDIE'S CHAIR Fouchet UNLOADS THREE MORE SHOTS.    BAM BAM BAM!!!   Blood spatters onto Casper.}
+<ACTION>__{REVERSE SHOT - EDDIE'S CHAIR Fouchet UNLOADS THREE MORE SHOTS. BAM BAM BAM!!! Blood spatters onto Casper.}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
 <DIAL>__{Aw, man. You got blood on my new suit.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
@@ -636,11 +636,11 @@
 <LOC>__{EXT. BELL TOWER - NIGHT}
 <ACTION>__{Noah and Casper appear in the Bell Tower. Noah scans the roof, takes aim and FIRES, but he's too far away -- and Julie disappears behind a rise in the roof.}
 <LOC>__{EXT. BILTMORE - ROOFTOP - JULIE - NIGHT}
-<ACTION>__{She steps towards the edge of the roof. Quickly peers over. A huge swimming pool, five stories down. She weighs the options.   Jump or die.}
+<ACTION>__{She steps towards the edge of the roof. Quickly peers over. A huge swimming pool, five stories down. She weighs the options. Jump or die.}
 <ACTION_ALT>__{NOAH AND CASPER}
 <ACTION>__{As they try running across the harsh-tiled roof...}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
-<DIAL>__{Now look. My fuckin' shoes.      My fuckin' Italian shoes!}
+<DIAL>__{Now look. My fuckin' shoes. My fuckin' Italian shoes!}
 <ACTION>__{Then Julie prays silently, takes a running start and leaps from the roof. SLOW-MOTION as Julie flies through the air like some glamorous angel.}
 <LOC>__{EXT. BILTMORE POOL - UNDERWATER - NIGHT}
 <ACTION>__{as Julie breaks the surface with a huge splash. The water swirls as her aching body struggles to the surface.}
@@ -666,7 +666,7 @@
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{Two dead. A hood registered as Eddie Dominguez and some Jane Doe. But the table over there's covered in high-grade dope. Sound familiar?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{I think we    got us a witness. Over here    I got two different shades of    lipstick on one champagne    glass.}
+<DIAL>__{I think we got us a witness. Over here I got two different shades of lipstick on one champagne glass.}
 <ACTION>__{Meanwhile --}
 <ACTION_ALT>__{BURNETT}
 <ACTION>__{He drops the sheet on Eddie's body, then moves over to Max's. He doesn't know it's her until --}
@@ -676,7 +676,7 @@
 <DIAL>__{Whatcha got?}
 <ACTION>__{Burnett drops the sheet, turns and puts a protective shoulder between Lowrey and the body.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{What?     Who is it?}
+<DIAL>__{What? Who is it?}
 <ACTION>__{Lowrey instintively pushes past his partner and kneels at the body. He pulls back the sheet. Right now he could kill the shooter, then himself. In that order. Lowrey's eyes well up.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{I shoulda told you to be careful.}
@@ -688,7 +688,7 @@
 <CHAR>__{HOTEL CLERK} <CHAR_PAR>__{}
 <DIAL>__{You pay the bill you can see his phone calls.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{I'm sorry.     Maybe I wasn't polite enough.}
+<DIAL>__{I'm sorry. Maybe I wasn't polite enough.}
 <ACTION>__{With a flashing right jab, Lowrey pops the snooty Clerk. After the Clerk finds his feet, eyes peering over the counter...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{I wouldn't fuck with him right now.}
@@ -707,7 +707,7 @@
 <DIAL>__{Hello? Jimmy... Jimmy?}
 <ACTION>__{Suddenly, the power is cut.}
 <LOC>__{INT. LOIS FIELD'S MANOR - FRONT DOOR - NIGHT}
-<ACTION>__{CRASH!   The front DOOR breaks down.   Noah appears.}
+<ACTION>__{CRASH! The front DOOR breaks down. Noah appears.}
 <LOC>__{EXT. LOIS FIELD'S MANOR - NIGHT}
 <ACTION>__{Lowrey parks the Porsche.}
 <LOC>__{INT. LOIS FIELD'S MANOR - NIGHT}
@@ -729,21 +729,21 @@
 <DIAL_PAR>__{(as Theresa screams)}
 <DIAL>__{No, Theresa... No, he wasn't talking about you.}
 <LOC>__{INT. LOIS FIELD'S MANOR - UPSTAIRS - NIGHT}
-<ACTION>__{MOVING THROUGH the doors of the master suite where a light breeze blows through balcony of sheer curtains, Lowrey turns ever-so-slowly with his flashlight following a beat behind. The beam comes to rest on a bludgeoned body laying on the bed amongst huge pillows and exotic stuffed animals. The telephone cord is wrapped around her neck. Lowrey's closer inspection reveals -- LOIS'S CLIENT BOOK Where an obvious page   and photo have been ripped out. Julie's. Lowrey goes    for the phone. Picks it up with his handkerchief. No    dial tone. So he drops the receiver and heads out   of the room. But just as he reaches the doorway -- Suddenly -- Lowrey's BEEPER SOUNDS. He jumps.    Reaches down to switch it off when -- From out of those billowing curtains -- Noah! Sledgehammer in hand, he swings at Lowrey, who instinc- tively blocks and ducks as the hammer misses and crushes the bannister railing. It gives under Lowrey's weight, who reaches over and traps the sledgehammer, only to find one of Noah's hammy fists battering him behind the ear until -- The rail finally gives way. Lowrey falls and crashes onto a Craftsman table covered in antique picture frames. It collapses underneath him. Then -- CLOSE ON LOWREY'S RADIO Laying next to him.    It SQUAWKS LOUDLY...}
+<ACTION>__{MOVING THROUGH the doors of the master suite where a light breeze blows through balcony of sheer curtains, Lowrey turns ever-so-slowly with his flashlight following a beat behind. The beam comes to rest on a bludgeoned body laying on the bed amongst huge pillows and exotic stuffed animals. The telephone cord is wrapped around her neck. Lowrey's closer inspection reveals -- LOIS'S CLIENT BOOK Where an obvious page and photo have been ripped out. Julie's. Lowrey goes for the phone. Picks it up with his handkerchief. No dial tone. So he drops the receiver and heads out of the room. But just as he reaches the doorway -- Suddenly -- Lowrey's BEEPER SOUNDS. He jumps. Reaches down to switch it off when -- From out of those billowing curtains -- Noah! Sledgehammer in hand, he swings at Lowrey, who instinc- tively blocks and ducks as the hammer misses and crushes the bannister railing. It gives under Lowrey's weight, who reaches over and traps the sledgehammer, only to find one of Noah's hammy fists battering him behind the ear until -- The rail finally gives way. Lowrey falls and crashes onto a Craftsman table covered in antique picture frames. It collapses underneath him. Then -- CLOSE ON LOWREY'S RADIO Laying next to him. It SQUAWKS LOUDLY...}
 <DIAL_PAR>__{BACK-UP COPS (V.O.) (over radio)}
 <DIAL>__{Pulling up now, twenty-one-two. Give us your twenty in the residence... twenty-one-two. Do you copy. Twenty-one-two...}
 <ACTION>__{The CAMERA LIFTS to reveal that Noah has vanished.}
 <LOC>__{INT. MIAMI PD - SQUAD ROOM - NIGHT}
-<ACTION>__{Howard can't believe his ears.       Is every cop's wife such a pain in the...}
+<ACTION>__{Howard can't believe his ears. Is every cop's wife such a pain in the...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Theresa, I know it was my idea. I know I was the one who wanted a little quality time.  It's just that this can't wait.  Can't I just wake you up when I get home?}
-<ACTION>__{Lowrey's PHONE RINGS.    But Howard's close so he picks it up.}
+<DIAL>__{Theresa, I know it was my idea. I know I was the one who wanted a little quality time. It's just that this can't wait. Can't I just wake you up when I get home?}
+<ACTION>__{Lowrey's PHONE RINGS. But Howard's close so he picks it up.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{It's about fuckin' time.}
 <DIAL_PAR>__{(answers)}
 <DIAL>__{Howard here.}
 <LOC>__{INTERCUT WITH: INT. JULIE'S APARTMENT - JULIE}
-<ACTION>__{This small place is a typical, party girl pit  stop. Very little furniture, but closets overflowing with  clothes. Magazines, beer bottles, unmade bed. Wet and   frightened, Julie scurries around with a cordless phone at  her ear, locking all the doors and windows.}
+<ACTION>__{This small place is a typical, party girl pit stop. Very little furniture, but closets overflowing with clothes. Magazines, beer bottles, unmade bed. Wet and frightened, Julie scurries around with a cordless phone at her ear, locking all the doors and windows.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I need to talk to Detective Lowrey!}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
@@ -753,7 +753,7 @@
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{This isn't another paternity case, is it?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{No.     It's another murder case.}
+<DIAL>__{No. It's another murder case.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{Did this happen at the Biltmore Hotel?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -763,7 +763,7 @@
 <DIAL_PAR>__{(hand over phone)}
 <DIAL>__{Page Lowrey. Find out where he is!}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Theresa.     I gotta go.}
+<DIAL>__{Theresa. I gotta go.}
 <ACTION>__{Burnett hangs up and redials Lowrey's pager.}
 <LOC>__{EXT. LOIS FIELD'S MANOR - NIGHT}
 <ACTION>__{Lowrey, battered and barely conscious, is loaded into an ambulance. His BEEPER SOUNDS.}
@@ -798,10 +798,10 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{How do I know it's Detective Lowrey?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{... 'Cuz I'm Mike Lowrey.      I'm a cop. Wanna see my badge?}
+<DIAL>__{... 'Cuz I'm Mike Lowrey. I'm a cop. Wanna see my badge?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Yes! I wanna see it now! I'm not letting you through the fucking door until I do. Hold it up to the peephole!}
-<ACTION>__{Burnett shows his shield.    Holds it up to the peephole.}
+<ACTION>__{Burnett shows his shield. Holds it up to the peephole.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Anybody can get one of those.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -822,7 +822,7 @@
 <DIAL>__{I'm undercover.}
 <ACTION>__{She doesn't believe him and swings the bat.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Okay.    I'm way undercover.}
+<DIAL>__{Okay. I'm way undercover.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Prove it!}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -835,27 +835,27 @@
 <ACTION>__{She swings again, but he's had enough, he moves quickly, catching the bat with his hand and ripping it away from her.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You know what? You don't wanna believe me? That's fine with me! Go it alone.}
-<ACTION>__{Burnett heads toward the open door.     Julie's veneer drops as she shrinks to the floor.}
+<ACTION>__{Burnett heads toward the open door. Julie's veneer drops as she shrinks to the floor.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I saw it all... I watched him shoot her. Like she was nothing.}
 <DIAL_PAR>__{(trying to hold it together)}
 <DIAL>__{Please shut the door.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You don't got any more golf clubs or bats, do you? Nothin' that you can swing at me, do you?}
-<ACTION>__{She shakes her head.     He carefully steps forward.}
+<ACTION>__{She shakes her head. He carefully steps forward.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Then lemme introduce myself. I'm Mike Lowrey. And I'm here to help you.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{You're not what I expected.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Yeah, well neither are you.      You swing like Barry Bonds.}
+<DIAL>__{Yeah, well neither are you. You swing like Barry Bonds.}
 <ACTION>__{Burnett nods and crosses over to help Julie to her feet.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Alright. Look here, I need to know if you've called anybody. Or if you told anybody else where you are?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{No.   Nobody.}
+<DIAL>__{No. Nobody.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Good.     You got a back door?}
+<DIAL>__{Good. You got a back door?}
 <ACTION>__{Julie nods, scoops up one of her dogs and grabbing another modeling bag off the table.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Where are we going?}
@@ -868,21 +868,21 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(pulls away)}
 <DIAL>__{Whoa! Fuck that. I'll only deal with you. Otherwise, I'll take my chances.}
-<ACTION>__{Burnett's getting a "not again" look on his face when -- KUH-BOOM! A SHOTGUN BLAST blows the front door open.       Clutching the bag, Julie races around the living room.}
+<ACTION>__{Burnett's getting a "not again" look on his face when -- KUH-BOOM! A SHOTGUN BLAST blows the front door open. Clutching the bag, Julie races around the living room.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Let's go!}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Luke?!   Where's my other dog?!}
+<DIAL>__{Luke?! Where's my other dog?!}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Fuck the dog!}
-<ACTION>__{Burnett sees the second dog cowering in the corner.       So he lunges over, scoops the dog up.}
+<ACTION>__{Burnett sees the second dog cowering in the corner. So he lunges over, scoops the dog up.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{FRONT DOOR}
 <ACTION>__{As the remaining parts are kicked in from the outside. It's Casper, Noah and Kuni!}
 <ACTION_ALT>__{BURNETT AND JULIE}
 <ACTION>__{Racing through the apartment toward the back door, Burnett wheels with the GUN and FIRES just as Kuni rounds a corner with the SHOTGUN. The room ERUPTS with plaster spray and NOISE. Julie shrieks, and Burnett shoves her through the back door, then spins and FIRES. Kuni tumbles and dies from multiple hits.}
 <LOC>__{EXT. JULIE'S BACK DOOR - CONTINUOUS ACTION}
-<ACTION>__{Julie leads him down a metal stairway.        BULLETS RICOCHET left and right.}
+<ACTION>__{Julie leads him down a metal stairway. BULLETS RICOCHET left and right.}
 <LOC>__{EXT. ALLEY BESIDE JULIE'S APARTMENT - CONTINUOUS ACTION}
 <ACTION>__{FOLLOW Burnett and Julie as they race through the grungy alley to his station wagon --}
 <LOC>__{EXT. OUTDOOR CAFE - CONTINUOUS ACTION}
@@ -904,7 +904,7 @@
 <DIAL_PAR>__{(cuts him off)}
 <DIAL>__{No way. Listen, no offense, but I don't trust anybody.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   I noticed.}
+<DIAL>__{Yeah. I noticed.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Believe me, it's not a new thing. Especially when my life is at stake. I read the newspaper you know, people disappear all the time.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -913,7 +913,7 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I didn't really think about it. I guess it's your place or a plane ticket. Your place is cheaper. So you choose.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{My place? Okay, good.   No, wait. My place is wrong.}
+<DIAL>__{My place? Okay, good. No, wait. My place is wrong.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Wrong?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -935,7 +935,7 @@
 <DIAL>__{Didn't mention it to me.}
 <ACTION>__{Chet holds out his hand. Burnett slips him ten. Chet sneaks a peek over at the car, sees Julie putting on lipstick.}
 <CHAR>__{CHET} <CHAR_PAR>__{}
-<DIAL>__{Say.   How's that Mrs. Burnett?}
+<DIAL>__{Say. How's that Mrs. Burnett?}
 <ACTION>__{Burnett realizes this is going to cost him more. Gives him another ten. But for Chet it's still not enough.}
 <CHAR>__{CHET} <CHAR_PAR>__{}
 <DIAL>__{Your children good? Mr. Lowrey says you got a regular baby factory goin' over there.}
@@ -956,11 +956,11 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Right. What was your last pick? A horse in the number two race at Pimlico? Or did a bookie give you an inside tip.}
 <ACTION_ALT>__{CLOSE ON WINE RACK}
-<ACTION>__{Which Julie runs her hands across labels.   All French.}
+<ACTION>__{Which Julie runs her hands across labels. All French.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{-- My father invests... Listen. You must be tired --}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{I'll ask you this only   once, Mike. Are you on the take?    And if you say no and I discover   you're lying to me, I'll walk. Are    we clear?}
+<DIAL>__{I'll ask you this only once, Mike. Are you on the take? And if you say no and I discover you're lying to me, I'll walk. Are we clear?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Fair enough. I'm not on the take. Satisfied? Good. So... why don't you make yourself at home? Here's the T.V. remote. Watch yourself some 'Gilligan's Island' reruns or somethin'.}
 <ACTION>__{Hits "ON" button. Instead of TV, the room immediately becomes a seduction den: lights dim, romantic music.}
@@ -993,7 +993,7 @@
 <DIAL>__{Just one more thing.}
 <ACTION>__{Julie steps forward and wraps her arms around Burnett. It's a one-way hug. Uncomfortable, Burnett doesn't reciprocate other than a palsy pat on the back.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Thank you.   For everything.}
+<DIAL>__{Thank you. For everything.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Don't mention it.}
 <ACTION>__{Burnett tries to break toward the door when the PHONE RINGS. Burnett stares at the phone, not knowing what to do.}
@@ -1009,7 +1009,7 @@
 <DIAL>__{It's uh... It's uh...}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{You don't have to explain.}
-<ACTION>__{Finally, they've reached consensus.     Burnett grins and is out the door.}
+<ACTION>__{Finally, they've reached consensus. Burnett grins and is out the door.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Lock the door. Don't open it for anybody.}
 <LOC>__{INT. LOBBY - NIGHT}
@@ -1034,18 +1034,18 @@
 <DIAL>__{And you just happened to lose your wedding ring -- 'on the job?!'}
 <ACTION>__{He looks down at his ringless finger --}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{No!   No!    I got it right here...}
+<DIAL>__{No! No! I got it right here...}
 <ACTION>__{He hastily fishes into his jacket pocket, but too late -- Doris slams the door in his face, LOCKS it. OFF Burnett's pained expression --}
 <LOC>__{INT. MIAMI PD - HALLWAY - DAY}
 <ACTION>__{Burnett and Lowrey on the move.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{If you were a real partner, instead of some no-backup, hot doggin', car chasin', skirt sniffin' motherfucker, I would be gettin' down to business with my wife instead of stuck in this situation.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   Thanks for the get-well card.}
+<DIAL>__{Yeah. Thanks for the get-well card.}
 <LOC>__{INT. POLICE BASKETBALL GYM}
 <ACTION>__{Howard is in sweats, awkwardly shooting free throws as his morning workout. Parked on either side of the hoop, Lowrey and Burnett patiently retrieve each missed ball and send it back to him.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Chief. I tried to set   the girl up with a sketch artist  but she won't. I tried to get   her to come in and look at the mug  books and she won't come in.}
+<DIAL>__{Chief. I tried to set the girl up with a sketch artist but she won't. I tried to get her to come in and look at the mug books and she won't come in.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{She'll only deal with Mike Lowrey.}
 <ACTION>__{He tosses a brick.}
@@ -1063,19 +1063,19 @@
 <DIAL_PAR>__{(brick)}
 <DIAL>__{Until she I.D.s the shotters, he's Mike Lowrey. Could take a coupla hours. Could take all day. You got a computer with a modem?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Big computer.    Expensive --}
+<DIAL>__{Big computer. Expensive --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I got a computer and you shouldn't touch it. It took me weeks to get it set up the way I want it and I don't want amateurs messing with it.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(brick number four)}
 <DIAL>__{Burnett. I'll have Francine give you the user code for the computer files and you can run pictures for the girl on Lowrey's super duper computer.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{So what about me? I can't    tell my wife I'm shacked up with a   female witness! Besides, I think    they made my car last night... I   gotta stay close to home, just in   case.}
+<DIAL>__{So what about me? I can't tell my wife I'm shacked up with a female witness! Besides, I think they made my car last night... I gotta stay close to home, just in case.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{Easy. Lowrey moves into your house. And you're on special assignment.}
 <ACTION>__{Another brick.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{No way!   I'm not living in that zoo.}
+<DIAL>__{No way! I'm not living in that zoo.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{My house ain't no zoo!}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
@@ -1092,7 +1092,7 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Honey. I wouldn't go if I didn't have the most trustworthy man I know to look after my family...}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
-<DIAL>__{Oh, no,   Not Lowrey. Not in my house.}
+<DIAL>__{Oh, no, Not Lowrey. Not in my house.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Yes, Lowrey. I trust him with my life and, I most certainly trust him with yours.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
@@ -1108,18 +1108,18 @@
 <ACTION>__{Burnett climbs in, waves out the window.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Bye-bye, Theresa. Be good, kids.}
-<ACTION>__{Lowrey joins Theresa on the porch.    Mockingly he puts his arm around her and waves.}
+<ACTION>__{Lowrey joins Theresa on the porch. Mockingly he puts his arm around her and waves.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Why's he taking your car?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(seething)}
-<DIAL>__{He's dropping it off at the mechanic on the way to the airport. The engine  needs an overhaul... or will by the time he gets there.}
+<DIAL>__{He's dropping it off at the mechanic on the way to the airport. The engine needs an overhaul... or will by the time he gets there.}
 <ACTION>__{The Porsche heads down the block with a GRINDING of GEARS. Lowrey winces and heads for the Volvo when Theresa gets in his way.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Where you think you're going? I got a list here of things that Marcus was supposed --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{-- that Marcus was supposed to do. That's right. Marcus. Not Mike. 'Cuz Mike's a cop on a case with no time to waste.}
-<ACTION>__{Lowrey's in the Volvo and pulling away as fast as he can. &                                                                 &}
+<ACTION>__{Lowrey's in the Volvo and pulling away as fast as he can. & &}
 <LOC>__{110 EXT. BOATYARD - ESTABLISHING - DAY}
 <ACTION>__{One of Miami's famous canals, derelict ships are docked and rusting. One such ship, an old freighter called the Mariana.}
 <LOC>__{INT. FREIGHTER - LAB - DAY}
@@ -1136,9 +1136,9 @@
 <CHAR>__{ELLIOT} <CHAR_PAR>__{}
 <DIAL>__{There's too much moisture down here. The pies are taking longer to cook than we originally planned.}
 <CHAR>__{WALLY} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   It's totally fucked.}
+<DIAL>__{Yeah. It's totally fucked.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
-<DIAL>__{You.  Shut up.}
+<DIAL>__{You. Shut up.}
 <DIAL_PAR>__{(back to Elliot)}
 <DIAL>__{Now, listen, you little pussy. We're not making pizza.}
 <CHAR>__{FOUCHET } <CHAR_PAR>__{(CONT'D)}
@@ -1158,13 +1158,13 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{That you, Mike?}
 <CHAR>__{BURNETT } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Yeah.    It's me. Mike.}
+<DIAL>__{Yeah. It's me. Mike.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{At least your timing's good. Can you bring me the lotion on the nightstand?}
-<ACTION>__{Burnett enters.    Julie has a towel wrapped around her body.}
+<ACTION>__{Burnett enters. Julie has a towel wrapped around her body.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Thanks.   So I was thinking...}
-<ACTION>__{Julie, obviously free with her body, suddenly drops the towel and starts applying lotion. Burnett averts his eyes, turning around a full one-eighty, but finds himself facing a mirror. Oops. Looks left, another shiny surface.   Shit.}
+<DIAL>__{Thanks. So I was thinking...}
+<ACTION>__{Julie, obviously free with her body, suddenly drops the towel and starts applying lotion. Burnett averts his eyes, turning around a full one-eighty, but finds himself facing a mirror. Oops. Looks left, another shiny surface. Shit.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to himself)}
 <DIAL>__{Crazy fuckin' woman.}
@@ -1190,7 +1190,7 @@
 <CHAR>__{JULIE } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Mike? I borrowed a T-shirt and some boxer shorts until we can somehow get back over to my place to pick up some clothes.}
 <LOC>__{INT. BEDROOM - CONTINUOUS ACTION}
-<ACTION>__{Burnett exits the closet to find Julie   brushing out her wet hair, wearing nothing but what she   described, a T- shirt and pair of Lowrey's boxers tied   up with a shoe string. This ensemble never looked so    good.}
+<ACTION>__{Burnett exits the closet to find Julie brushing out her wet hair, wearing nothing but what she described, a T- shirt and pair of Lowrey's boxers tied up with a shoe string. This ensemble never looked so good.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Mug shots. We got mug shots to look at. 'Scuse me, I gotta hook into the P.D. computer.}
 <ACTION>__{He heads out of the bedroom.}
@@ -1201,7 +1201,7 @@
 <DIAL>__{That guy? Well, that's Marcus Burnett, my partner.}
 <ACTION>__{Burnett gets closer and must look around until he finds the singular photo of the two of them. It's in a shitty frame, too.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{There's the two of us, see?     Me'n'...}
+<DIAL>__{There's the two of us, see? Me'n'...}
 <DIAL_PAR>__{(gestures to photos)}
 <DIAL>__{... My partner.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1218,7 +1218,7 @@
 <DIAL>__{Okay, but Mike. This is like a lot of pictures. I mean, this isn't something by the bedstand. This is a whole wall... And I know Max said you were just friends. That's why I was thinking, maybe... you could be... gay.}
 <ACTION>__{Burnett reacts, then recovers with...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Me? Gay?   Are you outta your mind?}
+<DIAL>__{Me? Gay? Are you outta your mind?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I didn't mean to offend you.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -1249,8 +1249,8 @@
 <DIAL_PAR>__{(stops chewing)}
 <DIAL>__{It's just bologna.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{It was alive. Some farmer  fed it. Got it to trust him. Then  blew its brains out, dumped it in a cement mixer with a ton of carcinogens and now you're   eating it.}
-<ACTION>__{Burnett never looked at it that way.     He starts to put it down.}
+<DIAL>__{It was alive. Some farmer fed it. Got it to trust him. Then blew its brains out, dumped it in a cement mixer with a ton of carcinogens and now you're eating it.}
+<ACTION>__{Burnett never looked at it that way. He starts to put it down.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{No. At least finish it so I won't have to look at it.}
 <DIAL_PAR>__{(back to the screen)}
@@ -1260,11 +1260,11 @@
 <DIAL>__{Wait. Hold it. Go back... That's him! That's one of 'em.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You sure?}
-<ACTION>__{Julie nods.    She's certain.}
+<ACTION>__{Julie nods. She's certain.}
 <LOC>__{INT. BURNETT HOUSE - DEN - NIGHT}
 <ACTION>__{Lowrey is on the phone.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Captain Howard, please.    It's Lowrey.}
+<DIAL>__{Captain Howard, please. It's Lowrey.}
 <CHAR>__{MEGAN } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Uncle Mike --}
 <ACTION>__{Lowrey looks down to find little Megan pulling at his leg. She shows a picture book.}
@@ -1287,7 +1287,7 @@
 <DIAL_PAR>__{(turns page)}
 <DIAL>__{Captain Howard poops. Even doggies poop.}
 <LOC>__{INT. LOWREY'S CONDO - NIGHT}
-<ACTION>__{Burnett is cleaning up dog shit    from one of Lowrey's Persian rugs. The stain won't     come out. So Burnett tries a can that he's grabbed.     It foams. Julie appears with a pile of clean laundry in    hand.}
+<ACTION>__{Burnett is cleaning up dog shit from one of Lowrey's Persian rugs. The stain won't come out. So Burnett tries a can that he's grabbed. It foams. Julie appears with a pile of clean laundry in hand.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Your dog took a shit.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1297,7 +1297,7 @@
 <DIAL>__{Lemon Pledge.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Well, that makes a big difference. You just varnished that into the fabric. I'm sure it works great.}
-<ACTION>__{Burnett doesn't quite know what    to do with the wad of dog poop in paper towels still    in his hand. Julie snatches it from him and heads    for the bathroom. Burnett follows. He suddenly realizes     that the clean clothes are his.}
+<ACTION>__{Burnett doesn't quite know what to do with the wad of dog poop in paper towels still in his hand. Julie snatches it from him and heads for the bathroom. Burnett follows. He suddenly realizes that the clean clothes are his.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You cleaned my clothes?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1311,7 +1311,7 @@
 <DIAL_PAR>__{(shyly)}
 <DIAL>__{I had a little accident.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{This is my favorite shirt.   My lucky shirt.}
+<DIAL>__{This is my favorite shirt. My lucky shirt.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Sorry.}
 <ACTION>__{As Burnett starts to walk away...}
@@ -1332,14 +1332,14 @@
 <CHAR>__{LOWREY } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{... so your daddy and I are trapped in this crack house in Little Havana. These dudes were real mean mothers... and they start coming at us with knives... Now I'm scared, thinkin' I'm out for the count when in comes your daddy like a Miami hurricane --}
 <ACTION_ALT>__{THERESA}
-<ACTION>__{Standing in the doorway.   Hands on her hips.}
+<ACTION>__{Standing in the doorway. Hands on her hips.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Oh, hi, Theresa. Just tellin' the kids about --}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Thank you, but I'll tuck the kids in. Say good night to Uncle Mike.}
 <CHAR>__{QUINCY} <CHAR_PAR>__{}
 <DIAL>__{But we want to hear the rest of the story...}
-<ACTION>__{Theresa silences Quincy with a look.   Sensing his cue, Lowrey kisses the kids.}
+<ACTION>__{Theresa silences Quincy with a look. Sensing his cue, Lowrey kisses the kids.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{G'night, gang.}
 <CHAR>__{QUINCY AND JILL} <CHAR_PAR>__{}
@@ -1383,7 +1383,7 @@
 <LOC>__{INT. POLICE STATION - HALLWAY - DAY}
 <ACTION>__{Lowrey and Burnett on a roll.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{I'm tellin' you, I've      had it with this witness. I wanna       go home and get back to my life as      it was. I got married so I could      stop lyin'.}
+<DIAL>__{I'm tellin' you, I've had it with this witness. I wanna go home and get back to my life as it was. I got married so I could stop lyin'.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Oh, please. Big fucking deal. You know what I had to do? I drove your kids to school this morning. Your son forgot his homework. So I had to drive him all the way back in that junker of yours --}
 <DIAL_PAR>__{(as if looking at}
@@ -1394,12 +1394,12 @@
 <DIAL>__{Yeah. I know, it's a little big on me. But cool. I figure, what about it? If I'm gonna be Mike, might as well dress like Mike!}
 <DIAL_PAR>__{(singing)}
 <DIAL>__{I wanna be, I wanna be like Mike. Swish.}
-<ACTION>__{Lowrey's BEEPER SOUNDS.    He checks out the number.}
+<ACTION>__{Lowrey's BEEPER SOUNDS. He checks out the number.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Ugh.   I gotta call the wife.}
+<DIAL>__{Ugh. I gotta call the wife.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{The wife?}
-<ACTION>__{Lowrey finds the nearest phone and dials.      Burnett is thinking Theresa?}
+<ACTION>__{Lowrey finds the nearest phone and dials. Burnett is thinking Theresa?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, what's up, baby. Uh-huh.}
 <DIAL_PAR>__{(pulls out notepad)}
@@ -1414,7 +1414,7 @@
 <DIAL>__{You're so silly.}
 <ACTION>__{Burnett's burning now.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{So, baby.   What you wearin'?}
+<DIAL>__{So, baby. What you wearin'?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Gimme that phone.}
 <DIAL_PAR>__{(grabs it)}
@@ -1438,7 +1438,7 @@
 <DIAL>__{You think you know what Theresa needs, man, but I do this every month.}
 <DIAL_PAR>__{(challenges)}
 <DIAL>__{Just look for 'Fresh Days.'}
-<ACTION>__{Lowrey moves ahead.   There's too much to look at.}
+<ACTION>__{Lowrey moves ahead. There's too much to look at.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{You're unbalanced. Listen, I read the parole jacket on this guy Noah. Armed robbery. Attempted murder. He's a violent offender somethin' like nine times. Sweet guy. Not a single drug bust on his sheet.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -1462,7 +1462,7 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Here it is. Fresh Days. You pay for it.}
 <LOC>__{EXT. GRUNGY TRAILER PARK - DAY}
-<ACTION>__{Burnett and Lowrey park and pop the trunk.    Inside are guns and uniforms.}
+<ACTION>__{Burnett and Lowrey park and pop the trunk. Inside are guns and uniforms.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{What are we gonna be today? Postal Inspectors or Water and Power?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
@@ -1470,12 +1470,12 @@
 <LOC>__{EXT. TRAILER - DAY}
 <ACTION>__{Approaching are Burnett and Lowrey, but now they're dressed in shorts and T-shirts with bright orange vests and caps reading "Water and Power." And as Lowrey knocks on the door.}
 <ACTION_ALT>__{CLOSE ON HEAVY LINK CHAIN}
-<ACTION>__{Wrapped around a pink refrigerator.    It moves.}
+<ACTION>__{Wrapped around a pink refrigerator. It moves.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{What do you think the chain's for?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{I dunno. Maybe some kind of hurricane anchor.}
-<ACTION>__{They knock again.    The chain jerks slightly.}
+<ACTION>__{They knock again. The chain jerks slightly.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Well, the anchor just moved.}
 <ACTION>__{Both turn and look. And the chain is moving. At first, it simply sways back and forth, then it pulls taut and the FRIDGE JOLTS! A deep, GUTTURAL NOISE sounds. From around the corner, a shadow grows large. Lowrey and Burnett instinctively withdraw their guns and aim just as a LION rounds the corner, teeth bared, claws tearing at the deck. The door swings open. Burnett pushes Lowrey inside just as the big cat lunges.}
@@ -1525,15 +1525,15 @@
 <DIAL_PAR>__{(turns around for Burnett)}
 <DIAL>__{What do you think?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Very nice.   The occasion?}
+<DIAL>__{Very nice. The occasion?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{He said we were going to a club tonight.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Yes. We were going to a club.     As in me and my partner.}
+<DIAL>__{Yes. We were going to a club. As in me and my partner.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Oh,  that's fuckin' swell! And you call  this protective custody? I'm here  all day. I'm alone and scared. And  all I got to protect me is Chet the  doorman --}
+<DIAL>__{Oh, that's fuckin' swell! And you call this protective custody? I'm here all day. I'm alone and scared. And all I got to protect me is Chet the doorman --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{What's that on the rug?    Looks like... a stain?}
+<DIAL>__{What's that on the rug? Looks like... a stain?}
 <ACTION>__{Teeth grit.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{It was my babies, Luke and Duke. They get nervous in new surroundings. I offered to pay for the cleaning, but Mike wouldn't hear of it --}
@@ -1567,7 +1567,7 @@
 <DIAL>__{How did you get in here?}
 <ACTION>__{Julie and Lowrey return from the bedroom.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
-<DIAL>__{I have a key.     But, Mike...}
+<DIAL>__{I have a key. But, Mike...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispers)}
 <DIAL>__{Maybe you should call first next time. What's your name?}
@@ -1614,7 +1614,7 @@
 <DIAL_PAR>__{(turns and orders)}
 <DIAL>__{When they split up, we'll drop the tall one and get the other one to lead us to the girl.}
 <LOC>__{INT. CLUB HELL - NIGHT}
-<ACTION>__{Lowrey and Burnett move to the bar.   There's a huge fishtank behind it.}
+<ACTION>__{Lowrey and Burnett move to the bar. There's a huge fishtank behind it.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{I say we split the room in half. Make our own moves. Hook back up at the bar in twenty minutes.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -1640,27 +1640,27 @@
 <LOC>__{INT. CLUB HELL - MEN'S ROOM - NIGHT}
 <ACTION>__{And, believe it or not, the other side of the fishtank behind the bar. Burnett's at the urinal, blissfully relieving himself when Casper appears at his side. There's that awkward men-don't-talk-at-the-urinal moment until Burnett leans over...}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Oh, man.     Budweiser...}
+<DIAL>__{Oh, man. Budweiser...}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
 <DIAL>__{Excuse me?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Musta drank about a million Budweisers tonight, waitin' for my ol' friend Noah to show. Wouldn't know him, would ya? Guy practically raised me up from nothin'.}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
-<DIAL>__{Sorry.   Never heard of him.}
+<DIAL>__{Sorry. Never heard of him.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Too bad.}
 <ACTION>__{Burnett shrugs, zips and reaches to flush when --}
 <ACTION_ALT>__{CLOSE ON GARBAGE BAG}
-<ACTION>__{Which Casper wraps around Burnett's head.       Burnett gags.}
+<ACTION>__{Which Casper wraps around Burnett's head. Burnett gags.}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
-<DIAL>__{Okay, hardon!    Tell me where the girl is!}
+<DIAL>__{Okay, hardon! Tell me where the girl is!}
 <ACTION>__{Casper slams Burnett into the mirror. Burnett struggles, reaching for anything, he comes up with the towel dis- penser, rips it from the wall and starts pounding over Casper's head.}
 <LOC>__{INT. BAR}
 <ACTION>__{Lowrey sips on a beer, totally unaware of what's happening on the other side of the fishtank.}
 <LOC>__{INT. MEN'S ROOM}
 <ACTION>__{Burnett rips the bag off his head, reaches for his gun. But Casper's there, lunging into him and lifting him up and into the fishtank.}
 <LOC>__{INT. BAR - LOWREY}
-<ACTION>__{He's been watching the  fish in the tank, but turns back toward the bar just at  the moment of Burnett's impact. The tank cracks on the  bathroom side and water begins draining, unbeknownst  to Lowrey. &                                                                     &}
+<ACTION>__{He's been watching the fish in the tank, but turns back toward the bar just at the moment of Burnett's impact. The tank cracks on the bathroom side and water begins draining, unbeknownst to Lowrey. & &}
 <LOC>__{150 INT. MEN'S ROOM - BURNETT AND CASPER}
 <ACTION>__{Burnett's gun lays amongst the flapping carp and sea- weed on the floor. Both Burnett and Casper go sliding across the wet floor and into a stall -- both reaching for the gun. Burnett's there a second too late. Casper's got the gun. He swings it onto Burnett and squeezes the trigger. But nothing happens. Burnett in turn, grabs Casper's ears and hammers the big guy's head into the toilet until he falls unconscious. Burnett picks up his gun.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -1671,7 +1671,7 @@
 <LOC>__{INT. CLUB HELL - OPPOSITE BAR}
 <ACTION>__{Ferguson and Noah split wide and start their move on Lowrey.}
 <ACTION_ALT>__{LOWREY AT BAR}
-<ACTION>__{He sees Julie charging across the dance floor.   She's heading right for him.}
+<ACTION>__{He sees Julie charging across the dance floor. She's heading right for him.}
 <LOC>__{INT. CLUB HELL OFFICE - FOUCHET}
 <ACTION>__{He's watching Ferguson and Noah moving in for the kill when Fouchet's POV SHIFTS from the dance floor TO Julie.}
 <ACTION_ALT>__{CLOSE ON FOUCHET}
@@ -1681,7 +1681,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{What the hell are you doing here?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{The guy who killed Max.   I remember something he said!}
+<DIAL>__{The guy who killed Max. I remember something he said!}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(starts moving her toward exit)}
 <DIAL>__{Well, whatever he said, you remember to tell me later.}
@@ -1691,14 +1691,14 @@
 <DIAL>__{Three little angels! The guy who killed Max said 'three little --}
 <ACTION>__{Julie sees Noah and freezes.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{The music's too loud.    What you say about angels?}
-<ACTION>__{Noah closes the gap.    Through the crowd he draws down on Lowrey.}
+<DIAL>__{The music's too loud. What you say about angels?}
+<ACTION>__{Noah closes the gap. Through the crowd he draws down on Lowrey.}
 <LOC>__{INT. CLUB OFFICE - NIGHT}
 <ACTION>__{He pounds on the window.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{Forget the cop. Kill the girl!}
 <LOC>__{INT. CLUB DANCE FLOOR}
-<ACTION>__{Julie pulls the gun from her purse, shuts her eyes and starts FIRING wildly. BAM, BAM, BAM, BAM, BAM! The gun bucks and each shot goes wildly high.   Noah dives for the floor.}
+<ACTION>__{Julie pulls the gun from her purse, shuts her eyes and starts FIRING wildly. BAM, BAM, BAM, BAM, BAM! The gun bucks and each shot goes wildly high. Noah dives for the floor.}
 <LOC>__{INT. CLUB OFFICE - FOUCHET}
 <ACTION>__{He hits the deck as the WINDOW is SHATTERED by a random bullet.}
 <LOC>__{INT. CLUB DANCE FLOOR - BACK TO SCENE}
@@ -1718,13 +1718,13 @@
 <DIAL>__{No shit!}
 <ACTION>__{Meanwhile, Noah's on his feet and hauling ass out of the club.}
 <ACTION_ALT>__{BURNETT AND FERGUSON}
-<ACTION>__{Burnett sees that Noah's on the run. So he cold-cocks Ferguson with the butt of his pistol and joins the chase. &                                                                &}
+<ACTION>__{Burnett sees that Noah's on the run. So he cold-cocks Ferguson with the butt of his pistol and joins the chase. & &}
 <LOC>__{161 EXT. CLUB HELL - LOWREY, BURNETT, AND JULIE - NIGHT}
 <ACTION>__{Appear at the door, charging down the steps toward the valet and commandering a Taurus that just pulled up. All three dive in. Burnett behind the wheel.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Lemme drive!}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{I'm driving.     Buckle up.}
+<DIAL>__{I'm driving. Buckle up.}
 <ACTION>__{Burnett hits the gas, the CAR SCREAMS around in a tight circle just as -- SLAM! -- Noah's sedan backs wildly across the road and crunches them. Noah throws a SHOTGUN over the back seat of his car and FIRES through the rear window. BLAM! Everybody ducks. Safety glass flies before Noah shifts gears and drives on.}
 <LOC>__{EXT. MIAMI STREET - NOAH'S CAR - NIGHT}
 <ACTION>__{Noah's already up to 70 MPH, races through a yellow light, hangs a left. As the light turns red --}
@@ -1753,11 +1753,11 @@
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. MIAMI STREET - GAS STATION - BURNETT, LOWREY AND}
 <ACTION_ALT>__{JULIE}
-<ACTION>__{Just getting out of the car as the station blows.    They shield themselves against the explosion.}
+<ACTION>__{Just getting out of the car as the station blows. They shield themselves against the explosion.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{There goes our only lead to the dope. We better call Howard.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{That's it. That's it.   You're both crazy.}
+<DIAL>__{That's it. That's it. You're both crazy.}
 <ACTION>__{Julie takes a few steps away before she decides to give them the other barrel.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Protect and serve. Sound familiar? Isn't that what you're supposed to do? 'Cuz I'd like to know whose butt you're protecting.}
@@ -1781,33 +1781,33 @@
 <DIAL>__{That's what I'm afraid of.}
 <ACTION>__{Once again, Julie pulls away. But Lowrey's got her tight... and close. He digs deep.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Hey. What do I gotta say?     I need you, okay?}
+<DIAL>__{Hey. What do I gotta say? I need you, okay?}
 <DIAL_PAR>__{(then for real)}
 <DIAL>__{I need you.}
-<ACTION>__{Magic words.   Julie's swayed, despite herself.}
+<ACTION>__{Magic words. Julie's swayed, despite herself.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Do they teach charm at the academy?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Nah. Some smooth shit I got on my own.}
 <ACTION>__{He puts his arm around her and they walk back.}
 <LOC>__{EXT. GAS STATION - AFTERMATH - NIGHT}
-<ACTION>__{Police units surround  -- flashing lights. Julie is shaken, waiting in the  back of a police unit. Meanwhile, Ruiz and Sanchez join  Burnett and Lowrey at the trunk of the toasted car. The   fire crew crowbars open the lid. The trunk gives way to  a ghastly, toxic smell. Everyone gags.}
+<ACTION>__{Police units surround -- flashing lights. Julie is shaken, waiting in the back of a police unit. Meanwhile, Ruiz and Sanchez join Burnett and Lowrey at the trunk of the toasted car. The fire crew crowbars open the lid. The trunk gives way to a ghastly, toxic smell. Everyone gags.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Jesus.   What kinda shit was in there?}
+<DIAL>__{Jesus. What kinda shit was in there?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Smells like some kinda chemical.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{We'll get a sample and drop it back at the lab. Meanwhile, why don't you two go on back to Club Hell and see what you can dig up on these bad guys.}
-<ACTION>__{thru                                                                thru}
+<ACTION>__{thru thru}
 <LOC>__{180 INT. BURNETT HOUSE - UPSTAIRS - NIGHT}
 <ACTION>__{As Lowrey is checking the upstairs, he finds himself staring in on the sleeping kids.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{One day, bro.    Gotta get yourself some of them.}
+<DIAL>__{One day, bro. Gotta get yourself some of them.}
 <ACTION>__{Lowrey hears SOBBING. He gently shuts the kids' door and heads down the hall to the:}
 <ACTION_ALT>__{MASTER BEDROOM}
-<ACTION>__{Where Theresa sits amongst boxes of new clothes.   Lowrey gives a polite rap on the door.}
+<ACTION>__{Where Theresa sits amongst boxes of new clothes. Lowrey gives a polite rap on the door.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Hey, hey.   That's not cryin' I hear.}
+<DIAL>__{Hey, hey. That's not cryin' I hear.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(wipes tears)}
 <DIAL>__{Oh, it's nothing... I just bought some clothes. It's been so long since I bought anything nice... I just wanted something to wear for Marcus when he got home. But nothing looks right...}
@@ -1816,7 +1816,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sits next to her)}
 <DIAL>__{Theresa. Listen to me. Nobody's slipping away from you. Especially not Marcus. You can take my word on that... As for the clothes...}
-<ACTION>__{Lowrey pulls a random item out of a box.   It's hideous.}
+<ACTION>__{Lowrey pulls a random item out of a box. It's hideous.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Okay. Just a minor fashion faux paux. Those cappuccinos at lunch can do that to you... See what else we got here.}
 <LOC>__{INT. LOWREY'S CONDO - NIGHT}
@@ -1829,7 +1829,7 @@
 <DIAL>__{That's perfectly alright --}
 <ACTION>__{Julie suddenly flops on the bed, wearing a gorgeous nightgown.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{So, Mike.   Can I ask you something?}
+<DIAL>__{So, Mike. Can I ask you something?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Sure.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1845,11 +1845,11 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{You do?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Well Marcus. He's very   something ... sexy. And the way I   came in tonight, he was throwing  everybody this way and that and he  took control.}
+<DIAL>__{Well Marcus. He's very something ... sexy. And the way I came in tonight, he was throwing everybody this way and that and he took control.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Well, I drove.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{I know.   You drove well.}
+<DIAL>__{I know. You drove well.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{I shot the gas tank on the car.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1857,7 +1857,7 @@
 <DIAL_PAR>__{(bites her lip)}
 <DIAL>__{Something about him... His wife. What's her name?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Theresa.   Why?}
+<DIAL>__{Theresa. Why?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I'll bet Theresa is takin' care of business right now.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -1867,7 +1867,7 @@
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Funny?}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{I don't know.    Do you feel a little funny?}
+<DIAL>__{I don't know. Do you feel a little funny?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Yeah... I feel a little funny.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -1884,7 +1884,7 @@
 <LOC>__{INT. MASTER BEDROOM - NIGHT}
 <ACTION>__{Lowrey is admiring his work.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{That's right.    Turn around.}
+<DIAL>__{That's right. Turn around.}
 <ACTION>__{Theresa turns, looking transformed in the outfit put together by Lowery.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{You think he'll like it? I mean, I want him to, you know, want to...}
@@ -1900,13 +1900,13 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Usually the guy throws me out after he fucks me.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{I'm different. I'm a cop.     And now I gotta kill a guy.}
+<DIAL>__{I'm different. I'm a cop. And now I gotta kill a guy.}
 <LOC>__{INT. BURNETT HOUSE - NIGHT}
 <ACTION>__{From the top of the stairs we see and hear...}
 <CHAR>__{KIDS} <CHAR_PAR>__{}
 <DIAL>__{G'night, Uncle Mike.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   Good night, Uncle Mike.}
+<DIAL>__{Yeah. Good night, Uncle Mike.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{G'night, everybody.}
 <ACTION>__{Lowrey's at the window. Parked just down the street is the same sedan. He goes for the phone and dials. Waits for an answer.}
@@ -1938,7 +1938,7 @@
 <LOC>__{EXT. SIDE YARD - BURNETT}
 <ACTION>__{He climbs the trellis to second story; boosts himself onto ledge, inches along. Stops to peer into a window when the ledge under his feet crumbles and...}
 <ACTION_ALT>__{BURNETT}
-<ACTION>__{falls. Landing flat on his back on the awning. His eyes close with a look that says "saved." But then as he moves. Something CREAKS. C193                                                              C193}
+<ACTION>__{falls. Landing flat on his back on the awning. His eyes close with a look that says "saved." But then as he moves. Something CREAKS. C193 C193}
 <LOC>__{INT. THERESA'S BEDROOM - NIGHT}
 <ACTION>__{Theresa hears SOMETHING and runs to the door and calls out.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
@@ -1961,22 +1961,22 @@
 <LOC>__{EXT. THERESA'S BEDROOM WINDOW - BURNETT'S POV}
 <ACTION>__{He sees Lowrey in his underwear and Theresa in her night- gown as they part the curtains and look out.}
 <LOC>__{EXT. SIDE YARD - BURNETT}
-<ACTION>__{In the bushes.   He assumes the worst.}
+<ACTION>__{In the bushes. He assumes the worst.}
 <LOC>__{INT. THERESA'S BEDROOM - NIGHT}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Go into the kids' room, turn the lights out and wait there until I come get you.}
 <LOC>__{INT. LIVING ROOM - NIGHT}
 <ACTION>__{Lowrey takes gun from holster, slams in clip.}
 <LOC>__{EXT. FRONT YARD - NIGHT}
-<ACTION>__{Lowrey switches off the porch lights as he exits house, gun ready. Without warning, Burnett leaps from the bushes onto Lowrey's back. LOWREY'S GUN Tumbles into the flower bed. Lowrey reels with     an elbow, dropping Burnett to the lawn. But Burnett rolls     and clips Lowrey's legs. Lowrey falls. Crawls for      his gun. Gets hold of it, turns and is ready to fire when    --}
+<ACTION>__{Lowrey switches off the porch lights as he exits house, gun ready. Without warning, Burnett leaps from the bushes onto Lowrey's back. LOWREY'S GUN Tumbles into the flower bed. Lowrey reels with an elbow, dropping Burnett to the lawn. But Burnett rolls and clips Lowrey's legs. Lowrey falls. Crawls for his gun. Gets hold of it, turns and is ready to fire when --}
 <ACTION_ALT>__{CAR}
-<ACTION>__{drives past.   The headlights, revealing Burnett.}
+<ACTION>__{drives past. The headlights, revealing Burnett.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Marcus!   What the fuck --}
+<DIAL>__{Marcus! What the fuck --}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{... You doin' Theresa?    Theresa!}
+<DIAL>__{... You doin' Theresa? Theresa!}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{What?   Me and Theresa?}
+<DIAL>__{What? Me and Theresa?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{I hope you used protection... 'cause I don't want a fourth kid that looks like you!}
 <ACTION>__{Lowrey hauls back and belts him. Burnett tears into Lowrey and the two roll around on the lawn.}
@@ -1991,7 +1991,7 @@
 <DIAL_PAR>__{(picks up a snail)}
 <DIAL>__{And I suppose this isn't here? You were going to put Snail Guard on the lawn, remember?}
 <CHAR>__{THERESA } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Mike?   Are you okay!}
+<DIAL>__{Mike? Are you okay!}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{I'm fine, Theresa!}
 <DIAL_PAR>__{(whispers)}
@@ -2012,18 +2012,18 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Good. So who do you think's in there? Ed McMahon come to tell us we're sweepstakes winners?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Okay.   What are we doing about it?}
+<DIAL>__{Okay. What are we doing about it?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{We're doing nothing. I've got it handled. In the meantime, you better get back to where you belong before I shoot you myself.}
 <ACTION>__{Lowrey holds and watches Burnett run off to the Porsche, keeping the sedan in his periphery the entire time.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. STREET - PORSCHE - NIGHT}
-<ACTION>__{It pulls out and drives right past the sedan.    Julie in full, animated view.}
+<ACTION>__{It pulls out and drives right past the sedan. Julie in full, animated view.}
 <LOC>__{INT. SEDAN - FERGUSON AND CASPER}
 <ACTION>__{Casper sees the girl.}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
-<DIAL>__{Sonofabitch!   There's the girl!}
-<ACTION>__{But just as they start the car.    KUH-THUNK -- the CAR lurches.}
+<DIAL>__{Sonofabitch! There's the girl!}
+<ACTION>__{But just as they start the car. KUH-THUNK -- the CAR lurches.}
 <CHAR>__{FERGUSON} <CHAR_PAR>__{}
 <DIAL>__{What the fuck?}
 <LOC>__{EXT. BURNETT'S STREET - NIGHT}
@@ -2045,16 +2045,16 @@
 <DIAL>__{'Evening, Mr. Lowrey. May I have a word with you?}
 <DIAL_PAR>__{(pulls him aside)}
 <DIAL>__{I was thinking that... maybe I could see your gun. See, we don't allow guns up in the apartments. Mr. Lowrey usually checks his, here, at the desk with me... You want me to check yours?}
-<ACTION>__{Burnett pulls his gun. But doesn't hand it to Chet.        He sticks it in Chet's face.}
+<ACTION>__{Burnett pulls his gun. But doesn't hand it to Chet. He sticks it in Chet's face.}
 <CHAR>__{CHET} <CHAR_PAR>__{}
-<DIAL>__{Oh, okay.   It's just an option.}
+<DIAL>__{Oh, okay. It's just an option.}
 <ACTION>__{Burnett grabs Julie's hand and heads for the elevators.}
 <LOC>__{INT. NARCOTICS DIVISION - SQUAD ROOM - DAY}
 <ACTION>__{A cigar-smoking Sinclair supervises the lock-down of the Special Narcotics Unit. Desks are being locked by IA suits.}
 <ACTION_ALT>__{BURNETT AND LOWREY}
-<ACTION>__{enter.   Just as file cabinets are hand-trucked by them.}
+<ACTION>__{enter. Just as file cabinets are hand-trucked by them.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Hey.   What's goin' on here?}
+<DIAL>__{Hey. What's goin' on here?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Wait a minute. That's my desk!}
 <ACTION>__{Lowrey's going to make a move on Sinclair when Howard appears.}
@@ -2083,7 +2083,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Or one really smart sonofabitch.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
-<DIAL>__{We're    in the shit, boys. And there    ain't gonna be any more time cards    for this unit unless somebody pulls    a miracle out of their ass.}
+<DIAL>__{We're in the shit, boys. And there ain't gonna be any more time cards for this unit unless somebody pulls a miracle out of their ass.}
 <LOC>__{EXT. UNMARKED CAR OUTSIDE TIRE EMPORIUM - DAY}
 <ACTION>__{Julie's handcuffed to the steering wheel again, semi- draped in the front seat. She can't believe it.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -2098,7 +2098,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Good runnin' into you, Jojo.}
 <LOC>__{INT. TIRE EMPORIUM - BATHROOM - DAY}
-<ACTION>__{Now Burnett has pushed Jojo up onto the sink.   Lowrey hangs back, vibrating with anticipation.}
+<ACTION>__{Now Burnett has pushed Jojo up onto the sink. Lowrey hangs back, vibrating with anticipation.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Hey, calm down. A little rap, that's all. We're lookin' for someone who can step on a shitload of heroin. And do it real fast, and real well. We're lookin' for a pro.}
 <CHAR>__{JOJO} <CHAR_PAR>__{}
@@ -2111,9 +2111,9 @@
 <DIAL>__{Now there's a lotta dope, Jojo. Who can cut it quick?}
 <CHAR>__{JOJO} <CHAR_PAR>__{}
 <DIAL>__{You mean, cut it... cut it up, yeah. I don't know anything about anything.}
-<ACTION>__{Lowrey's had it.   He pulls his gun and pushes in.}
+<ACTION>__{Lowrey's had it. He pulls his gun and pushes in.}
 <CHAR>__{JOJO} <CHAR_PAR>__{}
-<DIAL>__{Hey, man.     I can't believe you're puttin' a    gun on me. You're a cop. I turn you    into 'Hard Copy,' man. Put you on    the T.V. set.}
+<DIAL>__{Hey, man. I can't believe you're puttin' a gun on me. You're a cop. I turn you into 'Hard Copy,' man. Put you on the T.V. set.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{What are you doin', man?}
 <ACTION>__{As Burnett tries to intercede, they talk over each other.}
@@ -2133,7 +2133,7 @@
 <DIAL_PAR>__{(as he walks away)}
 <DIAL>__{I'm sorry for you, Jojo. I was on your side. I'll just be over here. I don't want no skull fragments or brain shit on me. When that shit flies, it don't wash off.}
 <ACTION_ALT>__{CLOSE ON JOJO}
-<ACTION>__{scared shitless.   He's gonna die.   These are some crazy motherfuckers.}
+<ACTION>__{scared shitless. He's gonna die. These are some crazy motherfuckers.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(chimes in again)}
 <DIAL>__{Remember, partner. He's no good to us if you splatter his ass.}
@@ -2153,20 +2153,20 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Man. Will you get off this? You're making me sick.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Oh, I'm sorry, Marcus. All     these hours on the case, you must    miss Theresa's home cooking.}
+<DIAL>__{Oh, I'm sorry, Marcus. All these hours on the case, you must miss Theresa's home cooking.}
 <DIAL_PAR>__{(near Lowrey's ear)}
-<DIAL>__{Bet last night she fixed you    up something yummy and left it    in the microwave for you.}
+<DIAL>__{Bet last night she fixed you up something yummy and left it in the microwave for you.}
 <ACTION>__{Burnett starts to steam.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   Somethin' yummy.}
+<DIAL>__{Yeah. Somethin' yummy.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I imagine there was something yummy waiting for you when you finally made it to bed --}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(wheels)}
 <DIAL>__{Listen, lady --}
-<ACTION>__{But Burnett's face    ignites with headlights at their rear. Doors open.      Lowrey checks the rear-view mirror. He sees two private    security cops named DE SOUZA and TOWNE. They split     and approach either side of the unmarked sedan.}
+<ACTION>__{But Burnett's face ignites with headlights at their rear. Doors open. Lowrey checks the rear-view mirror. He sees two private security cops named DE SOUZA and TOWNE. They split and approach either side of the unmarked sedan.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Oh, man.     It's the fuckin' pretend police.}
+<DIAL>__{Oh, man. It's the fuckin' pretend police.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Be nice. After tomorrow we might need 'em for a job reference.}
 <ACTION>__{Lowrey rolls down his driver's window in time to hear...}
@@ -2178,7 +2178,7 @@
 <DIAL>__{Excuse me. One moment.}
 <DIAL_PAR>__{(rolls up the window)}
 <DIAL>__{Let's fuck with these bozos.}
-<ACTION>__{Burnett nods his approval.   Lowrey lowers the window.}
+<ACTION>__{Burnett nods his approval. Lowrey lowers the window.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Now, where were we?}
 <CHAR>__{TOWNE} <CHAR_PAR>__{}
@@ -2204,7 +2204,7 @@
 <DIAL>__{Not.}
 <ACTION>__{He shows his shield. Both hobby cops lower their guns, unsure about what's next. Burnett moves in.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Now, some rent-a-cops have licenses to carry weapons,  where others do not. Which might   you be? You wouldn't happen to   have those permits handy, would  you?}
+<DIAL>__{Now, some rent-a-cops have licenses to carry weapons, where others do not. Which might you be? You wouldn't happen to have those permits handy, would you?}
 <ACTION>__{From the looks on the hobby cops' faces, Julie can see that they don't.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{Guess we know the answer to that one.}
@@ -2215,7 +2215,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{I don't worry. They're in good hands.}
 <LOC>__{INT. BURNETT'S LIVING ROOM - NIGHT}
-<ACTION>__{Theresa gives a peek out the window.       There's another suspicious car on the street.}
+<ACTION>__{Theresa gives a peek out the window. There's another suspicious car on the street.}
 <LOC>__{EXT. BURNETT'S STREET - UNMARKED CAR - NIGHT}
 <ACTION>__{Sanchez and Ruiz are on protective duty in front of Burnett's house.}
 <CHAR>__{SANCHEZ} <CHAR_PAR>__{}
@@ -2223,7 +2223,7 @@
 <LOC>__{INT. LOWREY AND BURNETT'S CAR - DAWN}
 <ACTION>__{Coral Gables stakeout. Julie's passed out and, once again, sleeping in the rear of the car. In the glow of the faltering streetlights and the approaching dawn, she couldn't look more beautiful. And from his post in the driver's seat, he's looking at her with a longing that goes well beyond lust. Then Burnett breaks the silence.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Two o'clock.     The red Civic.}
+<DIAL>__{Two o'clock. The red Civic.}
 <LOC>__{EXT. ELLIOT'S HOUSE - BURNETT'S POV - TELEPHOTO ANGLE}
 <ACTION>__{FROM STAKEOUT CAR - DAWN Elliot shutting the door to his little red Civic, jangling keys as he's hurrying up the walk to the front door. He looks like he hasn't slept or showered in days.}
 <LOC>__{INT. STAKEOUT CAR - DAWN}
@@ -2262,8 +2262,8 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{What?}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Mike's place.     I said Mike's.}
-<ACTION>__{Lowrey rolls his eyes.    He can't wait for this to end.}
+<DIAL>__{Mike's place. I said Mike's.}
+<ACTION>__{Lowrey rolls his eyes. He can't wait for this to end.}
 <LOC>__{INT. BURNETT KITCHEN - MORNING}
 <ACTION>__{Typical pandemonium. Theresa is making/serving breakfast while the TV BLARES. Quincy is channel surfing on the TV when he comes up with the news footage of the explosion, followed by more footage of Lowrey, Julie, and Burnett at the scene.}
 <CHAR>__{QUINCY} <CHAR_PAR>__{}
@@ -2277,14 +2277,14 @@
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Mommy's going to Cleveland.}
 <LOC>__{INT. LOWREY'S CONDO - LOWREY, BURNETT, AND JULIE - DAY}
-<ACTION>__{Bang, they're through the door.   Grubby and tired from the all-night stakeout.}
+<ACTION>__{Bang, they're through the door. Grubby and tired from the all-night stakeout.}
 <LOC>__{INT. LOBBY - MORNING}
 <ACTION>__{Theresa enters building, ignores Chet and heads straight for bank of elevators.}
 <CHAR>__{CHET} <CHAR_PAR>__{}
 <DIAL>__{Lady, all visitors must be announced.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Announce this!}
-<ACTION>__{In a motherly flash, she's got Chet by the ear and she's dragging him over to the elevator. He yowls the whole way until he sticks his master pass-card in the elevator lock. Theresa lets  go.}
+<ACTION>__{In a motherly flash, she's got Chet by the ear and she's dragging him over to the elevator. He yowls the whole way until he sticks his master pass-card in the elevator lock. Theresa lets go.}
 <LOC>__{INT. LOWREY'S CONDO - DAY}
 <ACTION>__{Julie is framed in the bedroom doorway, somewhat sadly watching Burnett and Lowrey scramble to get ready for the bust.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -2298,7 +2298,7 @@
 <LOC>__{INT. CONDO - LIVING ROOM - DAY}
 <ACTION>__{Julie looks through the peephole, then opens the door. And there's Theresa. Julie's hip.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Which one do you want?     The tall one or the short one?}
+<DIAL>__{Which one do you want? The tall one or the short one?}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Oh, I got plenty in me to kill 'em both. But it's the short one I'm gonna divorce.}
 <ACTION>__{She pushes past.}
@@ -2314,18 +2314,18 @@
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Save your crap, Mike.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Mike what?     What'd he do?}
+<DIAL>__{Mike what? What'd he do?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Theresa.     It's not how it looks.}
+<DIAL>__{Theresa. It's not how it looks.}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{It ain't Cleveland, neither.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Where's Julie?}
 <ACTION>__{Lowrey pushes past Theresa into --}
 <LOC>__{INT. CONDO - LIVING ROOM - DAY}
-<ACTION>__{Where Julie is gone!    The front door is wide open.}
+<ACTION>__{Where Julie is gone! The front door is wide open.}
 <LOC>__{INT. LOWREY'S CONDO - ELEVATORS - DAY}
-<ACTION>__{Julie's inside. She hits the close door button.    But Lowrey's there to catch it.}
+<ACTION>__{Julie's inside. She hits the close door button. But Lowrey's there to catch it.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Julie. We wanted to tell you... I especially wanted to tell you --}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
@@ -2354,16 +2354,16 @@
 <ACTION_ALT>__{WIDE SHOT FROM ABOVE}
 <ACTION>__{Fouchet and his henchmen LEFT. Burnett and Lowrey to the RIGHT. And Julie in the MIDDLE. Fouchet is the first one to draw down.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
-<DIAL>__{Julie!   Drop now!}
+<DIAL>__{Julie! Drop now!}
 <ACTION>__{Pandemonium. GUNS drawn and BLAZING. All three villains, plus Burnett and Lowrey, diving and FIRING.}
 <ACTION_ALT>__{PEOPLE IN LOBBY}
-<ACTION>__{Scream and duck for cover.     Smoke and plaster fill the air.}
+<ACTION>__{Scream and duck for cover. Smoke and plaster fill the air.}
 <ACTION_ALT>__{BURNETT}
 <ACTION>__{Pushes Theresa back into the elevator, making her lay on the floor as BULLETS CUT : above.}
 <ACTION_ALT>__{LOWREY}
 <ACTION>__{Slips behind a pillar as BULLETS WHIZ past.}
 <ACTION_ALT>__{JULIE}
-<ACTION>__{On floor.    In the middle.   Crawling for cover when --}
+<ACTION>__{On floor. In the middle. Crawling for cover when --}
 <ACTION_ALT>__{FOUCHET}
 <ACTION>__{With balls the size of Pennsylvania. Two GUNS in hand, walks forward with barrels fixed and FIRING. Clips out on one, tosses the gun aside, then, with his free hand, reaches down and grabs Julie by the hair and lifts her until she stands.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
@@ -2413,7 +2413,7 @@
 <LOC>__{EXT./INT. CAB}
 <ACTION>__{BULLETS RIP to either side of Burnett. Then Fouchet stomps on the brake and Burnett tumbles forward and onto the pavement.}
 <ACTION_ALT>__{CLOSE ON BURNETT}
-<ACTION>__{He rolls, makes it to one knee.   But his other leg gives way.}
+<ACTION>__{He rolls, makes it to one knee. But his other leg gives way.}
 <ACTION_ALT>__{FOUCHET}
 <ACTION>__{He sees his chance and GUNS the ENGINE. The cab barrels at Burnett, who's stuck in the middle of the boulevard, about to become instant roadkill. Then --}
 <LOC>__{EXT. STREET}
@@ -2432,7 +2432,7 @@
 <DIAL>__{But you found the dope, right? So let's go get it back.}
 <ACTION>__{A bicycle BELL RINGS. Heads turn. And here comes a BOY on his bike, serpentining his way through the maze of cars and cops until he gets to Lowrey, Burnett, and Howard.}
 <CHAR>__{BOY} <CHAR_PAR>__{}
-<DIAL>__{Which one of you's Lowrey?   I got somethin' for him.}
+<DIAL>__{Which one of you's Lowrey? I got somethin' for him.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{At least I'm me again.}
 <DIAL_PAR>__{(hand out)}
@@ -2440,12 +2440,12 @@
 <ACTION>__{From his back pocket, the boy extracts a cellular flip PHONE. He hands it to Lowrey. He presses the power button and, almost instantly, it RINGS.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(presses send)}
-<DIAL>__{Yeah.   This is Lowrey.}
+<DIAL>__{Yeah. This is Lowrey.}
 <LOC>__{INT. FREIGHTER - DOPE LAB - DAY}
 <ACTION>__{While dope is lifted and loaded from the open hold, Fouchet is revealed at the other end of the cellular call.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{I have something for you to listen to.}
-<ACTION>__{Fouchet lifts his PISTOL and FIRES a single shot.   BAM!}
+<ACTION>__{Fouchet lifts his PISTOL and FIRES a single shot. BAM!}
 <LOC>__{INTERCUT WITH :}
 <ACTION>__{--}
 <LOC>__{EXT. MIAMI PD - MOTORPOOL - LOWREY}
@@ -2456,7 +2456,7 @@
 <DIAL>__{That bullet just killed the chemist. Now, I have but four hours left to make my deal. Fuck with my timetable and the next bullet kills the girl.}
 <ACTION>__{Julie is gagged and sitting on the floor, scared shitless.}
 <LOC>__{EXT. MIAMI PD - MOTORPOOL - LOWREY}
-<ACTION>__{He's in a vice.    Duty or the girl.   Then --}
+<ACTION>__{He's in a vice. Duty or the girl. Then --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{You twisted motherfucker...}
 <DIAL_PAR>__{(then...)}
@@ -2478,7 +2478,7 @@
 <DIAL>__{You know that once he sells the dope, he's gonna kill her just like he did Max.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Three little angels. Julie kept talking about his three little angels.}
-<ACTION>__{A barkeeper appears with two beers.   Burnett automati- cally reaches for his wallet. CLOSE ON BURNETT'S WALLET Where out pops a picture of his three children.}
+<ACTION>__{A barkeeper appears with two beers. Burnett automati- cally reaches for his wallet. CLOSE ON BURNETT'S WALLET Where out pops a picture of his three children.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{If she dies, I'm done with it. The whole cop thing.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
@@ -2492,7 +2492,7 @@
 <DIAL>__{Hey, fellahs. What's the joke.}
 <DIAL_PAR>__{(as she gets nothing back)}
 <DIAL>__{Really. I want to know.}
-<ACTION>__{Soon, though, the facade fades.   Francine knows she's been caught.}
+<ACTION>__{Soon, though, the facade fades. Francine knows she's been caught.}
 <LOC>__{INT. LADIES' ROOM - DAY}
 <ACTION>__{Burnett holds the door while Lowrey holds Francine. She's broken, crying, and giving up the ghost of her past.}
 <CHAR>__{FRANCINE} <CHAR_PAR>__{}
@@ -2526,7 +2526,7 @@
 <CHAR>__{FRANCINE} <CHAR_PAR>__{}
 <DIAL>__{I have some more information for you, Mr. Fouchet.}
 <LOC>__{EXT. FLORIDA POWER PLANT (MIAMI) - DAY}
-<ACTION>__{A Florida Power van.   Inside...}
+<ACTION>__{A Florida Power van. Inside...}
 <LOC>__{INT. ELECTRONICS SURVEILLANCE VAN - DAY}
 <ACTION>__{Burnett and Lowrey wearing headsets, listening in on the conversation between Fouchet and Francine.}
 <LOC>__{INTERCUT WITH: EXT. BOAT YARD - DRUG FREIGHTER - FOUCHET}
@@ -2555,7 +2555,7 @@
 <CHAR>__{JULIE} <CHAR_PAR>__{}
 <DIAL>__{I forget the formula. Big gun, big dick? No. Little gun, big dick? No. Big gun, little dick? Yeah. Yeah. I think that's it.}
 <LOC>__{INT. FORWARD TRUCK - FOUCHET}
-<ACTION>__{The CAMERA ZEROES IN ON his cellular phone.    The power light is green.}
+<ACTION>__{The CAMERA ZEROES IN ON his cellular phone. The power light is green.}
 <LOC>__{INT. SURVEILLANCE VAN - DAY}
 <ACTION>__{Sanchez gives the update.}
 <CHAR>__{SANCHEZ} <CHAR_PAR>__{}
@@ -2570,7 +2570,7 @@
 <LOC>__{EXT. ORANGE COAST HIGHWAY NORTH - HELICOPTER POV SHOT -}
 <ACTION_ALT>__{DAY}
 <ACTION>__{As the convoy makes a right turn off the highway onto an old tar and gravel track.}
-<LOC>__{EXT. ORANGE CITY AIRFIELD - CLOSE ON SIGN:    ORANGE CITY}
+<LOC>__{EXT. ORANGE CITY AIRFIELD - CLOSE ON SIGN: ORANGE CITY}
 <ACTION_ALT>__{AIRFIELD}
 <ACTION>__{The trucks roll toward an old airport which consists of a small, pilot's terminal and four or so hangars spread out over the ten acre site.}
 <LOC>__{EXT. HANGAR 3 - DAY}
@@ -2585,7 +2585,7 @@
 <LOC>__{EXT. ORANGE CITY AIRFIELD - SCOPE'S POV}
 <ACTION>__{PANNING LEFT AND RIGHT ACROSS the landscape of tall reeds and distant buildings. Finally he STALLS ON a garbage truck and its four-man crew rolling dumpsters.}
 <LOC>__{INT. HANGAR 3 - DAY}
-<ACTION>__{Fouchet shakes  hands with the BUYER. Upon which time one forklift begins  to drive pallets full of cash from the open cargo door  of the aircraft while another drives pallets full of  dope.}
+<ACTION>__{Fouchet shakes hands with the BUYER. Upon which time one forklift begins to drive pallets full of cash from the open cargo door of the aircraft while another drives pallets full of dope.}
 <CHAR>__{BUYER} <CHAR_PAR>__{}
 <DIAL>__{Three hundred million and very, very fresh. Too much to count, eh?}
 <ACTION_ALT>__{ON JULIE}
@@ -2604,9 +2604,9 @@
 <ACTION_ALT>__{CLOSE ON DUMPSTER}
 <ACTION>__{As it lowers, the gearing seems to get hung up. The hydraulics' arms won't work, leaving the dumpster stuck in the air.}
 <ACTION_ALT>__{RUIZ AND SANCHEZ}
-<ACTION>__{Begin speaking Spanish, one blaming the other for this fiasco. Angry words. Finally, Ruiz has had enough.       He tosses down his gloves and hat and begins stomping off    as if he's just quit his stinking job. He's headed right     for the henchmen, his mouth moving and spewing and moving    and spewing. The henchmen look to each other, not knowing what to think. Ready for anything when -- CLICK CLICK -- GUNS COCKING. Both Burnett and Lowrey are right behind the henchmen with guns at the base of their necks.}
+<ACTION>__{Begin speaking Spanish, one blaming the other for this fiasco. Angry words. Finally, Ruiz has had enough. He tosses down his gloves and hat and begins stomping off as if he's just quit his stinking job. He's headed right for the henchmen, his mouth moving and spewing and moving and spewing. The henchmen look to each other, not knowing what to think. Ready for anything when -- CLICK CLICK -- GUNS COCKING. Both Burnett and Lowrey are right behind the henchmen with guns at the base of their necks.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Mouths shut, feet moving.    Now, walk.}
+<DIAL>__{Mouths shut, feet moving. Now, walk.}
 <LOC>__{EXT. HANGAR #3 - ANGLE ON DUMPSTER}
 <ACTION>__{As it lifts once again to the air, this time dumping the two henchmen into the truck. ANGLE - HIGH ABOVE TRUCK As the human garbage is deposited.}
 <LOC>__{INT. HANGAR 3 - C-123 - DAY}
@@ -2614,27 +2614,27 @@
 <LOC>__{123. His crew shuts the cargo hatches and he gives a}
 <ACTION>__{pleased salute to Fouchet. The ENGINES TURN OVER and the propellers move. Meanwhile --}
 <LOC>__{INT. HANGAR 3 - TRUCK ENGINES}
-<ACTION>__{START. Loaded with cash, they're ready to go.   Fouchet gives the signal to open the doors.}
+<ACTION>__{START. Loaded with cash, they're ready to go. Fouchet gives the signal to open the doors.}
 <ACTION_ALT>__{CASPER AND FERGUSON}
-<ACTION>__{Move to open the doors. They give a good shove.   Still nothing. So they bang and shout.}
+<ACTION>__{Move to open the doors. They give a good shove. Still nothing. So they bang and shout.}
 <CHAR>__{CASPER} <CHAR_PAR>__{}
-<DIAL>__{Hey! Wake up out there!     Open it up!}
+<DIAL>__{Hey! Wake up out there! Open it up!}
 <LOC>__{EXT. HANGAR 3 - DAY}
-<ACTION>__{One of the dumpsters is parked in front of the doors.   No exit.}
+<ACTION>__{One of the dumpsters is parked in front of the doors. No exit.}
 <LOC>__{INT. HANGAR 3 - DAY}
 <ACTION>__{Just as Casper and Ferguson give a helpless look to Fouchet...}
 <LOC>__{INT. HANGAR 3 - ANGLE ACROSS HANGAR - DAY}
 <ACTION>__{The garbage truck barrels through the rear wall, instantly colliding with the left wing section of aircraft. The wheel assembly buckles and the aircraft twists onto one wing. Fuel spills.}
 <LOC>__{INT. C-123 (HANGAR 3) - ON BUYER}
-<ACTION>__{Tossed from his seat and thrown across throttle.   The ENGINE ROARS!}
+<ACTION>__{Tossed from his seat and thrown across throttle. The ENGINE ROARS!}
 <LOC>__{INT. HANGAR - ONE CANVAS-BACKED TRUCK}
 <ACTION>__{The tarpaulin rips and a pallet of cash busts open. Money swirls inside the hangar.}
 <LOC>__{INT./EXT. C-123 - CARGO DOORS}
-<ACTION>__{Open.   Henchmen ready to kill.   Then --}
+<ACTION>__{Open. Henchmen ready to kill. Then --}
 <ACTION_ALT>__{FROM EMPTY DUMPSTER}
 <ACTION>__{Pop up Burnett and Lowrey. MP5-Ks in hand. They BLAZE the cargo doors and CUT DOWN : the rest of the Buyer's henchmen.}
 <ACTION_ALT>__{CASPER AND FERGUSON}
-<ACTION>__{charge.   GUNS BLASTING.}
+<ACTION>__{charge. GUNS BLASTING.}
 <ACTION_ALT>__{BULLETS}
 <ACTION>__{RIP across the dumpster, moving up into the truck cab. Ruiz and Sanchez dive and roll to either side. Meanwhile, the sparks ignite the spilled fuel.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
@@ -2643,7 +2643,7 @@
 <LOC>__{INT. AIRCRAFT (HANGAR 3)}
 <ACTION>__{Inside the aircraft the precious dope catches fire.}
 <LOC>__{INT. HANGAR 3 - ON CASPER AND FERGUSON}
-<ACTION>__{Looking through the flames. Shielding their eyes.     Ruiz and Sanchez appear from behind.}
+<ACTION>__{Looking through the flames. Shielding their eyes. Ruiz and Sanchez appear from behind.}
 <CHAR>__{SANCHEZ} <CHAR_PAR>__{}
 <DIAL>__{Remember us?}
 <ACTION>__{The two bad guys turn with their guns. The flames igniting their already battered faces. But they don't turn fast enough. Both cops FIRE in unison. Ferguson and Casper fall. PULL BACK --}
@@ -2660,13 +2660,13 @@
 <LOC>__{INT. HANGAR 3 - FOUCHET}
 <ACTION>__{He's handcuffed himself to Julie, dragging her deeper and deeper into the hangar. The smoke is getting thicker and swirling with the burning cash.}
 <LOC>__{INT. HANGAR 3 - BURNETT AND LOWREY}
-<ACTION>__{Signals between the two. They split wider.   Moving toward those locked doors.}
+<ACTION>__{Signals between the two. They split wider. Moving toward those locked doors.}
 <LOC>__{INT. HANGAR 3 - BACK ON FOUCHET}
 <ACTION>__{At the locked doors. He shoves against them in a futile rage. Julie begins to choke on the fumes.}
 <LOC>__{INT. HANGAR 3 - SEPARATE SHOTS - BURNETT AND LOWREY}
-<ACTION>__{Each placing their faces against their own sleeves.    The smoke is thicker, swirling in waves.}
+<ACTION>__{Each placing their faces against their own sleeves. The smoke is thicker, swirling in waves.}
 <LOC>__{INT. HANGAR - DOORS - FOUCHET}
-<ACTION>__{Shoving the doors.   Pushing and pushing.    Then --}
+<ACTION>__{Shoving the doors. Pushing and pushing. Then --}
 <ACTION_ALT>__{FROM HAIL OF SMOKE AND BURNING CASH}
 <ACTION>__{Appear Lowrey and Burnett. Twenty yards apart and closing. Guns carefully aimed. Fouchet pulls Julie close.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
@@ -2689,7 +2689,7 @@
 <ACTION>__{Pulls Julie closer. Gun at her head. Looking to Burnett. While Lowrey is nodding to Julie. Nodding for her to --}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Drop, Julie!}
-<ACTION>__{She drops.    Burnett has a clear shot when --}
+<ACTION>__{She drops. Burnett has a clear shot when --}
 <ACTION_ALT>__{HANGAR DOORS}
 <ACTION>__{Swing wide and way, way open. Blinding light. NOISE. HELICOPTERS. And about fifty cops at the ready. Rounds chambered. Rifles leveled.}
 <ACTION_ALT>__{QUICK SHOTS}
@@ -2702,22 +2702,22 @@
 <DIAL>__{Sanchez and Ruiz...}
 <ACTION>__{Then --}
 <ACTION_ALT>__{FOUCHET WITH JULIE}
-<ACTION>__{He yanks her back up onto her feet, wild-eyed.   He's still got the gun on her.}
+<ACTION>__{He yanks her back up onto her feet, wild-eyed. He's still got the gun on her.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(hands up for all the cops to see)}
 <DIAL>__{Don't shoot!!! Hold your fire!!!}
 <ACTION_ALT>__{FOUCHET}
-<ACTION>__{Twisting Julie for all to see.    The cops' rifle sights, all glinting in the sun.}
+<ACTION>__{Twisting Julie for all to see. The cops' rifle sights, all glinting in the sun.}
 <CHAR>__{FOUCHET} <CHAR_PAR>__{}
 <DIAL>__{I'll kill the girl!!!}
 <ACTION>__{Fouchet raises Julie's hand high in the air to show all of them the handcuffs when -- KA-POW! -- a SHOT RINGS}
 <ACTION_ALT>__{OUT. CLOSE ON CUFFS}
-<ACTION>__{The link is snapped in two by the bullet.    Julie falls to the ground. While --}
+<ACTION>__{The link is snapped in two by the bullet. Julie falls to the ground. While --}
 <ACTION_ALT>__{BURNETT AND LOWREY}
-<ACTION>__{UNLOAD their CLIPS in a CRESCENDO of GUNFIRE.    Fouchet crumples in a heap.}
+<ACTION>__{UNLOAD their CLIPS in a CRESCENDO of GUNFIRE. Fouchet crumples in a heap.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. HANGAR - HOWARD}
-<ACTION>__{The eye behind the smoking sniper rifle.    He reveals a pleasured smile.}
+<ACTION>__{The eye behind the smoking sniper rifle. He reveals a pleasured smile.}
 <CHAR>__{HOWARD} <CHAR_PAR>__{}
 <DIAL>__{Swish.}
 <ACTION>__{Then he turns to Sinclair, who stands only feet away.}
@@ -2726,12 +2726,12 @@
 <LOC>__{EXT. HANGAR - JULIE}
 <ACTION>__{She finds her feet and runs to Lowrey. Right into his arms. He holds her tight, but she winces from a nasty cut on her shoulder.}
 <CHAR>__{JULIE} <CHAR_PAR>__{}
-<DIAL>__{Ow.     This shit really hurts.}
+<DIAL>__{Ow. This shit really hurts.}
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{Stick around. I'll give you a bullet to bite.}
 <ACTION>__{Finally --}
 <ACTION_ALT>__{SANCHEZ AND RUIZ}
-<ACTION>__{They appear.   Alive and well. Big grins, helping Burnett to his feet.   Brushing him off.}
+<ACTION>__{They appear. Alive and well. Big grins, helping Burnett to his feet. Brushing him off.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Hey, hey...}
 <DIAL_PAR>__{(then with a smile)}
@@ -2740,7 +2740,7 @@
 <ACTION>__{The front door opens and all the little Burnetts come screaming out...}
 <CHAR>__{BURNETT KIDS} <CHAR_PAR>__{}
 <DIAL>__{Daddy Daddy Daddy the hero!!!}
-<ACTION>__{... into the arms of their father.     He gathers them all into one big hug.}
+<ACTION>__{... into the arms of their father. He gathers them all into one big hug.}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
 <DIAL>__{Daddy's home!}
 <ACTION>__{Behind Burnett appear Lowrey and Julie, arm in arm. The kids run to...}
@@ -2757,7 +2757,7 @@
 <CHAR>__{LOWREY} <CHAR_PAR>__{}
 <DIAL>__{You see anybody complaining?}
 <CHAR>__{BURNETT} <CHAR_PAR>__{}
-<DIAL>__{Hey.    Where are the kids goin'?}
+<DIAL>__{Hey. Where are the kids goin'?}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{Didn't you know? We got us a new babysitter.}
 <ACTION>__{She kisses him.}
@@ -2765,9 +2765,9 @@
 <DIAL>__{You mean...}
 <CHAR>__{THERESA} <CHAR_PAR>__{}
 <DIAL>__{It's quality time, Marcus.}
-<ACTION>__{Burnett shuts the door ON the CAMERA.    The screen GOES TO BLACK. Then UNDER CREDITS:}
+<ACTION>__{Burnett shuts the door ON the CAMERA. The screen GOES TO BLACK. Then UNDER CREDITS:}
 <LOC>__{304 INT. LOWREY'S CONDO - BATHROOM - NIGHT}
-<ACTION>__{Little Megan is on the potty.   She catches Lowrey as he passes.}
+<ACTION>__{Little Megan is on the potty. She catches Lowrey as he passes.}
 <CHAR>__{MEGAN } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Uncle Mike.   I did it!}
+<DIAL>__{Uncle Mike. I did it!}
 <CHAR>__{THE END} <CHAR_PAR>__{}

@@ -515,8 +515,8 @@
 <CHAR>__{ROPER} <CHAR_PAR>__{}
 <DIAL>__{A little exercise in lateral thinking. The obvious solution isn't always the only solution... See you tomorrow.}
 <ACTION>__{Roper grabs his jacket and walks off, leaving McCall to ponder the problem. McCall looks over at another cop who has been observing. The cop shrugs his shoulders. He hasn't got a clue. McCall sits down and thoughtfully peers into the bottle.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. UNDERGROUND GARAGE - NIGHT}
 <ACTION>__{Roper and Baffert walking past the row of cars, including Solis' cadillac, searching for Roper's "new" transportation... Roper is holding the keys in his hand.}
 <CHAR>__{BAFFERT} <CHAR_PAR>__{}
@@ -565,8 +565,8 @@
 <DIAL>__{Come on. Just get in. We gotta go.}
 <LOC>__{EXT. MARKET STREET - NIGHT}
 <ACTION>__{The pickup in traffic.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. KORDA'S BUILDING - NIGHT}
 <ACTION>__{It's a four story twenties style walk-up. It's evening now. The pickup pulls to a stop out front.}
 <LOC>__{INT. PICKUP - NIGHT}
@@ -751,8 +751,8 @@
 <DIAL>__{I don't give a damn what Solis said.}
 <DIAL_PAR>__{(to the detectives)}
 <DIAL>__{If you get a lead, I want to know.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. SAN FRANCISCO STREET - NIGHT - RAINING}
 <ACTION>__{Roper's pickup drives by.}
 <LOC>__{INT. PICKUP}
@@ -1669,8 +1669,8 @@
 <CHAR>__{ROPER} <CHAR_PAR>__{}
 <DIAL>__{Okay. Time to give this fucker a call.}
 <ACTION>__{Roper picks up the phone, waits. Everybody tensely watching the store.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. BUILDING - SAME}
 <ACTION>__{A sniper team watching the store from a third floor window.}
 <LOC>__{INT. COMMAND CENTER - SAME}
@@ -1745,12 +1745,12 @@
 <DIAL>__{...car.}
 <ACTION_ALT>__{DOWN ON THE STREET}
 <ACTION>__{Police come rushing onto the street. Guns drawn. The Explorer ROARS off down the block. Roper and McCall burst out of the command center building, leap into Solis' Cadillac and tear off after the van. McCall is behind the wheel.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. POLICE BARRICADES - DAY}
 <ACTION>__{The Explorer comes barreling toward it. Spectators scatter. Two squad cars SCREECH up behind the barricades, trying to block Korda's escape. The Explorer PLOWS through the metal barricades. BASHES the squad cars out of the way. And screams off around the corner.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. STREET - DAY}
 <ACTION>__{The Explorer careens up an alley and bursts into the congested traffic of a side street. HONK-SCREECH! A Toyota swerves to miss it and broadsides a parked car. The Explorer fishtails off down the street.}
 <LOC>__{INT. VAN - DAY}
@@ -1913,8 +1913,8 @@
 <CHAR>__{ROPER} <CHAR_PAR>__{}
 <DIAL>__{We do this shit by the book, but you ain't gonna be smiling.}
 <ACTION>__{Korda is doubled up coughing, spitting up blood. Roper walks away as McCall moves in to put the cuffs on Korda.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. METRO DIVISION - NIGHT}
 <ACTION>__{Roper is sitting in a cubicle doing paperwork. A group of reporters and photographers move down the hallway adjoining the squadroom. One of them is Ronnie. Through the glass walls, she notices Roper sitting alone at the computer. She bids good-night to the reporters and comes into the squadroom.}
 <CHAR>__{RONNIE} <CHAR_PAR>__{}
@@ -1952,8 +1952,8 @@
 <ACTION>__{He looks at her innocently.}
 <CHAR>__{RONNIE} <CHAR_PAR>__{}
 <DIAL>__{Just dinner.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. KITCHEN - NIGHT}
 <ACTION>__{Ronnie is making macaroni. Roper helps to prepare a dressing to go with the salad. He is mixing oil, vinegar, sugar and spices. He lets her have a taste.}
 <CHAR>__{ROPER} <CHAR_PAR>__{}
@@ -2159,8 +2159,8 @@
 <CHAR>__{MCCALL} <CHAR_PAR>__{}
 <DIAL>__{I'm here to help you. Talk to me.}
 <ACTION>__{He's still not satisfied.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. ROPER'S OFFICE - DAY}
 <ACTION>__{Captain Solis pokes his head in the door, he's been looking for McCall.}
 <CHAR>__{SOLIS} <CHAR_PAR>__{}
@@ -2301,8 +2301,8 @@
 <DIAL>__{NOOOO!}
 <ACTION_ALT>__{WALTER AND HIS WHEELCHAIR}
 <ACTION>__{freefall down toward earth in SLOW MOTION. The wheelchair turns end over end. People SCREAM as Walter IMPACTS with the pavement. The wheelchair CRASHES down nearby.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. ROOF - DAY}
 <ACTION>__{McCall looks over the edge at Walter's twisted body below. Then he grabs Dave and wrestles him down, cuffing his hands behind his back. The Cops and Medical Staff Members rush out to restrain.}
 <LOC>__{INT. LOBBY - DAY}
@@ -2319,8 +2319,8 @@
 <ACTION>__{Moving POV thru windshield of car, we see a freeway sign that says "Golden Gate Racetrack."}
 <LOC>__{EXT. RACETRACK}
 <ACTION>__{Establish grand stands.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. BETTING AREA - DAY}
 <ACTION>__{McCall pounds over to the betting window. Roper leans up against the window beside him. Watches.}
 <CHAR>__{MCCALL} <CHAR_PAR>__{}
@@ -2472,8 +2472,8 @@
 <TRANS>__{CUT TO:}
 <LOC>__{INT. LONG HALLWAY JAIL - LATER}
 <ACTION>__{Korda appears around a corner, dressed in street clothes, holding a CLIPBOARD -- moving steadily toward camera. KORDA'S POV - DOWN THE HALLWAY A female civilian EMPLOYEE heading in his direction. As they pass he nods and she nods back. Then Korda passes through a door at the end of the hallway and into...}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. CELL BLOCK - CONTINUOUS}
 <ACTION>__{The door closes behind him and locks with the loud SNAP of metal. Slowly, with deliberate steps, he moves down the corridor toward the door at the other end, past the first GUARD (guard #3) -- enclosed in bullet proof glass. TRACKING - KORDA'S FEET step by step. The voices of prisoners, muffled behind thick glass. CLOSE ON KORDA'S FACE trying to stay cool, his heart pounding. Then...}
 <CHAR>__{A VOICE } <CHAR_PAR>__{(O.S.)}
@@ -2531,8 +2531,8 @@
 <CHAR>__{KORDA} <CHAR_PAR>__{}
 <DIAL>__{Well, that's funny, I wonder how that happened.}
 <ACTION>__{In a flash, Korda PLUNGES the pen DEEP into the guard's throat. The BLOOD jumps out of his throat, onto the window of the car as the guard, gagging in stunned silence, slumps to ground. He then falls backward between the two cars, drowning in his own blood.}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. RONNIE'S HOUSE LIVING ROOM - NIGHT}
 <ACTION>__{Empty. New front door. Unpainted. Frame splintered from when Roper shot it open. We hold a beat... HEAR ROPER & RONNIE coming up the stairs. Laughing. The door opens. They enter.}
 <CHAR>__{ROPER} <CHAR_PAR>__{}
@@ -2608,8 +2608,8 @@
 <ACTION>__{She climbs up the stairs toward him.}
 <CHAR>__{RONNIE} <CHAR_PAR>__{}
 <DIAL>__{You've got to calm down --}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. RONNIE'S HALLWAY - SAME}
 <ACTION>__{Roper reaches the top of the stairs.}
 <CHAR>__{ROPER} <CHAR_PAR>__{}
@@ -2667,8 +2667,8 @@
 <DIAL>__{Then we better get moving... But there's no way we can get the jewels out of evidence.}
 <ACTION>__{Roper stares at him, the wheels beginning to turn...}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{INT. POLICE PROPERTY/EVIDENCE ROOM - DAY}
 <ACTION>__{Roper is standing at the counter to the steel-caged property room. On the other side is FRANK, the property sergeant on duty. The two men speak in hushed, urgent tones...}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -2919,8 +2919,8 @@
 <CHAR>__{KORDA} <CHAR_PAR>__{}
 <DIAL>__{You see, it's out of my hands.}
 <ACTION>__{Roper looks at the box, Ronnie's life literally in his hands...}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{Sequence omitted from original script.}
+
+
 <LOC>__{EXT. MCCALL'S POV - DAY}
 <ACTION>__{Through the SCOPE, Roper's head blocking the shot to Korda.}
 <CHAR>__{MCCALL} <CHAR_PAR>__{}

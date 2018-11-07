@@ -33,11 +33,11 @@
 <ACTION>__{Bulgar is starting to cry. He rushes up the steps and hugs his sister. He kisses her hard then breaks away. Denver's outstretched hand misses his shirt and hangs mid-air.}
 <CHAR>__{DENVER} <CHAR_PAR>__{}
 <DIAL>__{No..Bul...}
-<ACTION>__{Bulgar flies down the steps and disappears out of the house holding Howard's hand once more. Denver sits alone at the top of the stairs.  She sadly looks up and weeps, as if to the house itself:}
+<ACTION>__{Bulgar flies down the steps and disappears out of the house holding Howard's hand once more. Denver sits alone at the top of the stairs. She sadly looks up and weeps, as if to the house itself:}
 <CHAR>__{DENVER} <CHAR_PAR>__{}
 <DIAL>__{Now what you go and do that for?}
 <LOC>__{EXT. ROAD TO THE TRAIN - DAWN.}
-<ACTION>__{THE VOICE OF SETHE HUMMING A MELODY carries over the images of: The two boys running for their lives towards the train, holding hands all the way.  Howard is the first to reach it. As it passes by, he throws his bag upon it and jumps in. Bulgar races beside it as Howard reaches for him. C.U. - HOWARD'S HAND reaching for BULGAR's...They connect. WIDE SHOT - The boys are on the train as it leaves town. On it's route, the train passes a ramshackle GRAVEYARD. CAMERA MOVES SLOWLY INTO THE GRAVEYARD until it reaches A HEADSTONE, made with flecked pink stone. Upon the headstone is only one word:}
+<ACTION>__{THE VOICE OF SETHE HUMMING A MELODY carries over the images of: The two boys running for their lives towards the train, holding hands all the way. Howard is the first to reach it. As it passes by, he throws his bag upon it and jumps in. Bulgar races beside it as Howard reaches for him. C.U. - HOWARD'S HAND reaching for BULGAR's...They connect. WIDE SHOT - The boys are on the train as it leaves town. On it's route, the train passes a ramshackle GRAVEYARD. CAMERA MOVES SLOWLY INTO THE GRAVEYARD until it reaches A HEADSTONE, made with flecked pink stone. Upon the headstone is only one word:}
 <ACTION_ALT>__{BELOVED.}
 <LOC>__{EXT. 124 BLUESTONE RD. - CONTINUOUS.}
 <ACTION>__{Camera moves slowly towards the side exterior of 124, into a Close-Up of a WOMAN looking out of a second floor bedroom window. It is SETHE, mother of the two boys and Denver. She hums her melody, softly, sadly, with a resigned understanding of why her boys are running away...and a deep pain that is too constant to notice.}
@@ -1866,7 +1866,7 @@
 <ACTION_ALT>__{A DIFFERENT BED IN WHICH HALLE IS TRYING TO FALL ASLEEP. A YOUNGER SETHE CRAWLS IN BESIDE HIM.}
 <ACTION>__{WE ARE IN MEMORY;}
 <LOC>__{INT. HALLE & SETHE'S SWEET HOME LIVING QUARTERS - NIGHT.}
-<ACTION>__{Sethe, Halle and the baby girl (Beloved) sleep together by the wall. The boys sleep together under a window.  Halle is trying to sleep but Sethe is awake...}
+<ACTION>__{Sethe, Halle and the baby girl (Beloved) sleep together by the wall. The boys sleep together under a window. Halle is trying to sleep but Sethe is awake...}
 <CHAR>__{SETHE} <CHAR_PAR>__{}
 <DIAL>__{What you think about Schoolteacher?}
 <CHAR>__{HALLE} <CHAR_PAR>__{}
@@ -1916,7 +1916,7 @@
 <DIAL>__{Halle....what we going to do?}
 <CHAR>__{HALLE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispers)}
-<DIAL>__{Sixo, ya know he creeps out at night..he says the way they took my ma'am..he says freedom is that way. He and Paul A. got a plan.  They heard of this man, what they call an underground agent...if we do what he says, don't need no buy out.}
+<DIAL>__{Sixo, ya know he creeps out at night..he says the way they took my ma'am..he says freedom is that way. He and Paul A. got a plan. They heard of this man, what they call an underground agent...if we do what he says, don't need no buy out.}
 <CHAR>__{SETHE} <CHAR_PAR>__{}
 <DIAL>__{You mean...? But what if we caught? What'd they do to us? To the children?}
 <CHAR>__{HALLE} <CHAR_PAR>__{}
@@ -2363,7 +2363,7 @@
 <CHAR>__{DENVER} <CHAR_PAR>__{}
 <DIAL>__{She likes to see you off in the morning.}
 <CHAR>__{SETHE} <CHAR_PAR>__{}
-<DIAL>__{I'll make sure she does. But first I'm going  make up a nice, big breakfast against that cold outside.}
+<DIAL>__{I'll make sure she does. But first I'm going make up a nice, big breakfast against that cold outside.}
 <CHAR>__{DENVER} <CHAR_PAR>__{}
 <DIAL>__{Won't you be late for work?}
 <CHAR>__{SETHE} <CHAR_PAR>__{}
@@ -2612,7 +2612,7 @@
 <CHAR>__{SETHE } <CHAR_PAR>__{(VO)}
 <DIAL>__{Beloved, she my daughter...She mine. She come back to me of her own free will and I don't have to explain a thing.. She had to be safe and I put her where I knew she would be. But my love was tough and she back now. She come back to me in the flesh...I won't never let her go. I'll explain to her, even though I don't have to. Why I did it. How if I hadn't killed her she would have died and that is something I couldn't let happen to her. When I explain she'll understand, cause she understands everything already..And she ain't even mad...When I put that headstone up I wanted to lay in there with you, put your head on my shoulder and keep you warm and I would have if Bulgar and Howard and Denver didn't need me, because my mind was homeless then. I couldn't lay down with you then. No matter how much I wanted to. I couldn't lay down nowhere in peace, back then. Now I can. I can sleep like the drowned, have mercy. She come back to me, my daughter,}
 <ACTION>__{DENVER'S VOICE OVER FADES IN OVER SETHE'S....:}
-<DIAL>__{SETHE (VO)              DENVER my Beloved and she        Beloved is my is mine....               sister...}
+<DIAL>__{SETHE (VO) DENVER my Beloved and she Beloved is my is mine.... sister...}
 <CHAR>__{DENVER } <CHAR_PAR>__{(VO)}
 <DIAL>__{..and she is mine...}
 <TRANS>__{FADE TO:}
@@ -2621,7 +2621,7 @@
 <CHAR>__{DENVER } <CHAR_PAR>__{(VO)}
 <DIAL>__{..I swallowed her blood right along with my mother's milk. She played with me and always came to be with me whenever I needed her. Me and her waited for our daddy. I love her. I do. She never hurt me. I love my mother but I know she killed one of her own, and tender as she is with me, I'm scared of her because of it. All the time, I'm afraid the thing that happened that made it all right to kill her own, could happen again. Whatever it is, it comes from outside this house, outside the yard. So I never leave this house and I watch over the yard so it can't happen again ... I have to keep it away from my sister...I'll protect Beloved...'Cause She's mine...}
 <ACTION>__{BELOVED'S VO FADES IN OVER DENVER'S...:}
-<DIAL>__{DENVER (VO)               BELOVED (VO) Beloved..She's mine       I am Beloved}
+<DIAL>__{DENVER (VO) BELOVED (VO) Beloved..She's mine I am Beloved}
 <CHAR>__{BELOVED } <CHAR_PAR>__{(VO)}
 <DIAL>__{and she is mine...}
 <LOC>__{EXT. 124 BLUESTONE RD. - EARLY EVENING.}
@@ -2686,7 +2686,7 @@
 <ACTION_ALT>__{LIVING...}
 <CHAR>__{THREE WOMAN } <CHAR_PAR>__{(VO)}
 <DIAL>__{Beloved..you are my sister..you are my daughter. you are my face..you are me..i have found you again..i waited for you..you are my beloved. don't love her too much...you my best thing.. you are mine..you are mine..you are mine...}
-<ACTION>__{BY THE TIME THE CAMERA REACHES BLUESTONE ROAD, THE VOICES ARE MIXED, UNDECIPHERABLE YET AUDIBLE... ...AUDIBLE TO STAMP PAID, WHO STANDS ON BLUESTONE RD. LISTENING TO THE HAUNTED VOICES OF 124.  HE IS FRIGHTENED.}
+<ACTION>__{BY THE TIME THE CAMERA REACHES BLUESTONE ROAD, THE VOICES ARE MIXED, UNDECIPHERABLE YET AUDIBLE... ...AUDIBLE TO STAMP PAID, WHO STANDS ON BLUESTONE RD. LISTENING TO THE HAUNTED VOICES OF 124. HE IS FRIGHTENED.}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{EXT. CHURCH - DAY.}
 <ACTION>__{A cold day. Paul D. sits against the church drinking from a bottle when a voice causes him to look up;}
@@ -2755,7 +2755,7 @@
 <CHAR>__{STAMP PAID} <CHAR_PAR>__{}
 <DIAL>__{I don't believe that. I won't.}
 <CHAR>__{PAUL} <CHAR_PAR>__{}
-<DIAL>__{There was a rooster named Mister down at Sweet Home. Last time I saw Halle, with that butter all over his face and me with an iron bit in my mouth, I saw Mister - sitting on a tub. He loved that tub. Like king on a throne. He was a hateful thing. Bloody and evil..But he was better than me.  Mister was allowed to be and stay what he was. Even if you cooked him you'd be cooking a rooster named Mister. But wasn't no way I'd ever be Paul D. again..Schoolteacher changed me. Was never no beating under Mr. Garner. Schoolteacher changed that. Why wouldn't a man run from that? Why wouldn't a man not work, kill, starve, pull out his own heart to stop feeling 'stead of feeling that? And it strikes me, it's got to be cause we were something else. And that something was less than a chicken sitting in the sun on a tub.}
+<DIAL>__{There was a rooster named Mister down at Sweet Home. Last time I saw Halle, with that butter all over his face and me with an iron bit in my mouth, I saw Mister - sitting on a tub. He loved that tub. Like king on a throne. He was a hateful thing. Bloody and evil..But he was better than me. Mister was allowed to be and stay what he was. Even if you cooked him you'd be cooking a rooster named Mister. But wasn't no way I'd ever be Paul D. again..Schoolteacher changed me. Was never no beating under Mr. Garner. Schoolteacher changed that. Why wouldn't a man run from that? Why wouldn't a man not work, kill, starve, pull out his own heart to stop feeling 'stead of feeling that? And it strikes me, it's got to be cause we were something else. And that something was less than a chicken sitting in the sun on a tub.}
 <ACTION>__{He drinks.}
 <CHAR>__{STAMP PAID} <CHAR_PAR>__{}
 <DIAL>__{I said I had two things to say to you. I only told you one. I have to tell you the other.}
@@ -3107,7 +3107,7 @@
 <CHAR>__{ELLA} <CHAR_PAR>__{}
 <DIAL>__{No, and the children can't just up and kill the mama. What's fair ain't necessarily right...}
 <DIAL_PAR>__{(the women listen)}
-<DIAL>__{Now you all know how I felt about the whole thing. I know the rage Sethe felt in that shed that day.  We all do. But what I could not understand, and still don't, was her reaction to it. Prideful. Too damn complicated for a black woman in her position before God. But whatever she done, I don't like the idea of past errors taking possession of the present. I don't cotton to sin moving in on a house, unleashed and sassy. Every day life takes enough, takes all a woman has. "Sufficient unto the day is evil thereof" and nobody needs more. Nobody needs a grown up evil sitting at a table with a grudge. As long as that ghost showed itself from a ghostly place, I respected it. But once it take on flesh and come into this world, well, the shoe's on the other foot now. I don't mind a little communication between worlds. But this here's an invasion.}
+<DIAL>__{Now you all know how I felt about the whole thing. I know the rage Sethe felt in that shed that day. We all do. But what I could not understand, and still don't, was her reaction to it. Prideful. Too damn complicated for a black woman in her position before God. But whatever she done, I don't like the idea of past errors taking possession of the present. I don't cotton to sin moving in on a house, unleashed and sassy. Every day life takes enough, takes all a woman has. "Sufficient unto the day is evil thereof" and nobody needs more. Nobody needs a grown up evil sitting at a table with a grudge. As long as that ghost showed itself from a ghostly place, I respected it. But once it take on flesh and come into this world, well, the shoe's on the other foot now. I don't mind a little communication between worlds. But this here's an invasion.}
 <ACTION>__{The women agree.}
 <CHAR>__{GRACE} <CHAR_PAR>__{}
 <DIAL>__{Should we pray?}
@@ -3158,7 +3158,7 @@
 <ACTION_ALT>__{DENVER RUNS AFTER HER. SETHE REACHES THE WOMEN AND LUNGES FOR}
 <ACTION>__{BODWIN BUT THE WOMEN SEIZE HER, CREATING A HILL OF BLACK PEOPLE. SETHE RISING TO THE TOP, HER HAND EXTENDED. DENVER REACHING HER FROM BEHIND, PULLING HER BACK AND PUNCHING HER}
 <ACTION_ALT>__{OUT COLD AS THE BODIES FALL AROUND THEM....}
-<ACTION>__{Beloved watches from the house - watches Sethe attack and defend with the ice pick.  And something within her is resolved. For a moment, we see a calm spirit instead of a wild animal. And a tear upon her face.. Then, just as quickly, she sprints around the side of the house and disappears from view. The Women try to help Sethe as Denver cries for her mother. Mr. Bodwin looks on stunned. WIDE ANGLE - OF A NAKED BLACK WOMAN WITH A FULL BELLY RUNNING THROUGH AN OPEN FIELD, REACHING THE WOODS THEN DISAPPEARING}
+<ACTION>__{Beloved watches from the house - watches Sethe attack and defend with the ice pick. And something within her is resolved. For a moment, we see a calm spirit instead of a wild animal. And a tear upon her face.. Then, just as quickly, she sprints around the side of the house and disappears from view. The Women try to help Sethe as Denver cries for her mother. Mr. Bodwin looks on stunned. WIDE ANGLE - OF A NAKED BLACK WOMAN WITH A FULL BELLY RUNNING THROUGH AN OPEN FIELD, REACHING THE WOODS THEN DISAPPEARING}
 <LOC>__{INTO THE TREES......}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{EXT. RICHMOND ST. - DAY. WEEKS LATER.}
@@ -3246,7 +3246,7 @@
 <DIAL_PAR>__{(no response)}
 <DIAL>__{I saw Denver. She tell you?}
 <CHAR>__{SETHE} <CHAR_PAR>__{}
-<DIAL>__{She comes in the daytime.  She still with me, my Denver.}
+<DIAL>__{She comes in the daytime. She still with me, my Denver.}
 <CHAR>__{PAUL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(nervous)}
 <DIAL>__{You got to get up from here, girl.}
@@ -3278,7 +3278,7 @@
 <LOC>__{EXT. THE CLEARING - A DAY OUT OF TIME.}
 <ACTION>__{A beautiful, sunny day. The clearing is full. Everyone looks bright and hopeful. Dressed in bright, summer clothes... A robust Baby Suggs is on her rock giving her best Call, as camera pans the crowd of faces eager to believe ....}
 <CHAR>__{BABY SUGGS} <CHAR_PAR>__{}
-<DIAL>__{..The only grace we can have, is the grace we can imagine. If you cannot see it, you will not have it...Here, in this place, we are flesh. Flesh that weeps, laughs, dances on bare feet in the grass. Love it. Love it hard. Yonder they do not love your flesh. They despise it. They flay it. O, my people, they do not love your hands. Those they only use, tie, bind, chop off and leave empty, Love your hands. Love them. Raise them up and kiss them. Touch others with them, put them together, stroke them on your face 'cause they don't love that either. You  got to love it. You. Yonder out there, they ain't in love with your moth. They will see it broken and break it again. What you say out of it, they will not heed. What you scream from it they do not hear. No, they don't love your mother. You got to love it. And the feet that need to rest and to dance. The backs that needs support. The shoulders that need arms, strong arms I'm telling you! O my people, out yonder they don't love your neck unnoosed and straight. So love your neck; put a hand on it, grace it, stroke it and hold it up. Love all your inside parts, love 'em..and the beating heart, love that too. More than eyes or feet. More than lungs that have yet to draw free air, love your heart. For this is the prize.}
+<DIAL>__{..The only grace we can have, is the grace we can imagine. If you cannot see it, you will not have it...Here, in this place, we are flesh. Flesh that weeps, laughs, dances on bare feet in the grass. Love it. Love it hard. Yonder they do not love your flesh. They despise it. They flay it. O, my people, they do not love your hands. Those they only use, tie, bind, chop off and leave empty, Love your hands. Love them. Raise them up and kiss them. Touch others with them, put them together, stroke them on your face 'cause they don't love that either. You got to love it. You. Yonder out there, they ain't in love with your moth. They will see it broken and break it again. What you say out of it, they will not heed. What you scream from it they do not hear. No, they don't love your mother. You got to love it. And the feet that need to rest and to dance. The backs that needs support. The shoulders that need arms, strong arms I'm telling you! O my people, out yonder they don't love your neck unnoosed and straight. So love your neck; put a hand on it, grace it, stroke it and hold it up. Love all your inside parts, love 'em..and the beating heart, love that too. More than eyes or feet. More than lungs that have yet to draw free air, love your heart. For this is the prize.}
 <ACTION>__{And with her twisted, broken old body BABY SUGGS BEGINS TO}
 <ACTION_ALT>__{DANCE AND TWIRL UP ON HER ROCK.}
 <ACTION>__{And the crowd gives her music, SINGING IN FOUR PART HARMONY. CAMERA PANS THE CROWD OF BEAUTIFUL FACES singing together. Among the crowd, we see FAMILIAR FACES... WE SEE THE WOMEN WHO SANG AT 124... WE STAMP PAID, ELLA, JOHN, and LADY JONES... AND WE SEE SETHE, SURROUNDED BY ALL HER CHILDREN.}

@@ -2089,7 +2089,8 @@
 <DIAL>__{I'd like one of your cigarettes, please.}
 <ACTION>__{Graham gives her one. Molly lights up. She picks a piece or tobacco from her lips. She's trying to control fear.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
-<DIAL>__{Have you ever omitted telling me. things before?}
+
+<DIAL>__{things before?}
 <CHAR>__{GRAHAM} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}

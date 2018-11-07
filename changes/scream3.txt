@@ -108,7 +108,7 @@
 <DIAL>__{I mean, I'm standing right outside the LADIES ROOM door at the PLAZA THEATER. Your girlfriend Christine is in there.  She's all alone. Everyone's in the auditorium waiting for the film to start.}
 <DIAL_PAR>__{(laughs coldly)}
 <DIAL>__{I've got my knife.}
-<ACTION>__{*NOTE: At this point we intercut shots of the empty lobby and halls of the PLAZA THEATER. A POV shot standing outside the LADIES ROOM door.}
+<ACTION>__{NOTE: At this point we intercut shots of the empty lobby and halls of the PLAZA THEATER. A POV shot standing outside the LADIES ROOM door.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(turning pale)}
 <DIAL>__{Listen you sick fuck, is this your idea of a joke?}
@@ -1127,7 +1127,7 @@
 <DIAL>__{Has anyone else every used your phone?}
 <CHAR>__{DEWEY} <CHAR_PAR>__{}
 <DIAL>__{Just Jennifer.}
-<DIAL_PAR>__{(To Kincaid_)}
+<DIAL_PAR>__{(To Kincaid )}
 <DIAL>__{And you.}
 <CHAR>__{DETECTIVE KINCAID} <CHAR_PAR>__{}
 <DIAL>__{Hey, I'm the cop here.  You're in my office, Riley.}

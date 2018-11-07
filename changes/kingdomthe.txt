@@ -1,8 +1,8 @@
 <CHAR>__{THE KINGDOM} <CHAR_PAR>__{}
 <DIAL>__{Written by}
 <CHAR>__{MATTHEW MICHAEL CARNAHAN} <CHAR_PAR>__{}
-<DIAL>__{8/18/2006}
-<ACTION>__{OMITTED - SEE 68A}
+
+
 <LOC>__{INT. WASHINGTON, DC ELEMENTARY SCHOOL - DAY}
 <ACTION>__{We're in a kindergarten classroom of 25 SIX YEAR OLDS. All sitting on the floor, legs crossed. Sitting in front of the kids is Little KEVIN FLEURY, flanked by his mom LYLA FLEURY and his dad RONALD FLEURY, in a dark suit. Little Kevin has a large cardboard square with pictures from different stages of his life taped to it. He's telling the class about the photos. We're TIGHT ON the pictures. TIGHT ON the young faces. TIGHT ON Fleury.}
 <CHAR>__{KEVIN FLEURY} <CHAR_PAR>__{}
@@ -55,12 +55,12 @@
 <DIAL>__{So, who's that in that picture up on top?}
 <CHAR>__{KEVIN FLEURY} <CHAR_PAR>__{}
 <DIAL>__{That's my fish, his name is Jaws and he's a really mean fish.}
-<ACTION>__{OMITTED - SEE 68A}
+
 <LOC>__{INT. WASHINGTON DC ELEMENTARY SCHOOL- CONTINUOUS}
 <ACTION>__{Kevin is still going strong.}
 <CHAR>__{KEVIN FLEURY} <CHAR_PAR>__{}
 <DIAL>__{My mommy is a Think Tank worker and she is really, really smart. She went to two colleges and has three computers.}
-<ACTION>__{OMITTED - SEE 78A, 87}
+
 <LOC>__{INT. WASHINGTON DC ELEMENTARY SCHOOL - DAY}
 <ACTION>__{Kevin's pointing to a picture of Ronald holding him as a tiny newborn.}
 <CHAR>__{KEVIN FLEURY} <CHAR_PAR>__{}
@@ -90,7 +90,7 @@
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. AN UNKNOWN ROOFTOP - LATE DAY}
 <ACTION>__{A Muslim family sits together at a table under a tented- canopy: 32 year-old MAN nervously chewing on a toothpick, and his 8 and 15 year-old SONS. The 8yo leans his weight into an old MAN hunched and obscured by his grandson - this is his Grandfather. He gently rubs the Boy's head with an ancient left hand. The Boy finger-paints in Arabic script, right to left, getting paint on the table. Read the translation: There is no God but Allah. The Grandfather's face is down, obscured by his shumagh: the head-wrap worn by some Muslim men. Never a clear view of his face. His 32 year old Son and eldest Grandson sit next to them, the Son talking quietly on a cell phone, chewing that toothpick, eyes set on something in the distance: A Security Gate three hundred yards away, the entrance to some sort of compound. The Compound looks like a walled-off subdivision, most of which we can see from this high up. The landscape is foreign. Scrub desert. Ten miles beyond, on the horizon: the shimmer of a modern skyline. Surreal monolithic shapes made more so by the heat. Muted yells-claps-screams waft in from that Compound now... Catches the youngest Grandson's attention. Eyes lift up from his painting: the yells-claps-screams are coming from a softball game mostly visible behind the Compound's reinforced walls that extend a mile in each direction. Played on the only stretch of green grass visible from this vantage.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. COMPOUND MAIN ENTRANCE - LATE DAY}
 <ACTION>__{Sounds from the softball game much louder now, just over the walls. Security perimeters two checkpoints deep before you get to the main gate. A maze of concrete Jersey-barriers to slow all entering vehicles: give machine-gun emplacements flanking the entrance plenty of time to shred those vehicles if need be. Middle-Eastern Police platoons. 500 lbs. lift- gates to dissuade any vehicle that just tries to ram through. SERGEANT HAYTHAM: a lean, 27 year-old Middle-Eastern Policeman in-command of the Entrance. Sweats through his uniform. A late-model Range Rover with blacked-out windows queues up. All the windows roll down: just a single, portly White WOMAN behind the wheel, her INFANT CHILD in a car-seat in front. Two other Uniformed Officers mirror-scan the bottom of the Rover. A brief exchange, as Haytham checks his ID:}
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
@@ -384,7 +384,8 @@
 <DIAL>__{Well... I guess he's gonna go get us some access.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{How's he gonna do that?}
-<ACTION>__{Sykes just hard-eyes Leavitt. SEE 29A - 29D (MOVED, NOT OMITTED)}
+<ACTION>__{Sykes just hard-eyes Leavitt.}
+
 <LOC>__{INT. SAUDI NATIONAL GUARD PRISON - UNKNOWN TIME}
 <ACTION>__{COLONEL AL-GHAZI, Saudi Police, 45 years-old, mustache as thick as Sykes'. A firecracker-loud crack makes him flinch. He stands in the back of the room, not participating in the interrogation. Just observing. Clearly not happy about what he's observing. His POV: The Officer from the second Land Cruiser that rammed the fake and killed those inside, Sergeant Haytham. slab- cuffed and being worked over hard buy a couple of thick- fisted SAUDIS.. Silent tears roll off his cheek, left ear split ghastly. A MAN standing far right of him beats him: the firecracker sound again. Al-Ghazi looks away, biting his tongue. Obviously wants this over. In-charge of the interrogation: GENERAL ABDUL MALIK. He doesn't appear sadistic, but very determined to get the truth from Sergeant Haytham by any means necessary. Those distinctions blur easily. Malik gives a `hold-up' signal. The following exchange in Arabic:}
 <DIAL>__{GENERAL ABDUL-MALIK No falsehoods, Sergeant Haytham. What was your involvement?}
@@ -842,7 +843,7 @@
 <CHAR>__{LEAVITT} <CHAR_PAR>__{}
 <DIAL>__{This is going to suck so bad.}
 <ACTION>__{And the three follow Fleury onto the massive plane.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. C-130, AIRBORNE - LATER}
 <ACTION>__{Silent. Just the lull of jet engines. The big, long boring is just beginning. Janet and Leavitt play Scrabble. Sykes sits nearby. Fleury sits up front, wide awake.}
 <CHAR>__{ADAM LEAVITT} <CHAR_PAR>__{}
@@ -863,7 +864,8 @@
 <DIAL>__{Go easy on my kin.}
 <CHAR>__{JANET MAYES} <CHAR_PAR>__{}
 <DIAL>__{It's a very confused culture. Extremely religious. Had nothing; wanted nothing. Sixty years ago, they hit oil. Simple religious men become trillionaires... a schizophrenic nation is born. The royal family, who we back, and everyone else.}
-<ACTION>__{Intercut with the Scrabble. OMITTED (SEE 42A) THRU 53}
+<ACTION>__{Intercut with the Scrabble.}
+
 <LOC>__{EXT. PALACE GROUNDS - NIGHT, SAUDI TIME}
 <ACTION>__{Three-Suburban convoy turns up a driveway, waved past a guard post bristling with automatic weapons and into the circular drive of a massive, walled palace. Impersonal wealth. Two dozen SANG troops on security detail. Two Humvees equipped with anti-aircraft missiles parked 100 yards apart. Colonel Al-Ghazi out of the middle Suburban. Frisked by SANG, rough: no love lost.}
 <LOC>__{INT. IMPERSONAL PALACE - SAME MOMENT}
@@ -1019,7 +1021,7 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{You're still not working nights.}
 <ACTION>__{Fleury stays quiet, studying, calculating, thinking: we got a Handler that's going to be tough to handle.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. GIDEON YOUNG'S OFFICE - EVENING RUSH HOUR, EST}
 <ACTION>__{Director Grace already sits in front of Young's desk.}
 <CHAR>__{DIRECTOR GRACE} <CHAR_PAR>__{}
@@ -2255,7 +2257,8 @@
 <DIAL_PAR>__{COLONEL AL-GHAZI (CONT'D)}
 <DIAL>__{Tighten up-}
 <ACTION>__{-the trailing Suburban doesn't `tighten up.' It falls further back. Fleury instinctively turns, wide-eyed -- out the window: a small brown truck swerves out of the opposing lanes, flying across the desert median, aimed at the Convoy. Without hesitation Fleury reaches over Haytham, rips the steering-wheel right, nosing away from the approach...}
-<LOC>__{114 THRU 116 OMITTED EXT. SAUDI HIGHWAY - SAME MOMENT}
+
+<LOC>__{EXT. SAUDI HIGHWAY - SAME MOMENT}
 <ACTION>__{Our Suburban on two wheels: The lead Suburban turns the same direction a twitch too late. The small brown truck detonates. The lead Suburban takes a massive fraction of the explosion broadside, essentially shielding our vehicle. Flame spits through the lead vehicle as it spins, flips onto its roof.}
 <LOC>__{INT. OUR SUBURBAN - NEXT MOMENT}
 <ACTION>__{Off-road now, violent impacts on bare rims shedding rubber.}
@@ -2469,10 +2472,11 @@
 <CHAR>__{FLEURY} <CHAR_PAR>__{}
 <DIAL>__{May peace be with all of us,   my friend.}
 <ACTION>__{The two men shake hands.}
-<LOC>__{143alt OMITTED                                                 143alt}
-<ACTION_ALT>__{OMITTED}
-<ACTION>__{OMITTED - SEE SCENE 150}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{INT. WASHINGTON FIELD OFFICE - CUBICLE - DAY}
 <ACTION>__{Fleury, Sykes, Leavitt and Janet sit around Janet's cubicle. Bandages, awkward silences, and 1000-yard stares. Subpoenas stacked on the corner of Janet's desk. Leavitt quiet, obviously fucked up. Grace approaches.}
 <CHAR>__{DIRECTOR GRACE} <CHAR_PAR>__{}
@@ -2516,7 +2520,7 @@
 <CHAR>__{GRANDSON} <CHAR_PAR>__{}
 <DIAL>__{"Don't worry: we'll kill them all."}
 <ACTION>__{And in his saucer-wide brown eyes, shrink-wrapped in angry tears, we see the parts of the future that will burn.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. WASHINGTON, DC PARK - TIME LAPSE}
 <ACTION>__{Sunlight shines TIGHT ON Fleury's face: stitches the length of his cheek remain. PULL OUT: Fleury and his son throwing a baseball. Lyla watches, standing by a tree. Father and son throwing the ball back and forth.}
 <CHAR>__{KEVIN FLEURY} <CHAR_PAR>__{}

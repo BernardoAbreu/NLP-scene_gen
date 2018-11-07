@@ -82,7 +82,8 @@
 <ACTION>__{Lee also watches, elbows on knees and chin in hands. He can't stand it, either. He stays.}
 <ACTION_ALT>__{IN THE HALLWAY AFTERWARDS}
 <ACTION>__{Bucky watches from afar as men in suits shake Lee's hand and brush imaginary lint off of his BRAND NEW SERGEANT'S STRIPES. Their eyes meet briefly as Bucky retreats to daylight. Another TRIPLE CARBON FORM FILLED OUT ON THE CORONA... Transfer and Promotion...Sergeant Lee Blanchard... Highland Park Vice to Central Warrants...Effective}
-<LOC>__{10/14/46 EXT. 2ND AND BEAUDRY - DAY}
+
+<LOC>__{EXT. 2ND AND BEAUDRY - DAY}
 <ACTION>__{An extremely bored Bucky Bleichert gives a man a speeding ticket and sends him on his way.}
 <LOC>__{EXT./INT. RADIO PATROL CAR - MOVING}
 <ACTION>__{Bucky drives as a ROOKIE COP chatters in the seat next to him.}
@@ -130,7 +131,7 @@
 <CHAR>__{LEE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(getting to his feet)}
 <DIAL>__{Gentlemen, Bucky Bleichert. Bucky, Chief Thad Green, Deputy DA Ellis Loew.}
-<ACTION>__{Bucky shakes their hands, nodding to each.  Chief Green gestures for him to sit.}
+<ACTION>__{Bucky shakes their hands, nodding to each. Chief Green gestures for him to sit.}
 <CHAR>__{CHIEF GREEN} <CHAR_PAR>__{}
 <DIAL>__{Read this aloud, Officer. It's running in Sunday's Times.}
 <CHAR>__{BUCKY} <CHAR_PAR>__{}
@@ -364,7 +365,7 @@
 <ACTION_ALT>__{A HAMMER HITTING A BELL}
 <ACTION>__{and the fight is on.}
 <ACTION_ALT>__{INSIDE THE PACKED ACADEMY GYM}
-<ACTION>__{Cops and mobsters sit shoulder to shoulder, cigar smoke like L.A. haze as LEE CHARGES BUCKY, the big man trying to cut of the ring. Bucky engages, dodging Lee's thundering blows and peppering back with counterpunches... **The general fight storyline is this: a very even and brutal match see-sawing back and forth, Bucky doing all he can to make it into the middle rounds. Somewhere around the fourth or fifth round his competitive juices take over and he begins trying to win at all costs. The two men hurt each other badly, and in the eighth round it's anybody's fight. Bucky punches toe-to-toe with Lee, abandoning his strategy. Lee knocks Bucky out.}
+<ACTION>__{Cops and mobsters sit shoulder to shoulder, cigar smoke like L.A. haze as LEE CHARGES BUCKY, the big man trying to cut of the ring. Bucky engages, dodging Lee's thundering blows and peppering back with counterpunches... The general fight storyline is this: a very even and brutal match see-sawing back and forth, Bucky doing all he can to make it into the middle rounds. Somewhere around the fourth or fifth round his competitive juices take over and he begins trying to win at all costs. The two men hurt each other badly, and in the eighth round it's anybody's fight. Bucky punches toe-to-toe with Lee, abandoning his strategy. Lee knocks Bucky out.}
 <LOC>__{INT. BUCKY'S BEDROOM - DAY}
 <ACTION>__{Bucky lies in bed, radio playing jazz. He looks horrible-- face swollen, lip split, stitches across his nose. He sips whiskey from a bottle through a straw. The phone rings and rings. He refuses to answer it...}
 <LOC>__{INT. A REST HOME - ANOTHER DAY}
@@ -430,7 +431,7 @@
 <DIAL>__{My partner, Harry Sears.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(stuttering)}
-<DIAL>__{Y-y-y-yes.  Th-th-thanks Officer B-B- Bleichert.}
+<DIAL>__{Y-y-y-yes. Th-th-thanks Officer B-B- Bleichert.}
 <ACTION>__{Before Bucky can answer ELLIS LOEW grabs him by the elbow and leads him away.}
 <CHAR>__{ELLIS LOEW} <CHAR_PAR>__{}
 <DIAL>__{Officer Bleichert. Welcome to Central Warrants--}
@@ -581,7 +582,7 @@
 <CHAR>__{ELLIS LOEW} <CHAR_PAR>__{}
 <DIAL>__{Here's the man to fear.}
 <TRANS>__{ANGLE ON THE MUG SHOT AND RAP SHEET:}
-<ACTION>__{RAYMOND "JUNIOR" NASH:  Statutory raps, armed robbery, felony mayhem...Texas State Prison...Alcatraz... The cops are impressed.}
+<ACTION>__{RAYMOND "JUNIOR" NASH: Statutory raps, armed robbery, felony mayhem...Texas State Prison...Alcatraz... The cops are impressed.}
 <CHAR>__{BUCKY} <CHAR_PAR>__{}
 <DIAL>__{Give us the good news. He's in LA and actin' uppity?}
 <CHAR>__{ELLIS LOEW} <CHAR_PAR>__{}
@@ -2770,7 +2771,7 @@
 <DIAL>__{About a month ago this Mexican woman shows up at my office in Dago. Chubby, ten tons a makeup, but dressed to the nines. Offers me five hundred to find Blanchard. Just like you I track him here where he's playing the rich gringo--}
 <ACTION>__{A FLASHBACK - LEE TEARING UP AN ENSENADA BAR}
 <CHAR>__{DOLPHINE} <CHAR_PAR>__{}
-<DIAL>__{I even see him beat up two spics who insult this Senorita--Rurales stand by and do nothing. So I know he's paying protection dough. A lot of it. Then  I hear he paid off two plainclothes Rurale to snuff a coupla guys in TJ--}
+<DIAL>__{I even see him beat up two spics who insult this Senorita--Rurales stand by and do nothing. So I know he's paying protection dough. A lot of it. Then I hear he paid off two plainclothes Rurale to snuff a coupla guys in TJ--}
 <ACTION>__{A FLASHBACK - BOBBY DE WITT AND FELIX CASCO BLOWN AWAY...}
 <CHAR>__{DOLPHINE} <CHAR_PAR>__{}
 <DIAL>__{I leave a message in Dago for the woman tellin' her what I know...}
@@ -3545,7 +3546,7 @@
 <CHAR>__{BUCKY} <CHAR_PAR>__{}
 <DIAL>__{I need to see his grave, you tightass kiltwearing motherfucker. Where'd you bury George Tilden?}
 <LOC>__{EXT. A PAUPER'S CEMETERY - DAY}
-<ACTION>__{Bucky stands in front of a plain grave marker: "George Tilden. 1906 - 1948.  War Hero and Loyal Friend"}
+<ACTION>__{Bucky stands in front of a plain grave marker: "George Tilden. 1906 - 1948. War Hero and Loyal Friend"}
 <CHAR>__{VOICE OVER} <CHAR_PAR>__{}
 <DIAL>__{When I'd pulled George's print card that morning, I'd already laid fifty down with Russ that he was our guy. Amateur taxidermist, transient. If he was a cop 39th and Norton woulda been right in the middle of his beat...}
 <LOC>__{INT. THE ROOM WITH THE FILE CABINETS - FLASHBACK}

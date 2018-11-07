@@ -45,7 +45,7 @@
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
 <DIAL>__{Darling.}
 <ACTION>__{She lies next to him, something girlish, hopeful in her face, as if waiting for him to wake up and adore her, but he sleeps on. She carefully takes his arm, positions it under her neck, and rolling toward him, wraps it around her. The image of love's intimacy, of wedded bliss. His hand slips off her shoulder, once, twice. She moves awkwardly to replace it. He moves a little toward her. She kisses his neck, his cheek. We don't know if he's awake, but even this shadow of intimacy penetrates her soul.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. MOSCOW. STUDY. DAY.}
 <ACTION>__{A handsome study in the Moscow townhouse of VLADIMIR GRIGOREVICH CHERTKOV, Tolstoy's most articulate and dedicated disciple. He's interviewing Tolstoy's newly appointed secretary, VALENTIN BULGAKOV, the young man we met near the train, who, at the mention of sex, blushes a little.}
 <CHAR>__{CHERTKOV} <CHAR_PAR>__{}
@@ -67,7 +67,9 @@
 <DIAL>__{My dear boy, if you were to become Tolstoy's private secretary, you would be given a great gift. You'll be with him every day, eat together, walk in the forest by his side.}
 <ACTION>__{It's difficult to contain himself.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
-<DIAL>__{Believe me, since becoming a Tolstoyan, I have become so eager to learn, so comitted to discussing ideas, improving my very soul.}
+<DIAL>__{Believe me, since becoming a Tolstoyan, I have become so eager}
+
+<DIAL>__{discussing ideas, improving my very soul.}
 <CHAR>__{CHERTKOV} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{Well, we have a lot to do if we are to get his work to the people.}
@@ -322,7 +324,7 @@
 <DIAL>__{He's a sorry old tight-assed stick in the mud...but yes, he's sincere.}
 <LOC>__{EXT. ROAD TO YASNAYA POLYANA.   DAY.}
 <ACTION>__{A modest horse drawn cart. Valentin sits beside the driver, contemplates the birch trees that line the road, the long shadows they cast. Above, crows make lazy circles in the sky.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. ENTRY WAY/STAIRS. DAY.}
 <ACTION>__{Valentin stands in the entry way, waiting.   He looks lost.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
@@ -376,7 +378,9 @@
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{You rest for a moment and I'll fetch you a glass of tea. Rest, because there's work for both of us together.}
 <ACTION>__{He smiles and goes, leaving Valentin to contemplate his fortune.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{EXT. YASNAYA POLYANA. GROUNDS. DAY.}
 <ACTION>__{Sofya, Sasha, Valentin, ANDREY, Tolstoy's son, and Tolstoy all clustered around a table taking tea. Dushan stands near the group fiddling with a gramophone that sits on a small table.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
@@ -647,7 +651,7 @@
 <CHAR>__{SASHA} <CHAR_PAR>__{}
 <DIAL>__{Where's papa?}
 <ACTION>__{Without waiting for the answer, Sasha races past her and out the door}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. YASNAYA POLYANA. ZASYEKA WOODS. DAY}
 <ACTION>__{Valentin and Tolstoy walk together in the woods. .}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
@@ -710,7 +714,7 @@
 <ACTION>__{Smash cut to}
 <LOC>__{EXT. RAILWAY. COUNTRYSIDE. DAY}
 <ACTION>__{A train roars past camera, shaking the world.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. YASNAYA POLYANA. GROUNDS. DAY}
 <ACTION>__{Chertkov climbs down from his droshky. Suddenly, Tolstoy is there. Valentin watches them embrace.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
@@ -748,7 +752,7 @@
 <ACTION>__{Valentin watches her match him smile for smile.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
 <DIAL>__{And I'm happy to make you happy...always.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ROAD TO TELYATINKI. DAY}
 <ACTION>__{Valentin and Chertkov sit together in the droshky, an awkward silence.}
 <CHAR>__{CHERTKOV} <CHAR_PAR>__{}
@@ -793,7 +797,11 @@
 <CHAR>__{CHERTKOV} <CHAR_PAR>__{}
 <DIAL>__{I can only be of limited help to the master if I don't know what's going on. Any effort she makes to shore up control of the copyright, I must know. The survival of our movement depends on it. Remember who your friends are. What you've come here to do.}
 <ACTION>__{Chertkov turns away to watch the countryside. Valentin stares straight ahead, his nose twitches slightly.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{INT. TELYATINKI. VALENTIN'S ROOM. NIGHT.}
 <ACTION>__{Valentin, in bed, writes in his diary. Closing his eyes, he begins to drift off when there is a noise outside his door.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
@@ -953,7 +961,7 @@
 <DIAL>__{Then, let me go with you.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{No, my dear, I'll go alone.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. SOFYA'S BEDROOM. NIGHT.}
 <ACTION>__{Close on Sofya lying in bed. She looks ravishing in the candle light. In the background, Tolstoy arrives in the bedroom door.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
@@ -1120,7 +1128,7 @@
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{I ve told you the truth. Now, let me work. Please, will you?}
 <ACTION>__{He walks to his desk.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. LIBRARY. CONTINUOUS. DAY.}
 <ACTION>__{Tolstoy looks up from his work. Sofya stands in the doorway.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
@@ -1268,12 +1276,14 @@
 <CHAR>__{MASHA} <CHAR_PAR>__{}
 <DIAL>__{Yes...}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
-<DIAL>__{I think about you all the time. In my heart I ve comitted the act of copulation many times. I just want to say...It was never like it was with you.}
+<DIAL>__{I think about you all the time.}
+
+<DIAL>__{of copulation many times. I just want to say...It was never like it was with you.}
 <ACTION>__{Masha bursts out laughing.}
 <CHAR>__{MASHA} <CHAR_PAR>__{}
 <DIAL>__{I'll wait for you, then.}
 <ACTION>__{As Valentin goes to catch her up, he sees Sergeyenko watching from outside the unfinished chicken coop.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. SOFYA'S BEDROOM. MORNING.}
 <ACTION>__{Sofya wakes up. She looks relaxed, then she sniffs, sniffs again. Out of bed, she grabs a dressing gown. Opening her door, she spots Ivan in the hall.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
@@ -1324,7 +1334,8 @@
 <CHAR>__{TOLSTOY } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{But she won't. She'll never understand.}
 <ACTION>__{HER P.O.V. a crowd of gawkers gather on the lawn below her. One man sets up photographic equipment. She waves him away turns back to the window.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. YASNAYA POLYANA. LIBRARY. DAY.}
 <ACTION>__{Chertkov pushes his point.}
 <CHAR>__{CHERTKOV} <CHAR_PAR>__{}
@@ -1472,7 +1483,7 @@
 <ACTION>__{Valentin helps Sofya to her feet. Dushan gets up himself and walks to Tolstoy.}
 <CHAR>__{DUSHAN} <CHAR_PAR>__{}
 <DIAL>__{She's alright. I'm more concerned for you... We should all go to bed before something else happens.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. TELYATINKI COMPOUND. NIGHT.}
 <ACTION>__{Valentin sits at the bonfire, with other disciples. After a while he walks towards the house.}
 <LOC>__{INT. TELYATINKI. KITCHEN. NIGHT.}
@@ -1647,7 +1658,9 @@
 <DIAL>__{Why are you laughing? You think I'm ridiculous.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
 <DIAL>__{I'm laughing because I didn't sneeze.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{INT. YASNAYA POLYANA. TOLSTOY STUDY/BEDROOM. DAY.}
 <ACTION>__{Tolstoy has fallen asleep at his desk, his SECRET DIARY open before him. Sofya enters without knocking. He bolts up groggily, tries to hide the little book. Sofya, meanwhile, holds up the letter in her hand.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
@@ -1679,7 +1692,7 @@
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{What is it, dear boy? You look unhappy. What do you want to say?}
 <ACTION>__{But before Valentin can respond A GUNSHOT RINGS OUT.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. TOLSTOY BEDROOM/STUDY. DAY.}
 <ACTION>__{Sofya sits in a chair, firing shot after shot at the photograph of Chertkov. Tolstoy and Valentin enter.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
@@ -1908,7 +1921,11 @@
 <ACTION>__{Valentin hesitates. She walks back to him.}
 <CHAR>__{SOFYA} <CHAR_PAR>__{}
 <DIAL>__{I won't ask you to betray his trust...but I need you to go to him. I do. I have to see him. I have to talk to him. I won't make a scene. Promise him that. I must see him.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{EXT. COUNTRYSIDE. DAWN}
 <ACTION>__{Clouds of steam against the white sky. A great black train travels through the bleak world}
 <LOC>__{INT. THIRD CLASS CARRIAGE. DAY.}
@@ -1926,7 +1943,7 @@
 <ACTION>__{Tolstoy looks up from the papers, smiles.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{I guess our little secret is out.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. YASNAYA POLYANA. SITTING ROOM. DAY}
 <ACTION>__{Sofya sits surrounded by the papers. Andrey appears.}
 <CHAR>__{ANDREY} <CHAR_PAR>__{}
@@ -1985,7 +2002,8 @@
 <DIAL>__{You'll be comfortable here, papa. The rest of us...we'll find cots or sleep in the station.}
 <CHAR>__{TOLSTOY} <CHAR_PAR>__{}
 <DIAL>__{And then we'll be on our way.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. ASTAPOVO. TELEGRAPH OFFICE. NIGHT.}
 <ACTION>__{Valentin approaches the operator.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
@@ -2168,12 +2186,13 @@
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}
 <DIAL>__{No, Countess, Don't worry. Not at all.}
 <ACTION>__{Around her, journalists ask questions, photographers call out "Turn to us, Countess." "Show us your eyes."}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ASTAPOVO. PRIVATE TRAIN. DAWN.}
 <ACTION>__{Valentin, in his wrinkled suit, is asleep in a chair. He wakes to see Sofya stretched out on the sofa. He watches her. She doesn't stir. After a moment, he goes out.}
 <LOC>__{EXT. ASTAPOVO. PLATFORM. DAY}
 <ACTION>__{Valentin emerges from the telegraph office. He walks along the platform, a stack of letter and telegrams in his hands. A few reporters type their early morning dispatches.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. ASTAPOVO. STATIONMASTER'S HOUSE. DAY.}
 <ACTION>__{Valentin comes into the room, acknowledges Chertkov who sits at his makeshift desk going through letters and cables. He goes to the bedside, stops next to Dushan. Silence, interrupted only by Tolstoy's incessant hiccups. Valentin notices Dushan is on the verge of tears.}
 <CHAR>__{VALENTIN} <CHAR_PAR>__{}

@@ -694,7 +694,7 @@
 <DIAL>__{Bet that pisses you off, right? T-BIRD Top, what the fuck is going on tonight?}
 <CHAR>__{TOP DOLLAR} <CHAR_PAR>__{}
 <DIAL>__{Stay normal, T.  Cops'll be all hotwired and aggressive.  No combat moves until I check this out.}
-<LOC>__{EXT. STREET - NIGHT - (~CROWVISION") HIGH ANGLE}
+<LOC>__{EXT. STREET - NIGHT - ( CROWVISION") HIGH ANGLE}
 <ACTION>__{Taking in the street, the Pit, and a little girl seated on an abandoned car. ANGLE - STREET LEVEL - ON ELLY. Seated on the looted wheelless car, playing with a small doll. CLOSER ANGLE - ON ELLY She doesn't notice someone is watching her yet. TIGHT ON DOLL, THEN ELLY She looks up o.s. at Eric, who is still out of the frame.}
 <CHAR>__{ELLY} <CHAR_PAR>__{}
 <DIAL>__{What are you supposed to be?  A clown?}
@@ -1132,7 +1132,7 @@
 <ACTION>__{Eric lends the chase car a backward look.}
 <CHAR>__{ERIC} <CHAR_PAR>__{}
 <DIAL>__{You caught one.  Drive faster. T-BIRD Man, you gonna get us killed dead and I don't even know what you want!}
-<ACTION>__{Eric cocks T_Bird's pistol and levels it at his face.}
+<ACTION>__{Eric cocks T Bird's pistol and levels it at his face.}
 <CHAR>__{ERIC} <CHAR_PAR>__{}
 <DIAL>__{I want you to stop talking.  And drive.  Drive faster.}
 <ACTION>__{Eric rifles the glove box, tossing items out the window: clips for the gun.  Sunglasses.  A giant dildo (brief eyebrows-up to T-Bird).  Then: a roll of (previously established) gaffer's tape.  What Eric needs. ANGLE - T-BIRD AND REARVIEW MIRROR as he sees a second cop car join the high speed pursuit,}

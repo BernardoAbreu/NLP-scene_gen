@@ -57,7 +57,7 @@
 <ACTION>__{Fast Faisil is a computer ace.  His fingers fly on the keyboard as he types rapid key commands.  We see familiar "windows appear".  The words are all in Arabic characters.}
 <CHAR>__{FAISIL} <CHAR_PAR>__{}
 <DIAL>__{These are encrypted files, guys. This is going to take me a few minutes.}
-<LOC>__{14   OMITTED INT. 2ND FLOOR HALLWAY - NIGHT}
+<LOC>__{14    INT. 2ND FLOOR HALLWAY - NIGHT}
 <ACTION>__{TIGHT ON LIBRARY DOOR.  It opens a crack and a dental mirror comes out, looking around like a U-boat periscope.  Seeing the coast is clear Harry slips out.  But just as he is closing the door, a GUARD rounds the corner ten feet away.  Harry turns smoothly.  He smiles sheepishly and moves toward the guard.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Arabic/ subtitled)}
@@ -333,7 +333,7 @@
 <ACTION>__{Gib touches a plastic card to an unmarked spot just above the doorknob.  There is the CLUNK of a SOLENOID LOCK.}
 <CHAR>__{GIB} <CHAR_PAR>__{}
 <DIAL>__{Or drugs.}
-<LOC>__{45   OMITTED INT. CORRIDOR - DAY}
+<LOC>__{45    INT. CORRIDOR - DAY}
 <ACTION>__{They enter a long corridor, which is featureless except for video surveillance cameras.  They walk along the silence for a moment, then .  .  .}
 <CHAR>__{GIB} <CHAR_PAR>__{}
 <DIAL>__{Twenty here, fifty there... I figured my wife's boyfriend was taking it.}
@@ -515,7 +515,7 @@
 <DIAL_PAR>__{(macho voice)}
 <DIAL>__{"I'll handle it".}
 <TRANS>__{CUT TO:}
-<LOC>__{54   OMITTED INT. / EXT. LIMO - DAY (NEXT MORNING)}
+<LOC>__{54    INT. / EXT. LIMO - DAY (NEXT MORNING)}
 <ACTION>__{A BLACK LIMO cruises through a morning fill of bright promise. INSIDE, Gib is at the wheel in a chauffeur's uniform.  He talks to Harry, riding in the back, without turning.}
 <CHAR>__{GIB} <CHAR_PAR>__{}
 <DIAL>__{It's all set up...  ghost phones and fax, all the usual stuff. You have a suite at the Marquis Hotel under Renquist.  Okay, reality check.  Go.}
@@ -721,7 +721,7 @@
 <DIAL>__{See, that's the problem with terrorists.  They're really inconsiderate when it comes to people's schedules.}
 <LOC>__{INT.  STATION WAGON - NIGHT}
 <ACTION>__{There are three men in the car.  YUSIF and MAHMOUD are in the front, with Mahmoud driving.  In the back, shadowed, we can just make out ABU MALIK.  Yusif is massively built, with a body like a beer-keg.  Mahmoud is skinny and intense.}
-<LOC>__{73   OMITTED INT./EXT. GIB'S CAR - MALL - NIGHT}
+<LOC>__{73    INT./EXT. GIB'S CAR - MALL - NIGHT}
 <ACTION>__{Harry puts his SUB-VOCAL TRANSCEIVER into his ear canal.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Test two three.}
@@ -1171,7 +1171,7 @@
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{No problem.}
 <ACTION>__{He surreptitiously picks up Helen's purse from a dresser and goes into the hall.}
-<LOC>__{125   OMITTED EXT. TASKER HOUSE - NIGHT}
+<LOC>__{125    EXT. TASKER HOUSE - NIGHT}
 <ACTION>__{THE FRONT DOOR OPENS and Harry comes out, walking Gizmo on a leash.  Harry walks briskly along the sidewalk, jerking the poor dog along twice as fast as his little legs will go.}
 <LOC>__{EXT. SIDEWALK, BY GIB'S CAR - NIGHT}
 <ACTION>__{He reaches Gib's car, half a block up, and hands him Helen's purse.  Gib eyes the dog warily.  He growls at it.  Gizmo hides behind Harry's legs.}
@@ -1185,7 +1185,7 @@
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Just have is back in two hours.}
 <LOC>__{128}
-<ACTION>__{thru   OMITTED}
+<ACTION>__{thru   }
 <LOC>__{129 INT. / EXT. HELEN'S CAR - DAY}
 <ACTION>__{TIGHT ON THE PURSE sitting on the seat next to her as Helen drives through the city.}
 <LOC>__{INT. / EXT. N.D. SEDAN - DAY}
@@ -1312,9 +1312,9 @@
 <CHAR>__{SIMON} <CHAR_PAR>__{}
 <DIAL>__{Yes.  Now go.}
 <LOC>__{148}
-<ACTION>__{thru   OMITTED}
+<ACTION>__{thru   }
 <LOC>__{155}
-<ACTION>__{PAGES 66-67 OMITTED}
+<ACTION>__{PAGES 66-67 }
 <LOC>__{EXT. STREET/CAR LOT - DAY}
 <ACTION>__{Simon is cruising in the Corvette with the radio blasting. Thinking he is supercool.}
 <LOC>__{EXT. USED CAR LOT - DAY}
@@ -1443,7 +1443,7 @@
 <ACTION>__{Dana is momentarily puzzled by the reversal of roles.}
 <LOC>__{INT. ENTRY WAY - NIGHT}
 <ACTION>__{ON HELEN, checking herself in the hall mirror.  She looks at her big dowdy purse.  Hating it suddenly.  She pulls her pocketbook out and rummages on the top shelf of the hall closet for a small handbag, then charges out.}
-<LOC>__{167   OMITTED INT. / EXT. SEDAN - NIGHT}
+<LOC>__{167    INT. / EXT. SEDAN - NIGHT}
 <ACTION>__{Harry is driving.  Gib pulls a sheaf of pages out of his briefcase and hands them to him.}
 <CHAR>__{GIB} <CHAR_PAR>__{}
 <DIAL>__{Here's today's transcripts. There's nothing interesting.}
@@ -1554,22 +1554,22 @@
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Roger, two.  One to Condor, do you have visual?}
 <LOC>__{177}
-<ACTION>__{thru   OMITTED}
+<ACTION>__{thru   }
 <LOC>__{183 EXT. HIGHWAY LEAVING CITY - NIGHT}
 <ACTION>__{It is a highway heading away from the city.  IN A LONG LENS SHOT, the Vette appears over the brow of a hill.  A moment later A HELICOPTER rises up behind them, A DRAMATIC REVEAL.  It follows the Vette.}
 <DIAL_PAR>__{CONDOR (VOICE OVER/RADIO)}
 <DIAL>__{This is Condor.  We have the ball, repeat... we have a good lock-up on I.R.}
 <TRANS>__{CUT TO:}
 <ACTION>__{INFRARED VIEW of the Vette, from the helicopter's FLIR system.  The greenish, image-intensified view of the car is like daylight.}
-<LOC>__{185   OMITTED}
-<ACTION>__{PAGES 79 - 80 OMITTED}
+<LOC>__{185   }
+<ACTION>__{PAGES 79 - 80 }
 <LOC>__{EXT. HELICOPTER - AERIAL SHOT - NIGHT}
-<ACTION>__{Down past the helicopter, to the Vette on the highway below as they head out into the country. OMITTED (187)}
+<ACTION>__{Down past the helicopter, to the Vette on the highway below as they head out into the country. (187)}
 <LOC>__{EXT. TRAILER PARK - NIGHT}
 <ACTION>__{The headlights of the Vette light up a ratty single-wide mobile home, on the outskirts of a TRAILER PARK off the highway.  Simon and Helen get out of the car.}
 <CHAR>__{SIMON} <CHAR_PAR>__{}
 <DIAL>__{My place in the city is too hot right now.  So is the penthouse in New York.  But this place is secure.}
-<ACTION>__{He takes her inside. OMITTED (189)}
+<ACTION>__{He takes her inside. (189)}
 <LOC>__{INT. SIMON'S TRAILER - NIGHT}
 <ACTION>__{Helen feels awkward in the small, junky space.  A tape deck is playing cool jazz.  Simon hands her a glass of cheap wine. He clinks her glass with his.}
 <CHAR>__{SIMON} <CHAR_PAR>__{}
@@ -2041,7 +2041,7 @@
 <LOC>__{INT. OMEGA SECTOR - INSIDE THE BOOTH - NIGHT}
 <ACTION>__{We hear Jean-Claude record a line on a tiny DAT tape recorder. He speaks with a cosmopolitan French accent.  Close your eyes and he's Charles Boyer.}
 <DIAL>__{JEAN-CLAUDE No no.  Do it slowly.  Very slowly.}
-<LOC>__{228   OMITTED INT. HOTEL MARQUIS - NIGHT}
+<LOC>__{228    INT. HOTEL MARQUIS - NIGHT}
 <ACTION>__{A big luxury hotel downtown, with an opulent lobby.  Helen enters, looking different than we have ever seen her.  She has been commanded to be sexy, and she is.  Her black slinky dress is cut at mid-thigh, showing some good legs we haven't been aware of.  She's pulled her hair back and added pearls.  Now she looks elegant and hot.  Playing the role.}
 <LOC>__{INT. HOTEL - FRONT DESK - NIGHT}
 <ACTION>__{She goes to the front desk and signals the ASSISTANT MANAGER with her eyes.  He comes over to her.}
@@ -2137,7 +2137,7 @@
 <DIAL>__{Talk again, I kill you.}
 <ACTION>__{They are hustled across a loading dock to a RENTAL VAN waiting with the door open.  A fourth terrorist slides the van door shut after they get in and gets in behind the wheel.  The van takes off.}
 <TRANS>__{CUT TO:}
-<LOC>__{237   OMITTED EXT. AIRPORT - NIGHT}
+<LOC>__{237    EXT. AIRPORT - NIGHT}
 <ACTION>__{The rental van pulls up to a G-3 JET warming up outside a private hanger.  The van doors open and the hostages are brought out.  Harry sees a long black LIMO pulling up behind the van.  The driver, an enormous man names AKBAR, hurries to open the passenger door.  A slender pair of ankles emerge, followed by the rest of Juno Skinner, looking devastatingly beautiful but now quite sinister. To Helen it is like a living James Bond film, with the jet, the limo, the terrorists, and now an exotic femme fatale, dressed to kill, approaching them.}
 <CHAR>__{JUNO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(with a wry smile)}
@@ -2442,7 +2442,7 @@
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Let's go.}
 <LOC>__{250}
-<ACTION>__{thru   OMITTED}
+<ACTION>__{thru   }
 <LOC>__{253 INT. WAREHOUSE - NIGHT}
 <ACTION>__{LOOKING DOWN FROM A CATWALK on the activity below the four horsemen statues and several utility trucks almost fill the floorspace.  A rental truck is being loaded with conventional weapons, including machine guns and several HAND-LAUNCHED STINGER MISSILES.  One of the nukes has been lowered into a pit cut in the concrete floor.  Malik and most of the terrorists are gathered around it. A GUARD, F.G.  on the catwalk, watches intently from the railing.  So intently that he doesn't head Harry sneak up on him.  SNAP.  Harry catches the guard's MAC-10 machine pistol before it can hit the floor.  He and Helen crouch behind a steel pillar, watching the proceedings below.  Helen keeps glancing at the dead guard, killed so effortlessly a moment before by her husband.  It is all surreal. BELOW, MALIK is shouting in his native language.  He pulls a chain from around his neck and holds up a METAL ARMING KEY. Then jumps down into the pit and inserts it into the warhead's arming computer.  Harry is listening intently, translating for Helen.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}

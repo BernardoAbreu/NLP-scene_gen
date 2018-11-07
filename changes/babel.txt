@@ -49,7 +49,7 @@
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
 <DIAL>__{You better kill at least three jackals.}
 <CHAR>__{HASSAN} <CHAR_PAR>__{}
-<DIAL>__{And make sure no one sees you with the rifle, hide it if you see someone approach you. Ahmed nods.   Abdullah and Hassan go on their way.}
+<DIAL>__{And make sure no one sees you with the rifle, hide it if you see someone approach you. Ahmed nods. Abdullah and Hassan go on their way.}
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- LATER}
 <DIAL>__{Yasira and Yamil are far from the house, cleaning some goatskins stretched out on some branches. Ahmed, with the rifle in his hands, opens the corral gate and enters to herd them out. He calls his brother.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
@@ -61,7 +61,7 @@
 <CHAR>__{AHMED } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Yussef... Zora turns around toward where the voice is coming from.}
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- DAY}
-<DIAL>__{Yussef is still spying.    Ahmed approaches.}
+<DIAL>__{Yussef is still spying. Ahmed approaches.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{What are you doing? Yussef turns around and signals for him to lower his voice.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
@@ -75,7 +75,7 @@
 <LOC>__{EXT. DESERT -- DAY}
 <DIAL>__{The goats graze. Yussef and Ahmed watch them sitting on the side of a hill. They look hot and bored. They both throw stones at a small rusty can. Yussef throws one and misses. Ahmed throws his and does. He draws a line in the ground.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{Five to two. A jackal is stalking the goats.    Yussef spots it.}
+<DIAL>__{Five to two. A jackal is stalking the goats. Yussef spots it.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{There's a jackal over there. Ahmed raises his head but cannot see it. Yussef points at it, but Ahmed still cannot locate it. Yussef despairs.}
 <CHAR>__{YUSSEF } <CHAR_PAR>__{(CONT'D)}
@@ -97,7 +97,7 @@
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{If you want me to stay out of it, don't do it. Yussef gets annoyed, stand up and leaves.}
 <LOC>__{EXT. DESERT -- DAY}
-<DIAL>__{The brothers are sitting apart from each other.   Ahmed guards the goats with the rifle on his lap. After a while, Yussef goes to sit behind a large rock. He makes sure his brother isn't watching and he pulls his pants down to start masturbating.}
+<DIAL>__{The brothers are sitting apart from each other. Ahmed guards the goats with the rifle on his lap. After a while, Yussef goes to sit behind a large rock. He makes sure his brother isn't watching and he pulls his pants down to start masturbating.}
 <ACTION>__{When he is at his most concentrated, a shot rings out and startles him. He quickly pulls his pants up and another shot rings out. Yussef gets up to see what his brother is doing. Ahmed is aiming the rifle at a rock some two hundred yards away. He fires a third time. Yussef runs up to him.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{What are you doing?}
@@ -122,7 +122,7 @@
 <ACTION>__{Yussef climbs the slope. Ahmed signals a road that in the distance cuts across the great desert plain, and points out a traffic sign that indicates a curve ahead.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I bet you the bullet can't hit that far away.}
-<ACTION>__{Ahmed loads the rifle and aims at the sign.    He fires and nothing.}
+<ACTION>__{Ahmed loads the rifle and aims at the sign. He fires and nothing.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{These fucking bullets aren't any good.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
@@ -134,16 +134,16 @@
 <DIAL>__{I'll shoot.}
 <ACTION>__{Ahmed reloads. The empty cartridge falls to the ground. He fires again - the car keeps going. Yussef asks for the rifle.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You see?    Nothing happens.}
+<DIAL>__{You see? Nothing happens.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{Let me shoot.}
 <ACTION>__{He also drops the used cartridge on the ground, reloads and shoots the traffic sign. He fires and nothing.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{I told you.    Hassan's a liar.}
-<ACTION>__{A bus approaches.    Ahmed points at it.}
+<DIAL>__{I told you. Hassan's a liar.}
+<ACTION>__{A bus approaches. Ahmed points at it.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Shoot at that one...}
-<ACTION>__{Yussef loads the rifle parsimoniously, shuts the chamber, raises the weapon, aims and fires. The bus drives on.    Ahmed turns to his brother.}
+<ACTION>__{Yussef loads the rifle parsimoniously, shuts the chamber, raises the weapon, aims and fires. The bus drives on. Ahmed turns to his brother.}
 <CHAR>__{AHMED } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{See: nothing.}
 <ACTION>__{The bus drives on another three hundred yards and suddenly stops in the middle of the road.}
@@ -164,7 +164,7 @@
 <DIAL_PAR>__{(A beat)}
 <DIAL>__{Dad, are you ok?...And Mariana wanted to take one home, but the teacher didn't let her...}
 <LOC>__{INT. CHILDREN'S ROOM, L.A. HOUSE -- NIGHT}
-<DIAL>__{Amelia is putting Debbie and Mike to sleep.   They are both lying in bed. Amelia sits next to them.}
+<DIAL>__{Amelia is putting Debbie and Mike to sleep. They are both lying in bed. Amelia sits next to them.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Spanish)}
 <DIAL>__{Did you brush your teeth? Mike shows her his teeth so she can see he did.}
@@ -176,7 +176,7 @@
 <DIAL_PAR>__{(Her entire story in Spanish)}
 <DIAL>__{Once there was a hawk who wanted to fly higher than everyone else. He trained every day and hunted little birds so he could eat them and be strong.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
-<DIAL>__{Pajaritos?     Little birds?}
+<DIAL>__{Pajaritos? Little birds?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{Of course, that's what hawks eat. So, one day the hawk flew so, so high that it crashed into an airplane. It fainted and started to fall. And when it was about to hit the ground, all the birds flew toward him and saved him.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
@@ -234,7 +234,7 @@
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{Sir, everything is ready. Can't anyone come take care of the kids? It's just one day.}
 <CHAR>__{RICHARD } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{We need you, Amelia... hold on. Richard stops talking. We hear voices in the background. RICHARD (O.S.) (CONT'D) Amelia, we're really counting on you. I have to go. Goodbye. He hangs up.   Amelia stares into empty space.}
+<DIAL>__{We need you, Amelia... hold on. Richard stops talking. We hear voices in the background. RICHARD (O.S.) (CONT'D) Amelia, we're really counting on you. I have to go. Goodbye. He hangs up. Amelia stares into empty space.}
 <LOC>__{INT. KITCHEN, L.A. HOUSE -- DAY}
 <DIAL>__{Debbie (4) and Mike (5) are having breakfast while Amelia leans on the sink and looks at them, overwhelmed.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -268,7 +268,7 @@
 <CHAR>__{WOMAN } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{No, I don't think so.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{Ok, thanks.    I'll call you tomorrow. She hangs up and remains pensive.}
+<DIAL>__{Ok, thanks. I'll call you tomorrow. She hangs up and remains pensive.}
 <LOC>__{EXT. STREET, LOS ANGELES -- DAY}
 <DIAL>__{Amelia and the kids walk down a street in Santa Monica.}
 <LOC>__{EXT. LUCIA'S HOUSE, LOS ANGELES -- DAY}
@@ -281,7 +281,7 @@
 <CHAR>__{LUCIA} <CHAR_PAR>__{}
 <DIAL>__{I really can't.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{Just for the day, Lucia.   I'll be back for them tonight.}
+<DIAL>__{Just for the day, Lucia. I'll be back for them tonight.}
 <CHAR>__{LUCIA} <CHAR_PAR>__{}
 <DIAL>__{And what do I tell Mrs. Black?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -326,7 +326,7 @@
 <DIAL>__{Richard (45), tall, thin, weathered, and Susan (38), good- looking, with an athletic body, visit the impressive Casbah with a group of American, French and English tourists. Most of them are old, with a few couples in their forties or fifties. Anwar (30), a man with a kind face, is the tour guide showing them around.}
 <CHAR>__{ANWAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In English, with an Arabic accent)}
-<DIAL>__{The Berbers built these kasbahs. They made them like forts and here they would reside after finishing their caravans. Richard listens attentively.   Susan looks hot.}
+<DIAL>__{The Berbers built these kasbahs. They made them like forts and here they would reside after finishing their caravans. Richard listens attentively. Susan looks hot.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{This place is beautiful, don't you think?}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
@@ -379,7 +379,7 @@
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Yeah, but you don't know what kind of water is in there. She grabs Richard's glass and tosses out the ice. Then she does the same thing with hers. They are quiet for a moment.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{Why can't you ever relax.    You're always stressed.}
+<DIAL>__{Why can't you ever relax. You're always stressed.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{You're the one stressing me out. You're why I can't relax.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -425,7 +425,7 @@
 <DIAL>__{The ball was out.}
 <CHAR>__{REFEREE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In sign language)}
-<DIAL>__{No, it was good. Chieko gestures violently.   One of her teammates goes to calm her down.}
+<DIAL>__{No, it was good. Chieko gestures violently. One of her teammates goes to calm her down.}
 <CHAR>__{TEAMMATE} <CHAR_PAR>__{}
 <DIAL>__{Let it go. Chieko breaks loose and approaches the referee.}
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
@@ -435,7 +435,7 @@
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
 <DIAL>__{You're not just deaf, you're blind.}
 <CHAR>__{REFEREE} <CHAR_PAR>__{}
-<DIAL>__{You're out. Chieko is furious.   She starts to make obscene gestures.}
+<DIAL>__{You're out. Chieko is furious. She starts to make obscene gestures.}
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
 <DIAL>__{You're an asshole. The coach walks onto the court. He holds her to calm her down and then takes her away. Despite Chieko's violent reaction, everything is still silent. From the bleachers, Yasujiro (47), Chieko's father, dressed in a nice suit with the tie undone, with a sad pride about him, disapproves of his daughter's actions.}
 <LOC>__{INT. LOCKER ROOM, VOLLEYBALL COURT -- DAY}
@@ -447,7 +447,7 @@
 <CHAR>__{TEAMMATE 2} <CHAR_PAR>__{}
 <DIAL>__{If you hadn't been thrown out, we would've won the game. Chieko, angry, gets up and starts to rummage through her locker. Her teammate walks over and gets her attention.}
 <CHAR>__{TEAMMATE 1} <CHAR_PAR>__{}
-<DIAL>__{Why are you in a bad mood? Chieko doesn't answer.    Teammate 2 approaches.}
+<DIAL>__{Why are you in a bad mood? Chieko doesn't answer. Teammate 2 approaches.}
 <CHAR>__{TEAMMATE 2} <CHAR_PAR>__{}
 <DIAL>__{She's always in a bad mood because nobody's fucked her yet. She caps this with an obscene gesture that bothers Chieko.}
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
@@ -465,11 +465,11 @@
 <CHAR>__{CHIEKO } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{My mother always paid attention to me.}
 <CHAR>__{YASUJIRO} <CHAR_PAR>__{}
-<DIAL>__{Why do you want to fight? They don't say anything else.   The traffic is chaotic.}
+<DIAL>__{Why do you want to fight? They don't say anything else. The traffic is chaotic.}
 <CHAR>__{YASUJIRO } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I miss your mother too. Chieko just looks at him.}
 <CHAR>__{YASUJIRO } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I'm doing what I can, sweetie. They don't say anything else.   The traffic is chaos.}
+<DIAL>__{I'm doing what I can, sweetie. They don't say anything else. The traffic is chaos.}
 <LOC>__{EXT. STREET, TOKYO -- DAY}
 <DIAL>__{Yasujiro parks his car and Chieko gets out.}
 <CHAR>__{YASUJIRO} <CHAR_PAR>__{}
@@ -477,7 +477,7 @@
 <DIAL>__{Don't forget you have the dentist at four. Chieko looks annoyed, and blows her father a kiss goodbye. As she is about to get out of the car, Yasujiro grabs her arm. She turns to look at him.}
 <CHAR>__{YASUJIRO } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(In sign language)}
-<DIAL>__{I love you very much. They exchange a glance.   She nods, closes the door and leaves.}
+<DIAL>__{I love you very much. They exchange a glance. She nods, closes the door and leaves.}
 <LOC>__{INT. EVE'S -- DAY}
 <DIAL>__{Eve's is a restaurant full of t.v.'s, noise, video games. There is smoke, and people talking everywhere. Chieko moves through the crowd. A hostess intercepts her.}
 <CHAR>__{HOSTESS} <CHAR_PAR>__{}
@@ -501,7 +501,7 @@
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
 <DIAL>__{Tell him I couldn't read his lips. The young man, upon seeing them communicate, is caught off guard. He turns around and walks toward his friends without saying a word.}
 <LOC>__{INT. BATHROOM, EVE'S -- DAY}
-<DIAL>__{Chieko leans on the sink while Mitsu pees in one of the stalls. Chieko is noticeably upset. Mitsu walks out of the stall, fixing her skirt.   She sees Chieko is distressed.}
+<DIAL>__{Chieko leans on the sink while Mitsu pees in one of the stalls. Chieko is noticeably upset. Mitsu walks out of the stall, fixing her skirt. She sees Chieko is distressed.}
 <CHAR>__{MITSU} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In sign language)}
 <DIAL>__{What's the matter?}
@@ -515,7 +515,7 @@
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
 <DIAL>__{Now they're going to meet the real hairy monster. She makes the gesture of sticking her finger up a hole, then goes to the toilet, throws her panties in and flushes. She turns to look at Mitsu defiantly, who cannot help but laugh.}
 <LOC>__{INT. EVE'S -- DAY}
-<DIAL>__{Chieko sits on one of the restaurant's benches. Before her is a new group of young men. Mitsu and Chieko exchange a look. Provocatively, Chieko crosses her legs slowly revealing her pussy. One of the young men seems to notice, and is stunned. Chieko smiles and does it again. He watches Chieko again and discretely turns to one of his friends to tell him. Chieko turns her back to him and faces the bar.    She looks over at Mitsu, who shakes her head, amused. A beeper rings on Chieko's skirt. She picks it up and reads: "Don't forget your appointment with the dentist. Papa." She puts the beeper away and turns toward Mitsu.}
+<DIAL>__{Chieko sits on one of the restaurant's benches. Before her is a new group of young men. Mitsu and Chieko exchange a look. Provocatively, Chieko crosses her legs slowly revealing her pussy. One of the young men seems to notice, and is stunned. Chieko smiles and does it again. He watches Chieko again and discretely turns to one of his friends to tell him. Chieko turns her back to him and faces the bar. She looks over at Mitsu, who shakes her head, amused. A beeper rings on Chieko's skirt. She picks it up and reads: "Don't forget your appointment with the dentist. Papa." She puts the beeper away and turns toward Mitsu.}
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
 <DIAL>__{I'll see you later at my place. She mischievously turns toward the table where the young man was, and as she gets off the bench she spreads her legs wide open, flashing him shamelessly. She struts out.}
 <LOC>__{EXT. DESERT -- DAY}
@@ -549,9 +549,9 @@
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{Our stomach really hurts.}
 <CHAR>__{YASIRA} <CHAR_PAR>__{}
-<DIAL>__{Then start jerking the meat. Yasira walks out.    Yussef and Zora exchange a look.}
+<DIAL>__{Then start jerking the meat. Yasira walks out. Yussef and Zora exchange a look.}
 <LOC>__{INT. YUSSEF AND AHMED'S HOUSE -- DAY}
-<DIAL>__{Yussef and Ahmed are jerking a couple of young goats with very sharp knives. They set the thin strips on newspaper. They look nervous.    They talk in whispers.}
+<DIAL>__{Yussef and Ahmed are jerking a couple of young goats with very sharp knives. They set the thin strips on newspaper. They look nervous. They talk in whispers.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{D'you think something happened?}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
@@ -565,13 +565,13 @@
 <DIAL_PAR>__{(A beat)}
 <DIAL>__{Swear to me you'll never say anything. Ahmed won't answer. Yussef looks around the room to make sure nobody is listening to them.}
 <CHAR>__{YUSSEF } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Swear.     Nobody, never. Ahmed remains pensive.    He sighs and answers.}
+<DIAL>__{Swear. Nobody, never. Ahmed remains pensive. He sighs and answers.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{I swear.   Nobody.}
+<DIAL>__{I swear. Nobody.}
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- EVENING}
 <DIAL>__{The brothers are hanging the strips of meat on ropes to dry them in the sun. An old Valiant packed with seven men parks in front of the house and Abdullah gets out. He raises his hand to say goodbye.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Thank you, I'll see you tomorrow. The driver also raises his hand and then drives off.   Abdullah turns to Yussef.}
+<DIAL>__{Thank you, I'll see you tomorrow. The driver also raises his hand and then drives off. Abdullah turns to Yussef.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Tell your mother to prepare dinner. Abdullah turns towards the house. Yussef comes out running towards a little field below the house. Yasira is plowing with a manual plow.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
@@ -603,7 +603,7 @@
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
 <DIAL>__{That's what they were saying. The police are looking for the culprits. Yussef and Ahmed again exchange a furtive glance.}
 <LOC>__{INT. YUSSEF AND AHMED'S HOUSE -- NIGHT}
-<DIAL>__{Night. An oil lamp in a Nescafe jar lights the house. The family sleeps in the only two rooms in the house. One of them is the parents room, the other the children's. We hear a goat bleating in the darkness. Abdullah's snoring. Yasira's breathing. The crunching of wood in the night cold. Neither Yussef, nor Ahmed can sleep.   They both look at each other, anxious.}
+<DIAL>__{Night. An oil lamp in a Nescafe jar lights the house. The family sleeps in the only two rooms in the house. One of them is the parents room, the other the children's. We hear a goat bleating in the darkness. Abdullah's snoring. Yasira's breathing. The crunching of wood in the night cold. Neither Yussef, nor Ahmed can sleep. They both look at each other, anxious.}
 <LOC>__{EXT. BORDER CROSSING -- DAY}
 <DIAL>__{Santiago's car crosses the border between San Diego and Tijuana. They drive through a green light at the crossing, easily entering Mexico without being stopped by three Mexican customs officials.}
 <LOC>__{INT. SANTIAGO'S CAR -- DAY}
@@ -646,9 +646,9 @@
 <DIAL_PAR>__{(A beat)}
 <DIAL>__{Can I buy some for my mom? She's gonna love them. Amelia smiles and nods.}
 <LOC>__{EXT. TIJUANA -- DAY}
-<DIAL>__{The car drives out of the city and gets on a highway.   The desert rises in all its magnitude and severity.}
+<DIAL>__{The car drives out of the city and gets on a highway. The desert rises in all its magnitude and severity.}
 <LOC>__{EXT. DESERT HIGHWAY -- DAY}
-<DIAL>__{Santiago parks the car next to a junkyard.   Amelia and Debbie run out and hide behind a fence. Debbie pulls her underpants down to pee.   Troubled, she looks at the mound of destroyed cars.}
+<DIAL>__{Santiago parks the car next to a junkyard. Amelia and Debbie run out and hide behind a fence. Debbie pulls her underpants down to pee. Troubled, she looks at the mound of destroyed cars.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{Are they crashed cars?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -662,10 +662,10 @@
 <LOC>__{EXT. DESERT HIGHWAY -- DAY}
 <DIAL>__{They drive down the highway and then turn onto a path. They drive down the path at high speed, lifting up clouds of dust.}
 <LOC>__{EXT. HAMLET "LOS LOBOS" -- DAY}
-<DIAL>__{They arrive at a dusty hamlet in the middle of the desert; a few houses, no more than twenty, some adorned with multicolored paper. Several crates of soda are stacked up against a makeshift shed built out of yucca fronds. A group of musicians who play Nortena music are setting up their instruments. There are various pickup trucks and smuggled cars parked around the hamlet. The guests are wearing their best: fresh shirts, big buckles, almost new boots. Santiago parks. Amelia gets out first.     A group of people sees her and comes over to greet her.}
+<DIAL>__{They arrive at a dusty hamlet in the middle of the desert; a few houses, no more than twenty, some adorned with multicolored paper. Several crates of soda are stacked up against a makeshift shed built out of yucca fronds. A group of musicians who play Nortena music are setting up their instruments. There are various pickup trucks and smuggled cars parked around the hamlet. The guests are wearing their best: fresh shirts, big buckles, almost new boots. Santiago parks. Amelia gets out first. A group of people sees her and comes over to greet her.}
 <CHAR>__{COMADRE 1} <CHAR_PAR>__{}
 <DIAL_PAR>__{(All in Spanish)}
-<DIAL>__{Hey, so you finally made it. Amelia smiles.   Her friends notices Mike and Debbie.}
+<DIAL>__{Hey, so you finally made it. Amelia smiles. Her friends notices Mike and Debbie.}
 <CHAR>__{COMADRE 1 } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You brought them? Amelia nods. Luis (24), Amelia's son, a typical Norteno cowboy with long sideburns and moustache, his face tanned from days under the sun, wearing a pistachio-colored tuxedo with a cloth flower in the lapel, greets Amelia with a kiss.}
 <CHAR>__{LUIS} <CHAR_PAR>__{}
@@ -687,7 +687,7 @@
 <CHAR>__{LUIS} <CHAR_PAR>__{}
 <DIAL>__{Pleased to meet you Mike. Santiago calls out to some kids who are running around.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
-<DIAL>__{Psst.   Lucio, come here. Lucio (10), the oldest of the gang, approaches.   Santiago gestures toward the two American kids.}
+<DIAL>__{Psst. Lucio, come here. Lucio (10), the oldest of the gang, approaches. Santiago gestures toward the two American kids.}
 <CHAR>__{SANTIAGO } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{These are Mike and Debbie. Keep an eye on them for me. Lucio gives them a scornful glance and calls them over half- heartedly.}
 <CHAR>__{LUCIO} <CHAR_PAR>__{}
@@ -715,7 +715,7 @@
 <DIAL_PAR>__{(mumbling senselessly)}
 <DIAL>__{I'm ok... I'm ok... Susan breathes in, and every time she does, blood flows from her wound. Richard turns toward the other passengers.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{Is anybody a doctor? Nobody answers.   Richard starts to lose his cool.}
+<DIAL>__{Is anybody a doctor? Nobody answers. Richard starts to lose his cool.}
 <CHAR>__{RICHARD } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Please: a doctor. The pensioners don't answer; they are too scared. Richard opens Susan's purse and sees a cell phone. He turns it on and tries to call, but there is no signal. He turns to Anwar.}
 <CHAR>__{RICHARD } <CHAR_PAR>__{(CONT'D)}
@@ -779,7 +779,7 @@
 <LOC>__{EXT. DESERT HIGHWAY -- DAY}
 <DIAL>__{The bus leaves the main road and turns into a dirt road.}
 <LOC>__{INT. BUS -- DAY}
-<DIAL>__{The bus' poor suspension gives the passengers a jolt.    Richard tries to protect Susan's head.}
+<DIAL>__{The bus' poor suspension gives the passengers a jolt. Richard tries to protect Susan's head.}
 <LOC>__{EXT. HAMLET -- DAY}
 <DIAL>__{The bus pulls into a small group of houses. Several children run beside the bus, chasing it. Some gaunt dogs get out of the way to let the bus by.}
 <LOC>__{EXT. ANWAR'S HOUSE -- DAY}
@@ -866,7 +866,7 @@
 <CHAR>__{ELYSE} <CHAR_PAR>__{}
 <DIAL>__{And why would you stay?}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{Please wait.     Let me try to deal with this.}
+<DIAL>__{Please wait. Let me try to deal with this.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{We're not going to risk our lives, so hurry.}
 <ACTION>__{Douglas looks defiantly at Tom.}
@@ -876,7 +876,7 @@
 <DIAL>__{Richard and Anwar walk down the streets of the small hamlet before the people's inquisitive gaze. They arrive at a general store with all sorts of roots and grains displayed outside. Anwar walks over to the owner.}
 <CHAR>__{ANWAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in Arabic)}
-<DIAL>__{We need your phone.     I'll pay for the call.}
+<DIAL>__{We need your phone. I'll pay for the call.}
 <LOC>__{INT. ROOM, ANWAR'S HOUSE -- DAY}
 <DIAL>__{Susan is lying on the floor, desolate. It seems as if the pain is diminishing. The grandmother leans over her and softly caresses her with her dirty, wrinkled hands. This startles Susan.}
 <CHAR>__{ANWAR'S GRANDMOTHER} <CHAR_PAR>__{}
@@ -971,7 +971,7 @@
 <DIAL>__{We've got to get her out of here. There's no one to tend to her.}
 <CHAR>__{ANWAR} <CHAR_PAR>__{}
 <DIAL>__{My brother already called a doctor, he's coming.}
-<ACTION>__{Richard is going to say something, but holds back.   His despair and confusion are evident.}
+<ACTION>__{Richard is going to say something, but holds back. His despair and confusion are evident.}
 <CHAR>__{ANWAR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Trust my grandmother; she knows a lot about remedies.}
 <ACTION>__{The grandmother wrings out the rags and puts them on a table. She takes some herbs, a fistful of earth from the floor and she tosses them into the basin. She stirs it and pulls out a clump of mud which she lays out on one of the pieces of cloth. Susan looks horrified at the dirt. The grandmother leans over her and tries to clean the wound with the other moistened rags. Susan resists.}
@@ -1022,7 +1022,7 @@
 <DIAL>__{Tell him that I want to ask him some questions.}
 <CHAR>__{ANWAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(To Richard)}
-<DIAL>__{Can he ask you some questions? Richard nods.   The sheik continues in Arabic.}
+<DIAL>__{Can he ask you some questions? Richard nods. The sheik continues in Arabic.}
 <CHAR>__{SHEIK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Arabic)}
 <DIAL>__{Do you have any enemies in this country?}
@@ -1102,7 +1102,7 @@
 <CHAR>__{DENTIST } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Get out right now. He walks to the door and opens it. Just before she walks out, Chieko draws out a slight smile, which is almost a grin.}
 <LOC>__{EXT. TOKYO STREETS -- DAY}
-<DIAL>__{Chieko walks down crowded Tokyo streets.   She walks with a lost gaze, unsettled.}
+<DIAL>__{Chieko walks down crowded Tokyo streets. She walks with a lost gaze, unsettled.}
 <LOC>__{EXT. APARTMENT BUILDING, TOKYO -- DAY}
 <DIAL>__{Chieko arrives at an upper class apartment complex. The architecture is cutting edge, but impersonal and cold.}
 <LOC>__{INT. LOBBY, TOKYO APARTMENT BUILDING -- DAY}
@@ -1114,17 +1114,17 @@
 <CHAR>__{HAMANO} <CHAR_PAR>__{}
 <DIAL>__{Are-you-Yasujiro-Wataya's-daughter? She nods.}
 <CHAR>__{HAMANO } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{We-are-sargeants-Kenji-Mamiya-and- Hamano-Kanoo-of-the-Tokyo-police. We-need-to-find-your-father. She pulls out a pen and a piece of paper from her bag.   She scrawls a few lines and hands them over. Hamano reads it and turns his face toward hers.}
+<DIAL>__{We-are-sargeants-Kenji-Mamiya-and- Hamano-Kanoo-of-the-Tokyo-police. We-need-to-find-your-father. She pulls out a pen and a piece of paper from her bag. She scrawls a few lines and hands them over. Hamano reads it and turns his face toward hers.}
 <CHAR>__{HAMANO } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{No, he didn't do anything wrong. We just want to talk to him. Do you know where he is? She shrugs her shoulders. Kenji gives her his card. Upon receiving it, Chieko turns to look at him. Their eyes meet and she looks down. She then looks up again, blushing.}
 <CHAR>__{KENJI} <CHAR_PAR>__{}
 <DIAL>__{Tell him to call us. And don't be scared, we're not going to do anything bad to him.}
 <CHAR>__{HAMANO} <CHAR_PAR>__{}
-<DIAL>__{Thank you. Chieko can't stop staring at Kenji. The two cops leave.    As soon as they do, Chieko heads toward the elevator.}
+<DIAL>__{Thank you. Chieko can't stop staring at Kenji. The two cops leave. As soon as they do, Chieko heads toward the elevator.}
 <LOC>__{INT. CHIEKO'S APARTMENT -- DAY}
 <DIAL>__{Chieko walks into the apartment. It is a large apartment, elegantly furnished. Although decoration is scant, some hunting trophies stand out: a scimitar-horned Oryx, sheep, and others. There are also photographs of Yasujiro hunting. A wall is dedicated to family photos. Among them is a picture of Chieko as a little girl with her father and her mother. Chieko sees a note on the table at the entrance. She puts the policeman's card down and picks up a note from her father that says: "I waited until five and you didn't make it. I've got a meeting and I'll be back late. I left you some soup and some chicken for dinner. Kisses. Papa."}
 <LOC>__{INT. CHIEKO'S ROOM -- DAY}
-<DIAL>__{Chieko sits in front of a mute T.V., channel surfing.   She stops at a fashion show, then some cartoons. Suddenly, on a news program, we see the photographs of Ahmed and Yussef. Chieko looks at them for a moment and then changes the channel. She is watching T.V. when a red bulb, set between a yellow bulb and a blue one, starts to light up insistently as the doorbell rings. Chieko notices and shuts off the T.V.}
+<DIAL>__{Chieko sits in front of a mute T.V., channel surfing. She stops at a fashion show, then some cartoons. Suddenly, on a news program, we see the photographs of Ahmed and Yussef. Chieko looks at them for a moment and then changes the channel. She is watching T.V. when a red bulb, set between a yellow bulb and a blue one, starts to light up insistently as the doorbell rings. Chieko notices and shuts off the T.V.}
 <LOC>__{INT. LIVING ROOM, CHIEKO'S APARTMENT -- DAY}
 <DIAL>__{Chieko opens the door and Mitsu walks in. They greet each other with a handshake where they end up touching their index fingers to each other's hearts.}
 <CHAR>__{MITSU} <CHAR_PAR>__{}
@@ -1204,7 +1204,7 @@
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- DAY}
 <DIAL>__{Abdullah takes two goats out of the corral, ties a rope to their neck and drags them over to a rock. The goats bleat desperately trying to break free. Abdullah turns to look at his children.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Hold them. Yussef and Ahmed hold their legs.   Abdullah pulls out a knife and slits the goat's throat.}
+<DIAL>__{Hold them. Yussef and Ahmed hold their legs. Abdullah pulls out a knife and slits the goat's throat.}
 <LOC>__{EXT. HASSAN'S HOUSE -- DAY}
 <DIAL>__{Hassan lies on the floor, cuffed, with a broken mouth, surrounded by cops. Alarid is carrying out the interrogation, squatting next to Hassan's face.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
@@ -1220,7 +1220,7 @@
 <CHAR>__{HASSAN} <CHAR_PAR>__{}
 <DIAL>__{No, not anymore, I sold it today.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
-<DIAL>__{Oh yeah?   To who?}
+<DIAL>__{Oh yeah? To who?}
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- LATER}
 <DIAL>__{Abdullah gives Yussef and Ahmed some goat skins.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
@@ -1228,9 +1228,9 @@
 <LOC>__{EXT. DESERT -- DAY}
 <DIAL>__{As they climb a hill, they encounter a convoy of Moroccan police trucks. They are terrified. The vehicles screech to a dramatic halt before them, lifting up much dust. Alarid opens the passenger window.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
-<DIAL>__{Hey, do you know where Abdullah Adboum lives? Ahmed and Yussef exchange a glance.   Yussef nods.}
+<DIAL>__{Hey, do you know where Abdullah Adboum lives? Ahmed and Yussef exchange a glance. Yussef nods.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
-<DIAL>__{Yes. Ahmed gets very nervous.   Yussef points the wrong way with an air of certainty.}
+<DIAL>__{Yes. Ahmed gets very nervous. Yussef points the wrong way with an air of certainty.}
 <CHAR>__{YUSSEF } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Over there, you have to cross those mountains.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
@@ -1238,7 +1238,7 @@
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{No, we just live here with our mother. Abdullah lives over there. Alarid scrutinizes the brothers' faces.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
-<DIAL>__{If you're lying to me I'm going to come back and cut your balls off. Ahmed breathes nervously.    Yussef continues in cold blood.}
+<DIAL>__{If you're lying to me I'm going to come back and cut your balls off. Ahmed breathes nervously. Yussef continues in cold blood.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{You can come back whenever you like. Alarid smiles and gestures at the driver with his head that they should go on. The police vehicles drive off in the direction Yussef pointed them in.}
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- DAY}
@@ -1250,11 +1250,11 @@
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{The police... they're looking for you...}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Me?    Why?}
+<DIAL>__{Me? Why?}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{No, they're not looking for you... they're looking for us...}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{You?    Why?}
+<DIAL>__{You? Why?}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{Because of what happened to the tourist... Yasira and her two daughters stop milking and approach. Abdullah can't seem to understand what their talking about.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
@@ -1274,7 +1274,7 @@
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
 <DIAL>__{What the hell are you talking about? Ahmed looks at his father straight in the eyes.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{Yussef killed the American and he spies on Zora naked and Zora lets him watch her... Abdullah turns toward Zora.   In his mind, everything is confusion.}
+<DIAL>__{Yussef killed the American and he spies on Zora naked and Zora lets him watch her... Abdullah turns toward Zora. In his mind, everything is confusion.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
 <DIAL>__{What is your brother talking about?}
 <CHAR>__{ZORA} <CHAR_PAR>__{}
@@ -1282,7 +1282,7 @@
 <CHAR>__{AHMED} <CHAR_PAR>__{}
 <DIAL>__{It's not bullshit; she's a whore and my brother spies on her... As soon as the words leave Ahmed's mouth, Yussef decks him and leaves him sprawled on the dust. Ahmed shoots right back up and runs at Yussef kicking, until they're both entangled in the fight and end up rolling on the ground. Abdullah tries to get between them.}
 <LOC>__{EXT. HAMLET "LOS LOBOS" -- DAY}
-<DIAL>__{Debbie and Mike are almost like spectators at a soccer match between the other kids, as they play in the dirt with an orange plastic ball. Nobody passes to them.    Mike just runs from side to side without saying a word.    Frustrated, Debbie just watches.}
+<DIAL>__{Debbie and Mike are almost like spectators at a soccer match between the other kids, as they play in the dirt with an orange plastic ball. Nobody passes to them. Mike just runs from side to side without saying a word. Frustrated, Debbie just watches.}
 <LOC>__{INT. HOUSE, HAMLET "LOS LOBOS" -- DAY}
 <DIAL>__{nside the house, Amelia is checking on the food.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -1297,7 +1297,7 @@
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Santiago... please go kill another six chickens, or there won't be enough food. Santiago stops and looks through the window.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
-<DIAL>__{Sure thing. Out back, Santiago sees a car arrive.    A priest steps out.}
+<DIAL>__{Sure thing. Out back, Santiago sees a car arrive. A priest steps out.}
 <LOC>__{EXT. HAMLET "LOS LOBOS" -- DAY}
 <DIAL>__{Luis is standing under a shack drinking beer with some friends. Amelia, worried, approaches him.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -1310,7 +1310,7 @@
 <CHAR>__{LUIS} <CHAR_PAR>__{}
 <DIAL>__{What if she doesn't want to get married? Shut up and come help me look for her.}
 <LOC>__{EXT. HAMLET "LOS LOBOS" -- DAY}
-<DIAL>__{Santiago arrives at where the children are playing.   He calls out to them.}
+<DIAL>__{Santiago arrives at where the children are playing. He calls out to them.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Spanish)}
 <DIAL>__{Who wants to help me with the chickens? Everyone raises their hand and go toward him. Mike and Debbie stand still without knowing what to do. Santiago calls them.}
@@ -1346,7 +1346,7 @@
 <LOC>__{EXT. PATRICIA'S HOUSE -- DAY}
 <DIAL>__{They arrive at the bride's house. A car adorned with ribbons is parked outside. There is no one to be seen.}
 <LOC>__{INT. SANTIAGO'S CAR -- DAY}
-<DIAL>__{Luis honks the horn.   Nobody shows.}
+<DIAL>__{Luis honks the horn. Nobody shows.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{I'm going to see if they're inside.}
 <LOC>__{EXT. PATRICIA'S HOUSE -- DAY}
@@ -1475,7 +1475,7 @@
 <ACTION>__{She stares at him. Richard turns to Anwar and signals that he can begin. Anwar holds her hands. Susan, stupefied, to Richard.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Richard, don't let him...}
-<ACTION>__{The doctor lifts Susan's neck and starts to stitch.    She howls in pain and tries to move away. Anwar and Richard hold Susan down.    The doctor sticks the needle in again. Susan shakes her head from side to side trying to pull away.}
+<ACTION>__{The doctor lifts Susan's neck and starts to stitch. She howls in pain and tries to move away. Anwar and Richard hold Susan down. The doctor sticks the needle in again. Susan shakes her head from side to side trying to pull away.}
 <CHAR>__{SUSAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Don't let him, don't let him.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -1494,11 +1494,11 @@
 <CHAR>__{FRIEND 2} <CHAR_PAR>__{}
 <DIAL>__{The woman is hurt, he had to help her.}
 <CHAR>__{MOHAMMED} <CHAR_PAR>__{}
-<DIAL>__{Yeah?   And when have they helped us?}
+<DIAL>__{Yeah? And when have they helped us?}
 <CHAR>__{FRIEND 1} <CHAR_PAR>__{}
 <DIAL>__{I liked one of those tourists.}
 <CHAR>__{FRIEND 2} <CHAR_PAR>__{}
-<DIAL>__{Really?   They're all skin and bones. Suddenly Mohammed focuses on the radio.}
+<DIAL>__{Really? They're all skin and bones. Suddenly Mohammed focuses on the radio.}
 <CHAR>__{MOHAMMED} <CHAR_PAR>__{}
 <DIAL>__{Shh... sh... listen. The friends are quiet.}
 <CHAR>__{NEWSCASTER } <CHAR_PAR>__{(V.O.)}
@@ -1548,7 +1548,7 @@
 <CHAR>__{JANE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In French)}
 <DIAL>__{Are you ok?}
-<ACTION>__{Robert nods, but it is clear that he is not.    Jane shouts at the driver.}
+<ACTION>__{Robert nods, but it is clear that he is not. Jane shouts at the driver.}
 <CHAR>__{JANE } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(In French)}
 <DIAL>__{Could you please turn on the air conditioning?}
@@ -1559,13 +1559,13 @@
 <ACTION>__{Robert inhales, he can barely breathe.}
 <CHAR>__{JANE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In French)}
-<DIAL>__{My husband is feeling ill.     You have to turn it on.}
+<DIAL>__{My husband is feeling ill. You have to turn it on.}
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In French)}
-<DIAL>__{No possible. No gasoline near.      I'm sorry.}
+<DIAL>__{No possible. No gasoline near. I'm sorry.}
 <CHAR>__{LILLY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In French)}
-<DIAL>__{Please, it's too hot.   We can get dehydrated.}
+<DIAL>__{Please, it's too hot. We can get dehydrated.}
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In French)}
 <DIAL>__{I'm really sorry, forgive me, but gasoline finish with air conditioner.}
@@ -1576,7 +1576,7 @@
 <DIAL>__{That he can't turn on the air conditioning, that it's not possible.}
 <ACTION>__{Tom stands up and goes to yell at the driver.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
-<DIAL>__{Fuck you.   We're gettin' out of here.}
+<DIAL>__{Fuck you. We're gettin' out of here.}
 <LOC>__{EXT. PATIO, ANWAR'S HOUSE -- DAY}
 <DIAL>__{Tom resolutely walks up the stairs followed by James.}
 <LOC>__{INT. ROOM, ANWAR'S HOUSE -- DAY}
@@ -1600,7 +1600,7 @@
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{It's not about that.}
 <CHAR>__{LILLY} <CHAR_PAR>__{}
-<DIAL>__{Sir, we can't wait anymore. Walter an English man, one of the older men,    defends him.}
+<DIAL>__{Sir, we can't wait anymore. Walter an English man, one of the older men, defends him.}
 <CHAR>__{WALTER} <CHAR_PAR>__{}
 <DIAL>__{We can't leave him here alone.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
@@ -1618,7 +1618,7 @@
 <LOC>__{EXT. PARK, TOKYO -- DAY}
 <DIAL>__{They arrive at a park with a playground: swings, see-saws, slides. Several of their deaf-mute volleyball friends are there. With them are two young men with hair dyed blond. One of them, Takeshi (18), has an earring, and the other, Haruki}
 <DIAL_PAR>__{(19), has several tattoos.}
-<DIAL>__{Mitsu and Chieko greet them in sign language.    Chieko asks the slightly chubby Kumiko who they are.}
+<DIAL>__{Mitsu and Chieko greet them in sign language. Chieko asks the slightly chubby Kumiko who they are.}
 <CHAR>__{KUMIKO} <CHAR_PAR>__{}
 <DIAL>__{They're my cousins. Chieko turns to look at them, curious. Haruki, the guy with tattoos, exchanges a look with her. Chieko suddenly feels intimidated and looks down.}
 <CHAR>__{CHIEKO} <CHAR_PAR>__{}
@@ -1626,13 +1626,13 @@
 <CHAR>__{KUMIKO} <CHAR_PAR>__{}
 <DIAL>__{No, but he understands some. Haruki seems to understand what they're saying and leans in to whisper something to Takeshi, his brother. They both laugh. Haruki approaches Chieko and talks to her face to face so she can read his lips.}
 <CHAR>__{HARUKI} <CHAR_PAR>__{}
-<DIAL>__{What's your name? Chieko and her friend smile.    Chieko takes out her notebook and pen and writes her name.    Haruki reads it out loud.}
+<DIAL>__{What's your name? Chieko and her friend smile. Chieko takes out her notebook and pen and writes her name. Haruki reads it out loud.}
 <CHAR>__{HARUKI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Chieko? Chieko nods.}
 <CHAR>__{HARUKI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{My name's Haruki. Chieko nods, trying to show she's understood. Haruki takes out a flask and holds it out to her. Chieko opens it and smells it. Haruki stands in front of her.}
 <CHAR>__{HARUKI } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{It's whisky. Chieko smiles and gives a long swig.       Mitsu asks for some and also gives it a long drink.}
+<DIAL>__{It's whisky. Chieko smiles and gives a long swig. Mitsu asks for some and also gives it a long drink.}
 <CHAR>__{HARUKI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Do the cops come around here?}
 <CHAR>__{MITSU} <CHAR_PAR>__{}
@@ -1661,7 +1661,7 @@
 <LOC>__{EXT. YUSSEF AND AHMED'S HOUSE -- DAY}
 <DIAL>__{Yussef and Ahmed are sitting against the wall of the house. Yussef's lip is split. Ahmed's nose is bleeding. Abdullah paces desperately, while his wife and daughters watch the scene, silent. Abdullah stops to look at Yussef.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Why did you do this? They don't answer.   Abdullah leans over and slaps Ahmed.}
+<DIAL>__{Why did you do this? They don't answer. Abdullah leans over and slaps Ahmed.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Answer me, god damn it! Ahmed won't answer and he turns to Yussef again.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
@@ -1671,7 +1671,7 @@
 <DIAL_PAR>__{(He turns to Zora)}
 <DIAL>__{And you, you got naked so your brother would see you?}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{Yes, she got naked lots of times.    I saw how Yussef spied on her.}
+<DIAL>__{Yes, she got naked lots of times. I saw how Yussef spied on her.}
 <CHAR>__{ZORA} <CHAR_PAR>__{}
 <DIAL>__{That's not true. Abdullah turns to Yussef.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
@@ -1707,7 +1707,7 @@
 <CHAR>__{ALARID } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{And if they're not there, I'll cut your tongue out and I'll kill your husband.}
 <LOC>__{EXT. DESERT -- DAY}
-<DIAL>__{The Moroccan police trucks drive down the dusty roads.    The landscape is harsh and barren.}
+<DIAL>__{The Moroccan police trucks drive down the dusty roads. The landscape is harsh and barren.}
 <LOC>__{INT. POLICE TRUCK -- DAY}
 <DIAL>__{Hassan's wife gives directions.}
 <CHAR>__{WIFE} <CHAR_PAR>__{}
@@ -1717,25 +1717,25 @@
 <CHAR>__{ALARID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(To the driver)}
 <DIAL>__{Stop... The trucks stop and Alarid takes out his binoculars.}
-<LOC>__{135   P.O.V. ALARID'S BINOCULARS -- CONTINUOUS}
+<LOC>__{135 P.O.V. ALARID'S BINOCULARS -- CONTINUOUS}
 <DIAL>__{In the distance, we can still see Abdullah, Yussef and Ahmed run across the hills. Abdullah is clearly carrying the rifle.}
 <LOC>__{EXT. DESERT -- DAY}
 <DIAL>__{Alarid quickly gets out.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
 <DIAL>__{There they are. All the cops get out with their high powered rifles.}
 <LOC>__{EXT. DESERT HILLS -- DAY}
-<DIAL>__{Abdullah and his sons run full speed.   Yussef sees the trucks in the distance.}
+<DIAL>__{Abdullah and his sons run full speed. Yussef sees the trucks in the distance.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{The police, the police... They run up a hill to try to lose them, but shots start to ring out.}
 <CHAR>__{YUSSEF } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{They're shooting at us. Abdullah stands before his sons and lifts up the rifle as a sign of surrender. The shots cease for a few seconds, but they suddenly start again.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Get down.   Run. The three shepherds run, huddling as low as they can. More shots. They desperately climb between the rocks. Bullets whiz past everywhere. Abdullah makes one last attempt at surrender. He lifts up the rifle again, sets it on the ground and backs away. But the gesture is in vain, as the bullets still rush past. They begin to run again when Ahmed is hit in one of his calves. He collapses and rolls downhill. Abdullah hurries to rescue him and drags him behind a rock. Ahmed won't stop screaming from the pain.}
+<DIAL>__{Get down. Run. The three shepherds run, huddling as low as they can. More shots. They desperately climb between the rocks. Bullets whiz past everywhere. Abdullah makes one last attempt at surrender. He lifts up the rifle again, sets it on the ground and backs away. But the gesture is in vain, as the bullets still rush past. They begin to run again when Ahmed is hit in one of his calves. He collapses and rolls downhill. Abdullah hurries to rescue him and drags him behind a rock. Ahmed won't stop screaming from the pain.}
 <CHAR>__{AHMED} <CHAR_PAR>__{}
-<DIAL>__{They shot me, they shot me... Yussef dives on his belly and snakes his way through the rocks. He gets the rifle, loads it and aims at the trucks. He shoots without hitting anything.    Abdullah turns to him.}
+<DIAL>__{They shot me, they shot me... Yussef dives on his belly and snakes his way through the rocks. He gets the rifle, loads it and aims at the trucks. He shoots without hitting anything. Abdullah turns to him.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Don't shoot, don't shoot! Yussef doesn't pay attention.    He loads again and aims.}
-<LOC>__{138   P.O.V. RIFLE SIGHTS -- DAY}
+<DIAL>__{Don't shoot, don't shoot! Yussef doesn't pay attention. He loads again and aims.}
+<LOC>__{138 P.O.V. RIFLE SIGHTS -- DAY}
 <DIAL>__{Yussef aims carefully. He picks out one of the cops who has been shooting barely protected by one of the trucks' fenders. Yussef shoots and the policeman collapses.}
 <LOC>__{EXT. HAMLET "LOS LOBOS" -- LATER}
 <DIAL>__{The religious ceremony has ended and everyone throws rice at the bride and groom. Debbie and Mike enjoy doing it. Several cowboys, among them Santiago, have gone to their trucks and are loudly honking their horns. Music begins to blare.}
@@ -1763,7 +1763,7 @@
 <CHAR>__{GUITAR PLAYER } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{We-want-cake, we-want-cake... The audience and the band sing the little cake song. A giant, tacky wedding cake, covered in cream, arrives. The bride grabs the knife and gets ready to cut it.}
 <CHAR>__{GUITAR PLAYER } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Take- a- bite, take- a- bite... The bride gives into the ritual. She tries to take a bite out of the cake without using her hands and someone pushes her face into the cream. Debbie and Mike laugh. A cowboy pulls out a gun and, festively, fires.   Debbie is frightened and goes to hide behind Amelia.}
+<DIAL>__{Take- a- bite, take- a- bite... The bride gives into the ritual. She tries to take a bite out of the cake without using her hands and someone pushes her face into the cream. Debbie and Mike laugh. A cowboy pulls out a gun and, festively, fires. Debbie is frightened and goes to hide behind Amelia.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{Don't worry, it's ok. The man puts the gun away and walks back onto the dance floor as if nothing had happened. Luis asks the band to stop the music for a little bit and he takes the microphone.}
 <CHAR>__{LUIS} <CHAR_PAR>__{}
@@ -1808,15 +1808,15 @@
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{I wish, but these kids have to go to school. Santiago opens the door for Amelia, who carefully sets Debbie on the back seat. Mike gets in and as soon as he does he nestles in to go to sleep.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{See you soon, son. Luis and Amelia hug each other.    Then Amelia hugs her daughter- in-law.}
+<DIAL>__{See you soon, son. Luis and Amelia hug each other. Then Amelia hugs her daughter- in-law.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Congratulations, dear.}
 <DIAL_PAR>__{(She points at her belly)}
-<DIAL>__{Take care of my grandson 'cause I'm dying to be a grandmother. She gives her a kiss and gets in the car.   Luis turns to Santiago.}
+<DIAL>__{Take care of my grandson 'cause I'm dying to be a grandmother. She gives her a kiss and gets in the car. Luis turns to Santiago.}
 <CHAR>__{LUIS} <CHAR_PAR>__{}
 <DIAL>__{You sure you're not too drunk?}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
-<DIAL>__{Drunk my ass. I'm fine.     I'll be back soon. Santiago stumbles to the driver's side and opens the door.}
+<DIAL>__{Drunk my ass. I'm fine. I'll be back soon. Santiago stumbles to the driver's side and opens the door.}
 <LOC>__{EXT. DESERT HIGHWAY -- NIGHT}
 <DIAL>__{The night spreads over the highway that cuts across the desert. Santiago's car drives along, illuminating the cacti.}
 <LOC>__{INT. SANTIAGO'S CAR -- NIGHT}
@@ -1841,7 +1841,7 @@
 <ACTION>__{Santiago rushes to answer.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
 <DIAL>__{They're her nephews.}
-<ACTION>__{Amelia freezes at Santiago's answer.    The officer won't stop looking at the children.}
+<ACTION>__{Amelia freezes at Santiago's answer. The officer won't stop looking at the children.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{They don't look like you.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -1852,10 +1852,10 @@
 <ACTION>__{Amelia takes out their American passports and shows them to the cop. He looks them over very carefully. Santiago starts to get nervous.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
 <DIAL>__{Is there a problem?}
-<ACTION>__{The officer turns to look at them suspiciously.    He obviously smells the alcohol.}
+<ACTION>__{The officer turns to look at them suspiciously. He obviously smells the alcohol.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Should there be one?}
-<ACTION>__{Santiago shakes his head.    Debbie wakes up and looks at the officer sleepily.}
+<ACTION>__{Santiago shakes his head. Debbie wakes up and looks at the officer sleepily.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{Hi.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
@@ -1869,7 +1869,7 @@
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Are you drunk?}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
-<DIAL>__{Me, sir?   No.}
+<DIAL>__{Me, sir? No.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Get out of the car.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
@@ -1886,7 +1886,7 @@
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{They've kidnapped some kids... He starts a police chase.}
 <LOC>__{EXT. DESERT HIGHWAY -- NIGHT}
-<DIAL>__{Santiago's car drives full speed down the highway.   He sometimes looks as if he is going to lose control.}
+<DIAL>__{Santiago's car drives full speed down the highway. He sometimes looks as if he is going to lose control.}
 <LOC>__{INT. SANTIAGO'S CAR -- NIGHT}
 <DIAL>__{Santiago drives madly. Frightened, Amelia holds onto the dashboard. Debbie and Mike start to cry.}
 <CHAR>__{SANTIAGO} <CHAR_PAR>__{}
@@ -1923,7 +1923,7 @@
 <DIAL>__{Amelia gets out and opens the door for the kids.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In English)}
-<DIAL>__{Come with me, dears. The kids get out and Amelia holds their hand.   Santiago closes the doors and drives off in a cloud of dust. They start to walk through the darkness. Amelia leads the way, avoiding cacti and thorny branches. The go on like this for a long stretch. The children are quiet and scared. Amelia goes toward the highway and realizes the patrol cars have turned into the path. She runs into the desert with the kids. She can barely see with the light of the early dawn. The three frequently trip on thorny plants.}
+<DIAL>__{Come with me, dears. The kids get out and Amelia holds their hand. Santiago closes the doors and drives off in a cloud of dust. They start to walk through the darkness. Amelia leads the way, avoiding cacti and thorny branches. The go on like this for a long stretch. The children are quiet and scared. Amelia goes toward the highway and realizes the patrol cars have turned into the path. She runs into the desert with the kids. She can barely see with the light of the early dawn. The three frequently trip on thorny plants.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{I want to go home now.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
@@ -2030,7 +2030,7 @@
 <CHAR>__{POLICEMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Arabic)}
 <DIAL>__{The Americans want to send one of their helicopters but I think there are some problems.}
-<ACTION>__{Anwar mulls over his answer.   He seems to want to lie again.}
+<ACTION>__{Anwar mulls over his answer. He seems to want to lie again.}
 <CHAR>__{ANWAR} <CHAR_PAR>__{}
 <DIAL>__{They're going to try to send a helicopter.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2134,7 +2134,7 @@
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I'm sorry. Is there something you wanted to tell me? Chieko nods and asks him in with her hand. Kenji takes off his shoes and leaves them at the door. Chieko leads him to the living room and with a gesture asks if he wants anything to drink.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Do you have tea? Chieko nods and goes into the kitchen. Kenji glances over the apartment. Chieko comes back from the kitchen holding a strange gadget which she puts on the living room table. A small bulb lights. Kenji just watches her. Chieko gestures for him to sit down.     Kenji and Chieko sit across from each other. Chieko takes out her notebook and pen, writes something down and hands it over to Kenji. Kenji reads, seems surprised and reads again slowly.}
+<DIAL>__{Do you have tea? Chieko nods and goes into the kitchen. Kenji glances over the apartment. Chieko comes back from the kitchen holding a strange gadget which she puts on the living room table. A small bulb lights. Kenji just watches her. Chieko gestures for him to sit down. Kenji and Chieko sit across from each other. Chieko takes out her notebook and pen, writes something down and hands it over to Kenji. Kenji reads, seems surprised and reads again slowly.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{"My father had nothing to do with my mother's death," what's this? Chieko is disconcerted at the question. She takes her notebook and starts writing. Kenji reads and turns to her.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
@@ -2142,9 +2142,9 @@
 <LOC>__{EXT. BALCONY, CHIEKO'S APARTMENT -- NIGHT}
 <DIAL>__{She opens the door to the balcony and points at the void: it's over twelve floors. Kenji looks over; the distance is dizzying. Chieko writes in her notebook and shows him the piece of paper.}
 <CHAR>__{KENJI} <CHAR_PAR>__{}
-<DIAL>__{You saw her jump? She nods and writes again.    She looks perturbed.}
+<DIAL>__{You saw her jump? She nods and writes again. She looks perturbed.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You've already told the other officers? She nods again.   Kenji holds her by her arms.}
+<DIAL>__{You've already told the other officers? She nods again. Kenji holds her by her arms.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I don't know what you're talking about. Chieko remains motionless for a few seconds. She scrawls in her notebook "Then why do you want to talk to my father?" Kenji reads and then turns to her.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
@@ -2154,10 +2154,10 @@
 <ACTION>__{Chieko comes back with a cup of steaming tea.}
 <CHAR>__{KENJI} <CHAR_PAR>__{}
 <DIAL>__{Does your father still hunt?}
-<ACTION>__{She shakes her head.   She writes something and hands it over.}
+<ACTION>__{She shakes her head. She writes something and hands it over.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{There was an incident with a rifle in your father's name. That's why we want to talk to him.}
-<ACTION>__{The news weighs on Chieko; she looks away. The sounds of Tokyo come in through the living room: its car horns, its voices. Suddenly a rush of wind comes in. Chieko sees the balcony doors are open and goes to close them. She then comes back to the living room and sits down, dejected. Kenji sits down beside her and leaves the tea on the table. He doesn't know what to do and looks uncomfortable. She picks up the notebook and writes.    Kenji reads.}
+<ACTION>__{The news weighs on Chieko; she looks away. The sounds of Tokyo come in through the living room: its car horns, its voices. Suddenly a rush of wind comes in. Chieko sees the balcony doors are open and goes to close them. She then comes back to the living room and sits down, dejected. Kenji sits down beside her and leaves the tea on the table. He doesn't know what to do and looks uncomfortable. She picks up the notebook and writes. Kenji reads.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{No, your father isn't going to jail. We just need to talk to him.}
 <ACTION>__{There is a long silence. Chieko seems immersed in a remote, inaccessible world. Kenji turns his face to hers so that she can read his lips.}
@@ -2166,19 +2166,19 @@
 <ACTION>__{Chieko grabs his arm and shakes her head, urging him to stay. They exchange a look for an instant and Kenji insists.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I have to go.}
-<ACTION>__{He gets up to leave. Chieko signals for him to wait for a moment and goes to her room. Kenji stands in the middle of the room, waiting.    Chieko comes back completely naked. Her skin bristles. She walks toward him, breathing through her mouth. Kenji is disconcerted when he sees the quiet teenager approach. She walks all the way up to Kenji and when she is about to take another step, he holds her back with both hands.}
+<ACTION>__{He gets up to leave. Chieko signals for him to wait for a moment and goes to her room. Kenji stands in the middle of the room, waiting. Chieko comes back completely naked. Her skin bristles. She walks toward him, breathing through her mouth. Kenji is disconcerted when he sees the quiet teenager approach. She walks all the way up to Kenji and when she is about to take another step, he holds her back with both hands.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What are you doing? She doesn't pay attention, breaks free and stands a few inches away from him. She is almost panting. She holds out her hand and caresses Kenji's ear. He stands there, immobile, without taking his eyes off Chieko's. She takes his hand and puts it on one of her breasts. Kenji strokes her breast and then pulls his hand away. She grabs it again and puts it back on.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{No, no, no... this is wrong. Kenji looks turned on and confused: Chieko is beautiful, but he knows he cannot go on and takes his hand away.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{No, I can't.     You're just a girl. She walks up to his face and licks it.    He is confused.}
+<DIAL>__{No, I can't. You're just a girl. She walks up to his face and licks it. He is confused.}
 <CHAR>__{KENJI } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Enough, please. He grabs her by her arms and moves her away. She grabs the sleeve of his jacket and pulls him back. She hugs him and suddenly Chieko starts crying, disconsolate. Kenji, bewildered, first does nothing, but upon seeing Chieko's despair, holds her. She buries her face in his shoulder. Her nakedness becomes increasingly fragile.}
 <LOC>__{EXT. DESERT -- DAY}
 <DIAL>__{Abdullah, afraid, watches his son shoot. The police have stopped firing and run for cover. Yussef loads the rifle again and aims carefully. He shoots and, in the distance, we can see one of the headlights on a police truck shatter. Abdullah shouts at Yussef desperately.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
-<DIAL>__{Yussef, stop shooting! Furious, Yussef loads the rifle again and starts shooting at the cops. Ahmed won't stop screaming from the pain. Confused, Abdullah doesn't know if he should console his wounded son or stop the enraged Yussef. In the distance, the cops reorganize.    We hear the faraway shots of Alarid giving orders.}
+<DIAL>__{Yussef, stop shooting! Furious, Yussef loads the rifle again and starts shooting at the cops. Ahmed won't stop screaming from the pain. Confused, Abdullah doesn't know if he should console his wounded son or stop the enraged Yussef. In the distance, the cops reorganize. We hear the faraway shots of Alarid giving orders.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
 <DIAL>__{Move that truck... god damn it... One of the cops gets onto a truck and uses it as a parapet. Yussef aims again, but this time the policemen are well covered. Abdullah drags himself all the way to Yussef.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
@@ -2188,15 +2188,15 @@
 <DIAL>__{They're going to kill us.}
 <CHAR>__{ABDULLAH} <CHAR_PAR>__{}
 <DIAL>__{Give me that rifle.}
-<ACTION>__{He tries to wrest it away, but Yussef resists. The struggle and Abdullah finally pulls it away. When Yussef tries to snatch it back, the police fire a round of shots and the two barely have time to hide. The air is thick with gunshots. Yussef and Abdullah, terrified, stick to the stones. The bullets strike very close to them, and they can't even raise their heads. Ahmed won't stop complaining.    Abdullah shouts at him.}
+<ACTION>__{He tries to wrest it away, but Yussef resists. The struggle and Abdullah finally pulls it away. When Yussef tries to snatch it back, the police fire a round of shots and the two barely have time to hide. The air is thick with gunshots. Yussef and Abdullah, terrified, stick to the stones. The bullets strike very close to them, and they can't even raise their heads. Ahmed won't stop complaining. Abdullah shouts at him.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Ahmed, don't move.}
 <ACTION>__{The gunshots rain down for over a minute. When they stop, Abdullah turns to look at Ahmed, who is lying motionless on the rocks with bullet in his back.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Ahmed!   Ahmed!}
+<DIAL>__{Ahmed! Ahmed!}
 <ACTION>__{Oblivious of the police, he gets up and runs toward him. Motionless, Ahmed just moans. With every breath, his shirt grows bloodier.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Ahmed!   Ahmed!}
+<DIAL>__{Ahmed! Ahmed!}
 <ACTION>__{He rolls Ahmed over and lays his head on his lap. Abdullah cannot stop crying. Yussef, ducking, runs toward his brother. Abdullah laments nervously.}
 <CHAR>__{ABDULLAH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Don't die, don't die.}
@@ -2231,7 +2231,7 @@
 <ACTION>__{He turns to his father and his brother and points at them.}
 <CHAR>__{YUSSEF } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Kill me, but save my brother, he did nothing... nothing...}
-<ACTION>__{Alarid moves in, aiming at him with a rifle.    Behind him are five other cops, also ready to shoot.}
+<ACTION>__{Alarid moves in, aiming at him with a rifle. Behind him are five other cops, also ready to shoot.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
 <DIAL>__{On the ground... Yussef does not obey.}
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
@@ -2241,9 +2241,9 @@
 <CHAR>__{YUSSEF} <CHAR_PAR>__{}
 <DIAL>__{Save my brother... please... He lies on the floor, crying. Alarid puts his gun down and looks at him: his enemy is a disconsolate child. Then he looks up at Abdullah who is screaming his lamentations. He turns to one of his subordinates.}
 <CHAR>__{ALARID} <CHAR_PAR>__{}
-<DIAL>__{Go help them. One of the officers goes to help Abdullah and Ahmed.     Yussef lies on the floor, crying.}
+<DIAL>__{Go help them. One of the officers goes to help Abdullah and Ahmed. Yussef lies on the floor, crying.}
 <LOC>__{EXT. DESERT -- NIGHT}
-<DIAL>__{The sun rises.   Amelia and the children keep walking.    They sweat.}
+<DIAL>__{The sun rises. Amelia and the children keep walking. They sweat.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
 <DIAL>__{I can't walk anymore.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -2260,9 +2260,9 @@
 <CHAR>__{MIKE} <CHAR_PAR>__{}
 <DIAL>__{And it doesn't rot?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{No, it doesn't rot.   We all breathe this air.}
+<DIAL>__{No, it doesn't rot. We all breathe this air.}
 <LOC>__{EXT. DESERT -- MORNING}
-<DIAL>__{Dawn. The three walk through the desert.      Debbie walks mechanically, tired and exhausted.}
+<DIAL>__{Dawn. The three walk through the desert. Debbie walks mechanically, tired and exhausted.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{I can't anymore. I'm thirsty.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
@@ -2278,13 +2278,13 @@
 <CHAR>__{MIKE} <CHAR_PAR>__{}
 <DIAL>__{What if there are snakes?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{No, there aren't any.   Come, lie down. The boy, exhausted and docile, obeys and lies on her chest. Amelia leans against the trunk with Debbie on her legs. The children sleep while Amelia, nodding off, tries to keep watch.}
+<DIAL>__{No, there aren't any. Come, lie down. The boy, exhausted and docile, obeys and lies on her chest. Amelia leans against the trunk with Debbie on her legs. The children sleep while Amelia, nodding off, tries to keep watch.}
 <LOC>__{EXT. DESERT -- LATER}
 <DIAL>__{It is well into the morning. Amelia and the children sleep deeply. There is a noise and Amelia opens her eyes. She sees a border patrol truck driving around near them.}
 <ACTION>__{Looking through the branches, she spies on the truck and watches another one join it. Mike awakes and sits up.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
 <DIAL>__{What happening?}
-<ACTION>__{Amelia ducks and lays Mike face down.    The two trucks slowly approach.}
+<ACTION>__{Amelia ducks and lays Mike face down. The two trucks slowly approach.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(To Mike, in a low voice, in Spanish)}
 <DIAL>__{Stay still.}
@@ -2298,7 +2298,7 @@
 <DIAL>__{That's not true: you're bad.}
 <ACTION>__{Amelia freezes upon hearing the boy's words.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{No, sweetie, I'm not bad.     I just did something stupid.}
+<DIAL>__{No, sweetie, I'm not bad. I just did something stupid.}
 <ACTION>__{She pulls him toward her and hugs him tenderly.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(In Spanish)}
@@ -2323,13 +2323,13 @@
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{Honey, you have to take care of Debbie.}
 <CHAR>__{MIKE} <CHAR_PAR>__{}
-<DIAL>__{I'm going with you. Mike looks at her with imploring eyes.   Amelia caresses him.}
+<DIAL>__{I'm going with you. Mike looks at her with imploring eyes. Amelia caresses him.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{I won't be long. I promise.}
 <LOC>__{EXT. DESERT -- DAY}
-<DIAL>__{Amelia desperately looks through the desert.   She also looks dehydrated. She drifts.}
+<DIAL>__{Amelia desperately looks through the desert. She also looks dehydrated. She drifts.}
 <LOC>__{EXT. DESERT -- DAY}
-<DIAL>__{Amelia drags her feet as she walks.   She can go no further.}
+<DIAL>__{Amelia drags her feet as she walks. She can go no further.}
 <LOC>__{EXT. DESERT -- DAY}
 <DIAL>__{Amelia sees a small hillock and climbs it with difficulty. She surveys the environs from the top. In the distance she sees a Border Patrol truck driving down a path.}
 <ACTION>__{With great effort, Amelia runs down the hill.}
@@ -2339,7 +2339,7 @@
 <ACTION>__{The truck doesn't stop. Amelia keeps running, flailing her arms and screaming wildly.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Sir... sir... stop...}
-<ACTION>__{The truck stops and backs up.   Amelia keeps going, tripping over stones. John (29), a thoroughly Mexican officer, gets out and she runs up, panting, to him.}
+<ACTION>__{The truck stops and backs up. Amelia keeps going, tripping over stones. John (29), a thoroughly Mexican officer, gets out and she runs up, panting, to him.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Please help me.}
 <ACTION>__{John stares at her suspiciously.}
@@ -2355,8 +2355,8 @@
 <DIAL>__{When did you cross?}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In English)}
-<DIAL>__{I didn't cross, I live here.   Please, help me find these kids.}
-<ACTION>__{John keeps staring at her.   He points to a mesquite.}
+<DIAL>__{I didn't cross, I live here. Please, help me find these kids.}
+<ACTION>__{John keeps staring at her. He points to a mesquite.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
 <DIAL>__{Stand there and don't move.}
 <ACTION>__{Amelia obeys. John goes back to the vehicle, opens the door and sits down and grabs the radio.}
@@ -2367,11 +2367,11 @@
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{I left those kids in the desert, I swear. John pushes her forcefully against the truck.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
-<DIAL>__{Turn around, now. She turns around with her hands over her head.    John handcuffs her and leads her to the vehicle.}
+<DIAL>__{Turn around, now. She turns around with her hands over her head. John handcuffs her and leads her to the vehicle.}
 <LOC>__{INT. BORDER PATROL VEHICLE -- DAY}
 <DIAL>__{Amelia, cuffed, and John, drive down a path in the desert.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
-<DIAL>__{Which way are they? Amelia studies the terrain.    She points at some mesquites in the distance.}
+<DIAL>__{Which way are they? Amelia studies the terrain. She points at some mesquites in the distance.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Spanish)}
 <DIAL>__{Over there.}
@@ -2402,19 +2402,19 @@
 <DIAL>__{I left them about a kilometer in from the road.}
 <CHAR>__{ELISEO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In Spanish)}
-<DIAL>__{Which road? She doesn't know what to say.    John grabs her by the arm and drags her toward the vehicle.}
+<DIAL>__{Which road? She doesn't know what to say. John grabs her by the arm and drags her toward the vehicle.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
 <DIAL>__{I don't believe you. Amelia looks at him desperately.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In English)}
-<DIAL>__{I swear they're around here. John is not affected.   He keeps pulling her.}
+<DIAL>__{I swear they're around here. John is not affected. He keeps pulling her.}
 <CHAR>__{ELISEO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In English)}
 <DIAL>__{John, wait, maybe she's telling the truth.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
 <DIAL>__{Maybe she's not, let's go.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
-<DIAL>__{Please sir, believe me. John pays no attention.   She turns to Eliseo.}
+<DIAL>__{Please sir, believe me. John pays no attention. She turns to Eliseo.}
 <CHAR>__{AMELIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(In Spanish)}
 <DIAL>__{I swear, they're lost, they're going to die. I have to find them. John keeps pulling her. He puts her in the truck and closes the door before Eliseo's passive gaze.}
@@ -2434,7 +2434,7 @@
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Don't ever leave them again.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{No, I'm not going to leave them and don't you even think about leaving me, because I'll kill you like nobody's killed you before. She smiles.   He caresses her.}
+<DIAL>__{No, I'm not going to leave them and don't you even think about leaving me, because I'll kill you like nobody's killed you before. She smiles. He caresses her.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{I peed my pants.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2444,7 +2444,7 @@
 <ACTION>__{Richard touches between her legs and feels the moisture.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{I'm going to tell Mike on you, so you never scold him again.}
-<ACTION>__{They both laugh.   She grimaces in pain when she does.}
+<ACTION>__{They both laugh. She grimaces in pain when she does.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{I need to pee again.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2460,10 +2460,10 @@
 <ACTION>__{He lifts up her dress, pulls down her underpants and sets the basin under her. She puts her arm around him to pull herself up, but can't move her right arm.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{I can't.}
-<ACTION>__{They laugh.   He kisses her.   We start to hear the stream.}
+<ACTION>__{They laugh. He kisses her. We start to hear the stream.}
 <CHAR>__{SUSAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Now I can.}
-<ACTION>__{While she pees, they kiss painfully.    She starts to cry.}
+<ACTION>__{While she pees, they kiss painfully. She starts to cry.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{Forgive me my love. When Pat died I didn't know what to do, the pain drove me crazy... I was scared, that's why I left... forgive me.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
@@ -2500,7 +2500,7 @@
 <LOC>__{INT. ANWAR'S HOUSE -- DAY}
 <DIAL>__{Richard is squatting next to Susan.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{My love... I'm going to get you out of here.   We're going to try to take you to a clinic an hour and a half away from here. Do you think you can make it? She thinks for a moment and then nods.}
+<DIAL>__{My love... I'm going to get you out of here. We're going to try to take you to a clinic an hour and a half away from here. Do you think you can make it? She thinks for a moment and then nods.}
 <CHAR>__{SUSAN} <CHAR_PAR>__{}
 <DIAL>__{Yeah.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2523,7 +2523,7 @@
 <DIAL_PAR>__{(In Arabic)}
 <DIAL>__{They're calling from the American Embassy.}
 <LOC>__{INT. GENERAL STORE -- AFTERNOON}
-<DIAL>__{Richard walks into the cubicle.    The phone is off the hook and Richard answers.}
+<DIAL>__{Richard walks into the cubicle. The phone is off the hook and Richard answers.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{Hello...}
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(O.S.)}
@@ -2574,7 +2574,7 @@
 <DIAL>__{I had to look for help.}
 <CHAR>__{POLICE OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Your reckless behavior endangered their lives.}
-<ACTION>__{Amelia stops arguing.   She looks worried.}
+<ACTION>__{Amelia stops arguing. She looks worried.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
 <DIAL>__{How are they?}
 <CHAR>__{POLICE OFFICER} <CHAR_PAR>__{}
@@ -2597,7 +2597,7 @@
 <DIAL>__{I don't have any information on him.}
 <ACTION>__{Amelia looks destitute.}
 <CHAR>__{POLICE OFFICER } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{We located the parents in Morocco. They're very angry, but they've decided not to raise charges. Amelia exhales, relieved.   The policeman leans toward her.}
+<DIAL>__{We located the parents in Morocco. They're very angry, but they've decided not to raise charges. Amelia exhales, relieved. The policeman leans toward her.}
 <CHAR>__{POLICE OFFICER } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Nevertheless, the government of the United States has deemed you were seriously breaking the law and has decided to immediately and definitively deport you. Amelia loses her breath.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -2609,7 +2609,7 @@
 <CHAR>__{POLICE OFFICER} <CHAR_PAR>__{}
 <DIAL>__{If you attempt to take this to court, I assure you you will end up in jail. If you want my advice, accept the deportation and never come back.}
 <LOC>__{EXT. BORDER CROSSING -- EVENING}
-<DIAL>__{A bus parks in front of the border. Several border patrol agents have formed a wall for the illegal immigrants to pass directly through. The illegal immigrants get out and walk toward Mexico.   As Amelia crosses, she keeps looking back.}
+<DIAL>__{A bus parks in front of the border. Several border patrol agents have formed a wall for the illegal immigrants to pass directly through. The illegal immigrants get out and walk toward Mexico. As Amelia crosses, she keeps looking back.}
 <LOC>__{EXT. BORDER CROSSING, MEXICO -- EVENING}
 <DIAL>__{The illegal immigrants cross into Mexico, where they disband into small groups. Amelia walks alone. Before she walks away she turns to one of the other deported Mexicans.}
 <CHAR>__{AMELIA} <CHAR_PAR>__{}
@@ -2636,7 +2636,7 @@
 <CHAR>__{REPORTER} <CHAR_PAR>__{}
 <DIAL>__{In this helicopter is Susan Jones, an American mother of two who was seriously injured in a terrorist attack. It appears fundamentalist organizations planned the attack... The helicopter settles softly in the parking lot. It is immediately surrounded by several Moroccan soldiers. The doctors on the ground prepare the stretcher. Ken walks hurriedly toward the chopper, guarding himself from the wind. Susan is immediately placed on the stretcher and quickly taken to the emergency room. Richard follows close behind until his is intercepted by Ken.}
 <CHAR>__{KEN} <CHAR_PAR>__{}
-<DIAL>__{Mr. Jones, I'm Ken Clifford, Ambassador to the United States. Richard keeps running behind the stretcher.   Ken stops him.}
+<DIAL>__{Mr. Jones, I'm Ken Clifford, Ambassador to the United States. Richard keeps running behind the stretcher. Ken stops him.}
 <CHAR>__{KEN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{A first rate medical team is going to tend to her, but if you want we can take her to a hospital in Italy as soon as she's stable...}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2646,21 +2646,21 @@
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{The last thing I'm worried about right now is the fucking press. He pulls away from Ken and follows Susan toward the E.R.}
 <LOC>__{INT. HALLWAY, E.R., MOROCCAN HOSPITAL -- NIGHT}
-<DIAL>__{Several Moroccan doctors are examining Susan.    Richard observes worriedly from a window. One of the doctors comes out.}
+<DIAL>__{Several Moroccan doctors are examining Susan. Richard observes worriedly from a window. One of the doctors comes out.}
 <CHAR>__{MOROCCAN DOCTOR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(In good English)}
 <DIAL>__{We're going to have to operate immediately.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{Is she going to be ok?}
 <CHAR>__{MOROCCAN DOCTOR} <CHAR_PAR>__{}
-<DIAL>__{It's probable. We're going to try to save her arm.   She's been bleeding internally, and there's been some clotting so there's a high risk of gangrene.}
+<DIAL>__{It's probable. We're going to try to save her arm. She's been bleeding internally, and there's been some clotting so there's a high risk of gangrene.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(insistently, as if}
 <DIAL>__{he hadn't heard the}
 <DIAL_PAR>__{doctor)}
 <DIAL>__{But she's going to be ok? The Moroccan doctor puts his hand on Richard's shoulder and thinks about his answer.}
 <CHAR>__{MOROCCAN DOCTOR} <CHAR_PAR>__{}
-<DIAL>__{Yes, she's going to be ok. The doctor leaves and Richard goes back to looking at his wife through the glass. The doctors are still prepping her.   Richard walks in.}
+<DIAL>__{Yes, she's going to be ok. The doctor leaves and Richard goes back to looking at his wife through the glass. The doctors are still prepping her. Richard walks in.}
 <LOC>__{INT. EMERGENCY ROOM -- NIGHT}
 <DIAL>__{He stands next to Susan, who is unconscious. He looks at a doctor and she moves to one side. Richard leans over and kisses her. He walks away and the nurses start to wheel her to the O.R.}
 <LOC>__{INT. HALLWAY, MOROCCAN HOSPITAL -- NIGHT}
@@ -2679,7 +2679,7 @@
 <DIAL>__{No sir, don't worry.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL>__{Put Mike on please.}
-<ACTION>__{A few seconds pass and Mike answers.   This is the phone call from the beginning.}
+<ACTION>__{A few seconds pass and Mike answers. This is the phone call from the beginning.}
 <CHAR>__{MIKE } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Hi dad.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2711,7 +2711,7 @@
 <ACTION>__{He keeps walking. On the other end of the lobby, at the parking lot entrance, Yasujiro walks in. The doorman calls Kenji as he is about to leave.}
 <CHAR>__{DOORMAN} <CHAR_PAR>__{}
 <DIAL>__{Officer... officer...}
-<ACTION>__{Kenji stops.   Beside him is Yasujiro.}
+<ACTION>__{Kenji stops. Beside him is Yasujiro.}
 <CHAR>__{DOORMAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{This is the man you were looking for.}
 <ACTION>__{Kenji approaches him while the doorman discretely moves away to leave them alone in the lobby.}
@@ -2775,15 +2775,15 @@
 <LOC>__{EXT. TOKYO STREETS -- NIGHT}
 <DIAL>__{Kenji walks down the streets immersed in his thoughts.}
 <LOC>__{INT. BAR -- NIGHT}
-<DIAL>__{Kenji sits in a half-empty bar.   He turns to the bartender.}
+<DIAL>__{Kenji sits in a half-empty bar. He turns to the bartender.}
 <CHAR>__{KENJI} <CHAR_PAR>__{}
 <DIAL>__{Another whisky. The T.V. has been turned on to a Japanese newscast. Kenji takes out Chieko's note, reads it and, as soon as he is done, closes his eyes. He looks around. Everybody seems to be immersed in a world far from his own. A reporter appears on T.V.}
 <CHAR>__{REPORTER} <CHAR_PAR>__{}
 <DIAL>__{Susan Jones, the American woman wounded in an attack in Morocco ten days ago, left the hospital today, heading to the United States... Susan appears on screen in a wheelchair pushed by a male nurse and followed by Richard. The bartender leans over to Kenji.}
 <CHAR>__{BARTENDER} <CHAR_PAR>__{}
-<DIAL>__{Do you want something to eat?    I could make you a sandwich.}
+<DIAL>__{Do you want something to eat? I could make you a sandwich.}
 <CHAR>__{KENJI} <CHAR_PAR>__{}
-<DIAL>__{No thank you. When he looks back at the news, the story has changed.   Kenji drinks his whisky parsimoniously.}
+<DIAL>__{No thank you. When he looks back at the news, the story has changed. Kenji drinks his whisky parsimoniously.}
 <LOC>__{INT. ELEVATOR, CHIEKO'S BUILDING -- NIGHT}
 <DIAL>__{Yasujiro rides the elevator up, lost in thought.}
 <LOC>__{EXT. BALCONY, CHIEKO'S APARTMENT -- NIGHT}

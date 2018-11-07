@@ -17,7 +17,7 @@
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{His Lord now... actually.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{In fact, I *do*. Mister Mercer! The warrant for the arrest of one William Turner.}
+<DIAL>__{In fact, I do. Mister Mercer! The warrant for the arrest of one William Turner.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Oh, is it? That's annoying. My mistake. Arrest her.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
@@ -28,23 +28,23 @@
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Ah-ha! Here's the one for William Turner. And I have another one for a Mister James Norrington. Is he present?}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{*What are the charges?*}
+<DIAL>__{What are the charges?}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{I don't believe that's the answer to the question I asked.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{Lord Beckett! In the category of questions *not* answered...}
+<DIAL>__{Lord Beckett! In the category of questions not answered...}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{We are under the jurisdiction of the King's governor of Port Royal, and you will tell us what we are charged with.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{For which the punishment, regrettably, is *also* death. Perhaps you remember a certain pirate named Jack Sparrow.}
+<DIAL>__{For which the punishment, regrettably, is also death. Perhaps you remember a certain pirate named Jack Sparrow.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{*Captain* Jack Sparrow.}
+<DIAL>__{Captain Jack Sparrow.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Captain Jack Sparrow. Yes, I thought you might.}
 <ACTION_ALT>__{BLACK PEARL}
 <ACTION>__{views of rigging ropes and blocks aboard a ship at night Gibbs walks the deck alone at night, singing and drinking from  a bottle}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Fifteen men on a dead man's chest. Yo ho ho, and a *bottle* of rum. Drink and the devil had done for the rest. Yo ho ho, and a *bottle* of rum. Ha-ha-ha-ha-ha!}
+<DIAL>__{Fifteen men on a dead man's chest. Yo ho ho, and a bottle of rum. Drink and the devil had done for the rest. Yo ho ho, and a bottle of rum. Ha-ha-ha-ha-ha!}
 <ACTION>__{a bell tolls, Gibbs is interrupted from his drinking by the  sound Gibbs looks up to see a flock of crows flying in the foggy night  sky}
 <ACTION_ALT>__{TURKISH PRISON}
 <ACTION>__{tolling of bells, camera pans to show the crows flying toward  a coastal island pinnacle-like island off the coast at night, connected to the  mainland by thin, lighted bridge cages with men inside line the bridge prisoners are being marched across the bridge a male prisoner with bloody legs is muttering, and is dragged  across the bridge by guards a crow is seen reflected in the eye of one male prisoner in  a cage, the crow attacks and pecks his eye out, he screams the prisoner who was being dragged is taken down a hatch-like  door in the ground, he also screams rocky shoreline, lit with torches men toss caskets into the sea numerous caskets are floating out to sea, vertical streaks in  the distant clouds are seen a crow lands on one casket, begins pecking at the top sudden gunblast from inside the casket blows the crow away,  along with much wood hand holding flintlock pistol emerges, pans about, points it  at audience for a moment Jack breaks out of the top of the casket, puts his captain's  hat on}
@@ -57,7 +57,7 @@
 <ACTION_ALT>__{BLACK PEARL}
 <ACTION>__{Jack arrives at the Black Pearl in his coffin rowboat Gibbs holds out his hand to help Jack aboard, Jack puts the  skeleton leg in Gibbs' hand Cotton drapes a coat onto Jack's back}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Not *quite* according to plan.}
+<DIAL>__{Not quite according to plan.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Complications arose, ensued, were overcome.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
@@ -65,7 +65,7 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Mm-hmm!}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Captain, I think the crew, meaning me as well, were expecting something a bit more... *shiny*. What with the Isla de Muerta going all pear shaped, reclaimed by the sea, and the treasure with it.}
+<DIAL>__{Captain, I think the crew, meaning me as well, were expecting something a bit more... shiny. What with the Isla de Muerta going all pear shaped, reclaimed by the sea, and the treasure with it.}
 <CHAR>__{LEECH} <CHAR_PAR>__{}
 <DIAL>__{And the Royal Navy chasing us all around the Atlantic.}
 <CHAR>__{MARTY} <CHAR_PAR>__{}
@@ -101,14 +101,14 @@
 <CHAR>__{MARTY} <CHAR_PAR>__{}
 <DIAL>__{It's a key!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{No! Much more better. It is a *drawing* of a key.}
+<DIAL>__{No! Much more better. It is a drawing of a key.}
 <ACTION>__{Jack holds up the cloth, the crew crowd forward Among the crew: Chinese man, black man with a black  beard, white bearded man with large black hat}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Gentlemen, what do keys do?}
 <CHAR>__{LEECH} <CHAR_PAR>__{}
-<DIAL>__{Keys... unlock... *things*?}
+<DIAL>__{Keys... unlock... things?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{And whatever this key unlocks, *inside* there's something valuable. So, we're setting out to find whatever this key unlocks!}
+<DIAL>__{And whatever this key unlocks, inside there's something valuable. So, we're setting out to find whatever this key unlocks!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{No! If we don't have the key, we can't open whatever it is we don't have that it unlocks. So what purpose would be served in finding whatever need be unlocked, which we don't have, without first having found the key what unlocks it?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
@@ -118,7 +118,7 @@
 <CHAR>__{MARTY} <CHAR_PAR>__{}
 <DIAL>__{So... Do we have a heading?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Hah! A heading. Set sail in a... mmm... a general... in *that* way - direction.}
+<DIAL>__{Hah! A heading. Set sail in a... mmm... a general... in that way - direction.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Cap'n?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -147,7 +147,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Recover. At the point of a sword?}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{*Bargain*!}
+<DIAL>__{Bargain!}
 <ACTION>__{Beckett goes over to a wooden box on a table and opens it}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Letters of Marque. You will offer what amounts to a full pardon. Jack will be free, a privateer in the employ of England.}
@@ -156,7 +156,7 @@
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Freedom.  Jack Sparrow is a dying breed. The world is shrinking, the blank pages of the map filled in. Jack must find his place in the new world or perish. Not unlike you, Mister Turner. You and your fiancee face the hangman's noose.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{So you get both Jack *and* the Black Pearl.}
+<DIAL>__{So you get both Jack and the Black Pearl.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{The Black Pearl?}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
@@ -169,7 +169,7 @@
 <DIAL>__{Why is the rum always gone?}
 <ACTION>__{Jack rises to his feet, staggers Jack picks up his hat off the top of a globe}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Oh! *That's* why.}
+<DIAL>__{Oh! That's why.}
 <ACTION>__{Jack walks past the crew sleeping on hammocks, Jack is carrying  a lantern some of the crew are snoring, and Cotton is among those sleeping}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{As you were, gents.}
@@ -204,14 +204,14 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Technic -}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Yes, but the Flying Dutchman already *has* a captain, so there's re -}
+<DIAL>__{Yes, but the Flying Dutchman already has a captain, so there's re -}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Any idea when Jones might release said terrible beastie?}
 <ACTION>__{Jack looks at the palm of his left hand, where a black spot  boils into view Jack looks up, but Bootstrap has disappeared BLACK PEARL: ON DECK Jack runs across a wooden deck that has a shallow covering of  water}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{On deck all hands! Make fast the bunt gasket! On deck! Scurry! ?Scurry-on/?Marty, I want movement!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{*I want movement!*}
+<DIAL>__{I want movement!}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Lift the skin up!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -286,7 +286,7 @@
 <DIAL>__{Keep a weather eye on the horizon.}
 <ACTION>__{Will walks back up the prison steps Tortuga}
 <CHAR>__{WEATHERED SAILOR} <CHAR_PAR>__{}
-<DIAL>__{*Captain* Jack Sparrow? Owes me four dubloons. Heard he was dead. HALF-BLIND FISHERMAN Singapore. That's what I heard. Drunk with a smile on his face. Sure as the tide, Jack Sparrow... will turn up in Singapore.}
+<DIAL>__{Captain Jack Sparrow? Owes me four dubloons. Heard he was dead. HALF-BLIND FISHERMAN Singapore. That's what I heard. Drunk with a smile on his face. Sure as the tide, Jack Sparrow... will turn up in Singapore.}
 <ACTION>__{Scarlett is a redhead, Giselle is a blonde, both are standing  together, answering Will's questions}
 <CHAR>__{GISELLE} <CHAR_PAR>__{}
 <DIAL>__{Jack Sparrow!}
@@ -356,7 +356,7 @@
 <DIAL>__{Ahhh... eunuchy!}
 <ACTION>__{Jack begins to walk away, as if disinterested, his Compass hangs  from his waist}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{Jack! The Compass! That's all I need, Elizabeth is in danger. We were arrested for trying to help *you*. She faces the gallows!}
+<DIAL>__{Jack! The Compass! That's all I need, Elizabeth is in danger. We were arrested for trying to help you. She faces the gallows!}
 <ACTION>__{Jack halts, pauses, turns around and casually walks back}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Say-say lam shoop-shoop sha smalay-lama shoo-koo. Savvy? Ball licky-licky.}
@@ -369,7 +369,7 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Save me!}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{Jack, what did you tell them? No! What about Elizabeth? *Jack...!*}
+<DIAL>__{Jack, what did you tell them? No! What about Elizabeth? Jack...!}
 <ACTION>__{Will is carried across a rope bridge, still hanging underneath  the bamboo pole Port Royal Elizabeth sits alone in her prison cell, male prisoners in the  next cell whistle and beckon her}
 <CHAR>__{PRISONERS} <CHAR_PAR>__{}
 <DIAL>__{...we don't bite...Come on...}
@@ -385,7 +385,7 @@
 <DIAL>__{A fair trial for Will ends in a hanging.}
 <ACTION>__{the horse and carriage quickly ride off the horse and carriage arrive at a dock Captain Hawkins stands silently on the dock facing out to sea the captain's body soon falls, revealing Mercer, who was standing  behind the body, long knife in hand}
 <CHAR>__{MERCER} <CHAR_PAR>__{}
-<DIAL>__{Evening, Governor.  Shame, huh? He was carryin' this. It's a letter to the King. It's from *you*.}
+<DIAL>__{Evening, Governor.  Shame, huh? He was carryin' this. It's a letter to the King. It's from you.}
 <ACTION>__{horses and soldiers arrive to cut off the governor from fleeing  from the dock the carriage door is opened, but the carriage is empty, Elizabeth  is gone}
 <CHAR>__{MERCER} <CHAR_PAR>__{}
 <DIAL>__{Where is she?}
@@ -399,14 +399,14 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Then what is?}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{I'm afraid that *currency* is the currency of the realm.}
+<DIAL>__{I'm afraid that currency is the currency of the realm.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{I expect then that we can come to some sort of understanding. I'm here to negotiate.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{I'm listening.}
 <ACTION>__{Elizabeth pulls a pistol, points it at Beckett's head}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{I'm listening *intently*.}
+<DIAL>__{I'm listening intently.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{These Letters of Marque, they are signed by the King?}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
@@ -418,7 +418,7 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{I have been to Isla de Muerta, I have seen the treasure myself. There is something you need to know.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
-<DIAL>__{Ah, I see. *You* think the Compass leads only to the Isla de Muerta, and so you hope to *save* me from an evil fate. But you mustn't worry. I care not for cursed Aztec gold. My desires are not so provincial. There's more than one chest of value in these waters. So perhaps you may wish to enhance your offer.}
+<DIAL>__{Ah, I see. You think the Compass leads only to the Isla de Muerta, and so you hope to save me from an evil fate. But you mustn't worry. I care not for cursed Aztec gold. My desires are not so provincial. There's more than one chest of value in these waters. So perhaps you may wish to enhance your offer.}
 <ACTION>__{Elizabeth cocks her pistol Beckett signs the document}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Consider into your calculations that you robbed me of my wedding night.}
@@ -432,12 +432,12 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Well I say it was divine providence what escaped us from jail.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
-<DIAL>__{And I say... it was me bein' *clever*. Ain't that right, poochie?}
+<DIAL>__{And I say... it was me bein' clever. Ain't that right, poochie?}
 <ACTION>__{the dog goes to the bow, looking forward, keys in its mouth}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
-<DIAL>__{?: Well how'dya know it ?weren't/?wasn't divine providence what inspired you to *be* clever? Anyways, I ain't stealin' no ship.}
+<DIAL>__{?: Well how'dya know it ?weren't/?wasn't divine providence what inspired you to be clever? Anyways, I ain't stealin' no ship.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
-<DIAL>__{It ain't stealin'. It's *salvagin'*! And since when did you care?}
+<DIAL>__{It ain't stealin'. It's salvagin'! And since when did you care?}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Since we're not immortal no more. We gotta take care of our immortal souls.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
@@ -445,10 +445,10 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{It's the Bible. You get credit for trying.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
-<DIAL>__{Pretendin' to read the Bible's a *lie*! *That's* a mark against ya!  Look! There it is!}
+<DIAL>__{Pretendin' to read the Bible's a lie! That's a mark against ya!  Look! There it is!}
 <ACTION>__{the dog jumps overboard and swims toward shore}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
-<DIAL>__{What's got into *'im*?}
+<DIAL>__{What's got into 'im?}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
 <DIAL>__{Must've seen a catfish. Heh-heh-heh-heh-heh-heh.}
 <ACTION>__{both laugh, the dog reaches shore and looks back at them}
@@ -465,7 +465,7 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Tide's comin', that should help. Well, salvagin' is saving, in a manner of speaking.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
-<DIAL>__{There's the truth of *it*! ###}
+<DIAL>__{There's the truth of it! ###}
 <ACTION>__{cannibal drums sound}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Suppose we be'er... save it as soon as we can. What with our souls in such a vulnerable state, and all.}
@@ -484,18 +484,18 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Why would he do this to us? If Jack is their chief.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Aye, the Pelegostos made Jack their chief. But he only remains chief as long as he *acts* like a chief.}
+<DIAL>__{Aye, the Pelegostos made Jack their chief. But he only remains chief as long as he acts like a chief.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{So he had no choice. He's a captive then as much as the rest of us.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Worse... as it turns out. See, the Pelegostos believe that Jack is a *god* in human form, and they intend to do him the honor of releasing him from his fleshy prison.}
+<DIAL>__{Worse... as it turns out. See, the Pelegostos believe that Jack is a god in human form, and they intend to do him the honor of releasing him from his fleshy prison.}
 <ACTION>__{Cotton bites Gibbs' fingers to illustrate}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{?Argh! They'll roast him and eat him.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Where's the rest of the crew?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{These cages we're in... weren't built 'til *after* we got here.}
+<DIAL>__{These cages we're in... weren't built 'til after we got here.}
 <ACTION>__{Will was gripping the bars made of human bones, but quickly  pulls his hand away}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{The feast is about to begin. Jack's life will end... when the drums stop.}
@@ -505,7 +505,7 @@
 <DIAL>__{throne}
 <ACTION>__{cannibal drums are pounding}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{?No/?Oup! No no! ?Oy!/?Wait! No no! More wood! Big fire! *Big* fire! I am chief! Want big fire! Come on!}
+<DIAL>__{?No/?Oup! No no! ?Oy!/?Wait! No no! More wood! Big fire! Big fire! I am chief! Want big fire! Come on!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{?Oy!/?Boy! Maboogie snickel-snickel. Tout de suite! Come on! More wood!}
 <ACTION>__{the cannibal standing next to Jack leaves to put more wood on  the fire the cannibals put large pieces of wood on the fire the cannibals turn around to find that Jack is gone}
@@ -623,13 +623,13 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Time to go.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{*Cast off those lines!*}
+<DIAL>__{Cast off those lines!}
 <ACTION>__{Jack screams while running down the beach Make ready to cast off! ###! the dog is down the beach with Jack, barking at him}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Good doggie! ?Doggie.}
 <ACTION>__{Jack grabs ahold of rigging on the side of the departing ship}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{*Alas*, my children! This is the day you shall always remember as the day that you almost -}
+<DIAL>__{Alas, my children! This is the day you shall always remember as the day that you almost -}
 <ACTION>__{big wave splashes Jack from behind}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{...Captain Jack... Sparrow.}
@@ -641,7 +641,7 @@
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Uh, that seems a bit contradictory, Captain.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{I have every faith in your reconciliatory navigational skills, Master Gibbs, now where is that monkey? I want to shoot *something*.}
+<DIAL>__{I have every faith in your reconciliatory navigational skills, Master Gibbs, now where is that monkey? I want to shoot something.}
 <ACTION>__{the monkey screams, drops Ragetti's eye, Ragetti grabs his eye,  spits on it, rubs the spit around on it the monkey chatters and climbs into the rigging Jack is ready to shoot the monkey with his pistol}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Jack.}
@@ -652,7 +652,7 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Have you considered keeping a more watchful eye on 'er? Maybe just lock her up somewhere.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{She *is* locked up, in a prison, bound to hang for helping *you*!}
+<DIAL>__{She is locked up, in a prison, bound to hang for helping you!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{There comes a time when one must take responsibility for one's mistakes.}
 <ACTION>__{Will pulls a sword from the waistband of a pirate who is turned  around, points it at Jack}
@@ -672,11 +672,11 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{What we need to do is make sail for Port Royal with all haste.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{William... I shall trade you the Compass, if you will help me... to find *this*.}
+<DIAL>__{William... I shall trade you the Compass, if you will help me... to find this.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{You want me to find this?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{No. *You* want you to find this. Because the finding this finds you incapacitorially finding and/or locating and your discovering the detecting of a way to save your ?dolly/?dotty belle ol'... what's-her-face. Savvy?}
+<DIAL>__{No. You want you to find this. Because the finding this finds you incapacitorially finding and/or locating and your discovering the detecting of a way to save your ?dolly/?dotty belle ol'... what's-her-face. Savvy?}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{This... is going to save Elizabeth?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -712,7 +712,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{And the key will spare him that?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Now that's the very question Jack wants answered. Bad enough even to go visit... *Her*.}
+<DIAL>__{Now that's the very question Jack wants answered. Bad enough even to go visit... Her.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Her?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
@@ -743,15 +743,15 @@
 <DIAL>__{I always know de wind was goin' blow you back to me one day.}
 <ACTION>__{Tia sees Will standing in the doorway, goes up to him}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
-<DIAL>__{You. You have a touch of... destiny about *you*, William Turner.}
+<DIAL>__{You. You have a touch of... destiny about you, William Turner.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{You know me?}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
-<DIAL>__{You want to know *me*.}
+<DIAL>__{You want to know me.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{There'll be no knowing here. We've come for help and we're not leaving without it.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{I thought *I* knew you.}
+<DIAL>__{I thought I knew you.}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
 <DIAL>__{Not so well as I had hoped. Come.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -780,7 +780,7 @@
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
 <DIAL>__{Ayeee... Jack Sparrow does not know what he wants! Or... do know, but are loathe to claim it as your own. Your key go to a chest, and it is what lay inside the chest you seek, don't it?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{What *is* inside?}
+<DIAL>__{What is inside?}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
 <DIAL>__{Gold! Jewels? Unclaimed properties of a valuable nature?}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
@@ -799,13 +799,13 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Dichotomy of good and evil.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{A *woman*.}
+<DIAL>__{A woman.}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
-<DIAL>__{A wo-*man*. He fell in love.}
+<DIAL>__{A wo-man. He fell in love.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{No-no-no-no, I heard it was the *sea* he fell in love with.}
+<DIAL>__{No-no-no-no, I heard it was the sea he fell in love with.}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
-<DIAL>__{Same story, different versions, and all are true. See, it was a *woman*, as changing, and harsh, and untamable as the sea. Him never stopped loving her. But the pain it cause 'im was too much to live wid. But not enough to cause him to die.}
+<DIAL>__{Same story, different versions, and all are true. See, it was a woman, as changing, and harsh, and untamable as the sea. Him never stopped loving her. But the pain it cause 'im was too much to live wid. But not enough to cause him to die.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{What... exactly did he put into the chest?}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
@@ -856,7 +856,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{That's the Flying Dutchman? She doesn't look like much.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Neither do you. Do *not* underestimate her.}
+<DIAL>__{Neither do you. Do not underestimate her.}
 <ACTION>__{Jack gives Gibbs a meaningful glance, elbows Gibbs}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Must've run afoul of the reef.}
@@ -873,7 +873,7 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Your chariot awaits you, sire! Ha, ha-ha-ha, ha-ha!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Hey! If you *do* happen to get captured, just say Jack Sparrow sent you to settle his debt! Might save your life!}
+<DIAL>__{Hey! If you do happen to get captured, just say Jack Sparrow sent you to settle his debt! Might save your life!}
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Bon voyage! Ha-ha-ha!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -925,14 +925,14 @@
 <DIAL>__{To the depths.}
 <ACTION>__{the chaplain's throat is slit, two crewmembers throw his body  overboard Ah, ha-ha-ha...! unidentified crewman Cold blooded - !}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{Life is cruel.  Why should the afterlife be any *different*? I offer you a choice. Join my crew, and postpone the judgment. One hundred years before the mast. Will ye serve?}
+<DIAL>__{Life is cruel.  Why should the afterlife be any different? I offer you a choice. Join my crew, and postpone the judgment. One hundred years before the mast. Will ye serve?}
 <CHAR>__{HELMSMAN} <CHAR_PAR>__{}
 <DIAL>__{I - I will, serve.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
 <DIAL>__{?Grand.}
 <ACTION>__{Jones looks pleased, then sees Will at the end of the line of  people Jones stomps over to Will}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{*You* are neither dead nor dying. What is your purpose here?}
+<DIAL>__{You are neither dead nor dying. What is your purpose here?}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Jack Sparrow sent me to settle his debt.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
@@ -945,11 +945,11 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Oh.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{You have a debt to pay. You've been captain of the Black Pearl for thirteen years. *That* was our agreement.}
+<DIAL>__{You have a debt to pay. You've been captain of the Black Pearl for thirteen years. That was our agreement.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Technically, I was only captain for two years, then I was viciously mutinied upon.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{Then you were a poor captain, but a *captain* nonetheless! Have you not introduced yourself all these years as *Captain* Jack Sparrow?}
+<DIAL>__{Then you were a poor captain, but a captain nonetheless! Have you not introduced yourself all these years as Captain Jack Sparrow?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{You have my payment. One soul to serve on your ship is already over there.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
@@ -968,7 +968,7 @@
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
 <DIAL>__{I keep the boy. A good-faith payment. That leaves you only ninety-nine more to go. Ha ha! Ha ha! Ha ha!}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Have you not met Will Turner? He's noble, heroic, *terrific* soprano. Worth at least four... maybe three and a half. And did I happen to mention... he's in love. With a girl. Due to be married. Betrothed.  Dividing him from her and her from him... would only be half as cruel as actually allowing them be joined in holy matrimony. Aye?}
+<DIAL>__{Have you not met Will Turner? He's noble, heroic, terrific soprano. Worth at least four... maybe three and a half. And did I happen to mention... he's in love. With a girl. Due to be married. Betrothed.  Dividing him from her and her from him... would only be half as cruel as actually allowing them be joined in holy matrimony. Aye?}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
 <DIAL>__{I keep the boy. Ninety-nine souls-uh. But I wonder, Sparrow, can you live with this? Can you condemn an innocent man - a friend-uh - to a lifetime of servitude, in your name while you roam free?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -995,11 +995,11 @@
 <DIAL>__{Tortuga.}
 <ACTION>__{Edinburgh Trader inside a cabin aboard the Edinburgh Trader, Captain Bellamy  is throwing documents down on the table}
 <CHAR>__{BELLAMY} <CHAR_PAR>__{}
-<DIAL>__{It's an outrage. Port tariffs, berthing fees, *wharf* handling, and heaven help us, pilotage. Are we all to work for the East India Trading Company, then?}
+<DIAL>__{It's an outrage. Port tariffs, berthing fees, wharf handling, and heaven help us, pilotage. Are we all to work for the East India Trading Company, then?}
 <CHAR>__{QUARTERMASTER} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid, Sir... Tortuga is the only free port left in these waters.}
 <CHAR>__{BELLAMY} <CHAR_PAR>__{}
-<DIAL>__{A *pirate* port is what you mean. Well, I'm sorry. An honest sailor is what I am. I make my living fair, and I sleep well each night, thank you.}
+<DIAL>__{A pirate port is what you mean. Well, I'm sorry. An honest sailor is what I am. I make my living fair, and I sleep well each night, thank you.}
 <ACTION>__{a white dress floats by the cabin window, outside}
 <CHAR>__{BURSAR} <CHAR_PAR>__{}
 <DIAL>__{S-S-Sir!}
@@ -1049,20 +1049,20 @@
 <DIAL>__{Including those four? That gives us - four!}
 <ACTION>__{to the next candidate in line}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{And what's *your* story?}
+<DIAL>__{And what's your story?}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
 <DIAL>__{My story... it's exactly the same as your story, just one chapter behind. I chased a man across the Seven Seas. The pursuit cost me my crew, my commission, and my life.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Commodore?}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{No, not anymore, weren't you *listening*? I nearly had you all, off Tripoli. I would have, if not for the... hurricane.}
+<DIAL>__{No, not anymore, weren't you listening? I nearly had you all, off Tripoli. I would have, if not for the... hurricane.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Lord. You didn't try to sail through it?}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{So do I make your crew, or not? You haven't said where you're going. Somewhere *nice*!}
+<DIAL>__{So do I make your crew, or not? You haven't said where you're going. Somewhere nice!}
 <ACTION>__{unidentified woman Oh! the music stops, everyone stares at the altercation Jack grabs a branch from a vase, carries it in front of his  face, attempts to walk out unseen}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{So am I *worthy* to serve under Captain Jack Sparrow?}
+<DIAL>__{So am I worthy to serve under Captain Jack Sparrow?}
 <ACTION>__{Norrington spots Jack sneaking off behind him, points a pistol  at Jack}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
 <DIAL>__{Or should I just kill you now?}
@@ -1125,7 +1125,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{I don't need your help!}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{So I'm to understand what *you* did was an act of compassion?}
+<DIAL>__{So I'm to understand what you did was an act of compassion?}
 <CHAR>__{FLYING DUTCHMAN} <CHAR_PAR>__{}
 <DIAL>__{below deck}
 <ACTION>__{Bootstrap and Will enter the interior of the ship together crewmember Wyvern is seen to their right, encrusted into the  interior side of the hull, standing up}
@@ -1144,7 +1144,7 @@
 <DIAL>__{So the captain has the key.}
 <ACTION>__{Wyvern retracts his head back into the wall, having said too  much}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{Where *is* the key?}
+<DIAL>__{Where is the key?}
 <CHAR>__{WYVERN} <CHAR_PAR>__{}
 <DIAL>__{Hidden.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
@@ -1171,7 +1171,7 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Jack. I know Will came to find you. Where is he?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Darling, I am truly unhappy to have to tell you this but... through an unfortunate and *entirely* unforeseeable series of circumstances that have nothing whatsoever to do with me, poor William has been press-ganged into Davy Jones' crew.}
+<DIAL>__{Darling, I am truly unhappy to have to tell you this but... through an unfortunate and entirely unforeseeable series of circumstances that have nothing whatsoever to do with me, poor William has been press-ganged into Davy Jones' crew.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Davy Jones?}
 <ACTION>__{Norrington vomits over the side, then spits}
@@ -1180,9 +1180,9 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{You look bloody awful. What are you doing here?}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{You *hired* me. I can't help it if your standards are lax.}
+<DIAL>__{You hired me. I can't help it if your standards are lax.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{You *smell* funny.}
+<DIAL>__{You smell funny.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Jack. All I want is to find Will.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -1190,7 +1190,7 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{'Course.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Because I would think, you'd want to find a way to *save* Will the most.}
+<DIAL>__{Because I would think, you'd want to find a way to save Will the most.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{And you have a way of doing that?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -1253,7 +1253,7 @@
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{I had you brought here because I thought you'd be interested in the whereabouts of your daughter.}
 <CHAR>__{MERCER} <CHAR_PAR>__{}
-<DIAL>__{Most recently seen on the island of Tortuga, then left, in the company of a known pirate, Jack Sparrow. *And* other fugitives from justice.}
+<DIAL>__{Most recently seen on the island of Tortuga, then left, in the company of a known pirate, Jack Sparrow. And other fugitives from justice.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
 <DIAL>__{Including the previous owner of this sword...  I believe. Our ships are in pursuit. and justice will be dispensed by cannonade and cutlass,  and all manner of remorseless pieces of metal. I personally find it distasteful to even contemplate the horror facing all those on board.}
 <CHAR>__{LORD CUTLER BECKETT} <CHAR_PAR>__{}
@@ -1381,7 +1381,7 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Oh, don't be absurd. I trust him, that's all.}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{So you never wondered how your *latest* fiance ended up on the Flying Dutchman in the first place?}
+<DIAL>__{So you never wondered how your latest fiance ended up on the Flying Dutchman in the first place?}
 <ACTION>__{Edinburgh Trader}
 <CHAR>__{BELLAMY} <CHAR_PAR>__{}
 <DIAL>__{Strange thing to come upon a longboat so far out in open waters.}
@@ -1421,7 +1421,7 @@
 <DIAL>__{You will watch this.}
 <ACTION>__{crewmen are whipped, in order to turn a large screw that raises  the Kraken summoning device}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{Let no joyful voice be heard! Let no man look up at the sky with hope! And let this day be cursed by we who ready to wake... the *Kraken*!}
+<DIAL>__{Let no joyful voice be heard! Let no man look up at the sky with hope! And let this day be cursed by we who ready to wake... the Kraken!}
 <ACTION>__{the Kraken calling device thumps heavily against the sea Edinburgh Trader crewmen on board the Edinburgh Trader rush to the railing, chattering,  to see the Flying Dutchman Will is on top of the mast}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{I've doomed us all.  It's the Flying Dutchman!}
@@ -1430,13 +1430,13 @@
 <DIAL>__{Oh, Mother Cary's chickens. What happened? ?QUARTERMASTER Must've hit a reef.}
 <ACTION>__{the crew look overboard, see bubbles rising up alongside the  ship}
 <DIAL>__{?BELLAMY Free the rudder! Hard to port, then hard to starboard!}
-<ACTION>__{Clear the rudder! Hard to port! a Kraken tentacle silently seizes one crewman while other crewmembers  have their backs turned the Kraken tentacle surfaces in the distance, holding the crewman  who was just seized, he screams *Kraken!* crewman rings the ship's bell wildly ### music stops, slow motion scene, a huge tentacle rises high over  the ship the tentacle comes down on deck, breaking the ship in two, bouncing  men off the deck slow motion scene, men slide off of tilted deck Will is flung underwater, sees the body of the Kraken in the  distance underwater Will surfaces, climbs aboard a floating board of ship debris the Flying Dutchman comes near Will, Will slides off his board  to swim towards the ship view from the bow of the Flying Dutchman, looking at the floating  debris, including a face-down corpse Elizabeth's wedding dress is also debris, and floats on the  surface of the sea}
+<ACTION>__{Clear the rudder! Hard to port! a Kraken tentacle silently seizes one crewman while other crewmembers  have their backs turned the Kraken tentacle surfaces in the distance, holding the crewman  who was just seized, he screams Kraken! crewman rings the ship's bell wildly ### music stops, slow motion scene, a huge tentacle rises high over  the ship the tentacle comes down on deck, breaking the ship in two, bouncing  men off the deck slow motion scene, men slide off of tilted deck Will is flung underwater, sees the body of the Kraken in the  distance underwater Will surfaces, climbs aboard a floating board of ship debris the Flying Dutchman comes near Will, Will slides off his board  to swim towards the ship view from the bow of the Flying Dutchman, looking at the floating  debris, including a face-down corpse Elizabeth's wedding dress is also debris, and floats on the  surface of the sea}
 <CHAR>__{FLYING DUTCHMAN} <CHAR_PAR>__{}
 <DIAL>__{deck}
 <CHAR>__{MACCUS} <CHAR_PAR>__{}
 <DIAL>__{The boy's not here. He must've been claimed by the sea.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{*I* am the sea.}
+<DIAL>__{I am the sea.}
 <ACTION>__{Jones stomps over to Bootstrap}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
 <DIAL>__{You need time alone with your thoughts. What of the survivors?}
@@ -1456,17 +1456,17 @@
 <DIAL>__{I just thought I'd be married by now. I'm so ready to be married.}
 <ACTION>__{Jack offers Elizabeth a drink from his bottle}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{You know...  Lizzy... I *am*... captain of a ship. And *being* captain of a ship, I could in fact perform a... marriage. Right here. Right on this deck. Right... *now*!}
+<DIAL>__{You know...  Lizzy... I am... captain of a ship. And being captain of a ship, I could in fact perform a... marriage. Right here. Right on this deck. Right... now!}
 <ACTION>__{Elizabeth recoils at Jack's breath on the word "now"}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{No, thank you.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Why not? We *are* very much alike, you and I. I and you. Us.}
+<DIAL>__{Why not? We are very much alike, you and I. I and you. Us.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Oh. Except for a sense of honor, and decency and-and a moral center. And personal hygiene.}
 <ACTION>__{Jack smells his armpits}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Trifles. You *will* come over to my side, I know it.}
+<DIAL>__{Trifles. You will come over to my side, I know it.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{You seem very certain.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -1476,9 +1476,9 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Uh my Compass works fine.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{Because you and I *are* alike, and there will come a moment when you have a chance to show it. To do the right thing.}
+<DIAL>__{Because you and I are alike, and there will come a moment when you have a chance to show it. To do the right thing.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{I *love* those moments. I like to wave at them as they pass by.}
+<DIAL>__{I love those moments. I like to wave at them as they pass by.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{You'll have the chance to do something... something courageous. And when you do, you'll discover something: that you're a good man.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -1490,9 +1490,9 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Curiosity. You're going to want it. A chance to be admired. And gain the rewards that follow. You won't be able to resist. You're going to want to know... what it tastes like.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{I *do* want to know what it tastes like.}
+<DIAL>__{I do want to know what it tastes like.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{But - seeing as you're a good man I know you will *never* put me in a position that would compromise my honor.}
+<DIAL>__{But - seeing as you're a good man I know you will never put me in a position that would compromise my honor.}
 <ACTION>__{Jack stares in horror as the black spot boils back into view  on his hand, Elizabeth doesn't notice}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{I'm proud of you, Jack. ?GIBBS Land ho!}
@@ -1522,10 +1522,10 @@
 <DIAL>__{Guard the boat, mind the tide... Don't touch my dirt.}
 <ACTION>__{Elizabeth is walking in some sand dunes near the beach, using  the compass}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{This doesn't work. And it *certainly* doesn't show you what you want most.}
+<DIAL>__{This doesn't work. And it certainly doesn't show you what you want most.}
 <ACTION>__{Elizabeth sits down on the sand, and sets the compass down on  the sand, the needle points to her}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Yes it *does*. You're sitting on it!}
+<DIAL>__{Yes it does. You're sitting on it!}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Beg your pardon?}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
@@ -1545,7 +1545,7 @@
 <CHAR>__{MACCUS} <CHAR_PAR>__{}
 <DIAL>__{Then trust us to act in your stead.}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{I'll trust you know what awaits should you *fail*! Down, then!}
+<DIAL>__{I'll trust you know what awaits should you fail! Down, then!}
 <ACTION>__{ugly, nondescript crewmember Down!}
 <CHAR>__{MACCUS} <CHAR_PAR>__{}
 <DIAL>__{Down!}
@@ -1556,7 +1556,7 @@
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{It's real!}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{You actually *were* telling the truth.}
+<DIAL>__{You actually were telling the truth.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{I do that quite a lot. Yet people are always surprised.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
@@ -1621,10 +1621,10 @@
 <DIAL>__{Guard the chest!}
 <ACTION>__{duel halts for a second}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{*No*!}
+<DIAL>__{No!}
 <ACTION>__{duel resumes}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{This is bar-*baric*! This is *no* way for grown men to settle - ! Oh! Fine! Let's just - *pull* out our swords and start *banging* away at each other! *This will solve everything!* I've had it! I've had enough! Wobbly-legged, rum-soaked... *pirates*!}
+<DIAL>__{This is bar-baric! This is no way for grown men to settle - ! Oh! Fine! Let's just - pull out our swords and start banging away at each other! This will solve everything! I've had it! I've had enough! Wobbly-legged, rum-soaked... pirates!}
 <ACTION>__{Elizabeth throws a rock at the duelists, but the rock goes far  to the left of them}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
 <DIAL>__{How'd this go all screwy?}
@@ -1636,10 +1636,10 @@
 <CHAR>__{RAGETTI} <CHAR_PAR>__{}
 <DIAL>__{Oh! Tsk-tsk-tsk. Terrible temptation.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
-<DIAL>__{If we was any kind of *decent*, we'd remove temptation from their path.}
+<DIAL>__{If we was any kind of decent, we'd remove temptation from their path.}
 <ACTION>__{Pintel and Ragetti giggle and run off to steal the small chest}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{Will! *Enough!*}
+<DIAL>__{Will! Enough!}
 <ACTION>__{Elizabeth is panting from exasperation and exhaustion}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
 <DIAL>__{Oh! Oh...! The heat!}
@@ -1651,19 +1651,19 @@
 <DIAL>__{church}
 <ACTION>__{Jack and Norrington run through bushes on the beach, then up  to a dilapidated stone church on the hill P2 Norrington chases Jack up steps inside the building, Jack kicks  Norrington back down with his foot Jack and Norrington have a swordfight on the inside steps Jack grabs hold of the bell rope, which carries him downward,  and carries Will upward, who just arrived}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{By *your* leave, Mister Norrington.}
+<DIAL>__{By your leave, Mister Norrington.}
 <ACTION>__{the Flying Dutchman crew on shore are at the large chest and  look up to the ringing bell in the building on the hill while Norrington and Will are dueling on top of the roof, Jack  deftly grabs the dangling key away from Norrington's hand noticing the key gone, Norrington then turns and duels with  Jack soon Norrington knocks Jack's sword from Jack's hand, the sword  is flung onto the ground below}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
 <DIAL>__{Do excuse me while I kill the man who ruined my life.}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Be my guest.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
-<DIAL>__{Let us examine that claim for a moment, former Commodore, shall we? Who was it, who at the very moment you had a notorious pirate safely behind bars, saw fit to *free* said pirate, and take your dearly beloved all to hisself, hey? So who's fault is it, *really*, that you've ended up a rum-pot deckhand what takes orders from pirates?}
+<DIAL>__{Let us examine that claim for a moment, former Commodore, shall we? Who was it, who at the very moment you had a notorious pirate safely behind bars, saw fit to free said pirate, and take your dearly beloved all to hisself, hey? So who's fault is it, really, that you've ended up a rum-pot deckhand what takes orders from pirates?}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
 <DIAL>__{Enough!}
 <ACTION>__{Jack somersaults off the roof to escape, Norrington turns to  Will}
 <CHAR>__{NORRINGTON} <CHAR_PAR>__{}
-<DIAL>__{Unfortunately, Mister Turner... He's *right*!}
+<DIAL>__{Unfortunately, Mister Turner... He's right!}
 <ACTION>__{Norrington and Will resume their part of the rooftop duel}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Still rooting for you, mate!}
@@ -1772,7 +1772,7 @@
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Hard to starboard.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{*Hard to starboard!*}
+<DIAL>__{Hard to starboard!}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{Brace up the foreyard!}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
@@ -1793,7 +1793,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{We're the faster?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
-<DIAL>__{Against the wind the Dutchman beats us. That's how she takes her prey. But *with* the wind...}
+<DIAL>__{Against the wind the Dutchman beats us. That's how she takes her prey. But with the wind...}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{We rob her advantage.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
@@ -1807,7 +1807,7 @@
 <DIAL>__{?MARTY They're giving up! Yay!}
 <ACTION>__{crew cheers}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{My father is *on* that ship. If we can outrun her, we can take her. We should turn and fight.}
+<DIAL>__{My father is on that ship. If we can outrun her, we can take her. We should turn and fight.}
 <CHAR>__{JACK SPARROW} <CHAR_PAR>__{}
 <DIAL>__{Why fight when you can negotiate? All one needs... is the proper leverage.}
 <ACTION>__{suddenly the Black Pearl is badly jarred Jack's jar of dirt falls to the deck, breaks open, spills all  the dirt Jack runs down to the spilled dirt, searches frantically for  the heart, which is gone}
@@ -1838,9 +1838,9 @@
 <CHAR>__{PINTEL} <CHAR_PAR>__{}
 <DIAL>__{I think we've held fire long enough.}
 <CHAR>__{ELIZABETH SWANN} <CHAR_PAR>__{}
-<DIAL>__{*Will?*}
+<DIAL>__{Will?}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
-<DIAL>__{*Fire...*!}
+<DIAL>__{Fire...!}
 <ACTION>__{the crew fire the cannons, hitting the tentacles and nearly  severing some the Kraken sinks into the sea, some tentacles glowing from the  blast the crew cheers}
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{It'll be back. We have to get off the ship.}
@@ -1958,7 +1958,7 @@
 <DIAL>__{Open the chest. Open the chest, I need to see it!}
 <ACTION>__{the chest is opened, side view as Jones looks in, his face quivers downwards view, showing that the chest is empty, Jones tilts  his head back and shouts}
 <CHAR>__{DAVY JONES} <CHAR_PAR>__{}
-<DIAL>__{Damn you, Jack Spar-*row*!}
+<DIAL>__{Damn you, Jack Spar-row!}
 <CHAR>__{PORT ROYAL} <CHAR_PAR>__{}
 <DIAL>__{EITC headquarters}
 <CHAR>__{MERCER} <CHAR_PAR>__{}
@@ -1998,7 +1998,7 @@
 <CHAR>__{WILL TURNER} <CHAR_PAR>__{}
 <DIAL>__{If there was anything could be done to bring him back...  Elizabeth...}
 <CHAR>__{TIA DALMA} <CHAR_PAR>__{}
-<DIAL>__{Would you do it? Hmmm?  What... would you? Hmmm? What would *any* of you be willing to do? Hmmm? Would you sail to the ends of the eart', and beyond, to fetch back ?witty Jack and 'im precious Pearl?}
+<DIAL>__{Would you do it? Hmmm?  What... would you? Hmmm? What would any of you be willing to do? Hmmm? Would you sail to the ends of the eart', and beyond, to fetch back ?witty Jack and 'im precious Pearl?}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Aye.}
 <CHAR>__{PINTEL} <CHAR_PAR>__{}

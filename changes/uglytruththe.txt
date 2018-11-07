@@ -76,7 +76,7 @@
 <DIAL_PAR>__{(to Abby)}
 <DIAL>__{She doesn't eat crab or beef or fish. She doesn't eat anything but chicken. You don't need a chef on this show. You need a box of McNuggets.}
 <ACTION>__{Everyone shouts at each other. Abby calmly pulls out a whistle, puts it to her mouth and BLOWS.}
-<LOC>__{INT. KPHX - "SACRAMENTO AM" SET - MORNING                             5*}
+<LOC>__{INT. KPHX - "SACRAMENTO AM" SET - MORNING                             5}
 <ACTION>__{Cameras roll as the chef happily cooks away on the set. Georgia and Larry taste samples of what he's prepared.}
 <CHAR>__{GEORGIA} <CHAR_PAR>__{}
 <DIAL>__{I have to tell you, Bruce. This is the best Chicken Kiev I've ever tasted.}
@@ -90,7 +90,7 @@
 <DIAL>__{When we return, our live Skycam traffic update and more on David Beckham's hundred thousand dollar tattoo.}
 <CHAR>__{GEORGIA} <CHAR_PAR>__{}
 <DIAL>__{And what you can do to help preserve the ancient forests of Alaska -- and how it might help your Albuquerque electric bill.}
-<LOC>__{INT. KPHX - CONTROL ROOM - MORNING                                    6*}
+<LOC>__{INT. KPHX - CONTROL ROOM - MORNING                                    6}
 <ACTION>__{Abby and Joy stand next to CLIFF, the show's director.}
 <CHAR>__{CLIFF} <CHAR_PAR>__{}
 <DIAL>__{Go to commercial.}
@@ -126,7 +126,7 @@
 <ACTION>__{Abby nods.}
 <CHAR>__{ABBY} <CHAR_PAR>__{}
 <DIAL>__{You can count on me, Stuart.}
-<LOC>__{INT. KPHX - WOMEN'S BATHROOM - DAY                                    8*}
+<LOC>__{INT. KPHX - WOMEN'S BATHROOM - DAY                                    8}
 <ACTION>__{Abby and Joy stand at the sinks.     Abby compulsively flosses in front of the mirror.}
 <CHAR>__{ABBY} <CHAR_PAR>__{}
 <DIAL>__{I can't be letting corporate management dictate the content of this show. This is my show. I control it.}

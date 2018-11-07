@@ -10,7 +10,7 @@
 <DIAL>__{The wounds suffered from love and failed friendships don't heal like a human's, but seem to only gape larger. The longing to be mortal returns, a longing for finiteness.}
 <ACTION>__{A beat as the indistinct figure gazes out at the night...}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                               &}
 <LOC>__{3 EXT. TOMB - CONTINUOUS ACTION}
 <ACTION>__{The figure enters an alabaster tomb and closes the door.}
@@ -117,7 +117,8 @@
 <ACTION>__{He pushes a button and a black curtain slides open to reveal a huge monitor on the wall. Every eye is glued to the SCREEN... CRACKLE, CRACKLE. Nothing. Then suddenly, on the screen, a face in shadow appears... Lestat. His voice booms out over the crowd.}
 <CHAR>__{LESTAT} <CHAR_PAR>__{}
 <DIAL>__{Good evening. I'm so sorry I'm late. I was just having my... breakfast.}
-<ACTION_ALT>__{OMITTED BACK TO SCENE}
+
+<ACTION_ALT>__{BACK TO SCENE}
 <ACTION>__{Then Lestat leans forward into the light. Hushed whispers move through the crowd. Lestat's eyes burn unnaturally bright. His white skin absolutely glows, luminous. Lestat smiles out at them with a tight smile. Then grins wider, revealing his fangs.}
 <CHAR>__{JOURNALIST} <CHAR_PAR>__{}
 <DIAL>__{Excellent makeup job.   Marilyn Manson, look out...}
@@ -1602,7 +1603,7 @@
 <DIAL>__{Good-bye, Talamascan.}
 <ACTION>__{Jesse closes her eyes in terror, knowing her life is about to be over. Then Jesse reaches for her mouth as if she were touched by something when... the IMAGE of Lestat's lips kissing her lips flashes by in VAMPIRE TIME as... Jesse's face is completely still in HUMAN TIME. As her hand drops, she realizes what just happened. And with that, Lestat disappears. She stares into the night. There's a SWISH and the sound of RUSHING AIR. Jesse turns, screams, backs away. It's not Lestat standing there at all but Mael, the Druid vampire. With great speed he glides towards her, envelops Jesse in his cloak, muffling her cries... WHOOSH.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&                                                                   &}
 <LOC>__{136}
 <ACTION_ALT>__{STARING EYE}

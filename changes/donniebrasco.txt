@@ -95,7 +95,7 @@
 <CHAR>__{LEBOW} <CHAR_PAR>__{}
 <DIAL>__{Eight o'clock tonight.}
 <ACTION_ALT>__{THE CLOCK}
-<ACTION>__{on the wall reads *9:36."}
+<ACTION>__{on the wall reads 9:36."}
 <CHAR>__{HOGUE} <CHAR_PAR>__{}
 <DIAL>__{Who is this fucking guy?}
 <TRANS>__{DISSOLVE TO:}
@@ -323,7 +323,7 @@
 <DIAL>__{You're still in the FBI. That's the rules.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. DAY.     CASA BELLA}
-<ACTION>__{WINTER -- fog on the windows. DISCO plays on the juke box . Drinking DEMITASSE in the late afternoon: BENJAMIN "LEFTY" RUGGIERO, early 50s, gaunt and raspy-voiced, SWITCHED-ON with nerves, testy and restless. He lights up an English Oval. Sitting around him: DOMINIC "SONNY BLACK* NAPOLITANO, middle 40s. Fireplug muscles, dyed black hair. Sle epy as a l ion after a big mea l. Don't f uck with the lion. NICHOLAS "NICKY" SANTORA, late 30s, teddy bear paunch. Plays the fool. JOHN -BOOBIE" CERASANI, early 40s, gun-metal hard. All business. Nobody's fool. Supered below: CASA BELLA RESTAURANT. LITTLE ITALY. 1976.}
+<ACTION>__{WINTER -- fog on the windows. DISCO plays on the juke box . Drinking DEMITASSE in the late afternoon: BENJAMIN "LEFTY" RUGGIERO, early 50s, gaunt and raspy-voiced, SWITCHED-ON with nerves, testy and restless. He lights up an English Oval. Sitting around him: DOMINIC "SONNY BLACK NAPOLITANO, middle 40s. Fireplug muscles, dyed black hair. Sle epy as a l ion after a big mea l. Don't f uck with the lion. NICHOLAS "NICKY" SANTORA, late 30s, teddy bear paunch. Plays the fool. JOHN -BOOBIE" CERASANI, early 40s, gun-metal hard. All business. Nobody's fool. Supered below: CASA BELLA RESTAURANT. LITTLE ITALY. 1976.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
 <DIAL>__{You can't say to me a Lincoln is better than a Cadillac.}
 <CHAR>__{NICKY} <CHAR_PAR>__{}
@@ -558,7 +558,7 @@
 <DIAL>__{Where California? L.A.?}
 <CHAR>__{PHONE    } <CHAR_PAR>__{(O.C.)}
 <DIAL>__{Do you know how    fucking big California is?    How the fuck should I know?    He's a jewel guy.}
-<ACTION>__{THE CLOCK reads "10:25*.}
+<ACTION>__{THE CLOCK reads "10:25.}
 <CHAR>__{LEFTY } <CHAR_PAR>__{(O.C.)}
 <DIAL>__{Jilly--he's a stand-up guy, Jilly?}
 <CHAR>__{PHONE } <CHAR_PAR>__{(O.C.)}
@@ -797,7 +797,9 @@
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{I ' m saying that's why there's so many pigeons now. The falcons used to hunt 'em and kill 'em off.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
-<DIAL>__{I love these fucking pigeons. I ' d die before I ' d let anybody touch these pigeons. _ DO NN IE Those falcons could read a newspaper from a mile up.}
+<DIAL>__{I love these fucking pigeons. I ' d die before I ' d let anybody touch these pigeons.}
+<CHAR>__{DO NN IE} <CHAR_PAR>__{}
+<DIAL>__{Those falcons could read a newspaper from a mile up.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
 <DIAL>__{A bird could read the newspaper?}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
@@ -2040,7 +2042,7 @@
 <DIAL>__{When we come back down, we'll sit down with Who's Who and straighten everything out.}
 <CHAR>__{HOLLMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Lefty)}
-<DIAL>__{Excuse me^-he needs your tickets.}
+<DIAL>__{Excuse me -he needs your tickets.}
 <ACTION>__{And then he...RECOGNIZES Donnie.}
 <CHAR>__{HOLLMAN} <CHAR_PAR>__{}
 <DIAL>__{Joe?}
@@ -2087,7 +2089,7 @@
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
 <DIAL>__{Send the tickets for me and Donnie. We'll come back down in a month.}
 <CHAR>__{CALVINO} <CHAR_PAR>__{}
-<DIAL>__{Sounds good to me. (about the twenty^ 5ey Left'--}
+<DIAL>__{Sounds good to me. (about the twenty  5ey Left'--}
 <ACTION>__{But Lefty's already on his way inside. Donnie lingers a beat.}
 <CHAR>__{CALVINO} <CHAR_PAR>__{}
 <DIAL>__{I wanted change from a twenty. He took the twenty--}
@@ -2199,7 +2201,7 @@
 <DIAL>__{We're not in the FBI, Dad.}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{Minnesota's great. Lakes and everything. We can get a nice piece of land there. Maybe we can even get a horse.}
-<ACTION>__{Maggie comes back inside, reading the MAIL. Flips a letter to Donnie.                       ~}
+<ACTION>__{Maggie comes back inside, reading the MAIL. Flips a letter to Donnie.                        }
 <CHAR>__{MAGGIE} <CHAR_PAR>__{}
 <DIAL>__{You know the US government? The one you're doing this patriotic work for, that we can all be proud of?}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
@@ -2282,7 +2284,7 @@
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{Simple arithmetic.}
 <CHAR>__{SONNY} <CHAR_PAR>__{}
-<DIAL>__{Lik e wit h jea ns, who h ad th e idea with ^eans and now look how much money they're making?}
+<DIAL>__{Lik e wit h jea ns, who h ad th e idea with  eans and now look how much money they're making?}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{Some young guy.}
 <CHAR>__{SONNY} <CHAR_PAR>__{}
@@ -2891,7 +2893,7 @@
 <LOC>__{INT. NIGHT.}
 <ACTION>__{The DOCTOR shows Donnie the X-rays.}
 <CHAR>__{DOCTOR} <CHAR_PAR>__{}
-<DIAL>__{Collapsed lung. Broken wrist, collarbone. ^Multiple lacerations from the glass. The most serious injury was from her contact lenses-- they smashed into her corneas. They're torn up pretty badly. She may lose an eye.}
+<DIAL>__{Collapsed lung. Broken wrist, collarbone.  Multiple lacerations from the glass. The most serious injury was from her contact lenses-- they smashed into her corneas. They're torn up pretty badly. She may lose an eye.}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{Can't I see her?}
 <CHAR>__{DOCTOR} <CHAR_PAR>__{}
@@ -2988,7 +2990,8 @@
 <ACTION>__{Big Trin flips him the keys.}
 <ACTION_ALT>__{TWO WOODEN DOORS}
 <ACTION>__{alongside the house, leading down into the basement. With a groan, Big Trin b ends, pul ls them op en. Flips a LIGHT S WITCH. On. Off. Nothing.}
-<DIAL>__{_ BIG TRIN S h it . Bu lb m us t be o ut . W at ch your step.}
+<CHAR>__{BIG TRIN} <CHAR_PAR>__{}
+<DIAL>__{S h it . Bu lb m us t be o ut . W at ch your step.}
 <ACTION>__{Sonny Red and Anthony Bruno follow him down...}
 <ACTION_ALT>__{INSIDE THE CAR}
 <ACTION>__{Philly Lucky starts the oar. Turns on the radio. Frank Sinatra sings "Nice Work If You Can Get It." And PULLS AWAY.}
@@ -3071,7 +3074,7 @@
 <CHAR>__{NARRATOR } <CHAR_PAR>__{(O.C.)}
 <DIAL>__{...Hunter and hunted, predator and prey--the endless cycle of nature, repeated once again...}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
-<DIAL>__{Mino*1 You see that ?}
+<DIAL>__{Mino1 You see that ?}
 <CHAR>__{LOUISE} <CHAR_PAR>__{}
 <DIAL>__{I'll be inside if you need me.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
@@ -3106,7 +3109,7 @@
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{What is that--a hundred grand?}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
-<DIAL>__{Donn ie--Wh ere*d you ge t that boat dow n i n Fl orid a?}
+<DIAL>__{Donn ie--Wh ered you ge t that boat dow n i n Fl orid a?}
 <CHAR>__{DONNIB"} <CHAR_PAR>__{}
 <DIAL>__{I told you. That was this girl I used to see down there, it's her brother's.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
@@ -3134,7 +3137,7 @@
 <DIAL>__{I went on the fucking record     with you, Donnie. You could walk   on the street and punch any man     in the mouth because I stood up     for you.}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
 <DIAL>__{What is tne fucking problem?}
-<ACTION>__{Lefty reaches in his pocket. A piece of paper, folded, torn from "Newsweek*. The headline: ABSCAM: FBI 'SHEIKS* STING CORRUPT LAWMAKERS Beneath the headline, a PHOTO of the "sheiks* partying ona yacht-- "THE LEFT HAND*. Donnie looks up from the article. Sees}
+<ACTION>__{Lefty reaches in his pocket. A piece of paper, folded, torn from "Newsweek. The headline: ABSCAM: FBI 'SHEIKS STING CORRUPT LAWMAKERS Beneath the headline, a PHOTO of the "sheiks partying ona yacht-- "THE LEFT HAND. Donnie looks up from the article. Sees}
 <ACTION_ALT>__{A GUN}
 <ACTION>__{in Lefty's hand.}
 <CHAR>__{LEFTY} <CHAR_PAR>__{}
@@ -3287,6 +3290,6 @@
 <ACTION>__{Under heavy guard, Donnie walks up a b      ack stairca    se   . Up a marble hallway. Doors open and he enters the       courtroom.     A    HUSH falls as the MAFIA DEFENDANTS, lined up in the       docks--all f   ac   es we've seen earlier, including Sonny, Nicky, Legs,       and Philly     L   ucky--turn and look at him.}
 <CHAR>__{PROSECUTOR} <CHAR_PAR>__{}
 <DIAL>__{The government calls Special Agent Joseph D. Pistone.}
-<ACTION>__{CLOSE ON--DONNIE as he takes in the proof of his accomplishment. With the knowledge of what it has cost him. FREEZE FRAME. A final CRAWL runs over this* The evidence collected by "Donnie Brasco" led to over 200 indictments. After testifying. Special Agent Joseph D. Pistone left the FBI. He lives with his wife under an assumed name in an undisclosed location . There is an $500,000 open contract on his head. The FBI denied him a pension.   The IRS assessed him $7,000 in back taxes and penalties.}
+<ACTION>__{CLOSE ON--DONNIE as he takes in the proof of his accomplishment. With the knowledge of what it has cost him. FREEZE FRAME. A final CRAWL runs over this The evidence collected by "Donnie Brasco" led to over 200 indictments. After testifying. Special Agent Joseph D. Pistone left the FBI. He lives with his wife under an assumed name in an undisclosed location . There is an $500,000 open contract on his head. The FBI denied him a pension.   The IRS assessed him $7,000 in back taxes and penalties.}
 <TRANS>__{FADE TO BLACK:}
 <ACTION_ALT>__{CREDITS ROLL}

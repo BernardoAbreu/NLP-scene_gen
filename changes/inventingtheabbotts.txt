@@ -24,7 +24,7 @@
 <CHAR>__{JACEY} <CHAR_PAR>__{}
 <DIAL>__{Shut up!}
 <ACTION>__{Jacey swats Doug's school books out from under his arm -- Doug charges his brother to retaliate but they are rudely interrupted by a CAR HORN. They scurry out of the way as LLOYD ABBOTT pulls his 1957 Cadillac out of the driveway and cruises down the street. Lloyd is a well-dressed- and-fed man in his mid-forties. A Midwestern burgher, he exudes the status he enjoys as one of the preeminent pillars of this community. Doug is embarrassed by Lloyd's passing, but Jacey evidently experiences a deeper humiliation -- he gives Doug a glance of betrayal, turns and walks down the block.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HIGH SCHOOL - CORRIDOR - DAY (SHORT TIME LATER)}
 <ACTION>__{ELEANOR ABBOTT gathers some books from her locker. Eleanor is sixteen, outgoing, sarcastic, and very popular. She is the middle of the three Abbott daughters. Eleanor closes her locker, turns and discovers Jacey standing behind her. He follows her down the busy hall.}
 <CHAR>__{JACEY} <CHAR_PAR>__{}
@@ -311,7 +311,7 @@
 <DIAL>__{Why?}
 <CHAR>__{LLOYD} <CHAR_PAR>__{}
 <DIAL>__{Because I said so.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. IRON SKILLET RESTAURANT - DAY (TWO WEEKS LATER)}
 <ACTION>__{A family-style restaurant in the center of town. It's a sweltering, hot July day. Heat shimmers off the sidewalk.}
 <LOC>__{INT. IRON SKILLET RESTAURANT - DAY}
@@ -356,7 +356,7 @@
 <ACTION>__{Doug races away from the house on his bicycle -- pumping furiously and sweating profusely.}
 <LOC>__{EXT. LAKE - DAY (SHORT TIME LATER)}
 <ACTION>__{Doug dives into the lake in his underpants, then surfaces. The water has cooled his body, but not his mind.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HOLT HOME - JACEY'S BEDROOM - DAY (EARLY FALL 1957)}
 <ACTION>__{Helen assists Jacey as he packs his bags in preparation for his departure to college the next day.}
 <CHAR>__{HELEN} <CHAR_PAR>__{}
@@ -1060,7 +1060,7 @@
 <CHAR>__{DOUG} <CHAR_PAR>__{}
 <DIAL_PAR>__{(grins)}
 <DIAL>__{All right, Mom.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. HIGH SCHOOL - PLAYING FIELD - GYMNASIUM - DAY}
 <ACTION>__{(SUMMER, 1959) The commencement exercises are being held in the sweltering gym to accommodate the large crowd of proud parents and family members. Doug, hot and uncomfortable in his cap and gown, is seated among his fellow graduates behind the podium. The PRINCIPAL (at the podium) announces the names of the graduates as he calls them forward to receive their diplomas.}
 <CHAR>__{PRINCIPAL} <CHAR_PAR>__{}
@@ -1496,7 +1496,7 @@
 <DIAL>__{Impossible...}
 <CHAR>__{JACEY} <CHAR_PAR>__{}
 <DIAL>__{Nothing's impossible...}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                               thru B102                                                               B102}
 <LOC>__{EXT. BUS DEPOT (HALEY) - DAY}
 <ACTION>__{Helen leans out a bus window and calls to Doug, who is perched on the front fender of the Plymouth, which is parked nearby with Jacey behind the wheel.}
@@ -1873,7 +1873,7 @@
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(slight beat; stung)}
 <DIAL>__{Suit yourself.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT./INT. ROAD/BUS (OUTSIDE HALEY) - EVENING (MAGIC}
 <ACTION>__{HOURSHORT TIME LATER) Jacey doesn't look out the window as the bus (on its way out of town) drives past the illuminated billboard that reads: "MIDWEST STEEL DESK, INC. -- Welcomes You to Haley, Illinois."}
 <LOC>__{INT. HOLT HOME - DINING ROOM - LATER THAT NIGHT}
@@ -1937,7 +1937,7 @@
 <CHAR>__{DOUG} <CHAR_PAR>__{}
 <DIAL>__{Yeah. But he thinks it really happened.}
 <ACTION>__{Helen is overcome with tears. Doug stares at her helplessly. He's never seen his mother weep before.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&        &}
 <LOC>__{129 EXT. COUNTRYSIDE ROAD - DAY}
 <ACTION>__{The bus cruises along the two-lane blacktop.   Doug stares out the window.}
@@ -2197,10 +2197,10 @@
 <ACTION>__{Pam walks up the aisle and disappears through a door to the lobby.}
 <CHAR>__{DOUG} <CHAR_PAR>__{}
 <DIAL>__{Pam!   It's not too late!}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&       &}
 <LOC>__{145}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{&        &}
 <LOC>__{147 INT. BRYN MAWR DORMITORY - LOBBY - LATER THAT NIGHT}
 <ACTION>__{Pam enters the lobby. A female student CLERK (#1) displays a message as Pam passes by the front desk.}

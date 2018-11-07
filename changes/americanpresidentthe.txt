@@ -2363,7 +2363,7 @@
 <DIAL>__{She's got an FBI file.}
 <CHAR>__{RUMSON} <CHAR_PAR>__{}
 <DIAL>__{Shit, Stu, my mother's got an FBI file.}
-<ACTION>__{RUMSON starts to walk away when STU pulls an 8$B!_(J10 photo from the manila folder.}
+<ACTION>__{RUMSON starts to walk away when STU pulls an 8$B! (J10 photo from the manila folder.}
 <CHAR>__{STU} <CHAR_PAR>__{}
 <DIAL>__{I've got art.}
 <ACTION>__{RUMSON comes back. STU hands him the photo.}
@@ -2380,7 +2380,7 @@
 <DIAL>__{"It's beginning to look a lot like Christmas..."}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. FOSSIL FUEL WAR ROOM - DAY}
-<ACTION>__{A few more young INTERNS have been added, and most are hard at work on the phones -- ("___ from the Global Defense Council. We're encouraging voters in your area to phone or write your Congressman regarding...etc.") The tote board now reads "11 Votes in 42 Days." David is supervising things while SYDNEY is trying to lose her patience on the phone.}
+<ACTION>__{A few more young INTERNS have been added, and most are hard at work on the phones -- (" from the Global Defense Council. We're encouraging voters in your area to phone or write your Congressman regarding...etc.") The tote board now reads "11 Votes in 42 Days." David is supervising things while SYDNEY is trying to lose her patience on the phone.}
 <CHAR>__{SYDNEY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(into phone)}
 <DIAL>__{I understand, Congressman...Of course you need to deliberate. I know the fact that there isn't any heavy industry in your district doesn't make this decision any easier. But we met three weeks ago, and at the end of that meeting you said that you were leaning our way but that you wanted to sleep on it. Since I haven't heard from you since then, the only conclusion I can reach is that you haven't slept in 21 days.}
@@ -3202,7 +3202,7 @@
 <CHAR>__{A.J.} <CHAR_PAR>__{}
 <DIAL>__{The President doesn't answer to you, Lewis.}
 <CHAR>__{LEWIS} <CHAR_PAR>__{}
-<DIAL>__{Oh yes, he does, A.J.  I'm a citizen, this is my president, and in this country it is not only permissible to question our leaders, it is our responsibility. But you already know that, Mr. President, because you have a deeper love of this country than any man I've ever known, and I want to know what it says to you that in the past seven weeks 59 percent of Americans have begun to question your patriotism?}
+<DIAL>__{Oh yes, he does, A.J. I'm a citizen, this is my president, and in this country it is not only permissible to question our leaders, it is our responsibility. But you already know that, Mr. President, because you have a deeper love of this country than any man I've ever known, and I want to know what it says to you that in the past seven weeks 59 percent of Americans have begun to question your patriotism?}
 <CHAR>__{SHEPHERD} <CHAR_PAR>__{}
 <DIAL>__{Look, if people want to listen to Bob Rumson--}
 <CHAR>__{LEWIS} <CHAR_PAR>__{}
@@ -3491,7 +3491,7 @@
 <ACTION>__{SHEPHERD knees down, cups her daughter's face in his hands, and gently kisses her forehead. He pulls her to him and holds her in a tight embrace...}
 <CHAR>__{SHEPHERD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(continuing)}
-<DIAL>__{In your  lifetime, you will never embarrass me. It could never happen. You're not the President's daughter, Lucy, you're mine. And no one's gonna vote me out of that job. You're my daughter, and everything else is a distant second.}
+<DIAL>__{In your lifetime, you will never embarrass me. It could never happen. You're not the President's daughter, Lucy, you're mine. And no one's gonna vote me out of that job. You're my daughter, and everything else is a distant second.}
 <DIAL_PAR>__{(more)}
 <DIAL>__{School is for you, Lucy. You say what you want. The only thing you have to do to make me happy is come home at the end of the day.}
 <ACTION>__{LUCY squeezes her dad tight...they hold the embrace for a long moment.}

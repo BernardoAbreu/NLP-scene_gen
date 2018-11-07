@@ -1,5 +1,6 @@
 <CHAR>__{THE MEN WHO STARE AT GOATS} <CHAR_PAR>__{}
-<DIAL>__{Written by Peter Straughan & Jon Ronson 10/21/08}
+<DIAL>__{Written by Peter Straughan & Jon Ronson}
+
 <ACTION_ALT>__{BLACK}
 <TRANS>__{SUPERED TITLES READ:}
 <ACTION>__{More of this is true than you would believe.}
@@ -1151,7 +1152,8 @@
 <DIAL>__{Okay remember everyone, we don't officially exist as a unit so I'm afraid there's no coffee budget. Bring your own coffee. Oh, and no solid food for the first week.}
 <ACTION>__{As the track continues we...}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED MONTAGE SEQUENCE BEGINS}
+
+<ACTION_ALT>__{MONTAGE SEQUENCE BEGINS}
 <LOC>__{EXT. FORT BRAGG - DAY}
 <ACTION>__{UNIFORMED SOLDIERS march double time across the parade deck.}
 <CHAR>__{SPECIAL FORCES TROOPS} <CHAR_PAR>__{}
@@ -1586,7 +1588,7 @@
 <CHAR>__{LYN CASSADY} <CHAR_PAR>__{}
 <DIAL>__{Just Mahmud. People try to build something of their lives, something lasting, something good... but there's always someone wants to smash it up...}
 <TRANS>__{DISSOLVE TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. REMOTE VIEWING ROOM - DAY - THE PAST}
 <CHAR>__{BOB } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Lyn was thinking of Larry Hooper and the part he had played in the destruction of the New earth Army. But, in fairness, the Jedis' own eccentricities hadn't exactly won them many allies in the Army.}
@@ -1661,7 +1663,7 @@
 <ACTION>__{The OFFICIALS look at him as if he were SATAN himself.}
 <CHAR>__{BOB } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Brigadier General Hopgood resigned and died some years later. Bill received a dishonorable discharge.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FORT BRAGG - DAY}
 <ACTION>__{Bill, a broken man, is walking off the base. He reaches the gates and sees Lyn waiting for him.}
 <CHAR>__{BILL DJANGO} <CHAR_PAR>__{}

@@ -371,7 +371,8 @@
 <DIAL>__{Let's see...that was Tuesday...}
 <LOC>__{INT. COMMUNITY CENTER MEETING ROOM. LATER.}
 <ACTION>__{PASTOR MEL, a guest speaker, shares details of his struggles inside the "12 Step" Process. Kym, like everyone present, is riveted.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. BUCHMAN HOUSE. DAY.}
 <ACTION>__{Sweaty and fed up with Carol's bike, Kym cycles into the Buchman driveway. Paul has been watching for her out the kitchen window while doing dishes. He waves and yells to his wife.}
 <CHAR>__{PAUL} <CHAR_PAR>__{}
@@ -733,7 +734,7 @@
 <ACTION>__{Kieran stares sympathetically at Kym.}
 <LOC>__{EXT. UKRAINIAN FOLK MUSEUM. NIGHT.}
 <ACTION>__{Guests leaving.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BUCHMAN HOUSE. NIGHT.}
 <ACTION>__{Kym drops into a chair in the dining room as Paul, Carol, Rachel, Sidney, Kieran, and Emma struggle in with several elaborately wrapped wedding gifts and leftovers from the rehearsal dinner, which they pile on the dining room table. Rachel and Sidney are having a quiet, tense exchange.}
 <CHAR>__{KYM} <CHAR_PAR>__{}
@@ -1483,7 +1484,7 @@
 <ACTION>__{Kym, her hair still in foils, rushes out of the house. Carol turns to Rachel. Rachel bolts upstairs. Carol turns to Paul. Paul waves her away. Carol is bawling too.}
 <LOC>__{EXT. 7/11 PARKING LOT. DUSK.}
 <ACTION>__{A STATE TROOPER, sitting in his patrol car, looks up from his coffee as Paul's Mercedes station wagon screeches into a nearby parking space. The cop watches Kym get out of the car and stalk into the 7/11.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ABBY'S/ANDREW'S HOUSE. MASTER BATHROOM. NIGHT.}
 <ACTION>__{Steam rises from the surface of Abby's high-tech and sumptuous bathtub, as she quickly turns the water off and speaks into her cell phone.}
 <CHAR>__{ABBY} <CHAR_PAR>__{}
@@ -1597,7 +1598,7 @@
 <DIAL>__{I'll take it.}
 <LOC>__{EXT/INT. SCOTTY'S. NIGHT.}
 <ACTION>__{Kieran, looking drawn under the fluorescent lights, stands inside the Jamaican restaurant staring out at the night. THROUGH THE WINDOW a beat up WHITE HONDA tears ass right through the stop sign and screeches on up the road. Kieran flinches.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ABBY'S/ANDREW'S HOUSE. NIGHT.}
 <ACTION>__{Abby is in her kitchen preparing tea, dressed in loose- fitting yoga-style PJs, hair still wet from her bath. A door opens behind her and Kym emerges from the bathroom rubbing her hands over her face.}
 <CHAR>__{KYM} <CHAR_PAR>__{}
@@ -1657,7 +1658,7 @@
 <ACTION>__{Kym stops. Keeping her back to the door she backs out of her mother's house.}
 <LOC>__{EXT. ABBY'S/ANDREW'S HOUSE. NIGHT.}
 <ACTION>__{Kym falls down the front steps. Her nose is bleeding and her eye starts to swell. Where are the car keys? Here they are. Where is the door handle? Here it is. She drives off.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. SECLUDED ROAD. NIGHT.}
 <ACTION>__{Kym driving the station wagon too fast.}
 <LOC>__{INT. STATION WAGON. NIGHT.}
@@ -1730,7 +1731,7 @@
 <CHAR>__{EMMA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in a helium voice)}
 <DIAL>__{Oh. My. God.}
-<LOC>__{65   OMITTED INT. BUCHMAN FOYER. DAY. CONTINUOUS.}
+<LOC>__{65    INT. BUCHMAN FOYER. DAY. CONTINUOUS.}
 <ACTION>__{Kieran is in the living room on his cell phone when he spots Kym. Behind him we see Norman Sklear, Matt and Innbo removing the last of the living room furniture to the rear patio.}
 <CHAR>__{KIERAN} <CHAR_PAR>__{}
 <DIAL>__{Holy shit.}

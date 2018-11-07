@@ -343,7 +343,7 @@
 <CHAR>__{STANLEY} <CHAR_PAR>__{}
 <DIAL>__{If that little git drives half as well as he negotiates, we're going to be fine.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. AWARD CEREMONY - NIGHT}
 <ACTION>__{An awards ceremony is in progress. The room is thick with cigar and cigarette smoke. A presenter on stage, wearing black tie...}
 <CHAR>__{PRESENTER} <CHAR_PAR>__{}
@@ -669,7 +669,16 @@
 <ACTION>__{NIKI walks to his car, putting on his helmet.}
 <CHAR>__{NIKI} <CHAR_PAR>__{}
 <DIAL>__{Asshole.}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
+
+
+
+
+
 <LOC>__{EXT. SPANISH GRAND PRIX PADDOCK/ PODIUM - DAY}
 <ACTION>__{NIKI is on the podium, spraying champagne. He is wearing the victor's garland... Meanwhile: JAMES's car is embarrassingly being brought back by a tow-truck. NIKI watches from the podium.. His eyes meet JAMES's..}
 <LOC>__{INT. BAR - HOTEL - NIGHT}
@@ -715,7 +724,12 @@
 <ACTION>__{BUBBLES walks off. PETER HUNT walks off. JAMES calls out..}
 <CHAR>__{JAMES} <CHAR_PAR>__{}
 <DIAL>__{Bubbles? I'm sorry..! I didn't mean that! Come back..!}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
+
 <LOC>__{EXT. EASTON NESTON - DAY}
 <ACTION>__{The grand Hesketh estate in the Northamptonshire countryside.}
 <LOC>__{INT. HESKETH RACING WORKSHOPS - EASTON NESTON - DAY}
@@ -802,7 +816,7 @@
 <DIAL>__{You don't fancy getting married, do you?}
 <LOC>__{EXT. BROMPTON ORATORY CHURCH - LONDON - DAY}
 <ACTION>__{The sound of ringing bells. London's grandest Catholic church in the heart of Knightsbridge..}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BROMPTON ORATORY CHURCH - DAY}
 <ACTION>__{JAMES and SUZY, top hat and tails, flowing white wedding dress, looking ravishing, emerge from the church. JAMES and SUZY fall into a passionate, sexy embrace for the paparazzi cameras. Loud cheers go up, led by HESKETH and}
 <ACTION_ALT>__{BUBBLES.}
@@ -892,7 +906,7 @@
 <DIAL>__{Can you give me a lift to the nearest town? Anywhere with a train station.}
 <CHAR>__{MARLENE} <CHAR_PAR>__{}
 <DIAL>__{Sure. Nearest town is half an hour's drive. Get in.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ROAD - DAY}
 <ACTION>__{The car drives. The radio plays. Marlene sings along. NIKI can't help noticing something. He turns down the music. MARLENE's smile fades..}
 <CHAR>__{MARLENE} <CHAR_PAR>__{}
@@ -1152,7 +1166,8 @@
 <CHAR>__{JAMES} <CHAR_PAR>__{}
 <DIAL>__{Agreed. Repellent.}
 <ACTION>__{SUZY stares...and goes. JAMES carries on drinking.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. JAMES'S FLAT - FOLLOWING MORNING}
 <ACTION>__{The following morning. The phone rings. Piercing the darkness. JAMES, clearly the worse for wear, is talking to his beloved budgies...}
 <CHAR>__{JAMES} <CHAR_PAR>__{}
@@ -1218,7 +1233,11 @@
 <DIAL_PAR>__{(a beat)}
 <DIAL>__{Just give me the drive...}
 <ACTION>__{CALDWELL, HOGAN and MAYER look at one another...}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED OMITTED OMITTED}
+
+
+
+
+
 <LOC>__{EXT. SOUTH AFRICA GRAND PRIX - KYALAMI - 6TH MARCH 1976- DAY}
 <ACTION>__{Various shots, to establish. South Africa in the apartheid era. We notice black race FANS unable to get into the track.. CAPTION: "THE 1976 FORMULA 1 SEASON"}
 <CHAR>__{COMMENTATOR} <CHAR_PAR>__{}
@@ -1269,7 +1288,8 @@
 <CHAR>__{LIZ TAYLOR} <CHAR_PAR>__{}
 <DIAL>__{What does a girl have to do to get a drink around here?}
 <ACTION>__{SUZY smiles. Their eyes meet. And no eyes are more beautiful than SUZY's. An immediate connection between them. Their hands hold a fraction too long as they shake...}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. RACE TRACK - DAY}
 <ACTION>__{NIKI's car roars past the finishing line first. JAMES closely behind... CAPTION: "SOUTH AFRICA. LAUDA WINS. HUNT SECOND."}
 <LOC>__{104AEXT. PODIUM    - KYALAMI - DAY}
@@ -1278,7 +1298,9 @@
 <DIAL>__{My car wasn't right today. Next time I'll have you..}
 <CHAR>__{NIKI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, yeah...}
-<ACTION_ALT>__{OMITTED OMITTED OMITTED}
+
+
+
 <LOC>__{EXT. SPANISH GRAND PRIX - JARAMA, 2ND MAY 1976- DAY}
 <ACTION>__{JAMES's car takes the chequered flag, finishing first!!!}
 <LOC>__{108AINT/EXT. MCLAREN PITS}
@@ -1306,7 +1328,7 @@
 <CHAR>__{CALDWELL} <CHAR_PAR>__{}
 <DIAL>__{But that'll have a knock-on effect on the oil coolers..}
 <ACTION>__{JAMES watches - already fearing the worst - as the car is stripped down, effectively being rebuilt...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{111AEXT. WATKINS GLEN 1976 - DAY}
 <ACTION>__{"BANG", JAMES's car shudders violently, the wheels shake as the drive shaft snaps... CAPTION: "RACE 4. LAUDA WINS. HUNT RETIRES."}
 <LOC>__{111BEXT. MONACO GRAND PRIX 1976- DAY}
@@ -1319,7 +1341,7 @@
 <CHAR>__{JAMES} <CHAR_PAR>__{}
 <DIAL>__{I can't stand it...}
 <ACTION>__{The tyre continues bouncing, people diving out of it's path, before the tyre finally smashes into a hot-dog stand... CAPTION: "RACE 6. LAUDA WINS AGAIN. HUNT RETIRES."}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BELGIUM GRAND PRIX - ZOLDER - PITLANE - DAY}
 <ACTION>__{JAMES storms back into the pits, screaming at MAYER, CALDWELL and the MECHANICS...}
 <CHAR>__{JAMES} <CHAR_PAR>__{}
@@ -1365,12 +1387,13 @@
 <DIAL>__{Jesus.}
 <LOC>__{EXT. RUNWAY - DAY}
 <ACTION>__{A jumbo jet roars down the runway and takes off...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. MANHATTAN - DAY}
 <ACTION>__{The unmistakable skyline. Among the ten thousand craggy rooftops and skyscrapers... A grand, five-star hotel overlooking Central Park in Manhattan's mid-town district...}
 <LOC>__{EXT. HOTEL - MANHATTAN - DAY}
 <ACTION>__{A huge collection of paparazzi SNAPPERS and Journalist HACKS is camped outside the hotel. Immediately a surge of activity, "Here he is"... A burst of flashlights and a volley of questions from the JOURNALISTS as JAMES - gets out of the taxi and runs the gauntlet of humiliation... ...into the hotel..}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{INT. HOTEL SUITE - DAY}
 <ACTION>__{A large hotel suite. There are flowers everywhere. Newspapers are all over the table. JAMES sits opposite SUZY. He sees an expensive gift; recently opened. A diamond necklace..}
 <CHAR>__{JAMES} <CHAR_PAR>__{}
@@ -1420,17 +1443,17 @@
 <ACTION>__{The chequered flag waves as JAMES's car roars across the finish line... JAMES screams with released rage.... CAPTION: "RACE 7. HUNT WINS. LAUDA's ENGINE BLOWS UP"}
 <LOC>__{INT. MCLAREN PITS - PAUL RICARD - DAY}
 <ACTION>__{Afterwards: TEDDY MAYER, ALASTAIR CALDWELL and JOHN HOGAN celebrate in delight...cheering...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{126AEXT. BRITISH GRAND PRIX - 18TH JULY 1976- DAY}
 <ACTION>__{NIKI's car is pursued by JAMES's. They disappear behind a copse of trees. Out of sight. When they re-emerge, JAMES is ahead of NIKI, having overtaken him - to the delight of the partisan crowd. The chequered flag waves again as JAMES's car roars across the finish line... CAPTION: "RACE 8. HUNT WINS. LAUDA 2nd." JAMES screams in catharsis and triumph. Teeth clenched. Eyes wide and staring with concentration. We notice SCREAMING GIRL FANS cheering him now.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. FIA HEADQUARTERS - DAY}
 <ACTION>__{A blazer-wearing FIA OFFICIAL addresses a room full of sports and motoring JOURNALISTS, TV CREWS, etc...}
 <CHAR>__{FIA OFFICIAL} <CHAR_PAR>__{}
 <DIAL>__{Following an inquiry into the disqualification of driver James Hunt from the Spanish Grand Prix, it has been decided to overturn this disqualification...and to restore his victory, and reinstate his points..}
 <LOC>__{INT. MCLAREN HQ - BRANDS HATCH -DAY}
 <ACTION>__{JAMES, TEDDY MAYER, ALASTAIR CALDWELL, and all the MECHANICS are watching on TV... Huge celebrations. Cheering and whooping. SCREAMING GIRLS.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BRAND'S HATCH - PRESS TENT - DAY}
 <ACTION>__{A crowded PRESS room. In opposite corners of the room, JAMES and NIKI are giving interviews to different PRESS and TV journalists. Stirling Moss is talking to JAMES...}
 <CHAR>__{STIRLING MOSS} <CHAR_PAR>__{}
@@ -1619,7 +1642,8 @@
 <CHAR>__{DOCTOR} <CHAR_PAR>__{}
 <DIAL>__{Which is not enough to maintain life...}
 <ACTION>__{NIKI slips out of consciousness again. MARLENE is distraught, in tears.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <ACTION>__{TELEVISION NEWS - FULL-FRAME TV news: giving the latest information on NIKI's condition.}
 <LOC>__{INT. JAMES'S APARTMENT - LONDON - NIGHT}
 <ACTION>__{JAMES sits watching the news on TV in his apartment, while feeding his budgerigars, (the collection has grown).. He feels terrible. He goes to his desk, pulls out paper and pen... JAMES tries to find the right words, tries to write, tries to put his feelings on paper, but words in general, and letters in particular have never been his thing... JAMES scrunches up the pieces of paper, throws it away. The budgerigars, sensing his distress, flutter and peep..}
@@ -1647,7 +1671,7 @@
 <ACTION>__{MARLENE covers her mouth, laughs nervously, already in tears. She and the DOCTOR rush into the intensive care unit.}
 <LOC>__{EXT. INTENSIVE CARE UNIT - DAY}
 <ACTION>__{Shooting through the window we see MARLENE approach NIKI's bed. She sees NIKI.. And gasps. Trying to control her expression. Not give away to him how horrified she is. NIKI's face: is grotesque. His head has swollen to double it's size. The skin has burned off on his head, his eyes. MARLENE bravely composes herself. Then, without displaying the shock she feels - she goes over and kisses him.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. NIKI'S HOSPITAL ROOM/TELEVISION COVERAGE FULL FRAME -DAY}
 <ACTION>__{The starter's flag drops. On television we see the Austrian Grand Prix start. NIKI watches the race on television, while beginning his rehab in bed, in pain as bandages are changed.. ON TV: JAMES narrowly misses out on a podium, but still gains on NIKI in his points total... CAPTION: "RACE 11. HUNT FINISHES 4th"}
 <LOC>__{INT. HOSPITAL - DAY - (A WEEK LATER)}
@@ -1663,7 +1687,7 @@
 <ACTION>__{The DOCTOR nods. The vacuum is turned on again. NIKI screams in agony. Eyes bulging. MARLENE and NIKI's family cannot bear to watch... He watches as ON TV: JAMES is on the victory podium spraying champagne.}
 <LOC>__{INT. HOSPITAL - DAY}
 <ACTION>__{NIKI continues screaming in pain, watching the Canadian GP on TV as.. CAPTION: "RACE 13 CANADIAN GRAND PRIX. HUNT WINS AGAIN" For the first time, JAMES has taken the lead in points. NIKI stares at the TV: his expression changes.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HOSPITAL - DAY}
 <ACTION>__{NIKI screams again. MARLENE, NIKI's family and the DOCTORS are deeply distressed, cannot bring themselves to watch, as...}
 <CHAR>__{NIKI} <CHAR_PAR>__{}
@@ -1790,7 +1814,7 @@
 <ACTION>__{COMMENTATORS begin to get excited. LAUDA has started to overtake the back-markers... An incredible sequence. As NIKI gains more confidence, more speed, and begins to work his way through the field.. COMMENTATORS now buzzing with excitement. This is incredible, as NIKI overtakes first CARLOS REUTEMANN, the driver hired to replace him, then others, working his way through the field...}
 <LOC>__{170EINT. JAMES'S CAR - SAME TIME}
 <ACTION>__{JAMES sees NIKI coming up behind him. Cannot believe his eyes. JAMES move to block NIKI's path... NIKI attacks fearlessly. Despite terrible pain. NIKI moves to overtake JAMES. Utterly intimidated by NIKI's bravery, JAMES panics, and loses control of the car. He spins out.. COMMENTATORS cannot believe their eyes. HUNT's blown it! LAUDA's overtaken him! It's a miracle. It defies belief. As NIKI crosses the line.... CAPTION: "RACE 15. NIKI 4th. JAMES RETIRED."}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. MONZA - DAY}
 <ACTION>__{The Italian crowds are ecstatic. Delirious. NIKI is a national hero. Lazarus back from the dead. Superhuman. TV commentary in different languages elaborates on what an extraordinary, superhuman achievement they have just seen... CAPTION: "LAUDA 68 POINTS. HUNT 65 POINTS."}
 <CHAR>__{STIRLING MOSS} <CHAR_PAR>__{}
@@ -1863,7 +1887,7 @@
 <CHAR>__{NIKI} <CHAR_PAR>__{}
 <DIAL>__{The locals here believe if you can see the mountain in the morning, it brings good luck.}
 <ACTION>__{NIKI's POV: the view. Nothing but mist, dark skies and rain.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. JAPANESE GRAND PRIX - FUJI SPEEDWAY - 24TH OCT 1976 -DAY}
 <ACTION>__{Inside the race track: puddles everywhere. The rain continues to fall. The circuit is covered in water... DRIVERS and the TEAMS arrive at the race track. JAMES and TEDDY MAYER and ALASTAIR CALDWELL among them... SPECTATORS are huddled under umbrellas. TV CREWS struggle to keep expensive equipment dry... An American VOICE comes over the tannoy...}
 <CHAR>__{TANNOY} <CHAR_PAR>__{}
@@ -1898,7 +1922,7 @@
 <ACTION>__{A round of applause in the room, as the DRIVERS vote to cancel the race. But unseen by the DRIVERS.. The FIA OFFICIALS, TV NETWORK EXECUTIVES, and the blazered POWERS THAT BE are in dark, conspiratorial discussion.. ...making the decision that the race goes ahead.}
 <ACTION_ALT>__{ARCHIVE TELEVISION FOOTAGE}
 <ACTION>__{NEWSCASTERS from all over the world, in several different languages, announce that a decision has been made.. The JAPANESE Grand Prix is definitely going ahead. The drivers have been called to the starting grid...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. PITS - VARIOUS - DAY}
 <ACTION>__{In the pits alongside JAMES... A series of shots of the other DRIVERS...being sent out like lambs to the slaughter... Visibly terrified, mouthing prayers, smoking last cigarettes, meditating, crossing themselves, hands shaking.. Among them the JAPANESE DRIVERS. All laughter gone now. Realizing what they've got into. Risking their lives. Finally we come to rest on NIKI. Strangely calm. NIKI puts on his balaclava over his still-raw wounds, wincing with pain as he puts on his helmet..}
 <LOC>__{EXT. JAPANESE GP - STARTING GRID - DAY}
@@ -1957,7 +1981,8 @@
 <ACTION>__{JAMES struggles to hold onto his car. He steadies it, maintaining the lead.}
 <LOC>__{194AINT. NIKI'S CAR - SAME TIME}
 <ACTION>__{JAMES's spray makes it impossible for NIKI to see. NIKI can't blink his eyes...it's agony. Half-blind, NIKI tries to overtake. Gives it everything he's got, breaking as late as he can, tearing through the gears... For NIKI the world flies past in a near-blind blur. The steering wheel shakes. The car cannot be driven any harder. But the visibility is terrible. The spray tears into his scarred eyes. He is unable to see anything but... MARLENE's beautiful face: staring at him. Smiling tenderly. Kissing him tenderly.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. RACE TRACK - JAPAN - SAME TIME}
 <ACTION>__{JAMES continues to race flat out. Engine screaming. Foot to the floor. His car aquaplanes again...almost skidding out...}
 <LOC>__{INT. HOTEL - MANHATTAN - SAME TIME}

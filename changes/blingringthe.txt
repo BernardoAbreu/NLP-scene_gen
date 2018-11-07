@@ -639,7 +639,7 @@
 <LOC>__{EXT. PARIS' HOUSE - NIGHT}
 <ACTION>__{Laughing, they run down the hill behind the house.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HOLLYWOOD NIGHT CLUB -NIGHT}
 <ACTION>__{Rebecca, Marc, Chloe and Nicki are having a great time on a busy night at the club. Nicki's wearing a pink mini-dress dress she stole from Paris'. The others are decked out in stuff they got from there as well. Some of them are dancing.}
 <TRANS>__{CUT TO:}
@@ -670,7 +670,7 @@
 <ACTION>__{Marc's feeling good, listening to music and putting outfits together in his room, American Gigolo style, laying out combinations on his bed, holding things up in the mirror. He gets a text on his phone and looks at it: LET'S GO TO}
 <ACTION_ALT>__{PARIS}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. PARIS' NIGHT CLUB ROOM}
 <ACTION>__{Rebecca and Marc hang out like it's their place. They listen to music on the club professional sound system. Marc opens a drawer and finds diamond encrusted gun lighter. He leans over and lights Rebecca's cigarette. She smokes and they look through her stuff. The dog sits next to her.}
 <TRANS>__{CUT TO:}
@@ -725,7 +725,7 @@
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. AUDRINA'S HOUSE - NIGHT}
 <ACTION>__{In a wide shot, we see Rebecca and Marc as small figures enter a glass house on a hill. They run around and leave with bags of stuff.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. REBECCA'S ROOM - NIGHT}
 <ACTION>__{Rebecca, Marc, Sam and Nicki are looking through clothes. There are piles of bags and designer clothes on Rebecca's bed. Nicki and Sam are squealing and trying things on, Marc is styling them, and taking pictures of them posing in their `looks'. Nicki puts on some crazy Louboutins. He tells them how great they look. Nicki and Sam dance in front of the computer screen watching as they film themselves. Marc goofs off around dancing with them, acting like a big- shot pimp flanked by his girls.}
 <TRANS>__{CUT TO: CLOSE ON COMPUTER SCREEN:}
@@ -1111,7 +1111,7 @@
 <CHAR>__{ROB} <CHAR_PAR>__{}
 <DIAL>__{C'mon, let's get the fuck out of here.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. MARC'S ROOM - DAY}
 <ACTION>__{Marc styles Nicki, dressing her up in a look.}
 <CHAR>__{MARC} <CHAR_PAR>__{}

@@ -1410,7 +1410,7 @@
 <LOC>__{EXT. AIRPLANE - NIGHT}
 <ACTION>__{The plane is diving.}
 <LOC>__{INT. LAVATORY - JACK}
-<ACTION>__{Jack is standing at toilet. He is jolted back and forth against the walls. INSERT - SIGN flashing:              RETURN TO SEAT}
+<ACTION>__{Jack is standing at toilet. He is jolted back and forth against the walls. INSERT - SIGN flashing: RETURN TO SEAT}
 <CHAR>__{GOBACKEN SIDONNA} <CHAR_PAR>__{}
 <LOC>__{INT. COCKPIT NIGHT}
 <CHAR>__{STRIKER} <CHAR_PAR>__{}
@@ -1459,7 +1459,7 @@
 <DIAL>__{Everything will be all right. Please get hold of yourself.}
 <ACTION>__{We see a line of passengers behind Sister Angelina waiting to shake Mrs. Hammen.}
 <LOC>__{EXT. AIRFIELD - SIGN - NIGHT}
-<ACTION>__{reads:         CHICAGO INTERNATIONAL AIRPORT OVER 16 BILLION PLANES LANDED}
+<ACTION>__{reads: CHICAGO INTERNATIONAL AIRPORT OVER 16 BILLION PLANES LANDED}
 <LOC>__{INT. TERMINAL BUILDING - NIGHT}
 <ACTION>__{As Kramer rushes through the lobby, he is approached by a series of religious zealots. In quick succession he decks each one karate style, shooting the last zealot twenty feet away with a .44 Magnum.}
 <LOC>__{INT. TERMINAL BUILDING - LONG SHOT - NIGHT}

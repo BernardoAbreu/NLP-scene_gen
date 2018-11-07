@@ -445,7 +445,7 @@
 <DIAL>__{...What's really going to be funny is when she gives you that innocent look and says, What're you talking about, Ray, I haven't done anything funny...}
 <ACTION>__{He leans back again.}
 <CHAR>__{MARTY} <CHAR_PAR>__{}
-<DIAL>__{...But the funniest thing to me right now is that you think she came back here for you--*that's* what's funny.}
+<DIAL>__{...But the funniest thing to me right now is that you think she came back here for you--that's what's funny.}
 <ACTION>__{Ray moves forward and Marty's eyes follow him as he approaches. Marty's smile abruptly turns to a look of apprehension. Ray enters frame and brushes past Marty as he walks up the stoop, and crosses the back office toward the bar. Marty relaxes, and his gaze returns to the furnace.}
 <CHAR>__{MARTY} <CHAR_PAR>__{}
 <DIAL>__{...Come on this property again and I'll be forced to shoot you...}
@@ -1873,5 +1873,5 @@
 <DIAL>__{Okay, I'll take the TV option.}
 <CHAR>__{RHODES} <CHAR_PAR>__{}
 <DIAL>__{Well see the thing about that is, we're booked.}
-<ACTION>__{"Looking at this scene now, years later, it strikes us that revising it out of existence, as we did, constituted too much rewriting. Indeed, the more prosaic scene we replaced it with, involving Ray stopped at a traffic light, can be found in the finished script but not in the finished movie. It was shot but then deleted in order to more quickly get to the carnage, which was the picture's raison d'^etre..."}
+<ACTION>__{"Looking at this scene now, years later, it strikes us that revising it out of existence, as we did, constituted too much rewriting. Indeed, the more prosaic scene we replaced it with, involving Ray stopped at a traffic light, can be found in the finished script but not in the finished movie. It was shot but then deleted in order to more quickly get to the carnage, which was the picture's raison d' etre..."}
 <DIAL>__{JOEL & ETHAN COEN}

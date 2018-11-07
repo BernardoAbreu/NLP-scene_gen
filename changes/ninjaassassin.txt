@@ -495,7 +495,7 @@
 <ACTION>__{Dawn breaks over the wall, as Ozunu returns to the dojo to find Raizo is sitting in a full lotus, completely calm, the wound already beginning to heal. Ozunu shows a hint of a smile.}
 <CHAR>__{OZUNU } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Very good, Raizo. Very good.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. RIVERSIDE PARK - DAY}
 <ACTION>__{They are walking. Maslow is nervous.}
 <CHAR>__{MASLOW} <CHAR_PAR>__{}

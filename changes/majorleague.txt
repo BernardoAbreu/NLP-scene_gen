@@ -87,7 +87,7 @@
 <ACTION>__{Donovan, carrying a boxful of belongings under each arm, pushes open the door of his new office and walks inside. The basic outfitting is masculine enough, but the room is full of feminine little accents; flowers in vases, porcelain desk accessories etc. Donovan is slightly overwhelmed. Suddenly, there's a voice at the door.}
 <DIAL>__{BODY-BUILDER ASSISTANT Mr. Donovan, Mrs. Phelps would like to see you.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <LOC>__{INT. RACHEL'S OFFICE - DAY}
 <ACTION>__{Donovan is ushered in by Rachel's Male Secretary. Donovan carries his player roster with him.}
 <LOC>__{INT. RACHEL'S OFFICE - DAY CONT}
@@ -297,7 +297,7 @@
 <LOC>__{INT. BEAT-UP MEXICAN BUS - DAY}
 <ACTION>__{Taylor sits in the back seat. He has six Coke bottles filled with sand strapped to his ankles. He lifts his legs up and down to strengthen his muscles.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <LOC>__{EXT. INDIANS' TRAINING CAMP PRACTICE FIELD - DAY}
 <ACTION>__{Donovan, Brown and two of his coaches, PEPPER LEACH (pitching) and DUKE TEMPLE (hitting) are on the field, witnessing the arrival of their "troops." First to arrive is:}
 <ACTION_ALT>__{TAYLOR}
@@ -593,7 +593,7 @@
 <DIAL>__{Is very bad to steal Jo-Buu's gin. Is very bad.}
 <ACTION>__{Cerrano closes his locker and goes off to the showers, leaving everyone to wonder just how bad.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{MONTAGE SEQUENCE}
 <ACTION>__{compressing and detailing the progress of spring training. We see: A) Vaughn on the pitcher's mound. A tin replica of a batter has been set up at home plate and rope stretched across the plate to delineate the strike zone. Vaughn fires a pitch and hits the tin batter in the hip, leaving a dent in him. B) Cerrano in the batting cage, flailing away in futility at several curve balls. C) HAYES doing push-ups at night. He's the only one left on the field, except Temple, who supervises. D) TAYLOR doing the "scramble" drill -- blocking down balls purposely thrown in the dirt, one after another. When it ends, he can hardly get to his feet. E) CERRANO waving a ten-foot BOA CONSTRICTOR in the sign of the cross in front of his locker before opening it. No red tag greets him. Hayes watches from a safe distance. F) VAUGHN holding a mirror under the vents on his locker door to get a peek inside to see if there's a red tag there. G) DORN taking a hard ground ball off the chest. Brown applauds. Dorn is pissed. H) VAUGHN throwing at the "ropes" again. The tin batter is dented in every conceivable place now. Vaughn whips in another fast ball. This one hits the tin man in the head, knocking it completely off. I) TAYLOR in an exhibition game, attempting to throw out a base stealer. Jake springs out of his crouch and fires down to second -- on a bounce. The ball skips into center field. J) HAYES also in an exhibition game, swinging at a pitch and popping it up behind the plate. He just drops in his tracks and starts to do push-ups as the catcher makes the catch behind him. K) CERRANO flailing away again at a curve ball. This and the remaining shots are all in exhibition games. L) HAYES waving a ten-inch garter snake in front of his locker. Even at this size we can tell it scares the hell out of him, but it works its magic. No red tag. M) VAUGHN with a runner on third, winding up and throwing a pitch four feet over Taylor's head. The run scores. N) HAYES attempting to steal second. He goes into a hell-bent-for- leather head first slide. Unfortunately, he comes up two feet short of the base. The second baseman, who's waiting for him with the ball, makes a motion for him to keep coming. Hayes flips him the bird. O) LOU BROWN on the bench. He turns to Pepper with a look that says, "Can you believe this shit?" P) TAYLOR waiting for a throw at the plate. Just as he's about to catch it, the runner knocks him flat. Q) BROWN his head in his hands. As Taylor gets up and goes to the wrong dugout, the MONTAGE ENDS.}
 <LOC>__{EXT. INDIANS' PRACTICE FIELD - LATE AFTERNOON}
@@ -1447,7 +1447,7 @@
 <DIAL>__{Nope.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <LOC>__{INT. CLEVELAND LOCKER ROOM - NIGHT}
 <ACTION>__{Taylor, Hayes, Vaughn and the others are dressing out for the game. Vaughn is wearing his glasses.}
 <CHAR>__{VAUGHN} <CHAR_PAR>__{}
@@ -1480,7 +1480,7 @@
 <CHAR>__{DOYLE } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{We're in the ninth, two down, man on first and the Indians clinging to a one run lead. VAUGHAN, one out away from his first major league victory...}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{VAUGHAN}
 <ACTION>__{Vaughn, wearing his new glasses, paces the mound nervously. He goes to the rosin bag, wipes his brow, shakes out his arm. Finally up on the rubber, he gets the sign from Taylor, goes to his stretch, checks the runner and fires to the plate.}
 <ACTION_ALT>__{THE OAKLAND BATTER}
@@ -1652,9 +1652,9 @@
 <ACTION>__{With that, Rachel turns and walks out. Brown and the others can only watch her go.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{SPORTSCASTER ROSS FARMER}
 <ACTION>__{On the air.}
@@ -1678,9 +1678,10 @@
 <DIAL_PAR>__{(in subtitles)}
 <DIAL>__{They're still shitty.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script. [...] Brown storms out of the dugout, doing his best to look incensed.}
+
+<ACTION>__{[...] Brown storms out of the dugout, doing his best to look incensed.}
 <CHAR>__{TAYLOR} <CHAR_PAR>__{}
 <DIAL>__{Ah shit, here comes Lou. Gimme a break, Mel. I gotta get outta here.}
 <CHAR>__{WINGO} <CHAR_PAR>__{}
@@ -2008,7 +2009,7 @@
 <ACTION_ALT>__{HAYES}
 <ACTION>__{leading off a makeshift base in the hall of the Turk. As Vaughn tosses a ball up in the air, Hayes takes off down the hall toward another base on the dirt sliding area. Vaughn catches the ball and rifles a throw down to Taylor, who puts the tag on the sliding Hayes. Cerrano, who's umping, calls Hayes out. Hayes jumps up and argues vociferously, hopping around in frustration.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{PEPPER}
 <ACTION>__{hitting one rocket-shot ground ball after another at Dorn. Some bounce off his chest and arms, but Dorn stays in front of every one.}
 <ACTION_ALT>__{DORN}
@@ -2018,13 +2019,13 @@
 <ACTION_ALT>__{TAYLOR}
 <ACTION>__{taking batting practice late at night. He attacks the ball swing after swing.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{VAUGHN}
 <ACTION>__{taking his stretch with a man on first, and firing to the plate. The Batter swings and misses for strike three, while the Runner on first breaks for second. TAYLOR rifles a throw down to second nailing the Runner for a double play.}
 <ACTION_ALT>__{DORN}
 <ACTION>__{taking a hot smash off his chest. He picks it up and guns the runner down.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{HAYES}
 <ACTION>__{stealing home, as the opposing Pitcher tries frantically to hurry his windup. Hayes slides across safely, hooking to the infield side. He jumps up and punches the air with his fist.}
 <ACTION_ALT>__{HAYES}
@@ -2051,9 +2052,9 @@
 <ACTION_ALT>__{BROADCAST. THE EXECUTIVE}
 <ACTION>__{inside his office. He opens his desk drawer and pulls out an earplug. He's also listening to the game.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <LOC>__{INT. BURLESQUE JOINT - NIGHT}
 <ACTION>__{The Stripper is wearing a squaw costume, with black glove and a WILD THING T-shirt. Several members of the audience have radio earplugs on.}
 <ACTION_ALT>__{NEWSPAPER HEADLINE}
@@ -2240,7 +2241,7 @@
 <ACTION>__{Taylor nods that it's all right even though he doesn't believe it.}
 <TRANS>__{DISSOLVE TO:}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{THE LIMO}
 <ACTION>__{pulling up outside the church. Lynn is helped out of the car by her Father. As she starts up the steps, she sees that both sides are lined by the entire Cleveland Indians team in uniform. They form an arch of bats as she passes. At the top of the steps is Taylor. Lynn stops as her father ushers her mother on into the church.}
 <CHAR>__{TAYLOR} <CHAR_PAR>__{}
@@ -2378,7 +2379,7 @@
 <ACTION_ALT>__{THE SCOREBOARD}
 <LOC>__{0-0 in the 5th.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{CERRANO}
 <ACTION>__{striking out on a curve ball, trying to check his swing. Umpire emphatically punches him out.}
 <ACTION_ALT>__{DOYLE}
@@ -2499,7 +2500,7 @@
 <DIAL>__{Can you believe this, Monty?}
 <ACTION>__{Monty takes a big swig straight from the bourbon bottle.}
 <ACTION_ALT>__{OMIT}
-<ACTION>__{Sequence omitted from original script.}
+
 <ACTION_ALT>__{ANOTHER INDIAN HITTER}
 <ACTION>__{grounding out to short.}
 <ACTION_ALT>__{HAYES}

@@ -598,8 +598,7 @@
 <DIAL>__{Mr. Takagi, we could discuss industrialization of men's fashions all day, but I'm afraid my associate, Mr. Theo, has some questions for you. Sort of fill-in-the blanks questions actually...}
 <TRANS>__{JUMP CUT:}
 <LOC>__{64      A COMPUTER SCREEN SPITS OUT:}
-<ACTION_ALT>__{NAKATOMI CORPORATION. BOARD WORKSTATION.}
-<ACTION>__{ENTER CENTRAL COMPUTER CODE KEY _ _ _ _.}
+<ACTION_ALT>__{NAKATOMI CORPORATION. BOARD WORKSTATION. ENTER CENTRAL COMPUTER CODE KEY        .}
 <LOC>__{65      THEO}
 <ACTION>__{sits fingers poised over the keyboard.  Hans sits opposite. Takagi stands like the accused at the foot of the table, has just read the screen, blurts:}
 <CHAR>__{TAKAGI} <CHAR_PAR>__{}

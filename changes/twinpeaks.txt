@@ -2418,7 +2418,7 @@
 <CHAR>__{SARAH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calling)}
 <DIAL>__{Where were you two?}
-<LOC>__{157.    OMITTED}
+
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{158.    CLOCK IN LAURA'S ROOM}
 <ACTION>__{It reads:  8:00. Laura sits at her desk staring off into space.}
@@ -2602,7 +2602,8 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{You missed the party.  Look at my office.  Come here.}
 <DIAL_PAR>__{(more)}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{BEN } <CHAR_PAR>__{(continued)}
 <ACTION>__{He wiggles a packet of cocaine in front of her and she steps to him.}
 <CHAR>__{BEN } <CHAR_PAR>__{(continued)}
@@ -2630,7 +2631,8 @@
 <CHAR>__{BOBBY} <CHAR_PAR>__{}
 <DIAL>__{We got to wait till midnight.  But I got plenty here to make it.  And I got plenty of dough...  right here}
 <DIAL_PAR>__{(more)}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{BOBBY } <CHAR_PAR>__{(continued)}
 <DIAL_PAR>__{(pats the money that sits next to him)}
 <DIAL>__{...for "Bobby_and_Laura's_Big_Score".}
@@ -2661,7 +2663,8 @@
 <CHAR>__{PETE} <CHAR_PAR>__{}
 <DIAL>__{Yep...}
 <DIAL_PAR>__{(long pause) (more)}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{PETE } <CHAR_PAR>__{(continued)}
 <DIAL>__{Yes...}
 <DIAL_PAR>__{(another long pause)}
@@ -2690,7 +2693,9 @@
 <LOC>__{181.    EXT.  THE WOODS - NIGHT}
 <ACTION>__{Bobby and Laura pull into a little clearing.  Bobby kills the lights. The doors open.  Laura and Bobby start to make their way thru the woods.}
 <LOC>__{182.    EXT.  THE WOODS - NIGHT}
-<ACTION>__{Laura and Bobby continue thru the woods.  It gets spookier and spookier. They reach the meeting place.  Awesomely quiet until a twig snaps, then a distant howling of a wolf. Bobby and Laura sit on the floor of the woods and do some more toot. Laura picks up a leaf and shows it to Bobby. ** August 8, 1991}
+<ACTION>__{Laura and Bobby continue thru the woods.  It gets spookier and spookier. They reach the meeting place.  Awesomely quiet until a twig snaps, then a distant howling of a wolf. Bobby and Laura sit on the floor of the woods and do some more toot. Laura picks up a leaf and shows it to Bobby.}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispers)}
 <DIAL>__{Bobby, I found a leaf.}
@@ -2718,7 +2723,8 @@
 <DIAL>__{Wow.}
 <ACTION>__{Laura just grabs it out of his hand.  The deputy takes out his gun. Bobby panics and pulls out his gun.  BANG!! Bobby shoots the deputy in the shoulder, but the deputy still prepares to shoot at Bobby so Bobby shoots him again.  This time in the chest. The deputy spins and tries to run, but Bobby shoots him in the back. He topples over dead.}
 <DIAL_PAR>__{(more)}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <ACTION_ALT>__{BOBBY AND LAURA}
 <ACTION>__{They stand there frozen.  Absolutely no more giggles.}
 <CHAR>__{LAURA } <CHAR_PAR>__{(continued)}
@@ -2746,7 +2752,8 @@
 <LOC>__{183.    EXT.  WOODS - NIGHT}
 <ACTION>__{Wide shot.  The distant sounds of Bobby and Laura laughing.  Up closer the wind takes over and even closer the hooting of an owl.}
 <TRANS>__{DISSOLVE TO:}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <LOC>__{184.    INT.  THE PALMER HOUSE, FAN AND STAIRS - NIGHT}
 <ACTION_ALT>__{THE FAN SPINNING}
 <ACTION>__{Then - THE FAN'S POV down on Laura entering the stairwell.  We drift down on Laura.}
@@ -2775,7 +2782,9 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(acting real serious)}
 <DIAL>__{You killed Mike.}
-<ACTION>__{Bobby is about to get really pissed when Laura starts laughing again. Bobby fights to stay in control. ** August 8, 1991}
+<ACTION>__{Bobby is about to get really pissed when Laura starts laughing again. Bobby fights to stay in control.}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{BOBBY} <CHAR_PAR>__{}
 <DIAL>__{I'm not going to give you this if you don't stop laughing.  It's not one god damn bit funny.}
 <ACTION>__{Laura stifles her laugh with all her might.  Bobby hands her the money.  After a beat Laura starts to laugh, but stops herself again by biting her lip.  Bobby is furious and scared.  Laura covers her mouth.  Bobby breaks again.}
@@ -2801,7 +2810,8 @@
 <DIAL>__{A little trouble with your parents is the least of your worries and something I am certainly willing to put up with.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{I'm not.}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{JACOBY} <CHAR_PAR>__{}
 <DIAL>__{Did you make me a tape?}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -2826,7 +2836,8 @@
 <LOC>__{194.    INT.  LAURA'S BEDROOM - NIGHT}
 <ACTION>__{The room is dark.  Laura is pressed up against the headboard of her bed staring at the window.  The fan ominously whirls in the hall. Bob appears in her window and enters the room. Bob moves down on top of her.  His hand moves between her legs.  Laura}
 <DIAL_PAR>__{(more)}
-<ACTION>__{** August 8, 1991 fights with all her might to keep staring at his face.  To know it. To unlock it.  Her hands go up.  She holds his face...  squeezes it as he moves on top of her. Slowly, what she always knew deep inside of her becomes clear.}
+
+<ACTION>__{August 8, 1991 fights with all her might to keep staring at his face.  To know it. To unlock it.  Her hands go up.  She holds his face...  squeezes it as he moves on top of her. Slowly, what she always knew deep inside of her becomes clear.}
 <ACTION_ALT>__{BOB BECOMES LELAND.}
 <ACTION>__{She screams and passes out into hell.}
 <LOC>__{195.    INT.  PALMER HOUSE, DINING ROOM - DAY}
@@ -2846,7 +2857,9 @@
 <DIAL>__{Stay away from me.}
 <ACTION>__{Never taking her eyes off him, she works her way around him and leaves the room. We stay on Leland.  His face changes.  He knows she knows and he knows what he has to do.}
 <LOC>__{197.    EXT.  SIDEWALK IN FRONT OF THE PALMER HOUSE - DAY}
-<ACTION>__{Laura walks to school.  All the beautiful, natural sounds of morning sound like hell to her.  Distorted chants from hell. ** August 8, 1991}
+<ACTION>__{Laura walks to school.  All the beautiful, natural sounds of morning sound like hell to her.  Distorted chants from hell.}
+
+<ACTION>__{August 8, 1991}
 <LOC>__{198.    INT.  HIGH SCHOOL CLASSROOM - DAY}
 <ACTION>__{Laura studies the clock hand going round and round.  Every sound in the room is distorted.}
 <ACTION_ALT>__{THE BELL RINGS IN SLOW MOTION}
@@ -2875,7 +2888,8 @@
 <ACTION>__{MRS. BETTY BRIGGS lets Laura in the front door.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Hi, Mrs. Briggs...}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{BETTY} <CHAR_PAR>__{}
 <DIAL>__{Hi, Laura, Bobby's in the basement.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -2907,7 +2921,8 @@
 <DIAL>__{I'm not...  Bobby I'm gonna need some more stuff.  I mean it.  I'm out.}
 <CHAR>__{BOBBY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, and I'm gonna need that ten thousand dollars back.}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Sure, but I can't get it till after school tomorrow.}
 <CHAR>__{BOBBY} <CHAR_PAR>__{}
@@ -2940,7 +2955,9 @@
 <DIAL>__{Thanks, Bobby.}
 <DIAL_PAR>__{(looking at the packet)}
 <DIAL>__{And my little round friends, too.}
-<ACTION>__{They head upstairs. ** August 8, 1991}
+<ACTION>__{They head upstairs.}
+
+<ACTION>__{August 8, 1991}
 <LOC>__{203.    INT.  BRIGGS LIVING ROOM - NIGHT}
 <ACTION>__{Mr. Briggs is reading aloud to Mrs. Briggs from the book of Revelations.  As Bobby hears this he turns to Laura and makes a look of horror which says, "Can you believe I live here".  Laura smiles. Bobby takes Laura to the door.  He gives her a small kiss, "Good Night".  After she leaves he cuts back thru the living room and just as he clears the room he lights up.}
 <CHAR>__{BRIGGS} <CHAR_PAR>__{}
@@ -2969,7 +2986,8 @@
 <CHAR>__{LUCY'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{And last week I thought of the same}
 <DIAL_PAR>__{(more)}
-<ACTION>__{** August 8, 1991}
+
+<ACTION>__{August 8, 1991}
 <CHAR>__{LUCY'S VOICE } <CHAR_PAR>__{(continued)}
 <DIAL>__{thing.}
 <CHAR>__{ANDY} <CHAR_PAR>__{}

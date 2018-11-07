@@ -104,9 +104,9 @@
 <DIAL_PAR>__{(staring)}
 <DIAL>__{Why, you're the preacher!}
 <CHAR>__{CASY} <CHAR_PAR>__{}
-<DIAL>__{*Used* to be. Not no more. I lost the call.}
+<DIAL>__{Used to be. Not no more. I lost the call.}
 <DIAL_PAR>__{(Reminiscently)}
-<DIAL>__{But boy, I sure *used* to have it! I'd get an irrigation ditch so squirmin' full of repented sinners I pretty near *drowned* half of 'em!}
+<DIAL>__{But boy, I sure used to have it! I'd get an irrigation ditch so squirmin' full of repented sinners I pretty near drowned half of 'em!}
 <DIAL_PAR>__{(Sighing)}
 <DIAL>__{But not no more. I lost the sperit.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
@@ -124,7 +124,7 @@
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL>__{But you wasn't a preacher. A girl was just a girl to you. But to me they was holy vessels. I was savin' their souls.}
 <DIAL_PAR>__{(Fervently)}
-<DIAL>__{I ast myself--what *is* this call, the Holy Sperit? Maybe *that's* love. Why, I love everybody so much I'm fit to bust sometimes!  So maybe there ain't no sin an' there ain't no virtue. There's just what people do. Some things folks do is nice, and some ain't so nice. But that's as far as any man's got a right to say.}
+<DIAL>__{I ast myself--what is this call, the Holy Sperit? Maybe that's love. Why, I love everybody so much I'm fit to bust sometimes!  So maybe there ain't no sin an' there ain't no virtue. There's just what people do. Some things folks do is nice, and some ain't so nice. But that's as far as any man's got a right to say.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(after a moment,}
 <DIAL>__{figuring there is no percentage in continuing this philosophical discussion, pulls out a flask, which}
@@ -175,7 +175,7 @@
 <DIAL>__{I'll be glad to see you pa. Last time I seen him was at a baptizin', an' he had one a the bigges' doses of the Holy Sperit I ever seen. He go to jumpin' over bushes, howlin' like a dog-wolf in moon-time. Fin'ly he picks hisself out a bush big as a piana an' he let out a squawk an' took a run at that bush. Well, sir, he cleared her but he bust his leg snap in two. They was a travellin' dentist there and he set her, an' I give her a prayin' over, but they wasn't no more Holy Sperit in your pa after that.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(worriedly)}
-<DIAL>__{Lissen. This wind's fixin't to *do* somepin'!}
+<DIAL>__{Lissen. This wind's fixin't to do somepin'!}
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL>__{Shore it is. It always is, this time a year.}
 <ACTION>__{Tom, holding his cap on his head with his hand, looks up... The TOPS OF THE TREES are bending before the wind. TOM AND CASY continue walking.}
@@ -232,7 +232,7 @@
 <DIAL>__{They gone.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(irritated)}
-<DIAL>__{I know that! But *where* they gone?}
+<DIAL>__{I know that! But where they gone?}
 <ACTION>__{Muley does not reply. He is looking up at Casy as he enters.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Casy)}
@@ -243,7 +243,7 @@
 <DIAL>__{I ain't no preacher anymore.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(impatiently)}
-<DIAL>__{All right, you remember the *man* then.}
+<DIAL>__{All right, you remember the man then.}
 <CHAR>__{MULEY AND CASY} <CHAR_PAR>__{}
 <DIAL>__{Glad to see you again. Glad to see you.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
@@ -252,7 +252,7 @@
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL>__{Gone--}
 <DIAL_PAR>__{(hastily)}
-<DIAL>__{--over to your Uncle John's. The whole crowd of 'em, two weeks ago. But they can't stay there either, because John's got *his* notice to get off.}
+<DIAL>__{--over to your Uncle John's. The whole crowd of 'em, two weeks ago. But they can't stay there either, because John's got his notice to get off.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bewildered)}
 <DIAL>__{But what's happened?  How come they got to get off? We been here fifty years--same place.}
@@ -281,9 +281,9 @@
 <DIAL>__{The way it happens--the way it happened to me--the man come one day...}
 <ACTION>__{The scene dissolves to MULEY'S DOORYARD. It is a soft spring day, with the peaceful sounds of the country. Seated in a three-year-old touring car is THE MAN, a city man with a collar and tie. He hates to do what he is doing and this makes him gruff and curt, to hide his misgivings. Squatted beside the car are Muley, his son-in-law, and a half-grown son. At a respectful distance stand Muley's wife, his daughter, with a baby in her arms, and a small barefooted girl, watching worriedly. The men soberly trace marks on the ground with small sticks. A hound dog sniffs at the automobile wheels.}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
-<DIAL>__{Fact of the matter, Muley, after what them dusters done to the land, the tenant system don't work no more. It don't even break even, much less show a profit. One man on a tractor can handle twelve or fourteen of these places. You just pay him a wage and take *all* the crop.}
+<DIAL>__{Fact of the matter, Muley, after what them dusters done to the land, the tenant system don't work no more. It don't even break even, much less show a profit. One man on a tractor can handle twelve or fourteen of these places. You just pay him a wage and take all the crop.}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
-<DIAL>__{But we couldn't *do* on any less'n what our share is now.}
+<DIAL>__{But we couldn't do on any less'n what our share is now.}
 <DIAL_PAR>__{(Looking around)}
 <DIAL>__{The chillun ain't gettin' enough to eat as it is, and they're so ragged we'd be shamed if ever'body else's chillun wasn't the same way.}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
@@ -293,7 +293,7 @@
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL>__{You mean get off my own land?}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
-<DIAL>__{Now don't go blaming me. It ain't *my* fault.}
+<DIAL>__{Now don't go blaming me. It ain't my fault.}
 <CHAR>__{SON} <CHAR_PAR>__{}
 <DIAL>__{Whose fault is it?}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
@@ -305,7 +305,7 @@
 <CHAR>__{SON} <CHAR_PAR>__{}
 <DIAL>__{They got a pres'dent, ain't they? They got somebody that knows what a shotgun's for, ain't they?}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
-<DIAL>__{But it ain't *his* fault, because the *bank* tells him what to do.}
+<DIAL>__{But it ain't his fault, because the bank tells him what to do.}
 <CHAR>__{SON} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
 <DIAL>__{All right. Where's the bank?}
@@ -314,13 +314,13 @@
 <DIAL>__{Tulsa. But what's the use of picking on him? He ain't anything but the manager, and half crazy hisself, trying to keep up with his orders from the east!}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bewildered)}
-<DIAL>__{Then who *do* we shoot?}
+<DIAL>__{Then who do we shoot?}
 <CHAR>__{THE MAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(stepping on the starter)}
-<DIAL>__{Brother, I don't know. If I did I'd tell you. But I just don't know *who's* to blame!}
+<DIAL>__{Brother, I don't know. If I did I'd tell you. But I just don't know who's to blame!}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
-<DIAL>__{Well, I'm right here to tell you, mister, ain't *nobody* going to push me off *my* land! Grampa took up this land seventy years ago. My pa was born here. We was *all* born on it, and some of us got killed on it, and some died on it. And that's what makes it ourn--bein' born on it, and workin' it, and dyin' on it--and not no piece of paper with writin' on it! So just come on and try to push me off!}
+<DIAL>__{Well, I'm right here to tell you, mister, ain't nobody going to push me off my land! Grampa took up this land seventy years ago. My pa was born here. We was all born on it, and some of us got killed on it, and some died on it. And that's what makes it ourn--bein' born on it, and workin' it, and dyin' on it--and not no piece of paper with writin' on it! So just come on and try to push me off!}
 <ACTION>__{The scene dissolves to the BACK ROOM. The sound of the storm is heard again as Tom and Casy watch Muley.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
@@ -345,7 +345,7 @@
 <DIAL_PAR>__{(He lifts his shotgun)}
 <ACTION>__{The TRACTOR continues to lumber along, its driver goggled and black of face where his dust mask doesn't cover. MULEY lifts his shotgun to his shoulder, and aims.}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
-<DIAL>__{I *tol'* you!}
+<DIAL>__{I tol' you!}
 <ACTION>__{The TRACTOR stops. The driver takes off his goggles and dust mask. Like the others he's a country boy. His face is sullen. Muley is lowering his shotgun. There is a surprise in his face as he recognizes the driver.}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL>__{Why, you're Joe Davis's boy!}
@@ -357,10 +357,10 @@
 <CHAR>__{DAVIS} <CHAR_PAR>__{}
 <DIAL>__{For three dollars a day, that's what I'm doin' it for. I got two little kids. I got a wife and my wife's mother. Them people got to eat. Fust and on'y thing I got to think about is my own folks. What happens to other folks is their lookout.}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
-<DIAL>__{But this is *my land*, son. Don't you understand?}
+<DIAL>__{But this is my land, son. Don't you understand?}
 <CHAR>__{DAVIS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(putting his goggles back on)}
-<DIAL>__{*Used* to be your land. B'longs to the comp'ny now.}
+<DIAL>__{Used to be your land. B'longs to the comp'ny now.}
 <ACTION>__{We see THE WOMENFOLKS. A small girl pulls her mother's dress.}
 <CHAR>__{GIRL} <CHAR_PAR>__{}
 <DIAL>__{What's he fixin' to do, ma?}
@@ -419,7 +419,7 @@
 <DIAL>__{Hide out for what? We ain't doin' nothin'.}
 <CHAR>__{MULEY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(terrified)}
-<DIAL>__{You're *trespassin'*! It ain't you lan' no more! An' that's the supr'tendant--with a gun!}
+<DIAL>__{You're trespassin'! It ain't you lan' no more! An' that's the supr'tendant--with a gun!}
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL>__{Come on, Tom. You're on parole.}
 <ACTION>__{A CAR approaches at some distance, the headlights moving up and down as the car rides a dirt road. A PART OF THE COTTON FIELD: Muley leads the way.}
@@ -467,13 +467,13 @@
 <ACTION>__{Noah frowns at the print.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(who has mush on his mouth)}
-<DIAL>__{Wait'll I get to California! Gonna reach up and pick me an orange whenever I want it! Or grapes. That there's somethin' I ain't *never* had enough of! Gonna get me a whole bunch a grapes off a bush and I'm gonna squash 'em all over my face and just let the juice dreen down offen my chin!}
+<DIAL>__{Wait'll I get to California! Gonna reach up and pick me an orange whenever I want it! Or grapes. That there's somethin' I ain't never had enough of! Gonna get me a whole bunch a grapes off a bush and I'm gonna squash 'em all over my face and just let the juice dreen down offen my chin!}
 <CHAR>__{GRANMA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in a feeble bleat)}
 <DIAL>__{Puh-raise the Lawd for vittory!}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(expanding)}
-<DIAL>__{Maybe I get me a whole *washtub* fulla them grapes and jest sit in 'em and scrooge around till they was gone!}
+<DIAL>__{Maybe I get me a whole washtub fulla them grapes and jest sit in 'em and scrooge around till they was gone!}
 <DIAL_PAR>__{(Sighing)}
 <DIAL>__{I shore would like to do that!}
 <ACTION>__{RUTHIE AND WINFIELD are snickering. Ruthie has smeared her face with mush. She pulls Winfield around to see.}
@@ -485,7 +485,7 @@
 <DIAL_PAR>__{(softly--her eyes closed)}
 <DIAL>__{Thank God. Oh thank God.}
 <DIAL_PAR>__{(In sudden terror as he approaches)}
-<DIAL>__{Tommy, you didn't *bust* out, didya? You ain't got to hide, have you?}
+<DIAL>__{Tommy, you didn't bust out, didya? You ain't got to hide, have you?}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{No, Ma. I'm paroled. I got my papers.}
 <ACTION>__{With a sigh and a smile, and her eyes full of wonder, she feels his arm. Her fingers touch his cheek, as if she were blind. Swelling with emotion, Tom bites his lip to control himself.}
@@ -497,7 +497,7 @@
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{Muley tol' me what happened, Ma. Are we goin' to California true?}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{We *got* to, Tommy. But that's gonna be awright. I seen the han'bills, about how much work they is, an' high wages, too. But I gotta fin' out somepin' else first, Tommy.}
+<DIAL>__{We got to, Tommy. But that's gonna be awright. I seen the han'bills, about how much work they is, an' high wages, too. But I gotta fin' out somepin' else first, Tommy.}
 <DIAL_PAR>__{(Breathlessly)}
 <DIAL>__{Did they hurt you, son? Did they hurt you an' make you mean-mad?}
 <CHAR>__{TOM} <CHAR_PAR>__{}
@@ -618,7 +618,7 @@
 <DIAL>__{Sol' things, chopped cotton--even Grampa. Got us about two hunnerd dollars all tol'. Shucked out seventy- five for this truck, but we still got nearly a hunnerd and fifty to set out on. I figger we oughta be able to make it on that.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(dryly)}
-<DIAL>__{Easy. After all, they ain't but about *twelve* of us, is they?}
+<DIAL>__{Easy. After all, they ain't but about twelve of us, is they?}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(proudly closing the hood)}
 <DIAL>__{She'll prob'ly ride like a bull calf-- but she'll ride!}
@@ -678,11 +678,11 @@
 <DIAL_PAR>__{(dully, sullenly)}
 <DIAL>__{Ain't nothin' the matter. I just ain't a-goin', that's all.}
 <CHAR>__{PA} <CHAR_PAR>__{}
-<DIAL>__{What you mean you ain't goin'? We *got* to go. We got no place to stay.}
+<DIAL>__{What you mean you ain't goin'? We got to go. We got no place to stay.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL>__{I ain't talkin' about you, I'm talkin' about me. And I'm a-stayin'. I give her a good goin' over all night long-- and I'm a-stayin'.}
 <CHAR>__{PA} <CHAR_PAR>__{}
-<DIAL>__{But you can't *do* that, Grampa. This here land is goin' under the tractor. We *all* got to git out.}
+<DIAL>__{But you can't do that, Grampa. This here land is goin' under the tractor. We all got to git out.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL>__{All but me! I'm a-stayin'.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
@@ -694,7 +694,7 @@
 <DIAL_PAR>__{(getting out of the truck)}
 <DIAL>__{But who'd cook for you? How'd you live?}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
-<DIAL>__{Muley's livin', ain't he? And I'm *twicet* the man Muley is!}
+<DIAL>__{Muley's livin', ain't he? And I'm twicet the man Muley is!}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(on his knee)}
 <DIAL>__{Now listen, Grampa. Listen to me, just a minute.}
@@ -704,7 +704,7 @@
 <DIAL_PAR>__{(Angrily)}
 <DIAL>__{And I don't give a hoot in a hollow if they's oranges and grapes crowdin' a fella outa bed even, I ain't a- goin' to California!}
 <DIAL_PAR>__{(Picking up some dirt)}
-<DIAL>__{This here's my country. I b'long *here*.}
+<DIAL>__{This here's my country. I b'long here.}
 <DIAL_PAR>__{(Looking at the dirt)}
 <DIAL>__{It ain't no good--}
 <DIAL_PAR>__{(after a pause)}
@@ -716,15 +716,15 @@
 <DIAL>__{Grampa, his eyes hurt and hunted and frightened and bewildered, scratches in the dirt.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(loudly)}
-<DIAL>__{And can't nobody *make* me go, either! Ain't nobody here *man* enough to make me! I'm a-stayin'.}
+<DIAL>__{And can't nobody make me go, either! Ain't nobody here man enough to make me! I'm a-stayin'.}
 <ACTION>__{All watch him worriedly.}
 <TRANS>__{INSIDE THE CABIN:}
 <CHAR>__{TOM} <CHAR_PAR>__{}
-<DIAL>__{Either we got to tie him up and *throw* him on the truck, or somepin. He can't stay here.}
+<DIAL>__{Either we got to tie him up and throw him on the truck, or somepin. He can't stay here.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL>__{Can't tie him. Either we'll hurt him or he'll git so mad he'll hurt his self.}
 <DIAL_PAR>__{(After thought)}
-<DIAL>__{Reckon we could git him *drunk*?}
+<DIAL>__{Reckon we could git him drunk?}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{Ain't no whisky, is they?}
 <CHAR>__{MA} <CHAR_PAR>__{}
@@ -761,7 +761,7 @@
 <ACTION>__{He drinks again. The scene dissolves to the TRUCK. It is just after dawn. Pa, Tom, and Noah are lifting Grampa into the truck. He mumbles angrily, but is unconscious of what is happening.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(fretfully)}
-<DIAL>__{Easy, *easy!* You wanta bust his head wide open? Pull his arms, John.}
+<DIAL>__{Easy, easy! You wanta bust his head wide open? Pull his arms, John.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(mumbling)}
 <DIAL>__{Ain't a-goin', thas all...}
@@ -803,7 +803,7 @@
 <DIAL>__{Ain't you gonna look back, Ma?--give the ol' place a last look?}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(coldly shaking her head)}
-<DIAL>__{We're goin' to California, ain't we? Awright then, let's *go* to California.}
+<DIAL>__{We're goin' to California, ain't we? Awright then, let's go to California.}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sobering)}
 <DIAL>__{That don't sound like you, Ma. You never was like that before.}
@@ -811,7 +811,7 @@
 <DIAL>__{I never had my house pushed over before. I never had my fambly stuck out on the road. I never had to lose... ever'thing I had in life.}
 <ACTION>__{She continues to stare straight ahead. The TRUCK is lumbering up onto a paved highway. The scene dissolves to a MONTAGE: Almost filling the screen is the shield marker of the U.S. Highway 66. Superimposed on it is a montage of jalopies, steaming and rattling and piled high with goods and people, as they pull onto the highway, to indicate as much as possible that this departure of the Joad family is but part of a mass movement of jalopies and families. The signs of towns on U.S. Highway 66 flash past-- CHECOTAH, OKLAHOMA CITY, BETHANY. This dissolves to a HIGHWAY. It is late afternoon. The Joad truck pulls of the paved highway and stops. The men leap down quickly from the truck, all but Pa, who lifts Grampa in his arms and then lowers him slowly, gently into Tom's arms. In TOM'S arms Grampa is whimpering feebly.}
 <CHAR>__{GRAMPA} <CHAR_PAR>__{}
-<DIAL>__{*Ain't* a-goin'... ain't a-goin'...}
+<DIAL>__{Ain't a-goin'... ain't a-goin'...}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{'S all right, Grampa. You just kind a tar'd, that's all. Somebody fix a pallet.}
 <ACTION>__{With a quilt pulled from the truck Ma runs ahead as Tom carries Grampa toward a clump of woods back off the highway. The others get down soberly from the truck, all but Granma, who is dozing. Cars pass-a fast car passing a jalopy. Tom is letting the old man down gently as Ma adjusts the quilt on the ground. Death is in Grampa's eyes as he looks up dimly at them.}
@@ -859,7 +859,7 @@
 <DIAL>__{Forget it, Ma. I got her figgered out. Long as I keep outa trouble, ain't nobody gonna say a thing. All I gotta do is keep my nose clean.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(worriedly)}
-<DIAL>__{Maybe they got crimes in California we don't know about. Crimes we don't even know *is* crimes.}
+<DIAL>__{Maybe they got crimes in California we don't know about. Crimes we don't even know is crimes.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(laughing)}
 <DIAL>__{Forget it, Ma. Jus' think about the nice things out there. Think about them grapes and oranges--an' ever'body got work--}
@@ -869,7 +869,7 @@
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{First gas station, Granma--}
 <CHAR>__{GRANMA} <CHAR_PAR>__{}
-<DIAL>__{I gotta git *out*, I tell ya! I gotta git *out*!}
+<DIAL>__{I gotta git out, I tell ya! I gotta git out!}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(foot on brakes)}
 <DIAL>__{Awright! Awright!}
@@ -910,7 +910,7 @@
 <CHAR>__{ROSASHARN} <CHAR_PAR>__{}
 <DIAL>__{Sometimes I'm all jumpy inside.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{Well, can't nobody get through nine *months* without sorrow.}
+<DIAL>__{Well, can't nobody get through nine months without sorrow.}
 <CHAR>__{ROSASHARN} <CHAR_PAR>__{}
 <DIAL>__{But will it--hurt the baby?}
 <CHAR>__{MA} <CHAR_PAR>__{}
@@ -965,7 +965,7 @@
 <DIAL>__{What's so funny about it?}
 <CHAR>__{SECOND MAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sniggering again)}
-<DIAL>__{What's so funny about it?  I just *been* out there! I been an' *seen* it! An' I'm goin' *back* to starve-- because I ruther starve all over at once!}
+<DIAL>__{What's so funny about it?  I just been out there! I been an' seen it! An' I'm goin' back to starve-- because I ruther starve all over at once!}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
 <DIAL>__{Whatta you think you're talkin' about? I got a han'bill here says good wages, an' I seen it in the papers they need pickers!}
@@ -983,7 +983,7 @@
 <DIAL>__{How many you'all got them han'bills? Come on, how many?}
 <ACTION>__{At least three-quarters of the men worriedly reach into their pockets and draw out worn and folded handbills.}
 <CHAR>__{PA} <CHAR_PAR>__{}
-<DIAL>__{But what does *that* prove?}
+<DIAL>__{But what does that prove?}
 <CHAR>__{SECOND MAN} <CHAR_PAR>__{}
 <DIAL>__{Look at 'em! Same yella han'bill-- 800 pickers wanted. Awright, this man wants 800 men. So he prints up 5,000 a them han'bills an' maybe 20,000 people sees 'em. An' maybe two-three thousan' starts movin, wes' account a this han'bill. Two- three thousan' folks that's crazy with worry headin' out for 800 jobs! Does that make sense?}
 <ACTION>__{There is a long worried silence. The proprietor leans forward angrily.}
@@ -1106,7 +1106,7 @@
 <DIAL>__{There, them stripy ones.}
 <ACTION>__{Mae looks from the candy to the children. They have stopped breathing, their eyes on the candy.}
 <CHAR>__{MAE} <CHAR_PAR>__{}
-<DIAL>__{Oh, them? Well, no--them's *two* for a penny.}
+<DIAL>__{Oh, them? Well, no--them's two for a penny.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL>__{Well, give me two then, ma'am.}
 <ACTION>__{He places the penny carefully on the counter and Mae holds the sticks of candy out to the children. They look up at Pa.}
@@ -1175,7 +1175,7 @@
 <DIAL>__{There she is, folks--the land a milk an' honey--California!}
 <CHAR>__{CONNIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sullenly)}
-<DIAL>__{Well, if *that's* what we come out here for...}
+<DIAL>__{Well, if that's what we come out here for...}
 <ACTION>__{They look at each other in disappointment.}
 <CHAR>__{ROSASHARN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(timidly, to Connie)}
@@ -1205,9 +1205,9 @@
 <DIAL>__{Like to jus' stay here myself. Like to lay here forever. Never get hungry an' never get sad. Lay in the water all life long, lazy as a brood sow in the mud.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(looking up at the mountains)}
-<DIAL>__{Never seen such tough mountains. This here's a murder country, just the *bones* of a country.}
+<DIAL>__{Never seen such tough mountains. This here's a murder country, just the bones of a country.}
 <DIAL_PAR>__{(Thoughtfully)}
-<DIAL>__{Wonder if we'll ever get in a place where folks can live 'thout fightin' hard scrabble an' rock. Sometimes you get to thinkin' they *ain't* no such country.}
+<DIAL>__{Wonder if we'll ever get in a place where folks can live 'thout fightin' hard scrabble an' rock. Sometimes you get to thinkin' they ain't no such country.}
 <ACTION>__{They look up as a man and his grown son stand on the bank.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
 <DIAL>__{How's the swimmin'?}
@@ -1256,7 +1256,7 @@
 <DIAL>__{John, you never was a fella to say much, but I'll be goldanged if you opened your mouth twicet since we lef' home. What you think about this?}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(scowling)}
-<DIAL>__{I don't think *nothin'* about it. We're a-goin' there, ain't we?  When we get there, we'll get there. When we get a job, we'll work, an' when we don't get a job we'll set on our behin's. That's all they is to it, ain't it?}
+<DIAL>__{I don't think nothin' about it. We're a-goin' there, ain't we?  When we get there, we'll get there. When we get a job, we'll work, an' when we don't get a job we'll set on our behin's. That's all they is to it, ain't it?}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(laughing)}
 <DIAL>__{Uncle John don't talk much but when he does he shore talks sense.}
@@ -1444,7 +1444,7 @@
 <DIAL>__{She got to lay her head down in California after all.}
 <ACTION>__{The scene fades out. A TOWN STREET, by day, fades in. Down a town or small city business street, with quite a bit of traffic, comes the Joad truck being pushed by the Joad men. At the wheel, aiming at a corner gas station, is Rosasharn, frightened and uncertain, with Ma beside her on the front seat. In the back Ruthie and Winfield are delighted with this new form of locomotion. Crossing the street, a policeman falls into step with Tom.}
 <CHAR>__{POLICEMAN} <CHAR_PAR>__{}
-<DIAL>__{How far you figger you gonna get *this* way?}
+<DIAL>__{How far you figger you gonna get this way?}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{Right here. We give out a gas.}
 <ACTION>__{It is a two-pump station and one of the pumps has a car, with the attendant servicing it. The Joad truck stops by the other pump and Tom, wiping his face with his sleeve, grins and address himself to the policeman. The others stand listening solemnly in the background.}
@@ -1472,12 +1472,12 @@
 <DIAL>__{Okay, ma'am, let's don't go into it. I already met about a hundred firs' cousins an' it mus' be five hundred secon'. But this is what I got to tell you, don't try to park in town tonight. Keep on out to that camp. If we catch you in town after dark we got to lock you up. Don't forget.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(worriedly)}
-<DIAL>__{But what we gonna *do*?}
+<DIAL>__{But what we gonna do?}
 <CHAR>__{POLICEMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(about to leave)}
 <DIAL>__{Pop, that just ain't up to me.}
 <DIAL_PAR>__{(Grimly he points to the handbill)}
-<DIAL>__{But I don't min' tellin' you, the guy they *ought* to lock up is the guy that sent out *them* things.}
+<DIAL>__{But I don't min' tellin' you, the guy they ought to lock up is the guy that sent out them things.}
 <ACTION>__{He strolls away, the Joads looking concernedly after him, just as the gas station attendant comes briskly to them after disposing of the other car.}
 <CHAR>__{ATTENDANT} <CHAR_PAR>__{}
 <DIAL_PAR>__{(brightly)}
@@ -1521,7 +1521,7 @@
 <DIAL>__{We et good.}
 <DIAL_PAR>__{(Then he breaks and runs)}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{Well, it's a good thing *some* a you ain't hungry, because they ain't enough to go all the way roun'.}
+<DIAL>__{Well, it's a good thing some a you ain't hungry, because they ain't enough to go all the way roun'.}
 <CHAR>__{GIRL} <CHAR_PAR>__{}
 <DIAL>__{Aw, he was braggin'. Know what he done? Las' night, come out an' say they got chicken to eat. Well, sir, I looked in whilst they was a-eatin' an' it was fried dough jus' like ever'body else.}
 <ACTION>__{Pa and John enter.}
@@ -1634,7 +1634,7 @@
 <DIAL>__{You fellas don't wanta lissen to troublemakers. You better pack up an' come on to Tulare County.}
 <ACTION>__{The men say nothing.}
 <CHAR>__{DEPUTY} <CHAR_PAR>__{}
-<DIAL>__{Might be a good idea to do what he says. Too many of you Okies aroun' here already. Folks beginnin' to figger it ain't maybe *safe*. Might start a epidemic or sump'n.}
+<DIAL>__{Might be a good idea to do what he says. Too many of you Okies aroun' here already. Folks beginnin' to figger it ain't maybe safe. Might start a epidemic or sump'n.}
 <DIAL_PAR>__{(After a pause)}
 <DIAL>__{Wouldn't like a bunch a guys down here with pick handles tonight, would you?}
 <ACTION>__{As the agent gets into the coupe FLOYD'S thumbs hook over his belt and he looks off, away. TOM'S look away is an answer. His thumbs also hook over his belt.}
@@ -1660,7 +1660,7 @@
 <DIAL>__{How 'bout you?}
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(grinning)}
-<DIAL>__{*Some*body got to take the blame. They just *got* to hang it on somebody, you know.}
+<DIAL>__{Somebody got to take the blame. They just got to hang it on somebody, you know.}
 <DIAL_PAR>__{(Shrugging)}
 <DIAL>__{An' I ain't doin' nothin' but set around.}
 <CHAR>__{AL} <CHAR_PAR>__{}
@@ -1706,12 +1706,12 @@
 <ACTION>__{The car starts. CASY and two deputies beside him are revealed in the back seat. Casy sits proudly, head up, eyes front. On his lips is a faint smile; on his face, a curious look of conquest.}
 <CHAR>__{DEPUTY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angry at the whole business)}
-<DIAL>__{But what you gonna do? Must be *thousands* of 'em around here, sore and hungry and living in them dumps. What you gonna do about 'em?}
+<DIAL>__{But what you gonna do? Must be thousands of 'em around here, sore and hungry and living in them dumps. What you gonna do about 'em?}
 <CHAR>__{SECOND DEPUTY} <CHAR_PAR>__{}
-<DIAL>__{You gotta hold 'em down. Hold 'em down or they'll take over the whole country. That's all you *can* do.}
+<DIAL>__{You gotta hold 'em down. Hold 'em down or they'll take over the whole country. That's all you can do.}
 <CHAR>__{DEPUTY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(grimly)}
-<DIAL>__{Well, they ain't gonna take over *my* country. I been livin' here too long for *that*. Maybe some a the boys better drop around tonight and give 'em something to think about.}
+<DIAL>__{Well, they ain't gonna take over my country. I been livin' here too long for that. Maybe some a the boys better drop around tonight and give 'em something to think about.}
 <ACTION>__{Casy sits with eyes front. AT THE WILLOWS, screened by trees or brush, Tom looks off at the car taking Casy away. Starting at a sound, he withdraws into the brush as the scene dissolves. IN FRONT OF THE JOAD TENT, at night, Ma stands facing Pa and Al. Rosasharn lies on a pallet, her face in her arms, while Ruthie and Winfield look on, wide-eyed at the family quarrel.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Ma)}
@@ -1719,7 +1719,7 @@
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL>__{Sure! I was just aimin' to meet up with a couple girls I know.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{You don't know *no* girls around here. You're lyin', *You're runnin' away*!}
+<DIAL>__{You don't know no girls around here. You're lyin', You're runnin' away!}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(a short flash of}
 <DIAL>__{momentary but ill}
@@ -1727,17 +1727,17 @@
 <DIAL>__{Cut it out, Ma, or I'll--}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly, as she picks up jack-handle)}
-<DIAL>__{You'll *what*?... Come on, Pa. Come on an' whup me. Jus' try it.}
+<DIAL>__{You'll what?... Come on, Pa. Come on an' whup me. Jus' try it.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(solemnly)}
 <DIAL>__{Now don't get sassy, Ma.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{Al ain't a-goin' away, an' you gonna *tell* him he ain't a-goin' away.}
+<DIAL>__{Al ain't a-goin' away, an' you gonna tell him he ain't a-goin' away.}
 <DIAL_PAR>__{(Hefting the jack- handle)}
 <DIAL>__{An' if you think diff'unt, you gotta whup me first. So some on.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(helplessly)}
-<DIAL>__{I never *seen* her so sassy.}
+<DIAL>__{I never seen her so sassy.}
 <DIAL_PAR>__{(With a touch of bewildered pride)}
 <DIAL>__{An' she ain't so young, neither!}
 <CHAR>__{AL} <CHAR_PAR>__{}
@@ -1745,19 +1745,19 @@
 <DIAL>__{I'd come back--}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(eyes on Pa)}
-<DIAL>__{But ef you *do* whup me, I swear you better not ever go to sleep again, because the minute you go to sleep, or you're settin' down, or your back's turned, I'm gonna knock you belly-up with a bucket.}
+<DIAL>__{But ef you do whup me, I swear you better not ever go to sleep again, because the minute you go to sleep, or you're settin' down, or your back's turned, I'm gonna knock you belly-up with a bucket.}
 <ACTION>__{They stand staring at each other in silence. At the EDGE OF HOOVERVILLE, Tom is heading for the Joad tent warily, glancing around constantly, but not running, for that would draw attention to him. IN FRONT OF THE JOAD TENT again:}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(helplessly)}
 <DIAL>__{Jus' sassy, that's all.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
-<DIAL>__{Sassy my foot! I'm jus' sick and tar'd a my folks tryin' to bust up. All we got lef' in the *worl'* is the fambly--an' right down at bottom that's all we *got* to have! Ef some of us dies, we can't he'p that--but ain't nobody else runnin' away!}
+<DIAL>__{Sassy my foot! I'm jus' sick and tar'd a my folks tryin' to bust up. All we got lef' in the worl' is the fambly--an' right down at bottom that's all we got to have! Ef some of us dies, we can't he'p that--but ain't nobody else runnin' away!}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL>__{But it ain't runnin' away, Ma. All I wanta do is go away with another fella an' look aroun' for work by ourself--}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(blazing)}
-<DIAL>__{Well, you ain't a-goin'! Ain't *nobody* else a-goin'! We *got* here an' we gonna *stay* here, together! As long as we got the fambly unbroke I ain't scared, but it's a long bitter road we got ahead of us--}
+<DIAL>__{Well, you ain't a-goin'! Ain't nobody else a-goin'! We got here an' we gonna stay here, together! As long as we got the fambly unbroke I ain't scared, but it's a long bitter road we got ahead of us--}
 <DIAL_PAR>__{(squaring off)}
 <DIAL>__{--an' I'm here to tell ya ef anybody else tries to bust us up anymore I'm a-goin' cat wild with this here piece a bar-arn!}
 <ACTION>__{As she gets ready for whatever... IN THE SHADOWS, twenty feet away from the tent, Tom whistles softly.}
@@ -1811,7 +1811,7 @@
 <DIAL>__{Just in case. Sit up back an' if anybody tries to climb up--let 'im have it.}
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(from truck)}
-<DIAL>__{I ain't got nothin' in *my* han'.}
+<DIAL>__{I ain't got nothin' in my han'.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Al)}
 <DIAL>__{Give 'im a fryin' pan.}
@@ -1829,13 +1829,13 @@
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{Tom--you tol' me--you promised you wasn't like that. You promised me.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
-<DIAL>__{I know, Ma. I'm a tryin'. If it was the law they was workin' with, we could take it. But it *ain't* the law. They're workin' away at our spirits. They're tryin' to make us cringe an' crawl. They're workin' on our decency.}
+<DIAL>__{I know, Ma. I'm a tryin'. If it was the law they was workin' with, we could take it. But it ain't the law. They're workin' away at our spirits. They're tryin' to make us cringe an' crawl. They're workin' on our decency.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{You promised, Tommy.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{I'm a-tryin', Ma. Honest I am.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{You gotta keep clear, Tom. The fambly's breakin' up. You *got* to keep clear.}
+<DIAL>__{You gotta keep clear, Tom. The fambly's breakin' up. You got to keep clear.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{What's that--detour?}
 <ACTION>__{As he slows down the truck, we see that half of the ROAD is blocked with boards and red lanterns. a group of men swarm around the Joad truck as it stops. A leader leans in Tom's window.}
@@ -1869,7 +1869,7 @@
 <DIAL_PAR>__{(shaking his head)}
 <DIAL>__{It sure is hell jus' tryin' to get enough to eat.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
-<DIAL>__{Fella tells me they's three hunerd thousan' aroun' here like us, a- scrabblin' for work an' livin' like hogs. Can't figger what it is, but *sump'n's* wrong.}
+<DIAL>__{Fella tells me they's three hunerd thousan' aroun' here like us, a- scrabblin' for work an' livin' like hogs. Can't figger what it is, but sump'n's wrong.}
 <ACTION>__{A BUICK ROADMASTER which has been speeding toward them stops suddenly. Driving it is a husky man, named Spencer, whose manner is amiable and disarming.}
 <CHAR>__{SPENCER} <CHAR_PAR>__{}
 <DIAL>__{Morning.}
@@ -1897,7 +1897,7 @@
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{You know, I jus' can't remember when I felt so good before!}
 <CHAR>__{AL} <CHAR_PAR>__{}
-<DIAL>__{Know what I'm a-gonna do? I'm a-gonna save up an' go in town an' get me a job in a garage. Live in a room an' eat in restaurants. Go to the movin' pitchers *ever'* night. Cowboy pitchers.}
+<DIAL>__{Know what I'm a-gonna do? I'm a-gonna save up an' go in town an' get me a job in a garage. Live in a room an' eat in restaurants. Go to the movin' pitchers ever' night. Cowboy pitchers.}
 <ACTION>__{The scene dissolves to the ENTRANCE OF THE HOOPER RANCH in daylight. A gravel road leads from the paved highway to the big wire gates, which are enclosed. Along the side of the paved highway are parked a dozen jalopies, the migrants sitting soberly in them. Fifty or sixty other migrants line the gravel road and the junction with the paved highway. Five jalopies are in line waiting to enter the gates. And the scene is overwhelmingly policed. There must be ten motorcycle cops around. Six are dismounted and strolling to keep order among the migrants along the road. Three, their motorcycles roaring, flank the line of five jalopies. As the Joad truck drives up, we see the FRONT SEAT. Tom, Al, and Ma are beholding the scene with bewilderment.}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL>__{What is it, a wreck?}
@@ -2107,14 +2107,14 @@
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{I'll tell 'em. But I don't know how. Never seen so many guys with guns. Wouldn't even let us talk today.}
 <CHAR>__{CASY} <CHAR_PAR>__{}
-<DIAL>__{Try an' tell 'em, Tom. They'll get two an' a half, jus' the minute we're gone. An' you know what that is? That's one ton a peaches picked an' carried for a dollar. That way you can't even buy food enough to keep you alive! Tell 'em to come out with us, Tom! Them peaches is *ripe*. Two days out an' they'll pay *all* of us five!}
+<DIAL>__{Try an' tell 'em, Tom. They'll get two an' a half, jus' the minute we're gone. An' you know what that is? That's one ton a peaches picked an' carried for a dollar. That way you can't even buy food enough to keep you alive! Tell 'em to come out with us, Tom! Them peaches is ripe. Two days out an' they'll pay all of us five!}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{They won't. They're a-gettin' five an' they don't care about nothin' else.}
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL>__{But jus' the minute they ain't strike- breakin' they won't get no five!}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bitterly)}
-<DIAL>__{An' the nex' thing you know you'll be out, because they got it all figgered down to a T--until the harvest is in you're a *migrant* worker--afterwards, just a bum.}
+<DIAL>__{An' the nex' thing you know you'll be out, because they got it all figgered down to a T--until the harvest is in you're a migrant worker--afterwards, just a bum.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{Five they're a-gettin' now, an' that's all they're int'rested in. I know exackly what Pa'd say. He'd jus' say it wasn't none a his business.}
 <CHAR>__{CASY} <CHAR_PAR>__{}
@@ -2124,9 +2124,9 @@
 <DIAL>__{We was outa food. Tonight we had meat. Not much, but we had it. Think Pa's gonna give up his meat on account a other fellas? An' Rosasharn needs milk. Think Ma's gonna starve that baby jus' cause a bunch a fellas is yellin' outside a gate?}
 <CHAR>__{CASY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sadly)}
-<DIAL>__{Got to learn, like I'm a-learnin'. Don't know it right yet myself, but I'm tryin' to fin' out. That's why I can't ever be a preacher again. Preacher got to *know*.}
+<DIAL>__{Got to learn, like I'm a-learnin'. Don't know it right yet myself, but I'm tryin' to fin' out. That's why I can't ever be a preacher again. Preacher got to know.}
 <DIAL_PAR>__{(Shaking his head)}
-<DIAL>__{I don't. I got to *ask*.}
+<DIAL>__{I don't. I got to ask.}
 <CHAR>__{JOE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sticking his head in tent)}
 <DIAL>__{I don't like it.}
@@ -2188,9 +2188,9 @@
 <ACTION>__{The light flashes on the man's face.}
 <CHAR>__{THIRD DEPUTY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(awed)}
-<DIAL>__{Boy, he's *good* and dead! You see that fella that done it?}
+<DIAL>__{Boy, he's good and dead! You see that fella that done it?}
 <CHAR>__{SECOND DEPUTY} <CHAR_PAR>__{}
-<DIAL>__{I ain't sure--but I caught him one across the face, and believe me, I give him a trade-mark *he* ain't gonna be able to shake off easy!}
+<DIAL>__{I ain't sure--but I caught him one across the face, and believe me, I give him a trade-mark he ain't gonna be able to shake off easy!}
 <ACTION>__{TOM is seen crashing through the bushes, his face bloody. The scene fades out. THE EXTERIOR OF HOUSE 63 fades in. It is day. Ma comes down the street with a bundle under her arm and enters the house. INSIDE HOUSE 63, Rosasharn sits by the window as Ma enters.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{Anybody ask anything?}
@@ -2232,7 +2232,7 @@
 <DIAL_PAR>__{(Thoughtfully)}
 <DIAL>__{They was the time when we was on the lan'. They was a bound'ry to us then. Ol' folks died off, an' little fellas come, an' we was always one thing-- we was the fambly--kinda whole an' clear. But now we ain't clear no more. They ain't nothin' keeps us clear. Al--he's a-hankerin' an' a- jibbitin' to go off on his own. An' Uncle John is just a-draggin' along. Pa's lost his place--he ain't the head no more. We're crackin' up, Tom. They ain't no fambly now. Rosasharn--}
 <DIAL_PAR>__{(a glance at the girl)}
-<DIAL>__{--she gonna have her baby, but *it* ain't gonna have no fambly. I been tryin' to keep her goin' but--Winfiel'-- what's he gonna be, this-a-way? Growin' up wild, an' Ruthie, too-- like animals. Got nothin' to trus'. Don't go Tom. Stay an' help. Help me.}
+<DIAL>__{--she gonna have her baby, but it ain't gonna have no fambly. I been tryin' to keep her goin' but--Winfiel'-- what's he gonna be, this-a-way? Growin' up wild, an' Ruthie, too-- like animals. Got nothin' to trus'. Don't go Tom. Stay an' help. Help me.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(tiredly)}
 <DIAL>__{Okay, Ma. I shouldn't, though. I know I shouldn't. But okay.}
@@ -2271,7 +2271,7 @@
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{It's jus' till we get some distance. Then you can come out.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
-<DIAL>__{I'd hate to get *trapped* in here.}
+<DIAL>__{I'd hate to get trapped in here.}
 <CHAR>__{GUARD'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{What's goin' on here?}
 <ACTION>__{Tom disappears. Ma turns, her back to the truck. The guard plays his flashlight on the Joads, who stand watching him ominously.}
@@ -2384,7 +2384,7 @@
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
 <DIAL>__{Toilet and showers and washtubs.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{You mean you got *washtubs?* An' runnin' water?}
+<DIAL>__{You mean you got washtubs? An' runnin' water?}
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
 <DIAL>__{Yes, ma'am.}
 <DIAL_PAR>__{(To Al)}
@@ -2426,7 +2426,7 @@
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL>__{You don't look so good.}
 <CHAR>__{JOHN} <CHAR_PAR>__{}
-<DIAL>__{I *ain't* so good, but--I'm a-comin'.}
+<DIAL>__{I ain't so good, but--I'm a-comin'.}
 <ACTION>__{INSIDE THE CARETAKER'S SHACK:}
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
 <DIAL>__{Camp site costs a dollar a week, but you can work it out, carrying garbage, keeping the camp clean--stuff like that.}
@@ -2461,7 +2461,7 @@
 <DIAL>__{Why ain't they more like it?}
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shortly)}
-<DIAL>__{*You* find out, I can't.}
+<DIAL>__{You find out, I can't.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL>__{Anything like work aroun' here?}
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
@@ -2509,7 +2509,7 @@
 <DIAL>__{What's these?}
 <CHAR>__{RUTHIE'S VOICE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(uncertainly)}
-<DIAL>__{Well, I reckon you *stan'* in them little rooms--an' water come down outa that there little jigger up there--take a bath!}
+<DIAL>__{Well, I reckon you stan' in them little rooms--an' water come down outa that there little jigger up there--take a bath!}
 <ACTION>__{Another silence. Then:}
 <CHAR>__{WINFIELD'S VOICE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(excitedly)}
@@ -2547,7 +2547,7 @@
 <CHAR>__{RUTHIE} <CHAR_PAR>__{}
 <DIAL>__{I won't--}
 <DIAL_PAR>__{(craftily)}
-<DIAL>__{--if you won't tell what *I* done!}
+<DIAL>__{--if you won't tell what I done!}
 <ACTION>__{He nods quickly. Then Ruthie begins to walk away with what she fancies is an innocent, nonchalant stroll, yawning casually. Sniffling a little, Winfield mimics her, a very innocent walk and yawn indeed. The scene dissolves to a DITCH. Alongside the ditch are some lengths of concrete pipe. Tom and the two Wallaces are in the ditch, Tom and Tim picking, Wilkie shoveling.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(exulting)}
@@ -2588,10 +2588,10 @@
 <DIAL>__{Like last night. Lissen. "Citizens, angered at red agitators, burn another squatters' camp, warn agitators to get out of the county."}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sick of the expression)}
-<DIAL>__{Listen. What *is* these reds? Ever'time you turn aroun' somebody sayin' somebody else's a red. What is these reds, anyway?}
+<DIAL>__{Listen. What is these reds? Ever'time you turn aroun' somebody sayin' somebody else's a red. What is these reds, anyway?}
 <CHAR>__{WILKIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(chuckling)}
-<DIAL>__{Well, I tell you. They was a fella up the country named King--got about 30,000 acres an' a cannery an' a winery--an' he's all a time talkin' about reds. Drivin' the country to ruin, he says. Got to git rid of 'em, he says. Well, they was a young fella jus' come out an' he was listenin one day. He kinda scratched his head an' he says, "Mr. King, what *is* these reds you all a time talkin' about?" Well, sir, Mr. King says, "Young man, a red is any fella that wants thirty cents a hour when I'm payin' twenty-five."}
+<DIAL>__{Well, I tell you. They was a fella up the country named King--got about 30,000 acres an' a cannery an' a winery--an' he's all a time talkin' about reds. Drivin' the country to ruin, he says. Got to git rid of 'em, he says. Well, they was a young fella jus' come out an' he was listenin one day. He kinda scratched his head an' he says, "Mr. King, what is these reds you all a time talkin' about?" Well, sir, Mr. King says, "Young man, a red is any fella that wants thirty cents a hour when I'm payin' twenty-five."}
 <CHAR>__{THOMAS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(fretfully)}
 <DIAL>__{I ain't talkin' about that one way or the other. All I'm saying is that there's going to be a fight in the camp Saturday night. And there's going to be deputies ready to go in.}
@@ -2635,7 +2635,7 @@
 <DIAL>__{Why, honey, it makes folks happy to see a girl that way--makes folks sort of giggly an' happy.}
 <CHAR>__{ROSASHARN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(miserably)}
-<DIAL>__{I can't he'p it, Ma. It don't make *me* giggly an' happy.}
+<DIAL>__{I can't he'p it, Ma. It don't make me giggly an' happy.}
 <ACTION>__{Drying her hands, Ma sits beside Rosasharn and takes her in her arms.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(tenderly)}
@@ -2759,7 +2759,7 @@
 <DIAL>__{She's gettin' prettier, Ma.}
 <CHAR>__{MA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(as Rosasharn hides her face)}
-<DIAL>__{Girl with a baby *always* gets prettier.}
+<DIAL>__{Girl with a baby always gets prettier.}
 <ACTION>__{The music starts again, once more the dancers move onto the dance floor. The three men exchange a glance and step casually to the edge of the dancing space, one in the lead. They survey the scene, but for the moment make no further move. The atmosphere is tense.}
 <CHAR>__{TOM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
@@ -2769,7 +2769,7 @@
 <DIAL_PAR>__{the three men)}
 <ACTION>__{AL, taking the blonde girl's hand, steps onto the dance floor. Encircling her waist, they begin to dance. They are a smooth, rhythmic couple who move as one being.}
 <CHAR>__{AL} <CHAR_PAR>__{}
-<DIAL>__{Well, you said anybody can waltz... How'm *I* doin'?}
+<DIAL>__{Well, you said anybody can waltz... How'm I doin'?}
 <CHAR>__{BLONDE GIRL} <CHAR_PAR>__{}
 <DIAL>__{Don't hold me so tight.}
 <CHAR>__{AL} <CHAR_PAR>__{}
@@ -2777,10 +2777,10 @@
 <DIAL>__{Why, I ain't hardly touchin' you!}
 <CHAR>__{BLONDE GIRL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(squirming)}
-<DIAL>__{You're *ticklin' me!*}
+<DIAL>__{You're ticklin' me!}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(grabbing her still closer)}
-<DIAL>__{That comes from not holdin' you tight *enough.*}
+<DIAL>__{That comes from not holdin' you tight enough.}
 <CHAR>__{BLONDE GIRL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(complaining but loving it)}
 <DIAL>__{Now I can't breathe.}
@@ -2807,7 +2807,7 @@
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
 <DIAL>__{We don't need a warrant if it's a riot.}
 <CHAR>__{CARETAKER} <CHAR_PAR>__{}
-<DIAL>__{Well, I don't know what you gonna do about it, because I don't hear no riot an' I don't see no riot, an' what's more I don't believe they *is* no riot.}
+<DIAL>__{Well, I don't know what you gonna do about it, because I don't hear no riot an' I don't see no riot, an' what's more I don't believe they is no riot.}
 <DIAL_PAR>__{(Waving toward the dance floor)}
 <DIAL>__{Look for yourself.}
 <ACTION>__{As the deputies, puzzled and uncertain, look toward the DANCE FLOOR, we see the music, the dancing, the gaiety continuing as if nothing had happened. WITHIN THE JOAD TENT at night, several hours later: the tent is black, Tom strikes a match. From a piece of wood on the ground or floor he selects one from several cigarette butts and lights it. While he is doing so, he lifts his head suddenly, and listens. In the CAMP STREET we catch sight of legs walking, the ground lighted from a flashlight. Two pairs of the legs wear state policemen's leather leggings. The third pair are the caretaker's. They stop behind a car. The flashlight plays on the license plate. One of the state cops leans down to copy the license number in a booklet. Then they move on. TOM has lifted the edge of the tent a trifle, enough to see out by flattening his head on the floor. The LEGS are now seen at the Joad jalopy. The light is on the license plate. The cop leans over and copies the number. They move on. TOM, lowering the edge of the tent, sits up. Quietly he pushes aside the piece of carpet that covers him. He is wearing his clothes. We see the policeman's CAR at the caretaker's hut. The two policemen get into the car.}
@@ -2930,7 +2930,7 @@
 <CHAR>__{PA} <CHAR_PAR>__{}
 <DIAL>__{Be glad to get my han' on some cotton. That's the kin' a pickin' I understan'.}
 <CHAR>__{MA} <CHAR_PAR>__{}
-<DIAL>__{Maybe. Maybe twenny days work, maybe *no* days work. We ain't got it till we get it.}
+<DIAL>__{Maybe. Maybe twenny days work, maybe no days work. We ain't got it till we get it.}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(grinning)}
 <DIAL>__{Whatsa matter, Ma? Gettin' scared?}
@@ -2938,7 +2938,7 @@
 <DIAL_PAR>__{(smiling faintly)}
 <DIAL>__{No. Ain't ever gonna be scared no more.}
 <DIAL_PAR>__{(After a pause)}
-<DIAL>__{I was, though. For a while I thought we was beat--*good* an' beat. Looked like we didn't have nothin' in the worl' but enemies--wasn't *no*body frien'ly anymore. It made me feel bad an' scared too--like we was lost... an' nobody cared.}
+<DIAL>__{I was, though. For a while I thought we was beat--good an' beat. Looked like we didn't have nothin' in the worl' but enemies--wasn't nobody frien'ly anymore. It made me feel bad an' scared too--like we was lost... an' nobody cared.}
 <CHAR>__{AL} <CHAR_PAR>__{}
 <DIAL>__{Watch me pass that Chevvy.}
 <CHAR>__{PA} <CHAR_PAR>__{}

@@ -367,7 +367,7 @@
 <DIAL>__{I'm gonna be late for work.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. 7-11/PARKING LOT - NORTH HOLLYWOOD - DAY}
-<ACTION>__{CAMERA pushes in towards Donnie as he pulls into the parking lot in his little HONDA ACCORD.  He's smiling and singing along to a song* as he pulls into a parking space.... ...but he's going just a bit too fast...and in a flash, he's over the parking stopper and up on the curb and taps the glass store front just enough to have GLASS FALL AND SHATTER and DISPLAYS}
+<ACTION>__{CAMERA pushes in towards Donnie as he pulls into the parking lot in his little HONDA ACCORD.  He's smiling and singing along to a song as he pulls into a parking space.... ...but he's going just a bit too fast...and in a flash, he's over the parking stopper and up on the curb and taps the glass store front just enough to have GLASS FALL AND SHATTER and DISPLAYS}
 <ACTION_ALT>__{FALL OVER ONTO THE HOOD OF THE CAR....}
 <ACTION>__{CAMERA pushes in on Donnie and some people running over to see what's happend....}
 <CHAR>__{DONNIE} <CHAR_PAR>__{}
@@ -1167,7 +1167,7 @@
 <ACTION>__{BEAT.  Donnie tries to calm himself, hold back tears, stands up. He struggles with his KEY CHAIN and finally after a bunch of moments, hands over six or seven keys. CU. INSERT, KEYS. placed on the desk.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. APARTMENT COMPLEX/NORTH HOLLYWOOD - THAT MOMENT}
-<ACTION>__{CAMERA hangs inside bedroom w/Detectives and Investigators and County Coroner folks as we go through in a series of quick shots. (Director's Note: very technical here. Snapshots, ECU's on body, procedure, etc.) * See County Coroner videotape.}
+<ACTION>__{CAMERA hangs inside bedroom w/Detectives and Investigators and County Coroner folks as we go through in a series of quick shots. (Director's Note: very technical here. Snapshots, ECU's on body, procedure, etc.)  See County Coroner videotape.}
 <ACTION_ALT>__{IN THE LIVING ROOM}
 <ACTION>__{CAMERA pushes in past DETECTIVES and OFFICERS who are exchanging information...CAMERA moves towards Jim Kurring, standing off a bit now, usless to the investigation as far as everyone else is concerned, but listening carefully to what they say:}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
@@ -1377,7 +1377,7 @@
 <ACTION>__{They pass CAMERA which picks up now with a woman MARY (40s) This is Jimmy Gator's assistant...she walks to his dressing room door and knocks --}
 <CHAR>__{JIMMY } <CHAR_PAR>__{(OC)}
 <DIAL>__{Come in.}
-<ACTION>__{Mary enters the room.  Jimmy is getting dressed in his outfit for the show* and starting to take shots of Jack Daniel's.}
+<ACTION>__{Mary enters the room.  Jimmy is getting dressed in his outfit for the show and starting to take shots of Jack Daniel's.}
 <CHAR>__{MARY} <CHAR_PAR>__{}
 <DIAL>__{Rose is on the phone and here's the cards for today --}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
@@ -1788,7 +1788,8 @@
 <DIAL>__{Fuck - fuck - fuck - Jimmy -}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CLAUDIA'S APARTMENT - THAT MOMENT}
-<ACTION>__{. ** Claudia finishes throwing her drugs into a dirty t-shirt and throwing that dirty t-shirt into her laundry basket.  Jim Kurring bangs away at the door.}
+<ACTION_ALT>__{. }
+<ACTION>__{Claudia finishes throwing her drugs into a dirty t-shirt and throwing that dirty t-shirt into her laundry basket.  Jim Kurring bangs away at the door.}
 <CHAR>__{JIM KURRING } <CHAR_PAR>__{(OC)}
 <DIAL>__{Open the door.}
 <CHAR>__{CLAUDIA} <CHAR_PAR>__{}

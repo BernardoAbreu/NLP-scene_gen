@@ -131,7 +131,7 @@
 <ACTION>__{stuffed and hidden half on the floor and half under the mats are Jerry and Butch.}
 <CHAR>__{JERRY} <CHAR_PAR>__{}
 <DIAL>__{'Night, Larry.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SMALL, WELL-LIT DINER - NIGHT}
 <ACTION>__{A weathered finger drops a quarter in a jukebox.}
 <CHAR>__{MAN } <CHAR_PAR>__{(O.S.)}
@@ -641,7 +641,7 @@
 <CHAR>__{RED} <CHAR_PAR>__{}
 <DIAL>__{You comin' or not?}
 <ACTION>__{She hesitates only a moment before walking straight to Red, grabbing back her file box and entering in front of him.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. AIRSTREAM - DAY}
 <ACTION>__{Sally enters, balancing the   boxes, and glares at the faces surrounding her. A smiling    Red, a grinning Adler messily gorging on a cinnamon roll,   a nervous KAISER, the radio man, and, in the corner, a nasty   smirk from Bobby Lee. When the Airstream takes off again, she loses her balance and drops one of the boxes. Adler and Suttle jump forward to help but she gives them the evil eye.}
 <CHAR>__{SALLY} <CHAR_PAR>__{}
@@ -1650,7 +1650,7 @@
 <CHAR>__{SUTTLE } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{We'll never make it. Stop!}
 <ACTION>__{It's a close fit but the Airstream just survives a brush with a burm. The TRUCK PEELS away with Airstream in tow.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. FORD - DAY}
 <ACTION>__{Butch checks his rear-view mirror and gets a puzzled look on his face. IN REAR-VIEW MIRROR The Airstream barreling fast behind -- catching up.}
 <LOC>__{INT. TRUCK - DAY}
@@ -1742,7 +1742,7 @@
 <CHAR>__{GOVERNOR} <CHAR_PAR>__{}
 <DIAL>__{I want you to know that I personally okayed the use of a brand-new high-tech mobile home from which to conduct the manhunt. It's an amazingly futuristic piece of law enforcement equipment.}
 <ACTION>__{Another FLASH.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                  thru}
 <LOC>__{115 EXT. FIELD - DAY}
 <ACTION>__{The Airstream, the amazingly futuristic piece of law enforcement equipment sits beat to hell and leaning to one side in the dry pond bed. All the tires are flat and dents and bruises abound. The door tries to open but is stuck. Red applies a boot to it and the whole thing comes off its hinges and flies to the ground. Red exits. He groans and shakes his head when he spots... Bradley and Suttle limping toward him across the field. Red sighs and starts slowly walking in the direction Butch and Phillip headed.}
@@ -1792,7 +1792,7 @@
 <CHAR>__{BUTCH} <CHAR_PAR>__{}
 <DIAL>__{Rations for one at best.    Come on.}
 <ACTION>__{Butch strides straight into the rocky field. Phillip lingers a moment, then sticks the half eaten moon pie in his mouth and follows, hurrying to catch up.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                  thru}
 <LOC>__{122 EXT. FIELD - AIRSTREAM - DAY}
 <ACTION>__{Suttle limps around the broken-down silver junker, his hands covering what his eyes can't bear to see.}
@@ -2550,7 +2550,7 @@
 <DIAL>__{No trouble t'all. Wake you up first light, fill yer' belly and send you on yer' way.}
 <LOC>__{EXT. RURAL ROAD - FIRST LIGHT - DAY}
 <ACTION>__{A Highway Patrol car, followed by a tow truck, breeze along the highway.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. HIGHWAY PATROL CAR - DAY}
 <ACTION>__{Two officers, MONTGOMERY and HALL, scan the horizon.    They look like they've driven all night. Saunders wakes up in the back seat and leans forward.}
 <CHAR>__{SAUNDERS} <CHAR_PAR>__{}

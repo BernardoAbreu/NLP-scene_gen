@@ -33,7 +33,7 @@
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Sister, do you ever get lonely after vespers? If you do, why don't you give me a call. I'm in the book.}
 <CHAR>__{SISTER MARY FRANCIS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(smiling despite  herself)}
+<DIAL_PAR>__{(smiling despite herself)}
 <DIAL>__{Get going, Rick... you're late enough as it is.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Right... Think it over.}
@@ -45,7 +45,7 @@
 <DIAL>__{If you don't all calm down I'm gonna drive this thing over a cliff.}
 <ACTION>__{The kids pay no attention to him.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(continuing;  philosophically)}
+<DIAL_PAR>__{(continuing; philosophically)}
 <DIAL>__{Ah... youth.}
 <LOC>__{EXT. THE BUS}
 <ACTION>__{Rick's bus pulls up to a light and another school bus filled with kids (from a public school) pulls up alongside of it. The other DRIVER gives Rick a competitive smirk and guns his engine. Rick counters by gunning his.}
@@ -105,7 +105,7 @@
 <CHAR>__{O'NEILL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(continuing)}
 <DIAL>__{If I were you, I'd breast feed until I was 17 or 18.}
-<DIAL_PAR>__{(gets behind camera;  sizing up the shot)}
+<DIAL_PAR>__{(gets behind camera; sizing up the shot)}
 <DIAL>__{Tell ya what...}
 <ACTION>__{O'NEILL'S POV THROUGH CAMERA We SEE the baby sitting on the blanket.}
 <CHAR>__{O'NEILL } <CHAR_PAR>__{(O.S.)}
@@ -185,7 +185,7 @@
 <CHAR>__{GARY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(yelling; into phone)}
 <DIAL>__{Screw you... Screw that... Don't jerk me around. You promised me 1500 seats for the Police Concert... 1500, not fifteen!... Screw that... Screw you -- Screw Sting.}
-<DIAL_PAR>__{(hangs up and sees  the guys standing there)}
+<DIAL_PAR>__{(hangs up and sees the guys standing there)}
 <DIAL>__{Hi, guys.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Gary, you're quite an animal.}
@@ -193,7 +193,7 @@
 <DIAL>__{Screw you...}
 <ACTION>__{The PHONE RINGS.}
 <CHAR>__{GARY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(continuing; into  phone)}
+<DIAL_PAR>__{(continuing; into phone)}
 <DIAL>__{Hello, Concert tickets... What? Pat Benitar has a yeast infection? She's cancelling? Screw her. You know what this is gonna cost me?...}
 <DIAL_PAR>__{(he hangs up)}
 <DIAL>__{Okay. Let's go.}
@@ -415,7 +415,7 @@
 <DIAL>__{You're going to have a bachelor party?}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Of course. I'm a traditional guy... It's a traditional event.}
-<DIAL_PAR>__{(he brings all the  food to the table)}
+<DIAL_PAR>__{(he brings all the food to the table)}
 <DIAL>__{Well, what do you think?}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{It looks awful.}
@@ -456,7 +456,7 @@
 <ACTION>__{CAMERA PANS WITH Debbie as she enters the room. She passes several trophies, guns and stuffed animal heads hanging from the wall. She makes her way past some sections of an undetermined animal's anatomy hanging from hooks suspended from the ceiling. Finally we see COLE WHITTIER, a Steve Garvey look-alike... rugged all-American, and heir to the Whittier Plastic Wrap fortune. Despite his jockish good looks and outward arrogance, there's something in his manner that is definitely unsavory. As Debbie approaches him we SEE that he is butchering some unfortunate friend of the forest on the table in front of him. (NOTE: For the squeamish, all of this is done OUT OF FRAME. The only thing we should HEAR are the delightful SOUNDS of TAXIDERMY.)}
 <CHAR>__{COLE} <CHAR_PAR>__{}
 <DIAL>__{Hi, Deb. Just got back from the mountains.}
-<DIAL_PAR>__{(as he cuts in with a  surgeon's skill)}
+<DIAL_PAR>__{(as he cuts in with a surgeon's skill)}
 <DIAL>__{Isn't this a beauty?... It's gonna look great in the den.}
 <ACTION>__{Debbie tries her best not to look down at what he's doing.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
@@ -466,7 +466,7 @@
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{No, Cole, I...}
 <CHAR>__{COLE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(lifting an organ of  some sort O.S.)}
+<DIAL_PAR>__{(lifting an organ of some sort O.S.)}
 <DIAL>__{It's all right, I forgive you. I'm not the vengeful type. We'll forget what happened. Why don't we take a trip together? Maybe kill a few lions in Kenya over Christmas.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
 <DIAL>__{Cole, listen to me... I've got to tell you...}
@@ -505,7 +505,7 @@
 <ACTION>__{He crosses to a sterile container and takes out a syringe.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{You wouldn't hurt your own brother, would you?}
-<DIAL_PAR>__{(looking at the needle  cautiously)}
+<DIAL_PAR>__{(looking at the needle cautiously)}
 <DIAL>__{I changed my mind. I don't need a blood test. The marriage is off. I --}
 <ACTION>__{Just then, Stan sticks the needle in his arm.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
@@ -516,7 +516,7 @@
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{True, you're a lot handsomer now. Don't you have enough blood already?}
 <CHAR>__{STAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(without much  conviction)}
+<DIAL_PAR>__{(without much conviction)}
 <DIAL>__{You won't miss a thing about being single... The wild parties, the different girls every night, running around like a maniac... God, I miss that.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Stan, you're depressing me... Hey, I didn't know you were going to fill 'er up. Just take a couple of gallons, okay?}
@@ -525,7 +525,7 @@
 <DIAL_PAR>__{(continuing)}
 <DIAL>__{That's an even trade... a cotton ball for all my blood.}
 <CHAR>__{STAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(returning to this  world)}
+<DIAL_PAR>__{(returning to this world)}
 <DIAL>__{Okay, Rick, all finished. I can't wait for that bachelor party... I need the action.}
 <ACTION>__{CAMERA FOLLOWS them as they go out into the hall.}
 <CHAR>__{STAN} <CHAR_PAR>__{}
@@ -609,7 +609,7 @@
 <CHAR>__{ILENE} <CHAR_PAR>__{}
 <DIAL>__{Debbie, don't be naive. Men are pigs.}
 <CHAR>__{MRS. THOMERSON} <CHAR_PAR>__{}
-<DIAL_PAR>__{(trying to change the  subject)}
+<DIAL_PAR>__{(trying to change the subject)}
 <DIAL>__{Girls, why don't we go inside for lunch.}
 <DIAL_PAR>__{(calling to Mr. T)}
 <DIAL>__{Boys, would you mind bringing in that lemonade?}
@@ -706,7 +706,7 @@
 <ACTION>__{He's orchestrating the proceedings.}
 <CHAR>__{FATHER FALWELL} <CHAR_PAR>__{}
 <DIAL>__{Flower Girls... Now Rick...}
-<DIAL_PAR>__{(he gestures for him  to start down the aisle)}
+<DIAL_PAR>__{(he gestures for him to start down the aisle)}
 <DIAL>__{Good... Debbie and Mr. Thomerson.}
 <ACTION>__{As he gestures for them to make their walk to him, a gust of wind lifts up Father's cassock, exposing his bare ass. He quickly grabs his cassock and covers himself.}
 <ACTION_ALT>__{RICK}
@@ -997,7 +997,7 @@
 <ACTION>__{Cole's face lights up. This is the information he needed.}
 <CHAR>__{COLE} <CHAR_PAR>__{}
 <DIAL>__{Yeah. Right.}
-<DIAL_PAR>__{(takes out piece of  paper)}
+<DIAL_PAR>__{(takes out piece of paper)}
 <DIAL>__{This is the new address. We changed our minds and decided to send the girls over to his house instead.}
 <ACTION>__{He takes out a fifty-dollar bill.}
 <CHAR>__{COLE} <CHAR_PAR>__{}
@@ -1017,7 +1017,7 @@
 <LOC>__{INT. HOTEL LOBBY - NIGHT}
 <ACTION>__{This is a pretty plush place. The kind of hotel that prides itself on its classy image. The guys are totally unaware of the sedate atmosphere in the lobby as they go screaming toward the elevators.}
 <CHAR>__{O'NEILL} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to some dignified  guests)}
+<DIAL_PAR>__{(to some dignified guests)}
 <DIAL>__{We who are about to go ape shit salute you.}
 <CHAR>__{RYKO} <CHAR_PAR>__{}
 <DIAL>__{All right, I'm stoked!}
@@ -1186,7 +1186,7 @@
 <DIAL>__{Yes?}
 <ACTION>__{Before Tina can speak, Margot speaks up. She's reading from the piece of paper Cole gave her.}
 <CHAR>__{MARGOT} <CHAR_PAR>__{}
-<DIAL_PAR>__{(through heavy gum  chewing)}
+<DIAL_PAR>__{(through heavy gum chewing)}
 <DIAL>__{Yeah, hi. Look, is this...}
 <ACTION>__{INSERT - PIECE OF PAPER Margot reads the address.}
 <CHAR>__{MARGOT } <CHAR_PAR>__{(O.S.)}
@@ -1235,14 +1235,14 @@
 <CHAR>__{CHULO} <CHAR_PAR>__{}
 <DIAL>__{If I was Ricky Ricardo I would beat the shit out of that chick.}
 <CHAR>__{LARRY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(totally ripped,  staring at the black and white image)}
+<DIAL_PAR>__{(totally ripped, staring at the black and white image)}
 <DIAL>__{Wow! The colors are sooo beautiful.}
 <ACTION>__{Chulo gives him a strange look.}
 <CHAR>__{RYKO} <CHAR_PAR>__{}
-<DIAL_PAR>__{(opening a beer,  reading the label)}
+<DIAL_PAR>__{(opening a beer, reading the label)}
 <DIAL>__{Isn't there any beer that's not imported? All this stuff's from St. Louis.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(calling to imaginary  person O.S.)}
+<DIAL_PAR>__{(calling to imaginary person O.S.)}
 <DIAL>__{Bartender, round of brains for my friend here.}
 <ACTION>__{Gary enters the room. He's all smiles. Confident he's done a great job arranging for the entertainment.}
 <CHAR>__{GARY} <CHAR_PAR>__{}
@@ -1277,7 +1277,7 @@
 <DIAL>__{So, what do you guys think of the party so far?}
 <ACTION>__{The guys toss sandwiches and empty beer cans at him.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(putting his arm around  O'Neill)}
+<DIAL_PAR>__{(putting his arm around O'Neill)}
 <DIAL>__{Well, I think you've done a damn fine job.}
 <ACTION>__{Everyone pelts Rick and O'Neill with more junk. Suddenly the door bursts open. The guys look up and are surprised to see Cole enter.}
 <CHAR>__{COLE} <CHAR_PAR>__{}
@@ -1305,7 +1305,7 @@
 <ACTION_ALT>__{BACK TO SCENE}
 <ACTION>__{Rick gestures to Chulo to look out the window.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(his voice tells us  he has something in mind)}
+<DIAL_PAR>__{(his voice tells us he has something in mind)}
 <DIAL>__{Isn't that a great car, Chulo?}
 <ACTION>__{Chulo gets Rick's drift.}
 <CHAR>__{CHULO} <CHAR_PAR>__{}
@@ -1326,7 +1326,7 @@
 <DIAL_PAR>__{(surprised)}
 <DIAL>__{The car for Debbie?}
 <CHAR>__{COLE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(getting a little  excitable)}
+<DIAL_PAR>__{(getting a little excitable)}
 <DIAL>__{I mean it. The car is yours. Dump Debbie.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Gee, guys, what should I do? The car or Debbie?}
@@ -1444,9 +1444,9 @@
 <DIAL_PAR>__{(angered)}
 <DIAL>__{Screw you... Do me a favor, join this decade, will ya, pal!}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(as if he's working a  fundraiser)}
+<DIAL_PAR>__{(as if he's working a fundraiser)}
 <DIAL>__{Hey, now, our buddy needs help. Come on, dig into those pockets. Help this man.}
-<DIAL_PAR>__{(puts his arm around  Gary)}
+<DIAL_PAR>__{(puts his arm around Gary)}
 <DIAL>__{Help this person help others get laid. Give till it hurts. He needs you.}
 <ACTION>__{The guys take out money. Larry stands and digs into his pocket for his wallet. Along with the wallet comes dozens of pills. The PHONE RINGS.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
@@ -1475,7 +1475,7 @@
 <DIAL>__{Hurry back.}
 <ACTION>__{Gary exits.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(it's obvious he has  something in mind)}
+<DIAL_PAR>__{(it's obvious he has something in mind)}
 <DIAL>__{While we're waiting for Gar, why don't we all go for a little fresh air.}
 <CHAR>__{RYKO} <CHAR_PAR>__{}
 <DIAL>__{Where we going?}
@@ -1504,11 +1504,11 @@
 <DIAL>__{Excuse me. I better call my service... tell them where I am.}
 <ACTION>__{He enters a phone booth and starts to dial.}
 <CHAR>__{MR. THOMERSON} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to executive, covering  mouthpiece)}
+<DIAL_PAR>__{(to executive, covering mouthpiece)}
 <DIAL>__{I had to get out of the house anyway tonight. The wife is throwing a bridal shower for my daughter.}
 <DIAL_PAR>__{(into phone)}
 <DIAL>__{This is Ed Thomerson. Please transfer my calls to...}
-<DIAL_PAR>__{(reading number off  phone)}
+<DIAL_PAR>__{(reading number off phone)}
 <DIAL>__{220-1892. Right.}
 <ACTION>__{He crosses with executive toward the ballroom.}
 <CHAR>__{EXECUTIVE} <CHAR_PAR>__{}
@@ -1547,7 +1547,7 @@
 <DIAL_PAR>__{(proudly)}
 <DIAL>__{The Dick.}
 <CHAR>__{ALL OUR GUYS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(astonished at this  O.S. sight)}
+<DIAL_PAR>__{(astonished at this O.S. sight)}
 <DIAL>__{Jesus Christ!}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Let's get this thing going. Tray, please.}
@@ -1598,7 +1598,7 @@
 <DIAL>__{Let's talk.}
 <ACTION>__{The PIMP turns around and we SEE he is the stereotypical pimp. One big difference: he's an Indian straight from the streets of Calcutta. He's soft-spoken and ever smiling and he still hasn't quite mastered English.}
 <CHAR>__{RAJAH} <CHAR_PAR>__{}
-<DIAL_PAR>__{(oh-so-heavy Indian  accent)}
+<DIAL_PAR>__{(oh-so-heavy Indian accent)}
 <DIAL>__{What can I be doing for you?}
 <CHAR>__{GARY} <CHAR_PAR>__{}
 <DIAL>__{You're a pimp?}
@@ -1632,14 +1632,14 @@
 <DIAL>__{Girls back in 45 minutes or Milt cuts your balls off. Fair enough? Shake!}
 <ACTION>__{Gary extends his hand and they shake.}
 <CHAR>__{GARY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to himself as he  walks to his car)}
+<DIAL_PAR>__{(to himself as he walks to his car)}
 <DIAL>__{I just bet my balls and shook on it.}
 <LOC>__{EXT. HOTEL - NIGHT}
 <ACTION>__{The guys are piling back out of the bus into the hotel. The Manager watches them suspiciously.}
 <LOC>__{INT. HOTEL SUITE}
 <ACTION>__{Rick, O'Neill, Ryko and Stan come back into the room.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(concerned; calling  O.S.)}
+<DIAL_PAR>__{(concerned; calling O.S.)}
 <DIAL>__{Larry! Yo, Larry.}
 <ACTION>__{Rick crosses to the bathroom door, opens it and goes in. RICK'S POV Larry is on his knees on the side of the tub with his head submerged fully under several inches of water.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
@@ -1829,7 +1829,7 @@
 <ACTION>__{Everyone jumps out from their hiding places. With our guys is Gary and his team of FIVE PROSTITUTES.}
 <CHAR>__{GARY} <CHAR_PAR>__{}
 <DIAL>__{Surprise!}
-<DIAL_PAR>__{(gesturing to the  girls)}
+<DIAL_PAR>__{(gesturing to the girls)}
 <DIAL>__{The team bus just pulled in.}
 <CHAR>__{STAN} <CHAR_PAR>__{}
 <DIAL>__{Hookers. It's a party!}
@@ -1858,7 +1858,7 @@
 <DIAL>__{I have returned!}
 <ACTION>__{He spots a sweet-faced young hooker, LAVERNE. She is prancing around in her bra and underwear. Chulo wants her.}
 <CHAR>__{CHULO} <CHAR_PAR>__{}
-<DIAL_PAR>__{(continuing; points  to her)}
+<DIAL_PAR>__{(continuing; points to her)}
 <DIAL>__{You! Mine!}
 <ACTION>__{Laverne is frightened of Chulo. Mainly because he's coming at her like a sex-starved buffalo. Chulo goes after her. Scared, she runs around the room, then out the door. Chulo gives chase.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
@@ -1909,7 +1909,7 @@
 <CHAR>__{ILENE} <CHAR_PAR>__{}
 <DIAL>__{Brett, are you with us?}
 <CHAR>__{MRS. THOMERSON} <CHAR_PAR>__{}
-<DIAL_PAR>__{(coming out of her  fog)}
+<DIAL_PAR>__{(coming out of her fog)}
 <DIAL>__{Yeah, sure... I was eye to eye with an unfamiliar pud.}
 <LOC>__{INT. HOTEL SUITE}
 <ACTION>__{The party is taking off. The all-girl band is going ape shit. The guys are dancing with the hookers. They're all moving in unison, to a gyrating New Wave dance step and singing along with the MUSIC. ANGLE - RYKO He's wearing gravity boots, hanging upside down, entwined around one of the hookers. They're hanging there, making out like crazy. Gary passes by.}
@@ -1957,7 +1957,7 @@
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{Well, this is terrific. Now you're gonna have wrists that are smooth and kissable. Just go out there. Forget about everything and laugh it up.}
 <CHAR>__{LARRY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(suddenly laughs like  a crazy man)}
+<DIAL_PAR>__{(suddenly laughs like a crazy man)}
 <DIAL>__{Ha, ha, ha.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{No, have fun first. Then laugh. Now, forget about marriage for a while. Go party.}
@@ -1995,7 +1995,7 @@
 <CHAR>__{O'NEILL} <CHAR_PAR>__{}
 <DIAL>__{This is your bachelor party. You haven't had sex with anyone yet.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(trying to joke his  way out of it)}
+<DIAL_PAR>__{(trying to joke his way out of it)}
 <DIAL>__{Get a few drinks into me, we'll dance and see what happens.}
 <CHAR>__{O'NEILL} <CHAR_PAR>__{}
 <DIAL>__{I got something you can't resist. I have a friend, Tracey. She wants to meet you. She loves to please.}
@@ -2015,7 +2015,7 @@
 <DIAL>__{Hellooo!}
 <ACTION>__{Tracey walks toward Rick. The light illuminates her. What we see is truly the most beautiful woman on earth. She is totally nude. A vision that would make any man screw and ask questions later.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to himself;  overwhelmed by her)}
+<DIAL_PAR>__{(to himself; overwhelmed by her)}
 <DIAL>__{Eat my chair!}
 <CHAR>__{TRACEY} <CHAR_PAR>__{}
 <DIAL>__{Take me... please.}
@@ -2185,7 +2185,7 @@
 <ACTION>__{Rick, O'Neill and Tracey quietly approach Cole's door. Tracey is dressed in a see-through negligee.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL>__{This is it.}
-<DIAL_PAR>__{(he positions Tracey  outside the door)}
+<DIAL_PAR>__{(he positions Tracey outside the door)}
 <DIAL>__{Go get 'im.}
 <ACTION>__{He and O'Neill duck around the hallway corner, out of sight.}
 <LOC>__{INT. COLE'S ROOM}
@@ -2308,7 +2308,7 @@
 <CHAR>__{RYKO} <CHAR_PAR>__{}
 <DIAL>__{Maybe I did... I don't remember.}
 <CHAR>__{STAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(through clenched  teeth)}
+<DIAL_PAR>__{(through clenched teeth)}
 <DIAL>__{I'd love to get you in an operating room. Just once.}
 <ACTION>__{ANGLE - HOTEL ENTRANCE Just then the "Moose" from the beauty pageant steps outside the hotel for a smoke. The guy in front removes the head, takes a drag of his cigarette and passes it to the guy bringing up the rear. After a beat, smoke steams out the rear end of the costume. ANGLE - THE GUYS IN THE CAR They both have the same idea. They stroll out of the car and approach the two men in the moose suit. We can't hear what they're saying, but we can SEE the bills Stan is taking out of his pocket. Ryko grabs the moosehead and runs over to the trailer with it.}
 <LOC>__{INT. HOTEL LOBBY - A FEW MINUTES LATER}
@@ -2511,7 +2511,7 @@
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL>__{Deb, we're pretending to be hookers.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(herding in the last  Japanese)}
+<DIAL_PAR>__{(herding in the last Japanese)}
 <DIAL>__{Right in here. The big show starts in one minute.}
 <ACTION>__{The Japanese man enters the room. Debbie slams the door shut behind him.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
@@ -2577,7 +2577,7 @@
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(singing)}
 <DIAL>__{It's a lovely day in the neighborhood. It's a lovely day, it's a beauty, would you be mine, could you be mine.}
-<DIAL_PAR>__{(he's now stripped  down to his underwear)}
+<DIAL_PAR>__{(he's now stripped down to his underwear)}
 <DIAL>__{...Please won't you be my neighbor.}
 <DIAL_PAR>__{(as Mr. Rodgers)}
 <DIAL>__{Hi... Hi there... Today we're going to learn about anatomy...}
@@ -2597,7 +2597,7 @@
 <LOC>__{INT. HOTEL SUITE - MAIN ROOM}
 <ACTION>__{The place is wall to wall people. ANGLE - DEBBIE She tries to make her way to the exit, but her path is slowed by all the happy revelers.}
 <CHAR>__{DEBBIE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(yelling over the  din; furious)}
+<DIAL_PAR>__{(yelling over the din; furious)}
 <DIAL>__{Let go of me!}
 <CHAR>__{RICK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(yelling back)}
@@ -2665,7 +2665,7 @@
 <DIAL>__{You're all under arrest. Open up!}
 <LOC>__{INT. HOTEL SUITE}
 <CHAR>__{RICK} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to everyone in the  room)}
+<DIAL_PAR>__{(to everyone in the room)}
 <DIAL>__{Your attention, please. May I be the first to say, It's a raid!}
 <ACTION>__{Everyone starts to panic and run for the doors.}
 <CHAR>__{RICK} <CHAR_PAR>__{}
@@ -2777,7 +2777,7 @@
 <DIAL>__{No way.}
 <ACTION>__{Nearby stand the maids of honor, Bobbie, Phoebie and Ilene, who blows a kiss to her date, Ray (one of the Japanese businessmen). The Thomersons sit in the front row. Neither of them is cherishing this moment.}
 <CHAR>__{MR. THOMERSON} <CHAR_PAR>__{}
-<DIAL_PAR>__{(sotto; to Mrs.  Thomerson)}
+<DIAL_PAR>__{(sotto; to Mrs. Thomerson)}
 <DIAL>__{We'll have morons for grandkids.}
 <DIAL_PAR>__{(resigned to the fact)}
 <DIAL>__{But... at least we'll have grandkids.}

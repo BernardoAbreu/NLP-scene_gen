@@ -2130,7 +2130,7 @@
 <ACTION>__{A man sits on a bench. He's wearing sunglasses and a baseball cap. He puts a shoulder bag on the bench, takes something out, then gets up and walks away, when... Suddenly, two tourists and a hot dog vendor are right on him. One of 'em jams a concealed gun jammed into his ribs, while the other two hustle him forcefully to a van. He's shoved inside. His bag's tossed in. The van drives away.}
 <LOC>__{INT. VAN}
 <ACTION>__{Agents press the man hard to the floorboards. His bag's tossed. It's empty. The guy's clean. It's not Claudio. OFF the agents, holding an innocent man...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. LATIN AMERICAN INSTITUTE - LARGE CONFERENCE ROOM}
 <ACTION>__{- DAY Selena watches as Phipps plays a surveillance video of Union Station. Phipps suddenly freezes the image. Zooms in on a man in the middle of the crowd. Claudio.}
 <CHAR>__{PHIPPS} <CHAR_PAR>__{}
@@ -2283,7 +2283,7 @@
 <ACTION>__{leads into the dining room. Selena runs in. Gordy's right on her heels. Selena pulls down dining room chairs in front of Gordy. He vaults one but trips over the second and falls.}
 <ACTION_ALT>__{SELENA}
 <ACTION>__{blows through a swinging door into the kitchen, slamming into a Hispanic maid, who's coming to investigate all the noise. Both women tumble. Selena gets right back on her feet. She breaks out a window with the crowbar and exits onto a fire escape as Gordy blasts in from the dining room.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{thru                                                                 thru}
 <LOC>__{394 EXT. TOWN HOUSE - FIRE ESCAPE}
 <ACTION>__{The window Selena slipped through easily is small for Gordy. He gets hung up on the glass, losing precious seconds. Selena's already halfway up when Gordy hits the fire escape steps. The fire escape ends at a top floor window. Selena BREAKS out the GLASS with the crowbar and goes in.}
@@ -2301,7 +2301,7 @@
 <DIAL>__{Who are you?   What are you doing in here?}
 <ACTION_ALT>__{SELENA}
 <ACTION>__{sees an open rooftop door at the top of a flight of stairs and charges upward without answering. GORDY'S in the hallway a second later. Meets the Woman In Gardening Clothes, who's now come up the stairs. She screams. Swipes at him with the digging tool, making three deep scratches in his face. Gordy doesn't stop.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. TOWN HOUSE - ROOF/ADJOINING ROOFTOPS}
 <ACTION>__{This is where the woman was gardening, tending a rooftop flower bed. Selena emerges, crushes plants as she runs to the next town house roof. Gordy hits the roof behind her.}
 <ACTION_ALT>__{SELENA}

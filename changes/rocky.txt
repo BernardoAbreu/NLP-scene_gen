@@ -2250,7 +2250,7 @@
 <CHAR>__{ROCKY} <CHAR_PAR>__{}
 <DIAL>__{Yo, Mick, can I have my rob?}
 <ACTION>__{Rocky puts on the robe... Embroidered across the back in flaming letters is:}
-<DIAL>__{"THE ITALIAN STALLION" *Pennzoil*}
+<DIAL>__{"THE ITALIAN STALLION" Pennzoil}
 <ACTION>__{Mike helps him into the robe... Mickey is not amused.}
 <CHAR>__{MICKEY} <CHAR_PAR>__{}
 <DIAL>__{Don't you care what the people will say?}

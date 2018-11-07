@@ -2,7 +2,7 @@
 <ACTION_ALT>__{BEING JOHN MALKOVICH}
 <ACTION>__{A Screenplay by Charlie Kaufman}
 <LOC>__{INT. CHEERLESS ROOM - DAY}
-<ACTION>__{The room is bare, dusty. A ceiling fan turns. The wall clock ticks. Craig, 30 years old and small, sits at a collapsible card table. The only item on the table is a book. Craig picks it up, looks at the jacket. It's entitled "Sit." Craig opens the book. It reads: "sit sit sit sit sit..." over and over, page after page. Craig closes the book. He begins to stand, but thinks better of it, sighs. He looks at the book again. It is now entitled "Die."  He opens it up.  "die die die die die..."  A rooster crows.}
+<ACTION>__{The room is bare, dusty. A ceiling fan turns. The wall clock ticks. Craig, 30 years old and small, sits at a collapsible card table. The only item on the table is a book. Craig picks it up, looks at the jacket. It's entitled "Sit." Craig opens the book. It reads: "sit sit sit sit sit..." over and over, page after page. Craig closes the book. He begins to stand, but thinks better of it, sighs. He looks at the book again. It is now entitled "Die." He opens it up. "die die die die die..." A rooster crows.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CRAIG AND LOTTE'S BEDROOM - MORNING}
 <ACTION>__{Craig jolts awake. A rooster stands on Craig's chest, crowing. Lotte, also 30, in the middle of dressing for work, hurries in and pulls the bird from Craig's chest.}
@@ -130,7 +130,7 @@
 <DIAL>__{I... puppeteer.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CRAIG AND LOTTE'S LIVING ROOM - DAY}
-<ACTION>__{Craig reads the paper. He comes across an ad: "Female puppeteer wanted for nudist colony marionette staging of 'Oh, Calcutta!'"  Craig rubs his chin.}
+<ACTION>__{Craig reads the paper. He comes across an ad: "Female puppeteer wanted for nudist colony marionette staging of 'Oh, Calcutta!'" Craig rubs his chin.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CAR - NIGHT}
 <ACTION>__{Craig sits in the passenger seat. He is made up as a woman and wears a full-body rubber "naked woman" suit. Lotte drives.}
@@ -139,7 +139,7 @@
 <DIAL>__{You know, maybe you should speak to someone about this.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CRAIG AND LOTTE' S LIVING ROOM - DAY}
-<ACTION>__{Craig sees a personal ad: "Male puppeteer looking for attractive female puppeteer for friendship, travel, and much much more."  Craig rubs his chin, then thinks better of it and sighs. He finds a want ad calling for a "short-statured file clerk with unusually nimble and dexterous fingers needed for speed filing."  Craig writes down the address.}
+<ACTION>__{Craig sees a personal ad: "Male puppeteer looking for attractive female puppeteer for friendship, travel, and much much more." Craig rubs his chin, then thinks better of it and sighs. He finds a want ad calling for a "short-statured file clerk with unusually nimble and dexterous fingers needed for speed filing." Craig writes down the address.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. OFFICE BUILDING LOBBY - DAY}
 <ACTION>__{Craig. in sport coat and tie, studies the business listings board. He finds LesterCorp, and sees that it is located on floor 7 1/2. Craig presses the elevator button and waits. Another man comes and waits next to him. The doors open, and Craig and the other man get in.}
@@ -156,7 +156,7 @@
 <ACTION>__{Craig climbs out onto the 7 1/2 floor.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SEVEN AND A HALF FLOOR - CONTINUOUS}
-<ACTION>__{Craig, hunched-over, makes his way down the hallway looking for LesterCorp. He passes a hunched-over man walking in the other direction. They nod to each other. Craig finds a door marked "LesterCorp - Meeting America's Filing Needs Since 1922."  He enters.}
+<ACTION>__{Craig, hunched-over, makes his way down the hallway looking for LesterCorp. He passes a hunched-over man walking in the other direction. They nod to each other. Craig finds a door marked "LesterCorp - Meeting America's Filing Needs Since 1922." He enters.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. LESTERCORP RECEPTION AREA - CONTINUOUS}
 <ACTION>__{All furniture is scaled down to fit into this low-ceilinged space. A few other short men sit reading tiny magazines. Craig approaches Floris, the receptionist.}
@@ -264,7 +264,7 @@
 <ACTION>__{It's a small screening room with red velvet seats. There are a few people scattered about the squat theater. Craig is among them. He looks around the room and his eyes rest momentarily on Maxine. She is in her late 20's with close cropped black hair. Her eyes are opaque, her face expressionless, her countenance trance-like. She glances over at Craig, then turns back to the screen. The lights dim. A projector whirs and the screen is illuminated.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. OFFICE BUILDING - DAY}
-<ACTION>__{We tilt up the building. MUSIC:    Perky Industrial Film Music. TITLE:    The 7 1/2 Floor}
+<ACTION>__{We tilt up the building. MUSIC: Perky Industrial Film Music. TITLE: The 7 1/2 Floor}
 <CHAR>__{NARRATOR } <CHAR_PAR>__{(0.S.)}
 <DIAL>__{Welcome to the 7 1/2 floor of the Mertin-Flemmer building. As you will now be spending your work day here, it is important that you learn a bit about the history of this famous floor.}
 <TRANS>__{DISSOLVE TO:}
@@ -315,7 +315,7 @@
 <DIAL>__{So that's the story of 7 1/2. Since the rents are considerably lower this floor has been adopted by businesses which for one reason or another are forced to cut corners After all... the overhead is low! Ha ha ha!}
 <CHAR>__{WENDY} <CHAR_PAR>__{}
 <DIAL>__{Ha ha ha!}
-<ACTION>__{TITLE:    The End}
+<ACTION>__{TITLE: The End}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ORIENTATION ROOM - DAY}
 <ACTION>__{The screen goes dark. The lights go up. Craig looks over at Maxine. She stands and walks past him.}
@@ -458,7 +458,7 @@
 <ACTION>__{Maxine walks away.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CRAIG AND LOTTE'S GARAGE - NIGHT}
-<ACTION>__{Craig is at his workbench, painting the finishing touches on a new puppet. It is beautiful. It is Maxine. Lotte watches quietly from  the door. A Lotte puppet hangs from a hook, tangled and dusty.}
+<ACTION>__{Craig is at his workbench, painting the finishing touches on a new puppet. It is beautiful. It is Maxine. Lotte watches quietly from the door. A Lotte puppet hangs from a hook, tangled and dusty.}
 <CHAR>__{LOTTE} <CHAR_PAR>__{}
 <DIAL>__{New puppet?}
 <ACTION>__{Craig is surprised, caught.}
@@ -532,7 +532,7 @@
 <CHAR>__{MAXINE} <CHAR_PAR>__{}
 <DIAL>__{What?}
 <CHAR>__{CRAIG} <CHAR_PAR>__{}
-<DIAL>__{I just wanted to say hi.  Did you know I still don't know your name or where you work?}
+<DIAL>__{I just wanted to say hi. Did you know I still don't know your name or where you work?}
 <CHAR>__{MAXINE} <CHAR_PAR>__{}
 <DIAL>__{Yeah.}
 <CHAR>__{CRAIG} <CHAR_PAR>__{}
@@ -760,7 +760,7 @@
 <DIAL>__{Put up reel 752.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ORIENTATION ROOM - DAY}
-<ACTION>__{Craig sits in the otherwise empty screening room. The lights dim, the film begins. TITLE:    THE LITTLE DOOR IN THE VACANT OFFICE}
+<ACTION>__{Craig sits in the otherwise empty screening room. The lights dim, the film begins. TITLE: THE LITTLE DOOR IN THE VACANT OFFICE}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. VACANT OFFICE - DAY}
 <ACTION>__{Wendy crouches in the vacant office and studies the closed little door. Don enters. smiling.}
@@ -782,7 +782,7 @@
 <DIAL>__{Wow! That's some story, Don.}
 <CHAR>__{DON} <CHAR_PAR>__{}
 <DIAL>__{Truth is stranger than fiction, Wendy!}
-<ACTION>__{They laugh. TITLE:    THE END}
+<ACTION>__{They laugh. TITLE: THE END}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ORIENTATION ROOM - DAY}
 <ACTION>__{The lights go up. Craig sits there for a moment. An usher pushes a broom down the aisle.}
@@ -1273,7 +1273,7 @@
 <ACTION>__{Erroll takes out his wallet.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. DITCH - DAY}
-<ACTION>__{Craig waits by his car, checks his watch. "Pop!"  Erroll plops into the ditch, wet and unkempt. He looks around, sees Craig, charges him with a yell and gives him an enormous bear hug.}
+<ACTION>__{Craig waits by his car, checks his watch. "Pop!" Erroll plops into the ditch, wet and unkempt. He looks around, sees Craig, charges him with a yell and gives him an enormous bear hug.}
 <CHAR>__{ERROLL} <CHAR_PAR>__{}
 <DIAL>__{Oh, thank you! Thank you! Thousand times, thank you!}
 <CHAR>__{CRAIG} <CHAR_PAR>__{}
@@ -1312,7 +1312,7 @@
 <LOC>__{INT. DR. LESTER'S ALTAT ROOM - NIGHT}
 <ACTION>__{Many cloaked people in the room kneeling with candles in hand before the lit photo of Malkovich. Lotte kneels in the back row. They chant:}
 <CHAR>__{DISCIPLES OF MALKOVICH} <CHAR_PAR>__{}
-<DIAL>__{How much do we love you? We loved you in "Making Mr. Right."  That is how much we love you. We even own the director's cut on laser disc. Please accept us into your head as we have accepted you into our hearts. Please let us be you. Amen.}
+<DIAL>__{How much do we love you? We loved you in "Making Mr. Right." That is how much we love you. We even own the director's cut on laser disc. Please accept us into your head as we have accepted you into our hearts. Please let us be you. Amen.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. LESTER'S DINING ROOM - A BIT LATER}
 <ACTION>__{The worshippers mill about, chatting, drinking coffee, nibbling on cookies.}
@@ -1574,7 +1574,7 @@
 <CHAR>__{PARROT} <CHAR_PAR>__{}
 <DIAL>__{Shut up!}
 <CHAR>__{CRAIG} <CHAR_PAR>__{}
-<DIAL>__{Lesson number one:  Be careful what you teach your parrot.}
+<DIAL>__{Lesson number one: Be careful what you teach your parrot.}
 <ACTION>__{Craig tapes Lotte's mouth, ties her hands and feet. Elijah watches him tie her. He becomes somewhat agitated, and holds his stomach.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BROADHURST THEATER - DAY}
@@ -1868,7 +1868,7 @@
 <DIAL>__{Oh, Elijah, you are magnificent!}
 <ACTION>__{Elijah beams and screams for ecstatic joy. Lotte unlocks the cage, and dials the phone.}
 <CHAR>__{LOTTE} <CHAR_PAR>__{}
-<DIAL>__{Maxine! Listen:  It hasn't been me in John the last three times. Craig's had me locked up in the apartment. He made me call you at gunpoint. It's been him! Oh, God, it's been him!}
+<DIAL>__{Maxine! Listen: It hasn't been me in John the last three times. Craig's had me locked up in the apartment. He made me call you at gunpoint. It's been him! Oh, God, it's been him!}
 <CHAR>__{MAXINE } <CHAR_PAR>__{(O.S.)}
 <DIAL_PAR>__{(beat, calmly)}
 <DIAL>__{Really? Well, you know, he's quite good. I'm surprised. Anyway, I have a session with Malkovich I have to attend. I'll speak with you soon.}
@@ -2223,7 +2223,7 @@
 <ACTION>__{Elijah looks at her sweetly, a great sadness in his eyes. Then he leads her by the hand out the window.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. VEGAS HOTEL - NIGHT}
-<ACTION>__{The marquee reads:  World's Greatest Puppeteer Craig Schwartz and his Magical Puppet John Malkovich.}
+<ACTION>__{The marquee reads: World's Greatest Puppeteer Craig Schwartz and his Magical Puppet John Malkovich.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. DRESSING ROOM - NIGHT}
 <ACTION>__{Malkovich sits in a tuxedo and watches himself in the dressing table mirror. Maxine, in a tight black number, reclines on the couch.}
@@ -2248,7 +2248,7 @@
 <CHAR>__{LESTER } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(grudgingly)}
 <DIAL>__{Pretty good though.}
-<ACTION>__{Malkovich does an amazing triple somersault, lands on one knee and, with spread arms, begins singing: "Kiss Today Goodbye."  in a beautiful tenor. The orchestra catches up with him. The audience goes wild. A pretty-boy young man with a big tousle of black hair and a shiny, tight suit appears at the back of the house. An usher glances over at him.}
+<ACTION>__{Malkovich does an amazing triple somersault, lands on one knee and, with spread arms, begins singing: "Kiss Today Goodbye." in a beautiful tenor. The orchestra catches up with him. The audience goes wild. A pretty-boy young man with a big tousle of black hair and a shiny, tight suit appears at the back of the house. An usher glances over at him.}
 <CHAR>__{USHER} <CHAR_PAR>__{}
 <DIAL>__{Oh, Mr. Mantini! We weren't expecting you tonight, sir. Um, I'm afraid there's not an empty seat in the entire house.}
 <CHAR>__{MANTINI} <CHAR_PAR>__{}
@@ -2256,7 +2256,7 @@
 <DIAL>__{Make one empty.}
 <CHAR>__{USHER} <CHAR_PAR>__{}
 <DIAL>__{Y-y-y-es sir.}
-<ACTION>__{The usher looks nervously around for someone to boot. Martini waits in the back. On stage, Malkovich is now performing the "back of the car scene" from "On The Waterfront."  He alternates between the Marlon Brando part and the Rod Steiger part, moving back and forth from one stool to the another. He performs it magnificently. We see Lester in the audience wiping a small tear from his eye.}
+<ACTION>__{The usher looks nervously around for someone to boot. Martini waits in the back. On stage, Malkovich is now performing the "back of the car scene" from "On The Waterfront." He alternates between the Marlon Brando part and the Rod Steiger part, moving back and forth from one stool to the another. He performs it magnificently. We see Lester in the audience wiping a small tear from his eye.}
 <CHAR>__{LESTER} <CHAR_PAR>__{}
 <DIAL>__{Not too shabby.}
 <ACTION>__{Mantini is now sitting in a good aisle seat next to a beautiful woman. Her boyfriend is being hauled toward the exit by the usher. The beautiful woman watches, with some concern, as the boyfriend is taken away. Then she turns and smiles flirtatiously at Mantini. Mantini smiles back. On stage Malkovich is dressed in a ringmaster's outfit and juggling chainsaws.}
@@ -2265,7 +2265,7 @@
 <ACTION>__{At this point the entire audience stands and gives Malkovich a spontaneous standing ovation. All except Mantini. Even the cultists get up.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SEWER - NIGHT}
-<ACTION>__{Lotte sits sadly in the wet tunnel. She is scrunched-up against the damp cold. A small fire smolders in front of her. We hear footsteps approaching. It is Elijah, carrying supplies:  food and blankets. He covers her with a blanket and sits down next to her.}
+<ACTION>__{Lotte sits sadly in the wet tunnel. She is scrunched-up against the damp cold. A small fire smolders in front of her. We hear footsteps approaching. It is Elijah, carrying supplies: food and blankets. He covers her with a blanket and sits down next to her.}
 <CHAR>__{LOTTE} <CHAR_PAR>__{}
 <DIAL>__{They're going to take over the world, Elijah. Evil will reign. But, then, evil already reigns, doesn't it? So what difference does it make if John Malkovich is wearing the fucking crown while it's reigning?}
 <ACTION>__{Elijah sighs, then holds his stomach. The ulcer is returning.}
@@ -2304,7 +2304,7 @@
 <LOC>__{INT. HOTEL SUITE - NIGHT}
 <ACTION>__{Malkovich sits on the floor in silk pajamas. He is surrounded by newspaper clippings. He is drinking champagne from the bottle. Maxine is at a dressing table, brushing her hair.}
 <CHAR>__{MALKOVICH} <CHAR_PAR>__{}
-<DIAL>__{They love me, darling! "Craig Schwartz is fantastic!"  The New York Times. "If only Craig Schwartz had always been inside Malkovich!"  Women's Wear Daily. "Craig Schwartz - The world's greatest puppeteer!"  Paul Wunder, WBAI Radio.}
+<DIAL>__{They love me, darling! "Craig Schwartz is fantastic!" The New York Times. "If only Craig Schwartz had always been inside Malkovich!" Women's Wear Daily. "Craig Schwartz - The world's greatest puppeteer!" Paul Wunder, WBAI Radio.}
 <CHAR>__{MAXINE} <CHAR_PAR>__{}
 <DIAL>__{Oh, darling. It's a dream come true. We're going to ride this straight to the top.}
 <CHAR>__{MALKOVICH} <CHAR_PAR>__{}
@@ -2373,7 +2373,7 @@
 <CHAR>__{MAXINE} <CHAR_PAR>__{}
 <DIAL>__{Yeah, we'll see, Schwartz. We'll see.}
 <CHAR>__{MANTINI} <CHAR_PAR>__{}
-<DIAL>__{I won't waste your time Schwartz, or more importantly, mine. Here's my proposal: There's only room in this world for one "World's Greatest Puppeteer."  Correct? So let's allow the puppet-going public to crown their king.}
+<DIAL>__{I won't waste your time Schwartz, or more importantly, mine. Here's my proposal: There's only room in this world for one "World's Greatest Puppeteer." Correct? So let's allow the puppet-going public to crown their king.}
 <CHAR>__{MALKOVICH} <CHAR_PAR>__{}
 <DIAL>__{How do we do that?}
 <CHAR>__{MANTINI} <CHAR_PAR>__{}
@@ -2590,7 +2590,7 @@
 <ACTION>__{A dejected Craig walks along the shoulder. He is wet and cold. We hold on him for a long while until he eventually merges with the landscape.}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{EXT. MANHATTAN STREET - DAY}
-<ACTION>__{CHYRON:  LATER THAT WEEK Something is wrong. It's a typical midtown street, but everything is painted gray:  the buildings, the streets, the sidewalks, the cars. People walk along the streets, carrying gray briefcases, wearing gray jumpsuits. Nobody talks, nobody smiles. Gray birds fly silently in the sky. There is no noise whatsoever. There are several movie theaters on the block. All marquees advertise John Malkovich movies. Around the corner comes Malkovich. He is floating about ten feet off the ground on an enormous, bright red, jeweled throne. He wears a gold crown and purple silk robe and smiles condescendingly, majestically. Floris sits on his lap. She is dressed in an orange satin gown. Nobody on the street looks up.}
+<ACTION>__{CHYRON: LATER THAT WEEK Something is wrong. It's a typical midtown street, but everything is painted gray: the buildings, the streets, the sidewalks, the cars. People walk along the streets, carrying gray briefcases, wearing gray jumpsuits. Nobody talks, nobody smiles. Gray birds fly silently in the sky. There is no noise whatsoever. There are several movie theaters on the block. All marquees advertise John Malkovich movies. Around the corner comes Malkovich. He is floating about ten feet off the ground on an enormous, bright red, jeweled throne. He wears a gold crown and purple silk robe and smiles condescendingly, majestically. Floris sits on his lap. She is dressed in an orange satin gown. Nobody on the street looks up.}
 <CHAR>__{MALKOVICH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(fifty voices)}
 <DIAL>__{Greetings, my lowly subjects.}
@@ -2613,7 +2613,7 @@
 <LOC>__{EXT. CENTRAL PARK - DAY}
 <ACTION>__{Bird's eye view of the park. It's all painted gray. Every tree, every leaf. There's no sign of life. The camera moves in, through some gray trees and gray brush to:}
 <ACTION_ALT>__{A LUSH GREEN OASIS CAMOUFLAGED ON THE TOP AND SIDES WITH GRAY PAINT}
-<ACTION>__{This place is filled with life:  Colorful birds, lizards, cats, a rooster. All the animals are active, happy, but totally silent, as if they know the precariousness of their position. Lotte and Elijah sit among them. These are the animals that she freed earlier. Lotte and Elijah hold hands and look into each other's eyes. We see that they both wear gold bands. They are husband and wife. Elijah signs.}
+<ACTION>__{This place is filled with life: Colorful birds, lizards, cats, a rooster. All the animals are active, happy, but totally silent, as if they know the precariousness of their position. Lotte and Elijah sit among them. These are the animals that she freed earlier. Lotte and Elijah hold hands and look into each other's eyes. We see that they both wear gold bands. They are husband and wife. Elijah signs.}
 <CHAR>__{ELIJAH } <CHAR_PAR>__{(SUBTITLES)}
 <DIAL>__{Must you take this terrible demon on yourself, my love?}
 <CHAR>__{LOTTE} <CHAR_PAR>__{}

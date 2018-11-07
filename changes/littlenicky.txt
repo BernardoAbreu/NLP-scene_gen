@@ -1021,7 +1021,8 @@
 <ACTION>__{Nicky frowns and bites his lip.  The can rattles a little.}
 <CHAR>__{TODD} <CHAR_PAR>__{}
 <DIAL>__{What are you doing?}
-<ACTION>__{Todd is standing in the doorway.  Beefy runs to the fire escape. *******************}
+<ACTION>__{Todd is standing in the doorway.  Beefy runs to the fire escape.}
+
 <CHAR>__{TODD } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I know it's your living room night.  But can I finish watching the Globetrotters' game out here?  To me it's classic Comedia Dellarte.}
 <TRANS>__{CUT TO:}

@@ -19,11 +19,11 @@
 <DIAL>__{You call me in on my day off because some idiots have broken into local Democratic Headquarters--tell me, Harry, why should I be smiling?}
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL>__{As usual, that keen mind of yours has pegged the situation perfectly.}
-<DIAL_PAR>__{(chomps on some Maalox  tablets)}
+<DIAL_PAR>__{(chomps on some Maalox tablets)}
 <DIAL>__{Except (a) it wasn't local Democratic Headquarters, it was National Democratic Headquarters--}
 <DIAL_PAR>__{(WOODWARD is surprised-- he hadn't known)}
 <DIAL>__{--and (b) these weren't just any idiots, these were special idiots, seeing as when they were arrested at 2:30 this morning, they were all wearing business suits and Playtex gloves and were carrying--}
-<DIAL_PAR>__{(consults a piece of  paper)}
+<DIAL_PAR>__{(consults a piece of paper)}
 <DIAL>__{--a walkie-talkie, forty rolls of film, cameras, lock picks, pen-sized tear gas guns, plus various bugging devices.}
 <DIAL_PAR>__{(puts paper down)}
 <DIAL>__{Not to mention over two thousand dollars, mostly in sequenced hundred dollar bills.}
@@ -40,11 +40,11 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{A CLERK AT A DESK as WOODWARD comes up. Behind them, two lawyers are clearly angry about something, talking and gesticulating to each other.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to the COUNSEL'S  CLERK)}
+<DIAL_PAR>__{(to the COUNSEL'S CLERK)}
 <DIAL>__{Could you give me the names of the lawyers for the men arrested in the Watergate.}
 <CHAR>__{CLERK} <CHAR_PAR>__{}
 <DIAL>__{These two were appointed--}
-<DIAL_PAR>__{(indicates the angry  men)}
+<DIAL_PAR>__{(indicates the angry men)}
 <DIAL>__{--only now it turns out the burglars got their own counsel.}
 <DIAL_PAR>__{(he starts to laugh)}
 <CHAR>__{FIRST ANGRY LAWYER} <CHAR_PAR>__{}
@@ -53,7 +53,7 @@
 <CHAR>__{SECOND ANGRY LAWYER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(To CLERK)}
 <DIAL>__{We wouldda done a terrific job protecting those guys.}
-<DIAL_PAR>__{(neither lawyer, by  the way, is Clarence Darrow)}
+<DIAL_PAR>__{(neither lawyer, by the way, is Clarence Darrow)}
 <CHAR>__{FIRST ANGRY LAWYER} <CHAR_PAR>__{}
 <DIAL>__{You think we're not as good as some hotshot fancy lawyer?--}
 <TRANS>__{CUT TO:}
@@ -71,7 +71,7 @@
 <CHAR>__{CADDY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(impatiently)}
 <DIAL>__{Clearly, I am here, but only as an individual, I'm not the attorney of record.}
-<DIAL_PAR>__{(indicating unshaven  man)}
+<DIAL_PAR>__{(indicating unshaven man)}
 <DIAL>__{Mr. Rafferty has that position. Whatever you want, you'll have to get from him, I have nothing more to say.}
 <ACTION>__{And as he gets up, walks off--}
 <TRANS>__{CUT TO:}
@@ -118,7 +118,7 @@
 <DIAL_PAR>__{(stops himself)}
 <DIAL>__{--I have nothing more to say.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(leaning forward as  CADDY turns away again)}
+<DIAL_PAR>__{(leaning forward as CADDY turns away again)}
 <DIAL>__{A Miami social occasion?}
 <DIAL_PAR>__{(explaining)}
 <DIAL>__{Mr. Rafferty told me the Cubans were from Miami.}
@@ -170,7 +170,7 @@
 <CHAR>__{JUDGE} <CHAR_PAR>__{}
 <DIAL>__{Where in government?}
 <CHAR>__{MCCORD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(we can't really make  this out)}
+<DIAL_PAR>__{(we can't really make this out)}
 <DIAL>__{...Central... Intelligence... Agency...}
 <CHAR>__{JUDGE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(he can't either)}
@@ -191,7 +191,7 @@
 <CHAR>__{UNION POST EMPLOYEE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(reading half-aloud)}
 <DIAL>__{"Five men, one of whom said he is a former employee..."}
-<DIAL_PAR>__{(stops reading, gives  a shrug)}
+<DIAL_PAR>__{(stops reading, gives a shrug)}
 <DIAL>__{Schmucks.}
 <ACTION>__{And he turns happily to the sports section--}
 <TRANS>__{CUT TO:}
@@ -207,7 +207,7 @@
 <DIAL>__{--I said look, not memorize--}
 <CHAR>__{BACHINSKI} <CHAR_PAR>__{}
 <DIAL>__{--almost done, give it a rest, all right...}
-<DIAL_PAR>__{(and he looks at an  address book, he stops)}
+<DIAL_PAR>__{(and he looks at an address book, he stops)}
 <TRANS>__{CUT TO:}
 <ACTION>__{THE ADDRESS BOOk. Beside the name "Howard E. Hunt" is the notation "W.House." Now, BACHINSKI hurriedly opens the other book to the letter "H" and there is the same name, "Howard E. Hunt" and beside it, the letters, "W.H."}
 <CHAR>__{COP } <CHAR_PAR>__{(V.O.)}
@@ -225,7 +225,7 @@
 <DIAL>__{Bachinski?}
 <DIAL_PAR>__{(reaches for a notebook)}
 <DIAL>__{What?--hold it--}
-<DIAL_PAR>__{(gets it open, starts  to write)}
+<DIAL_PAR>__{(gets it open, starts to write)}
 <DIAL>__{--OK, go on, go on...}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{A BOX OF MAALOX TABLETS.}
@@ -283,7 +283,7 @@
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(not happy)}
 <DIAL>__{I can't sell hints to Simons--}
-<DIAL_PAR>__{(stops, looks at piece  of yellow paper)}
+<DIAL_PAR>__{(stops, looks at piece of yellow paper)}
 <DIAL>__{--you called everyone you know?}
 <DIAL_PAR>__{(WOODWARD makes a nod)}
 <DIAL>__{Call someone you don't know.}
@@ -383,7 +383,7 @@
 <DIAL>__{Hunt is Colson's man--}
 <DIAL_PAR>__{(to SIMONS, explaining)}
 <DIAL>__{--that's Charles Colson, Nixon's special counsel--}
-<DIAL_PAR>__{(SIMONS almost says  something, decides against it)}
+<DIAL_PAR>__{(SIMONS almost says something, decides against it)}
 <DIAL>__{--they both went to Brown University--}
 <DIAL_PAR>__{(consulting his notes)}
 <DIAL>__{--Hunt worked for the C.I.A. till '70, and this is on deep background, the FBI thinks he's involved with the break-in.}
@@ -401,7 +401,7 @@
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL>__{So?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(he's got something  and he knows it)}
+<DIAL_PAR>__{(he's got something and he knows it)}
 <DIAL>__{I never asked them about Watergate. I only said what were Hunt's duties at the White House. They volunteered that he was innocent when nobody asked was he guilty.}
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to SIMONS)}
@@ -496,7 +496,7 @@
 <DIAL>__{Is mine better?}
 <ACTION>__{WOODWARD nods.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(handing the stories  back)}
+<DIAL_PAR>__{(handing the stories back)}
 <DIAL>__{What is it about my writing that's so rotten?}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(as he exits)}
@@ -511,7 +511,7 @@
 <DIAL_PAR>__{(turns)}
 <DIAL>__{Yeah?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(pushing his chair  briefly into view)}
+<DIAL_PAR>__{(pushing his chair briefly into view)}
 <DIAL>__{Fuck you, Carl.}
 <ACTION>__{And as he rolls forward again, out of sight--}
 <TRANS>__{CUT TO:}
@@ -523,7 +523,7 @@
 <DIAL>__{You heard?}
 <DIAL_PAR>__{(WOODWARD glances up)}
 <DIAL>__{They put us both on the break-in thing. Simons liked the way we worked together.}
-<DIAL_PAR>__{(WOODWARD nods,  BERNSTEIN sits down)}
+<DIAL_PAR>__{(WOODWARD nods, BERNSTEIN sits down)}
 <DIAL>__{Listen, I'm sorry I said your story was bullshit.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{It's OK; I'm sorry I called you a failure.}
@@ -573,7 +573,7 @@
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{What do you think he meant, this particular incident? Were there others? How would we find out? You know anyone important?}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(sits, shakes his  head)}
+<DIAL_PAR>__{(sits, shakes his head)}
 <DIAL>__{I lived here all my life, I got a million contacts, but they're all bus boys and bellhops.}
 <ACTION>__{The reporter KEN RINGLE at the next desk watches them a moment. Then--}
 <CHAR>__{RINGLE} <CHAR_PAR>__{}
@@ -581,7 +581,7 @@
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Someone inside the White House would be nice.}
 <CHAR>__{RINGLE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(writes down phone  number)}
+<DIAL_PAR>__{(writes down phone number)}
 <DIAL>__{Call her. She worked for Colson, if that's any help.}
 <ACTION>__{As BERNSTEIN grabs for the phone--}
 <TRANS>__{CUT TO:}
@@ -618,7 +618,7 @@
 <CHAR>__{OPERATOR } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{One moment.}
 <CHAR>__{LIBRARIAN } <CHAR_PAR>__{(V.O.)}
-<DIAL_PAR>__{(elderly-sounding  lady)}
+<DIAL_PAR>__{(elderly-sounding lady)}
 <DIAL>__{Library.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Hi. Carl Bernstein of the Washington Post. I was just wondering if you remember the names of any of the books that Howard Hunt checked out on Senator Kennedy.}
@@ -641,7 +641,7 @@
 <DIAL>__{Yes, ma'am.}
 <CHAR>__{LIBRARIAN } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{What I said before? I was wrong. The truth is, I don't have a card that Mr. Hunt took out any Kennedy material.}
-<DIAL_PAR>__{(WOODWARD and BERNSTEIN  listen, and now there}
+<DIAL_PAR>__{(WOODWARD and BERNSTEIN listen, and now there}
 <DIAL>__{is something in her voice that wasn't}
 <DIAL_PAR>__{there before: fear)}
 <DIAL>__{I remember getting that material out for somebody, but it wasn't Mr. Hunt. The truth is, I've never had any requests at all from Mr. Hunt.}
@@ -914,7 +914,7 @@
 <DIAL>__{Who by?}
 <CHAR>__{IRWIN} <CHAR_PAR>__{}
 <DIAL>__{A Miami D.A. The guy doing the investigating is named Martin Dardis.}
-<DIAL_PAR>__{(finishes his peanuts,  starts off)}
+<DIAL_PAR>__{(finishes his peanuts, starts off)}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Irwin? I really feel bad, doing something like this--you know that, don't you?}
 <ACTION>__{IRWIN looks at BERNSTEIN for a long time. then--}
@@ -934,7 +934,7 @@
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL>__{I'm the one sent you to Toronto, Bernstein--}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(trying to head him  off)}
+<DIAL_PAR>__{(trying to head him off)}
 <DIAL>__{--that was awhile ago--}
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL>__{--"I think it might be helpful if you'd send me to Toronto." That was your spiel then. "The Lifestyles of Deserters."}
@@ -950,7 +950,7 @@
 <ACTION>__{SIMONS circling around the 5th floor. ROSENFELD falls into step. They keep moving throughout.}
 <CHAR>__{ROSENFELD} <CHAR_PAR>__{}
 <DIAL>__{I can predict the next words you're gonna say: "anyone but Bernstein."}
-<DIAL_PAR>__{(SIMONS gestures for  ROSENFELD to continue)}
+<DIAL_PAR>__{(SIMONS gestures for ROSENFELD to continue)}
 <DIAL>__{I want to send a reporter to Miami.}
 <CHAR>__{SIMONS} <CHAR_PAR>__{}
 <DIAL>__{Anyone but Bernstein.}
@@ -983,19 +983,19 @@
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Hannah, I never would have bothered you but I'm off to Miami and they're gonna take away my ten speed unless I get it straightened out fast.}
 <CHAR>__{HANNAH} <CHAR_PAR>__{}
-<DIAL_PAR>__{(glancing around the  chaos)}
+<DIAL_PAR>__{(glancing around the chaos)}
 <DIAL>__{Where are your bills, Carl?}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Oh, they're here.}
-<DIAL_PAR>__{(starts lifting debris  from his desk)}
+<DIAL_PAR>__{(starts lifting debris from his desk)}
 <DIAL>__{I'm keeping much better records now, Hannah.}
-<DIAL_PAR>__{(grabbing a big manila  envelope)}
+<DIAL_PAR>__{(grabbing a big manila envelope)}
 <DIAL>__{See?}
 <DIAL_PAR>__{(hands it to her)}
 <CHAR>__{HANNAH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(looks inside)}
 <DIAL>__{Carl, it's a jungle.}
-<DIAL_PAR>__{(sits at his desk,  takes out a mass of}
+<DIAL_PAR>__{(sits at his desk, takes out a mass of}
 <DIAL>__{papers--glancing at}
 <DIAL_PAR>__{the top bill)}
 <DIAL>__{I suggest you either pay this immediately or lay in a large supply of candles.}
@@ -1070,7 +1070,7 @@
 <DIAL>__{Could you reach Mr. Dardis by car radio?}
 <CHAR>__{SECRETARY} <CHAR_PAR>__{}
 <DIAL>__{He is not in the car.}
-<DIAL_PAR>__{(Smiles; she's just  so understanding)}
+<DIAL_PAR>__{(Smiles; she's just so understanding)}
 <DIAL>__{Sorry.}
 <TRANS>__{CUT TO:}
 <ACTION>__{ANOTHER UNIFORMED COP walking by the SECRETARY's desk.}
@@ -1131,7 +1131,7 @@
 <CHAR>__{DARDIS} <CHAR_PAR>__{}
 <DIAL>__{I'll never get out of here in time.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(flying through what  he's been handed)}
+<DIAL_PAR>__{(flying through what he's been handed)}
 <DIAL>__{The telephone calls... we know about that.}
 <CHAR>__{DARDIS} <CHAR_PAR>__{}
 <DIAL>__{The rest is Barker's bank records. It's mostly the eighty-nine thousand in Mexican cashier's checks--}
@@ -1162,7 +1162,7 @@
 <ACTION>__{BERNSTEIN IN A PHONE BOOTH in the lobby of the Justice Building. Wildly excited--}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{--Woodward--Woodward, listen, I don't know what I got--}
-<DIAL_PAR>__{(holding the Dahlberg  facsimile)}
+<DIAL_PAR>__{(holding the Dahlberg facsimile)}
 <DIAL>__{--and I think the Times has it too--}
 <DIAL_PAR>__{(big)}
 <DIAL>__{--but somewhere there's a Kenneth H. Dahlberg in this world and we've gotta find him--}
@@ -1218,7 +1218,7 @@
 <DIAL>__{Yes, sir.}
 <CHAR>__{DAHLBERG } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I'm a proper citizen, I'm a decent man, I don't do anything that isn't decent or proper.}
-<DIAL_PAR>__{(WOODWARD waits, pen  ready; tense as hell)}
+<DIAL_PAR>__{(WOODWARD waits, pen ready; tense as hell)}
 <DIAL>__{I know I shouldn't tell you this...}
 <ACTION>__{WOODWARD's lips are going "tell me, tell me."}
 <CHAR>__{DAHLBERG } <CHAR_PAR>__{(V.O.)}
@@ -1228,7 +1228,7 @@
 <CHAR>__{DAHLBERG } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I don't know; I really don't. The last time I saw it was when I was in Washington. I gave it to the Finance department of the Committee to Re- Elect the President. How it got to that burglar, your guess is as good as mine.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(trying to keep his  voice level)}
+<DIAL_PAR>__{(trying to keep his voice level)}
 <DIAL>__{That checks out with our finding, thank you, Mr. Dahlberg.}
 <TRANS>__{CUT TO:}
 <ACTION>__{AN ARTICLE WITH WOODWARD'S NAME ON THE BYLINE. ROSENFELD holds it.}
@@ -1288,12 +1288,12 @@
 <DIAL_PAR>__{(after a beat)}
 <DIAL>__{Then it's our asses, isn't it?}
 <CHAR>__{SIMONS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(indicates the meeting  is over)}
+<DIAL_PAR>__{(indicates the meeting is over)}
 <DIAL>__{And we'll all have to go to work for a living.}
 <ACTION>__{As the men rise and head for the door, the FOREIGN EDITOR moves toward BRADLEE and SIMONS who remain seated as before.}
 <CHAR>__{FOREIGN EDITOR} <CHAR_PAR>__{}
 <DIAL>__{I don't think either Metropolitan or National should cover the story.}
-<DIAL_PAR>__{(BRADLEE and SIMONS  look at him)}
+<DIAL_PAR>__{(BRADLEE and SIMONS look at him)}
 <DIAL>__{I don't think we should cover the story, period.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{Go on.}
@@ -1310,7 +1310,7 @@
 <ACTION>__{BRADLEE and SIMONS say nothing. They respect this guy.}
 <CHAR>__{FOREIGN EDITOR} <CHAR_PAR>__{}
 <DIAL>__{Look--why would the Republicans do it? --my God, McGovern is self- destructing before our eyes--just like Muskie did, Humphrey, the bunch of 'em.}
-<DIAL_PAR>__{(sits on the table,  talks quietly on)}
+<DIAL_PAR>__{(sits on the table, talks quietly on)}
 <DIAL>__{Why would the burglars have put the tape around the door instead of up and down unless they wanted to get caught? Why did they take a walkie- talkie and then turn it off, unless they wanted to get caught? Why would they use McCord--the only direct contact to the Republicans?}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{You saying the Democrats bugged themselves?}
@@ -1325,7 +1325,7 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{THE WOODWARD/BERNSTEIN STORY that said the GAO found that CREEP has mishandled over $500,000 in campaign funds.}
 <CHAR>__{UNION GUY} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to another UNION GUY  who's reading over his shoulder)}
+<DIAL_PAR>__{(to another UNION GUY who's reading over his shoulder)}
 <DIAL>__{What'd'ya think?}
 <CHAR>__{SECOND UNION GUY} <CHAR_PAR>__{}
 <DIAL>__{Politics as usual, someone just got caught with his hand in the cookie jar, that's all.}
@@ -1369,12 +1369,12 @@
 <ACTION>__{riding home on his bicycle. He gets to his building, starts lugging it up when--}
 <CHAR>__{JANE'S VOICE } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{They found out I saw you--}
-<DIAL_PAR>__{(BERNSTEIN stops,  glances around)}
+<DIAL_PAR>__{(BERNSTEIN stops, glances around)}
 <DIAL>__{--they wanted to know everything.}
 <DIAL_PAR>__{(louder)}
 <DIAL>__{Don't call me again.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(moving toward her  voice)}
+<DIAL_PAR>__{(moving toward her voice)}
 <DIAL>__{I can help if you'll--}
 <CHAR>__{JANE } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{--stay away from me, Carl!}
@@ -1414,7 +1414,7 @@
 <CHAR>__{FIRST MAID} <CHAR_PAR>__{}
 <DIAL>__{We'll be back after lunch.}
 <CHAR>__{BLACK MAN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(it's the voice from  the phone)}
+<DIAL_PAR>__{(it's the voice from the phone)}
 <DIAL>__{We'll be here.}
 <ACTION>__{WOODWARD waits by his door as 710 slowly closes. The maids look at him a moment. He knocks again, louder.}
 <CHAR>__{SECOND MAID} <CHAR_PAR>__{}
@@ -1426,13 +1426,13 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{NATIONAL AIRPORT IN D.C. - LATE AFTERNOON. People are getting off the shuttle, WOODWARD among them. BERNSTEIN waits.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(as WOODWARD reaches  him)}
+<DIAL_PAR>__{(as WOODWARD reaches him)}
 <DIAL>__{See her?}
 <DIAL_PAR>__{(WOODWARD nods)}
 <DIAL>__{Get anything?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{For the paper, no; for us, plenty.}
-<DIAL_PAR>__{(The two of them head  for the terminal)}
+<DIAL_PAR>__{(The two of them head for the terminal)}
 <DIAL>__{I waited a long time and finally this big guy--I guess a bodyguard-- he left and I knocked and she remembered me, we talked awhile.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{And?--And?--}
@@ -1475,14 +1475,14 @@
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{I don't get it... this really was my turf...}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(concentrating on the  map)}
+<DIAL_PAR>__{(concentrating on the map)}
 <DIAL>__{You're not a kid anymore.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shaking his head)}
 <DIAL>__{My first day as a copy boy I was sixteen and wearing my only grown-up suit--it was cream colored. At 2:30 the head copy boy comes running up to me and says, "My God, haven't you washed the carbon paper yet? If it's not washed by three, it'll never by dry for tomorrow."}
-<DIAL_PAR>__{(WOODWARD is getting  interested in the story now)}
+<DIAL_PAR>__{(WOODWARD is getting interested in the story now)}
 <DIAL>__{And I said, "Am I supposed to do that?" and he said, "Absolutely, it's crucial." So I run around and grab all the carbon paper from all the desks and take it to the men's room. I'm standing there washing it and it's splashing all over me and the editor comes in to take a leak, and he says, "What the fuck do you think you're doing?" And I said, "It's 2:30. I'm washing the carbon paper."}
-<DIAL_PAR>__{(BERNSTEIN looks at  WOODWARD)}
+<DIAL_PAR>__{(BERNSTEIN looks at WOODWARD)}
 <DIAL>__{Just wanted you to know I've done dumber things than get us lost, that's all.}
 <ACTION>__{WOODWARD goes back to his map. BERNSTEIN continues to smoke, staring around at the night.}
 <TRANS>__{CUT TO:}
@@ -1524,7 +1524,7 @@
 <TRANS>__{CUT TO:}
 <CHAR>__{A YOUNG GIRL} <CHAR_PAR>__{}
 <DIAL>__{--I can't--I'd like to but--}
-<DIAL_PAR>__{(that's all she'll  say)}
+<DIAL_PAR>__{(that's all she'll say)}
 <ACTION>__{And as her door starts to shut}
 <TRANS>__{CUT TO:}
 <CHAR>__{OLD MAN} <CHAR_PAR>__{}
@@ -1607,7 +1607,7 @@
 <DIAL>__{And I'm a Republican.}
 <ACTION>__{The middle-aged man looks at him.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(surprised, turns to  WOODWARD)}
+<DIAL_PAR>__{(surprised, turns to WOODWARD)}
 <DIAL>__{Republican?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{Sure.}
@@ -1627,7 +1627,7 @@
 <TRANS>__{CUT TO:}
 <CHAR>__{YOUNGER MAN} <CHAR_PAR>__{}
 <DIAL>__{--oh, don't worry, Gordon Liddy will be happy to take the fall for everyone because, well, it's not that Gordon's crazy, he's...}
-<DIAL_PAR>__{(pauses, looking for  the right word)}
+<DIAL_PAR>__{(pauses, looking for the right word)}
 <DIAL>__{...weird. I'll give you some Committee people who know about him--only don't tell it was me--}
 <TRANS>__{CUT TO:}
 <CHAR>__{YOUNGER WOMAN} <CHAR_PAR>__{}
@@ -1695,13 +1695,13 @@
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
 <DIAL>__{I never worked for Sloan or Stans.}
 <CHAR>__{BOOKKEEPER'S SISTER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(out of the blue; to  BERNSTEIN)}
+<DIAL_PAR>__{(out of the blue; to BERNSTEIN)}
 <DIAL>__{Would you like some coffee or anything?}
 <ACTION>__{As the BOOKKEEPER winces.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(like a shot)}
 <DIAL>__{Please, yes, thank you.}
-<DIAL_PAR>__{(he looks at the  BOOKKEEPER)}
+<DIAL_PAR>__{(he looks at the BOOKKEEPER)}
 <DIAL>__{Can I sit down for a minute?}
 <ACTION>__{He is by a couch.}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
@@ -1734,7 +1734,7 @@
 <DIAL_PAR>__{(going again)}
 <DIAL>__{I won't be a minute.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to the BOOKKEEPER,  quietly)}
+<DIAL_PAR>__{(to the BOOKKEEPER, quietly)}
 <DIAL>__{The General Accounting report said there was a 350 thousand cash slush fund in Stans' safe. Did you know about that from the beginning?}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(about to fold)}
@@ -1746,7 +1746,7 @@
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Could buy a lot of steaks, 350,000 dollars.}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(her words are coming  faster)}
+<DIAL_PAR>__{(her words are coming faster)}
 <DIAL>__{I can't be positive that it was used for the break-in but people sure are worried.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Which people?}
@@ -1760,7 +1760,7 @@
 <DIAL>__{Sloan knew which five, didn't he?}
 <DIAL_PAR>__{(she nods)}
 <CHAR>__{BOOKKEEPER'S SISTER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(back with cream and  sugar)}
+<DIAL_PAR>__{(back with cream and sugar)}
 <DIAL>__{Here we are.}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
 <DIAL>__{I don't want to say anymore.}
@@ -1770,15 +1770,15 @@
 <DIAL_PAR>__{(smiles)}
 <DIAL>__{--and you haven't finished telling me about the money--}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
-<DIAL_PAR>__{(long pause; then--in  a burst)}
+<DIAL_PAR>__{(long pause; then--in a burst)}
 <DIAL>__{--omigod, there was so much of it, six million came in one two-day period-- six million cash, we couldn't find enough places to put it. I thought it was all legal, I guess I did, til after the break-in, when I remembered Gordon got so much of it.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(heart starting to  pound)}
+<DIAL_PAR>__{(heart starting to pound)}
 <DIAL>__{Gordon Liddy, you mean?}
 <CHAR>__{BOOKKEEPER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(nods)}
 <DIAL>__{It was all so crazy--the day after the break-in he gave us a speech, bouncing up and down on his heels in that loony way of his--Gordon told us not to let Jim McCord ruin everything--don't let one bad apple spoil the barrel, he said. You just know that when Gordon Liddy's calling someone a bad apple, something's wrong somewhere.}
-<DIAL_PAR>__{(more and more moved  now)}
+<DIAL_PAR>__{(more and more moved now)}
 <DIAL>__{...It's all so rotten... and getting worse... and all I care about is Hugh Sloan. His wife was going to leave him if he didn't stand up and do what was right. And he quit. He quit because he saw it and didn't want any part of it.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Think Sloan's being set up as a fall guy for John Mitchell? Sometimes it looks that way.}
@@ -1790,7 +1790,7 @@
 <ACTION_ALT>__{A TYPEWRITER}
 <ACTION>__{clicking away. The words "INTERVIEW WITH X. SEPT. 14" are visible. There is music in the background, really blasting away, Rachmaninoff or worse. We are in WOODWARD's apartment and BERNSTEIN is dictating notes from the BOOKKEEPER interview. It's very late, and BERNSTEIN has notes on everything, matchboxes, and it's hard for him to read. They're both really excited, BERNSTEIN from his coffee jag, WOODWARD by what BERNSTEIN's dictating.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL>__{I  couldn't believe what she told me. Eight cups of coffee worth.}
+<DIAL>__{I couldn't believe what she told me. Eight cups of coffee worth.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{Go on, go on--}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
@@ -1805,7 +1805,7 @@
 <DIAL>__{--she was really paranoid, the bookkeeper.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{That happens to people.}
-<DIAL_PAR>__{(he goes over, turns  the hi-fi on even louder. Shouts--)}
+<DIAL_PAR>__{(he goes over, turns the hi-fi on even louder. Shouts--)}
 <DIAL>__{OK, go on.}
 <ACTION>__{The noise blasts away as BERNSTEIN and WOODWARD hunch over the typewriter. It's a moment of genuine exhilaration. Paranoid, sure, but for the first time, they're really on to something; it's all starting to split open...}
 <TRANS>__{CUT TO:}
@@ -1815,7 +1815,7 @@
 <DIAL>__{How do you want to handle Sloan?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{You mean, who's going to play the mean M.P. and who's going to be the nice one?}
-<DIAL_PAR>__{(BERNSTEIN nods;  WOODWARD shrugs)}
+<DIAL_PAR>__{(BERNSTEIN nods; WOODWARD shrugs)}
 <DIAL>__{Whichever.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{He's another Ivy Leaguer so he'll probably expect you to be understanding--might surprise him if you're not.}
@@ -1831,12 +1831,12 @@
 <DIAL>__{To see Mr. Sloan.}
 <CHAR>__{MRS. SLOAN} <CHAR_PAR>__{}
 <DIAL>__{He's out.}
-<DIAL_PAR>__{(There is a pause.  She studies them--)}
+<DIAL_PAR>__{(There is a pause. She studies them--)}
 <DIAL>__{You're those two from the Post, aren't you.}
 <DIAL_PAR>__{(they nod)}
 <DIAL>__{I'll tell him.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(as she's about to  step back inside)}
+<DIAL_PAR>__{(as she's about to step back inside)}
 <DIAL>__{This must be a difficult time for the both of you.}
 <CHAR>__{MRS. SLOAN} <CHAR_PAR>__{}
 <DIAL>__{This is an honest house.}
@@ -1869,7 +1869,7 @@
 <ACTION>__{THE McLEAN McDONALD'S--DINNERTIME. Lots of very noisy, happy children. WOODWARD and BERNSTEIN sit surrounded by their usual array of junk food.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{Think Sloan's back?}
-<DIAL_PAR>__{(BERNSTEIN seems lost  in thought)}
+<DIAL_PAR>__{(BERNSTEIN seems lost in thought)}
 <DIAL>__{What's wrong?}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Nothing--I just found out that Jeb Magruder from CREEP is a bigger bike freak than I am.}
@@ -1966,7 +1966,7 @@
 <DIAL>__{One thing I'm not completely clear on--when you gave out the money to Liddy, how did that work?}
 <CHAR>__{SLOAN} <CHAR_PAR>__{}
 <DIAL>__{Badly.}
-<DIAL_PAR>__{(and now for the first  time, he almost smiles)}
+<DIAL_PAR>__{(and now for the first time, he almost smiles)}
 <DIAL>__{You don't realize how close all this came to staying undiscovered--I gave Liddy the Dahlberg check and he gave it to Barker who took it to Miami and deposited it.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{Right.}
@@ -2040,7 +2040,7 @@
 <DIAL>__{--I saw him. He verifies.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{Ok.}
-<DIAL_PAR>__{(now after the burst  of talk, a pause)}
+<DIAL_PAR>__{(now after the burst of talk, a pause)}
 <DIAL>__{You're about to write a story that says that the former Attorney General-- the man who represented law in America-- is a crook.}
 <DIAL_PAR>__{(throws the nerfball)}
 <DIAL>__{Just be right, huh?}
@@ -2109,12 +2109,12 @@
 <DIAL>__{Once when I was reporting, Lyndon Johnson's top guy gave me the word they were looking for a successor to J. Edgar Hoover. I wrote it and the day it appeared Johnson called a press conference and appointed Hoover head of the FBI for life... And when he was done, he turned to his top guy and the President said, "Call Ben Bradlee and tell him fuck you."}
 <DIAL_PAR>__{(shakes his head)}
 <DIAL>__{I took a lot of static for that-- everyone said, "You did it, Bradlee, you screwed up--you stuck us with Hoover forever--"}
-<DIAL_PAR>__{(looks at WOODWARD  and BERNSTEIN)}
+<DIAL_PAR>__{(looks at WOODWARD and BERNSTEIN)}
 <DIAL>__{--I screwed up but I wasn't wrong.}
 <ACTION>__{They all watch the presses now.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{You guys haven't been wrong yet, is that why you're scared shitless?}
-<DIAL_PAR>__{(as WOODWARD and  BERNSTEIN nod, BRADLEE starts away)}
+<DIAL_PAR>__{(as WOODWARD and BERNSTEIN nod, BRADLEE starts away)}
 <DIAL>__{You should be...}
 <TRANS>__{CUT TO:}
 <ACTION>__{THE PRESSES continuing to roll. The SOUND is incredible. Now--}
@@ -2141,7 +2141,7 @@
 <DIAL_PAR>__{(reading)}
 <DIAL>__{Same kind of crap--}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(glancing through;  nods)}
+<DIAL_PAR>__{(glancing through; nods)}
 <DIAL>__{--all non-denial denials--we're dirty guys and they doubt we were ever virgins but they don't say the story is inaccurate.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{What's a real denial?}
@@ -2165,7 +2165,7 @@
 <DIAL>__{What do you think Mrs. Graham wants to see me for?}
 <CHAR>__{SIMONS} <CHAR_PAR>__{}
 <DIAL>__{Maybe to fire you--since you two started on this story, the Post stock has dropped, what, 50 percent?}
-<DIAL_PAR>__{(WOODWARD pushes for  the elevator)}
+<DIAL_PAR>__{(WOODWARD pushes for the elevator)}
 <DIAL>__{And the word is some Nixon people are challenging her TV licenses. I'm not saying she's going on relief, but I don't think it's unreasonable for her to want to meet you.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{You think she wants us to ease up on the story?}
@@ -2184,7 +2184,7 @@
 <DIAL>__{You know, the paper was my father's and my husband's when they were alive and I was thinking back a year or two ago when Ben called me and said he wanted to publish the Pentagon Papers the next day. The Times had already been stopped from publishing anymore of them and all my legal counsel said "don't, don't" and I was frightened but I knew if I said no, I'd lose the whole fifth floor. So we published, and that night, after I'd told Ben to go ahead, I woke up in the darkness and I thought, "Oh my Lord, what am I doing to this newspaper?"}
 <DIAL_PAR>__{(She looks at WOODWARD)}
 <DIAL>__{I woke up again last night with that same question.}
-<DIAL_PAR>__{(WOODWARD says nothing,  waits)}
+<DIAL_PAR>__{(WOODWARD says nothing, waits)}
 <DIAL>__{Are we right on this story?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{I think so.}
@@ -2204,7 +2204,7 @@
 <DIAL>__{Some Justice Department lawyers and an FBI man, and some people from the Committee to Re-Elect, yes ma'am.}
 <CHAR>__{MRS. GRAHAM} <CHAR_PAR>__{}
 <DIAL>__{And the underground garage one.}
-<DIAL_PAR>__{(WOODWARD, more nervous  now, nods)}
+<DIAL_PAR>__{(WOODWARD, more nervous now, nods)}
 <DIAL>__{Would I know him?}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
 <DIAL>__{I couldn't say.}
@@ -2215,7 +2215,7 @@
 <DIAL>__{It is.}
 <CHAR>__{MRS. GRAHAM} <CHAR_PAR>__{}
 <DIAL>__{You've never told anyone who he is?}
-<DIAL_PAR>__{(WOODWARD shakes his  head)}
+<DIAL_PAR>__{(WOODWARD shakes his head)}
 <DIAL>__{But you'd have to tell me if I asked you.}
 <DIAL_PAR>__{(WOODWARD nods)}
 <DIAL>__{Tell me.}
@@ -2248,7 +2248,7 @@
 <ACTION>__{BRADLEE says nothing, just points to the AP teletype. WOODWARD looks at it, clearly is upset.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{I thought you guys were supposed to be working on this story--}
-<DIAL_PAR>__{(to BERNSTEIN who  tears in--)}
+<DIAL_PAR>__{(to BERNSTEIN who tears in--)}
 <DIAL>__{--you think I like being aced out?}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{--what?--}
@@ -2345,7 +2345,7 @@
 <DIAL>__{Segovia begged me for me secret but I said, "No, Andres, you'll have to try and make it without me."}
 <ACTION>__{He switches to another song which sounds a lot like the one he just finished playing.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(pointing to the  thickest stacks)}
+<DIAL_PAR>__{(pointing to the thickest stacks)}
 <DIAL>__{California, Illinois, Florida, New Hampshire--all the major Democratic primary states.}
 <DIAL_PAR>__{(whirling)}
 <DIAL>__{Why does everything you play sound the same?}
@@ -2385,7 +2385,7 @@
 <ACTION>__{He waits; SEGRETTI just shakes his head.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{By "they" you mean the White House, don't you?}
-<DIAL_PAR>__{(SEGRETTI makes no  reply)}
+<DIAL_PAR>__{(SEGRETTI makes no reply)}
 <DIAL>__{Your buddy from USC, Dwight Chapin-- he works for the White House.}
 <CHAR>__{SEGRETTI} <CHAR_PAR>__{}
 <DIAL>__{I know where Dwight works.}
@@ -2433,7 +2433,7 @@
 <DIAL>__{Can't help you.}
 <CHAR>__{BERNSTEIN} <CHAR_PAR>__{}
 <DIAL>__{At USC, you had a word the this-- screwing up the opposition you all did it at college and called it ratfucking.}
-<DIAL_PAR>__{(SEGRETTI half-smiles,  nods)}
+<DIAL_PAR>__{(SEGRETTI half-smiles, nods)}
 <DIAL>__{Ever wonder if Nixon might turn out to be the biggest ratfucker of them all?}
 <TRANS>__{CUT TO:}
 <ACTION>__{CLOSE UP--SEGRETTI staring at the girls and the blue water.}
@@ -2596,7 +2596,7 @@
 <DIAL>__{Tell him what you just told me.}
 <CHAR>__{BERGER} <CHAR_PAR>__{}
 <DIAL>__{Just than Ken Clawsen--he used to be a reporter here before he went to work for Nixon--I had him over for a drink a few weeks ago and he told me he wrote the Canuck letter.}
-<DIAL_PAR>__{(she looks from one  of them to the other)}
+<DIAL_PAR>__{(she looks from one of them to the other)}
 <DIAL>__{You did want to know, didn't you?}
 <ACTION>__{And now from her--}
 <TRANS>__{CUT TO:}
@@ -2666,7 +2666,7 @@
 <DIAL>__{--if he did it or just said he did it, God knows.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{I could care less about where it happened; what happened is what counts.}
-<DIAL_PAR>__{(calling out to his  SECRETARY)}
+<DIAL_PAR>__{(calling out to his SECRETARY)}
 <DIAL>__{Put him on.}
 <DIAL_PAR>__{(picks up the phone)}
 <DIAL>__{Ken, I'm sorry, it was Goddamn Beirut and they were having a crisis, what's up, kid?}
@@ -2757,7 +2757,7 @@
 <DIAL>__{You had a good source?}
 <DIAL_PAR>__{(nod)}
 <DIAL>__{Did he have an ax?}
-<DIAL_PAR>__{(pause. Then another  nod)}
+<DIAL_PAR>__{(pause. Then another nod)}
 <ACTION>__{CLOSE UP--BRADLEE}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
 <DIAL>__{All right, you made a mistake maybe, we all have, just don't make another. And watch your personal lives, who you hang around with. Someone once said the price of democracy is a bloodletting every ten years.}
@@ -2804,7 +2804,7 @@
 <DIAL>__{I'm not your source on that.}
 <ACTION>__{He picks up a dust pan, starts sweeping it full.}
 <CHAR>__{WOODWARD} <CHAR_PAR>__{}
-<DIAL_PAR>__{(taking the dust pan,  helping out)}
+<DIAL_PAR>__{(taking the dust pan, helping out)}
 <DIAL>__{--look, when the Watergate grand jury questioned you, did you name names?}
 <CHAR>__{SLOAN} <CHAR_PAR>__{}
 <DIAL>__{Of course--everything they asked--}
@@ -2882,7 +2882,7 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{BRADLEE'S OFFICE. WOODWARD, BERNSTEIN, BRADLEE, SIMONS, ROSENFELD. Wild tension. The editors have a long story and they all read and pace, read and pace; the reporters look traumatized with fatigue. All this goes fast.}
 <CHAR>__{BRADLEE} <CHAR_PAR>__{}
-<DIAL_PAR>__{(staring at the typed  story)}
+<DIAL_PAR>__{(staring at the typed story)}
 <DIAL>__{--I don't know, I don't know, it feels thin--}
 <CHAR>__{SIMONS} <CHAR_PAR>__{}
 <DIAL>__{--Christ, I wish I knew if we should print this--}
@@ -2923,7 +2923,7 @@
 <DIAL>__{--I'm not sure, it still feels thin--}
 <DIAL_PAR>__{(looks at SIMONS)}
 <CHAR>__{SIMONS} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to WOODWARD and  BERNSTEIN, after a puse)}
+<DIAL_PAR>__{(to WOODWARD and BERNSTEIN, after a puse)}
 <DIAL>__{--get another source.}
 <ACTION>__{Now quickly}
 <TRANS>__{CUT TO:}
@@ -2956,7 +2956,7 @@
 <DIAL>__{Right, right--OK, counting: one, two--}
 <DIAL_PAR>__{(he inhales deeply)}
 <DIAL>__{--three, four, five, six--}
-<DIAL_PAR>__{(now he's starting to  get excited)}
+<DIAL_PAR>__{(now he's starting to get excited)}
 <DIAL>__{--seven, eight--}
 <DIAL_PAR>__{(inhales deeply)}
 <DIAL>__{--nine, ten, thank you.}

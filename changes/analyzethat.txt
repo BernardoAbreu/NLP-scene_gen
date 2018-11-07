@@ -3,9 +3,9 @@
 <ACTION_ALT>__{FOR EDUCATIONAL PURPOSES ONLY}
 <TRANS>__{FADE IN:}
 <LOC>__{INT. DIMLY-LIT BAR - NIGHT}
-<ACTION>__{Two men, CAESAR and MARTY "DUCKS," stand at  the   end of the deserted bar, talking quietly, oblivious to  the   exotic dancer grinding her pelvis on a pole in the middle  of   the small stage. Body language and charisma tell us   that   Caesar is the boss, "Ducks" his lieutenant.}
+<ACTION>__{Two men, CAESAR and MARTY "DUCKS," stand at the end of the deserted bar, talking quietly, oblivious to the exotic dancer grinding her pelvis on a pole in the middle of the small stage. Body language and charisma tell us that Caesar is the boss, "Ducks" his lieutenant.}
 <CHAR>__{DUCKS} <CHAR_PAR>__{}
-<DIAL>__{It's Peezee. Gotta be.    He hates your fuckin' guts.}
+<DIAL>__{It's Peezee. Gotta be. He hates your fuckin' guts.}
 <CHAR>__{CAESAR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(brooding)}
 <DIAL>__{I don't know.}
@@ -42,13 +42,13 @@
 <LOC>__{INT. SING SING PRISON - NIGHT}
 <ACTION>__{Maximum-security prisoners are gathered around watching their favorite show in the rec room. In the front row is PAUL VITTI, former New York crime boss, and a couple of other wiseguys.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Garbage.   Change the channel.}
+<DIAL>__{Garbage. Change the channel.}
 <CHAR>__{WISEGUY} <CHAR_PAR>__{}
 <DIAL>__{Okay, Paul.}
 <ACTION>__{The WISEGUY gets up and starts switching channels on the TV. A couple of CONVICTS in the back start to protest.}
 <CHAR>__{CONVICT} <CHAR_PAR>__{}
-<DIAL>__{Hey!   What're you doin', asshole!}
-<ACTION>__{Vitti turns and stares at them.      They fall silent immediately.}
+<DIAL>__{Hey! What're you doin', asshole!}
+<ACTION>__{Vitti turns and stares at them. They fall silent immediately.}
 <CHAR>__{CONVICT} <CHAR_PAR>__{}
 <DIAL>__{Sorry, Mr. Vitti. Didn't mean any disrespect.}
 <CHAR>__{WISEGUY} <CHAR_PAR>__{}
@@ -71,17 +71,17 @@
 <DIAL_PAR>__{(shrugs)}
 <DIAL>__{Don't know. Thanks for looking out for me, Mr. Vitti.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah.     Take it easy.}
+<DIAL>__{Yeah. Take it easy.}
 <ACTION>__{He notices something in the box.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Hey, Earl.     Is that my after-shave?}
+<DIAL>__{Hey, Earl. Is that my after-shave?}
 <CHAR>__{EARL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(blanches)}
 <DIAL>__{I'm sorry. I just grabbed stuff -- I didn't know --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{That's okay.     Keep it.   Go ahead.}
+<DIAL>__{That's okay. Keep it. Go ahead.}
 <CHAR>__{EARL} <CHAR_PAR>__{}
-<DIAL>__{Thanks.     See you around.}
+<DIAL>__{Thanks. See you around.}
 <ACTION>__{Earl exits with the guard. Vitti hesitates a moment, then warily steps into his cell.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. VITTI'S CELL - MIDDLE OF NIGHT}
@@ -96,7 +96,7 @@
 <DIAL_PAR>__{(addressing audience)}
 <DIAL>__{It's very difficult for me to talk about my father, because in a sense I'm talking about two men.}
 <CHAR>__{BEN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{One, of    course, is the public Isaac Sobel,    the eminent psychotherapist and popular    author known to millions of readers    around the world.}
+<DIAL>__{One, of course, is the public Isaac Sobel, the eminent psychotherapist and popular author known to millions of readers around the world.}
 <ACTION>__{Laura, Michael and Ben's Mother listen proudly to the eulogy.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{The second Isaac Sobel is the private man -- my father -- Dad. And for those of you who knew him well and knew our family -- well, let's face it -- my father was a psychotic, mind- fucking prick. An arrogant, abusive, ego-inflated --}
@@ -125,13 +125,13 @@
 <DIAL>__{Not a good time? Let me explain something to you. I'm in fucking Hell right now. This is not a good time.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sotto voce)}
-<DIAL>__{I can't talk right now.     My father died!}
+<DIAL>__{I can't talk right now. My father died!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{So what does that have to do with me?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Call me later --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Don't hang up on, Sobel!    They're tryin' to kill me!}
+<DIAL>__{Don't hang up on, Sobel! They're tryin' to kill me!}
 <ACTION>__{Ben hangs up.}
 <TRANS>__{CUT BACK TO:}
 <ACTION_ALT>__{VITTI}
@@ -171,7 +171,7 @@
 <DIAL>__{'When you're a Jet, If the shit hits the fan, You got brothers around, You're a family man...'}
 <CHAR>__{COYOTE} <CHAR_PAR>__{}
 <DIAL>__{You're a dead man, jefe!}
-<ACTION>__{Coyote rushes him, but Vitti sidesteps and hits him in the face. Guards move in from all sides.   Vitti jumps up on the tabletop to escape them.}
+<ACTION>__{Coyote rushes him, but Vitti sidesteps and hits him in the face. Guards move in from all sides. Vitti jumps up on the tabletop to escape them.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(kicking at them, singing)}
 <DIAL>__{'I like to be in America, Okay by me in America...'}
@@ -202,7 +202,7 @@
 <DIAL>__{Dr. Sobel, I'm Agent Miller, this is Special Agent Cerrone, Federal Bureau of Investigation. We'd just like to ask you a few questions, if we could.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(testy)}
-<DIAL>__{Can I ask what this is about?    We just came from the cemetery.}
+<DIAL>__{Can I ask what this is about? We just came from the cemetery.}
 <CHAR>__{CERRONE} <CHAR_PAR>__{}
 <DIAL>__{We know this is a difficult time for you, Dr. Sobel. Sorry about your father.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -227,7 +227,7 @@
 <CHAR>__{MILLER} <CHAR_PAR>__{}
 <DIAL>__{Because we monitor and record all his phone calls from Sing Sing.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Then yes.   He did.}
+<DIAL>__{Then yes. He did.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{That was him on the phone?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -235,7 +235,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{And you didn't tell me?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
-<DIAL>__{Wow.   Talk about withholding.}
+<DIAL>__{Wow. Talk about withholding.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Michael?}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -244,7 +244,7 @@
 <DIAL>__{You told her at the drop of a hat.}
 <ACTION>__{Agents Cerrone and Miller eye each other.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{She's with the F.B.I.   She needs to know these things.}
+<DIAL>__{She's with the F.B.I. She needs to know these things.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Oh, I see. And I don't. Why tell Laura? She couldn't possibly handle a phone call.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -288,16 +288,16 @@
 <CHAR>__{DR. CUTLER} <CHAR_PAR>__{}
 <DIAL>__{'Tonight,' 'Maria,' the balcony scene.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{The balcony scene?   Both parts?}
+<DIAL>__{The balcony scene? Both parts?}
 <CHAR>__{DR. CUTLER} <CHAR_PAR>__{}
 <DIAL>__{Oh, yeah. Get him to do 'Officer Krupke.' It's really good.}
 <LOC>__{INT. PADDED CELL}
-<ACTION>__{Ben and Dr. Cutler enter.   Vitti doesn't seem to notice.}
+<ACTION>__{Ben and Dr. Cutler enter. Vitti doesn't seem to notice.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(singing)}
-<DIAL>__{'Who's the pretty girl in the mirror there? What mirror? Where?       Who can that attractive girl be?'}
+<DIAL>__{'Who's the pretty girl in the mirror there? What mirror? Where? Who can that attractive girl be?'}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Paul, it's me.    Ben Sobel.   Paul?}
+<DIAL>__{Paul, it's me. Ben Sobel. Paul?}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Maria?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -311,8 +311,8 @@
 <DIAL>__{The rumble -- it's tonight! I have to get out of here. I don't want to die. No, Chino, no!}
 <ACTION>__{Vitti's jaw suddenly goes slack and he slumps in his seat, staring forward.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Paul?   Paul?}
-<ACTION>__{Ben waves a hand in front of Vitti's face.       Nothing.}
+<DIAL>__{Paul? Paul?}
+<ACTION>__{Ben waves a hand in front of Vitti's face. Nothing.}
 <CHAR>__{DR. CUTLER} <CHAR_PAR>__{}
 <DIAL>__{This is how it's been. He sings for a while, then he goes completely catatonic.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -330,14 +330,14 @@
 <ACTION>__{Ben slaps Vitti's face lightly a couple times.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Completely catatonic --}
-<ACTION>__{He pulls on Vitti's ears and nose.     Vitti does not react.}
+<ACTION>__{He pulls on Vitti's ears and nose. Vitti does not react.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Totally gone. Well, I don't think he's smart enough to be faking. Street smart, yes, but we're talking about an I.Q. just north of a bedroom slipper.}
 <ACTION>__{Ben checks Vitti out of the corner of his eye. No reaction. Then Ben takes a sharp needle from an instrument tray.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{So if I just stuck him with this needle, he probably wouldn't even respond.}
 <CHAR>__{DR. CUTLER} <CHAR_PAR>__{}
-<DIAL>__{I don't know.    Try it.}
+<DIAL>__{I don't know. Try it.}
 <ACTION>__{Ben hesitates for a moment to see if Vitti will crack, then}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Okay --}
@@ -347,27 +347,27 @@
 <DIAL>__{'Boy, boy, crazy boy, keep cool, boy! Got a rocket in your pocket, keep cool-y cool boy -- '}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SING SING - CONSULTATION ROOM - NEXT DAY}
-<ACTION>__{Vitti is sitting at a table facing Ben.     Dr. Cutler observes from a chair in the corner.}
+<ACTION>__{Vitti is sitting at a table facing Ben. Dr. Cutler observes from a chair in the corner.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Paul, we're going to    give you some tests to assess your    mental condition. There's no pressure    -- just answer as best you can. Do I     have your consent to share the results    of these tests?}
+<DIAL>__{Paul, we're going to give you some tests to assess your mental condition. There's no pressure -- just answer as best you can. Do I have your consent to share the results of these tests?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Mommy's mad at me because I made a boom on the rug.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I'll take that as a yes. Okay, I'm going to show you ten cards, each containing a picture of an inkblot. I want you to look at each card and tell me what you see.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I see you.   I see him.   I see a table.}
+<DIAL>__{I see you. I see him. I see a table.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Focus, Paul. You haven't seen the card yet.}
 <DIAL_PAR>__{(hands him first card)}
 <DIAL>__{What does this look like to you? Take your time.}
-<ACTION>__{Vitti looks at the wrong side of the card.    It's all white.}
+<ACTION>__{Vitti looks at the wrong side of the card. It's all white.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{It looks like snow.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{No, Paul, the other side.}
 <ACTION>__{Vitti turns it over and makes a face.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{A bat.   A big bat. Or a weasel.}
+<DIAL>__{A bat. A big bat. Or a weasel.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(taking notes)}
 <DIAL>__{Bat or weasel. All right.}
@@ -394,7 +394,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{3-2-1.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Try again.   7-3-8.}
+<DIAL>__{Try again. 7-3-8.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Blue.}
 <TRANS>__{CUT TO:}
@@ -413,7 +413,7 @@
 <DIAL>__{The wife or the midget?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smirks)}
-<DIAL>__{Trick question, right?    Both of 'em.}
+<DIAL>__{Trick question, right? Both of 'em.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{ANOTHER TEST}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -423,7 +423,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{No, you're supposed to complete the sentence.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I did.   I said 'yes.'}
+<DIAL>__{I did. I said 'yes.'}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I wasn't asking if you agreed or disagreed; it was more like, 'I get angry when -- '}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -438,7 +438,7 @@
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <DIAL>__{So he's crazy?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Dr. Cutler?   No, he's annoying, but --}
+<ACTION>__{Dr. Cutler? No, he's annoying, but --}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <ACTION>__{Vitti.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -460,7 +460,7 @@
 <ACTION>__{Oh, yeah, I'm sure they'll want to release a major Mafia figure who's now totally deranged on top of it.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(thinks)}
-<ACTION>__{Well, couldn't you release him to    a halfway house or some place where    he could get some decent treatment? Based on my earlier work with him,    I don't think he's dangerous, and I think he was making a real effort    to reform himself.}
+<ACTION>__{Well, couldn't you release him to a halfway house or some place where he could get some decent treatment? Based on my earlier work with him, I don't think he's dangerous, and I think he was making a real effort to reform himself.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <ACTION>__{You do, huh?}
 <DIAL_PAR>__{(thinks for a long moment)}
@@ -479,13 +479,13 @@
 <ACTION>__{Then he's all yours. I'm going to talk to the Bureau of Prisons and get you certified as a temporary federal institution.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(stricken)}
-<ACTION>__{What?    I can't be an institution.}
+<ACTION>__{What? I can't be an institution.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(firm)}
 <ACTION>__{You've got thirty days to get him in shape for his parole hearing. That means sane, sober and gainfully employed. But let me warn you, Doctor. If he fucks up in any way -- if he flees, or if I find out that this whole thing was just a setup so he could get back on the street and return to a life of crime -- I will hold you totally responsible, and I'll see that you are stripped of your license and prosecuted to the full extent of the law. Are we clear?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gulp)}
-<ACTION>__{Yes.    We're clear.}
+<ACTION>__{Yes. We're clear.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <DIAL>__{You still want him?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -493,15 +493,15 @@
 <DIAL>__{Yes.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. SING SING - FEW DAYS LATER}
-<ACTION>__{The gate opens and Ben coaxes Vitti outside.     A guard watches them.}
+<ACTION>__{The gate opens and Ben coaxes Vitti outside. A guard watches them.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Okay, Paul -- this way.}
 <ACTION>__{Vitti comes out carrying an overnight bag, walking like a zombie. Ben leads him over to the car and opens the door for him. Vitti keeps walking, passing the car.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{This way, Paul. Over here.      Here we go.}
-<ACTION>__{Ben helps Vitti into the car.     One of Vitti's legs is still outside.}
+<DIAL>__{This way, Paul. Over here. Here we go.}
+<ACTION>__{Ben helps Vitti into the car. One of Vitti's legs is still outside.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Leg, Paul.   Leg up.}
+<DIAL>__{Leg, Paul. Leg up.}
 <ACTION>__{Ben lifts Vitti's leg into the car and closes the door.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CAR - MOMENTS LATER}
@@ -524,7 +524,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{My father died!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Me me me me!   He's dead!   Get over it.}
+<DIAL>__{Me me me me! He's dead! Get over it.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Are you hearing yourself?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -533,14 +533,14 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I can see how touched you are.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{What's the difference?   You hated him anyway.}
+<DIAL>__{What's the difference? You hated him anyway.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I loved my father. I'm feeling a lot of grief right now.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I'm not sensing it, but if you say so.}
 <ACTION>__{Ben nervously pops a pill and swallows it.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL_PAR>__{(re:   pill)}
+<DIAL_PAR>__{(re: pill)}
 <DIAL>__{What's that?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Decongestant. I'm getting over a cold. All right, what's going on? Who's after you?}
@@ -555,7 +555,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Off. Fuckin' Calabrese -- animals. And comin' from me you know that's a big compliment.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I'm sure they'd be flattered.    So --}
+<DIAL>__{I'm sure they'd be flattered. So --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{The feds are really putting the pressure on. The families are fighting each other again -- what's left of 'em. It's the fall of the fuckin' Roman Empire. It's World War Three out there.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -565,7 +565,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Maybe if you just explain to them -- that you're out of it now, that you're starting a new life --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah,   they'll probably want to throw me a   party and give me a gold watch. Trust   me -- nobody's lookin' forward to me   being out.}
+<DIAL>__{Yeah, they'll probably want to throw me a party and give me a gold watch. Trust me -- nobody's lookin' forward to me being out.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{You are, aren't you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -581,16 +581,16 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Paul! I don't think you understand. You're in my custody. I could get in a lot of trouble if you screw up.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Don't worry about it.     I'll call you tomorrow.}
+<DIAL>__{Don't worry about it. I'll call you tomorrow.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Oh, no. You want to go back to Sing Sing? Thursday's meatloaf night. I can have you back there in no time. The U.S. Attorney was very clear. You stay with me; therapy every day; you can't leave the area without permission --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What are you, my father now?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{And you    have to get a job as soon as you're    well enough, which is now. So are you    coming in with me or do I have to make    a phone call?}
+<DIAL>__{And you have to get a job as soon as you're well enough, which is now. So are you coming in with me or do I have to make a phone call?}
 <ACTION>__{Vitti relents and grabs his stuff from the back seat.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I'm comin'.    Some fuckin' life this is gonna be.}
+<DIAL>__{I'm comin'. Some fuckin' life this is gonna be.}
 <ACTION>__{He follows Ben up the stairs.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. U.S. ATTORNEY'S OFFICE - LATER}
@@ -604,7 +604,7 @@
 <CHAR>__{MILLER} <CHAR_PAR>__{}
 <DIAL>__{That's if he goes back to his old life.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
-<DIAL>__{If? People like Paul Vitti     don't change. This guy's been a     menace to society since he was twelve    years old. Being a criminal is all he    knows. Trust me.}
+<DIAL>__{If? People like Paul Vitti don't change. This guy's been a menace to society since he was twelve years old. Being a criminal is all he knows. Trust me.}
 <CHAR>__{DAVIS} <CHAR_PAR>__{}
 <DIAL>__{He's gonna head straight for trouble. Then all we have to do is sit back and pick up the pieces. We could get twenty, maybe even thirty indictments next time the grand jury convenes.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
@@ -613,7 +613,7 @@
 <CHAR>__{DAVIS} <CHAR_PAR>__{}
 <DIAL>__{You running for mayor?}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
-<DIAL>__{Could happen.     Just stick with Vitti.}
+<DIAL>__{Could happen. Just stick with Vitti.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SOBEL HOUSE - LATER}
 <ACTION>__{Ben and Laura are in the kitchen, cleaning up the dinner dishes. Ben is wearing an apron that says "To Heck with Housework!" and a pair of Playtex rubber gloves. Laura is angrily muscling dishes around.}
@@ -629,9 +629,9 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Oh, there's a law that says you have to bring a gangster home?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I told you. He's in my custody.      I'm a federal institution.}
+<DIAL>__{I told you. He's in my custody. I'm a federal institution.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{You should be in an institution.     Why couldn't he just go home?}
+<DIAL>__{You should be in an institution. Why couldn't he just go home?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{His wife and kids aren't here. They're in Ohio.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -641,7 +641,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{How thoughtful! What about endangering our family?}
 <DIAL_PAR>__{(worried)}
-<DIAL>__{I think my teeth are loose.     Feel my teeth.}
+<DIAL>__{I think my teeth are loose. Feel my teeth.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Honey, your teeth are fine. I know it's an imposition, but what could I do? I didn't want him here. They -}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -657,7 +657,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Somebody said something about coffee.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{That was you.    You said you wanted some.}
+<DIAL>__{That was you. You said you wanted some.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{So what's the holdup?}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -665,17 +665,17 @@
 <DIAL>__{Why don't you make your friend some coffee. I'm going upstairs to take a long bath and hopefully drown.}
 <ACTION>__{Laura smiles at the two men, then exits.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{You'll have to forgive her.     She's usually a great hostess.}
+<DIAL>__{You'll have to forgive her. She's usually a great hostess.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I understand. She's uncomfortable. The whole situation's a little awkward with me bein' here -- but let's face it, Emily fuckin' Post she's not.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Emily fuckin' Post. Well, that explains why she rarely used her middle name.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Listen, I got a friend coming over.     I didn't want you to be surprised.}
+<DIAL>__{Listen, I got a friend coming over. I didn't want you to be surprised.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{What    kind of friend? Because if it's 'The    Wrench,' or 'The Power Drill' or any    other kind of tool    --}
+<DIAL>__{What kind of friend? Because if it's 'The Wrench,' or 'The Power Drill' or any other kind of tool --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Not that kind of friend.     It's a personal thing.}
+<DIAL>__{Not that kind of friend. It's a personal thing.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{They won't stay late, will they?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -713,7 +713,7 @@
 <DIAL_PAR>__{(oblivious)}
 <DIAL>__{Mike, can we talk for a second?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
-<DIAL>__{Sure.     What?}
+<DIAL>__{Sure. What?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{I know the last few weeks have been kind of tough with Grandpa -- dying and everything -- and it might've felt to you like I didn't have time for you or I didn't care about how you feel.}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
@@ -729,13 +729,13 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{And you know, at times like this we all might start questioning our own mortality and you might be thinking how devastated you'd be if I died. Right?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
-<ACTION>__{No.   Not really.}
+<ACTION>__{No. Not really.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{That's good. Good talk. And I realize it's all a little hectic right now, but this Paul Vitti thing is only temporary, okay?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <ACTION>__{Oh, really? I didn't hear you the tenth fuckin' time.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{That's not funny.   Good night, Michael.}
+<ACTION>__{That's not funny. Good night, Michael.}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL>__{Good night, Whippy.}
 <ACTION>__{Ben exits, shaking his head. The moment he's gone, the rumpled blankets next to Michael shift, and a CUTE, PUNKY 16-YEAR-OLD GIRL emerges from hiding under the comforter.}
@@ -747,12 +747,12 @@
 <LOC>__{EXT. SOBEL HOUSE - NIGHT}
 <ACTION>__{The suburban street is dark and quiet and all the lights are off in the house.}
 <CHAR>__{WOMAN } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Ohhhhh!   Ohhhhh, Paul!}
+<DIAL>__{Ohhhhh! Ohhhhh, Paul!}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. MASTER BEDROOM - SAME TIME}
 <ACTION>__{The room is dark. We PAN UP the foot of Ben and Laura's bed and find them both wide awake staring straight up at the ceiling, listening.}
 <CHAR>__{WOMAN } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Ohhhh, God!   Oh, oh, oh, oh!}
+<DIAL>__{Ohhhh, God! Oh, oh, oh, oh!}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{This has to be some kind of record, don't you think? It's been like forty minutes.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -761,7 +761,7 @@
 <DIAL>__{Let them? How much longer can he go? Another twenty minutes, I'm either breaking it up or calling the Guinness Book of Records.}
 <ACTION>__{The MOANING shifts into low gear, more guttural and bestial.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{Oh, give me a break.    She's got to be faking.   Nobody sounds like that.}
+<DIAL>__{Oh, give me a break. She's got to be faking. Nobody sounds like that.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(suggestively)}
 <DIAL>__{That's not entirely true.}
@@ -778,7 +778,7 @@
 <LOC>__{EXT. STREET - SAME TIME}
 <ACTION>__{Agents Cerrone and Miller sit in a sedan with a small, sophisticated-looking microphone trained on the Sobel house just down the street. They hear the high-pitched MOANING. Miller gives Cerrone a look.}
 <CHAR>__{CERRONE} <CHAR_PAR>__{}
-<DIAL>__{Oh, come on.    Nobody sounds like that.}
+<DIAL>__{Oh, come on. Nobody sounds like that.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HALLWAY - MOMENTS LATER}
 <ACTION>__{Ben takes a deep breath and knocks sharply on the guest room door. The heavy MOANING STOPS. After a moment, Vitti appears wearing only a bathrobe. Ben can see the beautiful SHEILA sitting naked on the bed.}
@@ -795,7 +795,7 @@
 <DIAL>__{Actually, I'm right in the middle of someone.}
 <ACTION>__{Sheila starts to light a cigarette.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Miss? Excuse me.     There's no smoking in this house.}
+<DIAL>__{Miss? Excuse me. There's no smoking in this house.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. MICHAEL'S ROOM - SAME TIME}
 <ACTION>__{Michael freezes, about to light a cigarette himself.}
@@ -834,7 +834,7 @@
 <DIAL>__{Hey, if you're really quiet, you might be able to do it without even wakin' up your wife.}
 <CHAR>__{SHEILA } <CHAR_PAR>__{(O.S.)}
 <DIAL_PAR>__{(moaning)}
-<DIAL>__{Ohhh.   Ohhh.}
+<DIAL>__{Ohhh. Ohhh.}
 <ACTION>__{Ben looks curiously at Vitti.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I told her if I wasn't back in two minutes to start without me. I gotta go.}
@@ -863,7 +863,7 @@
 <ACTION>__{Vitti charges into the room, his robe open. From the reactions of everyone in the room, it's clear he's not wearing anything under it.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Go back to turning tricks in Jersey for all I fuckin' care.}
-<ACTION>__{Sheila exits and slams the front door.   Vitti sees everyone staring at him. He closes his robe.}
+<ACTION>__{Sheila exits and slams the front door. Vitti sees everyone staring at him. He closes his robe.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{How's it goin'?}
 <DIAL_PAR>__{(sees buffet)}
@@ -883,12 +883,12 @@
 <DIAL>__{Not you, I'm guessing.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(snags Vitti's arm)}
-<DIAL>__{Why don't we go to my office?   I'll make you a plate.}
+<DIAL>__{Why don't we go to my office? I'll make you a plate.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BEN'S OFFICE - MOMENTS LATER}
-<ACTION>__{Ben and Vitti enter.   Vitti still in his robe.}
+<ACTION>__{Ben and Vitti enter. Vitti still in his robe.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{What is it with your relatives?   They tend to overreact quite a bit.}
+<DIAL>__{What is it with your relatives? They tend to overreact quite a bit.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I know. All you did was flash everybody in the dining room.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -925,7 +925,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Who am I? I'm the guy who's paying you $150 an hour to play these stupid fuckin' games. You know who I am.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I know that.   I mean what are you?}
+<DIAL>__{I know that. I mean what are you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What do you mean, 'What am I?'}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -933,7 +933,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{You're making me very fuckin' nervous.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Just answer the question.     What are you?}
+<DIAL>__{Just answer the question. What are you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shrugs)}
 <DIAL>__{I'm the boss.}
@@ -948,12 +948,12 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I understand.}
 <CHAR>__{BEN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You've    spent your whole life becoming who you    are and now you can't be that anymore    -- that's gotta be scary. If you're    not Paul Vitti the mob boss, who are    you?}
+<DIAL>__{You've spent your whole life becoming who you are and now you can't be that anymore -- that's gotta be scary. If you're not Paul Vitti the mob boss, who are you?}
 <ACTION>__{Vitti is at a loss.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Well, let's think. When you were a kid, What did you want to be?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I don't know.    Who remembers that stuff?}
+<DIAL>__{I don't know. Who remembers that stuff?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{You must've wanted to be something when you were little -- fireman?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -969,13 +969,13 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{Al Capone?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<ACTION>__{Yeah, maybe.    What did you want to be?}
+<ACTION>__{Yeah, maybe. What did you want to be?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{We're not talking about me.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{I am.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Fine.   I wanted to be a philatelist.}
+<ACTION>__{Fine. I wanted to be a philatelist.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{You wanted to look up people's assholes all day?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -983,7 +983,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{You must've been a lot of laughs when you were a kid. Lonely, huh?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Oh yeah. Big time.      So what did you want to be?}
+<ACTION>__{Oh yeah. Big time. So what did you want to be?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{It's stupid.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -991,25 +991,25 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{Yeah, I'm afraid.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Then tell me.    I'm not here to judge you.}
+<ACTION>__{Then tell me. I'm not here to judge you.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(a beat)}
 <ACTION>__{Okay. When I was really little -- like seven or eight -- maybe I wanted to be a cowboy.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{A cowboy.   Really?}
+<ACTION>__{A cowboy. Really?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<ACTION>__{Yeah. My father gave   me a cowboy suit -- you know, the  vest, the chaps, the cap guns --  the whole thing. And he used to   take me up to my uncle's farm in  New Jersey and lead me around on  this pony. Yippee-i-o. You happy   now?}
+<ACTION>__{Yeah. My father gave me a cowboy suit -- you know, the vest, the chaps, the cap guns -- the whole thing. And he used to take me up to my uncle's farm in New Jersey and lead me around on this pony. Yippee-i-o. You happy now?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{So you watched cowboy movies and TV shows with your father.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<ACTION>__{Everybody. The whole family.     My father loved 'Gunsmoke.'}
+<ACTION>__{Everybody. The whole family. My father loved 'Gunsmoke.'}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <ACTION>__{Sheriff Dillon.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(corrects him)}
 <ACTION>__{Marshal Dillon.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Marshal.    So who were your favorite cowboys?}
+<ACTION>__{Marshal. So who were your favorite cowboys?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{This is so fuckin' retarded.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -1017,7 +1017,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{All right. Gene Autry, Roy Rogers, the Lone Ranger --}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<ACTION>__{Interesting.   They're all good guys.}
+<ACTION>__{Interesting. They're all good guys.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <ACTION>__{Yeah, I guess.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -1027,7 +1027,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{So what happened?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I don't know.    Nothing happened.}
+<DIAL>__{I don't know. Nothing happened.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{So why didn't you become a cowboy?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1050,10 +1050,10 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Do I remember? I think about it every fuckin' day of my life. What's that got to do with it?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{It's got everything   to do with it. He gave you the cowboy   suit. With a white hat. He was    in the mob, but he wanted you to be a   good guy, didn't he?}
+<DIAL>__{It's got everything to do with it. He gave you the cowboy suit. With a white hat. He was in the mob, but he wanted you to be a good guy, didn't he?}
 <ACTION>__{Vitti starts thinking about his father and starts to weep.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   He did.}
+<DIAL>__{Yeah. He did.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{He didn't want you in the gang life. He only did it himself so you wouldn't have to. He was trying to buy you a better life than his.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1061,10 +1061,10 @@
 <DIAL>__{He always said he wanted me to go to college. I didn't even finish high school.}
 <ACTION>__{He really starts sobbing now.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Well, Paul, this could be a  great opportunity for you. You're   right back where you were when you  were twelve. You've got some big   choices to make.}
+<DIAL>__{Well, Paul, this could be a great opportunity for you. You're right back where you were when you were twelve. You've got some big choices to make.}
 <ACTION>__{Vitti fights to regain control.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Okay.   Okay.   That's enough of that shit.}
+<DIAL>__{Okay. Okay. That's enough of that shit.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{It's not shit, Paul. My point is, when you're a child, you think anything is possible. Wouldn't it be great to think like that now?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1087,7 +1087,7 @@
 <LOC>__{INT. DINING AREA - MOMENTS LATER}
 <ACTION>__{Jelly is loading up a plate of food from the buffet, talking to the elderly relatives. Laura stares at him.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{I love  lox and bagels. I dated a Jewish  woman once. Actually, she might  have been the love of my life, but my  mother broke it up.}
+<DIAL>__{I love lox and bagels. I dated a Jewish woman once. Actually, she might have been the love of my life, but my mother broke it up.}
 <CHAR>__{JELLY } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{She was always hockin' me a chinick about the madels. A wonderful woman, my mother, but she fuckin' hates the Hebes.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -1110,13 +1110,13 @@
 <DIAL_PAR>__{(to Laura)}
 <DIAL>__{Thanks, Mrs. S.}
 <DIAL_PAR>__{(to others)}
-<DIAL>__{So long, everybody.    Ess gesunterhait.}
+<DIAL>__{So long, everybody. Ess gesunterhait.}
 <ACTION>__{Jelly and Ben exit.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. SOBEL HOUSE - MOMENTS LATER}
 <ACTION>__{Ben and Jelly walk out to the driveway where Jelly's Buick is parked.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{So. Long time no see.     You look good, Doc.}
+<DIAL>__{So. Long time no see. You look good, Doc.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(trying to be pleasant)}
 <DIAL>__{And you, Jelly -- you look --}
@@ -1150,12 +1150,12 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{You can't leave without my permission.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Oh, yeah?   Watch me.   Drive, Jelly.}
+<DIAL>__{Oh, yeah? Watch me. Drive, Jelly.}
 <ACTION>__{Jelly STARTS the CAR and slowly backs out of the driveway. Ben runs after the car, talking to Vitti through the open window.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{That's it, Paul. I forbid you to go.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Stop sweating, Doc.     I'll be back.}
+<DIAL>__{Stop sweating, Doc. I'll be back.}
 <ACTION>__{Vitti puts the window up.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouts anxiously)}
@@ -1163,7 +1163,7 @@
 <ACTION>__{The car pulls away.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angrily)}
-<DIAL>__{Shit!   Shit, shit, shit!}
+<DIAL>__{Shit! Shit, shit, shit!}
 <ACTION>__{Ben turns and sees his Aunt Goldie on the porch.}
 <CHAR>__{AUNT GOLDIE} <CHAR_PAR>__{}
 <DIAL>__{So, the fat one -- he's single?}
@@ -1188,7 +1188,7 @@
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
 <DIAL>__{We're in a war, Paul -- nobody's safe right now. The Rigazzis are walkin' all over us. We got next to nothing coming in, and I don't have to tell you, you don't buy a lot of muscle without money these days. We need you, Paul. The family needs you.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I can't do it, Sal.   I'm out of it.}
+<DIAL>__{I can't do it, Sal. I'm out of it.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
 <DIAL>__{Come on, Paulie. Nobody used to do the big jobs like you. Air France-- they're still talkin' about it.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1202,7 +1202,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I do too.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
-<DIAL>__{So you'll think about it.    For me, Paulie?}
+<DIAL>__{So you'll think about it. For me, Paulie?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, okay, I'll think about it.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
@@ -1211,7 +1211,7 @@
 <DIAL_PAR>__{(to bartender)}
 <DIAL>__{Hey, Nino, give everybody a round here. We gotta drink to Paul.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I can't, Sal.    I gotta go talk to the boss.}
+<DIAL>__{I can't, Sal. I gotta go talk to the boss.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
 <DIAL>__{I understand. No problem. It's good to have you back, Paul.}
 <DIAL_PAR>__{(embraces him)}
@@ -1226,7 +1226,7 @@
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{Yeah, what?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{'Yeah, what?'    That's how you answer the door?}
+<DIAL>__{'Yeah, what?' That's how you answer the door?}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{You got a problem with that?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1245,10 +1245,10 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{How's it goin', Patty?}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
-<DIAL>__{Good.   It's good. Give me a kiss, you.}
+<DIAL>__{Good. It's good. Give me a kiss, you.}
 <ACTION>__{Patty hugs and kisses him, taking the opportunity to pat him down for a weapon or a hidden wire.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Sorry to hear about Carmine.     He was a good man.}
+<DIAL>__{Sorry to hear about Carmine. He was a good man.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{Yeah. You live with a person twenty- one years, then one day they're pulling his torso out of the river. It's hard.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1277,7 +1277,7 @@
 <DIAL_PAR>__{(smoothing clothes,}
 <DIAL>__{flushed and a little}
 <DIAL_PAR>__{excited)}
-<DIAL>__{Wow.   Have you been working out?}
+<DIAL>__{Wow. Have you been working out?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I been workin' out who's trying to kill me. I'd love to hear your thoughts on that.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
@@ -1301,9 +1301,9 @@
 <DIAL_PAR>__{(shudders)}
 <DIAL>__{Oh, Paul. I just got a chill.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I just want to be left alone.   Put my life back together -- straight  up this time. Put the word out, will   ya? Nobody's got nothin' to worry  about from me.}
+<DIAL>__{I just want to be left alone. Put my life back together -- straight up this time. Put the word out, will ya? Nobody's got nothin' to worry about from me.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
-<DIAL>__{Sure, Paul.    I understand.}
+<DIAL>__{Sure, Paul. I understand.}
 <ACTION>__{He heads for the door.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calls after him)}
@@ -1362,11 +1362,11 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{ANOTHER PH0TO Vitti poses grimly with a BUSINESSMAN and his friends.}
 <CHAR>__{BUSINESSMAN} <CHAR_PAR>__{}
-<DIAL>__{Thanks, Paul.    Appreciate it.}
+<DIAL>__{Thanks, Paul. Appreciate it.}
 <ACTION>__{Vitti moves to leave.}
 <CHAR>__{BUSINESSMAN} <CHAR_PAR>__{}
 <DIAL>__{Hey, could you get us a big bottle of Pellegrino and another round of drinks?}
-<ACTION>__{He slips Vitti a couple of bills.        Vitti stares at the money in his hand.}
+<ACTION>__{He slips Vitti a couple of bills. Vitti stares at the money in his hand.}
 <CHAR>__{BUSINESSMAN} <CHAR_PAR>__{}
 <DIAL>__{And more bread when you get a chance.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1376,7 +1376,7 @@
 <DIAL>__{I'll get your drinks now.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. IMPERIAL DIAMONDS - DAY}
-<ACTION>__{Two Hassidim are in the back of a 47th Street jewelry store, sorting through a huge pile of diamonds. Behind the    display counter, Vitti stares at the diamonds, breathing    hard, starting to perspire. His customers, a thirty-ish    YOUNG MAN and his FIANCEE, study the diamond engagement    ring on her finger.}
+<ACTION>__{Two Hassidim are in the back of a 47th Street jewelry store, sorting through a huge pile of diamonds. Behind the display counter, Vitti stares at the diamonds, breathing hard, starting to perspire. His customers, a thirty-ish YOUNG MAN and his FIANCEE, study the diamond engagement ring on her finger.}
 <CHAR>__{YOUNG MAN} <CHAR_PAR>__{}
 <DIAL>__{This stone is supposed to be a 'G' color, but it looks kind of yellow, doesn't it?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1392,7 +1392,7 @@
 <ACTION_ALT>__{END FANTASY. BACK TO VITTI}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sweating)}
-<DIAL>__{What am I -- Edison?    I'm telling you, it's a 'G.'}
+<DIAL>__{What am I -- Edison? I'm telling you, it's a 'G.'}
 <ACTION>__{He glances at the surveillance cameras.}
 <CHAR>__{YOUNG MAN} <CHAR_PAR>__{}
 <DIAL>__{Can I look at it with a lens?}
@@ -1403,7 +1403,7 @@
 <DIAL_PAR>__{(completely distracted)}
 <DIAL>__{What?}
 <CHAR>__{FIANCEE} <CHAR_PAR>__{}
-<DIAL>__{A lens.    Do you have a lens?}
+<DIAL>__{A lens. Do you have a lens?}
 <TRANS>__{CUT TO:}
 <ACTION>__{FANTASY - SAFE in the back as it BLOWS UP.}
 <ACTION_ALT>__{END FANTASY. OWNER}
@@ -1411,7 +1411,7 @@
 <CHAR>__{OWNER} <CHAR_PAR>__{}
 <DIAL>__{Are you all right?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I'm gonna do us both a big favor.    I quit.}
+<DIAL>__{I'm gonna do us both a big favor. I quit.}
 <TRANS>__{CUT BACK TO:}
 <LOC>__{INT. CAR DEALERSHIP - DAY}
 <ACTION>__{The MacInernys are trembling.}
@@ -1441,7 +1441,7 @@
 <DIAL>__{Sit up straight! Pay attention when the doctor talks to you. This is costing money.}
 <ACTION>__{Ben (Freud) has a large TAXI METER TICKING away beside him.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Ma?   What are you doin' here?}
+<DIAL>__{Ma? What are you doin' here?}
 <CHAR>__{BEN } <CHAR_PAR>__{(FREUD)}
 <DIAL_PAR>__{(snorts some cocaine)}
 <DIAL>__{Acht gemacht gehunden nicht.}
@@ -1470,7 +1470,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{You want a sandwich? Make it yourself. I'm not afraid of you, Mr. Oh-I'm-A-Great-Big-Mobster Man. I want you out of my house.}
 <CHAR>__{LAURA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I've had   it with the bathrobe and the skulking   around and the girlfriend who, I'm   sorry, is so obviously faking it's not   even funny. Enough!}
+<DIAL>__{I've had it with the bathrobe and the skulking around and the girlfriend who, I'm sorry, is so obviously faking it's not even funny. Enough!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Coulda had that sandwich made by now.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
@@ -1481,7 +1481,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{I'm going to be honest with you -- I'm a very anxious person --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Hey!    Me, too.}
+<DIAL>__{Hey! Me, too.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{We have so much in common. Anyway, this is not helping me, it's not helping my marriage, and I know Ben really needs some alone time. So I'm asking you -- as a human being -- could you please leave?}
 <DIAL_PAR>__{(off Vitti's look)}
@@ -1490,7 +1490,7 @@
 <DIAL>__{Ham, cheese, lettuce, tomato, mayonnaise, no onion.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. SOBEL FRONT PORCH - LATER}
-<ACTION>__{Jelly   comes out the front door with Vitti's suitcases as Ben pulls   into the driveway. He gets out of the car holding a small   bag from the drugstore and sees Vitti coming out the front   door. Ben stops him on the porch.}
+<ACTION>__{Jelly comes out the front door with Vitti's suitcases as Ben pulls into the driveway. He gets out of the car holding a small bag from the drugstore and sees Vitti coming out the front door. Ben stops him on the porch.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(concerned)}
 <DIAL>__{Where are you going?}
@@ -1533,12 +1533,12 @@
 <DIAL_PAR>__{(calls out)}
 <DIAL>__{He's like a racehorse in that area.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Okay!   I get it.}
+<DIAL>__{Okay! I get it.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL_PAR>__{(to  Jelly)}
-<DIAL>__{Wait in the  car!}
-<DIAL_PAR>__{(to  Ben)}
-<DIAL>__{So what does  it mean?}
+<DIAL_PAR>__{(to Jelly)}
+<DIAL>__{Wait in the car!}
+<DIAL_PAR>__{(to Ben)}
+<DIAL>__{So what does it mean?}
 <ACTION>__{Ben sits on the wicker divan.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Sex can represent a lot of things. In your case I think it's about performance anxiety. Trying to find a job that fits.}
@@ -1561,14 +1561,14 @@
 <DIAL>__{Tellin' me I have to get a job like I'm some fuckin' nobody. It was humiliating! Thanks a lot.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(jumps up, in a total rage)}
-<DIAL>__{Hey, I'm doing the best I can!     If you can't appreciate that, or if my    best isn't good enough for you, then    maybe you should find somebody else to    talk to, you selfish prick!}
+<DIAL>__{Hey, I'm doing the best I can! If you can't appreciate that, or if my best isn't good enough for you, then maybe you should find somebody else to talk to, you selfish prick!}
 <ACTION>__{Ben breaks down and cries what amounts to one racking sob, then quickly pulls himself together.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Sorry.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What the hell was that?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I'm fine.    I'm grieving.   It's a process.}
+<DIAL>__{I'm fine. I'm grieving. It's a process.}
 <ACTION>__{Ben takes a pill bottle out of his pocket and pops a couple of pills.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Now what are you takin'?}
@@ -1592,7 +1592,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{He's a grown man. I don't see why he needs a chaperone.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{He doesn't. He needs a buffer.    I'm here in buffer capacity only.}
+<DIAL>__{He doesn't. He needs a buffer. I'm here in buffer capacity only.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Ben, if you say 'buffer' one more time --}
 <ACTION>__{Ben pops a couple of pills.}
@@ -1603,7 +1603,7 @@
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{Well, you better not drink anything. You know what happens.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Laura? I'm a doctor?     I think I know what I'm doing.}
+<DIAL>__{Laura? I'm a doctor? I think I know what I'm doing.}
 <ACTION>__{Ben opens the door and motions for Laura to enter.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(quietly, behind her back)}
@@ -1617,13 +1617,13 @@
 <ACTION>__{They drive off.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. NOGO RESTAURANT - LATER}
-<ACTION>__{Seated at a table are Ben and    Laura, Vitti and Sheila, Jelly, and the producer RAOUL BERMAN    and his uptight, downtown GIRLFRIEND. Jelly inspects a     piece of raw octopus, while Raoul gushes over a platter of    sushi and sashimi.}
+<ACTION>__{Seated at a table are Ben and Laura, Vitti and Sheila, Jelly, and the producer RAOUL BERMAN and his uptight, downtown GIRLFRIEND. Jelly inspects a piece of raw octopus, while Raoul gushes over a platter of sushi and sashimi.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
 <DIAL>__{I adore this place. Best sushi in town. Have you tried the yellowtail, Paul?}
 <ACTION>__{Raoul picks up a floppy piece of raw fish with his chopsticks.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(makes a face)}
-<DIAL>__{No. We gettin' any real food?     This is like eatin' fuckin' bait.}
+<DIAL>__{No. We gettin' any real food? This is like eatin' fuckin' bait.}
 <ACTION>__{Raoul chuckles and glances uncomfortably at his girlfriend. Ben laughs loudly to cover the awkward moment. He's suffering from some reaction between the pills and the booze and he's oddly thick-lipped.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Bait! That's funny. Honey, did you hear what Paul just said? He said this is like eating bait.}
@@ -1684,7 +1684,7 @@
 <DIAL>__{Yeah, I bet he gets a lot of pussy.}
 <ACTION>__{Laura chokes on her drink.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{What's the matter with you?   We got women at the table.}
+<DIAL>__{What's the matter with you? We got women at the table.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{You said 'fuckin'.'}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1700,7 +1700,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{And one for me.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{No.    No more for the Buffer.}
+<DIAL>__{No. No more for the Buffer.}
 <ACTION>__{She glares at Ben as the table descends into silence.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(tries a desperate save)}
@@ -1709,9 +1709,9 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouts)}
 <DIAL>__{Down!!!}
-<ACTION>__{He grabs Sheila and pulls her down as GUNFIRE rakes the wall behind them. Everybody else at the table hits the floor. Other diners scream in terror.    Jelly pulls a GUN and SHOOTS back.}
+<ACTION>__{He grabs Sheila and pulls her down as GUNFIRE rakes the wall behind them. Everybody else at the table hits the floor. Other diners scream in terror. Jelly pulls a GUN and SHOOTS back.}
 <ACTION_ALT>__{A LONE GUNMAN}
-<ACTION>__{runs from the restaurant. After a long beat, the frightened patrons start to get up and chatter nervously. BEN'S TABLE Nobody's hurt.   Vitti helps Sheila to her feet.}
+<ACTION>__{runs from the restaurant. After a long beat, the frightened patrons start to get up and chatter nervously. BEN'S TABLE Nobody's hurt. Vitti helps Sheila to her feet.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Vitti)}
 <DIAL>__{What the hell was that?}
@@ -1733,14 +1733,14 @@
 <DIAL>__{Where's your cigarette?}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{I'm trying to cut down.}
-<ACTION>__{The Gunman recognizes Jelly and desperately reaches for the gun in his pocket, but Jelly hauls off and whacks the guy across the back of the head with a sap. As  he slumps into Jelly's arms, Vitti steps out of a doorway and Jelly drags the gunman into the garage.}
+<ACTION>__{The Gunman recognizes Jelly and desperately reaches for the gun in his pocket, but Jelly hauls off and whacks the guy across the back of the head with a sap. As he slumps into Jelly's arms, Vitti steps out of a doorway and Jelly drags the gunman into the garage.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SOBEL HOUSE - SAME TIME}
 <ACTION>__{Ben and Laura are getting ready for bed.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{I don't know why you feel you have to save this man.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{It's my job.   He needs me.}
+<DIAL>__{It's my job. He needs me.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{So that automatically means you have to help him? You're always doing this -- putting other people's needs ahead of your own, like you're this martyr or saint or something. It's like living with Mother Teresa.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -1750,7 +1750,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I am.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{Really?   I haven't seen it.}
+<DIAL>__{Really? I haven't seen it.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Well, you know, it's a process. I mean, we had issues -- there's some anger -- but I'll work it out.}
 <ACTION>__{Laura goes to Ben and embraces him.}
@@ -1775,7 +1775,7 @@
 <DIAL_PAR>__{(apologetic)}
 <DIAL>__{Oh, honey, I just brushed my teeth.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{No, that's not what I meant.     I just need --}
+<DIAL>__{No, that's not what I meant. I just need --}
 <DIAL_PAR>__{(at a loss)}
 <DIAL>__{I don't know what.}
 <ACTION>__{She puts her arms around him and holds him.}
@@ -1783,17 +1783,17 @@
 <LOC>__{EXT. ROOFTOP - LATER THAT NIGHT}
 <ACTION>__{Vitti and Jelly stand with the Gunman on the roof of the parking garage, four stories above the ground. The guy's arms are bound. Jelly ties a rope around his ankles.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I'm gonna ask you once nicely.     Who you working for?}
+<DIAL>__{I'm gonna ask you once nicely. Who you working for?}
 <CHAR>__{GUNMAN} <CHAR_PAR>__{}
 <DIAL>__{Fuck you.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Fuck me?    Fine. Jelly?}
+<DIAL>__{Fuck me? Fine. Jelly?}
 <ACTION>__{Jelly shoves the guy to the parapet at the edge of the roof, grabs him by the legs and hangs him over the side of the building. The guy screams.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I'll ask you again.     Who you working for?}
+<DIAL>__{I'll ask you again. Who you working for?}
 <ACTION>__{The guy keeps screaming.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{He's screamin' too loud.     Hold on a second.}
+<DIAL>__{He's screamin' too loud. Hold on a second.}
 <ACTION>__{Jelly swings the guy against the building, hitting his head and dazing him momentarily.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{Go ahead.}
@@ -1804,7 +1804,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Drop him, Jelly.}
 <CHAR>__{GUNMAN} <CHAR_PAR>__{}
-<DIAL>__{Okay! Okay!    Rigazzi!   I'm working for Rigazzi!}
+<DIAL>__{Okay! Okay! Rigazzi! I'm working for Rigazzi!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Pull him back up.}
 <ACTION>__{Jelly drops the guy. The Gunman plunges three stories and lands heavily in a dumpster full of garbage.}
@@ -1831,7 +1831,7 @@
 <CHAR>__{GUNMAN} <CHAR_PAR>__{}
 <DIAL>__{Vitti threw me off a roof.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
-<DIAL>__{Vitti? You talked to Vitti?     What did you say to him?}
+<DIAL>__{Vitti? You talked to Vitti? What did you say to him?}
 <CHAR>__{GUNMAN} <CHAR_PAR>__{}
 <DIAL>__{Nothing. I didn't tell him anything. Mr. Rigazzi, can I go -- I think my leg's broken.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
@@ -1897,9 +1897,9 @@
 <DIAL_PAR>__{(to Tony Bella)}
 <DIAL>__{How incredible is this? Paul tells me they watch the show in Sing Sing!}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{Fantastic!    That's so fuckin' great.}
+<DIAL>__{Fantastic! That's so fuckin' great.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{I wouldn't wet my pants over it.      They watch 'Supermarket Sweep,' too.}
+<DIAL>__{I wouldn't wet my pants over it. They watch 'Supermarket Sweep,' too.}
 <ACTION>__{Raoul laughs hard.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{You laugh too much.}
@@ -1907,10 +1907,10 @@
 <DIAL>__{So, Paul, you going to join us?}
 <ACTION>__{Vitti looks around, his future plans now beginning to form.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah.    You got a good setup here.}
+<DIAL>__{Yeah. You got a good setup here.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{Great.   See you later then.}
-<ACTION>__{He exits.   Vitti turns to Raoul.}
+<DIAL>__{Great. See you later then.}
+<ACTION>__{He exits. Vitti turns to Raoul.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Coupla things, though. I don't know who makes these decisions, but some of this, it don't look right.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
@@ -1932,7 +1932,7 @@
 <DIAL>__{Done.}
 <DIAL_PAR>__{(shakes his hand)}
 <DIAL>__{I'll put that in the works right now.}
-<ACTION>__{He hurries off to talk to his assistant.   Jelly comes up to Vitti.}
+<ACTION>__{He hurries off to talk to his assistant. Jelly comes up to Vitti.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{You really gonna do this?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -1953,7 +1953,7 @@
 <CHAR>__{SOLDIER} <CHAR_PAR>__{}
 <DIAL>__{Walk this way.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{There must be some mistake.    I didn't order a limo.}
+<DIAL>__{There must be some mistake. I didn't order a limo.}
 <CHAR>__{SOLDIER} <CHAR_PAR>__{}
 <DIAL>__{Get in the car.}
 <TRANS>__{CUT TO:}
@@ -1961,7 +1961,7 @@
 <ACTION>__{Ben enters timorously, still carrying his groceries. Patty LoPresti, Masiello and a couple of other heavyweights are sitting at the table, all except Patti smoking cigars. Ben immediately recognizes their status and grasps the gravity of their mood.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(nervous, but trying to keep it light)}
-<DIAL>__{Hello.   I'm Ben Sobel. And you are -- ?}
+<DIAL>__{Hello. I'm Ben Sobel. And you are -- ?}
 <ACTION>__{The Soldier sits Ben down. The other soldier takes his groceries. Ben looks at Patty, trying to gauge her role.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
 <DIAL>__{You're the shrink who's taking care of Paul Vitti?}
@@ -1971,11 +1971,11 @@
 <DIAL>__{Could you be careful, because I think they put the eggs on the bottom.}
 <ACTION>__{He drops the bags heavily onto the bar.}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
-<DIAL>__{So?    Is he nuts or what?}
+<DIAL>__{So? Is he nuts or what?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Who?}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
-<DIAL>__{Paulie.     Is he nuts?}
+<DIAL>__{Paulie. Is he nuts?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I can't discuss a patient's case with anyone --}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
@@ -2002,7 +2002,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Well, I'm trying to at least show him the possibility of change --}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
-<DIAL>__{Wrong.   You do not want him to change.}
+<DIAL>__{Wrong. You do not want him to change.}
 <ACTION>__{Ben looks at her, sensing her command of the group.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{We haven't really been introduced --}
@@ -2018,10 +2018,10 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{A stromboni? That thing they clean the ice with at hockey games?}
 <CHAR>__{MASIELLO} <CHAR_PAR>__{}
-<DIAL>__{That's a Zamboni, asshole.   Stromboni.}
+<DIAL>__{That's a Zamboni, asshole. Stromboni.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{It's a bull with his balls cut off.}
-<ACTION>__{She reaches under the table and grabs Ben's balls.    He winces in pain.}
+<ACTION>__{She reaches under the table and grabs Ben's balls. He winces in pain.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(squeezed)}
 <DIAL>__{No, we don't want to do that.}
@@ -2043,11 +2043,11 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{We're gonna need a grapple or a crane with maybe a fifty-foot boom. MO-MO I seen one -- in Bayonne -- but I'll call around.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{See what you can come up with.   And we're gonna need a city bus.}
+<DIAL>__{See what you can come up with. And we're gonna need a city bus.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{I got a guy in the Transit Authority. He owes me. Just let me know when.}
 <CHAR>__{PATTY } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Paul!   Hello!}
+<DIAL>__{Paul! Hello!}
 <ACTION>__{Vitti turns to see Patty, Eddie Devol and his men heading across the set.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{I guess everybody's gone Hollywood, huh?}
@@ -2064,7 +2064,7 @@
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{Eighty bucks? For standin' around all day? You used to sneeze eighty bucks. How much you make shootin' craps?}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{Today?   About eight hundred maybe.}
+<DIAL>__{Today? About eight hundred maybe.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{And how about bookin' bets for the Teamsters and the crew?}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
@@ -2079,11 +2079,11 @@
 <CHAR>__{ASSISTANT DIRECTOR} <CHAR_PAR>__{}
 <DIAL>__{This is a closed set. We're about to start shooting.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
-<DIAL>__{Yeah?    So am I.}
+<DIAL>__{Yeah? So am I.}
 <ACTION>__{Eddie grabs the Assistant Director and walks him away.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. "LITTLE CAESAR" BASE CAMP - SAME TIME}
-<ACTION>__{The trucks and trailers are arranged on a parking lot.   A car pulls up and Lou Rigazzi gets out with his bodyguards.}
+<ACTION>__{The trucks and trailers are arranged on a parking lot. A car pulls up and Lou Rigazzi gets out with his bodyguards.}
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
 <DIAL>__{Should I wait here, Mr. Rigazzi?}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
@@ -2103,7 +2103,7 @@
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{So you want to tell me what's going on here? It looks like you got your whole crew back together.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Nothing's going on.   They're actors.}
+<DIAL>__{Nothing's going on. They're actors.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{Don't bullshit me, Paul. You're planning something. I'm feeling very left out.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2136,7 +2136,7 @@
 <DIAL>__{Go fuck yourself.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
 <DIAL>__{Immediately.}
-<ACTION>__{Raoul moves away quickly.   Patty turns back to Vitti.}
+<ACTION>__{Raoul moves away quickly. Patty turns back to Vitti.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
 <DIAL>__{It's good to have you back, Paul.}
 <DIAL_PAR>__{(kisses Vitti on the cheek)}
@@ -2147,16 +2147,16 @@
 <ACTION>__{As Patty and her men walk away down one aisle of trucks and campers, Rigazzi and his men walk down the next aisle heading for the set. They narrowly miss seeing each other.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BASE CAMP - MOMENTS LATER}
-<ACTION>__{Ben arrives looking for Vitti. He       sees Patty approaching and freezes, then quickly ducks behind      a nearby truck, shielding his crotch. Patty and her men pass       by. Ben waits until they pass, then comes out of hiding and      hurries on.}
+<ACTION>__{Ben arrives looking for Vitti. He sees Patty approaching and freezes, then quickly ducks behind a nearby truck, shielding his crotch. Patty and her men pass by. Ben waits until they pass, then comes out of hiding and hurries on.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BACK-YARD SET - SAME TIME}
 <ACTION>__{A mildly-distraught Raoul is huddled with Vitti.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
-<DIAL>__{I mean, tell me -- was she angry?    Am I in any danger?}
+<DIAL>__{I mean, tell me -- was she angry? Am I in any danger?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{No, you're fine. But you might want to have somebody else start your car the next couple of weeks.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
-<DIAL>__{I'll have Brian do it.   He's new.}
+<DIAL>__{I'll have Brian do it. He's new.}
 <ACTION>__{Rigazzi and his men join them.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Vitti)}
@@ -2173,7 +2173,7 @@
 <CHAR>__{RAOUL } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(taking Rigazzi's hand)}
 <DIAL>__{Please, forgive me. I'm on painkillers -- half the time I don't know what I'm saying.}
-<ACTION>__{Raoul kisses Rigazzi's hand.     Rigazzi yanks it away.}
+<ACTION>__{Raoul kisses Rigazzi's hand. Rigazzi yanks it away.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
 <DIAL>__{Get lost.}
 <CHAR>__{RAOUL} <CHAR_PAR>__{}
@@ -2188,7 +2188,7 @@
 <DIAL>__{This way.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. CRAFT SERVICES TABLE - MOMENTS LATER}
-<ACTION>__{Vitti and Rigazzi stand at the table.     Rigazzi's soldiers are nearby.}
+<ACTION>__{Vitti and Rigazzi stand at the table. Rigazzi's soldiers are nearby.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
 <DIAL>__{The guy who shot at you -- he was acting on his own. I never gave an order.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2196,13 +2196,13 @@
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
 <DIAL>__{And he's been taken care of. There won't be another incident. Unless you're thinkin' of workin' for Patty LoPresti.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Me?    No.}
+<DIAL>__{Me? No.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
-<DIAL>__{Good.    Then I got no beef with you.}
+<DIAL>__{Good. Then I got no beef with you.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Thanks.    I'll sleep much better.}
+<DIAL>__{Thanks. I'll sleep much better.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
-<DIAL>__{Because   that would not be the way to go. You    want to back a winner, which is gonna   be me. It only makes sense. You come   work for us. I'll treat you right.}
+<DIAL>__{Because that would not be the way to go. You want to back a winner, which is gonna be me. It only makes sense. You come work for us. I'll treat you right.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I don't think so.}
 <CHAR>__{RIGAZZI} <CHAR_PAR>__{}
@@ -2225,7 +2225,7 @@
 <CHAR>__{TUNA} <CHAR_PAR>__{}
 <DIAL>__{I'm up for a recurring on 'NYPD Blue.'}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{That's great.    Have you seen Paul?}
+<DIAL>__{That's great. Have you seen Paul?}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I think he's in his camper.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -2237,26 +2237,26 @@
 <DIAL_PAR>__{(surprised to see him)}
 <DIAL>__{Hey, Doc. What are you doing here?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{No, what are   you doing here? I came to tell you   we have a preliminary meeting with   your parole officer and who do I run   into? Patty LoPresti.}
+<DIAL>__{No, what are you doing here? I came to tell you we have a preliminary meeting with your parole officer and who do I run into? Patty LoPresti.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Patty who?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{What is this -- a knock-knock joke? Patty-who-kidnapped-me-and-threatened- to-cut-off-my-balls. Stop lying to me, Paul. Your whole gang is here.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Who says I'm lying? I finally    get a straight job and start putting   my life in order and you come in here   and start accusing me! That's how    much you trust me?}
+<DIAL>__{Who says I'm lying? I finally get a straight job and start putting my life in order and you come in here and start accusing me! That's how much you trust me?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL_PAR>__{(off   balance)}
-<DIAL>__{It's not that   I don't trust you, I just don't --   trust you.   Are you lying to me?    Because I know you, Paul. You'll    say or do anything to get your own   way.}
+<DIAL_PAR>__{(off balance)}
+<DIAL>__{It's not that I don't trust you, I just don't -- trust you. Are you lying to me? Because I know you, Paul. You'll say or do anything to get your own way.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{This is what's so hard about being an ex-con. You make one little mistake in your life and people never let you forget it.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Oh, so now you're the victim?    I want the truth.}
+<DIAL>__{Oh, so now you're the victim? I want the truth.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Wait a second.    Say that again.}
+<DIAL>__{Wait a second. Say that again.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Say what?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{'I want the truth.'   Say it -- like you did just now.}
+<DIAL>__{'I want the truth.' Say it -- like you did just now.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I want the truth?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2277,11 +2277,11 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Actually, I did The Music Man in tenth grade.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Of course.   I'm gonna talk to Raoul.}
+<DIAL>__{Of course. I'm gonna talk to Raoul.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{About being on the show?   I couldn't - -}
+<DIAL>__{About being on the show? I couldn't - -}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{No, this part you could do.   It's perfect. Believe me.}
+<DIAL>__{No, this part you could do. It's perfect. Believe me.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. APARTMENT BUILDING - DAY (LATER)}
 <ACTION>__{The camera rolls.}
@@ -2298,10 +2298,10 @@
 <DIAL_PAR>__{(doubtful)}
 <DIAL>__{Does that screaming sound real to you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Oh, yeah.    That sounds real.}
+<DIAL>__{Oh, yeah. That sounds real.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BEN'S CAR - LATER}
-<ACTION>__{Ben drives, pissed off.       Vitti chuckles to himself.}
+<ACTION>__{Ben drives, pissed off. Vitti chuckles to himself.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{It's not funny! There was no safety harness or anything. They could have dropped me.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2315,7 +2315,7 @@
 <DIAL>__{Really? I was scared at first, but on the second take, I think I found some good stuff. I was able to texture the screaming --}
 <ACTION>__{Vitti is laughing.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Oh, screw you, Paul.   Just screw you.}
+<DIAL>__{Oh, screw you, Paul. Just screw you.}
 <ACTION>__{He pops two pills.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What, are you self-medicating again? And don't give that decongestant multi-vitamin bullshit.}
@@ -2345,10 +2345,10 @@
 <LOC>__{INT. BEN'S CAR - CONTINUOUS ACTION}
 <ACTION>__{Ben is on the edge of panic.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Maybe I should just pull over.   It could be the F.B.I.}
+<DIAL>__{Maybe I should just pull over. It could be the F.B.I.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{No, they're two cars back. You gotta be a little more observant, Doc. Turn left.}
-<ACTION>__{Ben executes a hard, SKIDDING left.   The Benz stays right with him.}
+<ACTION>__{Ben executes a hard, SKIDDING left. The Benz stays right with him.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{What if we just stop and get out? They're not going to shoot us in broad daylight.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2362,12 +2362,12 @@
 <ACTION>__{follows right behind him, then the bystanders run to pick up the cash, blocking the drive-thru, forcing Miller in the FBI car to stop.}
 <TRANS>__{CUT BACK TO:}
 <LOC>__{EXT. HOBOKEN STREET - MOMENTS LATER}
-<ACTION>__{Two police officers are parked at the curb. They hear a HORN HONKING, and turn just as Ben's car comes flying past them. The cops start to pull out but stop short as the Benz blows by, swerving to avoid hitting them.    The cops take off in hot pursuit.}
+<ACTION>__{Two police officers are parked at the curb. They hear a HORN HONKING, and turn just as Ben's car comes flying past them. The cops start to pull out but stop short as the Benz blows by, swerving to avoid hitting them. The cops take off in hot pursuit.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BEN'S CAR - CONTINUOUS ACTION}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(frantic)}
-<DIAL>__{We can't do this, Paul!     We have to stop! This is a lease!}
+<DIAL>__{We can't do this, Paul! We have to stop! This is a lease!}
 <ACTION>__{GUNFIRE SHATTERS the rear WINDOW of the car.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouting back at the Mercedes)}
@@ -2376,10 +2376,10 @@
 <DIAL_PAR>__{(looks back)}
 <DIAL>__{Move over. I'll drive.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Move over?   Where?}
+<DIAL>__{Move over? Where?}
 <ACTION>__{Vitti puts his left foot on the gas pedal and his left hand on the wheel.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Backseat.    Now!}
+<DIAL>__{Backseat. Now!}
 <ACTION>__{Ben tries to launch himself into the backseat but is stopped by his seat belt.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Seat belt.}
@@ -2412,7 +2412,7 @@
 <ACTION>__{INSERT - TENNIS RACKET is crushed under the Mercedes' wheels.}
 <TRANS>__{CUT BACK TO:}
 <LOC>__{INT. BEN'S CAR - CONTINUOUS ACTION}
-<ACTION>__{Ben picks up the only thing left -- the New York Times.   He starts leafing through it.}
+<ACTION>__{Ben picks up the only thing left -- the New York Times. He starts leafing through it.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What the fuck are you doing?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -2469,7 +2469,7 @@
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <DIAL>__{Here. Vitti with Sal Masiello. Vitti with Patty LoPresti. Vitti with Lou Rigazzi. Let me know -- I can order some wallet size for you. I've got more than enough to put him away again without these. Violation of parole, second-degree murder here. When I really start digging, it'll be amazing what I come up with. You have twenty- four hours to find him and deliver him to me. Otherwise you're looking at obstruction of justice, and accessory to felony manslaughter. And trust me, Dr. Sobel, if you don't like me now, you really don't want to see me in court.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I'm getting that.   Can I go now?}
+<DIAL>__{I'm getting that. Can I go now?}
 <ACTION>__{He starts for his car.}
 <CHAR>__{CHAPIN} <CHAR_PAR>__{}
 <DIAL>__{You can't take your car. We're impounding it as evidence.}
@@ -2503,16 +2503,16 @@
 <ACTION>__{He hands the P.A. some money.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Here -- tell him you couldn't find me.}
-<ACTION>__{Vitti exits.   The P.A. looks at the money.}
+<ACTION>__{Vitti exits. The P.A. looks at the money.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. MAKEUP TRAILER - LATER}
 <ACTION>__{Vitti makes his way past the trailers, heading for his car. As he passes the makeup trailer, the door opens and Tony Bella sticks his head out.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{Paul!   Excellent!}
+<DIAL>__{Paul! Excellent!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Can't really talk right now, mate. Headin' out.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{Two seconds. Please, Paul.    It's really important.}
+<DIAL>__{Two seconds. Please, Paul. It's really important.}
 <ACTION>__{Vitti looks pissed.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. MAKEUP TRAILER - MOMENTS LATER}
@@ -2521,10 +2521,10 @@
 <DIAL_PAR>__{(script in hand)}
 <DIAL>__{I'm looking for something to do when my character finds out he's being indicted. I was thinking of punching the wall, but I did that when they killed Uncle Lenny, and I did it again when Franny left me. Oh, and I punched a car, a van actually, when Peezee screwed up the big drug deal. So I'd like to find something different, that doesn't involve, you know, punching anything.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Try kickin' something.   Let me know how it works out.}
+<DIAL>__{Try kickin' something. Let me know how it works out.}
 <ACTION>__{Vitti starts for the door.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{Wait, Paul.   That's interesting.    Like what?}
+<DIAL>__{Wait, Paul. That's interesting. Like what?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(impatient)}
 <DIAL>__{I don't know. You could kick a guy in the face.}
@@ -2540,10 +2540,10 @@
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
 <DIAL>__{You've done that?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Maybe once or twice.   Look, I got people waiting.}
+<DIAL>__{Maybe once or twice. Look, I got people waiting.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(thinks about it, decides not)}
-<DIAL>__{My character wouldn't do that.   What else?}
+<DIAL>__{My character wouldn't do that. What else?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(at a loss, getting angrier)}
 <DIAL>__{I don't know. You could yell real loud?}
@@ -2574,16 +2574,16 @@
 <LOC>__{EXT. MAKEUP TRAILER - MOMENT LATER}
 <ACTION>__{The door flies open and Tony Bella comes flying out of the trailer backwards, hitting the pavement hard. Vitti charges out of the trailer and storms away. Tony wipes blood from under his nose.}
 <CHAR>__{TONY BELLA} <CHAR_PAR>__{}
-<DIAL>__{That was good.     My character could do that.}
+<DIAL>__{That was good. My character could do that.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. SOBEL HOUSE - LATER}
 <ACTION>__{A cab pulls up to the house, and Ben gets out. He walks up the driveway and sees Jelly's car parked at the back door and a big man in a dark suit and tie wiping the windshield.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(irritated)}
-<DIAL>__{Jelly!   Where's Paul?}
-<ACTION>__{The guy in the suit turns.   It's Michael.}
+<DIAL>__{Jelly! Where's Paul?}
+<ACTION>__{The guy in the suit turns. It's Michael.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Michael?   What are you doing?}
+<DIAL>__{Michael? What are you doing?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL>__{Working.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -2591,7 +2591,7 @@
 <DIAL>__{You got a job? That's great. Look how handsome you look in that suit. What's the job?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(reluctantly)}
-<DIAL>__{I'm working for Mr. Vitti.   I'm his driver.}
+<DIAL>__{I'm working for Mr. Vitti. I'm his driver.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Oh, no, you're not!}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
@@ -2613,15 +2613,15 @@
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL>__{I promised I'd never repeat anything I heard in the car. I took an oath.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{You took an oath! Oh, my God!     Was there blood involved?}
+<DIAL>__{You took an oath! Oh, my God! Was there blood involved?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL>__{Dad, I gave my word.}
 <ACTION>__{Laura comes out of the house.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
-<DIAL>__{Ben? Where've you been?    What happened to you?}
+<DIAL>__{Ben? Where've you been? What happened to you?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(minimizing)}
-<DIAL>__{I was  in a car chase. There  was a little  shooting -- not that much really  -- then they -- drove into the river.   It wasn't as bad as it sounds.}
+<DIAL>__{I was in a car chase. There was a little shooting -- not that much really -- then they -- drove into the river. It wasn't as bad as it sounds.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL>__{When is this going to end?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -2632,10 +2632,10 @@
 <DIAL>__{Yeah, but he's an amazing lout, isn't he? I can't quit now. You know that.}
 <CHAR>__{LAURA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(relents)}
-<DIAL>__{Go.   Just don't get shot -- please?}
+<DIAL>__{Go. Just don't get shot -- please?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I love you.}
-<ACTION>__{They kiss.     Then Ben turns to Michael.}
+<ACTION>__{They kiss. Then Ben turns to Michael.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{All right, where is he?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
@@ -2645,7 +2645,7 @@
 <DIAL>__{You tell your father right now or I'll give you such a smack it won't even be funny!}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(surprised)}
-<DIAL>__{Okay!   I dropped him at the club.}
+<DIAL>__{Okay! I dropped him at the club.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{What club?}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
@@ -2677,9 +2677,9 @@
 <DIAL>__{Hey, Doc. What are you doin' here?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Where's Paul?}
-<ACTION>__{Jelly tucks a few bills into her G-string.     She looks at Ben and winks suggestively.}
+<ACTION>__{Jelly tucks a few bills into her G-string. She looks at Ben and winks suggestively.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{I think she likes you, Doc.     Give her a couple of bucks.}
+<DIAL>__{I think she likes you, Doc. Give her a couple of bucks.}
 <ACTION>__{Ben reluctantly digs in his pocket and holds out a bill to the stripper.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Can you break a twenty?}
@@ -2714,15 +2714,15 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Anybody ever call you Carol Burnett?}
 <CHAR>__{AL PACINO} <CHAR_PAR>__{}
-<DIAL>__{No.   Why?}
+<DIAL>__{No. Why?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{'Cause you look about as much like Carol Burnett as you look like Al Pacino.}
-<ACTION>__{Ben laughs.   Al Pacino glares at him.}
+<ACTION>__{Ben laughs. Al Pacino glares at him.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I do see a little Pacino there -- around the eyes.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{So we're all here. Let's do it.}
-<ACTION>__{He heads for the back of the club with his guys.   Vitti and Jelly start to follow.}
+<ACTION>__{He heads for the back of the club with his guys. Vitti and Jelly start to follow.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(stops Vitti)}
 <DIAL>__{Let's do what?}
@@ -2734,11 +2734,11 @@
 <ACTION>__{Vitti violently shakes off Ben's hand.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(menacing)}
-<DIAL>__{Don't make me hurt you.    Get the fuck out of here.}
+<DIAL>__{Don't make me hurt you. Get the fuck out of here.}
 <ACTION>__{He walks away leaving Ben frozen. Ben watches as they disappear through a door leading to the back of the club. He starts toward the door.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BASEMENT ROOM - MOMENTS LATER}
-<ACTION>__{Vitti is seated at a big table in the crowded, smoke-filled room. Jelly sits at  his side. He's surrounded by his crew, about a half-a-dozen guys, and Patty's man, Eddie DeVol. Several street maps and diagrams are spread out on the table.}
+<ACTION>__{Vitti is seated at a big table in the crowded, smoke-filled room. Jelly sits at his side. He's surrounded by his crew, about a half-a-dozen guys, and Patty's man, Eddie DeVol. Several street maps and diagrams are spread out on the table.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Okay, this is big and we only get one shot at it; and there's only about a million ways this fuckin' thing can go bad, so listen up.}
 <ACTION>__{Vitti pulls a street map to the center of the table and taps a spot downtown.}
@@ -2772,7 +2772,7 @@
 <DIAL_PAR>__{(still dazed)}
 <DIAL>__{Hi, Carol.}
 <CHAR>__{AL PACINO} <CHAR_PAR>__{}
-<DIAL>__{You're a dead man, asshole.    Let's go.}
+<DIAL>__{You're a dead man, asshole. Let's go.}
 <ACTION>__{He starts muscling Ben to the door.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{What are you doing?}
@@ -2781,13 +2781,13 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Oh, I'm not into that, fellas.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Get your fuckin' hands off him!   He's with me.}
+<DIAL>__{Get your fuckin' hands off him! He's with me.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL>__{What, on the job?}
 <ACTION>__{Vitti hesitates.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(impatiently)}
-<DIAL>__{Either he's in, or he's dead.    Which is it?}
+<DIAL>__{Either he's in, or he's dead. Which is it?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I think in is better.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -2801,7 +2801,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Wait!}
 <DIAL_PAR>__{(sits)}
-<DIAL>__{Okay.    Go ahead.}
+<DIAL>__{Okay. Go ahead.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. LITTLE DARLING'S - LATER THAT NIGHT}
 <ACTION>__{Agents Cerrone and Miller watch the front of the club from their car parked across the street.}
@@ -2818,7 +2818,7 @@
 <ACTION>__{The FBI car follows the limos across the bridge into Manhattan.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. TIMES SQUARE - LATER}
-<ACTION>__{The limos pull up at the WWF Restaurant.     The FBI car stops up the block.}
+<ACTION>__{The limos pull up at the WWF Restaurant. The FBI car stops up the block.}
 <CHAR>__{CERRONE } <CHAR_PAR>__{(V.O.)}
 <DIAL_PAR>__{(over radio)}
 <DIAL>__{312, all units. W.W.F. Restaurant. Times Square.}
@@ -2827,7 +2827,7 @@
 <LOC>__{INT. FBI CAR - SAME TIME}
 <ACTION>__{Miller watches intently.}
 <CHAR>__{MILLER} <CHAR_PAR>__{}
-<DIAL>__{Where's Vitti?   I don't see Vitti.}
+<DIAL>__{Where's Vitti? I don't see Vitti.}
 <ACTION>__{Cerrone stares with the growing awareness that they've been had.}
 <CHAR>__{CERRONE} <CHAR_PAR>__{}
 <DIAL>__{Damn it!}
@@ -2840,7 +2840,7 @@
 <DIAL>__{Here. See if this'll fit under your shirt.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(extremely nervous)}
-<DIAL>__{I could fit you under my shirt.    Don't they have anything smaller?}
+<DIAL>__{I could fit you under my shirt. Don't they have anything smaller?}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{This ain't Bloomingdale's. Nobody knew you were comin'. You're lucky you're alive, Doc.}
 <ACTION>__{He glances at Eddie DeVol.}
@@ -2876,25 +2876,25 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(explaining)}
 <DIAL>__{My gun -- fell down in my --}
-<ACTION>__{He shakes his leg and the gun drops out of his cuff and clatters onto the floor. He smiles weakly and picks it up. Vitti approaches.    He looks agitated but under tight control.}
+<ACTION>__{He shakes his leg and the gun drops out of his cuff and clatters onto the floor. He smiles weakly and picks it up. Vitti approaches. He looks agitated but under tight control.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Jelly)}
 <DIAL>__{Check the bus.}
 <ACTION>__{Jelly exits.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL_PAR>__{(quietly, to   Ben)}
-<DIAL>__{If we can, I'm gonna   get you out before the real shit   goes down. Just don't flip out on me,   okay?}
+<DIAL_PAR>__{(quietly, to Ben)}
+<DIAL>__{If we can, I'm gonna get you out before the real shit goes down. Just don't flip out on me, okay?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{You are making a huge mistake.   You know that, don't you?}
+<DIAL>__{You are making a huge mistake. You know that, don't you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{You said it yourself.   It's my nature.}
+<DIAL>__{You said it yourself. It's my nature.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{It's not your nature!   You have a choice.}
+<DIAL>__{It's not your nature! You have a choice.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{What are you, fucking Jiminy Cricket? I don't know what planet you live on, but here on Earth it's 'might makes right.'   Read the papers. The guys with the guns make the rules.}
+<DIAL>__{What are you, fucking Jiminy Cricket? I don't know what planet you live on, but here on Earth it's 'might makes right.' Read the papers. The guys with the guns make the rules.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(holding up the pistol)}
-<DIAL>__{So I guess that makes me a real man now.  What happened to the white hat, Paul?  Your father wasn't wrong. You could be one of the good guys.}
+<DIAL>__{So I guess that makes me a real man now. What happened to the white hat, Paul? Your father wasn't wrong. You could be one of the good guys.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Enough. Say one more word about my father and I'll break your fuckin' head.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -2955,12 +2955,12 @@
 <LOC>__{INT. CONSTRUCTION SITE}
 <ACTION>__{A bank of arc lights is switched on illuminating the site as the truck is lowered to the ground. Heavily-armed gangsters in ski masks surround the truck and herd the driver, the shotgun guard and the frightened marshals into a construction shack, while men with acetylene torches attack the back doors. Vitti pulls down his ski mask and taps Ben.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Paul, it's not too late.   Don't do this.}
+<DIAL>__{Paul, it's not too late. Don't do this.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Let's go.}
 <ACTION>__{He strides off to take charge. Ben pulls down his mask and hurries after him, but runs right into a pole.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Shit!   Ow!}
+<DIAL>__{Shit! Ow!}
 <ACTION>__{He raises his mask and scampers after Vitti rubbing the painful bump on his forehead.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. STREET - SAME TIME}
@@ -3030,7 +3030,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Calm down.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I can't calm down!      I'm gonna die!}
+<DIAL>__{I can't calm down! I'm gonna die!}
 <ACTION>__{Inside the structure, Vitti spins him around and shakes him.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{You're not gonna die!}
@@ -3040,17 +3040,17 @@
 <DIAL_PAR>__{(shaking him)}
 <DIAL>__{For Chrissake, get hold of yourself!}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I can't!   I'm dying!   We're all going to die!}
-<ACTION>__{Suddenly, he slaps Vitti hard across the face.      They both freeze.}
+<DIAL>__{I can't! I'm dying! We're all going to die!}
+<ACTION>__{Suddenly, he slaps Vitti hard across the face. They both freeze.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Did I just hit you?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   Feel better now?}
+<DIAL>__{Yeah. Feel better now?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(breaking down)}
 <DIAL>__{I'm sorry, Paul. I blame myself for this. I wanted to help you. I wanted to be there for you. But I just wasn't good enough.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{You were good.  It isn't your fault.}
+<DIAL>__{You were good. It isn't your fault.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{No, it is. Since my father died --}
 <DIAL_PAR>__{(starts crying)}
@@ -3058,7 +3058,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Would you just shut up about your father!}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{I'm grieving, goddammit!    Have a little respect!}
+<DIAL>__{I'm grieving, goddammit! Have a little respect!}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{He was an asshole -- you said it yourself. What are you grieving for?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -3085,7 +3085,7 @@
 <DIAL>__{I mean, it's like all his hopes for you died with him. And that's so sad.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(starting to cry)}
-<DIAL>__{There I go. You happy now?      You see what you're doing here?}
+<DIAL>__{There I go. You happy now? You see what you're doing here?}
 <ACTION>__{Both men are crying now.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Your father really loved you.}
@@ -3096,7 +3096,7 @@
 <DIAL>__{I know. I know.}
 <ACTION>__{Jelly comes around the corner and sees the two men in a weepy embrace.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
-<DIAL>__{Oh, boy.    This is bad.}
+<DIAL>__{Oh, boy. This is bad.}
 <ACTION>__{Another huge CRASH as the marshals ram the gates again, this time tearing loose one of the big hinges.}
 <CHAR>__{JELLY} <CHAR_PAR>__{}
 <DIAL>__{Maybe we oughta should go.}
@@ -3106,7 +3106,7 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I had my hopes.}
 <CHAR>__{EDDIE} <CHAR_PAR>__{}
-<DIAL>__{Yeah, well, nice work.   Mr. Rigazzi will be very grateful.}
+<DIAL>__{Yeah, well, nice work. Mr. Rigazzi will be very grateful.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Vitti)}
 <DIAL>__{Rigazzi? I thought he worked for Patti LoPresti.}
@@ -3120,7 +3120,7 @@
 <DIAL>__{I can't take it anymore! That's what I hate about you fucking sociopaths! You just keep changing the rules to suit yourselves. Well, not this time, you anti-social asshole. You fucked with the wrong shrink!}
 <ACTION>__{Sitting on Eddie's chest, he presses the gun against Eddie's nose.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Don't you read the papers?   The guy with the gun makes the rules.}
+<DIAL>__{Don't you read the papers? The guy with the gun makes the rules.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, what?}
 <ACTION>__{They shove Eddie, Enormous Bobby and Al Pacino into the back of the armored truck, Vitti gives a signal and the crane lifts it off the ground.}
@@ -3129,7 +3129,7 @@
 <ACTION>__{The armored truck comes down fast and drops heavily to the street. Federal MARSHALS swarm the truck and find Eddie, Al, and Bobby sprawled in the back.}
 <CHAR>__{CAPTAIN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(screaming)}
-<DIAL>__{On the floor! Face-down!   Now!}
+<DIAL>__{On the floor! Face-down! Now!}
 <CHAR>__{AL PACINO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Eddie)}
 <DIAL>__{Nice goin'. Good plan.}
@@ -3137,7 +3137,7 @@
 <DIAL>__{What's a sociopath?}
 <ACTION>__{The marshals handcuff them. Suddenly, the marshals hear AUTOMATIC WEAPONS FIRE coming from the next block. Uniformed SWAT COPS come running from that direction and shout to the marshals.}
 <CHAR>__{SWAT LEADER} <CHAR_PAR>__{}
-<DIAL>__{They're escaping out the back!    Get over there! Move it!}
+<DIAL>__{They're escaping out the back! Get over there! Move it!}
 <ACTION>__{The marshals rush toward the sound of the GUNFIRE and disappear around the corner.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{NEXT BLOCK}
@@ -3185,7 +3185,7 @@
 <DIAL>__{Yes, Officer?}
 <CHAR>__{LEAD SWAT} <CHAR_PAR>__{}
 <DIAL>__{You're one tough shrink.}
-<ACTION>__{The cops unmask. It's Mo-Mo, Cokes, and Tuna.     They laugh and slap hands with Vitti and Ben.}
+<ACTION>__{The cops unmask. It's Mo-Mo, Cokes, and Tuna. They laugh and slap hands with Vitti and Ben.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. STREET - CONTINUOUS ACTION}
 <ACTION>__{The bus pulls out and joins the flow of traffic heading downtown.}
@@ -3199,11 +3199,11 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{So what now? You go on the run for the rest of your life? Back to Sing Sing? Or you turn up dead in an alley?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Those are my choices? What   happened to lying on a beach in Costa  Rica for the next twenty years?   You can't let me enjoy this for  five fuckin' minutes?}
+<DIAL>__{Those are my choices? What happened to lying on a beach in Costa Rica for the next twenty years? You can't let me enjoy this for five fuckin' minutes?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Five minutes?    And then what?}
+<DIAL>__{Five minutes? And then what?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{And then what?    I'll show you.}
+<DIAL>__{And then what? I'll show you.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. RIGAZZI PLUMBING AND HEATING - NEXT MORNING}
 <ACTION>__{A Rigazzi company van is forced open by a team of FBI agents led by Agent Miller. Stacked inside are forty gold bars. Agent Cerrone comes out of the building with Lou Rigazzi and several associates in handcuffs. U.S. Attorney Chapin makes a statement to the media.}
@@ -3211,9 +3211,9 @@
 <DIAL>__{Acting on intelligence we developed in the last few days, the Justice Department and the F.B.I. took very aggressive action to recover the stolen gold and bring the perpetrators to justice. I'm happy to tell the people of New York that the streets are safe again.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. PATTY'S HOUSE - SAME TIME}
-<ACTION>__{Vitti knocks on the front door.    Patty answers it in her robe.}
+<ACTION>__{Vitti knocks on the front door. Patty answers it in her robe.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
-<DIAL>__{Hi, Paul.   How'd it go?}
+<DIAL>__{Hi, Paul. How'd it go?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Not so good.}
 <CHAR>__{PATTY} <CHAR_PAR>__{}
@@ -3251,11 +3251,11 @@
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Did he grab your balls?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{No, Paul, he did not grab my balls. He thanked me for tipping him off about the gold. And he said he won't be coming after you if you stay out of trouble.  So what do you think?}
+<DIAL>__{No, Paul, he did not grab my balls. He thanked me for tipping him off about the gold. And he said he won't be coming after you if you stay out of trouble. So what do you think?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{I'm gonna go to Ohio -- get Marie and the kids -- then we'll probably disappear for awhile -- figure out all this future stuff -- away from all the pressure.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Good idea. Change is hard, Paul.    But you did the right thing.}
+<DIAL>__{Good idea. Change is hard, Paul. But you did the right thing.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Yeah, you, too. You hung in there. That took a lot of guts.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
@@ -3273,7 +3273,7 @@
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{Well, I wrestled a bit in high school -- 122 pounds.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
-<DIAL>__{Yeah, I could tell.   You're good, you.}
+<DIAL>__{Yeah, I could tell. You're good, you.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
 <DIAL>__{I'm not --}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
@@ -3282,11 +3282,11 @@
 <DIAL>__{No. You are good. You got a gift, my friend.}
 <ACTION>__{Ben gives up.}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Fine.   I have a gift.}
+<DIAL>__{Fine. I have a gift.}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{So -- happy ending, huh?}
 <CHAR>__{BEN} <CHAR_PAR>__{}
-<DIAL>__{Well, I think so.   Don't you feel better now?}
+<DIAL>__{Well, I think so. Don't you feel better now?}
 <CHAR>__{VITTI} <CHAR_PAR>__{}
 <DIAL>__{Are you kidding? I feel like shit. All that work for nothing. 20 million bucks.}
 <CHAR>__{BEN} <CHAR_PAR>__{}

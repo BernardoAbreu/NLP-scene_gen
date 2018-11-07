@@ -122,7 +122,7 @@
 <DIAL>__{What a shame. We'll just make it last as long as we can.}
 <LOC>__{EXT. STREET. NEAR JENNY'S. DAY}
 <ACTION>__{The Bristol is crawling along the road at walking pace.}
-<LOC>__{10   INT/EXT. CAR JENNY'S HOUSE. DAY}
+<LOC>__{10 INT/EXT. CAR JENNY'S HOUSE. DAY}
 <ACTION>__{David reaches across Jenny while driving slowly, opens the glove compartment and takes out a packet of cigarettes.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Smoke?}
@@ -201,7 +201,7 @@
 <DIAL>__{It's the night of the youth orchestra concert. Jenny, her mother and father are on their way out of the door. Jack is carrying the cello. Jenny is in her school uniform, with her hair scrubbed back in a severe ponytail. The three of them are flustered. Jenny opens the front door for her father and he stumbles outside.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Oh!}
-<LOC>__{12A   INT/EXT. JENNY'S HOUSE. EVENING}
+<LOC>__{12A INT/EXT. JENNY'S HOUSE. EVENING}
 <DIAL>__{She has seen something on the doorstep, and she stoops to pick it up - a large bunch of flowers.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{They're for me!}
@@ -339,7 +339,7 @@
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Why?}
 <CHAR>__{HATTIE} <CHAR_PAR>__{}
-<DIAL>__{Because no man's ever   going to ask us out to supper.   Not until we're ladies, anyway.   You're going to have to tell   us everything. Otherwise   it's not fair.}
+<DIAL>__{Because no man's ever going to ask us out to supper. Not until we're ladies, anyway. You're going to have to tell us everything. Otherwise it's not fair.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{There won't be anything to tell.}
 <CHAR>__{TINA} <CHAR_PAR>__{}
@@ -398,7 +398,7 @@
 <ACTION>__{Jenny starts towards the door, and then turns.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Oh, and by the way...David's a Jew. A wandering Jew. So watch yourself.}
-<ACTION>__{She   goes to the door.}
+<ACTION>__{She goes to the door.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(panic-stricken and shouting)}
 <DIAL>__{What's she talking about? I've never said anything like that in my life! Anyway, it's just an expression! I'm not against the Jews!}
@@ -690,7 +690,7 @@
 <ACTION>__{David sitting in his Bristol, waiting.}
 <LOC>__{EXT. SCHOOL. DAY}
 <ACTION>__{We see the Bristol parked outside, and Jenny walking towards it, a small figure in a large playground. She's clearly just changed out of her school uniform, and she's making last-minute adjustments to her civvies. A teacher walks towards her, and Jenny almost freezes - but the teacher merely smiles pleasantly and walks past. Jenny keeps walking at a measured pace for a moment and then breaks into a run.}
-<LOC>__{25   INT/EXT. CAR/DILAPIDATED HOUSE. DAY}
+<LOC>__{25 INT/EXT. CAR/DILAPIDATED HOUSE. DAY}
 <ACTION>__{Jenny and David are driving along a North Kensington street.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{How do you know Danny?}
@@ -735,7 +735,7 @@
 <ACTION>__{Jenny glances at Danny. He makes no move at this price. Neither does anyone else. He's poised and listening hard.}
 <CHAR>__{AUCTIONEER} <CHAR_PAR>__{}
 <DIAL>__{Two hundred?}
-<ACTION>__{A middle-aged lady, the epitome of the middle-aged contemporary Sloane, twin-set, pearls and a lot of      face powder, raises her hand.}
+<ACTION>__{A middle-aged lady, the epitome of the middle-aged contemporary Sloane, twin-set, pearls and a lot of face powder, raises her hand.}
 <CHAR>__{AUCTIONEER} <CHAR_PAR>__{}
 <DIAL>__{Thank you, madam. Three hundred?}
 <ACTION>__{A man raises his hand.}
@@ -837,7 +837,7 @@
 <DIAL>__{About what?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Oxford.}
-<ACTION>__{Jenny   hoots with derision.}
+<ACTION>__{Jenny hoots with derision.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{You're going to ask my father if I can go away with you for the weekend? He'd have you arrested.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -920,9 +920,9 @@
 <CHAR>__{MARJORIE} <CHAR_PAR>__{}
 <DIAL>__{Jack...}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{No, no, won't take me a minute. I think I saw some at the back there, right next to the pocket money tree. I'll just nip out and check, see that they're doing all right. Don't want anyone climbing over the wall and scrumping, do we? And you never know. Maybe there'll be a man with deep pockets growing out there. Because God knows we need to find you one. He leaves the room, apparently to   look in   the garden   for the mythical trees.}
+<DIAL>__{No, no, won't take me a minute. I think I saw some at the back there, right next to the pocket money tree. I'll just nip out and check, see that they're doing all right. Don't want anyone climbing over the wall and scrumping, do we? And you never know. Maybe there'll be a man with deep pockets growing out there. Because God knows we need to find you one. He leaves the room, apparently to look in the garden for the mythical trees.}
 <LOC>__{INT. JENNY'S HOUSE}
-<DIAL>__{Jenny and her mother move to the window to    watch him talking theatrically to the trees.}
+<DIAL>__{Jenny and her mother move to the window to watch him talking theatrically to the trees.}
 <LOC>__{EXT. STREET/COFFEE BAR. DAY.}
 <DIAL>__{Jenny, Hattie and Tina are walking back from school.}
 <CHAR>__{TINA} <CHAR_PAR>__{}
@@ -1107,13 +1107,13 @@
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL>__{Good for you.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
-<DIAL>__{Really? Do     you think so?}
+<DIAL>__{Really? Do you think so?}
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL>__{You're only sixteen. And you don't want to get into the family way, do you?}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Oh, I'd make sure that didn't happen. I'm going to do it when I'm seventeen. On my seventeenth birthday, hopefully.}
 <CHAR>__{HELEN} <CHAR_PAR>__{}
-<DIAL>__{With   David?}
+<DIAL>__{With David?}
 <ACTION>__{Jenny pauses.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Well...Golly. I suppose it will be with David, won't it?}
@@ -1130,9 +1130,9 @@
 <DIAL_PAR>__{(thoughtful)}
 <DIAL>__{Shall, we, ah... Make a move?}
 <ACTION>__{He gets to his feet.}
-<LOC>__{42   INT/EXT. CAR COUNTRY ROAD. DAY.}
+<LOC>__{42 INT/EXT. CAR COUNTRY ROAD. DAY.}
 <ACTION>__{The Bristol on the country road to Oxford.}
-<LOC>__{43   INT/EXT. CAR OXFORD DAY}
+<LOC>__{43 INT/EXT. CAR OXFORD DAY}
 <ACTION>__{The Bristol drives through Oxford. Jenny catches a quick glimpse of a dreaming spire.}
 <CHAR>__{DANNY} <CHAR_PAR>__{}
 <DIAL>__{Imagine spending three years here.}
@@ -1143,7 +1143,7 @@
 <DIAL>__{Can we stop?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Maybe later. There are a couple of things we have to do.}
-<LOC>__{44   INT/EXT. CAR OXFORD BACK STREET. DAY.}
+<LOC>__{44 INT/EXT. CAR OXFORD BACK STREET. DAY.}
 <ACTION>__{Jenny and Helen in the back seat of the car, which is parked outside a house in the back streets of Oxford. There's no sign of Danny and David. Jenny sighs impatiently.}
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL>__{Oh, it's always like this. There are millions of places I've never seen because I've been stuck in here.}
@@ -1252,7 +1252,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Thank you.}
 <ACTION>__{He sits up, and lovingly lifts the straps back up. He smiles at her. Relieved, she smiles back.}
-<LOC>__{47   INT/EXT. CAR COTTAGE. DAY}
+<LOC>__{47 INT/EXT. CAR COTTAGE. DAY}
 <ACTION>__{The Bristol, containing David and Jenny in the front seats and Danny and Helen in the back, passing through a pretty Oxfordshire village. It pulls up outside a country cottage with a `FOR SALE' sign outside.}
 <LOC>__{INT. CAR. DAY}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1285,9 +1285,9 @@
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL>__{And when they do find something, we usually have to leave quite quickly. They can be a bit naughty, sometimes. Anyway. It's nice to have company. I'm usually outside on my own.}
 <ACTION>__{Jenny stares at Helen. She's beginning to realise who she is dealing with.}
-<ACTION_ALT>__{SCENE OMITTED SCENE OMITTED}
-<LOC>__{52   INT/EXT. CAR NEW COUNTRY ROAD. DAY}
-<ACTION>__{An old picture of   some kind is wedged between Helen and Jenny on the back   seat. Jenny, furious, is staring out of the window. Helen   attempts to peer around the partition, but settles for a   wave.}
+<ACTION_ALT>__{SCENE SCENE }
+<LOC>__{52 INT/EXT. CAR NEW COUNTRY ROAD. DAY}
+<ACTION>__{An old picture of some kind is wedged between Helen and Jenny on the back seat. Jenny, furious, is staring out of the window. Helen attempts to peer around the partition, but settles for a wave.}
 <CHAR>__{HELEN} <CHAR_PAR>__{}
 <DIAL>__{Coo-ee. Jenny.}
 <ACTION>__{Jenny doesn't respond.}
@@ -1305,7 +1305,7 @@
 <LOC>__{EXT. DANNY'S FLAT. DAY}
 <ACTION>__{The Bristol pulls up outside Danny's Bedford Square flat.}
 <CHAR>__{DANNY} <CHAR_PAR>__{}
-<DIAL>__{Who wants to come up   for a drink?}
+<DIAL>__{Who wants to come up for a drink?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jenny?}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
@@ -1330,7 +1330,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Do you understand? Of course you do. This is who we are, Jenny.}
 <ACTION>__{He turns to face her and holds out his hand. On Jenny: is she in or out? Jenny takes his hand. David pulls her towards him, holds her around the waist and begins to dance with her. Further up the pavement, Helen and Danny watch, laughing.}
-<LOC>__{54   EXT/INT. CAR JENNY' HOUSE. NIGHT}
+<LOC>__{54 EXT/INT. CAR JENNY' HOUSE. NIGHT}
 <ACTION>__{David pulls up in the Bristol outside Jenny's house, and they sit in the dark for a little while.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I suppose you have homework to do.}
@@ -1535,11 +1535,11 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Come on. Presents. Without any real enthusiasm, Jenny opens the first one of the two, from her mum and dad. It's a Latin dictionary.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
-<DIAL>__{Oh. Thank you. I    needed a new one.}
+<DIAL>__{Oh. Thank you. I needed a new one.}
 <CHAR>__{GRAHAM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(crestfallen)}
 <DIAL>__{Oh dear. The doorbell rings. Jenny perks up. Jack goes to answer it, and immediately the house is energised: it's David.}
-<LOC>__{58A   INT/EXT JENNY'S HOUSE}
+<LOC>__{58A INT/EXT JENNY'S HOUSE}
 <DIAL>__{Jack answers the door to David.}
 <LOC>__{INT. JENNY'S HOUSE}
 <CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
@@ -1693,7 +1693,7 @@
 <DIAL>__{Well, if work stops us getting to Paris until tomorrow, then work can buy us a nice hotel room. Anyway, it's a special occasion, isn't it?}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{I would have thought that tonight of all nights we only need a bedroom.}
-<ACTION>__{Close on David's reaction      -   she hasn't forgotten that tonight's the night.}
+<ACTION>__{Close on David's reaction - she hasn't forgotten that tonight's the night.}
 <LOC>__{INT. HOTEL BEDROOM. NIGHT}
 <ACTION>__{David and Jenny in bed, in a dimly lit bedroom. They are kissing - David more passionately than Jenny. He is making little whimpers of excitement, and Jenny is clearly trying hard to hide her nerves. We're acutely aware of her age, and of her virginity. Suddenly David breaks off.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1786,7 +1786,7 @@
 <CHAR>__{HATTIE} <CHAR_PAR>__{}
 <DIAL>__{We'll miss it.}
 <ACTION>__{Jenny laughs.}
-<LOC>__{INT.   CLASSROOM. DAY}
+<LOC>__{INT. CLASSROOM. DAY}
 <ACTION>__{Jenny's English class file past Miss Stubbs at the end of a lesson. Miss Stubbs stops Jenny.}
 <CHAR>__{MISS STUBBS} <CHAR_PAR>__{}
 <DIAL>__{Jenny, could I have a word?}
@@ -2054,7 +2054,7 @@
 <DIAL>__{He wouldn't have wanted you if you were thick, would he?}
 <ACTION>__{Jenny stares at them and walks out.}
 <LOC>__{INT. CLASSROOM. DAY}
-<ACTION>__{English. Miss Stubbs is standing at the front   of the class, holding a copy of King Lear, and listening as   various members of the class massacre the text. Some    are messing about by overacting; others read to the best     of their ability, tonelessly and with no understanding   of the words. Lear himself is being read by Ann, the bespectacled girl from the first scene. She's no King Lear, and she's one of the bad readers.}
+<ACTION>__{English. Miss Stubbs is standing at the front of the class, holding a copy of King Lear, and listening as various members of the class massacre the text. Some are messing about by overacting; others read to the best of their ability, tonelessly and with no understanding of the words. Lear himself is being read by Ann, the bespectacled girl from the first scene. She's no King Lear, and she's one of the bad readers.}
 <CHAR>__{GIRL 1} <CHAR_PAR>__{}
 <DIAL>__{May not an ass know when the cart draws the horse? Sings whoop jug I love thee.}
 <CHAR>__{MISS STUBBS} <CHAR_PAR>__{}
@@ -2211,7 +2211,7 @@
 <ACTION>__{More laughter.}
 <CHAR>__{HELEN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You won't be laughing when she goes all speccy and spotty, David.}
-<ACTION>__{Helen is bemused by their mirth. Danny watches   David thoughtfully.}
+<ACTION>__{Helen is bemused by their mirth. Danny watches David thoughtfully.}
 <LOC>__{EXT. DANNY'S. NIGHT}
 <ACTION>__{David and Jenny come out of Danny's flat and approach David's car.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
@@ -2431,7 +2431,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Soon. It just - it never seemed the right time. You seemed so happy, and I was happy, and...It would have spoiled everything. What can I do, Minnie? What can I do? How can...}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
-<DIAL>__{"Oh,   Jenny. I'm just too busy to find   somewhere to live...I live with   my mummy." You were living with   your wife! All this time!}
+<DIAL>__{"Oh, Jenny. I'm just too busy to find somewhere to live...I live with my mummy." You were living with your wife! All this time!}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jenny...}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
@@ -2463,7 +2463,7 @@
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{I have nothing. I left school. I didn't take my exams. Where's it all gone, now? I gave my life away.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Jenny, I can get a divorce. Everything will turn out for   the best. You'll see.}
+<DIAL>__{Jenny, I can get a divorce. Everything will turn out for the best. You'll see.}
 <ACTION>__{We can see Jack and Marjorie peering through the lace curtains anxiously.}
 <CHAR>__{JENNY} <CHAR_PAR>__{}
 <DIAL>__{Go and tell them. Go and tell them, then go and tell your wife. I want to see you. I want to stand there and watch.}

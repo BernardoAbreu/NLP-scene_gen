@@ -1148,7 +1148,7 @@
 <CHAR>__{TERMINATOR} <CHAR_PAR>__{}
 <DIAL>__{No problemo.}
 <TRANS>__{CUT TO:}
-<LOC>__{94-95   OMITTED EXT. ROADSIDE STAND/GAS STATION - DAY}
+<LOC>__{94-95    EXT. ROADSIDE STAND/GAS STATION - DAY}
 <ACTION>__{There's a gas pump and a sleazy fast-food stand.  Picnic tables are set up at the side of the food stand.  A family sits at one, children playing and running about.}
 <LOC>__{96A     The pickup truck pulls into the lot.  Stops at the gas pump.}
 <ACTION>__{Sarah turns to John.}
@@ -1444,7 +1444,7 @@
 <ACTION>__{burbling laughter of the kids.  One of the young mothers walks her two-year-old son by the hands.  She is wearing a pink waitress uniform.  She turns to us, laughing. It is Sarah.  Beautiful.  Radiant.  Sarah from another life, uncontaminated by the dark future.  She glances at the strange woman beyond the fence.}
 <LOC>__{118C    Grim-faced Sarah presses against the fence.  She starts shouting at}
 <ACTION>__{them in SLOW MOTION.  No sound comes from her mouth.  She grabs the fence in frustration, shaking it.  Screaming soundlessly. Waitress Sarah's smile falls.  Then returns as her little boy throws some sand at her.  She laughs, turns away, as if the woman at the fence were a shadow, a trick of light.}
-<LOC>__{118D-118F  OMITTED 118G    THE SKY EXPLODES.  The children ignite like match heads.  Sarah is}
+<LOC>__{118D-118F   118G    THE SKY EXPLODES.  The children ignite like match heads.  Sarah is}
 <ACTION>__{burning, screaming silently, everything silent and overexposed.}
 <LOC>__{118H    THE BLAST WAVE HITS... devouring the cowering mothers and children.}
 <ACTION>__{Sarah's scream merges with the howl of the wind as the shockwave rips into her, blasting her apart and she...}
@@ -1500,12 +1500,12 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{A124    EXT, DYSON'S HOUSE - NIGHT The house is high-tech and luxurious.  Lots of glass.  Dyson's study is lit bluish with the glow of his computer monitors.  He is at the terminal, working.  Where else?  We see him clearly in a long shot from an embankment behind the house. A DARK FIGURE moves into the foreground.  Rack focus to Sarah as she turns into profile.  She raises the CAR-15 rifle and begins screwing the long heavy cylinder of a sound-suppresser onto the end of the barrel.}
 <TRANS>__{CUT TO:}
-<ACTION>__{A125-A125K  OMITTED}
-<LOC>__{129     OMITTED INT. DYSON HOUSE}
+<ACTION>__{A125-A125K  }
+<LOC>__{129      INT. DYSON HOUSE}
 <ACTION>__{Dyson's kids, Danny and Blythe, are playing in the halls with a radio- controlled off-road truck.  Danny drives and Blythe scampers after it, trying to catch it.  They stop in the hall outside Dyson's study and sees him working at his terminal.  Danny puts a finger to his lips, shushing Blythe.  His expression is mischievous.}
 <LOC>__{129B    With the silencer in place, Sarah eases back the bolt and then slips}
 <ACTION>__{it forward, chambering a .223 round.  Then she lies down on the embankment. He cheek pressed against the cool rifle-stock, she slides one hand slowly forward to brace the weapon, taking the weight on her elbow. Her other hand slips knowingly to the trigger. Her expression is cold, impassive.  She looks through the scope at the man in the house.  She feels nothing as she raises the rifle.}
-<LOC>__{130     OMITTED INT. DYSON'S HOUSE}
+<LOC>__{130      INT. DYSON'S HOUSE}
 <ACTION>__{DYSON, in deep thought.  The rhythmic sounds of keys as he works. Symbols on the screen shift. ON HIS BACK we see the glowing red dot appear.  It is the target dot of Sarah's laser designator.  It moves silently up his back toward his head.}
 <LOC>__{EXT. DYSON HOUSE/EMBANKMENT}
 <ACTION>__{IN EXTREME CLOSEUP we see Sarah's eye at the night-scope. TIGHT INSERT on her finger as it tightens on the trigger, taking out the slack.  She takes a deep breath and holds it.  Adjusts her position minutely.}
@@ -1710,7 +1710,7 @@
 <DIAL_PAR>__{(holds up key)}
 <DIAL>__{... and one from the security station.  It's in a locker but my card should access it.  Here we go.}
 <ACTION>__{They stand in front of a wide security door.  A sign above reads SPECIAL PROJECTS DIVISION:  AUTHORIZED PERSONNEL ONLY.  Dyson zips his key-card through the scanner and the door unlatches.}
-<LOC>__{141     OMITTED INT. FIRST FLOOR CORRIDOR/LOBBY}
+<LOC>__{141      INT. FIRST FLOOR CORRIDOR/LOBBY}
 <ACTION>__{A ROVING GUARD, MOSHIER, strolls down the long corridor from the first-floor office block.  A punch clock swings at his hip, and he's just completed his circuit of the building.  He passes the back of elevators and rounds the corner to the front desk, calling out --}
 <CHAR>__{MOSHIER} <CHAR_PAR>__{}
 <DIAL>__{Honey, I'm home...}
@@ -1819,7 +1819,7 @@
 <DIAL>__{Trust me.}
 <LOC>__{EXT. CYBERDYNE BUILDING}
 <ACTION>__{The security duo of Moshier and Gibbons cowers behind cars in the parking lot in front of the building.  They turns as L.A.P.D. BLACK- AND-WHITES pour into the lot, turn the area into a disco of whirling blue and red lights.}
-<LOC>__{152     OMITTED EXT. CYBERDYNE BUILDING}
+<LOC>__{152      EXT. CYBERDYNE BUILDING}
 <ACTION>__{The cops are jumping from their cars and ducking behind them. Emphasis on small arms here.  Behind them an ugly BLACK SWAT VAN screeches into the lot.}
 <LOC>__{153A    We hear the THUMP OF ROTORS as a POLICE CHOPPER arrives and swings in}
 <ACTION>__{close to the building.  It rakes its XENON SPOTLIGHT through the second floor offices.}
@@ -1883,7 +1883,7 @@
 <DIAL>__{Cover you ears and open you mouth.}
 <LOC>__{163A    They do.  KABOOM!!! Twenty feet away the door, and half the wall}
 <ACTION>__{around it, EXPLODES outward.  The backblast hits Terminator full force, but he strides through the smoking hole before the debris has even hit the floor.}
-<LOC>__{164     OMITTED INT. LAB}
+<LOC>__{164      INT. LAB}
 <ACTION>__{SWAT LEADER moves cautiously through the lab.  Cat-stepping, he circles around a desk which block Dyson's body from his view.  His M-16 is leveled crisply.  We look over his shoulder as he rounds the desk, revealing -- MILES DYSON is not dead.  He will be very soon, but at this moment he is conscious.  He has propped himself up against the desk, and holds a BOOK in one hand.  A heavy technical manual. Below the book is the detonator, upright on the tile floor. The message is clear.  "Shoot me, the book drops on the plunger. Adios."  Dyson wheezes, trying to draw enough breath to talk.}
 <CHAR>__{DYSON} <CHAR_PAR>__{}
 <DIAL>__{I don't know... how much longer... I can... hold this thing...}
@@ -1895,7 +1895,7 @@
 <ACTION>__{Terminator reaches the main elevators.  Hits the button.  Sarah and John are coughing and stumbling in the choking darkness, buddy- breathing with the single mask.  The doors open.  They get in the elevator and head down.}
 <LOC>__{INT. LAB}
 <ACTION>__{Dyson is lying amid the ruins of his dreams.  Sprawled on the floor, he has his back propped up against the desk.  He is bathed in his own blood, which runs out in long fingers across the tiles.  His breathing is shallow and raspy.  He still holds the book, trembling, above the switch. In his lap is the picture from his desk.  He has pulled it from the debris next to him.  A tear trickles from his eye.  His wife and children smile up at him through broken glass.}
-<LOC>__{168     OMITTED 169     CUT TO THE PUPIL OF HIS EYE:}
+<LOC>__{168      169     CUT TO THE PUPIL OF HIS EYE:}
 <ACTION>__{, at the moment of death, the instant the light fade from his eyes and he is gone -- His arm drops and the book his the switch --}
 <LOC>__{EXT. BUILDING}
 <ACTION>__{As the face of the building EXPLODES in an eruption of glass and fire. Remains of the second-floor windows shower the parking lot and a huge fireball rolls out, leaping into the sky. The cops look up, stunned.  The helicopter banks away from the heat. Burning debris falls among the cop cars and a number of officers break ranks, pulling back.}
@@ -1981,7 +1981,7 @@
 <ACTION>__{ripping up the interior.  The vests covering John are hit repeatedly. We see that Sarah has hung two Kevlar vests on the inside of the back door and she ducks behind these as bullets hit around her.  She pops back out and fires in controlled bursts.  The M-16 empties and she grabs another.}
 <LOC>__{180E    Terminator serves around a car which is changing lanes, hitting it}
 <ACTION>__{and knocking it skidding.}
-<LOC>__{181     OMITTED 181A    Sarah reloads and keeps firing.  The van swerves around a Toyota.  A}
+<LOC>__{181      181A    Sarah reloads and keeps firing.  The van swerves around a Toyota.  A}
 <ACTION>__{moment later the helicopter passes it, the rotor just clearing the top of the car.}
 <LOC>__{181B    T-1000 FIRES the machine pistol. 181C    Sarah has popped out to fire.  She takes a HIT in the thigh, and}
 <ACTION>__{several rounds hammer into her Kevlar vest.  She is thrown back onto the floor of the van.  She lies there, an exposed target...}

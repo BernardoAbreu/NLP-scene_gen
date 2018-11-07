@@ -79,7 +79,7 @@
 <DIAL>__{What I wouldn't do for a place like this.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
 <DIAL>__{It's gonna be great.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. MARKET SECURITY BANK & TRUST - HEADQUARTERS - DAY}
 <ACTION>__{It is morning rush hour. Sam and Carl, both wearing suits and ties, exit the Wall Street subway station and approach the Headquarters of Market Security Bank & Trust.}
 <CHAR>__{CARL} <CHAR_PAR>__{}
@@ -292,7 +292,7 @@
 <DIAL_PAR>__{(looking at Carl)}
 <DIAL>__{Do you believe this? I should have been Picasso's mistress. I should have been living in Barcelona or Paris. But no, I'm moving in with a New York banker who thinks I'm cute.}
 <ACTION>__{She looks at Sam and grins. Carl is staring at Molly, obviously turned on by her. He is embarrassed when she catches his gaze and quickly looks away.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. MOLLY'S STUDIO - NIGHT}
 <ACTION>__{Molly, dressed only in a T-shirt, is sitting at her potters wheel throwing a series of pots. Sam enters the studio. He is barefoot, shirtless, wearing jeans.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
@@ -323,7 +323,7 @@
 <ACTION_ALT>__{JUKEBOX}
 <ACTION>__{The song ends. The jukebox arm retracts and gently slides the record back into its slot.}
 <TRANS>__{DISSOLVE:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{BEDROOM - NIGHT Sam and Molly are lying together silently. Molly gazes at him.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
 <DIAL>__{What's the matter?}
@@ -373,7 +373,7 @@
 <DIAL_PAR>__{(he snaps his fingers)}
 <DIAL>__{Just like that. Blackout.}
 <LOC>__{EXT. WALL STREET ESTABLISHING SHOT - DAY}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SAM'S OFFICE - DAY}
 <ACTION>__{Sam is sitting at his computer. His address book with his access codes is sitting open beside him. He seems perplexed by something happening on the screen. After pushing a series of buttons and getting the same response, he whacks the computer on the side. Carl, walking in the door, sees him. Sam looks up sheepishly.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
@@ -546,7 +546,7 @@
 <DIAL>__{Molly.}
 <ACTION>__{There is no response. Sam, deeply troubled, hesitates for a moment. He is torn between Molly and the light. Then, in a painful, but conscious gesture, he turns from the light and walks toward Molly. At that instant, the light behind him disappears with the sound of a pneumatic door closing. There is a sense of terrible finality as the tunnel evaporates into the void. Sam is left on the dark pavement. He stands there a moment, as if in shock, and then begins running toward Molly. An AMBULANCE is rounding the corner.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. NEW YORK STREETS - NIGHT}
 <ACTION>__{Swirls of light speed toward the ambulance as car headlights and streetlamps merge in a wild dizzying rush. The SIREN wails into the night.}
 <LOC>__{INT. AMBULANCE - NIGHT}
@@ -675,7 +675,7 @@
 <DIAL_PAR>__{(sarcastic)}
 <DIAL>__{Oh good. That's really good.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. KITCHEN - DAY}
 <ACTION>__{Molly and Carl are standing over the kitchen table folding piles of Sam's clothes and placing them into boxes. As Molly lifts one of Sam's jackets, something falls from a side pocket. It is his small black leather address book. Sam stares at it with recognition. Carl sees the book fall and stoops to pick it up but Molly gets it first.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
@@ -774,7 +774,7 @@
 <ACTION>__{With shocking impact, the Ghost's fist goes flying into the window. To Sam's terror and amazement, the window SHATTERS. The Ghost smiles. Passengers scream and Sam dives for cover. Sam stares at the broken glass with fascination and confusion. Suddenly, the train moves from the darkness of the tunnel into broad daylight.}
 <LOC>__{EXT. ELEVATED SUBWAY STATION - DAY}
 <ACTION>__{The train stops at an elevated subway platform in Brooklyn.}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{SAM'S P.O.V. Sam sees the Mugger exiting the train and frantically rushes after him.}
 <LOC>__{EXT. BROOKLYN STREETS - DAY}
 <ACTION>__{Sam follows the Mugger down a long covered staircase to the street.}
@@ -960,7 +960,7 @@
 <CHAR>__{SAM} <CHAR_PAR>__{}
 <DIAL>__{Go away. Hell no. I'm stayin' right here!}
 <ACTION>__{Oda Mae screams, jumps back into the closet, and bolts up against the door. It tears from its hinges and falls into the seance room, nearly crushing Louise. Mrs. Santiago runs out screaming. Oda Mae takes one look around and collapses in a dead faint.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ODA MAE'S LIVINGROOM - DAY}
 <ACTION>__{Beads of sweat collect on Oda Mae's brow and cheeks. She seems feverish. Clara and Louise are sitting beside her with damp towels nervously soaking up the perspiration. Oda Mae appears to be talking to herself until we PULL BACK and reveal Sam nearby.}
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
@@ -1043,7 +1043,7 @@
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
 <DIAL>__{I can't believe I'm doin' this. I gotta be a crazy lady goin' into the city with you. I never go there. What the hell you doin' in my life, huh? Why me?}
 <ACTION>__{Several people move away.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. LOFT BUILDING - DAY}
 <ACTION>__{Oda Mae approaches the loft building and buzzes Molly's apartment. She waits a few moments.}
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
@@ -1270,7 +1270,7 @@
 <DIAL_PAR>__{(opening the door)}
 <DIAL>__{I'm finished. And I ain't comin' back. So don't you come botherin' me again cause it's over. I mean it. This is it. Have a nice life. Have a nice death. I'm goin'.}
 <ACTION>__{She lets herself out. Sam just stands there as the door slams shut.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. KITCHEN - THAT NIGHT}
 <ACTION>__{Carl is pacing nervously. He seems very upset. After a moment he approaches Molly. Sam is behind her.}
 <CHAR>__{CARL} <CHAR_PAR>__{}
@@ -1519,7 +1519,7 @@
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(hesitating)}
 <DIAL>__{Sure.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. LIVINGROOM - NIGHT}
 <ACTION>__{Carl, in shirt sleeves and Molly in her robe, are sitting on the couch drinking coffee. We notice that Carl is wearing yellow suspenders. Sam is beside himself, watching them.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
@@ -1586,7 +1586,8 @@
 <ACTION>__{Molly can barely contain her tears. Carl moves toward her moist cheeks and kisses them gently. Slowly, he guides his lips to her neck and kisses it, too. It is all hateful and sensual at the same time. Sam turns away. Molly feels Carl's tenderness, needs it. She does not notice his hand reaching for the cord on her robe and slowly pulling it toward him. With a little tug the cord unravels and the robe falls open. Molly is confused, aroused, not sure what to do. She starts to pull it closed. He holds her hand. For a moment they do nothing. Then his fingers reach for her thigh. Her body quivers. Carl feels her openness and pulls closer, his hand rising gently up her naked body. Molly's eyes close. She says nothing.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
 <DIAL>__{No!!!}
-<ACTION_ALT>__{OMITTED ANGLE}
+
+<ACTION_ALT>__{ANGLE}
 <ACTION>__{Sam charges wildly at the couch and begins flailing uncontrollably at the two of them. Unexpectedly his foot kicks out and hits a framed photograph of him and Molly that's sitting on an end table. The picture CRASHES to the floor, the glass SHATTERING. Molly jumps up, the mood suddenly broken. She sees the photo and recoils. Carl reaches for her. She backs away. Sam is stunned by what has happened. He jumps up and tries kicking over another picture but nothing moves. His foot goes right through it. Molly looks at Carl, drying her tears.}
 <CHAR>__{MOLLY} <CHAR_PAR>__{}
 <DIAL>__{I can't. I'm sorry. I can't. It's too soon... You've been great Carl, but... I need you to leave. Please. I need you to.}
@@ -1605,7 +1606,7 @@
 <LOC>__{INT. SUBWAY TRAIN - NIGHT}
 <ACTION>__{Sam begins quickly casing the aisles, looking for something. It is not there. Another train can be seen speeding past the window. Sam takes a running leap and jumps onto it, passing through the walls.}
 <TRANS>__{CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{ANGLE - SAM disappointed. Suddenly, an express train passes alongside his local. Sam sticks his face inside it. Suddenly, he smiles and rushes onto it.}
 <ACTION_ALT>__{ANGLE}
 <ACTION>__{Sam does not have to stand there long. Within seconds, the terrifying Ghost he had seen before comes charging at him. We notice him more clearly now. He is wearing a dark blue pea coat. There is a grizzled look about him. He has stained teeth and seems perpetually unshaven.}
@@ -1682,10 +1683,10 @@
 <DIAL>__{Who the hell are you? Why are you hounding me like this? Leave me alone.}
 <ACTION_ALT>__{AN EXPRESS TRAIN}
 <ACTION>__{is shooting through the station. The Ghost throws himself into it and in an instant he is gone.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SUBWAY STATION - NIGHT}
 <ACTION>__{Sam, all alone, walks through the station. Suddenly, he reaches out and pushes a garbage can lid. It swings back and forth. He is delighted. A beer can is sitting on a bench. He pushes it off, watching it roll across the platform with childlike glee. Looking up, Sam sees an advertisement for Market Security Bank and Trust. He stares at it with great interest. "Special Banking for Special People. We make it easy for you." Something registers in Sam's eyes. He yells and jumps straight up, hitting a subway sign with his finger. With great excitement, he runs for the stairs and rushes from the station.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SEANCE ROOM - NIGHT}
 <ACTION>__{ORTISHA JONES, a black woman with brassy red hair, is sitting at Oda Mae's seance table surrounded by several of her relatives. Clara and Louise stand behind Oda Mae helping with the ritual. Oda Mae goes into her trance.}
 <ACTION_ALT>__{ANGLE}
@@ -1800,7 +1801,7 @@
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
 <DIAL>__{Out! I said out! That means you, too!}
 <ACTION>__{Sam hesitates a moment and then respectfully follows the others through the wall.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SEANCE ROOM - NIGHT}
 <ACTION>__{Clara knocks on the seance room door and peeks in.}
 <CHAR>__{CLARA} <CHAR_PAR>__{}
@@ -1856,10 +1857,10 @@
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
 <DIAL>__{Because I'm psychic.}
 <ACTION>__{With a sudden thrust, Oda Mae sends her foot shooting into Willie's balls. As he recoils she knocks the table into his lap and rushes for the closet. We see her barricade herself in the hidden chamber. Willie, shaking, scrambles to his feet and, before Sam can stop him, BLASTS his gun at the closet door. It is riddled with bullets. Sam screams out. Willie runs to the side door and escapes to the street. Clara and Louise come rushing in. Sam charges into the closet and sees that Oda Mae is safe behind the false door. Then he hurries to the street.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. STREET - NIGHT}
 <ACTION>__{Sam rushes to the sidewalk and looks in all directions. Willie is nowhere to be seen. He hurries back to Oda Mae.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. SEANCE ROOM - NIGHT}
 <ACTION>__{The room is a disaster area, full of hysterical women. Oda Mae is being dragged from the closet, unhurt but in a state of shock.}
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
@@ -2384,7 +2385,7 @@
 <CHAR>__{CARL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(continuing)}
 <DIAL>__{Eleven!}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ODA MAE'S LIVINGROOM - NIGHT}
 <ACTION>__{Oda Mae is watching T.V. with Clara and Louise. Suddenly she jumps, aware of Sam's presence in the room.}
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
@@ -2669,7 +2670,8 @@
 <ACTION>__{Molly quickly climbs the scaffolding and makes it to the roof. With a huge shove, Carl opens the window and rushes inside. The window slams behind him. Oda Mae rushes back toward Molly, but her foot catches on a loose cable and she falls to the ground.}
 <CHAR>__{ODA MAE} <CHAR_PAR>__{}
 <DIAL>__{Help us, Sam!}
-<ACTION_ALT>__{OMITTED ODA MAE}
+
+<ACTION_ALT>__{ODA MAE}
 <ACTION>__{A hand falls on Oda Mae's shoulder. She spins around. Carl is standing behind her. She screams as he knocks her to the floor.}
 <CHAR>__{CARL} <CHAR_PAR>__{}
 <DIAL>__{I want the check. Just give me the check.}

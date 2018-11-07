@@ -19,7 +19,7 @@
 <LOC>__{EXT - CONVENT - NIGHT}
 <ACTION>__{Lights in the windows flick on.}
 <LOC>__{INT - TOP CORRIDOR - NIGHT}
-<ACTION>__{The nuns    are running up the corridor in their night dresses and caps, calling    urgently in French. They reach the door of Sister Agnes' room and try    the door. It is blocked. Pushing harder they see the blood stained    figure of SISTER AGNES. Much alarm and crying...}
+<ACTION>__{The nuns are running up the corridor in their night dresses and caps, calling urgently in French. They reach the door of Sister Agnes' room and try the door. It is blocked. Pushing harder they see the blood stained figure of SISTER AGNES. Much alarm and crying...}
 <CHAR>__{MOTHER SUPERIOR} <CHAR_PAR>__{}
 <DIAL>__{Agnes!... Agnes...}
 <LOC>__{EXT - CONVENT - NIGHT}
@@ -75,7 +75,7 @@
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Hi, it's Helen, calling to tell you that Mrs Davenport phoned to confirm her appointment at nine o'clock tomorrow, okay? Bye bye. Some whirs and clicks.}
 <CHAR>__{ROGER } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Hi Martha,    it's Roger. Can you call me at the    hospital. I'd like your opinion on a case.    Oh, bye the way, happy birthday.    Bye.}
+<DIAL>__{Hi Martha, it's Roger. Can you call me at the hospital. I'd like your opinion on a case. Oh, bye the way, happy birthday. Bye.}
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Hi, Marty it's Helen again. I cancelled your Wednesday afternoon appointment so you can visit with your mother. Bye bye.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
@@ -87,25 +87,25 @@
 <DIAL>__{Martha pulls up in her BMW outside the convent walls and gets}
 <ACTION>__{out, cigarette}
 <DIAL>__{in hand. A sign tangled over with creeper reads "Les Petites}
-<ACTION>__{Soeurs de Marie Madeleine". Martha jangles a bell. After a wait she presses a buzzer. A   peephole in the door slams open and Sister Marguerite looks out.}
+<ACTION>__{Soeurs de Marie Madeleine". Martha jangles a bell. After a wait she presses a buzzer. A peephole in the door slams open and Sister Marguerite looks out.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Bonjour, I'm Doctor Martha Livingston, I... The peephole slams shut, but the door does open. Sister}
 <ACTION>__{Marguerite glares at her.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(Cont.)}
 <DIAL>__{Hello... I'm Doctor Martha Living...ston... I... Martha realizes it is the cigarette that is causing the}
-<ACTION>__{trouble and hastily     grinds it underfoot.}
+<ACTION>__{trouble and hastily grinds it underfoot.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(Cont.)}
 <DIAL>__{Excuse me... I'm... Sister Marguerite eyes flick down at cigarette butt. Martha}
 <ACTION>__{awkwardly tries}
 <DIAL>__{to kick it away.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(Cont.)}
 <DIAL>__{...the court-appointed psychiatrist. Sister Marguerite gives a frosty imitation of a smile and}
-<ACTION>__{motions for her to    come in.}
+<ACTION>__{motions for her to come in.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(Cont.)}
 <DIAL>__{Thank you. I um... I believe your Mother Superior's expecting me. Martha and the Sister walk up the drive to the convent.}
 <LOC>__{INT.- WAITING ROOM - DAY}
 <DIAL>__{Martha follows Sister Marguerite into a grilled waiting room.}
-<ACTION>__{Sister moves    off, leaving Martha looking around curiously. Then the MOTHER MIRIAM arrives from behind the grilled door, sees Martha, sighs exasperatedly and enters giving Martha a slight start.}
+<ACTION>__{Sister moves off, leaving Martha looking around curiously. Then the MOTHER MIRIAM arrives from behind the grilled door, sees Martha, sighs exasperatedly and enters giving Martha a slight start.}
 <CHAR>__{MOTHER SUPERIOR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(beaming at her own little joke)}
 <DIAL>__{Doctor Livingston I presume? I'm Mother Miriam Ruth. You needn't call Mother if you don't wish.}
@@ -123,7 +123,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{... Thank you.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
-<DIAL>__{You must have tons of questions. You may smoke if you want to. Just don't tell any of the Sisters. Martha sits;   Mother Miriam gets her a box of matches.}
+<DIAL>__{You must have tons of questions. You may smoke if you want to. Just don't tell any of the Sisters. Martha sits; Mother Miriam gets her a box of matches.}
 <CHAR>__{MOTHER MIRIAM } <CHAR_PAR>__{(Cont.)}
 <DIAL>__{They wouldn't understand, especially Sister Marguerite. She'd scare the pants off Queen Elizabeth.}
 <DIAL_PAR>__{(she lights Martha's cigarette)}
@@ -197,8 +197,8 @@
 <DIAL>__{She can't even remember the birth. Do you think she'd admit to the conception?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Look, someone gave her the baby.}
-<CHAR>__{MOTHER    MIRIAM} <CHAR_PAR>__{}
-<DIAL>__{Yes, but that was some    ten months ago. I fail to see that the    identity of that somebody has anything    to do with this trial.}
+<CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
+<DIAL>__{Yes, but that was some ten months ago. I fail to see that the identity of that somebody has anything to do with this trial.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Why do you think that?}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -268,7 +268,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{First thing that comes to your mind?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
-<DIAL>__{God!    But there's nothing to say about God.}
+<DIAL>__{God! But there's nothing to say about God.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Second thing that comes to your mind.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -399,11 +399,11 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <ACTION>__{Don't you know?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<ACTION>__{Yes I do,    but I want you to...}
+<ACTION>__{Yes I do, but I want you to...}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL_PAR>__{(very agitated)}
 <ACTION>__{I don't understand what you're talking about... you want to talk about the baby... everybody wants}
-<DIAL>__{to talk about    the baby but... I never saw the    baby so I can't talk about the baby    because... I don't believe in the    baby.}
+<DIAL>__{to talk about the baby but... I never saw the baby so I can't talk about the baby because... I don't believe in the baby.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Then let's talk about something else...}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -464,7 +464,7 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{No questions.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{Smoking is an    obsession with me. Maybe one day    I'll become obsessed with something    else, then I'll stop smoking... Do    you have any more questions?}
+<DIAL>__{Smoking is an obsession with me. Maybe one day I'll become obsessed with something else, then I'll stop smoking... Do you have any more questions?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{One.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -570,7 +570,7 @@
 <LOC>__{INT.- PRESBYTERY - DAY}
 <DIAL>__{From inside the house, Martha can be seen knocking on the}
 <ACTION>__{glass fronted}
-<DIAL>__{door.     Presently a huge, fat HOUSEKEEPER answers.}
+<DIAL>__{door. Presently a huge, fat HOUSEKEEPER answers.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Is Father Martineau in please?}
 <CHAR>__{HOUSEKEEPER} <CHAR_PAR>__{}
@@ -594,7 +594,7 @@
 <DIAL>__{with a stick.}
 <LOC>__{INT.- PRESBYTERY DINING ROOM - DAY}
 <DIAL>__{Father Martineau and Martha are having tea. He pours a slug}
-<ACTION>__{of whisky from a   flask into her cup and an even larger slug into his own.}
+<ACTION>__{of whisky from a flask into her cup and an even larger slug into his own.}
 <CHAR>__{FATHER MARTINEAU} <CHAR_PAR>__{}
 <DIAL_PAR>__{(French accent)}
 <DIAL>__{They arise at five in the morning... and they're in bed by nine at night. Even if a man could get to them, he would probably find them praying. That's why I see that the real question is not only how he got in, but when.}
@@ -637,7 +637,7 @@
 <DIAL_PAR>__{(lighting up)}
 <DIAL>__{Marie's dead Mama.}
 <CHAR>__{MAMA} <CHAR_PAR>__{}
-<DIAL>__{I remember when you    was a little girl Marie. You come back    from the movies and you'd say - Mama    that ending was so sad... and I'd tell    you they had all the happy endings locked    away in a vault in Hollywood.}
+<DIAL>__{I remember when you was a little girl Marie. You come back from the movies and you'd say - Mama that ending was so sad... and I'd tell you they had all the happy endings locked away in a vault in Hollywood.}
 <DIAL_PAR>__{(chuckles)}
 <DIAL>__{And you believed me.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -677,7 +677,7 @@
 <DIAL>__{Uh huh.}
 <LOC>__{INT.- AGNES' OLD ROOM - DAY}
 <DIAL>__{Mother Miriam unlocks a padlock on the door, opens it for}
-<ACTION>__{Martha. They both      enter the room which is totally plain, stripped of everything.}
+<ACTION>__{Martha. They both enter the room which is totally plain, stripped of everything.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{This convent is locked solid. The only one that has a key is Sister Marguerite and she wouldn't let Christ in after dark.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -697,7 +697,7 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{She stopped eating completely...}
 <LOC>__{INT.- CHAPEL - DAY}
-<DIAL>__{In flashback:   Agnes, all in white is lying face down in the}
+<DIAL>__{In flashback: Agnes, all in white is lying face down in the}
 <ACTION>__{sign of the}
 <DIAL>__{cross in front of the altar. Mother Miriam enters.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(V.O.)}
@@ -779,7 +779,7 @@
 <DIAL_PAR>__{(genuinely distressed)}
 <DIAL>__{That's not what he meant.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
-<DIAL>__{I...    I am a little child but my body keeps    getting bigger and soon I... I won't    be able to fit in, I... I won't be able    to squeeze into Heaven.}
+<DIAL>__{I... I am a little child but my body keeps getting bigger and soon I... I won't be able to fit in, I... I won't be able to squeeze into Heaven.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Agnes dear, Heaven is not a place where...}
 <ACTION>__{Agnes gets to her knees and pushes up her breasts.}
@@ -813,7 +813,7 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiles)}
 <DIAL>__{Yes, of God. Then Mother Miriam looks down and is shocked to see Agnes'}
-<ACTION>__{white habit is spotted with blood, and more blood is dripping onto the floor. She pulls out   Agnes' hand from her habit and gasps with shock; there is a bleeding hole in}
+<ACTION>__{white habit is spotted with blood, and more blood is dripping onto the floor. She pulls out Agnes' hand from her habit and gasps with shock; there is a bleeding hole in}
 <DIAL>__{the middle of her palm.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{I'm being punished.}
@@ -854,7 +854,7 @@
 <DIAL>__{You bet I am.}
 <LOC>__{INT.- CHAPEL - DAY}
 <DIAL>__{All the Sisters are present. Mother Miriam leads the chant in}
-<ACTION>__{Latin and the   rest of the nuns respond at intervals. Agnes is very happy. Their singing continues over, until the end of scene 41.}
+<ACTION>__{Latin and the rest of the nuns respond at intervals. Agnes is very happy. Their singing continues over, until the end of scene 41.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{EXT.- POLICE PRECINCT - DAY}
 <DIAL>__{Martha and Larry are at the top of steps. He hands her an}
@@ -958,7 +958,7 @@
 <DIAL>__{Martha and Agnes enter the bell-tower. Agnes leads the way up}
 <ACTION>__{the steep wooden steps. Martha becomes breathless almost immediately.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{Sister Paul was in her eighties?   Did she climb up here often?}
+<DIAL>__{Sister Paul was in her eighties? Did she climb up here often?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{No, only when she felt like it. She brought me up here last winter and the next day she died.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -1106,7 +1106,7 @@
 <ACTION>__{cigarette away.}
 <LOC>__{INT.- CONVENT - DAY}
 <DIAL>__{Mother Miriam is comforting a tearful Agnes. She sees Martha}
-<ACTION>__{coming across   the courtyard and pushes Agnes gently away.}
+<ACTION>__{coming across the courtyard and pushes Agnes gently away.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{You hate us don't you?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -1131,7 +1131,7 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{I'm only interested...}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{...    or bullied or what ever you're doing. Who    the hell do you think you are? You go    around here expecting applause for the    way you treated this child. Martha and Mother Miriam are climbing the stairs. They pause}
+<DIAL>__{... or bullied or what ever you're doing. Who the hell do you think you are? You go around here expecting applause for the way you treated this child. Martha and Mother Miriam are climbing the stairs. They pause}
 <ACTION>__{briefly.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{She is not a child.}
@@ -1141,7 +1141,7 @@
 <DIAL>__{... and aren't any worse off than you Mother. People who've gone through their entire lives without bending their knees once, to anybody. And people who fall in love and have babies and occas- sionally are very happy. She has a right to know that. But you and your... your order and your Church have kept her ignorant...}
 <ACTION>__{They reach Mother Miriam's study.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
-<DIAL_PAR>__{???     (distorted)}
+<DIAL_PAR>__{??? (distorted)}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL_PAR>__{??? (distorted)}
 <DIAL>__{... virginity, right Mother? Poverty, chastity and ignorance is what you live by.}
@@ -1207,7 +1207,7 @@
 <DIAL>__{Oh, Dear God, I should have guessed...}
 <LOC>__{INT.- CONVENT DINING ROOM - NIGHT}
 <DIAL>__{In flashback: the sisters are sitting around the table at}
-<ACTION>__{dinner. SISTER GENEVIEVE, the other novice is serving them. Mother Miriam folds up a linen    towel.}
+<ACTION>__{dinner. SISTER GENEVIEVE, the other novice is serving them. Mother Miriam folds up a linen towel.}
 <CHAR>__{MOTHER MIRIAM } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{... I should have suspected something. In flashback, Mother Miriam addresses Agnes.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -1281,7 +1281,7 @@
 <DIAL>__{Sister Paul?}
 <CHAR>__{MOTHER MIRIAM } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Yes. I don't remember where Agnes was. I was needed in the sick room. Father Martineau annoints the old woman. Then Agnes quietly}
-<ACTION>__{slips in   unobserved. Sister Paul rallies for a moment, tries to say a single silent}
+<ACTION>__{slips in unobserved. Sister Paul rallies for a moment, tries to say a single silent}
 <DIAL>__{word to her. The smile slips from Agnes' face. Then Sister}
 <ACTION>__{Paul lies back}
 <DIAL>__{and dies.}
@@ -1344,11 +1344,11 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Agnes...}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
-<DIAL>__{Answer me!    You never answer me.}
+<DIAL>__{Answer me! You never answer me.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Sometimes, yes.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
-<DIAL>__{Only you think    you're lucky because you didn't have    a mother who said things to you and did    things to you that maybe weren't always    nice but that was because of me, because    I was bad, not her. Agnes carries the milk pail round to the churn.}
+<DIAL>__{Only you think you're lucky because you didn't have a mother who said things to you and did things to you that maybe weren't always nice but that was because of me, because I was bad, not her. Agnes carries the milk pail round to the churn.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{What did you do?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -1437,7 +1437,7 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <ACTION>__{I'm afraid.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<ACTION>__{Please!    I want to help you. Let me help you.}
+<ACTION>__{Please! I want to help you. Let me help you.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <ACTION>__{Alright.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -1482,7 +1482,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Agnes?}
 <DIAL_PAR>__{(the nun shakes her head)}
-<DIAL>__{Who?     Mother Superior?}
+<DIAL>__{Who? Mother Superior?}
 <CHAR>__{ELDERLY NUN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in French)}
 <DIAL>__{???}
@@ -1501,7 +1501,7 @@
 <DIAL>__{her.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Thank you. The Sister nods and without a word leaves the room. Martha}
-<ACTION>__{waits until she has gone, then opens the cabinet and pulls out another file. Glancing at the    door, she compares the two files. They both have the same surname Burchetti. The the door opens and Mother Miriam is standing there.}
+<ACTION>__{waits until she has gone, then opens the cabinet and pulls out another file. Glancing at the door, she compares the two files. They both have the same surname Burchetti. The the door opens and Mother Miriam is standing there.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{You lied to me}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -1613,12 +1613,12 @@
 <DIAL>__{... her that didn't make it into the report. The waste paper basket. The one in Agnes' room. None of the other nuns had one. Bye. Martha looks thoughtful and flicks off the desk lamp.}
 <LOC>__{INT.- CONVENT CHAPEL - DAY}
 <DIAL>__{Father Martineau is saying Mass. All the sisters are there}
-<ACTION>__{singing together.      Father Martineau places the host in the sconce, incences it and raises it}
+<ACTION>__{singing together. Father Martineau places the host in the sconce, incences it and raises it}
 <DIAL>__{up. Close on individual nuns at prayer including Agnes.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{INT.- BARN - DAY}
 <DIAL>__{Mother Miriam is kneeling in the doorway of the barn, praying}
-<ACTION>__{when Martha    enters. Mother Miriam pauses.}
+<ACTION>__{when Martha enters. Mother Miriam pauses.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{I've gotten the court's permission to hypnotise her. Mother Miriam makes the sign of the cross and stands up.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -1679,7 +1679,7 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Stupid woman... and that's all?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{That's all? That's enough!   She was a beautiful little girl.}
+<DIAL>__{That's all? That's enough! She was a beautiful little girl.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{And what has that to do with it?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -1759,7 +1759,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Do you want to become one?}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
-<DIAL>__{Become?     One is born a saint.}
+<DIAL>__{Become? One is born a saint.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Well you can try, can't you, to be good?}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -1791,7 +1791,7 @@
 <DIAL>__{Then let's begin.}
 <LOC>__{INT.- ATTIC ROOM - DAY}
 <DIAL>__{The room is painted white and completely empty with a steeply}
-<ACTION>__{sloping    ceiling. Agnes is sitting on a chair with her eyes closed, already under   hypnosis. Martha and Mother Miriam are facing her.}
+<ACTION>__{sloping ceiling. Agnes is sitting on a chair with her eyes closed, already under hypnosis. Martha and Mother Miriam are facing her.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{You're listening to a chorus of angels. The music surrounds you like a... warm and, comfortable pool of water. And while you're sleeping, you're going to be able to recall, all the things that we want you to remember. And when I count to three and clap my hands, you'll no longer be hypnotised. Can you hear me.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -1874,11 +1874,11 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{She made me promise not to.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{Who?     Who made you promise?}
+<DIAL>__{Who? Who made you promise?}
 <DIAL_PAR>__{(no answer)}
-<DIAL>__{It's    alright Agnes. It's alright.}
+<DIAL>__{It's alright Agnes. It's alright.}
 <DIAL_PAR>__{(a pause)}
-<DIAL>__{Let's    go to your room. It's the night about    six weeks ago when you were very    sick.}
+<DIAL>__{Let's go to your room. It's the night about six weeks ago when you were very sick.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2028,7 +2028,7 @@
 <CHAR>__{MAN } <CHAR_PAR>__{(off)}
 <DIAL_PAR>__{(answers in French)}
 <DIAL>__{Martha and a middle aged official come into view. He}
-<ACTION>__{stops at a long set of        drawers and starts looking through it.}
+<ACTION>__{stops at a long set of drawers and starts looking through it.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in French)}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2065,7 +2065,7 @@
 <DIAL>__{more steps and goes up into the...}
 <LOC>__{INT.- BARN - DAY}
 <DIAL>__{Martha emerges through a trapdoor in to the barn which is}
-<ACTION>__{full of doves. It    begins to make sense for her.}
+<ACTION>__{full of doves. It begins to make sense for her.}
 <LOC>__{EXT.- CITY - DAY}
 <DIAL>__{Various closeups of famous statues. A bell is tolling. Two}
 <ACTION>__{nuns come out of}
@@ -2154,13 +2154,13 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <ACTION>__{But I want the opportunity to believe. I want the choice to believe.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<ACTION>__{But what    you are choosing to believe is a lie    because you won't face the fact that she    was raped... or seduced... or that    she did the seducing.}
+<ACTION>__{But what you are choosing to believe is a lie because you won't face the fact that she was raped... or seduced... or that she did the seducing.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <ACTION>__{She is an innocent.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <ACTION>__{But she is not an enigma Mother. Everything that Agnes has done is explainable from modern psychiatry. One, two, three, right down the line.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
-<ACTION>__{That's what you believe she is?     The sum of her psychological parts?}
+<ACTION>__{That's what you believe she is? The sum of her psychological parts?}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <ACTION>__{That's what I have to believe...}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
@@ -2188,12 +2188,12 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{I'm concerned about her health.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{Who was that person Mother?    Was it you?}
+<DIAL>__{Who was that person Mother? Was it you?}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{If you believe this is murder, it is the Crown attorney you have to talk to, not me. And definitely not Agnes. She goes out and slams the door.}
 <LOC>__{EXT.- POND - DAY}
 <DIAL>__{After a couple of establishing shots of the convent, the nuns}
-<ACTION>__{are shown ice   skating on the frozen pond. They are quite uninhibited, like little}
+<ACTION>__{are shown ice skating on the frozen pond. They are quite uninhibited, like little}
 <DIAL>__{children. Their singing (off) from the chapel continues until}
 <ACTION>__{the end of}
 <DIAL>__{scene 78.}
@@ -2241,21 +2241,21 @@
 <DIAL_PAR>__{Yes, demain (?)}
 <LOC>__{INT.- CHAPEL - DAY}
 <DIAL>__{The scene consists of a number of shots dissolving into one}
-<ACTION>__{another. Sister Genevieve lying face down in front of the bishop, Genevieve praying on her   knees, her family (4) watching from behind the grilled gate. Genevieve's}
+<ACTION>__{another. Sister Genevieve lying face down in front of the bishop, Genevieve praying on her knees, her family (4) watching from behind the grilled gate. Genevieve's}
 <DIAL>__{hair being cut, her joy at the habit being fitted to her,}
 <ACTION>__{running out to}
 <DIAL>__{join her family, a jolly old singalong on the piano, this}
 <ACTION>__{time the nuns}
-<DIAL>__{singing along from    behind the gate.}
+<DIAL>__{singing along from behind the gate.}
 <LOC>__{EXT.- CONVENT - DAY}
 <DIAL>__{Martha drives up in her car and walks across the now snow}
-<ACTION>__{covered grounds to    the convent.}
+<ACTION>__{covered grounds to the convent.}
 <LOC>__{INT.- MOTHER MIRIAM'S OFFICE - DAY}
 <DIAL>__{Mother Miriam is working away at her desk when a nun}
-<ACTION>__{interrupts. Singing   from the party can faintly be heard.}
+<ACTION>__{interrupts. Singing from the party can faintly be heard.}
 <CHAR>__{NUN } <CHAR_PAR>__{(off)}
 <DIAL>__{Excuse me Mother, Doctor Livingston is here. Mother Miriam nods tiredly and goes to meet Martha at he}
-<ACTION>__{door. Martha hands    her a court order. Mother Miriam reads it briefly and hands it back.}
+<ACTION>__{door. Martha hands her a court order. Mother Miriam reads it briefly and hands it back.}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{This is permission to take her apart.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2284,7 +2284,7 @@
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{I didn't guess until it was too late.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{For what?     An abortion?}
+<DIAL>__{For what? An abortion?}
 <CHAR>__{MOTHER MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Oh, don't be ridiculous.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2325,7 +2325,7 @@
 <DIAL>__{Then she's a liar.}
 <LOC>__{INT.- ATTIC ROOM - DAY}
 <DIAL>__{It is the same as before, except that this time Martha and}
-<ACTION>__{Mother Miriam are      standing.}
+<ACTION>__{Mother Miriam are standing.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Agnes, can you hear me?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -2368,7 +2368,7 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <LOC>__{INT.- TUNNEL - NIGHT}
-<DIAL>__{In flashback:    Agnes is walking alone through the tunnel}
+<DIAL>__{In flashback: Agnes is walking alone through the tunnel}
 <ACTION>__{carrying an oil}
 <DIAL>__{lamp.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(V.O.)}
@@ -2376,7 +2376,7 @@
 <LOC>__{INT.- BARN - NIGHT}
 <DIAL>__{Still in flashback, Agnes emerges into the barn. The doves}
 <ACTION>__{flap about as}
-<DIAL>__{Agnes    moves nervously through the barn.}
+<DIAL>__{Agnes moves nervously through the barn.}
 <CHAR>__{AGNES } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{He's here.}
 <LOC>__{INT.- ATTIC ROOM - DAY}
@@ -2422,7 +2422,7 @@
 <DIAL>__{His blood... my God... Martha and Mother Miriam are equally shocked.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Oh Agnes... Agnes runs terrified over to the walls blood pouring over her}
-<ACTION>__{white habit.    Mother Miriam rushes after her.}
+<ACTION>__{white habit. Mother Miriam rushes after her.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{It's bleeding... I'm bleeding... my God it won't stop, I can't get it to stop.}
 <DIAL_PAR>__{(to Mother Miriam)}
@@ -2430,7 +2430,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(trying to hold her)}
 <DIAL>__{Agnes... Agnes... Agnes breaks free and runs over to another wall smearing it}
-<ACTION>__{too with blood.     Martha follows her.}
+<ACTION>__{too with blood. Martha follows her.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{Stay away from me...}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2438,7 +2438,7 @@
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{No...}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
-<DIAL>__{He    frightened you and he hurt you. It's not    your fault. It's his fault. Tell us who    he is so we can find him. Stop him    from doing this to other women.}
+<DIAL>__{He frightened you and he hurt you. It's not your fault. It's his fault. Tell us who he is so we can find him. Stop him from doing this to other women.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{Not your fault...}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2460,7 +2460,7 @@
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Agnes, who did this to you? Agnes flings her arms back against the wall.}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
-<DIAL>__{God!  It was God.}
+<DIAL>__{God! It was God.}
 <DIAL_PAR>__{(sinks to her knees)}
 <DIAL>__{And now I'll burn in hell because I hate him.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
@@ -2487,7 +2487,7 @@
 <DIAL>__{Wasn't it!}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
 <DIAL>__{YES! Somehow this declaration seems to calm them down somewhat.}
-<ACTION>__{Mother Miriam   is looking utterly resigned.}
+<ACTION>__{Mother Miriam is looking utterly resigned.}
 <CHAR>__{MARTHA} <CHAR_PAR>__{}
 <DIAL>__{Mother Miriam was with you wasn't she?}
 <CHAR>__{AGNES} <CHAR_PAR>__{}
@@ -2524,7 +2524,7 @@
 <ACTION>__{city. Angle on the courthouse.}
 <LOC>__{INT.- COURT ROOM - DAY}
 <DIAL>__{All the main characters are present: Eve, Lyon, Martha,}
-<ACTION>__{Agnes, Sister   Marguerite and Mother Miriam. Justice Leveau is summing up.}
+<ACTION>__{Agnes, Sister Marguerite and Mother Miriam. Justice Leveau is summing up.}
 <CHAR>__{LEVEAU} <CHAR_PAR>__{}
 <DIAL>__{In view of the situation as it now stands, and the testimony given here this morning, it seems quite clear that the defendant was in no manner responsible for her actions. It is therefore the judgement of this court that she be returned to the convent of Marie Madeleine where she will be cared for under proper medical supervision by a visiting physician. Both Martha and Mother Miriam show relief at this. Justice}
 <ACTION>__{Leveau continues}
@@ -2551,7 +2551,7 @@
 <DIAL>__{into one another.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I don't know the meaning behind the song she sang. Perhaps it was a song of seduction. And the father was a fieldhand. Perhaps the song was simply a lullaby that she remembered from many years ago. And the father was hope and... and love and desire. And a belief in miracles. The nuns are seen walking together through the snow back to}
-<ACTION>__{the convent over    which Agnes' singing can be heard.}
+<ACTION>__{the convent over which Agnes' singing can be heard.}
 <CHAR>__{MARTHA } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I want to believe that she was blessed. And I do miss her, and I hope that she's left something, some little part of herself with me. That would be miracle enough wouldn't it?}
 <TRANS>__{DISSOLVE TO:}

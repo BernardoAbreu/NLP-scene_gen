@@ -800,7 +800,7 @@
 <DIAL>__{I have nothing better to do, Mr. Kringelein.}
 <ACTION>__{They move into the room.}
 <TRANS>__{CUT TO:}
-<ACTION>__{NO SCENES: 24 and 25 Sequence omitted from original script.}
+<ACTION>__{NO SCENES: 24 and 25 Sequence  from original script.}
 <ACTION_ALT>__{NEAR ELEVATOR}
 <ACTION>__{Pimenov and Meierheim are standing there. Meierheim is pushing the elevator button. The Baron stands near and pauses, he is now a changed man. He looks off as he hears the voice of Grusinskaya, off in the distance. Grusinskaya's Voice Hurry, Suzette.}
 <ACTION_ALT>__{GRUSINSKAYA}
@@ -1632,7 +1632,7 @@
 <DIAL>__{And I know we didn't.}
 <ACTION>__{During all this commotion Flaemmchen is paying no attention whatsoever. She is calmly spraying herself with a perfume atomizer and smiling at a gentleman. The noise continues over her.}
 <TRANS>__{CUT TO:}
-<ACTION>__{NO SCENE 61 Sequence omitted from original script. GRUSINSKAYA'S ROOM The atmosphere has changed, the sun shines. Grusinskaya is reclining on the chaise-lounge -- her Chinese robe drawn about her. She speaks voluably.}
+<ACTION>__{NO SCENE 61 Sequence  from original script. GRUSINSKAYA'S ROOM The atmosphere has changed, the sun shines. Grusinskaya is reclining on the chaise-lounge -- her Chinese robe drawn about her. She speaks voluably.}
 <CHAR>__{GRUSINSKAYA} <CHAR_PAR>__{}
 <DIAL>__{Oh -- I was ambitious then -- ambition was in my blood -- no rest, no stopping. We were drilled like little soldiers -- We danced in the school of the Imperial Ballet, in St. Petersburg. I was little and slim but hard as diamond -- a duty machine -- No rest, no stopping. And then -- I became famous and whoever is famous is alone... But why should I be telling you this? Last night I did not know you at all -- who are you, really? -- I do not even know your name.}
 <CHAR>__{BARON} <CHAR_PAR>__{}
@@ -2615,7 +2615,7 @@
 <ACTION>__{They move off and are last in the crowd.}
 <TRANS>__{FADE OUT:}
 <DIAL>__{END OF SEQUENCE "#5" SEQUENCE "#6"}
-<ACTION>__{No scenes 88-93 inclusive Sequence omitted from original script.}
+<ACTION>__{No scenes 88-93 inclusive Sequence  from original script.}
 <TRANS>__{DISSOLVE INTO:}
 <ACTION>__{KRINGELEIN'S ROOM Possibly ten men are gathered about a green table. They are playing cards. There are champagne bottles, glasses, etc., on the table -- a great deal of smoke. Good atmosphere. The game is [...] fer. There is a dead silence except for the monotonous words of the players. White faced, the Baron has the bank. Otternschlag is seen to close the door quietly and approach the table. Kringelein's back is to us. They are smart people, not professional gamblers. There is a tension in the room. The men are gathered around tightly. We do not see the cards. The following voices are heard:}
 <CHAR>__{BARON'S VOICE} <CHAR_PAR>__{}

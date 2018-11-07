@@ -95,22 +95,22 @@
 <CHAR>__{THE HOUSEWIFE} <CHAR_PAR>__{}
 <DIAL>__{This is a old friend of mommy's I ain't seen in a long time.}
 <CHAR>__{THE BRIDE} <CHAR_PAR>__{}
-<DIAL>__{Hello sweety, I'm *(BLEEP)*, what's your name?}
-<ACTION>__{* Whenever during the picture somebody says The Bride's real name, it will be BLEEPED OUT ON THE SOUNDTRACK, ...that is, till I want you to know. The shy, suspicious little girl doesn't say anything, she just stares at the blond lady.}
+<DIAL>__{Hello sweety, I'm (BLEEP), what's your name?}
+<ACTION>__{Whenever during the picture somebody says The Bride's real name, it will be BLEEPED OUT ON THE SOUNDTRACK, ...that is, till I want you to know. The shy, suspicious little girl doesn't say anything, she just stares at the blond lady.}
 <CHAR>__{THE HOUSEWIFE} <CHAR_PAR>__{}
 <DIAL>__{Her name is Nikki.}
 <CHAR>__{THE BRIDE} <CHAR_PAR>__{}
 <DIAL>__{Nikki. What a pretty name for such a pretty little girl. How old are you Nikki?}
 <ACTION>__{Nikki still says nothing, only stares.}
 <CHAR>__{THE HOUSEWIFE} <CHAR_PAR>__{}
-<DIAL>__{Nikki, *(BLEEP)* aked you a question.}
+<DIAL>__{Nikki, (BLEEP) aked you a question.}
 <CHAR>__{NIKKI} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to The Bride)}
 <DIAL>__{I'm four.}
 <CHAR>__{THE BRIDE} <CHAR_PAR>__{}
 <DIAL>__{Four years    old, aye. You know I once had a    little girl. She'd be five right    now. Maybe you two could of played    with each other.}
 <CHAR>__{THE HOUSEWIFE} <CHAR_PAR>__{}
-<DIAL>__{Now baby, me an *(BLEEP)* have some grown-up talk to talk about, so you go in your room now and leave us alone till I tell you to come out.}
+<DIAL>__{Now baby, me an (BLEEP) have some grown-up talk to talk about, so you go in your room now and leave us alone till I tell you to come out.}
 <ACTION>__{The child doesn't move, so the mother repeats herself.}
 <CHAR>__{THE HOUSEWIFE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(snapping her fingers)}
@@ -156,7 +156,7 @@
 <DIAL>__{I'll wait for now, but I won't wait for long. I'll allow you to choose a time and place for us to meet again, preferably as far away from Nikki as possible. I could have just HIT you, I didn't, I demand respect for that. Since this is not a HIT, consider it a DUEL. And as two former Deadly Vipers, we will observe Viper rules of honor. One on one - no help - no bushwhackin - no treacherous weapons - on weapon of choice - our skill and our bodies.}
 <ACTION>__{Vernita says her name;}
 <CHAR>__{VERNITA} <CHAR_PAR>__{}
-<DIAL>__{*(BLEEP)*}
+<DIAL_PAR>__{(BLEEP)}
 <CHAR>__{THE BRIDE} <CHAR_PAR>__{}
 <DIAL>__{- I'm not through telling you. Failure to keep our date, or duplicity of any kind, will result in me putting a xoxo hollow point bullet into the back of your skull from a window of a building across the street from Nikki's elementary school. Now, feel free to respond.}
 <CHAR>__{VERNITA} <CHAR_PAR>__{}
@@ -2113,7 +2113,7 @@
 <DIAL>__{If it is Christ you seek, turn back now.}
 <ACTION>__{She climbs the wooden staircase.}
 <LOC>__{INT. PAI MEI'S PRIVATE CHAMBER}
-<ACTION>__{PAI MEI'S POV: We see through Pei Mei's pupils, through a sheer scarlet scrim that hangs down in front of his sitting area. The Bride enters the room. She approaches the old man, reaches the edge of his sitting area in front of the scrim, lowers to one knee and bows her head. * From here on end, whenever ENGLISH is spoken     by The Bride, or every once in awhile by Pai Mei, it will be     spoken in ENGLISH IN LIVE SYNCH SOUND. However, whenever     MANDARIN is supposedly spoken, it comes out of their mouths     as DUBBED ENGLISH like in a 70's Shaw Brothers Chop Socky     Flick.}
+<ACTION>__{PAI MEI'S POV: We see through Pei Mei's pupils, through a sheer scarlet scrim that hangs down in front of his sitting area. The Bride enters the room. She approaches the old man, reaches the edge of his sitting area in front of the scrim, lowers to one knee and bows her head. From here on end, whenever ENGLISH is spoken     by The Bride, or every once in awhile by Pai Mei, it will be     spoken in ENGLISH IN LIVE SYNCH SOUND. However, whenever     MANDARIN is supposedly spoken, it comes out of their mouths     as DUBBED ENGLISH like in a 70's Shaw Brothers Chop Socky     Flick.}
 <CHAR>__{THE BRIDE} <CHAR_PAR>__{}
 <DIAL>__{Teacher, I am unworthy to be your student --}
 <ACTION>__{Pai Mei is still unseen.}

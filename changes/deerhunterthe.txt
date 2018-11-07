@@ -1280,7 +1280,7 @@
 <DIAL>__{Great... These are great. I wanna tell you these are great elephants! I'm going home, see... Stateside in a few days and my wife Linda, she loves elephants. She... she has a thing for elephants because elephants... Elephants go on. You know what I mean? They go right on. I don't know if they cry. Maybe at night. I mean... What I mean is my two best buddies are dead, see, MIA, who knows, and they would have liked some elephants also because... How much are these elephants? I mean let's talk elephant.}
 <DIAL_PAR>__{(notices a GROUP OF STREET URCHINS)}
 <DIAL>__{Hey you guys...! Over here! Come over here and carry elephants!}
-<ACTION>__{The STREET URCHINS come running. They are ragged, malnourished, ranging in age from about six to nine. They are covered with sores. One of them ~as lost an eye and another has lost a hand.}
+<ACTION>__{The STREET URCHINS come running. They are ragged, malnourished, ranging in age from about six to nine. They are covered with sores. One of them  as lost an eye and another has lost a hand.}
 <CHAR>__{NICK } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Everyone take an elephant!}
 <DIAL_PAR>__{(to the YOUNGEST URCHIN)}

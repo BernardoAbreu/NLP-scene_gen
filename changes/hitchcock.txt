@@ -143,7 +143,7 @@
 <CHAR>__{ALMA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Don't forget your lunch.}
 <ACTION>__{Alma hands him a compact Fortnum & Mason basket and pats him on his girth. He opens it to discover CELERY AND CARROT STICKS wrapped in Saran.}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{}
 <LOC>__{INT. HITCHCOCK'S OFFICE, PARAMOUNT - DAY}
 <ACTION>__{Luxurious, wood-paneled and very British. Hitch sits restlessly behind his desk, receiving his morning shave from his private barber, SILVIO. His longtime assistant, PEGGY ROBERTSON, 40s, crisp, British, fiercely protective of her boss, is going through a list of potential projects.}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
@@ -326,7 +326,7 @@
 <ACTION>__{Hitch falls silent, a chastised schoolboy.}
 <CHAR>__{ALMA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You shouldn't wait till halfway through... Kill her off after 30 minutes.}
-<CHAR>__{OMITTED } <CHAR_PAR>__{(SCENE 17)}
+<DIAL_PAR>__{(SCENE 17)}
 <LOC>__{INT. HITCHCOCK'S OFFICE, PARAMOUNT - DAY}
 <ACTION>__{Hitch enters with purpose, carrying a stack of photos and articles.}
 <CHAR>__{ALFRED HITCHCOCK} <CHAR_PAR>__{}
@@ -1714,7 +1714,7 @@
 <ACTION>__{Hitch gets up, opens the medicine cabinet and takes out a}
 <ACTION_ALT>__{BOTTLE OF BAYER ASPIRIN.}
 <ACTION>__{He empties the tablets into the sink and very carefully, sweeps the SAND into the aspirin bottle. He caps it, slips it into his robe pocket and turns off the light.}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{}
 <LOC>__{INT. SOUNDSTAGE, UNIVERSAL REVUE - SAME TIME}
 <ACTION>__{Alma spots the towering figure of Balaban stride onto the stage accompanied by a MAN in a cardigan.}
 <CHAR>__{ALMA} <CHAR_PAR>__{}
@@ -2082,8 +2082,7 @@
 <CHAR>__{OUTSIDE} <CHAR_PAR>__{}
 <ACTION>__{The PR Flack shares a despairing look with Peggy.}
 <CHAR>__{FLACK} <CHAR_PAR>__{}
-<DIAL>__{Thank God we've got Cinderfella for the holidays.}
-<CHAR>__{OMITTED} <CHAR_PAR>__{}
+<DIAL>__{Thank God we've got Cinderfella for the holidays. }
 <ACTION>__{BERNARD HERRMANN'S ICONIC SCORE RISES as}
 <LOC>__{INT. EDITING ROOM - DAY}
 <ACTION>__{We move across HITCH, ALMA, TOMASINI and PEGGY'S faces as they watch the Moviola. The impact of the music is instant and unimaginably powerful. They are all moved. Gripped. Stunned. Hitchcock looks down. Peggy is gripping his arm tightly.}
@@ -2207,7 +2206,7 @@
 <DIAL>__{At the end of the day, it's a minor Hitchcock movie. One week, and it'll be gone...}
 <ACTION>__{He tosses the pamphlet into the trash.}
 <CHAR>__{BARNEY BALABAN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Like a bad dream. 138 OMITTED}
+<DIAL>__{Like a bad dream. 138 }
 <LOC>__{INT. LIMO - DAY}
 <ACTION>__{ON HITCH AND ALMA'S SILENT TENSE EXPRESSIONS as they drive through the frenetic madness that typifies Times Square,}
 <LOC>__{1960. EXT. NEW YORK THEATRE - DAY (LATER)}
@@ -2297,7 +2296,7 @@
 <CHAR>__{ALFRED HITCHCOCK} <CHAR_PAR>__{}
 <DIAL>__{And that, madame, is why they call me "The Master of Suspense"...}
 <ACTION>__{He helps her into the car.}
-<DIAL>__{145 OMITTED}
+<DIAL>__{145 }
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{INT. CENTRAL STATE HOSPITAL WARD - DAY}
 <ACTION>__{It is a utilitarian institutionalized dining room. Several nonviolent INMATES eat at different round tables around the room. An ATTENDANT watches, and an ORDERLY mops the floor (there are NO female patients nor staff members.)}

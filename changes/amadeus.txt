@@ -142,7 +142,7 @@
 <DIAL>__{Can you recall no melody of mine? I was the most famous composer in Europe when you were still a boy. I wrote forty operas alone. What about this little thing?}
 <ACTION>__{Slyly he plays the opening measure of Mozart's Eine Kleine Nachtmusik. The priest nods, smiling suddenly, and hums a little with the music.}
 <CHAR>__{VOGLER} <CHAR_PAR>__{}
-<DIAL>__{Oh, I know that! That's charming!  I didn't know you wrote that.}
+<DIAL>__{Oh, I know that! That's charming! I didn't know you wrote that.}
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
 <DIAL>__{I didn't. That was Mozart. Wolfgang Amadeus Mozart. You know who that is?}
 <CHAR>__{VOGLER} <CHAR_PAR>__{}
@@ -205,7 +205,7 @@
 <ACTION>__{CU, a large cooked fish on a thick china plate. Camera pulls back to show the Salieri family at dinner. Father Salieri sits at the head of the table, a napkin tucked into his chin. Mother Salieri is serving the fish into portions and handing them round. Two maiden aunts are in attendance, wearing black, and of course the young boy. Father Salieri receives his plate of fish and starts to eat greedily. Suddenly there is a gasp - he starts to choke violently on a fish bone. All the women get up and crowd around him, thumping and pummeling him, but it is in vain. Father Salieri collapses.}
 <LOC>__{INT. OLD SALIERI'S HOSPITAL ROOM - LATE AFTERNOON - 1823}
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
-<DIAL>__{Suddenly he was dead. Just like that! And my life changed forever. My mother said, Go. Study music if you really want to. Off with you! And off I went as quick as I could and never saw Italy again. Of course, I knew God had arranged it all; that was obvious. One moment I was a frustrated boy in an obscure little town. The next I was here, in Vienna, city of musicians, sixteen years old and studying under Gluck! Gluck, Father. Do you know who he was? The greatest composer of his time. And he loved me! That was the wonder. He taught me everything he knew. And when I was ready, introduced me personally to the Emperor! Emperor Joseph - the musical king!  Within a few years I was his court composer. Wasn't that incredible? Imperial Composer to His Majesty! Actually the man had no ear at all, but what did it matter? He adored my music, that was enough. Night after night I sat right next to the Emperor of Austria, playing duets with him, correcting the royal sight-reading. Tell me, if you had been me, wouldn't you have thought God had accepted your vow? And believe me, I honoured it. I was a model of virtue. I kept my hands off women, worked hours every day teaching students, many of them for free, sitting on endless committees to help poor musicians - work and work and work, that was all my life. And it was wonderful! Everybody liked me. I liked myself. I was the most successful musician in Vienna. And the happiest. Till he came. Mozart.}
+<DIAL>__{Suddenly he was dead. Just like that! And my life changed forever. My mother said, Go. Study music if you really want to. Off with you! And off I went as quick as I could and never saw Italy again. Of course, I knew God had arranged it all; that was obvious. One moment I was a frustrated boy in an obscure little town. The next I was here, in Vienna, city of musicians, sixteen years old and studying under Gluck! Gluck, Father. Do you know who he was? The greatest composer of his time. And he loved me! That was the wonder. He taught me everything he knew. And when I was ready, introduced me personally to the Emperor! Emperor Joseph - the musical king! Within a few years I was his court composer. Wasn't that incredible? Imperial Composer to His Majesty! Actually the man had no ear at all, but what did it matter? He adored my music, that was enough. Night after night I sat right next to the Emperor of Austria, playing duets with him, correcting the royal sight-reading. Tell me, if you had been me, wouldn't you have thought God had accepted your vow? And believe me, I honoured it. I was a model of virtue. I kept my hands off women, worked hours every day teaching students, many of them for free, sitting on endless committees to help poor musicians - work and work and work, that was all my life. And it was wonderful! Everybody liked me. I liked myself. I was the most successful musician in Vienna. And the happiest. Till he came. Mozart.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. THE ARCHBISHOP OF SALZBURG'S RESIDENCE - VIENNA - DAY - 1780'S}
 <ACTION>__{A grand room crowded with guests. A small group of Gypsy musicians is playing in the background. Thirteen members of the Archbishop's orchestra - all wind players, complete with}
@@ -245,7 +245,7 @@
 <CHAR>__{COLLOREDO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Arco)}
 <DIAL>__{We'll start without him.}
-<LOC>__{INT.   PALACE BUFFET ROOM - DAY - 1780'S}
+<LOC>__{INT. PALACE BUFFET ROOM - DAY - 1780'S}
 <ACTION>__{Mozart is on his knees before the tablecloth, which reaches to the floor. Under it is Constanze. We hear her giggling as he talks.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Miaouw! Miaouw! Mouse-wouse? It's Puss-wuss, fangs-wangs. Paws-claws. Pounce-bounce!}
@@ -306,7 +306,7 @@
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{No!}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
-<DIAL>__{Just say it - you'll see. It's very serious. Em iram!  Em iram!}
+<DIAL>__{Just say it - you'll see. It's very serious. Em iram! Em iram!}
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{Iram - marry Em - marry me! No, no! You're a fiend. I'm not going to marry a fiend. A dirty fiend at that.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
@@ -401,7 +401,7 @@
 <DIAL>__{But why?}
 <LOC>__{INT. OLD SALIERI'S HOSPITAL ROOM - NIGHT - 1823}
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
-<DIAL>__{Why?  Would God choose an obscene child to be His instrument? It was not to be believed! This piece had to be an accident. It had to be!}
+<DIAL>__{Why? Would God choose an obscene child to be His instrument? It was not to be believed! This piece had to be an accident. It had to be!}
 <LOC>__{INT. PALACE DINING ROOM - DAY - 1780'S}
 <ACTION>__{At the table sits the EMPEROR JOSEPH II, eating his frugal dinner and sipping goat's milk. He is an intelligent, dapper man of forty, wearing a military uniform. Around him but standing, are his Chamberlain, JOHANN VON STRACK: stiff and highly correct. COUNT ORSINI-ROSENBERG: a corpulent man of sixty, highly conscious of his position as Director of the Opera. BARON VON SWIETEN, the Imperial Librarian: a grave but kindly and educated man in his mid-fifties. FIRST KAPELLMEISTER GIUSEPPE BONNO: very Italian, cringing and time-serving, aged about seventy. And Salieri, wearing decorous black, as usual. At a side-table, two Imperial secretaries, using quill pens and inkstands, write down everything of importance that is said.}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
@@ -468,7 +468,7 @@
 <ACTION>__{She gives a little curtsey, flattered and giggling and is shown out. Salieri turns back to his work, chewing. He plays through a complete line of the march. He smiles, pleased with the result.}
 <CHAR>__{SALIERI} <CHAR_PAR>__{}
 <DIAL>__{Grazie, Signore.}
-<ACTION>__{He inclines his head to the Christ above the  fireplace, and starts to play the whole march, including the phrase which pleased him.}
+<ACTION>__{He inclines his head to the Christ above the fireplace, and starts to play the whole march, including the phrase which pleased him.}
 <LOC>__{INT. A WIGMAKER'S SHOP - VIENNA - DAY - 1780'S}
 <ACTION>__{The march continues on the forte-piano as we see Mozart, seated in front of a mirror, wearing an extravagant wig. On either side of him stands a SALESMAN, one of them holding another wig, equally extravagant. Mozart takes off the first wig, to reveal his own blonde hair, of which he is extremely proud, and hands it back.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
@@ -608,7 +608,7 @@
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{Well, what is it about? Tell us the story.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
-<DIAL>__{It's actually quite amusing, Majesty. It's set - the  whole thing is set in a - in a -}
+<DIAL>__{It's actually quite amusing, Majesty. It's set - the whole thing is set in a - in a -}
 <ACTION>__{He stops short with a little giggle.}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{Yes, where?}
@@ -770,13 +770,13 @@
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
 <DIAL>__{Understand, I was in love with the girl. Or at least in lust. I wasn't a saint. It took me the most tremendous effort to be faithful to my vow. I swear to you I never laid a finger on her. All the same, I couldn't bear to think of anyone else touching her - least of all the Creature.}
 <TRANS>__{CUT BACK TO:}
-<LOC>__{INT.   THE OPERA HOUSE - VIENNA - NIGHT - 1780'S}
+<LOC>__{INT. THE OPERA HOUSE - VIENNA - NIGHT - 1780'S}
 <ACTION>__{The brilliant Turkish finale of Seraglio bursts over us. All the cast is lined up on stage. Mozart is conducting with happy excitement.}
 <CHAR>__{CAST OF SERAGLIO} <CHAR_PAR>__{}
 <DIAL_PAR>__{(singing)}
 <DIAL>__{Pasha Selim May he Live forever! Ever, ever, ever, ever! Honour to his regal name! Honour to his regal name! May his noble brow emblazon Glory, fortune, joy and fame! Honour be to Pasha Selim Honour to his regal name! Honour to his regal name!}
 <ACTION>__{The curtains fall. Much applause. The Emperor claps vigorously and - following his lead - so do the courtiers. The curtains part. Mozart applauds the singers who applaud him back. He skips up onto the stage amongst them. The curtains fall again as they all bow. In the auditorium, the chandeliers descend, filling it with light.}
-<LOC>__{INT. OPERA HOUSE STAGE -  VIENNA - NIGHT - 1780'S}
+<LOC>__{INT. OPERA HOUSE STAGE - VIENNA - NIGHT - 1780'S}
 <ACTION>__{The curtains are down, and an excited hubbub of singers in costume surround Mozart and Cavalieri, all excited and chattering. Suddenly a hush. The Emperor is seen approaching from the wings, lit by flunkies holding candles. Von Strack, Orsini-Rosenberg and Von Swieten, amongst others, follow him. Also Salieri. The singers line up. Joseph stops at Cavalieri who makes a deep curtsey.}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{Bravo, Madame. You are an ornament to our stage.}
@@ -785,7 +785,7 @@
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Salieri)}
 <DIAL>__{And to you, Court Composer. Your pupil has done you great credit.}
-<LOC>__{INT. BACKSTAGE CORRIDOR -  VIENNA - NIGHT - 1780'S}
+<LOC>__{INT. BACKSTAGE CORRIDOR - VIENNA - NIGHT - 1780'S}
 <CHAR>__{MADAME WEBER} <CHAR_PAR>__{}
 <DIAL>__{Let us pass, please! Let us pass at once! We're with the Emperor.}
 <CHAR>__{FLUNKY} <CHAR_PAR>__{}
@@ -810,7 +810,7 @@
 <CHAR>__{MADAME WEBER} <CHAR_PAR>__{}
 <DIAL>__{Young man, I am no stranger to theatres. I'm no stranger to insolence!}
 <TRANS>__{CUT BACK TO:}
-<LOC>__{INT. OPERA HOUSE STAGE -  VIENNA - NIGHT - 1780'S}
+<LOC>__{INT. OPERA HOUSE STAGE - VIENNA - NIGHT - 1780'S}
 <ACTION>__{All are applauding Cavalieri. The Emperor turns to Mozart.}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{Well, Herr Mozart! A good effort. Decidedly that. An excellent effort! You've shown us something quite new today.}
@@ -842,7 +842,7 @@
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{My dear fellow, there are in fact only so many notes the ear can hear in the course of an evening. I think I'm right in saying that, aren't I, Court Composer?}
 <CHAR>__{SALIERI} <CHAR_PAR>__{}
-<DIAL>__{Yes! yes! er, on  the whole, yes, Majesty.}
+<DIAL>__{Yes! yes! er, on the whole, yes, Majesty.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Salieri)}
 <DIAL>__{But this is absurd!}
@@ -1049,7 +1049,7 @@
 <LOC>__{INT. A ROOM IN LEOPOLD'S HOUSE - SALZBURG - NIGHT - 1780'S}
 <ACTION>__{There is a view of a castle in background. Leopold sits alone in his room. He is reading a letter from Wolfgang. At his feet are his trunks, half-packed for the journey he will not now take. We hear Mozart's voice reading the following letter and we see, as the camera roves around the room, mementos of the young prodigy's early life: the little forte-piano made for him; the little violin made for him; an Order presented to him. We see a little starling in a wicker cage. And we see portraits of the boy on the walls, concluding with the familiar family portrait of Wolfgang and his sister Nannerl seated at the keyboard with Leopold standing, and the picture of their mother on the wall behind them.}
 <CHAR>__{MOZART } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Most beloved father, it is done. Do not blame me that I did not wait to see your dear face. I knew you would have tried to dissuade me from my truest happiness and I could not have borne it. Your every word is precious to me. Remember how you have always told me Vienna is the City of Musicians. To conquer here is to conquer Europe! With my wife I can do it.  I vow I will become regular in my habits and productive as never before. She is wonderful, Papa, and I know that you will love her. And one day soon when I am a wealthy man, you will come and live with us, and we will be so happy. I long for that day, best of Papas, and kiss your hand a hundred thousand times.}
+<DIAL>__{Most beloved father, it is done. Do not blame me that I did not wait to see your dear face. I knew you would have tried to dissuade me from my truest happiness and I could not have borne it. Your every word is precious to me. Remember how you have always told me Vienna is the City of Musicians. To conquer here is to conquer Europe! With my wife I can do it. I vow I will become regular in my habits and productive as never before. She is wonderful, Papa, and I know that you will love her. And one day soon when I am a wealthy man, you will come and live with us, and we will be so happy. I long for that day, best of Papas, and kiss your hand a hundred thousand times.}
 <ACTION>__{The music of the Mass fades as Leopold crumples the letter in his hand.}
 <LOC>__{EXT. THE IMPERIAL GARDENS - VIENNA - DAY - 1780'S}
 <ACTION>__{Salieri stands waiting, hat in hand. Beside him stands a royal servant. Behind him, gardeners are glimpsed tending the shrubs and bushes along a grassy ride. Down this ride are seen cantering two people on horseback: the Emperor Joseph and his niece, the PRINCESS ELIZABETH. They are mounted on glossy horses. The Princess rides side-saddle. Running beside her is a panting groom. The Emperor rides elegantly; his niece, a dumpy little Hapsburg girl of sixteen, like a sack of potatoes. As they draw level with Salieri they stop, and the groom holds the head of the Princess' horse. Salieri bows respectfully.}
@@ -1194,7 +1194,7 @@
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{That's right, Your Excellency. I've come on behalf of my hus band. I'm - I'm bringing some samples of his work so he can be considered for the royal appointment.}
 <CHAR>__{SALIERI} <CHAR_PAR>__{}
-<DIAL>__{How charming.  But why did he not come himself?}
+<DIAL>__{How charming. But why did he not come himself?}
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{He's terribly busy, sir.}
 <CHAR>__{SALIERI} <CHAR_PAR>__{}
@@ -1716,7 +1716,7 @@
 <DIAL>__{Yes. He is a little strange.}
 <LOC>__{EXT. A BUSY STREET IN VIENNA - DAY - 1780'S}
 <ACTION>__{A cheerful scene. We see Mozart strutting and beaming, making his way through the crowd of porters, carriers and hawkers, sellers of sausages and pastries, vendors of hats and ribbons. Horses and carriage clatter past him. His mood is best expressed by a bubbling version of Non piu Andrai played on the forte-piano. Still in the same mood, he enters the door of his own house.}
-<LOC>__{INT. MOZART'S HOUSE - HALLWAY -  DAY - 1780'S}
+<LOC>__{INT. MOZART'S HOUSE - HALLWAY - DAY - 1780'S}
 <ACTION>__{Suddenly, he stops. He looks up the stairs. The grim opening chords from the Overture to Don Giovanni cut across the march from Figaro. What he sees, looking up the stairs, is a menacing figure in a long, grey cape and dark grey hat, standing on the landing. The light comes from behind the figure so that we see only its silhouette as it unfolds its arms towards Mozart in an alarming gesture of possession. It takes a beat in which the air of sinister mystery is held before Mozart realizes who it is. Then, as the music continues, he hastily sets down the bottle of wine and rushes joyfully up the stairs and hurls himself into the figure's arms.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Papa! PAPA!}
@@ -1844,7 +1844,7 @@
 <ACTION>__{We are in the full whirl of a Masquerade Ball. Couples are dancing around dressed in fantastic costumes. The music of Ich Mochte Wohl Der Kaiser sein increases in volume and persists. We see the musicians thumping it out on a balustrade above the dancers. A steer is being roasted. Through the bobbing crowd we see a group, headed by the figure of Bacchus: this is Schikaneder in a Greek costume, wearing vine leaves in his hair. He is accompanied by his usual trio of actresses and three other men. Constanze as Columbine and Mozart as Harlequin are pulling Leopold by the hand of his dark cloak and smiling mask. This whole group threads its way across the crowded room and disappears through a door. As they go, they are watched by Salieri, standing alone in a corner, wearing ordinary evening clothes. He turns away hastily to avoid being seen by them. As soon as they disappear into the far room, Salieri goes quickly to a lady in the corner who is giving guests domino masks off a tray. He quickly takes a small black mask and puts it on.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. A GROTTO ROOM NEXT DOOR - NIGHT - 1780'S}
-<ACTION>__{A fantastic room designed as a rocky grotto, lit by candles. A forte-piano to one side is being played by Schikaneder: the music of Ich Mochte Wohl Der Kaiser sein cross-fades to another tune.  This is Vivat Bacchus from Il Seraglio which Schikaneder, dressed as Bacchus, is humming as he plays. The music is actually accompanying a game of Forfeits, which has begun. Five couples (the group we have just seen) are dancing in the middle of a ring made by nine chairs. When the music stops they will each have to find a chair, and the one who fails must pay a forfeit. Constanze is dancing with Leopold; Mozart is dancing with one of the actresses; the two other actresses are dancing with two other gentlemen; and two children dance together - a little boy and a little girl. The scene is watched by a circle of bystanders; among them - from the doorway - is Salieri. Schikaneder stops playing. Immediately the couples scramble for the chairs. Leopold and Constanze meet on the same chair, bumping and pushing at each other to get sole possession of it. To the amusement of the people around, the chair over- balances and they both end up on the floor. Constanze immediately gets up again, sets the chair on its feet, and tries to pretend she was sitting in it all the time. But Schikaneder calls out from the forte-piano.}
+<ACTION>__{A fantastic room designed as a rocky grotto, lit by candles. A forte-piano to one side is being played by Schikaneder: the music of Ich Mochte Wohl Der Kaiser sein cross-fades to another tune. This is Vivat Bacchus from Il Seraglio which Schikaneder, dressed as Bacchus, is humming as he plays. The music is actually accompanying a game of Forfeits, which has begun. Five couples (the group we have just seen) are dancing in the middle of a ring made by nine chairs. When the music stops they will each have to find a chair, and the one who fails must pay a forfeit. Constanze is dancing with Leopold; Mozart is dancing with one of the actresses; the two other actresses are dancing with two other gentlemen; and two children dance together - a little boy and a little girl. The scene is watched by a circle of bystanders; among them - from the doorway - is Salieri. Schikaneder stops playing. Immediately the couples scramble for the chairs. Leopold and Constanze meet on the same chair, bumping and pushing at each other to get sole possession of it. To the amusement of the people around, the chair over- balances and they both end up on the floor. Constanze immediately gets up again, sets the chair on its feet, and tries to pretend she was sitting in it all the time. But Schikaneder calls out from the forte-piano.}
 <CHAR>__{SCHIKANEDER} <CHAR_PAR>__{}
 <DIAL>__{No, no! You both lost. You both lost. You both have to forfeit. And the penalty is you must exchange your wigs.}
 <ACTION>__{People are delighted by the idea of this penalty. The children jump up and down with excitement. The three actresses immediately surround Leopold, reaching for his hat and mask and wig, whilst he tries to hold on to them. Mozart takes off Constanze's wig - an absurd affair with side-curls. Constanze laughingly surrenders it.}
@@ -1939,7 +1939,7 @@
 <DIAL>__{She won't talk to me. She says she has to speak to you.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Oh, damn!}
-<LOC>__{INT. MOZART'S APARTMENT - LIVING ROOM -  DAY - 1780'S}
+<LOC>__{INT. MOZART'S APARTMENT - LIVING ROOM - DAY - 1780'S}
 <ACTION>__{Mozart comes out. Framed in the doorway from outside stands Lorl, the maid we noticed in Salieri's house. From his bedroom Leopold peeps out to watch. Mozart goes to the girl. Constanze follows.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Yes?}
@@ -2221,7 +2221,7 @@
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{Ah, love again.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
-<DIAL>__{But it's new, it's entirely new. It's so new, people will go mad for it. For example, I have a scene in the second act - it starts as a duet, just a man and wife quarreling. Suddenly the wife's scheming little maid comes in unexpectedly - a very funny situation. Duet turns into trio. Then the husband's equally screaming valet comes in. Trio turns into quartet. Then a stupid old gardener - quartet becomes quintet, and so on.  On and on, sextet, septet, octet! How long do you think I can sustain that?}
+<DIAL>__{But it's new, it's entirely new. It's so new, people will go mad for it. For example, I have a scene in the second act - it starts as a duet, just a man and wife quarreling. Suddenly the wife's scheming little maid comes in unexpectedly - a very funny situation. Duet turns into trio. Then the husband's equally screaming valet comes in. Trio turns into quartet. Then a stupid old gardener - quartet becomes quintet, and so on. On and on, sextet, septet, octet! How long do you think I can sustain that?}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{I have no idea.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
@@ -2236,7 +2236,7 @@
 <DIAL_PAR>__{(ignoring him)}
 <DIAL>__{Sire, only opera can do this. In a play, if more than one person speaks at the same time, it's just noise. No one can understand a word. But with music, with music you can have twenty individuals all talking at once, and it's not noise - it's a perfect harmony. Isn't that marvelous?}
 <CHAR>__{VON SWIETEN} <CHAR_PAR>__{}
-<DIAL>__{Mozart, music is not the issue here. No one doubts your talent. It is your judgment of literature that's in question. Even with the politics taken out, this thing would still remain a vulgar farce. Why waste your spirit on such rubbish?  Surely you can choose more elevated themes?}
+<DIAL>__{Mozart, music is not the issue here. No one doubts your talent. It is your judgment of literature that's in question. Even with the politics taken out, this thing would still remain a vulgar farce. Why waste your spirit on such rubbish? Surely you can choose more elevated themes?}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Elevated? What does that mean? Elevated! The only thing a man should elevate is - oh, excuse me. I'm sorry. I'm stupid. But I am fed up to the teeth with elevated things! Old dead legends! How can we go on forever writing about gods and legends?}
 <CHAR>__{VON SWIETEN} <CHAR_PAR>__{}
@@ -2363,7 +2363,7 @@
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
 <DIAL>__{I'm sure I don't need to tell you I said nothing whatever to the Emperor. I went to the theatre ready to tell Mozart that His Majesty had flown into a rage when I mentioned the ballet, when suddenly, to my astonishment, in the middle of the third act, the Emperor - who never attended rehearsals - suddenly appeared.}
 <LOC>__{INT. OPERA HOUSE - DAY - 1780'S}
-<ACTION>__{In the background the same recitativo before the March. The Emperor steals in surreptitiously with Von Strack, his finger to his lips. He motions everyone not to rise, and slips into a chair behind Salieri, Orsini-Rosenberg and Bonno. The three conspirators look at each other wide-eyed. The recitativo summons up the march, but instead there is silence. Mozart lays down his baton. The musicians lay down their instruments. The celebrants of Figaro's wedding come in with a few pitiful dance steps, in procession, only to come presently to a halt, lacking their music. The singers try to go on singing, but they have no cues from their conductor or from the accompaniment. Everyone on stage looks lost, though they attempt to go on with the story for a while. Consternation grows on the faces of the conspirators. Mozart glances back at the group seated in the theatre.  Finally, the Emperor speaks, in a whisper.}
+<ACTION>__{In the background the same recitativo before the March. The Emperor steals in surreptitiously with Von Strack, his finger to his lips. He motions everyone not to rise, and slips into a chair behind Salieri, Orsini-Rosenberg and Bonno. The three conspirators look at each other wide-eyed. The recitativo summons up the march, but instead there is silence. Mozart lays down his baton. The musicians lay down their instruments. The celebrants of Figaro's wedding come in with a few pitiful dance steps, in procession, only to come presently to a halt, lacking their music. The singers try to go on singing, but they have no cues from their conductor or from the accompaniment. Everyone on stage looks lost, though they attempt to go on with the story for a while. Consternation grows on the faces of the conspirators. Mozart glances back at the group seated in the theatre. Finally, the Emperor speaks, in a whisper.}
 <CHAR>__{JOSEPH} <CHAR_PAR>__{}
 <DIAL>__{What is this? I don't understand. Is it modern?}
 <CHAR>__{BONNO} <CHAR_PAR>__{}
@@ -2398,7 +2398,7 @@
 <TRANS>__{CUT BACK TO M:}
 <ACTION>__{ozart at the forte-piano, raising his hands. The musicians raise their bows. With a flourish the happy composer begins a reprise of the scene which had been cut out. The music of the march begins faintly; the celebrants of Figaro's wedding start to enter as the Count and the Countess sit in their chairs. In the theatre we see increasing pleasure on the Emperor's face, sullenness and defeat on the courtiers'. Then, suddenly, without interruption, on a crescendo repeat of the march, we}
 <TRANS>__{CUT TO:}
-<LOC>__{INT.  OPERA HOUSE - NIGHT - 1780'S}
+<LOC>__{INT. OPERA HOUSE - NIGHT - 1780'S}
 <ACTION>__{The theatre is brilliantly lit for the first public performance of Figaro. Everybody is there: the Emperor, Von Strack, Bonno Orsini-Rosenberg, Von Swieten, even Madame Weber and her daughters in a box. The musicians all wear imperial livery; the actors on stage are now in costume. Mozart, conducting, wears his Order of the Golden Spur. The company wheels in and around to the music of the restored march, which reaches a triumphant climax.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. OLD SALIERI'S HOSPITAL ROOM - NIGHT - 1823}
@@ -2516,7 +2516,7 @@
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{These gentlemen are from Salzburg.}
 <CHAR>__{MOZART} <CHAR_PAR>__{}
-<DIAL>__{Salzburg.  We were just talking about Salzburg.}
+<DIAL>__{Salzburg. We were just talking about Salzburg.}
 <DIAL_PAR>__{(to the two men, jubilantly)}
 <DIAL>__{If you've come from my friend the Fartsbishop, you've arrived at just the right moment. Because I've got good news for him. I'm done with Vienna. It's over, finished, done with! Done with! Done with!}
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
@@ -2557,7 +2557,7 @@
 <ACTION_ALT>__{SCHIKANEDER TROUPE OF PLAYERS IN}
 <ACTION>__{An Evening of}
 <ACTION_ALT>__{PARODY}
-<ACTION>__{Music!  Mirth!  Magic!}
+<ACTION>__{Music! Mirth! Magic!}
 <ACTION_ALT>__{ALL SONGS AND SPEECHES WRITTEN BY EMMANUEL SCHIKANEDER}
 <ACTION>__{who personally will appear in every scene!}
 <TRANS>__{CUT TO:}
@@ -2692,7 +2692,7 @@
 <DIAL>__{In the pot, I have got a good dinner. Not a sausage or stew, but a singer. Not a sausage or stew but a singer. Is the treat that I'll eat for my meat!}
 <CHAR>__{COMMENDATORE} <CHAR_PAR>__{}
 <DIAL>__{Oh shut up. I'm sick to death of that tune.}
-<ACTION>__{CU,  Mozart laughing delightedly with the audience.}
+<ACTION>__{CU, Mozart laughing delightedly with the audience.}
 <CHAR>__{THE THREE GIRLS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(singing again to the horse)}
 <DIAL>__{Give me your hoof, my darling, and I'll give you my heart.}
@@ -2768,7 +2768,7 @@
 <CHAR>__{MOZART} <CHAR_PAR>__{}
 <DIAL>__{Animals?}
 <CHAR>__{SCHIKANEDER} <CHAR_PAR>__{}
-<DIAL>__{I tell you I picked up a snake in Dresden last week - twelve foot long  - folds up to six inches, just like a paper fan. It's a miracle.}
+<DIAL>__{I tell you I picked up a snake in Dresden last week - twelve foot long - folds up to six inches, just like a paper fan. It's a miracle.}
 <ACTION>__{Mozart laughs.}
 <CHAR>__{SCHIKANEDER} <CHAR_PAR>__{}
 <DIAL>__{I'm serious. You write a proper part for me with a couple of catchy songs, I'll guarantee you'll have a triumph- de-luxe. Mind you, it'll have to be in German.}
@@ -3191,7 +3191,7 @@
 <DIAL_PAR>__{(encore, lightly, as before)}
 <DIAL>__{A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish.}
 <CHAR>__{ALLEGRO} <CHAR_PAR>__{}
-<DIAL>__{I need to net one birdie only And I will stop feeling so lonely. But if she won't fly to my aid, Then into a ghost I must fade. I need to net one birdie only But if she won't fly to my aid, Then into a ghost I must fade.  To a ghost I must fade! To a ghost I must fade!}
+<DIAL>__{I need to net one birdie only And I will stop feeling so lonely. But if she won't fly to my aid, Then into a ghost I must fade. I need to net one birdie only But if she won't fly to my aid, Then into a ghost I must fade. To a ghost I must fade! To a ghost I must fade!}
 <CHAR>__{ANDANTE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(encore)}
 <DIAL>__{A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish.}
@@ -3569,7 +3569,7 @@
 <ACTION>__{The entire Confutatis bursts over the room, as Mozart snatches the manuscript pages from Salieri and reads from it, singing. Salieri sits looking on in wondering astonishment. The music continues right through the following scenes, to the end of the movement.}
 <LOC>__{EXT. A COUNTRY ROAD - WINTER NIGHT - 1790'S}
 <ACTION>__{A carriage is driving fast through the night. Snow lies on the countryside.}
-<LOC>__{INT. THE CARRIAGE  NIGHT - 1790'S}
+<LOC>__{INT. THE CARRIAGE NIGHT - 1790'S}
 <ACTION>__{The carriage is filled with passengers. Among them Constanze and Karl, her young son. They are sleepless and sway to the motion of the vehicle.}
 <LOC>__{INT. MOZART'S APARTMENT - BEDROOM - NIGHT - 1790'S}
 <ACTION>__{Mozart lying in bed exhausted, but still dictating urgently. We do not hear what he is saying to Salieri, who still sits writing assiduously. Mozart is looking very sick: sweat is pouring from his forehead.}
@@ -3639,7 +3639,7 @@
 <ACTION>__{She looks at it and recognizes it.}
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL>__{Oh no, not this. Not this, Wolfi! You're not to work on this ever again! I've decided.}
-<ACTION>__{She takes it from his weak hand. At the same moment Salieri reaches out his hand to take it and add it to the pile on the table. She stares at him, trying to understand - suspicious and frightened and at the same time unable to make a sound. Mozart makes a convulsive gesture to reclaim the pages. The coins brought by Salieri fall on the floor.  Karl runs after them, laughing.}
+<ACTION>__{She takes it from his weak hand. At the same moment Salieri reaches out his hand to take it and add it to the pile on the table. She stares at him, trying to understand - suspicious and frightened and at the same time unable to make a sound. Mozart makes a convulsive gesture to reclaim the pages. The coins brought by Salieri fall on the floor. Karl runs after them, laughing.}
 <CHAR>__{CONSTANZE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Salieri)}
 <DIAL>__{This is not his handwriting.}
@@ -3694,7 +3694,7 @@
 <CHAR>__{VOGLER} <CHAR_PAR>__{}
 <DIAL>__{My son, why should you want all Vienna to believe you a murderer? Is that your penance? Is it?}
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}
-<DIAL>__{No, Father. From now on no one will be able to speak of Mozart without thinking of me. Whenever they say Mozart with love, they'll have to say Salieri with loathing. And that's my immortality - at last! Our names will  be tied together for eternity - his in fame and mine in infamy. At least it's better than the total oblivion he'd planned for me, your merciful God!}
+<DIAL>__{No, Father. From now on no one will be able to speak of Mozart without thinking of me. Whenever they say Mozart with love, they'll have to say Salieri with loathing. And that's my immortality - at last! Our names will be tied together for eternity - his in fame and mine in infamy. At least it's better than the total oblivion he'd planned for me, your merciful God!}
 <CHAR>__{VOGLER} <CHAR_PAR>__{}
 <DIAL>__{Oh my son, my poor son!}
 <CHAR>__{OLD SALIERI} <CHAR_PAR>__{}

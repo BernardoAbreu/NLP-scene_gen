@@ -1800,7 +1800,9 @@
 <CHAR>__{FRODO } <CHAR_PAR>__{(cont'd)}
 <DIAL>__{. . . so sorry ...}
 <LOC>__{EXT. FRODO'S DREAM, LOTHLORIEN - DAY}
-<ACTION>__{CLOSE ON: FRODO lands on SOFT GREEN GRASS. SUN DRENCHED IMAGES: Of trees . . . of fields . . . of LOTHLORIEN * HAZY IMAGE: GALADRIEL walking towards him, BARE-FOOT on the}
+<ACTION>__{CLOSE ON: FRODO lands on SOFT GREEN GRASS. SUN DRENCHED IMAGES: Of trees . . . of fields . . . of LOTHLORIEN}
+
+<ACTION>__{HAZY IMAGE: GALADRIEL walking towards him, BARE-FOOT on the}
 <ACTION_ALT>__{GR SS . . .}
 <CHAR>__{A} <CHAR_PAR>__{}
 <DIAL>__{GALADRIEL V/0 This task was appointed to you, Frodo of the Shire. If you do not find a way ... no- one will.}

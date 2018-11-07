@@ -50,7 +50,8 @@
 <CHAR>__{CLAY} <CHAR_PAR>__{}
 <DIAL>__{Dad, your pits smell like burnt ass! Get off me!}
 <ACTION>__{As Laser observes this male-bonding between father and son, we note a trace of longing on his face.}
-<ACTION_ALT>__{OMITTED. OMITTED.}
+
+
 <LOC>__{INT. ALLGOOD HOUSE - DINING ROOM}
 <ACTION>__{Joni, Laser and JULES ALLGOOD (40's) fair-skinned, attractive, sit before well prepared dinner. Still buzzing, Laser taps his fingers incessantly on the table.}
 <CHAR>__{JONI} <CHAR_PAR>__{}
@@ -303,7 +304,7 @@
 <CHAR>__{WENDY } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Well we've been contacted by a young woman conceived using your semen, and she's asked if you'd be open to having contact with her.}
 <ACTION>__{Paul's speechless.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. TANYA'S HOUSE - BEDROOM - NIGHT}
 <ACTION>__{Paul and Tanya enjoy a hot, sweaty fuck.}
 <ACTION_ALT>__{LATER THAT NIGHT}
@@ -381,7 +382,7 @@
 <CHAR>__{PAUL} <CHAR_PAR>__{}
 <DIAL>__{Good deal.     I love lesbians.}
 <ACTION>__{Paul cringes at his lameness.     Joni doesn't know what to say.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{EXT. "WYSIWYG", PARKING LOT - NEXT DAY}
 <ACTION>__{Joni and Laser get out of the car and head to the restaurant to meet Paul. They're both clearly nervous.}
 <CHAR>__{JONI} <CHAR_PAR>__{}
@@ -541,7 +542,7 @@
 <DIAL>__{Well what did you think of him?}
 <CHAR>__{LASER} <CHAR_PAR>__{}
 <DIAL>__{I don't know. He seemed kind of into himself.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ALLGOOD HOUSE - TV ROOM - LATER THAT NIGHT}
 <ACTION>__{Nic and Jules are cuddled up affectionately on the couch watching cable. They see Laser on his way out of the house.}
 <CHAR>__{JULES} <CHAR_PAR>__{}
@@ -656,7 +657,8 @@
 <CHAR>__{LASER} <CHAR_PAR>__{}
 <DIAL>__{Want me to fast-forward?}
 <ACTION>__{Clay doesn't answer.    They just keep watching.}
-<ACTION_ALT>__{OMITTED OMITTED}
+
+
 <LOC>__{EXT. ALLGOOD HOUSE - DRIVEWAY - DAY}
 <ACTION>__{Jules pulls her truck into the driveway, almost running over Laser's bike.}
 <LOC>__{INT. LASER'S ROOM - DAY}
@@ -816,7 +818,7 @@
 <DIAL>__{I love you too, pony.}
 <LOC>__{EXT. STREET - AFTERNOON}
 <ACTION>__{Paul rides slowly down the street, checking addresses. He pulls over and cuts his engine in front of the Allgood house.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT/EXT. ALLGOOD FRONT DOOR - AFTERNOON}
 <ACTION>__{Paul rings the bell. Waits. The door opens and Nic and Jules are there smiling with "kill him with kindness" faces.}
 <CHAR>__{NIC} <CHAR_PAR>__{}
@@ -1044,7 +1046,7 @@
 <DIAL_PAR>__{(getting excited)}
 <DIAL>__{I'm up for it!...}
 <ACTION>__{Jules smiles at Nic: "Isn't this great?   My first client." Nic looks less than pleased.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{INT. HARDWARE STORE - DAY}
 <ACTION>__{Nic pushes a cart piled high with gardening supplies. Jules grabs a couple BAGS of fertilizer, throws them on top.}
 <CHAR>__{NIC} <CHAR_PAR>__{}
@@ -1289,7 +1291,7 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{No, I promise, I'm not going anywhere.}
 <ACTION>__{Jules' face drops; she turns and leaves.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{INT./EXT.    PAUL'S HOUSE - DAY}
 <ACTION>__{Paul watches Jules work in his backyard.    Luis hauls shrubs.}
 <LOC>__{INT. PAUL'S HOUSE - KITCHEN - LATER}
@@ -1403,7 +1405,7 @@
 <ACTION>__{Chastened, Nic looks back at her magazine.    Jules rolls over.}
 <CHAR>__{JULES} <CHAR_PAR>__{}
 <DIAL>__{And I also think we should start composting.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. URBAN FARM - ECHO PARK - DAY - MOS}
 <ACTION>__{Sweating and dirty, Joni and Paul pull radishes from the ground. They're in a zone together. Paul takes off his sun- hat and put it on Joni's head.}
 <CHAR>__{PAUL} <CHAR_PAR>__{}
@@ -1528,7 +1530,7 @@
 <CHAR>__{NIC} <CHAR_PAR>__{}
 <DIAL>__{Yeah, and I need your observations like I need a dick in my ass!}
 <ACTION>__{Nic storms off.   Jules follows.   Paul watches, shell shocked.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ALLGOOD HOUSE - JONI'S BEDROOM - LATER THAT NIGHT}
 <ACTION>__{Nic knocks on the door.   Get's no response.}
 <CHAR>__{NIC} <CHAR_PAR>__{}
@@ -1540,7 +1542,7 @@
 <DIAL_PAR>__{(patronizing)}
 <DIAL>__{I know how you feel about them. But I'm an adult now and you have to respect that. Goodnight.}
 <ACTION>__{Joni closes the door on her.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. PAUL'S HOUSE - DAY}
 <ACTION>__{From his house, Paul watches Jules working on her knees in the garden. CLOSE ON Jules' thong peaking out of her jeans. Luis walks across Paul's field of vision, interrupting his reverie.}
 <LOC>__{INT. PAUL'S HOUSE - LATER}
@@ -1864,7 +1866,7 @@
 <CHAR>__{NIC } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{So I was thinking. Maybe it would be nice if we all had dinner at his house sometime. That way, I could get to know him a little better, and I could see all the good work mom's been doing with his backyard.}
 <ACTION>__{Nic looks at Jules and smiles. Everyone nods.     They recognize this is a big step for Nic.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. PAUL'S HOUSE - BACKYARD - DAY}
 <ACTION>__{Paul walks out to check on Jules. She's sweating her ass off, shlepping stacks of heavy mulch across the yard.}
 <CHAR>__{PAUL} <CHAR_PAR>__{}
@@ -2092,7 +2094,7 @@
 <ACTION>__{Nic sitting back down at the table. She looks drained. Nobody notices. The sound drops out. NIC'S POV: Paul and Jules talking comfortably. Joni and Laser chiming in, smiling, one big happy family.}
 <TRANS>__{REVERSE ONTO NIC:}
 <ACTION>__{Totally disconnected. Shell-shocked. She wants to scream but it feels like she's trapped in cement. Things slow way down...}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. NIC AND JULES' BATHROOM - THAT NIGHT}
 <ACTION>__{Nic and Jules perform their nightly ablutions.   Jules is sonic-caring her teeth.}
 <CHAR>__{JULES} <CHAR_PAR>__{}
@@ -2193,7 +2195,7 @@
 <ACTION>__{Jules slowly retreats to the door.}
 <LOC>__{INT. ALLGOOD HOUSE - KITCHEN - MORNING}
 <ACTION>__{Jules drinks coffee at the table. Nic walks in, dressed for work. Jules looks at her, wanting to "process." But Nic isn't in the mood. She grabs a banana from a bowl and walks out. Jules feels like a leper.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{INT. SASHA'S ROOM - AFTERNOON}
 <ACTION>__{We can tell Joni's been crying and downloading the whole thing to Sasha.}
 <CHAR>__{SASHA} <CHAR_PAR>__{}
@@ -2455,14 +2457,14 @@
 <DIAL_PAR>__{(awkward)}
 <DIAL>__{Thank you.}
 <ACTION>__{And, without further ado, Jules hands the remote back to Laser and departs the field. Everyone's silenced by Jules' rambling apologia, especially Nic.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{INT. JONI'S ROOM - MORNING}
 <ACTION>__{Joni wakes up. She looks around her room. There's nothing on the walls. The floor is covered with boxes taped and labeled. It's time to go.}
 <LOC>__{EXT. ALLGOOD HOUSE - DRIVEWAY - DAY}
 <ACTION>__{Nic and Jules stuff the last of Joni's things in the back of their station wagon. Laser and Joni bring the last of the boxes out of the house.}
 <LOC>__{INT. VOLVO STATION WAGON - DAY}
 <ACTION>__{The Allgoods are on the road, heading to college.}
-<ACTION_ALT>__{OMITTED.}
+
 <LOC>__{EXT. COLLEGE CAMPUS - DAY - ESTABLISHING}
 <ACTION>__{The station wagon passes through the campus.}
 <LOC>__{INT. STATION WAGON - DAY}

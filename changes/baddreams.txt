@@ -48,7 +48,7 @@
 <LOC>__{EXT. HOUSE - LONG SHOT}
 <ACTION>__{The sun almost gone now, red light reflecting on the gabled windows. Even the battered VW van looks good in this setting. It's beautiful.}
 <CHAR>__{CYNTHIA'S VOICE} <CHAR_PAR>__{}
-<DIAL>__{No!   No...}
+<DIAL>__{No! No...}
 <CHAR>__{HARRIS' VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, come back! We can't do it without you... We must have unity, my lovechild... Unity, now and through eternity... Cynthia, you cannot run... You belong to us forever--!}
 <ACTION>__{Pause. The faint SOUNDS of SPLASHING and then FOOTSTEPS skittering on tired wooden floors... and then-- --UNITY HOUSE EXPLODES! EXPLOSION - ANOTHER ANGLE WINDOWS blow out. Splintered BEAMS propeller through the air. The VW camper on the lawn ROCKS with the shock wave. Then a SECOND EXPLOSION blows the Victorian cupolas and widow's walk off the roof. From somewhere in the distance we}
@@ -110,7 +110,7 @@
 <DIAL>__{No wind. I changed shifts with Nancy.}
 <DIAL_PAR>__{(picking up charts)}
 <DIAL>__{Well... time to weed the vegetable patch.}
-<ACTION>__{We FOLLOW the young nurse as she goes into-- CYNTHIA'S ROOM Bored, the nurse goes to the foot of the bad, checks the chart there. She moves past MONITORING EQUIPMENT which shows only subtle movement. As she begins to take Cynthia's blood pressure, CAMERA CONTINUES ON INTO THE BED and we see Cynthia, She is now a fully grown young woman in her late 20's.   She is curled up in a fetal ball.}
+<ACTION>__{We FOLLOW the young nurse as she goes into-- CYNTHIA'S ROOM Bored, the nurse goes to the foot of the bad, checks the chart there. She moves past MONITORING EQUIPMENT which shows only subtle movement. As she begins to take Cynthia's blood pressure, CAMERA CONTINUES ON INTO THE BED and we see Cynthia, She is now a fully grown young woman in her late 20's. She is curled up in a fetal ball.}
 <ACTION_ALT>__{THE YOUNG NURSE}
 <ACTION>__{finishes her work and then gathers some bottles from the side table. She goes to the door and then REACTS to a SOUND. She looks around, puzzled. Meanwhile, we SEE (and she DOESN'T) that there is INCREASED ACTIVITY on the monitors.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -124,7 +124,7 @@
 <ACTION>__{FLASHBULBS pop and the HOSPITAL SPOKESMAN grins clumsily, famous for fifteen minutes. There's eight or nine reporters here, all of them wishing they were on bigger stories.}
 <CHAR>__{SPOKESMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in mid speech)}
-<DIAL>__{Twelve years, two months...   nine days.}
+<DIAL>__{Twelve years, two months... nine days.}
 <CHAR>__{FIRST REPORTER} <CHAR_PAR>__{}
 <DIAL>__{Is that like a world record for a coma or something?}
 <CHAR>__{SPOKESMAN} <CHAR_PAR>__{}
@@ -132,7 +132,7 @@
 <ACTION>__{The first reporter closes a notebook, leaves.}
 <CHAR>__{SECOND REPORTER} <CHAR_PAR>__{}
 <DIAL>__{Does she remember anything about the fire at Universe House?}
-<ACTION>__{NEW ANGLE - SHOWING THE BACK OF THE ROOM Lieutenant (nee Inspector) Wasserman is there.    He's grayer, paunchier, but the raincoat is the same one.}
+<ACTION>__{NEW ANGLE - SHOWING THE BACK OF THE ROOM Lieutenant (nee Inspector) Wasserman is there. He's grayer, paunchier, but the raincoat is the same one.}
 <CHAR>__{SPOKESMAN'S VOICE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(correcting)}
 <DIAL>__{Unity House. No, she appears to have no memory of the accident itself or the days leading up to it. It's not uncommon after serious trauma.}
@@ -143,7 +143,7 @@
 <ACTION>__{The reporters filter out. Wasserman is already gone.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{FOOT}
-<ACTION>__{as it is clumsily set down...    another FOOT slides forward.}
+<ACTION>__{as it is clumsily set down... another FOOT slides forward.}
 <LOC>__{INT. THERAPY ROOM - WIDER}
 <ACTION>__{Cynthia is standing inside a set of parallel bars. She's pale, weak looking. A PHYSICAL THERAPIST is at her elbow, egging her on.}
 <CHAR>__{THERAPIST} <CHAR_PAR>__{}
@@ -172,12 +172,12 @@
 <DIAL_PAR>__{(peering at Berrisford)}
 <DIAL>__{Am I supposed to know you or something?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
-<DIAL>__{I've looked in on you from time to time... but that's hardly an introduction. You've been transferred into my care, Cynthia. I*m Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.}
+<DIAL>__{I've looked in on you from time to time... but that's hardly an introduction. You've been transferred into my care, Cynthia. I'm Doctor S. A. Berrisford, Consulting Chief of Neuropsychiatry and head of the Berrisford Clinic.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(fumbling it)}
 <DIAL>__{C-consulting Cheev-- Chief of--}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
-<DIAL>__{Oh, forget all that.   Just call me what my staff does.}
+<DIAL>__{Oh, forget all that. Just call me what my staff does.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{What's that?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
@@ -187,7 +187,7 @@
 <ACTION>__{Berrisford parks her and site down across from her.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{What... what kind of doctor did you say you were?}
-<ACTION>__{Berrisford notices one of the tissues on his neck.    Scowls, flicks it away.}
+<ACTION>__{Berrisford notices one of the tissues on his neck. Scowls, flicks it away.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Obviously, I'm not a surgeon.}
 <DIAL_PAR>__{(as she laughs)}
@@ -205,7 +205,7 @@
 <CHAR>__{WASSERMAN'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{Dr. Berrisford?}
 <ACTION_ALT>__{NEW ANGLE}
-<ACTION>__{Revealing Wasserman.    He shows his badge to the doctor.}
+<ACTION>__{Revealing Wasserman. He shows his badge to the doctor.}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{I'm Lieutenant Wasserman. I left a message with your secretary...?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
@@ -240,14 +240,14 @@
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(sotto)}
 <DIAL>__{Why is he talking like that? Is he one of your patients?}
-<ACTION>__{Wasserman burns.   Berrisford LAUGHS.}
+<ACTION>__{Wasserman burns. Berrisford LAUGHS.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Lieutenant Wasserman is a police officer. And the word "patience" isn't part of his vocabulary.}
-<ACTION>__{Wasserman scowls, not enjoying being the butt of a joke.    He resumes his normal tons, which is far from diplomatic.}
+<ACTION>__{Wasserman scowls, not enjoying being the butt of a joke. He resumes his normal tons, which is far from diplomatic.}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{Miss Weston. What's the last thing you remember before...}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{--Before the accident?   Nothing.}
+<DIAL>__{--Before the accident? Nothing.}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{Then how do you know it was an accident?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
@@ -257,7 +257,7 @@
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(writing)}
 <DIAL>__{Harris, he was the leader?}
-<ACTION>__{Cynthia's eyes are far away.    The memories come back...   the words are slow, but vivid.}
+<ACTION>__{Cynthia's eyes are far away. The memories come back... the words are slow, but vivid.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Leader, founder... chief cook and bottlewasher...}
 <DIAL_PAR>__{(smiling)}
@@ -270,7 +270,7 @@
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{Miss Weston. This "Unity House"... was it a cult?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I'm sorry.     I don't understand the question.}
+<DIAL>__{I'm sorry. I don't understand the question.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{A "cult," Cynthia. A syndrome of society you have been fortunate enough to miss. They're popular with impressionable people, the penny press...}
 <DIAL_PAR>__{(pause)}
@@ -288,7 +288,7 @@
 <ACTION>__{He turns, nods to Cynthia.}
 <CHAR>__{WASSERMAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Feel better.}
-<ACTION>__{He goes out.   Cynthia's breath comes in short gasps.   Finally she calms.}
+<ACTION>__{He goes out. Cynthia's breath comes in short gasps. Finally she calms.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{I don't like that man.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
@@ -382,7 +382,7 @@
 <ACTION>__{She thinks for a minute, starts to speak. She's hesitant at first, and then the old memories come forward. She's sincere, earnest... captivating.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What we felt... what we believed... was that if people could become selfless enough, if they could free themselves from their egos, they would experience a... togetherness. A... oneness. A Unity. That's where the name came from. We had a dream about a perfect society based on trust. On love. On totally committed togetherness. We weren't trying to change the whole world. We were just trying to change each other.}
-<ACTION>__{Pause.   Everyone is affected by her sincerity.}
+<ACTION>__{Pause. Everyone is affected by her sincerity.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(acting out)}
 <DIAL>__{Bullshit.}
@@ -397,7 +397,7 @@
 <DIAL>__{Exactly!}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BERRISFORD'S OFFICE - NIGHT}
-<ACTION>__{WIDEN from a TV SCREEN which shown the above moment.   As the group session CONTINUES UNDER, CAMERA PANS to reveal Berrisford and Alan watching the tape.}
+<ACTION>__{WIDEN from a TV SCREEN which shown the above moment. As the group session CONTINUES UNDER, CAMERA PANS to reveal Berrisford and Alan watching the tape.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Gilda hasn't said three words in three weeks. And now, Cynthia comes in with this love, peace and Woodstock routine and... presto. Am I missing something, or what?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
@@ -416,8 +416,8 @@
 <DIAL_PAR>__{(pause)}
 <DIAL>__{With a united front?}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{A united front.   Sure.}
-<ACTION>__{Satisfied, Berrisford smiles, goes out the door.     Alan sighs, and looks at Cynthia's image on the screen.}
+<DIAL>__{A united front. Sure.}
+<ACTION>__{Satisfied, Berrisford smiles, goes out the door. Alan sighs, and looks at Cynthia's image on the screen.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. PHYSICAL THERAPY ROOM - DAY}
 <ACTION>__{Patients in different stages of fitness use the equipment, some with supervision, others on their own. HETTIE, Berrisford's chief nurse--a Selma Diamond type--comes in with a tray of medication in paper cups. She works her way over to where}
@@ -435,26 +435,26 @@
 <DIAL>__{Ralph, you in a cooperative mood, or do I have to tie you up again?}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Promises, promises.}
-<ACTION>__{He takes the pills she gives him, smiles.      She just looks at him, taps his mouth.}
+<ACTION>__{He takes the pills she gives him, smiles. She just looks at him, taps his mouth.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{Open.}
 <ACTION>__{Of course the pills are still under his tongue. Hettie gives him a shot in the solar plexus and he GULPS. Hettie hands him the juice.}
 <CHAR>__{HETTIE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Next time I hit lower.}
-<ACTION>__{She moves on to other patients.     Ralph moves over to Cynthia.}
+<ACTION>__{She moves on to other patients. Ralph moves over to Cynthia.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{She's crazy about me.}
 <DIAL_PAR>__{(watching Cynthia's workout)}
 <DIAL>__{You're coming along. A regular Rocky.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Rocky?   The flying squirrel?}
+<DIAL>__{Rocky? The flying squirrel?}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Rocky the fighting Stallone.}
 <DIAL_PAR>__{(on her blank look)}
 <CHAR>__{RALPH} <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I keep forgetting you just left the Twilight Zone. Hey, why don't you come up to my room, and I'll bring you up to date. I've got a VHS VCR, a CD, and MTV.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{You're making this up...      aren't you?}
+<DIAL>__{You're making this up... aren't you?}
 <ACTION>__{He just grins. She slips down to the floor, does some stretching exercises.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Sounds like a complicated world. How do you handle it?}
@@ -464,7 +464,7 @@
 <DIAL>__{You mean with meditation, yoga, what?}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Nah. I just make a little hole and let it all escape.}
-<ACTION>__{He pulls open his shirt. On his chest and arms are dozens of scars in neat little rows. Cynthia swallows, stunned.      Nonplussed, Ralph buttons back up.}
+<ACTION>__{He pulls open his shirt. On his chest and arms are dozens of scars in neat little rows. Cynthia swallows, stunned. Nonplussed, Ralph buttons back up.}
 <CHAR>__{RALPH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Uh-uh, here comes the assistant Ayatollah. See ya.}
 <ACTION>__{As Ralph exits, Cynthia looks around, puzzled.}
@@ -475,7 +475,7 @@
 <DIAL>__{Buy you some lunch?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Sure.}
-<ACTION>__{He starts to help her up.   She pushes him off gets up with a theatrical hop.}
+<ACTION>__{He starts to help her up. She pushes him off gets up with a theatrical hop.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{I'm impressed.}
 <ACTION>__{They walk out of the therapy room.}
@@ -512,23 +512,23 @@
 <DIAL>__{Cynthia...}
 <DIAL_PAR>__{(gently)}
 <DIAL>__{There aren't any old hands left. The fire that injured you...? It took everyone also with it. They're all gone.}
-<ACTION>__{Cynthia reacts as if struck...    has to loan against the wall to catch her breath.}
+<ACTION>__{Cynthia reacts as if struck... has to loan against the wall to catch her breath.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I knew there were deaths...   but... everybody?}
+<DIAL>__{I knew there were deaths... but... everybody?}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid so. Look, Cynthia... I'm not saying this to upset you, but the sooner you realize that that whole phase of your life is over, and move on, the better off you're going to be. Why don't you bring this into the open... talk about it in group? Oh, here's our ride.}
-<ACTION>__{Saying this, he turns as an elevator OPENS.      It's pretty crowded. He holds the door for her.}
+<ACTION>__{Saying this, he turns as an elevator OPENS. It's pretty crowded. He holds the door for her.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(confused)}
 <DIAL>__{Talk about it...?}
 <ACTION>__{Seeing he's waiting, she straightens, moves into the elevator.}
 <LOC>__{INT. ELEVATOR - DAY}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{Could somebody hit one?   Thanks.}
+<DIAL>__{Could somebody hit one? Thanks.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to him)}
 <DIAL>__{"Talk about it in group." Is that the answer to everything around here?}
-<ACTION>__{The doors CLOSE. Everyone huddles in the compact space silently, politely. The elevator heaves into movement.     It HUMS as it whisks down the shaft. The overhead fluorescent light in the car is weak.    It flickers off and on momentarily.}
+<ACTION>__{The doors CLOSE. Everyone huddles in the compact space silently, politely. The elevator heaves into movement. It HUMS as it whisks down the shaft. The overhead fluorescent light in the car is weak. It flickers off and on momentarily.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Nobody ever said it would be easy. And it works for a lot of people.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -538,7 +538,7 @@
 <DIAL>__{Can't you at least transfer me... get me in a group of people with problems a little more like mine--}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, we don't have a lot of patients who've been in a coma for over a decade!}
-<ACTION>__{The light gets weaker. Finally it just goes out.     There is a general SIGH of annoyance from the passengers. The light FLICKERS on every few seconds giving off the effect of a strobe light.}
+<ACTION>__{The light gets weaker. Finally it just goes out. There is a general SIGH of annoyance from the passengers. The light FLICKERS on every few seconds giving off the effect of a strobe light.}
 <CHAR>__{A PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{You'd think with what they charge here they could pay their electric bills}
 <ACTION_ALT>__{LAUGHTER.}
@@ -551,20 +551,20 @@
 <ACTION>__{Staggered, disbelievingly, she moves behind Alan, looks over to the far corner again. Another FLASH. Harris is gone. Suddenly the ELEVATOR JERKS TO A HALT, but the doors DON'T OPEN. Passengers GROAN, annoyed.}
 <CHAR>__{PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{Oh, great--}
-<ACTION>__{The emergency BELL starts sounding. Cynthia, still confused, gets shoved against the back wall as the passengers busy themselves pushing buttons. Cynthia bumps into the man next to her.        She looks up at him. FLASH.   It is Harris. FLASH. Harris reaches out to Cynthia. She CRIES OUT, jerks away, slamming into Alan, falling to the floor.}
+<ACTION>__{The emergency BELL starts sounding. Cynthia, still confused, gets shoved against the back wall as the passengers busy themselves pushing buttons. Cynthia bumps into the man next to her. She looks up at him. FLASH. It is Harris. FLASH. Harris reaches out to Cynthia. She CRIES OUT, jerks away, slamming into Alan, falling to the floor.}
 <CHAR>__{PASSENGER } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Jesus, lady, relax! We're on the ground floor--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Let me out! Let me out--!}
-<ACTION>__{FLASH. Cynthia is on the floor. She raises her head. Someone is on the floor right across from her. FLASH.   It's Harris.    His face is burned and skeletal.     He}
+<ACTION>__{FLASH. Cynthia is on the floor. She raises her head. Someone is on the floor right across from her. FLASH. It's Harris. His face is burned and skeletal. He}
 <ACTION_ALT>__{GRINS.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{Unity, Cynthia...   Now and forever!}
+<DIAL>__{Unity, Cynthia... Now and forever!}
 <ACTION>__{He has no eyelids or lips. Cynthia SCREAMS, struggles to her feet, knocking over another passenger. Now it's chaos in here.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Let me out, let me out!   Alan, help, help--!}
+<DIAL>__{Let me out, let me out! Alan, help, help--!}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{Cynthia, you cannot run...      You belong to us Forever--!}
+<DIAL>__{Cynthia, you cannot run... You belong to us Forever--!}
 <ACTION_ALT>__{ALAN}
 <ACTION>__{Struggles across the crowded elevator, catches her in his arms.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -575,7 +575,7 @@
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, what happened--?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{It's him!     It's him!   He's alive--}
+<DIAL>__{It's him! It's him! He's alive--}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Who's alive?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -633,7 +633,7 @@
 <DIAL>__{Pay up. Twenty bucks.}
 <ACTION>__{Neither notices a DARK FIGURE passing by close to the CAMERA.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
-<ACTION>__{Cynthia lies restlessly in her bed. She hears footsteps coming closer. They stop at her door. She looks over. There is a SHADOW moving in the crack under the door.   The doorknob TURNS. Cynthia sits up.}
+<ACTION>__{Cynthia lies restlessly in her bed. She hears footsteps coming closer. They stop at her door. She looks over. There is a SHADOW moving in the crack under the door. The doorknob TURNS. Cynthia sits up.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Who's there?}
 <ACTION>__{She reaches for the button to call the nurse, but then the door is OPEN, and the figure stands there silhouetted.}
@@ -642,7 +642,7 @@
 <DIAL>__{Cynthia?}
 <ACTION>__{The figure comes forward. Cynthia backs off the other side of the bed and turns on a light. It is Victor, the boy we remember from the opening scene. The years have been kind to him. He stands there, the dim light spilling on his Army field jacket and bell-bottomed jeans.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{Cynthia?   It's me.   Victor.}
+<DIAL>__{Cynthia? It's me. Victor.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(amazed)}
 <DIAL>__{Vic? Oh, my God--}
@@ -658,9 +658,9 @@
 <DIAL_PAR>__{(hesitating)}
 <DIAL>__{But... how can you be here?}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   It is after visiting hours--}
+<DIAL>__{Yeah. It is after visiting hours--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I mean... they said that...      that everybody died.}
+<DIAL>__{I mean... they said that... that everybody died.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{Do I look like a ghost to you?}
@@ -679,10 +679,10 @@
 <LOC>__{EXT. PARKING LOT - NIGHT}
 <ACTION>__{Victor takes her hand, and they run towards a battered VW van. We recognize it and its slogans.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Zeke!   You've still got Zeke!}
+<DIAL>__{Zeke! You've still got Zeke!}
 <ACTION>__{She runs her hand along the dusty side lovingly, and then they hop inside.}
 <ACTION_ALT>__{ON THE REAR LICENSE PLATE}
-<ACTION>__{Rusted, dated 1973.     The van DRIVES AWAY.}
+<ACTION>__{Rusted, dated 1973. The van DRIVES AWAY.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. VICTOR'S APARTMENT - NIGHT}
 <ACTION>__{It's a tacky but cozy building, circa 1958. "Zeke" pulls up, rattling to a coughing halt. They get out, head up the steps.}
@@ -696,15 +696,15 @@
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
 <DIAL>__{Then you need a new mirror.}
-<ACTION>__{she smiles, flattered.    Suddenly a CAT jumps up on a crate.}
+<ACTION>__{she smiles, flattered. Suddenly a CAT jumps up on a crate.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{That's Chairman Meow.}
-<ACTION>__{Cynthia picks him up.    Victor takes out a bottle of tequila and two glasses.}
+<ACTION>__{Cynthia picks him up. Victor takes out a bottle of tequila and two glasses.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{You still haven't told me how you lived. I really can't remember anything about the... accident.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{It wasn't an accident.}
-<ACTION>__{She stiffens.    His eyes are far away.}
+<ACTION>__{She stiffens. His eyes are far away.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{A lot of people back then, they hated Unity House. Hated Harris and his dreams... dreams of peace... of oneness. That hate fed negative energy into the cosmic vortex... Something bad was bound to happen. That hate was so strong... so envious of what we had...}
 <ACTION>__{He has SQUEEZED the shot glass in his hand so hard that it EXPLODES. Cynthia JUMPS, and that's when he notices it.}
@@ -713,7 +713,7 @@
 <DIAL>__{Oh, fuck--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{You've cut yourself--}
-<ACTION>__{She comes over, binds his hand with a dishcloth.     He holds onto her.}
+<ACTION>__{She comes over, binds his hand with a dishcloth. He holds onto her.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{I guess talking about the past can be a little dangerous.}
 <ACTION>__{He pours a shot into the remaining glass.}
@@ -721,9 +721,9 @@
 <DIAL>__{Let's drink to the present.}
 <DIAL_PAR>__{(pause)}
 <DIAL>__{To us.}
-<ACTION>__{He SIPS.   Passes the glass to her.}
+<ACTION>__{He SIPS. Passes the glass to her.}
 <ACTION_ALT>__{CYNTHIA}
-<ACTION>__{She hesitates...    smiles.   Drinks. There is a drop of blood in the glass.     She doesn't see it.}
+<ACTION>__{She hesitates... smiles. Drinks. There is a drop of blood in the glass. She doesn't see it.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{To us.}
 <ACTION_ALT>__{BACK TO SCENE}
@@ -768,15 +768,15 @@
 <DIAL_PAR>__{(puzzled)}
 <DIAL>__{...meant to do...?}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{That sunset. That last night.      At Unity House. Remember?}
+<DIAL>__{That sunset. That last night. At Unity House. Remember?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{No...     No, Victor, I don't...}
+<DIAL>__{No... No, Victor, I don't...}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL_PAR>__{(distant)}
 <DIAL>__{They all got to go. You and me... we got left behind... while they went on.}
 <DIAL_PAR>__{(chuckling)}
 <DIAL>__{Guess that's why they say life ain't fair. Well...}
-<ACTION>__{He opens the box.    Inside it are TWO PISTOLS.}
+<ACTION>__{He opens the box. Inside it are TWO PISTOLS.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{--we can fix that.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -795,12 +795,12 @@
 <DIAL>__{Okay, you do me, and I'll do you-- but wait until I say go! Hey, get rid of the sheet... Let me see that grown up body...}
 <ACTION>__{He grins, puts the gun to her head and gets an top of her.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{No, Vic. Please.       Please!   I don't want to do this!}
+<DIAL>__{No, Vic. Please. Please! I don't want to do this!}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{Yes, you do. You know you do.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{No!}
-<ACTION>__{He's holding her down.   He's getting into it.}
+<ACTION>__{He's holding her down. He's getting into it.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{Oh, Cynthia, it's so beautiful.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -815,14 +815,14 @@
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Jesus, Vic, no!}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{Yeah, oh yeah...     oh, YEAH--}
-<ACTION>__{A SHOT sounds.   She SCREAMS--}
+<DIAL>__{Yeah, oh yeah... oh, YEAH--}
+<ACTION>__{A SHOT sounds. She SCREAMS--}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. BEDROOM - NIGHT}
 <ACTION>__{Cynthia BOLTS up out of bed.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{No!}
-<ACTION>__{The candles are out.    Victor isn't in the room. Cynthia, drenched with sweat, slowly catches her breath.      She looks around, confused.}
+<ACTION>__{The candles are out. Victor isn't in the room. Cynthia, drenched with sweat, slowly catches her breath. She looks around, confused.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Vic?}
 <ACTION>__{She goes into the other room.}
@@ -830,17 +830,17 @@
 <ACTION>__{No Vic. It is dark except for a FIRE in the fireplace. The flames REFLECT oddly on the slick surface of the oil painting of Unity House.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Vic?}
-<ACTION>__{She checks in the kitchen. Nothing.       She looks back in the bedroom. The apartment is empty. She's just calming when--MEEOW! The CAT LEAPS out of nowhere, startling her, and then running out of sight. She swallows. Very nervous now, she sits on the couch and starts pulling on her jeans and shoes. The CAMERA MOVES AROUND her, revealing the entire apartment. We see EVERY ANGLE. It is completely quiet and still. The CAMERA SETTLES at one ANGLE on Cynthia. A shadow behind her MOVES.}
+<ACTION>__{She checks in the kitchen. Nothing. She looks back in the bedroom. The apartment is empty. She's just calming when--MEEOW! The CAT LEAPS out of nowhere, startling her, and then running out of sight. She swallows. Very nervous now, she sits on the couch and starts pulling on her jeans and shoes. The CAMERA MOVES AROUND her, revealing the entire apartment. We see EVERY ANGLE. It is completely quiet and still. The CAMERA SETTLES at one ANGLE on Cynthia. A shadow behind her MOVES.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{Where are you going?}
 <ACTION>__{Cynthia JUMPS from fright.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Jesus, Vic. I thought you... left.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{Me?    Leave you all alone?}
-<ACTION>__{He pulls her into his arms.      She hesitates.}
+<DIAL>__{Me? Leave you all alone?}
+<ACTION>__{He pulls her into his arms. She hesitates.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Vic?   Vic, are you... happy?}
+<DIAL>__{Vic? Vic, are you... happy?}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{That...}
 <DIAL_PAR>__{(kissing her)}
@@ -849,7 +849,7 @@
 <DIAL>__{...the stupidest question I ever heard...}
 <ACTION>__{He keeps kissing, caressing.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I mean... with... life.   With... being alive.}
+<DIAL>__{I mean... with... life. With... being alive.}
 <ACTION>__{He looks at her oddly.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{What are you talking about?}
@@ -863,23 +863,23 @@
 <ACTION>__{She is kissing a BURNED AND SCARRED FACE WITH ONLY CLUMPS OF PUPPY BLACK MUSCLE HANGING ON THE BONE. It is Harris' face, the face we saw in the elevator. Cynthia GASPS, fumbles backwards off of the sofa.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What's the matter?}
-<ACTION>__{She looks back up at him.     He's Victor again, normal again.}
+<ACTION>__{She looks back up at him. He's Victor again, normal again.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Cynthia?}
 <ACTION>__{She knocks over a tequila bottle. It's spilled all over the floor. She is speechless. He picks the bottle up.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Why did you pull away?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I...    I think I'd better go.}
+<DIAL>__{I... I think I'd better go.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{Why?}
-<ACTION>__{She's over by the door.    Victor comes and presses against it so she can't get out.}
+<ACTION>__{She's over by the door. Victor comes and presses against it so she can't get out.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Please let me out.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{I don't understand...    What did I do?}
+<DIAL>__{I don't understand... What did I do?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Nothing. It's not you, it...     it's me. I just want to go.}
+<DIAL>__{Nothing. It's not you, it... it's me. I just want to go.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
 <DIAL>__{You know, maybe you belong in that clinic, because this, this is crazy! We were having a good time--}
 <DIAL_PAR>__{(on her look)}
@@ -889,29 +889,29 @@
 <DIAL>__{--it was Unity.}
 <DIAL_PAR>__{(distantly)}
 <DIAL>__{Unity, Now and through Eternity... Cynthia, you cannot run...}
-<ACTION>__{That does it.    Pale, she scrabbles at the doorknob, opens it, runs out.}
+<ACTION>__{That does it. Pale, she scrabbles at the doorknob, opens it, runs out.}
 <CHAR>__{VICTOR } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You cannot run... You belong to us Forever--!}
 <LOC>__{EXT. STREET - NIGHT}
-<ACTION>__{She runs out of the building, past "Zeke."      She looks back. THE APARTMENT--HER POV Victor is in the window waving, firelight dancing behind him. The reflection on the glass makes the painting on the wall look totally aflame.}
+<ACTION>__{She runs out of the building, past "Zeke." She looks back. THE APARTMENT--HER POV Victor is in the window waving, firelight dancing behind him. The reflection on the glass makes the painting on the wall look totally aflame.}
 <TRANS>__{ETHEREAL SITAR MUSIC UP OVER THE FOLLOWING SEQUENCE:}
 <LOC>__{EXT. HIGHWAY - NIGHT}
-<ACTION>__{Cynthia has her thumb out as the cars whizz by.     One stops.}
+<ACTION>__{Cynthia has her thumb out as the cars whizz by. One stops.}
 <LOC>__{INT. CAR - NIGHT}
-<ACTION>__{A sweaty-looking DRIVER eyes Cynthia.   She just looks off, depressed and afraid.}
+<ACTION>__{A sweaty-looking DRIVER eyes Cynthia. She just looks off, depressed and afraid.}
 <LOC>__{EXT. PARKING LOT - DAWN}
 <ACTION>__{She gets out of the car and goes in the main entrance.}
 <LOC>__{INT. HOSPITAL HALLWAY - DAWN}
 <ACTION>__{She makes her way to her room looking tired, distraught.}
 <LOC>__{INT. CYNTHIA'S ROOM - DAY}
-<ACTION>__{She lies on her bed, exhausted, trying to sleep.     She can't. She gets out of bad.}
+<ACTION>__{She lies on her bed, exhausted, trying to sleep. She can't. She gets out of bad.}
 <LOC>__{INT. HOSPITAL HALLWAY - DAY}
 <ACTION>__{She's looking for an office. She goes in one marked Dr. Goldman. He looks up from his coffee, sees her ashen expression... pulls out a chair. Listens as the words tumble out. His expression changes... to skepticism... and then, as she breaks down SOBBING, to concern. He holds her... thinks... ...reaches for his car keys.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ALAN'S CAR - DAY}
-<ACTION>__{They are travelling along the highway.      Cynthia POINTS.   He turns onto another street.}
+<ACTION>__{They are travelling along the highway. Cynthia POINTS. He turns onto another street.}
 <LOC>__{EXT. VICTOR'S APARTMENT - DAY}
-<ACTION>__{They pull up in front, park.     Go inside. CAMERA LINGERS long enough for us to notice a puddle from an OIL LEAK exactly where "Zeke" was parked.}
+<ACTION>__{They pull up in front, park. Go inside. CAMERA LINGERS long enough for us to notice a puddle from an OIL LEAK exactly where "Zeke" was parked.}
 <ACTION_ALT>__{THE MUSIC FADES OUT.}
 <LOC>__{INT. APARTMENT CORRIDOR - DAY}
 <ACTION>__{The MANAGER, a fat woman in a muumuu, waddles ahead of them, a huge keychain CLINKING with each of her steps.}
@@ -922,13 +922,13 @@
 <DIAL>__{Right.}
 <CHAR>__{MANAGER} <CHAR_PAR>__{}
 <DIAL>__{2B or not 2B, that is the question.}
-<ACTION>__{She chuckles at her own wit, arrives at the door.      Opens it.}
+<ACTION>__{She chuckles at her own wit, arrives at the door. Opens it.}
 <LOC>__{INT. APARTMENT - DAY}
-<ACTION>__{They step inside. The place is completely bare.       No furniture. Nothing. Cynthia is stunned.}
+<ACTION>__{They step inside. The place is completely bare. No furniture. Nothing. Cynthia is stunned.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{B..but...     it... it's empty!}
+<DIAL>__{B..but... it... it's empty!}
 <CHAR>__{MANAGER} <CHAR_PAR>__{}
-<DIAL>__{Of course it is. I     don't show rented apartments.     Anyway, what you see is what you    get... one bedroom, gas range,    yadda yadda yadda.}
+<DIAL>__{Of course it is. I don't show rented apartments. Anyway, what you see is what you get... one bedroom, gas range, yadda yadda yadda.}
 <CHAR>__{MANAGER} <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Supposed to be six months minimum, but you seem like nice kids, so if you want a month to month, we can work it out.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1014,14 +1014,14 @@
 <DIAL>__{You...}
 <DIAL_PAR>__{(searching)}
 <DIAL>__{--experts!}
-<ACTION>__{She goes out, SLAMS the door.    Wasserman rubs his jaw, checks his mouth.}
+<ACTION>__{She goes out, SLAMS the door. Wasserman rubs his jaw, checks his mouth.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Wonderful! Wonderful! I've been waiting and waiting for her to finally show real anger--real emotion! This could be a breakthrough!}
 <DIAL_PAR>__{(sincere)}
 <DIAL>__{Thank you, Lieutenant.}
 <ACTION>__{Wasserman holds a filling in his fingertips.}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
-<DIAL>__{Hey.   Anytime.}
+<DIAL>__{Hey. Anytime.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. THERAPY ROOM - DAY}
 <ACTION>__{CAMERA PANS past a row of PILLOWS. We WIDEN, see that each member of the group has a big pillow in front of them.}
@@ -1063,9 +1063,9 @@
 <DIAL>__{Can I have a baseball bat?}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Please, people, let's work at being serious.}
-<ACTION>__{He moves behind Cynthia, who's still unmoving.   Leans close, whispers.}
+<ACTION>__{He moves behind Cynthia, who's still unmoving. Leans close, whispers.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I know you had a rough night.   But you have to participate.}
+<DIAL>__{I know you had a rough night. But you have to participate.}
 <ACTION>__{She sighs, starts to pound the pillow. At first she's very distracted, but then she gets into an unconscious rhythm... GROUP - QUICK SHOTS All of them are finally and legitimately exorcising personal demons.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Okay, that's better. Now let's hear some emotion. Let it out. yell! Scream!}
@@ -1075,37 +1075,37 @@
 <LOC>__{INT. UNITY HOUSE COMMON ROOM - NIGHT}
 <ACTION>__{The scene in exactly like the first time we saw this room with one difference: the hospital Group Therapy crowd sits in the room. They are oblivious to the change around them. Now their pounding gradually UNIFIES, becomes a background voodoo- like DRUMMING. Cynthia is speechless. She looks at then in amazement, but none of them notice her. Suddenly she sees}
 <ACTION_ALT>__{HARRIS}
-<ACTION>__{He's across from her, SMILING.    Again, he sleeks back his hair in that amber liquid.}
+<ACTION>__{He's across from her, SMILING. Again, he sleeks back his hair in that amber liquid.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{You failed me, Cynthia...   You failed all of us...}
+<DIAL>__{You failed me, Cynthia... You failed all of us...}
 <ACTION>__{Harris holds a wooden match. With it he presses back a fingernail. It snaps off and bleeds. Harris watches Cynthia.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{We were supposed to be together... in this world... and in the next...}
-<ACTION>__{CAMERA WIDENS to take in the cistern of liquid.    We SEE the dripping wet Unity members.}
+<ACTION>__{CAMERA WIDENS to take in the cistern of liquid. We SEE the dripping wet Unity members.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{It was going to be perfect, all of us taking the same journey... You shouldn't have run. You made us wait for you while you slept... all those years.}
 <ACTION>__{He presses back another nail SNAP. CAMERA WIDENS FURTHER. Now we see something we didn't see before: a dozen or so PLASTIC JERRY CANS marked "GASOLINE--DANGER--PLAMMABLE."}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{The waiting time is over, my lovechild. It's time for you to join us. In Unity...}
-<ACTION>__{Another.   SNAP.   Hands and faces everywhere are soaked.   They}
+<ACTION>__{Another. SNAP. Hands and faces everywhere are soaked. They}
 <ACTION_ALT>__{DRIP.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{In death.    You know you want it.}
-<ACTION>__{SNAP.   Drip.}
+<DIAL>__{In death. You know you want it.}
+<ACTION>__{SNAP. Drip.}
 <ACTION_ALT>__{CYNTHIA}
 <ACTION>__{Her throat muscles constrict, but she can't speak. She looks over at Alan, who seems not to see any of this. Now, eyes widening in horror, Cynthia LOOKS DOWN and sees a POOL OF GASOLINE SPREADING TOWARDS HER. It washes against the pillow, her knees.}
 <ACTION_ALT>__{BACK TO SCENE}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You know we're your family...}
-<ACTION>__{SNAP.   Drip.}
+<ACTION>__{SNAP. Drip.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{...You have no choice...}
 <ACTION>__{He takes the match and strikes it through the pile of nails. The nails scatter.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{...Come to us, Cynthia. It's time to die. Don't lot another take your place. Come to us... now.}
-<ACTION>__{The match is lit.    He throws it off.}
+<ACTION>__{The match is lit. He throws it off.}
 <ACTION_ALT>__{SLOW MOTION}
-<ACTION>__{It FALLS through the air. Lands on the soaked carpet.   An EXPLOSION of flames. They RUSH TOWARDS CYNTHIA--}
+<ACTION>__{It FALLS through the air. Lands on the soaked carpet. An EXPLOSION of flames. They RUSH TOWARDS CYNTHIA--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{NOOOOOOOOO--!}
 <ACTION>__{It is a blood-curdling and heart-stopping a scream as ever heard. There is a FLASH of light.}
@@ -1116,7 +1116,7 @@
 <ACTION>__{Open mouthed, she DROPS the match she's holding to light a cigarette. It SIZZLES on the rug. Alan STOMPS it out, rushes over to Cynthia, who SAGS in his arms,}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. ALAN'S OFFICE - DAY}
-<ACTION>__{Cynthia sits in a crumpled sprawl in Alan's office. The room is decorated in comforting tones, with Sierra Club posters and outdoors-y souvenirs. The late afternoon sun steams in through the partially closed blinds. Alan sits beside Cynthia on the couch, concerned.   Berrisford sucks on his pipe, makes notes. Wasserman, rocking on the legs of his chair, jots in his own little notebook.}
+<ACTION>__{Cynthia sits in a crumpled sprawl in Alan's office. The room is decorated in comforting tones, with Sierra Club posters and outdoors-y souvenirs. The late afternoon sun steams in through the partially closed blinds. Alan sits beside Cynthia on the couch, concerned. Berrisford sucks on his pipe, makes notes. Wasserman, rocking on the legs of his chair, jots in his own little notebook.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly, tense)}
 <DIAL>__{...They... they sang songs as they stacked up the white containers... they were... happy. Because it was going to be their break with the world... a world that didn't understand them. I don't remember if they took a vote or if Harris just... decided. But they all agreed. They were... happy... smiling... laughing... crying from happiness as he drenched them in the gasoline...}
@@ -1138,7 +1138,7 @@
 <DIAL>__{Well. You must be pleased. Closing a case after... what is it, twelve years?}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{Who says it's closed?}
-<ACTION>__{The medical people look at him.      Cynthia's thoughts are elsewhere.}
+<ACTION>__{The medical people look at him. Cynthia's thoughts are elsewhere.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{What's that supposed to mean?}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
@@ -1149,7 +1149,7 @@
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{That man's a candidate for shock therapy... with a car battery right to the cojones.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{No... he's right.     I am guilty.}
+<DIAL>__{No... he's right. I am guilty.}
 <ACTION>__{They look at her, startled.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I'm guilty of lying... to Unity House. I promised to be part of it... Forever. They expected me to keep my word.}
@@ -1166,15 +1166,15 @@
 <DIAL>__{Nothing like a hot shower, huh?}
 <ACTION>__{Cynthia doesn't hear or see them. She settles on the far end of the bench. She sits there blankly. Lana nears, with great trepidation.}
 <CHAR>__{LANA} <CHAR_PAR>__{}
-<DIAL>__{Cynthia?   Cynthia?   Are you okay?}
+<DIAL>__{Cynthia? Cynthia? Are you okay?}
 <ACTION>__{Cynthia looks up.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{What?}
 <CHAR>__{LANA} <CHAR_PAR>__{}
-<DIAL>__{Are you all right?    After that session today, I--}
+<DIAL>__{Are you all right? After that session today, I--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{I'm fine.}
-<ACTION>__{Cynthia starts to dress, ignoring Lana.         Lana stands there for a moment, very awkwardly.}
+<ACTION>__{Cynthia starts to dress, ignoring Lana. Lana stands there for a moment, very awkwardly.}
 <CHAR>__{LANA} <CHAR_PAR>__{}
 <DIAL>__{I think... you're a decent person... not a... mean spirited witch like some people...}
 <ACTION>__{She thrown a look at Miriam, who just smiles pleasantly.}
@@ -1195,18 +1195,18 @@
 <CHAR>__{DISTANT VOICES} <CHAR_PAR>__{}
 <DIAL_PAR>__{(echo affect)}
 <DIAL>__{Be cleansed!}
-<ACTION>__{The SOUND of the VOICES unnerves Cynthia.     She presses her hands against her forehand in pain. We are TIGHT ON Cynthia.    We hear SPLASHING.}
+<ACTION>__{The SOUND of the VOICES unnerves Cynthia. She presses her hands against her forehand in pain. We are TIGHT ON Cynthia. We hear SPLASHING.}
 <CHAR>__{VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cleanse the heart of your mind.}
-<ACTION>__{A bright white light melts across Cynthia's face.     She looks up. Something draws her forward. CYNTHIA - SIDE ANGLE She begins walking, passing behind CLOTHES RACKS and LOCKERS. Then, somehow, the SHADOWS of these things become the SHADOWS of TREES, and then Cynthia is}
+<ACTION>__{A bright white light melts across Cynthia's face. She looks up. Something draws her forward. CYNTHIA - SIDE ANGLE She begins walking, passing behind CLOTHES RACKS and LOCKERS. Then, somehow, the SHADOWS of these things become the SHADOWS of TREES, and then Cynthia is}
 <ACTION_ALT>__{ON A BROAD FIELD}
-<ACTION>__{which leads down to a POND. Twenty or so PEOPLE are gathered at the edge of the water. We see the Unity House in the distance. Cynthia moves behind a tree to watch. Harris stands waist- deep in the pond. The Unity House Members all sit or stand on the shore. Harris holds his hands out in a gesture. A girl comes forward through the group out into the water. It is Cynthia, the younger Cynthia, with long hair in a braid. She smiles at Harris as she nears him. He clutches her hands. Behind the tree, Cynthia watches "herself," absorbed. Harris looks into Cynthia's eyes.    He touches her face.}
+<ACTION>__{which leads down to a POND. Twenty or so PEOPLE are gathered at the edge of the water. We see the Unity House in the distance. Cynthia moves behind a tree to watch. Harris stands waist- deep in the pond. The Unity House Members all sit or stand on the shore. Harris holds his hands out in a gesture. A girl comes forward through the group out into the water. It is Cynthia, the younger Cynthia, with long hair in a braid. She smiles at Harris as she nears him. He clutches her hands. Behind the tree, Cynthia watches "herself," absorbed. Harris looks into Cynthia's eyes. He touches her face.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{Cynthia.     You are part of the whole.}
+<DIAL>__{Cynthia. You are part of the whole.}
 <ACTION>__{He grabs her by the back of the head and plunges her violently under water.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Cleanse the heart of the mind!}
-<ACTION>__{He yanks her up.   She smiles exultantly.    He dunks her back down.}
+<ACTION>__{He yanks her up. She smiles exultantly. He dunks her back down.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Cleanse the soul of the self!}
 <ACTION>__{He yanks her up again, but it's not Cynthia. It's LANA. Before she can catch her breath, she's plunged back down. LANA - CLOSER She's yanked up, but this time she's not in the pond, she's in that gasoline-filled cistern!}
@@ -1218,10 +1218,10 @@
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(distant)}
 <DIAL>__{Cleanse the spirit.}
-<ACTION>__{Lana's gasping, inhaling water, turning blue.    Harris is possessed.}
+<ACTION>__{Lana's gasping, inhaling water, turning blue. Harris is possessed.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Cleanse.}
-<ACTION>__{Her movements slow.   Her eyes close.   She is completely still. HARRIS - CLOSE He looks directly at Cynthia.}
+<ACTION>__{Her movements slow. Her eyes close. She is completely still. HARRIS - CLOSE He looks directly at Cynthia.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I warned you, Cynthia. I warned you someone else would take your place.}
 <ACTION_ALT>__{UNDER WATER AGAIN}
@@ -1238,7 +1238,7 @@
 <ACTION>__{She's out cold. Behind the doctors, in the doorway, the other clinic patients press close, curious. Hettie pushes them out and down the hallway.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{Move it, people, this ain't a sideshow... Get back to your rooms...}
-<ACTION>__{Alan looks down at Cynthia with genuine concern.    But Berrisford eyes her totally clinically.}
+<ACTION>__{Alan looks down at Cynthia with genuine concern. But Berrisford eyes her totally clinically.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(thinking aloud)}
 <DIAL>__{Fascinating.}
@@ -1262,7 +1262,7 @@
 <DIAL>__{Did you see the swimming pool this morning? The cops are all over it... Fingerprints, photographs...}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Next they'll send in the fucking coast guard. Lot of good it'll do Lana.}
-<ACTION>__{HE SMASHES his fist on the counter, denting it.    Hettie looks at him.}
+<ACTION>__{HE SMASHES his fist on the counter, denting it. Hettie looks at him.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{Ralph, we're gonna start billing you for these outbursts.}
 <ACTION>__{Ralph just crumples his medication cup and throws it towards her. She glares at him, doesn't say anything.}
@@ -1293,11 +1293,11 @@
 <DIAL>__{Through the fire. To the next world. They waited while I was in a coma... He told me that if I didn't join him, he would take someone also... and he did it, Miriam, he did it!}
 <ACTION>__{Miriam gets up, her face a mixture of sympathy... sympathy and something else. She lights a cigarette. Involuntarily, Cynthia FLINCHES at the spark.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You...   you don't believe me, do you?}
+<DIAL>__{You... you don't believe me, do you?}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{I believe that you believe it. And I also believe that shooting you up every time you get the heebie- jeebies ain't gonna do shit for your real problems. We gotta get you out of here--get you to some nice place at the beach or the mountains where you can fight your demons in your own way. Right?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{But I don't know anyone.   I don't have any money.}
+<DIAL>__{But I don't know anyone. I don't have any money.}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{You know me.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1320,7 +1320,7 @@
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{--and now with poor Lana we got a little mystery. Hell, you're not an article, you're a goddamned mini- series!}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I...   I don't know...}
+<DIAL>__{I... I don't know...}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, let me be honest. This is a great story, and it means a second chance for me, so, okay, there's some self interest here. But I really think you need to tell people about Unity House... about the way decent ideas and dreams got twisted into something sick and poisonous. You owe it to the world. You owe it to yourself. It's your life, and you have to ask yourself how you want to live it...}
 <DIAL_PAR>__{(sharper)}
@@ -1336,22 +1336,22 @@
 <DIAL>__{I think I know a way to make a phone call. We'll have you out of here tonight.}
 <ACTION>__{Miriam suddenly stops, almost paralyzed with anxiety.}
 <CHAR>__{MIRIAM } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Cynthia.    This is the right thing to do.}
+<DIAL>__{Cynthia. This is the right thing to do.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Of course it is.}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
-<DIAL>__{Uh oh.     Mum's the word.}
-<ACTION>__{Alan is coming down the hallway towards them.   They move towards the elevator.}
+<DIAL>__{Uh oh. Mum's the word.}
+<ACTION>__{Alan is coming down the hallway towards them. They move towards the elevator.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(nodding)}
 <DIAL>__{Ladies. Good to see you socializing, Cynthia.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <DIAL_PAR>__{(to Miriam)}
-<DIAL>__{See you later. And...     thanks.}
+<DIAL>__{See you later. And... thanks.}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Thank you.}
-<ACTION>__{Miriam then gets into the elevator.         The doors remain open, Alan turns to Cynthia.}
+<ACTION>__{Miriam then gets into the elevator. The doors remain open, Alan turns to Cynthia.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{How are you feeling?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1361,15 +1361,15 @@
 <ACTION>__{He heads off in the opposite direction. Cynthia watches him. She turns back towards Miriam. Miriam is alone in the elevator except for one other person. Miriam smiles and waves. Cynthia smiles and waves. From behind Miriam, Harris, all burned and puffy, smiles and waves. The elevator doors close.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{No!}
-<ACTION>__{Alan whirls around.       Cynthia rushes to the elevator.}
+<ACTION>__{Alan whirls around. Cynthia rushes to the elevator.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Miriam!    Stop!}
-<ACTION>__{She bangs on the buttons. She pounds on the doors.          Everyone in the corridor turns to look.}
+<DIAL>__{Miriam! Stop!}
+<ACTION>__{She bangs on the buttons. She pounds on the doors. Everyone in the corridor turns to look.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia?}
-<ACTION>__{He starts to approach.   She runs to a stairwell.}
+<ACTION>__{He starts to approach. She runs to a stairwell.}
 <LOC>__{INT. STAIRWELL}
-<ACTION>__{Cynthia sprints down a flight.    She goes out onto}
+<ACTION>__{Cynthia sprints down a flight. She goes out onto}
 <LOC>__{INT. HALLWAY, ONE FLIGHT DOWN}
 <ACTION>__{Cynthia runs to the elevator and pounds on the button, but the elevator car has already passed.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1377,12 +1377,12 @@
 <DIAL>__{Miriam, get out!}
 <ACTION>__{She races back to}
 <LOC>__{INT. STAIRWELL}
-<ACTION>__{She flies down the steps.    We can hear ALAN tailing her.}
+<ACTION>__{She flies down the steps. We can hear ALAN tailing her.}
 <CHAR>__{ALAN'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cynthia!}
-<ACTION>__{She swings around a turn into a flight and trips.     Suddenly she's ROLLING DOWN A}
+<ACTION>__{She swings around a turn into a flight and trips. Suddenly she's ROLLING DOWN A}
 <LOC>__{EXT. HILLSIDE - NIGHT}
-<ACTION>__{She SLAMS into a tree.   We see the Unity House in the distance.}
+<ACTION>__{She SLAMS into a tree. We see the Unity House in the distance.}
 <CHAR>__{VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cynthia!}
 <CHAR>__{ANOTHER VOICE} <CHAR_PAR>__{}
@@ -1408,19 +1408,19 @@
 <DIAL>__{Cynthia, take my hand.}
 <ACTION>__{The Orderly rushes to her, but she wavers dizzily and FALLS down the half-flight. She's dazed, but she becomes alert when she sees the orderly approaching. She picks herself up and runs.}
 <LOC>__{INT. TENTH FLOOR CORRIDOR}
-<ACTION>__{She gets to the elevator. The door is just closing, but it opens again against a purse--Miriam's purse. The elevator is empty. Cynthia whips around looking for her. Orderlies and nurses are moving towards her. At the opposite and of the hallway, a window is broken. Cynthia runs to it. There is a WOMAN'S SCREAM from the street below. PEOPLE YELLING. Cynthia looks out and down. We know what she sees.    She covers her face. An orderly takes hold of her. She is docile now, almost weak. Alan runs up. He looks out the window. So does a Nurse.}
+<ACTION>__{She gets to the elevator. The door is just closing, but it opens again against a purse--Miriam's purse. The elevator is empty. Cynthia whips around looking for her. Orderlies and nurses are moving towards her. At the opposite and of the hallway, a window is broken. Cynthia runs to it. There is a WOMAN'S SCREAM from the street below. PEOPLE YELLING. Cynthia looks out and down. We know what she sees. She covers her face. An orderly takes hold of her. She is docile now, almost weak. Alan runs up. He looks out the window. So does a Nurse.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Jesus.}
-<ACTION>__{The nurse crosses herself.    Cynthia is escorted away amid the confusion.}
+<ACTION>__{The nurse crosses herself. Cynthia is escorted away amid the confusion.}
 <LOC>__{EXT. SKY - DAY}
-<ACTION>__{The CAMERA IS MOVING FORWARD, TOWARDS the window. It seemingly goes OUT THROUGH THE WINDOW. The FRAME is filled with bright blue sky. Silence, except for a slight BREEZE. Someone is falling through the sky.       It is MIRIAM. We see her CLOSER, flowing down, the wind rushing up round her. She is happy.}
+<ACTION>__{The CAMERA IS MOVING FORWARD, TOWARDS the window. It seemingly goes OUT THROUGH THE WINDOW. The FRAME is filled with bright blue sky. Silence, except for a slight BREEZE. Someone is falling through the sky. It is MIRIAM. We see her CLOSER, flowing down, the wind rushing up round her. She is happy.}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, it's really quite beautiful.}
 <ACTION>__{The ground comes rushing up and we SLAM into it.}
 <ACTION_ALT>__{BLACK.}
 <TRANS>__{FADE IN:}
 <LOC>__{INT. THERAPY ROOM - NIGHT}
-<ACTION>__{It's not a session.    It's a wake.   Cynthia sits, face half in shadow.}
+<ACTION>__{It's not a session. It's a wake. Cynthia sits, face half in shadow.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{They want us all now. They want us with them. Whether we like it or not, we're going,}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -1451,7 +1451,7 @@
 <CHAR>__{FIRST REPORTER} <CHAR_PAR>__{}
 <DIAL>__{Speaking of the police, doctor, isn't it true that they suspect that the recent deaths may not have been suicides at all?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
-<DIAL>__{That's completely absurd.   Where do you get this nonsense?}
+<DIAL>__{That's completely absurd. Where do you get this nonsense?}
 <CHAR>__{FIRST REPORTER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(a smug smile)}
 <DIAL>__{From Lieutenant Wasserman. He confirmed to me that he's assigning some of his officers to the hospital grounds until further notice.}
@@ -1460,19 +1460,19 @@
 <DIAL_PAR>__{(rapid fire)}
 <DIAL>__{Doctor Berrisford, are you cooperating with the police? Dr. Berrisford, do your patients have a history of violence?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
-<DIAL>__{Ah... I have work to do.    No further questions.}
+<DIAL>__{Ah... I have work to do. No further questions.}
 <ACTION>__{And--flustered for once--he leaves the room.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
-<ACTION>__{It is raining.   Cynthia sits in bed, in the dark. We see the CHARRED AND BURNED HARRIS sitting across the room in a shadow. Cynthia looks over at him.}
+<ACTION>__{It is raining. Cynthia sits in bed, in the dark. We see the CHARRED AND BURNED HARRIS sitting across the room in a shadow. Cynthia looks over at him.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{You're in pain, Cynthia.}
-<ACTION>__{He reaches up to his face, and peels off some skin.    It CRACKLES and oozes. He peels off more.}
+<ACTION>__{He reaches up to his face, and peels off some skin. It CRACKLES and oozes. He peels off more.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Your pain is my pain. We share it all, because we have our love.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Our love will never die. Don't make me take another of your friends. Keep your promise, lovechild. Join me.}
-<ACTION>__{She stands, fumbles for the switch, knocks over a glass, and turns on the light. He is gone. As she stands there in shock, a HAND touches her shoulder, spins her around. She GASPS-- It's Alan, who's just opened the door.        He looks at her, worried.}
+<ACTION>__{She stands, fumbles for the switch, knocks over a glass, and turns on the light. He is gone. As she stands there in shock, a HAND touches her shoulder, spins her around. She GASPS-- It's Alan, who's just opened the door. He looks at her, worried.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{I didn't want you to be alone.}
 <ACTION>__{She sways, dizzy, sags in his arms.}
@@ -1490,12 +1490,12 @@
 <DIAL_PAR>__{(coming up for air)}
 <DIAL>__{Why didn't you tell me before that you were a Prince of Ancient Atlantis?}
 <CHAR>__{ED} <CHAR_PAR>__{}
-<DIAL>__{It slipped my mind ...    your Highness.}
-<ACTION>__{She kisses him passionately again.    He breaks the clinch, pulls her towards the door.}
+<DIAL>__{It slipped my mind ... your Highness.}
+<ACTION>__{She kisses him passionately again. He breaks the clinch, pulls her towards the door.}
 <CHAR>__{ED } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{They'll have bed check soon.   I know a better place.}
+<DIAL>__{They'll have bed check soon. I know a better place.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
-<ACTION>__{Alan site on the counter across from Cynthia's bed.    He plays with the hinged mirror on the wall.}
+<ACTION>__{Alan site on the counter across from Cynthia's bed. He plays with the hinged mirror on the wall.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{I don't know if you want to hear this or not, and frankly, I don't care.}
 <ACTION>__{As he toys with the mirror, we see a CANTED REFLECTION of first Cynthia and then the hallway. A nurse passes by.}
@@ -1508,14 +1508,14 @@
 <ACTION>__{Connie and Ed walk by.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Thinking otherwise is putting you in a self-replicating spiral of depression. And that puts me in a bind... What do I do, write more prescriptions? You need to face reality, not get medicated out of it...}
-<ACTION>__{Cynthia GASPS.    HARRIS HAS APPEARED IN THE MIRROR, following Ed and Connie.}
+<ACTION>__{Cynthia GASPS. HARRIS HAS APPEARED IN THE MIRROR, following Ed and Connie.}
 <ACTION_ALT>__{BACK TO SCENE}
-<ACTION>__{Cynthia jumps up, heads for the door.    Alan catches her by the wrist,}
+<ACTION>__{Cynthia jumps up, heads for the door. Alan catches her by the wrist,}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Damn it, Cynthia, you can't run away from this--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{It's Harris--he's going to do something to Connie--to Ed--!}
-<ACTION>__{Alan SLAPS her.    She pales... tries to hit him back.}
+<ACTION>__{Alan SLAPS her. She pales... tries to hit him back.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Good! Get mad--get angry--but not at me--at these fantasies--!}
 <ACTION>__{She stands on rocky feet, unsure...}
@@ -1528,15 +1528,15 @@
 <DIAL>__{Nectar from the grapes of Atlantis!}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{No fooling you.}
-<ACTION>__{He leads her back to a door that's labeled "DANGER: Authorized Personnel Only." The lock is busted open.     They go in.}
+<ACTION>__{He leads her back to a door that's labeled "DANGER: Authorized Personnel Only." The lock is busted open. They go in.}
 <LOC>__{INT. TURBINE ROOM - NIGHT}
 <ACTION>__{There are metal grating steps leading up to a platform that sits adjacent to a huge spinning turbine, its six-foot blades WHIRRING at top speed. Air ducts lead in and out of the space. Connie is uplifted, frightened, exhilarated. Their clothes and hair are blown around. They ascend the platform, and sit across from each other. They each take a swig. They kiss softly, spiritually.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{I'm so happy.}
 <LOC>__{INT. HALLWAY - NIGHT}
-<ACTION>__{The door to the utility room CLOSES.   It LOCKS.}
+<ACTION>__{The door to the utility room CLOSES. It LOCKS.}
 <LOC>__{INT. TURBINE ROOM - NIGHT}
-<ACTION>__{Connie and Ed stare into each other's eyes.   They are lost. The CAMERA MOVES IN AND OUT between and around them, exploring the depth of their absorption. The CAMERA MOVES TOWARDS the huge spinning turbine. Its SOUND builds to a tremendous ROAR. We see Connie and Ed through the door into the turbine room. The door is pulled closed by someone or something. The knob locks.}
+<ACTION>__{Connie and Ed stare into each other's eyes. They are lost. The CAMERA MOVES IN AND OUT between and around them, exploring the depth of their absorption. The CAMERA MOVES TOWARDS the huge spinning turbine. Its SOUND builds to a tremendous ROAR. We see Connie and Ed through the door into the turbine room. The door is pulled closed by someone or something. The knob locks.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
 <ACTION>__{Cynthia keeps looking at the door, worried.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -1577,18 +1577,18 @@
 <ACTION>__{as he reacts in shock, the spinning turbine begins to SPLATTER DROPS OF BLOOD on him.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HALLWAY - NIGHT}
-<ACTION>__{Cynthia comes towards us.       Alan, further down the hall, sees her.}
+<ACTION>__{Cynthia comes towards us. Alan, further down the hall, sees her.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia--!}
-<ACTION>__{Cynthia turns, reacts...       and then reacts to--}
+<ACTION>__{Cynthia turns, reacts... and then reacts to--}
 <CHAR>__{CONNIE'S VOICE} <CHAR_PAR>__{}
-<DIAL>__{Cynthia.   Cynthia.}
+<DIAL>__{Cynthia. Cynthia.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Connie?}
 <ACTION>__{She goes into another corridor. Alan hurries to catch up, but then has to help a nurse with a frightened OLDER WOMAN. ANOTHER CORRIDOR - WITH CYNTHIA}
 <CHAR>__{CONNIE'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cynthia.}
-<ACTION>__{Cynthia moves down the hall a bit.       She looks up at the coiling. ANGLE - THE AIR VENT}
+<ACTION>__{Cynthia moves down the hall a bit. She looks up at the coiling. ANGLE - THE AIR VENT}
 <CHAR>__{CONNIE'S VOICE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Cynthia, we're up here!}
 <ACTION>__{Down the hall further, another vent.}
@@ -1602,14 +1602,14 @@
 <ACTION>__{We see Harris now, behind the fan, in brief flashes of light, burnt then normal, gazing down at Cynthia. He reaches towards her.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Where are Connie and Ed?}
-<ACTION>__{His fingers ARE SLICED OFF BY THE FAN.       He takes no notice.}
+<ACTION>__{His fingers ARE SLICED OFF BY THE FAN. He takes no notice.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{They're with us now.}
 <ACTION>__{We hear SPLASHING. Cynthia looks over. Gallons of blood and solid matter pour out of the ceiling vents all down the hall.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Where are they?}
 <DIAL_PAR>__{(she is frantic)}
-<DIAL>__{Where are Connie and Ed?   Where are they?}
+<DIAL>__{Where are Connie and Ed? Where are they?}
 <ACTION>__{Alan wonders at the pouring red, then he hears Cynthia screaming. He runs down the hall to stop her. The patients and nurses watch the blood pour in horror. Cynthia is getting more and more hysterical.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Where are Connie and Ed?}
@@ -1621,7 +1621,7 @@
 <ACTION>__{It's Edgar, covered with blood, in a total state of shock.}
 <CHAR>__{EDGAR} <CHAR_PAR>__{}
 <DIAL>__{--horrible--sweet Jesus--help me--}
-<ACTION>__{Alan struggles to restrain him.   Nurses run to help.}
+<ACTION>__{Alan struggles to restrain him. Nurses run to help.}
 <ACTION_ALT>__{CYNTHIA}
 <ACTION>__{Huddles on the floor in a position not unlike the one from her coma. She SOBS uncontrollably.}
 <TRANS>__{CUT TO:}
@@ -1630,8 +1630,8 @@
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{What the fuck is going on?}
 <CHAR>__{GILDA} <CHAR_PAR>__{}
-<DIAL>__{It's Ed and Connie.    They're dead, aren't they?}
-<ACTION>__{Alan looks at her.       How did the grapevine got it to her so fast?}
+<DIAL>__{It's Ed and Connie. They're dead, aren't they?}
+<ACTION>__{Alan looks at her. How did the grapevine got it to her so fast?}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Yes. We're not sure what happened... There was evidence that they were drinking... They fell into... the main turbine.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
@@ -1639,12 +1639,12 @@
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Ralph, as for your own safety, you are being given the most amount of protection possible.}
 <CHAR>__{GILDA} <CHAR_PAR>__{}
-<DIAL>__{The police are powerless.    Ask Cynthia. She knows.}
+<DIAL>__{The police are powerless. Ask Cynthia. She knows.}
 <DIAL_PAR>__{(softly)}
 <DIAL>__{Harris wants us all.}
 <ACTION>__{Ralph looks at Gilda with almost as much dismay as Alan.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
-<DIAL>__{Jesus Fucking Christ!    I'm getting the hell out of here.}
+<DIAL>__{Jesus Fucking Christ! I'm getting the hell out of here.}
 <ACTION>__{Ralph storms out.}
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{As Ralph moves along, a paunchy POLICEMAN intercepts him.}
@@ -1657,7 +1657,7 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{BERRISFORD'S SILENT IMAGE ON A VIDEO SCREEN}
 <LOC>__{INT. CYNTHIA'S HOSPITAL ROOM - NIGHT}
-<ACTION>__{The newscast continues silently on the TV in her room.    She is getting dressed. She peaks out the door.}
+<ACTION>__{The newscast continues silently on the TV in her room. She is getting dressed. She peaks out the door.}
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{The Policeman assigned to her is down the hall a ways, chatting with a nurse. Cynthia slips out and down the corridor. She waits for an elevator. When a door opens, she tries to inconspicuously slip inside but she finds herself face to face with Alan who in just getting out of the elevator. He holds a grocery bag.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -1675,7 +1675,7 @@
 <DIAL>__{Try harder next time.}
 <ACTION>__{He goes into her room, leaving the embarrassed cop behind. Suddenly the LIGHTS RETURN with an eye-jarring FLASH. The cop has his revolver halfway out of the holster before he realizes what it is.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
-<ACTION>__{They both react   to the returned power with relief. Alan takes the stuff   out of the bag: chips, dips, cookies, six- packs of beer.    He offers some of the chips. She shakes her head. The TV's    still on. Alan switches channels with the sound muted.}
+<ACTION>__{They both react to the returned power with relief. Alan takes the stuff out of the bag: chips, dips, cookies, six- packs of beer. He offers some of the chips. She shakes her head. The TV's still on. Alan switches channels with the sound muted.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(with frightening casualness)}
 <DIAL>__{Connie and Ed aren't going to be the last.}
@@ -1684,10 +1684,10 @@
 <TRANS>__{CUT TO:}
 <ACTION>__{CLOSE UP - A KNIFE pointing upwards. An outstretched hand SLAMS itself down, the blade impaling through the palm. The hand squirms its fingers a bit, then pulls off.}
 <LOC>__{INT. RALPH'S ROOM - NIGHT}
-<ACTION>__{He gets up clenching the perforated hand. He is very calm. He closes the knife and puts it in a drawer. Suddenly, violently, he kicks a trash bin.      Then he is calm again. Ralph's assigned Policeman pokes his head in the door.}
+<ACTION>__{He gets up clenching the perforated hand. He is very calm. He closes the knife and puts it in a drawer. Suddenly, violently, he kicks a trash bin. Then he is calm again. Ralph's assigned Policeman pokes his head in the door.}
 <CHAR>__{RALPH'S POLICEMAN} <CHAR_PAR>__{}
 <DIAL>__{Everything okay?}
-<ACTION>__{Ralph sticks his hand behind him.       He is very friendly, very normal. He smiles.}
+<ACTION>__{Ralph sticks his hand behind him. He is very friendly, very normal. He smiles.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Yes, thank you, officer. Hey, lemme buy you a cup of coffee.}
 <CHAR>__{RALPH'S POLICEMAN} <CHAR_PAR>__{}
@@ -1715,7 +1715,7 @@
 <DIAL>__{Don't worry. Everything's gonna be okay.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Ralph?}
-<ACTION>__{Cynthia is mystified.    He goes.}
+<ACTION>__{Cynthia is mystified. He goes.}
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{Ralph walks off, his Policeman following.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1724,7 +1724,7 @@
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
 <ACTION>__{She comes in and pokes Alan awake.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Ralph was just here.   His hand was... all bloody.}
+<DIAL>__{Ralph was just here. His hand was... all bloody.}
 <ACTION>__{They go to the door and they are immediately faced with Hettie.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{Dr. Goldman, have you seen Ralph?}
@@ -1736,19 +1736,19 @@
 <ACTION>__{Alan takes the capsule, examines it.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Shit! It's his tranquilizer! If he doesn't take this, he'll completely flip out--!}
-<ACTION>__{Alan and Cynthia run down the hall.     Cynthia's policeman follows.}
+<ACTION>__{Alan and Cynthia run down the hall. Cynthia's policeman follows.}
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{Alan and Cynthia and the policeman scan for Ralph.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Look.}
 <ACTION>__{ANGLE - ON THE FLOOR Every five or six feet along in a line, there is a moderately- sized droplet splatter of blood. They follow the droplets along the hallway. They follow the droplets through a set of double doors.}
 <LOC>__{INT. DARK, QUIET HALLWAY - NIGHT}
-<ACTION>__{Ralph walks along, his policeman trailing.        No one else is around.}
+<ACTION>__{Ralph walks along, his policeman trailing. No one else is around.}
 <CHAR>__{RALPH'S POLICEMAN} <CHAR_PAR>__{}
 <DIAL>__{Are you sure you know where you're going?}
 <ACTION>__{Ralph stops suddenly and turns to him. Ralph smiles warmly. Suddenly he hits the cop in the head using two fists. The cop falls.}
 <LOC>__{INT. HALLWAY IN CLOSED SECTION OR HOSPITAL}
-<ACTION>__{Alan and Cynthia's policeman move down the hall, following the drops, scanning in doorways. Cynthia is just behind them. These hallways are unused.       Nobody around.}
+<ACTION>__{Alan and Cynthia's policeman move down the hall, following the drops, scanning in doorways. Cynthia is just behind them. These hallways are unused. Nobody around.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Was he behaving strangely?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1756,7 +1756,7 @@
 <CHAR>__{CYNTHIA'S POLICEMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(with walkie-talkie)}
 <DIAL>__{I can't get him. He must be shut off.}
-<ACTION>__{They pass an open freight elevator.       Cynthia looks in it and stops. There is a droplet of blood on the floor inside.}
+<ACTION>__{They pass an open freight elevator. Cynthia looks in it and stops. There is a droplet of blood on the floor inside.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Hey.}
 <ACTION>__{A BLOODY HAND reaches out of the elevator covering her mouth and pulls her inside.}
@@ -1767,7 +1767,7 @@
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia!}
 <LOC>__{INT. FREIGHT ELEVATOR - NIGHT}
-<ACTION>__{They descend.       She wipes blood from her face.   He looks wired.}
+<ACTION>__{They descend. She wipes blood from her face. He looks wired.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Ralph, we have to go and get your medication.}
 <ACTION>__{She slowly moves to the control panel. He watches her. Just as she is about to reach the buttons, he violently pushes her back.}
@@ -1777,7 +1777,7 @@
 <LOC>__{INT. BASEMENT - NIGHT}
 <ACTION>__{The elevator comes down to a stop. Ralph throws the door open. It is a huge dark space, a vast store room. Cynthia won't come out. Ralph gestures politely.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Ralph, I'm not going out.    We have to go back upstairs.}
+<DIAL>__{Ralph, I'm not going out. We have to go back upstairs.}
 <ACTION>__{Ralph grabs her firmly and pulls her out.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Ralph, please!}
@@ -1789,8 +1789,8 @@
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Ralph, you're not being yourself. Can't you tell?}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
-<DIAL>__{No!   This is the real me!}
-<ACTION>__{He flies across the basement and, grabbing a chair, smashes the control box for the electric cargo door, the only other entrance. He darts up a storage aisle.      He rips a phone off the wall.}
+<DIAL>__{No! This is the real me!}
+<ACTION>__{He flies across the basement and, grabbing a chair, smashes the control box for the electric cargo door, the only other entrance. He darts up a storage aisle. He rips a phone off the wall.}
 <CHAR>__{RALPH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I come down here a lot. It helps me unwind.}
 <ACTION>__{Cynthia can't see him. He wildly paces up and down the storage aisles. Cynthia starts to cry.}
@@ -1812,7 +1812,7 @@
 <DIAL>__{Ralph, please, they said you have to take some pills.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Pills have got nothing to do with it! You know what I'm talking about!}
-<ACTION>__{He jumps, smashes the last bulb.   She can't see him.}
+<ACTION>__{He jumps, smashes the last bulb. She can't see him.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{No, I don't. I don't.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
@@ -1827,33 +1827,33 @@
 <DIAL>__{Oh God, Ralph! No!}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL>__{Yes, oh, yes! Eternal bliss!}
-<ACTION>__{He stops and raises the scalpels to his chest.   He jabs them in and cuts open down to his stomach.}
+<ACTION>__{He stops and raises the scalpels to his chest. He jabs them in and cuts open down to his stomach.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Ralph, please, stop!}
 <ACTION>__{He swats at the one remaining lamp. It flickers on and off. Ralph's eyes flutter. He FALLS. Cynthia rushes to him.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Ralph!}
-<ACTION>__{He throws a scalpel at her.   It misses, but she is spattered with blood.}
+<ACTION>__{He throws a scalpel at her. It misses, but she is spattered with blood.}
 <CHAR>__{RALPH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(fading)}
 <DIAL>__{Get back.}
 <ACTION>__{Cynthia is crouched down, crying as she watches him.}
 <CHAR>__{RALPH } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Join us, Cynthia.}
-<ACTION>__{The light flickers off, then on.   A hand is on Cynthia's shoulder. She looks up... it is Harris.}
+<ACTION>__{The light flickers off, then on. A hand is on Cynthia's shoulder. She looks up... it is Harris.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{Join us.}
-<ACTION>__{The bulb DIES.   Blackness.}
+<ACTION>__{The bulb DIES. Blackness.}
 <CHAR>__{VOICES} <CHAR_PAR>__{}
 <DIAL>__{Join us.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CORRIDOR - NIGHT}
 <ACTION>__{Wasserman rushes in, raincoat over a pajama shirt and chino slacks. Another POLICEMAN rushes to meet him.}
 <CHAR>__{POLICEMAN} <CHAR_PAR>__{}
-<DIAL>__{They're in the basement.   The girl's alive.}
+<DIAL>__{They're in the basement. The girl's alive.}
 <ACTION>__{They run on together.}
 <LOC>__{INT. BASEMENT - NIGHT}
-<ACTION>__{Lots of COPS, a few DOCTORS and ORDERLIES.    Alan is stopped by a FEMALE COP. He looks into the basement area and sees Ralph in a pool of blood. A POLICE PHOTOGRAPHER is taking pictures of him. Alan stares at Ralph. Berrisford is with Cynthia and a nurse.    Cynthia is getting an injection. Wasserman comes over to Alan and Berrisford.}
+<ACTION>__{Lots of COPS, a few DOCTORS and ORDERLIES. Alan is stopped by a FEMALE COP. He looks into the basement area and sees Ralph in a pool of blood. A POLICE PHOTOGRAPHER is taking pictures of him. Alan stares at Ralph. Berrisford is with Cynthia and a nurse. Cynthia is getting an injection. Wasserman comes over to Alan and Berrisford.}
 <CHAR>__{WASSERMAN} <CHAR_PAR>__{}
 <DIAL>__{You're running out of patients, Doctors.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -1866,7 +1866,7 @@
 <DIAL>__{Goodbye, Alan. Thanks for trying. But it's time for me to go now.}
 <ACTION>__{Alan suddenly realizes what she means.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{I have to go with her.    Where is she being taken?}
+<DIAL>__{I have to go with her. Where is she being taken?}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Isolation.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
@@ -1927,7 +1927,7 @@
 <LOC>__{INT. CYNTHIA'S ROOM}
 <ACTION>__{The only illumination comes from a small lamp near Cynthia's bed. She seems comparatively alert.}
 <CHAR>__{HARRIS' VOICE} <CHAR_PAR>__{}
-<DIAL>__{You were always the favorite.    We love you. Come with us.}
+<DIAL>__{You were always the favorite. We love you. Come with us.}
 <CHAR>__{FEMALE UNITY MEMBER} <CHAR_PAR>__{}
 <DIAL>__{All of us together, that's all we've ever wanted, isn't it?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -1950,24 +1950,24 @@
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Why don't you kill me?}
 <LOC>__{INT. NURSE'S STATION - NIGHT}
-<ACTION>__{A NURSE notices Cynthia's movement on the screen.       She turns the volume up.}
+<ACTION>__{A NURSE notices Cynthia's movement on the screen. She turns the volume up.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(ON TV)}
 <DIAL>__{Why don't you just kill me?!}
-<ACTION>__{The nurse gets up. Gilda is standing there.        She follows. Gilda's policeman lurks nearby.}
+<ACTION>__{The nurse gets up. Gilda is standing there. She follows. Gilda's policeman lurks nearby.}
 <CHAR>__{GILDA'S POLICEMAN} <CHAR_PAR>__{}
 <DIAL>__{Hey.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{You have to join us because you love us. You have to do it for yourself.}
-<ACTION>__{We hear the Nurse UNLOCKING the door. A MALE UNITY MEMBER looks over at the door.       We seem him momentarily burned.}
+<ACTION>__{We hear the Nurse UNLOCKING the door. A MALE UNITY MEMBER looks over at the door. We seem him momentarily burned.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{You have to do it for yourself--}
 <DIAL_PAR>__{(smiling)}
 <DIAL>__{--lovechild.}
-<ACTION>__{We see Harris momentarily burned.       He blows his finger out.}
+<ACTION>__{We see Harris momentarily burned. He blows his finger out.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{But I'm so scared.}
-<ACTION>__{The Nurse opens the door.    The room is empty except for Cynthia on her bed.}
+<ACTION>__{The Nurse opens the door. The room is empty except for Cynthia on her bed.}
 <CHAR>__{NURSE} <CHAR_PAR>__{}
 <DIAL>__{You want me to call the doctor, honey?}
 <ACTION>__{Cynthia says nothing.}
@@ -1986,16 +1986,16 @@
 <CHAR>__{GILDA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(as she goes)}
 <DIAL>__{Know yourself and you will be at peace! It is so!}
-<ACTION>__{The Nurse SLAMS the door closed.    Cynthia is alone.}
+<ACTION>__{The Nurse SLAMS the door closed. Cynthia is alone.}
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{Gilda's policeman is on the phone.}
 <CHAR>__{POLICEMAN} <CHAR_PAR>__{}
 <DIAL>__{Yeah, I'm taking her back to her room... Okay, bye.}
-<ACTION>__{He hangs up, looks around.    Gilda is gone.}
+<ACTION>__{He hangs up, looks around. Gilda is gone.}
 <LOC>__{INT. HALLWAY - ELSEWHERE - NIGHT}
 <ACTION>__{We are FOLLOWING GILDA through the corridors back to her room.}
 <LOC>__{INT. HALLWAY - NIGHT}
-<ACTION>__{Gilda's policeman is still looking for her.      She's nowhere in sight.}
+<ACTION>__{Gilda's policeman is still looking for her. She's nowhere in sight.}
 <LOC>__{INT. GILDA'S ROOM - NIGHT}
 <ACTION>__{Gilda comes in and lies down. Momentary silence. A shaft of light hits Gilda as someone comes in the door. Whoever it is nears Gilda. She is calm. She looks over.}
 <CHAR>__{GILDA} <CHAR_PAR>__{}
@@ -2003,33 +2003,33 @@
 <ACTION>__{Silence.}
 <CHAR>__{GILDA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{But you're too late.}
-<ACTION>__{She holds up a bottle of tablets.       We fleetingly see the word "poisonous." The bottle SMASHES to the floor.}
+<ACTION>__{She holds up a bottle of tablets. We fleetingly see the word "poisonous." The bottle SMASHES to the floor.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
 <ACTION_ALT>__{TIGHT ON HER}
-<ACTION>__{She looks like she's been crying.       She stares off into space. Someone crosses in the shadows to the window. The rubber edging is slit with a scalpel.}
+<ACTION>__{She looks like she's been crying. She stares off into space. Someone crosses in the shadows to the window. The rubber edging is slit with a scalpel.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{It feels good. I know this is right.}
 <CHAR>__{HARRIS' VOICE} <CHAR_PAR>__{}
 <DIAL>__{That's right. You need our love. We need your love.}
-<ACTION>__{A shadowed hand pushes on the plexiglass.       The windowpane plops onto the pavement below. A breeze wafts in. Cynthia gets out of bed and comes to the window. She looks out onto the evening horizon, refreshed, fully experiencing the moment.}
+<ACTION>__{A shadowed hand pushes on the plexiglass. The windowpane plops onto the pavement below. A breeze wafts in. Cynthia gets out of bed and comes to the window. She looks out onto the evening horizon, refreshed, fully experiencing the moment.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I know this is right.   We'll all be together.}
+<DIAL>__{I know this is right. We'll all be together.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. HOSPITAL - NIGHT}
 <ACTION>__{Alan comes out, still fuming. He walks along a ways and then looks at the illuminated SIGN pointing out the way to the "Berrisford Clinic." Alan stares at it, then in a sudden release of fury, KICKS it, once, twice, and then he THROWS his carton at it. Calming, feeling like an idiot, he sighs.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Brilliant. Do we feel better now? No. Yes. Maybe.}
-<ACTION>__{A thought strikes him.    He reaches into his shirt pocket, takes out-- TRANQUILIZER - CL0SE --the one Hettie handed to Alan two long and bloody hours ago.}
+<ACTION>__{A thought strikes him. He reaches into his shirt pocket, takes out-- TRANQUILIZER - CL0SE --the one Hettie handed to Alan two long and bloody hours ago.}
 <ACTION_ALT>__{BACK TO SCENE}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL_PAR>__{(with a shrug)}
 <DIAL>__{It's okay, officer. I'll write myself a prescription in the morning.}
 <ACTION>__{He swallows it, dry, with a loud GULP, Then he picks up his papers and things, heads for the parking lot. ALAN'S CAR - NIGHT PULLBACK as Alan unlocks it, his carton momentarily balanced on the car roof. The door open, Alan gets in, puts his box in the cluttered back seat. He SHIVERS from one of those unexpected chills we all get, then puts the key in the ignition, STARTS the engine, turns on the LIGHTS. Then he looks up ahead and sees-- DR. BERRISFORD - HIS POV Briefcase in hand, crossing the parking lot up ahead, his long shadow falling across a high retaining wall.}
 <ACTION_ALT>__{BACK TO SCENE}
-<ACTION>__{Alan sits, face unreadable.   He REVS the engine.   Faster. Faster. A strange smile crosses Alan's face.   He THROWS THE CAR INTO}
+<ACTION>__{Alan sits, face unreadable. He REVS the engine. Faster. Faster. A strange smile crosses Alan's face. He THROWS THE CAR INTO}
 <ACTION_ALT>__{GEAR.}
-<ACTION>__{BERRISFORD - CROSSING THE LOT He taken out his keys, approaches his car...   suddenly REACTS as HEADLIGHTS BLIND HIM--}
+<ACTION>__{BERRISFORD - CROSSING THE LOT He taken out his keys, approaches his car... suddenly REACTS as HEADLIGHTS BLIND HIM--}
 <ACTION_ALT>__{REVERSE ANGLE}
 <ACTION>__{Alan ROARS TOWARDS HIM, grinning behind the wheel--}
 <ACTION_ALT>__{BACK TO SCENE}
@@ -2045,10 +2045,10 @@
 <ACTION_ALT>__{BERRISFORD}
 <ACTION>__{SLIDES off the car hood, hits the asphalt, his head CRACKING-- ALAN'S CAR RUNS FORWARD AGAIN-- BERRISFORD - QUICK CUTS As the car GRINDS him into the ground, his wrist bones SNAPPING, ribs CRUNCHING, body TWITCHING. Finally he is STILL. An artery SQUIRTS fountain-like into the air.}
 <ACTION_ALT>__{INSIDE THE CAR}
-<ACTION>__{The blood hits the windshield.    Idly, distracted, Alan turns on the windshield wipers... Suddenly HARRIS sits up in the rear seat, a smile on the burned and scarred face.}
+<ACTION>__{The blood hits the windshield. Idly, distracted, Alan turns on the windshield wipers... Suddenly HARRIS sits up in the rear seat, a smile on the burned and scarred face.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{Good work, Dr. Goldman.   Now, it's your turn.}
-<ACTION>__{Skeletal hands GRAB Alan's throat.       He STRUGGLES.   KICKS--out of the corner of his eye he sees-}
+<DIAL>__{Good work, Dr. Goldman. Now, it's your turn.}
+<ACTION>__{Skeletal hands GRAB Alan's throat. He STRUGGLES. KICKS--out of the corner of his eye he sees-}
 <ACTION_ALT>__{FRONT OF CAR}
 <ACTION>__{Gasoline is flowing over the dented hood and through the cracked windshield and over the dash and over Alan. More and more comes.}
 <ACTION_ALT>__{BACK TO SCENE}
@@ -2064,7 +2064,7 @@
 <ACTION>__{of himself taking the pill by the clinic sign.}
 <ACTION_ALT>__{BACK TO THE PRESENT}
 <ACTION>__{fingers down his throat. He HEAVES his guts out beside his car... but when he straightens up, he's clear eyed and lucid. He turns, runs like hell towards the clinic.}
-<LOC>__{INT.   CLINIC PHARMACY - NIGHT}
+<LOC>__{INT. CLINIC PHARMACY - NIGHT}
 <ACTION>__{RON, the pharmacist, looks up as Alan storms inside.}
 <CHAR>__{RON} <CHAR_PAR>__{}
 <DIAL>__{Goldman, you look like shit--}
@@ -2090,11 +2090,11 @@
 <DIAL>__{Hey--!}
 <ACTION>__{Alan pulls out the tray, scans it. He grabs Ron by the collar, shoves the files into his face.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{Read it.   Pesco, Ralph--}
+<DIAL>__{Read it. Pesco, Ralph--}
 <CHAR>__{RON} <CHAR_PAR>__{}
 <DIAL>__{He's dead--}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{READ IT!   What's he down for?}
+<DIAL>__{READ IT! What's he down for?}
 <CHAR>__{RON} <CHAR_PAR>__{}
 <DIAL>__{Ah, Lithium--four times a day--}
 <ACTION>__{Alan grabs the tray, holds up a pill.}
@@ -2106,7 +2106,7 @@
 <DIAL>__{Tell me about it--}
 <ACTION>__{Alan looks at the tray and its compartments labeled for Lana, Miriam, Ed... all the others. Alan GRABS them all.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{What's this? And this?      And this?}
+<DIAL>__{What's this? And this? And this?}
 <CHAR>__{RON} <CHAR_PAR>__{}
 <DIAL>__{This is, uh, dextroamphetamine... Christ, take one of these and you can walk on the ceiling. Holy mother. Methylphenidate! Don't mass with that fucker. Clonodine! Chlorapromazine! Preludin? Shit, I didn't know they still made that... Two of these and Mother Teresa would turn into a maniac!}
 <ACTION>__{Alan in having convulsions of horror. FLASH CUTS - ON MIRIAM AND LANA - they swallow medication. ON BERRISFORD - he pulls bottles off the pharmacy shelves. ON CONNIE AND ED - they swallow medication. ON BERRISFORD - he hands the bottles of medication to the pharmacy administrator. ON NURSE WITH RALPH'S PRESCRIPTION - Alan grabs it away.}
@@ -2120,10 +2120,10 @@
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{Alan running faster.}
 <LOC>__{INT. NURSE'S STATION, ISOLATION WARD - NIGHT}
-<ACTION>__{Hettie is standing smiling in the middle of the hall.     Alan nears.}
+<ACTION>__{Hettie is standing smiling in the middle of the hall. Alan nears.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{You're not supposed to be here, Dr. Goldman, are you?}
-<ACTION>__{Alan turns.   Two SECURITY GUARDS are coming.}
+<ACTION>__{Alan turns. Two SECURITY GUARDS are coming.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Please, Hettie, I need your help.}
 <LOC>__{INT. CYNTHIA'S ROOM - NIGHT}
@@ -2133,13 +2133,13 @@
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{Alan rushes over to Cynthia's door and pounds furiously.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{Cynthia!     Cynthia!}
-<ACTION>__{The two security guards start     running over. One of them has his gun drawn. Alan wants to      run, but he sees there is no way out. He sticks his hands      in the air. The guards are upon him. They start leading      him away.}
+<DIAL>__{Cynthia! Cynthia!}
+<ACTION>__{The two security guards start running over. One of them has his gun drawn. Alan wants to run, but he sees there is no way out. He sticks his hands in the air. The guards are upon him. They start leading him away.}
 <CHAR>__{NURSE} <CHAR_PAR>__{}
 <DIAL>__{Sometimes doctors got personally involved. I think it's a mistake. You've got to keep professional.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
-<DIAL>__{Get some rest, Goldman.   You look like shit.}
-<ACTION>__{He looks back at Hettie.    He sees a fire alarm. Suddenly, he grabs one of the Guard's guns.       He dives against the wall and pulls the fire alarm. All of the Isolation Ward doors open.     BELLS and SIRENS go off. Red lights FLASH on and off.}
+<DIAL>__{Get some rest, Goldman. You look like shit.}
+<ACTION>__{He looks back at Hettie. He sees a fire alarm. Suddenly, he grabs one of the Guard's guns. He dives against the wall and pulls the fire alarm. All of the Isolation Ward doors open. BELLS and SIRENS go off. Red lights FLASH on and off.}
 <CHAR>__{HETTIE } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Oh, no!}
 <ACTION>__{Alan runs from the guards, shooting but missing. He runs up the hall in the opposite direction of Cynthia's room. He hides in a doorway. They pass. He heads back up to Cynthia's room. He grabs the cop's chair and runs into}
@@ -2151,24 +2151,24 @@
 <DIAL_PAR>__{(going to her)}
 <DIAL>__{No. Cynthia, please. I'm not going to be able to come back, but you have to listen! Berrisford's been tampering with the medication for everybody in the group--that's why they've been committing suicide--he's been making them crazy--}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{But Harris comes to me...   He speaks to me--}
+<DIAL>__{But Harris comes to me... He speaks to me--}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{A drug induced psychotic state is very suggestible. All we've hearing for days is "Harris, Harris,"... so that's what we all saw... That's what I saw when I took Ralph's pill! It's all part of Berrisford's plan--he has this fucked-up theory about how you still think you're part of the Unity House, and the only way he can prove it is if you want to kill yourself!}
 <ACTION>__{Behind Alan, the dark shape of Berrisford emerges from outside the window. It is climbing inside from the ledge.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Do you hear me?! He's going to want you to kill yourself! He's recreating the whole thing for you! But you can't listen to him!}
-<ACTION>__{Cynthia is getting hysterical.      Berrisford stands behind Alan with a scalpel.}
+<ACTION>__{Cynthia is getting hysterical. Berrisford stands behind Alan with a scalpel.}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Dr. Goldman.}
-<ACTION>__{Alan turns around. Berrisford bashes him in the head, neatly slicing off some skin. Alan flies against the wall. The gun is knocked away. Alan writhes a little, then dips into unconsciousness, Cynthia is a basket case.     She looks at Alan.}
+<ACTION>__{Alan turns around. Berrisford bashes him in the head, neatly slicing off some skin. Alan flies against the wall. The gun is knocked away. Alan writhes a little, then dips into unconsciousness, Cynthia is a basket case. She looks at Alan.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{No...   no... no...}
-<ACTION>__{Berrisford comes to her and starts giving her an injection. She calms herself.     She looks at him dreamily. CYNTHIA'S POV She sees Harris gazing at her lovingly.}
+<DIAL>__{No... no... no...}
+<ACTION>__{Berrisford comes to her and starts giving her an injection. She calms herself. She looks at him dreamily. CYNTHIA'S POV She sees Harris gazing at her lovingly.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{Only one thing matters.}
 <ACTION>__{She touches his face.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Our love.     We'll be together.   All of us.}
+<DIAL>__{Our love. We'll be together. All of us.}
 <ACTION>__{Berrisford taken Alan's gun.}
 <LOC>__{INT. CYNTHIA'S ROOM - A FEW MINUTES LATER}
 <ACTION>__{Alan comes to. The ALARMS and BELLS are still ringing. Cynthia and Berrisford are gone.}
@@ -2177,8 +2177,8 @@
 <LOC>__{INT. HALLWAY - NIGHT}
 <ACTION>__{The corridors are run amuck with isolation patients (the worst kind) all escaped from their rooms. Alan runs out of Cynthia's room. He is surrounded by bizarre-looking people screaming, singing, dancing, praying. Hettie is by the stairway helping Isolation patients exit.}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
-<DIAL>__{One at a time! No pushing!      Please do not use the elevator!}
-<ACTION>__{Alan is frantically looking for Cynthia and Berrisford, checking everywhere, pushing open doors. The security guards are at the far end of the hallway.    Alan goes to Hettie.}
+<DIAL>__{One at a time! No pushing! Please do not use the elevator!}
+<ACTION>__{Alan is frantically looking for Cynthia and Berrisford, checking everywhere, pushing open doors. The security guards are at the far end of the hallway. Alan goes to Hettie.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Where's Berrisford?}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
@@ -2188,13 +2188,13 @@
 <DIAL>__{Where is he? He's going to kill Cynthia! Tell me where he is!}
 <CHAR>__{HETTIE} <CHAR_PAR>__{}
 <DIAL>__{I haven't seen him!}
-<ACTION>__{The guards see Alan.      They come after him.   He runs. Alan scans every room. He slams into patients. The guards aren't far behind. Alan turns a corner, passing a door marked "NOT AN EXIT: ROOF ACCESS." It is ajar. He goes in without the guards seeing him.}
+<ACTION>__{The guards see Alan. They come after him. He runs. Alan scans every room. He slams into patients. The guards aren't far behind. Alan turns a corner, passing a door marked "NOT AN EXIT: ROOF ACCESS." It is ajar. He goes in without the guards seeing him.}
 <LOC>__{INT. STAIRWAY - NIGHT}
-<ACTION>__{It is dark, but the red lights FLASH. He runs up several flights. The landings face onto the outside with a railing, open, no glass. He turns a corner.      Cynthia is there. She in perched on the outside of the railing, a serene expression on her face, the wind blowing her frail white gown. Alan freezes.      He moves towards her slowly, hands outstretched.}
+<ACTION>__{It is dark, but the red lights FLASH. He runs up several flights. The landings face onto the outside with a railing, open, no glass. He turns a corner. Cynthia is there. She in perched on the outside of the railing, a serene expression on her face, the wind blowing her frail white gown. Alan freezes. He moves towards her slowly, hands outstretched.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(soothingly)}
 <DIAL>__{Cynthia, take my hand... Just relax... Think about what you're doing... Stay calm... I want you to take my hand...}
-<ACTION>__{She watches him blankly.      She turns to someone behind Alan.}
+<ACTION>__{She watches him blankly. She turns to someone behind Alan.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{It's so beautiful.}
 <ACTION>__{Alan turns. There on the stair above is Berrisford, his face dancing in the flashing red light.}
@@ -2211,14 +2211,14 @@
 <LOC>__{EXT. UNITY HOUSE - DAY}
 <ACTION>__{Cynthia rises and walks towards the house through a field in the foreground. She walks up the porch.}
 <LOC>__{INT. UNITY HOUSE ENTRANCE - DAY}
-<ACTION>__{She opens the door. Everything is clean and fresh.      Flowers. Light. Birds CHIRPING. Harris is at the far and of the hall. There is an intense white light behind him. He is smiling beatifically. Cynthia goes towards him. As she nears him, she reaches out her hands. He does too. They clasp.}
+<ACTION>__{She opens the door. Everything is clean and fresh. Flowers. Light. Birds CHIRPING. Harris is at the far and of the hall. There is an intense white light behind him. He is smiling beatifically. Cynthia goes towards him. As she nears him, she reaches out her hands. He does too. They clasp.}
 <CHAR>__{ALAN'S VOICE} <CHAR_PAR>__{}
 <DIAL>__{Cynthia!}
 <ACTION>__{Suddenly she FALLS. She drops and dangles in the night air against}
 <LOC>__{EXT. HOSPITAL BUILDING - NIGHT}
-<ACTION>__{She is unconscious.     She swings twelve stories above the pavement. The CAMERA FOLLOWS UP her arm to her hand grasped tightly by Alan's hand. We CONTINUE UP TO Alan.}
+<ACTION>__{She is unconscious. She swings twelve stories above the pavement. The CAMERA FOLLOWS UP her arm to her hand grasped tightly by Alan's hand. We CONTINUE UP TO Alan.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{Cynthia! Open your eyes!   Open your eyes!}
+<DIAL>__{Cynthia! Open your eyes! Open your eyes!}
 <ACTION>__{He is over the railing holding on with his other hand. Cynthia is coming to.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Pull up! Pull yourself up so I can got a grip on you!}
@@ -2227,19 +2227,19 @@
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{No!}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Let me go.     I saw it.   It's beautiful.}
+<DIAL>__{Let me go. I saw it. It's beautiful.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
-<DIAL>__{You didn't see shit!       Hold on!}
+<DIAL>__{You didn't see shit! Hold on!}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{Eternal bliss.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Yes!   I want to go!    Let me go!}
+<DIAL>__{Yes! I want to go! Let me go!}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(coming forward)}
 <DIAL>__{Let her go. She needs it.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{No! Cynthia, Harris doesn't exist! He's dead! Look at who that is! Look at him! Look!}
-<ACTION>__{Cynthia looks at Berrisford deliriously. He CHANGES from Berrisford to Harris with each FLASH.    He comes to the railing where Alan is holding on. Almost politely, he tries to undo Alan's grip.}
+<ACTION>__{Cynthia looks at Berrisford deliriously. He CHANGES from Berrisford to Harris with each FLASH. He comes to the railing where Alan is holding on. Almost politely, he tries to undo Alan's grip.}
 <CHAR>__{ALAN } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Goddamn you! Goddamn you!}
 <ACTION>__{Alan's grip on Cynthia slips down to her fingers.}
@@ -2271,16 +2271,16 @@
 <DIAL>__{Your life has a purpose... to bring joy and happiness! You're part of my life now. That's an unfinished story, too...}
 <ACTION>__{She looks at Berrisford viciously pounding on Alan's hand.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Let me up.     Stop it.}
+<DIAL>__{Let me up. Stop it.}
 <ACTION>__{She starts to climb up, but she can't.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Let me up!}
 <CHAR>__{BERRISFORD} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid it's too late for that.}
-<ACTION>__{Alan's grip on her slips down to two fingers. They CRACK. She yells from the pain. She swings in the breeze. Alan is weakening.   He is losing consciousness.   He knows he is about to die.}
+<ACTION>__{Alan's grip on her slips down to two fingers. They CRACK. She yells from the pain. She swings in the breeze. Alan is weakening. He is losing consciousness. He knows he is about to die.}
 <CHAR>__{GUARD} <CHAR_PAR>__{}
 <DIAL>__{Dr. Berrisford?}
-<ACTION>__{Suddenly Berrisford freezes. He is paralyzed at the sight of one of the guards coming up the stairs. Berrisford backs away glaring. Alan GROANS.   The guard rushes over.}
+<ACTION>__{Suddenly Berrisford freezes. He is paralyzed at the sight of one of the guards coming up the stairs. Berrisford backs away glaring. Alan GROANS. The guard rushes over.}
 <CHAR>__{GUARD } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Jesus}
 <DIAL_PAR>__{(Yelling down the stairs)}
@@ -2290,7 +2290,7 @@
 <ACTION>__{CLICK, CLICK, CLICK. Out of bullets. The others are too busy to be noticing what he in doing. Just as they pull Cynthia to the edge, she looks up to see: Berrisford coming to the railing, and jumping, calmly. Silently.}
 <CHAR>__{GUARD } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{Holy shit.}
-<ACTION>__{Cynthia numbly watches him fall.    Then she in pulled up and over...}
+<ACTION>__{Cynthia numbly watches him fall. Then she in pulled up and over...}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HALLWAY - OVERHEAD - NIGHT}
 <ACTION>__{Cynthia is plopped over onto a gurney. Lights are passing her. She is being whisked down a hallway. She is descending into a haze of unconsciousness.}
@@ -2303,14 +2303,14 @@
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{It's okay. It's over. It was Berrisford. He killed them.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{Then all those other things... Faces... voices? They were...      in my head?}
+<DIAL>__{Then all those other things... Faces... voices? They were... in my head?}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{It was Berrisford. He shot you up with hallucinogens. What he didn't do, you imagined.}
 <ACTION>__{There is joy through her delirium. She is just able to clasp hands with him briefly before she disappears behind a set of double doors.}
 <LOC>__{EXT. COUNTRY ROAD - DAY}
 <ACTION>__{A new station wagon whisks along the pretty road.}
 <LOC>__{INT. STATION WAGON - DAY}
-<ACTION>__{Alan drives, Cynthia looks at a map.       They both look relaxed. They both have bandaged hands.}
+<ACTION>__{Alan drives, Cynthia looks at a map. They both look relaxed. They both have bandaged hands.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Go right if that's the interstate. Yeah, it is.}
 <LOC>__{EXT. UNITY HOUSE - DAY}
@@ -2321,11 +2321,11 @@
 <DIAL>__{Victorian. Looks like it was a nice house once.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Yes. I guess appearances can be deceiving.}
-<ACTION>__{She moves out upstairs.       He follows her up onto the risky- looking steps.}
+<ACTION>__{She moves out upstairs. He follows her up onto the risky- looking steps.}
 <ACTION_ALT>__{ON THE LANDING}
 <ACTION>__{She reaches a point at the top that looks out over the meadow and pond. She looks out. Alan joins her. Cynthia takes in the view contentedly.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{It's dead.     It's really dead...}
+<DIAL>__{It's dead. It's really dead...}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{What?}
 <ACTION>__{She gestures to the house around them.}
@@ -2333,7 +2333,7 @@
 <DIAL>__{It's over.}
 <ACTION>__{Alan smiles. He pulls her close to him. They look into each other's eyes. Neither of them is completely at ease with the other, but there is honest affection. They hug, then kiss.}
 <LOC>__{EXT. UNITY HOUSE - DAY}
-<ACTION>__{It looks almost tranquil.       MUSIC UP.}
+<ACTION>__{It looks almost tranquil. MUSIC UP.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HOSPITAL CORRIDOR - DAY}
 <ACTION>__{Wasserman walks along, accompanied by a uniformed officer. They go into-}
@@ -2374,38 +2374,38 @@
 <CHAR>__{BERRISFORD } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{It beats the fuck out of me.}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT. UNITY HOUSE - DAY TRACKING IN INT.   UNITY HOUSE - DAY}
-<ACTION>__{Cynthia and Alan are still in each other's arms.        Cynthia pulls away.}
+<LOC>__{EXT. UNITY HOUSE - DAY TRACKING IN INT. UNITY HOUSE - DAY}
+<ACTION>__{Cynthia and Alan are still in each other's arms. Cynthia pulls away.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{What's the matter?}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{I was just thinking about Gilda. Somehow, she knew. She kept talking about "him," but I didn't know what she meant. She said the answer was inside me. Why would she say that?}
-<ACTION>__{Alan doesn't have an answer.     She sighs.}
+<ACTION>__{Alan doesn't have an answer. She sighs.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Let's go.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{You go down. I'll be out in a minute. I just want to... bury some memories.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{You sure?}
-<ACTION>__{She nods.   He goes. Cynthia gives a final look around at the deteriorated structure and turns down the stairs. She stands at the top of what remains of the stairs. We FOLLOW HER DOWN. Just as she nears the bottom, the TICKING of a clock is audible. It gets LOUDER. Cynthia reaches the last stop and turns into}
+<ACTION>__{She nods. He goes. Cynthia gives a final look around at the deteriorated structure and turns down the stairs. She stands at the top of what remains of the stairs. We FOLLOW HER DOWN. Just as she nears the bottom, the TICKING of a clock is audible. It gets LOUDER. Cynthia reaches the last stop and turns into}
 <LOC>__{INT. FOYER - NIGHT}
 <ACTION>__{We FOLLOW HER with a CONTINUOUS PAN. The foyer is new now, completely untouched by fire, just as it was at the beginning of the film. A candelabrum is lit. Cynthia turns and we PAN BACK TO THE STAIRCASE. It is new, unburnt. Two KIDS come scrambling down the stairs laughing. The entranceway, the archway to the front room, the staircase are all intact, just as we saw them in the opening scene. CYNTHIA peers into the kitchen. Two WOMEN in work aprons are kneading bread dough, chopping vegetables. They smile at Cynthia.}
 <CHAR>__{WOMAN 1} <CHAR_PAR>__{}
-<DIAL>__{Cynthia!   Are you staying for supper?}
-<ACTION>__{Cynthia is silent, wide-eyed, taking it all in.    She turns towards the front door. Victor is coming in.}
+<DIAL>__{Cynthia! Are you staying for supper?}
+<ACTION>__{Cynthia is silent, wide-eyed, taking it all in. She turns towards the front door. Victor is coming in.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
-<DIAL>__{Cynthia.   It's good.   Come in.}
+<DIAL>__{Cynthia. It's good. Come in.}
 <ACTION>__{She in unable to resist.}
 <LOC>__{INT. FRONT ROOM - NIGHT}
 <ACTION>__{They walk in. The room is filled with people. There is a fire in the hearth. Children play. Candles illuminate the space. Unity Members smile and great her casually as she passes them. Miriam in talking with a BEARDED MAN intently.}
 <CHAR>__{MIRIAM} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, I'm so glad you're here.}
-<ACTION>__{Ed and Connie are by the fireplace with some others.    They smile at Cynthia knowingly. Lana is sitting contentedly on the window seat reading with some children. Ralph is crouched with victor in a corner.    They are laughing warmly. Gilda comes up to her. She is ebullient, happier, healthier looking than we've ever seen her.}
+<ACTION>__{Ed and Connie are by the fireplace with some others. They smile at Cynthia knowingly. Lana is sitting contentedly on the window seat reading with some children. Ralph is crouched with victor in a corner. They are laughing warmly. Gilda comes up to her. She is ebullient, happier, healthier looking than we've ever seen her.}
 <CHAR>__{GILDA} <CHAR_PAR>__{}
 <DIAL>__{Cynthia, it's so wonderful here, but we miss you terribly.}
 <ACTION>__{Cynthia nears Harris. He smiles at her and kisses her. Everyone in the room turns to her. Harris holds up a shiny and sharp knife with ornamentation on the handle. Cynthia doesn't see it yet. He puts the pointed tip against her chest.}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{It's time, Cynthia.    It's finally time, isn't it?}
+<DIAL>__{It's time, Cynthia. It's finally time, isn't it?}
 <CHAR>__{EVERYONE} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
@@ -2417,7 +2417,7 @@
 <DIAL>__{Go on. Take the knife.}
 <ACTION>__{She can't escape his gaze.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{Do it.   You know you want to.}
+<DIAL>__{Do it. You know you want to.}
 <CHAR>__{GILDA} <CHAR_PAR>__{}
 <DIAL>__{You know you do, Cynthia.}
 <CHAR>__{VICTOR} <CHAR_PAR>__{}
@@ -2442,12 +2442,12 @@
 <DIAL>__{Yes...}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
 <DIAL>__{My own beautiful lovechild. Everyone has proven their love to me. Now you must.}
-<ACTION>__{She is weak now.    She is about to do it. Her grasp tightens around the knife handle.      She's trembling. She takes a deep breath.}
+<ACTION>__{She is weak now. She is about to do it. Her grasp tightens around the knife handle. She's trembling. She takes a deep breath.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{No!}
 <ACTION>__{She jams the knife into Harris' throat and pulls it out.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{No I don't! I don't love you!      I don't need you!}
+<DIAL>__{No I don't! I don't love you! I don't need you!}
 <ACTION>__{She is crazed. She flies around the room brandishing the knife at everyone. They back off.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I never loved any of you! I hate you! I hate you all! What you did was wrong!}
@@ -2458,11 +2458,11 @@
 <DIAL_PAR>__{(saddened)}
 <DIAL>__{Oh, Cynthia.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{I never needed you!    Any of you!}
+<DIAL>__{I never needed you! Any of you!}
 <ACTION>__{We are TIGHT ON CYNTHIA. She is winding down, crying with her face buried in her arms.}
 <CHAR>__{CYNTHIA } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{I never did...}
-<ACTION>__{She is still.    Gradually, the silence fills with a quiet}
+<ACTION>__{She is still. Gradually, the silence fills with a quiet}
 <ACTION_ALT>__{BREEZE.}
 <CHAR>__{ALAN} <CHAR_PAR>__{}
 <DIAL>__{Cynthia?}
@@ -2472,15 +2472,15 @@
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
 <DIAL>__{Let's go.}
 <LOC>__{EXT. UNITY HOUSE - DAY}
-<ACTION>__{She stands on the porch, holding onto a post, trying to calm herself. Alan comes out. As he starts the car, a gust comes up. The trees are thrashed around. The WIND ECHOES through the house. MUSIC UP SOFTLY, EERILY. Cynthia descends the stairs.    The station wagon pulls up. She gets inside.}
+<ACTION>__{She stands on the porch, holding onto a post, trying to calm herself. Alan comes out. As he starts the car, a gust comes up. The trees are thrashed around. The WIND ECHOES through the house. MUSIC UP SOFTLY, EERILY. Cynthia descends the stairs. The station wagon pulls up. She gets inside.}
 <LOC>__{INT. STATION WAGON - DAY}
-<ACTION>__{They pull out. Slowly we see Cynthia collect herself.      A sense of hope is evident.}
+<ACTION>__{They pull out. Slowly we see Cynthia collect herself. A sense of hope is evident.}
 <CHAR>__{CYNTHIA} <CHAR_PAR>__{}
-<DIAL>__{It's going to be okay.   I'm going to be okay.}
+<DIAL>__{It's going to be okay. I'm going to be okay.}
 <LOC>__{EXT. ROAD - DAY}
-<ACTION>__{The car speeds off trailing dust. We see the UNITY HOUSE in the distance.     The winds kicks up again.}
+<ACTION>__{The car speeds off trailing dust. We see the UNITY HOUSE in the distance. The winds kicks up again.}
 <LOC>__{EXT. UNITY HOUSE - DAY}
-<ACTION>__{We are CLOSER. Branches and leaves are being tossed around by violent gusts as we MOVE TOWARD the structure. A teenage GIRL comes running up from the field behind.     She is crying. She runs into the house. We FOLLOW HER.}
+<ACTION>__{We are CLOSER. Branches and leaves are being tossed around by violent gusts as we MOVE TOWARD the structure. A teenage GIRL comes running up from the field behind. She is crying. She runs into the house. We FOLLOW HER.}
 <LOC>__{INT. UNITY HOUSE - DAY}
 <ACTION>__{She goes to a far corner and cries some more, angrily, hopelessly.}
 <CHAR>__{BOY} <CHAR_PAR>__{}
@@ -2489,12 +2489,12 @@
 <ACTION>__{The girl peeks out the corner of the window. ANGLE - The TEENAGE BOY is in the field beyond.}
 <CHAR>__{BOY } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{If you're not here on three, I'm history. Permanently. One... Two... Three! Fine. Good riddance.}
-<ACTION>__{THE GIRL backs away from the window, only more upset now. A hand touches her shoulder.      She whirls around.}
+<ACTION>__{THE GIRL backs away from the window, only more upset now. A hand touches her shoulder. She whirls around.}
 <CHAR>__{GIRL} <CHAR_PAR>__{}
 <DIAL_PAR>__{(startled)}
 <DIAL>__{Who are you?}
 <CHAR>__{HARRIS} <CHAR_PAR>__{}
-<DIAL>__{A friend.    You're upset.}
+<DIAL>__{A friend. You're upset.}
 <ACTION>__{She nods.}
 <CHAR>__{HARRIS } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What would you say if I could promise you eternal bliss?}

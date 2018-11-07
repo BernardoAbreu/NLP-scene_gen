@@ -960,7 +960,7 @@
 <DIAL>__{Eat me raw!}
 <ACTION>__{There is  scattered laughter. Tracy pauses, wait Hendricks bounds up and grabs the mike.}
 <CHAR>__{WALT} <CHAR_PAR>__{}
-<DIAL>__{If you can't be adults and give these candidates the courtesy they deserve, then you don't deserve to be called adults but children* Because that's what children are. And you'll be treated like children. So let's all listen up.}
+<DIAL>__{If you can't be adults and give these candidates the courtesy they deserve, then you don't deserve to be called adults but children Because that's what children are. And you'll be treated like children. So let's all listen up.}
 <ACTION>__{Walt backs away to his seat. Tracy resumes}
 <CHAR>__{TRACY} <CHAR_PAR>__{}
 <DIAL>__{The three most important attributes the president needs to possess are: commitment, qualifications, and experience.  I'll add one more; caring. I care about Millard, and I care about each and every one of you, and together we can all make a difference.  One of the things I would like to establish is a regular open forum where any student can come and voice their concern about issues we face here at Millard.  I and the rest of the student council would then interface with the faculty and staff, so a continuous dialogue would exist.}
@@ -2168,7 +2168,7 @@
 <CHAR>__{PAUL} <CHAR_PAR>__{}
 <DIAL>__{Oh, yeah, sure.}
 <DIAL_PAR>__{(to a friend)}
-<DIAL>__{Hey Nolan, give my book to Tracy when you're done*}
+<DIAL>__{Hey Nolan, give my book to Tracy when you're done}
 <ACTION>__{Nolan finishes and hands the book over.  Tracy turns to the front pages and finds them completely filled, as are the end pages.  Now she looks for her picture.  When she finds it, it's almost completely obscured by part of some ASSWIPE 'S long, illegible, exclamation point-filled message.  Finally, she locates an available space and begins to write.}
 <CHAR>__{TRACY } <CHAR_PAR>__{(VO)}
 <DIAL>__{I thought very carefully about what to write.  Because despite everything that had happened with the election, I really wished him well.  I even signed it...}

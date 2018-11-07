@@ -1091,7 +1091,7 @@
 <CHAR>__{SMOOCHY} <CHAR_PAR>__{}
 <DIAL>__{'Well, how-do-you-do, my   good friends! How do-you-do,    my pals! It's so nice to see good   friends! Sing along with me now!    How do you do, my good -- '}
 <ACTION>__{Sheldon abruptly stops singing as a look of shock comes over him. PUSH IN ON his troubled face.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. WAREHOUSE - SHELDON'S POV}
 <ACTION>__{Several hundred men in Nazi uniforms in a warehouse draped in swastikas. They all start chanting:}
 <CHAR>__{NAZIS} <CHAR_PAR>__{}
@@ -1378,7 +1378,7 @@
 <CHAR>__{SMOOCHY} <CHAR_PAR>__{}
 <DIAL>__{Okay, I just wanted to get that off my chest. Who wants to do the Hokey-Pokey?!}
 <ACTION>__{The kids cheer as the Smoochyland Band launches into the Hokey-Pokey song and Smoochy starts dancing. The kids pour out of the bleachers onto the jungle set. Everyone is dancing and having a ball. Nora is clapping to the music offstage. Sheldon and Nora exchange affectionate glances.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. ANGELO'S APARTMENT - NIGHT}
 <ACTION>__{Randolph sits in front of the TELEVISION in a daze. He's wearing a ratty bathrobe and absentmindedly tosses cheese curls onto the floor from a bag on his lap. ON the TV, an "Entertainment Tonight"-type show with two perky hosts is covering Smoochy's return to the airwaves. The hosts, Tara and Hunter show Smoochy's dynamic entrance and the standing ovation he got during the taping that day.}
 <CHAR>__{TARA } <CHAR_PAR>__{(V.O.)}
@@ -1515,7 +1515,7 @@
 <ACTION>__{Burke smiles.}
 <CHAR>__{BURKE} <CHAR_PAR>__{}
 <DIAL>__{Let me poke around. Sift through the possibilities.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ALLEY OFF ND STREET - THEATER STAGE DOOR -}
 <ACTION_ALT>__{EVENING}
 <ACTION>__{A slender young man in a Peter Pan costume in being held by a big thug as another thug beats him up. A girl dressed as Tinkerbell (also being restrained) looks on in horror. Merv Green (Parade of Hope) steps INTO FRAME.}
@@ -1539,7 +1539,7 @@
 <CHAR>__{BURKE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(chuckles)}
 <DIAL>__{You got a minute, pally?}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. ND STREET - MOMENTS LATER}
 <ACTION>__{Burke and Merv walk along 42nd Street. A poster advertises Peter Pan "Sponsored by Parade of Hope -- Giving Children the Gift of Promise!" Merv's thugs trail behind.}
 <CHAR>__{MERV} <CHAR_PAR>__{}
@@ -1784,7 +1784,8 @@
 <ACTION>__{Sheldon joins in.}
 <DIAL>__{SHELDON/NORA 'In life we all have Our Last Nappy Time.'}
 <ACTION>__{Sheldon looks at her.    They embrace as BAGPIPE MUSIC}
-<ACTION_ALT>__{SWELLS. OMITTED}
+<ACTION_ALT>__{SWELLS.}
+
 <LOC>__{EXT. TIMES SQUARE - NIGHT}
 <ACTION>__{The news zipper in Times Square glides through the night air: "MANHUNT UNDERWAY FOR RAINBOW RANDOLPH... SUSPECTED IN BOXER'S MURDER... SEEN OUTSIDE BUILDING SHORTLY BEFORE SHOOTING, DRENCHED IN GASOLINE AND ACTING PECULIAR..." We CRANE DOWN FROM the zipper ONTO the sidewalk. Randolph is talking on a pay phone. We hear Angelo on the other end.}
 <CHAR>__{RANDOLPH} <CHAR_PAR>__{}

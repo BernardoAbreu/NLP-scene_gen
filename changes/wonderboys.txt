@@ -2760,7 +2760,7 @@
 <ACTION>__{Frantic, GRADY steps between Vernon, the German Nine, and the oncoming Crabtree.}
 <CHAR>__{GRADY} <CHAR_PAR>__{}
 <DIAL>__{No! Don't shoot! He's just a lousy driver.}
-<ACTION>__{CRABTREE fans the wheel wildly, goes into a slide and the passenger door snaps wide, releasing what looks to be a FLOCK OF WHITE DOVES into the wind-whipped sky. Only, these ain't birds.   - ^}
+<ACTION>__{CRABTREE fans the wheel wildly, goes into a slide and the passenger door snaps wide, releasing what looks to be a FLOCK OF WHITE DOVES into the wind-whipped sky. Only, these ain't birds.   -  }
 <CHAR>__{GRADY} <CHAR_PAR>__{}
 <DIAL>__{Oh... my... God!}
 <ACTION>__{These are PAGES. Seven years of-pages. CRABTREE goes into another slide, one-hops the curb, and smashes flat into the weathered GLOVE of BILL MAZEROSKI painted on the front wail of KRAVNIK'S SPORTING GOODS. As Hannah Green's RADIATOR EXPLODES, CRABTREE steps free of the car and looks skyward. It's a ticker-tape parade ail the way down the street, ending in the frigid waters of the Ohio River.}
@@ -2953,7 +2953,7 @@
 <ACTION>__{An anticipatory BUZZ sweeps through the audience as Walter begins to read from a separate list.}
 <CHAR>__{WALTER} <CHAR_PAR>__{}
 <DIAL>__{This weekend, Susan Lowery, of North Braddock, found a publisher for her children's book. The Loneliest Prawn, Susan, stand up.}
-<LOC>__{INT. BACK ROW - THAW HALL^}
+<LOC>__{INT. BACK ROW - THAW HALL }
 <ACTION>__{As a CHUBBY WOMAN stands to acknowledge the applause, GRADY cranes his neck, searching the sea of seats. To his surprise, he finds CRABTREE sitting prominently in the front row, in his shirtsleeves, smiling his spookily complacent smile. James is next to him, now wearing CRABTREE'S METALLIC SPORTS COAT over Grady's flannel shirt.}
 <CHAR>__{WALTER} <CHAR_PAR>__{}
 <DIAL>__{And Robert Wilkenson--who many of you know for his City Beat column in the Post-Gazette--has found a home with Putnam for his new Three Rivers thriller. Blood Patterns. Robert.}
@@ -3004,7 +3004,7 @@
 <CHAR>__{GRADY} <CHAR_PAR>__{}
 <DIAL>__{As a heart attack.}
 <CHAR>__{TRAXLER} <CHAR_PAR>__{}
-<DIAL>__{Thanks-Whoa, Professor Tripp, careful ^here...}
+<DIAL>__{Thanks-Whoa, Professor Tripp, careful  here...}
 <ACTION>__{GRADY is still hanging over the railing-but looking dizzy now. His eyelids flutter and he tips forward-a Steinway on a window ledge-and as he starts to drop... ...there is a SHARP JERK on his- COLLAR, a SHIRT BUTTON caroms off his cheek, and slowly, he is hauled back.}
 <CHAR>__{SARA} <CHAR_PAR>__{}
 <DIAL>__{Grady, what are you doing, you idiot?}

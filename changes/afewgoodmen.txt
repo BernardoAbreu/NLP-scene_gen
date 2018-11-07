@@ -10,7 +10,7 @@
 <ACTION>__{We HEAR two pairs of footsteps and then}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{THE BARRACKS CORRIDOR}
-<ACTION>__{where we see that the footsteps belong to DAWSON and DOWNEY, two young marines who we'll get to know later. They stop when they get to a certain door. The drum cadence is still growing. DAWSON puts his hand on the doorknob and turns it slowly.  He opens's the door and they walk into}
+<ACTION>__{where we see that the footsteps belong to DAWSON and DOWNEY, two young marines who we'll get to know later. They stop when they get to a certain door. The drum cadence is still growing. DAWSON puts his hand on the doorknob and turns it slowly. He opens's the door and they walk into}
 <LOC>__{INT. SANTIAGO'S ROOM - NIGHT}
 <ACTION>__{WILLY SANTIAGO, a young, very slight marine, lies asleep in his bunk. DAWSON kneels down by the bed, puts his hand on SANTIAGO'S shoulder and shakes him gently. SANTIAGO opens his yes, looks at DAWSON, and for a moment there's nothing wrong -- -- and then SANTIAGO's eyes fill with terror. He lunges out of the bed -- but forget about it. In one flash DAWSON and DOWNEY grab him out of bed, and before the scream can come out, DOWNEY's shoved a piece of cloth into SANTIAGO's mouth. Everything that happens next occurs with speed, precision and professionalism. -- A strip of duct tape is pulled, ripped, and slapped onto his mouth and eyes -- -- A length of rope is wrapped around his hands and feet.}
 <CHAR>__{DOWNEY} <CHAR_PAR>__{}
@@ -37,7 +37,7 @@
 <ACTION>__{We follow JO, still muttering, as she walks into the brick building which bears the seal of the UNITED STATES NAVY - JUDGE ADVOCATE GENERAL'S CORPS}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. WEST'S OFFICE - DAY}
-<ACTION>__{As JO  enters. CAPTAIN WEST and two other officers, GIBBS and LAWRENCE, sit around a conference table.}
+<ACTION>__{As JO enters. CAPTAIN WEST and two other officers, GIBBS and LAWRENCE, sit around a conference table.}
 <CHAR>__{GIBBS} <CHAR_PAR>__{}
 <DIAL>__{Jo, come on in.}
 <CHAR>__{JO} <CHAR_PAR>__{}
@@ -411,7 +411,7 @@
 <DIAL_PAR>__{(beat)}
 <DIAL>__{The team's playing Bethesda Medical next week.}
 <CHAR>__{JO} <CHAR_PAR>__{}
-<DIAL>__{Tell your friend not to get cute down there.  The marines in Guantanimo are fanatical.}
+<DIAL>__{Tell your friend not to get cute down there. The marines in Guantanimo are fanatical.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
 <DIAL>__{About what?}
 <ACTION>__{And in VOICE OVER we HEAR --}
@@ -440,7 +440,7 @@
 <DIAL>__{"...My name is PFC William T. Santiago. I am a marine stationed at Marine Barracks, Rifle Security Company Windward, Second Platoon Delta. I am writing to inform you of my problems with my unit here in Cuba and to ask for your help. I've fallen out on runs before for several reasons such as feeling dizzy or nauseated, but on May 18th, I'd fallen back about 20 or 30 yards going down a rocky, unstable hill. My sergeant grabbed me and pushed me down the hill. Then I saw all black and the last thing I remember is hitting the deck. I was brought to the hospital where I was told I just had heat exhaustion and was explained to by the doctor that my body has trouble with the hot sun and I hyperventilate. I ask you to help me. Please sir. I just need to be transferred out of RSC. Sincerely. PFC William T. Santiago. U.S. Marine Corps."}
 <ACTION>__{At this point, with SANTIAGO's letter still in V.O., we}
 <TRANS>__{CUT TO:}
-<LOC>__{INT.  JESSEP'S OFFICE - DAY}
+<LOC>__{INT. JESSEP'S OFFICE - DAY}
 <ACTION>__{THE LETTER - DAY It's the last paragraph of the letter we've been hearing, and at the moment, we can't see the hands that are holding it.}
 <CHAR>__{SANTIAGO } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{"P.S. In exchange for my transfer off the base, I'm willing to provide you with information about an illegal fenceline shooting that occurred the night of August 2nd."}
@@ -546,7 +546,7 @@
 <CHAR>__{M.P.} <CHAR_PAR>__{}
 <DIAL>__{Alright, let's move.}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT.  SOFTBALL FIELD - DAY}
+<LOC>__{EXT. SOFTBALL FIELD - DAY}
 <ACTION>__{and KAFFEE's at it again.}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{Alright, let's get tough out there!}
@@ -783,7 +783,7 @@
 <DIAL>__{I'm the only friend you've got.}
 <ACTION>__{And as KAFFEE and SAM walk out the open cell door, DAWSON and DOWNEY come to attention and snap a salute. They hold the salute until KAFFEE and SAM are well out of sight, and we}
 <TRANS>__{CUT TO:}
-<LOC>__{INT.  KAFFEE'S OFFICE - DAY}
+<LOC>__{INT. KAFFEE'S OFFICE - DAY}
 <ACTION>__{He's packing up stuff into his briefcase at the end of the work day. Lt. JACK ROSS, a marine lawyer maybe two years older than Kaffee, opens the door and walks in..}
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{Dan Kaffee.}
@@ -808,7 +808,7 @@
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{I don't care if they called the Avon Lady, they killed a marine.}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
-<DIAL>__{The rag was tested for poison.  The autopsy, lab report, even the initial E.R. and C.O.D. reports. They all say the same thing: Maybe, maybe not.}
+<DIAL>__{The rag was tested for poison. The autopsy, lab report, even the initial E.R. and C.O.D. reports. They all say the same thing: Maybe, maybe not.}
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{The Chief of Internal Medicine at the Guantanamo Bay Naval hospital says he's sure.}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
@@ -831,7 +831,7 @@
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{Hey, we got a little four-on-four going tomorrow night. When does your plane get in?}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT.  THE PARKING LOT - DUSK}
+<LOC>__{EXT. THE PARKING LOT - DUSK}
 <ACTION>__{It's dusk and people on the base are going home from work. We can see the flag being lowered in the background. KAFFEE's walking toward his car. JO intercepts him and starts walking along with him.}
 <CHAR>__{JO} <CHAR_PAR>__{}
 <DIAL>__{Hi there.}
@@ -1068,7 +1068,7 @@
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{Fine, sir.}
 <TRANS>__{CUT TO:}
-<LOC>__{EXT.  THE FENCELINE - DAY}
+<LOC>__{EXT. THE FENCELINE - DAY}
 <ACTION>__{A SQUAD OF MARINES jogs by as a jeep carrying KENDRICK and the three LAWYERS cruises down the road. We FOLLOW the jeep.}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{I understand you had a meeting with your men that afternoon.}
@@ -1645,7 +1645,7 @@
 <TRANS>__{CUT TO:}
 <LOC>__{INT. KAFFEE'S APARTMENT - NIGHT}
 <ACTION>__{Among the stuff, is a blackboard that's been hung on the wall. Written across the top are three headings:}
-<LOC>__{INTENT             CODE RED             THE ORDER}
+<LOC>__{INTENT CODE RED THE ORDER}
 <ACTION>__{Sam is on the floor, sorting papers into piles. KAFFEE comes in from the kitchen with a fresh bottle of Yoo-Hoo and joins Sam on the floor.}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{Were you able to speak to your friend at NIS?}
@@ -1980,7 +1980,7 @@
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{Would you tell the Court the substance of that meeting?}
 <CHAR>__{HAMMAKER} <CHAR_PAR>__{}
-<DIAL>__{Lt. Kendrick told us that we had an informer in our group.  That Private Santiago had gone outside the chain of command and reported to the NIS on a member of our platoon.}
+<DIAL>__{Lt. Kendrick told us that we had an informer in our group. That Private Santiago had gone outside the chain of command and reported to the NIS on a member of our platoon.}
 <CHAR>__{ROSS} <CHAR_PAR>__{}
 <DIAL>__{Did that make you mad?}
 <DIAL_PAR>__{(pause)}
@@ -3445,7 +3445,7 @@
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{Do you have an answer?}
 <CHAR>__{JESSEP} <CHAR_PAR>__{}
-<DIAL>__{Absolutely. My answer is I don't have the first damn clue. Maybe he was an early morning riser and he liked to pack in the nq. And maybe he didn't have any friends. I'm an educated man, but I'm afraid I can't speak intelligently about the travel habits of William Santiago.  What I do know is that he was set to leave the base at 0600. Now are these really the questions I was called here to answer? Phone calls and footlockers? Please tell me you've got something more, Lieutenant. Please tell me there's an ace up your sleeve. These two marines are on trial for their lives. Please tell me their lawyer hasn't pinned their hopes to a phone bill.}
+<DIAL>__{Absolutely. My answer is I don't have the first damn clue. Maybe he was an early morning riser and he liked to pack in the nq. And maybe he didn't have any friends. I'm an educated man, but I'm afraid I can't speak intelligently about the travel habits of William Santiago. What I do know is that he was set to leave the base at 0600. Now are these really the questions I was called here to answer? Phone calls and footlockers? Please tell me you've got something more, Lieutenant. Please tell me there's an ace up your sleeve. These two marines are on trial for their lives. Please tell me their lawyer hasn't pinned their hopes to a phone bill.}
 <DIAL_PAR>__{(beat)}
 <DIAL>__{Do you have any other questions for me, counselor?}
 <ACTION>__{The courtroom is silenced. Jessep's slammed the door. KAFFEE looks around the room, sees that the world is waiting for him to do something...}
@@ -3856,7 +3856,7 @@
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{No. How 'bout a date. A real date. Dinner. Attractive clothes. The works.}
 <CHAR>__{JO} <CHAR_PAR>__{}
-<DIAL>__{Sounds good.  Who do you think I should call?}
+<DIAL>__{Sounds good. Who do you think I should call?}
 <CHAR>__{KAFFEE} <CHAR_PAR>__{}
 <DIAL>__{I'll pick you up at seven.}
 <CHAR>__{JO} <CHAR_PAR>__{}

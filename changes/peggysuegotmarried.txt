@@ -644,7 +644,7 @@
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{That's okay. I'm sure I'll remember the way.}
 <LOC>__{EXT. SCHOOL  SIDE DOOR}
-<ACTION>__{The girls walk outside. Peggy looks around at the old cars i~ the parking lot. The most noticeable  a blue Chevrolet Impala convertible. Peggy stares at it for a beat, shivering with recognition, as she follows Carol and Maddy to a 1955 Ford. Maddy helps Peggy into the back seat.}
+<ACTION>__{The girls walk outside. Peggy looks around at the old cars i  the parking lot. The most noticeable  a blue Chevrolet Impala convertible. Peggy stares at it for a beat, shivering with recognition, as she follows Carol and Maddy to a 1955 Ford. Maddy helps Peggy into the back seat.}
 <LOC>__{EXT. STREET  DRIVING}
 <ACTION>__{Carol drives and chats with Maddy, while in the back seat Peggy looks out at the world as it she were on a ride at Disneyland. She says things like "That's not here anymore".}
 <LOC>__{EXT. SUBURBAN STREET - KELCHER HOUSE}
@@ -728,7 +728,7 @@
 <DIAL>__{Why not? They're my favorite.}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{They're bad for you. They}
-<DIAL_PAR>__{cause...red lips. (red dye *2)}
+<DIAL_PAR>__{cause...red lips. (red dye 2)}
 <ACTION>__{Nancy react, as Peggy stands. CAMERA TRACKS HER to the den.}
 <ACTION_ALT>__{DEN}
 <ACTION>__{Peggy opens the liquor cabinet and takes out a bottle of Scotch and a glass, noticing the family photos on the wall..}
@@ -815,7 +815,9 @@
 <DIAL>__{Good morning.}
 <ACTION>__{Nancy goes to Peggy's closet.}
 <CHAR>__{NANCY} <CHAR_PAR>__{}
-<DIAL>__{Can I borrow this sweater? PEGGY~ Yeah, but take good care of it.    I'm saving it for my daughter.. She loves this stuff.}
+<DIAL>__{Can I borrow this sweater?}
+<CHAR>__{PEGGY } <CHAR_PAR>__{}
+<DIAL>__{Yeah, but take good care of it.    I'm saving it for my daughter.. She loves this stuff.}
 <LOC>__{INT. KITCHEN - MORNING}
 <ACTION>__{Mr. Kelcher and Nancy sit at the table eating breakfast. Mrs. Kelcher stands at the sink scraping toast. Peggy bounces her hair in her adult, natural look. "GOOD MORNINGS" all around.}
 <CHAR>__{MRS. KELCHER} <CHAR_PAR>__{}
@@ -1761,7 +1763,7 @@
 <DIAL>__{I'm not the maid!}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{Way to go, Mom!}
-<ACTION>__{The Kelchers glare at each other~. We HEAR the DOOR SLAM.}
+<ACTION>__{The Kelchers glare at each other . We HEAR the DOOR SLAM.}
 <LOC>__{INT. SHOWER'S CAFE  DAY}
 <ACTION>__{Peggy and Richard sit in a booth. Richard's kite is hung on a coat rack.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -1821,7 +1823,7 @@
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{There are major fortunes to be made here. Leisure time and lifestyles.}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
-<DIAL>__{Are you talking ~about exercise? Like gym?}
+<DIAL>__{Are you talking  about exercise? Like gym?}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{Not for you. Okay, there's lots more.}
 <ACTION>__{They move along to the next window, an appliance store. The window is filled with old televisions, record players, large rotisseriebroilers, etc. The store sign reads: BODELL'S TV AND APPLIANCES. Another sign reads: COME IN AND LISTEN TO}
@@ -2015,7 +2017,7 @@
 <CHAR>__{CAROL} <CHAR_PAR>__{}
 <DIAL>__{I bet Dolores told Charlie.}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
-<DIAL>__{That loudmouthed little bitch~}
+<DIAL>__{That loudmouthed little bitch }
 <CHAR>__{MADDY} <CHAR_PAR>__{}
 <DIAL>__{Peggy Sue!}
 <CHAR>__{CAROL} <CHAR_PAR>__{}
@@ -2159,7 +2161,7 @@
 <DIAL>__{Like what?}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
 <DIAL_PAR>__{(excited)}
-<DIAL>__{Suggestion! Hypnotic suggestion! Why didn't I think o~ that before?}
+<DIAL>__{Suggestion! Hypnotic suggestion! Why didn't I think o  that before?}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{What do you know about hypnosis?}
 <CHAR>__{RICHARD} <CHAR_PAR>__{}
@@ -2294,7 +2296,7 @@
 <CHAR>__{MR. KELCHER} <CHAR_PAR>__{}
 <DIAL>__{Ah, Ed, why don't you and I adjourn to the den for a while?}
 <LOC>__{EXT. KELCHER HOUSE}
-<ACTION>__{Peggy~ and Michael stand by Michael's motorcycle, passing a cigarette.}
+<ACTION>__{Peggy  and Michael stand by Michael's motorcycle, passing a cigarette.}
 <CHAR>__{MICHAEL} <CHAR_PAR>__{}
 <DIAL>__{That was quite an evening. Bourgeois, phony, decadent, stupid.}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
@@ -2732,7 +2734,7 @@
 <CHAR>__{PEGGY} <CHAR_PAR>__{}
 <DIAL>__{Fasten your seat belts. Here we go.}
 <CHAR>__{LEO} <CHAR_PAR>__{}
-<DIAL>__{Lord of the Universe, Vast and Mighty One. Ruler of Light, King of~ the sun. Creator of earth, air, fire and water.}
+<DIAL>__{Lord of the Universe, Vast and Mighty One. Ruler of Light, King of  the sun. Creator of earth, air, fire and water.}
 <DIAL_PAR>__{(kneeling down)}
 <DIAL>__{We adore thee and invoke thee! Grant thine aid. Look with favor upon us as we witness the regeneration of man. We behold the innocent endeavors of singleminded men and women. For we are the company of unbodied souls and immortal angels. We ask thy intervention, that this girl may return to thee on the wings of your Love.}
 <CHAR>__{PEGGY} <CHAR_PAR>__{}

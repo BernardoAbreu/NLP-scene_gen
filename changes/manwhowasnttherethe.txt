@@ -82,13 +82,13 @@
 <ACTION_ALT>__{DINNER TABLE}
 <ACTION>__{The two couples are in the middle of the meal.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{Japs had us pinned down in Buna for something like six weeks. Well, I gotta tell ya, I thought *we* had it tough, but, Jesus, we had supply. *They* were eating grubs, nuts, thistles. When we finally up and bust off the beach we found Arnie Bragg, kid missing on recon; the Japs had *eaten* the sonofabitch, if you'll pardon the, uh... And this was a scrawny, pimply kid too, nothin' to write home about. I mean, I never would've, ya know, so what do I say, honey? When I don't like dinner, what do I say?}
+<DIAL>__{Japs had us pinned down in Buna for something like six weeks. Well, I gotta tell ya, I thought we had it tough, but, Jesus, we had supply. They were eating grubs, nuts, thistles. When we finally up and bust off the beach we found Arnie Bragg, kid missing on recon; the Japs had eaten the sonofabitch, if you'll pardon the, uh... And this was a scrawny, pimply kid too, nothin' to write home about. I mean, I never would've, ya know, so what do I say, honey? When I don't like dinner, what do I say?}
 <ACTION>__{Ann smiles wanly.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...I say, Jesus, honey, Arnie Bragg-- *again*?!}
+<DIAL>__{...I say, Jesus, honey, Arnie Bragg-- again?!}
 <ACTION>__{He roars with laughter. Ed gives an acknowledging smile.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...Arnie Bragg--*again*?!}
+<DIAL>__{...Arnie Bragg--again?!}
 <ACTION>__{He dries his eyes with the corner of a napkin.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
 <DIAL>__{...Were you in the service, Ed?}
@@ -461,7 +461,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{I guess it would be pretty awkward.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{Awkward?! Ann'd throw me out on my keister! Hell, it's her family's store--*her* store. I serve at the indulgence of the goddamn ownership, Ed.}
+<DIAL>__{Awkward?! Ann'd throw me out on my keister! Hell, it's her family's store--her store. I serve at the indulgence of the goddamn ownership, Ed.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Uh-huh.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
@@ -469,9 +469,9 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{How much to they want, Dave?}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{$10,000! I don't know what to do, Ed. I don't know what I *can* do. Even though I know who the sonofabitch is.}
+<DIAL>__{$10,000! I don't know what to do, Ed. I don't know what I can do. Even though I know who the sonofabitch is.}
 <CHAR>__{ED} <CHAR_PAR>__{}
-<DIAL>__{...You know... who *who* is?}
+<DIAL>__{...You know... who who is?}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
 <DIAL>__{The sonofabitch. The blackmailer. It's, uh, it's no one you know. It's a businessman from Sacramento. A goddamn pansy, Ed. He tried to rope me into some crackpot scheme; I heard him out and then told him to go to hell. And the very next day, the very next day, Ed, I get blackmailed for the same amount.}
 <CHAR>__{ED} <CHAR_PAR>__{}
@@ -491,7 +491,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...Why don't you just pay him, Dave?}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{That's my capitalization on the Annex! *My* operation, Ed! Christ almighty. That's what I was just talking to Doris about, a way of getting the money from the store that we could hide from Ann.}
+<DIAL>__{That's my capitalization on the Annex! My operation, Ed! Christ almighty. That's what I was just talking to Doris about, a way of getting the money from the store that we could hide from Ann.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Mm.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
@@ -561,7 +561,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{So?}
 <CHAR>__{DORIS} <CHAR_PAR>__{}
-<DIAL>__{*That means I don't run Nirdlinger's!*}
+<DIAL>__{That means I don't run Nirdlinger's!}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Mm.}
 <ACTION>__{They ride in silence for a beat. Doris shakes her head.}
@@ -628,7 +628,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...You're not gonna screw me on this?}
 <CHAR>__{CREIGHTON} <CHAR_PAR>__{}
-<DIAL>__{*Screw* you--Jesus! Take it to a lawyer! No, I insist! This is *dry* cleaning, this is not some fly-by- night thing here! I must say, I've been an entrepreneur for thirteen years and I've never--}
+<DIAL>__{Screw you--Jesus! Take it to a lawyer! No, I insist! This is dry cleaning, this is not some fly-by- night thing here! I must say, I've been an entrepreneur for thirteen years and I've never--}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{All right.}
 <CHAR>__{CREIGHTON} <CHAR_PAR>__{}
@@ -652,7 +652,7 @@
 <DIAL>__{I didn't say a word.}
 <ACTION>__{She looks back out at the road.}
 <CHAR>__{DORIS} <CHAR_PAR>__{}
-<DIAL>__{...*You* didn't have to grow up with 'em.}
+<DIAL>__{...You didn't have to grow up with 'em.}
 <ACTION>__{This brings nothing from Ed. Doris shakes her head.}
 <CHAR>__{DORIS} <CHAR_PAR>__{}
 <DIAL>__{...Family. Boy.}
@@ -777,11 +777,11 @@
 <DIAL>__{So you paid the guy?}
 <ACTION>__{Big Dave stares without speaking. After a long beat:}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...What kind of man *are* you?}
+<DIAL>__{...What kind of man are you?}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...Huh?}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{What kind of man *are* you?}
+<DIAL>__{What kind of man are you?}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Big Dave--}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
@@ -789,16 +789,16 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{I, uh...}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{I'm not proud of what I did. But *you*.}
+<DIAL>__{I'm not proud of what I did. But you.}
 <ACTION>__{No one talks. Big Dave sighs.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
 <DIAL>__{...Yeah, I paid up. As you well know. And then I went and found the pansy.}
 <ACTION>__{He looks at Ed.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...Got nothin' to say, huh? Yeah, well, you already know the story. I didn't, I hadda beat it out of the pansy. *Your* money.}
+<DIAL>__{...Got nothin' to say, huh? Yeah, well, you already know the story. I didn't, I hadda beat it out of the pansy. Your money.}
 <ACTION>__{No response.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...What kind of man *are* you?}
+<DIAL>__{...What kind of man are you?}
 <ACTION>__{Big Dave rises.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
 <DIAL>__{...Well.}
@@ -807,7 +807,7 @@
 <DIAL>__{...I'm all shot to hell.}
 <ACTION>__{Ed starts to rise, but Big Dave is already looming over him. Big Dave bear-hugs him and then spins him into a wall. Ed hits the wall and bounces off, back into Big Dave. Big Dave wallops him in the stomach. Ed doubles over.}
 <CHAR>__{DAVE} <CHAR_PAR>__{}
-<DIAL>__{...What kind of man *are* you?}
+<DIAL>__{...What kind of man are you?}
 <ACTION>__{Big Dave hurls him against the desk, then slams his face against the desktop. Ed's hands scrabble at the top of the desk as Big Dave grabs him by the neck and lifts. He slams him face-first into the window between the office and the dark sales floor. Ed twists around, the back of his head now pressed against the glass. Big Dave's hands lock around his throat. Big Dave sweats and strains. A crack shoots up the pane of glass. Ed's hand sweeps up and plunges something into Big Dave's neck. Big Dave grunts and turns away, gurgling. His hands go up to his throat. Ed watches. He is holding Big Dave's cigar trimmer. Big Dave takes a couple of deliberate steps backward, his head twisted away. He falls back, tripped up by a chair, which spins him face- down onto the floor. Big Dave crawls away face-down across the floor, on his knees but with his hands still at his throat. His face and knees awkwardly support his weight as if he were pushing something across the floor with his nose. He reaches a corner but still pushes forward, wedging himself in, legs still scraping away as if to push himself through the wall. Blood is pooling out from under him. Big Dave's legs are still working. His gurgling continues. Ed watches. Big Dave's legs start to move furiously. They convulse. His whole body shakes as he goes into shock. Ed watches. Big Dave stops shaking. He remains wedged awkwardly into the corner, face-down. He is still. The room is very quiet. Ed looks down at his hands. He walks across the room, pushes the door open and walks across the darkened sales floor.}
 <LOC>__{EXT. STORE}
 <ACTION>__{Ed walks to his car. He does not look about, is not particularly furtive. He gets into the car. He starts the ignition.}
@@ -841,7 +841,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Ya can't pump it. Did ya pump it? That'll just flood it.}
 <CHAR>__{CUSTOMER} <CHAR_PAR>__{}
-<DIAL>__{Ya gotta pump it. Ya can't just hold it down. *That'll* flood it.}
+<DIAL>__{Ya gotta pump it. Ya can't just hold it down. That'll flood it.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You crazy? You pumped it?}
 <CHAR>__{CUSTOMER} <CHAR_PAR>__{}
@@ -884,7 +884,7 @@
 <CHAR>__{KREBS} <CHAR_PAR>__{}
 <DIAL>__{They sent us to tell ya. We pulled the detail.}
 <CHAR>__{ED} <CHAR_PAR>__{}
-<DIAL>__{My *wife*?}
+<DIAL>__{My wife?}
 <CHAR>__{PERSKY} <CHAR_PAR>__{}
 <DIAL>__{Yeah, uh, they brung her to the county jail, uh...}
 <CHAR>__{KREBS} <CHAR_PAR>__{}
@@ -1063,7 +1063,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Uh-huh.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{They too use the toilet, Ed. In spite of appearances. And their money will be secured by the barbershop. A rock. A *rock*, the barbershop. I mean, how long has *this* place been here?}
+<DIAL>__{They too use the toilet, Ed. In spite of appearances. And their money will be secured by the barbershop. A rock. A rock, the barbershop. I mean, how long has this place been here?}
 <ACTION>__{A door opens. A conservatively dressed man of late middle age emerges.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
 <DIAL>__{Mr Raffo?}
@@ -1125,11 +1125,11 @@
 <DIAL>__{No thanks, I--}
 <ACTION>__{The waitress sets a fruit cocktail in front of Riedenschneider.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{Look, I don't wanna waste your time so I'll eat while we talk. Ya mind? *You* don't mind. So while I'm in town I'll be staying at the Hotel Metropole, the Turandot Suite. Yeah, it's goofy, the suites're named after operas; room's OK though, I poked around. I'm having 'em hold it for me on account of I'll be back and forth. In addition to my retainer, you're paying hotel, living expenses, secretarial, private eye if we need to make inquiries, headshrinker should we go that way. We'll talk about appeals if, as and when. For right now, has she confessed?}
+<DIAL>__{Look, I don't wanna waste your time so I'll eat while we talk. Ya mind? You don't mind. So while I'm in town I'll be staying at the Hotel Metropole, the Turandot Suite. Yeah, it's goofy, the suites're named after operas; room's OK though, I poked around. I'm having 'em hold it for me on account of I'll be back and forth. In addition to my retainer, you're paying hotel, living expenses, secretarial, private eye if we need to make inquiries, headshrinker should we go that way. We'll talk about appeals if, as and when. For right now, has she confessed?}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{No. Of course not. She didn't do it.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{Good! That helps. Not that she didn't do it, that she didn't confess. Of course, there's ways to deal with a confession, but that's good!--one less thing to think about. Now. Interview. I'm seeing her tomorrow. You should be there. Three o'clock. One more thing: you keep your mouth shut. I get the lay of the land, I tell *you* what to say. No talking out of school. What's out of school? Everything's out of school. I do the talking; you keep your trap shut. I'm an attorney, you're a barber; you don't know anything. Understood?}
+<DIAL>__{Good! That helps. Not that she didn't do it, that she didn't confess. Of course, there's ways to deal with a confession, but that's good!--one less thing to think about. Now. Interview. I'm seeing her tomorrow. You should be there. Three o'clock. One more thing: you keep your mouth shut. I get the lay of the land, I tell you what to say. No talking out of school. What's out of school? Everything's out of school. I do the talking; you keep your trap shut. I'm an attorney, you're a barber; you don't know anything. Understood?}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...Ok.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
@@ -1182,7 +1182,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Yes?}
 <CHAR>__{ANN} <CHAR_PAR>__{}
-<DIAL>__{We went camping last summer. In Eugene, Oregon. *Outside* of Eugene, Ed.}
+<DIAL>__{We went camping last summer. In Eugene, Oregon. Outside of Eugene, Ed.}
 <ACTION>__{She gives him a searching look, hoping, it seems, that he will find this significant.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...Yes?}
@@ -1191,7 +1191,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Ann--}
 <CHAR>__{ANN} <CHAR_PAR>__{}
-<DIAL>__{A spacecraft. I saw the creatures. They led Big Dave onto the craft. He never told anyone what they did, outside of his report. Of course he told *me*. No one else.}
+<DIAL>__{A spacecraft. I saw the creatures. They led Big Dave onto the craft. He never told anyone what they did, outside of his report. Of course he told me. No one else.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Ann--}
 <CHAR>__{ANN} <CHAR_PAR>__{}
@@ -1218,13 +1218,13 @@
 <DIAL>__{Terrific. Your husband backs you up. That's terrific.}
 <ACTION>__{He starts pacing.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...You've gotta give me something to work with. Freddy Riedenschneider is good, but he's not a magician. He can't just wave his little wand in the air and make a plausible defense materialize. Look. Look at what the other side is gonna run at us. They got the company books, prepared by you--*cooked* by you--that's Motive. They got a murder scene *you* had access to. That's Opportunity. They got that little trimmer thing he was stabbed in the throat with--a *dame's* weapon--}
+<DIAL>__{...You've gotta give me something to work with. Freddy Riedenschneider is good, but he's not a magician. He can't just wave his little wand in the air and make a plausible defense materialize. Look. Look at what the other side is gonna run at us. They got the company books, prepared by you--cooked by you--that's Motive. They got a murder scene you had access to. That's Opportunity. They got that little trimmer thing he was stabbed in the throat with--a dame's weapon--}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{It was Big Dave's.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{--don't interrupt me--that's Means. They got a fine upstanding pillar of the business community as a victim, and then they got *you*, a disgruntled number-juggling underling who on the day in question was drunk as a skunk and whose alibi for the time in question is being passed out at home, alone.}
+<DIAL>__{--don't interrupt me--that's Means. They got a fine upstanding pillar of the business community as a victim, and then they got you, a disgruntled number-juggling underling who on the day in question was drunk as a skunk and whose alibi for the time in question is being passed out at home, alone.}
 <CHAR>__{ED} <CHAR_PAR>__{}
-<DIAL>__{*I* was with her.}
+<DIAL>__{I was with her.}
 <ACTION>__{Riedenschneider gives him a hard look.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{...Like I say, it stinks.}
@@ -1233,7 +1233,7 @@
 <DIAL>__{...I killed him.}
 <ACTION>__{Riedenschneider eyes him. Wheels start turning.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{OK, we forget the blackmail. *You* killed him. How come?}
+<DIAL>__{OK, we forget the blackmail. You killed him. How come?}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{He and Doris... were having an affair.}
 <ACTION>__{Doris eyes him. His manner does not reveal anything.}
@@ -1258,16 +1258,16 @@
 <DIAL>__{Will anyone corroborate and goddamn part of your story at all?}
 <ACTION>__{Ed returns Riedenschneider's stare. Riedenschneider resumes pacing.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...Come on, people. You can't help each other like that. Let's be realistic now. Let's look at our options. Well, frankly, I don't *see* any options.}
+<DIAL>__{...Come on, people. You can't help each other like that. Let's be realistic now. Let's look at our options. Well, frankly, I don't see any options.}
 <ACTION>__{A nod of the head indicates Doris:}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{...I cannot present Story A.}
 <ACTION>__{Another nod indicates Ed:}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...I cannot present Story B. I could plead you for a nutcase but you look too composed. I could offer a guilty plea and in return they don't give you the juice, but I don't think you want to spend the rest of your life in Chino and I know you didn't hire Freddy Riedenschneider to hold your hand at a sentencing hearing. Hell, you could've gotten Lloyd Garroway for that. No, we're not giving up yet; you hired Freddy Riedenschneider, it means you're *not* throwing in the towel. I litigate, I don't capitulate. All right, no options, we gotta think. All right, we go back to the blackmail thing. It titillates, it's open ended...}
+<DIAL>__{...I cannot present Story B. I could plead you for a nutcase but you look too composed. I could offer a guilty plea and in return they don't give you the juice, but I don't think you want to spend the rest of your life in Chino and I know you didn't hire Freddy Riedenschneider to hold your hand at a sentencing hearing. Hell, you could've gotten Lloyd Garroway for that. No, we're not giving up yet; you hired Freddy Riedenschneider, it means you're not throwing in the towel. I litigate, I don't capitulate. All right, no options, we gotta think. All right, we go back to the blackmail thing. It titillates, it's open ended...}
 <ACTION>__{His pacing becomes more animated.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...And it makes *him* the bad guy-- ya dig around, ya never know, something unsavory from his past, he approaches you to help with the money, it's too late, his past comes back to haunt him, who's to say...}
+<DIAL>__{...And it makes him the bad guy-- ya dig around, ya never know, something unsavory from his past, he approaches you to help with the money, it's too late, his past comes back to haunt him, who's to say...}
 <ACTION>__{He is heading for the door.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{...Yeah. Ok. Forget the jealous husband thing, that's silly; we're going with the blackmail. I'll be in touch.}
@@ -1275,7 +1275,7 @@
 <ACTION_ALT>__{HOTEL LOBBY}
 <ACTION>__{The camera drifts in toward the reception desk. Ed talks to the clerk behind the desk, but the scene plays silently; we hear only Ed's narration.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{Of course, there was *one* person who could confirm Doris's story, or plenty of it: the dry-cleaning pansy...}
+<DIAL>__{Of course, there was one person who could confirm Doris's story, or plenty of it: the dry-cleaning pansy...}
 <ACTION>__{The desk clerk is shaking his head.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{...But he'd left the hotel, skipped out on his bill...}
@@ -1348,7 +1348,7 @@
 <DIAL>__{'Lo, honey.}
 <ACTION>__{She looks at his hands on top of hers. A long beat. Still gazing up into the shaft of light, Freddy Riedenschneider announces:}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...They got this guy, in Germany. Fritz something-or-other. Or is it. Maybe it's Werner. Anyway, he's got this theory, you wanna test something, you know, scientifically--how the planets  go round the sun, what sunspots are made of, why the water comes out of the tap--well, you gotta look at it. But sometimes, you look at it, your looking *changes* it. Ya can't know the reality of what happened, or what *would've* happened if you hadden a stuck in your goddamn schnozz. So there *is* no 'what happened.' Not in any sense that we can grasp with our puny minds. Because our minds... out minds get in the way. Looking at something changes it. They call it the 'Uncertainty Principle.' Sure, it sounds screwy, but even Einstein says the guy's on to something.}
+<DIAL>__{...They got this guy, in Germany. Fritz something-or-other. Or is it. Maybe it's Werner. Anyway, he's got this theory, you wanna test something, you know, scientifically--how the planets  go round the sun, what sunspots are made of, why the water comes out of the tap--well, you gotta look at it. But sometimes, you look at it, your looking changes it. Ya can't know the reality of what happened, or what would've happened if you hadden a stuck in your goddamn schnozz. So there is no 'what happened.' Not in any sense that we can grasp with our puny minds. Because our minds... out minds get in the way. Looking at something changes it. They call it the 'Uncertainty Principle.' Sure, it sounds screwy, but even Einstein says the guy's on to something.}
 <ACTION>__{His gaze up at the window breaks. He strolls around the room, still smiling.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{...Science. Perception. Reality. Doubt...}
@@ -1374,7 +1374,7 @@
 <DIAL>__{...So?}
 <ACTION>__{Riedenschneider's fixed smile now fades.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{So? *So?!* This could be your dolly's ticket out of the deathhouse, so!}
+<DIAL>__{So? So?! This could be your dolly's ticket out of the deathhouse, so!}
 <ACTION>__{Ed and Doris look at each other.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{...I don't get it.}
@@ -1386,11 +1386,11 @@
 <DIAL>__{And now it turns out this dope spent the war sitting on his ass in some boatyard in San Diego. You asked for blackmail, let me give you blackmail: Mr Hale-Fellow-Well-Met, about to open his own business here, has been lying to everybody in this town for the last four years, probably including half the people sitting on that jury. Well, it finally caught up with him--these dopes, it always does; someone threatened to spill it. Somebody knew his dirty little secret, just like your wife says. They called, they demanded money...}
 <ACTION>__{He is looking at Doris.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{...Did Big Dave mention that it was something about his war service? I don't know, I wasn't there, *you'll* have to tell *us*. Maybe he specified, maybe he didn't; I'm not putting words in your mouth; the point is that this liar, this cynical manipulator, this man who through his lies sneered and belittled the sacrifice and heroism of all our boys who *did* serve and bleed and puke and die on foreign shores, and who made a fool out of this entire town, turns to *you* to help him out of his jam. Fat-assed sonofabitch!}
+<DIAL>__{...Did Big Dave mention that it was something about his war service? I don't know, I wasn't there, you'll have to tell us. Maybe he specified, maybe he didn't; I'm not putting words in your mouth; the point is that this liar, this cynical manipulator, this man who through his lies sneered and belittled the sacrifice and heroism of all our boys who did serve and bleed and puke and die on foreign shores, and who made a fool out of this entire town, turns to you to help him out of his jam. Fat-assed sonofabitch!}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{So... who... who actually--}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
-<DIAL>__{Who? *Who?!* I don't know who! But the point is that if Mr Prosecutor over there had devoted half the time he's spent persecuting *this* woman to even the most cursory investigation of this schmoe's past, then we might *know* who! But we can't *know* what really happened! Because of Fritz, or Werner, or whatever the hell his name is! And because Me Prosecutor is *also* a lazy fat-assed sonofabitch who decided it's easier to victimize your wife! Because it's easier *not* to look! Because the more you look, the less you know! But the beauty of it is, we don't *gotta* know! We just gotta show that, goddamnit, *they* don't know. Reasonable doubt. Science. The atom. *You* explain it to me. Go ahead. Try.}
+<DIAL>__{Who? Who?! I don't know who! But the point is that if Mr Prosecutor over there had devoted half the time he's spent persecuting this woman to even the most cursory investigation of this schmoe's past, then we might know who! But we can't know what really happened! Because of Fritz, or Werner, or whatever the hell his name is! And because Me Prosecutor is also a lazy fat-assed sonofabitch who decided it's easier to victimize your wife! Because it's easier not to look! Because the more you look, the less you know! But the beauty of it is, we don't gotta know! We just gotta show that, goddamnit, they don't know. Reasonable doubt. Science. The atom. You explain it to me. Go ahead. Try.}
 <ACTION>__{He chuckles as he heads for the door.}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{...Yeah, Freddy Riedenschneider sees daylight. We got a real shot at this, folks. Let's not get cocky.}
@@ -1418,7 +1418,7 @@
 <ACTION>__{The cardboard sign on an easel says "COME ONE, COME ALL / PETALUMA HIGH SCHOOL TALENT SHOW / WEDNESDAY APRIL 29, 1949,}
 <LOC>__{8:00 P.M.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{The girl had talent, anyone could see that. And *she* wasn't some fly- by-nighter, she was just a good clean kid...}
+<DIAL>__{The girl had talent, anyone could see that. And she wasn't some fly- by-nighter, she was just a good clean kid...}
 <ACTION_ALT>__{SCHOOL GYMNASIUM}
 <ACTION>__{A young man holding a saxophone is just leaving the makeshift stage to a smattering of applause. Birdy walks out to the baby grand that has been set out center stage.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
@@ -1482,7 +1482,7 @@
 <DIAL>__{Late? How can she be late?}
 <ACTION>__{Riedenschneider doesn't answer; Frank turns to Ed.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{...She's in prison, Ed. None of *us* are in prison, and yet we're not late. We're on time, Ed. How can Doris be late? What, they don't have wake-up calls?}
+<DIAL>__{...She's in prison, Ed. None of us are in prison, and yet we're not late. We're on time, Ed. How can Doris be late? What, they don't have wake-up calls?}
 <ACTION>__{The murmur of the crowd subsides as a door behind the judge's bench opens and the judge hurriedly enters. The gallery rises but the judge quickly waves them back down and, rather than seating himself, leans forward over his desk to give a peremptory beckoning wave to Riedenschneider and the prosecutor.}
 <CHAR>__{JUDGE} <CHAR_PAR>__{}
 <DIAL>__{Counselors.}
@@ -1525,7 +1525,7 @@
 <DIAL>__{...That left me to keep the place going, or the bank would've taken it.}
 <ACTION>__{As he uses the electric clippers, a cigarette plumes between his lips. He squints against the smoke drifting past his eyes.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{...*I* was the principal barber now. I hired a new man for the second chair...}
+<DIAL>__{...I was the principal barber now. I hired a new man for the second chair...}
 <ACTION>__{Ed's former chair is indeed being manned by a newcomer, a gangly young man who animatedly chats up his customer.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{...I'd hired the guy who did the least gabbing when he came in for an interview. But I guess the new man had only kept quiet because he was nervous; once he had the job, he talked from the minute I opened the shop in the morning...}
@@ -1536,7 +1536,7 @@
 <ACTION_ALT>__{STREET}
 <ACTION>__{Ed walks along the sidewalk.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{...When *I* walked home, it seemed like everyone avoided looking at me...}
+<DIAL>__{...When I walked home, it seemed like everyone avoided looking at me...}
 <ACTION>__{Indeed, none of the passers-by establish eye contact; their averted eyes make the crowd a faceless throng.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{...as if I'd caught some disease. This thing with Doris, nobody wanted to talk about it; it was like I was a ghost walking down the street...}
@@ -1607,7 +1607,7 @@
 <DIAL>__{...County M. E. does an autopsy on anyone who dies in custody. I don't know if you knew that. It's routine.}
 <ACTION>__{Ed doesn't answer. Diedrickson, after some more staring at his hands, plows on:}
 <CHAR>__{DIEDRICKSON} <CHAR_PAR>__{}
-<DIAL>__{...Doesn't become a matter of public record unless there's foul play. However. I don't believe I'm *prohibited* from telling you this. I guess I'm not obliged to tell you, either. I don't exactly know.  But if *I* were the man, I'd want to be told.}
+<DIAL>__{...Doesn't become a matter of public record unless there's foul play. However. I don't believe I'm prohibited from telling you this. I guess I'm not obliged to tell you, either. I don't exactly know.  But if I were the man, I'd want to be told.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Told what?}
 <CHAR>__{DIEDRICKSON} <CHAR_PAR>__{}
@@ -1777,7 +1777,7 @@
 <DIAL>__{Well? How'd she do?}
 <ACTION>__{This elicits a Gallic frown of consideration.}
 <CHAR>__{CARCANOGUES} <CHAR_PAR>__{}
-<DIAL>__{Ze girl?... She seems like a very nice girl. She *plays*, monsieur, like a very nice girl. Ztinks. Very nice girl. However, ztinks.}
+<DIAL>__{Ze girl?... She seems like a very nice girl. She plays, monsieur, like a very nice girl. Ztinks. Very nice girl. However, ztinks.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{I don't understand.}
 <CHAR>__{CARCANOGUES} <CHAR_PAR>__{}
@@ -1790,7 +1790,7 @@
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{I don't understand, no mistakes, she's just a kid--I thought you taught the, uh, the--}
 <CHAR>__{CARCANOGUES} <CHAR_PAR>__{}
-<DIAL>__{Ah, but that is just what I cannot teach. I cannot teach her to have a soul. Look, monsieur, play the piano, is not about the fingers. *Done* with the fingers, yes. But the music, she is inside. Inside, monsieur...}
+<DIAL>__{Ah, but that is just what I cannot teach. I cannot teach her to have a soul. Look, monsieur, play the piano, is not about the fingers. Done with the fingers, yes. But the music, she is inside. Inside, monsieur...}
 <ACTION>__{A two-handed gesture, indicating his heart.}
 <CHAR>__{CARCANOGUES} <CHAR_PAR>__{}
 <DIAL>__{...The music start here...}
@@ -1882,7 +1882,7 @@
 <DIAL>__{Well, of course, you don't have to rejuvenate that once every couple of years, don't you, when the peastone thins out.}
 <ACTION>__{Ed shrugs.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
-<DIAL>__{...Where does it go, huh? Like the odd sock. But you *know* where it goes--you probably pick pieces of it off your lawn all the time, churn it up with your lawn mower, sweep it off the walk here--pain in the neck.}
+<DIAL>__{...Where does it go, huh? Like the odd sock. But you know where it goes--you probably pick pieces of it off your lawn all the time, churn it up with your lawn mower, sweep it off the walk here--pain in the neck.}
 <ACTION>__{Ed shrugs again.}
 <CHAR>__{ED} <CHAR_PAR>__{}
 <DIAL>__{Doesn't bother me.}
@@ -1896,7 +1896,7 @@
 <DIAL>__{...Mind if I show you the specifications?--Evening, ma'am.}
 <ACTION>__{Doris gives him a hard look.}
 <CHAR>__{DORIS} <CHAR_PAR>__{}
-<DIAL>__{What're *you* selling?}
+<DIAL>__{What're you selling?}
 <ACTION>__{The man gives a practiced laugh.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
 <DIAL>__{Well, ma'am, I was just telling your husband here about tar Macadam, for your home driveway here--these are the specs...}
@@ -2034,13 +2034,13 @@
 <DIAL>__{...I was just like them, an ordinary man, guilty of living in a world that had no place for me, guilty of wanting to be a dry cleaner, sure, but not of murder...}
 <ACTION>__{Riedenschneider is striding energetically into the foreground to point a finger directly at Ed's face.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
-<DIAL>__{...He said I *was* Modern Man, and if they voted to convict me, well, they'd be practically cinching the noose around their own necks. He told them to look not at the facts but at the meaning of the facts, and then he said the facts *had* no meaning. It was a pretty good speech, and even had me going...}
+<DIAL>__{...He said I was Modern Man, and if they voted to convict me, well, they'd be practically cinching the noose around their own necks. He told them to look not at the facts but at the meaning of the facts, and then he said the facts had no meaning. It was a pretty good speech, and even had me going...}
 <ACTION>__{A tap on the shoulder turns Ed around.}
 <CHAR>__{ED } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{...until Frankie interrupted it.}
 <ACTION>__{Frank socks Ed, sending him clattering to the floor. A bailiff immediately restrains him, but Frank looms over Ed, bellowing through tears:}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{What kind of man *are* you? What kind of man *are* you?}
+<DIAL>__{What kind of man are you? What kind of man are you?}
 <ACTION>__{Riedenschneider interposes his body between Frank's and Ed's, loudly protesting:}
 <CHAR>__{RIEDENSCHNEIDER} <CHAR_PAR>__{}
 <DIAL>__{Move for a mistrial, your honor! Move for a mistrial! This outrageous display cannot help but prejudice...}

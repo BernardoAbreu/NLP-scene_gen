@@ -993,7 +993,7 @@
 <LOC>__{INT.   BUTTLE'S STAIRCASE                DAY}
 <ACTION>__{SAM runs up the stairs to the floor above and finds himself in -}
 <LOC>__{EXT.   SIMILAR CORRIDOR                  DAY}
-<ACTION>__{He runs along the corridor but has omitted to count the doors downstairs and now doesn't know which door to knock at. He hesitates. He rings the bell on what he hopes is the right door. The bell doesn't work. He bangs on the door. The door opens a crack. A malevolent eye looks at him.}
+<ACTION>__{He runs along the corridor but has  to count the doors downstairs and now doesn't know which door to knock at. He hesitates. He rings the bell on what he hopes is the right door. The bell doesn't work. He bangs on the door. The door opens a crack. A malevolent eye looks at him.}
 <CHAR>__{SAM} <CHAR_PAR>__{}
 <DIAL>__{Girl ... fair hair ...}
 <ACTION>__{The door shuts firmly. SAM rushes to the next door.}

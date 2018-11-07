@@ -1232,7 +1232,7 @@
 <DIAL>__{Dwight and Toby, working faster, are painting the end tables white.}
 <ACTION>__{C)   INT. DINING ROOM - LATER}
 <DIAL>__{The walls and ceiling are white, Dwight and Toby are painting the dining table white.}
-<ACTION>__{D)   OMITTED E)   INT. KITCHEN - LATE NIGHT Dwight and Toby are painting the cabinets and kitchen table white. F)   INT. LIVING ROOM - NEXT MORNING Everywhere we look is white, the walls, ceiling, furniture -- all of it. Only the old Baldwin upright piano has escaped painting. Dwight eyes it suspiciously.}
+<ACTION>__{D)    E)   INT. KITCHEN - LATE NIGHT Dwight and Toby are painting the cabinets and kitchen table white. F)   INT. LIVING ROOM - NEXT MORNING Everywhere we look is white, the walls, ceiling, furniture -- all of it. Only the old Baldwin upright piano has escaped painting. Dwight eyes it suspiciously.}
 <CHAR>__{DWIGHT} <CHAR_PAR>__{}
 <DIAL>__{Sort of stands out, doesn't it?}
 <CHAR>__{TOBY} <CHAR_PAR>__{}
@@ -2104,7 +2104,7 @@
 <DIAL>__{Welcome to Concreeee...}
 <ACTION>__{Toby topples over and falls down a bank of rubble. The other burst out laughing and hooting. The CAMERA MOVES off them and CRANES DOWN to a spread-eagled Toby's face. The LAUGHTER ECHOES around the building. Toby begins to laugh, but it soon turns to bitter tears.}
 <TRANS>__{DISSOLVE TO:}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. KENNEDY CAMPAIGN OFFICE - DAY}
 <ACTION>__{Toby enters the small office where Caroline is running hundreds of flyers on a duplicating machine. Surprised she sees Toby's expression.}
 <CHAR>__{CAROLINE} <CHAR_PAR>__{}

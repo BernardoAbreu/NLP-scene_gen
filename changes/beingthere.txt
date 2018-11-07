@@ -507,7 +507,7 @@
 <DIAL_PAR>__{(rushes back to limo)}
 <DIAL>__{... My Lord...}
 <CHAR>__{JEFFREY} <CHAR_PAR>__{}
-<DIAL>__{This is terrible, sir -  I hope you're not badly injured...}
+<DIAL>__{This is terrible, sir - I hope you're not badly injured...}
 <CHAR>__{CHANCE} <CHAR_PAR>__{}
 <DIAL>__{No. I'm not badly injured. But my leg is very sore.}
 <ACTION>__{David pulls the car forward, freeing Chance. A few bystanders begin to gather as Jeffrey helps Chance to the sidewalk.}
@@ -1840,7 +1840,7 @@
 <ACTION>__{Hull takes Chance into the MAKE-UP room.}
 <LOC>__{INT. RAND MANSION - CHANCE'S ROOM - NIGHT}
 <ACTION>__{Constance is in the closet, searching through Chance's pockets, finding nothing. She takes out a small knife, cuts a label from one of the jackets. Quickly, she examines one of Chance's shoes, copies the name of the shoemaker in a notebook. Constance hurries to the dresser, continues her search.}
-<LOC>__{INT. TV STATION - CORRIDOR/MAKEUP ROOM  NIGHT}
+<LOC>__{INT. TV STATION - CORRIDOR/MAKEUP ROOM NIGHT}
 <ACTION>__{COLSON, the makeup man, comes through the corridor carrying a glass of water. He turns into the makeup room, goes to Chance who sits in front of the lights. Hull sits next to Chance, briefs him on the show. Chance has his eyes on a TV monitor, watches the guest preceding him on "This Evening."}
 <CHAR>__{COLSON} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gives Chance water)}
@@ -2958,7 +2958,7 @@
 <DIAL_PAR>__{(a beat)}
 <DIAL>__{... I would like to share with you a few quotes, and a few feelings from our dear friend.}
 <DIAL_PAR>__{(holds up paper, reads)}
-<DIAL>__{... 'I do not regret having political differences with men that I respect; I do regret, however, that our philosophies kept us apart.' ... 'I have no use for those on welfare, no patience whatsoever... But, if I am to be honest with myself, I must admit that they have no use for me, either.' ... 'I was born into a position of extreme wealth, I have spent many sleepless nights thinking about extreme poverty -  I do not know the feelings of being poor, and that is not to know the feelings of the majority of people in this world. For a man in my position, that is inexcusable.' 'Life is a state of mind.' ... 'When I was a boy, I was told that the Lord fashioned us from his own image. That's when I decided to manufacture mirrors.'}
+<DIAL>__{... 'I do not regret having political differences with men that I respect; I do regret, however, that our philosophies kept us apart.' ... 'I have no use for those on welfare, no patience whatsoever... But, if I am to be honest with myself, I must admit that they have no use for me, either.' ... 'I was born into a position of extreme wealth, I have spent many sleepless nights thinking about extreme poverty - I do not know the feelings of being poor, and that is not to know the feelings of the majority of people in this world. For a man in my position, that is inexcusable.' 'Life is a state of mind.' ... 'When I was a boy, I was told that the Lord fashioned us from his own image. That's when I decided to manufacture mirrors.'}
 <LOC>__{INT. LARGE AUDITORIUM - DAY}
 <ACTION>__{Ah auditorium with row upon row of empty seats. Huddled together at one end of the hall are six important businessmen, speaking in hushed tones. JAMES DUDLEY, a powerful industrialist, speaks.}
 <CHAR>__{DUDLEY} <CHAR_PAR>__{}

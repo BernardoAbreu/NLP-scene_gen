@@ -188,8 +188,8 @@
 <CHAR>__{ASAKAWA} <CHAR_PAR>__{}
 <DIAL>__{But I wonder what this rumors all about. Everyone you ask always mentions Izu.}
 <CHAR>__{KOMIYA} <CHAR_PAR>__{}
-<DIAL>__{Maybe thats where it all started. Hey, where was that Kuchi-sake Onna * story from again?}
-<ACTION>__{>* Literally Ripped-Mouth Lady, a kind of ghastly spectre from >Japanese folk stories who wears a veil to hide her mouth, which >has been ripped or cut open from ear to ear. She wanders the >countryside at night asking men Do you think Im beautiful? then >lowering her veil to reveal her true features.}
+<DIAL>__{Maybe thats where it all started. Hey, where was that Kuchi-sake Onna  story from again?}
+<ACTION>__{> Literally Ripped-Mouth Lady, a kind of ghastly spectre from >Japanese folk stories who wears a veil to hide her mouth, which >has been ripped or cut open from ear to ear. She wanders the >countryside at night asking men Do you think Im beautiful? then >lowering her veil to reveal her true features.}
 <CHAR>__{ASAKAWA} <CHAR_PAR>__{}
 <DIAL>__{Gifu, but there was some big accident out there, and that ended up being what started the rumor.}
 <CHAR>__{KOMIYA} <CHAR_PAR>__{}
@@ -256,7 +256,7 @@
 <ACTION>__{Yoichi walks into the room and faces his mother.}
 <CHAR>__{YOICHI} <CHAR_PAR>__{}
 <DIAL>__{Why did Tomo-chan die?}
-<ACTION>__{>* -chan is a suffix in Japanese that denotes closeness or affection. >It is most often used for young girls, though it can also be used for >boys.}
+<ACTION>__{> -chan is a suffix in Japanese that denotes closeness or affection. >It is most often used for young girls, though it can also be used for >boys.}
 <CHAR>__{ASAKAWA} <CHAR_PAR>__{}
 <DIAL>__{Well... it looks like she was really, really sick.}
 <ACTION>__{She takes a seat on the bed.}
@@ -645,7 +645,7 @@
 <DIAL>__{Nice to meet you.  Im Takano.}
 <CHAR>__{ASAKAWA} <CHAR_PAR>__{}
 <DIAL>__{Asakawa.}
-<ACTION>__{> * As you may already be aware, Japanese name order is the >opposite of Englishs, and even close friends may continue to >address one another by their last names.  Incidentally, Asakawas >first name is Reiko.  In this scene, Mai deferentially refers >to Ryuji as sensei, meaning teacher. Mai sets the bag of groceries down and chases after Ryuji.  He is putting on his jacket and getting ready to leave.}
+<ACTION>__{>  As you may already be aware, Japanese name order is the >opposite of Englishs, and even close friends may continue to >address one another by their last names.  Incidentally, Asakawas >first name is Reiko.  In this scene, Mai deferentially refers >to Ryuji as sensei, meaning teacher. Mai sets the bag of groceries down and chases after Ryuji.  He is putting on his jacket and getting ready to leave.}
 <CHAR>__{MAI} <CHAR_PAR>__{}
 <DIAL>__{Sensei, the people from the publishing company called about the deadline on your thesis again.}
 <CHAR>__{RYUJI} <CHAR_PAR>__{}
@@ -703,7 +703,7 @@
 <DIAL>__{Hello?}
 <CHAR>__{RYUJI } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Ive got it.  Its a dialect, just like I thought.  SHOUMON means playing in the water and BOUKON means monster.}
-<ACTION>__{>* Translated from standard Japanese, the phrase from the videotape >would initially have sounded like, "If only SHOUMON then the >BOUKON will come."  These two capitalized words, later identified to >be dialectical, were at the time completely incomprehensible to Ryuji >and Asakawa.  Dialect can vary dramatically from region to region in >Japan, to the point of speakers of different dialect being unable to >understand one another. >The phrase on the tape can now be rendered, "If you keep playing in >the water, the monster will come for you."}
+<ACTION>__{> Translated from standard Japanese, the phrase from the videotape >would initially have sounded like, "If only SHOUMON then the >BOUKON will come."  These two capitalized words, later identified to >be dialectical, were at the time completely incomprehensible to Ryuji >and Asakawa.  Dialect can vary dramatically from region to region in >Japan, to the point of speakers of different dialect being unable to >understand one another. >The phrase on the tape can now be rendered, "If you keep playing in >the water, the monster will come for you."}
 <CHAR>__{ASAKAWA} <CHAR_PAR>__{}
 <DIAL>__{But, dialect from where?}
 <CHAR>__{RYUJI} <CHAR_PAR>__{}
@@ -1053,7 +1053,7 @@
 <ACTION>__{to Ryuji on the beach.  He looks up excitedly.}
 <CHAR>__{RYUJI} <CHAR_PAR>__{}
 <DIAL>__{Sadako?!}
-<ACTION>__{He recalls the image from the video, the alien eye with the single character SADA reflected in reverse. >* The majority of girls' names in Japanese end in either -mi ("beauty") >or -ko ("child").  Thus, Sadako means "Chaste child."  Sadako is, of >course, the mysterious daughter of Shizuko and Professor Ikuma.}
+<ACTION>__{He recalls the image from the video, the alien eye with the single character SADA reflected in reverse. > The majority of girls' names in Japanese end in either -mi ("beauty") >or -ko ("child").  Thus, Sadako means "Chaste child."  Sadako is, of >course, the mysterious daughter of Shizuko and Professor Ikuma.}
 <CHAR>__{RYUJI} <CHAR_PAR>__{}
 <DIAL>__{Sadako killed him?  She can kill just with a thought?}
 <CHAR>__{YAMAMURA} <CHAR_PAR>__{}

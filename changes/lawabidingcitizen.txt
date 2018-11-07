@@ -339,7 +339,7 @@
 <CHAR>__{SARAH} <CHAR_PAR>__{}
 <DIAL>__{There they are. Like clockwork.}
 <ACTION>__{ANGLE SHIFTS TO Sarah -- much more confident and power-suited than last time we saw her -- riding up front with the driver.}
-<LOC>__{EXT. AERIAL ESTABLISHING - GEORGE HILL PRISON - LATE DAY          19A*}
+<LOC>__{EXT. AERIAL ESTABLISHING - GEORGE HILL PRISON - LATE DAY          19A}
 <ACTION>__{The car pulls up to the gate as CAMERA RISES to reveal the new facility positioned right next to the old one...}
 <LOC>__{INT. EXECUTION CHAMBER - NIGHT}
 <ACTION>__{The condemned, RUPERT AMES, is placed against the upright execution table and buckled in. The table is tilted back to vertical. All Rupert can do is lay there and watch, as: MEDICAL TECHS swab his arms with alcohol, prepare the needles, find his veins. The needles are inserted, taped off. The I.V. lines are attached. Very methodical. The techs leave the room. The curtain is drawn aside, revealing the big window that separates the chamber from:}
@@ -397,7 +397,7 @@
 <ACTION>__{A beat of awkward silence. The warden hesitating.}
 <CHAR>__{SARAH} <CHAR_PAR>__{}
 <DIAL>__{Show them. The bad part.}
-<LOC>__{INT. PHONE JUNCTION ROOM - NIGHT                                23*}
+<LOC>__{INT. PHONE JUNCTION ROOM - NIGHT                                23}
 <ACTION>__{Dunnigan brings our group in. ELECTRICIANS huddle at an array of circuits and trunk lines. In the dancing flashlight beams:}
 <CHAR>__{DUNNIGAN} <CHAR_PAR>__{}
 <DIAL>__{Some kind of bypass on the phone lines.}
@@ -472,7 +472,7 @@
 <DIAL_PAR>__{(off Nick's look)}
 <DIAL>__{Maybe we played this asshole to our advantage on the street, but you're the one who put him there. So, no offense, but you might wanna go fuck yourself a little.}
 <ACTION>__{Nick stares at the man on the dashboard computer screen...}
-<LOC>__{INT. CLARENCE DARBY'S HOUSE - NIGHT                               27*}
+<LOC>__{INT. CLARENCE DARBY'S HOUSE - NIGHT                               27}
 <ACTION>__{...who is indeed Clarence Darby, naked and drenched with sweat, taking a hit off a crack pipe. A woman's HAND flails up into frame, trying to grab for it.}
 <CHAR>__{DARBY} <CHAR_PAR>__{}
 <DIAL>__{Wait...wait...}
@@ -620,9 +620,9 @@
 <CHAR>__{BENSON CLYDE} <CHAR_PAR>__{}
 <DIAL>__{You took them from me.}
 <ACTION>__{Recognition floods Darby. He pulls the trigger, and: Nothing. Just a click, Darby freezing, a hiss of pain. Not comprehending. Clyde reaches for the gun, pries open Darby's fingers, pulls it from his grasp... revealing the TINY NEEDLES that sprang from the pistol's grip into Darby's palm. Darby stares at his perforated palm. His knees give out and Clyde catches him, eases him to the ground.}
-<LOC>__{36     OMITTED                                                        36*}
+
 <ACTION_ALT>__{THRU                                                                  THRU}
-<LOC>__{38 INT. FARM SHED - NIGHT                                         39*}
+<LOC>__{38 INT. FARM SHED - NIGHT                                         39}
 <ACTION>__{ANGLE: A head encased in a hood. The hood is pulled off, revealing Darby -- eyes wide, lying on a rough table. Benson Clyde leans over him, checks his pupils.}
 <CHAR>__{CLYDE} <CHAR_PAR>__{}
 <DIAL>__{Can't speak?}
@@ -678,7 +678,7 @@
 <CHAR>__{FEMALE VOICE} <CHAR_PAR>__{}
 <DIAL>__{...unit twenty one, come in...unit twenty one, please respond...report your location...}
 <ACTION>__{The mysterious figure strides from the police cruiser to a MIDNIGHT BLUE 1965 LINCOLN CONTINENTAL in superb condition, shrugging off his thick coat. He gets in, hits the gas. Hilts struggles to uncuff himself in the cruiser's trunk, arms and legs cramping, as: The Lincoln becomes a CLOUD OF DUST receding in the distance...}
-<LOC>__{INT. NICK'S KITCHEN - MORNING                                     42*}
+<LOC>__{INT. NICK'S KITCHEN - MORNING                                     42}
 <ACTION>__{Cleaning up the aftermath of the party: Nick up on a step- stool taking down the birthday banner; Kell in her robe feeding the dishwasher; Emma zooming in and out shuttling paper plates and plastic cups into a big trash bag...}
 <CHAR>__{EMMA} <CHAR_PAR>__{}
 <DIAL>__{...and while we were singing karaoke, Ashley was all dancing around and jumping up and down and suddenly she gets this look on her face...}
@@ -743,17 +743,17 @@
 <DIAL_PAR>__{(comforting Emma)}
 <DIAL>__{It's okay, baby, I'm here...}
 <ACTION>__{Nick lunges to turn off the TV as: FROM THIS POINT ONWARD, WE PLAY THE SEQUENCE AS MONTAGE:}
-<LOC>__{INT. FARM SHED - DAY                                              47*}
+<LOC>__{INT. FARM SHED - DAY                                              47}
 <ACTION>__{The door is swung open in a blaze of sunlight. The local cops enter with pistols drawn and shotguns leveled. Faces go stark with horror as their eyes adjust.}
 <CHAR>__{SERGEANT} <CHAR_PAR>__{}
 <DIAL>__{Oh my Lord.}
-<LOC>__{INT. A RENOVATED FARMHOUSE SOMEWHERE - DAY                        48*}
+<LOC>__{INT. A RENOVATED FARMHOUSE SOMEWHERE - DAY                        48}
 <ACTION>__{A RECORD is pulled from a sleeve. An old-school vinyl LP.}
-<LOC>__{INT. FARM SHED - DAY                                              49*}
+<LOC>__{INT. FARM SHED - DAY                                              49}
 <ACTION>__{Cops easing in. ANGLE SWINGS QUEASILY AROUND as they enter, WIDENING to reveal a scene of nightmare intensity: Blood everywhere. Streaks. Spatters. And body parts. Strewn and discarded. Intestines nailed to the rafters overhead.}
 <LOC>__{INT. FARMHOUSE - DAY}
 <ACTION>__{A RECORD PLAYER NEEDLE DROPS, hits the groove with a HISS of vinyl. MUSIC STARTS TO PLAY LOUDLY, BOOMING through the space. FOCUS REMAINS WITH the spinning record. An OUT-OF-FOCUS FIGURE in a rolling chair pushes away from the record player and sails across the room toward a brightly-lit work table...}
-<LOC>__{INT. FARM SHED - DAY (SONG CONTINUES)                             51*}
+<LOC>__{INT. FARM SHED - DAY (SONG CONTINUES)                             51}
 <ACTION>__{Cops are covering their mouths with handkerchiefs, gagging. The stench is incredible. Flies are buzzing and swarming. One cop turns away and doubles over, trying not to puke. The Sergeant moves cautiously forward, finds: A HEAD. On the wooden dissection table. Clarence Darby, not that you'd recognize him. His eyes are gone. His lips are missing. His teeth...well, most of them are scattered about.}
 <LOC>__{INT. FARMHOUSE - DAY (SONG CONTINUES)}
 <ACTION>__{A MINIATURE CIVIL WAR SOLDIER is held in extreme magnification before us under a tabletop magnifier, the tip of a paintbrush delicately evoking stunning detail...}
@@ -994,7 +994,8 @@
 <CHAR>__{KELL} <CHAR_PAR>__{}
 <DIAL>__{Especially not that man. Daddy's gonna put him in jail forever. That's what daddy does. He makes sure the bad people stay locked away.}
 <ACTION>__{Nick lays there, listening...}
-<LOC>__{68   OMITTED                                                          68* INT. "THE DOME" - DAY                                            69*}
+
+<LOC>__{INT. "THE DOME" - DAY                                            69}
 <ACTION>__{A huge domed chamber. In the center of the floor stands a smaller free-standing domed cage, like a bizarre birdcage. Inside the birdcage: Nick and Garza wait. Garza mans a camera. Outside the birdcage: Observers. Some (Cantrell and Sarah) occupy floor-level, where the video monitors are. Others (Iger and Dunnigan) are on a catwalk above that encircles the room. A door opens and Clyde is brought into the birdcage. He gazes around, checking his surroundings.}
 <CHAR>__{CLYDE} <CHAR_PAR>__{}
 <DIAL>__{I admit I expected something more modern. That jail downtown?}
@@ -1187,7 +1188,8 @@
 <ACTION>__{PUSH IN ON Clyde in the frozen silence...}
 <CHAR>__{CLYDE} <CHAR_PAR>__{}
 <DIAL>__{You want the location of the body? Tonight, 7 p.m., I get my meal delivered to my cell from La Traviata.}
-<LOC>__{75   OMITTED                                                         75* EXT. ROOFTOP HELIPAD - FEDERAL BUILDING - DAY                   76*}
+
+<LOC>__{EXT. ROOFTOP HELIPAD - FEDERAL BUILDING - DAY                   76}
 <ACTION>__{A HELICOPTER THROTTLES UP, everything moving fast: an FBI FIELD TEAM, led by AGENT SAM DAVIES, emerges from a staircase door onto the roof, where they are met by Nick and Dunnigan. Davies dons his kevlar vest on the move toward the waiting copter, everybody SHOUTING over the rotors:}
 <CHAR>__{DUNNIGAN} <CHAR_PAR>__{}
 <DIAL>__{SPECIAL AGENT SAM DAVIES, NICK PRICE WITH THE D.A.'S OFFICE!}
@@ -1850,7 +1852,7 @@
 <ACTION>__{He lands on Cantrell. Silence. Cantrell obviously can't see.}
 <CHAR>__{CANTRELL} <CHAR_PAR>__{}
 <DIAL>__{Who's he pointing at?}
-<LOC>__{EXT. PRISON COURTYARD - DAY                                      126*}
+<LOC>__{EXT. PRISON COURTYARD - DAY                                      126}
 <ACTION>__{Everybody on the move, emotions high:}
 <CHAR>__{CANTRELL} <CHAR_PAR>__{}
 <DIAL>__{Fuck him. Let him try.}
@@ -2331,7 +2333,8 @@
 <ACTION>__{FAST CUT: Judge Burch and those around her reacting as the glare of the rocket approaches in a heartbeat -- WHAM! OUR SECOND EXPLOSION of the night takes out the ballroom, killing dozens, blowing flame and debris across the room...}
 <LOC>__{EXT. STREET - NIGHT}
 <ACTION>__{Nick sees it: the contrail, the second blast, all of it. It stops him dead in his tracks. Just overwhelmed.}
-<LOC>__{169   OMITTED                                                            169* INT. CANTRELL'S SUITE - NIGHT                                      170*}
+
+<LOC>__{INT. CANTRELL'S SUITE - NIGHT                                      170}
 <ACTION>__{Garza and his guys come stumbling and bleeding from the room they were in. They get to the top of the stairs, find the front of the suite open to the windy sky outside...}
 <CHAR>__{FLEMING} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gasping on radio)}
@@ -2548,12 +2551,12 @@
 <DIAL>__{That's right below the ballroom. The Mayor's event.}
 <LOC>__{INT. 6TH FLOOR HALLWAY AND BALLROOM - NIGHT}
 <ACTION>__{Early arrivals are coming up, entering the ballroom. The place is crawling with SECRET-SERVICE TYPES in suits.}
-<LOC>__{INT. 5TH FLOOR HALLWAY - NIGHT                                    200*}
+<LOC>__{INT. 5TH FLOOR HALLWAY - NIGHT                                    200}
 <ACTION>__{Clyde comes down the hallway B.G., rolling his cart... F.G., ANGLE FINDS tactical cops with machine guns pouring quietly up the stairs, taking up positions just around the corners, poised and tense. TIGHTEN IN as the TAC LEADER uses a small mirror to peek around the corner and spot Clyde:}
 <CHAR>__{TAC LEADER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(whispering on headset)}
 <DIAL>__{Subject in sight. Do we take him?}
-<LOC>__{INT. ANOTHER STAIRCASE - NIGHT                                   201*}
+<LOC>__{INT. ANOTHER STAIRCASE - NIGHT                                   201}
 <ACTION>__{Nick, Dunnigan and others are racing up the steps. Dunnigan raises his radio to say yes, but:}
 <CHAR>__{NICK} <CHAR_PAR>__{}
 <DIAL>__{No. Let him go.}

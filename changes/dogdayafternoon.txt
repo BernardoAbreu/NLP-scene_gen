@@ -1747,7 +1747,7 @@
 <ACTION>__{Terrified.  He really can't do it.}
 <ACTION_ALT>__{ON MORETTI}
 <ACTION>__{waiting.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. BANK - TURNING DARK NOW}
 <ACTION>__{as the phone rings.  Sonny picks it up, hears Moretti's voice.}
 <CHAR>__{MORETTI } <CHAR_PAR>__{(V.O.)}
@@ -1775,7 +1775,7 @@
 <ACTION_ALT>__{SOUND OF JET}
 <CHAR>__{SONNY} <CHAR_PAR>__{}
 <DIAL>__{Where's the god-damn jet?  They're always flying overhead - going somewhere.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. KENNEDY AIRPORT - NIGHT}
 <ACTION>__{FBI snipers area at positions, waiting.  A small group of men make a last check.  A signal is given.  They get in their car and drive away.  An FBI sniper lights a cigarette and settles down to wait, moving his rifle to a comfortable position.}
 <LOC>__{EXT. APARTMENT HOUSE FIRE ESCAPE - NIGHT}
@@ -2298,7 +2298,7 @@
 <DIAL_PAR>__{(continuing)}
 <DIAL>__{No, no!  I want a top specialist for my friend, I expect to pay top money.}
 <ACTION>__{He's hustled him to the door, where he ushers him out door.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{EXT. BANK (HIS POV) - A BANNER - NEW ANGLE [1ST GAY DEMO]}
 <ACTION>__{hastily made, about 40 feet long, being raised above the heads of crowd to where Sonny can see it.  We can't read it until it's all the way up.  Then is reads:}
 <ACTION_ALT>__{WE LOVE YOU LOVE YOU SONNY}
@@ -2784,7 +2784,8 @@
 <ACTION>__{They're getting off his belt, his shoe laces...}
 <CHAR>__{HEIDI } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Because he always had a way of getting out, always in the army he was AWOL...}
-<ACTION_ALT>__{OMITTED BACK TO SONNY}
+
+<ACTION_ALT>__{BACK TO SONNY}
 <ACTION>__{manacled and helpless.  He is twisted into some yet more uncomfortable position by the uncaring Agents.}
 <CHAR>__{HEIDI } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{I can't help thinking how he might ring the bell one of these days. That's why I'm nervous, because I'm always thinking some day he's gonna come along and ring the bell...}
@@ -2834,7 +2835,7 @@
 <DIAL>__{I'm glad.  Life is easier with him in prison.}
 <CHAR>__{HEIDI} <CHAR_PAR>__{}
 <DIAL>__{It would be like always, the bell would ring, we'd have a ball.}
-<ACTION_ALT>__{OMITTED}
+
 <TRANS>__{BEGIN TITLE AND CREDITS:}
 <ACTION>__{SINCE THERE WILL BE NO BEGINNING TITLE OR CREDITS, THE PICTURE LOGO WILL FLASH ON SCREEN NOW, AND END MUSIC UP: AS PACINO'S CREDIT IS SEEN, OVER A STILL OF HIM FROM THE PICTURE: THE FOLLOWING IS SUPERIMPOSED: SONNY IS SERVING TWENTY-FIVE YEARS IN FEDERAL PRISON.}
 <TRANS>__{AS LEON IS SEEN:}

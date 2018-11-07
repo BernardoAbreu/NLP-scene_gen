@@ -8,7 +8,7 @@
 <ACTION>__{He approaches a booth, says something in the din to the men there, then calmly shoots them and exits.}
 <ACTION_ALT>__{AMERICAN GANGSTER}
 <LOC>__{EXT. HARLEM STREET - DAY (NOVEMBER)}
-<ACTION>__{Bumpy Johnson, an elderly but still sturdy black man, elegantly dressed - cashmere overcoat, gloves, Homburg - stands in falling snow atop a flatbed truck - as he does every Thanksgiving - tossing down turkeys to the poor - like a benign king. Legend:   Harlem A younger man, the gunman from the club - Frank Lucas - Bumpy's driver/bodyguard/collector/protege - watches from below.}
+<ACTION>__{Bumpy Johnson, an elderly but still sturdy black man, elegantly dressed - cashmere overcoat, gloves, Homburg - stands in falling snow atop a flatbed truck - as he does every Thanksgiving - tossing down turkeys to the poor - like a benign king. Legend: Harlem A younger man, the gunman from the club - Frank Lucas - Bumpy's driver/bodyguard/collector/protege - watches from below.}
 <LOC>__{INT/EXT. STREET / DISCOUNT EMPORIUM - DAY (NOVEMBER)}
 <ACTION>__{Whispering gunfire from a television set veiled by foreground snow: Soldiers in the jungles of Vietnam in}
 <LOC>__{1970. A rich, cultured, authoritative voice offers:}
@@ -57,7 +57,7 @@
 <CHAR>__{BANKER} <CHAR_PAR>__{}
 <DIAL>__{What a loss.}
 <DIAL_PAR>__{(Frank nods)}
-<DIAL>__{How are you otherwise?   Things okay financially?}
+<DIAL>__{How are you otherwise? Things okay financially?}
 <ACTION>__{Frank doesn't say. It feels unseemly to him to be talking about money here. He watches Tango carelessly set a watery glass of ice on an antique inlaid chess table.}
 <CHAR>__{BANKER} <CHAR_PAR>__{}
 <DIAL>__{Bumpy set something up for you?}
@@ -66,7 +66,7 @@
 <DIAL>__{Hey, Frank, get me an ashtray while you're at it.}
 <ACTION>__{Bumpy's German shepherd watches as Frank reaches into his jacket, revealing a gun nestled in its shoulder holster. He takes out a handkerchief, wipes the condensation dry, opens a drawer and removes an ashtray. He holds it out to Tango - who isn't sure it's not a dare and decides to wander off.}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
-<DIAL>__{I know you're hurting, Frank.    So am I.}
+<DIAL>__{I know you're hurting, Frank. So am I.}
 <ACTION>__{Frank sits back down with Charlie Williams, an older dope man.}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
 <DIAL>__{You going to be all right?}
@@ -97,8 +97,8 @@
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{And that's what you want to do for a living.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{I don't like being like that.     I want to beat it.}
-<ACTION>__{Armed with the sledgehammer, Richie and his partner - Javy Rivera - come past a seedy motel office where a TV shows another report about Bumpy Johnson. Legend:   New Jersey A motel clerk looks up, glimpses the sledgehammer -}
+<DIAL>__{I don't like being like that. I want to beat it.}
+<ACTION>__{Armed with the sledgehammer, Richie and his partner - Javy Rivera - come past a seedy motel office where a TV shows another report about Bumpy Johnson. Legend: New Jersey A motel clerk looks up, glimpses the sledgehammer -}
 <CHAR>__{CLERK} <CHAR_PAR>__{}
 <DIAL>__{Hey -}
 <ACTION>__{Rivera flashes a New Jersey detective's shield without breaking stride. Takes a subpoena out of another pocket.}
@@ -128,7 +128,7 @@
 <DIAL>__{What can we do, Richie? You don't want to do this. For old times sake, what can we do? Who do you want? Who can I give you? You want Big Sal's bookie? You want his accountant? I'll give him to you.}
 <ACTION>__{Richie regards him a moment. A policy ring's accountant wouldn't be bad. He glances back to his paramedic dabbing at his bloody hand, and notices she's not bad-looking. She smiles back.}
 <LOC>__{INT. NY POLICE HQ - ENTRANCE/STAIRS - DAY}
-<ACTION>__{Four men in long black leather coats stride toward like they own the city. It's impossible to tell if they're cops or gangsters. Legend:   New York City}
+<ACTION>__{Four men in long black leather coats stride toward like they own the city. It's impossible to tell if they're cops or gangsters. Legend: New York City}
 <LOC>__{INT. NEW YORK POLICE ANNEX - PROPERTY ROOM - DAY}
 <ACTION>__{One of the same undercover cops - Detective Trupo - scribbles a signature and badge number different from the one on his gold shield lying next to the voucher requesting evidence needed in court. He pushes the voucher under a sign - "All Handguns and Narcotics Before 10am Next Window" - to a clerk who takes it past floor-to-ceiling shelves covered with files, plastic bags bulging with handguns, knives and gambling receipts. Bulkier items - like shotguns and baseball bats - lie unwrapped with dangling tags. The clerk reaches a chain-link cage where the most valuable items are locked up - narcotics, pornography, cash - checks the voucher against tags, takes down an old green suitcase.}
 <LOC>__{EXT. WAREHOUSE - DAY}
@@ -139,7 +139,7 @@
 <DIAL>__{Now just enough for the reagent test.}
 <ACTION>__{He removes one tablespoon of heroin from each of the baggies, and the now-almost-heroin-free powder is mixed through the flour sifter, poured back into the clear bags, the tape resealed, the bags returned to the suitcase.}
 <LOC>__{INT. NY COURTROOM - DAY}
-<ACTION>__{The suitcase and   "heroin," and some weapons and money, have been arranged on   an evidence table with the care of a Macy's display window.    Trupo - the officer in charge of the case - watches the jury   files in -}
+<ACTION>__{The suitcase and "heroin," and some weapons and money, have been arranged on an evidence table with the care of a Macy's display window. Trupo - the officer in charge of the case - watches the jury files in -}
 <LOC>__{EXT. UNDER EXPRESSWAY - DAY}
 <ACTION>__{A Lincoln Continental pulls up. Trupo climbs out of his Shelby with a sports bag, crosses to the Lincoln, climbs in back where an Italian wise guy - Rossi - sits. Trupo unzips the bag revealing the recut heroin - in the yellow plastic.}
 <DIAL>__{ROSSI V/O This is the French Connection dope. The same dope Popeye Doyle and Sonny Grasso took from us.}
@@ -160,19 +160,19 @@
 <DIAL>__{Things are never going to be the same in Harlem. The girls, the clubs, the music - walk down the street, nobody bothers you because Bumpy's making sure of it.}
 <DIAL_PAR>__{(hands Frank one of the espressos)}
 <DIAL>__{How bad is it there now?}
-<LOC>__{18pt   FLASHCUTS TO HARLEM                                            18pt}
+<LOC>__{18pt FLASHCUTS TO HARLEM 18pt}
 <ACTION>__{Guys barge into a room, steal money from a crap game at gunpoint - Cops push guys against a bar, empty their pockets - A dealer shoots another dealer in an alley -}
-<LOC>__{18pt   BACK TO THE HOTEL ROOM                                         18pt}
+<LOC>__{18pt BACK TO THE HOTEL ROOM 18pt}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{It's chaos.    Every gorilla for himself.}
+<DIAL>__{It's chaos. Every gorilla for himself.}
 <CHAR>__{ROSSI} <CHAR_PAR>__{}
 <DIAL>__{Who can live like that? There has to be order. That would never happen with Italians. More important than any one man's life - is order.}
 <LOC>__{EXT. HARLEM - DAY}
-<ACTION>__{A street sign on a corner:        116th and 8th Avenue.}
+<ACTION>__{A street sign on a corner: 116th and 8th Avenue.}
 <LOC>__{INT. DINER - HARLEM - DAY}
 <ACTION>__{As is his custom, Frank eats breakfast alone. A middle- aged waitress appears when he's done, picks up his plate and refills his coffee.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Thank you, Charlene.      Last one.}
+<DIAL>__{Thank you, Charlene. Last one.}
 <CHAR>__{CHARLENE} <CHAR_PAR>__{}
 <DIAL>__{It's all right with me, Frank, you can stay all day if you want, but I wouldn't. It's nice outside.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -190,7 +190,7 @@
 <DIAL>__{Thank Frank.}
 <ACTION>__{Frank nods, you're welcome before the man can thank him. The servicemen start cooking up the dope.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{How's Nate?   You seen him?}
+<DIAL>__{How's Nate? You seen him?}
 <CHAR>__{SERVICEMAN 1} <CHAR_PAR>__{}
 <DIAL>__{All the time. Nate is everywhere. He's good. Got himself a club now.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -213,9 +213,9 @@
 <LOC>__{EXT. NEWARK - SCRAP METAL YARD - LATE AFTERNOON}
 <ACTION>__{From the parked car they observe the accountant putting another bag in his trunk.}
 <LOC>__{EXT. STREET - NEWARK - LATE AFTERNOON}
-<ACTION>__{He comes out of another place with another bag.       To Campizi -}
+<ACTION>__{He comes out of another place with another bag. To Campizi -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{All right.   Get lost.    Get out.}
+<DIAL>__{All right. Get lost. Get out.}
 <ACTION>__{Campizi slinks out of the car. Richie and Rivera follow after Newsboy Moriarty's accountant's car.}
 <LOC>__{EXT. PARKING LOT - LATE AFTERNOON}
 <ACTION>__{They tail the car into a lot, park and watch the accountant leave his car and get into another car that's parked there.}
@@ -228,9 +228,9 @@
 <ACTION>__{All the other cars are gone. Rivera climbs into Richie's with coffee and a Coke in a bag, hands him the can.}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{Think he made us?}
-<ACTION>__{Richie doesn't know. Glances at his watch.      Cranes in his seat to look behind them.}
+<ACTION>__{Richie doesn't know. Glances at his watch. Cranes in his seat to look behind them.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{You called for the warrant?     Where are they?}
+<DIAL>__{You called for the warrant? Where are they?}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{I just called. I called and walked back here and ten seconds has gone by.}
 <ACTION>__{Richie watches an attendant lock up, listens to the street lamps buzz, grows impatient. Indicating the other car:}
@@ -277,7 +277,7 @@
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{This isn't a couple of bucks.}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
-<DIAL>__{It's the same thing.   In principle.}
+<DIAL>__{It's the same thing. In principle.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{We're talking about principle?}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
@@ -310,20 +310,20 @@
 <ACTION>__{Tango and his bodyguard come in and approach Frank's table where he reads the morning paper as he eats breakfast.}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
 <DIAL>__{Didn't you see the jar, Frank? I think you walked right past it.}
-<ACTION>__{Frank ignores him, forks at his eggs, eats.    Tango sits.}
+<ACTION>__{Frank ignores him, forks at his eggs, eats. Tango sits.}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
-<DIAL>__{The money jar. On the corner.      What I got to do, put a sign on it?}
+<DIAL>__{The money jar. On the corner. What I got to do, put a sign on it?}
 <ACTION>__{Frank indicates that he would answer if his mouth wasn't full. He swallows finally, but then only reaches for his coffee cup to take a sip, further irritating Tango.}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
 <DIAL>__{Bumpy don't own 116th Street no more, Frank. Bumpy don't own no real estate in Harlem no more. I'm the landlord now and the lease is twenty-percent.}
 <ACTION>__{Frank dabs at his mouth with a napkin and gives Tango a look that says that won't be happening.}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
 <DIAL>__{Then don't sell dope, Frank. Get a fuckin job. You need a job? You can be my driver, drive me around, open my door, yes, sir, no sir, where to, sir, right away, Massa Johnson, sir.}
-<ACTION>__{Right now Tango is dead. No doubt about it.          On the surface, though, Frank remains cool.}
+<ACTION>__{Right now Tango is dead. No doubt about it. On the surface, though, Frank remains cool.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Twenty percent?}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
-<DIAL>__{Of every dollar. Every VIG, every truckload, every girl, every ounce.      In the jar.}
+<DIAL>__{Of every dollar. Every VIG, every truckload, every girl, every ounce. In the jar.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Twenty percent's my profit. If I'm giving it to you then what am I doing? Twenty percent puts me, and everyone you know, out of business, which puts you out of business.}
 <DIAL_PAR>__{(reaches for his breakfast check)}
@@ -332,7 +332,7 @@
 <DIAL>__{Bumpy's fuckin dead.}
 <ACTION>__{Frank regards Tango a moment, gets up, takes out his money clip, covers the check on the table with a five, peels off a $1 bill from the clip, tosses it down in front of Tango.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{There.   That's twenty-percent.}
+<DIAL>__{There. That's twenty-percent.}
 <ACTION>__{As he turns and leaves, Tango watches after him ...}
 <LOC>__{INT. RICHIE'S APARTMENT - NIGHT}
 <ACTION>__{Stitched-up, black and blue hands dump a can of soup in a pot, put it on the stove.}
@@ -357,7 +357,7 @@
 <ACTION>__{Hot dog stand. Bumpy hands a hot dog to Frank, holds out another to the shepherd. To camera:}
 <CHAR>__{BUMPY} <CHAR_PAR>__{}
 <DIAL>__{What right do they have cutting out the suppliers, the middlemen, buying direct, putting Americans out of work ... This is the way it is now, Frank.}
-<ACTION>__{Frank nods. The vender hands him a napkin. The shepherd is still with him, but Bumpy is gone, and the gulls and the people on the roller coaster squeal as Frank comes out of his meditative trance with an idea. CLOSE-UP: (DOCTOR'S OFFICE) A needle pierces the crook of Frank's arm.       Slight grimace. A cotton ball is pushed onto the puncture.       Malaria shot. CLOSE-UP: (PHOTOGRAPHY SHOP) A strobe lights up Frank's face:      a passport photo. CLOSE-UP: (POST OFFICE) The photo and a duplicate are stapled to a passport application.}
+<ACTION>__{Frank nods. The vender hands him a napkin. The shepherd is still with him, but Bumpy is gone, and the gulls and the people on the roller coaster squeal as Frank comes out of his meditative trance with an idea. CLOSE-UP: (DOCTOR'S OFFICE) A needle pierces the crook of Frank's arm. Slight grimace. A cotton ball is pushed onto the puncture. Malaria shot. CLOSE-UP: (PHOTOGRAPHY SHOP) A strobe lights up Frank's face: a passport photo. CLOSE-UP: (POST OFFICE) The photo and a duplicate are stapled to a passport application.}
 <LOC>__{INT. CHEMICAL BANK - SAFETY-DEPOSIT ROOM - DAY}
 <ACTION>__{Keys turn the locks of a safety-deposit box. The lid lifts revealing decks of cash. Frank takes it all out, slips one slender packet into Bumpy's banker's jacket pocket.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -377,18 +377,18 @@
 <DIAL>__{I'm moving.}
 <ACTION>__{He looks back, not sure he heard right.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{What?   Where?}
+<DIAL>__{What? Where?}
 <CHAR>__{LAURIE} <CHAR_PAR>__{}
 <DIAL>__{To the St. Regis, what do you care.}
 <DIAL_PAR>__{(pause)}
 <DIAL>__{My sister's.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Your sister's. In Vegas?}
-<ACTION>__{He glances away to a sound: shattering glass.        Some teen- agers breaking bottles on the ground.}
+<ACTION>__{He glances away to a sound: shattering glass. Some teen- agers breaking bottles on the ground.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{You can't move to Vegas.     Not with Michael anyway.}
+<DIAL>__{You can't move to Vegas. Not with Michael anyway.}
 <CHAR>__{LAURIE} <CHAR_PAR>__{}
-<DIAL>__{What am I supposed to do with him?       Leave him with you? There's a picture.}
+<DIAL>__{What am I supposed to do with him? Leave him with you? There's a picture.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to the vandals)}
 <DIAL>__{Hey, you want to shut up over there?}
@@ -420,7 +420,7 @@
 <DIAL>__{Pick up the fuckin glass!}
 <ACTION>__{As they dive to their knees to do what they're told, Laurie walks away with her son, who looks back over his shoulder at his father with his gun out.}
 <LOC>__{EXT. BANGKOK - NIGHT}
-<ACTION>__{Frank sits in the back of a motor samlor.       Bicycles dart around it like flies.}
+<ACTION>__{Frank sits in the back of a motor samlor. Bicycles dart around it like flies.}
 <LOC>__{INT. SOUL BROTHERS BAR - NIGHT}
 <ACTION>__{The clientele is almost exclusively black servicemen on R&R and Asian women. A trio of ex-GI's plays authentic Southern blues on a small stage. Ham hocks and collard greens come out of the kitchen. Smoke chokes the place. Frank, one of the few men not in uniform, and not drunk or stoned, sits alone at a table with a Coca-Cola and surveys the activity: Dope being rolled. Dope being smoked. Dope being shot. GI's and prostitutes climbing a staircase. His eyes follow an Army Master Sergeant, moving among the tables as if checking on the GI's well being. But at some, his hand takes money, leaves in its place packets of powder. The Sergeant feels eyes on him and glances up, catching Frank watching him from across the room. He squints through the smoke at the figure at the table in the shadows, and, in a kind of shock, more to himself -}
 <CHAR>__{NATE} <CHAR_PAR>__{}
@@ -436,7 +436,7 @@
 <CHAR>__{THAI} <CHAR_PAR>__{}
 <DIAL>__{He's your cousin.}
 <CHAR>__{NATE} <CHAR_PAR>__{}
-<DIAL>__{My cousin-in-law.    My ex-wife's cousin.}
+<DIAL>__{My cousin-in-law. My ex-wife's cousin.}
 <CHAR>__{THAI} <CHAR_PAR>__{}
 <DIAL>__{Ask him how much he wants.}
 <CHAR>__{NATE} <CHAR_PAR>__{}
@@ -445,7 +445,7 @@
 <DIAL>__{A hundred kilos.}
 <ACTION>__{Nate blinks like there's something in his eye ...}
 <LOC>__{EXT. BANGKOK - STREET VENDER - DAY}
-<ACTION>__{Steam and neon.    Frank and Nate at a crowded stand.}
+<ACTION>__{Steam and neon. Frank and Nate at a crowded stand.}
 <CHAR>__{NATE} <CHAR_PAR>__{}
 <DIAL>__{No one I know can get that much. It'd have to be pieced together from several suppliers and none of it's gonna be 100- percent pure.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -454,7 +454,7 @@
 <DIAL>__{I know that. But that means dealing with the Chiu-Chou syndicates in Cholon or Saigon - if they'll deal with you -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{No, even then it's too late. It's been chopped. I want to get it where they get it. From the source.}
-<ACTION>__{Nate stares at him ... then laughs.       Frank doesn't.}
+<ACTION>__{Nate stares at him ... then laughs. Frank doesn't.}
 <CHAR>__{NATE} <CHAR_PAR>__{}
 <DIAL>__{You're gonna go get it.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -465,7 +465,7 @@
 <DIAL>__{I've lived in jungles all my (life) -}
 <CHAR>__{NATE} <CHAR_PAR>__{}
 <DIAL>__{No. This is the jungle. Tigers. Vietcong. The fuckin snakes alone will kill you.}
-<ACTION>__{AA56   INT. NEW JERSEY BOARD OF BAR EXAMINERS - DAY                   AA56 A room of student-type desks and no character. Richie, and fifty others, have been here for hours taking the exam less than half of them will pass.}
+<ACTION>__{AA56 INT. NEW JERSEY BOARD OF BAR EXAMINERS - DAY AA56 A room of student-type desks and no character. Richie, and fifty others, have been here for hours taking the exam less than half of them will pass.}
 <LOC>__{EXT. JUNGLE - DAY}
 <ACTION>__{A motley bunch of Thai thugs and black American soldiers with automatic weapons ride mules through the dense jungle with Nate and Frank, who - armed with a pistol, a rifle and ammo bandolier like Pancho Villa - is enjoying himself. From his POV, the jungle canopy suddenly opens up on a poppy field the size of Manhattan. Frank stares down at it.}
 <LOC>__{EXT. JUNGLE RISE / OPIUM FARM - DAY}
@@ -491,7 +491,7 @@
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{Who are you really?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{It says right there.   Frank Lucas.}
+<DIAL>__{It says right there. Frank Lucas.}
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{I mean, who you represent?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -499,7 +499,7 @@
 <ACTION>__{The man doesn't believe it, but lets it go.}
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{You think you're going to take a hundred kilos of heroin into the US and you don't work for anyone? Someone is going to allow that?}
-<ACTION>__{Frank shrugs. The general regards one of his men.       In Chinese, subtitled:}
+<ACTION>__{Frank shrugs. The general regards one of his men. In Chinese, subtitled:}
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{I don't believe a word of this.}
 <ACTION>__{The general regards the cash and paperwork again for a moment. And, to Frank:}
@@ -507,7 +507,7 @@
 <DIAL>__{After this first purchase, if you're not killed by Marseilles importers - or their people in the States - then what?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Then there'd be more. On a regular basis. Though I'd rather not have to drag my ass all the way up here every time.}
-<ACTION>__{The man regards Frank for a long moment.       Glances back to the cash and paperwork again. Finally -}
+<ACTION>__{The man regards Frank for a long moment. Glances back to the cash and paperwork again. Finally -}
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{Of course not.}
 <LOC>__{EXT. JUNGLE ARMY LZ - VIETNAM - DAY}
@@ -541,12 +541,12 @@
 <DIAL>__{I'll let you know when it's in the air.}
 <LOC>__{INT. RICHIE'S APARTMENT - NEWARK - DAWN}
 <ACTION>__{The nurse/paramedic who stitched up his hand is in Richie's bed making so much noise he's worried someone will call the cops. The phone rings. And won't stop. Neither will the nurse as Richie answers it -}
-<DIAL>__{RIVERA V/O Richie? Richie, I'm in trouble.    This fuckin guy "made" me - I don't know how but he did. He went for his gun. I had to do it, I swear to God. Now they're going to kill me.}
+<DIAL>__{RIVERA V/O Richie? Richie, I'm in trouble. This fuckin guy "made" me - I don't know how but he did. He went for his gun. I had to do it, I swear to God. Now they're going to kill me.}
 <ACTION>__{Richie can hear in Sander's voice how serious it is and manages to disentangle himself from the woman.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Who. RIVERA V/O There's a hundred people out there heard the shots. You gotta help me. You gotta do something.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Is he dead? RIVERA V/O He's dead.    I'm dead. They're gonna kill me.}
+<DIAL>__{Is he dead? RIVERA V/O He's dead. I'm dead. They're gonna kill me.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Where are you? Javy, where are you? RIVERA V/O That's the problem.}
 <LOC>__{INT. RICHIE'S CAR - MOVING - EARLY MORNING}
@@ -560,7 +560,7 @@
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I said, put the fucking call out again -}
 <CHAR>__{DISPATCHER} <CHAR_PAR>__{}
-<DIAL>__{I just did. No one responded.     I'll try again, but -}
+<DIAL>__{I just did. No one responded. I'll try again, but -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Fuck you, too.}
 <ACTION>__{He slams the mic down.}
@@ -572,7 +572,7 @@
 <ACTION>__{Drugs on a coffee table. Body on the floor. Rivera, despondent, on the couch. The male paramedics, scared. Richie on the phone -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Sergeant, I'm not asking, I'm fuckin telling you: Get some patrolmen over here now.}
-<ACTION>__{Dial tone: the police sergeant has hung up on him.           Richie throws the phone. The paramedics stare at him.}
+<ACTION>__{Dial tone: the police sergeant has hung up on him. Richie throws the phone. The paramedics stare at him.}
 <CHAR>__{PARAMEDIC} <CHAR_PAR>__{}
 <DIAL>__{You got no back-up? Why is that?}
 <ACTION>__{The only other person who would know the answer to that is Rivera, who just shakes his head in despair.}
@@ -595,10 +595,10 @@
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{You robbed him, didn't you.}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
-<DIAL>__{What?   What are you talking about?}
-<ACTION>__{Richie rips Rivera's jacket pockets.        Money spills out.}
+<DIAL>__{What? What are you talking about?}
+<ACTION>__{Richie rips Rivera's jacket pockets. Money spills out.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{This.   Where'd this come from?}
+<DIAL>__{This. Where'd this come from?}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{What. That's my money. I've never taken dirty money in my life.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -609,7 +609,7 @@
 <DIAL>__{Yeah.}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{No, it isn't. It's part of the salary for getting shot at. For that, certain courtesies are shown. In gratitude -}
-<ACTION>__{Richie, disgusted with him, lets go of him.         Rivera is embarrassed, almost crying, pleading -}
+<ACTION>__{Richie, disgusted with him, lets go of him. Rivera is embarrassed, almost crying, pleading -}
 <CHAR>__{RIVERA} <CHAR_PAR>__{}
 <DIAL>__{A discount on a TV, a Doughboy in the backyard, a new dress for your girlfriend maybe once a year. I'm talking about not living in fucking poverty. You want to call that wrong, call it wrong.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -650,7 +650,7 @@
 <CHAR>__{CHEMIST} <CHAR_PAR>__{}
 <DIAL>__{Store it in a cool, dark place.}
 <LOC>__{EXT. GREENSBORO, NORTH CAROLINA - DUSK}
-<ACTION>__{A clapboard house set down on a piece of land that was probably once worked by sharecroppers. An elderly woman framed in a lit kitchen window, doing dishes. Dark yew trees and scavenged, discarded cars and car parts like patches of rusty snow. Crickets and bullfrogs. From a mound of dirt, a young man hurls a baseball to another with a catcher's mitt exactly sixty feet away. The kid's got a major league arm. Legend:   Greensboro, North Carolina A glow spills out from a detached shed where a short man in his early 30's works on a stock car. A greasy phone on the workbench rings and another disreputable-looking man, thumbing through a magazine, answers.}
+<ACTION>__{A clapboard house set down on a piece of land that was probably once worked by sharecroppers. An elderly woman framed in a lit kitchen window, doing dishes. Dark yew trees and scavenged, discarded cars and car parts like patches of rusty snow. Crickets and bullfrogs. From a mound of dirt, a young man hurls a baseball to another with a catcher's mitt exactly sixty feet away. The kid's got a major league arm. Legend: Greensboro, North Carolina A glow spills out from a detached shed where a short man in his early 30's works on a stock car. A greasy phone on the workbench rings and another disreputable-looking man, thumbing through a magazine, answers.}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
 <DIAL>__{Yeah ... for you.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
@@ -682,7 +682,7 @@
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I play softball on Sundays with some guys.}
 <CHAR>__{SHEILA} <CHAR_PAR>__{}
-<DIAL>__{Wise guys.    That's going to look good.}
+<DIAL>__{Wise guys. That's going to look good.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I grew up with them, big deal.}
 <CHAR>__{SHEILA} <CHAR_PAR>__{}
@@ -699,7 +699,7 @@
 <CHAR>__{SHEILA} <CHAR_PAR>__{}
 <DIAL>__{Do you really care about this? Or do you just not want her to win - ever. How often do you see your son as it is?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Not enough.   But she wants to make it never.}
+<DIAL>__{Not enough. But she wants to make it never.}
 <CHAR>__{SHEILA} <CHAR_PAR>__{}
 <DIAL>__{Yeah, all right. Give me a twenty.}
 <DIAL_PAR>__{(Richie doesn't reach for his wallet)}
@@ -712,7 +712,7 @@
 <LOC>__{INT. FRANK'S TEANECK HOUSE - LATER - DAY}
 <ACTION>__{The house is alive with the noise of family and scent of home-cooked food as the extended Lucas clan - there's more than twenty of them - sits around a big dining room table passing the platters around. Frank, at the head of the table, clearly loves having them all here.}
 <CHAR>__{TURNER} <CHAR_PAR>__{}
-<DIAL>__{He got an arm on him.     Major League arm, ain't that right.}
+<DIAL>__{He got an arm on him. Major League arm, ain't that right.}
 <ACTION>__{Everyone agrees as Turner's son - Frank's nephew - the 18- year-old boy seen pitching in the North Carolina back yard - tries to shrug.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You show me after supper.}
@@ -725,7 +725,7 @@
 <ACTION>__{The wonderful noise continues downstairs as Frank leads his mother on a tour of the upstairs. The place is a showroom of traditional Americana.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{This is your room.}
-<ACTION>__{Mrs. Lucas is   in awe of the splendor of the bedroom and its furnishings.    It's unlike anything she's used ever seen - not Graceland   exactly - but not far off. Her eyes settle on an old vanity   dotted with French perfume bottles.}
+<ACTION>__{Mrs. Lucas is in awe of the splendor of the bedroom and its furnishings. It's unlike anything she's used ever seen - not Graceland exactly - but not far off. Her eyes settle on an old vanity dotted with French perfume bottles.}
 <CHAR>__{MRS. LUCAS} <CHAR_PAR>__{}
 <DIAL>__{How did you ...}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -750,7 +750,7 @@
 <DIAL>__{I was with him every day for fifteen of them, looking after him, taking care of things, protecting him, learning from him.}
 <ACTION>__{The brothers can't help but notice the storekeepers who wave to Frank, the women who smile, the men who step out of his path like there's a red carpet under his polished shoes.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Bumpy was rich, but never white   man rich. Why? Because he didn't own the    company. He thought he did. He didn't.     He only managed it. Someone else owned    it. So they owned him.}
+<DIAL>__{Bumpy was rich, but never white man rich. Why? Because he didn't own the company. He thought he did. He didn't. He only managed it. Someone else owned it. So they owned him.}
 <LOC>__{INT/EXT. REDTOP'S APARTMENT BUILDING - HARLEM - DAY}
 <ACTION>__{Frank leads his brothers up the stairs and down the hall.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -784,9 +784,9 @@
 <LOC>__{EXT/INT. DINER - MOMENTS LATER}
 <ACTION>__{He comes out of the diner, crosses the street toward Tango, who's buying fruit. Greets him cheerfully -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Hey, Tango, what's up.    I was just thinking about you.}
+<DIAL>__{Hey, Tango, what's up. I was just thinking about you.}
 <CHAR>__{FRANK } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I was looking at the jar and you know what? I didn't    see nothing in it.}
+<DIAL>__{I was looking at the jar and you know what? I didn't see nothing in it.}
 <CHAR>__{TANGO} <CHAR_PAR>__{}
 <DIAL>__{The fuck you want, Frank -}
 <ACTION>__{Before the last word is out of Tango's mouth, Frank's got a gun pressed against his forehead. Silence. Everyone backs away - the bodyguard, too. Tango's girl pulls her arm from his and takes off. Eventually -}
@@ -809,17 +809,17 @@
 <DIAL>__{Beth.}
 <ACTION>__{The medical examiner slides open another cadaver drawer containing her body. Richie stares at it.}
 <CHAR>__{DETECTIVE} <CHAR_PAR>__{}
-<DIAL>__{Should've seen their place.    Like animals lived there.}
+<DIAL>__{Should've seen their place. Like animals lived there.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I have seen it.}
 <CHAR>__{DETECTIVE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to the examiner)}
-<DIAL>__{Chose a good night, huh?   Grand Central Station in here.}
+<DIAL>__{Chose a good night, huh? Grand Central Station in here.}
 <CHAR>__{MEDICAL EXAMINER} <CHAR_PAR>__{}
 <DIAL>__{It's been like this. I'm lucky I get home before midnight; lots of careless- ness.}
 <ACTION>__{Richie regards Rivera's personal effects resting on his chest in a plastic bag: few bucks, the Corvette key, a half- empty packet of heroin in blue cellophane. Richie takes the blue cellophane from the bag and, as the drawer closes entombing Sanders, holds it in his hand ...}
 <DIAL>__{REPORTER V/O Heroin addiction is no longer exclusive to big city neighborhoods; it's epidemic -}
-<ACTION>__{TIME CUT.    A TELEVISION: The reports shows lawmakers on Capitol Hill juxtaposed against images of inner-cities, junkies, homicide victims and, perhaps most telling, white suburbia.}
+<ACTION>__{TIME CUT. A TELEVISION: The reports shows lawmakers on Capitol Hill juxtaposed against images of inner-cities, junkies, homicide victims and, perhaps most telling, white suburbia.}
 <CHAR>__{REPORTER ON TV} <CHAR_PAR>__{}
 <DIAL>__{Since 1965, law enforcement has watched its steady increase and with it a rise in violent crime. Now unaccountably, it has exploded, reaching into cities as a whole - our suburbs and towns - our schools.}
 <LOC>__{INT. POLICE GYM - DAY}
@@ -845,7 +845,7 @@
 <DIAL>__{No, they're all on the take and I'm not and it doesn't matter to anyone. Instead of giving you a medal for turning in money, they bury you.}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{It's fucked up. You're right. Maybe this's an opportunity away from all that.}
-<ACTION>__{They regard each other.    Eventually -}
+<ACTION>__{They regard each other. Eventually -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I'll do it, but only like this: I don't set foot in a police station again. I work out of a place of my own. And I pick my own guys. Guys I know wouldn't take a nickel off the sidewalk.}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
@@ -867,7 +867,7 @@
 <LOC>__{INT. PENTHOUSE - NEW YORK - DAY}
 <ACTION>__{Frank distractedly opens and closes a 12' high curtain in one of the rooms -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{No loan, no contingencies.    Cash sale.}
+<DIAL>__{No loan, no contingencies. Cash sale.}
 <LOC>__{EXT. SMALL'S PARADISE - NIGHT}
 <ACTION>__{Wet streets and neon. Well-dressed crowd behind a velvet rope outside the club. The Apollo in the background: James Brown on the marquee.}
 <LOC>__{INT. SMALL'S PARADISE - NIGHT}
@@ -878,7 +878,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Who's the beauty queen?}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
-<DIAL>__{She is a beauty queen.    No kidding. Miss Puerto Rico.}
+<DIAL>__{She is a beauty queen. No kidding. Miss Puerto Rico.}
 <ACTION>__{Her glance crosses Frank's briefly but is yanked to the entrance of the club when Frank's brothers come in with their wives and girlfriends. Teddy's in a parrot green suit, gold chains, hat, acting like he owns the place.}
 <LOC>__{INT. BACK ROOM - SMALL'S PARADISE - LATER}
 <ACTION>__{Frank hustles Teddy into an empty back room.}
@@ -886,20 +886,20 @@
 <DIAL>__{What is this?}
 <ACTION>__{He turns Teddy so he's facing a mirror.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{What. These are clothes.     This is a very nice (suit) -}
+<DIAL>__{What. These are clothes. This is a very nice (suit) -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I'm wearing clothes. These are clothes. Those -}
 <DIAL_PAR>__{(Teddy's in the mirror)}
 <DIAL>__{- are a costume. With a sign on it that says Arrest me. You look like fuckin Jackie Fox.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{What's wrong with Jackie.    I like Jackie.}
+<DIAL>__{What's wrong with Jackie. I like Jackie.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You like Jackie? You want to be Superfly? Go work for him, end up in a cell with him.}
 <ACTION>__{Teddy pulls himself from Frank's grasp. Smooths his shirt, adjusts his hat. Frank tries to explain to him:}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{The guy making all the noise in the room is the weak one. That's not who you want to be.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{He wants to talk to you by the way.     I told him I'd tell you.}
+<DIAL>__{He wants to talk to you by the way. I told him I'd tell you.}
 <ACTION>__{Frank stares at his brother's reflection in the mirror.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You and Jackie were talking about me?}
@@ -911,7 +911,7 @@
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
 <DIAL>__{I went shopping today.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{You go shopping every day.    Like a girl.}
+<DIAL>__{You go shopping every day. Like a girl.}
 <LOC>__{EXT. SMALL'S PARADISE - LATER - NIGHT}
 <ACTION>__{A creme Bentley pulls up and out pour Jackie Fox and his entourage. He's got an armful of New York Times Magazines -with him on the cover, flaunting Gangster Chic. He starts handing them out to the crowd on his way into the club.}
 <LOC>__{INT. SMALL'S PARADISE - CONTINUOUS - NIGHT}
@@ -924,16 +924,16 @@
 <DIAL>__{It's nothing, like - fifty grand.}
 <ACTION>__{Frank isn't sure if it's an honor or a curse to have a celebrity like Joe Louis asking to borrow money, but nods.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Sure.   Don't worry about it.}
+<DIAL>__{Sure. Don't worry about it.}
 <CHAR>__{JOE LOUIS} <CHAR_PAR>__{}
-<DIAL>__{Thank you.   I'll pay you back soon as -}
+<DIAL>__{Thank you. I'll pay you back soon as -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Joe. It's a gift. Not a loan.       You don't owe me nothing.}
+<DIAL>__{Joe. It's a gift. Not a loan. You don't owe me nothing.}
 <ACTION>__{Jackie glides into the club with his magazines and entourage. Frank watches him make the rounds, lingering at Miss Puerto Rico's table and holding her hand longer than he should with his girlfriend on his arm. Frank glances to Teddy wearily, then to Doc, alone at the next table like a sentry. Frank doesn't have to say he's ready to leave. Doc knows the look. Gets up.}
 <LOC>__{INT. SMALL'S PARADISE - LATER - NIGHT}
 <ACTION>__{Frank comes into the coat check area where Doc waits with his overcoat. As Frank slips into it, Miss Puerto Rico - returning from the ladies room - comes through.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
-<DIAL>__{Hi.   I'm Ana.}
+<DIAL>__{Hi. I'm Ana.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I'm Frank.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
@@ -966,7 +966,7 @@
 <LOC>__{INT. FRANK'S CAR - MOVING - NEW YORK - DAY}
 <ACTION>__{Frank sits in back alone. Peers ahead through the windshield. His face relaxes as he sees -}
 <LOC>__{EXT. RIVERSIDE - DAY}
-<ACTION>__{Ana waiting on a corner, dressed nice, handbag.         The Towncar pulls to the curb.}
+<ACTION>__{Ana waiting on a corner, dressed nice, handbag. The Towncar pulls to the curb.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I got it.}
 <ACTION>__{Frank gets out before Doc can, and escorts Ana to the car.}
@@ -979,7 +979,7 @@
 <ACTION>__{Ana considers some family photographs on a mantle.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{This is your father?}
-<ACTION>__{Frank shakes his head no.       It's a picture of Bumpy.}
+<ACTION>__{Frank shakes his head no. It's a picture of Bumpy.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You really don't know who that is?}
 <DIAL_PAR>__{(she doesn't)}
@@ -994,17 +994,17 @@
 <DIAL>__{A lot of things. He had a lot of friends. He served New York and it served him.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{What was he to you?}
-<ACTION>__{Frank has to think.     Bumpy was more than his employer.}
+<ACTION>__{Frank has to think. Bumpy was more than his employer.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Teacher.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{What'd he teach you?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{How to take my time ... how if you're going to do something, do it with care ... do it with love.}
-<ACTION>__{And it's working here.     It's seductive.}
+<ACTION>__{And it's working here. It's seductive.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{Anything else?}
-<ACTION>__{FLASHCUTS - Sudden bursts of violence - guys beat up - others shot - one being poured with gasoline as Bumpy looks on calmly - BACK TO FRANK'S LIVING ROOM The same calm, benign face in the photograph.        Frank nods.}
+<ACTION>__{FLASHCUTS - Sudden bursts of violence - guys beat up - others shot - one being poured with gasoline as Bumpy looks on calmly - BACK TO FRANK'S LIVING ROOM The same calm, benign face in the photograph. Frank nods.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{How be a gentleman.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
@@ -1032,7 +1032,7 @@
 <DIAL>__{Yeah.}
 <CHAR>__{JONES} <CHAR_PAR>__{}
 <DIAL>__{There's a story about you. About turning in some money. A lot of money. Is it true?}
-<ACTION>__{Jones isn't the only one here curious to know.        Simply:}
+<ACTION>__{Jones isn't the only one here curious to know. Simply:}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{It's not true.}
 <LOC>__{INT/EXT. CAR / STREET - NEWARK - DAY}
@@ -1041,7 +1041,7 @@
 <ACTION>__{Richie and the others watch Jones tests the heroin.}
 <CHAR>__{JONES} <CHAR_PAR>__{}
 <DIAL>__{Stuff's ten percent pure. Strong enough to smoke for all those suburban white kids afraid of needles.}
-<ACTION>__{The other detectives are exchange a glance.       None has ever heard of anything on the street that pure.}
+<ACTION>__{The other detectives are exchange a glance. None has ever heard of anything on the street that pure.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{You paid ten bucks for it?}
 <CHAR>__{JONES} <CHAR_PAR>__{}
@@ -1076,14 +1076,14 @@
 <LOC>__{INT/EXT. NYPD 23RD PRECINCT GARAGE - DAY}
 <ACTION>__{Blue and whites arriving and leaving, shirts coming off as the cops alight.}
 <LOC>__{INT. BUS - MOVING ON 116TH STREET - DAY}
-<ACTION>__{The driver checks his watch:   3:59.   Turns his almost-empty bus up 8th Avenue.}
+<ACTION>__{The driver checks his watch: 3:59. Turns his almost-empty bus up 8th Avenue.}
 <LOC>__{INT/EXT. FRANK'S PARKED CHEVY - HARLEM - DAY}
 <ACTION>__{Air conditioner full blast. Radio announcing the time: 4 o'clock. Frank glances out the wet windshield of the Chevy and watches 116th Street transform: It's as if an outdoor market has just opened its stalls. Junkies and dealers emerging from the alleys, storefronts, tenements and side streets - from the street itself it seems - snarling the cars and delivery trucks caught unaware. Small blue cellophane packets - and only blue - are pulled from pockets and change hands. In alleyways it's cooked up and sucked into syringes, and in dank, grim, indescribably filthy rooms, plunged into veins -}
 <TRANS>__{AND THE REVERSE:}
 <LOC>__{10 and 20 dollar bills changing hands - decks of cash}
 <ACTION>__{rubber-banded together - put into envelopes and delivered to the Lucas brothers, to: LESTER at his metal door shop. EUGENE at his dry cleaners. TURNER at his tire service shop. EARL at his electrical shop. TEDDY at his body shop.}
 <LOC>__{INT. REDTOP'S APARTMENT - DAY}
-<ACTION>__{Piles of cash.    The brothers try counting it all, but it's just too much.    It's actually tiring.}
+<ACTION>__{Piles of cash. The brothers try counting it all, but it's just too much. It's actually tiring.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
 <DIAL>__{We're going to be here all night if we count every bill.}
 <ACTION>__{TIME CUT: A money-counting machine flips through the bills, its counter flying. The brothers rubberband it all in $100,000 decks. Jot down the numbers. Put the money in newly-assembled file boxes. Tape them shut.}
@@ -1100,10 +1100,10 @@
 <DIAL>__{This one couldn't be more honest. Ask around. He's got a lot of clients in the business. You can't leave all your money in safety deposit boxes; give him a call.}
 <ACTION>__{The banker hands him the card and moves on. Frank's trying to have a good time, but the level of noise and revelry is beginning to make him uncomfortable.}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
-<DIAL>__{Frank.   This is Mike Sibota.}
+<DIAL>__{Frank. This is Mike Sibota.}
 <ACTION>__{Sibota tries not to look as nervous as he feels.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Mr. Sibota.   What can I get you?}
+<DIAL>__{Mr. Sibota. What can I get you?}
 <CHAR>__{SIBOTA} <CHAR_PAR>__{}
 <DIAL>__{A left-hander from what Charlie tells me. Your nephew?}
 <ACTION>__{Frank points to his nephew, Stevie, across the room.}
@@ -1118,7 +1118,7 @@
 <DIAL>__{Oh, that's it, I'm taking you in.}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(joking)}
-<DIAL>__{You can't take me in for that, I got       a license for that, motherfucker.}
+<DIAL>__{You can't take me in for that, I got a license for that, motherfucker.}
 <CHAR>__{DETECTIVE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gives the gun back)}
 <DIAL>__{This then -}
@@ -1127,11 +1127,11 @@
 <ACTION>__{The cop sucks up a line before pretending to cuff Jimmy.}
 <CHAR>__{DETECTIVE} <CHAR_PAR>__{}
 <DIAL>__{All right, now I'm arresting you.}
-<ACTION>__{Everybody laughs.    Teddy peels $100's from a money clip.}
+<ACTION>__{Everybody laughs. Teddy peels $100's from a money clip.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{Let him go.   This is for you.}
+<DIAL>__{Let him go. This is for you.}
 <CHAR>__{DETECTIVE} <CHAR_PAR>__{}
-<DIAL>__{What is that, a bribe?     Oh, now you're all under arrest.}
+<DIAL>__{What is that, a bribe? Oh, now you're all under arrest.}
 <ACTION>__{The cop pretends to arrest them all, but what he doesn't pretend is the hand he puts on Jimmy's girlfriend's breast as he frisks her.}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
 <DIAL>__{What is that?}
@@ -1153,7 +1153,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I can't have this kind of stupidity.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{It was an accident.   He feels terrible about it.}
+<DIAL>__{It was an accident. He feels terrible about it.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{He doesn't feel shit, coked up all the time. Get rid of him.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
@@ -1162,7 +1162,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Gimme those glasses.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{What?   Why?}
+<DIAL>__{What? Why?}
 <ACTION>__{Frank pulls them from Teddy's face and crushes them.}
 <LOC>__{INT. NARCOTICS SQUAD HQ - NEWARK - DAY}
 <ACTION>__{Richie sifts through the morning mail at his desk. Stops on an envelope from the New Jersey Bar Association. As he works up the nerve to open it, Spearman, Jones and Abruzzo organize the Italian wise guys' photos on the T.O.}
@@ -1176,12 +1176,12 @@
 <DIAL>__{Jonesy's right.}
 <ACTION>__{Richie comes over, studies the Table of Organization a moment, then begins untacking the photos from the top down -}
 <CHAR>__{JONES} <CHAR_PAR>__{}
-<DIAL>__{What're you doing?     We just -}
+<DIAL>__{What're you doing? We just -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{For a cop the uppermost thing is the arrest. For a prosecutor, the arrest is nothing without the evidence to convict. We don't have any real evidence on anyone on this board, so they're coming down. We're starting over from the street.}
 <CHAR>__{ABRUZZO} <CHAR_PAR>__{}
 <DIAL>__{What are you, a prosecutor all of a sudden?}
-<ACTION>__{Richie tacks his exam results onto the T.O.       He passed.}
+<ACTION>__{Richie tacks his exam results onto the T.O. He passed.}
 <LOC>__{EXT. STREET - NEWARK - DAY}
 <ACTION>__{Richie and the Amigos observe a buy from a parked car, the blue cellophane changing hands. Ignoring the buyer as he walks away, they keep watching the seller.}
 <LOC>__{EXT. GAS STATION / CAR WASH - NEWARK - DAY}
@@ -1212,18 +1212,18 @@
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{That's half. I'll give you the other half tomorrow when you give -}
 <CHAR>__{MECHANIC} <CHAR_PAR>__{}
-<DIAL>__{No, no, no, I don't do that.    Go fuck yourself.}
+<DIAL>__{No, no, no, I don't do that. Go fuck yourself.}
 <ACTION>__{Richie rather reluctantly hands over the rest of the 20K.}
 <LOC>__{INT/EXT. SPEARMAN'S CAR - MOVING - NEAR GW BRIDGE - DAY}
 <ACTION>__{Spearman watches the pickup truck driven by the mechanic change lanes up ahead - heading for the George Washington Bridge - and glances over concerned to Richie, who is changing the cashmere sweater for an old t-shirt.}
 <CHAR>__{SPEARMAN} <CHAR_PAR>__{}
-<DIAL>__{He's going into New York.   Are we?}
+<DIAL>__{He's going into New York. Are we?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{What are they going to do, arrest us?}
 <CHAR>__{SPEARMAN} <CHAR_PAR>__{}
-<DIAL>__{They could. New York cops.     They can do worse than that.}
+<DIAL>__{They could. New York cops. They can do worse than that.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{We're not losing that money.    Go.}
+<DIAL>__{We're not losing that money. Go.}
 <ACTION>__{As Spearman follows the truck, the George Washington Bridge, linking Jersey to Manhattan, looms in the windshield ...}
 <LOC>__{EXT. EAST HARLEM STREET - DAY}
 <ACTION>__{The pickup pulls to the curb outside a Pleasant Avenue grocery store. As the guy enters the place, Spearman's car stops long enough for Richie to climb out, and continues on. Richie crosses the street, tries to see who the guy is talking to inside, but he's just buying a cup of coffee to go. Spearman's car turns the corner to circle around the block. As soon as it's gone, the man emerges from the restaurant with the coffee and walks straight at Richie who has to double back quickly not to be seen Richie sees a delivery truck double-parked, guys unloading crates. Hears a horn and knows it's must be Spearman stuck on the side street. The mechanic starts his truck. Desperate not to lose him (and his money), Richie hurries over to a taxi stopped at a light, flashes his badge.}
@@ -1260,7 +1260,7 @@
 <CHAR>__{TOBACK V.O.} <CHAR_PAR>__{}
 <DIAL>__{What do we hate most? Isn't it the transgressions of others we fear we're capable of ourselves?}
 <LOC>__{INT. NARCOTICS SQUAD HQ - NEWARK - LATER - NIGHT}
-<ACTION>__{It's very late.    Richie and Toback are alone.      Eventually -}
+<ACTION>__{It's very late. Richie and Toback are alone. Eventually -}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{Richie - cops are like -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -1276,7 +1276,7 @@
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{- which he may reconsider depending on the amount the State of New Jersey offers to settle -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{I told him I was a cop.      I showed him my identification.}
+<DIAL>__{I told him I was a cop. I showed him my identification.}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{You stole his cab and broke his arm.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -1289,9 +1289,9 @@
 <DIAL>__{You're not listening to me. I said: I don't want to hear about it ... You do whatever you have to do, go wherever you have to go to find out who's bringing this shit into the country ... Just don't tell me.}
 <DIAL_PAR>__{(turns to leave)}
 <DIAL>__{Get some sleep.}
-<ACTION>__{AA153   INT. RICHIE'S APARTMENT - MORNING                                 AA153 Richie - in robe and underwear - opens the door to find a woman in the hall holding a briefcase.}
+<ACTION>__{AA153 INT. RICHIE'S APARTMENT - MORNING AA153 Richie - in robe and underwear - opens the door to find a woman in the hall holding a briefcase.}
 <CHAR>__{VIDA} <CHAR_PAR>__{}
-<DIAL>__{Mr. Roberts?    I'm here for our appointment.}
+<DIAL>__{Mr. Roberts? I'm here for our appointment.}
 <ACTION>__{He has no idea who the black woman is. An old girlfriend he's forgotten maybe. Behind him, Vida can see a stewardess buttoning up her uniform by a little travel case on wheels. The apartment itself, she can also see, is a mess.}
 <CHAR>__{VIDA} <CHAR_PAR>__{}
 <DIAL>__{From Child Social Services?}
@@ -1305,15 +1305,15 @@
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{I said yes, I'd take on this responsibility, take care of your son, God forbid something happened to you -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Tony, the things she's telling Child Social Services make me look very bad: Out all night. Lowlife informants hanging around.   Women -}
+<DIAL>__{Tony, the things she's telling Child Social Services make me look very bad: Out all night. Lowlife informants hanging around. Women -}
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{Old friends like me.}
-<ACTION>__{Richie feels horrible doing this.    Silence.   Then:}
+<ACTION>__{Richie feels horrible doing this. Silence. Then:}
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{It's all right. I understand. They ask me, I'll tell them what you want me to tell them. I'll lie for you.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Thank you.}
-<ACTION>__{Tony nods, You're welcome.    Can tell there's something else on Richie's mind.}
+<ACTION>__{Tony nods, You're welcome. Can tell there's something else on Richie's mind.}
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{What.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -1325,7 +1325,7 @@
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{Guys down south is all I heard.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Down south, Florida?   Cubans?   What.}
+<DIAL>__{Down south, Florida? Cubans? What.}
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{I don't know. All I can tell you is whoever it is, they're upsetting the natural order of things.}
 <ACTION>__{Among the framed family photos around them, is a picture of Tony's uncle, Albert Tosca.}
@@ -1345,7 +1345,7 @@
 <LOC>__{INT. TOSCA'S MANSION - LATER - DAY}
 <ACTION>__{As servants stand by, Tosca and his wife and their only guests - Frank and Ana - finished with lunch, get up from the table in the formal Formal dining room. As Mrs. Tosca leads Ana off to give her a tour of the house, the men head off the other way.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
-<DIAL>__{She's a lovely girl.    You should marry her.}
+<DIAL>__{She's a lovely girl. You should marry her.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Too many things to look after right now to think about that.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
@@ -1363,7 +1363,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{He didn't have what you needed. You had what he needed. We've always had to come to you.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
-<DIAL>__{Yes.   Until now.}
+<DIAL>__{Yes. Until now.}
 <ACTION>__{Tosca studies Frank, who is a study in inscrutability.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
 <DIAL>__{Monopolies are illegal in this country, Frank, because no one can compete with a monopoly. If they let the dairy farmers do that, half of them would go out of business tomorrow.}
@@ -1385,7 +1385,7 @@
 <ACTION>__{Frank doesn't look excited at all. He's the picture of calm. Tosca smiles benignly and gets up.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
 <DIAL>__{Here, I got something for you.}
-<LOC>__{INT. TOSCA'S SMOKING ROOM    - LATER - DAY}
+<LOC>__{INT. TOSCA'S SMOKING ROOM - LATER - DAY}
 <ACTION>__{Tosca opens a humidor, takes out a couple of Cuban cigars.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
 <DIAL>__{Now what if - I'm just thinking out loud - you sold some of your inventory wholesale and I helped with the distribution.}
@@ -1393,7 +1393,7 @@
 <DIAL>__{I don't need it. I already got everything from 110th Street to Yankee Stadium, river to river.}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
 <DIAL>__{Which is a little mom and pop store compared to what I'm talking about. I could make you bigger than K-Mart. L.A., Chicago, Detroit, Vegas. I'm speaking nationwide. And I'd guarantee you peace of mind. You know what I mean by that.}
-<ACTION>__{Frank does. It's a backhanded threat.        Tosca clips the cigars with a gold guillotine}
+<ACTION>__{Frank does. It's a backhanded threat. Tosca clips the cigars with a gold guillotine}
 <CHAR>__{TOSCA} <CHAR_PAR>__{}
 <DIAL>__{Frank. You can see I'm a Renaissance man. Unfortunately not all my people are as enlightened. Ask them, What is civil rights, they don't know. They're not as open to change from the way things are done and who's doing it. But I can talk to them so there won't be any misunderstanding. That's what I mean by peace of mind.}
 <ACTION>__{Frank knows, in truth, he's not being given any choice in this matter. Still, maybe it's not so bad.}
@@ -1415,7 +1415,7 @@
 <DIAL>__{They looked at us like we're the help.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(kisses her cheek)}
-<DIAL>__{No.   They're working for me now.}
+<DIAL>__{No. They're working for me now.}
 <LOC>__{INT. NARCOTICS SQUAD HQ - NEWARK - DAY}
 <ACTION>__{A TV: Muhammad Ali, the black man's black man, and Joe Frazier, the white man's black man, at their 1971 Madison Square Garden press conference where Ali says as much. Most of the guys watching it. Richie isn't. He comes over to Table of Organization. Tacks his Bar Association notice to it. Regards the photographs, like tentacles of octopus yet to have a head. Only the lowest section is made up of blacks (including Charlie Williams and Jackie Fox, but not Frank Lucas). The rest of the faces are white and stop about midway up. They've hit a wall they can't get past.}
 <LOC>__{INT. FRANK'S PENTHOUSE - DUSK}
@@ -1424,7 +1424,7 @@
 <ACTION>__{The TV in the background as Richie puts a camera with a long lens in a sports bag and reaches for his coat - Ana's reflection in the vanity mirror as Frank slips the engagement ring on her finger. She wipes at a tear, then gets up and hugs him.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
-<ACTION>__{She kisses him.     Admires the ring.     And -}
+<ACTION>__{She kisses him. Admires the ring. And -}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{I bought you something, too.}
 <ACTION>__{She crosses past the TV, takes a garment bag down from her side of the closet, lays it on the bed next to Frank's suit jacket. She takes hold of the zipper but doesn't immediately pull it, hoping perhaps to create some dramatic tension.}
@@ -1519,7 +1519,7 @@
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{You think Frank Lucas took over for Bumpy Johnson? His driver? That's a little far-fetched.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Is it?   Everything he does, he does like Bumpy.}
+<DIAL>__{Is it? Everything he does, he does like Bumpy.}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{Bumpy never wore a chinchilla coat in his life.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -1529,7 +1529,7 @@
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
 <DIAL>__{She's the most beautiful bride I ever saw, Frank.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{I wish Bumpy could've met her.     I wish she could've met him.}
+<DIAL>__{I wish Bumpy could've met her. I wish she could've met him.}
 <ACTION>__{Looking at the Lucas Table of Organization -}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{What do you got on him you can use in court? Because this isn't it. You try this without informants and powder, no one's going to jail.}
@@ -1558,7 +1558,7 @@
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
 <DIAL>__{You sure you done the right thing? She's a beautiful girl - there's no question - but she's got an attitude on (her) -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Listen   to me. Before you say another word -   about her - or me - remember that you're   saying it on the most important fuckin   day of my life.}
+<DIAL>__{Listen to me. Before you say another word - about her - or me - remember that you're saying it on the most important fuckin day of my life.}
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
 <DIAL>__{Man walks around in a fifty thousand dollar chinchilla coat and he never even bought me a cup of coffee? Something wrong there.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -1585,7 +1585,7 @@
 <ACTION>__{Frank ignores the card, stares at Trupo like he's a fool.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Detective ... There are some things you don't do. This is one of them. Not on a man's wedding day.}
-<ACTION>__{Frank's resolve throws Trupo off his rhythm.           He manages:}
+<ACTION>__{Frank's resolve throws Trupo off his rhythm. He manages:}
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
 <DIAL>__{Have a nice honeymoon.}
 <LOC>__{INT. FRANK'S PENTHOUSE - LATER - NIGHT}
@@ -1605,7 +1605,7 @@
 <LOC>__{EXT. JIMMY RACINE'S - APARTMENT - NIGHT}
 <ACTION>__{He chases her into the street, yelling, raises the gun and fires, and she goes down, clutching at her butt, moaning -}
 <LOC>__{INT. RICHIE'S APARTMENT - SAME NIGHT}
-<ACTION>__{Moaning here, too.   Richie's lawyer-ex-girlfriend, in bed with him.}
+<ACTION>__{Moaning here, too. Richie's lawyer-ex-girlfriend, in bed with him.}
 <CHAR>__{SHEILA} <CHAR_PAR>__{}
 <DIAL>__{Richie, yes, fuck me like a cop, not a lawyer -}
 <DIAL_PAR>__{(the phone rings)}
@@ -1628,7 +1628,7 @@
 <DIAL>__{You fucked up, Jimmy. But nobody knows. Frank doesn't know. Yet. Do you want him to read about it in the paper? Or do you want to walk out of here - no bail, no trial - just walk out, now.}
 <LOC>__{EXT. NARCOTICS SQUAD HQ - NEWARK - DAWN}
 <ACTION>__{Jimmy has thought about it all night and walks out of the building into the chilly morning air.}
-<DIAL>__{RICHIE V/O Jimmy?   Look at me -}
+<DIAL>__{RICHIE V/O Jimmy? Look at me -}
 <ACTION>__{Jimmy looks over his shoulder as if Richie just called to him from it, which he didn't. There's no one in sight -}
 <DIAL>__{RICHIE V/O Any time I want to change my mind? I don't like the quality of your work? I can find a witness saw you shoot your girlfriend. It just took me a while. I even know what he'll look like. He'll look just like you.}
 <LOC>__{EXT. MEAT PACKING DISTRICT - DAY}
@@ -1660,22 +1660,22 @@
 <DIAL_PAR>__{(the nephew comes over)}
 <DIAL>__{I heard you didn't show up.}
 <CHAR>__{FRANK } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{You're     too busy to meet with Billy Martin?   After I set it up?}
+<DIAL>__{You're too busy to meet with Billy Martin? After I set it up?}
 <ACTION>__{Stevie shifts around, not wanting to make Frank mad ...}
 <CHAR>__{STEVIE} <CHAR_PAR>__{}
 <DIAL>__{I don't want to play pro ball, I decided.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{What're you   talking about? This is your dream since   you were their age -}
-<DIAL_PAR>__{(the   younger kids)}
-<DIAL>__{Maybe I can   set it up again.}
-<ACTION>__{Stevie just stands there, uncomfortable.         Finally -}
+<DIAL>__{What're you talking about? This is your dream since you were their age -}
+<DIAL_PAR>__{(the younger kids)}
+<DIAL>__{Maybe I can set it up again.}
+<ACTION>__{Stevie just stands there, uncomfortable. Finally -}
 <CHAR>__{STEVIE} <CHAR_PAR>__{}
 <DIAL>__{It's not what I want. I want to do what you do, Uncle Frank. I want to be you.}
-<ACTION>__{Frank stares at him unhappily.       Teddy comes over but Frank barely notices.}
+<ACTION>__{Frank stares at him unhappily. Teddy comes over but Frank barely notices.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
 <DIAL>__{We got a problem.}
 <LOC>__{INT. TEDDY'S CAR - MOVING - LATE AFTERNOON}
-<ACTION>__{Jimmy Racine behind the wheel.       Frank and Teddy in back, speaking quietly.}
+<ACTION>__{Jimmy Racine behind the wheel. Frank and Teddy in back, speaking quietly.}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
 <DIAL>__{He's been cutting it so much it's down to two, three percent pure.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -1688,11 +1688,11 @@
 <LOC>__{INT. JACKIE FOX'S CLUB - DUSK}
 <ACTION>__{Jackie's club looks like a set from a blaxploitation film. Frank and Teddy, led by a bodyguard, come past some turkey carcasses and other remnants of Thanksgiving to where Jackie and a couple friends cavort with some naked girls.}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
-<DIAL>__{Frank.   Welcome.}
+<DIAL>__{Frank. Welcome.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{We need to talk.}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
-<DIAL>__{Great.   Girls, get out.}
+<DIAL>__{Great. Girls, get out.}
 <ACTION>__{The girls gather their things and leave. Frank wipes at a modern leather chair with his handkerchief, throws it away, sits. Jackie lays out a couple lines, offers Frank a rolled up hundred dollar straw. Frank shakes his head, no thanks.}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
 <DIAL>__{You talked to Charlie. You want to hear more about my Black Coalition. Let me explain it to you -}
@@ -1716,7 +1716,7 @@
 <DIAL>__{What the fuck are you talking about, Frank?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{What you're doing, as far as I'm concerned, when you chop my dope down to five percent, is trademark infringement.}
-<ACTION>__{That.   That's what this is about.      Jackie nods, but -}
+<ACTION>__{That. That's what this is about. Jackie nods, but -}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
 <DIAL>__{With all due respect, Frank, if I buy something, I can do whatever I want with it.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -1726,15 +1726,15 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Jackie, you don't need to. You don't need to make more money than you can with Blue the way it is. No one does. At a certain point it's just greed.}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
-<DIAL>__{What do you want, Frank?    You want me to call it something else?}
+<DIAL>__{What do you want, Frank? You want me to call it something else?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I have to insist. You call it Blue Magic, that's misrepresentation.}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
 <DIAL>__{Fine. I'll call it Red Magic, even though it doesn't sound as good.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{That's all I'm saying.   Wrap it in red cellophane and -}
+<DIAL>__{That's all I'm saying. Wrap it in red cellophane and -}
 <CHAR>__{JACKIE} <CHAR_PAR>__{}
-<DIAL>__{Pink Magic.   Black Magic -}
+<DIAL>__{Pink Magic. Black Magic -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Whack it down to nothing, tie a bow around it and call it Blue Dogshit if you want, just don't let me catch you doing this again.}
 <ACTION>__{Jackie regards Frank for a long moment ...}
@@ -1748,7 +1748,7 @@
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
 <DIAL>__{Give me the keys; take a cab home.}
 <LOC>__{INT. TEDDY'S CAR - MOVING - NIGHT}
-<ACTION>__{Frank and Teddy driving in silence.        Eventually -}
+<ACTION>__{Frank and Teddy driving in silence. Eventually -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You don't go over there any more.}
 <ACTION>__{Teddy doesn't like it, but nods. Suddenly his face is illuminated by light reflecting in the rear view mirror, an unmarked police car behind them, flashing its brights.}
@@ -1758,14 +1758,14 @@
 <LOC>__{EXT. GARMENT WAREHOUSE DISTRICT - NY - LATE AFTERNOON}
 <ACTION>__{As Trupo and his partner climb out of their car and approach Teddy's -}
 <CHAR>__{TEDDY} <CHAR_PAR>__{}
-<DIAL>__{Frank?   Some of it's in the trunk.}
+<DIAL>__{Frank? Some of it's in the trunk.}
 <ACTION>__{Frank regards him with utter disbelief. Teddy shies as if he expects to get hit. The SIU detectives arrive.}
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
 <DIAL>__{Hello, Frank.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Detective. How's it going?        You have a nice Thanksgiving?}
+<DIAL>__{Detective. How's it going? You have a nice Thanksgiving?}
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
-<DIAL>__{I did not, as a matter of fact.       Get out of the car.}
+<DIAL>__{I did not, as a matter of fact. Get out of the car.}
 <ACTION>__{The Lucases climb out.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Where's the Shelby?}
@@ -1802,7 +1802,7 @@
 <LOC>__{INT. RICHIE'S APARTMENT - NIGHT}
 <ACTION>__{Richie comes in, opens the fridge and stares in, his mind elsewhere. A ringing phone pulls him out of it.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Yeah.   Tony.    How's it going?}
+<DIAL>__{Yeah. Tony. How's it going?}
 <LOC>__{INT/EXT. TONY ZACA'S HOUSE - DAY}
 <ACTION>__{Tony's wife and daughters can be seen in the suburban backyard. Here in the kitchen Tony and Richie watch kernels of popcorn bounce off the inside walls of the first Amana microwave oven. It's noisier than modern ones.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -1817,12 +1817,12 @@
 <CHAR>__{TONY} <CHAR_PAR>__{}
 <DIAL>__{I can get you one of these. Just like this, brand new. I'll have it delivered.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{No, thanks.   I don't want one.}
+<DIAL>__{No, thanks. I don't want one.}
 <ACTION>__{Tony hands Richie some snapshots: The Zaca family on the slopes of a resort, and in and outside a beautiful snow- dotted cabin.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{This is nice, where's this?}
 <CHAR>__{TONY} <CHAR_PAR>__{}
-<DIAL>__{Aspen.   Just got back.    Had a great time.}
+<DIAL>__{Aspen. Just got back. Had a great time.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I'd like to ski Aspen some day.}
 <CHAR>__{TONY} <CHAR_PAR>__{}
@@ -1873,7 +1873,7 @@
 <DIAL>__{They don't want this to stop. It employs too many people. Cops, lawyers, judges, probation officers, prison guards. The day dope stops coming into this country, a hundred thousand people lose their jobs.}
 <ACTION>__{Toback isn't as sure the corruption of the official world is that complete.}
 <CHAR>__{SPEARMAN} <CHAR_PAR>__{}
-<DIAL>__{Richie.   Excuse me.}
+<DIAL>__{Richie. Excuse me.}
 <ACTION>__{Spearman gestures to a couple of men in suits who want to talk to him.}
 <LOC>__{INT. NARCOTICS SQUAD HQ - LATER - DAY}
 <ACTION>__{Richie and Tobacke regard the two stone-faced FBI agents -}
@@ -1884,26 +1884,26 @@
 <CHAR>__{FBI AGENT} <CHAR_PAR>__{}
 <DIAL>__{We can't say without compromising our source. You understand.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{No.    I don't. Not when it's my life.}
+<DIAL>__{No. I don't. Not when it's my life.}
 <CHAR>__{FBI AGENT} <CHAR_PAR>__{}
 <DIAL>__{If you want, we can assign someone to you.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Who?    FBI?   You're going to protect me?}
-<ACTION>__{Richie almost laughs at the thought, looks to Toback.             In fact, none of this is funny.}
+<DIAL>__{Who? FBI? You're going to protect me?}
+<ACTION>__{Richie almost laughs at the thought, looks to Toback. In fact, none of this is funny.}
 <LOC>__{EXT. STREET - NEWARK - NIGHT}
 <ACTION>__{Walking toward his apartment down its dark street, bag of groceries in arm, Richie becomes aware someone is following him. He slows to let the figure get closer, closer, then turns fast, drops the guy and puts a gun to his head.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
-<DIAL>__{Don't shoot!    For God's sake.}
+<DIAL>__{Don't shoot! For God's sake.}
 <ACTION>__{Richie keeps the gun pressed against the guy's forehead.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Talk.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
-<DIAL>__{Are you Richard Roberts?      I got a subpoena.}
+<DIAL>__{Are you Richard Roberts? I got a subpoena.}
 <LOC>__{INT. COURTROOM - NEWARK - DAY}
 <ACTION>__{Richie and Laurie sit with their respective lawyers, waiting for the judge to appear. He leans over -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{Laurie. I'm sorry I couldn't give you the kind of life you wanted. I'm sorry it was never enough. But don't punish me for being honest. Don't take my son away.}
-<ACTION>__{She stares at him in disbelief.        Then responds in a louder voice than his -}
+<ACTION>__{She stares at him in disbelief. Then responds in a louder voice than his -}
 <CHAR>__{LAURIE} <CHAR_PAR>__{}
 <DIAL>__{What are you saying? That because you were "honest" and didn't take money like every other cop, I left you?}
 <ACTION>__{The bailiff looks over, but she doesn't care.}
@@ -1911,7 +1911,7 @@
 <DIAL>__{You don't take money for one reason: to buy being dishonest about everything else. And that's worse than taking money nobody gives a shit about - drug money, gambling money nobody's gonna miss.}
 <DIAL_PAR>__{(more people look over)}
 <DIAL>__{I'd rather you took it and been honest with me. Or don't take it, I don't care. But don't then go cheat on me. Don't cheat on your kid by never being around. Don't go out and get laid by your snitches and secretaries and strippers. I can tell just by looking, she's one of them.}
-<ACTION>__{His lawyer.    Which is true.    Everyone's watching them now.}
+<ACTION>__{His lawyer. Which is true. Everyone's watching them now.}
 <CHAR>__{LAURIE} <CHAR_PAR>__{}
 <DIAL>__{You think you're going to heaven because your "honest." You're not. You're going to the same hell as the crooked cops you can't stand.}
 <CHAR>__{BAILIFF} <CHAR_PAR>__{}
@@ -1934,19 +1934,19 @@
 <DIAL>__{Yeah, I see them.}
 <ACTION>__{Doc pulls to the curb outside Frank's building. As the doorman helps Doc with the big Christmas tree tied to the roof of the car, Frank crosses to Trupo's car with a couple of bottles of Crystal tied with holiday bows.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Here you go, boys.   Merry Christmas.}
+<DIAL>__{Here you go, boys. Merry Christmas.}
 <LOC>__{INT. FRANK'S PENTHOUSE - NIGHT}
 <ACTION>__{Charlie has come to visit. A Christmas carol plays as Frank strings the tree with some lights.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Paying cops is one thing, I understand that. I been paying them since I was ten - put more of their kids through college than the National Merit Award. This is different, this Special Investigations Unit. They think they are special.}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
-<DIAL>__{They're fucking crooks.   No code of ethics.}
+<DIAL>__{They're fucking crooks. No code of ethics.}
 <ACTION>__{Frank plugs the cord in and the tree lights up.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Someone's been following me. Besides cops. I see cars where they shouldn't be. Guys I don't know -}
 <CHAR>__{CHARLIE} <CHAR_PAR>__{}
 <DIAL>__{Me, too.}
-<ACTION>__{They regard each other.    The carol continues over:}
+<ACTION>__{They regard each other. The carol continues over:}
 <LOC>__{INT. FRANK'S PENTHOUSE - LATER - NIGHT}
 <ACTION>__{Ana hangs tinsel on the tree as Frank gives the shepherd some dog toy presents he's bought. More to himself:}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -1966,7 +1966,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Put on something nice, we're going out.}
 <LOC>__{INT/EXT. FRANK'S PENTHOUSE BUILDING - NIGHT}
-<ACTION>__{Frank and Ana emerge from a service elevator, come down   a dark hall and out the back door to an alley to where Doc waits with the car in the falling snow.}
+<ACTION>__{Frank and Ana emerge from a service elevator, come down a dark hall and out the back door to an alley to where Doc waits with the car in the falling snow.}
 <LOC>__{EXT. SMALL'S PARADISE - LATER - NIGHT}
 <ACTION>__{Frank's car approaches Small's just as Jackie, with a Santa Claus hat on, climbs out of a sky blue Bentley with his entourage. Frank groans to Doc -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -1980,23 +1980,23 @@
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{I'm going to wait in the car.}
 <CHAR>__{DOC} <CHAR_PAR>__{}
-<DIAL>__{Go ahead, Frank.       I'll wait for it.}
+<DIAL>__{Go ahead, Frank. I'll wait for it.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{You can carry it all?      We ordered a lot.}
+<DIAL>__{You can carry it all? We ordered a lot.}
 <ACTION>__{Doc nods, go on, go with Ana. Frank hands him a couple twenties. Ana's already outside.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Don't forget the yellow sauce.}
 <LOC>__{EXT. STREET - CHINATOWN - NIGHT}
 <ACTION>__{Ana's half a block ahead, waiting outside the locked car by the time Frank arrives and realizes -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Doc's got the keys.   Let's go back.}
+<DIAL>__{Doc's got the keys. Let's go back.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{The lights give me a headache, you go.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I'm not leaving you on the street.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{Get the keys, Frank, it's cold.}
-<ACTION>__{He starts back through cascading snow.       Notices a car coming slowly down the street - The cook dumps sizzling vegetables into a take-out container and puts it in a bag - The car passes, continues to the end of the block, turns the corner. Doc hands over money, waits for his change -}
+<ACTION>__{He starts back through cascading snow. Notices a car coming slowly down the street - The cook dumps sizzling vegetables into a take-out container and puts it in a bag - The car passes, continues to the end of the block, turns the corner. Doc hands over money, waits for his change -}
 <CHAR>__{DOC} <CHAR_PAR>__{}
 <DIAL>__{Gimme some of that yellow sauce.}
 <ACTION>__{Frank sees the car again, coming around the corner, walks briskly back to where Ana waits. The car is almost upon them as he grabs her by the wrist and pulls her hard along the sidewalk. The car guns its engine - As Frank pushes in past the doors with Ana, the windows explode. They dive to the floor, bullets ripping through the place. Doc draws his two guns and fires back at the car, hitting it a couple times as it screeches off. He gathers Ana and Frank off the floor like a presidential bodyguard, hustles them out to the car. Frank's shoulder is bleeding.}
@@ -2016,19 +2016,19 @@
 <DIAL_PAR>__{(nothing from Frank)}
 <DIAL>__{What do you want us to do, Frank? We can't just sit here and -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Who didn't like Charlie?   Everybody liked Charlie ...}
+<DIAL>__{Who didn't like Charlie? Everybody liked Charlie ...}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{Who shot at us?}
 <DIAL_PAR>__{(Frank can't tell her)}
 <DIAL>__{It doesn't matter. We're leaving.}
 <ACTION>__{She pulls a drawer open. Takes out their passports. Begins packing. The brothers watch, not sure what to do, or say. To them -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Go home.   Go see your kids.}
+<DIAL>__{Go home. Go see your kids.}
 <ACTION>__{He obviously wants to talk to Ana alone. Pulls away from the doctor. They all leave. Ana keeps packing.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{What are you doing?     Where've you been?}
+<DIAL>__{What are you doing? Where've you been?}
 <CHAR>__{ANA} <CHAR_PAR>__{}
-<DIAL>__{We're leaving from here.      Money's in the car.}
+<DIAL>__{We're leaving from here. Money's in the car.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{What money?}
 <CHAR>__{ANA} <CHAR_PAR>__{}
@@ -2050,17 +2050,17 @@
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{We're not going there, we're going to the airport. We're leaving the country.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{To go where?    No, we're not.}
+<DIAL>__{To go where? No, we're not.}
 <CHAR>__{ANA} <CHAR_PAR>__{}
 <DIAL>__{Frank, Charlie's dead. They tried to kill us. What else has to happen - ?}
 <ACTION>__{He grabs her and holds her to calm her down.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Shhh.   Come on, now.   Shhh.}
+<DIAL>__{Shhh. Come on, now. Shhh.}
 <ACTION>__{He holds her close, waits for her breathing to slow before:}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Where are we going to go? Spain? China? Which fuckin place is it going to be?}
 <CHAR>__{ANA} <CHAR_PAR>__{}
-<DIAL>__{We can go anywhere we want.     We can live anywhere.}
+<DIAL>__{We can go anywhere we want. We can live anywhere.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{We can run and hide is what you're saying.}
 <ACTION>__{He slowly shakes his head: that's something he'll never do.}
@@ -2107,9 +2107,9 @@
 <LOC>__{INT. REGENCY HOTEL - SAME TIME - DAY}
 <ACTION>__{Frank on a pay phone in a comfortable alcove with a stack of quarters. Other guests are gathered around a TV in the lounge that shows images of helicopters plucking diplomats off the roof of the American Embassy in Saigon.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{I'm watching the news.     Where the hell's everyone going?}
+<DIAL>__{I'm watching the news. Where the hell's everyone going?}
 <CHAR>__{NATE} <CHAR_PAR>__{}
-<DIAL>__{Home.    The war's over.}
+<DIAL>__{Home. The war's over.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Just like that? We're going to leave the fuckin country to the communists?}
 <CHAR>__{NATE} <CHAR_PAR>__{}
@@ -2124,7 +2124,7 @@
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{Opium plants are hearty enough to outlive any war. They'll still be here long after the troops are gone. But what are you going to do for transportation when the last US plane goes home?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{I'll figure something out.      You'll see me again.}
+<DIAL>__{I'll figure something out. You'll see me again.}
 <ACTION>__{The General seems fond of Frank, and not only because of all the money on the table.}
 <CHAR>__{GENERAL} <CHAR_PAR>__{}
 <DIAL>__{It's not in my best interest to say this, Frank ... but quitting while you're ahead is not the same as quitting.}
@@ -2143,14 +2143,14 @@
 <DIAL>__{Give them half!}
 <ACTION>__{Nate, pinned down by the mules, can't hear him over the noise.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Cut half of them loose!      The mules!}
+<DIAL>__{Cut half of them loose! The mules!}
 <ACTION>__{Nate cuts the mule-train tether in the middle, slaps at the animals. As the freed mules disappear into a wall of trees the shooting subsides, then stops altogether. Smoke from all the gunfire rises like mist around the half dozen Thais and Americans lying dead on the ground.}
 <LOC>__{EXT. STREET - NIGHT}
 <ACTION>__{Teddy makes out with a girl in the back seat of his car. The pay phone just outside on the corner rings, and he gets out, steps past Jimmy, answers it -}
 <LOC>__{INT. SOUL BROTHERS BAR - BANGKOK - INTERCUT :}
 <ACTION>__{- DAY A Thai singer attempts Otis Redding on the little stage. Frank, at a table here, with a drink and a phone.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Newark.     Short Term Parking Lot 3. TEDDY V/O When you need it? Today?}
+<DIAL>__{Newark. Short Term Parking Lot 3. TEDDY V/O When you need it? Today?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Tomorrow will be fine.}
 <ACTION>__{Jimmy loiters close enough to the open pay phone, to hear Teddy's side of the conversation.}
@@ -2170,7 +2170,7 @@
 <DIAL>__{Then you heard wrong!}
 <ACTION>__{Jimmy shies back a step in case Abruzzo takes a swing.}
 <CHAR>__{SPEARMAN} <CHAR_PAR>__{}
-<DIAL>__{Maybe he means the time?   3 o'clock?}
+<DIAL>__{Maybe he means the time? 3 o'clock?}
 <CHAR>__{JONES} <CHAR_PAR>__{}
 <DIAL>__{And this isn't a Jersey plate. Or New York. Not with just two letters. It's three and three, not two and three -}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
@@ -2182,12 +2182,12 @@
 <CHAR>__{ABRUZZO} <CHAR_PAR>__{}
 <DIAL>__{You're fuckin lying -}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
-<DIAL>__{It's what he said.   I'm sure.}
+<DIAL>__{It's what he said. I'm sure.}
 <CHAR>__{SPEARMAN} <CHAR_PAR>__{}
 <DIAL>__{KA 760 -}
 <CHAR>__{JIMMY} <CHAR_PAR>__{}
 <DIAL>__{Yes!}
-<ACTION>__{Silence.   They all look at each other.       After a moment -}
+<ACTION>__{Silence. They all look at each other. After a moment -}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{None of you ever been in the service? It's an Air Force tail number.}
 <LOC>__{EXT. SKY - DAY}
@@ -2200,7 +2200,7 @@
 <DIAL>__{Captain, I'm Richard Roberts, Director of the Essex County Narcotics Bureau.}
 <ACTION>__{Front door. Trupo sort of waves a search warrant at Julie as invites himself in. The NY cops follow, fan out. Trupo and his detectives head upstairs -}
 <LOC>__{INT. AIRPORT HANGAR - LATER}
-<ACTION>__{The plane has been brought into a hangar where it's being taken apart like a car stripped by thieves. Inside the cabin, seats are removed and inspected, carpeting pulled up, panels unscrewed, lavatories dismantled. Downstairs - Ana and Frank's mother, guarded, can hear Trupo and his detectives, upstairs, ransacking a bedroom. Upstairs - the SIU detectives pull open drawers, throw clothes from the closets.   Trupo picks up an invitation to a United Nations ball, tosses it down again. Finds a safety- deposit box key in a sock drawer, puts it in his pocket. The engines and landing gear are disassembled, the tires opened up and searched. A nozzle plunges into a toilet and pumps out the contents into barrels detectives fish through with gloved hands -}
+<ACTION>__{The plane has been brought into a hangar where it's being taken apart like a car stripped by thieves. Inside the cabin, seats are removed and inspected, carpeting pulled up, panels unscrewed, lavatories dismantled. Downstairs - Ana and Frank's mother, guarded, can hear Trupo and his detectives, upstairs, ransacking a bedroom. Upstairs - the SIU detectives pull open drawers, throw clothes from the closets. Trupo picks up an invitation to a United Nations ball, tosses it down again. Finds a safety- deposit box key in a sock drawer, puts it in his pocket. The engines and landing gear are disassembled, the tires opened up and searched. A nozzle plunges into a toilet and pumps out the contents into barrels detectives fish through with gloved hands -}
 <LOC>__{INT. MAMA LUCAS'S TEANECK, N.J. HOUSE - LATER - DAY}
 <ACTION>__{Ana is taken upstairs, brought before the SIU detectives who wait for the NYPD cops to leave the room. The place has been torn apart.}
 <CHAR>__{TRUPO} <CHAR_PAR>__{}
@@ -2243,7 +2243,7 @@
 <ACTION>__{Richie and Toback sit before the Federal Attorneys and customs agents. The US Attorney hangs up a phone ... then:}
 <CHAR>__{US ATTORNEY} <CHAR_PAR>__{}
 <DIAL>__{That was a military transport plane. If there was heroin on board then someone in the military would have to be involved. Which means that even as it fights a war that's claimed 50,000 Americans lives, the military is smuggling narcotics.}
-<ACTION>__{Richie's in serious trouble and knows it.    As does Toback.}
+<ACTION>__{Richie's in serious trouble and knows it. As does Toback.}
 <CHAR>__{US ATTORNEY} <CHAR_PAR>__{}
 <DIAL>__{That's how these events are being interpreted by General Easton in that call to me. That someone employed by the this office believes the United States Army is in the drug trafficking business - and is trying to prove it by desecrating the remains of young men who've given their lives in the defence of democracy.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -2261,7 +2261,7 @@
 <DIAL>__{Frank Lucas.}
 <ACTION>__{No one in the room, except Richie and Toback, has ever heard the name. The federal men regard one another blankly.}
 <CHAR>__{US ATTORNEY} <CHAR_PAR>__{}
-<DIAL>__{Who?  Who's Frank Lucas?}
+<DIAL>__{Who? Who's Frank Lucas?}
 <DIAL_PAR>__{(no one seems to know)}
 <DIAL>__{Who's he work for? Which family?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -2300,7 +2300,7 @@
 <DIAL>__{He was out of line, Richie.}
 <ACTION>__{Richie isn't really listening. Strides past his detectives on his way out of the building. To Spearman -}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
-<DIAL>__{It's over.   You're shut down.}
+<DIAL>__{It's over. You're shut down.}
 <ACTION>__{Toback watches as the detectives follow after Richie striding toward his car.}
 <LOC>__{INT/EXT. AIRPORT TERMINAL - NIGHT}
 <ACTION>__{Frank comes out with an airline representative to find Doc waiting for him. He can tell immediately something's wrong.}
@@ -2313,7 +2313,7 @@
 <DIAL>__{This - is his death warrant.}
 <ACTION>__{He lightly touches his wife's bruised face and walks out.}
 <LOC>__{INT. FRANK'S PENTHOUSE - NIGHT}
-<ACTION>__{He comes down the stairs to where Doc waits.         As they head for the door -}
+<ACTION>__{He comes down the stairs to where Doc waits. As they head for the door -}
 <CHAR>__{MRS. LUCAS} <CHAR_PAR>__{}
 <DIAL>__{Frankie -}
 <ACTION>__{Frank glances to where his mother sits in the living room. Nods to Doc to say, Get the car, I'll be out in a minute. Goes over to his mother.}
@@ -2330,7 +2330,7 @@
 <DIAL>__{Is that where I'm going?}
 <CHAR>__{MRS. LUCAS} <CHAR_PAR>__{}
 <DIAL>__{I never asked you where all this came from because I didn't want to hear you lie to me. Don't lie to me. Don't do that, too.}
-<ACTION>__{She's not pleading, she's telling.       Silence.    Then -}
+<ACTION>__{She's not pleading, she's telling. Silence. Then -}
 <CHAR>__{MRS. LUCAS} <CHAR_PAR>__{}
 <DIAL>__{Do you really want to make things so bad for your family they'll leave you? Because they will. She will -}
 <DIAL_PAR>__{(points upstairs)}
@@ -2352,7 +2352,7 @@
 <ACTION>__{The sea of ladies' hats from above move in time with the gospel choir. As always, no matter what else is going on in his complicated life, Frank sits with his mother and Ana in their usual pew. The gospel music continues over:}
 <LOC>__{EXT. BAPTIST CHURCH - MORNING}
 <ACTION>__{Frank emerges from the church, kisses his mother and Ana and put them in a car with a driver. He climbs into Doc's alone. His mother watches, wondering perhaps if he intends to go kill Trupo after all. As Doc's car leaves, so does another.}
-<LOC>__{319        INT/EXT. RICHIE'S CAR - MOVING - NEAR GW BRIDGE - MORNING19}
+<LOC>__{319 INT/EXT. RICHIE'S CAR - MOVING - NEAR GW BRIDGE - MORNING19}
 <ACTION>__{The laundry truck approaches a ramp leading to the George Washington Bridge. Richie, a couple of car lengths behind, follows. The truck continues straight.}
 <LOC>__{EXT. NEWARK - MORNING}
 <ACTION>__{From overhead, the laundry truck, the gun car and the van - and the detectives' cars following them all - converge from different directions -}
@@ -2365,7 +2365,7 @@
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
 <DIAL>__{Where is it? RICHIE V/O Somewhere in the South tower.}
 <CHAR>__{TOBACK} <CHAR_PAR>__{}
-<DIAL>__{You know that it's there.     You're sure. RICHIE V/O Positive.}
+<DIAL>__{You know that it's there. You're sure. RICHIE V/O Positive.}
 <LOC>__{EXT. STEPHEN CRANE PROJECTS - SAME TIME}
 <ACTION>__{Richie, on a pay phone across down the street from the Projects, looks up at the dark South tower.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -2412,9 +2412,9 @@
 <LOC>__{INT. THE PROJECTS BUILDING - CONTINUOUS}
 <ACTION>__{As Richie rushes out to the hallway he can hear footfalls echoing in the stairwell. He starts down, taking the stairs five at a time, chases Teddy down two flights - Teddy yanks open a door, runs down a corridor, bangs into an apartment. Richie reaches the apartment just as Teddy is goes out onto an exterior balcony - Richie continues along the interior corridor, running parallel to Teddy on the balcony, who trips over some debris and garbage, looking over his shoulder for Richie - Richie cuts through another apartment to head him off, but the door to the balcony is nailed shut. So are the windows. Richie looks around, grabs a small portable television and, just as Teddy runs past, hurls it through a window at him, hitting him in the head. He falls hard, dazed. Richie hurries through the broken window. Teddy comes to and fights back, until Richie breaks his femur with his bare hands. Teddy howls in excruciating pain -}
 <LOC>__{INT/EXT. DRY CLEANERS - DAY}
-<ACTION>__{Police cars outside.    Eugene Lucas is cuffed and led away.}
+<ACTION>__{Police cars outside. Eugene Lucas is cuffed and led away.}
 <LOC>__{EXT. METAL DOOR SHOP - DAY}
-<ACTION>__{More police outside Lester's place.     They cuff him.}
+<ACTION>__{More police outside Lester's place. They cuff him.}
 <LOC>__{EXT. TIRE SERVICE SHOP - DAY}
 <ACTION>__{New Jersey troopers cuff Turner Lucas and lead him away.}
 <LOC>__{EXT. ELECTRICAL SHOP - DAY}
@@ -2423,7 +2423,7 @@
 <DIAL>__{What kind of trees are these?}
 <ACTION>__{Frank looks at the trees, then at Richie, with equal serenity.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{You think you got Frank Lucas.      You got nothing.}
+<DIAL>__{You think you got Frank Lucas. You got nothing.}
 <LOC>__{INT. RICHIE'S APARTMENT - DAY}
 <ACTION>__{Richie cuts the tags off a new, inexpensive suit. Slips the jacket on, which seemed somehow to fit a little better at the store. Cuts the tags off a tie.}
 <LOC>__{INT. COURTHOUSE MENS ROOM - DAY}
@@ -2434,7 +2434,7 @@
 <DIAL>__{Mr. Roberts -}
 <ACTION>__{Richie slowly lifts himself from his chair, steps forward, turns to look at the jury that's studying him, finally finds his voice:}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Thank you, your Honor.   Ladies and gentlemen -}
+<DIAL>__{Thank you, your Honor. Ladies and gentlemen -}
 <LOC>__{INT. COUNTY JAIL - INTERVIEW ROOM - DAY}
 <ACTION>__{Wire mesh separates Frank from his battalion of lawyers. He glances over them to Richie being led through the large Visiting Room.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -2479,7 +2479,7 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Bullshit.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Is it? Tony the Bug.     Benny Two-Socks. Carmine Camanetti.}
+<DIAL>__{Is it? Tony the Bug. Benny Two-Socks. Carmine Camanetti.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Who the fuck are they? I don't know them and they don't know me.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -2505,27 +2505,27 @@
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I could give you cops, but that's not who you want, is it. You want organized crime names.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{I'll take them, too.   I want them all.}
+<DIAL>__{I'll take them, too. I want them all.}
 <ACTION>__{Frank isn't sure he heard right.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You'll take them, too? You'd go after cops? Are you serious? You'd do that? Lock up your own kind?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{They're not. Not the ones in business with you. They're not my kind any more than the Italians are yours.}
-<ACTION>__{They regard one another in silence.      Richie can tell Frank sees daylight.}
+<ACTION>__{They regard one another in silence. Richie can tell Frank sees daylight.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{What can you promise me?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I can promise you if you lie to me about one name, you'll never get out of prison. Lie about one dollar in one offshore account, you'll never get out. You can live rich in jail the rest of your life, or poor outside it, that's what I can promise.}
-<ACTION>__{Frank is silent for several moments.      Finally -}
+<ACTION>__{Frank is silent for several moments. Finally -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You know, I don't care if the feds take all my buildings, my stocks, my off-shore accounts. They can take it all, I don't care - use it to build battleships, paint bridges, whatever the fuck they want. Fight another war. But those other motherfuckers - the cops - put my money in their pockets. Millions.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{I believe it.}
 <ACTION>__{Frank debates with himself the step he's about to take ...}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{I want to know everyone   you've met for the last twenty years.    Everyone you sold to. Every cop you ever    paid off. Every one who ever stole from   you. Every one you remember.}
+<DIAL>__{I want to know everyone you've met for the last twenty years. Everyone you sold to. Every cop you ever paid off. Every one who ever stole from you. Every one you remember.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{Oh, I remember them all.   That's not the problem.}
+<DIAL>__{Oh, I remember them all. That's not the problem.}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
 <DIAL>__{What is?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
@@ -2534,9 +2534,9 @@
 <ACTION>__{Surveillance photographs of cops seen earlier taking envelopes of money on 116th Street and other drops go up on a new, elaborate Table of Organization - of cops.}
 <LOC>__{INT. NARCOTICS SQUAD HQ - NEWARK - DAY}
 <ACTION>__{Richie dismantles the Lucas Table of Organization here, taking down the photographs. As it collapses - Frank puts up photographs of detectives -}
-<LOC>__{347   QUICK CUTS of the same detectives, in handcuffs, led through}
+<LOC>__{347 QUICK CUTS of the same detectives, in handcuffs, led through}
 <ACTION>__{police stations past other cops watching with dread like maybe they're next - A surveillance photograph of the four Princes of the City striding down a sidewalk goes up on the cell wall -}
-<LOC>__{348   FLASHCUT :}
+<LOC>__{348 FLASHCUT :}
 <ACTION>__{as three of the four SIU cops are led away in cuffs from a golf course - A surveillance photograph of Trupo in a black hand -}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{You go up here. Your "special."}
@@ -2544,14 +2544,14 @@
 <LOC>__{INT/EXT. TRUPO'S GARAGE - MORNING}
 <ACTION>__{Trupo, coffee in hand, comes into his garage from his kitchen. Opens the garage door and sees two squad cars parked outside ... A TV: A report on the indictments handed down by the Manhattan DA's office against 53 NYPD and SIU detectives -}
 <LOC>__{INT. PRISON CELL - DAY (YEARS LATER)}
-<ACTION>__{Frank gathers his few personal belongings and puts them in a box. Stands with the box and waits for the cell door to open. The Table of Organization and files are gone. Legend:   Frank Lucas was convicted of Conspiracy to}
+<ACTION>__{Frank gathers his few personal belongings and puts them in a box. Stands with the box and waits for the cell door to open. The Table of Organization and files are gone. Legend: Frank Lucas was convicted of Conspiracy to}
 <DIAL>__{Distribute Narcotics and sentenced to 70 years. He served 15 of them.}
-<ACTION>__{Legend:   Federal authorities confiscated over 250 million}
+<ACTION>__{Legend: Federal authorities confiscated over 250 million}
 <DIAL>__{dollars from him in real estate, equities and cash in US and foreign banks.}
 <LOC>__{INT. NARCOTICS SQUAD HQ - NEWARK - DAY}
-<ACTION>__{Richie, too, is packing, putting personal items into boxes. Legend:   The day after he convicted Frank Lucas and 30 of}
+<ACTION>__{Richie, too, is packing, putting personal items into boxes. Legend: The day after he convicted Frank Lucas and 30 of}
 <DIAL>__{his Country Boy relatives, Richard Roberts borrowed $400 from his credit union to help pay for a 3-day vacation to the Bahamas.}
-<ACTION>__{Richie, carrying the box, switches off the lights and closes the door behind him on his way out. Legend:   Six months later, he quit the Prosecutors Office}
+<ACTION>__{Richie, carrying the box, switches off the lights and closes the door behind him on his way out. Legend: Six months later, he quit the Prosecutors Office}
 <DIAL>__{to become a defense attorney. His first client was Frank Lucas.}
 <LOC>__{EXT. PRISON - DAY (1990)}
 <ACTION>__{Frank steps out into sunlight, free but owning nothing but the cardboard box in his arms. Looks out across the parking lot to see if anyone has come to pick him up. Sees Richie by his car, hand raised above his head like a flag.}
@@ -2572,7 +2572,7 @@
 <DIAL>__{The fuck is that? Just do what?}
 <ACTION>__{It's a Nike store with huge paintings of Michael Jordan and the admonition "Just Do It."}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
-<DIAL>__{Sneakers.   Expensive ones.}
+<DIAL>__{Sneakers. Expensive ones.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Who the fuck would buy those?}
 <ACTION>__{A car equipped with sub-woofer bass comes booming past. Frank stares at it with the same pained look Bumpy had at the discount emporium.}
@@ -2580,7 +2580,7 @@
 <DIAL>__{Your brothers know you're out?}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{I haven't talked to them in years. It's better that way. For them. I don't know where they are. Went back to Greensboro when they got out, I guess.}
-<ACTION>__{Richie nods.    Frank looks back at the new storefronts.}
+<ACTION>__{Richie nods. Frank looks back at the new storefronts.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{What am I going to do now, be a janitor? What do I know how to do? How am I going to live?}
 <CHAR>__{RICHIE} <CHAR_PAR>__{}
@@ -2592,7 +2592,7 @@
 <DIAL>__{You know, one phone call, Richie, I could be back in business.}
 <ACTION>__{The look Richie gives him calmly assures Frank if he did that it'd be the last phone he made outside prison - ever.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
-<DIAL>__{I won't.   I'm just saying I could.}
+<DIAL>__{I won't. I'm just saying I could.}
 <ACTION>__{He buttons the cuffs of the fake Members Only windbreaker Richie bought him off the street.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Thanks for the clothes.}
@@ -2607,7 +2607,7 @@
 <ACTION>__{The first one is still staring at Frank, but finally has the good sense to let it go.}
 <CHAR>__{GANGSTA 1} <CHAR_PAR>__{}
 <DIAL>__{Nothing.}
-<ACTION>__{They move on.    Frank glances to Richie.}
+<ACTION>__{They move on. Frank glances to Richie.}
 <CHAR>__{FRANK} <CHAR_PAR>__{}
 <DIAL>__{Every idiot gets to be young once.}
 <ACTION>__{Frank zips up his Members Only jacket, props up the collar and points himself in the other direction.}

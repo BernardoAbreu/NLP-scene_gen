@@ -1,27 +1,27 @@
 <ACTION>__{"An American Werewolf in London" -- by John Landis}
 <TRANS>__{FADE IN:}
-<LOC>__{1    MAN'S FOOTPRINT}
+<LOC>__{1 MAN'S FOOTPRINT}
 <ACTION>__{on the moon.}
 <LOC>__{EXT. MOON}
-<ACTION>__{Camera begins to pull back slowly, straight up - the song "Moon Shadow" by Cat Stevens begins.  Once we are high enough to see the entire moon, the main title is superimposed.}
+<ACTION>__{Camera begins to pull back slowly, straight up - the song "Moon Shadow" by Cat Stevens begins. Once we are high enough to see the entire moon, the main title is superimposed.}
 <DIAL>__{An American Werewolf in London}
 <ACTION>__{We continue to retreat from the moon, looking on as it grows farther from us, continuing credits until the full moon is the size it appears to us from earth.}
 <LOC>__{EXT. CROSSROADS ON THE MOORS - NIGHT}
-<ACTION>__{Tree branches enter into the frame, the camera pans down and we see a truck approaching.  We are at a crossroads in the moors, looking sinister enough to have earned their literary reputation. The truck stops at the crossroads, the DRIVER, mustached and wearing tweeds, boots, and a muffler, climbs down. "Moon Shadow" ends.}
+<ACTION>__{Tree branches enter into the frame, the camera pans down and we see a truck approaching. We are at a crossroads in the moors, looking sinister enough to have earned their literary reputation. The truck stops at the crossroads, the DRIVER, mustached and wearing tweeds, boots, and a muffler, climbs down. "Moon Shadow" ends.}
 <TRANS>__{CUT TO:}
-<ACTION>__{Loud bang of the back grating on the truck as it slams down.  Revealed among the sheep are two rudely-awakened young American boys.  They look exhausted.  They both carry backpacks, two American kids on a jaunt in Europe.  They are both in their late twenties. It is very cold and they clamber out of the truck none too happily.  Pushing sheep aside they step out and stretch.}
+<ACTION>__{Loud bang of the back grating on the truck as it slams down. Revealed among the sheep are two rudely-awakened young American boys. They look exhausted. They both carry backpacks, two American kids on a jaunt in Europe. They are both in their late twenties. It is very cold and they clamber out of the truck none too happily. Pushing sheep aside they step out and stretch.}
 <ACTION_ALT>__{JACK GOODMAN AND DAVID KESSLER}
 <ACTION>__{They've been cramped for hours.}
 <CHAR>__{TRUCK DRIVER} <CHAR_PAR>__{}
-<DIAL>__{Here, lads, East Proctor and all about are the moors.  I go east here.}
+<DIAL>__{Here, lads, East Proctor and all about are the moors. I go east here.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Yes, well thank you very much for the ride, sir.  You have lovely sheep.}
+<DIAL>__{Yes, well thank you very much for the ride, sir. You have lovely sheep.}
 <CHAR>__{TRUCK DRIVER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(as he clambers back up on his truck)}
-<DIAL>__{Boys, keep off the moors. Stay on the road.  Good luck to you.}
+<DIAL>__{Boys, keep off the moors. Stay on the road. Good luck to you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Thanks again!}
-<ACTION>__{He drives off.  LONG SHOT of the two boys as the lorry pulls away.  Surrounding them are the moors.  They put on their packs, David points to the signpost pointing towards East Proctor.}
+<ACTION>__{He drives off. LONG SHOT of the two boys as the lorry pulls away. Surrounding them are the moors. They put on their packs, David points to the signpost pointing towards East Proctor.}
 <LOC>__{EXT. ROAD ON THE MOORS - NIGHT}
 <ACTION>__{As they walk, their breath visible:}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -38,12 +38,12 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{You're not having a good time are you?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Oh, I don't know.  I mean look around.  Isn't this a fun place?}
+<DIAL>__{Oh, I don't know. I mean look around. Isn't this a fun place?}
 <ACTION>__{The camera shows us the moors - desolate, cold, foreboding.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Well, I like it here.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{I'm sorry.  Northern England first, Italy later.}
+<DIAL>__{I'm sorry. Northern England first, Italy later.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Right.}
 <ACTION>__{They walk on.}
@@ -65,35 +65,35 @@
 <DIAL>__{I don't know.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(like an announcer)}
-<DIAL>__{Rendezvous in Rome starring Jack Goodman and Debbie Klein. The love affair that shocked Europe!  See torrid lovemaking at its most explicit!  See Jack and Debbie expose their lust in the sacred halls of the Vatican!  Never has the screen dared....}
+<DIAL>__{Rendezvous in Rome starring Jack Goodman and Debbie Klein. The love affair that shocked Europe! See torrid lovemaking at its most explicit! See Jack and Debbie expose their lust in the sacred halls of the Vatican! Never has the screen dared....}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{If you don't stop, I'm going to kill you.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{I have to make love to her. It's very simple.  She has no choice really.}
+<DIAL>__{I have to make love to her. It's very simple. She has no choice really.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{It just fascinates me that you can spend so much energy on someone so dull.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{It is impossible for a body like that to be dull.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{We've known Debbie what, since the eighth grade?  How many years of foreplay is that?}
+<DIAL>__{We've known Debbie what, since the eighth grade? How many years of foreplay is that?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{She says she `likes me too much'.}
 <ACTION>__{David just laughs and laughs and laughs.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{EXT. EAST PROCTOR MAIN STREET - NIGHT}
-<ACTION>__{David and Jack entering East Proctor.  It is brightly moonlit.  East Proctor consists of a few shops, all closed, a petrol pump and a pub.  East Proctor has a very small population and the place looks empty.  David and Jack enter the middle of town and look about.  The camera sees what they see.  A few shops, dark and shuttered.  Light and laughter come from the pub.}
+<ACTION>__{David and Jack entering East Proctor. It is brightly moonlit. East Proctor consists of a few shops, all closed, a petrol pump and a pub. East Proctor has a very small population and the place looks empty. David and Jack enter the middle of town and look about. The camera sees what they see. A few shops, dark and shuttered. Light and laughter come from the pub.}
 <LOC>__{EXT. THE SLAUGHTERED LAMB - NIGHT}
 <ACTION>__{Its traditional shingle shows a ferocious wolf's bloody head on a pike, and tells us the pub's name, "The Slaughtered Lamb".}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{The Slaughtered Lamb?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Of course, The Slaughtered Lamb.  Why else would they have a severed fox head on a spear as their symbol?}
+<DIAL>__{Of course, The Slaughtered Lamb. Why else would they have a severed fox head on a spear as their symbol?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{That's a wolf's head.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Of course, The Slaughtered Lamb.  Why else would they have a severed wolf's head on a spear as their symbol?}
+<DIAL>__{Of course, The Slaughtered Lamb. Why else would they have a severed wolf's head on a spear as their symbol?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{That's not a spear.  It's a pike.}
+<DIAL>__{That's not a spear. It's a pike.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{A severed wolf's head on a pike as their symbol.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -105,7 +105,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Shall we?}
 <LOC>__{INT. THE SLAUGHTERED LAMB - NIGHT}
-<ACTION>__{The pub was apparently "modernized" sometime in the mid- fifties.  Its traditional Englishness combines with greasy stainless steel and glass.  It is populated by mostly pale young men with longish hair.  Several older men are ruddy complexioned and sport large mustaches. Four or five are watching a chess game.  Two men are playing darts.  The conversation is loud and there is often laughter.  But there is something unsavory about these people.  A look of leanness and poverty.  They seem inbred and somehow sullen.  We establish the types and the general level of noise in the room. The door opens revealing David and Jack.  There is dead silence and all are staring in a not friendly way at the two boys who are made uncomfortable by all the strange attention.  They give each other a "what?" look, then turn to the assembled populace.}
+<ACTION>__{The pub was apparently "modernized" sometime in the mid- fifties. Its traditional Englishness combines with greasy stainless steel and glass. It is populated by mostly pale young men with longish hair. Several older men are ruddy complexioned and sport large mustaches. Four or five are watching a chess game. Two men are playing darts. The conversation is loud and there is often laughter. But there is something unsavory about these people. A look of leanness and poverty. They seem inbred and somehow sullen. We establish the types and the general level of noise in the room. The door opens revealing David and Jack. There is dead silence and all are staring in a not friendly way at the two boys who are made uncomfortable by all the strange attention. They give each other a "what?" look, then turn to the assembled populace.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Hello.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -116,8 +116,8 @@
 <ACTION_ALT>__{DAVID AND JACK}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiles)}
-<DIAL>__{It's very cold outside.  May we come in?}
-<ACTION>__{The WOMAN BARKEEP nods.  The boys walk carefully over to a table and very self-consciously remove their packs, place them on the floor, and sit down at the table.  There is a long, awkward wait.  The Woman finally comes over to them.}
+<DIAL>__{It's very cold outside. May we come in?}
+<ACTION>__{The WOMAN BARKEEP nods. The boys walk carefully over to a table and very self-consciously remove their packs, place them on the floor, and sit down at the table. There is a long, awkward wait. The Woman finally comes over to them.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Do you have any hot soup?}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
@@ -160,10 +160,10 @@
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{I beg your pardon?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{He was joking.  Thank you.}
+<DIAL>__{He was joking. Thank you.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
-<DIAL>__{Joking?  I remember The Alamo. I saw it once in London, in Leicester Square.}
-<ACTION>__{Jack and David look startled.  One of the CHESS PLAYERS explains:}
+<DIAL>__{Joking? I remember The Alamo. I saw it once in London, in Leicester Square.}
+<ACTION>__{Jack and David look startled. One of the CHESS PLAYERS explains:}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL>__{She means in the cinema, that film with John Wayne.}
 <DIAL_PAR>__{(turns to board)}
@@ -171,12 +171,12 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Oh, yes, of course.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Right, with Laurence Harvey and everybody died in it.  It was very bloody.}
+<DIAL>__{Right, with Laurence Harvey and everybody died in it. It was very bloody.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL>__{Bloody awful if you ask me!}
-<ACTION>__{This sends everyone into gales of laughter.  Jack and David smile politely.}
+<ACTION>__{This sends everyone into gales of laughter. Jack and David smile politely.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Here, Gladys, Tom.  Did you hear the one about the crashing plane?}
+<DIAL>__{Here, Gladys, Tom. Did you hear the one about the crashing plane?}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{No, but we're about to.}
 <ACTION>__{Laughter.}
@@ -184,14 +184,14 @@
 <DIAL>__{You be quiet, woman, and let me speak.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(heavy sarcasm)}
-<DIAL>__{Quiet, everyone!  Hush!  Shhh!}
+<DIAL>__{Quiet, everyone! Hush! Shhh!}
 <ACTION>__{Uproarious laughter.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{All right, laugh then.  I shan't tell it.}
+<DIAL>__{All right, laugh then. I shan't tell it.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Oh, come on, tell us.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{No.  You've had your chance.}
+<DIAL>__{No. You've had your chance.}
 <ACTION>__{The men all coax him to tell the joke.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to David)}
@@ -201,10 +201,10 @@
 <DIAL>__{You ask them.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to David)}
-<DIAL>__{Listen, that's a pentangle, a five-pointed star.  It's used in witchcraft.  Lon Chaney, Jr. and Universal Studios maintain it's the mark of the wolf man.}
+<DIAL>__{Listen, that's a pentangle, a five-pointed star. It's used in witchcraft. Lon Chaney, Jr. and Universal Studios maintain it's the mark of the wolf man.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Jack)}
-<DIAL>__{I see.  You want me to ask these people if they're burning candles to ward off monsters.}
+<DIAL>__{I see. You want me to ask these people if they're burning candles to ward off monsters.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to David)}
 <DIAL>__{Right.}
@@ -213,7 +213,7 @@
 <DIAL>__{Wrong.}
 <ACTION>__{The drinkers have gotten the Chess Player to tell the joke as everyone knew he would.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Oh, all right.  There was this airplane over the Atlantic on its way to New York.  It was full of men from the United Nations.}
+<DIAL>__{Oh, all right. There was this airplane over the Atlantic on its way to New York. It was full of men from the United Nations.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{That's very funny, that is.}
 <ACTION>__{Uproarious laughter.}
@@ -224,19 +224,19 @@
 <DIAL_PAR>__{(to Jack)}
 <DIAL>__{You ask them.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Here now, let me finish!  So halfway over the ocean the engines run low on petrol so they have to lighten the plane.  So they heave out all the baggage, but it's still too heavy.  So they chuck out the seats, but it's still too heavy!  Finally this Froggy steps up and shouts "Viva la France" and leaps out.  Then an Englishman....}
+<DIAL>__{Here now, let me finish! So halfway over the ocean the engines run low on petrol so they have to lighten the plane. So they heave out all the baggage, but it's still too heavy. So they chuck out the seats, but it's still too heavy! Finally this Froggy steps up and shouts "Viva la France" and leaps out. Then an Englishman....}
 <CHAR>__{DART PLAYERS} <CHAR_PAR>__{}
-<DIAL>__{Hear!  Hear!}
+<DIAL>__{Hear! Hear!}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(undaunted)}
-<DIAL>__{...steps up and shouts `God save the Queen!' and leaps out.  But the plane is still too heavy.  So the Yank delegate from Texas steps up, shouts, `Remember the Alamo!' and chucks out the Mexican.}
-<ACTION>__{This is apparently the funniest joke the inhabitants of East Proctor have ever heard.  The laughter is uproarious, choking, knee-slapping, incredible.  As the Chess Player goes to take a drink of beer, the Dart Player gasps out...}
+<DIAL>__{...steps up and shouts `God save the Queen!' and leaps out. But the plane is still too heavy. So the Yank delegate from Texas steps up, shouts, `Remember the Alamo!' and chucks out the Mexican.}
+<ACTION>__{This is apparently the funniest joke the inhabitants of East Proctor have ever heard. The laughter is uproarious, choking, knee-slapping, incredible. As the Chess Player goes to take a drink of beer, the Dart Player gasps out...}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL>__{Remember the Alamo!}
-<ACTION>__{...causing the Chess Player to spit out his beer causing even harder laughter.  Complete hilarity.}
+<ACTION>__{...causing the Chess Player to spit out his beer causing even harder laughter. Complete hilarity.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Excuse me, but what's that star on the wall for?}
-<ACTION>__{Dead silence.  A dart lands in the wall.  David and Jack are understandably bewildered.  The villagers look hard indeed.}
+<ACTION>__{Dead silence. A dart lands in the wall. David and Jack are understandably bewildered. The villagers look hard indeed.}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angry)}
 <DIAL>__{You've made me miss.}
@@ -247,7 +247,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jack, we'd better go.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{What do you mean?  I'm starving.}
+<DIAL>__{What do you mean? I'm starving.}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL>__{There's no food here.}
 <ACTION>__{The villagers look threatening and David's voice is a bit urgent.}
@@ -263,13 +263,13 @@
 <DIAL_PAR>__{(worried)}
 <DIAL>__{How much do we owe you?}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Nothing, lads.  Go, God be with you.}
+<DIAL>__{Nothing, lads. Go, God be with you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Uh, thank you.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
-<DIAL>__{Wait!  You just can't let them go!}
+<DIAL>__{Wait! You just can't let them go!}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Go!  And stay on the road. Keep clear of the moors.}
+<DIAL>__{Go! And stay on the road. Keep clear of the moors.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Yes, well, thanks again.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
@@ -280,7 +280,7 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{What the hell was that all about?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I don't know.  Let's see if there's an inn or something up the road.}
+<DIAL>__{I don't know. Let's see if there's an inn or something up the road.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Beware the moon?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -296,15 +296,15 @@
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL>__{It's murder then.}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Then murder it is!  It's in God's hands now.}
+<DIAL>__{Then murder it is! It's in God's hands now.}
 <ACTION>__{The wax drips from the Pentangle's candles onto the floor.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{EXT. A ROAD ON THE MOORS - NIGHT - DAVID AND JACK}
 <ACTION>__{walking on the road surrounded by darkness.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{That was weird.  I guess leaving was the best idea.}
+<DIAL>__{That was weird. I guess leaving was the best idea.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{I don't know.  Now that we're out here and it's three degrees, I'm not so sure I wouldn't rather face a blood- thirsty mob.}
+<DIAL>__{I don't know. Now that we're out here and it's three degrees, I'm not so sure I wouldn't rather face a blood- thirsty mob.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Well, not quite a blood- thirsty mob.}
 <ACTION>__{They keep walking.}
@@ -316,10 +316,10 @@
 <DIAL>__{Maybe that pentangle was for something supernatural.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I see and they were too embarrassed to talk about it, because they felt so silly.}
-<ACTION>__{There is a flash of lightning that sends a ghostly illuminating sheet of light over the boys' faces.  The clap of thunder follows loud and rumbling.}
+<ACTION>__{There is a flash of lightning that sends a ghostly illuminating sheet of light over the boys' faces. The clap of thunder follows loud and rumbling.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Please don't rain.}
-<ACTION>__{Downpour.  The boys are walking in a deluge.}
+<ACTION>__{Downpour. The boys are walking in a deluge.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Of course.}
 <ACTION>__{They walk getting soaked.}
@@ -331,28 +331,28 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Santa Lucia...Santa Lucia.}
 <LOC>__{INT. THE SLAUGHTERED LAMB - NIGHT}
-<ACTION>__{The rain is loud on the roof and beating on the windows.  The gathered continue to drink, play chess and darts, but all are silent and contemplative.}
+<ACTION>__{The rain is loud on the roof and beating on the windows. The gathered continue to drink, play chess and darts, but all are silent and contemplative.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Perhaps they'll be safe in the rain.}
-<ACTION>__{The Chess Player slams his hand on the table.  Shouts:}
+<ACTION>__{The Chess Player slams his hand on the table. Shouts:}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
-<DIAL>__{No one brought them here!  No one wanted them here!}
+<DIAL>__{No one brought them here! No one wanted them here!}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{You could have told them!}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
-<DIAL>__{Are you daft?  What do you think they'd say?  They'd think us mad.}
+<DIAL>__{Are you daft? What do you think they'd say? They'd think us mad.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Listen!}
-<ACTION>__{The rain is subsiding.  There is a very faint howl.}
+<ACTION>__{The rain is subsiding. There is a very faint howl.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
-<DIAL>__{Did you hear it?  We must go to them.}
+<DIAL>__{Did you hear it? We must go to them.}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL>__{I heard nothing.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL>__{Nor I.}
-<ACTION>__{The camera lingers as the Chess Player's hard face shows the man's struggle.  Another howl.  The Chess Player turns suddenly.}
+<ACTION>__{The camera lingers as the Chess Player's hard face shows the man's struggle. Another howl. The Chess Player turns suddenly.}
 <LOC>__{EXT. ROADSIDE ON THE MOORS - NIGHT}
-<ACTION>__{David and Jack are now completely out of sight from East Proctor surrounded by darkness and wet.  There is a light drizzle.  They are standing, listening.  The drizzle stops.}
+<ACTION>__{David and Jack are now completely out of sight from East Proctor surrounded by darkness and wet. There is a light drizzle. They are standing, listening. The drizzle stops.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Did you hear that?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -380,32 +380,32 @@
 <DIAL>__{No, but he was on the moors.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{It's a full moon, `beware the moon'.}
-<ACTION>__{Another howl, this one long and loud.  It is a very inhuman noise, terrifying, and closer this time.}
+<ACTION>__{Another howl, this one long and loud. It is a very inhuman noise, terrifying, and closer this time.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I vote we go back to The Slaughtered Lamb.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Yeah.}
-<ACTION>__{They are both visibly worried and walk briskly back from where they just came.  Although after a bit of fast walking they are getting nowhere.  They stop out of breath.}
+<ACTION>__{They are both visibly worried and walk briskly back from where they just came. Although after a bit of fast walking they are getting nowhere. They stop out of breath.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{We're lost.}
 <ACTION>__{Another bloodcurdling howl.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Shit!  David, what is that?}
+<DIAL>__{Shit! David, what is that?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I don't know.  Come on.}
+<DIAL>__{I don't know. Come on.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Come on, where?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Anywhere!  I think we should just keep moving.}
-<ACTION>__{A growl.  A low guttural growl comes from out of the darkness.  We stay on the boys, but we hear something out there.  It starts to walk.}
+<DIAL>__{Anywhere! I think we should just keep moving.}
+<ACTION>__{A growl. A low guttural growl comes from out of the darkness. We stay on the boys, but we hear something out there. It starts to walk.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{It's moving.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{It's circling us.}
-<ACTION>__{And indeed it is.  The boys strain to hear its four footfalls and they turn slowly, following it.  A snarl.}
+<ACTION>__{And indeed it is. The boys strain to hear its four footfalls and they turn slowly, following it. A snarl.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Fuck.}
-<ACTION>__{We hear the wolf-monster stop (for that's what it is - we know it's there even though we've not seen it).  It sits breathing heavily.}
+<ACTION>__{We hear the wolf-monster stop (for that's what it is - we know it's there even though we've not seen it). It sits breathing heavily.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{What's the plan?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -416,25 +416,25 @@
 <DIAL>__{Let's just keep walking.}
 <ACTION>__{They do and David keeps talking as they walk.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{That's right, a lovely stroll in the moors.  Tra-la-la, isn't this fun?}
-<ACTION>__{The thing stalking them seems to speed up.  The boys hesitate as they sense it run past them.  It stops.}
+<DIAL>__{That's right, a lovely stroll in the moors. Tra-la-la, isn't this fun?}
+<ACTION>__{The thing stalking them seems to speed up. The boys hesitate as they sense it run past them. It stops.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{It's in front of us.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Do you think it's a dog?}
-<ACTION>__{Jack and David strain to see what waits ahead of them. BOYS' P.O.V. Something is waiting in the darkness.  Its hulking shape is barely discernible, but its eyes glow eerily and its breath is visible.}
+<ACTION>__{Jack and David strain to see what waits ahead of them. BOYS' P.O.V. Something is waiting in the darkness. Its hulking shape is barely discernible, but its eyes glow eerily and its breath is visible.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Oh shit.  What is that?}
+<DIAL>__{Oh shit. What is that?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{A sheep dog or something. Turn slowly and let's walk away.}
 <ACTION>__{The boys keep talking as they move faster and faster.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Nice doggie.  Good boy.}
+<DIAL>__{Nice doggie. Good boy.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Walk away, Jack.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Walking away, yes, sir.  Here we are walking away.}
-<ACTION>__{They are in a full-out run by now.  After a few minutes flight they stop, panting.}
+<DIAL>__{Walking away, yes, sir. Here we are walking away.}
+<ACTION>__{They are in a full-out run by now. After a few minutes flight they stop, panting.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{See anything?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -443,7 +443,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{It sounds far away.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Not far enough.  Come on.}
+<DIAL>__{Not far enough. Come on.}
 <ACTION>__{They walk briskly.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jack?}
@@ -454,44 +454,44 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I'll tell you when we get there.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Well.  I'm glad we...WHOAA!!}
-<ACTION>__{David shouts as he slips suddenly in the mud, scaring Jack, and us, and himself a great deal.  He lays startled on the wet ground for a moment, then he and Jack laugh.}
+<DIAL>__{Well. I'm glad we...WHOAA!!}
+<ACTION>__{David shouts as he slips suddenly in the mud, scaring Jack, and us, and himself a great deal. He lays startled on the wet ground for a moment, then he and Jack laugh.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{You really scared me, you shithead.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Are you going to help me up?}
 <ACTION>__{Jack takes David's extended hand to help him up when THE WOLF MONSTER SPRINGS!}
 <LOC>__{EXT. MOORS - NIGHT}
-<ACTION>__{The lunging beast brings Jack down in one fell swoop. David falls back on his ass.  Jack is screaming and struggling as he is torn to shreds.  David scrambles to his feet and runs in complete panic.  Jack's screams and the wolf's roars combine.}
+<ACTION>__{The lunging beast brings Jack down in one fell swoop. David falls back on his ass. Jack is screaming and struggling as he is torn to shreds. David scrambles to his feet and runs in complete panic. Jack's screams and the wolf's roars combine.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Jesus fuck!  David!  Please help me!  Please!  David! Shit!  Help me!  Oh God!}
+<DIAL>__{Jesus fuck! David! Please help me! Please! David! Shit! Help me! Oh God!}
 <LOC>__{EXT. ROADSIDE ON THE MOORS - NIGHT}
-<ACTION>__{David runs and runs.  Finally he falls, out of breath.}
+<ACTION>__{David runs and runs. Finally he falls, out of breath.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Jack?  Oh my God, Jack!}
-<ACTION>__{He gets up and runs back to find Jack a torn and bloody mess on the ground.  He stares in horror.}
+<DIAL>__{Jack? Oh my God, Jack!}
+<ACTION>__{He gets up and runs back to find Jack a torn and bloody mess on the ground. He stares in horror.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jack....}
 <LOC>__{EXT. NIGHT - VARIOUS FLASH CUTS}
-<ACTION>__{THE WOLF SPRINGS!  The camera adopts David's P.O.V. as he fights the dark savage shape on top of him.  Fangs clamp down on his shoulder when shots ring out and the hulking form rolls off of him.}
+<ACTION>__{THE WOLF SPRINGS! The camera adopts David's P.O.V. as he fights the dark savage shape on top of him. Fangs clamp down on his shoulder when shots ring out and the hulking form rolls off of him.}
 <LOC>__{EXT. ROADSIDE ON THE MOORS - NIGHT}
-<ACTION>__{David, dazed and bloody, looks and sees the men from The Slaughtered Lamb armed with shotguns and torches running towards him.  Looking over at his attacker, instead of a wolf he sees a very old, naked man laying in the mud riddled with bullet holes.  As the villagers crowd around, David falls back and faints.}
+<ACTION>__{David, dazed and bloody, looks and sees the men from The Slaughtered Lamb armed with shotguns and torches running towards him. Looking over at his attacker, instead of a wolf he sees a very old, naked man laying in the mud riddled with bullet holes. As the villagers crowd around, David falls back and faints.}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
-<ACTION>__{David is in a small, clean and very white hospital room.  He lays on his back in bed, his shoulder bandaged and his arm plugged into a bottle of plasma. There are several cuts and abrasions on his arms and face, but he really doesn't look too bad.  He opens his eyes slowly, blinks, and tries to sit up and look around, but is unable to because of the pain.  He calls out....}
+<ACTION>__{David is in a small, clean and very white hospital room. He lays on his back in bed, his shoulder bandaged and his arm plugged into a bottle of plasma. There are several cuts and abrasions on his arms and face, but he really doesn't look too bad. He opens his eyes slowly, blinks, and tries to sit up and look around, but is unable to because of the pain. He calls out....}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jack?!}
-<ACTION>__{...and passes out.  However his shout has fetched a nurse.  She is ALEX PRICE, very English, very beautiful.  She goes to the bed.}
+<ACTION>__{...and passes out. However his shout has fetched a nurse. She is ALEX PRICE, very English, very beautiful. She goes to the bed.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Mr. Kessler?}
 <ACTION>__{She looks into his eyes, lifting the lids with her thumb, and then checks his chart at the end of the bed.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Mr. Kessler?}
-<ACTION>__{David remains unconscious.  Another young nurse, MISS GALLAGHER, comes in.}
+<ACTION>__{David remains unconscious. Another young nurse, MISS GALLAGHER, comes in.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{He all right?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Yes, I should think.  He called out just now.}
+<DIAL>__{Yes, I should think. He called out just now.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{He's an American, you know. Dr. Hirsch is going to fetch round one of those Embassy fellows to see him.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -508,7 +508,7 @@
 <ACTION>__{A voice startles the girls.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Yes, Miss Gallagher, Miss Price is quite right.}
-<ACTION>__{DR. HIRSCH enters.  He is an older man wearing the customary lab coat.  A very commanding and reassuring presence.  The girls are embarrassed.}
+<ACTION>__{DR. HIRSCH enters. He is an older man wearing the customary lab coat. A very commanding and reassuring presence. The girls are embarrassed.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Dr. Hirsch, Mr. Kessler cried out a minute ago.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -519,7 +519,7 @@
 <DIAL>__{Then get on with it.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{Yes, Doctor.}
-<ACTION>__{She exits.  Dr. Hirsch begins to examine David.  Alex watches.  Dr. Hirsch turns to Alex.}
+<ACTION>__{She exits. Dr. Hirsch begins to examine David. Alex watches. Dr. Hirsch turns to Alex.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Can I be of service, Miss Price?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -542,27 +542,27 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{What happened to them?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{The police report said an escaped lunatic attacked them. He must have been a very powerful man.  Although I really don't see that it is any of your concern, Miss Price.}
+<DIAL>__{The police report said an escaped lunatic attacked them. He must have been a very powerful man. Although I really don't see that it is any of your concern, Miss Price.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{No, sir.  Of course, sir. Good day, Doctor.}
+<DIAL>__{No, sir. Of course, sir. Good day, Doctor.}
 <ACTION>__{She exits as Dr. Hirsch continues his examination, looking into David's eyes.}
 <LOC>__{EXT. DENSE FOREST - DAY}
-<ACTION>__{The camera is handheld, running furiously through the almost dense greenery.  On the soundtrack are the footfalls and heavy breathing of the runner.  The camera abruptly stops and turns, sharply looking about, the panting continuing.  The breathing gets louder and harder, then too loud when we:}
+<ACTION>__{The camera is handheld, running furiously through the almost dense greenery. On the soundtrack are the footfalls and heavy breathing of the runner. The camera abruptly stops and turns, sharply looking about, the panting continuing. The breathing gets louder and harder, then too loud when we:}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
-<ACTION>__{David opens his eyes quickly, the silence and whiteness contrast sharply with the preceding fantasy.  Standing beside the bed are Dr. Hirsch and MR. COLLINS.  Mr. Collins wears a bow tie and is holding a briefcase.}
+<ACTION>__{David opens his eyes quickly, the silence and whiteness contrast sharply with the preceding fantasy. Standing beside the bed are Dr. Hirsch and MR. COLLINS. Mr. Collins wears a bow tie and is holding a briefcase.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Hello, David.  I am Dr. Hirsch and this is a countryman of yours, Mr. Collins.}
+<DIAL>__{Hello, David. I am Dr. Hirsch and this is a countryman of yours, Mr. Collins.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Where am I?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{You're in a hospital in London.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{London?  Where's Jack?  I had a strange dream.}
+<DIAL>__{London? Where's Jack? I had a strange dream.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I should think so after your recent traumatic experiences.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{The guy I was with.  Is he all right?  How did I get to London?}
+<DIAL>__{The guy I was with. Is he all right? How did I get to London?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(quietly)}
 <DIAL>__{Now, David, I want you to prepare yourself; your friend is dead.}
@@ -576,19 +576,19 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Jack's dead?}
 <CHAR>__{MR. COLLINS} <CHAR_PAR>__{}
-<DIAL>__{Mr. Kessler, I am Mr. Collins of the American Embassy here in Grosvenor Square.  Both Mr. Goodman's parents and your parents have been notified of your injuries and everything's in order.}
+<DIAL>__{Mr. Kessler, I am Mr. Collins of the American Embassy here in Grosvenor Square. Both Mr. Goodman's parents and your parents have been notified of your injuries and everything's in order.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Everything's in order?  What are you talking about?}
+<DIAL>__{Everything's in order? What are you talking about?}
 <CHAR>__{MR. COLLINS} <CHAR_PAR>__{}
 <DIAL>__{Mr. Goodman's body has been air-freighted back to New York for burial and your parents have wired funds for your stay in the hospital until you are well enough to fly home.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(controlled tears)}
 <DIAL>__{You don't crate and ship Jack like some side of beef.}
 <DIAL_PAR>__{(approaching hysteria)}
-<DIAL>__{Who the hell are you people? What's going on here?  Where is Jack?  I demand to see him!}
+<DIAL>__{Who the hell are you people? What's going on here? Where is Jack? I demand to see him!}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(holds David down, calls out)}
-<DIAL>__{Miss Price!  Miss Price, please!}
+<DIAL>__{Miss Price! Miss Price, please!}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouting)}
 <DIAL>__{Get your fucking hands off me! What the hell is going on here?}
@@ -601,13 +601,13 @@
 <DIAL>__{Prepare a hypodermic, please, Miss Price.}
 <ACTION>__{The shot is administered and David is held down by Dr. Hirsch and Alex until his breathing becomes more normal.}
 <CHAR>__{MR. COLLINS} <CHAR_PAR>__{}
-<DIAL>__{Now, Mr. Kessler, try not to excite yourself.  Everything has been arranged.  I shall come back to check on your progress and send a report to your parents.  The police have requested to interview you and I have given them permission to do so.}
+<DIAL>__{Now, Mr. Kessler, try not to excite yourself. Everything has been arranged. I shall come back to check on your progress and send a report to your parents. The police have requested to interview you and I have given them permission to do so.}
 <ACTION>__{Dr. Hirsch walks Mr. Collins to the door.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Thank you very much, Mr. Collins.  He'll rest now and I'm sure everything will be fine once he's adjusted.  He's had quite a shock.}
+<DIAL>__{Thank you very much, Mr. Collins. He'll rest now and I'm sure everything will be fine once he's adjusted. He's had quite a shock.}
 <CHAR>__{MR. COLLINS} <CHAR_PAR>__{}
 <DIAL>__{These dumb-ass kids never appreciate anything you do for them.}
-<ACTION>__{Mr. Collins exits.  Dr. Hirsch crosses back to the bed.}
+<ACTION>__{Mr. Collins exits. Dr. Hirsch crosses back to the bed.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{How long have I been here?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -615,12 +615,12 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Two weeks?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{You've suffered some rather severe cuts and bruises, lost a bit of blood, but nothing too serious; black and blue for a while.  You'll have some dueling scars to boast of. That lunatic must have been a very fierce fellow.  They say a mad man has the strength of ten.}
+<DIAL>__{You've suffered some rather severe cuts and bruises, lost a bit of blood, but nothing too serious; black and blue for a while. You'll have some dueling scars to boast of. That lunatic must have been a very fierce fellow. They say a mad man has the strength of ten.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly, as the drugs take hold)}
 <DIAL>__{Lunatic?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Now we've just given you a pretty strong sedative, so try to get some rest now.  Miss Price will see to your needs. Rest now.}
+<DIAL>__{Now we've just given you a pretty strong sedative, so try to get some rest now. Miss Price will see to your needs. Rest now.}
 <ACTION>__{Dr. Hirsch watches as Alex straightens David's covers.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
@@ -635,7 +635,7 @@
 <DIAL>__{What?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{A wolf.}
-<ACTION>__{David passes out.  Alex looks to Dr. Hirsch.}
+<ACTION>__{David passes out. Alex looks to Dr. Hirsch.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Did he say a wolf?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -644,10 +644,10 @@
 <LOC>__{INT. DR. HIRSCH'S OFFICE - DAY}
 <ACTION>__{Dr. Hirsch is on the phone, he is referring to a desk calendar.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{But Roger is so terribly boring.  Yes, dear, but couldn't we...I see.}
+<DIAL>__{But Roger is so terribly boring. Yes, dear, but couldn't we...I see.}
 <DIAL_PAR>__{(he makes a note)}
-<DIAL>__{Thursday at eight, dinner with boring Roger.  Yes, I'm sure I will; if I survived Rommel, I suppose I'll survive another excruciating evening with Roger Mathison.  Be a good girl.  Bye.}
-<ACTION>__{He hangs up very disgruntled.  The intercom buzzes.}
+<DIAL>__{Thursday at eight, dinner with boring Roger. Yes, I'm sure I will; if I survived Rommel, I suppose I'll survive another excruciating evening with Roger Mathison. Be a good girl. Bye.}
+<ACTION>__{He hangs up very disgruntled. The intercom buzzes.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Yes?}
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(V.O.)}
@@ -658,12 +658,12 @@
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL>__{Dr. Hirsch?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Come in, come in.  Please sit. Some tea?}
+<DIAL>__{Come in, come in. Please sit. Some tea?}
 <ACTION>__{The cops sit down, Lt. Villiers immediately produces a small notebook.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL>__{No, thank you. SGT. McMANUS I'd like some tea, please.}
 <ACTION>__{Lt. Villiers shoots the sergeant a withering look.}
-<DIAL>__{SGT. McMANUS Maybe not.  No thanks.  Maybe later.}
+<DIAL>__{SGT. McMANUS Maybe not. No thanks. Maybe later.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{It's no problem.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
@@ -676,7 +676,7 @@
 <DIAL>__{Has Mr. Kessler said anything regarding the attack on the moors?}
 <ACTION>__{The intercom buzzes.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Excuse me.  Yes?}
+<DIAL>__{Excuse me. Yes?}
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{Roger Mathison, Doctor.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -684,7 +684,7 @@
 <CHAR>__{SECRETARY } <CHAR_PAR>__{(V.O.)}
 <DIAL>__{He's on the telephone.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Tell him I'm out.  No, tell him I've passed away.  An old war wound or something.  Tell him I'm dead.  And no more calls!}
+<DIAL>__{Tell him I'm out. No, tell him I've passed away. An old war wound or something. Tell him I'm dead. And no more calls!}
 <ACTION>__{He turns from the intercom back to the cops.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{You were saying?}
@@ -693,42 +693,42 @@
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Why don't we ask him?}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
-<ACTION>__{David sits up in bed.  Lt. Villiers and Sgt. McManus stand by his side.  Dr. Hirsch sits observing.}
+<ACTION>__{David sits up in bed. Lt. Villiers and Sgt. McManus stand by his side. Dr. Hirsch sits observing.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I'm sorry if I conflict with your report, but Jack and I were not attacked by a man.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
-<DIAL>__{So you've said. SGT. McMANUS He may have a point, Lieutenant.  Two strong boys would be able to defend themselves against one man.}
+<DIAL>__{So you've said. SGT. McMANUS He may have a point, Lieutenant. Two strong boys would be able to defend themselves against one man.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
-<DIAL>__{Sgt. McManus, are you suggesting that David and Jack were, in fact, attacked by some animal and that the officialdom of East Proctor has conspired to keep it a secret?  We have an autopsy report on the murderer who was shot in the act by the local police.  We have two witnesses to the crime.  You'll forgive me, Mr. Kessler, if I consider your testimony as coming from someone who has gone through a terrible shock. SGT. McMANUS Lieutenant, the boy seems pretty lucid to me and....}
+<DIAL>__{Sgt. McManus, are you suggesting that David and Jack were, in fact, attacked by some animal and that the officialdom of East Proctor has conspired to keep it a secret? We have an autopsy report on the murderer who was shot in the act by the local police. We have two witnesses to the crime. You'll forgive me, Mr. Kessler, if I consider your testimony as coming from someone who has gone through a terrible shock. SGT. McMANUS Lieutenant, the boy seems pretty lucid to me and....}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL>__{And what, Sergeant? SGT. McMANUS}
 <DIAL_PAR>__{(defeated)}
 <DIAL>__{I don't rightly know, sir.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
-<DIAL>__{That is precisely my point. David, as far as we are concerned, the matter is closed.  We won't trouble you any further.  Good day.}
-<ACTION>__{The lieutenant goes for the door.  The sergeant smiles at David and follows.}
+<DIAL>__{That is precisely my point. David, as far as we are concerned, the matter is closed. We won't trouble you any further. Good day.}
+<ACTION>__{The lieutenant goes for the door. The sergeant smiles at David and follows.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL>__{Doctor.}
-<ACTION>__{The cops exit.  Dr. Hirsch crosses to David's bed.}
+<ACTION>__{The cops exit. Dr. Hirsch crosses to David's bed.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{There were witnesses?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{So they said.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{How could there have been witnesses?  It was so dark. We were running and I fell and Jack went to help me up and this thing came from nowhere...I don't understand what they're talking about.}
+<DIAL>__{How could there have been witnesses? It was so dark. We were running and I fell and Jack went to help me up and this thing came from nowhere...I don't understand what they're talking about.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{In time I'm sure it will all come back to you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Doctor, my memory is fine. It's my sanity I'm beginning to worry about.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. DENSE FOREST - DAY}
-<ACTION>__{Again the handheld camera is running furiously through the woods.  Heavy breathing and the sounds of the runner crashing through the foliage.  The camera runs for a while then suddenly stops short near a tree. David abruptly enters frame, animal-like, the tenseness of a startled cat.  His head makes sudden movements, looking about.}
+<ACTION>__{Again the handheld camera is running furiously through the woods. Heavy breathing and the sounds of the runner crashing through the foliage. The camera runs for a while then suddenly stops short near a tree. David abruptly enters frame, animal-like, the tenseness of a startled cat. His head makes sudden movements, looking about.}
 <ACTION_ALT>__{CLOSEUP}
 <ACTION>__{of his flared nostrils and perked up ears accenting his animalness.}
 <ACTION_ALT>__{DAVID}
-<ACTION>__{takes off and now we run with him.  He runs fast and gracefully, taking long strides and leaps.  We run with him faster and faster sharing in his exhilaration.  We see him completely as the animal, study his movement and grace as if watching a gazelle.  Suddenly he stops again, alert, listening.  He moves with stealth, slowly he pushes some leaves aside.}
+<ACTION>__{takes off and now we run with him. He runs fast and gracefully, taking long strides and leaps. We run with him faster and faster sharing in his exhilaration. We see him completely as the animal, study his movement and grace as if watching a gazelle. Suddenly he stops again, alert, listening. He moves with stealth, slowly he pushes some leaves aside.}
 <ACTION_ALT>__{CLOSEUP}
-<ACTION>__{of his eyes. DAVID'S P.O.V. Several deer in the forest; they sense something and freeze, the camera noting a fawn next to a doe.  The buck turns his head, feeling the danger.}
+<ACTION>__{of his eyes. DAVID'S P.O.V. Several deer in the forest; they sense something and freeze, the camera noting a fawn next to a doe. The buck turns his head, feeling the danger.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{DAVID}
 <ACTION>__{Shots showing the muscles in his legs and shoulders tensing.}
@@ -741,24 +741,24 @@
 <ACTION>__{of David's eyes.}
 <TRANS>__{CUT BACK TO:}
 <ACTION_ALT>__{THE FAWN}
-<ACTION>__{as it is leapt upon, its terrified face leaving frame as David forces it down.  David's head reenters frame, his mouth full of flesh, his face and hands covered with blood.  He howls in triumph.}
+<ACTION>__{as it is leapt upon, its terrified face leaving frame as David forces it down. David's head reenters frame, his mouth full of flesh, his face and hands covered with blood. He howls in triumph.}
 <LOC>__{INT. HOSPITAL ROOM - NIGHT}
-<ACTION>__{The lights are subdued and David's asleep.  The door opens, a shaft of light penetrates the room.  Miss Gallagher enters with a small tray.  She crosses to David, turns on the bed light and touches him.}
+<ACTION>__{The lights are subdued and David's asleep. The door opens, a shaft of light penetrates the room. Miss Gallagher enters with a small tray. She crosses to David, turns on the bed light and touches him.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
-<DIAL>__{Mr. Kessler?  Wake up, please.}
+<DIAL>__{Mr. Kessler? Wake up, please.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(awakened)}
 <DIAL>__{I was having a nightmare.}
 <ACTION>__{Miss Gallagher is very efficient in administering the pills and pouring a glass of water.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
-<DIAL>__{Yes, well these should help that.  That's right, drink up.}
+<DIAL>__{Yes, well these should help that. That's right, drink up.}
 <ACTION>__{David takes the pills.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{Now go back to sleep so you'll be fresh for Dr. Hirsch in the morning.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{What time is it?}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
-<DIAL>__{It's nearly eight.  I'm off duty shortly, then I'm off to the films with Alex.}
+<DIAL>__{It's nearly eight. I'm off duty shortly, then I'm off to the films with Alex.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Alex?}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
@@ -776,25 +776,25 @@
 <DIAL>__{Yes, but does everyone kill Bambi?}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{Bambi?}
-<ACTION>__{David has fallen asleep.  Miss Gallagher turns off the light, picks up her tray and pauses in the doorway.}
+<ACTION>__{David has fallen asleep. Miss Gallagher turns off the light, picks up her tray and pauses in the doorway.}
 <CHAR>__{MISS GALLAGHER} <CHAR_PAR>__{}
 <DIAL>__{Kill Bambi?}
 <ACTION>__{She exits, closing the door plunging the room into darkness.}
 <LOC>__{INT. HOSPITAL NURSES' STATION - DAY}
-<ACTION>__{The corridor is busy with orderlies pushing gurneys about, doctors, visitors, and patients all performing appropriate background actions.  Behind the Nurses' Counter, Alex is typing some forms and an older, obviously senior nurse is filling some paper cups with different sizes and colors of pills she is taking from the drug cabinet.  She is MRS. HOBBS, the chief nurse.}
+<ACTION>__{The corridor is busy with orderlies pushing gurneys about, doctors, visitors, and patients all performing appropriate background actions. Behind the Nurses' Counter, Alex is typing some forms and an older, obviously senior nurse is filling some paper cups with different sizes and colors of pills she is taking from the drug cabinet. She is MRS. HOBBS, the chief nurse.}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
 <DIAL>__{Miss Price.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, Mrs. Hobbs.}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
-<DIAL>__{Take these round now, will you please?  The American boy in twenty-one is only to have these after he's eaten.  Will you be sure of that?}
+<DIAL>__{Take these round now, will you please? The American boy in twenty-one is only to have these after he's eaten. Will you be sure of that?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Has he been refusing food?}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
-<DIAL>__{Nothing quite as dramatic as that, Miss Price.  He just doesn't eat enough of what is put before him.  He suffers from nightmares.  I'd think he just needs a hand to hold.}
+<DIAL>__{Nothing quite as dramatic as that, Miss Price. He just doesn't eat enough of what is put before him. He suffers from nightmares. I'd think he just needs a hand to hold.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, Mrs. Hobbs.}
-<ACTION>__{Alex takes the cups handed to her and makes her way down the hallway, pausing a moment to straighten her appearance.  She enters.}
+<ACTION>__{Alex takes the cups handed to her and makes her way down the hallway, pausing a moment to straighten her appearance. She enters.}
 <LOC>__{INT. CHILDREN'S WARD - DAY}
 <ACTION>__{A ward with seven or eight beds in it, all occupied. She goes to a little Pakistani boy named BENJAMIN.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -806,7 +806,7 @@
 <CHAR>__{BENJAMIN} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Well, all right then, be that way.  Here, swallow this.}
+<DIAL>__{Well, all right then, be that way. Here, swallow this.}
 <CHAR>__{BENJAMIN} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <ACTION>__{Alex pours a glass of water, gives the pill to Benjamin who promptly takes it and then drinks the water, handing Alex back the glass.}
@@ -815,7 +815,7 @@
 <CHAR>__{BENJAMIN} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{The doctor will be round later.  Would you like a picture book to look at?  We have some lovely funny Beanos.}
+<DIAL>__{The doctor will be round later. Would you like a picture book to look at? We have some lovely funny Beanos.}
 <CHAR>__{BENJAMIN} <CHAR_PAR>__{}
 <DIAL>__{No.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -825,21 +825,21 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Has the patient in twenty-one gotten his tray yet?}
 <CHAR>__{ORDERLY} <CHAR_PAR>__{}
-<DIAL>__{The American?  Yes, duck.}
+<DIAL>__{The American? Yes, duck.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{How did he look?}
 <CHAR>__{ORDERLY} <CHAR_PAR>__{}
 <DIAL>__{What do you mean, `how did he look'?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{You know, did he seem depressed?  Do you think he'll eat the food?}
+<DIAL>__{You know, did he seem depressed? Do you think he'll eat the food?}
 <CHAR>__{ORDERLY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(annoyed)}
-<DIAL>__{I'm an orderly, not a bleeding psychiatrist!  I push things about, but I've little say what happens to them.}
+<DIAL>__{I'm an orderly, not a bleeding psychiatrist! I push things about, but I've little say what happens to them.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Thank you.}
 <ACTION>__{Alex holds up her head and proceeds to David's room. She hesitates, then peeks in.}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
-<ACTION>__{The curtains are drawn and David's lunch waits patiently on its tray alongside of the bed.  David is apparently asleep.  Alex enters softly.}
+<ACTION>__{The curtains are drawn and David's lunch waits patiently on its tray alongside of the bed. David is apparently asleep. Alex enters softly.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
 <DIAL>__{Mr. Kessler?}
@@ -853,16 +853,16 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid you have to eat something.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Please, really.  I'm not hungry.}
+<DIAL>__{Please, really. I'm not hungry.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{You put me in an awkward position, Mr. Kessler.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{How is that?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(she shakes the paper cup)}
-<DIAL>__{Well, you're to take these after you've eaten.  Now what kind of nurse would I be if I failed in so simple a task as giving out some pills?}
+<DIAL>__{Well, you're to take these after you've eaten. Now what kind of nurse would I be if I failed in so simple a task as giving out some pills?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Leave the pills.  I'll take them later.}
+<DIAL>__{Leave the pills. I'll take them later.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Sorry.}
 <ACTION>__{She opens the curtains, daylight fills the room.}
@@ -880,38 +880,38 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Shall I be forced to feed you, David?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{This is absurd.  I'm not hungry.  I don't want any food.}
+<DIAL>__{This is absurd. I'm not hungry. I don't want any food.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Right.}
-<ACTION>__{Alex efficiently removes the covers from the dishes and sits on the edge of the bed.  Taking knife and fork in hand, she neatly cuts David's food into pieces.  David watches all this amused.  She places a napkin under David's chin and holds up his first bite on his fork. David folds his arms and refuses to open his mouth.}
+<ACTION>__{Alex efficiently removes the covers from the dishes and sits on the edge of the bed. Taking knife and fork in hand, she neatly cuts David's food into pieces. David watches all this amused. She places a napkin under David's chin and holds up his first bite on his fork. David folds his arms and refuses to open his mouth.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Let's try a little harder, shall we?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Will you give me a break?}
-<ACTION>__{Alex grabs David's nose forcing his mouth open quickly, shoving the fork in it.  David is startled, but amused and chews his food slowly and swallows it.  Alex holds up another bite.}
+<ACTION>__{Alex grabs David's nose forcing his mouth open quickly, shoving the fork in it. David is startled, but amused and chews his food slowly and swallows it. Alex holds up another bite.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Will I have to take such drastic action again, David?}
-<ACTION>__{David opens his mouth obediently.  Alex almost smiles. She feeds him for a while; they are both sizing each other up.  Finally:}
+<ACTION>__{David opens his mouth obediently. Alex almost smiles. She feeds him for a while; they are both sizing each other up. Finally:}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{May I have a glass of milk?}
 <ACTION>__{Alex smiles.}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{EXT. DENSE FOREST - DAY}
-<ACTION>__{Again we are running fast and faster.  David again running naked, flying through the green forest.  He stops suddenly, ears perked, he looks about and then we hear Jack's o.s. screams.  The voice of Jack screams:}
+<ACTION>__{Again we are running fast and faster. David again running naked, flying through the green forest. He stops suddenly, ears perked, he looks about and then we hear Jack's o.s. screams. The voice of Jack screams:}
 <CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{David!  David!  Please help me!  Oh God!  David!  Oh my God!}
-<ACTION>__{David turns in blind panic, he runs (and we run with him) desperately trying to find the source of Jack's screams. He comes to a clearing in the woods, light streaming through the tall trees.  Jack's screams halt in mid- word.  David looks in disbelief at the clearing.  There is a hospital bed with someone in it.  It is the same as David's. David walks toward it slowly.  The figure in the bed lays still.  It grows dark, very dark, and David looks up at the full moon.  There is a howl identical to the one heard earlier back on the moors.  David approaches the bed slowly, fearfully.  We hear ocean noises on the soundtrack, the sound of crashing surf.  David reaches out to pull back the covers, lightning and thunder cause him to hesitate for a second.  Silence.  The camera remains on David as he pulls off the covers. His face registers total disbelief and increasing horror. We cut to the bed to find - DAVID.  He lies there, pale white with purple lips and death pallor. The camera begins to move in on the corpse of David. Cut back to the standing David's terrified face; then continue until David's death mask fills the screen. The face remains still for several beats, then suddenly opens its bright yellow eyes and red mouth revealing fangs in a bloodcurdling wail which carries over in the....}
+<DIAL>__{David! David! Please help me! Oh God! David! Oh my God!}
+<ACTION>__{David turns in blind panic, he runs (and we run with him) desperately trying to find the source of Jack's screams. He comes to a clearing in the woods, light streaming through the tall trees. Jack's screams halt in mid- word. David looks in disbelief at the clearing. There is a hospital bed with someone in it. It is the same as David's. David walks toward it slowly. The figure in the bed lays still. It grows dark, very dark, and David looks up at the full moon. There is a howl identical to the one heard earlier back on the moors. David approaches the bed slowly, fearfully. We hear ocean noises on the soundtrack, the sound of crashing surf. David reaches out to pull back the covers, lightning and thunder cause him to hesitate for a second. Silence. The camera remains on David as he pulls off the covers. His face registers total disbelief and increasing horror. We cut to the bed to find - DAVID. He lies there, pale white with purple lips and death pallor. The camera begins to move in on the corpse of David. Cut back to the standing David's terrified face; then continue until David's death mask fills the screen. The face remains still for several beats, then suddenly opens its bright yellow eyes and red mouth revealing fangs in a bloodcurdling wail which carries over in the....}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HOSPITAL NURSES' STATION - NIGHT}
 <ACTION>__{Mrs. Hobbs hears David's screams and efficiently calls out....}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
-<DIAL>__{Orderly!  Miss Gallagher!}
+<DIAL>__{Orderly! Miss Gallagher!}
 <ACTION>__{Miss Gallagher and an ORDERLY appear at once.}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
 <DIAL>__{Orderly, go at once to twenty- one and restrain the patient.}
 <ACTION>__{The orderly exits.}
 <CHAR>__{MRS. HOBBS} <CHAR_PAR>__{}
-<DIAL>__{Miss Gallagher, remain here at the desk.  I'll be in twenty- one.}
+<DIAL>__{Miss Gallagher, remain here at the desk. I'll be in twenty- one.}
 <ACTION>__{She exits.}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
 <ACTION>__{It is bright, daylight, and Dr. Hirsch gazes thoughtfully out the window.}
@@ -919,49 +919,49 @@
 <DIAL>__{You've never had bad dreams before?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(upset)}
-<DIAL>__{Sure, as a kid.  But never so real.  Never so bizarre.}
+<DIAL>__{Sure, as a kid. But never so real. Never so bizarre.}
 <ACTION>__{Dr. Hirsch crosses over and sits on a chair by the bed.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Did you get a good look at the man who attacked you?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I've told you, it wasn't a man.  It was an animal.  A big wolf or something.  A rabid dog.}
+<DIAL>__{I've told you, it wasn't a man. It was an animal. A big wolf or something. A rabid dog.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(chewing on his glasses)}
 <DIAL>__{Yes.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Look, Dr. Hirsch, I know I've been traumatized, but Jack was torn apart.  I saw him.  A man can't do that to someone with his bare hands.}
+<DIAL>__{Look, Dr. Hirsch, I know I've been traumatized, but Jack was torn apart. I saw him. A man can't do that to someone with his bare hands.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{You'd be surprised what horrors a man is capable of.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Did you see Jack?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{No.  In fact, your wounds were cleaned and dressed before you arrived here.}
+<DIAL>__{No. In fact, your wounds were cleaned and dressed before you arrived here.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Did you talk to the police in East Proctor?  Did the cops go to The Slaughtered Lamb?}
+<DIAL>__{Did you talk to the police in East Proctor? Did the cops go to The Slaughtered Lamb?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I really don't know.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Then why the hell are you so quick to disbelieve me?  You yourself said it must have taken incredible strength to tear apart a person like that.}
+<DIAL>__{Then why the hell are you so quick to disbelieve me? You yourself said it must have taken incredible strength to tear apart a person like that.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(rubs his forehead)}
-<DIAL>__{David, please.  The police are satisfied.  I'm certain that if a monster were out roaming northern England we'd have seen it on the telly.}
+<DIAL>__{David, please. The police are satisfied. I'm certain that if a monster were out roaming northern England we'd have seen it on the telly.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{You really think I'm crazy, don't you?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Believe me.  The Hound of the Baskervilles was an invention of Sir Arthur Conan Doyle's. And if you'd read the bloody book, you'd find that Holmes discovered your house of hell a fraud, a fake.}
+<DIAL>__{Believe me. The Hound of the Baskervilles was an invention of Sir Arthur Conan Doyle's. And if you'd read the bloody book, you'd find that Holmes discovered your house of hell a fraud, a fake.}
 <ACTION>__{There is an awkward silence as David sits and Dr. Hirsch is embarrassed at raising his voice.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Now really, David.  You're far too intelligent to go on this way.  When you return to America I want you to seek out a competent psychiatrist or psychologist or something and stop this nonsense.  You'll be leaving this hospital in three or four days, please remain sane.  At least until you are no longer our responsibility.}
+<DIAL>__{Now really, David. You're far too intelligent to go on this way. When you return to America I want you to seek out a competent psychiatrist or psychologist or something and stop this nonsense. You'll be leaving this hospital in three or four days, please remain sane. At least until you are no longer our responsibility.}
 <ACTION>__{Dr. Hirsch goes to the door.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Dr. Hirsch?}
 <DIAL_PAR>__{(pause)}
 <DIAL>__{I'd rather not be by myself.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Of course not, David.  I'll fetch in young Miss Price.}
+<DIAL>__{Of course not, David. I'll fetch in young Miss Price.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{INT. HOSPITAL ROOM - NIGHT}
-<ACTION>__{Alex sits next to David's bed.  Her shoes are off and she has her feet tucked up under her legs on the chair. The room is dark except for the lamp by which she reads.  She is reading A Connecticut Yankee in King Arthur's Court by Mark Twain.  David is asleep.  Alex reads for a bit, then puts down the book and yawns. She gets up and stretches, a big spreading arms and feet, fingers and toes stretch.}
+<ACTION>__{Alex sits next to David's bed. Her shoes are off and she has her feet tucked up under her legs on the chair. The room is dark except for the lamp by which she reads. She is reading A Connecticut Yankee in King Arthur's Court by Mark Twain. David is asleep. Alex reads for a bit, then puts down the book and yawns. She gets up and stretches, a big spreading arms and feet, fingers and toes stretch.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(quietly)}
 <DIAL>__{You're a very beautiful girl.}
@@ -969,22 +969,22 @@
 <DIAL_PAR>__{(embarrassed)}
 <DIAL>__{I thought you were asleep.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I was.  What are you reading?}
+<DIAL>__{I was. What are you reading?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{`A Connecticut Yankee in King Arthur's Court' by Mark Twain.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Do you like it?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{I've just started it.  My friend gave it to me.}
+<DIAL>__{I've just started it. My friend gave it to me.}
 <ACTION>__{They look at each other.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{What do you dream about?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I dream of death mostly.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{I'm sorry.  I shouldn't have asked you.}
+<DIAL>__{I'm sorry. I shouldn't have asked you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{It's okay.  I want to talk to you.}
+<DIAL>__{It's okay. I want to talk to you.}
 <ACTION>__{They sit and look at each other for a while longer.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{How old are you?}
@@ -1004,49 +1004,49 @@
 <DIAL>__{Was Jack Goodman your good friend?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(seriously)}
-<DIAL>__{My best friend.  My very best friend.}
+<DIAL>__{My best friend. My very best friend.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(embarrassed)}
 <DIAL>__{Shall I read to you?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{What?  Oh, yes, please.}
+<DIAL>__{What? Oh, yes, please.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(opens book)}
-<DIAL>__{A Connecticut Yankee in King Arthur's Court by Samuel L. Clemens.  This is after the preface but before chapter one: A Word of Explanation. You all right?}
+<DIAL>__{A Connecticut Yankee in King Arthur's Court by Samuel L. Clemens. This is after the preface but before chapter one: A Word of Explanation. You all right?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(settles back)}
 <DIAL>__{Yes, go on.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(clears her throat)}
-<DIAL>__{Ahem, A Word of Explanation. It was in Warwick Castle that I came across the curious stranger whom I am going to talk about.  He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company - for he did all the talking.  We fell together as modest people will in the tail of the herd....}
+<DIAL>__{Ahem, A Word of Explanation. It was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company - for he did all the talking. We fell together as modest people will in the tail of the herd....}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{INT. KESSLER HOME - NEW YORK - NIGHT}
-<ACTION>__{We are at David's parents' house in New York.  His FATHER sits reading the paper in the living room as his younger BROTHER and SISTER watch "The Muppet Show" on television.  We can see past the small dining nook where David sits doing homework and into the kitchen where his MOTHER is washing the dishes.  A peaceful lower, middle class setting.  All is tranquil and secure.  There is a loud pounding on the front door.}
+<ACTION>__{We are at David's parents' house in New York. His FATHER sits reading the paper in the living room as his younger BROTHER and SISTER watch "The Muppet Show" on television. We can see past the small dining nook where David sits doing homework and into the kitchen where his MOTHER is washing the dishes. A peaceful lower, middle class setting. All is tranquil and secure. There is a loud pounding on the front door.}
 <CHAR>__{FATHER} <CHAR_PAR>__{}
 <DIAL>__{I'll get it.}
 <ACTION>__{The pounding continues.}
 <CHAR>__{FATHER} <CHAR_PAR>__{}
-<DIAL>__{All right, all right!  Hold your horses.}
-<ACTION>__{(The following happens with shocking speed.)  When he opens the door, four beings open fire with machine guns, blowing him away.  The sudden burst of violence is terrifying and unrelenting.  The four rush into the room and the family looks at them in fearsome surprise for these men are not human at all, but loathsome, bestial demons dressed as Storm Troopers.  One kicks in the television and fires into the kitchen, blasting David's mother.  David rises but is forced back into his chair by one of the things and held there.}
+<DIAL>__{All right, all right! Hold your horses.}
+<ACTION>__{(The following happens with shocking speed.) When he opens the door, four beings open fire with machine guns, blowing him away. The sudden burst of violence is terrifying and unrelenting. The four rush into the room and the family looks at them in fearsome surprise for these men are not human at all, but loathsome, bestial demons dressed as Storm Troopers. One kicks in the television and fires into the kitchen, blasting David's mother. David rises but is forced back into his chair by one of the things and held there.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Stop!}
-<ACTION>__{He watches in horror as his little brother and sister scream in terror before they are brutally murdered. The monstrous Storm Troopers then set fire to the rooms.  The one holding David pulls a knife and quickly slits David's throat.}
+<ACTION>__{He watches in horror as his little brother and sister scream in terror before they are brutally murdered. The monstrous Storm Troopers then set fire to the rooms. The one holding David pulls a knife and quickly slits David's throat.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. HOSPITAL ROOM - NIGHT}
-<ACTION>__{David bolts upright in bed and looks around, trying desperately to gain his bearings.  He sees that Alex is asleep in the chair by his bed, Connecticut Yankee folded on her lap.  He makes a deliberate effort to calm himself.  He considers waking her, then decides against it.  He turns on the lamp by his bed and reaches over to take the book from Alex's lap.  David takes the book as gently as possible, but Alex wakes up anyway.}
+<ACTION>__{David bolts upright in bed and looks around, trying desperately to gain his bearings. He sees that Alex is asleep in the chair by his bed, Connecticut Yankee folded on her lap. He makes a deliberate effort to calm himself. He considers waking her, then decides against it. He turns on the lamp by his bed and reaches over to take the book from Alex's lap. David takes the book as gently as possible, but Alex wakes up anyway.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(yawns, smiles)}
-<DIAL>__{Hello.  You all right?}
+<DIAL>__{Hello. You all right?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I'm sorry I woke you up.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Don't be silly.  Can I get you something?}
+<DIAL>__{Don't be silly. Can I get you something?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{No, thank you.  Just keep me company for a while.}
+<DIAL>__{No, thank you. Just keep me company for a while.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{That's easy enough.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I keep having these really terrible dreams.  They are getting worse and I can't seem to stop them.}
+<DIAL>__{I keep having these really terrible dreams. They are getting worse and I can't seem to stop them.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, your dreams will stop. You'll leave England and your bad memories; and then this will all fade away.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1056,7 +1056,7 @@
 <DIAL>__{What?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiling)}
-<DIAL>__{I'm serious.  You don't know me and I know nothing about you.  We have a perfect relationship.}
+<DIAL>__{I'm serious. You don't know me and I know nothing about you. We have a perfect relationship.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Now, David, I said I would keep you company, but I meant right here and now.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1076,7 +1076,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Now I'm embarrassed.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Good.  I thought for a moment I was the only embarrassed one in the room.}
+<DIAL>__{Good. I thought for a moment I was the only embarrassed one in the room.}
 <ACTION>__{There is an awkward pause.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Where were we in the book?}
@@ -1086,20 +1086,20 @@
 <DIAL>__{Let me see here.}
 <TRANS>__{FADE OUT: FADE IN:}
 <LOC>__{INT. HOSPITAL ROOM - MORNING}
-<ACTION>__{The black Orderly hustles in with David's breakfast tray, busily setting up the tray on the table over the bed.  He awakens the sleeping David with his activity.}
+<ACTION>__{The black Orderly hustles in with David's breakfast tray, busily setting up the tray on the table over the bed. He awakens the sleeping David with his activity.}
 <CHAR>__{ORDERLY} <CHAR_PAR>__{}
-<DIAL>__{Ah you're up.  Good morning and a good day to you.  We've quite a meal for you here this morning.  Bacon, oatmeal, orange juice, and toast with jam.  Good stuff there.  Now eat it up and I'll be back for the dishes when you've finished.}
-<ACTION>__{The Orderly exits.  The drowsy David, who has been trying to fully wake up during the Orderly's speech, notices his exit.}
+<DIAL>__{Ah you're up. Good morning and a good day to you. We've quite a meal for you here this morning. Bacon, oatmeal, orange juice, and toast with jam. Good stuff there. Now eat it up and I'll be back for the dishes when you've finished.}
+<ACTION>__{The Orderly exits. The drowsy David, who has been trying to fully wake up during the Orderly's speech, notices his exit.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Good morning.}
-<ACTION>__{He looks at his food none too happily.  He sticks a spoon into the bowl of oatmeal and tastes is gingerly.}
+<ACTION>__{He looks at his food none too happily. He sticks a spoon into the bowl of oatmeal and tastes is gingerly.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in mock English accent)}
 <DIAL>__{Please, sir, I want some more.}
-<ACTION>__{He settles down to eating, reaches over to butter his toast and drink his juice.  While he eats, we hear Jack's o.s. voice.}
+<ACTION>__{He settles down to eating, reaches over to butter his toast and drink his juice. While he eats, we hear Jack's o.s. voice.}
 <CHAR>__{JACK } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Can I have a piece of toast?}
-<ACTION>__{David looks over to the o.s. Jack.  Jack, behaving relaxed and normal, sits in the chair last occupied by Alex.  However, Jack's appearance makes his casual manner all the more surreal.  He is as we left him butchered on the moors.  He is covered with dried mud and open wounds.  Huge glistening gashes abound on his body.  His face is scratched, his throat is badly torn, and his hair is matted with blood.  In several spots he has already begun to rot.  He is a remarkably gruesome sight, but his physical state seems not to affect him at all.}
+<ACTION>__{David looks over to the o.s. Jack. Jack, behaving relaxed and normal, sits in the chair last occupied by Alex. However, Jack's appearance makes his casual manner all the more surreal. He is as we left him butchered on the moors. He is covered with dried mud and open wounds. Huge glistening gashes abound on his body. His face is scratched, his throat is badly torn, and his hair is matted with blood. In several spots he has already begun to rot. He is a remarkably gruesome sight, but his physical state seems not to affect him at all.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL_PAR>__{(pleasantly)}
 <DIAL>__{Nice to see you.}
@@ -1110,22 +1110,22 @@
 <DIAL>__{Thanks a lot.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(horrified)}
-<DIAL>__{This is too much.  I can't handle this.}
+<DIAL>__{This is too much. I can't handle this.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I'm aware that I don't look so great, but I thought you'd be glad to see me.}
-<ACTION>__{Jack gets up and takes a piece of toast from David's tray as David watches amazed.  Jack returns to his seat and takes a bite out of his toast.  David stares at Jack horrified.}
+<ACTION>__{Jack gets up and takes a piece of toast from David's tray as David watches amazed. Jack returns to his seat and takes a bite out of his toast. David stares at Jack horrified.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{David!  You're hurting my feelings.}
+<DIAL>__{David! You're hurting my feelings.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(astounded)}
-<DIAL>__{Hurting your feelings?  Has it occurred to you that it may be unsettling to have you rise from your grave to visit me? Listen to me, I'm talking to a hamburger!}
+<DIAL>__{Hurting your feelings? Has it occurred to you that it may be unsettling to have you rise from your grave to visit me? Listen to me, I'm talking to a hamburger!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I'm sorry to be upsetting you, David, but I had to come.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(aghast)}
 <DIAL>__{Aren't you supposed to be buried in New York someplace?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Yeah.  Your parents came to my funeral.  I was surprised at how many people came.}
+<DIAL>__{Yeah. Your parents came to my funeral. I was surprised at how many people came.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(resigned)}
 <DIAL>__{Why should you be surprised? You were a very well-liked person.}
@@ -1153,9 +1153,9 @@
 <DIAL>__{David, now I know this may be hard for you, but I have to warn you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouting)}
-<DIAL>__{Warn me?  Will you get out of here, you meat loaf?}
+<DIAL>__{Warn me? Will you get out of here, you meat loaf?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{I'm a grisly sight, it's true; but I love you and that's why I'm here.  You've got to know.}
+<DIAL>__{I'm a grisly sight, it's true; but I love you and that's why I'm here. You've got to know.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{If you love me so much, Jack, you'll realize how disconcerting it is to share one's breakfast with the living dead!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -1171,9 +1171,9 @@
 <DIAL>__{I was murdered, an unnatural death, and now I walk the earth in limbo until the werewolf's curse is lifted.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(incredulous, furious)}
-<DIAL>__{What's wrong with you?  Shut up!}
+<DIAL>__{What's wrong with you? Shut up!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{The wolf's bloodline must be severed.  The last remaining werewolf must be destroyed.}
+<DIAL>__{The wolf's bloodline must be severed. The last remaining werewolf must be destroyed.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Will you be quiet?!}
 <ACTION>__{Jack rises and comes closer to David.}
@@ -1184,38 +1184,38 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{You survived and now you shall continue the curse.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{What are you talking about?  I won't accept this!  Get out! God damit!}
+<DIAL>__{What are you talking about? I won't accept this! Get out! God damit!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{Remember what that guy at The Slaughtered Lamb said? `Beware the moon.'}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(quietly)}
 <DIAL>__{Stop it, Jack.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Beware the moon.  The full moon, David.  You've got two days.}
+<DIAL>__{Beware the moon. The full moon, David. You've got two days.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(quietly)}
-<DIAL>__{Jack, please go away.  Please go away.}
+<DIAL>__{Jack, please go away. Please go away.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{You'll stalk the streets of London a creature of the night.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(flares up)}
-<DIAL>__{You're talking like Boris Karloff!  It's movie dialogue!}
+<DIAL>__{You're talking like Boris Karloff! It's movie dialogue!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{David, please believe me.  You will kill people, David. You've got to stop the bloodshed before it begins.}
+<DIAL>__{David, please believe me. You will kill people, David. You've got to stop the bloodshed before it begins.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(yells)}
 <DIAL>__{Nurse!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Listen to me!  Take your own life, David.  It's our only chance.}
+<DIAL>__{Listen to me! Take your own life, David. It's our only chance.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Nurse!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{The supernatural!  The powers of darkness!  It's all true. Take your own life!  Suicide, David.  Join me.}
+<DIAL>__{The supernatural! The powers of darkness! It's all true. Take your own life! Suicide, David. Join me.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(losing it)}
-<DIAL>__{Nurse!  Oh God!  Alex!}
+<DIAL>__{Nurse! Oh God! Alex!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{It's cold, David, and I'm so alone.  The undead surround me.  Have you ever talked to a corpse?  It's boring!  I'm lonely!  Kill yourself, David, before you kill others.}
+<DIAL>__{It's cold, David, and I'm so alone. The undead surround me. Have you ever talked to a corpse? It's boring! I'm lonely! Kill yourself, David, before you kill others.}
 <LOC>__{INT. HOSPITAL - NURSES' STATION - DAY}
 <ACTION>__{Alex rushing down the hospital corridor.}
 <LOC>__{INT. HOSPITAL ROOM - DAY}
@@ -1238,9 +1238,9 @@
 <ACTION>__{as she bursts into the room.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{DAVID}
-<ACTION>__{laying in bed rocking from side to side, crying softly. He is alone.  Alex rushes over, removes the tray, sits on the bed and hugs David.}
+<ACTION>__{laying in bed rocking from side to side, crying softly. He is alone. Alex rushes over, removes the tray, sits on the bed and hugs David.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{David?  David!}
+<DIAL>__{David? David!}
 <ACTION>__{David pulls away sharply, his head jerking about wildly until he focuses on Alex's face and begins to breathe easier.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, what's wrong?}
@@ -1250,22 +1250,22 @@
 <DIAL>__{I'm a werewolf.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{A werewolf?}
-<ACTION>__{Alex holds David a moment then realizes where she is and backs off a little.  David composes himself.}
+<ACTION>__{Alex holds David a moment then realizes where she is and backs off a little. David composes himself.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Are you better now?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I'll let you know the next full moon.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{You're to be discharged tomorrow.  Will you be all right?}
+<DIAL>__{You're to be discharged tomorrow. Will you be all right?}
 <ACTION>__{David takes Alex's hand.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{My friend Jack was just here.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Your dead friend Jack?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Yeah.  He says that I will become a monster in two days. What do you think?}
+<DIAL>__{Yeah. He says that I will become a monster in two days. What do you think?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{What do I think?  You mean about the possibility of your becoming a monster in two days or about visits from dead friends?}
+<DIAL>__{What do I think? You mean about the possibility of your becoming a monster in two days or about visits from dead friends?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I was dreaming again?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -1278,9 +1278,9 @@
 <DIAL>__{Do you have a place to stay in London?}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. APARTMENT BUILDING - DAY}
-<ACTION>__{David and Alex walking down the street.  Alex points out her flat and leads David up the front steps.  She gives him a conspiratorial look and unlocks the door.}
+<ACTION>__{David and Alex walking down the street. Alex points out her flat and leads David up the front steps. She gives him a conspiratorial look and unlocks the door.}
 <LOC>__{INT. ALEX'S FLAT - DAY}
-<ACTION>__{Alex enters and David follows.  A small, utilitarian apartment, she flicks on the kitchen light.  David puts his backpack on the floor.}
+<ACTION>__{Alex enters and David follows. A small, utilitarian apartment, she flicks on the kitchen light. David puts his backpack on the floor.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{The kitchen.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1308,9 +1308,9 @@
 <DIAL>__{It's nice to see you.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{It's nice to see you.}
-<ACTION>__{MONTAGE IN SHOWER - DAY A sequence of soap and flesh.  Van Morrison's "Moondance" plays.  A montage of soapy hands on slippery skin.  Thighs rubbing thighs, arms and shoulders.  David and Alex kiss again and again and....}
+<ACTION>__{MONTAGE IN SHOWER - DAY A sequence of soap and flesh. Van Morrison's "Moondance" plays. A montage of soapy hands on slippery skin. Thighs rubbing thighs, arms and shoulders. David and Alex kiss again and again and....}
 <LOC>__{INT. ALEX'S BEDROOM - DAY}
-<ACTION>__{David and Alex in a passionate, orgasmic kiss in Alex's bed.  David pulls out and they lay holding each other. After a moment....}
+<ACTION>__{David and Alex in a passionate, orgasmic kiss in Alex's bed. David pulls out and they lay holding each other. After a moment....}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Alex?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -1337,22 +1337,22 @@
 <DIAL_PAR>__{(smiles)}
 <DIAL>__{Tomorrow is the full moon.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{That's good, Alex.  Reassure me.}
+<DIAL>__{That's good, Alex. Reassure me.}
 <ACTION>__{Alex begins kissing David's neck.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{It's all right, I know I'm being insane.}
 <ACTION>__{She kisses his shoulders, then his chest.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Okay, okay.  I'm properly reassured!}
-<ACTION>__{Alex is now kissing his stomach, her head gradually lowers from frame.  David reaches back over his head to hold onto the headboard of the bed.}
+<DIAL>__{Okay, okay. I'm properly reassured!}
+<ACTION>__{Alex is now kissing his stomach, her head gradually lowers from frame. David reaches back over his head to hold onto the headboard of the bed.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(closing his eyes)}
-<DIAL>__{This is very reassuring.  I'm feeling very reassured.}
+<DIAL>__{This is very reassuring. I'm feeling very reassured.}
 <TRANS>__{DISSOLVE TO:}
 <LOC>__{INT. ALEX'S BEDROOM - NIGHT}
-<ACTION>__{Alex is asleep holding David.  David carefully lifts her arm and gets out of bed.  He is naked.  He tiptoes out of the room and goes to the bathroom.}
+<ACTION>__{Alex is asleep holding David. David carefully lifts her arm and gets out of bed. He is naked. He tiptoes out of the room and goes to the bathroom.}
 <LOC>__{INT. ALEX'S BATHROOM - NIGHT}
-<ACTION>__{David lifts the toilet seat and pees.  He winces, hoping the steady stream doesn't awaken Alex.  When he's finished peeing he goes to the sink.  The medicine cabinet door over the sink is open.  When David closes it he (and the audience) is terrified to see Jack reflected standing behind him.  (Note: This is a big scare.)  Bloodied and horrible, Jack has continued to rot and looks even worse than when we last saw him. David chokes out a strangled cry, closes his eyes tightly and then reopens them.  Jack is still there in the mirror.  When David turns around Jack is standing in the doorway.}
+<ACTION>__{David lifts the toilet seat and pees. He winces, hoping the steady stream doesn't awaken Alex. When he's finished peeing he goes to the sink. The medicine cabinet door over the sink is open. When David closes it he (and the audience) is terrified to see Jack reflected standing behind him. (Note: This is a big scare.) Bloodied and horrible, Jack has continued to rot and looks even worse than when we last saw him. David chokes out a strangled cry, closes his eyes tightly and then reopens them. Jack is still there in the mirror. When David turns around Jack is standing in the doorway.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(points a trembling finger)}
 <DIAL>__{You're not real.}
@@ -1360,13 +1360,13 @@
 <DIAL>__{Don't be an asshole, David. Come here.}
 <ACTION>__{David, clearly troubled, follows Jack into the living room.}
 <LOC>__{INT. ALEX'S LIVING ROOM}
-<ACTION>__{Jack sits down and motions for David to sit also.  He does.  David's conversation is in whispers, so as not to wake up Alex.}
+<ACTION>__{Jack sits down and motions for David to sit also. He does. David's conversation is in whispers, so as not to wake up Alex.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{What are you doing here?}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I wanted to see you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Okay, you've seen me.  Now go away.}
+<DIAL>__{Okay, you've seen me. Now go away.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{David, I'm sorry I upset you yesterday, but you must understand what is going on.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1376,10 +1376,10 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Get out of here, Jack!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{David, tomorrow night is the full moon.  You'll change, you'll become....}
+<DIAL>__{David, tomorrow night is the full moon. You'll change, you'll become....}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(interrupting)}
-<DIAL>__{A monster.  I know, I know.}
+<DIAL>__{A monster. I know, I know.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{You must take your own life now, David, before it's too late.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1387,16 +1387,16 @@
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{What do you think?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I think I've lost my mind.  I think you're not real.  I think I'm asleep and you're a part of another bad dream.}
+<DIAL>__{I think I've lost my mind. I think you're not real. I think I'm asleep and you're a part of another bad dream.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{You must believe me.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{What, Jack?  That tomorrow night beneath the full moon I'll sprout hair and fangs and eat people?  Bullshit!}
+<DIAL>__{What, Jack? That tomorrow night beneath the full moon I'll sprout hair and fangs and eat people? Bullshit!}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{The canines will be real. You'll taste real blood!  God damit, David, please believe me!  You'll kill and make others like me!  I'm not having a nice time, David! Don't allow this to happen again!  You must take your own life!}
+<DIAL>__{The canines will be real. You'll taste real blood! God damit, David, please believe me! You'll kill and make others like me! I'm not having a nice time, David! Don't allow this to happen again! You must take your own life!}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouts)}
-<DIAL>__{I will not accept this!  Now go away!}
+<DIAL>__{I will not accept this! Now go away!}
 <LOC>__{INT. ALEX'S BEDROOM - NIGHT}
 <ACTION>__{Alex wakes up from the shouting.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -1410,27 +1410,27 @@
 <DIAL>__{I will not be threatened by a walking meat loaf!}
 <ACTION>__{Alex enters the room.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{David, what's wrong?  I heard voices.}
+<DIAL>__{David, what's wrong? I heard voices.}
 <ACTION>__{David turns and sees that Jack is gone.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(triumphant)}
-<DIAL>__{It was just me, Alex.  It was just me.}
+<DIAL>__{It was just me, Alex. It was just me.}
 <LOC>__{EXT. EAST PROCTOR - DAY}
-<ACTION>__{Dr. Hirsch is driving down the main street in his red M.G.  He parks in front of The Slaughtered Lamb.}
+<ACTION>__{Dr. Hirsch is driving down the main street in his red M.G. He parks in front of The Slaughtered Lamb.}
 <LOC>__{INT. THE SLAUGHTERED LAMB - DAY}
-<ACTION>__{The pub is less crowded than when we were here last. The Dart Player is behind the bar cleaning glasses, the Chess Player is still at the chessboard.  Dr. Hirsch enters and crosses to the bar.  As he removes his gloves:}
+<ACTION>__{The pub is less crowded than when we were here last. The Dart Player is behind the bar cleaning glasses, the Chess Player is still at the chessboard. Dr. Hirsch enters and crosses to the bar. As he removes his gloves:}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{A drink for a very cold man?}
 <ACTION>__{The Woman comes in from the back.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
-<DIAL>__{Hello, there.  What can I get you?}
+<DIAL>__{Hello, there. What can I get you?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Campari and soda would do nicely.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Sorry, love.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I suppose Guinness will suffice.}
-<ACTION>__{She serves him his beer.  As he lays down his money...}
+<ACTION>__{She serves him his beer. As he lays down his money...}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{A thousand thanks.}
 <ACTION>__{After a few sips.}
@@ -1440,7 +1440,7 @@
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL>__{I'm afraid I don't know what you mean, sir.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Yes, I'm sure that's right.  A few weeks ago, the last full moon wasn't it?}
+<DIAL>__{Yes, I'm sure that's right. A few weeks ago, the last full moon wasn't it?}
 <ACTION>__{The Chess Player turns in his chair to get a good look at Dr. Hirsch.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I mean that escaped lunatic. The one that killed the boy. Wasn't that near here?}
@@ -1449,7 +1449,7 @@
 <DIAL>__{And where are you from, sir?}
 <ACTION>__{Dr. Hirsch crosses and joins the Chess Player at his table.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{London.  Knight takes pawn.}
+<DIAL>__{London. Knight takes pawn.}
 <CHAR>__{CHESS PLAYER} <CHAR_PAR>__{}
 <DIAL>__{What?}
 <ACTION>__{Sees that Dr. Hirsch was talking about his game....}
@@ -1460,9 +1460,9 @@
 <DIAL>__{What's that?}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(nervously)}
-<DIAL>__{Oh, that's been there for two hundred years.  We were going to paint it out, but it's traditional, so we left it.}
+<DIAL>__{Oh, that's been there for two hundred years. We were going to paint it out, but it's traditional, so we left it.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{I see.  You've heard nothing about the incident?}
+<DIAL>__{I see. You've heard nothing about the incident?}
 <CHAR>__{DART PLAYER} <CHAR_PAR>__{}
 <DIAL>__{Incident?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -1471,7 +1471,7 @@
 <DIAL>__{Are you a police officer?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(smiles)}
-<DIAL>__{No, no, hardly.  I work in the hospital where the Kessler boy was brought.}
+<DIAL>__{No, no, hardly. I work in the hospital where the Kessler boy was brought.}
 <ACTION>__{The Dart Player and Chess Player exchange a look.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{He was talking about werewolves and monsters and as I was near here I thought....}
@@ -1486,7 +1486,7 @@
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Would you like a game of chess?}
 <LOC>__{INT. ALEX'S FLAT - DAY}
-<ACTION>__{We find Alex and David in an embrace by the front door. Alex is dressed in her nurse's uniform and David has jeans and a T-shirt on.  He is shoeless and obviously not going out.  Alex pulls away.}
+<ACTION>__{We find Alex and David in an embrace by the front door. Alex is dressed in her nurse's uniform and David has jeans and a T-shirt on. He is shoeless and obviously not going out. Alex pulls away.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Let me go now, you'll make me late.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1507,7 +1507,7 @@
 <ACTION>__{He opens the door and they both go outside.}
 <LOC>__{EXT. APARTMENT BUILDING - LATE AFTERNOON - ALEX AND}
 <ACTION_ALT>__{DAVID}
-<ACTION>__{walk to the sidewalk.  It is rather chilly.}
+<ACTION>__{walk to the sidewalk. It is rather chilly.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Listen, if you get too anxious, call me at the hospital, okay?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1518,10 +1518,10 @@
 <DIAL>__{A doper werewolf.}
 <ACTION>__{They kiss again.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{I'm off.  There's food in the fridge.}
+<DIAL>__{I'm off. There's food in the fridge.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{See you later.}
-<ACTION>__{Alex goes off, turning for a last wave.  David stands looking after her when a LITTLE GIRL walking a dog passes by.  The dog, on seeing David, begins to growl and snarl.}
+<ACTION>__{Alex goes off, turning for a last wave. David stands looking after her when a LITTLE GIRL walking a dog passes by. The dog, on seeing David, begins to growl and snarl.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to dog)}
 <DIAL>__{What did I do?}
@@ -1531,34 +1531,34 @@
 <ACTION>__{He realizes just how cold he is outside and runs back up the steps to find the door locked.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Wonderful.}
-<ACTION>__{Cut to shot of David's bare feet on the cold stone.  He mutters to himself, imitating a newscaster.}
+<ACTION>__{Cut to shot of David's bare feet on the cold stone. He mutters to himself, imitating a newscaster.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{An American werewolf was found frozen to death today in the heart of London, England.}
-<ACTION>__{He looks around and sees that there is a small window ajar on the side of the flat about eleven feet off the ground, which can be reached by climbing a brick wall, which he does but not without damage to his bare toes. At the top of the wall is a cat that begins to hiss on seeing David.  The hair stands up on its arched back and it glares at David, hissing and spitting.  David is disturbed by the cat's hostile behavior.}
+<ACTION>__{He looks around and sees that there is a small window ajar on the side of the flat about eleven feet off the ground, which can be reached by climbing a brick wall, which he does but not without damage to his bare toes. At the top of the wall is a cat that begins to hiss on seeing David. The hair stands up on its arched back and it glares at David, hissing and spitting. David is disturbed by the cat's hostile behavior.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{What did I do, cat?}
-<ACTION>__{The cat is really acting fierce.  When David goes to pat it cautiously, it screeches and runs away.  David is, by this time, not amused.  David manages to pull himself into the window.}
+<ACTION>__{The cat is really acting fierce. When David goes to pat it cautiously, it screeches and runs away. David is, by this time, not amused. David manages to pull himself into the window.}
 <LOC>__{INT. ALEX'S BATHROOM - DUSK}
-<ACTION>__{David awkwardly enters the bathroom through the tiny window.  Finally getting both feet on the ground, he steps to the sink and regards himself in the mirror.}
+<ACTION>__{David awkwardly enters the bathroom through the tiny window. Finally getting both feet on the ground, he steps to the sink and regards himself in the mirror.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(weakly)}
-<DIAL>__{Snarl.  Growl.  Grrrr.}
+<DIAL>__{Snarl. Growl. Grrrr.}
 <ACTION>__{He examines his mouth, touching his canines carefully. After a while he sighs and goes into the kitchen.}
 <LOC>__{INT. ALEX'S KITCHEN - DUSK}
-<ACTION>__{David goes straight to the fridge and opens it.  He closes the fridge and walks into the bedroom.}
+<ACTION>__{David goes straight to the fridge and opens it. He closes the fridge and walks into the bedroom.}
 <LOC>__{INT. ALEX'S BEDROOM - DUSK}
-<ACTION>__{He lays down on the bed.  After a few beats of staring at the ceiling, he rises and goes back into the kitchen.}
+<ACTION>__{He lays down on the bed. After a few beats of staring at the ceiling, he rises and goes back into the kitchen.}
 <LOC>__{INT. ALEX'S KITCHEN - DUSK}
 <ACTION>__{He reopens the fridge.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I'm not hungry.}
 <ACTION>__{He closes the fridge and walks into the living room.}
 <LOC>__{INT. ALEX'S LIVING ROOM - DUSK}
-<ACTION>__{David turns on the television.  On Thames is a soccer match.  On BBC 1 is some truly insipid children's program, and on BBC 2 is a soccer match.  David switches off the television. He sits on the chair nervously, drumming his fingers and humming.}
+<ACTION>__{David turns on the television. On Thames is a soccer match. On BBC 1 is some truly insipid children's program, and on BBC 2 is a soccer match. David switches off the television. He sits on the chair nervously, drumming his fingers and humming.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(singing)}
 <DIAL>__{`Moon River, wider than a mile I'm crossing you in style, Someday....'}
-<ACTION>__{David gets up, goes to the front door, and flings it open.  It is getting dark.  David views this fearfully, but still not completely convinced.  He goes back inside and we note that the front door is not completely closed.  He goes back into the bathroom and looks into the mirror.}
+<ACTION>__{David gets up, goes to the front door, and flings it open. It is getting dark. David views this fearfully, but still not completely convinced. He goes back inside and we note that the front door is not completely closed. He goes back into the bathroom and looks into the mirror.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Fee fi fo fum, I smell the blood of an Englishman.}
 <ACTION>__{He goes back into the living room and paces round and round the room like a caged animal.}
@@ -1582,7 +1582,7 @@
 <ACTION>__{She tucks him in.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{You sleep now and have sweet dreams. BENJAMIN & ALEX No!}
-<ACTION>__{For the first time, Benjamin smiles.  As Alex tucks him in, we can clearly see the full moon outside through the window.}
+<ACTION>__{For the first time, Benjamin smiles. As Alex tucks him in, we can clearly see the full moon outside through the window.}
 <LOC>__{INT. ALEX'S FLAT - NIGHT}
 <ACTION>__{David sits reading Connecticut Yankee when he suddenly clutches his head in pain.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -1590,24 +1590,24 @@
 <ACTION>__{He stands in agony, the book falls to the floor.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(screams)}
-<DIAL>__{What?  Christ!  What?}
-<ACTION>__{He begins sweating profusely, clinging to the sides of his head.  He trembles violently.}
+<DIAL>__{What? Christ! What?}
+<ACTION>__{He begins sweating profusely, clinging to the sides of his head. He trembles violently.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I'm burning up!  Jesus!}
-<ACTION>__{He rips at his shirt, tearing it off.  His body is dripping wet.}
+<DIAL>__{I'm burning up! Jesus!}
+<ACTION>__{He rips at his shirt, tearing it off. His body is dripping wet.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(shouts out in pain and fear)}
-<DIAL>__{Jack!?  Where are you now, you fucker!?!}
+<DIAL>__{Jack!? Where are you now, you fucker!?!}
 <ACTION>__{As a new spasm of pain wracks his body, he cries out in anguish.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Help me!  Somebody help me, please!  Jack!!}
-<ACTION>__{David's hair is wringing wet.  He screams and grabs at his legs.}
+<DIAL>__{Help me! Somebody help me, please! Jack!!}
+<ACTION>__{David's hair is wringing wet. He screams and grabs at his legs.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(pleading, whimpering)}
 <DIAL>__{I'm sorry I called you a meat loaf, Jack.}
-<ACTION>__{New bolts of agonizing pain wrack through David's body. He grabs at his pants, pulling them off as if they are burning him. Standing naked in the center of the room, David gasps for air. He falls to his knees and then forward on his hands. He remains on his hands and knees, trying to master his torment; but it's no use.  On all fours he gives himself over to the excruciating hurt and slowly begins to change. The metamorphosis from man into beast is not an easy one.  As bone and muscle bend and reform themselves, the body suffers lacerating pain.  We can actually see David's flesh move, the rearranging tissue.  His mouth bleeds as fangs emerge.  His whole face distorts as his jaw extends, his skull literally changing shape before our eyes.  His hands gnarl and his fingers curl back as claws burst forward. The camera pans up to show the full moon outside through the window.  David's moans change slowly into low guttural growls.  We hear the four footfalls as the WOLF begins to walk.  As the camera pans back over the room, we see the front door pushed open and hear the Wolf padding off into the darkness.}
+<ACTION>__{New bolts of agonizing pain wrack through David's body. He grabs at his pants, pulling them off as if they are burning him. Standing naked in the center of the room, David gasps for air. He falls to his knees and then forward on his hands. He remains on his hands and knees, trying to master his torment; but it's no use. On all fours he gives himself over to the excruciating hurt and slowly begins to change. The metamorphosis from man into beast is not an easy one. As bone and muscle bend and reform themselves, the body suffers lacerating pain. We can actually see David's flesh move, the rearranging tissue. His mouth bleeds as fangs emerge. His whole face distorts as his jaw extends, his skull literally changing shape before our eyes. His hands gnarl and his fingers curl back as claws burst forward. The camera pans up to show the full moon outside through the window. David's moans change slowly into low guttural growls. We hear the four footfalls as the WOLF begins to walk. As the camera pans back over the room, we see the front door pushed open and hear the Wolf padding off into the darkness.}
 <LOC>__{EXT. RESIDENTIAL STREET - NIGHT}
-<ACTION>__{A taxi pulls up in front of a block of flats.  An attractive couple gets out.  The Man pays the driver and the cab drives off.}
+<ACTION>__{A taxi pulls up in front of a block of flats. An attractive couple gets out. The Man pays the driver and the cab drives off.}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Which one, Harry?}
 <CHAR>__{MAN} <CHAR_PAR>__{}
@@ -1620,7 +1620,7 @@
 <DIAL>__{You're crazy, Harry.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{Come on.}
-<ACTION>__{Harry takes her hand and leads her around the side of the flats.  The apartments back up to a park and the two walk around to the rear.  The park is dark and quiet.}
+<ACTION>__{Harry takes her hand and leads her around the side of the flats. The apartments back up to a park and the two walk around to the rear. The park is dark and quiet.}
 <LOC>__{EXT. PARK - NIGHT}
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Did you hear something?}
@@ -1629,14 +1629,14 @@
 <CHAR>__{WOMAN} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
-<DIAL>__{No.  Here we are, Sean's is the one....}
-<ACTION>__{THE WOLF SPRINGS!  Before the Woman can scream, the Wolf whirls around and goes for her throat.  We can't see clearly, but we see enough to realize how large the Wolf is and that its wolfen features are twisted and demonic.  The Wolf savagely devours its two victims.}
+<DIAL>__{No. Here we are, Sean's is the one....}
+<ACTION>__{THE WOLF SPRINGS! Before the Woman can scream, the Wolf whirls around and goes for her throat. We can't see clearly, but we see enough to realize how large the Wolf is and that its wolfen features are twisted and demonic. The Wolf savagely devours its two victims.}
 <LOC>__{INT. SEAN'S FLAT - NIGHT}
 <ACTION>__{Sean's wife is looking through their French windows out onto the park - a middle-aged couple.}
 <CHAR>__{WIFE} <CHAR_PAR>__{}
 <DIAL>__{Sean, those hooligans are in the park again.}
 <CHAR>__{SEAN} <CHAR_PAR>__{}
-<DIAL>__{Aren't you ready yet?  They'll be here any minute.}
+<DIAL>__{Aren't you ready yet? They'll be here any minute.}
 <CHAR>__{WIFE} <CHAR_PAR>__{}
 <DIAL>__{Something's going on out there.}
 <LOC>__{INT. HOSPITAL - NURSES' STATION - NIGHT}
@@ -1652,12 +1652,12 @@
 <DIAL>__{Uh, I don't know if....}
 <ACTION>__{Alex has walked up and overheard the last.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{It's all right, Susan.  Yes, Doctor, I have.}
+<DIAL>__{It's all right, Susan. Yes, Doctor, I have.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Come to my office, Miss Price.}
 <ACTION>__{Alex and Susan exchange glances as she obediently follows Dr. Hirsch down the hallway.}
 <LOC>__{EXT. PARK - NIGHT}
-<ACTION>__{Sean has exited the back of his flat to investigate his wife's complaints.  She hangs by the door.  He walks deeper into the park.}
+<ACTION>__{Sean has exited the back of his flat to investigate his wife's complaints. She hangs by the door. He walks deeper into the park.}
 <CHAR>__{SEAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(calls out)}
 <DIAL>__{Is anyone there?}
@@ -1668,23 +1668,23 @@
 <ACTION>__{Alex sits and Dr. Hirsch leans against his desk.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I was in East Proctor today.}
-<ACTION>__{Alex looks confused.  Dr. Hirsch realizes the cause of her concern.}
+<ACTION>__{Alex looks confused. Dr. Hirsch realizes the cause of her concern.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Oh dear girl, your extracurricular activities are of no consequence to me.  I don't give a damn who you sleep with.  I'm concerned about David.}
+<DIAL>__{Oh dear girl, your extracurricular activities are of no consequence to me. I don't give a damn who you sleep with. I'm concerned about David.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, sir.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{It's a full moon.  Where is he?}
+<DIAL>__{It's a full moon. Where is he?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{At my flat.  I'm off at midnight and....}
+<DIAL>__{At my flat. I'm off at midnight and....}
 <ACTION>__{Dr. Hirsch picks up the phone.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{The number, Alex.  Your number!}
+<DIAL>__{The number, Alex. Your number!}
 <LOC>__{EXT. PARK - NIGHT}
-<ACTION>__{Sean carefully approaches something near the trees.  He steps on something and looks down to see what it is. It is an arm.}
+<ACTION>__{Sean carefully approaches something near the trees. He steps on something and looks down to see what it is. It is an arm.}
 <LOC>__{INT. ALEX'S FLAT - NIGHT - EXTREME CLOSEUP - THE}
 <ACTION_ALT>__{TELEPHONE}
-<ACTION>__{rings loudly.  (This is a scare.)  It continues to ring unanswered.}
+<ACTION>__{rings loudly. (This is a scare.) It continues to ring unanswered.}
 <LOC>__{INT. DR. HIRSCH'S OFFICE - NIGHT}
 <ACTION>__{Dr. Hirsch waits on the phone, finally hanging up.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -1707,38 +1707,38 @@
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Warn him?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Dr. Hirsch, what's wrong?  Is this more serious than I know?}
+<DIAL>__{Dr. Hirsch, what's wrong? Is this more serious than I know?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{I tried to investigate the attack.  There are no records. The case was closed and now they've `misplaced' the file. David's lacerations were cleaned and dressed when he arrived here and yet supposedly no doctor examined him before I did.  The Goodman boy is already in the ground so he's no good to us.  So I went to the pub in East Proctor where I was convinced of two things.}
+<DIAL>__{I tried to investigate the attack. There are no records. The case was closed and now they've `misplaced' the file. David's lacerations were cleaned and dressed when he arrived here and yet supposedly no doctor examined him before I did. The Goodman boy is already in the ground so he's no good to us. So I went to the pub in East Proctor where I was convinced of two things.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{They were lying.  There were no witnesses, no escaped lunatic.  The whole community is hiding the truth of what actually happened up there.}
+<DIAL>__{They were lying. There were no witnesses, no escaped lunatic. The whole community is hiding the truth of what actually happened up there.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{And what else?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{I think the village of East Proctor is hiding some dark and terrible secret.  I'm convinced that, like David, they believe in this werewolf.}
+<DIAL>__{I think the village of East Proctor is hiding some dark and terrible secret. I'm convinced that, like David, they believe in this werewolf.}
 <ACTION>__{Alex is flabbergasted.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{You've absolutely no idea where David might be?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{No.  He knows no one in London, besides me.  I shouldn't have left him alone.}
+<DIAL>__{No. He knows no one in London, besides me. I shouldn't have left him alone.}
 <ACTION>__{Suddenly.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Surely you're not suggesting....}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{David has suffered a severe trauma.  I myself witnessed some form of mass neurosis in East Proctor.  If all the villagers believe that Jack Goodman was killed by a werewolf, why shouldn't David? And then it follows that if he survived an attack by a werewolf, wouldn't he himself become a werewolf the next full moon?}
+<DIAL>__{David has suffered a severe trauma. I myself witnessed some form of mass neurosis in East Proctor. If all the villagers believe that Jack Goodman was killed by a werewolf, why shouldn't David? And then it follows that if he survived an attack by a werewolf, wouldn't he himself become a werewolf the next full moon?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bewildered)}
 <DIAL>__{Dr. Hirsch?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Oh, I don't mean running about on all fours and howling at the moon.  But in such a deranged state he could harm himself, or perhaps others.}
+<DIAL>__{Oh, I don't mean running about on all fours and howling at the moon. But in such a deranged state he could harm himself, or perhaps others.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{What shall we do?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Let's call the police and see if they can help us find our wandering boy.}
 <LOC>__{EXT. BRICK LANE - NIGHT}
-<ACTION>__{The bombed-out ruins of this unsavory part of London are stark and uninviting in the moonlight.  Three old DERELICTS are huddled around a trash can fire trying to keep warm.  A skinny dog is tied up beside them.  Its ears perk up and he growls in warning.}
+<ACTION>__{The bombed-out ruins of this unsavory part of London are stark and uninviting in the moonlight. Three old DERELICTS are huddled around a trash can fire trying to keep warm. A skinny dog is tied up beside them. Its ears perk up and he growls in warning.}
 <DIAL>__{DERELICT #1 Old Winston smells something. DERELICT #2}
 <DIAL_PAR>__{(calls out)}
 <DIAL>__{Who's there?}
@@ -1748,26 +1748,26 @@
 <DIAL>__{DERELICT #3 Brave dog that. DERELICT #1}
 <DIAL_PAR>__{(worried)}
 <DIAL>__{Here - who's there?}
-<ACTION>__{An unearthly howl shatters the night.  We've heard this sound on the moors.}
+<ACTION>__{An unearthly howl shatters the night. We've heard this sound on the moors.}
 <DIAL>__{DERELICT #2 That's not Winston. DERELICT #3 Look there.}
-<ACTION>__{He points out into the night.  They strain their eyes - something is approaching them.  They can just make out its size.}
+<ACTION>__{He points out into the night. They strain their eyes - something is approaching them. They can just make out its size.}
 <DIAL>__{DERELICT #1 Mother Mary of God.}
 <LOC>__{INT. SUBWAY STATION - NIGHT}
-<ACTION>__{A train SCREECHES to a halt.  (A scare.)  We are in the tubes of London.  Only one passenger disembarks and the train goes off, leaving him alone in the cavernous hallways.  The PASSENGER is a young man, rather well- dressed.  He looks about the platform, then at his watch.  He walks up to a vending machine to buy a Cadbury Chocolate Bar.}
+<ACTION>__{A train SCREECHES to a halt. (A scare.) We are in the tubes of London. Only one passenger disembarks and the train goes off, leaving him alone in the cavernous hallways. The PASSENGER is a young man, rather well- dressed. He looks about the platform, then at his watch. He walks up to a vending machine to buy a Cadbury Chocolate Bar.}
 <TRANS>__{CUT TO:}
 <LOC>__{INT. SUBWAY STATION - LONG SHOT}
 <ACTION>__{as the Passenger puts his coin in the vending machine. The camera is on ground level and as we watch the Passenger, the Wolf's legs flash by us.}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{CLOSEUP}
-<ACTION>__{of the Passenger eating his chocolate bar.  He turns thoughtfully, wondering if he had heard something. Satisfied that he is alone, he begins his walk down one of the long serpentine tunnels that make up London's tubes.  He feels he's being followed and turns slowly to look.  There is no one and he continues, concerned about his imagination.}
+<ACTION>__{of the Passenger eating his chocolate bar. He turns thoughtfully, wondering if he had heard something. Satisfied that he is alone, he begins his walk down one of the long serpentine tunnels that make up London's tubes. He feels he's being followed and turns slowly to look. There is no one and he continues, concerned about his imagination.}
 <TRANS>__{CUT TO:}
 <ACTION>__{CLOSEUP - WOLF'S EYES watching in the darkness.}
 <ACTION_ALT>__{BACK TO SCENE}
 <ACTION>__{Our Passenger approaches the first escalator, pauses, then gets on going swiftly and silently up the moving stairway.}
 <TRANS>__{CUT TO:}
-<ACTION>__{CLOSEUP - WOLF'S SNOUT In profile we can see its ragged, razor-sharp fangs and black tongue.  It waits, panting, drool falls from its mouth.}
+<ACTION>__{CLOSEUP - WOLF'S SNOUT In profile we can see its ragged, razor-sharp fangs and black tongue. It waits, panting, drool falls from its mouth.}
 <ACTION_ALT>__{BACK TO SCENE}
-<ACTION>__{The Passenger reaches the landing and walks briskly down the long tunnel marked "Escalator to Street Level".  He is being followed.  He hears it and we hear it.  He stops, frightened.}
+<ACTION>__{The Passenger reaches the landing and walks briskly down the long tunnel marked "Escalator to Street Level". He is being followed. He hears it and we hear it. He stops, frightened.}
 <CHAR>__{PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{Hello?}
 <TRANS>__{CUT TO:}
@@ -1776,7 +1776,7 @@
 <ACTION_ALT>__{THE PASSENGER}
 <CHAR>__{PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{Is there someone there?}
-<ACTION>__{We hear the Wolf's heavy breathing.  The Passenger is beginning to panic.}
+<ACTION>__{We hear the Wolf's heavy breathing. The Passenger is beginning to panic.}
 <CHAR>__{PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{I can assure you that this is not in the least bit amusing!}
 <ACTION>__{He looks around wildly.}
@@ -1786,29 +1786,29 @@
 <CHAR>__{PASSENGER} <CHAR_PAR>__{}
 <DIAL>__{Good Lord.}
 <ACTION_ALT>__{THE PASSENGER}
-<ACTION>__{turns to flee, his jog becoming a run.  He is terrified. WOLF - CLOSEUP of the Wolf's running steps.}
+<ACTION>__{turns to flee, his jog becoming a run. He is terrified. WOLF - CLOSEUP of the Wolf's running steps.}
 <ACTION_ALT>__{THE PASSENGER}
-<ACTION>__{frantically running, falls to the ground hard bloodying his nose.  He scrambles to his feet crying out in fear. Reaching the escalator, he begins to run up the moving stairs, falling several times.  He sits, panting and defeated, the blood trickling from his nose.}
+<ACTION>__{frantically running, falls to the ground hard bloodying his nose. He scrambles to his feet crying out in fear. Reaching the escalator, he begins to run up the moving stairs, falling several times. He sits, panting and defeated, the blood trickling from his nose.}
 <TRANS>__{CUT TO:}
-<ACTION>__{WOLF'S P.O.V. as it begins to climb the stairs.  The camera tracks slowly in on the increasingly horrified Passenger until we are in an extreme closeup of his eyes, when we:}
+<ACTION>__{WOLF'S P.O.V. as it begins to climb the stairs. The camera tracks slowly in on the increasingly horrified Passenger until we are in an extreme closeup of his eyes, when we:}
 <TRANS>__{CUT TO:}
-<LOC>__{65   CLOSEUP - A TIGER ROARING}
-<ACTION>__{(A scare.)  The tiger paces in its cage and roars again.  We are at:}
+<LOC>__{65 CLOSEUP - A TIGER ROARING}
+<ACTION>__{(A scare.) The tiger paces in its cage and roars again. We are at:}
 <LOC>__{EXT. LONDON ZOO - DAY}
-<ACTION>__{It is early morning and all the animals are aroused. We cut around to roaring cats, screeching monkeys, and panicky birds, etc., until we come to the Wolves' cage where we find David, naked and curled up on the ground by the cage, asleep.  David wakes up slowly.  He is completely naked, his body dirty, with several scratches on his torso and legs.  He yawns and stretches, makes a face, and with his finger picks something distasteful from his teeth.  He also notices something under his fingernails and as he goes to clean them, he suddenly does a complete Stan Laurel discovering where he is.  He puts his hands over his eyes.}
+<ACTION>__{It is early morning and all the animals are aroused. We cut around to roaring cats, screeching monkeys, and panicky birds, etc., until we come to the Wolves' cage where we find David, naked and curled up on the ground by the cage, asleep. David wakes up slowly. He is completely naked, his body dirty, with several scratches on his torso and legs. He yawns and stretches, makes a face, and with his finger picks something distasteful from his teeth. He also notices something under his fingernails and as he goes to clean them, he suddenly does a complete Stan Laurel discovering where he is. He puts his hands over his eyes.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Wake me up, Alex.}
-<ACTION>__{He slowly peaks through his fingers; he's still there. He stands up and looks around. The zoo opens and women with prams and children hustle about.  David sees them coming towards him, notes his lack of clothes, and decides it would be better for all concerned if they did not meet.  He looks around for a suitable hiding place and dashes behind some bushes. He crouches down so that he can't be seen, scratching himself on a thorn.}
+<ACTION>__{He slowly peaks through his fingers; he's still there. He stands up and looks around. The zoo opens and women with prams and children hustle about. David sees them coming towards him, notes his lack of clothes, and decides it would be better for all concerned if they did not meet. He looks around for a suitable hiding place and dashes behind some bushes. He crouches down so that he can't be seen, scratching himself on a thorn.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Ouch!}
 <LOC>__{INT. ALEX'S FLAT - DAY}
-<ACTION>__{Alex sits holding David's torn T-shirt.  She is trying to read her book, but is just too distracted.  The phone rings and she runs for it.}
+<ACTION>__{Alex sits holding David's torn T-shirt. She is trying to read her book, but is just too distracted. The phone rings and she runs for it.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(excited, then disappointed)}
-<DIAL>__{Hello?  No, Dr. Hirsch, he hasn't come back yet.  Yes, I will, doctor, but I just feel so helpless sitting here doing nothing.  Thank you, yes, goodbye.}
-<ACTION>__{She hangs up and looks around the empty flat.  She is now more worried than ever.}
+<DIAL>__{Hello? No, Dr. Hirsch, he hasn't come back yet. Yes, I will, doctor, but I just feel so helpless sitting here doing nothing. Thank you, yes, goodbye.}
+<ACTION>__{She hangs up and looks around the empty flat. She is now more worried than ever.}
 <LOC>__{EXT. LONDON ZOO - DAY}
-<ACTION>__{David is still behind the bushes.  He looks to see if the coast is clear, then stands up and parts the bushes.  He steps out to confront a DOWAGER LADY.}
+<ACTION>__{David is still behind the bushes. He looks to see if the coast is clear, then stands up and parts the bushes. He steps out to confront a DOWAGER LADY.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Hello.}
 <TRANS>__{CUT TO:}
@@ -1817,27 +1817,27 @@
 <DIAL>__{Excuse me, won't you?}
 <ACTION>__{He returns to the bushes.}
 <TRANS>__{CUT TO:}
-<ACTION>__{CLOSEUP - A GORILLA EATING A LITTLE BOY with four helium balloons on a string is staring intently at the gorilla.  The Little Boy leaves the monkey house and we travel with him as he looks at several other animals.  Eventually he comes to the Wolf cage.}
+<ACTION>__{CLOSEUP - A GORILLA EATING A LITTLE BOY with four helium balloons on a string is staring intently at the gorilla. The Little Boy leaves the monkey house and we travel with him as he looks at several other animals. Eventually he comes to the Wolf cage.}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Pssst!}
 <ACTION>__{The Little Boy looks around.}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Hey, kid!  Pssst.  Little boy with the balloons.}
+<DIAL>__{Hey, kid! Pssst. Little boy with the balloons.}
 <ACTION>__{The Little Boy pantomimes, "who me?"}
 <TRANS>__{CUT TO:}
 <ACTION_ALT>__{THE BUSHES}
 <ACTION>__{David cannot be seen.}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Come over here.}
-<ACTION>__{The Little Boy shakes his head.  The bush replies:}
+<ACTION>__{The Little Boy shakes his head. The bush replies:}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{If you come over here, I'll give you a pound.}
-<ACTION>__{The Little Boy shakes his head.  The bush pleads.}
+<ACTION>__{The Little Boy shakes his head. The bush pleads.}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Two pounds?}
-<ACTION>__{The Little Boy shakes his head.  The bush reasons:}
+<ACTION>__{The Little Boy shakes his head. The bush reasons:}
 <CHAR>__{DAVID } <CHAR_PAR>__{(O.S.)}
-<DIAL>__{Listen, two pounds is a lot of money.  It's almost five dollars.}
+<DIAL>__{Listen, two pounds is a lot of money. It's almost five dollars.}
 <CHAR>__{LITTLE BOY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(very English)}
 <DIAL>__{I don't know who you are.}
@@ -1860,7 +1860,7 @@
 <DIAL>__{Thank you.}
 <ACTION>__{David runs off through the zoo, naked but for his balloons, startling several animal lovers.}
 <LOC>__{EXT. PARK - DAY}
-<ACTION>__{An ELDERLY COUPLE sits feeding birds, their coats folded nearly over the park bench.  A naked blur darts by, grabbing the top coat as it passes, scaring off the birds.}
+<ACTION>__{An ELDERLY COUPLE sits feeding birds, their coats folded nearly over the park bench. A naked blur darts by, grabbing the top coat as it passes, scaring off the birds.}
 <LOC>__{EXT. LONDON ZOO - DAY}
 <ACTION>__{The Little Boy tugs at his MOTHER'S coat.}
 <CHAR>__{MOTHER} <CHAR_PAR>__{}
@@ -1872,38 +1872,38 @@
 <CHAR>__{LITTLE BOY} <CHAR_PAR>__{}
 <DIAL>__{A naked, American man -- the famous balloon thief.}
 <LOC>__{EXT. NEWSSTAND - DAY}
-<ACTION>__{The signs they always have on London newsstands proclaim "Man or Monster?"  Dr. Hirsch picks up a newspaper with its headline, "London Murder Victims Found Partially Devoured".}
+<ACTION>__{The signs they always have on London newsstands proclaim "Man or Monster?" Dr. Hirsch picks up a newspaper with its headline, "London Murder Victims Found Partially Devoured".}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{I'll have one of those, too.}
-<ACTION>__{He pays for the papers.  The second one's headline, "Death Toll Up To Six - New Jack The Ripper?"}
+<ACTION>__{He pays for the papers. The second one's headline, "Death Toll Up To Six - New Jack The Ripper?"}
 <LOC>__{EXT. LONDON STREET - DAY - BUS STOP}
-<ACTION>__{in another part of town.  The camera is on the crowd of fifteen or twenty people waiting for the bus.  When the bus pulls up, they all crowd in.  The camera goes to floor level and slowly examines the footwear of the crowded bus.  Passengers are standing in the aisle and the camera slowly pans on their galoshes, boots, high heels, rubbers, etc., until it comes to rest on a conspicuous pair of bare feet.  We pan up to find David clad only in a woman's rain coat with a fur collar trying to look as nonchalant as possible.  A man looks at him oddly.}
+<ACTION>__{in another part of town. The camera is on the crowd of fifteen or twenty people waiting for the bus. When the bus pulls up, they all crowd in. The camera goes to floor level and slowly examines the footwear of the crowded bus. Passengers are standing in the aisle and the camera slowly pans on their galoshes, boots, high heels, rubbers, etc., until it comes to rest on a conspicuous pair of bare feet. We pan up to find David clad only in a woman's rain coat with a fur collar trying to look as nonchalant as possible. A man looks at him oddly.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(cheerfully)}
 <DIAL>__{A lot of weather we've been having lately.}
 <ACTION>__{The man studies David carefully.}
 <LOC>__{INT. ALEX'S FLAT - DAY}
-<ACTION>__{Alex sits in the kitchen drinking tea and reading. There is loud knocking on the door.  Alex rushes to open it and David enters quickly, closing the door behind him.  He is still wearing the woman's coat.}
+<ACTION>__{Alex sits in the kitchen drinking tea and reading. There is loud knocking on the door. Alex rushes to open it and David enters quickly, closing the door behind him. He is still wearing the woman's coat.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{David!  Where on earth have you been!?!}
+<DIAL>__{David! Where on earth have you been!?!}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I'm freezing.}
-<ACTION>__{He goes into the bedroom and takes off the coat and gets dressed as Alex watches in amazement.  David is excited, even euphoric.}
+<ACTION>__{He goes into the bedroom and takes off the coat and gets dressed as Alex watches in amazement. David is excited, even euphoric.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Alex, I've lost my mind.  I woke up at the zoo!  But you know what?  I feel terrific!}
+<DIAL>__{Alex, I've lost my mind. I woke up at the zoo! But you know what? I feel terrific!}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{The zoo?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Waking up at the zoo, that's not so insane.  Having no clothes on?  That's insane. What did I do last night, Alex?}
+<DIAL>__{Waking up at the zoo, that's not so insane. Having no clothes on? That's insane. What did I do last night, Alex?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Don't you remember?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I said goodbye to you.  I was locked out of the flat.  I climbed the wall and came in through the bathroom window. I started to read and then I was naked at the zoo!}
+<DIAL>__{I said goodbye to you. I was locked out of the flat. I climbed the wall and came in through the bathroom window. I started to read and then I was naked at the zoo!}
 <DIAL_PAR>__{(big smile)}
 <DIAL>__{I guess I am out of my fucking mind.}
 <ACTION>__{Alex sits next to him and puts her arm around his shoulders.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{I worried about you.  We didn't know where you were.}
+<DIAL>__{I worried about you. We didn't know where you were.}
 <ACTION>__{David kisses her, a desperate kiss, and she kisses back with equal passion.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Where did you get that coat?}
@@ -1925,15 +1925,15 @@
 <DIAL>__{He's here.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(excited)}
-<DIAL>__{Is he all right?  Why didn't you call me?  Where was he?}
+<DIAL>__{Is he all right? Why didn't you call me? Where was he?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{He doesn't remember.  He woke up at the zoo.}
+<DIAL>__{He doesn't remember. He woke up at the zoo.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{The zoo?  Is he rational?}
+<DIAL>__{The zoo? Is he rational?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{Yes, he is.  He's very excited and confused, but he's not crazy, if that's what you mean.}
+<DIAL>__{Yes, he is. He's very excited and confused, but he's not crazy, if that's what you mean.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Have you read the papers today?  Have you listened to the radio or television?}
+<DIAL>__{Have you read the papers today? Have you listened to the radio or television?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{No, why?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
@@ -1946,13 +1946,13 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, I should think so.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{Right.  Now listen carefully. I want you to bring David here.  I want him in my care. I'll notify the police that we've found him.  It is imperative that you bring him straight to the hospital.  Do you understand?}
+<DIAL>__{Right. Now listen carefully. I want you to bring David here. I want him in my care. I'll notify the police that we've found him. It is imperative that you bring him straight to the hospital. Do you understand?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, Doctor.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{You're certain he's lucid? You won't need any help?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{He's fine.  We'll come right over.}
+<DIAL>__{He's fine. We'll come right over.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Shall I send a car?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -1973,10 +1973,10 @@
 <DIAL>__{Dr. Hirsch will know what to do.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(stretches)}
-<DIAL>__{I don't know why I feel so good.  I haven't felt this good in a long time.}
+<DIAL>__{I don't know why I feel so good. I haven't felt this good in a long time.}
 <ACTION>__{Alex is signaling for a taxi.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{My body feels alive, alert.  I feel like an athlete.}
+<DIAL>__{My body feels alive, alert. I feel like an athlete.}
 <ACTION>__{A taxi pulls up; Alex opens the door.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Get in.}
@@ -1996,7 +1996,7 @@
 <DIAL_PAR>__{(concerned)}
 <DIAL>__{What murders?}
 <CHAR>__{DRIVER} <CHAR_PAR>__{}
-<DIAL>__{Last night.  Haven't you heard?  Six people in different parts of the city mutilated.  A real maniac this one.}
+<DIAL>__{Last night. Haven't you heard? Six people in different parts of the city mutilated. A real maniac this one.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Pull over.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
@@ -2015,22 +2015,22 @@
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, what are you doing?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Six people mutilated?  It had to be me, Alex.}
+<DIAL>__{Six people mutilated? It had to be me, Alex.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, stop!}
 <ACTION>__{He turns and faces her.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{I am going to the cops. There's a full moon tonight. Jack was right.  I....}
+<DIAL>__{I am going to the cops. There's a full moon tonight. Jack was right. I....}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(angry)}
 <DIAL>__{Jack is dead!}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Jack is dead.  Look, six people have been killed.  I'm going to the police.}
-<ACTION>__{David takes off walking briskly down the street.  Alex has to jog to keep up with him.}
+<DIAL>__{Jack is dead. Look, six people have been killed. I'm going to the police.}
+<ACTION>__{David takes off walking briskly down the street. Alex has to jog to keep up with him.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, please be rational. Let's go to Dr. Hirsch.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Rational!?!  I'm a fucking werewolf, for Christ's sake!}
+<DIAL>__{Rational!?! I'm a fucking werewolf, for Christ's sake!}
 <ACTION>__{He strides up to a Bobbie on the corner.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Officer, I killed those people last night.}
@@ -2044,14 +2044,14 @@
 <DIAL_PAR>__{(dumbfounded)}
 <DIAL>__{What?}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{We had an argument.  He's being silly.}
+<DIAL>__{We had an argument. He's being silly.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(desperate)}
 <DIAL>__{I swear, I don't know this girl.}
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL>__{All right, you two, move along.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Hey, you asshole!  I want you to arrest me!}
+<DIAL>__{Hey, you asshole! I want you to arrest me!}
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL>__{There's no call for that kind of language.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -2061,7 +2061,7 @@
 <DIAL_PAR>__{(losing patience)}
 <DIAL>__{Now see here young man.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Shakespeare was French!  The Queen Mother sucks cocks in hell!  Shit!  Fuck!  Piss!}
+<DIAL>__{Shakespeare was French! The Queen Mother sucks cocks in hell! Shit! Fuck! Piss!}
 <ACTION>__{The Bobbie takes David's arm roughly as pedestrians start to gather.}
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL>__{That's quite enough!}
@@ -2077,12 +2077,12 @@
 <DIAL>__{That's what I want you to do, you moron!}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Bobbie)}
-<DIAL>__{Sir, he's very upset.  His friend was killed and....}
+<DIAL>__{Sir, he's very upset. His friend was killed and....}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Will you shut up!?!!}
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL_PAR>__{(losing his temper)}
-<DIAL>__{That's enough!  Now go about your business.}
+<DIAL>__{That's enough! Now go about your business.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Yes, David, let's go.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
@@ -2092,7 +2092,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Don't you think he should arrest me?}
 <CHAR>__{ONLOOKER} <CHAR_PAR>__{}
-<DIAL>__{Well, I'm not sure.  How does he know this isn't a prank?}
+<DIAL>__{Well, I'm not sure. How does he know this isn't a prank?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(despair)}
 <DIAL>__{A prank?}
@@ -2103,31 +2103,31 @@
 <CHAR>__{BOBBIE} <CHAR_PAR>__{}
 <DIAL>__{I've no time for this foolishness.}
 <DIAL_PAR>__{(to onlookers)}
-<DIAL>__{Nothing to look at.  Move along.}
-<ACTION>__{The Bobbie walks away.  David is beside himself.}
+<DIAL>__{Nothing to look at. Move along.}
+<ACTION>__{The Bobbie walks away. David is beside himself.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Hopeless.  It's hopeless.}
+<DIAL>__{Hopeless. It's hopeless.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(softly)}
 <DIAL>__{David, let's go now.}
 <ACTION>__{David turns in a rage.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Leave me alone, dammit!  You people are crazy!  I've got to get away from here!  I've got to do something!}
+<DIAL>__{Leave me alone, dammit! You people are crazy! I've got to get away from here! I've got to do something!}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(worried)}
 <DIAL>__{David, don't lose control.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(approaching, hysteria)}
-<DIAL>__{Control!?!  What control!?! Get away from me!}
+<DIAL>__{Control!?! What control!?! Get away from me!}
 <ACTION>__{He begins to cry.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Leave me alone!}
-<ACTION>__{He runs out into the street.  Cars slam on their brakes, just missing him.}
+<ACTION>__{He runs out into the street. Cars slam on their brakes, just missing him.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David, wait!}
-<ACTION>__{It's too late.  He's lost in traffic.  Alex stands for a moment not knowing which way to turn.}
+<ACTION>__{It's too late. He's lost in traffic. Alex stands for a moment not knowing which way to turn.}
 <LOC>__{EXT. ALLEY - DAY}
-<ACTION>__{David is running in panic.  He finally comes to rest in an alley.  He sits down and sobs uncontrollably.}
+<ACTION>__{David is running in panic. He finally comes to rest in an alley. He sits down and sobs uncontrollably.}
 <LOC>__{INT. DR. HIRSCH'S OFFICE - DAY}
 <ACTION>__{Alex sits distraught in the chair opposite the desk. Dr. Hirsch is talking to Lt. Villiers and Sgt. McManus.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
@@ -2139,24 +2139,24 @@
 <DIAL>__{Precisely.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(harried)}
-<DIAL>__{Gentlemen, please.  We shall find Mr. Kessler as quickly as we're able.}
+<DIAL>__{Gentlemen, please. We shall find Mr. Kessler as quickly as we're able.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{He tried to have himself arrested.  He....}
+<DIAL>__{He tried to have himself arrested. He....}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(interrupts)}
 <DIAL>__{Getting arrested isn't all that difficult, Miss Price.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{He wants help.  He....}
+<DIAL>__{He wants help. He....}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL_PAR>__{(interrupts)}
 <DIAL>__{What can we do to assist you?}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL_PAR>__{(rising)}
-<DIAL>__{Stay here.  If we need you, we'll know where to reach you.}
+<DIAL>__{Stay here. If we need you, we'll know where to reach you.}
 <ACTION>__{He and Sgt. McManus pause by the door.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
-<DIAL>__{I cannot accept a connection between David Kessler and last night's murders.  We will find him, however.  I can assure you of that. SGT. McMANUS We'll find him, not to worry.}
-<ACTION>__{The two policemen exit.  Dr. Hirsch looks at Alex.}
+<DIAL>__{I cannot accept a connection between David Kessler and last night's murders. We will find him, however. I can assure you of that. SGT. McMANUS We'll find him, not to worry.}
+<ACTION>__{The two policemen exit. Dr. Hirsch looks at Alex.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL_PAR>__{(distraught)}
 <DIAL>__{What shall we do?}
@@ -2166,15 +2166,15 @@
 <LOC>__{EXT. LEICESTER SQUARE - DAY}
 <ACTION>__{David is in a telephone booth.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Yes, operator.  I'd like to call the United States and reverse the charges.  David Kessler for anyone.  Yes, I'll wait.  Hello?  Yes, area code 315/472-3402.  Thank you.}
+<DIAL>__{Yes, operator. I'd like to call the United States and reverse the charges. David Kessler for anyone. Yes, I'll wait. Hello? Yes, area code 315/472-3402. Thank you.}
 <DIAL_PAR>__{(pause)}
-<DIAL>__{Hello?  Rachel?  Just say yes, you'll accept the charges. Just say yes, Rachel.  Is Mom or Dad home?  Where are they? Where's Max?  You're all alone?  Mom and Dad wouldn't leave me alone when I was ten. No, not ten and a half either. I'm still in London.  I'm all better.  Look, would you tell Mom and Dad that I love them? I don't care, Rachel, just do it for me.  Okay?  Good.  And, Rachel, don't fight with Max. Well, try.  Look, kid, please don't forget to tell Mom and Dad I love them.  I love Max and you, too.  Well, I do. No, I'm not being weird, you little creep.  You promise? Okay.  Be a good girl.  I love you.  Bye.}
-<ACTION>__{He hangs up in profound depression.  Leaving the booth he sees an outdoor clock.  It is 4:15.  He sighs, then catches sight of something.}
+<DIAL>__{Hello? Rachel? Just say yes, you'll accept the charges. Just say yes, Rachel. Is Mom or Dad home? Where are they? Where's Max? You're all alone? Mom and Dad wouldn't leave me alone when I was ten. No, not ten and a half either. I'm still in London. I'm all better. Look, would you tell Mom and Dad that I love them? I don't care, Rachel, just do it for me. Okay? Good. And, Rachel, don't fight with Max. Well, try. Look, kid, please don't forget to tell Mom and Dad I love them. I love Max and you, too. Well, I do. No, I'm not being weird, you little creep. You promise? Okay. Be a good girl. I love you. Bye.}
+<ACTION>__{He hangs up in profound depression. Leaving the booth he sees an outdoor clock. It is 4:15. He sighs, then catches sight of something.}
 <LOC>__{EXT. CINEMA - DAY - DAVID'S P.O.V.}
-<ACTION>__{There stands Jack, now truly rotted and ghastly.  He's pretty much dried out, a third of his face gone revealing the grinning skull.  He waves to David.  Jack points inside the theater and goes in.  David smiles, walks across the intersection, and up to the box office.}
+<ACTION>__{There stands Jack, now truly rotted and ghastly. He's pretty much dried out, a third of his face gone revealing the grinning skull. He waves to David. Jack points inside the theater and goes in. David smiles, walks across the intersection, and up to the box office.}
 <CHAR>__{TICKET LADY} <CHAR_PAR>__{}
 <DIAL>__{Two and a half quid, please.}
-<ACTION>__{David reaches in his pocket.  All he has are traveler's checks.}
+<ACTION>__{David reaches in his pocket. All he has are traveler's checks.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Will you take a traveler's check?}
 <CHAR>__{TICKET LADY} <CHAR_PAR>__{}
@@ -2184,9 +2184,9 @@
 <DIAL>__{Keep the change.}
 <CHAR>__{TICKET LADY} <CHAR_PAR>__{}
 <DIAL>__{Well, thank you, sir!}
-<ACTION>__{She gives him a ticket.  David goes in.}
+<ACTION>__{She gives him a ticket. David goes in.}
 <LOC>__{INT. CINEMA - DAY}
-<ACTION>__{A film (to be determined) plays on screen.  The small theater is mostly empty.  A few snoring BUMS and wide- eyed CHILDREN are scattered about.  Jack sits in the last row in the shadows.  He waves to David.  David goes and sits next to him.}
+<ACTION>__{A film (to be determined) plays on screen. The small theater is mostly empty. A few snoring BUMS and wide- eyed CHILDREN are scattered about. Jack sits in the last row in the shadows. He waves to David. David goes and sits next to him.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Hi, Jack.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
@@ -2206,11 +2206,11 @@
 <DIAL>__{Thank you.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(apologizes quickly)}
-<DIAL>__{I didn't mean it.  I don't know what I'm saying.  I'm not even sure it was me who killed those people.  I don't remember doing it.}
+<DIAL>__{I didn't mean it. I don't know what I'm saying. I'm not even sure it was me who killed those people. I don't remember doing it.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{What about the zoo?}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Well, even if I'm not the wolfman, I am crazy enough to do something like that.  I mean, here I sit in Leicester Square talking to a corpse. I'm glad to see you, Jack.}
+<DIAL>__{Well, even if I'm not the wolfman, I am crazy enough to do something like that. I mean, here I sit in Leicester Square talking to a corpse. I'm glad to see you, Jack.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{I want you to meet some people.}
 <ACTION>__{Sitting down the row from Jack is a man, GERALD BRINGSLY, completely in the shadow.}
@@ -2219,7 +2219,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Hello.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Gerald is the man you murdered in the subway.  We thought it best you didn't see him as he's a fresh kill and still pretty messy.}
+<DIAL>__{Gerald is the man you murdered in the subway. We thought it best you didn't see him as he's a fresh kill and still pretty messy.}
 <CHAR>__{BRINGSLY} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in shadow; very English)}
 <DIAL>__{Yes, I do look most unpleasant.}
@@ -2231,7 +2231,7 @@
 <DIAL>__{This isn't Mr. Goodman's idea. He is your good friend, whereas I am a victim of your carnivorous lunar activities.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(appalled)}
-<DIAL>__{Mr. Bringsly, I'm sorry.  I have absolutely no idea what to say to you.}
+<DIAL>__{Mr. Bringsly, I'm sorry. I have absolutely no idea what to say to you.}
 <CHAR>__{BRINGSLY} <CHAR_PAR>__{}
 <DIAL>__{You've left my wife a widow and my children fatherless. And I understand that I am to walk the earth one of the living dead until the wolf's bloodline is severed and the curse lifted.}
 <ACTION>__{Bringlsy leans forward almost into the light, he glistens.}
@@ -2239,10 +2239,10 @@
 <DIAL>__{You must die, David Kessler.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{David, this is Harry Berman and his fiancee Judith Browns.}
-<ACTION>__{The two victims lean forward from their seats next to Mr. Bringsly.  We can just make out that Harry has one arm missing.}
+<ACTION>__{The two victims lean forward from their seats next to Mr. Bringsly. We can just make out that Harry has one arm missing.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
 <DIAL>__{And these gentlemen are Alf, Ted, and Joseph.}
-<ACTION>__{The Three Derelicts sit next to Harry and Judith.  All are slick in the darkness, the light from the screen illuminating their gore.}
+<ACTION>__{The Three Derelicts sit next to Harry and Judith. All are slick in the darkness, the light from the screen illuminating their gore.}
 <DIAL>__{DERELICT #2 Can't say we're pleased to meet you, Mr. Kessler.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(defeated)}
@@ -2255,7 +2255,7 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{That's easy for you to say - you're already dead.}
 <CHAR>__{BRINGSLY} <CHAR_PAR>__{}
-<DIAL>__{No, David.  Harry and I and everyone you murder are not dead.  The undead.}
+<DIAL>__{No, David. Harry and I and everyone you murder are not dead. The undead.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(to Jack)}
 <DIAL>__{Why are you doing this to me?}
@@ -2268,9 +2268,9 @@
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{I could hang myself.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{If you did it wrong, it would be painful.  You'd choke to death. DERELICT #3 So what?  Let `im choke.}
+<DIAL>__{If you did it wrong, it would be painful. You'd choke to death. DERELICT #3 So what? Let `im choke.}
 <CHAR>__{JACK} <CHAR_PAR>__{}
-<DIAL>__{Do you mind?  The man's a friend of mine. DERELICT #3 Well he ain't no friend of mine.}
+<DIAL>__{Do you mind? The man's a friend of mine. DERELICT #3 Well he ain't no friend of mine.}
 <CHAR>__{BRINGSLY} <CHAR_PAR>__{}
 <DIAL>__{Gentlemen, please.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
@@ -2281,7 +2281,7 @@
 <DIAL>__{Be serious, would you?}
 <ACTION>__{David puts his head in his hands.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
-<DIAL>__{Madness.  I've gone totally mad.}
+<DIAL>__{Madness. I've gone totally mad.}
 <CHAR>__{HARRY} <CHAR_PAR>__{}
 <DIAL>__{A gun is good.}
 <CHAR>__{JUDITH} <CHAR_PAR>__{}
@@ -2290,87 +2290,87 @@
 <DIAL>__{If you put it in your mouth, then you'd be sure not to miss.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL>__{Thank you, you're all so thoughtful.}
-<ACTION>__{As the conversation continues, the camera pulls back from the grisly tableau.  David grabs his head suddenly.}
+<ACTION>__{As the conversation continues, the camera pulls back from the grisly tableau. David grabs his head suddenly.}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. BIG BEN - NIGHT}
-<ACTION>__{The clock strikes eleven.  The full moon is up.}
+<ACTION>__{The clock strikes eleven. The full moon is up.}
 <LOC>__{INT. CINEMA - NIGHT}
-<ACTION>__{David is dripping wet and shaking violently.  Three small children, the oldest nine, stand in the aisle staring at him.}
+<ACTION>__{David is dripping wet and shaking violently. Three small children, the oldest nine, stand in the aisle staring at him.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(gasps out in anguish)}
-<DIAL>__{Go away!  Please!  Go away!}
+<DIAL>__{Go away! Please! Go away!}
 <ACTION>__{The children watch, fascinated as David's seizures grow more severe.}
 <CHAR>__{DAVID} <CHAR_PAR>__{}
 <DIAL_PAR>__{(his face contorting)}
-<DIAL>__{Run!  Please...run.}
-<ACTION>__{His hands clutch the arms of his chair.  Coarse thick hair splits his skin.  The children's eyes widen in fascination.}
+<DIAL>__{Run! Please...run.}
+<ACTION>__{His hands clutch the arms of his chair. Coarse thick hair splits his skin. The children's eyes widen in fascination.}
 <LOC>__{EXT. CINEMA - NIGHT}
-<ACTION>__{Roars and screams come from inside the theater.  The TICKET TAKER at the door says to the Ticket Lady:}
+<ACTION>__{Roars and screams come from inside the theater. The TICKET TAKER at the door says to the Ticket Lady:}
 <CHAR>__{TICKET TAKER} <CHAR_PAR>__{}
 <DIAL>__{I'll check on the house.}
 <ACTION>__{He goes inside the theater.}
 <LOC>__{INT. CINEMA - NIGHT}
-<ACTION>__{The Ticket Taker enters the theater.  The movie continues on screen, but all else is quiet.  He cautiously continues down the aisle.  He sees something and makes his way towards it.  He looks down in horror. THE WOLF SPRINGS!}
+<ACTION>__{The Ticket Taker enters the theater. The movie continues on screen, but all else is quiet. He cautiously continues down the aisle. He sees something and makes his way towards it. He looks down in horror. THE WOLF SPRINGS!}
 <TRANS>__{CUT TO:}
 <LOC>__{EXT. LEICESTER SQUARE - NIGHT}
 <ACTION>__{From way up high we look down on the sidewalks and single out TWO BOBBIES running furiously to the cinema through the busy traffic.}
 <LOC>__{EXT. CINEMA - NIGHT}
 <ACTION>__{The two cops run up, the Ticket Lady is hysterical.}
 <CHAR>__{TICKET LADY} <CHAR_PAR>__{}
-<DIAL>__{It's horrible, horrible! There's a beast!  A mad dog! It's killing people in there!}
+<DIAL>__{It's horrible, horrible! There's a beast! A mad dog! It's killing people in there!}
 <ACTION>__{One cop stays with the lady, the other rushes inside.}
 <LOC>__{INT. CINEMA - NIGHT}
-<ACTION>__{The cop enters a side door to find several bloodied corpses.  He hears something, looks over to see the Wolf hunched over a victim.  The Wolf turns, eyes blazing, mouth dripping with blood.  We see it clearly for the first time.  It is truly a hound from hell, its wolfen features a hideous sight.  Its eyes fierce, burning green.  The Wolf roars and starts for the cop. The cop rushes out and slams the door behind him.}
+<ACTION>__{The cop enters a side door to find several bloodied corpses. He hears something, looks over to see the Wolf hunched over a victim. The Wolf turns, eyes blazing, mouth dripping with blood. We see it clearly for the first time. It is truly a hound from hell, its wolfen features a hideous sight. Its eyes fierce, burning green. The Wolf roars and starts for the cop. The cop rushes out and slams the door behind him.}
 <LOC>__{EXT. CINEMA}
 <ACTION>__{As the cop bolts the door shut.}
 <DIAL>__{COP #1 For God's sake, Tom, there's a monster in there!}
-<ACTION>__{The doors shudder as the Wolf begins to batter them down.  The cops strain to keep them shut.}
+<ACTION>__{The doors shudder as the Wolf begins to batter them down. The cops strain to keep them shut.}
 <DIAL>__{COP #1 Call for assistance and tell them to bring guns.}
-<ACTION>__{Pedestrians start milling around.  The door is bulging. The Wolf's roars continue.}
-<DIAL>__{COP #2 Keep moving!  Will you people get out of the way!}
+<ACTION>__{Pedestrians start milling around. The door is bulging. The Wolf's roars continue.}
+<DIAL>__{COP #2 Keep moving! Will you people get out of the way!}
 <LOC>__{INT. DR. HIRSCH'S OFFICE - NIGHT}
-<ACTION>__{Alex is asleep.  Dr. Hirsch wakes her.}
+<ACTION>__{Alex is asleep. Dr. Hirsch wakes her.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Nurse Hobbs said there's a disturbance in Leicester Square involving some sort of mad dog.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David?}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
-<DIAL>__{I doubt it.  But it's something to do.}
+<DIAL>__{I doubt it. But it's something to do.}
 <LOC>__{INT. POLICE STATION - NIGHT}
 <ACTION>__{An officer unlocks a rack of rifles which are distributed to uniformed men.}
 <LOC>__{INT. CINEMA - NIGHT}
-<ACTION>__{Police cars arrive, sirens blaring.  Officers are pushing the crowd back as other men help hold the door closed against the Wolf's battering. Another police car pulls up and out steps Lt. Villiers and Sgt. McManus.}
+<ACTION>__{Police cars arrive, sirens blaring. Officers are pushing the crowd back as other men help hold the door closed against the Wolf's battering. Another police car pulls up and out steps Lt. Villiers and Sgt. McManus.}
 <CHAR>__{LT. VILLIERS} <CHAR_PAR>__{}
 <DIAL>__{What the hell is going on here?}
 <CHAR>__{COP} <CHAR_PAR>__{}
 <DIAL>__{It's some kind of animal, sir. We....}
-<ACTION>__{Suddenly the doors splinter apart and there stands the Wolf, eyes blazing.  It leaps on Lt. Villiers, savaging him.  The crowd falls back in panic. The Wolf runs into traffic, a cab swerves to avoid hitting it and plows into fleeing pedestrians hurling one through a shop window.  Mass confusion as orders are shouted and the police pursue the Wolf. It runs down an alleyway into a cul de sac.  It stops in the darkness, blocked by a brick wall.  The Wolf whirls around, defiant, roaring.  The cops quickly barricade the entrance to the alley.}
+<ACTION>__{Suddenly the doors splinter apart and there stands the Wolf, eyes blazing. It leaps on Lt. Villiers, savaging him. The crowd falls back in panic. The Wolf runs into traffic, a cab swerves to avoid hitting it and plows into fleeing pedestrians hurling one through a shop window. Mass confusion as orders are shouted and the police pursue the Wolf. It runs down an alleyway into a cul de sac. It stops in the darkness, blocked by a brick wall. The Wolf whirls around, defiant, roaring. The cops quickly barricade the entrance to the alley.}
 <LOC>__{INT. TAXI - NIGHT}
-<ACTION>__{The taxi is halted by the traffic jam in Leicester Square.  Police vehicles roar past.}
+<ACTION>__{The taxi is halted by the traffic jam in Leicester Square. Police vehicles roar past.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{David!  It's David!}
+<DIAL>__{David! It's David!}
 <ACTION>__{She jumps from the car before Dr. Hirsch can stop her.}
 <LOC>__{EXT. CUL DE SAC - NIGHT}
-<ACTION>__{The police arrive with weapons and efficiently ring the alley.  Alex runs to them.}
+<ACTION>__{The police arrive with weapons and efficiently ring the alley. Alex runs to them.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{Let me through!}
 <CHAR>__{COP} <CHAR_PAR>__{}
 <DIAL>__{Stand clear, miss!}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{I must get through!}
-<ACTION>__{Alex dodges the cop and runs into the alley.  The officers shout after her.  Dr. Hirsch reaches the police line.}
+<ACTION>__{Alex dodges the cop and runs into the alley. The officers shout after her. Dr. Hirsch reaches the police line.}
 <CHAR>__{DR. HIRSCH} <CHAR_PAR>__{}
 <DIAL>__{Alex!}
 <ACTION>__{Alex walks towards the dark end of the alley.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
-<DIAL>__{David?  Is it you?  Is it true, David?}
-<ACTION>__{She's almost to the end.  The Wolf lays in wait in the shadows.  The police raise their weapons.}
+<DIAL>__{David? Is it you? Is it true, David?}
+<ACTION>__{She's almost to the end. The Wolf lays in wait in the shadows. The police raise their weapons.}
 <CHAR>__{ALEX} <CHAR_PAR>__{}
 <DIAL>__{David?}
-<ACTION>__{THE WOLF REARS UP.  In that brief instant, Alex realizes it will kill her.}
+<ACTION>__{THE WOLF REARS UP. In that brief instant, Alex realizes it will kill her.}
 <CHAR>__{OFFICER} <CHAR_PAR>__{}
 <DIAL>__{Fire!}
-<ACTION>__{The guns blaze.  The Wolf falls dead.  Alex leans on the wall, numb.  The cops, Dr. Hirsch, and Sgt. McManus run to the dead Wolf only to find David, naked and riddled with bullets.  Alex begins to weep.}
+<ACTION>__{The guns blaze. The Wolf falls dead. Alex leans on the wall, numb. The cops, Dr. Hirsch, and Sgt. McManus run to the dead Wolf only to find David, naked and riddled with bullets. Alex begins to weep.}
 <TRANS>__{FADE TO:}
 <ACTION_ALT>__{BLACK END CREDITS OVER BLACK}
 <ACTION>__{SONG: The fifties rock version of "Blue Moon".}

@@ -1317,7 +1317,8 @@
 <ACTION>__{And he walks off to his car.}
 <LOC>__{EXT. BRENNAN HOUSE -- CONTINUOUS}
 <ACTION>__{John leans back against the wall, in the middle of the bare room, and listens to his brother's car start and drive away.}
-<ACTION_ALT>__{OMITTED AND                                                                          AND}
+
+<ACTION_ALT>__{AND                                                                          AND}
 <LOC>__{157 INT. JOHN'S BEDROOM -- EVENING}
 <ACTION>__{John stands, staring at his wall, now a vast collage, layer upon layer of photographs and notes. And no answers.}
 <CHAR>__{LUKE } <CHAR_PAR>__{(O.S.)}
@@ -2614,7 +2615,8 @@
 <CHAR>__{DETECTIVE QUINN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(bursts in)}
 <DIAL>__{I got his parents!}
-<ACTION_ALT>__{OMITTED AND                                                                         AND}
+
+<ACTION_ALT>__{AND                                                                         AND}
 <LOC>__{322 INT. PEARSON INTERNATIONAL AIRPORT - TORONTO -- EVENING}
 <ACTION>__{The Brennans enter, pulling their carry-on bags.}
 <LOC>__{INT. PEARSON -- CHECK-IN DESK -- EVENING}

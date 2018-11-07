@@ -196,7 +196,7 @@
 <DIAL>__{I'd like it better in Hawaii.}
 <LOC>__{INT. CARDBOARD BOX - NIGHT}
 <ACTION>__{Jean tries to sleep in the box. RAIN falls heavily onto it. Drops of water hit his face. He wills it to stop. It doesn't. Finally, he can't stand it. Rain forces his blinking eyes open.}
-<LOC>__{INT. BENNY'S APARTMENT -     NIGHT}
+<LOC>__{INT. BENNY'S APARTMENT - NIGHT}
 <ACTION>__{A door opens to reveal Jean's wet face. Benny lets him in. Jean enters a rundown railroad flat crammed with musical instruments, beer cans, and homemade art. There's a couch with a sheet over it. Junk is piled in a corner - mostly art books and drawings. Benny sits down at an electric piano, which he's evidently playing. He sings along, softly, working out the words, concentrating, absorbed. Jean sets his belongings on the couch, walks to a mic stand and starts making up his own words.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{"She loves me. Oh yeah she loves me! She loooooooves me, Oh yeah she loves me!" Bring me some chicken, baby!}
@@ -259,7 +259,7 @@
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{No, I don't. I'm alone. We all are. Especially here. The world's unjust. The respect fools get. The disrespect I get.}
 <CHAR>__{CHRIS} <CHAR_PAR>__{}
-<DIAL>__{What is it you want?    Respect? I have respect for you, just    for making this call. One philosopher said    "Sadness is a sin against the richness    of the world." Think about it. Feel it.}
+<DIAL>__{What is it you want? Respect? I have respect for you, just for making this call. One philosopher said "Sadness is a sin against the richness of the world." Think about it. Feel it.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{You don't even know me. I want real respect.}
 <ACTION>__{He jams a pencil into the electric sharpener and holds the receiver right next to it, giving the guy an earful: RRRRKKKKKKK!!!}
@@ -354,9 +354,9 @@
 <DIAL>__{You've never done this kind of work before, have you?}
 <DIAL_PAR>__{(demonstrating)}
 <DIAL>__{See, this is a regular screwdriver, and this is a Phillips head. The cross thing... I'll tell you later what all the tools are so you'll know.}
-<ACTION>__{A GROUP of people arrives. Albert Milo    comes into view, tailed closely by Rene Ricard and MARY BOONE    - well dressed, petite, intense, 30. Milo, (also about}
-<LOC>__{30), wears    casual clothes splattered with paint. Mary Boone is}
-<ACTION>__{engaged in    conversation with Milo. Rene chatters away. Greg climbs back up the ladder. He holds a piece of wire down to Jean. Jean stares at the group while trying to be invisible.}
+<ACTION>__{A GROUP of people arrives. Albert Milo comes into view, tailed closely by Rene Ricard and MARY BOONE - well dressed, petite, intense, 30. Milo, (also about}
+<LOC>__{30), wears casual clothes splattered with paint. Mary Boone is}
+<ACTION>__{engaged in conversation with Milo. Rene chatters away. Greg climbs back up the ladder. He holds a piece of wire down to Jean. Jean stares at the group while trying to be invisible.}
 <CHAR>__{RENE} <CHAR_PAR>__{}
 <DIAL>__{I need to make a call, Mary. You don't mind, do you?}
 <CHAR>__{MARY BOONE} <CHAR_PAR>__{}
@@ -401,9 +401,9 @@
 <DIAL>__{Excuse me, would you please move those tools?}
 <ACTION>__{Jean looks at Milo. Milo looks back at him. Jean walks past the tools and continues toward the door. He walks out without turning around. Milo smiles to himself.}
 <LOC>__{EXT. BOONE GALLERY - ALBERT MILO OPENING - DUSK}
-<ACTION>__{The ART WORLD CROWD fills the gallery. Jean lurks across the street, watching through the window. Cabs and limousines line the block. A crowd outside blocks the street. Jean's obviously impressed, jealous and estranged -     he feels entitled to all this. He crosses the street to get a closer look.}
+<ACTION>__{The ART WORLD CROWD fills the gallery. Jean lurks across the street, watching through the window. Cabs and limousines line the block. A crowd outside blocks the street. Jean's obviously impressed, jealous and estranged - he feels entitled to all this. He crosses the street to get a closer look.}
 <ACTION_ALT>__{THROUGH THE WINDOW}
-<ACTION>__{He sees Albert Milo    talking with ANDY WARHOL and BRUNO BISCHOFBERGER. Andy,    of course, is thin, silver-haired, and nearly albino. Bruno    is a Swiss art dealer in his 40's. He exudes money - a pillar of    security. On the other side of the room, Rene Ricard is surrounded by a coterie of young, mostly BLACK AND HISPANIC MALES. Rene looks drunk, enjoying the moment, holding court. Rene crosses to Albert and Andy. People pass by. Jean starts to walk. About half a block away, he sprays on a wall: "THE WHOLE LIVERY LINE BOW LIKE THIS WITH THE BIG MONEY ALL CRUSHED INTO THESE FEET" He looks pleased. He turns and looks up West Broadway beyond the buildings at the sky:}
+<ACTION>__{He sees Albert Milo talking with ANDY WARHOL and BRUNO BISCHOFBERGER. Andy, of course, is thin, silver-haired, and nearly albino. Bruno is a Swiss art dealer in his 40's. He exudes money - a pillar of security. On the other side of the room, Rene Ricard is surrounded by a coterie of young, mostly BLACK AND HISPANIC MALES. Rene looks drunk, enjoying the moment, holding court. Rene crosses to Albert and Andy. People pass by. Jean starts to walk. About half a block away, he sprays on a wall: "THE WHOLE LIVERY LINE BOW LIKE THIS WITH THE BIG MONEY ALL CRUSHED INTO THESE FEET" He looks pleased. He turns and looks up West Broadway beyond the buildings at the sky:}
 <ACTION_ALT>__{SUPERIMPOSED IN THE SKY}
 <ACTION>__{We see a surfer emerging from a HUGE WAVE. He looks powerful and exalted.}
 <TRANS>__{CUT TO:}
@@ -417,7 +417,7 @@
 <DIAL>__{Fuck - I didn't think we were actually gonna do this.}
 <CHAR>__{BENNY} <CHAR_PAR>__{}
 <DIAL>__{Concentrate on the ball. Shoot.}
-<ACTION>__{Jean shoots. It flies up, up, up -     and over the backboard. He runs after the ball, gets it, and dribbles clumsily.}
+<ACTION>__{Jean shoots. It flies up, up, up - and over the backboard. He runs after the ball, gets it, and dribbles clumsily.}
 <CHAR>__{BENNY} <CHAR_PAR>__{}
 <DIAL>__{You're shattering all my myths.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
@@ -560,7 +560,7 @@
 <ACTION>__{SUPER: "A YEAR AND A HALF LATER EAST 9TH ST."}
 <TRANS>__{FADE UP:}
 <LOC>__{INT. GINA'S APARTMENT - DAY}
-<ACTION>__{Jean watches "The Little Rascals" on TV in the living room. The sound is turned off and a record player PLAYS Gypsy music loudly. Rolled up in a large drop cloth, Gina is asleep on the floor. Next to her, Jean works on all fours, drawing figures, crowns, and houses. Working feverishly, he writes "HEY, HEY, HEY" in big clusters, then writes other words: SHARK, IMMORTALITY, JOHN THE REVELATOR, FAME, INK, TEETH, HAWAII SUPERMARKET, POLE STAR, BABOON and TAR. He has an acoustics manual and Bible open    on the floor. He copies the technical blueprints from the manual.    He reads the Bible, following the text with a dirty finger. It    seems that he watches TV, draws, listens to the music and reads    at the same time. He mixes Liquitex paints and puts some colors on the drawings. He draws a long blue line and carries it over onto the floor. Up the wall. Through the fridge. Across the window. He takes off his paint-covered clothes and changes into Gina's black slip. He rummages around the room, gathering pieces of his and Gina's clothes. He spreads the clothes on the floor, and selecting wide brushes with long bristles, picks up the cans of Liquitex paint. When paint spills on the clothes, he spreads it into shapes. Gina wakes up. She reaches for one of the painted shirts.}
+<ACTION>__{Jean watches "The Little Rascals" on TV in the living room. The sound is turned off and a record player PLAYS Gypsy music loudly. Rolled up in a large drop cloth, Gina is asleep on the floor. Next to her, Jean works on all fours, drawing figures, crowns, and houses. Working feverishly, he writes "HEY, HEY, HEY" in big clusters, then writes other words: SHARK, IMMORTALITY, JOHN THE REVELATOR, FAME, INK, TEETH, HAWAII SUPERMARKET, POLE STAR, BABOON and TAR. He has an acoustics manual and Bible open on the floor. He copies the technical blueprints from the manual. He reads the Bible, following the text with a dirty finger. It seems that he watches TV, draws, listens to the music and reads at the same time. He mixes Liquitex paints and puts some colors on the drawings. He draws a long blue line and carries it over onto the floor. Up the wall. Through the fridge. Across the window. He takes off his paint-covered clothes and changes into Gina's black slip. He rummages around the room, gathering pieces of his and Gina's clothes. He spreads the clothes on the floor, and selecting wide brushes with long bristles, picks up the cans of Liquitex paint. When paint spills on the clothes, he spreads it into shapes. Gina wakes up. She reaches for one of the painted shirts.}
 <CHAR>__{GINA} <CHAR_PAR>__{}
 <DIAL_PAR>__{(in disbelief)}
 <DIAL>__{Basquiat, those are my best clothes!!! What are you doing?}
@@ -583,7 +583,7 @@
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{Manzanita....}
 <DIAL_PAR>__{(translating song)}
-<DIAL>__{... if one day I die, and    you read this piece of paper, I want you    to know how much I love you. Although I'll    never see you again, Gypsy, Gypsy, your    hair, your hair, your face, your face'}
+<DIAL>__{... if one day I die, and you read this piece of paper, I want you to know how much I love you. Although I'll never see you again, Gypsy, Gypsy, your hair, your hair, your face, your face'}
 <ACTION>__{Gina looks up at him.}
 <CHAR>__{BASQUIAT } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{'Even though you were never mine And you never will be You have a piece of my heart You have, you have, you have...'}
@@ -606,7 +606,7 @@
 <DIAL>__{GUY #1 Nice underwear...}
 <ACTION>__{They start to laugh.}
 <LOC>__{INT. GINA'S APARTMENT - LATER}
-<ACTION>__{Kneeling on the floor,    Jean    covers the surface    of the refrigerator door with    fast,    rushing strokes.    He mixes paint in a large soupbowl and dips    his    hair in the bowl.    Pressing his head to the door, he paints    with    his hair. He stops    to examine the marks. He HITS his head against the door harder and harder.}
+<ACTION>__{Kneeling on the floor, Jean covers the surface of the refrigerator door with fast, rushing strokes. He mixes paint in a large soupbowl and dips his hair in the bowl. Pressing his head to the door, he paints with his hair. He stops to examine the marks. He HITS his head against the door harder and harder.}
 <TRANS>__{FADE TO WHITE:}
 <LOC>__{INT. GINA'S APARTMENT - MORNING}
 <ACTION>__{CAMERA PULLS BACK: Revealing Jean's eyes. They're open and motionless. His head is tilted toward his chest. OFF SCREEN WE HEAR the sounds of Gina coming home: The LOCK turns. The door OPENS. Gina comes in and drops a bag on the floor.}
@@ -737,7 +737,7 @@
 <DIAL>__{Hey, wait up!!!}
 <ACTION>__{Huffing and puffing, he catches up.}
 <CHAR>__{RENE} <CHAR_PAR>__{}
-<DIAL>__{You heard of Albert Milo. I made    that niggah. I'm Rene Ricard. Didn't    you read "Not About Albert Milo?" I know    who to hype. Baby, I'm gonna make you a    star.}
+<DIAL>__{You heard of Albert Milo. I made that niggah. I'm Rene Ricard. Didn't you read "Not About Albert Milo?" I know who to hype. Baby, I'm gonna make you a star.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{Can you put me in the ring with him?}
 <CHAR>__{RENE} <CHAR_PAR>__{}
@@ -754,7 +754,7 @@
 <CHAR>__{RENE} <CHAR_PAR>__{}
 <DIAL>__{Sounds famous already.}
 <LOC>__{INT. PS 1 SHOW - DAY}
-<ACTION>__{INSERT:   A huge poster reads: "NEW YORK / NEW WAVE}
+<ACTION>__{INSERT: A huge poster reads: "NEW YORK / NEW WAVE}
 <LOC>__{100 ARTISTS"}
 <ACTION>__{CLOSE ON: A HAMMER, POUNDING Jean pounds a nail into one of his pieces, nailing it directly onto the wall. Everyone stares.}
 <CHAR>__{RENE} <CHAR_PAR>__{}
@@ -978,7 +978,7 @@
 <LOC>__{INT - BASEMENT, ANNINA'S - DAY (LATER)}
 <ACTION>__{GRANDMASTER FLASH'S "WHITE LINES" fills the room. The walls are covered with half-finished, unstretched CANVASES. Two or three more lie on the floor. He works like a maniac, buzzing back and forth from one painting to another, adding figures, crossing out words, all the while smoking and eating cookies. The crumbs fall onto the paintings. He walks on them. Every so often, he refers to a book of DaVinci drawings. Torn pages litter the floor beneath the book. We hear someone THUMPING down the stairs. It's Rene. A PUPPY follows him. He dumps a huge load of paint supplies, art books, and carryout ribs. The puppy sniffs around happily, licking at Jean and walking over the paintings, wagging his tail. He stops the tape player and inserts some Persian music. Jean empties some foil-wrapped bags of coke. He cuts a line of coke on a foil plate. Rene starts reading from a poem he's evidently written:}
 <CHAR>__{RENE} <CHAR_PAR>__{}
-<DIAL>__{3rd night I called    him 'boy' He sed "don't call    me 'boy'" "Well Then don't call me    'Boss'" That Was the end for us    and I've Been seeing him for    2 1/2 years. In kangaroo court I    want to be Able to say I never kept a Slave. But he tricked me in To Tying him up and busting his Face. He'll jump up at my Trial Yelling 'He wupped me gud.'}
+<DIAL>__{3rd night I called him 'boy' He sed "don't call me 'boy'" "Well Then don't call me 'Boss'" That Was the end for us and I've Been seeing him for 2 1/2 years. In kangaroo court I want to be Able to say I never kept a Slave. But he tricked me in To Tying him up and busting his Face. He'll jump up at my Trial Yelling 'He wupped me gud.'}
 <ACTION>__{Jean warms the plate 'til the coke crackles, and then "chases the dragon," sucking the smoke through a straw. He offers it to Rene, who refuses. He lights and hands Rene the joint. Rene takes a hit. Jean takes it back. Jean starts to work again. The PUPPY runs around, chasing after him, getting in his way, running across the paintings. Jean laughs, playing tag. The puppy gets a hold of Jean's sleeve. It unravels about ten feet. While Jean's playing, Rene spots a painting with the words "Famous Negro Athletes."}
 <CHAR>__{RENE} <CHAR_PAR>__{}
 <DIAL>__{Oh man! That's one looks famous already.}
@@ -1203,7 +1203,7 @@
 <CHAR>__{VOICES IN CROWD} <CHAR_PAR>__{}
 <DIAL>__{Jean!!! Jean Michel!!!}
 <LOC>__{INT. ANNINA NOSEI GALLERY}
-<ACTION>__{Annina    beckons to him. Beyond her, he sees Albert, Andy, and Bruno.    He's being escorted or maybe just pushed - it's hard to tell.    Each step of the way, he's pounced upon by INDIVIDUALS we've    never met. The room is wall-to-wall with people. People are swept    along in currents.}
+<ACTION>__{Annina beckons to him. Beyond her, he sees Albert, Andy, and Bruno. He's being escorted or maybe just pushed - it's hard to tell. Each step of the way, he's pounced upon by INDIVIDUALS we've never met. The room is wall-to-wall with people. People are swept along in currents.}
 <CHAR>__{MAN} <CHAR_PAR>__{}
 <DIAL_PAR>__{(wildly enthusiastic)}
 <DIAL>__{Jean, man!!! Let's make a record!}
@@ -1441,7 +1441,7 @@
 <ACTION_ALT>__{ANGLE ON}
 <ACTION>__{Esther Milo, watching.}
 <CHAR>__{RENE } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{I'm starving. You can't buy    advertising like this. This is the most    glamorous dinner you'll have here this    fall. How about some of that imitation    crab?}
+<DIAL>__{I'm starving. You can't buy advertising like this. This is the most glamorous dinner you'll have here this fall. How about some of that imitation crab?}
 <CHAR>__{MR. CHOW} <CHAR_PAR>__{}
 <DIAL>__{I'm not paying for the drawing with crab. It's a present to my friends. It's my birthday.}
 <ACTION>__{Jean finishes his drawing - a big beautiful head that fills the screen. Rene grabs it from him. He holds it up for everyone to see.}
@@ -1479,10 +1479,10 @@
 <DIAL_PAR>__{INTERVIEWER (O.S, CONT'D)}
 <DIAL>__{... had over fifty articles written about you, switched galleries - how many times? - DJ'd in the hottest clubs -}
 <ACTION>__{Jean looks out the window, yawns and rubs his eyes. He now sports dreadlocks bundled into groups of spikes sticking out of his head. He wears a wrinkled Wesleyan College T-shirt, paint- splattered jeans, and no shoes; just out of bed, it would seem. An INTERVIEWER - a balding Brit with all the humor of a bank clerk - tries to buddy up with Jean on camera.}
-<CHAR>__{INTERVIEWER   } <CHAR_PAR>__{(CONT'D)}
-<DIAL>__{... one of the youngest    artists ever to be included in the Whitney    Biennial, also produced a rap record.    It's said you're quite the ladies man -    even dated Madonna for a couple months!!!}
+<CHAR>__{INTERVIEWER } <CHAR_PAR>__{(CONT'D)}
+<DIAL>__{... one of the youngest artists ever to be included in the Whitney Biennial, also produced a rap record. It's said you're quite the ladies man - even dated Madonna for a couple months!!!}
 <DIAL_PAR>__{(takes a breath)}
-<DIAL>__{All at the ripe old age    of 24. One might ask: is there anything    left for Jean Michel Basquiat to do?}
+<DIAL>__{All at the ripe old age of 24. One might ask: is there anything left for Jean Michel Basquiat to do?}
 <ACTION>__{Jean and the interviewer face each other in front of one of Jean's paintings. Jean stares at the interviewer, incredulous.}
 <CHAR>__{INTERVIEWER } <CHAR_PAR>__{(CONT'D)}
 <DIAL>__{What is it that gets you out of bed in the morning?}
@@ -1654,7 +1654,7 @@
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{Let's leave this town and go someplace. Some island.}
 <CHAR>__{ANDY WARHOL} <CHAR_PAR>__{}
-<DIAL>__{Let's go to    the Carnegie Museum. They have the world's    most famous sculptures all in these giant    plaster replicas. It's really great. It's    in Pittsburg.}
+<DIAL>__{Let's go to the Carnegie Museum. They have the world's most famous sculptures all in these giant plaster replicas. It's really great. It's in Pittsburg.}
 <LOC>__{EXT. STREET - - DAY}
 <ACTION>__{They walk out of the beauty salon.. Jean sees the back of a girl. She looks a lot like Gina.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
@@ -1822,8 +1822,8 @@
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{People are only interested in you because you're famous, not because they know a fuckin' thing about your work.}
 <ACTION>__{Jean paints out part of Andy's logo.}
-<CHAR>__{ANDY    WARHOL} <CHAR_PAR>__{}
-<DIAL>__{Bruno called. In    Europe, people are saying you're gonna die    from drugs. They think they can cash in    on your death.}
+<CHAR>__{ANDY WARHOL} <CHAR_PAR>__{}
+<DIAL>__{Bruno called. In Europe, people are saying you're gonna die from drugs. They think they can cash in on your death.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{When I was poor, everybody doubted I could make it. When I got rich, everyone said, `yeah, but he'll never keep it up.' Now everyone says `he's killing himself.' So I clean up, and then they say `Look. His art's dead.' I don't take drugs, anyway. I'm healthy now.}
 <ACTION>__{Jean obliterates Andy's logo.}
@@ -2205,7 +2205,7 @@
 <CHAR>__{BENNY } <CHAR_PAR>__{(O.S.)}
 <DIAL>__{Willie Mays.}
 <TRANS>__{FADE IN:}
-<LOC>__{EXT. STREET -   MORNING}
+<LOC>__{EXT. STREET - MORNING}
 <ACTION>__{Jean has been passed out on a sidewalk. CLOSE ON: Benny's face. He leans over Jean and helps him up.}
 <CHAR>__{BASQUIAT} <CHAR_PAR>__{}
 <DIAL>__{Willie Mays... Nice to see you.}

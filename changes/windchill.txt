@@ -92,7 +92,7 @@
 <DIAL>__{No, we're just rolling out...}
 <DIAL_PAR>__{(listens)}
 <DIAL>__{... Believe me, I tried, but I couldn't get a flight. It's my own fault for waiting `til the last minute...}
-<ACTION>__{& 10   OMITTED                                                    9 &}
+
 <LOC>__{INT./EXT. OLDSMOBILE - DUSK}
 <ACTION>__{She looks out at the passing landscape as they cruise south on the interstate. The road is wet, though the snow hasn't yet started to stick.}
 <CHAR>__{GIRL} <CHAR_PAR>__{}
@@ -365,7 +365,7 @@
 <CHAR>__{GUY} <CHAR_PAR>__{}
 <DIAL>__{I don't take money from friends.}
 <ACTION>__{Since when are they friends? They separate, walking around to their respective sides of the car. She tries the passenger door handle, only to find it stuck. She rolls her eyes, waits for him to open it from the inside.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. OLDSMOBILE - NIGHT}
 <ACTION>__{She stares out at the road ahead, lulled by the sound of the windshield wipers sweeping snowflakes from side to side.}
 <TRANS>__{HER POV:}
@@ -924,7 +924,7 @@
 <DIAL_PAR>__{(defensive)}
 <DIAL>__{I'm sorry, but who could prepare for something like this?! I've got a complete winter wardrobe, it's just in Delaware... And no, that doesn't make me a flake!}
 <ACTION>__{He unzips his suitcase.      Starts pulling out Ragg socks, long- sleeve pullovers, etc. He shoves a ball of clothes into her hands without a word.}
-<ACTION_ALT>__{OMITTED}
+
 <LOC>__{INT. STRANDED OLDSMOBILE - NIGHT}
 <ACTION>__{The kids have retreated to the front- and back seats for privacy while they change. Not an easy proposition in the cramped quarters. She strips down to bra and panties as demurely as possible. Puts on his insulated underwear and the rest of their things. He slips on his woefully inadequate shirts and pants. It's obvious he gave the warmest stuff to her. Also that he took the backseat because it's more cramped than the front. Once they're finished dressing he reaches up, switches off the interior light. They lie in the blue darkness for a few moments of silence, watching their breath plume in the cold air. [Note: from this point on, their breath will always be visible in the car.] He hears her sigh, restless.}
 <CHAR>__{GUY} <CHAR_PAR>__{}
@@ -1339,13 +1339,13 @@
 <DIAL>__{You will get a sen-ti-men-tal fee- ling when you hear... Voices singing "Let's be jolly, DECK the halls with boughs of holly"...}
 <ACTION>__{The car's rear window brightens with APPROACHING HEADLIGHTS of a highway patrol car, it's strobe light flooding the Oldsmobile's interior with RED. From our girl's eyes going crazy in R.E.M.-pattern we--}
 <TRANS>__{SMASH CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{NIGHTMARE - EXT. WOODS - NIGHT (1958) In a SERIES OF HALLUCINATORY SHOTS we see the BLONDE'S LIFELESS BODY -- shoeless, dress torn -- being dragged through the undergrowth and left in a secluded wooded spot. The COP kicks leaves and dirt over the body, then exits.}
 <TRANS>__{BACK TO:}
 <LOC>__{INT. STRANDED OLDSMOBILE - AS BEFORE}
 <ACTION>__{CLOSE ON the RADIO, midway through "Rockin' Around the Christmas Tree..." Our guy listens to the CRUNCH CRUNCH CRUNCH of the cop's boots outside in the snow, circling the snowbound Oldsmobile. Whistling along with the song that always accompanies him. Suddenly the dashboard air vents all OPEN SIMULTANEOUSLY. A gust of supernaturally frigid cold blows in, like the icy breath of Old Man Winter himself. White frost spreads with time-lapse velocity from the air vents across the dashboard. Our guy scrambles up front, slapping the air vents closed. Begins ripping off strips of duct tape to plaster over the vents to keep out the lethal chill. CLOSE ON OUR GIRL as her nightmare becomes even more violent-}
 <TRANS>__{SMASH CUT TO:}
-<ACTION_ALT>__{OMITTED}
+
 <ACTION>__{NIGHTMARE - EXT. WOODS / STREAM - NIGHT (1956) Another night, and a different victim. In a SERIES OF SHOTS we see: the black STRANGER pleading for his life as his WRISTS and ANKLES are bound roughly with baling wire by the COP. Ignoring the stranger's desperate pleas, the cop drags him by the bound wrists through the woods and shoves him down a muddy incline. He splashes facedown in a shallow stream.}
 <TRANS>__{BACK TO:}
 <LOC>__{INT. STRANDED OLDSMOBILE - AS BEFORE}
@@ -1634,7 +1634,7 @@
 <CHAR>__{SNOWPLOW DRIVER} <CHAR_PAR>__{}
 <DIAL>__{Tragic story. Winter of `61 they were all found froze to death in their beds...}
 <TRANS>__{QUICK CUT TO:}
-<ACTION>__{& 92 OMITTED                                                  91 &}
+
 <LOC>__{INT. DORMITORY - NIGHT (1960)}
 <ACTION>__{ELDERLEY PRIESTS lie motionless in their beds, FACES frozen in blue rictus deathmasks.}
 <TRANS>__{BACK TO:}

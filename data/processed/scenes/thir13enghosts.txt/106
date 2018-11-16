@@ -1,0 +1,196 @@
+<L>__{interior main floor library}
+<A>__{they stumble in.}
+<C>__{arthur}
+<D>__{so much for quicksilver...}
+<C>__{kalina}
+<D>__{we should be safe in here...}
+<A>__{arthur lands on the couch, in pain. maggie's by his side. rafkin bangs on the glass, pissed.}
+<C>__{rafkin}
+<D>__{shit, you'd think i'd be used to these things by now.}
+<C>__{kalina}
+<D>__{they don't seem to like you either...}
+<A>__{kalina takes a seat at the desk, begins reading through her book.}
+<C>__{kalina}
+<D>__{... i wonder why.}
+<C>__{rafkin}
+<D>__{look, you got something to say, spit it out.}
+<C>__{kalina}
+<D>__{alright... let's start with... this is all your fault! if you hadn't caught them, we wouldn't be running from them now, would we?}
+<C>__{rafkin}
+<D>__{hey, i didn't build this house. blame his crazy uncle for that one.}
+<C>__{kalina}
+<D>__{but you helped him. how could you help him without knowing what he was up to?}
+<C>__{rafkin}
+<D>__{i had my reasons.}
+<C>__{kalina}
+<D>__{you stole people's souls for money. how depraved is that?}
+<C>__{rafkin}
+<D>__{before that i was working for a psychic hotline. try that for depraved.}
+<P>__{(beat)}
+<D>__{look, cyrus took me in when no one else would. in case you haven't noticed... i... am... a... freak. dead people give me migraines. i can't touch a single person without suddenly seeing all their problems.}
+<P>__{(beat)}
+<D>__{do you know how lonely that is? no one accepted me except him.}
+<C>__{kalina}
+<D>__{he didn't accept you. he used you.}
+<A>__{rafkin looks away, ashamed.}
+<C>__{arthur}
+<P>__{(to kalina)}
+<D>__{look, cut me some slack, what difference does it make? these things are all killers anyway, so what do we care?}
+<A>__{a beat passes, kalina turns to rafkin }
+<C>__{kalina}
+<D>__{you didn't tell him, did you?}
+<A>__{rafkin lowers his head.}
+<C>__{arthur}
+<D>__{tell me what?}
+<C>__{kalina}
+<D>__{about the fourth ghost?}
+<C>__{rafkin}
+<D>__{don't do this.}
+<C>__{kalina}
+<D>__{he has a right to know.}
+<C>__{arthur}
+<P>__{(concerned)}
+<D>__{what about the fourth ghost?}
+<C>__{kalina}
+<D>__{let me help you out... st. luke's hospital, six months ago.}
+<A>__{the realization hits arthur hard. he turns to rafkin.}
+<C>__{arthur}
+<D>__{jean's... here...?}
+<C>__{rafkin}
+<D>__{i had no idea she was your wife, arthur, i swear.}
+<A>__{arthur clocks rafkin with a roundhouse punch, sending him flying over the couch.}
+<C>__{arthur}
+<D>__{why? she never hurt anyone...}
+<C>__{rafkin}
+<D>__{i don't know... cyrus handpicked every one of 'em. your wife included. when i realized who you were i tried to help }
+<C>__{arthur}
+<D>__{tried to help?! we're trapped, my kids are missing, my wife, who should be resting in peace, is being held hostage by the house from hell, and you call this help?! she's right. this is all your goddamn fault.}
+<A>__{rafkin takes the scolding. arthur paces the room.}
+<C>__{arthur}
+<D>__{son of a bitch!}
+<C>__{kalina}
+<D>__{there is a way to save her, arthur. and your kids, too.}
+<A>__{arthur stops pacing. turns to her }
+<C>__{kalina}
+<D>__{this house... it isn't a house, it's a machine. it's a complete recreation of basileus' design.}
+<P>__{(reading from the book)}
+<D>__{according to this, there should only be twelve earthbound spirits trapped inside here.}
+<A>__{arthur walks over and she shows him the book.}
+<C>__{kalina}
+<P>__{(re: book)}
+<D>__{you see these? they're the black zodiac. they represent the different ghosts that cyrus needed to catch. (reading) the withered lover, the first born son, the torn prince. and here... the bound lady, the great child and the dire mother... the suicide, the torso, and the buried maiden... then there's the three death signs, the sign of hell's winter... the hammer, the hyena, and the juggernaut...}
+<A>__{as kalina counts through the ghosts of arthur, forever the math teacher, instinctively counts them off on his fingers. kalina flips through a few more pages.}
+<C>__{kalina}
+<D>__{according to basileus, this machine requires the energy of these specific spirits in order to bring it to life. once engaged, the spirits are freed one by one, each adding its energy to the machine... powering it up.}
+<C>__{arthur}
+<D>__{powering it up for what?}
+<C>__{kalina}
+<D>__{to open the ocularis infernum.}
+<C>__{rafkin}
+<D>__{the ocularis? what's that?}
+<C>__{arthur}
+<D>__{it's latin. it means the eye of hell.}
+<C>__{maggie}
+<D>__{the eye of hell?}
+<C>__{rafkin}
+<D>__{come on, arthur. this is bullshit.}
+<C>__{maggie}
+<D>__{i saw a man carrying his own head. the eye of hell isn't a stretch.}
+<C>__{arthur}
+<D>__{go on.}
+<C>__{kalina}
+<D>__{in hell, there's an eye that sees the whole world. past and future, heaven and earth, the blessed and the damned. if knowledge is power, then the man who controls the ocularis would be the most powerful man on earth. your uncle was planning to become god.}
+<A>__{a beat passes...}
+<C>__{arthur}
+<D>__{so how many ghosts have been set free? kalina checks the book.}
+<C>__{kalina}
+<D>__{eleven.}
+<C>__{arthur}
+<D>__{and it needs twelve ghosts to power it up?}
+<A>__{rafkin shakes his head.}
+<C>__{rafkin}
+<D>__{uh uh. uh uh. what about this thirteenth ghost? even damon mentioned it.}
+<C>__{kalina}
+<D>__{it's a fail safe. yes. in order to stop the process. the house needs a sacrifice of life, instead of death.}
+<P>__{(beat)}
+<D>__{a willing... human... sacrifice. the sacrifice of the broken heart.}
+<A>__{all eyes turn on arthur.}
+<C>__{rafkin}
+<D>__{... the thirteenth ghost...?}
+<C>__{kalina}
+<D>__{exactly. the thirteenth spirit stands before the eye as the final configuration culminates. as the eye opens, the spirit uses the power of life to, essentially, short circuit the system.}
+<C>__{arthur}
+<D>__{uses the 'power of life'...?}
+<A>__{kalina swallows hard.}
+<C>__{kalina}
+<D>__{by leaping into the eye.}
+<C>__{arthur}
+<D>__{thanks for painting the picture.}
+<C>__{rafkin}
+<P>__{(scoffing)}
+<D>__{power of life...}
+<P>__{(re: her book)}
+<D>__{let me see that...}
+<A>__{rafkin studies the book, looking at it from different angles. it's obvious he doesn't know what he's looking at. a beat passes...}
+<C>__{maggie}
+<D>__{isn't there any other way?}
+<C>__{kalina}
+<D>__{we can try it the old fashioned way... but nobody's going to be able to brag about it later.}
+<A>__{she opens her bag. shows maggie and rafkin the dynamite. a long beat passes...}
+<C>__{kalina}
+<D>__{whatever we decide, we have to come up with a game plan soon. time's running out.}
+<A>__{rafkin takes a seat next to arthur on the couch. kalina's out of earshot, working out their plan. arthur thinking, while fidgeting with rafkin's power and light tool belt, left there from before.}
+<C>__{rafkin}
+<D>__{hey, i know why you feel you have to do this...}
+<C>__{arthur}
+<D>__{get away from me.}
+<C>__{rafkin}
+<D>__{psychics call it linking... we linked earlier. i know everything. about jean. about you...}
+<C>__{arthur}
+<D>__{shut up.}
+<C>__{rafkin}
+<D>__{believe me. you did the right thing.}
+<C>__{arthur}
+<D>__{i'm not gonna listen to this from you.}
+<C>__{rafkin}
+<D>__{but kalina's talking suicide, arthur.}
+<C>__{arthur}
+<D>__{yeah, and if it saves my kids }
+<C>__{rafkin}
+<D>__{but how do you know she's right? think about it for a second. it just doesn't add up.}
+<C>__{arthur}
+<D>__{and what does? huh, dennis? how much of this fucking equation makes sense!? you got a better idea because i'm fresh out of sanity at the moment!?}
+<C>__{rafkin}
+<D>__{just think about it for a minute, that's all.}
+<C>__{arthur}
+<D>__{in case you haven't been counting i'm out of time here. there aren't many options to consider, mr. psychic.}
+<C>__{rafkin}
+<D>__{what happend to kathy and bobby's options? you gonna give up on those, too?}
+<A>__{arthur grabs rafkin by the shirt and pins him to the wall.}
+<C>__{arthur}
+<D>__{you can go to hell!! you hear me, you son of a bitch!! to hell. all i can think about are my kids. goddammit, i don't even know if they're alive...}
+<A>__{arthur is just about to lose it when rafkin approaches.}
+<C>__{rafkin}
+<D>__{then let's find out, arthur. for them. while there's still time. so you'll know. so we'll all know.}
+<A>__{after listening to rafkin, arthur recollects himself. one last time.}
+<C>__{arthur}
+<P>__{(to kalina)}
+<D>__{no matter what happens to me, to us all, do you think you can stop the machine?}
+<C>__{kalina}
+<D>__{i got enough dynamite here to blow this place back to the fifteenth century if that's the question?}
+<C>__{arthur}
+<D>__{okay. how many flares do you have left?}
+<C>__{kalina}
+<D>__{one. why?}
+<C>__{arthur}
+<D>__{we're going out again.}
+<C>__{maggie}
+<D>__{arthur! that's crazy!! those things out there will kill you!}
+<C>__{arthur}
+<D>__{not if we take that.}
+<A>__{arthur points at one of the doors in the library. he and rafkin remove the hinges off the spell etched glass door, using the tools from the belt. written inside are the spells. he hands the door to rafkin.}
+<C>__{rafkin}
+<D>__{alright... we got ourselves a captain america shield baby.}
+<C>__{kalina}
+<D>__{you have about ten minutes before the last ghost is released and the ectoplasmic shit hits the cosmic fan.}
+<A>__{arthur nods. maggie and arthur share a last look, then follow rafkin out the door of the library.}

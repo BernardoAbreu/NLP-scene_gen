@@ -1,0 +1,31 @@
+<L>__{exterior doc's office macreedy}
+<A>__{walks up the steps and enters.}
+<L>__{interior doc's office}
+<A>__{dark and shadowy. at the far end of a hallway an insipid light bulb burns. macreedy goes toward it, entering...}
+<L>__{interior doc's lab}
+<A>__{devoted to the care and preservation of the dear departed. in the center of the room is a long rectangular slab stained with the juices of those unfortunates who have had occasion to rest thereon. the walls are lined with rickety bookcases jammed, not with volumes, but with the jugs and jars, the chemicals and unguents of doc's multiple callings. in a corner three or four neat pine boxes are stacked one on the other. doc sits at a cluttered desk feeding a large bowl of goldfish and sipping a glass of milk. he looks up as macreedy enters.}
+<C>__{doc}
+<D>__{hi. pull up a chair.}
+<C>__{macreedy}
+<P>__{(nodding)}
+<D>__{can i use your phone?}
+<C>__{doc}
+<D>__{help yourself.}
+<P>__{(chuckles)}
+<D>__{you know, you're one of the few people who's ever been back here i can say that to.}
+<A>__{macreedy reaches for the phone book.}
+<C>__{doc}
+<D>__{it's 4 2 4.}
+<C>__{macreedy}
+<P>__{(pausing)}
+<D>__{what's 4 2 4?}
+<C>__{doc}
+<D>__{if i've got you pegged and i think i have you're calling the state police. but if i was you and i'm purely glad i'm not i'd look it up myself.}
+<P>__{(emphatically)}
+<D>__{i wouldn't trust anybody around here, including me.}
+<A>__{macreedy thinks it over and comes to a swift decision. he checks the phone book. then, picking up phone...}
+<C>__{macreedy}
+<P>__{(to doc)}
+<D>__{thanks.}
+<P>__{(into receiver)}
+<D>__{4 2 4.}

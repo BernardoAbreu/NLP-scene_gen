@@ -1,0 +1,44 @@
+<L>__{180. interior williams' living room night}
+<A>__{sandy gives him a concerned look. jeffrey follows detective williams to his study.}
+<L>__{181. interior detective williams study night}
+<A>__{he closes the door behind him.}
+<C>__{detective williams}
+<D>__{okay?}
+<C>__{jeffrey}
+<D>__{okay. i gotta tell you. i've. discovered some things. .anyway i have to show you some pictures and tell you some things about them. the first picture is this.}
+<A>__{he shows him the picture of frank and studies detective williams' face as he sees it.}
+<C>__{jeffrey}
+<P>__{(continuing)}
+<D>__{this is frank booth. his address is on the back of the photo. he, in my opinion, is very sick and dangerous. this photo here is of frank with another man as they went into frank's apartment.}
+<A>__{jeffrey casually hands the photo over and watches detective williams' face extra carefully. detective williams doesn't flinch, yet his eyes slowly glide upwards to meet jeffrey's.}
+<C>__{jeffrey}
+<P>__{(continuing)}
+<D>__{and that man came out with a third man this well dressed guy. here's the photo. i think a girl named dorothy vallens is in trouble with these people. i think frank has taken her husband and her son.}
+<C>__{jeffrey}
+<P>__{(continuing)}
+<D>__{i have no hard proof of any of this. her address is also on the photos. i think these people are involved with drugs. and murder. i think frank is killing drug dealers and.}
+<P>__{(he decides not to tell detective williams everything)}
+<D>__{. and somehow frank is getting all their drugs. i had to tell you i got slightly more involved in this than you wanted me to, but it's over now for sure. .i had to tell you about these things in case it could help.}
+<C>__{detective williams}
+<D>__{well now jeffrey, how did you come to get so involved?}
+<C>__{jeffrey}
+<D>__{i can't tell you the whole story. i. i took it upon myself. i can't say more.}
+<C>__{detective williams}
+<D>__{is sandy part of this?}
+<C>__{jeffrey}
+<D>__{no. not at all.}
+<C>__{detective williams}
+<P>__{(referring to the photos)}
+<D>__{who knows you have these?}
+<C>__{jeffrey}
+<D>__{only you. and the photo lab.}
+<C>__{detective williams}
+<D>__{you're all through with this now?}
+<C>__{jeffrey}
+<D>__{yes sir. i sure am.}
+<A>__{detective williams studies jeffrey, then the photos.}
+<C>__{detective williams}
+<D>__{for now. alright. you better be. and sandy better not be involved with this, i can tell you. be prepared to come in for further interrogation on this later.}
+<C>__{jeffrey}
+<D>__{yes sir.}
+<A>__{jeffrey leaves the study.}

@@ -1,0 +1,83 @@
+<T>__{cut to:}
+<L>__{interior picard's quarters}
+<A>__{picard is standing at the replicator.}
+<C>__{picard}
+<D>__{tea. earl grey. hot.}
+<A>__{the cup of tea appears in the replicator and at the same moment, the door chimes.}
+<C>__{picard}
+<D>__{come.}
+<A>__{troi enters. picard would rather not be bothered right now, but he is polite as always.}
+<C>__{picard}
+<D>__{counselor. what can i do for you?}
+<C>__{troi}
+<D>__{actually... i'm here to see if there's anything i can do for you.}
+<C>__{picard}
+<D>__{well... i appreciate your concern, but i'd rather not discuss it right now, thank you.}
+<A>__{but troi won't be brushed away so easily.}
+<C>__{troi}
+<D>__{i'm afraid i can't just leave it at that. the commanding officer of this ship is clearly distraught about something. as ship's counselor, it's my duty to }
+<C>__{picard}
+<D>__{as ship's counselor, it's your duty to know not only when you're needed... but also when you're not.}
+<C>__{troi}
+<D>__{you can't fool an empath, captain. i know exactly when i'm needed.}
+<A>__{picard is really not in the mood for this. his tone hardens.}
+<C>__{picard}
+<D>__{well, with all due respect to your betazoid senses, i prefer to be alone right now.}
+<C>__{troi}
+<D>__{very well. i suppose i could make out my weekly report to starfleet command without your input.}
+<P>__{(beat)}
+<D>__{"admiral lusby... regarding the unusual behavior of jean luc picard: i find him increasingly irritable... remote... and uncooperative. i recommend forced shore leave at a starbase facility in order to "}
+<C>__{picard}
+<D>__{all right, all right. you've made your pointerior}
+<A>__{troi takes a seat and patiently waits. picard gets up.moves around the room for a moment...and stops. he speaks in a flat, unemotional tone of voice.}
+<C>__{picard}
+<D>__{the message i received...}
+<P>__{(beat)}
+<D>__{my brother... and his son my nephew burned to death in a fire.}
+<A>__{troi reacts, genuinely surprised.}
+<C>__{troi}
+<D>__{captain, i'm sorry.}
+<P>__{(beat)}
+<D>__{i know there were a lot of unresolved conflicts between you and your brother.}
+<C>__{picard}
+<D>__{what i can't get out of my mind is the image of rene my nephew. i just can't believe he's gone...}
+<A>__{he trails off.}
+<C>__{troi}
+<D>__{it's only natural to feel a heightened sense of tragedy when a child dies...}
+<P>__{(sensing more)}
+<D>__{but it goes deeper than that, doesn't it? i can sense that rene meant a great deal to you.}
+<C>__{picard}
+<D>__{in a way, he was as close as i ever came to having a child of my own.}
+<A>__{troi eyes an open photo album on the table. she reaches over and flips through the pages for a moment. there are many photos inside... from many periods in time including one of picard's brother standing next to his young son. this is the picard family album.}
+<C>__{troi}
+<D>__{your family history is very important to you, isn't it?}
+<C>__{picard}
+<P>__{(nods)}
+<D>__{ever since i was a little boy, i remember hearing about the family line. the picards that fought at trafalgar... the picard's that settled the first martian colony. when my brother married and had a son...}
+<A>__{picard hesitates this is difficult for him.}
+<C>__{troi}
+<D>__{... you felt it was no longer your responsibility to carry on the family line.}
+<C>__{picard}
+<P>__{(nods)}
+<D>__{my brother had shouldered that burden... allowing me to pursue my own selfish needs...}
+<C>__{troi}
+<D>__{there's nothing selfish about pursuing your own life... your own career.}
+<A>__{picard moves to the window, stares outside. a shadow crosses his face. he's getting to the heart of the matter.}
+<C>__{picard}
+<D>__{you know, counselor... i'm not getting any younger. for some time now, i've been aware that there are fewer days ahead than there are behind...}
+<P>__{(beat)}
+<D>__{but i always took comfort in the fact that when i was gone, my family would continue. but now...}
+<A>__{picard moves back to the photo album, open it to the last page, an then flips through the remaining pages they are blank.}
+<C>__{picard}
+<D>__{i've had brushes with death... more than i care to contemplate. i always accepted it as a calculated risk that goes along with wearing this uniform.}
+<P>__{(beat)}
+<D>__{but now... the idea of death has a terrible sense of finality to it.}
+<A>__{he looks at her.}
+<C>__{picard}
+<D>__{i'm the last picard.}
+<A>__{a quiet beat as troi considers him.}
+<C>__{troi}
+<D>__{captain, perhaps we }
+<A>__{suddenly, a blinding burst of light from outside the windows washes into the room. troi and picard rush to the window and shield their eyes against the glare.}
+<C>__{riker's com voice}
+<D>__{red alert! all hands to duty stations!}

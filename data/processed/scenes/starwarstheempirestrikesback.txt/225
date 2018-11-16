@@ -1,0 +1,17 @@
+<L>__{interior gantry outside control room reactor shaft}
+<A>__{luke falls onto the gantry, rolls, and hangs over the edge, holding his deactivated sword in hand. he puts the sword on his belt and begins to scramble up.}
+<L>__{interior cloud city corridor leading to landing platform}
+<A>__{leia, lando, chewie and the droids come round a corner and head for the door to the landing platform. they glimpse the millennium falcon for a moment before the door slams shut. the group ducks into an alcove as stormtroopers arrive at the end of the corridor. the troopers send a rain of laser bolts at the group. chewie returns their fire as lando punches desperately at the door's control panel.}
+<C>__{lando}
+<D>__{the security codes has been changed!}
+<C>__{threepio}
+<D>__{artoo, you can tell the computer to override the security system.}
+<A>__{threepio points to a computer socket on the control panel. artoo beeps and scoots toward it. lando meanwhile has connected up to the panel's intercom.}
+<C>__{lando}
+<D>__{attention! this is lando calrissian. the empire has takes control of the city. i advise everyone to leave before more imperial troops arrive.}
+<A>__{artoo takes off a computer cover and sticks his computer arm into the socket. suddenly, a short beep turns into a wild scream. artoo's circuits light up, his head spins wildly, and smoke begins to seep out underneath him. quickly, chewie pulls him away.}
+<C>__{lando}
+<D>__{this way.}
+<A>__{lando, leia, artoo, and chewie flee down the corridor. as he scoots along with them, artoo sends some angry beeps threepio's way.}
+<C>__{threepio}
+<D>__{don't blame me. i'm an interpreter. i'm not supposed to know a power socket from a computer terminal.}

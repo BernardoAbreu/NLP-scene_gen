@@ -1,0 +1,114 @@
+<L>__{interior henry's apartment dawn}
+<A>__{henry's still in his clothes, lying on his bed, his mind reeling, the tv on low.... he gets out of bed. puts his foot in his boot.}
+<C>__{prison guard }
+<D>__{max! you've got a visitor.}
+<L>__{interior visitor's area day}
+<A>__{henry sits at a visitor's table, waiting. a moment passes, a door clanks open and }
+<C>__{max}
+<A>__{emerges with a guard.}
+<C>__{max}
+<D>__{i thought i told you i didn't want to see your face again.}
+<A>__{henry smiles.}
+<C>__{henry}
+<D>__{nice to see you too.}
+<A>__{he goes to hug him.}
+<C>__{guard}
+<D>__{no contact.}
+<A>__{they sit. they look at each other a moment.}
+<C>__{henry}
+<D>__{i figured it out.}
+<C>__{max}
+<D>__{what?}
+<C>__{henry}
+<D>__{my destiny.}
+<C>__{max}
+<D>__{good. what is it?}
+<A>__{a beat. henry leans in.}
+<C>__{henry}
+<D>__{the bank.}
+<C>__{max}
+<D>__{the bank is your destiny?}
+<C>__{henry}
+<D>__{yeah.}
+<C>__{max}
+<D>__{what bank?}
+<C>__{henry}
+<D>__{the one i didn't rob.}
+<A>__{pause.}
+<C>__{max}
+<D>__{but you went to jail for it.}
+<C>__{henry}
+<D>__{exactly.}
+<C>__{max}
+<D>__{what are you talking about henry?}
+<A>__{henry looks around. closer }
+<C>__{henry}
+<D>__{i did the time, i may as well have done the crime.}
+<C>__{max}
+<D>__{ah, that. time. crime. right.}
+<P>__{(then)}
+<D>__{i still don't get it.}
+<A>__{pause.}
+<C>__{henry}
+<D>__{i need your help.}
+<C>__{max}
+<D>__{what for?}
+<C>__{henry}
+<P>__{(a whisper)}
+<D>__{to rob the bank.}
+<A>__{pause.}
+<C>__{henry }
+<D>__{so what do you say?}
+<C>__{max}
+<D>__{i'm in jail. that's what i say.}
+<C>__{henry}
+<D>__{you've got your review coming up }
+<C>__{max}
+<D>__{ so?}
+<C>__{henry}
+<D>__{so you can get of here. if you want to.}
+<C>__{max}
+<D>__{no. it's not as simple as that.}
+<C>__{henry}
+<D>__{yes, it is.}
+<C>__{max}
+<D>__{no, it's not.}
+<C>__{henry}
+<D>__{yes. it is.}
+<C>__{max}
+<D>__{no, it's not.}
+<C>__{henry}
+<D>__{max }
+<C>__{max}
+<D>__{i'm happy here. this is my home.}
+<C>__{henry}
+<D>__{this is not a home. this is a prison.}
+<C>__{max}
+<D>__{whatever you want to call it, i'm happy here.}
+<A>__{a beat. henry looks at max now. he looks frail.}
+<C>__{henry}
+<D>__{max. you can't die in this place.}
+<C>__{max}
+<D>__{i can die wherever i want.}
+<C>__{henry}
+<D>__{you really want to die here?}
+<C>__{max}
+<D>__{what do you want, henry?}
+<C>__{henry}
+<D>__{i'm asking for your help.}
+<C>__{max}
+<D>__{to rob that bank?!}
+<C>__{henry}
+<D>__{i've thought about it. it's the right thing.}
+<P>__{(then)}
+<D>__{for both of us.}
+<A>__{a long beat. max gets up :}
+<C>__{max}
+<D>__{henry. i got cards.}
+<C>__{henry}
+<D>__{max }
+<C>__{max}
+<D>__{great to see you, kid.}
+<C>__{henry}
+<D>__{max!}
+<A>__{max exits.}

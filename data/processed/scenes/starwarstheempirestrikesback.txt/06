@@ -1,0 +1,36 @@
+<L>__{interior hoth rebel base command center}
+<A>__{a makeshift command center has been set up in a blasted area of thick ice. the low ceilinged room is a beehive of activity. controllers, troops, and droids move about setting up electronic equipment and monitoring radar signals. general rieekan straightens up from a console at han's approach.}
+<C>__{rieekan}
+<D>__{solo?}
+<C>__{han}
+<A>__{no sign of life out there, general. the sensors are in place. you'll know if anything comes around.}
+<C>__{rieekan}
+<D>__{commander skywalker reported in yet?}
+<C>__{han}
+<D>__{no. he's checking out a meteorite that hit near him.}
+<C>__{rieekan}
+<P>__{(indicates radar screen)}
+<D>__{with all the meteor activity in this system, it's going to be difficult to spot approaching ships.}
+<A>__{taking a deep breath, han blurts out what is on his mind.}
+<C>__{han}
+<D>__{general, i've got to leave. i can't stay anymore.}
+<A>__{princess leia, standing at a console nearby, is dressed in a short white combat jacket and pants. her hair is braided across her head in a nordic fashion. she overhears their conversation and seems somewhat distressed.}
+<C>__{rieekan}
+<D>__{i'm sorry to hear that.}
+<C>__{han}
+<D>__{well, there's a price on my head. if i don't pay off jabba the hut, i'm a dead man.}
+<C>__{rieekan}
+<D>__{a death mark's not an easy thing to live with. you're a good fighter, solo. i hate to lose you.}
+<C>__{han}
+<D>__{thank you, general.}
+<A>__{he turns to leia as rieekan moves away.}
+<C>__{han}
+<P>__{(with feeling)}
+<D>__{well, your highness, i guess this is it.}
+<C>__{leia}
+<D>__{that's right.}
+<A>__{leia is angry. han sees she has no warmth to offer him. he shakes his head and adopts a sarcastic tone.}
+<C>__{han}
+<P>__{(cooly)}
+<D>__{well, don't get all mushy on me. so long, princess.}
+<A>__{han walks away into the quiet corridor adjoining the command center. leia stews a moment, then hurries after him.}

@@ -1,0 +1,30 @@
+<L>__{interior narada main hangar}
+<A>__{captain pike's shuttle and the jellyfish sit parked among the equipment. kirk and spock stealthily board the jellyfish }
+<L>__{interior jellyfish cockpit continuous}
+<A>__{kirk hits a console, a familiar voice comes to life:}
+<C>__{computer voice}
+<D>__{voice print and face recognition analysis enabled.}
+<C>__{kirk}
+<D>__{spock, you'll be piloting the ship alone.}
+<C>__{spock}
+<D>__{which may be problematic, as i am unfamiliar with this ship's design.}
+<A>__{the laser grid responds to spock's voice, scans his features for id the holographic display materializes:}
+<C>__{computer voice}
+<D>__{welcome back, ambassador spock.}
+<C>__{kirk}
+<P>__{(awkwardly)}
+<D>__{wow. that's weird.}
+<A>__{he looks to kirk in surprise spock's eyes fix with sudden understanding. ambassador spock... of course... suddenly all the pieces start coming together...}
+<C>__{spock}
+<D>__{computer: what is your manufacturing origin?}
+<C>__{computer voice}
+<D>__{stardate 2397, commissioned by the vulcan science academy.}
+<A>__{spock looks at kirk, a touch upset:}
+<C>__{spock}
+<D>__{it appears you've been keeping rather important information from me.}
+<C>__{kirk}
+<D>__{just trust me. can ya do that?}
+<A>__{spock weigh his options. trust. finally:}
+<C>__{kirk }
+<D>__{i will get pike.}
+<A>__{kirk exits }

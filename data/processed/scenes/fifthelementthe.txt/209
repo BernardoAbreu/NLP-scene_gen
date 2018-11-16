@@ -1,0 +1,19 @@
+<L>__{interior main hall}
+<A>__{the lights flicker.}
+<C>__{voice }
+<D>__{this is a type a alert. for security reasons the hotel must be evacuated. please proceed calmly to the lifeboats located in the main hallways.}
+<A>__{a wave of panic engulfs the hall. the cops are unable to hold back the crowd as it stampedes to the exits.}
+<L>__{interior corridor}
+<A>__{zorg marches down the corridor shooting everyone in his path.}
+<L>__{interior diva's suite}
+<A>__{loc rhod stands paralyzed in front of the flashing timer. less than two minutes left.}
+<C>__{loc rhod}
+<D>__{maybe we oughta be going, what do you think?}
+<C>__{korben}
+<D>__{not without leeloo.}
+<A>__{loc rhod cannot take his eyes off the bomb.}
+<C>__{loc rhod}
+<D>__{like d man, i hate to bother you but uh, like, we're down to 2 minutes here...}
+<A>__{korben breathes out, bothered. he turns his attention to the bomb.}
+<C>__{korben}
+<D>__{it's the latest model.. i've never seen one before... it works off a magnetic coded card... let's see if i can rig it up.}

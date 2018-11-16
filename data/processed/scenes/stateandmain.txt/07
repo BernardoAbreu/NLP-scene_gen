@@ -1,0 +1,27 @@
+<L>__{interior tavern inn lobby day}
+<A>__{a desk clerk, scott, looks up. behind the desk a display of several souvenir plates, "souvenir of waterford, vt", with a picture of the old mill on them. walt picks one up and hands it to bill.}
+<C>__{scott}
+<D>__{may i help you?}
+<C>__{walt}
+<P>__{(followed bill)}
+<D>__{i want to talk to the manager.}
+<A>__{walt talks into his cell phone as he talks to scott.}
+<C>__{scott}
+<D>__{would you like a room?}
+<C>__{bill}
+<D>__{na, we wanna rent the whole hotel.}
+<C>__{walt}
+<P>__{(into phone)}
+<D>__{hello, tracy, we gotta new town. we're...where are we?}
+<A>__{beat. bill looks around, sees a sign on a desk. consults his tourist folder. as they talk they walk into deserted ballroom and play shuffleboard and archery.}
+<C>__{bill}
+<P>__{(carrying waterford plate)}
+<D>__{waterford, vermont.}
+<C>__{walt}
+<D>__{...you got to get me that street for nothing...}
+<C>__{bill}
+<D>__{i will.}
+<C>__{walt}
+<P>__{(into phone)}
+<D>__{waterford, vermont. where is it? that's where it is...}
+<A>__{walt carries the shuffleboard stick over his shoulder.}

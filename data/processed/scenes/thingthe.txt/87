@@ -1,0 +1,41 @@
+<L>__{interior infirmary}
+<A>__{fuchs is attending to the shredded bodies of three other badly wounded dogs.}
+<L>__{interior rec room}
+<A>__{nauls pats clark on the shoulder and grins, trying to pick up his spirits.}
+<C>__{nauls}
+<D>__{it's okay now, man. it's dead. it's over.}
+<P>__{(beat)}
+<D>__{you see.}
+<A>__{clark turns to him with a childlike smile.}
+<C>__{clark}
+<D>__{i know. mr. childs killed it. i saw.}
+<C>__{nauls}
+<D>__{right, man. right.}
+<L>__{interior small workroom}
+<A>__{norris is going through some maps. macready is bent over his shoulder. norris finds the one he's looking for.}
+<C>__{norris}
+<D>__{here. this is where they were spending most of their time.}
+<A>__{bennings pokes his head in the room.}
+<C>__{bennings}
+<D>__{pretty nasty out, mac. thirty five knots.}
+<C>__{macready}
+<D>__{screw it, i'm going up anyway.}
+<L>__{interior main compound morning}
+<A>__{station manager garry has joined blair by the stuck together bodies. blair motions to the bandage.}
+<C>__{blair}
+<D>__{was that dog, the norwegian dog?}
+<C>__{garry}
+<D>__{i just can't comprehend any of this. it was just a dog.}
+<C>__{childs}
+<P>__{(evenly)}
+<D>__{"tweren't no dog, bwana.}
+<C>__{blair}
+<D>__{that tape macready showed us this morning...}
+<C>__{garry}
+<D>__{couldn't make much of it myself.}
+<C>__{blair}
+<D>__{i've asked him to try and locate the site. okay with you?}
+<C>__{garry}
+<D>__{sure. you think there's a connection?}
+<C>__{blair}
+<D>__{maybe.}

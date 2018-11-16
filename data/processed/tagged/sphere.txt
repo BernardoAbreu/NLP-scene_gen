@@ -1,0 +1,3750 @@
+<A>__{"sphere", early draft, by stephen hauser}
+<C>__{sphere}
+<D>__{by stephen hauser based on the novel, sphere, by michael crichton march 5, 1996}
+<L>__{exterior street in georgetown middle of the night}
+<A>__{fog hangs above the street, amongst the streetlamps. apartment buildings line the curb, it is very quiet. in one building, six floors up, a bedroom light is on. we see the silhouette of norman's wife looking out the window.}
+<C>__{wife }
+<D>__{what kind of a crash was it?}
+<C>__{norman }
+<D>__{you seen my suitcase?}
+<C>__{wife }
+<D>__{there's nothing on the news about a crash. did he say what airline?}
+<C>__{norman }
+<D>__{he didn't say much at all. honey }
+<C>__{wife }
+<D>__{in the closet. i don't understand, norman why would they call you?}
+<C>__{norman }
+<D>__{don't be so supportive, honey.}
+<C>__{wife }
+<D>__{well, i can't imagine five years of unemployment }
+<C>__{norman }
+<D>__{four. four years }
+<C>__{wife }
+<D>__{four years of unemployment would look too good on a resume.}
+<C>__{norman }
+<D>__{keep watching the news. are you watching the news?}
+<C>__{wife }
+<D>__{how are you getting to the airport? you need money for the bus?}
+<A>__{a tinted window black sedan travels down the street, pulls up in front of the apartment building. a u.s. navy decal is on the door.}
+<C>__{wife }
+<D>__{there's a u.s. navy car outside, norman.}
+<C>__{norman }
+<D>__{what?}
+<C>__{wife }
+<D>__{was it a military crash?}
+<C>__{norman }
+<D>__{i don't know.}
+<C>__{wife }
+<D>__{they never used to send a navy car.}
+<T>__{cut to:}
+<A>__{the loud, hard chopping of a helicopter propeller}
+<L>__{exterior pacific ocean day}
+<A>__{blinding sunlight, as the helicopter whips by, speeding above the pacific ocean.}
+<L>__{interior helicopter day}
+<A>__{norman, 53, disheveled, unshaven, sits in the back. he studies a pamphlet in his hand: "aircrash survival: how to cope". the pilot, in the cockpit, turns to him.}
+<C>__{pilot}
+<D>__{what kinda work you in, dr. johnson?}
+<A>__{norman quickly stuffs the pamphlet into his dufflebag.}
+<C>__{norman}
+<D>__{i'm in psychology. was. still am really, just been a while.}
+<P>__{(beat)}
+<D>__{i treat aircrash survivors.}
+<C>__{pilot}
+<D>__{oh, so you're that dr. johnson.}
+<C>__{norman}
+<D>__{you've heard of me?}
+<C>__{pilot}
+<D>__{well, everybody's been talking about that report you wrote.}
+<C>__{norman}
+<D>__{what report?}
+<C>__{pilot}
+<D>__{huh?}
+<C>__{norman}
+<D>__{what report?}
+<C>__{pilot}
+<D>__{you mean you don't know?}
+<C>__{norman}
+<D>__{know what?}
+<A>__{the pilot glances back at him again.}
+<C>__{pilot}
+<D>__{must be another johnson then. been flying so many scientists out here can't keep everyone straight.}
+<C>__{norman}
+<D>__{who's everyone?}
+<C>__{pilot}
+<D>__{physicists, mathematicians, geologists, you name it.}
+<C>__{norman}
+<D>__{geologists? at a plane crash?}
+<C>__{pilot}
+<D>__{strange, isn't it? in the middle of the ocean no less.}
+<C>__{norman}
+<D>__{what the hell would a geologist be doing at a plane crash?}
+<A>__{norman looks out the window and sees a group of ships circling in the water.}
+<L>__{exterior ship deck day}
+<A>__{the helicopter descends down onto the helipad, wind gusting about. a young, female officer holding her hat to her head rushes to greet norman, as he climbs out of the helicopter. she looks down crudely at his shotty, nylon dufflebag.}
+<C>__{officer}
+<D>__{any other bags, dr. johnson?}
+<C>__{norman}
+<D>__{just that. careful, it's heavy.}
+<A>__{she lugs it over her shoulder, no problem.}
+<C>__{officer}
+<D>__{no other equipment? scientific instruments?}
+<C>__{norman}
+<D>__{no, they didn't say }
+<C>__{officer}
+<D>__{this way, sir.}
+<A>__{norman follows the officer away from the helipad.}
+<L>__{interior ship}
+<A>__{she leads norman down a flight of stairs.}
+<C>__{officer}
+<D>__{captain barnes wants to see you right away, sir.}
+<C>__{norman}
+<D>__{captain who?}
+<C>__{officer}
+<D>__{barnes. he's very eager to meet you. been calling us every half hour to see if you're arrived.}
+<C>__{norman}
+<D>__{really?}
+<A>__{as they march down a hallway, norman looks down at his wrinkled suit, tries to smooth it out.}
+<C>__{officer}
+<D>__{by the way sir, i've read your report. i think it's brilliant.}
+<C>__{norman}
+<D>__{what report?}
+<C>__{officer}
+<D>__{you mean they haven't told you yet?}
+<C>__{norman}
+<D>__{told me what?}
+<A>__{she staightens up, like she might have said too much.}
+<C>__{officer}
+<D>__{this way, sir.}
+<L>__{interior barnes' office}
+<A>__{captain harold barnes, 60s, immaculate, proud of who he is, talks on the phone.}
+<C>__{barnes}
+<D>__{how's he look?... well, we can't all be officers, can we?}
+<P>__{(laughs)}
+<D>__{they tell me he's brilliant.}
+<L>__{exterior barnes' office}
+<A>__{norman stands in front of the door. the doorplate reads: project commander captain harold barnes. norman straightens his big knotted tie. deep breath.}
+<L>__{interior barnes' office}
+<A>__{as the door opens, barnes is putting down the phone, rises from his desk, as norman steps inside.}
+<C>__{barnes}
+<D>__{dr. norman johnson. welcome aboard.}
+<A>__{they shake hands.}
+<C>__{norman}
+<D>__{thank you, colonel.}
+<C>__{barnes}
+<D>__{captain.}
+<C>__{norman}
+<D>__{captain. right, forgive me.}
+<A>__{barnes looks at norman, sizing him up. an akward silence.}
+<C>__{norman}
+<D>__{well, thanks for the opportuninty here my wife appreciates it.}
+<C>__{barnes}
+<D>__{don't thank me, dr. johnson. you weren't my choice. the pentagon made me take you.}
+<C>__{norman}
+<P>__{(smiling)}
+<D>__{the pentagon? i didn't know i had friends in washington.}
+<A>__{norman tries to laugh as barnes ushers him to the door...}
+<C>__{barnes}
+<D>__{come with me. the team's already waiting.}
+<C>__{norman}
+<D>__{what team?}
+<L>__{interior hallway}
+<A>__{barnes leads norman down the corridor, lined with officers and guards.}
+<C>__{barnes}
+<D>__{what have you been told so far?}
+<C>__{norman}
+<D>__{the usual. plane crash. survivers unknown. routine stuff really.}
+<C>__{barnes}
+<D>__{anything else?}
+<C>__{norman}
+<D>__{nothing else.}
+<A>__{a guard unlocks a large, steel door.}
+<C>__{guard}
+<D>__{captain barnes. dr. johnson.}
+<C>__{norman}
+<D>__{hello.}
+<A>__{norman looks at the guard as they proceed through the doorway, wondering how the guard knows his name.}
+<C>__{barnes}
+<D>__{you talk to any reporters? any press?}
+<C>__{norman}
+<D>__{press? no, i haven't.}
+<A>__{the steel door shuts loudly behind them.}
+<C>__{barnes}
+<D>__{good. security's been our biggest worry. now that you're here we can shut this thing down tight.}
+<C>__{norman}
+<D>__{from what? what's with all the security?}
+<C>__{barnes}
+<D>__{well, we don't have all the facts yet.}
+<A>__{another guard opens up another large steel door...}
+<L>__{interior tech room}
+<A>__{barnes leads norman through the room, crammed with video monitors, screens, and grids. officers talk into radios. technicians work on computers.}
+<C>__{barnes}
+<D>__{we're moving fast considering the storm.}
+<C>__{norman}
+<D>__{storm? what storm?}
+<C>__{barnes}
+<D>__{a cyclone's on it's way in. i thought they would have told you on the phone.}
+<C>__{norman}
+<D>__{they didn't tell me anything.}
+<A>__{norman tries to keep pace...}
+<C>__{barnes}
+<D>__{we've had divers working around the clock. take a look at this...}
+<A>__{angle on a large video screen shows a diver walking on the ocean floor, holding a bright artificial flashlight.}
+<C>__{norman}
+<D>__{how deep is he?}
+<C>__{barnes}
+<D>__{a thousand feet.}
+<C>__{norman}
+<D>__{a thousand? an airplane crashes into a thousand feet of water i don't want to sound pessimistic here, but i assume there are no survivors.}
+<C>__{barnes}
+<D>__{survivors? no, i wouldn't think so.}
+<C>__{norman}
+<D>__{then why am i here?}
+<C>__{barnes}
+<D>__{what?}
+<C>__{norman}
+<D>__{what do you need me for?}
+<A>__{on the video screen the diver shines his light on a large, metallic}
+<B>__{object.}
+<C>__{barnes}
+<D>__{what crashed wasn't an airplane, dr. johnson. it's a bit larger than that.}
+<A>__{barnes walks toward a technician, sitting at a keyboard.}
+<C>__{barnes}
+<P>__{(to technician)}
+<D>__{bring up the grid, would you?}
+<A>__{angle on the monitor as an image of the craft begins to form.}
+<C>__{norman}
+<D>__{what is it? a military spacecraft? like a shuttle or satellite?}
+<C>__{barnes}
+<D>__{something like that.}
+<P>__{(beat)}
+<D>__{that doesn't surprise you?}
+<C>__{norman}
+<D>__{not really, no. something of the military crashes in the ocean it explains why there was nothing on the news, why you've kept everything a secret... when did it crash?}
+<C>__{barnes}
+<D>__{as best we can estimate, it crashed four hundred years ago.}
+<A>__{a beat.}
+<C>__{norman}
+<D>__{four hundred? you're kidding, right?}
+<A>__{angle on the monitor showing a grid depicting an image of the craft and a small layer of rock above it.}
+<C>__{barnes}
+<D>__{see this? coral. geologists measured the coral growth on top of the craft to be over five meters thick.}
+<C>__{norman}
+<D>__{geologists?}
+<C>__{barnes}
+<D>__{coral grows at a rate of two and a half centimeters a year }
+<C>__{norman}
+<D>__{ wait a second }
+<C>__{barnes}
+<D>__{ dating the crash at least that old.}
+<C>__{norman}
+<D>__{hold on }
+<C>__{barnes}
+<D>__{maybe older }
+<C>__{norman}
+<D>__{ there's got to be some mistake here a four hundred year old military spacecraft? there's no such thing... our space program isn't even forty years old.}
+<C>__{barnes}
+<D>__{extraordinary, isn't it?}
+<C>__{norman}
+<D>__{it's impossible.}
+<C>__{barnes}
+<D>__{i'm afraid it is dr. johnson... because it's sitting on the bottom of our ocean floor.}
+<L>__{interior stairwell}
+<A>__{barnes and norman shuffle down the stairs.}
+<C>__{barnes}
+<D>__{off the record, i don't mind telling you, this thing scares the shit out of me.}
+<C>__{norman}
+<D>__{it doesn't make any sense.}
+<C>__{barnes}
+<D>__{we think it might. that's why we brought you here. we've assembled your team they're waiting for us now.}
+<C>__{norman}
+<D>__{what team?}
+<C>__{barnes}
+<D>__{the one you recommended. in the ulf report you wrote for the bush administration.}
+<C>__{norman}
+<D>__{ulf report? nobody's mentioned that in years. you mean someone actually read it?}
+<A>__{as they head down a hallway, barnes pulls the ulf report out from under his arm, hands it to norman. norman looks at it, almost embarrassed to be holding it.}
+<C>__{barnes}
+<D>__{your report's become our bible down here, dr. johnson. we've been carrying out each of your recommendations one by one to the smallest detail.}
+<C>__{norman}
+<D>__{but sir, i don't understand. this report these recommendations... they're for an encounter with extra terrestrial life.}
+<L>__{interior briefing room}
+<A>__{on a video screen sonar video of the spacecraft.}
+<C>__{beth }
+<D>__{how big is this spacecraft?}
+<C>__{barnes }
+<D>__{of what we're able to measure, roughly twenty six hundred feet.}
+<C>__{ted }
+<D>__{a half a mile long?}
+<C>__{barnes}
+<D>__{the wing dimension alone is larger that any aircraft we've seen.}
+<A>__{the team members sit around the conference table: ted fielding, 41, geologist, boyish and happy to be here. beth halperin, 36, biochemist, mother of three who's never worn an apron. arthur levine, 54, marine biologist, pudgy and quiet. harry adams, 32, mathamatician, african american, wire glasses, no bullshit.}
+<C>__{harry}
+<D>__{how much damage?}
+<C>__{barnes}
+<D>__{to the craft? none. not a scratch.}
+<C>__{harry}
+<D>__{right. so you're saying it survived a high speed impact with water without a scratch?}
+<C>__{barnes}
+<D>__{i'm not saying anything, harry, i'm just stating the facts.}
+<P>__{(continuing)}
+<D>__{the outer metal is made of a titanium alloy, built into an epoxy resin honeycomb. the necessary technology to bond this type of metal has never been invented.}
+<C>__{ted}
+<D>__{never invented?}
+<A>__{on norman, watching the team...}
+<C>__{beth}
+<D>__{in basic english, what does all this mean?}
+<C>__{barnes}
+<D>__{basic english? there's no way this spacecraft was constructed on our planet.}
+<B>__{a loud mechanical whirr}
+<L>__{interior testing room later}
+<A>__{a large, x ray apparatus moves to the side, revealing norman's face. on beth standing next to him.}
+<C>__{beth}
+<D>__{five years. no phone calls. what am i a leper?}
+<A>__{norman sits up...}
+<C>__{norman}
+<D>__{beth, look, can i trust you with a little secret?}
+<C>__{beth}
+<D>__{i love secrets.}
+<C>__{norman}
+<D>__{that ulf report everybody's patting me on the back about?}
+<C>__{beth}
+<D>__{i've read it twice, norman. it's brilliant.}
+<C>__{norman}
+<D>__{it's bullshit. the report's a joke.}
+<C>__{beth}
+<P>__{(beat)}
+<D>__{that's quite a secret.}
+<C>__{norman}
+<D>__{i spent a week reading sagan and watching re runs of the twilight zone. seriously. i was just trying to pay the mortgage on my house i had no idea }
+<A>__{angle on two navy corpsmen, standing behind glass in the next room, monitoring beth and norman.}
+<C>__{beth}
+<D>__{do yourself a favor, norman. are you listening? don't tell anyone what you just told me.}
+<C>__{norman}
+<D>__{c'mon, beth that report's like the blind leading the blind.}
+<C>__{beth}
+<D>__{because when we get down there }
+<C>__{norman}
+<D>__{wait down where?}
+<C>__{beth}
+<D>__{to the spacecraft. to investigate.}
+<C>__{norman}
+<D>__{underwater?}
+<C>__{beth}
+<D>__{what do you expect? for them to bring it up here?}
+<C>__{norman}
+<D>__{we can't go down there. we're not prepared. that deep? that takes years of training, beth. we're just scientists. lab scietists. we wear ties and lab coats to work not oxygen tanks.}
+<C>__{beth}
+<D>__{well, you must have realized the chances an encounter like this would happen here. in the ocean.}
+<P>__{(off his look)}
+<D>__{70 percent of the earth's surface is water, norman. that's first grade geography.}
+<C>__{norman}
+<D>__{it never occurred to me.}
+<C>__{beth}
+<D>__{well, let's pray that's the only mistake you made. have you said anything to barnes about this?}
+<C>__{norman}
+<D>__{the timing has never seemed quite right.}
+<C>__{beth}
+<D>__{just keep your mouth shut, alright? this could mean everything to our careers, you know that? don't jeopardize this.}
+<C>__{norman}
+<P>__{(nervous laughter)}
+<D>__{what are you threatening me?}
+<L>__{exterior ship late at night}
+<A>__{the sky clouds looming on the horizon. angle on arthur levine, leaning against the railing, looking out at the water. on norman, approaching him. arthur never looks at norman, he just stares out at the water.}
+<C>__{arthur}
+<D>__{i don't know you, but i will be honest with you. i don't like this. i don't like any of this. especially, the water.}
+<C>__{norman}
+<D>__{seasick? a marine biologist?}
+<C>__{arthur}
+<D>__{i don't belong here. none of us belong here. look at that.}
+<A>__{angle on the water, an ocean of seemingly endless, choppy waves.}
+<C>__{norman}
+<D>__{makes you feel pretty small, doesn't it?}
+<C>__{arthur}
+<D>__{it scares the shit out of me.}
+<T>__{cut to:}
+<A>__{close on norman, lying on a cot. it is dark. his eyes are open. he stares at the ceiling.}
+<T>__{cut to:}
+<L>__{interior descent platform}
+<A>__{a porthole hatch to the descent sub unlatches loudly. a sub officer help norman lower himself through the hatch.}
+<L>__{interior descent sub}
+<A>__{norman steps down the ladder into the sub compartment. seated in a circle area: ted, beth, harry, and arthur. ahead of them, captain barnes sits with the pilot in the sub's cockpit, separated by a wall of plexiglass. norman takes a seat between beth and ted.}
+<C>__{barnes }
+<P>__{(through the intercom)}
+<D>__{our descent will take 13 minutes. descending at a speed of 80 feet per minute.}
+<A>__{across from norman, harry is whispering something quietly into arthur's ear.}
+<C>__{barnes }
+<D>__{pressure adjustments will cause the sub to lurch at times, but don't be alarmed. it's perfectly normal...}
+<A>__{arthur's face drips with sweat, as harry continues to whisper into his ear.}
+<C>__{barnes }
+<D>__{the sub's interior atmosphere will experience moisture as we descend, and the temperature will drop rapidly. just relax and remain seated during the descent.}
+<A>__{norman watches arthur, dripping with sweat.}
+<C>__{barnes }
+<D>__{we have clearing from the base.}
+<A>__{red interior lights flicker on in the compartment, and we hear the sub make a hissing sound. the sub lurches, and begins to lower in the water.}
+<C>__{norman}
+<D>__{arthur?}
+<A>__{harry has gotten to arthur. arthur is on the verge of panic.}
+<C>__{norman}
+<D>__{arthur? you alright?}
+<C>__{arthur}
+<D>__{open the hatch door, please.}
+<A>__{harry continues to whisper in his ear.}
+<C>__{arthur}
+<D>__{captain, open the hatch door, please ... the hatch door, captain. open it, please.}
+<C>__{barnes }
+<D>__{calm down, dr. levine.}
+<C>__{arthur}
+<D>__{let me out, captain. open the door!}
+<C>__{barnes }
+<D>__{please, dr. levine.}
+<A>__{arthur leaps violently out of his seat, scrambles to the plexiglass wall.}
+<C>__{barnes}
+<P>__{(through the plexiglass)}
+<D>__{sit down, dr. levine! you're in a military operation now }
+<A>__{arthur bangs on the plexiglass wall with his fists.}
+<C>__{barnes}
+<D>__{... your civil rights have been overridden!}
+<C>__{arthur}
+<D>__{open it, captain!}
+<C>__{barnes}
+<D>__{dr. levine, please! return to your seat!}
+<A>__{arthur vomits, violently, heaving, splattering the plexiglass wall.}
+<C>__{arthur}
+<D>__{open the fucking door!}
+<A>__{the sub lurches again, coming to a stop. the compartment is totally silent, as they begin ascending to the surface. on harry smiling a sly, evil grin directed right at norman. the sub lurches again, and we hear clanking metal. the hatch door opens. and arthur, wiping the vomit from his mouth, climbs up the ladder and out the hatch door.}
+<C>__{barnes }
+<D>__{anybody else?}
+<A>__{silence. the hatch door locks, loudly. the sub lurches, and begins descending.}
+<C>__{ted}
+<D>__{pussy.}
+<C>__{beth}
+<D>__{what's that mistake number two, norman?}
+<C>__{norman}
+<D>__{he wasn't feeling well.}
+<C>__{ted}
+<D>__{he's a pussy.}
+<A>__{harry is still staring at norman...}
+<C>__{harry}
+<D>__{how are you feeling, norman?}
+<C>__{norman}
+<D>__{what?}
+<C>__{harry}
+<D>__{you holding up alright?}
+<C>__{norman}
+<D>__{fine. i'm fine.}
+<C>__{harry}
+<D>__{don't be defensive.}
+<C>__{norman}
+<D>__{i'm not being defensive.}
+<C>__{harry}
+<D>__{you sound defensive.}
+<C>__{norman}
+<D>__{i'm fine.}
+<C>__{ted}
+<P>__{(to harry)}
+<D>__{what'd you say to him?}
+<C>__{harry}
+<D>__{to who? arthur? nothing. nothing that norman doesn't already know.}
+<C>__{ted}
+<D>__{what does norman already know?}
+<C>__{harry}
+<D>__{norman thinks we shouldn't be going down. thinks it's a mistake.}
+<A>__{norman looks over at beth.}
+<C>__{harry}
+<D>__{she told me what you said, norman.}
+<C>__{ted}
+<D>__{what is it, harry?}
+<C>__{harry}
+<D>__{just one of norman's many secrets.}
+<A>__{on norman, saying nothing.}
+<L>__{exterior ocean}
+<A>__{we see the sub descending into darker waters.}
+<L>__{exterior dh 8 habitat arriving dock}
+<A>__{the sub descends into the airlock, metal clanks against metal. around it, the dh 8: interwoven cylinders lit up with lights.}
+<L>__{interior airlock pressurizing room}
+<A>__{close on the hatch door closing tightly, locking.}
+<C>__{officer }
+<D>__{one moment for pressurizing.}
+<B>__{a soft whirr.}
+<A>__{angle on barnes and the four remaining team members standing in the small, claustrophobic pressurizing room. like sardines. nobody says anything. a long beat.}
+<B>__{the door}
+<A>__{in front of them, opens. teeny fletcher, 30s, a big boned female officer, stands before them. she wears a black plastic pad, a "talker", around her neck. she hands each member their own "talker". norman takes his.}
+<L>__{interior dh 8 hallway}
+<A>__{fletcher leads barnes and the team members down the hallway. each of them wears the "talkers" around their necks.}
+<C>__{barnes}
+<D>__{they pressurize us with helium.}
+<C>__{norman}
+<D>__{what's wrong with oxygen?}
+<C>__{barnes}
+<D>__{it's a corrosive gas. on earth, it makes a half eaten apple turn brown and puts the ugly, iron rust on an oldsmobile. at a pressure this low, oxygen becomes toxic. breathe it down here, and it'll do to your dick what it does to the oldsmobile.}
+<C>__{ted}
+<D>__{important safety tip. thanks captain.}
+<A>__{fletcher listens through her radio earpiece, turns to barnes...}
+<C>__{fletcher}
+<D>__{captain, the divers have the airlock mounted at the door. the robot is now in position to enter the spacecraft.}
+<C>__{ted}
+<D>__{robot? what robot?}
+<L>__{interior video feed room}
+<A>__{close on a monitor showing the robot in front of the curved gray metal of the spacecraft.}
+<C>__{barnes}
+<D>__{edmunds, bring up the robot's camera feed.}
+<A>__{jane edmunds, 32, the unit archivist, works the control panel. another monitor clicks on showing the robot's pov of the door.}
+<C>__{ted}
+<D>__{captain, you know, i really appreciate you hauling us a thousand feet below sea level so we can watch this historical event on television.}
+<C>__{barnes}
+<D>__{nobody goes inside, until we know hat's nside.}
+<A>__{on the monitor the robot camera scans the spacecraft hull, stops on a rectangular panel mounted to the left of the door.}
+<C>__{barnes}
+<D>__{can you open that panel?}
+<C>__{edmunds}
+<D>__{working on it now, sir.}
+<A>__{on the monitor a robotic claw extends out to the panel. trying to pry the panel open.}
+<C>__{ted}
+<D>__{i'd like it noted in the report that i think we should be doing this ourselves. making a manned entry...}
+<A>__{the claw is clumsy, and keeps banging into the metal.}
+<C>__{ted}
+<D>__{i'd also like it noted }
+<C>__{barnes}
+<D>__{duly noted, ted. edmunds, try using suction.}
+<A>__{on the monitor another robotic arm extends out, with a rubber sucker. it pushes against the panel, but doesn't suck.}
+<C>__{edmunds}
+<D>__{it's not sucking, sir.}
+<C>__{barnes}
+<D>__{thank you, i can see that. try something else.}
+<C>__{edmunds}
+<D>__{we don't have anything else to try, sir.}
+<C>__{barnes}
+<D>__{well, shit find something, do something... make something up }
+<C>__{ted}
+<D>__{what about a crowbar?}
+<A>__{barnes straightens up, looks at ted...}
+<C>__{barnes}
+<D>__{what bout crowbar?}
+<C>__{ted}
+<D>__{what if we go out there, you know wedge a crowbar in the door and pry the thing open.}
+<C>__{harry}
+<D>__{pry the thing open? what are we neanderthals?}
+<C>__{beth}
+<D>__{all that banging and pounding. i don't know. we should think about making a good first impression.}
+<C>__{harry}
+<D>__{for who? the fish?}
+<C>__{beth}
+<D>__{for whoever's in that thing.}
+<C>__{barnes}
+<D>__{or whatever's in that thing.}
+<A>__{on the monitor the spacecraft, sitting there silently, staring back at them.}
+<C>__{barnes}
+<D>__{norman, what do you think?}
+<A>__{norman, quiet in the corner, perks up...}
+<C>__{norman}
+<D>__{me? well i don't really... i mean, you could... you know, you could make a real solid case... a crowbar?}
+<A>__{all eyes on norman.}
+<C>__{norman}
+<D>__{i don't know.}
+<A>__{a beat as they all stare at him.}
+<C>__{ted}
+<D>__{i'm secure enough with that.}
+<L>__{interior changing room}
+<A>__{angle on a locker door opening. inside is an elaborate jumpsuit and helmet with the name: "johnson", stenciled above the faceplate.}
+<C>__{norman}
+<D>__{are we all i mean, is it necessary for all of us to go... out there?}
+<A>__{the other team members take their suits out of their lockers.}
+<C>__{barnes}
+<D>__{nothing to be nervous about. these suits are wired and electrically heated. each equipped with an alarm that triggers automatically if life support sustems go below optimum.}
+<A>__{norman holds his jumpsuit out and away from him, like it's something nuclear.}
+<C>__{ted}
+<D>__{it's just like swimming, norman... you know how to swim, don't you?}
+<C>__{harry}
+<D>__{you're not afraid of the water, are you, norman?}
+<A>__{they all look over at him.}
+<C>__{beth}
+<P>__{(half smiling)}
+<D>__{isn't there a psychological term for that, dr. johnson?}
+<C>__{norman}
+<P>__{(under his breath)}
+<D>__{yeah. drowning.}
+<L>__{interior airlock room (a cylinder)}
+<A>__{dressed in jumpsuits and helmets barnes jumps into a pool of ocean water, cut out from the floor, leading to the ocean. it looks like a tiny swimming pool. ted jumps in nexterior beth, harry, and norman are left...}
+<C>__{beth}
+<D>__{you're next, norman.}
+<C>__{norman}
+<P>__{(nervous as hell)}
+<D>__{no. go ahead. really. ladies first.}
+<C>__{beth}
+<D>__{such a gentlemen when you're scared shitless.}
+<A>__{she hops in. norman watches, looks up at harry, next to him.}
+<C>__{harry}
+<D>__{go ahead. ladies first.}
+<C>__{norman}
+<D>__{no, why don't }
+<A>__{harry nudges him forward.}
+<C>__{harry}
+<D>__{c'mon.}
+<C>__{norman}
+<D>__{wait a second, i }
+<A>__{harry pushes him again. norman catches himself.}
+<C>__{norman}
+<D>__{geez, c'mon, alright. gimme a minute. let me get my bearings }
+<A>__{harry pushes him again.}
+<C>__{harry}
+<D>__{c'mon, norman.}
+<C>__{norman}
+<D>__{look, would you }
+<A>__{and harry just pushes him in. norman slips and falls awkwardly... into the ocean depths.}
+<T>__{cut to:}
+<B>__{black.}
+<A>__{quiet. only the sound of norman breathing. for a couple beats. now... norman's pov from inside his helmet a light shines from behind him casting his shadow onto the murky ocean floor. norman's head turns, and he's blinded by a light it's harry, the light shining from the top of harry's helmet. we hear harry's voice, static, through norman's helmet.}
+<C>__{harry }
+<D>__{the switch is on your waist.}
+<A>__{on norman his glove fumbling at his waist. his helmet light flickers on. on norman slowly, beginning to walk on the ocean floor. his feet squashing gently, lightly into the muddy ground. norman's pov can barely make out the others in front of him, their helmet lights strobing the dark water, crossing each other, like searchlights on a foggy night. close on norman's face eyes cold, breathing. couple beats. and}
+<T>__{hears:}
+<C>__{ted }
+<D>__{look at that thing.}
+<A>__{norman's eyes look up... we pull back... long, high, wide shot of the team their little helmet lights tiny and insignificant almost as... in front of them the spacecraft. dwarfing them in size, looming large, majestic, like nothing we've ever seen. the enormous tail fin, in the distance, extends high out of the coral. in the huge mound of coral covering the spacecraft, we see a tunnel cut out like a cave lined with tiny, dim lightbulbs.}
+<L>__{interior tunnel}
+<A>__{about 60 feet deep. narrower than they'd like. norman descends, clumsily, awkwardly pushing off the bulky, iron handles fastened to the coral walls.}
+<B>__{the loud hissing of air}
+<L>__{interior spacecraft airlock}
+<A>__{close on norman's face as he watches the water recede, down past his faceplate.}
+<B>__{the loud banging of metal}
+<A>__{ted has wedged a crowbar into the door and bangs at it with a sledgehammer.}
+<C>__{harry}
+<D>__{easy ted, we're not mining gold.}
+<C>__{ted}
+<D>__{gimme some room here, will you? back off. gimme some space.}
+<A>__{they all back away, cramming into the far corner of the airlock as ted keeps swinging.}
+<C>__{beth}
+<D>__{looks alot like an airplane door, doesn't it?}
+<A>__{ted stops and looks at the door.}
+<C>__{ted}
+<D>__{alot like. you know, i noticed it before, but i didn't...}
+<C>__{harry}
+<D>__{shutup, ted. you didn't notice shit. keep hammering.}
+<C>__{norman}
+<D>__{you want me to try?}
+<C>__{ted}
+<D>__{you're a 53 year old shrink, what are you gonna do?}
+<C>__{barnes}
+<D>__{give him the hammer, ted.}
+<A>__{norman takes the hammer. walks up to the wedge. gets his bearings. rears back... then stops.}
+<C>__{ted}
+<D>__{what is it, your back give out?}
+<A>__{something has caught norman's eye. he looks down at the wedge.}
+<C>__{barnes}
+<D>__{what is it, norman?}
+<C>__{norman}
+<D>__{take a look.}
+<A>__{barnes comes toward him. the others follow. barnes bends down, looks closely down at the wedge in the door.}
+<C>__{barnes}
+<D>__{it's chipped.}
+<C>__{harry}
+<D>__{chipped? the door? how can it be chipped?}
+<C>__{barnes}
+<D>__{i don't know how it can be chipped, but it's chipped.}
+<C>__{harry}
+<D>__{i thought you said there wasn't any damage done in the crash?}
+<C>__{barnes}
+<D>__{i did.}
+<C>__{harry}
+<D>__{then how can it be chipped?}
+<A>__{on beth she touches the door with her palms, feels around.}
+<C>__{beth}
+<D>__{there's heat coming the door.}
+<C>__{barnes}
+<D>__{back away then.}
+<C>__{beth}
+<D>__{wait a minute }
+<C>__{barnes}
+<D>__{i said back away.}
+<C>__{beth}
+<D>__{would you wait a minute?}
+<B>__{the door starts to rumble}
+<A>__{barnes unstraps a gun nearly the size of an uzzi from his buckle.}
+<C>__{barnes}
+<D>__{ted, get her away from the door.}
+<C>__{ted}
+<D>__{what are you going to do shoot her?}
+<A>__{the rumbling louder...}
+<C>__{barnes}
+<D>__{get her away!}
+<A>__{the door begins to slide open. beth backs away. the door, sliding, is revealing complete blackness inside. the door stops, it's open, it's quiet. they all stand there, looking at blackness. a long beat.}
+<L>__{interior spacecraft}
+<A>__{on norman cautiously stepping inside. his helmet light shines on the others ahead of him, walking along a 5 foot wide catwalk, suspended high in the air. metallic beams and rafters criss cross above them. norman looks over the railing his light strobes through 40 feet of darkness, dimly lighting the lower hull, a dense network of struts and}
+<B>__{girders.}
+<C>__{ted}
+<D>__{look at this.}
+<C>__{barnes}
+<D>__{what is it?}
+<A>__{ted spotlights the outer hull.}
+<C>__{ted}
+<D>__{some sort of lead or something.}
+<C>__{barnes}
+<D>__{radiation shield, you think?}
+<C>__{ted}
+<D>__{a foot and a half thick? that'd withstand a helluva lot of radiation.}
+<A>__{beth's light shines down onto the catwalk. we see footprints outlined on the dusty floor.}
+<C>__{beth}
+<D>__{hold on }
+<C>__{barnes}
+<D>__{what is it?}
+<C>__{beth}
+<D>__{any of you get ahead of me walk this far up?}
+<C>__{ted}
+<D>__{no. i don't think so.}
+<C>__{beth}
+<D>__{well, think. because there's footprints here that aren't mine.}
+<C>__{ted}
+<D>__{well, they're not mine.}
+<A>__{on the footprints large, like the boots they're wearing.}
+<C>__{barnes}
+<D>__{calm down, alright? they gotta be somebody's here. let's stay together, please.}
+<T>__{cut to:}
+<A>__{long shot seeing them suspended high in the air on the catwalk, walking. their tiny streams of light moving about. we see just how ominous this spacecraft really is.}
+<C>__{beth}
+<D>__{it's empty. why would someone build a ship like this?}
+<C>__{harry}
+<D>__{you'd have to ask them.}
+<A>__{they approach a door, at the end of the catwalk.}
+<C>__{barnes}
+<D>__{alright, beth, do that thing you did before.}
+<C>__{beth}
+<D>__{how about i just press the button?}
+<A>__{she presses a button near the door. the door slides open.}
+<C>__{barnes}
+<D>__{or just... press the button.}
+<A>__{barnes holds out his gun, and enters. the others behind him.}
+<C>__{ted}
+<D>__{strange, isn't it? you know how it would have a button.}
+<C>__{norman}
+<D>__{earth doesn't have a patent on buttons, ted.}
+<C>__{ted}
+<D>__{still, make a note i recognized that.}
+<A>__{on barnes leading them through a small hall. it seems to be opening up into some sort of room when barnes stops. dead in his tracks.}
+<C>__{ted}
+<D>__{what's wrong?}
+<C>__{barnes}
+<P>__{(serious)}
+<D>__{what do you make of this?}
+<A>__{on norman as he steps around barnes, his light brightening on: a sign that reads: "trash."}
+<C>__{ted}
+<P>__{(softly)}
+<D>__{what the hell?}
+<A>__{very softly, harry begins to laugh.}
+<C>__{ted}
+<D>__{english?}
+<C>__{harry}
+<D>__{that's right.}
+<A>__{norman looks up and sees more of the room as his light shines throughout it: tables, couches and chairs made of leather, very comfortable looking. they begin to slowly wander about...}
+<C>__{beth}
+<D>__{i don't get it.}
+<C>__{ted}
+<D>__{it doesn't make any sense.}
+<C>__{harry}
+<D>__{you don't think it does? i think it's rather obvious.}
+<C>__{ted}
+<D>__{is it some sort of joke? like one of those hoaxes?}
+<C>__{harry}
+<D>__{a spacecraft half a mile long with 500 tonnes of coral on top of it? someone went to a lot of trouble. try again.}
+<C>__{ted}
+<D>__{but it's impossible.}
+<C>__{harry}
+<D>__{is it?}
+<A>__{beth touches the table, it's metal, but it's soft and rubbery.}
+<C>__{ted}
+<D>__{why would this ship carry instructions in english?}
+<C>__{harry}
+<D>__{think about it.}
+<C>__{ted}
+<D>__{unless, this alien spacecraft was you know somehow presenting itself to americans in a way that would make us feel comfortable.}
+<C>__{norman}
+<D>__{400 years ago? i'm sure christopher columbus would've loved these accomodations.}
+<C>__{beth}
+<D>__{good theory, ted.}
+<C>__{ted}
+<D>__{well, what's your theory?}
+<C>__{beth}
+<D>__{i'm a woman. i don't theorize. i only deal with facts.}
+<C>__{harry}
+<D>__{all the facts you need are right in front of you.}
+<C>__{ted}
+<D>__{gimme a minute here... i think i've got it.}
+<C>__{harry}
+<D>__{do you?}
+<C>__{ted}
+<D>__{if it is an alien spacecraft }
+<C>__{harry}
+<D>__{save your breath. it's not an alien spacecraft.}
+<C>__{beth}
+<D>__{then what is it?}
+<C>__{harry}
+<P>__{(beat)}
+<D>__{it's an american spacecraft.}
+<C>__{ted}
+<D>__{an american spacecraft? half a mile long? and buried 400 years? yeah, good theory, harry.}
+<C>__{harry}
+<D>__{it's been obvious from the start, hasn't it, captain? that's why all the secrecy, why no one was told about it?}
+<C>__{barnes}
+<D>__{we had considered it.}
+<C>__{ted}
+<D>__{considered what? that it's american? how would you think it's american?}
+<C>__{harry}
+<D>__{the chip in the door.}
+<A>__{on norman glancing up at harry...}
+<C>__{harry}
+<D>__{we take a weeny little wedge, bang on it a couple of times, and bust off a chunk of the metal. yet any spacecraft even at a low velocity, say 200 miles an hour crashes into the water it's gonna be like hitting concrete, it would crumple like paper. but there isn't a dent to be seen anywhere. not even a scratch.}
+<C>__{ted}
+<D>__{meaning?}
+<C>__{harry}
+<D>__{meaning it didn't land in the water.}
+<C>__{ted}
+<D>__{please. it must have flown here }
+<C>__{harry}
+<D>__{it didn't fly here. it rrived ere.}
+<C>__{ted}
+<D>__{arrived? from where?}
+<C>__{harry}
+<D>__{not where. when. 400 years ago. from our future.}
+<A>__{a quiet moment as they take this in.}
+<L>__{interior spacecraft deeper inside}
+<A>__{ted and barnes trek through a vast cargo bay, like two ants wlth flashlights.}
+<C>__{ted}
+<D>__{time travel. i always thought it was one of those myths... like santa's reindeer.}
+<C>__{barnes}
+<D>__{what would we be working on in the future that would make us want to come back?}
+<C>__{ted}
+<D>__{maybe we didn't want to come back.}
+<A>__{back in the room norman, harry, and beth...}
+<C>__{beth}
+<D>__{what are you looking for?}
+<C>__{harry}
+<D>__{a light switch. a button opened that door the craft runs on some sort of power.}
+<A>__{on norman as he sits down in one of the chairs.}
+<C>__{beth}
+<D>__{what's that noise?}
+<A>__{they listen to a girgling noise.}
+<C>__{norman}
+<D>__{sounds a little like water }
+<A>__{suddenly the chair norman's in wraps around him, squeezing him inside, padding sliding around his head, his shoulders enveloping him sucking him inside...}
+<C>__{beth}
+<D>__{norman!}
+<C>__{norman}
+<D>__{get this thing off me.}
+<A>__{beth bends down, presses a button, the chair releases norman...}
+<C>__{beth}
+<D>__{i think the chair thinks you want to fly this thing.}
+<A>__{on beth's faceplate as she's looking down we begin to see reflected in her faceplate: yellow digital lettering sputtering across... "rv lhooq... dcom1... " her eyes look up slowly... as we}
+<T>__{cut to:}
+<A>__{the black screen in front of the chairs, lit up with bright yellow lettering: "rv lhooq dcoml u.s.s star voyager" "assimilating database" as a series of numbers race upwards in count... and the desk in front of them lights up, a control panel coming to life.}
+<C>__{harry}
+<D>__{nice work, norman.}
+<C>__{norman}
+<D>__{whatever i can do to help.}
+<A>__{on the screen as it changes, now filled with columns:}
+<B>__{ship systems data systems quarter master flight records}
+<A>__{harry punches some keys on the control panel.}
+<C>__{harry}
+<D>__{a flight recorder. our future is about to be seen in our present.}
+<A>__{on the screen as it changes:}
+<B>__{flight data summaries}
+<A>__{fds 01 01 47 12 31 49 fds 01 01 50 12 31 52 fds 01 01 53 12 31 55 fds 01 01 56 12 31 56 fds 01 01 56 02 01 56 fds 02 02 56 unknown entry event}
+<C>__{norman}
+<D>__{01 01 47. two thousand forty seven. 50 years in our future.}
+<C>__{harry}
+<D>__{unknown entry event.}
+<A>__{harry pauses, looks down, and punches more keys... on the screen as it expands in size, widens around them, curving... we see a galaxy of stars, planets coming off the screen, into the room, becoming three dimensional, suspended in air, giving the illusion of depth. the image begins streaking outward, toward us, moving rapidly, like we're flying through it. the stars and other space matter streaking by.}
+<C>__{beth}
+<D>__{what's that cluster of stars there? in the center?}
+<A>__{harry stares, walking around the desk, moving into the 3 d image...}
+<C>__{harry}
+<D>__{our answer.}
+<C>__{norman}
+<D>__{to what?}
+<C>__{harry}
+<D>__{time travel. a black hole.}
+<A>__{the cluster of stars grows brighter and brighter, as it comes closer and closer, brightening. the field twists and turns as the screen and field become blinding as we enter the cluster, the black hole. on norman his face, bright, frightened as he hears:}
+<C>__{harry }
+<D>__{ted? captain?}
+<C>__{barnes }
+<D>__{yes, harry.}
+<C>__{harry }
+<D>__{we know how this craft got here. where it's been.}
+<C>__{barnes }
+<D>__{so do we. and it seems to have picked up something on it's travels.}
+<A>__{still on norman frightened...}
+<C>__{norman}
+<D>__{picked up something? what is it?}
+<C>__{barnes }
+<D>__{i don't know. but it's something alien.}
+<T>__{cut to:}
+<L>__{interior cargo bay}
+<A>__{angle on our six team members' boots, in the distance. as we pan up and around we see a curved surface appear: a surface of slowly swirling green and blue fluids. like mercury. mesmerizlng. as we come around, the team stands looking at the sphere, 30 feet in dlameter, held by a giant claw gripping it from the top. they walk around it, circling it, looking up at it.}
+<C>__{harry}
+<D>__{this answers one of our questions.}
+<C>__{norman}
+<D>__{which one? let me get the list out.}
+<C>__{harry}
+<D>__{this spacecraft was designed to pick things up. they see things they want these claws go out and bring it in. they come across this. this... phere find it interesting, curious. they draw it inside to take back home.}
+<C>__{norman}
+<D>__{but on the way home, they miss their turn, go too far, into the past.}
+<C>__{harry}
+<D>__{our present.}
+<C>__{barnes}
+<D>__{but what does it do? this... sphere.}
+<C>__{ted}
+<D>__{maybe it's a message of some sort, you know? see this red here.}
+<A>__{angle on the sphere some dark red markings on it's surface...}
+<C>__{ted}
+<P>__{(continuing)}
+<D>__{looks like a design, some writing, maybe. maybe it was sent to meet the spacecraft with a message.}
+<C>__{harry}
+<D>__{look closely. that isn't writing. those are grooves.}
+<A>__{on the red grooves engraved into the surface.}
+<C>__{harry}
+<D>__{no. they don't represent a message. they aren't decorative at all. they have another purpose entirely.}
+<C>__{barnes}
+<D>__{what?}
+<C>__{harry}
+<D>__{to conceal a small break in the surface of the sphere.}
+<C>__{barnes}
+<D>__{a break for what?}
+<L>__{interior habitat hallway}
+<A>__{down a long corridor we see barnes, through a half closed door, pacing, talking on the phone...}
+<C>__{barnes}
+<D>__{... it's definitely something alien ... another civilization, yes, sir... well, we don't know yet, but we think we've found a door...}
+<L>__{interior video feed room}
+<A>__{edmunds, barnes, and the team members (minus ted) look at the monitor.}
+<C>__{barnes}
+<D>__{so how do we get it open?}
+<C>__{harry}
+<D>__{ted seems to have some ideas.}
+<A>__{on the monitor ted pushing on the sphere door. banging into it with his shoulder.}
+<C>__{norman}
+<D>__{maybe we shouldn't.}
+<C>__{barnes}
+<D>__{what?}
+<C>__{norman}
+<D>__{if it is alien, maybe we shouldn't try to open it at all.}
+<C>__{harry}
+<P>__{(nodding to norman)}
+<D>__{man is man, all he knows is man, and all he can think of is what he knows. the anthropomorphic problem. good, norman.}
+<C>__{barnes}
+<D>__{the what?}
+<C>__{norman}
+<D>__{i mentioned it in my report. didn't you read the report?}
+<C>__{harry}
+<D>__{everything ever written about extra terrestial life imagines that life is essentially human. if it doesn't look human, it's a reptile or a big insect or something, having human values, human understanding.}
+<C>__{barnes}
+<D>__{so? what's the problem?}
+<C>__{harry}
+<D>__{it's nonsense. there's enough difference between our own species to prove that.}
+<C>__{beth}
+<D>__{take politics, our views on abortion, the death penalty...}
+<C>__{harry}
+<D>__{cannibalism, to be extreme. and now we're talking about a new life form. their values and ethics may be incomprehensible.}
+<C>__{barnes}
+<D>__{like "thou shall not kill"?}
+<C>__{norman}
+<D>__{or maybe, it can't e illed.}
+<C>__{barnes}
+<D>__{you mean, what's in that thing is immortal?}
+<C>__{norman}
+<D>__{i don't know. that's the pointerior}
+<C>__{barnes}
+<D>__{everything can be killed.}
+<C>__{beth}
+<D>__{not everything. even on earth. take ... yeasts.}
+<C>__{barnes}
+<D>__{yeasts? thank you, beth, but i don't think we're gonna open it up and find a loaf of bread.}
+<C>__{harry}
+<D>__{and we're just talking about three dimensional creatures. what if it's five or six or seven dimensional? so dimensional that we couldn't even see it to kill it.}
+<C>__{norman}
+<D>__{good pointerior i don't know what you're talking about, but good pointerior}
+<C>__{barnes}
+<D>__{or it could contain some great benefit to us, some astonishing new idea or technology to help mankind.}
+<C>__{harry}
+<D>__{it could. but the odds of it being any use to us are against it.}
+<C>__{barnes}
+<D>__{you don't know that.}
+<C>__{harry}
+<D>__{let's say whoever made this thing is a thousand years ahead of us, just like we are to, say, medieval europe. suppose you went back to medieval europe with a tv set. there wouldn't be any place to plug it in.}
+<C>__{barnes}
+<D>__{just tell me worst case. worst case of what we might find?}
+<C>__{beth}
+<D>__{it could breathe in air and exhale cyanide gas.}
+<C>__{norman}
+<D>__{disrupt our brain waves, interfere with our ability to think.}
+<C>__{harry}
+<D>__{produce radioactive waste and disintegrate us into nothing.}
+<T>__{cut to:}
+<A>__{close on printer, typing: "surface winds at 25 knots estimated time of departure 01:45 hrs"}
+<T>__{cut to:}
+<L>__{interior dh 8 hallway}
+<A>__{empty, sterile. we hear the repeating sound: thwap. almost like a dripping faucet. thwap... thwap...}
+<L>__{interior living quarters}
+<A>__{harry on his bunk, staring at the wall, flicking his middle finger at his cheek: thwap... thwap.}
+<C>__{harry}
+<D>__{you realize, norman, that we are all going to die.}
+<A>__{norman is lying in his own bunk, below harry.}
+<C>__{norman}
+<D>__{don't be so optomistic, harry.}
+<C>__{harry}
+<D>__{i'm completely serious. there is something very important missing from that spacecraft. you know what that is?}
+<C>__{norman}
+<D>__{not a clue.}
+<C>__{harry}
+<D>__{a sign that the builders knew time travel through a black hole was possible.}
+<C>__{norman}
+<D>__{i don't follow you.}
+<C>__{harry}
+<D>__{on that flight recorder, they called the black hole an "unknown entry event." they didn't know what a black hole was. fifty years from now, men are going to build that ship in a very tentative, experimental way, with no knowledge that time travel through a black hole is possible.}
+<C>__{norman}
+<D>__{so what?}
+<A>__{harry leans his head over his bunk.}
+<C>__{harry}
+<D>__{so, e know}
+<P>__{(beat)}
+<D>__{we know it went through a black hole. we saw it. norman when we'd get to the surface, we'd tell someone about the black hole, wouldn't we? it'd go in some report like some big discovery. so in fifty years when they build that ship, they'd make precautions for a black hole.}
+<P>__{(beat)}
+<D>__{but they didn't the called it an unknown entry event.}
+<C>__{norman}
+<D>__{meaning we're never gonna get the chance to tell anyone.}
+<C>__{harry}
+<D>__{meaning we're never gonna get to the surface alive... to tell anyone.}
+<A>__{norman gets out of his bed.}
+<C>__{norman}
+<D>__{i can't believe that, harry.}
+<C>__{harry}
+<D>__{gimme another explanation.}
+<A>__{norman pacing.}
+<C>__{norman}
+<D>__{i can't. if i had a minute to think, maybe, but i know you're wrong.}
+<C>__{harry}
+<D>__{am i?}
+<C>__{norman}
+<D>__{look we're under a lot of pressure, we're tired, you're not thinking straight.}
+<C>__{harry}
+<D>__{you mean, you think i'm cracking?}
+<C>__{norman}
+<D>__{no. i didn't say that.}
+<C>__{harry}
+<D>__{then what, norman?}
+<A>__{norman stops pacing, a beat.}
+<C>__{norman}
+<D>__{it's what's in that sphere, isn't it, harry? whatever you think is in that thing you think it's going to kill you.}
+<C>__{harry}
+<D>__{curious, isn't it? what's inside? before i die, i'd sure like to open it and see.}
+<L>__{interior video feed room}
+<A>__{close on monitor: video of the sphere. rapidly rewinding.}
+<C>__{barnes}
+<D>__{what caused it?}
+<C>__{edmunds}
+<D>__{nothing. i don't know. everything was normal. no changes at all.}
+<C>__{harry}
+<D>__{when did it happen?}
+<C>__{edmunds}
+<D>__{seconds ago. here!}
+<A>__{playback: we see the sphere idle. nothing around it. then it's door slowly opens, revealing blackness inside. a beat. and then it closes.}
+<C>__{barnes}
+<D>__{let me see that again.}
+<A>__{edmunds plays it again. this time... we move in on harry, staring at the monitor.}
+<C>__{harry}
+<P>__{(to himself)}
+<D>__{i'd sure like to open it and see.}
+<A>__{on harry those cold, intelligent eyes.}
+<T>__{cut to:}
+<A>__{close on printer, typing: "... 30 knots etd 00:19 min"}
+<T>__{cut to:}
+<L>__{interior hallway}
+<A>__{close on norman and barnes.}
+<C>__{barnes}
+<D>__{don't get hysterical, norman.}
+<C>__{norman}
+<D>__{i'm telling you, harry's lost it. he's saying there's a deathwish out for each of us.}
+<C>__{barnes}
+<D>__{look, the ships are clearing out. they're taking us topside in a matter of minutes. someone can check him out there, if it's that imprtant.}
+<C>__{norman}
+<D>__{all i'm saying is, someone should keep an eye on him.}
+<C>__{barnes}
+<D>__{just worry about yourself.}
+<L>__{interior communications room}
+<A>__{barnes on the phone with the surface. ted talking to him anyway...}
+<C>__{ted}
+<D>__{can i stay, sir? i'm willing to risk it. i am. after what we just witnessed.}
+<C>__{barnes}
+<P>__{(into phone)}
+<D>__{what? no, i know they're civilians...}
+<L>__{interior living quarters}
+<A>__{on norman gathering his things. stuffing his shotty dufflebag. beth, at her bunk, doing the same. norman stands up. looks at the bunk above him: unpacked clothes, unpacked belongings, a notebook lying there saying: property of dr.}
+<B>__{harry adams.}
+<A>__{on norman panicking, looking around for harry.}
+<T>__{cut to:}
+<A>__{back in communications room}
+<C>__{barnes}
+<P>__{(into phone)}
+<D>__{... i said send the subs down, damn it!}
+<A>__{barnes out the door, ted at his heels...}
+<C>__{ted}
+<D>__{did you hear me, sir, because }
+<C>__{barnes}
+<D>__{ted, shut up. are you packed? ready to go? i want everyone packed. now!}
+<A>__{on norman running at them...}
+<C>__{norman}
+<D>__{harry's missing.}
+<C>__{barnes}
+<D>__{what do you mean, he's missing?}
+<C>__{norman}
+<D>__{he's missing. he's gone. he left.}
+<C>__{barnes}
+<D>__{he's here somewhere. find him. the sub's on it's way.}
+<P>__{(they look at him)}
+<D>__{go! c'mon!}
+<A>__{norman runs off. barnes storms down the hall...}
+<C>__{barnes}
+<D>__{how can he be missing?}
+<C>__{ted}
+<D>__{sir, about leaving }
+<C>__{barnes}
+<D>__{we're on the bottom of the fucking ocean he can't just walk outside!}
+<L>__{interior video feed room}
+<A>__{edmunds working the monitors, stops. seeing something on a screen. staring in horror...}
+<C>__{edmunds}
+<P>__{(to herself)}
+<D>__{oh my gosh...}
+<L>__{interior communications room}
+<A>__{barnes, phone to his ear...}
+<C>__{barnes}
+<D>__{gimme a report, i want }
+<C>__{harry }
+<D>__{ladies and gentlemen...}
+<C>__{barnes}
+<D>__{who is that? where's that coming from?}
+<C>__{harry }
+<D>__{please watch your closest monitor...}
+<A>__{barnes turns... on his monitor harry, in jumpsuit and helmet, stands in front of the}
+<B>__{sphere.}
+<A>__{barnes quickly puts on his headset mic...}
+<C>__{barnes}
+<D>__{what's he doing there?}
+<L>__{interior video feed room}
+<A>__{edmunds, norman, beth, ted staring at the monitor...}
+<C>__{ted}
+<D>__{i thought he was with you, norman.}
+<A>__{through the speakers...}
+<C>__{barnes }
+<D>__{get him out of there. i thought i told you people }
+<C>__{edmunds}
+<P>__{(into her mic)}
+<D>__{harry? can you copy?}
+<A>__{on the monitor harry, before the sphere...}
+<C>__{harry}
+<D>__{pay close attention. i think you will find this of interest.}
+<A>__{the sphere door slowly opens.}
+<C>__{ted}
+<D>__{what the hell is he doing?}
+<A>__{harry steps up and into the sphere. the door closes slowly behind him.}
+<T>__{cut to:}
+<A>__{printer, typing: "... etd 00:15 min"}
+<T>__{cut to:}
+<L>__{interior communications room}
+<A>__{norman with barnes...}
+<C>__{barnes}
+<D>__{don't tell me i told you so, norman, because i don't want to hear it.}
+<P>__{(yelling past him)}
+<D>__{ted, i want everything by the door ready to go!}
+<L>__{interior video feed room}
+<A>__{on monitor labled: "sub descent" it's still.}
+<C>__{edmunds}
+<P>__{(into mic)}
+<D>__{subs are still at surface, sir.}
+<L>__{interior communications room}
+<C>__{barnes}
+<P>__{(into phone)}
+<D>__{send them, damn it! i know, but i'm not gonna be held responsible }
+<A>__{norman with him...}
+<C>__{norman}
+<D>__{you can't just leave harry down here, sir.}
+<C>__{barnes}
+<D>__{i told you people, nobody goes anywhere unless i say.}
+<C>__{norman}
+<D>__{but sir }
+<C>__{barnes}
+<D>__{no "buts". if he wants to be left, we'll leave him.}
+<P>__{(into phone)}
+<D>__{hello? yes, the subs i want a report... hello... yes, a report. gimme... shit.}
+<C>__{edmunds }
+<D>__{i'm getting no sub reading, sir.}
+<C>__{barnes}
+<D>__{they're coming.}
+<T>__{cut to:}
+<A>__{printer, typing: "... etd 00:13 min"}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{on norman staring at the monitor of the sphere, idle.}
+<C>__{barnes }
+<D>__{any sign of harry?}
+<C>__{edmunds}
+<D>__{nothing, sir.}
+<L>__{interior communications room}
+<C>__{barnes}
+<D>__{fuck him.}
+<P>__{(into phone)}
+<D>__{what? hello?}
+<L>__{interior video feed room}
+<A>__{on monitor labeled "sub descent"...}
+<C>__{edmunds}
+<D>__{sir, i am still getting absolutely no reading on sub movement...}
+<T>__{cut to:}
+<A>__{printer, typing: "... etd 00:11 min"}
+<T>__{cut to:}
+<L>__{interior communications room}
+<C>__{barnes}
+<P>__{(into phone)}
+<D>__{yes, a report... hello?}
+<A>__{beth, inside now...}
+<C>__{beth}
+<D>__{i am not leaving without him. do you hear me? we come down as a team, we leave as a team.}
+<C>__{barnes}
+<D>__{what are you his mother? get norman, i want everyone ready to go.}
+<P>__{(into mic)}
+<D>__{edmunds, the subs?}
+<C>__{edmunds }
+<D>__{nothing, sir.}
+<C>__{barnes}
+<D>__{what the hell is going on here?}
+<L>__{interior corridor}
+<A>__{beth rushes by ted, carrying bags to the door...}
+<C>__{beth}
+<D>__{norman? where's norman?}
+<C>__{ted}
+<D>__{by the bunks.}
+<L>__{interior living quarters}
+<A>__{beth running in...}
+<C>__{beth}
+<D>__{norman?... norman?}
+<A>__{can't see him anywhere.}
+<L>__{into the bathrooms}
+<C>__{beth}
+<D>__{norman!}
+<L>__{interior communications room}
+<C>__{barnes}
+<D>__{edmunds, do you have a 20 on norman?}
+<C>__{edmunds }
+<D>__{yes, sir.}
+<C>__{barnes}
+<D>__{well, where the fuck is he?}
+<C>__{edmunds }
+<D>__{in the ship, sir.}
+<A>__{barnes spins to see the monitor...}
+<C>__{barnes}
+<D>__{what?}
+<A>__{on monitor norman, in jumpsuit and helmet, running through the ship. barnes slipping on headset mic...}
+<C>__{barnes}
+<D>__{norman? norman!}
+<L>__{interior spacecraft}
+<A>__{norman running across a catwalk...}
+<C>__{barnes }
+<D>__{you get your ass back here. you have no authority whatsoever to be in there. you hear me?... norman? don't go hero on me now.}
+<T>__{cut to:}
+<A>__{printer, typing: "... etd 00:05 min evacuation imminent"}
+<L>__{interior video feed room}
+<C>__{edmunds}
+<D>__{sir, if the subs haven't left by now...}
+<C>__{barnes }
+<D>__{they've left, keep watching!}
+<C>__{edmunds}
+<D>__{sir! sir, the door it's opening.}
+<A>__{on the monitor the sphere door, slowly opening. revealing:}
+<B>__{blackness.}
+<C>__{barnes }
+<D>__{where is he? damn it! can you see him?}
+<A>__{a still moment and then harry tumbles out the sphere, and falls to the ground.}
+<L>__{interior communications room}
+<A>__{barnes, squinting at harry on his monitor.}
+<C>__{barnes }
+<D>__{how does he look? can you tell?}
+<A>__{harry lies motionless.}
+<C>__{edmunds }
+<D>__{he looks... dead, sir.}
+<A>__{on beth in the hall, hearing that.}
+<L>__{interior spacecraft}
+<A>__{norman, running, blindly, through a hall, around corners...}
+<C>__{barnes }
+<D>__{norman, get out of there now! norman?}
+<L>__{interior video feed room}
+<C>__{edmunds}
+<D>__{if the subs aren't here yet, sir }
+<L>__{interior communications room}
+<A>__{barnes, into his headset.}
+<C>__{barnes}
+<D>__{they'll be here. norman can you hear me?...}
+<L>__{interior spacecraft}
+<A>__{on norman running...}
+<C>__{barnes }
+<D>__{you don't have time! get the hell out of }
+<A>__{barnes' voice goes static, and cuts out.}
+<L>__{interior video feed room}
+<A>__{on the monitor flickering, losing power...}
+<C>__{edmunds}
+<D>__{sir, we're losing it.}
+<A>__{on the monitor flickering, fading, and all the lights and monitors}
+<B>__{shut down.}
+<L>__{interior spacecraft}
+<A>__{on harry lying still, face down under the sphere. goes to him. checks harry's life support badge. still blinking he's still alive. norman, pauses, looks up, staring at...}
+<B>__{the sphere}
+<A>__{mesmerizing. he can see himself, reflected in the swirling mass, staring back at himself. the door begins to open, closes. begins to open.}
+<L>__{interior corridor}
+<A>__{dark. ted, beth, and barnes wander throughout.}
+<C>__{ted}
+<D>__{what the hell happened?}
+<A>__{the lights flicker back on.}
+<C>__{barnes}
+<D>__{they switched us over.}
+<C>__{ted}
+<D>__{to what?}
+<C>__{barnes}
+<D>__{internal power.}
+<C>__{beth}
+<D>__{what for?}
+<T>__{cut to:}
+<A>__{the ocean floor a cable falling from the surface, coiling around and around.}
+<T>__{cut to:}
+<A>__{angle on their dufflebags piled in the corner by the door. they've been left behind.}
+<L>__{interior habitat hallway later}
+<A>__{looking down a long corridor it's quiet. we peek inside the cafeteria...}
+<C>__{barnes }
+<D>__{the surface ships will be back. after the storm clears.}
+<C>__{beth }
+<D>__{how long will that be?}
+<L>__{interior cafeteria}
+<A>__{barnes speaks to the team (minus harry and norman)...}
+<C>__{barnes}
+<D>__{they told me about sixty hours.}
+<C>__{beth}
+<D>__{two and a half days?}
+<C>__{ted}
+<D>__{how long can we last down here?}
+<C>__{edmunds}
+<D>__{comfortably? seventy two hours.}
+<C>__{beth}
+<D>__{comfortably what's that mean with oxygen?}
+<T>__{cut to:}
+<L>__{interior living quarters}
+<A>__{close on harry's face harry lies on his bunk. he begins to slowly awake. we begin to hear a scratching noise, like nails on a chalkboard. it gets louder as harry comes to. he puts his fingers to his temples. norman stands beside, him writing in his notebook.}
+<C>__{harry}
+<D>__{what is that? that noise?}
+<C>__{norman}
+<D>__{what noise?}
+<C>__{harry}
+<D>__{it's like...}
+<A>__{angle on norman's pen as he stops writing, the noise stops. harry sighs. norman looks down at his pen.}
+<C>__{norman}
+<D>__{harry, can you tell me about the sphere?}
+<C>__{harry}
+<D>__{what are you still doing here?}
+<C>__{norman}
+<D>__{you remember opening the door?}
+<C>__{harry}
+<D>__{you were all supposed to leave. you weren't supposed to stay down here.}
+<C>__{norman}
+<D>__{tell me about the door. do you remember how you opened the door to the sphere?... harry?}
+<C>__{harry}
+<D>__{you don't understand about the sphere.}
+<C>__{norman}
+<D>__{then explain it to me.}
+<A>__{harry pauses, staring almost like a frightened little boy.}
+<C>__{harry}
+<D>__{norman?}
+<C>__{norman}
+<D>__{what is it, harry?}
+<C>__{harry}
+<D>__{what happens on page 87? have you ever read page 87?}
+<C>__{norman}
+<D>__{page 87 of what, harry?}
+<C>__{harry}
+<D>__{i could never read that far. i never wanted to.}
+<C>__{norman}
+<D>__{that far in what, harry?}
+<A>__{harry doesn't say anything. norman waiting...}
+<C>__{harry}
+<D>__{you shouldn't be here, norman. it's too dangerous for you and the others to be down here.}
+<L>__{interior bathroom shower facilities}
+<A>__{beth comes out from behind a vinyl shower curtain. a towel wrapped around her.}
+<C>__{barnes }
+<D>__{beth i wanted to have a word with you...}
+<A>__{barnes washes his hands at the sink, looking at her in the mirror in front of him.}
+<C>__{barnes}
+<D>__{back at the door i asked you to back away.}
+<C>__{beth}
+<D>__{yeah. i heard you.}
+<C>__{barnes}
+<D>__{there are procedures, beth, that i want followed. my procedures. and considering what's going on, i want you to follow them very closely.}
+<C>__{beth}
+<P>__{(a beat)}
+<D>__{forgive me. i've never read the navy manual. i wonder what it says about bathroom and shower procedures.}
+<A>__{he walks to the door, then turns.}
+<C>__{barnes}
+<D>__{and beth, one other thing. i'd like from now on for you to address me as captain or sir in front of the men.}
+<L>__{interior habitat hallway}
+<A>__{a long corridor looking into the cafeteria...}
+<L>__{interior cafeteria}
+<A>__{harry is eating at a table, seems more relaxed. the team members around him, eating too. beth, cold. harry sprinkles salt on the dish of food in the middle.}
+<C>__{ted}
+<D>__{hey, go easy on the salt, will ya? we're not a bunch of icy streets here.}
+<C>__{harry}
+<D>__{salt's good for you, ted. helps you from getting impotent.}
+<C>__{ted}
+<D>__{impotent? i'm not impotent.}
+<C>__{norman}
+<P>__{(off food)}
+<D>__{these aren't half bad, fletcher. you might have a second career coming.}
+<C>__{harry}
+<D>__{what are they?}
+<C>__{fletcher}
+<D>__{squid...}
+<A>__{harry stops mid chew. frightened.}
+<C>__{fletcher}
+<D>__{... there was a whole flock of them out there earlier. it's strange. it's dead down here, and then all of a sudden }
+<A>__{harry drops his fork. he begins coughing. hacking. choking loudly. gagging. he hacks out the squid from his mouth...}
+<T>__{cut to:}
+<L>__{interior habitat corridor}
+<A>__{a long, empty corridor. all is quiet.}
+<T>__{cut to:}
+<A>__{close on a monitor a series of numbers:}
+<L>__{032629 301321 04261037 2903305 1822 04261013 032629 301321 04261037 2903305 1822 04261013 032629 301321 04261037 2903305 1822 04261013}
+<C>__{norman}
+<D>__{when did it come across?}
+<C>__{edmunds}
+<D>__{minutes ago. harry's trying to decode it in his room now.}
+<C>__{norman}
+<D>__{where's it coming from?}
+<C>__{edmunds}
+<D>__{no idea. we have no surface support. it transmitted too fast to be coming from underwater.}
+<C>__{norman}
+<D>__{is it coming from our own computer?}
+<C>__{edmunds}
+<D>__{harry thinks it's some sort of discharge from our own system, but i've seen it discharge before and it didn't look anything like this.}
+<L>__{exterior habitat underwater}
+<A>__{swarms of pretty, pink jellyfish. everywhere. from under the habitat fletcher swims up to them with a net. it's beautiful. eerie. almost idyllic.}
+<L>__{interior living quarters}
+<A>__{harry, on his bunk with decoding papers in his hands, turns to norman, entering the room.}
+<C>__{norman}
+<D>__{getting anywhere with those?}
+<C>__{harry}
+<D>__{there's some sort of pattern here. it'll take a minute.}
+<C>__{norman}
+<D>__{have you looked outside? jellyfish. everywhere. i hate jellyfish.}
+<P>__{(sits on the table)}
+<D>__{harry, what happened in the cafeteria?}
+<C>__{harry}
+<D>__{don't do this. don't psychoanalyze me. i hate squid. period. just like you hate jellyfish.}
+<C>__{norman}
+<D>__{you said something to me, before about how we were all going to die.}
+<C>__{harry}
+<D>__{did i?}
+<C>__{norman}
+<D>__{you don't remember that?}
+<C>__{harry}
+<D>__{i don't remember much. it's like my memory is on the tip of my tongue but i can't taste any of it. funny, my senses are much keener though. purer. hearing, seeing, smelling. like, i can smell your sheets, norman. you tried to wash it out earlier, but i can still smell the urine.}
+<P>__{(beat)}
+<D>__{don't worry, i'm not going to tell the others. it's normal, really, isn't it? in a crisis. the stress. the panic.}
+<L>__{interior video feed room}
+<A>__{beth, ted, and barnes watch... on a monitor fletcher outside, with the jellyfish.}
+<C>__{barnes}
+<P>__{(into the mic)}
+<D>__{fletcher? what are you doing out there?}
+<C>__{fletcher }
+<D>__{they're like pink snow, sir. sticky.}
+<C>__{ted}
+<D>__{she says jellyfish are a delicacy. you know, i never knew that.}
+<C>__{barnes}
+<D>__{get out of there. i don't want anyone going anywhere outside, understood?}
+<C>__{fletcher }
+<D>__{they're warm. i can feel the heat on my legs.}
+<C>__{barnes}
+<D>__{fletcher, i want you back here.}
+<T>__{cut to:}
+<A>__{back in living quarters norman sitting on the table...}
+<C>__{norman}
+<D>__{what happened to you inside that sphere, harry?}
+<A>__{a long beat. harry becomes concerned...}
+<C>__{harry}
+<D>__{why? does someone else want to go inside?}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{on the monitor fletcher, the jellyfish clinging to her facemask, her suit...}
+<C>__{fletcher }
+<D>__{i can't see, they're smearing the faceplate. my arms... the fabric...}
+<A>__{fletcher's suit tears...}
+<C>__{barnes}
+<D>__{fletcher, get away from there...}
+<C>__{fletcher }
+<D>__{it's burning...}
+<C>__{barnes}
+<D>__{get out of there!}
+<C>__{fletcher }
+<D>__{i can't see...}
+<C>__{barnes}
+<D>__{fletcher! now!}
+<C>__{fletcher }
+<D>__{i can't...}
+<A>__{on beth bolting out of the room. barnes turning to her...}
+<C>__{barnes}
+<D>__{nobody move.}
+<C>__{beth}
+<D>__{but she's }
+<C>__{barnes}
+<D>__{nobody move!}
+<C>__{fletcher }
+<D>__{they're eating through... somebody }
+<T>__{cut to:}
+<A>__{on fletcher underwater jellyfish eating into her plastic faceplate... she's coughing, gasping.}
+<L>__{interior video feed room}
+<A>__{they watch... on the monitor her body twisting, contorting. her suit, ripping apart. screaming. she convulses. her body falling.}
+<B>__{her horrifying scream fading into...}
+<L>__{interior decontamination lab}
+<A>__{close on fletcher's face. cold, dead. eyes open. jellyfish rooted in her skin.}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{close on a microscopic image of a jellyfish. on norman in the corner of the lab, inspecting a medical kit.}
+<C>__{norman}
+<D>__{what is this, beth? you taking valium?}
+<A>__{beth, looking into the microscope.}
+<C>__{beth}
+<D>__{sedatives. whatever my mood calls for.}
+<A>__{norman picks up a book, next to the kit: 20,000 leagues under the sea.}
+<C>__{norman}
+<D>__{where'd this come from?}
+<C>__{beth}
+<D>__{the library.}
+<C>__{norman}
+<D>__{we have a library?}
+<C>__{beth}
+<D>__{a bad one. it was the only book in there. norman, come here, look at this.}
+<C>__{norman}
+<D>__{no, thank you. i hate jellyfish.}
+<A>__{walking toward her...}
+<C>__{norman}
+<D>__{... when i was six, my younger brother and i we went swimming in the pacific. at my mother's beach house. we both felt stinging, and when we came out of the water, he was wearing jellyfish head to toe. killed him.}
+<C>__{beth}
+<D>__{my gosh, norman.}
+<C>__{norman}
+<D>__{yeah, it was awful.}
+<C>__{beth}
+<D>__{what about you? what happened to you?}
+<C>__{norman}
+<D>__{me? well, i was wrapped in seaweed. it itched for a while, but i survived.}
+<P>__{(beat)}
+<D>__{beth, do you find it... curious that we're seeing all this life down here. nothing, and then these enormous flocks of squid. then jellyfish?}
+<C>__{beth}
+<D>__{normally, i'd say no. everything's quiet now no ships, no divers, no electricity. makes sense. but what's curious is these aren't normal jellyfish.}
+<C>__{norman}
+<D>__{what do you mean not normal?}
+<C>__{beth}
+<D>__{they have six tentacles. a new species. and the squid too. they had no stomach.}
+<C>__{norman}
+<D>__{wait a minute.}
+<C>__{beth}
+<D>__{what?}
+<C>__{norman}
+<D>__{you knew about the squid not being normal. before fletcher went out there?}
+<C>__{beth}
+<D>__{yeah, why?}
+<C>__{norman}
+<D>__{and you didn't tell anyone?}
+<A>__{beth, nervous...}
+<C>__{beth}
+<D>__{what? why...}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{i mean, i'm not... i wasn't absolutely sure if... they }
+<C>__{norman}
+<D>__{they are or they aren't. which is it?}
+<C>__{beth}
+<D>__{what?... wait. don't... why are you }
+<C>__{norman}
+<D>__{beth.}
+<C>__{beth}
+<D>__{nobody said... norman... what? why are you looking at me like that?}
+<C>__{norman}
+<D>__{beth }
+<A>__{she backs away from norman, knocking off a speciman jar, it shatters on the floor. she starts breaking down. norman watching her, falling to the ground, picking up the glass, hurriedly...}
+<C>__{beth}
+<D>__{i didn't do anything wrong. i didn't mean...}
+<C>__{norman}
+<D>__{beth.}
+<A>__{she's crying, glass in her hands. she looks up at norman, frightened, nervous...}
+<C>__{beth}
+<D>__{you wouldn't go and tell the others, would you?}
+<A>__{norman hesitates, goes to her, tries to hold her, but she pushes him away.}
+<C>__{beth}
+<D>__{i hate this place, norman. i want out.}
+<T>__{cut to:}
+<L>__{interior habitat hallway}
+<A>__{looking down at the room where barnes was on the phone earlier. he stands there now, hand on the knob. closes it shut.}
+<T>__{cut to:}
+<L>__{interior room}
+<A>__{barnes sits, norman in front of him, worked up...}
+<C>__{norman}
+<D>__{i'm not paranoid. i know beth. she can be drastic.}
+<C>__{barnes}
+<D>__{how drastic?}
+<C>__{norman}
+<D>__{you don't want to know.}
+<C>__{barnes}
+<D>__{i think i do.}
+<C>__{norman}
+<D>__{a while back, beth and i we worked at the same university. she was assisting a chemist there i forget his name doing research, experiments. she was also living with him.}
+<P>__{(off barnes' look)}
+<D>__{yeah, i know. and when she finished her work, he kicked her out, broke off the relationship, and published five papers all her work without any thank you or acknowledgement.}
+<C>__{barnes}
+<D>__{she should've known better.}
+<C>__{norman}
+<D>__{she put a razor to her wrists a day later.}
+<C>__{barnes}
+<P>__{(a beat)}
+<D>__{when was this?}
+<C>__{norman}
+<D>__{'81, i think. she tried again five years ago.}
+<P>__{(beat)}
+<D>__{i thought you should know.}
+<C>__{barnes}
+<D>__{so you knew this when you wrote your report?}
+<C>__{norman}
+<D>__{at the time, i don't know, i thought putting her on the list it might help her career catch her a break.}
+<C>__{barnes}
+<D>__{you knowingly recommended a woman with suicidal tendencies for a government operation }
+<C>__{norman}
+<D>__{wait a second }
+<C>__{barnes}
+<D>__{ and then brought her down here }
+<C>__{norman}
+<D>__{ i didn't know it would come to this }
+<C>__{barnes}
+<D>__{ without a cautionary word to anyone.}
+<P>__{(beat)}
+<D>__{you know, ted said something to me earlier. i think he's right. he said, "when you got a guy who if he wasn't here he'd be standing in the unemployment line, you gotta question if you got the right guy."}
+<A>__{on norman sweating.}
+<T>__{cut to:}
+<A>__{on the monitor a series of numbers:}
+<L>__{032629 301321 04261037 2903305 1822 04261013 1822 0330313130432 00032125262632 18 3016 0618082132 2903305 1604 08301621 1822 032629 301321 04261037 18 1822 04261013 0830162137 1604 083016 21 1822 00032125262632 032629 3016 0618082132 2903305}
+<C>__{harry}
+<D>__{it's the same as before, but the spacing's different now. it's definitely nonrandom. see...}
+<A>__{harry sitting at the monitor, shows ted, barnes, norman, and edmunds a printout of the screan indicating a pattern.}
+<C>__{harry}
+<D>__{it's a single sequence repeated over and over.}
+<C>__{barnes}
+<D>__{we're all very proud of you, harry, but what the hell is it?}
+<C>__{ted}
+<D>__{maybe it's a message?}
+<C>__{edmunds}
+<D>__{from what?}
+<C>__{ted}
+<D>__{the sphere. maybe the sphere }
+<C>__{edmunds}
+<D>__{we're not hooked up to the sphere.}
+<C>__{harry}
+<D>__{well, if it's a discharge }
+<C>__{ted}
+<D>__{it's not a discharge. right, edmunds? you said before, right? so it's gotta be a message.}
+<C>__{barnes}
+<D>__{from the sphere?}
+<C>__{ted}
+<D>__{what's inside the sphere.}
+<C>__{harry}
+<D>__{if it is a message, it's probably a substitution code. i will work on it.}
+<C>__{ted}
+<D>__{yeah, i will work on it, too.}
+<C>__{barnes}
+<P>__{(to ted, flat)}
+<D>__{you do that.}
+<L>__{interior bathroom shower area}
+<A>__{ted, nervous, anxious with five or six printouts in his hand has norman's ear in front of the sink...}
+<C>__{ted}
+<D>__{he's manic, norman. you know that? this reliance on harry is misplaced. you hear me? totally misplaced. he's overlooking things. obvious things.}
+<C>__{norman}
+<D>__{like what?}
+<A>__{ted hands him a printout...}
+<C>__{ted}
+<D>__{it's not some fucking substitution code, it's a direct visual representation.}
+<C>__{norman}
+<D>__{you mean a picture?}
+<C>__{ted}
+<D>__{take a look. i rearranged the numbers. put 'em up to the light.}
+<P>__{(norman does)}
+<D>__{go ahead. squint at it.}
+<C>__{norman}
+<D>__{i don't see anything.}
+<C>__{ted}
+<D>__{squint harder.}
+<C>__{norman}
+<D>__{please, ted.}
+<C>__{ted}
+<P>__{(hands him another printout)}
+<D>__{try this one.}
+<C>__{norman}
+<D>__{this is like nursery school.}
+<C>__{ted}
+<D>__{don't you see it? it's a picture of the creature.}
+<C>__{norman}
+<D>__{the creature?}
+<C>__{ted}
+<D>__{inside the sphere. look, that's the vertical torso, three legs, two arms. there's no head, so i'm guessing the creature's head is located within the torso itself, you know?}
+<A>__{on norman ted's lost it.}
+<C>__{norman}
+<D>__{well, how about we wait and see what harry comes up with?}
+<C>__{ted}
+<D>__{sure, why not. give him the trophy. that pretentious son of a bitch. you heard him, norman. all that "someone went to a lot of trouble, try again" bullshit. and "impotent". where does he get off saying i'm impotent? he's a fucking self righteous, little prick.}
+<T>__{cut to:}
+<A>__{close on monitor spirals now.}
+<C>__{harry}
+<D>__{... i asked myself, why would the sphere be using a code? if you're trying to communicate, why use a code?}
+<C>__{ted}
+<P>__{(to norman)}
+<D>__{see? no code. what'd i say?}
+<C>__{harry}
+<D>__{codes are for iding nformation. so it's making a mistake. it's making a code without intending to. i figured it's probably substituting numbers for letters... then i began to wonder what an alien intelligence would make of our keyboard. and since we're getting spirals, i imagined the keyboard as a spiral. so i translated it...}
+<C>__{norman}
+<D>__{that's brilliant.}
+<A>__{ted grimaces at norman.}
+<C>__{harry}
+<D>__{... spiralling out of the center, you see: "g" is one, "b" is two, "h" is three, and so on... when i got the message.}
+<C>__{barnes}
+<D>__{what's the message?}
+<C>__{harry}
+<D>__{i have to tell you. it's strange.}
+<C>__{barnes}
+<D>__{how do you mean, strange?}
+<A>__{harry picks up his yellow pad of paper and reads:}
+<C>__{harry}
+<D>__{"hello. how are you? i am fine. what is your name? my name is jerry."}
+<T>__{cut to:}
+<L>__{interior hallway}
+<A>__{barnes walks briskly down the hall, norman with him...}
+<C>__{barnes}
+<D>__{he translated it wrong. "my name is jerry"? it's like "see spot run."}
+<C>__{norman}
+<D>__{the message doesn't show a lack of intelligence. it's smart. it's approaching us in a simple way. like you would a dog. holding out your hand, letting it sniff, get used to you.}
+<C>__{barnes}
+<D>__{what am i a dog, now?}
+<A>__{barnes ducks his head into the video feed room...}
+<C>__{barnes}
+<D>__{edmunds, get in here. i need you for this.}
+<C>__{edmunds}
+<D>__{in a minute, sir.}
+<A>__{back in communications room barnes storming through the room, the others (minus edmunds) around the monitor.}
+<C>__{barnes}
+<D>__{i want a name. a real name. this thing's full name, rank and serial number.}
+<C>__{ted}
+<D>__{captain, i personally feel we should ask much more substantive questions }
+<C>__{barnes}
+<D>__{i am not gonna explain in some damn report that one person died in a deepsat expedition so we could meet an alien named jerry.}
+<C>__{harry}
+<P>__{(on the keyboard, typing)}
+<D>__{first, we have to see if he'll talk at all.}
+<A>__{on the monitor "0032125252632" the monitor blinks, reply: "0032125252632"}
+<C>__{harry}
+<D>__{okay, jerry's talking.}
+<A>__{harry types "0002921 301321 0613182108142232"}
+<C>__{ted}
+<D>__{what'd you say?}
+<C>__{harry}
+<D>__{"we are friends".}
+<C>__{barnes}
+<D>__{cut the friends crap, get a name.}
+<A>__{"004212232"}
+<C>__{harry}
+<D>__{"yes". good. now let's see if it'll switch over to english letters.}
+<A>__{"0032125252632 = hello" reply: "0032125252632 = hello"}
+<C>__{barnes}
+<D>__{it's not talking, it's mimicking.}
+<C>__{ted}
+<D>__{give him a chance. he's speaking our language, not the other way around.}
+<C>__{harry}
+<P>__{(typing)}
+<D>__{good idea, ted.}
+<C>__{ted}
+<P>__{(confused)}
+<D>__{thank you.}
+<A>__{"0032125252632 = hello. hello = 0032125252632" no reply.}
+<C>__{barnes}
+<D>__{what's he doing?}
+<A>__{reply: "hello = 0032125252632. 0032125252632 = hello."}
+<C>__{barnes}
+<D>__{ignorant. the thing's ignorant.}
+<C>__{harry}
+<D>__{it's not ignorant.}
+<C>__{ted}
+<D>__{maybe it's retending o be ignorant.}
+<A>__{harry types "===" reply: ",,," harry types "=,=" reply: "7 & 7"}
+<C>__{barnes}
+<D>__{are you enjoying yourself, harry, because i don't know what the hell you're doing.}
+<C>__{harry}
+<D>__{he understands me fine.}
+<A>__{harry types: "yes" reply: "0004212232" harry types: "hello" a long beat. reply: "i am delighted to make your acquaintance. the pleasure is entirely mine i assure you." they stare, stunned, at the screen.}
+<C>__{norman}
+<D>__{well, he's polite.}
+<C>__{ted}
+<D>__{unless it's an act.}
+<C>__{beth}
+<D>__{why should it be an act?}
+<A>__{"are you the entity hecho in mexico?"}
+<C>__{barnes}
+<D>__{mexico? where'd he get mexico?}
+<A>__{"are you the entity made in the u.s.a.?"}
+<C>__{ted}
+<D>__{he doesn't wait for an answer.}
+<C>__{beth}
+<D>__{who says it's a he?}
+<C>__{barnes}
+<D>__{not now, beth. please. i want to know who we're talking to before we start talking. where's edmunds?}
+<C>__{harry}
+<D>__{she's not gonna know, sir.}
+<C>__{ted}
+<P>__{(to harry)}
+<D>__{ask him. c'mon. say something.}
+<A>__{harry types: "we are. who are you?" reply: "we are"}
+<C>__{barnes}
+<D>__{hell's that mean? "we are" what?}
+<A>__{harry types: "we are the entities from the u.s.a. who are you?" "entities = entity?"}
+<C>__{ted}
+<D>__{we have to teach him plurals?}
+<A>__{harry: "no" "you are a many entity?" "no. we are many separate entities." "i understand. is there one control entity?"}
+<C>__{barnes}
+<D>__{what?}
+<C>__{harry}
+<D>__{he's saying, "take me to your leader." he wants to know who's in charge.}
+<C>__{barnes}
+<D>__{i'm in charge.}
+<A>__{"yes. the control entity is captain harald barnes"}
+<C>__{barnes}
+<D>__{with an "o". harold with an "o".}
+<C>__{harry}
+<D>__{what you want me to retype it?}
+<A>__{harry: "who are you?" "i am one" "where are you from?" "i am here" "where is the location from where you began?"}
+<C>__{ted}
+<D>__{"from where you began?" that's not even good english.}
+<A>__{"i am from awareness"}
+<C>__{barnes}
+<D>__{what is that, a planet?}
+<A>__{"where is awareness?" "awareness is" "did you make a journey?" "yes. did you make a journey?" "yes" "i make a journey. you make a journey. we make a journey together. i am happy."}
+<C>__{barnes}
+<D>__{great, okay. ask him about his weapons.}
+<C>__{norman}
+<D>__{that's smart. let's talk about guns and violence.}
+<C>__{barnes}
+<D>__{you don't think weapons are important?}
+<C>__{norman}
+<D>__{i think we should be careful. consider his emotional response.}
+<C>__{ted}
+<D>__{you want to put him on your couch, norman. grill him about his childhood?}
+<C>__{norman}
+<D>__{when he uses a phrase like "i am happy", i think we should think twice about what we ask him.}
+<A>__{"do not be afraid" the all stare at the screen, stunned.}
+<C>__{norman}
+<D>__{jerry, can you understand what we're saying?}
+<A>__{"every word" norman walks up to the screen, close to it.}
+<C>__{norman}
+<D>__{jerry, can you read our minds?}
+<A>__{"yes norman" barnes goes to the intercom...}
+<C>__{barnes}
+<D>__{edmunds, i want you in here. now.}
+<A>__{norman focuses on the screen, staring. on the screen blank. norman concentrating, on the screen. the screen blank.}
+<C>__{norman}
+<D>__{jerry, are you there?}
+<A>__{"yes, norman"}
+<C>__{barnes}
+<D>__{we shouldn't talk here. shut it off.}
+<A>__{"i do not wish to intrude"}
+<C>__{norman}
+<D>__{we would like to talk alone.}
+<A>__{"i do not agree. that is not possible. i enjoy to talk with you."}
+<C>__{norman}
+<D>__{and we enjoy talking with you.}
+<A>__{"let us talk now"}
+<C>__{norman}
+<D>__{we'd like to talk with you more. we admire your talents and your great power and understanding.}
+<A>__{"thank you"}
+<C>__{norman}
+<D>__{and in your great understanding, you know that we are entities who must talk in private with each other.}
+<A>__{"do not be afraid"}
+<C>__{norman}
+<D>__{we're not afraid, we are uncomfortable.}
+<A>__{"am i offended you?"}
+<C>__{norman}
+<D>__{not at all, we enjoy you very much, but we need to talk alone, without you listening.}
+<A>__{"i shall oblige"}
+<C>__{norman}
+<D>__{thank you.}
+<A>__{"but i am not happy"}
+<C>__{norman}
+<D>__{jerry?...}
+<A>__{"we'll be right back after a short break for these messages from our sponsor"}
+<C>__{norman}
+<D>__{jerry? are you still there?}
+<A>__{screen blank.}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{screen blank.}
+<C>__{barnes}
+<P>__{(into intercom)}
+<D>__{edmunds? get in here. i want to know exactly how this is being transmitted.}
+<C>__{harry}
+<D>__{she's not gonna know.}
+<C>__{barnes}
+<D>__{she wired this system.}
+<C>__{harry}
+<D>__{if the technology of that sphere is advanced enough the way it functions is gonna appear to us like magic.}
+<A>__{on ted and norman }
+<C>__{ted}
+<D>__{don't gimme that psychology bullshit, norman. psychology isn't a science, it's superstition. it's a bunch of soft, subjective theories without any hard data to back it up. with an intellect like this, emotions don't mean shit.}
+<A>__{on harry and barnes }
+<C>__{harry}
+<D>__{it's like showing leonardo da vinci a laptop computer. he'd run screaming "witchcraft". and you couldn't explain it to him, either. modems, microchips, particle physics.}
+<C>__{barnes}
+<P>__{(into intercom)}
+<D>__{edmunds?}
+<A>__{on ted and norman }
+<C>__{ted}
+<D>__{don't make stuff up, these emotional theories, just so you can feel important here.}
+<C>__{norman}
+<D>__{frankly, ted, i'd be much happier if jerry was just a cold, emotionless intellect.}
+<C>__{ted}
+<D>__{why's that?}
+<C>__{barnes}
+<P>__{(into intercom)}
+<D>__{edmunds?}
+<C>__{norman}
+<D>__{because if jerry is powerful and also emotional...}
+<C>__{barnes}
+<D>__{damn it, edmunds?}
+<C>__{norman}
+<D>__{... it raises a very serious question: what happens if jerry ets mad}
+<L>__{interior video feed room}
+<C>__{barnes }
+<D>__{edmunds? can you copy?}
+<A>__{an empty chair. edmunds is not here. we hear a repeating thump. thump.}
+<B>__{thump.}
+<C>__{barnes }
+<D>__{edmunds?}
+<A>__{on a monitor we see her body, wedged in a light stand bracket, floating in the water, lifeless. her helmet thumping against the wall of the habitat.}
+<L>__{interior underwater outside the habitat}
+<A>__{norman and beth, in jumpsuits and helmets, walk out from under the habitat. still hearing the thumping. they pause, looking around.}
+<C>__{beth}
+<D>__{coast is clear.}
+<A>__{they go to the south end of the habitat. the thumping louder. norman climbs up the grid like stanchion, the support beam holding up the habitat. the body above him flapping in the current. thumping against the wall. he climbs, reaching the body. a boot swings, catches the loop in his air hose. bubbles shoot out.}
+<C>__{beth}
+<D>__{norman, your suit it's leaking.}
+<A>__{the boot comes off in norman's hand and the naked foot, gray flesh, purple toenails, kicks his faceplate. startles him.}
+<C>__{beth}
+<D>__{norman. look at this.}
+<A>__{on edmunds' suit a long tear in the fabric, revealing red, mangled flesh. droplets of blood float past norman's faceplate.}
+<C>__{beth}
+<D>__{her flesh has been macerated. chewed. i've never seen a bite like this before.}
+<A>__{norman pulls her body out. edmunds' faceplate whips around and norman sees her staring eyes, mouth open in horror.}
+<C>__{norman}
+<D>__{i can't feel her bones. she's like a sponge.}
+<C>__{beth}
+<D>__{she was crushed. feel her skin it's like sandpaper.}
+<C>__{norman}
+<D>__{what could have done this?}
+<A>__{we hear a sensor: pong. pong. pong.}
+<L>__{interior video feed room}
+<A>__{barnes at the monitors, ted with him.}
+<B>__{pong. pong. pong.}
+<C>__{ted}
+<D>__{what is that?}
+<C>__{barnes}
+<D>__{the sensors are picking up something outside.}
+<C>__{ted}
+<D>__{what?}
+<A>__{barnes flips a switch...}
+<C>__{barnes}
+<D>__{it won't register. it's too big to image.}
+<C>__{ted}
+<D>__{too big?}
+<L>__{exterior underwater}
+<A>__{white eggs, the size of golf balls descend from above. hundreds of them. beth catches one, inspects it...}
+<C>__{beth}
+<D>__{norman.}
+<C>__{norman}
+<D>__{what are they?}
+<C>__{beth}
+<D>__{eggs.}
+<A>__{from inside their helmets...}
+<C>__{barnes }
+<D>__{you people need to hurry back. the sensors have activated. i don't think you're alone out there.}
+<L>__{interior corridor}
+<A>__{ted walks with norman and beth...}
+<C>__{norman}
+<D>__{what was it?}
+<C>__{ted}
+<D>__{barnes didn't know. couldn't get a reading.}
+<C>__{norman}
+<D>__{has harry spoken with jerry?}
+<C>__{ted}
+<D>__{not that i know of. why?}
+<L>__{interior communications room}
+<A>__{norman and ted at the console...}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{no reply.}
+<C>__{norman}
+<D>__{jerry, are you there?}
+<A>__{no reply.}
+<C>__{ted}
+<D>__{you think jerry has something to do with what killed edmunds? with what's out there?}
+<C>__{norman}
+<D>__{i'm not sure.}
+<L>__{interior labratory}
+<B>__{close on an egg}
+<A>__{beth, scalpel in hand, is making an incision into the shell.}
+<C>__{beth}
+<D>__{looking at the coating here, it's definitely marine invertebrate.}
+<A>__{barnes, norman, harry and ted stand around the table.}
+<C>__{barnes}
+<D>__{well, until we know exactly what it is, nobody goes outside, understood?}
+<C>__{ted}
+<D>__{what was edmunds doing outside?}
+<C>__{barnes}
+<D>__{resetting the sub.}
+<C>__{ted}
+<D>__{what sub?}
+<C>__{barnes}
+<D>__{in the dome hanger. all our tapes are transferred to the sub. it's on a 12 hour timer. if someone doesn't reset the "delay" button, the sub ascends to the surface with the tapes.}
+<C>__{norman}
+<D>__{what for?}
+<C>__{barnes}
+<D>__{if something should happen to us, the navy will at least have partial records of what happened.}
+<C>__{norman}
+<D>__{at least our obituaries will be accurate. that's reassuring.}
+<A>__{on the egg splitting open. a slimy pinkish brown fluid oozes out. a fetus underneath. they cover their mouths from the smell.}
+<C>__{barnes}
+<D>__{what is it?}
+<A>__{beth picks at it with forceps...}
+<C>__{beth}
+<D>__{i'm not sure. i've never seen anything like it.}
+<C>__{barnes}
+<D>__{you're a fucking biochemist, aren't you? can't you tell us something.}
+<A>__{beth glares at barnes...}
+<L>__{interior closet area dark}
+<A>__{beth, holding a piece of paper in her hand, pulls norman inside, pressing on him...}
+<C>__{beth}
+<D>__{... he lied to us. he left us down here.}
+<C>__{norman}
+<D>__{c'mon, beth. don't make this personal. he told me himself they were taking us back.}
+<C>__{beth}
+<D>__{yeah, he old ou. think. what was barnes doing before they cut that cable loose? he was on the phone. except that cable is a thousand feet long, norman. they would've broken off communication with us four, five minutes before they cleared out.}
+<C>__{norman}
+<D>__{so what?}
+<C>__{beth}
+<D>__{so who was barnes talking to at the last minute? nobody.}
+<C>__{norman}
+<D>__{you're jumping to conclusions, beth. don't get worked up }
+<C>__{beth}
+<D>__{fuck you, norman! it's right here...}
+<A>__{she shows him the printout in her hand, putting a flashlight on the words, reads...}
+<C>__{beth}
+<D>__{"although advised of risks, all personnel elect to remain down for duration of storm to continue investigation of alien sphere and associated spacecraft. signed, barnes, usn."}
+<C>__{norman}
+<D>__{where did you get this?}
+<C>__{beth}
+<D>__{in edmunds' things.}
+<C>__{norman}
+<D>__{you went through edmunds' things?}
+<C>__{beth}
+<D>__{he's not just a navy captain he works for the fucking pentagon.}
+<C>__{norman}
+<D>__{calm down, beth. alright?}
+<C>__{beth}
+<D>__{don't tell me to calm down!}
+<C>__{norman}
+<D>__{it's done, alright? it's over! and there's not a damn thing we can do about it now, okay?}
+<A>__{he turns to leave...}
+<C>__{beth}
+<D>__{you said something to him, didn't you?}
+<C>__{norman}
+<D>__{what?}
+<C>__{beth}
+<D>__{you told him about me?}
+<A>__{on norman pausing, staring at her...}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{you did, didn't you?}
+<C>__{norman}
+<D>__{don't do this.}
+<C>__{beth}
+<D>__{you bastard.}
+<C>__{norman}
+<D>__{beth, i didn't. hold it together. alright?}
+<A>__{she looks at him, piercing into his eyes...}
+<C>__{beth}
+<D>__{yeah, okay. sure, norman.}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{no, i should stay calm. like you say. right, norman? stay calm.}
+<A>__{norman looks at her, concerned, knowing she doesn't believe him...}
+<C>__{beth}
+<D>__{fletcher and edmunds are dead, norman. and the only one we can trust to run this place is a fucking liar.}
+<T>__{cut to:}
+<L>__{interior control room}
+<A>__{on the oxygen regulator bobbing up and down keeping track of the little that's left.}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{barnes, norman, beth, and ted are gathered around the monitors. barnes addresses norman...}
+<C>__{barnes}
+<D>__{i don't want you talking to jerry.}
+<C>__{norman}
+<D>__{but sir, i think it's imperative. i think the messages, the animals we've seen, what killed edmunds, the reading you got earlier i think they're all related.}
+<C>__{ted}
+<D>__{jerry isn't hostile, norman. he said earlier we were his friends }
+<C>__{norman}
+<D>__{of course he did. he's been isloated for 400 years. he wants someone to talk to. look, you put a human being in isolation for four days, they can become neurotic, sometimes psychotic. we're talking about 400 years here. an alien that shows emotional responses. i think we need to address him, before he reacts further.}
+<C>__{barnes}
+<D>__{you think he killed edmunds?}
+<C>__{norman}
+<D>__{yes, i do. whatever's out there, i think is his response to us refusing to talk to him earlier.}
+<C>__{barnes}
+<D>__{bullshit. what's out there isn't alien. it's an animal.}
+<C>__{norman}
+<D>__{maybe so. but i think we need to ask jerry about it.}
+<C>__{barnes}
+<D>__{no. i think we should shut down the communication lines inside the habitat. he might be listening now.}
+<C>__{beth}
+<D>__{i think he already is.}
+<A>__{they turn to the monitors: on the monitor: "do not ignore me"}
+<C>__{beth}
+<D>__{nice work, captain sir.}
+<C>__{barnes}
+<D>__{shut up, beth. i don't want to hear it.}
+<C>__{norman}
+<D>__{jerry, we don't want to ignore you.}
+<A>__{"don't underestimate my power"}
+<C>__{norman}
+<D>__{we don't.}
+<A>__{"yes you do"}
+<C>__{norman}
+<D>__{jerry }
+<A>__{the monitor blinks back we see the sphere. it is closed. still. we hear the sensor: pong. pong. pong.}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{harry, alone, stares at the fetus on the table.}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{on the sonar impulse monitor lines jumping higher. pong. pong. pong. barnes, norman, beth, and ted watching it.}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{no response.}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{the monitor flashes: "i'm not listening" blinks back. an outside camera feed infra red a large image streaks by.}
+<C>__{barnes}
+<D>__{direction's east coming!}
+<C>__{beth}
+<D>__{what was that?}
+<A>__{barnes flips a switch...}
+<C>__{barnes}
+<D>__{going active.}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{no response.}
+<C>__{beth}
+<D>__{it looked like a tentacle. of a squid.}
+<A>__{the monitors beeping now.}
+<C>__{barnes}
+<D>__{a squid? the size of a whale? i don't think so.}
+<P>__{(beat)}
+<D>__{target acquired. sixty yards.}
+<B>__{pong. pong. pong.}
+<C>__{beth}
+<D>__{what if it attacks?}
+<C>__{barnes}
+<D>__{fifty yards and closing.}
+<C>__{beth}
+<D>__{what do we use for defense?}
+<C>__{barnes}
+<D>__{we're a habitat. not a castle. the only defense we have is high voltage.}
+<C>__{beth}
+<D>__{high voltage?}
+<C>__{barnes}
+<D>__{it sends 200 volts throughout the cylinder surface. but we've never used it underwater before.}
+<B>__{pong. pong. pong.}
+<C>__{barnes}
+<D>__{forty yards.}
+<C>__{beth}
+<D>__{but you've tested it?}
+<C>__{barnes}
+<D>__{sure. each time it started fires inside the habitat.}
+<B>__{pong. pong. pong.}
+<C>__{barnes}
+<D>__{thirty yards.}
+<C>__{beth}
+<D>__{what are you saying we can't stop what's out there?}
+<A>__{the monitors blink: "i am coming". the monitor blinks to blank.}
+<C>__{barnes}
+<D>__{what the hell?}
+<P>__{(bangs on the monitors)}
+<D>__{it shut us down.}
+<C>__{norman}
+<D>__{jerry? please. stop this.}
+<C>__{barnes}
+<D>__{ted, go into the control room. listen for my instructions.}
+<A>__{ted goes out the door. all the monitors blank.}
+<C>__{beth}
+<D>__{where is it?}
+<C>__{barnes}
+<D>__{why can't i ? what the hell is going on here?}
+<A>__{they hear a metallic clanking.}
+<C>__{beth}
+<D>__{what was that?}
+<C>__{barnes}
+<D>__{he's right beneath us.}
+<A>__{the monitors blink: "i am here".}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{harry looking at the fetus on the table. it suddenly slides down the table. the room is rocked. on shelves jars, petry dishes, test tubes slide off shattering to the floor.}
+<L>__{interior corridor}
+<A>__{bang! ted is thrown ruthlessly against the wall. his head striking metal, splitting open his forehead. the walls cracking and groaning. water breaks through a crack, spreading out onto the floor.}
+<L>__{interior video feed room}
+<A>__{barnes...}
+<C>__{barnes}
+<D>__{ted? ted?}
+<L>__{interior control room}
+<A>__{ted, stumbles, reaches for the headset...}
+<C>__{ted}
+<D>__{sir, we're leaking!}
+<A>__{blood dripping from his forehead.}
+<L>__{interior video feed room}
+<C>__{barnes}
+<D>__{increase positive pressure!}
+<C>__{beth}
+<D>__{that's our reserve air.}
+<C>__{barnes}
+<D>__{it's either that or we grow gills.}
+<A>__{bang! they grip onto the console...}
+<L>__{interior control room}
+<A>__{ted, drousy, blood gushing from his head, keeping balance, searches for the pressure gage.}
+<C>__{barnes }
+<D>__{ted? ted, are you with me?}
+<A>__{finds the gage. turns it.}
+<C>__{ted}
+<D>__{increasing positive pressure.}
+<L>__{exterior habitat underwater}
+<A>__{air bubbles burst out of the walls.}
+<L>__{interior corridor}
+<A>__{on the floor the water scurrying back through the leaks in the wall.}
+<L>__{interior video feed room}
+<A>__{barnes, watching the monitors.}
+<C>__{barnes}
+<D>__{that's enough ted.}
+<P>__{(beat)}
+<D>__{shut it off!}
+<L>__{interior control rrom}
+<A>__{the pressure gage the needle rising... on the headset in the air, dangling from it's cord.}
+<C>__{barnes }
+<D>__{ted? ted!}
+<A>__{on ted passed out on the floor. blood covering his face.}
+<L>__{interior video feed room}
+<A>__{beth and norman bolt out the door}
+<L>__{into the hallway}
+<A>__{running. bang! they're thrown against the wall.}
+<L>__{interior control room}
+<A>__{the pressure gauge rising, higher, higher.}
+<L>__{interior corridor}
+<A>__{thump! norman and beth, losing their balance, stumbling to their feet, running... on ted sliding out of the control room, down the corridor, taken by the water. beth grabs him, as norman stumbles}
+<L>__{into the control room}
+<A>__{finds the pressure gage, shuts it off.}
+<L>__{interior video feed room}
+<A>__{bang! barnes grips his headset as he's thrown to the floor.}
+<C>__{barnes}
+<D>__{norman! norman can you hear me?}
+<L>__{interior control room}
+<A>__{norman grabs the headset, slips it on...}
+<C>__{norman}
+<D>__{yes, sir. i'm here.}
+<C>__{barnes }
+<D>__{you see the lever on the green box? upper right hand corner?}
+<A>__{norman sees it, reads it:}
+<C>__{norman}
+<D>__{high voltage defense system.}
+<A>__{on beth in the hall, tending to ted, looks up at norman.}
+<L>__{interior video feed room}
+<C>__{barnes}
+<D>__{you see the lever next to it?}
+<L>__{interior control room corridor}
+<A>__{beth yelling...}
+<C>__{beth}
+<D>__{don't do it, norman!}
+<C>__{barnes }
+<D>__{do you see it?}
+<A>__{on norman turning from beth, to the lever.}
+<C>__{norman}
+<D>__{i see it.}
+<C>__{barnes }
+<D>__{pull it.}
+<C>__{beth}
+<D>__{don't pull it, norman. it'll start a ire e can't stop. norman?}
+<C>__{barnes }
+<D>__{do it, norman, it's the only choice we have. this thing is gonna crush us.}
+<C>__{beth}
+<D>__{norman, don't do it!}
+<A>__{bang! the walls creaking and screeching.}
+<L>__{interior video feed room}
+<A>__{barnes on the floor, a monitor crashes alongside him, spitting sparks, flashing: "i will kill you"}
+<C>__{barnes}
+<D>__{do it now!}
+<L>__{interior control room corridor}
+<A>__{norman, sweating...}
+<C>__{beth}
+<D>__{don't do it!}
+<C>__{barnes}
+<D>__{now!}
+<A>__{bang! creaking, groaning of metal.}
+<C>__{beth}
+<D>__{norman, please! don't!}
+<A>__{bang!}
+<C>__{barnes }
+<D>__{pull it, damn it!}
+<A>__{on norman puts his hand on the lever.}
+<C>__{beth}
+<D>__{norman!}
+<A>__{he pulls the lever.}
+<L>__{interior habitat}
+<A>__{down the corridors a loud hum from the generators. the lights}
+<B>__{dimming.}
+<A>__{bang! we hear what seems to be a squeal, as the metal rends and}
+<B>__{creaks.}
+<L>__{interior video feed room}
+<A>__{an alarm sounds. barnes looks up... the warning board lights up.}
+<C>__{barnes}
+<D>__{fire in communications room!}
+<L>__{interior communications room}
+<A>__{fire roars out from the walls...}
+<L>__{interior corridor}
+<A>__{close on fire extinguisher case beth whips it open, grabs it. on norman picking up ted, lugging him awkwardly over his shoulder. on barnes running down the corridor towards them. bang! barnes falls to the floor, taken away by the water.}
+<T>__{cut to:}
+<A>__{another case on the wall whips open beth grabs gas masks. she hears...}
+<C>__{barnes }
+<D>__{help!}
+<A>__{she looks down the corridor at... barnes on the floor, flailing in the water, screaming, as his legs are caught in a crack in the wall. desperate...}
+<C>__{barnes}
+<D>__{beth! help, i can't !}
+<A>__{on beth staring at him. just watching him. not moving.}
+<C>__{barnes}
+<D>__{beth!}
+<A>__{barnes his body falling through the crack, his head bangs into the wall, stuck in the crack, water choking him...}
+<C>__{barnes}
+<D>__{be }
+<A>__{... trying to scream, his neck ripping, snaps, and his body vanishes into the ocean. on beth cold, turns away.}
+<L>__{interior communications room}
+<A>__{fire blasts out from the wall... beth and norman (still with ted) wearing gas masks, rush into the room...}
+<C>__{beth}
+<D>__{stay low!}
+<A>__{beth sprays white foam on the fierce flames, licking up the side padding, smoke boils to the cieling. bang! the room is rocked.}
+<C>__{norman}
+<D>__{it won't stop.}
+<A>__{norman falls to the floor, losing ted. ted slides away and under the computer console. bang! the computer console breaks computers, monitors, fall, crushing on ted's legs. he screams out in agony. norman scrambles towards him through the smoke when... the console catches fire, erupts in flame. ted underneath it. beth her extinguisher out of foam. norman runs to a wall, finds an extinguisher casing, it's been bent, can't get it open. ted reaches out in desperation as his legs catch fire.}
+<C>__{ted}
+<D>__{norman!}
+<A>__{norman bashes the casing in with his shoulder, grabs the extinguisher, turns... ted his entire body on fire. bang! norman falls, dropping the extinguisher it rolls across the floor. he reaches out can't get it. close on ted his face burning...}
+<C>__{ted}
+<D>__{norman! nor }
+<A>__{bang! the lights go out.}
+<B>__{darkness}
+<A>__{norman watches in horror as he watches ted, lit in flame, burning to death. norman reaches for the wall for balance, grabs metal, and he's electricuted. falls backward, head first, and everything goes...}
+<B>__{black}
+<A>__{a long beat.}
+<C>__{navy seaman }
+<D>__{dr. johnson? dr. johnson?}
+<L>__{interior communications room}
+<A>__{we focus in on norman, as he awakens. navy seaman, 40s, african american, standing above him.}
+<C>__{navy seaman}
+<D>__{norman johnson.}
+<C>__{norman}
+<D>__{does this mean what i think it means?}
+<C>__{navy seaman}
+<D>__{it's over, sir, the storm has cleared.}
+<C>__{norman}
+<D>__{the ships?}
+<C>__{navy seaman }
+<D>__{they're topside. we're ready to take you home, sir.}
+<A>__{the navy seaman helps norman to his feet. norman is smiling, it's over.}
+<L>__{interior hallway}
+<A>__{norman and the navy seaman walk down the hall.}
+<C>__{norman}
+<D>__{how are the others?}
+<C>__{navy seaman}
+<D>__{the others, sir?}
+<C>__{norman}
+<D>__{beth and harry?}
+<C>__{navy seaman}
+<D>__{they're in the sub, sir. waiting.}
+<A>__{norman sighs, smiling. the relief, the jubilation.}
+<C>__{norman}
+<D>__{that whole time i couldn't stop thinking of what harry was saying earlier...}
+<C>__{navy seaman}
+<D>__{what was that, sir?}
+<C>__{norman}
+<D>__{about the time paradox.}
+<P>__{(the seaman nodding)}
+<D>__{how we were all going to die that there was no way we would make it out of here alive }
+<A>__{as norman looks up, the navy seaman, still walking and nodding, begins to slowly disappear. disintigrating. vanishing before his eyes. norman stops, looks around him. he's gone.}
+<L>__{interior video feed room}
+<A>__{norman watches on a monitor the video of him walking down the hall, the navy seaman walking next to him.}
+<C>__{norman }
+<D>__{... how we were all going to die that there was no way we would make it out of here alive }
+<A>__{on the monitor the seaman disappers. norman stops tape. looks over at the monitor showing the sphere. it is closed. the screen goes black. flashes up: "hello norman"}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{"yes norman"}
+<C>__{norman}
+<D>__{jerry, did you create that man?}
+<A>__{"the entity navy seaman was a manifestation. did you have a happy talk?"}
+<C>__{norman}
+<D>__{jerry, are you manifesting what's destroying our habitat?}
+<A>__{"did you have a happy talk?"}
+<C>__{norman}
+<D>__{jerry, answer me.}
+<A>__{"no."}
+<C>__{norman}
+<D>__{jerry?}
+<A>__{a beat. "stop calling me jerry" the monitor shuts off. norman looks over at another monitor labled "airlock feed". on the screen beth is putting on her jumpsuit.}
+<L>__{interior airlock}
+<A>__{reflected in the pool of water we see beth, slipping on her boots.}
+<C>__{norman }
+<D>__{where are you going in such a hurry?}
+<C>__{beth}
+<D>__{i have to reset the sub.}
+<A>__{norman stands in the doorway...}
+<C>__{norman}
+<D>__{forget the sub.}
+<C>__{beth}
+<D>__{don't bother me, norman.}
+<C>__{norman}
+<D>__{it's not worth the risk.}
+<C>__{beth}
+<D>__{it's also our only way out of here! it holds three people. and there's only three of us left now.}
+<C>__{norman}
+<D>__{you, me and harry?}
+<C>__{beth}
+<D>__{you, me and harry. he's asleep.}
+<C>__{norman}
+<D>__{wake him, then. let's go. get outta }
+<C>__{beth}
+<D>__{we can't. the storm. the waves would toss us around worse than we got down here. and we have four days of decompression when we get up top.}
+<C>__{norman}
+<D>__{four days?}
+<C>__{beth}
+<D>__{get the helium out of our bloodstream. we go to the surface now, we'd pop like a soda bottle.}
+<A>__{she begins to put on her helmet, when she stops.}
+<C>__{beth}
+<D>__{maybe you should go. to the sub.}
+<C>__{norman}
+<D>__{why should i go?}
+<C>__{beth}
+<D>__{you should know how it works. just in case.}
+<C>__{norman}
+<D>__{in case you die, too?}
+<C>__{beth}
+<D>__{i don't trust harry to do it.}
+<C>__{norman}
+<D>__{i would. but my suit }
+<C>__{beth}
+<D>__{i fixed your suit.}
+<A>__{she goes to it. brings it to him.}
+<C>__{norman}
+<P>__{(watching her closely)}
+<D>__{you fixed my suit?}
+<C>__{beth}
+<D>__{you don't trust me?}
+<C>__{norman}
+<D>__{but i don't know how }
+<C>__{beth}
+<D>__{you press a button, norman. it's not brain surgery. here, go ahead. you only have 15 minutes to reset it. go on, norman...}
+<A>__{she hands him a briefcase, the tapes inside.}
+<C>__{beth}
+<D>__{... i will watch the sensors for you.}
+<L>__{exterior underwater}
+<A>__{norman drops to the bottom with the briefcase. lands on the ground. breathing. checks his life support badge. she must've fixed it.}
+<C>__{beth}
+<D>__{you're clear, norman.}
+<A>__{he walks along, out from under the habitat. carefully, looking around.}
+<C>__{beth }
+<D>__{the sub's a 100 feet in front of you. you see it?}
+<C>__{norman}
+<D>__{i can't see anything. how does it look? still clear?}
+<C>__{beth }
+<D>__{still clear.}
+<A>__{norman, hesitantly, ventures out. the dark water. looking around. anything could be out here. walking. we hear him breathing. his breathing gets shorter. he looks at his life support badge.}
+<C>__{beth }
+<D>__{what's the matter?}
+<C>__{norman}
+<D>__{you fixed this suit?}
+<P>__{(no reply)}
+<D>__{beth?}
+<C>__{beth }
+<D>__{yes, norman. i did. you're just nervous.}
+<C>__{norman}
+<D>__{my air isn't... i'm coming back.}
+<C>__{beth }
+<D>__{you can't. counter's at 10 minutes. you don't have time.}
+<A>__{his breathing is short, but managable. he continues on. ahead of him the dome hanger attached to a large, gray cylinder, forty feet high.}
+<C>__{norman}
+<D>__{still clear?}
+<C>__{beth }
+<D>__{still clear.}
+<A>__{underneath the dome hanger norman climbs up to the hatch door. looks below him. nothing around him. he spins the wheel, and pushes the hatch open. lifts himself up, awkwardly. grabs handholds, and pulls himself up into the pocket of air trapped inside the dome. the sub in front of him. he finds the hatch, opens it, climbs inside the sub.}
+<L>__{interior sub}
+<A>__{norman sits in the small seat.}
+<C>__{norman}
+<D>__{i'm in.}
+<P>__{(beat)}
+<D>__{hello?}
+<A>__{no answer. he bangs at his helmet...}
+<C>__{norman}
+<D>__{beth?}
+<A>__{he searches the sub's control panel. gadgets, switches, buttons. up top a flashing red lit button: "timer hold". punches it. it stops flashing, and a small screen glows: "timer reset count: 12:00:00". it begins counting backwards.}
+<C>__{norman}
+<D>__{beth? hello?}
+<A>__{no answer. he looks at the control panel: a video screen with the choices: "descend, ascend, secure, shutdown... " thump! the sub slightly sways. norman sits still, nervous. thump! harder this time. norman looks through the glass windshield. sweating. can't see anything in here. bang! it sways faster, harder, back and forth. he grips the seat.}
+<C>__{norman}
+<D>__{beth! beth! there's something !}
+<A>__{thump! bang! he's thrown around in the sub. he can't see anything, tosses around. he reaches for the doorhandle. bang! he looses grip, his legs fly up in the air. the sub almost turns over on it's side.}
+<C>__{norman}
+<D>__{beth! shit!}
+<A>__{his helmet bangs into the glass, we see his look of terror. water splashing up from below. then, everything stops. the sub sways to a still. he sits quietly. waiting. listening. reaches for the doorhandle, cautiously climbs out. stands on top of the sub. keeping balance. he looks around, finds a door inside the dome. tries to open it. locked. looks around. nothing else. looks down at the water. can he risk it? his breathing short.}
+<C>__{norman}
+<D>__{beth? can you hear me?}
+<A>__{no reply. he dips his leg slowly, quietly into the water. grimacing. then, cautiously slips down into the water...}
+<L>__{exterior underwater}
+<A>__{close on his face terrified. looking everywhere. searching. doesn't see anything. lands on the bottom. his life support badge beeping. shortness of breath. he walks, trying to run, out from under the dome hanger. the dark water. can't see anything. scared to death.}
+<C>__{norman}
+<D>__{beth? beth? shit.}
+<A>__{the habitat ahead of him. norman goes to a stanchion. grips onto it. twists around. looking. searching. doesn't see anything. life support badge bleeping faster. barely breathing.}
+<C>__{harry }
+<D>__{... you there? norman?}
+<C>__{norman}
+<D>__{harry?}
+<C>__{harry }
+<D>__{norman, where are you?}
+<C>__{norman}
+<D>__{i can't breathe... am i... clear?}
+<C>__{harry }
+<D>__{you're clear. you see the airlock?}
+<A>__{norman, twists around, and as he does...}
+<B>__{a sea snake}
+<A>__{hisses at his faceplate. norman screams. on his hand holding the snake, not the girder, lets go.}
+<C>__{harry }
+<D>__{norman!}
+<A>__{norman falls... looking up: the snake wrapped around the stanchion, slithering between the grid like posts. the snake's head comes at norman, as he falls to the ocean bottom. backpeddaling on his arms and feet. the snake, hissing, coming at him. it's long tongue flicking at him, inches from his faceplate. norman backpeddaling, can't breathe, the snake coming down on him, norman falls on his back, the tongue whipping across his faceplate, when... norman is whisked up. harry has him by the collar of his suit. taking him up.}
+<L>__{interior airlock}
+<A>__{they burst out of the water. harry throws norman onto the floor. unhooks his helmet norman breathes, fast and furious.}
+<L>__{interior corridor}
+<A>__{norman, panting, walks with harry...}
+<C>__{norman}
+<D>__{thank you. my suit beth said she fixed it }
+<C>__{harry}
+<D>__{what happened to her?}
+<C>__{norman}
+<D>__{what do you mean? she's not here?}
+<C>__{harry}
+<D>__{when i woke up, nobody was here.}
+<C>__{norman}
+<D>__{she was supposed to be watching the sensor for me.}
+<C>__{harry}
+<D>__{her suit's gone.}
+<C>__{norman}
+<D>__{beth left?}
+<C>__{harry}
+<D>__{i thought she was with you.}
+<L>__{interior video feed room}
+<A>__{norman and harry at the mic...}
+<C>__{beth }
+<D>__{... what do you mean? i'm in the ship.}
+<C>__{norman}
+<D>__{what are you doing in the ship?}
+<P>__{(beat)}
+<D>__{beth?}
+<C>__{beth }
+<D>__{getting food. we were out of food. what's wrong? you sound mad.}
+<C>__{norman}
+<D>__{yeah, well, i get that way when i'm facing death and someone deserts me.}
+<C>__{beth }
+<D>__{deserts you? harry said he'd take over for me.}
+<C>__{norman}
+<D>__{he what?}
+<A>__{harry shakes his head: "no way".}
+<C>__{beth }
+<D>__{when he woke up, he said we were out of food. he told me to get some from the ship.}
+<C>__{harry}
+<D>__{i never said that.}
+<C>__{beth }
+<D>__{yes you did. norman, i wouldn't leave you out there. you know that.}
+<C>__{harry}
+<D>__{we never even had a conversation, norman.}
+<C>__{beth }
+<D>__{harry? that's bullshit. we stood right there }
+<A>__{harry covers the mic...}
+<C>__{harry}
+<D>__{she's cracking, norman.}
+<C>__{norman}
+<D>__{you didn't say that about the food?}
+<C>__{harry}
+<D>__{i was just in the cafeteria, there's plenty of food in there. take a look for yourself.}
+<C>__{norman}
+<D>__{but why would she ?}
+<C>__{harry}
+<D>__{she's lying, norman. just like she lied about fixing your suit.}
+<A>__{harry uncovers the mic...}
+<C>__{beth }
+<D>__{you get it straightened out?}
+<C>__{norman}
+<D>__{i think so, beth. yes.}
+<L>__{interior cafeteria}
+<A>__{norman, sitting at a table, eating a couple pieces of cold chicken. a salad, some fruit, and boxes of crackers on the table. beth walks in, carrying a bag of food.}
+<C>__{beth}
+<D>__{what's harry doing with your suit in there?}
+<C>__{norman}
+<D>__{fixing it.}
+<C>__{beth}
+<D>__{fixing it? but i fixed }
+<P>__{(notices the food)}
+<D>__{where'd you get all that?}
+<C>__{norman}
+<D>__{the refridgerator.}
+<C>__{beth}
+<D>__{the refridgerator.}
+<C>__{norman}
+<D>__{it's a pretty common place to look for food when you don't think you have any.}
+<C>__{beth}
+<D>__{that wasn't in there before.}
+<C>__{norman}
+<D>__{we must've had it delivered then.}
+<C>__{beth}
+<D>__{wait a second }
+<C>__{norman}
+<D>__{1 800 deepsea delivery. i hear they're good.}
+<C>__{beth}
+<D>__{none of this was here before.}
+<C>__{norman}
+<D>__{did you look? it was on the top shelf.}
+<C>__{beth}
+<D>__{no, it wasn't. i swear none of this was here. none of it.}
+<P>__{(beat)}
+<D>__{you think he hid it? earlier. he must've hid it.}
+<C>__{norman}
+<D>__{you think?}
+<C>__{beth}
+<D>__{you don't believe me.}
+<C>__{norman}
+<D>__{all i know is i opened that refridgerator }
+<C>__{beth}
+<D>__{damn it, norman. i swear. i had a whole conversation with the man when he woke up.}
+<C>__{norman}
+<D>__{this being after you so carefully fixed my suit.}
+<C>__{beth}
+<D>__{you think it's me? you think i'm saying there was a conversation when there wasn't?}
+<C>__{norman}
+<D>__{i don't know, beth. i wasn't there.}
+<C>__{beth}
+<D>__{damn it, norman! he's lying. don't you get it? there is something seriously fucked up going on here and he's causing it. why can't you believe me?}
+<A>__{to her left she looks harry is standing in a doorway, cold, holding norman's jumpsuit. he turns away. on beth looking back at norman, tears rolling down her eyes.}
+<T>__{cut to:}
+<L>__{interior airlock}
+<A>__{harry neatly hangs norman's jumpsuit under the hook labled: "johnson". smoothens it out for him.}
+<T>__{cut to:}
+<L>__{interior cafeteria}
+<A>__{on beth sitting at a table, her face in her hands. on norman looking at her, as he closes a box of crackers. wraps cellophane over the chicken. walks with it over to the refridgerator. opens it, placing the chicken inside... but he can't.}
+<B>__{inside the refridgerator}
+<A>__{are books neatly lined up on each of the shelves. norman backs away. what the hell? norman now looks at the cupboards. goes to them.}
+<B>__{inside the cupboard}
+<A>__{books, neatly stacked. norman, panicking, opens each of the cupboards, all of them with}
+<B>__{books.}
+<A>__{all of the books are the same. entitled: "20,000 leagues under the sea by jules verne." norman looks over at beth.}
+<C>__{beth}
+<D>__{what is it, norman? norman?}
+<A>__{she comes to him. he stands there, bewildered, scared, mind racing.}
+<C>__{beth}
+<D>__{norman?}
+<A>__{norman paces, frantic almost, running his hands through his hair, trying to think. stops. turns to beth.}
+<C>__{norman}
+<D>__{page 87.}
+<C>__{beth}
+<D>__{what?}
+<C>__{norman}
+<D>__{page 87. "i could never read that far."}
+<A>__{norman quickly plucks a book from a shelf, turns pages, gets to page}
+<L>__{87. reads...}
+<C>__{norman}
+<D>__{"our fisherman frequently see some that are more than four feet long. some skeletons of squids...}
+<C>__{beth}
+<D>__{squids?}
+<C>__{norman}
+<D>__{"... according to calculations of some naturalists, one of these animals, only six feet long, would have tentacles 27 feet long. that would make a formidable monster."}
+<A>__{he looks up from the book, realizing something...}
+<C>__{beth}
+<D>__{norman?}
+<A>__{snaps the book closed.}
+<T>__{cut to:}
+<L>__{interior living quarters}
+<A>__{close on harry's dufflebag norman rifles through notebooks. turning pages. tears off the first jerry transmission. beth, standing at the doorway, keeping watch down the hall.}
+<C>__{beth}
+<D>__{norman, what is it?}
+<A>__{norman grabs harry's yellow pad of paper.}
+<T>__{cut to:}
+<A>__{their feet scurrying through the water soaked corridor. norman ushers her into the control room. looks around. shuts the door.}
+<T>__{cut to:}
+<L>__{interior control room}
+<A>__{norman scribbles on the printout, glancing at the yellow pad of paper...}
+<C>__{norman}
+<D>__{after the attack, a navy guy woke me up i don't know i thought he was an illusion. but i checked the tape, and jerry said he manifested him.}
+<C>__{beth}
+<D>__{manifested?}
+<C>__{norman}
+<D>__{created. brought to life. i don't know. but at the end, jerry said, "stop calling me jerry". and }
+<A>__{norman stops, staring at the pad.}
+<C>__{norman}
+<D>__{he translated it wrong.}
+<C>__{beth}
+<D>__{what?}
+<A>__{norman picks up the pad of paper, reads...}
+<C>__{norman}
+<D>__{hello. how are you? i am fine. what is your name?... my name is harry}
+<T>__{cut to:}
+<L>__{interior corridor}
+<A>__{harry is walking towards the living quarters...}
+<C>__{norman }
+<D>__{remember when we first spoke to jerry, barnes kept asking for jerry's real name? but harry never would? he didn't because he was afraid the screen would say "harry", instead of jerry. we weren't talking to an alien intelligence when we talked to jerry, we were talking to harry... or a part of harry.}
+<C>__{beth }
+<D>__{what do you mean, a part of harry?}
+<A>__{back in control room}
+<C>__{norman}
+<D>__{when did the messages start? the animals outside start showing up? after harry came out of the sphere.}
+<C>__{beth}
+<D>__{you think, in the sphere }
+<C>__{norman}
+<D>__{he acquired some sort of power. a power to manifest things.}
+<C>__{beth}
+<D>__{but how?}
+<C>__{norman}
+<D>__{i don't know.}
+<C>__{beth}
+<D>__{how can the sphere do that?}
+<C>__{norman}
+<D>__{i don't know, beth. i'm not the fucking alien that built the thing. but it can. when harry came out of the sphere, he mumbled something about page 87. how he would never read that far he was too scared to. then you found the book, remember in your lab. then in the cafeteria and page 87 talks about a giant squid...}
+<C>__{beth}
+<D>__{which i told barnes was attacking }
+<C>__{norman}
+<D>__{it's his fear. the squid. he's manifesting his fears. making them real.}
+<C>__{beth}
+<D>__{but why is he doing it?}
+<C>__{norman}
+<D>__{he must not realize he is. like the navy crewman harry was sleeping then. he must've manifested his dream.}
+<C>__{beth}
+<D>__{his dream? you can't control your dreams. and you can't control your fears, can you?}
+<C>__{norman}
+<P>__{(shaking his head)}
+<D>__{no. i mean, we've always believed we can think anything we want without consequences. you ever read the bible?}
+<P>__{(off her look)}
+<D>__{it talks about our sinful nature, you know? i mean, we can think, and believe, and desire whatever we want, but there's a part of us a shadow side, as jung called it that can't be controlled. it's evil. it's inside us. it's what we are.}
+<T>__{cut to:}
+<A>__{in the living quarters it's dark. harry lies on his bunk, asleep.}
+<C>__{beth }
+<D>__{and that's the part of harry that's being manifested.}
+<C>__{norman }
+<D>__{must be. and if it is it's a part of him not even he can control.}
+<A>__{harry opens his eyes, stares at us.}
+<B>__{we begin to hear a low insistent beeping...}
+<L>__{interior video feed room}
+<A>__{on screen a transmission comes across... "cqx vdx mop lki... " beth and norman watch...}
+<C>__{norman}
+<D>__{looks like some sort of code.}
+<C>__{beth}
+<D>__{why would harry go back to using a code?}
+<C>__{harry }
+<D>__{you mean jerry, don't you?}
+<A>__{harry leaning against the doorframe, enters the room.}
+<C>__{beth}
+<D>__{jerry. right. i said jerry, didn't i?}
+<C>__{harry}
+<D>__{that's a hell of a mistake to make, beth.}
+<C>__{beth}
+<D>__{i'm sorry. slip of the tongue.}
+<C>__{harry}
+<D>__{yeah, i don't know how you could make that confusion.}
+<A>__{norman watching them...}
+<C>__{harry}
+<D>__{wisconsin's your answer.}
+<C>__{norman}
+<D>__{wisconsin?}
+<C>__{harry}
+<P>__{(off screen)}
+<D>__{navy transmission. they're sent from wisconsin.}
+<C>__{norman}
+<D>__{how do we decode it?}
+<C>__{harry}
+<D>__{don't have to. watch. it'll do it for you.}
+<A>__{the screen jumbling it's letters until finally... "surface support vessels to your location eta: 1600 hours. end." norman and beth smile...}
+<C>__{norman}
+<D>__{the cavalry is on it's way.}
+<A>__{the screen "16:00:00"... it begins decending in count.}
+<C>__{beth}
+<D>__{just in time, too.}
+<C>__{harry}
+<D>__{in time for what?}
+<C>__{beth}
+<D>__{what?}
+<C>__{harry}
+<D>__{just in time for what?}
+<A>__{beth, nervous, tries to cover...}
+<C>__{beth}
+<D>__{our habitat, i mean. this place can't handle another attack.}
+<C>__{harry}
+<D>__{another attack?}
+<A>__{a long beat, as beth stares at harry.}
+<C>__{harry}
+<D>__{why are you looking at me like that?}
+<C>__{beth}
+<D>__{like what? i'm not }
+<C>__{harry}
+<D>__{you're staring at me.}
+<C>__{beth}
+<D>__{no i'm not. i'm not star }
+<C>__{harry}
+<D>__{yes you are...}
+<A>__{harry looks at both of them, suspiciously...}
+<C>__{harry}
+<D>__{did i miss something? you two seemed to patch things up awfully fast.}
+<A>__{a tense beat.}
+<C>__{norman}
+<D>__{we just figured, you know, the three of us we need to... work together through this.}
+<C>__{harry}
+<D>__{the three of us.}
+<C>__{norman}
+<D>__{that's right.}
+<C>__{harry}
+<P>__{(beat)}
+<D>__{is that why the two of you went through my dufflebag?}
+<A>__{norman glances at the screen behind harry: "i will kill you all."}
+<L>__{interior labratory}
+<A>__{close on the medical cabinet whipping open. norman quickly digs through the medicines...}
+<C>__{norman}
+<D>__{diphenyl parlene.}
+<C>__{beth }
+<D>__{something for burns.}
+<C>__{norman}
+<D>__{ephedrine hydrochloride.}
+<A>__{beth at the computer, looking up the names...}
+<C>__{beth}
+<D>__{it's for motion sickness.}
+<C>__{norman}
+<D>__{valdomet.}
+<C>__{beth}
+<D>__{ulcers.}
+<C>__{norman}
+<D>__{sintag.}
+<C>__{beth}
+<D>__{a synthetic opium analogue.}
+<C>__{norman}
+<D>__{does it cause drowsiness? that's all we need. to get him unconscious put him under.}
+<C>__{beth}
+<D>__{nothing about drowsiness.}
+<C>__{norman}
+<D>__{tarazine?}
+<C>__{beth}
+<D>__{tranquilizer. causes drowsiness.}
+<C>__{norman}
+<D>__{bingo.}
+<C>__{beth}
+<D>__{"... and may also cause bizarre halucinations".}
+<A>__{norman throws it on the floor. picks another...}
+<C>__{norman}
+<D>__{riordan?}
+<C>__{beth}
+<D>__{antihistamine. for bites.}
+<C>__{norman}
+<D>__{damn it! chloramphenicol?}
+<C>__{beth}
+<D>__{antibiotic.}
+<C>__{norman}
+<D>__{parasolutrine?}
+<C>__{beth}
+<D>__{how do you spell it?}
+<C>__{norman}
+<D>__{p a r a s o...}
+<C>__{beth}
+<D>__{it's a soporific.}
+<C>__{norman}
+<D>__{what's that?}
+<C>__{beth}
+<D>__{causes sleep.}
+<C>__{norman}
+<D>__{it's like a sleeping pill?}
+<C>__{beth}
+<D>__{"... used as an anesthetic if given in combination with paracin trichloride... "}
+<A>__{norman digs, finds paracin trichloride...}
+<C>__{norman}
+<D>__{here we go.}
+<T>__{cut to:}
+<A>__{beth mixing the medicines...}
+<C>__{norman }
+<P>__{(reading from the computer)}
+<D>__{"20 cc's of parasolutrine in combination with 6 cc's of paracin given iv produces deep sleep suitable for emergency surgical procedures... no cardiac side effects ... rem activity is surpressed... "}
+<C>__{beth}
+<D>__{how long does it last?}
+<C>__{norman}
+<D>__{three to six hours.}
+<C>__{beth}
+<D>__{i will just boost the doses.}
+<C>__{norman}
+<D>__{what? wait isn't that dangerous?}
+<C>__{beth}
+<D>__{how fast does it take effect?}
+<C>__{norman}
+<D>__{doesn't say.}
+<C>__{beth}
+<D>__{what if it takes 20 minutes, norman? what if it takes an hour? and he can fight it off? we can't afford that.}
+<A>__{beth goes to the cabinet, grabs another medicine. norman comes over as she adds it to the mix...}
+<C>__{norman}
+<D>__{what is that? what are you doing? what do you want to do kill him?}
+<A>__{a beat...}
+<C>__{beth}
+<D>__{it's an idea.}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{to be on the safe side. i mean }
+<C>__{norman}
+<D>__{you want to kill him?}
+<C>__{beth}
+<D>__{look, it's either him or us, norman. another attack, and we go down with this place.}
+<A>__{she fills the large syringe with the clear liquid mix.}
+<C>__{beth}
+<D>__{you ever given an injection before.}
+<C>__{norman}
+<D>__{thirty years ago. in residency. i passed out. you?}
+<C>__{beth}
+<D>__{only lab rats. here.}
+<A>__{she hands him the syringe...}
+<C>__{beth}
+<D>__{give him the whole thing. hurry, before he wakes up.}
+<A>__{norman looks at the syringe, like it's an assault rifle.}
+<C>__{norman}
+<D>__{where do i stick it?}
+<T>__{cut to:}
+<L>__{interior living quarters}
+<A>__{harry sleeps on his bunk. the door to the room is closed.}
+<L>__{interior cafeteria}
+<A>__{norman spirals down the stairway from the lab. hurrying through the dark cafeteria, the syringe at his side.}
+<L>__{into the hallway}
+<A>__{shuffling down the corridor, nervously. glancing at the syringe.}
+<B>__{rounds a corner}
+<A>__{and sees in front of the living quarters... two african american navy crewmen standing guard of the door. norman stops, hides behind the wall.}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{norman comes in...}
+<C>__{norman}
+<D>__{he's got farrakahn's army standing guard. what's plan b?}
+<A>__{suddenly, bang! the room shakes. shelves fall. cabinet doors swing open. norman falls to the floor. the computer monitor crashes down in front of his face. it reads: "i will kill you all"}
+<L>__{interior corridor}
+<A>__{norman and beth running...}
+<C>__{beth}
+<D>__{harry!}
+<A>__{bang! water shoots through the wall. gushing out onto the floor. the walls cracking. on harry running out of his room...}
+<C>__{harry}
+<D>__{what is it?}
+<C>__{norman}
+<D>__{you know what it is, harry.}
+<A>__{bang! they lose their balance, still running...}
+<C>__{norman}
+<D>__{it's the squid! stop it!}
+<C>__{harry}
+<D>__{stop what? what are you ?}
+<A>__{bang! another crack water gushing inside.}
+<C>__{norman}
+<D>__{you know damn well what. you're doing it!}
+<A>__{norman grabs harry, pushes him up against the wall.}
+<C>__{harry}
+<D>__{doing what? i'm not doing anything !}
+<A>__{beth takes the syringe from her palm, and stabs harry in the shoulder. he screams in horrifying pain, fading over into...}
+<L>__{interior another corridor}
+<A>__{quiet now.}
+<L>__{interior cafeteria}
+<A>__{norman and beth sit at a table, sipping coffee.}
+<C>__{norman}
+<D>__{i'm sorry.}
+<C>__{beth}
+<D>__{for what?}
+<C>__{norman}
+<D>__{not believing you.}
+<C>__{beth}
+<D>__{you're not sorry. you're scared.}
+<P>__{(beat)}
+<D>__{you're a psychologist, norman. you pride yourself on knowing when someone's lying to you, not telling you the truth. and now you're scared ... because you're not sure you can tell anymore.}
+<A>__{on norman watching her, sizing her up.}
+<L>__{interior video feed room later}
+<A>__{on harry lying on a stretcher in the corner, propped up with pillows and a blanket. an iv in his arm. norman at the console, stares at the monitor of the sphere. a long beat. his reflection staring back at him. he slips on the headset...}
+<C>__{norman}
+<D>__{beth?}
+<L>__{interior living quarters}
+<A>__{the room is empty.}
+<C>__{norman }
+<D>__{beth?}
+<L>__{interior corridor}
+<A>__{empty.}
+<C>__{norman }
+<D>__{can you copy?}
+<L>__{interior airlock}
+<A>__{on the jumpsuit hangers the jumpsuit under the name "dr. beth halperin" is missing.}
+<C>__{norman }
+<D>__{beth?}
+<L>__{interior video feed room}
+<A>__{norman at the mic...}
+<C>__{beth }
+<D>__{what is it, norman?}
+<C>__{norman}
+<D>__{where are you?}
+<C>__{beth }
+<D>__{in the sub. resetting the timer. why?}
+<A>__{on the monitor beth sitting in the sub.}
+<C>__{norman}
+<D>__{the sphere looks different.}
+<C>__{beth }
+<D>__{what do you mean, different?}
+<C>__{norman}
+<D>__{the grooves around the door they've shifted. and the pattern the fluids they look darker now.}
+<C>__{beth }
+<P>__{(beat)}
+<D>__{how's harry?}
+<A>__{on harry the iv in his arm.}
+<C>__{norman}
+<D>__{he's fine.}
+<T>__{cut to:}
+<A>__{close on a monitor: "12:30:00"... descending in count.}
+<T>__{cut to:}
+<L>__{interior cafeteria}
+<A>__{norman pouring himself more coffee, alone.}
+<T>__{cut to:}
+<L>__{interior airlock}
+<A>__{beth's suit still gone.}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{harry lying on the stretcher, still. norman watching him from above, sipping his coffee.}
+<B>__{hears a soft beeping}
+<A>__{norman goes to the console, sits. checks the monitors. looks around the console, not knowing what it is. a flashing light on the sensor board. norman still doesn't know what it means. the monitors go blank.}
+<C>__{norman}
+<D>__{beth }
+<A>__{the monitors flash up: "i am coming." norman spins around, goes to harry lying still. norman grabs harry's wrist. checking pulse. norman returns to the console, slips on the headset...}
+<C>__{norman}
+<D>__{beth? beth? can you hear me? get the hell out of there.}
+<A>__{the monitors boot up again. norman looks at the sub video monitor the sub is gone from under the dome.}
+<C>__{norman}
+<D>__{beth?}
+<P>__{(beat)}
+<D>__{beth? shit.}
+<A>__{no reply. more beeping. panicking. bangs on the headset.}
+<C>__{norman}
+<D>__{beth? i'm getting some sort of reading. there's something }
+<A>__{he scans the monitors, looking for movement. anything. they are all still. norman turns to looks at harry... close on harry's face still. back on norman, sweating...}
+<C>__{norman}
+<D>__{and whatever it is, it's not coming from harry.}
+<A>__{norman looks at the monitors: on an outside camera feed a bright light blinds the screen. it's beth in the sub, moving along the habitat. the sub's claw arms carry large red boxes. the lettering on the boxes isn't in focus. norman squints at the monitor can't make it out.}
+<C>__{norman}
+<D>__{beth? what is that? what are you doing?}
+<A>__{the sub's claw arms drops one of the boxes, plumping it softly on the muddy floor.}
+<C>__{norman}
+<D>__{can you hear me? beth? can you copy? get inside, there's something out there.}
+<A>__{on another monitor the sub moves forward. churning up the sediment. it stops again, and releases another box. norman bangs on the headset.}
+<C>__{norman}
+<D>__{damn it, beth, i know you hear me.}
+<A>__{the monitors blink: "i am coming for you" on norman breathing heavy.}
+<C>__{norman}
+<D>__{what the hell?}
+<A>__{another monitor the sub in view a closer view. it releases it's last box. norman can read the lettering now: "caution: tevac explosives"}
+<C>__{norman}
+<D>__{beth? c'mon. what are you ?}
+<A>__{the monitors flash: "i will kill you"}
+<C>__{norman}
+<D>__{oh shit.}
+<A>__{norman whips off his headset, bursts out of his seat, opens a cabinet. searching for tapes. another cabinet. then another. a shelf labled: "sphere" all the tapes are gone.}
+<C>__{norman}
+<D>__{it's her.}
+<A>__{the monitors flash: "i will kill you" on the headset resting on the console. we hear faintly...}
+<C>__{beth }
+<D>__{norman? norman?}
+<L>__{interior corridor}
+<A>__{norman pushes harry and his iv down the corridor. hurrying. an inch or two of water on the floor.}
+<L>__{interior living quarters}
+<A>__{close on a metal case labled: "captain harold barnes." norman bangs it against the wall, trying to bust the lock. banging. banging. breaks the lock. digs inside the case. pulls out a gun.}
+<L>__{interior another corridor}
+<A>__{norman pushing harry and the iv stand. wheels him into... bathroom sink area norman stops. turns off the main lights. the room goes dark. the florescent light above the sinks stay on. norman wheels harry inside, places him by a wall. checks the iv. norman goes to a stall. steps inside. keeps the stall door open. can still see harry about 10 feet away. norman looks at the gun. cocks it. pinches his finger.}
+<C>__{norman}
+<D>__{ouch.}
+<A>__{he waits. listening. a faint high pitched hissing sound norman looks over at the sinks. a faucet is on. water hissing faintly from it. norman ignores it. waiting in the dark. listening. on the faucet the water running. on norman looking at it. can't ignore it. tries. but can't. norman walks quietly through the inch of water on the floor.}
+<B>__{over to the sinks}
+<A>__{the light above them on. norman turns the faucet off. the water stops. but the hissing sound remains. norman looks at the faucet, queerly. turns it back on. then off. the hissing sound still there. it isn't the water. norman looks down at his feet... the floor seems to be moving. something swimming in the water. close on norman's pantleg a long, tubular sea snake slithers up inside his pantleg, hissing. his pants bulging as the snake slowly slides up past his knee.}
+<B>__{hissing louder}
+<A>__{as more snakes comes through the crack in the wall. norman watches with horror in the mirror in front of him as the snake slithers up to his groin, and across the inside of his shirt. another snake begins wrapping itself around the outside of norman, sliding up around his neck.}
+<B>__{we hear footsteps come from down the hall}
+<A>__{norman, standing still, watches as more snakes crawl up his sides, slithering around his arms, his shoulders, his neck, under his chin, over his face. their forked tongues flicking and hissing.}
+<C>__{beth }
+<D>__{what time is it, norman?}
+<A>__{norman looking in the mirror as beth comes up behind him in her jumpsuit.}
+<C>__{beth}
+<D>__{do you know the time?}
+<A>__{norman glares at her in the mirror. his body stiff.}
+<C>__{beth}
+<D>__{i have to know the time of day, norman. do you know?}
+<A>__{snakes covering his eyes, slithering across his mouth.}
+<C>__{norman}
+<P>__{(through his teeth)}
+<D>__{your watch.}
+<A>__{a snake flicking it's tongue at norman's lips. trying to get inside his mouth.}
+<C>__{beth}
+<D>__{what was that? i couldn't hear you.}
+<C>__{norman}
+<D>__{your watch.}
+<C>__{beth}
+<D>__{oh yes, my watch. i almost forgot.}
+<A>__{she looks at her watch.}
+<C>__{beth}
+<D>__{splendid.}
+<A>__{she begins grabbing the snakes off of him, carefully dropping them to the ground. snakes writhing in her hands, twisted around her wrists. shakes them off. some drop in the sink. she bends out of view and the snake inside norman's shirt, moves back down the way it came. past his stomach, his groin. norman heaves from his chest, vomits on the mirror...}
+<T>__{cut to:}
+<L>__{interior cafeteria}
+<A>__{close on a pot pouring a white, milkish drink into a cup. beth walks it over to norman, sitting at a table, looking ill.}
+<C>__{beth}
+<D>__{isotonic glucose supplement.}
+<A>__{norman looks at the cup.}
+<C>__{beth}
+<D>__{go ahead, drink it.}
+<A>__{norman places the cup down.}
+<C>__{beth}
+<D>__{what's wrong, norman?}
+<C>__{norman}
+<D>__{i'm feeling better.}
+<C>__{beth}
+<D>__{are you?}
+<A>__{beth takes a seat. stares at him. a long beat.}
+<C>__{beth}
+<D>__{it's getting cold.}
+<C>__{norman}
+<D>__{you think i'd really drink that?}
+<C>__{beth}
+<D>__{you don't think i put something in it, do you?}
+<C>__{norman}
+<D>__{you put explosives around the habitat, i can't imagine what you'd put in a drink.}
+<C>__{beth}
+<D>__{i did do that, didn't i?}
+<A>__{a beat. she picks up the drink, and begins sipping it. norman watches her.}
+<C>__{norman}
+<D>__{how do you feel about snakes?}
+<C>__{beth}
+<D>__{snakes? what do you mean, exactly?}
+<C>__{norman}
+<D>__{you know what i mean.}
+<C>__{beth}
+<D>__{am i afraid of them? not during the day. sea snakes are diurnal. when the sun's out, they don't bite. fortunately for you, i had on my watch.}
+<P>__{(off cup)}
+<D>__{this is quite good.}
+<C>__{norman}
+<D>__{what are they doing down here? in the bathroom? suddenly appearing.}
+<C>__{beth}
+<D>__{you tell me.}
+<C>__{norman}
+<D>__{do you fear them?}
+<C>__{beth}
+<D>__{don't you?}
+<C>__{norman}
+<D>__{are you manifesting them?}
+<C>__{beth}
+<D>__{if i was, then i would've had to have gone in the sphere, wouldn't i?}
+<C>__{norman}
+<D>__{did you?}
+<C>__{beth}
+<D>__{what's the phrase "keeping up with the joneses"?}
+<C>__{norman}
+<D>__{why did you go in the sphere, beth?}
+<C>__{beth}
+<D>__{same reason i put explosives around the habitat. for defense. for the power. to protect myself.}
+<C>__{norman}
+<D>__{against what? harry's unconscious. he's not a threat.}
+<C>__{beth}
+<D>__{no, he isn't.}
+<C>__{norman}
+<D>__{he can't manifest.}
+<C>__{beth}
+<D>__{no, he can't.}
+<C>__{norman}
+<D>__{then why, beth? why go in? why put out explosives? why manifest the snakes?}
+<C>__{beth}
+<D>__{you think i manifested the snakes?}
+<C>__{norman}
+<D>__{someone did.}
+<C>__{beth}
+<D>__{yes, someone did. but it wasn't me, norman.}
+<P>__{(beat)}
+<D>__{it was you. you manifested the snakes.}
+<A>__{a long beat between them.}
+<C>__{norman}
+<D>__{beth you're losing it. c'mon.}
+<C>__{beth}
+<D>__{c'mon what?}
+<C>__{norman}
+<D>__{you're lying }
+<C>__{beth}
+<D>__{am i lying? are you sure? are you absolutely sure i'm lying?}
+<P>__{(off his look)}
+<D>__{then explain to me about the jellyfish. earlier. why did we see jellyfish? harry doesn't fear jellyfish. you do. they're your fear, aren't they?}
+<C>__{norman}
+<D>__{but }
+<C>__{beth}
+<D>__{and the snakes? you want to know about the snakes? you saw one outside earlier, didn't you? when you thought i had deserted you you were terrified.}
+<C>__{norman}
+<P>__{(realizing)}
+<D>__{that's when you went in the sphere.}
+<C>__{beth}
+<D>__{one lonely, terrifying sea snake.}
+<C>__{norman}
+<D>__{you manifested that, beth.}
+<C>__{beth}
+<D>__{did i? or was that you?}
+<P>__{(beat)}
+<D>__{when you were hiding in the bathroom all conspiratorially like you were you became frightened, didn't you? terrified. like you were with the snake earlier and suddenly you have snakes slithering all over the floor. you did that, norman.}
+<C>__{norman}
+<D>__{you're insane.}
+<C>__{beth}
+<D>__{am i? or am i making so much sense that you're going insane?}
+<C>__{norman}
+<D>__{i never went in that sphere.}
+<C>__{beth}
+<D>__{you don't remember you did. but i'm sure you remember running like some fucking hero to get harry, don't you? you remember that.}
+<C>__{norman}
+<D>__{yes.}
+<C>__{beth}
+<D>__{you remember before you picked him up when you looked up at the sphere, you remember that when the sphere opened?}
+<P>__{(off his look)}
+<D>__{that's right. but you can't remember going inside, can you? no, of course not. harry couldn't either, could he? "like everything's on the tip of my tongue", he said.}
+<C>__{norman}
+<D>__{that's bullshit.}
+<C>__{beth}
+<D>__{is it?}
+<C>__{norman}
+<D>__{beth, the message said harry. "my name is harry". my name isn't harry.}
+<C>__{beth}
+<D>__{no, it isn't. your name is norman. but your younger brother what was his name? the one who was stung when you were younger. the one that died. the one you couldn't save. what was his name?}
+<P>__{(imitating)}
+<D>__{"mommy, we're going out to the ocean to go swimming." "but i don't want to go swimming, norman. i'm scared." "c'mon, harry it'll be fine, it'll be fun."}
+<P>__{(resuming)}
+<D>__{you heartless fuck. that's why you're so scared of the water, isn't it?}
+<C>__{norman}
+<D>__{shut up, beth }
+<C>__{beth}
+<D>__{when you were in that sub and that squid was attacking you are you sure it was the squid that was attacking? do you know? "i can't get beth on the radio. i'm in this tiny sub on the bottom of the fucking ocean. all alone. surrounded by all this water." was it really the squid that was attacking you, norman or was it something else one of your fears? you never really saw what it was, did you?}
+<A>__{norman stares up at her, frightened. is she right?}
+<C>__{beth}
+<D>__{i'm not scaring you, am i norman? i hope i'm not frightening you. the last thing i want to do is frighten you. you feel okay, don't you?}
+<C>__{norman}
+<D>__{it's not me, beth. i swear. it can't be.}
+<C>__{beth}
+<D>__{"it's not me, beth. it's not me. it can't be. i'm not doing anything." just like harry said before i stabbed him with the needle.}
+<A>__{norman looks at her palm sees the needle in her hand. norman backs up, away.}
+<C>__{norman}
+<D>__{don't, beth.}
+<C>__{beth}
+<D>__{but i have to, norman.}
+<C>__{norman}
+<D>__{i promise }
+<C>__{beth}
+<D>__{promise what, norman? tell me!}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{you think i'd belive you? believe anything you might say now? after you lied to me about telling barnes about my past. about my problems. my problems. not yours. not his. mine.}
+<C>__{norman}
+<D>__{don't, beth. please.}
+<C>__{beth}
+<D>__{it's either this... or i kill you.}
+<A>__{the gun in her other hand.}
+<C>__{norman}
+<D>__{beth }
+<A>__{she comes at him, needle in hand...}
+<C>__{beth}
+<D>__{it's your choice. because it's not safe for you to be awake. to be walking around. to be thinking about things.}
+<C>__{norman}
+<D>__{it's not safe for you to be either.}
+<C>__{beth}
+<D>__{you think i care? you think i care if i die?}
+<P>__{(almost laughing)}
+<D>__{would i put explosives around the habitat set on vibration sensors that can trigger automatically, if i cared about myself? would i? i've tried twice before, norman, why wouldn't i try a third time? i'm not thinking about myself no, norman, i'm thinking about you. your safety. protecting you from your own self.}
+<A>__{she lunges at him with the needle, missing. he runs for the spiral staircase leading to the lab. norman grabs the handrail, begins climbing the stairs. beth's at his feet, grabbing for his ankles.}
+<C>__{beth}
+<D>__{norman! i'm doing this for you, norman.}
+<A>__{he frantically crawls up the stairs, her grasping at his heels.}
+<C>__{beth}
+<D>__{norman.}
+<A>__{climbing, climbing round and round the stairs never seem to end. he looks up: the stairs expanding in front of him, strangely increasing in number. he climbs, racing, panting. beth, right behind him, laughing almost.}
+<C>__{beth}
+<D>__{come here, norman.}
+<A>__{she grabs his ankle. she raises the needle. norman turns, kicks her in the face. she wails, blood spitting from her nose. climbing, climbing. the stairs increasing above. he lunges for the top step, grabs it. pulls himself up...}
+<L>__{into the lab}
+<A>__{scrambling. he stares down at beth the gun pointing at him.}
+<C>__{beth}
+<D>__{norman }
+<A>__{he slams the hatch door, on top of her, bashing her head down. he holds the door closed. trying to regain his breath.}
+<C>__{beth }
+<D>__{this is what i'm talking about, norman. don't you see? it's in you. this vindictiveness. this rage.}
+<C>__{norman}
+<D>__{get away from the door, beth.}
+<A>__{he slides a heavy file cabinet over on top of the door.}
+<C>__{beth }
+<D>__{oh, norman, i don't want to come in...}
+<A>__{the door's metal pivot turns...}
+<T>__{cut to:}
+<A>__{on beth on the stairs, spinning the door's wheel...}
+<C>__{beth}
+<D>__{... i want to lock you in.}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{norman staring at the wheel. click! it's locked from the outside. norman falls to his knees. panting.}
+<T>__{cut to:}
+<L>__{interior labratory later}
+<A>__{close on a surveillance video camera in the upper corner of the room.}
+<C>__{beth }
+<D>__{you're a psychologist, norman. you of all people, don't want to admit to your shadow side...}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{on a monitor we see norman sitting in a corner of the lab, staring up at us.}
+<C>__{beth }
+<D>__{... you have a professional stake in believing in your own mental health, don't you? don't you, norman?...}
+<T>__{cut to:}
+<L>__{interior labratory}
+<A>__{norman, huddled on the floor.}
+<C>__{beth }
+<D>__{of course you're going to deny it. you want to blame someone else. you want to blame beth. because you hate beth.}
+<C>__{norman}
+<D>__{don't fuck with me, beth.}
+<C>__{beth }
+<D>__{i'm not fucking with you, norman. you've fucked yourself.}
+<A>__{norman jumps up, looks at the ground water on the floor. rising in level.}
+<C>__{norman}
+<D>__{turn off the water, beth.}
+<A>__{the entire floor is covered in water, rising higher, and rising fast.}
+<C>__{norman}
+<D>__{beth!}
+<C>__{beth }
+<D>__{you're frightened, aren't you, norman?}
+<A>__{norman, wading through the water, searching...}
+<C>__{norman}
+<D>__{where is it coming from, beth?}
+<C>__{beth }
+<D>__{don't you know?}
+<A>__{rising higher...}
+<C>__{norman}
+<D>__{beth, stop it!}
+<C>__{beth}
+<D>__{stop what? don't blame me. it's not me.}
+<A>__{norman frantically checking for a crack, a leak.}
+<C>__{norman}
+<D>__{then where's it coming from?}
+<C>__{beth }
+<D>__{from you, norman. from your mind. you're doing it.}
+<A>__{it's up to his waist. he climbs on top a lab bench. puts his hands to his temples, straining. we hear beth laughing. a specimen bottle explodes right next to him.}
+<C>__{beth }
+<D>__{there's no ventalation in the room, norman. the pressure's going to kill you.}
+<A>__{another bottle shatters, shooting fragments of glass across the room.}
+<C>__{norman}
+<D>__{stop it!}
+<C>__{beth }
+<D>__{it's you, norman. your fear of drowning. you have to face it.}
+<A>__{microscope lenses crack. bottles, test tubes, dishes expolde.}
+<C>__{beth }
+<D>__{c'mon, norman. let me put you under. before you kill yourself!}
+<A>__{shatter! crack! bottles floating in the water pop! the water too high norman swimming in it now, keeping afloat. his face strains from the pressure. he looks at the camera in the corner...}
+<C>__{beth }
+<D>__{it's over, norman.}
+<A>__{next to the camera, he sees the hatch door in the ceiling.}
+<C>__{beth }
+<D>__{don't even think it. you don't have your suit, norman. the water will freeze you.}
+<A>__{he reaches up at the door. can't get it. the water rising. he dives down in the water...}
+<B>__{underwater}
+<A>__{he swims to a cabinet near the floor, opens it, searches, things floating out an oxygen cylinder and mask he grabs it.}
+<T>__{cut to:}
+<A>__{norman's face bursts above water level, slips on the mask, breathes.}
+<C>__{beth }
+<D>__{it won't help, norman. your body is boyant. you're gonna shoot right to the surface and explode, norman. don't you get it? it's over.}
+<A>__{he breathes a last breath, reaches up to the ceiling hatch door, spins it.}
+<C>__{beth }
+<D>__{norman, what are you doing! you're insa }
+<A>__{the door opens and water gushes inside. he grabs the frame of the door, and his body shoots up through the hole...}
+<T>__{cut to:}
+<L>__{exterior ocean underwater}
+<A>__{his body upside down, his hand holding onto the frame. he grabs a pipe next to it, pulls himself hand over hand, along the pipe. his face straining from the freezing chill. moving along the pipe, hand over hand. he loses grip. his body thrusts upwards. close on his right hand purple, frozen, holding onto the pipe. barely gripping. his face his eyes fluttering. he blows air from his mouth, bubbles burst from his lips. his body slightly descending. his left hand grips the pipe. he continues on. hand over hand. pulling himself...}
+<B>__{under the habitat}
+<A>__{he sees the airlock in front of him. he scoots along, but slower, now. he stops. can't continue. he clasps his hand to his chest, it's burning. he sees the airlock. his eyes fluttering, he's losing consciousness. he can't do it. and he lets go of the pipe. floating upwards is he gone? his head bangs into the habitat floor. his body flat underneath it. being sucked upwards against it. he pushes forward... trying to grab the floor with his hands. he's inches from the airlock. plants his feet against the wall and pushes forward. his body sucked up and away...}
+<T>__{cut to:}
+<L>__{interior airlock}
+<A>__{... his head bursts above the water level, big breath. gasping. he flails his arms over to the ladder. grips the ladder, but his hands are like ice. can't hold it. he slips. flailing in the water. he heaves his chest over the metal rim. twists his legs around, out of the water, and flops his body onto the deck. shivering. tries to get up. falls over. his body shaking. his lips purple. his eyes barely open, looking at... his jumpsuit hanging on the wall. norman crawls toward the suit, his body shaking violently. he reaches out for his boots on the floor. can't grip them. inches his head toward his suit, tries to bite at his suit, but his teeth chattering.}
+<C>__{beth }
+<D>__{i know what you're doing, norman. but you can't save yourself.}
+<A>__{he grips the wall, his hands pulling him up. he rips his suit off the hanger.}
+<C>__{beth }
+<D>__{it's over, norman. it's all over.}
+<A>__{slipping on his suit, he hears a man's voice...}
+<C>__{man }
+<D>__{your attention, please. your attention, please. all construction personnel clear the blast area now. tevac explosives are now activated. countdown beginning. mark 15 minutes, and counting.}
+<A>__{on norman as he slips on his helmet, his teeth chattering.}
+<T>__{cut to:}
+<A>__{close on the airlock hatch door norman trying to open it.}
+<C>__{beth }
+<P>__{(through norman's helmet)}
+<D>__{locked. don't try, norman. you can't get in. i won't let you in.}
+<A>__{norman turns, dives back in the water.}
+<T>__{cut to:}
+<B>__{underwater}
+<A>__{norman swims out from under the habitat. looks around at the cylinders, the walls. goes to the outside of a wall. looking for a crack, a leak, a way in. to his left barnes' body, floating, hooked to the wall. norman goes to him. sees the crack. climbing inside. struggling through the crack, careful not to rip his suit.}
+<T>__{cut to:}
+<L>__{interior corridor}
+<A>__{flooded to the top with water. completely filled. norman emerges through the crack. moves down the hall.}
+<B>__{a box of corn flakes}
+<A>__{floats by his faceplate.}
+<C>__{beth }
+<D>__{norman, where are you? i can't see you, norman. tell me where you are.}
+<A>__{norman pulls at the cylinder's hatch door. he hears faintly through his helmet...}
+<C>__{man }
+<D>__{twelve minutes, and counting.}
+<A>__{he opens the door. slips inside, the water going with him.}
+<T>__{cut to:}
+<L>__{interior video feed room}
+<A>__{beep! beep! beep! a screen flashes: "d cylinder hatch door open" the chair in front of the console spinning, empty. beth just left.}
+<T>__{cut to:}
+<L>__{interior corridor}
+<A>__{norman closes the door. runs. down the corridor...}
+<T>__{cut to:}
+<L>__{interior bathroom sink area}
+<A>__{norman ducks inside. the stretcher, the iv empty. harry's not there.}
+<T>__{cut to:}
+<L>__{interior another corridor}
+<A>__{on norman running.}
+<C>__{man }
+<D>__{eleven minutes, and counting. please evacuate.}
+<C>__{norman}
+<D>__{beth? can you hear me?}
+<P>__{(no reply)}
+<D>__{beth.}
+<L>__{interior video feed room}
+<A>__{norman runs inside... the chair, stopping it's spin. beep! beep! beep! the monitor flashes: "b cylinder door open". norman's out the door.}
+<T>__{cut to:}
+<L>__{interior corridor}
+<A>__{norman, running. sees the b cylinder door. goes to it. spins it,}
+<B>__{opens.}
+<T>__{cut to:}
+<L>__{interior b cylinder}
+<A>__{norman climbs inside, takes off his helmet. the cylinder a maze of pipes and equipment. heaters, controls, and wires everywhere. difficult to see.}
+<B>__{through pipes}
+<A>__{we see norman walking through the cylinder. holding his helmet at his hip.}
+<C>__{norman}
+<D>__{beth?}
+<C>__{beth }
+<D>__{leave me alone, norman.}
+<A>__{he goes to her voice in the back. past pipes, equipment.}
+<C>__{norman}
+<D>__{i can't do that.}
+<A>__{on beth huddled in the back corner, wedged among pipes. her eyes red. holding the gun in her hand. pointing at norman as he sees her through the pipes. abover her head a computer screen, reading: "detonation sequence}
+<L>__{09:32"... descending in count.}
+<A>__{norman stares up at the screen, concentrating.}
+<C>__{beth}
+<D>__{you can't stop it, norman. you can't fight me.}
+<C>__{norman}
+<D>__{i know. you're too strong, beth.}
+<C>__{beth}
+<D>__{oh please, don't shrink me, norman. not now.}
+<C>__{norman}
+<D>__{i }
+<C>__{beth}
+<D>__{don't tell me about me. i already know too much.}
+<C>__{norman}
+<D>__{beth gimme the gun.}
+<C>__{beth}
+<D>__{oh, sure. here. anything else, beth can get you? some more chicken, perhaps. let beth check the fridge.}
+<C>__{norman}
+<D>__{c'mon }
+<C>__{beth}
+<D>__{top shelf, is it?}
+<C>__{norman}
+<D>__{let's get out of here, beth. let's go home.}
+<A>__{she sees her reflection on a piece of broken glass on the floor. she puts her fingers to her matted hair, tries to comb it. over the intercom...}
+<C>__{man }
+<D>__{nine minutes, and counting.}
+<C>__{norman}
+<D>__{c'mon, beth.}
+<A>__{on the gun we see beth's wrists. the two scars.}
+<C>__{beth}
+<D>__{it's over, norman. go on, get outta here.}
+<A>__{norman walks toward her. beth freaks...}
+<C>__{beth}
+<D>__{what is that? what are you doing?}
+<C>__{norman}
+<D>__{what?}
+<C>__{beth}
+<D>__{you hear that?}
+<C>__{norman}
+<D>__{hear what?}
+<C>__{beth}
+<D>__{get away from me!}
+<C>__{norman}
+<D>__{beth }
+<C>__{beth}
+<D>__{get away }
+<A>__{bam! from behind her harry whacks beth across the head with a wrench, sending her to the ground. norman goes to her, checking her pulse.}
+<C>__{harry}
+<D>__{did i kill her?}
+<C>__{norman}
+<D>__{i don't think so.}
+<C>__{harry}
+<D>__{i could hit her a little harder. more toward the cranium.}
+<A>__{norman stares at the numbers on the screen above him.}
+<C>__{harry}
+<D>__{if she's still conscious, you can't fight her. you can't stop the numbers.}
+<A>__{over the intercom...}
+<C>__{man }
+<D>__{eight minutes and counting.}
+<C>__{harry}
+<D>__{killing her's the only way }
+<C>__{norman}
+<D>__{hey! look! we didn't kill you, alright? and believe me harry, i would've found great pleasure in bashing your head in.}
+<A>__{norman rips off a piece of her t shirt, ties it to the wound around her head.}
+<C>__{harry}
+<D>__{fine.}
+<C>__{norman}
+<D>__{help me lift her.}
+<L>__{interior corridor}
+<A>__{norman, carrying beth in his arms, races awkwardly down the hall...}
+<C>__{harry}
+<D>__{we're never gonna make it.}
+<C>__{norman}
+<D>__{shut up and open the door.}
+<A>__{harry does.}
+<L>__{interior airlock}
+<A>__{harry, in his suit now, helps norman slip on beth's boots and jumpsuit.}
+<C>__{harry}
+<D>__{how much time you figure to get to the surface?}
+<C>__{norman}
+<D>__{two and a half minutes. once we're in the sub.}
+<C>__{harry}
+<D>__{how far away's the sub?}
+<C>__{man }
+<D>__{six minutes and counting.}
+<C>__{norman}
+<D>__{a little less than six minutes.}
+<L>__{exterior underwater}
+<A>__{norman carrying beth on his back, hurries through the water.}
+<C>__{man }
+<D>__{five minutes. i repeat five minutes to detonation.}
+<T>__{cut to:}
+<L>__{exterior underwater}
+<A>__{underneath the sub's dome hanger norman tries to climb up the ladder with beth on his back. she falls off, deadweight to the ground.}
+<C>__{norman}
+<D>__{shit.}
+<P>__{(picking her up)}
+<D>__{harry! i'm gonna have to lift her up to you.}
+<A>__{harry leans down from the sub's airlock...}
+<C>__{harry}
+<D>__{alright. hurry.}
+<A>__{norman pushes her up to him, but she bends at the waist.}
+<C>__{harry}
+<D>__{i can't reach her.}
+<C>__{norman}
+<D>__{hold on.}
+<A>__{norman flops her up in the air, but she bends again at the waist.}
+<C>__{harry}
+<D>__{push her, c'mon.}
+<C>__{norman}
+<D>__{i'm trying. shit. here catch her.}
+<A>__{he flops her up again.}
+<C>__{harry}
+<D>__{missed.}
+<C>__{norman}
+<D>__{are you trying, damn it? just }
+<C>__{man }
+<D>__{four minutes and counting.}
+<A>__{norman loses grip, drops her.}
+<C>__{norman}
+<D>__{hold on.}
+<C>__{harry}
+<D>__{hurry, norman. four minutes.}
+<C>__{norman}
+<D>__{i heard! i heard!}
+<A>__{picking her up...}
+<C>__{harry}
+<D>__{three fifty six, three fifty five, three }
+<C>__{norman}
+<D>__{shut up and catch.}
+<A>__{norman flops her up once more, and harry grabs her air hose.}
+<C>__{harry}
+<D>__{i got her. i got her.}
+<A>__{harry pulls her toward the airlock, norman climbs up after.}
+<L>__{interior sub airlock}
+<A>__{the pocket of air around the sub. the three of them crammed inside. norman opens the door on top of the sub.}
+<C>__{norman}
+<D>__{alright, here, i will... wait, you just give her to me.}
+<A>__{norman takes beth and pushes her on top the sub. the sub sways back and forth.}
+<C>__{harry}
+<D>__{norman, what are you }
+<A>__{they lose balance, beth almost falls, norman catches her.}
+<C>__{norman}
+<D>__{shit. alright, harry, get in there.}
+<A>__{harry jumps on top of the sub. slides inside it. reaches his arms out, catching beth's legs.}
+<C>__{man }
+<D>__{three minutes and counting...}
+<C>__{norman}
+<D>__{take her, come on. just }
+<A>__{beth's leg swings up and hits harry in the helmet.}
+<C>__{harry}
+<D>__{c'mon, norman!}
+<C>__{norman}
+<D>__{i'm trying to keep balance with }
+<C>__{harry}
+<D>__{gimme a second }
+<C>__{norman}
+<D>__{just pull her down like inside harry, work with me here!}
+<C>__{harry}
+<D>__{her legs are in the way.}
+<C>__{norman}
+<D>__{you got her?}
+<A>__{harry pulls beth down inside, as norman steps on top of the sub, helps push beth's head inside.}
+<C>__{norman}
+<D>__{get her out of the seat, i need room to sit. harry?}
+<C>__{harry}
+<D>__{i'm trying. there.}
+<C>__{man }
+<D>__{two minutes thirty and counting.}
+<A>__{norman drops inside.}
+<L>__{interior sub}
+<A>__{norman in the seat. beth's leg hangs over his right shoulder. harry looks at norman who assesses the flight controls.}
+<C>__{harry}
+<D>__{you know how to work this thing?}
+<C>__{norman}
+<D>__{no idea.}
+<C>__{harry}
+<D>__{well, press something!}
+<C>__{norman}
+<D>__{wait!}
+<C>__{man }
+<D>__{two minutes and counting.}
+<C>__{harry}
+<D>__{how long did you say }
+<C>__{norman}
+<D>__{shut up. let me think.}
+<A>__{norman presses a button. the screen blinks: "descend, ascend, secure, shutdown... " norman hits "ascend". the sub whirrs, rumbles and drops down below. norman works the steering wheel, gliding it upwards.}
+<L>__{exterior underwater}
+<A>__{the sub comes out from under the dome. rising above the habitat...}
+<C>__{harry}
+<D>__{less than a minute, we're never gonna make it.}
+<C>__{norman}
+<D>__{nine hundred feet to surface.}
+<C>__{harry}
+<D>__{it's not fast enough, norman. there's a helluva lot of explosive down there.}
+<L>__{exterior underwater}
+<A>__{the sub ascends past the spacecraft tail fin.}
+<L>__{interior sub}
+<A>__{harry looking down below him...}
+<C>__{man }
+<D>__{thirty seconds to detonation.}
+<C>__{harry}
+<D>__{the shock wave's gonna crush us, norman.}
+<C>__{norman}
+<D>__{maybe. brace yourself.}
+<A>__{harry just stares at norman. norman grabs beth, trying to stablilize her.}
+<C>__{harry}
+<P>__{(off norman's suit)}
+<D>__{how's that working out, by the way?}
+<C>__{norman}
+<D>__{good. thank you. now that i have it on.}
+<P>__{(harry laughs)}
+<D>__{why are you laughing? you don't even know what that means.}
+<C>__{harry}
+<D>__{no. i don't. but i always said to myself, when i die, i want to die laughing.}
+<A>__{harry laughs. ascending... waiting... and then... a thunderous explosion below them... rocking the sub, spinning it up and around, surging it upwards to the surface. through the windshield racing toward the surface, toward the sunlight it's blinding and the screen goes white.}
+<T>__{cut to:}
+<L>__{interior decompression room}
+<A>__{a pale, white room. on norman sleeping. his eyes begin to open. he awakes. beth is next to him, looking at him. there is a long beat.}
+<C>__{beth}
+<D>__{thank you.}
+<A>__{norman looks up at her...}
+<C>__{norman}
+<D>__{you know, i think you really need to see a psychologist.}
+<A>__{she stares back at him, and smiles. begins laughing with him.}
+<L>__{exterior decompression chamber}
+<A>__{two navy crewmen stand outside the door, looking in.}
+<D>__{crewman #1 has anyone spoken to them yet? crewman #2}
+<P>__{(shakes his head)}
+<D>__{the admiral's going over the tapes they brought up now. crewman #1 does he know yet what really happened down there?}
+<A>__{looking inside norman, harry, and beth sit at a table.}
+<L>__{interior decompression chamber}
+<A>__{at the table...}
+<C>__{harry}
+<D>__{they're going to want answers and they're going to keep asking until they get them.}
+<C>__{beth}
+<D>__{we can refuse to talk.}
+<C>__{harry}
+<D>__{won't make any difference. the tapes document everything.}
+<A>__{a long beat.}
+<C>__{norman}
+<D>__{there is one possibility.}
+<C>__{harry}
+<D>__{we all kill ourselves?}
+<P>__{(laughing, then)}
+<D>__{bad joke. sorry, beth.}
+<A>__{she smiles.}
+<C>__{norman}
+<D>__{the power allows us to manifest our fears, right? what if we feared the power to go away?}
+<C>__{harry}
+<D>__{you mean forget?}
+<C>__{norman}
+<D>__{it would erase all our knowledge of it. all of our power.}
+<C>__{beth}
+<D>__{would it work?}
+<C>__{norman}
+<D>__{yes. and i think we already know it will.}
+<C>__{beth}
+<D>__{how's that?}
+<C>__{norman}
+<D>__{down below, harry said we would all have to die. since there was no evidence on that spacecraft that anybody knew time travel through a black hole was possible and we all knew then we would all have to die before we could tell anyone. death was the only logical explanation. but sitting here, we still know. so how is that possible?}
+<P>__{(beat)}
+<D>__{unless we make ourselves forget.}
+<L>__{interior ship's hallway later}
+<A>__{norman, harry, and beth walk with the crewmen.}
+<L>__{interior admiral's office}
+<A>__{the admiral, 60s, many stripes on his sleeves, sits behind his desk. harry and beth sit in front of him. the tapes on the desk.}
+<C>__{admiral}
+<D>__{there are some questions that we need to address here.}
+<C>__{harry}
+<D>__{what about?}
+<C>__{admiral}
+<D>__{when you were being transferred to decompression, dr. adams, you mentioned something about a squid.}
+<C>__{harry}
+<D>__{a what?}
+<C>__{admiral}
+<D>__{a squid. however, there doesn't seem to be any squid recorded on these tapes.}
+<C>__{beth}
+<D>__{a squid? i don't remember anything about a squid.}
+<P>__{(to harry)}
+<D>__{did you say something about a squid, harry?}
+<A>__{harry shakes his head.}
+<L>__{exterior ship deck day}
+<A>__{a bright, sunny day. on the helipad the helicopter's propeller begins whirling.}
+<L>__{interior helicopter}
+<A>__{an officer sits in the passenger's seat, glancing at a clipboard.}
+<C>__{officer}
+<D>__{you all ready to go, dr... ?}
+<A>__{the pilot from the opening scene...}
+<C>__{pilot}
+<D>__{johnson. the psychologist. the one that wrote the report.}
+<A>__{on norman in the back.}
+<C>__{norman}
+<D>__{what report?}
+<T>__{cut to:}
+<B>__{black.}

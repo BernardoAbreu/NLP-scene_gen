@@ -1,0 +1,21 @@
+<L>__{interior hotel corridor day}
+<A>__{watson comes dashing down the narrow stairs from the attic, races toward teh door of holmes' room.}
+<C>__{watson}
+<D>__{mr. ashdown!}
+<A>__{he flings the door open.}
+<L>__{interior hotel room day}
+<A>__{watson bursts in breathlessly.}
+<C>__{watson}
+<D>__{holmes! i saw it! i saw it from the attic! it's out there in the lake!}
+<C>__{holmes}
+<D>__{you saw what?}
+<C>__{watson}
+<P>__{(looking around desperately)}
+<D>__{the telescope. where's the telescope?}
+<C>__{holmes}
+<D>__{what did you see?}
+<C>__{watson}
+<D>__{the monster!}
+<C>__{holmes}
+<D>__{the monster?}
+<A>__{watson fishes a small telescope out of holmes' suitcase, rushes through the open french window to the balcony.}

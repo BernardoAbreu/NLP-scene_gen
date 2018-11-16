@@ -1,0 +1,28 @@
+<L>__{interior palladium lobby balcony continuous}
+<A>__{carnegie races across the landing, toward the armed guard posted outside eli's bedroom. the guard steps aside as carnegie flings the door open and barges inside.}
+<L>__{interior palladium guest bedroom continuous}
+<A>__{empty. no sign of eli or his gear anywhere. the window is wide open, the curtains fluttering gently in the breeze.}
+<L>__{interior engineer workshop continuous}
+<A>__{his hands shaking, the engineer disconnects eli's battery from the generator and places it on the counter. eli stands on the other side of the counter with his shotgun trained right at the man's head. he takes the battery from him and stuffs it into his backpack.}
+<L>__{exterior palladium continuous}
+<A>__{carnegie races from the lobby entrance and looks up at the open window to eli's room. he could have easily jumped. redridge emerges onto the street behind him.}
+<C>__{redridge}
+<D>__{something wrong, boss?}
+<C>__{carnegie}
+<D>__{something wrong? something wrong? the walker's gone!}
+<C>__{redridge}
+<D>__{that can't be. i had a man outside his room the whole time.}
+<C>__{carnegie}
+<D>__{he jumped out the window, you idiot! you didn't think to put a man outside the fucking window?}
+<P>__{(beat; fuming)}
+<D>__{find him. now!}
+<C>__{redridge}
+<D>__{boss, he could be anywhere. he...}
+<P>__{(realization)}
+<D>__{a battery. didn't he say something about a battery?}
+<A>__{they turn to face the engineer's storefront just as eli emerges onto the street, shotgun still in his hand. everybody freezes. like a wild west stand off. redridge's fingers play over the butt of the pistol on his hip. beat as time hangs perfectly still for a second... and then}
+<B>__{all hell breaks loose.}
+<A>__{redridge draws and fires, shattering a parking meter just inches from eli and showering quarters all over the sidewalk. eli rushes along the sidewalk, returning fire. the shot wings redridge in the shoulder. he goes down, wounded. carnegie dives for cover as four more gunmen rush from the theater. carnegie waves frantically in eli's direction.}
+<C>__{carnegie}
+<D>__{go! go!}
+<A>__{they spot eli sprinting away and rush off in pursuit. carnegie gets to his feet and storms back inside the theater.}

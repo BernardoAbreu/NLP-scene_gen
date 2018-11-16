@@ -1,0 +1,28 @@
+<L>__{interior welles' house, downstairs living room night}
+<A>__{welles uses a key to unlock the sliding glass door, opens it slow, enters, gun up, searching the darkness.}
+<L>__{interior welles' house, office night}
+<A>__{welles pushes the door open, checks this room.}
+<L>__{interior welles' house, bedroom night}
+<A>__{welles makes sure the bedroom's empty, looks in the bathroom. he puts his gun away, leaves the lights off. he goes to the phone on the bedside table, unscrews the earpiece. he removes a small, wire mesh bugging device.}
+<L>__{interior welles' house, kitchen night}
+<A>__{dark. welles picks up the cordless phone, struggles to pry the receiver open. he discovers another small bug. he drops the bugs to the floor, crushes them under foot. he puts the phone back together and is replacing it when it rings loudly. welles is startled, drops the phone... welles takes a breath, trying to shake off the jitters. he picks up the ringing phone, answers it...}
+<C>__{welles}
+<P>__{(into phone)}
+<D>__{honey... ?}
+<C>__{machine }
+<P>__{(from phone)}
+<D>__{not quite.}
+<A>__{welles stiffens.}
+<C>__{machine }
+<D>__{nothing like getting home after a rough day. home sweet home.}
+<A>__{welles moves into the hall, towards the front door...}
+<C>__{machine }
+<D>__{walk away. pack your bags, put the wife and kid in the car and find a place to hide. if you're lucky, you'll never see me again.}
+<A>__{welles takes out his gun, opens the front door, looking out. the street in front of the house is empty. crickets chirp.}
+<C>__{welles}
+<D>__{i don't know if i can do that.}
+<C>__{machine }
+<D>__{i know who you are. i know where you live. i know everything i need to know to find you.}
+<P>__{(pause)}
+<D>__{who am i?}
+<A>__{machine is heard hanging up the phone.}

@@ -1,0 +1,16 @@
+<L>__{interior lobby morning}
+<A>__{as the svibens approach the main doors, the doorman leaps up from his chair beside the intercom switchboard and opens the door for them. the doorman, like most security guards, does not look capable of handling a serious crisis. he is about fifty, of average height but slightly built, wears thick glasses and seems almost embarrassed by the revolver on his hip.}
+<C>__{doorman}
+<D>__{morning, folks. can i help you?}
+<C>__{kresimir}
+<D>__{yes, please. i... er, we... are looking for the rental agent here. we have an appointment.}
+<C>__{doorman}
+<D>__{ok, i will just give him a little buzz and he'll come out and show you the way in.}
+<A>__{the doorman presses a button on the intercom board. as he turns back to the svibens, he catches his holster on the board.}
+<C>__{doorman}
+<P>__{(freeing holster)}
+<D>__{darned thing.}
+<C>__{benda}
+<D>__{do you ever use that?}
+<C>__{doorman}
+<D>__{this? no, never even had it out of the holster. a rival company has 'em, so we gotta have 'em. just an advertising gimmick.}

@@ -1,0 +1,27 @@
+<L>__{interior army navy store day}
+<A>__{curtis meanders inside. he sees police tactical and survival gear behind the counter. chief among them is a collection of gas masks hanging on the rear partition.}
+<C>__{owner}
+<D>__{can i help you?}
+<C>__{curtis}
+<D>__{yeah. can i look at one of these gas masks?}
+<C>__{owner}
+<D>__{sure. which one you want to look at?}
+<C>__{curtis}
+<D>__{the newest one.}
+<A>__{the owner of the store removes a mask and hands it to him. curtis fiddles with the mask.}
+<C>__{curtis }
+<D>__{how much?}
+<C>__{owner}
+<D>__{one seventy eight.}
+<A>__{curtis frowns at the price.}
+<C>__{curtis}
+<D>__{anything cheaper?}
+<C>__{owner}
+<D>__{no. that's the cheapest one i got in the store. they go all the way up to two ninety. i don't know what you want to spend but a gas mask ain't something you want to go cheap on.}
+<C>__{curtis}
+<D>__{you got any kids sizes?}
+<C>__{owner}
+<D>__{no. kids can't wear those. they got a have a special thing, its like a hood. i don't fool with those.}
+<A>__{curtis nods. the perusing shopper listens in.}
+<C>__{curtis}
+<D>__{yeah. ring me up a couple of `em.}

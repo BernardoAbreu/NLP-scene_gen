@@ -1,0 +1,34 @@
+<L>__{interior county jail another corridor day}
+<A>__{john waits in a line against the wall, beside a door to a small office. through the glass he watches the major interview the black woman who noticed what he was doing. she nods and leaves, passing him with a look. the major holds the door open for him.}
+<L>__{interior major's office a short time later}
+<A>__{the major plays john the cctv video from the corridor. he flips between two camera positions at either end of the hall. the crowd of visitors shuffling toward the visiting rooms obscures the view of the elevator.}
+<C>__{major}
+<D>__{so, you are where in here?}
+<C>__{john}
+<D>__{...in the middle there.}
+<C>__{major}
+<D>__{in the middle. can you point to yourself?}
+<C>__{john}
+<P>__{(looks)}
+<D>__{it's hard to tell. i think that's me there. why?}
+<A>__{he freezes the tape and points to a blurry figure in the background.}
+<C>__{major}
+<D>__{so that's not you there. by the elevator?}
+<C>__{john}
+<P>__{(looks)}
+<D>__{....no.}
+<P>__{(points to another person)}
+<D>__{i was over here. you want to tell me what's going on?}
+<C>__{major}
+<D>__{you want me to tell you?}
+<C>__{john}
+<D>__{yes.}
+<A>__{the major holds the piece of the key that jammed in the lock.}
+<C>__{major}
+<D>__{you know what a bump key is?}
+<C>__{john}
+<D>__{sorry.}
+<A>__{major puts it on the desk and just stares at john. finally:}
+<C>__{major}
+<D>__{if this was you, you might want to think about what's going to happen to your kids if both of their parents are in prison.}
+<A>__{the major stares right through him.}

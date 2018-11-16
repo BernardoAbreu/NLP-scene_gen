@@ -1,0 +1,58 @@
+<L>__{interior millennium falcon passageway}
+<A>__{threepio lies on the floor of the ship, completely tangled in the smoking, sparking wires.}
+<C>__{threepio}
+<D>__{help! i think i'm melting!}
+<P>__{(to artoo)}
+<D>__{this is all your fault.}
+<A>__{artoo turns his dome from side to side, beeping in response.}
+<L>__{exterior space millennium falcon}
+<A>__{the victorious millennium falcon moves off majestically through space.}
+<L>__{interior death star control room}
+<A>__{darth vader strides into the control room, where tarkin is watching the huge view screen. a sea of stars is before him.}
+<C>__{tarkin}
+<D>__{are they away?}
+<C>__{vader}
+<D>__{they have just made the jump into hyperspace.}
+<C>__{tarkin}
+<D>__{you're sure the homing beacon is secure aboard their ship? i'm taking an awful risk, vader. this had better work.}
+<L>__{interior millennium falcon cockpit}
+<A>__{han, removes his gloves and smiling, is at the controls of the ship. chewie moves into the aft section to check the damage. leia is seated near han.}
+<C>__{han}
+<D>__{not a bad bit of rescuing, huh? you know, sometimes i even amaze myself.}
+<C>__{leia}
+<D>__{that doesn't sound too hard. besides, they let us go. it's the only explanation for the ease of our escape.}
+<C>__{han}
+<D>__{easy... you call that easy?}
+<C>__{leia}
+<D>__{their tracking us!}
+<C>__{han}
+<D>__{not this ship, sister.}
+<A>__{frustrated, leia shakes her head.}
+<C>__{leia}
+<D>__{at least the information in artoo is still intact.}
+<C>__{han}
+<D>__{what's so important? what's he carrying?}
+<C>__{leia}
+<D>__{the technical readouts of that battle station. i only hope that when the data is analyzed, a weakness can be found. it's not over yet!}
+<C>__{han}
+<D>__{it is for me, sister! look, i ain't in this for your revolution, and i'm not in it for you, princess. i expect to be well paid. i'm in it for the money!}
+<C>__{leia}
+<D>__{you needn't worry about your reward. if money is all that you love, then that's what you'll receive!}
+<A>__{she angrily turns, and as she starts out of the cockpit, passes luke coming in.}
+<C>__{leia}
+<D>__{your friend is quite a mercenary. i wonder if he really cares about anything... or anyone.}
+<C>__{luke}
+<D>__{i care!}
+<A>__{luke, shaking his head, sits in the copilot seat. he and han stare out at the vast blackness of space.}
+<C>__{luke}
+<D>__{so... what do you think of her, han?}
+<C>__{han}
+<D>__{i'm trying not to, kid!}
+<C>__{luke}
+<P>__{(under his breath)}
+<D>__{good...}
+<C>__{han}
+<D>__{still, she's got a lot of spirit. i don't know, what do you think? do you think a princess and a guy like me...}
+<C>__{luke}
+<D>__{no!}
+<A>__{luke says it with finality and looks away. han smiles at young luke's jealousy.}

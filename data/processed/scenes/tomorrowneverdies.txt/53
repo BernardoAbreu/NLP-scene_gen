@@ -1,0 +1,19 @@
+<L>__{interior engine room }
+<A>__{the engineer shouts to his crew, over noise of diesel engines:}
+<C>__{engineer}
+<D>__{check the engine baffles; rig the generators for shielded operation.}
+<A>__{return on the bridge the first officer stands next to the communications officer.}
+<C>__{communications officer}
+<D>__{communications set to receive only, sir.}
+<A>__{the first officer looks over the shoulder of rating at radar screen.}
+<C>__{rating}
+<D>__{radar switched to passive mode; sonar re set to low power operation.}
+<P>__{(beat)}
+<D>__{you couldn't find our signature with a magnifying glass.}
+<C>__{first officer}
+<D>__{let's hope so.}
+<A>__{the first officer joins the second officer at the windows, scanning the horizon with binoculars.}
+<C>__{second officer}
+<D>__{looks like we're in for a long, uncomfortable trip.}
+<C>__{first officer}
+<D>__{we'll all breathe a lot easier when we get this cargo back to london.}

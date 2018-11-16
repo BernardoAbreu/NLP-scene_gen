@@ -1,0 +1,41 @@
+<L>__{int: kitchen continuous}
+<A>__{gru and lucy step into the kitchen. lucy pulls out a high tech scanning device and aims it around the kitchen.}
+<C>__{gru}
+<D>__{you getting anything?}
+<C>__{lucy}
+<D>__{no. not yet. but hey, maybe you can find something with these x ray goggles.}
+<A>__{lucy produces a pair of high tech goggles. gru shakes his head.}
+<C>__{gru}
+<P>__{(skeptically)}
+<D>__{bah...}
+<A>__{gru puts them on and looks around the kitchen. we now see the room from his x ray pov.}
+<C>__{lucy }
+<D>__{how're they working? tell me, tell me!}
+<A>__{gru turns to lucy and sees her as a skeleton.}
+<C>__{gru}
+<D>__{ahh! ooof!}
+<C>__{lucy}
+<D>__{what's wrong? something wrong?}
+<C>__{gru}
+<D>__{oh, that's an image i will never get out of my brain. blagh!}
+<A>__{gru makes a face, disturbed. then quickly turns away and spots something behind a painting on the wall...a safe. sees something inside it a metal canister. smiles.}
+<C>__{gru }
+<D>__{i knew it!}
+<A>__{he goes to the wall and removes the painting, revealing the}
+<B>__{safe.}
+<C>__{gru }
+<D>__{the serum is in here!}
+<C>__{lucy}
+<D>__{ooh, then let's get it!}
+<A>__{he produces a safe cracking device and places it over the combination wheel. lights blink and it goes to work.}
+<C>__{gru}
+<P>__{(gleefully giggling)}
+<D>__{oh, this is going to be good! ahh...}
+<A>__{click. the safe opens, revealing a jar of salsa ("eduardo's secret recipe").}
+<C>__{gru }
+<D>__{a ha!}
+<P>__{(registering it's not the serum)}
+<D>__{what? it's... salsa?}
+<C>__{lucy}
+<P>__{(disappointed)}
+<D>__{awww man.}

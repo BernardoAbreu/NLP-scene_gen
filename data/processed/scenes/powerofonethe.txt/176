@@ -1,0 +1,16 @@
+<T>__{cut to:}
+<L>__{interior hallway}
+<A>__{pk walks down the hall, anger building in his face. he exits the hall.}
+<T>__{cut to:}
+<L>__{exterior devilliers school}
+<A>__{pk comes up to the main gate. a guard stops him.}
+<C>__{pk}
+<D>__{i'd like to see maria marais please.}
+<A>__{the guard checks his list.}
+<C>__{guard}
+<D>__{sorry. she's not allowed visitors.}
+<C>__{pk}
+<D>__{well, if i could just talk to her.}
+<C>__{guard}
+<D>__{sorry.}
+<A>__{pk backs away and moves off down the street. he turns the corner. his pov tree he uses to scale the wall is in the process of being cut down.}

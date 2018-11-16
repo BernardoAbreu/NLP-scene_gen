@@ -1,0 +1,29 @@
+<L>__{interior taxicab afternoon}
+<A>__{the cab carrying tudor pulls up at the main doors of the towers. tudor, still a bit unsteady, signs a chit for the driver and gets out of the car.}
+<L>__{interior lobby afternoon}
+<A>__{the doorman opens both doors for tudor as he enters the building.}
+<C>__{doorman}
+<D>__{afternoon, mr. tudor.}
+<L>__{interior st. luc's office afternoon}
+<A>__{janine sits opposite st. luc, who has a file open before him on his desk.}
+<C>__{st. luc}
+<D>__{well, there's certainly nothing here in this check up i did for your husband's company last year. blood pressure a touch high, cholesterol count nice and low...}
+<P>__{(looking janine in the eye)}
+<D>__{i just can't see cancer developing that fast, janine, not the way you've described it. could be swollen glands or something, i don't know.}
+<C>__{janine}
+<P>__{(a bit relieved but still tense)}
+<D>__{you'll come up and take a look at him?}
+<C>__{st. luc}
+<P>__{(standing up)}
+<D>__{if he can't make it down here... sure. that's what i'm here for. but it won't be until, oh...}
+<P>__{(checking his watch)}
+<D>__{...9.30, say 10.00. ok? not too late?}
+<A>__{janine smiles and shakes her head. just gotta have time to put the clinic to bed for the night and grab some supper.}
+<C>__{janine}
+<D>__{that's great, doctor. thanks.}
+<A>__{janine gets up, opens the door to the reception area, and leaves, closing the door behind her. st. luc keeps staring at tudor's file, shifts something from one side of the folder to the other. something bothers him. the door to one of the examination rooms opens and forsythe pops her head around the corner.}
+<C>__{forsythe}
+<D>__{mrs. ementhal's ready and waiting, doctor.}
+<C>__{st. luc}
+<D>__{mm? ok. be with you in a sec.}
+<A>__{forsythe disappears. st. luc studies tudor's file.}

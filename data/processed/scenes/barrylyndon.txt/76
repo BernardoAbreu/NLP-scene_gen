@@ -1,0 +1,46 @@
+<L>__{interior ante room captain galgenstein's office day}
+<A>__{roderick enters and approaches the captain's sergeant.}
+<C>__{roderick}
+<D>__{private roderick james. first hanoverian guards. captain galgenstein sent for me.}
+<C>__{prussian sergeant}
+<D>__{you may wait.}
+<C>__{roderick}
+<D>__{thank you, sir.}
+<A>__{roderick stands stiffly. we can make out the sound of loud talking behind the closed door. enter a private huffing and puffing.}
+<C>__{private}
+<D>__{sergeant, the wagon has arrived with the captain's furniture, but the driver says he is not supposed to unload it. is it possible for you to talk to him?}
+<A>__{exit the sergeant, muttering. roderick, now alone in the office, walks closer to the door so that he can hear what is being said.}
+<C>__{minister galgenstein }
+<D>__{give him his discharge! bon dieu! you are a model of probity! you'll never succeed to my place, my dear nephew, if you are no wiser than you are just now. make the fellow as useful to you as you please. you say he has a good manner and a frank countenance, that he can lie with assurance, and fight, you say, on a pinch. the scoundrel does not want for good qualities. as long as you have the regiment in terrorem over him, you can do as you like with him. once let him loose, and the lad is likely to give you the slip. keep on promising him; promise to make him a general, if you like. what the deuce do i care? there are spies enough to be had in this town without him.}
+<A>__{roderick hears the sergeant returning and walks back to the door. then the office door opens, captain galgenstein looks out, sees roderick, smiles and say:}
+<C>__{captain galgenstein}
+<D>__{good morning, private james. please come in. i should like you to meet my uncle, herr minister of police galgenstein.}
+<C>__{roderick}
+<D>__{how do you do, sir?}
+<A>__{the minister nods.}
+<C>__{roderick }
+<D>__{the captain was the nephew and heir of the minister of police, herr galgenstein, a relationship which, no doubt, aided in the younger gentlemen's promotion.}
+<C>__{captain galgenstein}
+<D>__{your loyalty to me and your service to the regiment has pleased me very well and now there is another occasion on which you may make yourself useful to us; if you succeed, depend on it, your reward will be your discharge from the army, and a bounty of 100 guineas.}
+<C>__{roderick}
+<D>__{what is the service, sir?}
+<C>__{captain galgenstein}
+<D>__{there is lately come to berlin a gentleman in the service of the empress queen, who calls himself the chevalier de belle fast, and wears the red riband and star of the pope's order of the spur. he is made for good society, polished, obliging, a libertine, without prejudices, fond of women, of good food, of high play, prudent and discreet.}
+<A>__{the captain smiles at roderick.}
+<C>__{captain galgenstein}
+<D>__{he speaks italian and french indifferently; but we have some reason to fancy this monsieur de belle fast is a native of your country of ireland, and that he has come here as a spy.}
+<A>__{the captain rises and begins to pace back and forth.}
+<C>__{captain galgenstein}
+<D>__{naturally, your knowledge of english makes you an ideal choice to go into his service. of course, you will not know a word of english; and if the chevalier asks as to the particularity of your accent, say you are hungarian. the servant who came with him will be turned away today, and the person to whom he has applied for a faithful fellow will recommend you.}
+<A>__{roderick nods.}
+<C>__{captain galgenstein}
+<D>__{you are a hungarian; you served in the army, and left on account of weakness in the loins. he gambles a great deal, and wins. do you know the cards well?}
+<C>__{roderick}
+<D>__{only a very little, as soldiers do.}
+<C>__{captain galgenstein}
+<D>__{i had thought you more expert. you must find out if the chevalier cheats. he sees the english and austrian envoys continually, and the young men of either ministry sup repeatedly at his house. find out what they talk of, for how much each plays, especially if any of them play on parole. if you are able to, read his private letters, though about those which go to the post, you need not trouble yourself we look at them there. but never see him write a note without finding out to whom it goes, and by what channel or messenger. he sleeps with the keys of his dispatch box with a string around his neck twenty frederics, if you get an impression of the keys.}
+<C>__{minister galgenstein}
+<D>__{does this assignment interest you?}
+<C>__{roderick}
+<D>__{yes, minister, i am interested in any work in which i can be of service to captain galgenstein.}
+<A>__{the minister studies roderick, coldly.}

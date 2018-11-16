@@ -1,0 +1,171 @@
+<L>__{interior pie shop day}
+<A>__{she pulls him in.}
+<C>__{mrs. lovett}
+<D>__{sit down.}
+<A>__{he thumps down, still in his own dark world. she quickly glances around for toby and then goes into her parlor...}
+<L>__{interior parlor day}
+<A>__{she discovers toby is asleep on the sofa before the fire. she quickly snatches up a bottle of gin from the sideboard and returns to the pie shop...}
+<L>__{interior pie shop day}
+<A>__{she pours todd a tumbler of gin, hands it to him:}
+<C>__{mrs. lovett}
+<D>__{there, drink it down all the way that's right ...}
+<P>__{(he does so)}
+<D>__{... now, we got a body molderin' away upstairs, what do you intend we should do about that?}
+<C>__{todd}
+<D>__{later on, when it's dark, we'll take him to some secret place and bury him.}
+<C>__{mrs. lovett}
+<D>__{well, yes, of course, we could do that. i don't suppose he's got any relatives going to come poking around looking for him...}
+<A>__{a chord of music. a beat. an idea. he looks at her uncomprehendingly.}
+<C>__{mrs. lovett}
+<D>__{well, you know me, sometimes bright ideas just pop right into my head, and i keep thinking... seems a downright shame...}
+<C>__{todd}
+<D>__{shame?}
+<C>__{mrs. lovett}
+<D>__{seems an awful waste... such a nice plump frame wot's his name has... had... has... nor it can't be traced. business needs a lift debts to be erased think of it as thrift, as a gift... if you get my drift...}
+<P>__{(todd has no idea what she is talking about)}
+<D>__{no?}
+<P>__{(she sighs)}
+<D>__{seems an awful waste. i mean, with the price of meat what it is, when you get it, if you get it }
+<A>__{todd suddenly understands:}
+<C>__{todd}
+<D>__{ah!}
+<C>__{mrs. lovett}
+<D>__{good, you got it.}
+<P>__{(she warms to the idea)}
+<D>__{take, for instance, mrs. mooney and her pie shop. business never better, using only pussycats and toast. and a pussy's good for maybe six or seven at the most. and i'm sure they can't compare as far as taste }
+<C>__{todd}
+<D>__{mrs. lovett, what a charming notion,}
+<A>__{the music builds as they sing simultaneously:}
+<C>__{todd}
+<D>__{eminently practical and yet appropriate as always. mrs. lovett, how i've lived without you all these years i will never know! how delectable! also undetectable. how choice! how rare!}
+<C>__{mrs. lovett}
+<D>__{well, it does seem a waste... it's an idea... think about it... lots of other gentlemen'll soon be coming for a shave, won't they? think of all them pies!}
+<A>__{a triumphant waltz theme begins:}
+<C>__{todd}
+<D>__{for what's the sound of the world out there?}
+<C>__{mrs. lovett}
+<D>__{what, mr. todd, what, mr. todd, what is that sound?}
+<C>__{todd}
+<D>__{those crunching noises pervading the air?}
+<C>__{mrs. lovett}
+<D>__{yes, mr. todd, yes, mr. todd, yes, all around }
+<C>__{todd}
+<D>__{it's man devouring man, my dear,}
+<A>__{they sing simultaneously:}
+<C>__{todd}
+<D>__{and who are we to deny it in here?}
+<C>__{mrs. lovett}
+<D>__{then who are we to deny it in here?}
+<A>__{music continues under:}
+<C>__{todd}
+<D>__{ah, these are desperate times, mrs. lovett, and desperate measures are called for.}
+<A>__{she goes to the counter and comes back with an imaginary pie:}
+<C>__{mrs. lovett}
+<D>__{here we are now, hot out of the oven...}
+<A>__{she holds the imaginary pie out to him with a sly and wicked smile.}
+<C>__{todd}
+<D>__{what is that?}
+<C>__{mrs. lovett}
+<D>__{it's priest. have a little priest.}
+<C>__{todd}
+<D>__{is it really good?}
+<C>__{mrs. lovett}
+<D>__{sir, it's too good, at least. then again, they don't commit sins of the flesh, so it's pretty fresh.}
+<C>__{todd}
+<P>__{(looking at it)}
+<D>__{awful lot of fat.}
+<C>__{mrs. lovett}
+<D>__{only where it sat.}
+<C>__{todd}
+<D>__{haven't you got poet or something like that?}
+<C>__{mrs. lovett}
+<D>__{no, you see the trouble with poet is, how do you know it's deceased? try the priest.}
+<C>__{todd}
+<P>__{("tasting" it)}
+<D>__{mmm. heavenly.}
+<C>__{mrs. lovett}
+<D>__{not as hearty as bishop, perhaps, but not as bland as curate, either.}
+<A>__{mrs. lovett presents another imaginary pie:}
+<C>__{mrs. lovett}
+<D>__{lawyer's rather nice.}
+<C>__{todd}
+<D>__{if it's for a price.}
+<C>__{mrs. lovett}
+<D>__{order something else, though, to follow, since no one should swallow it twice.}
+<C>__{todd}
+<D>__{anything that's lean.}
+<C>__{mrs. lovett}
+<D>__{well, then, if you're british and loyal, you might enjoy royal marine. anyway, it's clean. though, of course, it tastes of wherever it's been.}
+<C>__{todd}
+<P>__{(looking past her to imaginary oven)}
+<D>__{is that squire on the fire?}
+<C>__{mrs. lovett}
+<D>__{mercy no, sir, look closer, you'll notice it's grocer.}
+<C>__{todd}
+<D>__{looks thicker. more like vicar.}
+<C>__{mrs. lovett}
+<D>__{no, it has to be grocer it's green.}
+<A>__{todd laughs as the glorious waltz theme returns:}
+<C>__{todd}
+<D>__{the history of the world, my love }
+<C>__{mrs. lovett}
+<D>__{save a lot of graves, do a lot of relatives favors...}
+<C>__{todd}
+<D>__{ is those below serving those up above.}
+<C>__{mrs. lovett}
+<D>__{everybody shaves, so there should be plenty of flavors...}
+<C>__{todd}
+<D>__{how gratifying for once to know }
+<C>__{both}
+<P>__{(indicating barber shop above)}
+<D>__{ that those above will serve those down below!}
+<A>__{the music continues under:}
+<C>__{mrs. lovett}
+<D>__{since marine doesn't appeal to you, how about rear admiral?}
+<C>__{todd}
+<D>__{too salty. i prefer general.}
+<C>__{mrs. lovett}
+<D>__{with or without his privates? "with" is extra.}
+<A>__{todd chortles as mrs. lovett offers another pie with a particular, flamboyant panache:}
+<C>__{todd}
+<D>__{what is that?}
+<C>__{mrs. lovett}
+<D>__{it's fop. finest in the shop. or we have some shepherd's pie peppered with actual shepherd on top. and i've just begun. here's a politician so oily it's served with a doily have one?}
+<C>__{todd}
+<D>__{put it on a bun.}
+<P>__{(she looks at him quizzically)}
+<D>__{well, you never know if it's going to run.}
+<C>__{mrs. lovett}
+<D>__{try the friar. fried, it's drier.}
+<C>__{todd}
+<D>__{no, the clergy is really too coarse and too mealy.}
+<C>__{mrs. lovett}
+<D>__{then actor that's compacter.}
+<C>__{todd}
+<D>__{yes, and always arrives overdone.}
+<P>__{(he is suddenly dark and purposeful)}
+<D>__{i will come again when you have judge on the menu...}
+<A>__{the music vamps deliciously as:}
+<C>__{mrs. lovett}
+<D>__{true, we don't have judge yet but would you settle for the next best thing?}
+<C>__{todd}
+<D>__{what's that?}
+<A>__{she offers him a butcher's cleaver:}
+<C>__{mrs. lovett}
+<D>__{executioner.}
+<A>__{he takes the cleaver, feels the heft of it. feels good. then he picks up her wooden rolling pin, hands it to her, as the music builds into the triumphant waltz:}
+<C>__{todd}
+<D>__{have charity towards the world, my pet }
+<C>__{mrs. lovett}
+<D>__{yes, yes, i know, my love }
+<C>__{todd}
+<D>__{we'll take the customers that we can get.}
+<C>__{mrs. lovett}
+<D>__{high born and low, my love.}
+<C>__{todd}
+<D>__{we'll not discriminate great from small. no, we'll serve anyone }
+<C>__{mrs. lovett}
+<D>__{we'll serve anyone }
+<C>__{both}
+<D>__{and to anyone at all!}
+<A>__{the music builds to a climax as they joyously brandish their "weapons. "}

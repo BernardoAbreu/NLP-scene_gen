@@ -1,0 +1,77 @@
+<L>__{interior hall of the heavens night}
+<A>__{tables are overturned, food lies on the ground, people cower in the darkness. d'agosta crouches in some broken glass with his walkie talkie. he shuts it off, rises, looks around. light comes from a few sputtering candles. most of the guests still trapped inside are grouped around the lowered steel door. among them are kawakita and cuthbert. from the body of the man crushed underneath the door extends a large puddle of blood. bailey is working in desperation on a brass panel by the door.}
+<C>__{bailey}
+<D>__{manual overrides aren't working. i'm getting nothing, lieutenant.}
+<C>__{d'agosta}
+<D>__{great.}
+<A>__{frank, the father of the teenage girl, lauren, steps forward.}
+<C>__{frank}
+<D>__{there's no power. the whole system's down.}
+<A>__{the crowd starts to murmur. one man yells.}
+<C>__{man}
+<D>__{we're trapped! and there's a killer in here!}
+<C>__{d'agosta}
+<D>__{we'll get out safely if everyone stays calm. is anyone else hurt?}
+<A>__{the mayor stands. his wife's forehead is bleeding.}
+<C>__{mayor}
+<D>__{yes. my wife.}
+<C>__{d'agosta}
+<D>__{is there a doctor?}
+<A>__{the distinguished grey haired man with a cane comes forward. dr.}
+<B>__{pound.}
+<C>__{pound}
+<D>__{i'm dr. pound.}
+<C>__{d'agosta}
+<D>__{check this woman and see if anyone else needs you.}
+<A>__{pound moves off. everyone spins now at the incongruous sound of a dog bark. d'agosta pulls his gun. the door to a stairwell at the far end of the room opens and hobbes bounds into the hall! he's followed by jonathan, who is filthy and wild eyed.}
+<C>__{jonathan}
+<P>__{(calls)}
+<D>__{lieutenant d'agosta! don't shoot.}
+<C>__{d'agosta}
+<D>__{where's pendergast?}
+<C>__{jonathan}
+<P>__{(crossing, breathless)}
+<D>__{five flights down. we were lost in the sub basement. something's down there. it killed our two deputies. when i left pendergast it was coming back. he sent me for help. we have to hurry.}
+<A>__{d'agosta makes a quick sweep of the room with his flashlight. the remote corners of the hall are so black the light seems to disappear. in the center, two men are bending over a still form. one of them is dr. pound.}
+<C>__{d'agosta}
+<D>__{both of you. get back here.}
+<C>__{pound}
+<D>__{but he's still alive }
+<C>__{d'agosta}
+<D>__{get back now!}
+<A>__{the urgency in d'agosta's voice gets everyone's attention. the mayor brings his wife over. cuthbert comes too. they huddle apart from the others. cuthbert's white with fear.}
+<C>__{cuthbert}
+<D>__{what's going on?}
+<A>__{d'agosta speaks low.}
+<C>__{d'agosta}
+<D>__{there's some kind of animal loose in the museum. pendergast's alone. he needs help. i want volunteers to go with me.}
+<C>__{bailey}
+<D>__{i'm in.}
+<C>__{kawakita}
+<P>__{(swallows)}
+<D>__{me too.}
+<C>__{cuthbert}
+<P>__{(voice rising in fear)}
+<D>__{i'd do it gladly but someone needs to stay with these people.}
+<C>__{d'agosta}
+<D>__{all right. you're elected. bailey, get all the guns and flashlights, give the mayor your walkie talkie so we can keep in touch. cuthbert, keep everyone together and make sure they stay quiet.}
+<A>__{frank steps forward.}
+<C>__{frank}
+<D>__{i was in the marines. give me a gun. i'd go with you, too, but i've got my daughter.}
+<C>__{d'agosta}
+<D>__{what's your name?}
+<C>__{frank}
+<D>__{frank.}
+<C>__{d'agosta}
+<D>__{all right. you guard these people and your daughter.}
+<A>__{d'agosta gives frank his service revolver.}
+<C>__{mayor's wife}
+<P>__{(to d'agosta)}
+<D>__{where are you going? don't leave us alone!}
+<A>__{the remaining crowd begins to whimper. the mayor rises.}
+<C>__{mayor}
+<D>__{everyone quiet. the lieutenant's in charge.}
+<A>__{bailey and d'agosta carry shot guns. they quietly move to the back stairwell at the far end of the hall of the heavens. everyone else bunches together and watches.}
+<C>__{d'agosta}
+<D>__{bailey, we'll go first and check the stairwell. jonathan, you and greg guard the door.}
+<A>__{jonathan gives hobbes' leash to the mayor. d'agosta hands greg kawakita a shotgun, tightens his grip on his own. then he gives the signal and bailey yanks open the door to the stairwell.}

@@ -1,0 +1,62 @@
+<L>__{int hallway evening}
+<A>__{halfway down the hallway, the maid hears the door being kicked in. nervous, she backs away, headed for the elevators...}
+<L>__{int room 2504 continuous}
+<A>__{milo quickly enters the room, gun raised. the screaming is coming from the tv. milo clicks it off and checks the room. the place appears to be deserted. he crosses to the bathroom and peers in: empty. meanwhile, cass has cautiously entered the room and sees spots on the rug:}
+<C>__{cass}
+<D>__{oh, god, is that blood?}
+<C>__{milo}
+<D>__{hey. columbo. wait by the door.}
+<C>__{cass}
+<D>__{i'm just trying to...}
+<C>__{milo}
+<D>__{this could be a crime scene. there are clues all over this room that only a trained eye can find. and as i seem to recall, you were the one who was unable to figure this out by herself.}
+<A>__{oooh. cass grits her teeth.}
+<C>__{cass}
+<P>__{(under her breath)}
+<D>__{he is unbelievable.}
+<C>__{milo}
+<D>__{who are you talking to, your imaginary friend leslie?}
+<C>__{cass}
+<P>__{(blushing)}
+<D>__{hey. lots of kids have imaginary friends, despite what my mother believes.}
+<C>__{milo}
+<D>__{whatever. you wait by the door. and i will handle this.}
+<C>__{cass}
+<P>__{(pissed)}
+<D>__{fine.}
+<A>__{she moves back to the door. as she does, she notices a matchbook on the floor: it's a green matchbook with a black}
+<B>__{silhouette of a horse.}
+<C>__{cass}
+<D>__{so you're saying you don't want my help.}
+<C>__{milo}
+<D>__{i'm saying i don't need your help.}
+<C>__{cass}
+<P>__{(shrugging)}
+<D>__{ok.}
+<A>__{as he turns away, she slips the matchbook into her purse. milo catches this movement out of the corner of his eye and glances back:}
+<C>__{milo}
+<D>__{what was that?}
+<C>__{cass}
+<P>__{(innocently)}
+<D>__{what was what?}
+<C>__{milo}
+<D>__{did you find something?}
+<C>__{cass}
+<D>__{how could i find anything? i'm not the detective.}
+<C>__{milo}
+<D>__{lemme see your purse...}
+<A>__{milo takes a step closer to her, but:}
+<C>__{voice}
+<D>__{freeze!}
+<A>__{cass and milo turn to see a hotel security guard in the doorway, excitedly pointing his gun at them. milo rolls his eyes.}
+<C>__{guard}
+<D>__{hotel security! stay where you are!}
+<C>__{milo}
+<D>__{ok, ok, no problem. you're probably gonna want this.}
+<A>__{milo holds up his gun.}
+<C>__{guard}
+<P>__{(panicked)}
+<D>__{drop the weapon, now!}
+<C>__{milo}
+<D>__{take it easy. i'm just gonna unload it.}
+<A>__{milo drops the cartridge, then tosses the gun right at the guard's face. the guard instinctively raises his hands and milo charges him, tackling him to the ground, then handcuffing him to the table. milo grabs cass hand and races from the room.}

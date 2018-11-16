@@ -1,0 +1,68 @@
+<L>__{interior other hallway continuous}
+<C>__{other mother}
+<D>__{you could stay here forever... if you want to.}
+<C>__{coraline}
+<D>__{really?}
+<C>__{other father}
+<D>__{sure...we'll sing and play games, and mother will cook your favorite meals.}
+<A>__{other mother rests her hand on coraline's shoulder.}
+<C>__{other mother}
+<D>__{there's one tiny little thing we need to do.}
+<C>__{coraline}
+<D>__{what's that?}
+<C>__{other father}
+<D>__{well, it's a surprise.}
+<L>__{interior other dining room continuous}
+<A>__{coraline is seated in her place. the other mother places a small box with a bow in front of her, and takes her seat along with other father. coraline excitedly removes the lid.}
+<C>__{other mother}
+<D>__{for you ... our little doll.}
+<A>__{the "surprise" is a spool of black thread, a silver needle, and a pair of shiny black buttons for coraline's eyes. coraline gasps. she looks up at her other parents, hoping it's a bad joke.}
+<C>__{other mother }
+<P>__{(smiling)}
+<D>__{black is traditional, but if you'd prefer pink or vermillion or chartreuse...}
+<A>__{coraline sees their button eyes changing colors, growing ever more panicked.}
+<C>__{other mother }
+<D>__{... though you might make me jealous.}
+<C>__{coraline}
+<D>__{no way!}
+<A>__{she bats the box away, and her hands fly to her face, cover her eyes.}
+<C>__{coraline }
+<D>__{you're not sewing buttons in my eyes!}
+<C>__{other mother}
+<D>__{oh, but we need a yes ... if you want to stay here.}
+<A>__{other father tests the needle on his finger.}
+<C>__{other father}
+<P>__{(enthusiastic)}
+<D>__{so sharp you won't feel a thi oww!}
+<A>__{other mother kicks him under the table. embarrassed, he puts the needle back in the box.}
+<C>__{other mother}
+<D>__{there now; it's your decision, darling. we only want what's best for you.}
+<A>__{she walks over and puts her hand, now icy cold, on coraline's shoulder. coraline pushes it away and stands}
+<B>__{up.}
+<C>__{coraline}
+<D>__{i'm... i'm going to bed! right now!}
+<C>__{other mother}
+<P>__{(wounded)}
+<D>__{bed?}
+<C>__{other father}
+<D>__{before dinner?}
+<A>__{coraline fights to control her quaking voice.}
+<C>__{coraline}
+<D>__{i'm really, really tired. yeah...}
+<P>__{(fakes huge yawn)}
+<D>__{i just need to sleep on things.}
+<A>__{other mother stands, masking disappointment.}
+<C>__{other mother}
+<D>__{well of course you do, darling... i will be happy to tuck you in.}
+<A>__{coraline backs away, urging them to stay where they are.}
+<C>__{coraline}
+<P>__{(palms out, forced smile)}
+<D>__{oh, no thanks, uh, you you've done so much already }
+<A>__{she turns to leave and finds the other mother blocking the doorway. other father joins her.}
+<C>__{other mother}
+<D>__{you're welcome. and i}
+<P>__{(smiles to other father)}
+<D>__{we aren't worried at all, darling.}
+<P>__{(softly)}
+<D>__{soon you'll see things our way.}
+<A>__{she lets go. she and the other father herd coraline across the hallway to the stairs.}

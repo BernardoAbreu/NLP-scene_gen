@@ -1,0 +1,29 @@
+<L>__{interior police station entry way night}
+<A>__{asher, danica, and grimwood enter, followed by four vampires dressed as orderlies. the orderlies carry a straightjacket, various restraints, and a collapsible transport gurney. danica approaches the desk sergeant, flashing a hospital id.}
+<C>__{danica}
+<D>__{hi. we're here to transfer a patient to county general?}
+<L>__{interior police station interrogation room night}
+<A>__{vance enters once more. he opens the leather case on the table, removing a syringe and an ampule of fluid.}
+<C>__{vance}
+<P>__{(speaking softly now)}
+<D>__{just a little something to keep you compliant. the normal dose is two, maybe three hundred milligrams. but for a strapping young hybrid like yourself }
+<A>__{vance pokes the needle of the syringe into the ampule.}
+<C>__{vance}
+<D>__{ i think we'll kick it up to a couple thousand.}
+<A>__{vance reaches for blade's arm. blade struggles, tries to pull back, but vance manages to inject him nonetheless.}
+<C>__{vance}
+<D>__{there. that wasn't so bad, was it?}
+<P>__{(smiling)}
+<D>__{you're weak, aren't you? in need of your serum. who would've guessed a mere human like myself could overpower you?}
+<C>__{blade}
+<P>__{(realizing)}
+<D>__{you're with them a familiar }
+<C>__{vance}
+<D>__{going on five years now.}
+<A>__{vance extends his arm, pulling back his shirt cuff a little to reveal a vampire glyph tattooed on the underside of his wrist. then he pulls his cuff back down, smiles at blade.}
+<C>__{vance}
+<D>__{it's the end game, blade. all their plans are finally coming to fruition. so just sit back and enjoy the show.}
+<A>__{blade looks to the one way mirror, screams.}
+<C>__{blade}
+<D>__{he's one of them! damnit, he's working for them!}
+<A>__{vance looks to the one way mirror as well and shrugs as if to say "the man's deranged. what can i do?"}

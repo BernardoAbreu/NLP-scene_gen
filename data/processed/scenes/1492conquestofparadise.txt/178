@@ -1,0 +1,30 @@
+<L>__{interior alhambra palace room next to throne room day}
+<A>__{sanchez is standing alone in the next room; he has obviously been listening. he looks at her.}
+<C>__{isabel}
+<D>__{i know, i should not tolerate his impertinence.}
+<C>__{sanchez}
+<D>__{then why?}
+<C>__{isabel}
+<D>__{because he is not afraid of me.}
+<L>__{interior alhambra palace corridor day}
+<A>__{sanchez, in another direction, along a corridor, towards his office. as he reaches a corner with a wide window, a hand seizes him. columbus.}
+<C>__{sanchez}
+<D>__{all i have to do is call the guards.}
+<C>__{columbus}
+<D>__{call them.}
+<A>__{sanchez looks at him and doesn't call. columbus lets go of him.}
+<C>__{sanchez}
+<D>__{i am not afraid of you. you are nothing but a dreamer.}
+<C>__{columbus}
+<D>__{look out of that window.}
+<A>__{surprised, sanchez nevertheless turns, looks out.}
+<C>__{columbus}
+<D>__{what do you see?}
+<C>__{sanchez}
+<D>__{roofs... towers, palaces... spires...}
+<C>__{columbus}
+<D>__{all of them created by people like me.}
+<A>__{sanchez turns round again to face him.}
+<C>__{columbus}
+<D>__{no matter how long you live, sanchez, there's something that will never change between us. i did it! you didn't!}
+<A>__{columbus turns abruptly and walks away, vanishing down the echoing corridor.}

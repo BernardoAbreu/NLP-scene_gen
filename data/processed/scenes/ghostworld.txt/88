@@ -1,0 +1,37 @@
+<L>__{interior high school hall day}
+<A>__{enid, determined, walks down the empty halls. she goes into a room marked "art class".}
+<L>__{interior art class continuous}
+<A>__{roberta is in there with a bearded ex hippy colleague. they're covering a student in plaster.}
+<C>__{enid}
+<D>__{hi i brought over my application for the art academy... i hope it's not too late...}
+<A>__{roberta, absorbed in her plastering, glances at enid.}
+<C>__{roberta}
+<D>__{just a minute...}
+<A>__{then, realizing who it is...}
+<C>__{roberta}
+<D>__{enid! i'm so sorry about what happened.}
+<C>__{enid}
+<D>__{what do you mean?}
+<C>__{roberta}
+<D>__{the whole business with the art show and the newspaper it's absolutely }
+<C>__{enid}
+<D>__{huh?}
+<C>__{roberta}
+<D>__{didn't principal jaffee call you?}
+<C>__{enid}
+<D>__{i didn't check my messages...}
+<C>__{roberta}
+<D>__{oh my goodness... well, the whole thing is just ridiculous, and as soon as the school board is back in session next fall i'm going to do everything i can to help you.}
+<C>__{enid}
+<D>__{help me what?}
+<C>__{roberta}
+<D>__{well they're forcing me to give you a non passing grade in the class because of what happened at the exhibition... but don't worry i'm sure i will be able to get you your diploma in the fall!}
+<C>__{enid}
+<P>__{(pause, overwhelmed)}
+<D>__{but... can i still get that scholarship to the art academy?}
+<C>__{roberta}
+<D>__{i'm sorry, enid you have to be an official high school graduate before i can nominate you. i had to give it to someone else... but i'm sure next year i can }
+<A>__{the plaster covered student makes an uncomfortable moaning noise.}
+<D>__{ex hippy colleague}
+<P>__{(flustered, to roberta)}
+<D>__{hey, can you help me out over here?}

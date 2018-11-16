@@ -1,0 +1,221 @@
+<L>__{interior barber shop day}
+<A>__{mrs. lovett enters. todd is methodically cleaning his razor.}
+<C>__{mrs. lovett}
+<D>__{gawd, the lad is drinking me out of house and home, how long until pirelli gets back?}
+<C>__{todd}
+<D>__{he won't be back.}
+<C>__{mrs. lovett}
+<P>__{(instantly suspicious)}
+<D>__{mr. t., you didn't!}
+<A>__{he casually points the razor toward the chest. she lifts the lid and sees pirelli's body at the bottom of the chest.}
+<C>__{mrs. lovett}
+<P>__{(spinning on todd)}
+<D>__{you're barking mad! killing a man wot done you no harm!}
+<C>__{todd}
+<D>__{he recognized me from the old days. he tried to blackmail me half my earnings.}
+<C>__{mrs. lovett}
+<P>__{(relieved)}
+<D>__{oh well, that's a different matter! for a moment there i thought you'd lost your marbles!}
+<A>__{she looks into the chest again.}
+<C>__{mrs. lovett}
+<D>__{ooooh! all that blood! enough to make you come all over gooseflesh, ain't it? poor bugger. oh, well.}
+<A>__{she starts to close the chest, then has an idea. she reaches in and rummages around the body. pulls out pirelli's chatelaine purse, then drops the lid of the chest.}
+<C>__{mrs. lovett}
+<P>__{(looking through purse)}
+<D>__{three quid! well, waste not, want not, i always say...}
+<P>__{(she tucks the purse into her dress)}
+<D>__{... now what are we going to do about the boy?}
+<C>__{todd}
+<D>__{send him up.}
+<A>__{she stops, looks at him.}
+<C>__{mrs. lovett}
+<D>__{oh, we don't need to worry about him, he's a simple thing. i will pawn him off with some story.}
+<C>__{todd}
+<P>__{(cold)}
+<D>__{send him up, woman.}
+<C>__{mrs. lovett}
+<P>__{(quickly)}
+<D>__{now, mr. t., surely one's enough for today. don't want to indulge yourself, after all ...}
+<P>__{(she busily starts to straighten up the room)}
+<D>__{... 'sides, i was thinking about hiring a lad to help around the shop, me poor knees not being what they used to be.}
+<A>__{todd sighs and moves to his familiar post at the window:}
+<C>__{todd}
+<D>__{anything you say.}
+<C>__{mrs. lovett}
+<D>__{'course we'll have to stock up on the gin, the boy drinks like a barbary sailor }
+<A>__{todd suddenly gasps a great, shocking intake of breath as his whole body tenses like iron mrs. lovett spins to him }
+<C>__{todd}
+<D>__{the judge.}
+<A>__{mrs. lovett hurries to the window below, they can see the judge and the beadle approaching. they see them exchanging a few words and then the beadle moves off as the judge approaches the shop todd whispers, his eyes blazing:}
+<C>__{todd}
+<D>__{justice ... justice.}
+<A>__{mrs. lovett gives him a quick kiss and then very quickly leaves. a beat as todd prepares himself. he turns from the window and looks around the shop, shifting nervously. now that his great moment of revenge is at hand, he doesn't quite know what to do with himself. he snatches up his large razor, coils by the door, ready to attack. no. he wants to savor this. he quickly moves and puts the razor down. finally he just stands. all his demons settling into a bizarre sort of calm. he hears the judge's footsteps approaching on the stairs. then the judge enters.}
+<C>__{judge}
+<D>__{mr. todd?}
+<A>__{todd slowly turns:}
+<C>__{todd}
+<D>__{at your service ... an honor to receive your patronage, my lord.}
+<C>__{judge}
+<D>__{you know me, sir?}
+<C>__{todd}
+<P>__{(a polite bow)}
+<D>__{who in this wide world is not familiar with the honored judge turpin?}
+<A>__{the judge grunts and glances around the shop:}
+<C>__{judge}
+<D>__{these premises are hardly prepossessing and yet the beadle tells me you are the most accomplished of all the barbers in the city.}
+<C>__{todd}
+<D>__{that is gracious of him, sir ...}
+<P>__{(indicates for the judge to sit)}
+<D>__{... sit, if you please, sir. sit.}
+<A>__{the judge settles into the parlor chair as music begins...}
+<C>__{todd}
+<D>__{and what may i do for you today, sir? a stylish trimming of the hair? a soothing skin massage?}
+<C>__{judge}
+<D>__{you see, sir, a man infatuate with love, her ardent and eager slave. so fetch the pomade and pumice stone and lend me a more seductive tone, a sprinkling perhaps of french cologne, but first, sir, i think a shave.}
+<C>__{todd}
+<D>__{the closest i ever gave.}
+<A>__{he whips a sheet over the judge, then tucks the bib in. the judge hums, flicking imaginary dust off the sheet; todd whistles gaily.}
+<C>__{judge}
+<D>__{you're in a merry mood today, mr. todd.}
+<C>__{todd}
+<P>__{(mixing lather)}
+<D>__{'tis your delight, sir, catching fire from one man to the nexterior}
+<C>__{judge}
+<D>__{'tis true, sir, love can still inspire the blood to pound, the heart leap higher.}
+<C>__{both}
+<D>__{what more, what more can man require }
+<C>__{judge}
+<D>__{than love, sir?}
+<C>__{todd}
+<D>__{more than love, sir.}
+<C>__{judge}
+<D>__{what, sir?}
+<C>__{todd}
+<D>__{women.}
+<C>__{judge}
+<D>__{ah yes, women.}
+<C>__{todd}
+<D>__{pretty women.}
+<A>__{the judge hums jauntily, todd whistles and starts stropping his razor rhythmically. he then lathers the judge's face. still whistling, todd stands back to survey the judge, who is now totally relaxed, eyes closed. todd goes to his razor and picks it up, sings to it gently:}
+<C>__{todd}
+<D>__{now then, my friend. now to your purpose. patience, enjoy it. revenge can't be taken in haste.}
+<C>__{judge}
+<P>__{(opening his eyes)}
+<D>__{make haste, and if we wed, you'll be commended, sir.}
+<C>__{todd}
+<D>__{my lord...}
+<P>__{(goes to him)}
+<D>__{and who, may it be said, is your intended, sir?}
+<C>__{judge}
+<D>__{my ward.}
+<A>__{a shocked tremor through todd as the judge closes his eyes again and settles in comfortably...}
+<C>__{judge}
+<D>__{and pretty as a rosebud.}
+<A>__{the music rises...}
+<C>__{todd}
+<D>__{pretty as her mother?}
+<C>__{judge}
+<P>__{(mildly puzzled)}
+<D>__{what? what was that?}
+<C>__{todd}
+<D>__{oh, nothing, sir. nothing. may we proceed?}
+<A>__{the music builds as he steps behind the judge his razor ready we are sure the great moment has come the music still builds todd finally puts the razor at the judge's throat then with an easy flick of his wrist, he just begins to shave the judge, as:}
+<C>__{todd}
+<D>__{pretty women... fascinating... sipping coffee, dancing... pretty women are a wonder. pretty women. sitting in the window or standing on the stair, something in them cheers the air. pretty women...}
+<C>__{judge}
+<D>__{silhouetted...}
+<C>__{todd}
+<D>__{stay within you...}
+<C>__{judge}
+<D>__{glancing...}
+<C>__{todd}
+<D>__{stay forever...}
+<C>__{judge}
+<D>__{breathing lightly...}
+<C>__{todd}
+<D>__{pretty women...}
+<C>__{both}
+<D>__{pretty women! blowing out their candles or combing out their hair...}
+<A>__{they sing simultaneously:}
+<C>__{judge}
+<D>__{then they leave... even when they leave you and vanish, they somehow can still remain there with you, there with you.}
+<C>__{todd}
+<D>__{even when they leave, they still are there. they're there.}
+<C>__{both}
+<D>__{ah, pretty women...}
+<C>__{todd}
+<D>__{at their mirrors...}
+<C>__{judge}
+<D>__{in their gardens...}
+<C>__{todd}
+<D>__{letter writing...}
+<C>__{judge}
+<D>__{flower picking...}
+<C>__{todd}
+<D>__{weather watching...}
+<C>__{both}
+<D>__{how they make a man sing! proof of heaven as you're living pretty women, sir!}
+<A>__{the music approaches a feverish crescendo as todd prepares to finally kill the judge and they sing simultaneously:}
+<C>__{judge}
+<D>__{pretty women, yes! pretty women, sir! pretty women! pretty women, sir!}
+<C>__{todd}
+<D>__{pretty women, here's to pretty women, all the pretty women }
+<A>__{just as the music reaches a climax, todd raises his arm in a huge arc and is about to slash the judge's throat when suddenly anthony bursts in }
+<C>__{anthony}
+<D>__{mr. todd! i've seen johanna! she said she'll leave with me tonight !}
+<A>__{the judge jumps up, away from todd }
+<C>__{judge}
+<D>__{you! there is indeed a higher power to warn me thus in time }
+<A>__{he tears off the sheet as he advances savagely on anthony:}
+<C>__{judge}
+<D>__{johanna elope with you? deceiving slut! i will lock her up in some obscure retreat where neither you nor any other vile creature shall ever lay eyes on her again !}
+<A>__{he spins with venom to todd:}
+<C>__{judge}
+<D>__{and as for you, barber, it is all too clear what company you keep. service them well and hold their custom for you'll have none of mine.}
+<A>__{he strides out. todd stands, frozen.}
+<C>__{anthony}
+<D>__{mr. todd you have to help me i've talked to johanna and !}
+<A>__{todd suddenly turns on him with a ferocious roar:}
+<C>__{todd}
+<D>__{out! out, i say!}
+<A>__{utterly stunned at his friend's ferocity, anthony backs away, leaves the shop. music begins, very agitated, as todd stands motionless. in shock. his mind cracking apart. mrs. lovett hurries in:}
+<C>__{mrs. lovett}
+<D>__{all this shouting and running about, what's happened ?}
+<C>__{todd}
+<D>__{i had him and then }
+<C>__{mrs. lovett}
+<D>__{the sailor busted in, i know, i saw them both running down the street and i said }
+<A>__{todd interrupts wildly:}
+<C>__{todd}
+<D>__{i had him! his throat was bare beneath my hand !}
+<C>__{mrs. lovett}
+<D>__{there, there, dear. don't fret }
+<C>__{todd}
+<P>__{(spins on her violently)}
+<D>__{no, i had him! his throat was there, and he'll never come again!}
+<C>__{mrs. lovett}
+<D>__{easy now. hush, love, hush. i keep telling you }
+<C>__{todd}
+<D>__{when?!}
+<C>__{mrs. lovett}
+<D>__{what's your rush?}
+<C>__{todd}
+<D>__{why did i wait? you told me to wait! now he'll never come again...}
+<A>__{the music becomes ferocious as todd's wrenching insanity, always close to the surface, finally explodes:}
+<C>__{todd}
+<D>__{there's a hole in the world like a great black pit and it's filled with people who are filled with shit and the vermin of the world inhabit it but not for long!}
+<A>__{he suddenly looks to mrs. lovett she starts back alarmed by the pure madness in his eyes }
+<C>__{todd}
+<D>__{they all deserve to die! tell you why, mrs. lovett, tell you why: because in all of the whole human race, mrs. lovett there are two kinds of men and only two. there's the one staying put in his proper place and the one with his foot in the other one's face look at me, mrs. lovett, look at you }
+<A>__{he suddenly lurches and grabs mrs. lovett tightly }
+<C>__{todd}
+<D>__{no, we all deserve to die! even you, mrs. lovett, even i. because the lives of the wicked should be }
+<P>__{(slashes at the air violently)}
+<D>__{made brief. for the rest of us, death will be a relief we all deserve to die!}
+<A>__{he clutches her to him very tightly as he suddenly keens, a howl of pure agony:}
+<C>__{todd}
+<D>__{and i will never see johanna, no, i will never hug my girl to me }
+<A>__{he hurls mrs. lovett away from him }
+<C>__{todd}
+<D>__{finished!}
+<A>__{we suddenly slash to }

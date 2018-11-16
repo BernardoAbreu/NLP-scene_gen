@@ -1,0 +1,57 @@
+<L>__{int diner night}
+<A>__{holden and alyssa sit at a booth. alyssa picks through her food. holden looks at the check and pulls money from his wallet.}
+<C>__{holden}
+<D>__{i wish you were the one being pursued by m tv.}
+<C>__{alyssa}
+<D>__{oh really?}
+<C>__{holden}
+<D>__{sure. then you could sell our and maybe pick up the check once in awhile.}
+<C>__{alyssa}
+<P>__{(drops her fork and wipes her hands)}
+<D>__{we're leaving!}
+<C>__{holden}
+<D>__{well it's not like this is a bed and breakfast,}
+<C>__{alyssa}
+<D>__{i've got a little business to conduct.}
+<A>__{she grabs her bag and slides out of the booth. holden watches her, then follows. a23. alyssa slides up to the cashier's desk as does holden, who offers a puzzled shrug. alyssa offers the 'just wait' finger. the cashier turns to her.}
+<C>__{alyssa}
+<D>__{are you an authorized deal maker in this establishment? do you have the power to negotiate.}
+<C>__{cashier}
+<D>__{you wanna haggle over the price of your french dip?}
+<C>__{alyssa}
+<D>__{i want to haggle over the price of fine art.}
+<C>__{cashier}
+<D>__{what do you mean?}
+<C>__{alyssa}
+<P>__{(pointing oc)}
+<D>__{there. by the kitchen. that painting.}
+<C>__{cashier}
+<D>__{what about it?}
+<C>__{alyssa}
+<D>__{the price tag says seventy five.}
+<C>__{cashier}
+<D>__{so!}
+<C>__{holden}
+<P>__{(to alyssa)}
+<D>__{tell me you're kidding!}
+<C>__{alyssa}
+<D>__{i will give you fifty.}
+<C>__{cashier}
+<P>__{(to oc)}
+<D>__{manuel! bring, me the dyksiezski off the wall.}
+<P>__{(to alyssa)}
+<D>__{all my years in the diner business, i've waited for this day the day when someone wanted to buy one of the pictures.}
+<C>__{alyssa}
+<P>__{(holds out hand)}
+<D>__{alyssa jones. pleased to meet you.}
+<C>__{cashier}
+<D>__{you say you want to haggle, but you don't know rule one about haggling, which you just broke: you never give your name. the name is power, and to give the opponent that piece of you is to give away victory.}
+<C>__{alyssa}
+<D>__{i'm only trying to conduct a transaction. we're not opponents.}
+<C>__{cashier}
+<P>__{(accepting painting from busboy)}
+<D>__{oh, but we are if you think i'm letting this beautiful piece go for fifty.}
+<C>__{alyssa}
+<D>__{ah ha!}
+<P>__{(to holden)}
+<D>__{now we're haggling.}

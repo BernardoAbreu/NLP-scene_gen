@@ -1,0 +1,19 @@
+<L>__{interior cleveland upstairs corridor night}
+<A>__{elinor is in her nightgown, knocking at a door. mr palmer answers in his nightshirt, astonished to have been summoned out of bed.}
+<C>__{elinor}
+<D>__{i think marianne may need a doctor.}
+<L>__{interior cleveland breakfast room day}
+<A>__{mr palmer and charlotte are sitting at the breakfast table. brandon is pacing. the rain has stopped.}
+<C>__{charlotte}
+<D>__{you'll wear yourself out, colonel! do not worry! a day or two in bed will soon set her to rights!}
+<C>__{mr palmer}
+<D>__{you can rely upon harris, colonel. i have never found a better physician.}
+<A>__{enter elinor with dr harris.}
+<C>__{colonel brandon}
+<P>__{(urgent)}
+<D>__{what is your diagnosis?}
+<C>__{dr harris}
+<D>__{it is an infectious fever that has taken far more serious hold than i would have expected in one so young. i would recommend the hasty removal of your child, mr palmer }
+<A>__{charlotte runs out of the room screaming.}
+<C>__{charlotte}
+<D>__{mrs bunting! mrs bunting!}

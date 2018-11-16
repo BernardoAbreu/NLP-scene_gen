@@ -1,0 +1,48 @@
+<L>__{interior morgue}
+<A>__{close on the heavy stitching of a "y" incision sewn into the chest of a corpse. it is one of the bishop's guards.}
+<C>__{delia}
+<D>__{do you have a motive?}
+<A>__{finch is standing next to the cadaver gurney with the coroner, delia surridge. she is a serious woman, hair wound tight behind her head in a severe bun.}
+<C>__{delia}
+<D>__{i mean, was anything taken?}
+<A>__{she fills the dead man's head with cotton and replaces the top of his skull.}
+<C>__{finch}
+<D>__{just lives.}
+<A>__{pulling at the man's scalp, she stretches it over the replaced skull piece.}
+<C>__{finch}
+<D>__{i know it's too early for your profile but do you have any initial impressions?}
+<C>__{delia}
+<D>__{well...}
+<A>__{she points at a jagged puncture wound at the base of the man's sternum with a ball point pen.}
+<C>__{delia}
+<D>__{he's incredibly powerful. this man's sternum was split like dry wood from the base all the way up to the manubrium.}
+<A>__{finch peers into the hole.}
+<C>__{delia}
+<D>__{and he's resourceful. on that table behind you is a breakdown of all the chemicals found in prothero's blood stream.}
+<A>__{finch hefts the pile of computer paper.}
+<C>__{finch}
+<D>__{bloody hell.}
+<C>__{delia}
+<D>__{there were hundreds of different chemicals in him. from trinitrotoluene to estrogen to motor oil.}
+<A>__{he flips through the document, biting into the wooden end of his pipe.}
+<C>__{finch}
+<D>__{perhaps fate will make something more of all this. i certainly can't.}
+<C>__{delia}
+<D>__{the leader finally authorized an uplink for you? he must be getting nervous.}
+<C>__{finch}
+<D>__{quite. government directed terrorism never sews healthy ideas into the public. oh, that reminds me.}
+<A>__{finch pulls the evidence bag from his pocket.}
+<C>__{finch}
+<D>__{can you tell us anything about this?}
+<A>__{delia's eyes lock onto the violet carson.}
+<C>__{finch}
+<D>__{we found one in the carriage with prothero and this one in the bishop's quarters. a violet carson.}
+<A>__{he hands it to her.}
+<C>__{finch}
+<D>__{i heard that strain had died off. thought a botanist might shed some light on it. delia?}
+<A>__{delia, riveted to the rose, suddenly looks up to him.}
+<C>__{delia}
+<D>__{yes yes, of course.}
+<C>__{finch}
+<D>__{magic. i will drop by tomorrow then.}
+<A>__{he turns, leaving her with the rose.}

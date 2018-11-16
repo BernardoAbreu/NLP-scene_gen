@@ -1,0 +1,30 @@
+<L>__{interior family house}
+<A>__{ray is on the couch and has just woken to a noise.}
+<C>__{ray}
+<D>__{who's that?}
+<C>__{pete}
+<D>__{it's pete. want something to eat?}
+<C>__{ray}
+<D>__{no i'm good man.}
+<L>__{interior police station}
+<C>__{chris}
+<D>__{i gotta get a bigger bed.}
+<C>__{deni}
+<D>__{no, no you don't.}
+<L>__{exterior wild cherry casino}
+<A>__{jay calls a number on his celphone.}
+<C>__{jay}
+<D>__{do it.}
+<L>__{interior police station}
+<C>__{deni}
+<D>__{i'm hungry.}
+<C>__{chris}
+<D>__{got leftovers...}
+<C>__{deni}
+<D>__{mm mmm, i want pancakes, and eggs, and bacon.}
+<A>__{a loud explosion happens, it's chris' police truck outside.}
+<C>__{booth}
+<D>__{woooooooooooo! i told you vaughn! uh ohhhh. who needs to step away from the vehicle now vaughn? truck for truck baby, that's right, truck for a truck.}
+<A>__{chris steps towards the front of the building but men outside open fire, chris ducks for cover.}
+<C>__{chris}
+<P>__{(to deni) get down!}

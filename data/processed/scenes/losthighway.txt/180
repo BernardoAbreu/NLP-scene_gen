@@ -1,0 +1,134 @@
+<T>__{cut to:}
+<L>__{interior prison warden's office day}
+<A>__{the daytons are ushered in by the guard. the warden is standing behind his desk. dr. rogoff is standing to one side, and next to him is captain henderson. the daytons stand just inside the room for a moment before the warden extends his right hand.}
+<C>__{warden}
+<D>__{i'm warden clements. this is captain henderson and dr. rogoff. please, sit down.}
+<A>__{bill and claire move to the chairs in front of the desk and sit down. the warden, dr. rogoff and captain henderson all sit down.}
+<C>__{warden }
+<D>__{mr. and mrs. dayton, as you were told over the phone, your son, peter, is here.}
+<A>__{claire dayton removes her sunglasses. she and bill wait the warden is searching for words.}
+<C>__{warden }
+<D>__{he... he was discovered this morning... in a cell on death row.}
+<A>__{bill and claire look at each other bewildered.}
+<C>__{warden }
+<D>__{a cell that was supposed to be occupied by an inmate named fred madison.}
+<C>__{bill}
+<D>__{the wife killer?}
+<C>__{warden}
+<D>__{yes.}
+<C>__{claire}
+<D>__{how is this possible, warden?}
+<A>__{the warden shakes his head.}
+<C>__{warden}
+<D>__{...tell me, what was peter's condition the last time you saw him?}
+<A>__{bill and claire look at each other again briefly.}
+<C>__{bill}
+<D>__{his condition? what do you mean?}
+<C>__{warden}
+<D>__{his physical condition.}
+<C>__{bill}
+<P>__{(hesitates)}
+<D>__{same as always. pete takes care of himself.}
+<A>__{bill and claire look at each other once again.}
+<C>__{claire}
+<D>__{i saw him before he went to the garage day before yesterday. he's a mechanic. look, is he okay? can we see him?}
+<A>__{the warden looks at dr. rogoff.}
+<C>__{dr. rogoff}
+<D>__{he has a hematoma on his forehead and a condition called blepharitis... that's redness and swelling around the eyes.}
+<C>__{bill}
+<D>__{was he in a fight?}
+<C>__{dr. rogoff}
+<D>__{these conditions don't indicate a fight.}
+<C>__{claire}
+<D>__{but what is the cause then? ... and how did he get in that cell?}
+<C>__{dr. rogoff}
+<D>__{he can't talk. or won't.}
+<C>__{bill}
+<D>__{that doesn't sound like pete.}
+<C>__{dr. rogoff}
+<D>__{your son has experienced some sort of trauma, i'm afraid. we were hoping that the two of you could help explain the cause of the trauma and how he came to be here.}
+<C>__{captain henderson}
+<D>__{you don't know fred madison?}
+<C>__{bill}
+<D>__{no... only what was in the news.}
+<C>__{captain henderson}
+<D>__{do you think pete knows him?}
+<C>__{claire}
+<D>__{i wouldn't know how.}
+<C>__{warden}
+<P>__{(to claire)}
+<D>__{you say you haven't seen your son since the day before yesterday?}
+<C>__{claire}
+<D>__{when he went to work, right.}
+<C>__{warden}
+<D>__{what about yesterday?}
+<C>__{claire}
+<D>__{he didn't come home.}
+<C>__{bill}
+<D>__{sometimes he stays at a friend's.}
+<C>__{captain henderson}
+<D>__{any particular friends?}
+<C>__{bill}
+<D>__{a girl's, a buddy's. i don't know. he's his own man; he comes and goes as he pleases.}
+<C>__{claire}
+<D>__{i want to see him.}
+<C>__{warden}
+<D>__{yes, and we need to talk to him... if we can.}
+<P>__{(to dr. rogoff)}
+<D>__{mel, let's get peter in here.}
+<A>__{dr. rogoff leaves the room. while he's gone, nobody talks, increasing the tension. dr. rogoff returns with pete dayton, dressed in his own clothes: jeans, boots, sport shirt. pete's forehead is lumpy and his eyes are red and swollen. he can walk, but unsteadily. pete looks around the room sees his parents. claire jumps up.}
+<C>__{claire}
+<P>__{(tenderly)}
+<D>__{pete...}
+<A>__{she and dr. rogoff help get pete settled in a chair. bill is taken aback at the sight of his son, but says nothing.}
+<C>__{warden }
+<D>__{pete, can you tell us now, anything about this?}
+<C>__{claire}
+<D>__{pete, what happened to you?}
+<A>__{pete has a dazed look on his face. he starts to speak, then stops.}
+<C>__{claire }
+<D>__{it's okay. take your time, honey.}
+<A>__{pete's gaze drifts from his mother's face around the room and back to her face.}
+<C>__{pete}
+<P>__{(afraid quiet)}
+<D>__{where ... am i?}
+<A>__{the warden and captain henderson look to dr. rogoff.}
+<C>__{dr. rogoff}
+<D>__{you're in the state penitentiary. you were found in a cell on death row.}
+<C>__{pete}
+<D>__{my head hurts.}
+<A>__{pete rubs his head like it's about to explode with pain.}
+<C>__{warden}
+<D>__{a man named fred madison was occupying that cell. he's missing. we're trying to find out how it is you were in there and not him.}
+<C>__{pete}
+<D>__{i... i don't know.}
+<C>__{captain henderson}
+<D>__{do you know fred madison?}
+<C>__{pete}
+<P>__{(straining)}
+<D>__{no.}
+<A>__{there is a silence in the room, as pete massages his throbbing temples.}
+<C>__{claire}
+<P>__{(worried)}
+<D>__{warden, can we take him home?}
+<A>__{the warden looks at dr. rogoff.}
+<C>__{dr. rogoff}
+<P>__{(to warden)}
+<D>__{from a medical standpoint, i don't see why not.}
+<C>__{captain henderson}
+<D>__{we need to find out what happened here.}
+<C>__{bill}
+<P>__{(standing up)}
+<D>__{have you made any charges against him?}
+<C>__{warden}
+<D>__{no.}
+<C>__{bill}
+<D>__{then he's coming home with his mother and me.}
+<C>__{warden}
+<D>__{all right... but you see our predicament... legally we can't hold him, but he may be able to help us... perhaps later. for now, he's free to leave.}
+<A>__{bill and claire help pete up and carefully escort him out of the warden's office. with a nod from the warden, the guard accompanies them out of the room. the warden, captain henderson and dr. rogoff stand but remain in the office.}
+<C>__{captain henderson}
+<P>__{(to warden)}
+<D>__{you just gonna let him go?}
+<C>__{warden}
+<D>__{we'll get a tail put on him.}

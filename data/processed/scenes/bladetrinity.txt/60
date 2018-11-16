@@ -1,0 +1,20 @@
+<L>__{interior police station observation room night}
+<A>__{dr. vance steps into the observation room, joining chief vreede, cumberland, and hale.}
+<C>__{vreede}
+<D>__{what's your assessment, doctor?}
+<C>__{vance}
+<D>__{he's psychotic, with paranoid features, possessing dangerous levels of sociopathy. he's exhibiting disorganized behavior. he obviously doesn't have a properly formed conscience }
+<P>__{(spreading his hands)}
+<D>__{for his safety and the public's, i'm recommending that he be transferred to county psychiatric for further treatment.}
+<C>__{cumberland}
+<D>__{that's unacceptable. this man's wanted in connection with a laundry list of federal crimes. i need him on a plane to the detention center in washington tonight.}
+<C>__{vance}
+<D>__{agent cumberland, that man is in no condition to undergo prosecution.}
+<A>__{cumberland and hale look to vreede with disbelief.}
+<C>__{hale}
+<D>__{chief, we've got a federal arrest warrant here that clearly supersedes }
+<C>__{vreede}
+<D>__{i don't care about your warrant. we're in my jurisdiction now. you've got an issue with that, you take it up with the local magistrate.}
+<A>__{dr. vance shrugs as if to say he's sorry.}
+<C>__{vance}
+<D>__{i'm sorry, gentlemen, but the call has already been made. a team from the hospital should be here momentarily to oversee the transfer.}

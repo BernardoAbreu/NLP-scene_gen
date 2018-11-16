@@ -1,0 +1,24 @@
+<L>__{interior apartment lobby day}
+<A>__{vivian walks toward her apartment. the landlord is sitting at the front desk in a dirty undershirt.}
+<C>__{landlord}
+<D>__{hey, we announce guests here. you a relative of somebody?}
+<A>__{vivian lowers her sunglasses.}
+<C>__{landlord }
+<D>__{viv is that you?}
+<C>__{vivian}
+<D>__{yeah, it's me.}
+<A>__{she keeps walking.}
+<C>__{landlord}
+<D>__{you lookin' good, viv'. nice threads. i gotta find time to shop.}
+<L>__{interior penthouse day}
+<A>__{edward stands at the penthouse window, looking out. he is dressed now, ready for travel. there is something about his expression, his somber demeanor that suggests the way we saw him at the very top of the story. a bellman enters from the bedroom, rolling a luggage loaded dolly along in front of him.}
+<C>__{bellman}
+<D>__{is that everything, sir?}
+<C>__{edward}
+<P>__{(turning from the window)}
+<D>__{that's everything.}
+<A>__{the bellman exits, closing the door behind him. the phone rings. edward crosses to it, picks it up. the maid comes in, looks around.}
+<C>__{maid}
+<D>__{the lady, she go?}
+<C>__{edward}
+<D>__{yes. she go.}

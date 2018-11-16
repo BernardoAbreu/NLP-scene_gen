@@ -1,0 +1,86 @@
+<L>__{interior rebecca's room day}
+<A>__{rebecca is dressed in her best apartment hunting outfit. she sits on her bed, dialing the phone with the free weekly open on her lap. she circles something with her pen while the phone rings.}
+<C>__{rebecca}
+<D>__{goddammit, bitch where are you?}
+<L>__{interior enid's bedroom day}
+<A>__{enid lies perfectly still on her bed, staring at the ceiling while the phone rings.}
+<L>__{exterior cook's chicken inn daytime}
+<A>__{establish the restaurant.}
+<L>__{interior cook's chicken inn daytime}
+<A>__{seymour sits alone eating lunch. we see enid approach stealthily from behind.}
+<C>__{enid}
+<D>__{boo!}
+<C>__{seymour}
+<P>__{(very startled)}
+<D>__{yaaa!}
+<A>__{she sits across from him.}
+<C>__{enid}
+<D>__{where have you been? i've been looking all over for you... i've been wandering the streets day and night trying to find you...}
+<C>__{seymour}
+<D>__{really?}
+<C>__{enid}
+<D>__{no, actually joe told me you were here... so how come you never call me anymore?}
+<C>__{seymour}
+<D>__{i know, i'm sorry... i i've been really busy...}
+<C>__{enid}
+<D>__{yeah, i will bet! so, how's it going with what's her name? dana?}
+<C>__{seymour}
+<P>__{(he looks nervously at his watch)}
+<D>__{oh... pretty well, surprisingly... you know...}
+<C>__{enid}
+<D>__{so, what kind of stuff do you guys do together? is she into old records and stuff?}
+<C>__{seymour}
+<D>__{sort of... she doesn't dislike any of that stuff... she's trying, anyway... actually, we're supposed to go antique shopping for her apartment this afternoon...}
+<C>__{enid}
+<P>__{(not convinced)}
+<D>__{sounds good...}
+<A>__{seymour looks again at his watch.}
+<C>__{seymour}
+<D>__{we really should get together sometime soon... i i will definitely call you this week }
+<C>__{enid}
+<D>__{what, are you trying to get rid of me?}
+<C>__{seymour}
+<D>__{no... no, it's just that i should get going in a few minutes, and }
+<C>__{enid}
+<D>__{aren't you even going to ask me how i'm doing?}
+<C>__{seymour}
+<D>__{i i'm sorry... uh so... uh... how }
+<C>__{enid}
+<D>__{i dunno... okay, i guess...}
+<P>__{(pause)}
+<D>__{i fucked that guy josh finally...}
+<C>__{seymour}
+<D>__{...so... is he your boyfriend now?}
+<C>__{enid}
+<D>__{maybe... i dunno... he wants to be, of course. i'm weighing several offers at the present time...}
+<A>__{suddenly, dana enters.}
+<C>__{dana}
+<D>__{seymour?... uh... hello... i guess i'm a little early...}
+<C>__{seymour}
+<D>__{dana! hi!}
+<P>__{(pause as the gears whirl)}
+<D>__{uh, dana... this is enid...}
+<C>__{dana}
+<D>__{hello...}
+<C>__{enid}
+<D>__{it's great to finally meet you!}
+<A>__{dana sits next to seymour, facing enid.}
+<C>__{dana}
+<P>__{(looking back and}
+<D>__{forth between enid}
+<P>__{and seymour)}
+<D>__{how do you two know each other?}
+<C>__{enid}
+<D>__{i'm surprised he hasn't mentioned me we're old friends.}
+<C>__{dana}
+<D>__{really?}
+<C>__{enid}
+<D>__{yes, we're very close... in fact, i was standing right next to seymour the first time you called. if not for me, he would have never called you back!}
+<C>__{dana}
+<D>__{is that right?}
+<A>__{seymour begins to stammer some kind of response.}
+<C>__{enid}
+<P>__{(phony)}
+<D>__{oops! look at the time! i've got to run! i will stop by to see you some time, seymour...}
+<P>__{(then to dana)}
+<D>__{it was really great to meet you!}

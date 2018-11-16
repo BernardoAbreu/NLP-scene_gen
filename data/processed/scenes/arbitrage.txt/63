@@ -1,0 +1,150 @@
+<L>__{interior robert's office corridor continuous}
+<A>__{as brooke exits, she and bryer cross paths. she eyes him... he doesn't look familiar. off brooke, curious.}
+<L>__{interior robert's office continuous}
+<A>__{robert leads bryer towards two sofas where they sit opposite each other.}
+<C>__{robert}
+<D>__{yeah, i'm sorry to keep you waiting. you can sit there. we just heard about it. really terrible.}
+<C>__{bryer}
+<D>__{okay, so you were an investor in her gallery?}
+<C>__{robert}
+<D>__{correct.}
+<C>__{bryer}
+<D>__{how'd you meet her?}
+<C>__{robert}
+<D>__{through... i think it was a charity function. my wife and i have a foundation.}
+<C>__{bryer}
+<D>__{uh huh. when'd you last see her?}
+<C>__{robert}
+<D>__{last night, at the gallery.}
+<C>__{bryer}
+<D>__{did you stay till the doors closed?}
+<C>__{robert}
+<D>__{no, i think i left about ten.}
+<C>__{bryer}
+<D>__{where'd you go? goldenrod 4.17.11 42.}
+<C>__{robert}
+<D>__{home.}
+<C>__{bryer}
+<D>__{you go straight home?}
+<C>__{robert}
+<D>__{yeah.}
+<C>__{bryer}
+<D>__{you stay home?}
+<C>__{robert}
+<D>__{yeah.}
+<C>__{bryer}
+<P>__{(smiles)}
+<D>__{your wife home?}
+<C>__{robert}
+<P>__{(smiles back)}
+<D>__{yes.}
+<A>__{bryer shifts, edging forward.}
+<C>__{bryer}
+<D>__{okay. okay, so now, back to the gallery. did you see her with anyone?}
+<C>__{robert}
+<D>__{see her with anyone what do you mean?}
+<C>__{bryer}
+<D>__{you know like a boyfriend, someone she might've left with?}
+<C>__{robert}
+<D>__{not that i noticed. no. no, no.}
+<C>__{bryer}
+<D>__{reason i ask, is, that we haven't located the driver.}
+<C>__{robert}
+<D>__{the driver?}
+<C>__{bryer}
+<D>__{yeah, someone else was driving.}
+<P>__{(beat)}
+<D>__{sometimes, the driver, will go for help and he'll die tryin', you know... goldenrod 4.17.11 43.}
+<C>__{robert}
+<A>__{this is awful. this is truly awful.}
+<C>__{bryer}
+<A>__{we're searching the area right now. so no boyfriend that you know of?}
+<C>__{robert}
+<A>__{actually we didn't talk about personal matters.}
+<C>__{bryer}
+<A>__{she was just an employee, right?}
+<C>__{robert}
+<A>__{well not an employee. i was an investor.}
+<C>__{bryer}
+<A>__{why'd you invest?}
+<C>__{robert}
+<A>__{why did i invest?}
+<C>__{bryer}
+<A>__{yeah, why'd you invest?}
+<C>__{robert}
+<A>__{she had a great eye. she found me}
+<P>__{(points)}
+<A>__{those bryce marden's there. they went up in value very quickly, and on the basis of that i agreed to fund some of the gallery.}
+<C>__{bryer}
+<P>__{(after a beat)}
+<A>__{would you mind if we searched her apartment?}
+<C>__{robert}
+<A>__{why would i mind?}
+<C>__{bryer}
+<A>__{it's in your company's name.}
+<C>__{robert}
+<A>__{oh, right. yeah. of course. sure, go ahead.}
+<C>__{bryer}
+<A>__{now, mr. miller...}
+<C>__{robert}
+<A>__{mmm hmm?}
+<D>__{goldenrod 4.17.11 44.}
+<C>__{bryer}
+<A>__{why would you lease an apartment for ms. cote? is that something you normally do for your employees?}
+<C>__{robert}
+<A>__{actually i said that she wasn't an employee, but i think she'd just come over from paris if i remember, and she needed a place to entertain buyers.}
+<C>__{bryer}
+<A>__{so you leased her this apartment.}
+<C>__{robert}
+<A>__{it was through our holding company. you seem a little confused by all this...}
+<C>__{bryer}
+<P>__{(laughs)}
+<A>__{i am. but i will get there. gimme time.}
+<C>__{robert}
+<A>__{alright.}
+<C>__{bryer}
+<A>__{now, i don't mean to be indelicate...}
+<C>__{robert}
+<A>__{but you're going to be indelicate...}
+<C>__{bryer}
+<A>__{well, from what i've been able to gather, she wasn't exactly an art star. i mean, she worked for a couple a dealers in paris, but...}
+<C>__{robert}
+<A>__{oh, okay, i get it, so why would i invest in her and help her find a place?}
+<C>__{bryer}
+<A>__{something like that, yeah.}
+<C>__{robert}
+<A>__{it's very simple, detective. i invest in people i believe in. i thought she'd do well, so i backed her, she did. it's is simple as that.}
+<D>__{goldenrod 4.17.11 45.}
+<C>__{bryer}
+<P>__{(nods, stands as robert stands)}
+<D>__{well that seems to make sense.}
+<P>__{(beat)}
+<D>__{so we're all good with the apartment, then?}
+<C>__{robert}
+<D>__{sure.}
+<C>__{bryer}
+<D>__{thanks.}
+<A>__{robert shows him to the door. bryer turns back.}
+<C>__{bryer }
+<D>__{what happened to your head?}
+<C>__{robert}
+<D>__{what?}
+<C>__{bryer}
+<D>__{that's a nasty cut; i've been looking at that for the last five minutes. does it hurt you?}
+<C>__{robert}
+<P>__{(touching the cut)}
+<D>__{oh, no, i just hit it on the medicine cabinet.}
+<C>__{bryer}
+<D>__{last night?}
+<C>__{robert}
+<D>__{this morning.}
+<C>__{bryer}
+<D>__{hate when that happens.}
+<C>__{robert}
+<D>__{yeah. me, too.}
+<C>__{bryer}
+<D>__{well, thanks for the chat.}
+<C>__{robert}
+<D>__{no problem.}
+<A>__{bryer heads out. we hold on robert as he closes the door and winces in pain.}
+<D>__{goldenrod 4.17.11 46.}

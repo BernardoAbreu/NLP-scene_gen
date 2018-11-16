@@ -1,0 +1,50 @@
+<L>__{exterior tatooine mos eisley street}
+<A>__{threepio paces in front of the cantina as artoo carries on an electronic conversation with another little red astro droid. a creature comes out of the cantina and approaches two stormtroopers in the street.}
+<C>__{threepio}
+<D>__{i don't like the look of this.}
+<L>__{interior tatooine mos eisley cantina}
+<A>__{strange creatures play exotic big band music on odd looking instruments as luke, still giddy, downs a fresh drink and follows ben and chewbacca to a booth where han solo is sitting. han is a tough, roguish starpilot about thirty years old. a mercenary on a starship, he is simple, sentimental, and cocksure.}
+<C>__{han}
+<D>__{han solo. i'm captain of the millennium falcon. chewie here tells me you're looking for passage to the alderaan system.}
+<C>__{ben}
+<D>__{yes, indeed. if it's a fast ship.}
+<C>__{han}
+<D>__{fast ship? you've never heard of the millennium falcon?}
+<C>__{ben}
+<D>__{should i have?}
+<C>__{han}
+<D>__{it's the ship that made the kessel run in less than twelve parsecs!}
+<A>__{ben reacts to solo's stupid attempt to impress them with obvious misinformation.}
+<C>__{han}
+<D>__{i've outrun imperial starships, not the local bulk cruisers, mind you. i'm talking about the big corellian ships now. she's fast enough for you, old man. what's the cargo?}
+<C>__{ben}
+<D>__{only passengers. myself, the boy, two droids, and no questions asked.}
+<C>__{han}
+<D>__{what is it? some kind of local trouble?}
+<C>__{ben}
+<D>__{let's just say we'd like to avoid any imperial entanglements.}
+<C>__{han}
+<D>__{well, that's the trick, isn't it? and it's going to cost you something extra. ten thousand in advance.}
+<C>__{luke}
+<D>__{ten thousand? we could almost buy our own ship for that!}
+<C>__{han}
+<D>__{but who's going to fly it, kid! you?}
+<C>__{luke}
+<D>__{you bet i could. i'm not such a bad pilot myself! we don't have to sit here and listen...}
+<C>__{ben}
+<D>__{we haven't that much with us. but we could pay you two thousand now, plus fifteen when we reach alderaan.}
+<C>__{han}
+<D>__{seventeen, huh!}
+<A>__{han ponders this for a few moments.}
+<C>__{han}
+<D>__{okay. you guys got yourself a ship. we'll leave as soon as you're ready. docking bay ninety four.}
+<C>__{ben}
+<D>__{ninety four.}
+<C>__{han}
+<D>__{looks like somebody's beginning to take an interest in your handiwork.}
+<A>__{ben and luke turn around to see four imperial stormtroopers looking at the dead bodies and asking the bartenders some questions. the bartender points to the booth.}
+<C>__{trooper}
+<D>__{all right, we'll check it out.}
+<A>__{the stormtroopers look over at the booth but luke and ben are gone. the bartender shrugs his shoulders in puzzlement.}
+<C>__{han}
+<D>__{seventeen thousand! those guys must really be desperate. this could really save my neck. get back to the ship and get her ready.}

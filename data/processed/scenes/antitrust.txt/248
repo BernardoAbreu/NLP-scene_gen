@@ -1,0 +1,26 @@
+<L>__{interior gary's workroom continuous}
+<C>__{phil}
+<D>__{ready for number three?}
+<C>__{gary}
+<D>__{let's go.}
+<C>__{phil}
+<D>__{longitude 109 }
+<C>__{gary}
+<D>__{wait... he knows.}
+<C>__{phil}
+<D>__{what?}
+<C>__{gary}
+<D>__{'knows i'm altering the coordinates. let's jump to #12.}
+<C>__{phil}
+<D>__{gary?}
+<C>__{gary}
+<D>__{just do it.}
+<L>__{interior knqr upstairs hallway continuous}
+<A>__{the rent a guard drags furniture, props, lights, in front of the entrance to the satellite room.}
+<L>__{interior entrance knqr continuous}
+<A>__{gunther and riman have created an opening in the barricade. they step through it. they hear the racket the rent a guard is making upstairs. they head that way.}
+<L>__{interior stairway upstairs hallway continuous}
+<A>__{the rent a guard is holding a lightstand as they ascend, guns drawn.}
+<C>__{gunther}
+<D>__{step aside. we won't hurt you.}
+<A>__{riman takes the lightstand from him. the rent a guard puts his hands up, sidles across the hallway as they tear into the barricade.}

@@ -1,0 +1,42 @@
+<L>__{interior morgue night}
+<A>__{clicking of new leather shoes, walking, striking tiles. inspector bumstead strides down a silent corridor. he reaches into his pocket, removes a surgical mask, places it over his nose and mouth.}
+<B>__{wider angle}
+<A>__{bumstead steps up to a bald man with a moustache standing at the end of the corridor. the man, who is dressed identically to the inspector, is his superior: chief inspector stromboli.}
+<C>__{bumstead}
+<D>__{good evening, sir.}
+<C>__{stromboli}
+<D>__{yes. this way.}
+<A>__{stromboli leads the inspector into a tiled room containing several covered bodies. the two men are greeted by a cheerful looking mortician.}
+<C>__{mortician}
+<D>__{welcome, gentlemen. youire early. here for the examination, right?}
+<A>__{stromboli nods, then ignores the mortician and walks along the row of corpses. bumstead follows.}
+<C>__{stromboli}
+<D>__{the handiwork of an extremely sick individual.}
+<A>__{he throws back covers to reveal horrible mutilations.}
+<C>__{stromboli}
+<D>__{youive read the reports. not much to go on. we know nothing about him, except that he likes to cut them... always the same type of blade. forensics match in each case... anyway, it's all in the reports, read them for yourself.}
+<A>__{stromboli shakes his head, turns away from the final body, looks at the inspector.}
+<C>__{stromboli}
+<D>__{why are you wearing that thing on your face?}
+<C>__{bumstead}
+<D>__{germs, sir. these places are full of them.}
+<C>__{stromboli}
+<D>__{i see.}
+<P>__{(continues)}
+<D>__{one thingis for sure, heis ambitious. youill be a busy man from now on.}
+<C>__{mortician}
+<D>__{you can say that again.}
+<A>__{stromboli looks annoyed at the smiling man. the mortician becomes serious and goes back to his work.}
+<C>__{bumstead}
+<D>__{what about thompson, sir? wasnit this his case?}
+<C>__{stromboli}
+<D>__{thompson suffered a kind of severe delusion or some damn thing. anyway he isnit with us any longer. the case is yours. go through his files. take what you need.}
+<P>__{(less business like)}
+<D>__{by the way, howis your mother?}
+<C>__{bumstead}
+<D>__{sheis getting better, thanks. she...}
+<C>__{stromboli }
+<D>__{very good...}
+<A>__{the chief inspector turns, paces to the door briskly.}
+<C>__{stromboli}
+<D>__{letis go, bumstead. so much to do and so little time.}

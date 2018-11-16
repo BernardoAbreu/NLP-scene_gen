@@ -1,0 +1,19 @@
+<L>__{exterior outdoor cafe}
+<A>__{the cafe is off the plaza. electra sits at a patio table. down the street she can see the back of the burned out hotel. she hears rath in her ear piece.}
+<C>__{rath }
+<D>__{all right. i'm in the bank. he'll move now. how are you doing?}
+<A>__{she is nervous.}
+<C>__{electra}
+<D>__{i'm ready.}
+<L>__{interior bank}
+<C>__{rath}
+<D>__{good.}
+<A>__{rath is wearing a well tailored, gray silk suit and dark sunglasses. in his hand is a very large briefcase. he crosses the checkered floor to the teller windows.}
+<C>__{teller}
+<D>__{may i help you?}
+<C>__{rath}
+<D>__{yes. could you check on a transfer for me?}
+<C>__{teller}
+<D>__{your name, or account?}
+<C>__{rath}
+<D>__{rath. robert rath.}

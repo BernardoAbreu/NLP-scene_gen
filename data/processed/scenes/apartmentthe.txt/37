@@ -1,0 +1,92 @@
+<L>__{interior sheldrake's anteroom day}
+<A>__{miss olsen is on the phone.}
+<C>__{miss olsen}
+<D>__{mrs. sheldrake returning your call on two }
+<A>__{she presses a button down, starts to hang the phone up, glances around to see if the typists are watching, then raises the receiver to her ear and eavesdrops on the conversation.}
+<L>__{interior sheldrake's office day}
+<A>__{sheldrake is talking into the phone.}
+<C>__{sheldrake}
+<D>__{yes, dear i called you earlier where were you? oh, you took tommy to the dentist }
+<A>__{during this, bud has risen from his chair, started inching toward the door.}
+<C>__{sheldrake}
+<P>__{(turning to him)}
+<D>__{where are you going, baxter?}
+<C>__{bud}
+<D>__{well, i don't want to intrude and i thought since it's all straightened out anyway }
+<C>__{sheldrake}
+<D>__{i'm not through with you yet.}
+<C>__{bud}
+<D>__{yes, sir.}
+<C>__{sheldrake}
+<P>__{(into phone)}
+<D>__{the reason i called is i won't be home for dinner tonight. the branch manager from kansas city is in town i'm taking him to the theatre music man, what else? no, don't wait up for me 'bye, darling.}
+<P>__{(hangs up, turns to bud)}
+<D>__{tell me something, baxter have you seen music man?}
+<C>__{bud}
+<D>__{not yet. but i hear it's one swell show.}
+<C>__{sheldrake}
+<D>__{how would you like to go tonight?}
+<C>__{bud}
+<D>__{you mean you and me? i thought you were taking the branch manager from kansas city }
+<C>__{sheldrake}
+<D>__{i made other plans. you can have both tickets.}
+<C>__{bud}
+<D>__{well, that's very kind of you only i'm not feeling well you see, i have this cold and i thought i'd go straight home.}
+<C>__{sheldrake}
+<D>__{baxter, you're not reading me. i told you i have plans.}
+<C>__{bud}
+<D>__{so do i i'm going to take four aspirins and get into bed so you better give the tickets to somebody else }
+<C>__{sheldrake}
+<D>__{i'm not just giving those tickets, baxter i want to swap them.}
+<C>__{bud}
+<D>__{swap them? for what?}
+<A>__{sheldrake picks up the dobisch reports, puts on his glasses, turns a page.}
+<C>__{sheldrake}
+<D>__{it also says here that you are alert, astute, and quite imaginative }
+<C>__{bud}
+<D>__{oh?}
+<P>__{(the dawn is breaking)}
+<D>__{oh!}
+<A>__{he reaches into his coat pocket, fishes out a handful of kleenex, and then finally the key to his apartment. he holds it up.}
+<C>__{bud}
+<D>__{this?}
+<C>__{sheldrake}
+<D>__{that's good thinking, baxter. next month there's going to be a shift in personnel around here and as far as i'm concerned, you're executive material.}
+<C>__{bud}
+<D>__{i am?}
+<C>__{sheldrake}
+<D>__{now put down the key }
+<P>__{(pushing a pad toward him)}
+<D>__{ and put down the address.}
+<A>__{bud lays the key on the desk, unclips what he thinks is his fountain pen, uncaps it, starts writing on the pad.}
+<C>__{bud}
+<D>__{it's on the second floor my name is not on the door it just says 2a }
+<A>__{suddenly he realizes that he has been trying to write the address with the thermometer.}
+<C>__{bud}
+<D>__{oh terribly sorry. it's that cold }
+<C>__{sheldrake}
+<D>__{relax, baxter.}
+<C>__{bud}
+<D>__{thank you, sir.}
+<A>__{he has replaced the thermometer with the fountain pen, and is scribbling the address.}
+<C>__{bud}
+<D>__{you'll be careful with the record player, won't you? and about the liquor i ordered some this morning but i'm not sure when they'll deliver it }
+<A>__{he has finished writing the address, shoves the pad over to sheldrake.}
+<C>__{sheldrake}
+<D>__{now remember, baxter this is going to be our little secret.}
+<C>__{bud}
+<D>__{yes, of course.}
+<C>__{sheldrake}
+<D>__{you know how people talk.}
+<C>__{bud}
+<D>__{oh, you don't have to worry }
+<C>__{sheldrake}
+<D>__{not that i have anything to hide.}
+<C>__{bud}
+<D>__{oh, no sir. certainly not. anyway, it's none of my business four apples, five apples what's the difference percentage wise?}
+<C>__{sheldrake}
+<P>__{(holding out the tickets)}
+<D>__{here you are, baxter. have a nice time.}
+<C>__{bud}
+<D>__{you too, sir.}
+<A>__{clutching the tickets, he backs out of the office.}

@@ -1,0 +1,22 @@
+<L>__{interior geoff's house night}
+<A>__{chase is in the study, perusing some files. he looks into the hallway as geoff arrives home, then glances at the clock. it's late. very late. chase rises. he's both angry and relieved. right now, though, the anger's winning out.}
+<C>__{chase}
+<D>__{were you drinking?}
+<A>__{geoff absently shakes his head. he slumps back against the wall, drained from the night's horrors.}
+<C>__{chase}
+<D>__{drew's mom called hours ago, the rest of the kids were back by ten. where the hell were you boys?}
+<A>__{geoff shrugs, trying to mask his uneasiness.}
+<C>__{geoff}
+<D>__{just out.}
+<C>__{chase}
+<D>__{"out." well that's great, geoff.}
+<P>__{(beat)}
+<D>__{look, i've been letting you get away with a lot these past few weeks, but i'm not going to stand for crap like this. i don't care if it's halloween... it's a school night, and if you do this again...}
+<C>__{geoff}
+<P>__{(cutting him off)}
+<D>__{i'm really tired, dad... can i just go to sleep?}
+<A>__{chase stops and looks at his son. geoff's exhaustion is self evident.}
+<C>__{chase}
+<P>__{(sighing)}
+<D>__{go on... we'll talk about this in the morning.}
+<A>__{geoff nods and heads for the stairs.}

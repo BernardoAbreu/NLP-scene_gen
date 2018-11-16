@@ -1,0 +1,40 @@
+<L>__{interior infirmary}
+<A>__{they all come into the room (roby carrying the partially melted pen). broussard is still motionless on the bunk, with the thing on his face.}
+<C>__{roby}
+<D>__{did it get on him?}
+<A>__{standard approaches and peers at broussard's head.}
+<C>__{standard}
+<D>__{no, thank god... just missed him.}
+<C>__{melkonis}
+<D>__{is it still dripping?}
+<C>__{standard}
+<P>__{(examining it)}
+<D>__{it appears to have healed itself.}
+<C>__{hunter}
+<D>__{it makes me sick to see him like that.}
+<C>__{melkonis}
+<D>__{isn't there some way we can get it off him?}
+<C>__{standard}
+<D>__{i don't see how. but let's do what we can for him.}
+<A>__{standard presses a button, and broussard slides back into the diagnostic coffin. he presses more buttons, and the displays light up again, showing different parts of broussard's body.}
+<C>__{standard }
+<D>__{i think we'd better get some intravenous feeding started. god knows what that thing is leaching out of him.}
+<A>__{standard operates some controls, and the machine begins to invade broussard's body, sliding needles into him.}
+<C>__{roby}
+<P>__{(studying the screens)}
+<D>__{look there, what's that stain on his lungs?}
+<A>__{the x ray reveals a spreading dark blot in the vicinity of broussard's chest. in the center, the stain is completely opaque.}
+<C>__{melkonis}
+<D>__{it appears to be a heavy fluid of some sort... it blocks the x rays...}
+<C>__{roby}
+<D>__{that tube must be depositing it in him.}
+<C>__{melkonis}
+<D>__{could be some kind of venom, or poison...}
+<C>__{hunter}
+<D>__{this is horrible.}
+<C>__{roby}
+<D>__{hey! what about the film?}
+<C>__{standard}
+<D>__{what film?}
+<C>__{roby}
+<D>__{broussard had film in his datastick, didn't he? we can see what happened to him.}

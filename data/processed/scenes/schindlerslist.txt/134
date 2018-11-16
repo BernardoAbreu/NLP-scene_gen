@@ -1,0 +1,36 @@
+<L>__{interior d.e.f. day}
+<A>__{schindler waits for her on the landing of the stairs. he doesn't recognize her, but smiles to counter the unfortunately possibility she's some old girlfriend he's forgotten. reaching him, she offers her hand.}
+<C>__{schindler}
+<D>__{miss krause.}
+<C>__{miss krause}
+<D>__{how do you do?}
+<A>__{he can tell now she doesn't know him. he seems relieved. he leads her past klonowska's desk and into his office.}
+<L>__{interior schindler's office day}
+<A>__{he arranges a chair for her, goes to his liquor cabinet.}
+<C>__{schindler}
+<D>__{pernod? cognac?}
+<C>__{miss krause}
+<D>__{no, thank you.}
+<A>__{he pours himself a drink, warms it in his hands, smiles, clearly take with her.}
+<C>__{schindler}
+<D>__{so.}
+<A>__{the grace with which she's carried herself up to this point seems to evaporate as she struggles to find the words she wants.}
+<C>__{miss krause}
+<D>__{they say that no one dies here. they say your factory is a haven. they say you are good.}
+<A>__{schindler's face changes like a wall going up, a mask of indifference like in the portrait of adolf hitler on the wall behind him.}
+<C>__{schindler}
+<D>__{who says that?}
+<C>__{miss krause}
+<D>__{everyone.}
+<A>__{schindler glances away from her. he seems weary suddenly, depressed.}
+<C>__{miss krause}
+<D>__{my name is regina perlman, not elsa krause. i've been living in cracow on false papers since the ghetto massacre.}
+<P>__{(pause)}
+<D>__{my parents are in plaszow. they're old. they're killing old people in plaszow now. they bury them up in the forest. i have no money. i borrowed these clothes. will you bring them here?}
+<A>__{schindler glances back at her, his face hard, cold, and studies her for a long, long moment before }
+<C>__{schindler}
+<D>__{i don't do that. you've been misled. i ask one thing: whether or not a worker has certain skills. that's what i ask and that's what i care about, get out of my office.}
+<A>__{she stares at him, frightened and bewildered. she feels tears welling up.}
+<C>__{schindler}
+<D>__{cry and i will have you arrested, i swear to god.}
+<A>__{she hurries out.}

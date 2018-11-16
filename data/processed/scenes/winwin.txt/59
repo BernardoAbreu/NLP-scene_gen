@@ -1,0 +1,40 @@
+<L>__{interior new providence highschool, main office day.}
+<A>__{mike and kyle are waiting. after a moment, steve deluca, the principal, emerges from his office and greets them. they all walk into his office.}
+<L>__{interior mike's office day.}
+<A>__{mike is working at his desk. shelly opens the door.}
+<C>__{shelly}
+<D>__{hey mike, we got a check from leo poplar's trust for $1,500 but it's made out to you and not the firm.}
+<C>__{mike}
+<D>__{right. i will take that.}
+<A>__{mike gets up and takes the check.}
+<C>__{shelly}
+<D>__{shouldn't i deposit it in the business account?}
+<C>__{mike}
+<D>__{no. it's not a legal fee. it's a personal fee.}
+<C>__{shelly}
+<D>__{for what?}
+<A>__{he puts on his coat.}
+<C>__{mike}
+<D>__{oh, i ended up taking on leo's guardianship.}
+<C>__{shelly}
+<P>__{(surprised)}
+<D>__{really?}
+<C>__{mike}
+<D>__{yeah, i thought i mentioned that to you.}
+<C>__{shelly}
+<D>__{no, you definitely didn't mention that.}
+<C>__{mike}
+<D>__{yeah, well, it just played out that way. i have to get going.}
+<A>__{he turns off his computer.}
+<C>__{shelly}
+<D>__{well can we put some of that in the business account so they don't take our copier back?}
+<C>__{mike}
+<D>__{uh..not this time. next month. promise.}
+<A>__{he grabs his briefcase and leaves.}
+<C>__{shelly}
+<D>__{we need our copier, mike.}
+<C>__{mike}
+<D>__{i know. bye shelly.}
+<B>__{clank. clank. clank.}
+<C>__{shelly}
+<D>__{and that noise is getting louder. i'm not hung over today!}

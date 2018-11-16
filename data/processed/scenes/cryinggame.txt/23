@@ -1,0 +1,50 @@
+<L>__{exterior greenhouse day}
+<C>__{maguire}
+<D>__{you'll have minimal contact with the prisoner, do you hear me?}
+<C>__{fergus}
+<D>__{yes.}
+<C>__{maguire}
+<D>__{and do you know why?}
+<C>__{fergus}
+<D>__{why?}
+<C>__{maguire}
+<D>__{because tomorrow we might have to shoot him, that's why.}
+<A>__{maguire goes back to the house.}
+<L>__{interior greenhouse day}
+<A>__{jody sitting with the hood on again. fergus enters.}
+<C>__{jody}
+<D>__{they giving you trouble, fergus?}
+<A>__{fergus says nothing. he takes a plate and brings it toward jody}
+<C>__{jody}
+<D>__{it happens. y'see, there's two kinds of people. those who give and those who take.}
+<A>__{fergus lifts up jody's hood to expose his mouth and begins to feed him.}
+<C>__{jody}
+<D>__{ah, take the thing off, man.}
+<A>__{fergus says nothing and keeps feeding him.}
+<C>__{jody}
+<D>__{it's okay. i understand. don't mind if i prattle on, do you?}
+<A>__{fergus shakes his head and says nothing.}
+<C>__{jody}
+<D>__{i will take it by your silence that you don't.}
+<A>__{he eats. fergus feeds himself, then feeds more to jody.}
+<C>__{jody}
+<D>__{two types, fergus. the scorpion and the frog. ever heard of them?}
+<A>__{fergus says nothing.}
+<C>__{jody}
+<D>__{scorpion wants to cross a river, but he can't swim. goes to the frog, who can, and asks for a ride. frog says, "if i give you a ride on my back, you'll go and sting me." scorpion replies, "it would not be in my interest to sting you since as i will be on your back we both would drown." frog thinks about this logic for a while and accepts the deal. takes the scorpion on his back. braves the waters. halfway over feels a burning spear in his side and realizes the scorpion has stung him after all. and as they both sink beneath the waves the frog cries out, "why did you sting me, mr. scorpion, for now we both will drown?" scorpion replies, "i can't help it, it's in my nature."}
+<A>__{jody chuckles under his hood.}
+<C>__{fergus}
+<D>__{so what's that supposed to mean?}
+<C>__{jody}
+<D>__{means what it says. the scorpion does what is in his nature. take off the hood, man.}
+<C>__{fergus}
+<D>__{why?}
+<C>__{jody}
+<D>__{'cause you're kind. it's in your nature.}
+<A>__{fergus walks toward him and pulls off the hood. jody smiles up at him.}
+<C>__{jody}
+<D>__{see? i was right about you.}
+<C>__{fergus}
+<D>__{don't be so sure.}
+<C>__{jody}
+<D>__{jody's always right.}

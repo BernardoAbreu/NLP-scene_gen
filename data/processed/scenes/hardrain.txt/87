@@ -1,0 +1,34 @@
+<L>__{exterior street}
+<A>__{karen is in the sheriff's boat, wearing phil's jacket, trying to warm up.}
+<C>__{karen}
+<D>__{tom went off in their rowboat.}
+<C>__{wayne}
+<P>__{(to phil)}
+<D>__{it's tom now. looks like you lost out, pal.}
+<C>__{sheriff}
+<D>__{where was he going?}
+<C>__{karen}
+<D>__{back to the armored truck.}
+<L>__{exterior cemetery}
+<A>__{jim throttles down the ski boat engine.}
+<C>__{jim}
+<D>__{here?}
+<C>__{tom}
+<D>__{uh... no. a little farther }
+<C>__{jim}
+<D>__{they're not coming, son.}
+<A>__{tom looks over at jim, pretending to be confused.}
+<C>__{tom}
+<D>__{what?}
+<C>__{jim}
+<D>__{the national guard. they're not coming.}
+<C>__{tom}
+<D>__{i don't }
+<C>__{jim}
+<D>__{i know you've been trying to stall until they show up, but they're not coming.}
+<C>__{tom}
+<P>__{(pause as he realizes)}
+<D>__{oh, god. you intercepted charlie's call, then you called them off.}
+<C>__{jim}
+<D>__{no, son, i didn't call them off. they never were coming. we didn't "intercept" charlie's call. he called us direct.}
+<A>__{and on tom's look of disbelief...}

@@ -1,0 +1,175 @@
+<T>__{cut to:}
+<B>__{about a million cop cars}
+<A>__{red lights flashing, have sealed off a brooklyn street. on the rooftops swat teams are already deploying. sharpshooters politely insinuate themselves into the surrounding family apartments and take up firing positions. the 87 bus stands alone in the middle of the street. through a marksman's scope we see the terrified passengers forced to stand, catch glimpses of the terrorists, obscured by the hostages. hub confers with the nypd officer in charge.}
+<C>__{nypd officer}
+<D>__{ definitely arab types, only this time they're still in there...}
+<C>__{hub}
+<D>__{any communication at all?}
+<C>__{nypd officer}
+<D>__{nope. it's weird they're just in there.}
+<C>__{hub}
+<D>__{get the frequency of the driver's radio and patch it through to this number. we need two lines. frank, get a negotiator out here. nypd officer #2 sir, they've got kids in there. we count six.}
+<A>__{this rocks hub for a moment but he covers it well.}
+<C>__{hub}
+<D>__{that gives us something to work with.}
+<B>__{back at the car}
+<A>__{elise leans forward as hub opens the driver's door.}
+<C>__{elise}
+<D>__{what's happening out there...}
+<A>__{hub takes off his jacket, folds it carefully on the seat.}
+<C>__{elise}
+<D>__{they've taken another bus, haven't they? talk to me...}
+<C>__{hub}
+<D>__{oh, now you want to talk. you want to be my friend, is that it?}
+<C>__{elise}
+<D>__{listen, these guys are the real deal.}
+<C>__{hub}
+<D>__{how do you know?}
+<A>__{she just looks at him.}
+<C>__{hub}
+<D>__{is there a terrorist cell operating in brooklyn?}
+<C>__{elise}
+<P>__{(a long moment)}
+<D>__{yes.}
+<C>__{hub}
+<D>__{was the blue paint a warning?}
+<C>__{elise}
+<D>__{yes. and i'm afraid this time they'll blow the bus.}
+<C>__{hub}
+<D>__{if they wanted to blow the bus then why haven't they blown the bus ?}
+<C>__{elise}
+<D>__{i... don't know.}
+<A>__{he starts away.}
+<C>__{elise}
+<D>__{agent hubbard. please. maybe i can help.}
+<B>__{a command post}
+<A>__{has been hastily improvised behind a swat van.}
+<C>__{frank}
+<D>__{the driver's name is larry kaiser. he says they've got explosives strapped to their chests, they got automatic weapons, and they're speaking arabic.}
+<C>__{hub}
+<D>__{where the hell's the negotiator?}
+<C>__{frank}
+<D>__{tunnel's got twenty minute delays and they're working on both bridges.}
+<C>__{hub}
+<P>__{(to the cop)}
+<D>__{what else did he say about the device? did he describe it at all? anything about a button, or a cord, or...}
+<B>__{the first eng truck}
+<A>__{pulls up and raises its satellite dish.}
+<C>__{elise}
+<P>__{(almost involuntary)}
+<D>__{oh, god.}
+<A>__{frank turns to look at her. she is suddenly pale.}
+<C>__{elise}
+<P>__{(as it dawns on her)}
+<D>__{...they're not here to negotiate.}
+<C>__{frank}
+<D>__{meaning?}
+<C>__{elise}
+<D>__{they were waiting for the cameras.}
+<A>__{hub is deep in conversation with the cops. frank interrupts.}
+<C>__{frank}
+<D>__{ hub...}
+<A>__{hub looks up. frank nods for elise to repeat what she said.}
+<C>__{elise}
+<D>__{they're want the newsies here. they want everybody watching.}
+<A>__{hub and frank look at each other. can this be true?}
+<C>__{elise}
+<D>__{you've got the shooters in place?}
+<C>__{frank}
+<D>__{ so?}
+<C>__{elise}
+<D>__{use 'em.}
+<C>__{hub}
+<D>__{what?}
+<C>__{elise}
+<D>__{kill 'em now.}
+<A>__{they just look at her.}
+<C>__{elise}
+<D>__{it's lose lose any way you play it... do you want to lose little or lose big?}
+<A>__{the nypd officer has been listening:}
+<C>__{nypd officer}
+<D>__{i got the marksmen on the com they're looking for a clean shot.}
+<A>__{as the policeman waits for a response on his radio, two more news vans pull up. the media circus has come to town: reporters breathlessly offer their live, on the scene reports. hub and elise stare at one another.}
+<C>__{nypd officer}
+<D>__{shooter says they've got the passengers all standing in the aisles. he says, no go.}
+<A>__{hub can see the dread in elise's eyes. as the seconds tick away, two news helicopter jockey for position above.}
+<C>__{hub}
+<P>__{(to the cops)}
+<D>__{we have rules of engagement we're gonna follow here, folks, so put the safeties back on your weapons.}
+<P>__{(looks at elise)}
+<D>__{nobody's killing anybody until we see what's what.}
+<A>__{he grabs the phone.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{larry, this is agent hubbard of the fbi, i will be negotiating our way out of this. let me talk to one of them... i know... i know. you just hang in there, larry... no, don't worry, i've got somebody here who can translate.}
+<A>__{he looks over at frank, who's listening on another cell.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{sir, my name is anthony hubbard. i don't have any authority to make deals, or respond to demands. i just want to find out if you need anything in there? if any of the passengers are in need of medical attention?}
+<A>__{he waits as frank translates. hub covers the mouthpiece.}
+<C>__{hub}
+<D>__{ frank?}
+<C>__{frank}
+<D>__{i don't know if they understand.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{sir, is there anything you want to say to me? that i can tell my people here?}
+<C>__{frank}
+<D>__{the guy's just breathing into the phone, maybe they're not even arabs.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{i get the feeling you don't want to talk, but will you listen ? ...whatever grievance you have, whatever quarrel surely it doesn't involve these children }
+<A>__{still no response.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{so i'm gonna ask you to... please... let... the... children go.}
+<A>__{no response then suddenly, the bus doors hiss open and six bewildered, ashen faced children step out before the doors hiss closed behind them. as hub and a couple of the cops hurry out from behind the barricades to help the children cross the no man's land to safety, a smattering of applause breaks out among the cops. elise tries to hold back tears.}
+<C>__{frank}
+<D>__{okay, here we go...}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{thank you, sir. i appreciate that gesture, i really do. the best way to get what you want in these situations is to show yourself to be reasonable. as you've just done.}
+<P>__{(haddad translates)}
+<D>__{now we've got some more to talk about...}
+<A>__{elise watches as the news cameras zoom in.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{i am unarmed, as you can see. so i propose... you let the rest of the passengers go, and i take their place... that way, there's no pizza deliveries or bathroom breaks to worry about and all these }
+<P>__{(indicates swat teams)}
+<D>__{ people... will disappear.}
+<A>__{frank shakes his head, don't do this. hub's look says translate it. frank does it. they all wait.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{i'm gonna take your silence to mean you're considering my offer }
+<A>__{elise looks at frank, she can't help but admire his bravery.}
+<C>__{hub}
+<D>__{how about we just start with a few of the elderly people you got on there. it's got to be hard for the older folks to be standing all this time.}
+<A>__{hub looks back at frank. still no response. and then the bus doors hiss open again. a few elderly passengers start down the steps.}
+<C>__{hub}
+<P>__{(on the phone)}
+<D>__{thank you, sir. now let's just let these }
+<B>__{the explosion of the bus}
+<A>__{hurls hub backwards as:}
+<B>__{all sound fades out}
+<A>__{to be replaced by a high end, almost electronic white noise.}
+<B>__{shrapnel}
+<A>__{imbeds itself into car doors, bus benches, doorways as every window in a three block radius is shattered...}
+<B>__{red blood}
+<A>__{replaces blue paint in a horrific shower.}
+<B>__{hub}
+<A>__{fights for consciousness.}
+<B>__{agents}
+<A>__{rush to his side to see if he is alright but we cannot hear them. though their mouths move it is only the white noise that overwhelms us as we realize that hub has been momentarily deafened by the blast. when at last hub manages to speak, his words are muffled and indistinct as if the playback heads of a tape recorder needed to be cleaned.}
+<C>__{hub}
+<D>__{i'm... alright. i'm }
+<A>__{frank haddad bends down close and we can lip read him saying, "just hang in there, buddy. . ."}
+<C>__{hub}
+<D>__{ okay... just let me }
+<A>__{and then he leans over to vomit in the street.}
+<B>__{the sound of sirens}
+<A>__{slowly bleeds in through the white noise mercifully for us, and for hub, who wipes his mouth and looks up, realizing that his hearing is coming back. he reaches for frank's outstretched hand and stands, albeit woozily.}
+<C>__{hub}
+<D>__{is anybody }
+<A>__{but the look in frank's eyes says it all.}
+<B>__{the devastation}
+<A>__{is numbing. images we associate with other countries. and then he sees elise. her face is cut and bleeding, but as their eyes meet, her look is one of absolute compassion.}

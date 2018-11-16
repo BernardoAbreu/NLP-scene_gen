@@ -1,0 +1,35 @@
+<L>__{exterior 1204 warehouse day}
+<A>__{welles' ford waits with turn signal on. a car pulls out of a parking space. welles takes the space.}
+<L>__{interior welles' car day}
+<A>__{max is in the passenger seat. welles looks to 1204.}
+<C>__{welles}
+<D>__{you don't need to be here.}
+<C>__{max}
+<D>__{what kind of junior p.i. would i be if i didn't go with you?}
+<L>__{interior 1204 warehouse, second floor day}
+<A>__{welles and max get off the elevator, moving down the grey hall, to the black doors. welles pushes the intercom button. after a moment, the intercom crackles...}
+<C>__{man's voice }
+<P>__{(from intercom)}
+<D>__{who is it?}
+<A>__{welles waits, presses the button again.}
+<L>__{interior dino velvet studio day}
+<A>__{the doors buzz and welles and max warily enter this large, dark, converted warehouse. square pillars shoot from floor to ceiling. shafts of light cut down from high windows. a large thug in a pinstripe suit crosses from a far desk.}
+<C>__{thug}
+<D>__{you're in the wrong place.}
+<C>__{welles}
+<D>__{we're looking for mr. velvet.}
+<C>__{thug}
+<D>__{he's not here.}
+<A>__{welles looks around, at piles of props; a huge faux stone angel and gargoyles, elaborate candelabras, a huge birdcage, massive wooden cross, nazi flags.}
+<C>__{welles}
+<D>__{why don't you tell him we're here to give him a large sum of money. if he's not interested, we'll go.}
+<C>__{thug}
+<D>__{you should leave now, before i have to remove you.}
+<A>__{welles just stands looking at the thug. a voice is heard...}
+<C>__{dino velvet's voice }
+<P>__{(from speakers)}
+<D>__{show them in, milo.}
+<A>__{welles and max look up. there are speakers mounted high up on the pillars, and surveillance cameras looking down.}
+<C>__{welles}
+<D>__{you heard the boss, milo.}
+<A>__{the disgruntled thug starts back across the studio towards a distant door. welles and max follow... they notice an elaborate set built in one corner, a torture chamber, complete with rack and iron maiden.}

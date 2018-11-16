@@ -1,0 +1,31 @@
+<L>__{interior the curtain theatre. main entrance. day.}
+<A>__{the queen is bowed out through the doors.}
+<L>__{exterior the curtain theatre. day.}
+<A>__{a gaggle of the queen's favoured courtiers wait by her carriage. wessex is hurrying down the exterior staircase as the queen emerges from the theatre. during the following a general egress from the auditorium is taking place, including some of the actors crowding to see her off. wessex bows out of breath.}
+<C>__{wessex}
+<D>__{your majesty!}
+<C>__{queen}
+<D>__{why, lord wessex! lost your wife so soon?}
+<C>__{wessex}
+<D>__{indeed i am a bride short. how is this to end?}
+<A>__{viola has come out of the theatre, amongst some of the other players. the queen catches her eye.}
+<C>__{queen}
+<D>__{as stories must when love's denied with tears and a journey. those whom god has joined in marriage, not even i can put asunder.}
+<C>__{queen }
+<P>__{(she turns to viola)}
+<D>__{lord wessex, as i foretold, has lost his wife in the play house go make your farewell and send her out. it's time to settle accounts.}
+<P>__{(to wessex)}
+<D>__{how much was the wager?}
+<C>__{wessex}
+<D>__{fifty shillings.}
+<P>__{(the queen gives him a look)}
+<D>__{pounds.}
+<C>__{queen}
+<D>__{give it to master kent. he will see it rightfully home. wessex gives his purse to viola.}
+<C>__{queen }
+<P>__{(to viola)}
+<D>__{and tell shakespeare something more cheerful next time for twelfth night.}
+<A>__{the queen proceeds towards her carriage. there is an enormous puddle between her and her carriage. the queen hesitates for a fraction and then marches through the puddle as cloaks descend upon it.}
+<C>__{queen }
+<D>__{too late, too late.}
+<A>__{she splashes her way into her carriage, which departs.}

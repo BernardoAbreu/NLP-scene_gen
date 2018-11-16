@@ -1,0 +1,67 @@
+<L>__{interior doctor's office exam room day}
+<A>__{curtis sits, fully clothed, on the edge of a paper covered bench in the exam room. doctor shannan, an older man with a smoker's voice, enters smiling and gives a firm handshake.}
+<C>__{doctor shannan}
+<D>__{curtis, how you doin' bud?}
+<C>__{curtis}
+<D>__{hey doc.}
+<C>__{doctor shannan}
+<D>__{how's my girl?}
+<A>__{the doctor turns to a small table in the corner and grabs a wooden tongue depressor and an otoscope from a drawer.}
+<C>__{curtis}
+<D>__{she's good.}
+<C>__{doctor shannan}
+<D>__{that's good to hear. tilt your head back for me.}
+<A>__{the doctor shines the otoscope into his nostrils.}
+<C>__{curtis}
+<D>__{i don't have a cold.}
+<A>__{the doctor pauses and turns to check a chart on the table.}
+<C>__{doctor shannan}
+<D>__{oh. did she get that down wrong?}
+<C>__{curtis}
+<D>__{no, i just told her that.}
+<C>__{doctor shannan}
+<D>__{oh. so what's the problem?}
+<C>__{curtis}
+<D>__{i've been havin'...i've been having some trouble sleepin'. i was hopin' you could give me somethin' for it.}
+<A>__{doctor shannan takes a seat on a rolling stool and processes the request.}
+<C>__{doctor shannan}
+<D>__{how long's this been goin' on?}
+<C>__{curtis}
+<D>__{`bout four nights now.}
+<C>__{doctor shannan}
+<D>__{you're not sleepin' at all?}
+<C>__{curtis}
+<D>__{well some, but real restless.}
+<C>__{doctor shannan}
+<D>__{well, i think four nights is a little too soon to tell. my advice would be to not eat or drink anything after 8 o'clock at night. cut back on any alcoholic drinks, tobacco, caffeine...get some daily exercise.}
+<C>__{curtis}
+<D>__{well, i think...}
+<A>__{curtis isn't sure how much he wants to say.}
+<C>__{curtis }
+<D>__{i think i may need to try some medication.}
+<C>__{doctor shannan}
+<D>__{why do you say that?}
+<C>__{curtis}
+<P>__{(still reluctant)}
+<D>__{the reason i've been having trouble sleeping is because of some dreams i've been havin'. i didn't think it was anything at first, but then the other day i woke up and the bed was wet.}
+<C>__{doctor shannan}
+<D>__{you urinated in your bed?}
+<C>__{curtis}
+<D>__{yeah. couple days before that i had a dream that my dog attacked me and it took all day for the pain in my arm to go away.}
+<A>__{doctor shannan leans his back against the table and thinks about this.}
+<C>__{doctor shannan}
+<D>__{you been to see your mother lately?}
+<A>__{he swivels the stool around and writes on a prescription pad.}
+<C>__{curtis}
+<D>__{it's been about a month.}
+<A>__{he tears two sheets off and holds the first out to curtis.}
+<C>__{doctor shannan}
+<D>__{okay. this is a prescription for a pretty mild sedative. it's non habit forming, but i'm only giving you enough for a few days anyway. take it and see if it helps. in the meantime,}
+<P>__{(holds up the other slip)}
+<D>__{this is the number of a good friend of mine in columbus. he's a psychiatrist. it's a drive, but he's the best i know.}
+<C>__{curtis}
+<D>__{okay.}
+<C>__{doctor shannan}
+<D>__{i will give him a call and let him know you'll be down to see him.}
+<C>__{curtis}
+<D>__{all right.}

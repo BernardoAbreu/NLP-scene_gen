@@ -1,0 +1,36 @@
+<L>__{interior sophie's warehouse day}
+<A>__{wayne is on the couch watching tv. there is a loud knock on the door. he opens the door to find agent hadley.}
+<C>__{wayne}
+<D>__{yeah?}
+<A>__{hadley pushes past wayne and enters.}
+<C>__{wayne}
+<D>__{hey dude, what do you think you're doing?}
+<A>__{hadley flashes his badge.}
+<C>__{wayne}
+<D>__{uh... excuse me, but don't you need a warrant or something?}
+<C>__{agent hadley}
+<D>__{not today. where are your friends?}
+<C>__{wayne}
+<D>__{they left about a half hour ago.}
+<C>__{agent hadley}
+<D>__{where did they go?}
+<C>__{wayne}
+<D>__{i dunno.}
+<A>__{hadley punches wayne in the face. wayne falls to the floor.}
+<C>__{wayne}
+<D>__{hey man, you can't do that!}
+<C>__{agent hadley}
+<D>__{what? this?}
+<A>__{agent hadley kicks wayne in the chest.}
+<C>__{agent hadley}
+<D>__{or this?}
+<A>__{agent hadley kicks wayne in the ribs.}
+<C>__{wayne}
+<D>__{jesus. what kind of fbi agent are you?}
+<C>__{agent hadley}
+<D>__{i'm your worst fuckin' nightmare. now, if you don't want me to keep on hurting you, it's important that i believe you and right now i don't. so tell me, where did they go?}
+<C>__{wayne}
+<D>__{i swear man, i don't know. they packed up and left a half hour ago.}
+<P>__{(points to coffee table)}
+<D>__{all i got is one of their phone numbers in paris.}
+<A>__{hadley sees the phone number raymond gave wayne on the coffee table. he puts it in his pocket and stares at wayne, then just for the hell of it gives him one last kick in the ribs.}

@@ -1,0 +1,29 @@
+<L>__{interior walter's apartment later}
+<A>__{walter enters and shuts the door and zainab is sitting on the couch working on her jewelry. she stops when she sees walter standing alone, holding the two drums.}
+<C>__{zainab}
+<D>__{where is tarek?}
+<C>__{walter}
+<D>__{he was arrested.}
+<C>__{zainab}
+<D>__{what?!}
+<C>__{walter}
+<D>__{yes. in the subway.}
+<A>__{zainab immediately starts to panic.}
+<C>__{zainab}
+<D>__{arrested?!}
+<C>__{walter}
+<D>__{yes. it was just a misunderstanding. they said he would be released later tonight.}
+<A>__{zainab really starts to lose it. her reaction is more than walter was prepared for.}
+<C>__{zainab}
+<D>__{how could this happen? he knows better! he would not do anything wrong.}
+<C>__{walter}
+<D>__{he didn't. i'm sure we it will be ok.}
+<A>__{she begins to pack up her work.}
+<C>__{zainab}
+<D>__{no. it won't be ok.}
+<C>__{walter}
+<D>__{yes it will. i went down to the precinct and made a statement.}
+<C>__{zainab}
+<P>__{(snapping at walter)}
+<D>__{that doesn't matter! he is illegal! as am i! we are not citizens. do you know what that means? do you?! of course you don't. how could you?}
+<A>__{she picks up her things and walks down the hall to her room. walter sits, stunned.}

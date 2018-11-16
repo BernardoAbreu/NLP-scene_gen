@@ -1,0 +1,104 @@
+<L>__{interior 221 baker st. holmes' apartments}
+<A>__{watson squeezes through the doorway to find that the obstruction is holmes who is sitting in the dark on a chair, blocking the door, aiming a gun (with an odd contraption fastened on its barrel) at the wall. unadulterated chaos. a series of flaming bullet holes blasted into the wall in the (ragged) initials "v.r."}
+<C>__{watson}
+<D>__{may i join you in the armory?}
+<C>__{holmes}
+<D>__{please... watson, i've been working on a device which will suppress the sound of a gunshot.}
+<A>__{watson heads towards the conservatory.}
+<C>__{holmes}
+<D>__{please... don't, don't, don't...}
+<A>__{watson pulls open the curtains allowing the light to pour in.}
+<C>__{watson}
+<D>__{it needs work. may i see?...}
+<A>__{watson passes him heading to the other side of the room (possibly grabs the gun) picking up a pile of open letters from a table.}
+<C>__{holmes}
+<D>__{gently, gently, watson...}
+<A>__{watson whips open more curtains and opens a window. holmes crawls on his hands and knees over to a table where he finds his sunglasses and puts them on. watson sits on a chair and begins to leaf though the letters.}
+<C>__{watson}
+<D>__{it's been three months since the last case. about time you found another one.}
+<C>__{holmes}
+<D>__{i can't but agree. my mind rebels at stagnation. give me problems, give me work. the sooner the better.}
+<C>__{watson}
+<D>__{paper?}
+<A>__{watson hands holmes the newspaper.}
+<C>__{watson}
+<D>__{let's see, we have a letter here from mrs. ramsey in queen's park her husband has gone missing.}
+<C>__{holmes}
+<D>__{he's in belgium with the scullery maid. is it december?}
+<C>__{watson}
+<D>__{yes, holmes. lady radford reports a missing emerald bracelet.}
+<C>__{holmes}
+<D>__{insurance swindle. lord radford likes fast women and slow ponies. i see you're the attending physician at blackwood's hanging.}
+<C>__{watson}
+<D>__{yes, it's our last case together and i wanted to see it through to the end.}
+<A>__{awkward pause. cough.}
+<C>__{watson}
+<D>__{mr. lewis is seeking...}
+<A>__{mrs. hudson enters carrying a tray of bread and tea. she is steeling herself for this interaction.}
+<C>__{holmes}
+<P>__{(to watson)}
+<D>__{there is only one case that intrigues me at present... the curious case of mrs. hudson, the absentee landlady.}
+<C>__{holmes }
+<D>__{i have been studying her comings and goings and they appear most sinister.}
+<C>__{mrs. hudson}
+<D>__{tea, mr. holmes.}
+<A>__{mrs. hudson crosses to holmes and puts the tray before him.}
+<C>__{holmes}
+<D>__{is it poisoned, nanny?}
+<C>__{mrs. hudson}
+<D>__{there's enough of that in you already.}
+<A>__{she goes to remove an old tray from behind him.}
+<C>__{holmes}
+<D>__{don't touch that. everything is in its proper place, as per usual.}
+<A>__{she ignores him and removes the tray then crosses back towards the door noticing a bulldog lying unconscious under the table.}
+<C>__{mrs. hudson}
+<D>__{he's killed the dog... again.}
+<A>__{watson jumps up. his bulldog, gladstone, lies on the floor in a drugged stupor.}
+<C>__{watson}
+<D>__{what have you done to gladstone this time?}
+<C>__{holmes}
+<D>__{i was simply testing a new anesthetic. he doesn't mind.}
+<C>__{watson}
+<D>__{holmes! as your doctor...}
+<C>__{holmes}
+<D>__{he'll be right as a trivet in no time.}
+<A>__{watson's finally had enough.}
+<C>__{watson}
+<D>__{... and your friend, you've been in this room for two weeks. i insist you get out of here.}
+<C>__{holmes}
+<D>__{there's nothing of interest to me out there, on earth, at all.}
+<C>__{watson}
+<D>__{so, you have nothing to do?}
+<C>__{holmes}
+<D>__{nothing.}
+<C>__{watson}
+<D>__{then you're free this evening.}
+<C>__{holmes}
+<D>__{absolutely.}
+<C>__{watson}
+<D>__{for dinner.}
+<C>__{holmes}
+<D>__{wonderful.}
+<C>__{watson}
+<D>__{the royale.}
+<C>__{holmes}
+<D>__{my favorite.}
+<C>__{watson}
+<D>__{mary's coming.}
+<C>__{holmes}
+<D>__{not available.}
+<C>__{watson}
+<D>__{you're meeting her, holmes.}
+<C>__{holmes}
+<D>__{have you proposed yet?}
+<C>__{watson}
+<D>__{i'm still looking for the right ring.}
+<A>__{a little smile from holmes.}
+<C>__{holmes}
+<D>__{then it's not official.}
+<C>__{watson}
+<D>__{it's happening, like it or not. half past eight. the royale.}
+<A>__{the dog wakes up and runs out.}
+<C>__{watson}
+<D>__{and wear a jacket.}
+<A>__{watson exits, leaving holmes alone in his own chaos. for the first time, we see a hint of fear in his eyes.}

@@ -1,0 +1,27 @@
+<L>__{interior passenger cabin day}
+<A>__{the passengers are rattled like a bag of marbles.}
+<L>__{interior cockpit day}
+<A>__{the plane is loping up as the rain continues to pound the windshield. the ascent is very bumpy as the turbulent wind tosses the plane side to side. copilot evans is communicating with air traffic control...}
+<C>__{evans}
+<D>__{orlando departure...southjet 227, climbing out of 2500 for 5 thousand, runway heading.}
+<C>__{atc}
+<P>__{(on radio)}
+<D>__{roger southjet 227. turn left heading one seven zero. climb, maintain niner thousand.}
+<C>__{evans}
+<D>__{left to 170. climb, maintain niner thousand.}
+<A>__{evans quickly dials the heading and altitude into the auto pilot.}
+<C>__{whip}
+<D>__{i don't want the auto pilot. i'm flying.}
+<C>__{atc}
+<P>__{(on radio)}
+<D>__{what's your ride like, southjet 227?}
+<A>__{before evans can answer, whip jumps on the radio.}
+<C>__{whip}
+<D>__{ah, departure, we've got some rough chop here. i'd say moderate to...}
+<A>__{whump!! the plane hits a severe bump! evan's headset turns sideways and he quickly rights it. whip chokes back a nervous chuckle.}
+<C>__{whip }
+<P>__{(into his mic)}
+<D>__{no, severe. definitely severe turbulence. no meal service today.}
+<C>__{air traffic control}
+<D>__{roger that.}
+<A>__{whump!! once again the plane is violently rocked.}

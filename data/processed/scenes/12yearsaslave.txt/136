@@ -1,0 +1,31 @@
+<L>__{interior epps's plantation woods night}
+<A>__{solomon goes to retrieve the small package from under a rock at the base of a tree. solomon returns the letter to hiding. he takes the money with him and cautiously moves from the area.}
+<B>__{omit}
+<L>__{interior epps's plantation armsby's shack later}
+<A>__{the door opens. solomon enters. armsby is surprised to see him. so much so, he isn't sure what greeting to give. solomon gives a blunt introduction. re: the coins:}
+<C>__{solomon}
+<D>__{the proceeds of my fiddling performances. a few picayunes, but all i have in the world. i promise them to you if you will do me the favor i require. but i beg you not to expose me if you cannot grant the request.}
+<C>__{armsby}
+<D>__{what do you ask?}
+<C>__{solomon}
+<D>__{first, your word, sir.}
+<C>__{armsby}
+<D>__{on my honor.}
+<C>__{solomon}
+<D>__{it is a simple enough request. i ask only that you deposit a letter in the marksville post office. and that you keep the action an inviolable secret forever. the details of the letter are of no consequence. even at that, there would be an imposition of much pain and suffering were it known i was the author. a patron is what i require, sir.}
+<C>__{armsby}
+<D>__{where's the letter now?}
+<C>__{solomon}
+<D>__{...it is not yet written. i will have it in a day. two at most, my skill with composition as poor as it is.}
+<A>__{armsby considers the request.}
+<C>__{armsby}
+<D>__{i will do it. and will accept whatever payment is offered.}
+<A>__{solomon hesitates. in the moment, he's not so sure he can wholly give himself over to trust.}
+<C>__{armsby }
+<D>__{to assist you, i put my own self at risk. i will do so, but fair compensation is all i ask.}
+<A>__{solomon hands over the money.}
+<C>__{armsby }
+<D>__{draw up your letter. we will meet again. in two days?}
+<C>__{solomon}
+<D>__{in two days. ...thank you.}
+<A>__{solomon exits.}

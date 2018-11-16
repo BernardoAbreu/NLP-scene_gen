@@ -1,0 +1,22 @@
+<L>__{interior thelma's house night}
+<A>__{again everybody springs into action. darryl is fumbling with the phone.}
+<C>__{darryl}
+<D>__{uh, no! no, why would any police be here? hey, where are you girls, anyway?}
+<A>__{darryl gives hal and max a look as if he's got it completely under control. clever guy.}
+<L>__{exterior phone night}
+<C>__{louise}
+<D>__{let me talk to whoever's in charge there?}
+<L>__{interior thelma's house night}
+<C>__{darryl}
+<D>__{what are you talking about, louise?}
+<A>__{hal comes over and takes the phone away from darryl. hal looks at max who nods, "take it."}
+<C>__{hal}
+<D>__{hello, miss sawyer. i'm hal slocumbe, chief investigator, homicide, arkansas state police. how are you?}
+<L>__{exterior phone night}
+<C>__{louise}
+<P>__{(chuckling)}
+<D>__{i've been better.}
+<C>__{hal }
+<D>__{you girls are in some hot water.}
+<C>__{louise}
+<D>__{yes, sir. i know.}

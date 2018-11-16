@@ -1,0 +1,21 @@
+<L>__{interior nail studio day}
+<A>__{jack's hands are being worked on by a woman manicurist.}
+<C>__{manicurist}
+<D>__{what line of work are you in?}
+<C>__{jack}
+<D>__{i'm an undertaker.}
+<C>__{manicurist}
+<D>__{really?}
+<A>__{the manicurist stops for a moment, looks at him with curiosity.}
+<L>__{interior barber shop day}
+<A>__{a barber is cutting jack's hair. he goes up jack's neck with electric clippers. jack's hair is now black.}
+<C>__{barber}
+<D>__{do you work round here?}
+<C>__{jack}
+<D>__{my office is in shanghai.}
+<C>__{barber}
+<P>__{(surprised)}
+<D>__{what do you do?}
+<C>__{jack}
+<D>__{i'm an arms dealer.}
+<A>__{the barber stops for a moment, nonplussed.}

@@ -1,0 +1,31 @@
+<L>__{exterior tatooine anchorhead settlement power station day}
+<A>__{heat waves radiate from the dozen or so bleached white buildings. luke pilots his landspeeder through the dusty empty street of the tiny settlement. an old woman runs to get out of the way of the speeding vehicle, shaking her fist at luke as he flies past.}
+<C>__{woman}
+<D>__{i've told you kids to slow down!}
+<L>__{interior power station day}
+<A>__{luke bursts into the power station, waking the fixer, a rugged mechanic and camie, a sexy, disheveled girl who has been asleep in his lap. they grumbled as he races through the office, yelling wildly.}
+<C>__{fixer}
+<D>__{did i hear a young noise blast through here?}
+<C>__{camie}
+<D>__{it was just wormie on another rampage.}
+<A>__{luke bounces into a small room behind the office where deak and windy, two tough boys about the same age as luke, are playing a computer pool like game with biggs, a burly, handsome boy a few years older than the rest. his flashy city attire is a sharp contrast to the loose fitting tunics of the farm boys. a robot repairs some equipment in the background.}
+<C>__{luke}
+<D>__{shape it up you guys!... biggs?}
+<A>__{luke's surprise at the appearance of biggs gives way to great joy and emotion. they give each other a great bear hug.}
+<C>__{luke}
+<D>__{i didn't know you were back! when did you get in?}
+<C>__{biggs}
+<D>__{just now. i wanted to surprise you, hot shot. i thought you'd be here... certainly didn't expect you to be out working.}
+<P>__{(he laughs)}
+<C>__{luke}
+<D>__{the academy didn't change you much...but you're back so soon? hey, what happened, didn't you get your commission?}
+<A>__{biggs has an air of cool that seems slightly phony.}
+<C>__{biggs}
+<D>__{of course i got it. signed aboard the rand ecliptic last week. first mate biggs darklighter at your service...}
+<P>__{(he salutes)}
+<D>__{...i just came to say good bye to all you unfortunate landlocked simpletons.}
+<A>__{everyone laughs. the dazzling spectacle of his dashing friend is almost too much for luke, but suddenly he snaps out of it.}
+<C>__{luke}
+<D>__{i almost forgot. there's a battle going on! right here in our system. come and look!}
+<C>__{deak}
+<D>__{not again! forget it.}

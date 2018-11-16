@@ -1,0 +1,146 @@
+<L>__{interior restaurant night}
+<A>__{the meal is drawing to a close. people have gotten up and are circulating around the table and nearby.}
+<L>__{interior bar area night}
+<A>__{harvey stands at the bar. he downs a drink. jean approaches.}
+<C>__{jean}
+<D>__{harvey.}
+<C>__{harvey}
+<D>__{hello jean.}
+<C>__{jean}
+<P>__{(to barman)}
+<D>__{can i get a glass of water please?}
+<A>__{the barman obliges.}
+<C>__{jean }
+<D>__{you ok?}
+<C>__{harvey}
+<P>__{(downing another drink)}
+<D>__{fine.}
+<A>__{beat.}
+<C>__{jean}
+<D>__{go easy harvey.}
+<C>__{harvey}
+<P>__{(getting quite loaded)}
+<D>__{why, jean? are you worried i'm going to embarrass you again?}
+<C>__{jean}
+<D>__{no harvey, i'm worried you're going to embarrass yourself.}
+<P>__{(beat)}
+<D>__{and more importantly susan. this weekend's just about her and scott. nothing else.}
+<C>__{harvey}
+<D>__{oh, you're good jean. you're really good. you've always known how to make me feel shit, haven't you?}
+<P>__{(beat)}
+<D>__{you've always been so good at that.}
+<C>__{jean}
+<D>__{i've had cause to practice.}
+<A>__{beat.}
+<C>__{harvey}
+<D>__{tell me, jean. were you ever proud of me?}
+<C>__{jean}
+<D>__{yes. sometimes.}
+<P>__{(beat)}
+<D>__{but you never listened.}
+<C>__{harvey}
+<D>__{the parties jean. the fuckin' parties, where i would hear you dressing up what i did for a living film composer this, film composer that trying to make it more palatable for your friends. i'm a...}
+<C>__{jean}
+<P>__{(cutting him off)}
+<D>__{don't harvey.}
+<A>__{beat.}
+<C>__{harvey}
+<D>__{what is it you see in brian?}
+<A>__{jean looks into harvey's eyes. long beat.}
+<C>__{jean}
+<D>__{he doesn't talk about himself.}
+<P>__{(beat)}
+<D>__{he talks about me.}
+<A>__{harvey stares back, momentarily transfixed, before turning away dismissive.}
+<C>__{jean }
+<D>__{go home harvey. go to bed and see your daughter get married tomorrow.}
+<A>__{jean walks away. harvey stands at the bar. susan comes into the room. she approaches.}
+<C>__{susan}
+<D>__{hi dad.}
+<C>__{harvey}
+<D>__{hey suz.}
+<C>__{susan}
+<D>__{are you alright?}
+<C>__{harvey}
+<P>__{(upbeat)}
+<D>__{yeah. i'm great. how are you doing? enjoying yourself?}
+<C>__{susan}
+<D>__{yeah.}
+<A>__{beat.}
+<C>__{harvey}
+<D>__{he seems a good guy, scott. you'll be alright.}
+<C>__{susan}
+<D>__{yeah, he is.}
+<P>__{(beat)}
+<D>__{i'm sorry, i haven't had much time to talk to you.}
+<C>__{harvey}
+<D>__{no sweetheart, it's your weekend. it's no problem. you just enjoy yourself.}
+<A>__{beat.}
+<C>__{susan}
+<D>__{how's work?}
+<C>__{harvey}
+<D>__{great.}
+<P>__{(beat)}
+<D>__{well, not great, but...fine. you know the usual. triangle chimes.}
+<A>__{susan smiles.}
+<C>__{susan}
+<D>__{are you still doing your own stuff? you should.}
+<C>__{harvey}
+<D>__{a bit... not so much.}
+<A>__{beat. harvey looks away, then back.}
+<C>__{harvey }
+<D>__{listen suz, i'm really sorry about having to leave early. it's just bad timing. there's a sudden rush at work, you know, a couple of big jobs in at once.}
+<C>__{susan}
+<D>__{sure.}
+<C>__{harvey}
+<D>__{it just can't be helped. but i will be there at the ceremony, at the really important bit. i will be there to give you away.}
+<P>__{(beat)}
+<D>__{and then i'm sure brian or your mother will talk at the reception. you know me, i've never been very good at speech...}
+<C>__{susan}
+<P>__{(interrupting)}
+<D>__{dad.}
+<C>__{harvey}
+<D>__{yeah, suz?}
+<C>__{susan}
+<D>__{listen, i've been thinking.}
+<P>__{(beat)}
+<C>__{susan }
+<D>__{brian has been a really big part of my life now for some time. and...}
+<P>__{(long beat)}
+<D>__{and i'm going to ask him to give me away tomorrow.}
+<A>__{silence.}
+<C>__{susan }
+<D>__{i'm sorry, dad.}
+<A>__{the colour drains from harvey's ruddy face.}
+<C>__{harvey}
+<D>__{but suz...}
+<C>__{susan}
+<D>__{dad, i've hardly seen you in the past five years.}
+<C>__{harvey}
+<D>__{that's not true.}
+<C>__{susan}
+<D>__{dad, it is. maybe a quick coffee here, or a telephone call there but no, you haven't been part of my life. and...}
+<P>__{(beat)}
+<D>__{and brian has.}
+<A>__{beat.}
+<C>__{susan }
+<D>__{you having to leave early this weekend. i don't know, it just seems typical.}
+<C>__{harvey}
+<P>__{(flash of irritation)}
+<D>__{it's work darling. it pays for things.}
+<P>__{(beat sighs)}
+<D>__{sorry. look, i...}
+<C>__{susan}
+<P>__{(interrupting)}
+<D>__{i'm sorry dad, but it's what i've decided.}
+<A>__{harvey momentarily turns away from his daughter, to compose himself, before turning back.}
+<C>__{harvey}
+<D>__{sure.}
+<P>__{(beat)}
+<D>__{i understand, suz.}
+<A>__{harvey leans in and kisses his daughter on the forehead.}
+<C>__{harvey }
+<D>__{you go and be with your friends. go and enjoy yourself.}
+<P>__{(pulls out his phone)}
+<D>__{i gotta make some stupid calls. you know. go and enjoy yourself, sweetheart. i will see you tomorrow.}
+<A>__{susan reluctantly walks away as harvey lifts the phone to his ear. we hold on his face. with susan gone he lowers the phone. he looks frightened.}

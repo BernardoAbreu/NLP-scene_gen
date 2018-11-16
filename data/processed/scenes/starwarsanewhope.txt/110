@@ -1,0 +1,39 @@
+<L>__{interior detention area}
+<A>__{elevator doors open. a tall, grim looking officer approaches the trio.}
+<C>__{officer}
+<D>__{where are you taking this... thing?}
+<A>__{chewie growls a bit at the remark but han nudges him to shut up.}
+<C>__{luke}
+<D>__{prisoner transfer from block one one three eight.}
+<C>__{officer}
+<D>__{i wasn't notified. i will have to clear it.}
+<A>__{the officer goes back to his console and begins to punch in the information. there are only three other troopers in the area. luke and han survey the situation, checking all of the alarms, laser gates, and camera eyes. han unfastens one of chewbacca's electronic cuffs and shrugs to luke. suddenly chewbacca throws up his hands and lets out with one of his ear piercing howls. he grabs han's laser rifle.}
+<C>__{han}
+<D>__{look out! he's loose!}
+<C>__{luke}
+<D>__{he's going to pull us all apart.}
+<C>__{han}
+<D>__{go get him!}
+<A>__{the startled guards are momentarily dumbfounded. luke and han have already pulled out their laser pistols and are blasting away at the terrifying wookiee. their barrage of laserfire misses chewbacca, but hits the camera eyes, laser gate controls, and the imperial guards. the officer is the last of the guards to fall under the laserfire just as he is about to push the alarm system. han rushes to the comlink system, which is screeching questions about what is going on. he quickly checks the computer readout.}
+<C>__{han}
+<D>__{we've got to find out which cell this princess of yours is in. here it is... cell twenty one eight seven. you go get her. i will hold them here.}
+<A>__{luke races down one of the cell corridors. han speaks into the buzzing comlink.}
+<C>__{han}
+<P>__{(sounding official)}
+<D>__{everything is under control. situation normal.}
+<C>__{intercom voice}
+<D>__{what happened?}
+<C>__{han}
+<P>__{(getting nervous)}
+<D>__{uh... had a slight weapons malfunction. but, uh, everything's perfectly all right now. we're fine. we're all fine here, now, thank you. how are you?}
+<C>__{intercom voice}
+<D>__{we're sending a squad up.}
+<C>__{han}
+<D>__{uh, uh, negative. we had a reactor leak here now. give us a few minutes to lock it down. large leak... very dangerous.}
+<C>__{intercom voice}
+<D>__{who is this? what's your operating number?}
+<A>__{han blasts the comlink and it explodes.}
+<C>__{han}
+<D>__{boring conversation anyway.}
+<P>__{(yelling down the hall)}
+<D>__{luke! we're going to have company!}

@@ -1,0 +1,96 @@
+<L>__{interior pawn shop night}
+<A>__{jack jeebs is the sleazy, sarcastic proprietor of the pawn shop. he's not easily intimidated.}
+<C>__{jeebs}
+<D>__{officer edwards. oh, hey, geez, how'd these get here? i thought i turned 'em in to the proper authorities.}
+<A>__{he casually brushes some rolexes off the counter.}
+<C>__{edwards}
+<D>__{way i hear it, jeebs, you into something a little hotter than some stolen rolexes.}
+<C>__{jeebs}
+<D>__{sure i'm a big crack dealer now. i just work here because i love the hours.}
+<A>__{this pisses edwards off. he grabs jeebs by the collar.}
+<C>__{edwards}
+<P>__{(getting angry)}
+<D>__{i'm talking about guns, jeebs. high tech stuff.}
+<C>__{jeebs}
+<D>__{c'mon, edwards, whatcha see is what i got.}
+<C>__{kay }
+<D>__{why don't you show him the imports, jeebs.}
+<A>__{at the sound of kay's voice, jeebs suddenly pales, a look of fear coming over his face.}
+<C>__{jeebs}
+<D>__{h hiya kay, how are you?}
+<C>__{kay}
+<D>__{the imports, jeebs. now.}
+<C>__{jeebs}
+<D>__{you know i got outta that business a long time ago, kay.}
+<C>__{kay}
+<D>__{why do you lie to me? i hate it when you lie.}
+<A>__{he pulls his own gun and aims it at jeebs' forehead.}
+<C>__{jeebs}
+<D>__{whoa, whoa, kay, hold on a minute here...}
+<C>__{kay}
+<D>__{i'm going to count to three.}
+<A>__{edwards, seeing that kay is getting somewhere, joins in the routine.}
+<C>__{edwards}
+<D>__{he'll do it, jeebs.}
+<C>__{kay}
+<D>__{one.}
+<C>__{edwards}
+<D>__{i've seen him do it.}
+<C>__{kay}
+<D>__{two.}
+<C>__{edwards}
+<D>__{talk to me, jeebs, he's crazy when he's like this.}
+<C>__{jeebs}
+<D>__{he's always crazy.}
+<P>__{(to kay)}
+<D>__{take a cruise. get a massage }
+<C>__{kay}
+<D>__{three.}
+<A>__{ka boom! kay blows jeebs' head off and jeebs' body collapses to the floor. edwards is shocked. edwards pulls his own weapon and points it at kay's head.}
+<C>__{edwards}
+<D>__{put down the gun and put your hands on the counter!}
+<C>__{kay}
+<D>__{i warned him.}
+<C>__{edwards}
+<D>__{drop the weapon!}
+<C>__{kay}
+<D>__{you warned him.}
+<C>__{edwards}
+<D>__{you are under arrest. you have the right to remain silent.}
+<C>__{kay}
+<D>__{will you relax?}
+<C>__{jeebs }
+<P>__{(irritated)}
+<D>__{don't do that.}
+<A>__{edwards whirls around to see jeebs' body, growing another head. only takes four or five seconds. kay calmly shoves his gun up against jeebs' baby soft new cheek.}
+<C>__{jeebs }
+<D>__{do you know how much that hurts?}
+<C>__{kay}
+<D>__{show us what you got, jeebs. or i will use up another one.}
+<A>__{jeebs, panicked, hits a button on the underside of the counter, which promptly flips over, revealing yet another dusty shelf, piled high with junk but this is all alien junk. weapons, mostly, bizarre, otherworldly weapons of all shapes and sizes.}
+<C>__{kay}
+<D>__{edwards?}
+<A>__{edwards, still dazed by jeebs' regrown head, glances down at all the weapons.}
+<C>__{edwards}
+<D>__{uh, this. this is what i saw.}
+<A>__{kay looks at jeebs, pissed off.}
+<C>__{kay}
+<D>__{you sold a carbonizer with implosion capacity to an unlicensed cephlapoid.}
+<C>__{jeebs}
+<D>__{he looked all right to me.}
+<C>__{kay}
+<D>__{a carbonizer is an assassin's weapon, jeebs. who was the target?}
+<C>__{jeebs}
+<D>__{i don't know.}
+<A>__{kay raises the weapon again, threatening.}
+<C>__{kay}
+<D>__{jeebs!}
+<C>__{jeebs}
+<D>__{i don't know!}
+<A>__{kay lowers his gun, gestures to the shelf full of weapons.}
+<C>__{kay}
+<D>__{this is all confiscated. all of it. i want you on the next transport off this rock. or i will shoot you where it doesn't grow back.}
+<A>__{jeebs nods, point taken. kay leaves.}
+<C>__{edwards}
+<D>__{yeah. i will be by tomorrow for those rolexes.}
+<A>__{shaken, edwards follows.}

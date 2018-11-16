@@ -1,0 +1,33 @@
+<T>__{cut to:}
+<L>__{interior passageway castle thane (mi 6 hq) dusk}
+<A>__{bond paces the flagstones, footsteps echoing.}
+<L>__{interior briefing room castle thane (mi 6 hq) continuous}
+<A>__{bond opens the door on m who stands alone by the window, looking out at the long shadows on the moors.}
+<C>__{bond}
+<D>__{tell me about the kidnapping of elektra king.}
+<A>__{she turns, her brow furrowing.}
+<C>__{m}
+<D>__{who told you to look at elektra's files?}
+<C>__{bond}
+<D>__{i took the initiative.}
+<C>__{m}
+<D>__{you haven't been given an assignment in this case.}
+<C>__{bond}
+<D>__{i was the one who brought that money in...}
+<C>__{m}
+<D>__{i'm well aware of your stake in this, if you have a point, get to it.}
+<C>__{bond}
+<D>__{the amount of money that killed robert king is the same amount as the ransom demand for elektra.}
+<A>__{he hands her a slip of paper.}
+<C>__{bond}
+<D>__{whoever kidnapped elektra is the same man who killed her father.}
+<A>__{m looks at the paper, a long time.}
+<C>__{m}
+<D>__{it's a message. he wants us to know he's back.}
+<C>__{bond}
+<D>__{who?}
+<C>__{m}
+<D>__{claude serrault. a.k.a...}
+<C>__{bond}
+<P>__{(this is serious)}
+<D>__{renard.}

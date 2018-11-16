@@ -1,0 +1,44 @@
+<L>__{interior group room day}
+<A>__{jacob dashes out of view. he runs down another corridor, wildly searching for a specific room. he finds it and rushes inside. he is surprised to find a group of men and women seated in a circle. they all look up at him.}
+<C>__{leader}
+<D>__{can i help you?}
+<C>__{jacob}
+<D>__{i'm looking for dr. carlson. isn't this his office?}
+<A>__{the leader stares at him uncomfortably. after a moment he gets up and takes jacob into a corner of the room. everyone is watching them. the leader speaks quietly.}
+<C>__{leader}
+<D>__{i'm so sorry. obviously you haven't ... dr. carlson died.}
+<C>__{jacob}
+<P>__{(stunned)}
+<D>__{died?}
+<C>__{leader}
+<D>__{a car accident.}
+<C>__{jacob}
+<D>__{jesus, jesus! ... when?}
+<C>__{leader}
+<D>__{last month, before thanksgiving.}
+<C>__{jacob}
+<D>__{how did it happen?}
+<C>__{leader}
+<D>__{no one knows. they say it blew up.}
+<C>__{jacob}
+<P>__{(growing pale)}
+<D>__{blew up? what do you mean it blew up?}
+<A>__{the leader shrugs and tries to put his arm around jacob, but he pulls away.}
+<C>__{leader}
+<D>__{do you want me to get someone?}
+<C>__{jacob}
+<D>__{no. no. it's okay. i'm okay.}
+<A>__{he backs quickly to the door. as he turns to leave he realizes that all of the people in the group are watching him intently. unsettled, jacob hurries back into the hallway. he is frightened and confused. suddenly a voice calls out.}
+<C>__{policeman}
+<D>__{hey you! mailman!}
+<A>__{jacob turns and sees the policeman waiting for him. his gun is drawn.}
+<C>__{policeman}
+<D>__{hold it. just hold it. where the hell do you think you are? this is bellevue, for god's sake. people running around here get shot.}
+<A>__{the group leader pokes his head out of the door and motions to the}
+<B>__{policeman.}
+<C>__{leader}
+<D>__{it's alright. he's okay.}
+<C>__{policeman}
+<P>__{(nodding, reholstering his gun)}
+<D>__{come on, get out of here. i wouldn't want to interfere with the u.s. mail.}
+<A>__{he leads jacob toward the lobby. jacob does not look back.}

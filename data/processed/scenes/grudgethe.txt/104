@@ -1,0 +1,120 @@
+<T>__{cut to black:}
+<L>__{interior hospital room night}
+<A>__{karen slowly wakes up in bed. as her eyes clear, she sees doug. he sits on the edge of the bed, slightly slumped, his back to her. he slowly turns and a relieved smile crosses his face. he moves closer, and reaches out a hand.}
+<C>__{doug}
+<D>__{it's okay. i've got you.}
+<A>__{karen nods, lacing her fingers in his. but her eyes are glazed and unfocused she's exhausted.}
+<C>__{doug}
+<D>__{your boss told me what happened. i'm sorry.}
+<A>__{she turns away, the memory bothering her. doug takes her hand, massaging her fingers, worried.}
+<C>__{doug}
+<D>__{i talked to your teachers. they said you can take as much time as you need. we could go to kyoto for a weekend, see those temples you're always talking about.}
+<A>__{karen tries to smile back, but her heart's not in it.}
+<C>__{karen}
+<D>__{running away won't help.}
+<C>__{doug}
+<D>__{there's nothing to run away from, kat. no one blames you for what happened.}
+<C>__{karen}
+<D>__{i'm not even sure what did happen.}
+<C>__{doug}
+<D>__{you went to help someone who was, quite simply, beyond help.}
+<C>__{karen}
+<D>__{no, that's not what i mean...}
+<A>__{she trails off, trying to remember. doug waits.}
+<C>__{karen}
+<D>__{that house. there was something...}
+<A>__{doug sees her frustration, and tenderly brushes a hair from her face.}
+<C>__{doug}
+<D>__{don't beat yourself up searching for a greater truth, kat. an old woman passed away in her sleep. it's sad, but that's all it is }
+<C>__{karen}
+<D>__{is that how they said she died?}
+<C>__{doug}
+<D>__{i'm sorry this happened to you. but maybe, in a way, it will help you later. death is an unfortunate but integral part of your future career. there's no avoiding it. maybe now you'll be more... ready for it.}
+<C>__{karen}
+<D>__{i don't think i will ever be ready for something like that.}
+<A>__{she turns away. doug wraps an arm around her. karen leans into him, and he strokes her hair. the moment is broken by a soft knock. detective nakagawa stands in the doorway, holding a thick file.}
+<C>__{nakagawa}
+<D>__{i'm sorry to disturb you, miss davies. i was wondering if you could answer some additional questions?}
+<A>__{doug stands, intercepting nakagawa. he sticks out a hand.}
+<C>__{doug}
+<D>__{i'm doug. karen's boyfriend.}
+<A>__{nakagawa nods. fixes doug with a blank stare. taking the hint, doug turns to karen.}
+<C>__{doug}
+<D>__{you up for this?}
+<C>__{karen}
+<P>__{(nodding:)}
+<D>__{why don't you find out when i can check out of here.}
+<A>__{reluctantly, doug kisses her brow, then exits. nakagawa pulls a chair up to the bed and sits, putting the file on a small table.}
+<C>__{nakagawa}
+<D>__{how are you feeling?}
+<C>__{karen}
+<D>__{okay. tired.}
+<C>__{nakagawa}
+<D>__{you are an exchange student?}
+<P>__{(karen nods:)}
+<D>__{and you have been volunteering at the health center for...?}
+<C>__{karen}
+<D>__{three months. i needed a social welfare credit.}
+<C>__{nakagawa}
+<D>__{you said this was the first time you'd been in that house?}
+<C>__{karen}
+<D>__{yes.}
+<A>__{she notices nakagawa isn't taking notes. he seems somewhat uncomfortable, as if he's building to something:}
+<C>__{nakagawa}
+<D>__{about the japanese boy you said you saw there }
+<C>__{karen}
+<D>__{did you find him?}
+<C>__{nakagawa}
+<D>__{no, not yet. you said the boy had been taped into the closet?}
+<C>__{karen}
+<D>__{yes, that's right. he was... holding a cat. a black cat.}
+<P>__{(remembering:)}
+<D>__{there was a book in the closet, too. i think it was a journal.}
+<C>__{nakagawa}
+<D>__{did it belong to the boy?}
+<C>__{karen}
+<D>__{i don't think so. i think it belonged to a woman.}
+<A>__{nakagawa looks up. karen tries to explain:}
+<C>__{karen}
+<D>__{the writing. it looked feminine.}
+<C>__{karen}
+<D>__{i left it on the kitchen table.}
+<A>__{nakagawa frowns, scribbles a note.}
+<C>__{nakagawa}
+<D>__{i didn't see any book on the table. perhaps someone moved it. did you speak with the boy after you opened the closet?}
+<A>__{she thinks, recalling:}
+<C>__{karen}
+<D>__{i asked him his name. he said `toshio'.}
+<A>__{nakagawa immediately tenses. a long beat. he can see how exhausted karen is. but something's troubling him:}
+<C>__{nakagawa}
+<D>__{one more question, please.}
+<A>__{he slowly reaches into his pocket and pulls out the photo karen found, and taped together. he shows it to her.}
+<C>__{nakagawa}
+<D>__{we found this in the room where...}
+<A>__{karen looks at the picture.}
+<C>__{karen}
+<D>__{this is him. this is the boy.}
+<C>__{nakagawa}
+<D>__{are you certain?}
+<C>__{karen}
+<D>__{yes. positive.}
+<A>__{nakagawa stares down at the picture in his hands. and karen notices nakagawa's hands are shaking.}
+<C>__{karen}
+<D>__{detective nakagawa?}
+<A>__{he looks up at her, a faraway look in his eyes.}
+<C>__{karen}
+<D>__{the whole time i was in that house, i felt something was... wrong.}
+<A>__{from the expression on nakagawa's face, she's onto something.}
+<C>__{karen}
+<D>__{what happened there?}
+<A>__{nakagawa holds karen's gaze for a moment. even in her exhausted state, it's clear she's as frightened as he is.}
+<C>__{nakagawa}
+<D>__{the bodies of the son and daughter in law of the woman you were caring for were found in the attic.}
+<A>__{karen just stares at him, stunned.}
+<C>__{nakagawa}
+<D>__{it seems that the son killed his wife, and then himself }
+<A>__{there's a knock on the door. igarashi stands in the doorway. he speaks to nakagawa in japanese.}
+<C>__{nakagawa}
+<P>__{(to karen)}
+<D>__{please excuse me for a moment.}
+<A>__{nakagawa puts the photo down and steps into the hallway and closes the door, but not all the way. karen watches and listens through the crack:}

@@ -1,0 +1,37 @@
+<L>__{int day: don's kitchen}
+<A>__{tessio sits in the kitchen of the main house on the mall. hagen enters.}
+<C>__{hagen}
+<D>__{you'd better make your call to barzini; michael's ready.}
+<A>__{tessio nods; moves to the telephone and dials a number.}
+<C>__{tessio}
+<D>__{we're on our way to brooklyn.}
+<A>__{he hangs up and smiles.}
+<C>__{tessio}
+<D>__{i hope mike can get us a good deal tonight.}
+<C>__{hagen}
+<P>__{(gravely)}
+<D>__{i'm sure he will.}
+<L>__{ext day: mall (1955)}
+<A>__{the two men walk out onto the mall, toward a car. on their way they are stopped by two bodyguards.}
+<C>__{button man}
+<D>__{the boss says he'll come in a separate car. he says for you two to go on ahead.}
+<C>__{tessio}
+<P>__{(frowning)}
+<D>__{hell, he can't do that. it screws up all my arrangements.}
+<A>__{three more bodyguards appear around him.}
+<C>__{hagen}
+<P>__{(gently)}
+<D>__{i can't go with you either, tessio.}
+<A>__{he flashes at the men surrounding him; for a moment he panics, and then he accepts it.}
+<C>__{tessio}
+<P>__{(after the pause)}
+<D>__{tell mike it was business...i always liked him.}
+<C>__{hagen}
+<D>__{he understands that.}
+<A>__{tessio looks at the men, and then pauses.}
+<C>__{tessio}
+<P>__{(softly)}
+<D>__{tom, can you get me off the hook? for old times' sake?}
+<C>__{hagen}
+<D>__{i can't.}
+<A>__{hagen turns, and walks away from the group. then about twenty paces away, he stops, and looks back. tessio is led into a waiting car. hagen looks away, and walks off.}

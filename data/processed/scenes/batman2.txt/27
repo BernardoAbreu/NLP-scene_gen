@@ -1,0 +1,36 @@
+<L>__{interior warden's office day}
+<A>__{mr. boniface and his attorney sit at a long table across from the warden and the members of the parole board.}
+<C>__{parole officer}
+<D>__{you want to return the money you stole.}
+<C>__{boniface}
+<D>__{intact. the map will show you where it's buried.}
+<A>__{the parole officer stares skeptically at a hand scrawled map.}
+<C>__{parole officer}
+<D>__{all of it. forty two million dollars.}
+<A>__{mr. boniface stares down humbly at the table as if he finds the mere mention of his transgression too embarrassing to bear.}
+<C>__{parole officer ii}
+<D>__{why this sudden change of heart?}
+<C>__{mr. boniface}
+<D>__{gentlemen, i want my debt to be repaid in full. i want to be a part of civilized society!}
+<P>__{(oozing sincerity)}
+<D>__{prison life is not for me. the guilt, the fear, the constant shame...one meets a disturbingly low class of people.}
+<C>__{parole officer ii}
+<D>__{sure, but forty two million dollars??}
+<A>__{mr. boniface nods plaintively. it's quite a perfomlance. he dabs at his face with a handkerchief; it's hot in here, and he's the delicate type...}
+<C>__{warden}
+<D>__{his record's clean. thirteen years without an incident.}
+<C>__{attorney}
+<D>__{i'd like to point out, my client's put his time to good use. a student of ornithology...articles published in several respected journals...}
+<A>__{the parole officer thumbs through a stack of magazines: bird world, ornithological review, beaks and feathers, nest egg.}
+<C>__{mr. boniface}
+<D>__{birds, yes. my only source of solace.}
+<C>__{parole officer}
+<D>__{in light of this rather extraordinary gesture, i see no reason not to endorse your application for parole.}
+<C>__{boniface}
+<D>__{thank you, sir. you won't regret it.}
+<A>__{mr. boniface shakes hands with the members of the parole board. as the guards escort him out, a black mynah bird squawks loudly from its cage in the corner of the office:}
+<C>__{mynah}
+<D>__{crime does not pay. aawwk!! crime does not pay.}
+<A>__{chuckles all around. on his way out the attorney gestures toward the mynah and beams at the parole board:}
+<C>__{attorney}
+<D>__{personally trained by my client.}

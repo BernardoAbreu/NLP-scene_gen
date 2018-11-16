@@ -1,0 +1,61 @@
+<T>__{cut to:}
+<A>__{close the door of athos' rooms day a gloved hand raps on the door. athos opens it to a military messenger, who shoves at him a single sheet of paper, rolled and tied with ribbon.}
+<L>__{interior athos' room night}
+<A>__{the message slams onto the table as athos staggers upon it, his legs buckling beneath him in shock and grief.}
+<L>__{interior d'artagnan's room day}
+<A>__{d'artagnan is working at his desk, as the lieutenant enters.}
+<C>__{lieutenant}
+<D>__{sir... a casualty report came...}
+<A>__{d'artagnan looks at the paper the lieutenant hands him.}
+<C>__{d'artagnan}
+<D>__{no, no, no...}
+<A>__{he sags for a moment, then grabs his cloak and sword.}
+<L>__{interior exterior musketeer's gate of the palace day}
+<A>__{the musketeer's gate is close to the stables where the musketeers train and keep their horses. d'artagnan hurries from the palace and snaps an order.}
+<C>__{d'artagnan}
+<D>__{saddle my horse!}
+<A>__{the grooms jump to work; several young musketeers nearby stop their training, noticing their captain's agitation.}
+<C>__{d'artagnan}
+<D>__{hurry }
+<A>__{but then d'artagnan sees athos coming, riding furiously through the musketeers' gate. d'artagnan steps out to meet him as athos reins in his horse and jumps from the saddle.}
+<C>__{d'artagnan}
+<D>__{athos, my friend }
+<A>__{athos marches to the palace door; d'artagnan cuts him off.}
+<C>__{d'artagnan}
+<D>__{athos, please...!}
+<C>__{athos}
+<D>__{get out of my way.}
+<C>__{d'artagnan}
+<P>__{(grabbing him)}
+<D>__{athos, i beg you }
+<A>__{athos punches d'artagnan with furious strength, knocking him aside. the young musketeers reach for their weapons, but d'artagnan is up quickly, throwing himself in front of athos again, blocking the doorway into the palace.}
+<C>__{d'artagnan}
+<D>__{where are you going?}
+<C>__{athos}
+<D>__{to kill the king.}
+<A>__{at this, the swords of the young musketeers sing from their scabbards. athos wears a sword, but he has not drawn it.}
+<C>__{d'artagnan}
+<D>__{athos! i know life means nothing to you at this moment, but i will not let you kill yourself.}
+<C>__{athos}
+<D>__{the king killed my son!}
+<C>__{d'artagnan}
+<D>__{the cannons killed raoul! the cannons, and love. but not the king.}
+<A>__{a young musketeer steps up.}
+<C>__{young musketeer}
+<D>__{i will kill the old man for you, captain, if you don't wish to }
+<A>__{athos spins, striking like a rattlesnake, his sword whipping from its scabbard and slicing off the arrogant young musketeer's ear. he flicks another's sword from his grasp, then brings the the point of his own blade up beneath the chin of a third, shoving him back.}
+<C>__{athos}
+<D>__{come on! all of you!}
+<A>__{d'artagnan tackles athos from behind and pins him face down to the hay. for a moment athos bellows in rage }
+<C>__{athos}
+<D>__{coward! fight me! fight me...!}
+<A>__{emotion spills up into athos' throat, and he begins to sob.}
+<C>__{athos}
+<D>__{he killed my son, d'artagnan! he killed my son...!}
+<A>__{d'artagnan, dying inside, still grips athos. athos grows quiet, and the young musketeers drift closer.}
+<C>__{d'artagnan}
+<D>__{get back, all of you!}
+<A>__{d'artagnan stands, and athos rises, still holding his sword. he looks at d'artagnan a long beat, then sheathes his sword and turns to his horse. the young soldiers move to him.}
+<C>__{d'artagnan}
+<D>__{let him go!}
+<A>__{athos mounts his horse, and with a last glance back at d'artagnan, he gallops away.}

@@ -1,0 +1,19 @@
+<L>__{interior indy's bedroom day}
+<A>__{indy opens the door. his bedroom has been ransacked...the mattress on the floor, the drawers turned out.}
+<L>__{interior hallway day}
+<A>__{indy approaches another door (elsa's bedroom) and knocks.}
+<C>__{indy}
+<D>__{elsa?}
+<A>__{he goes in.}
+<L>__{interior elsa's bedroom day}
+<A>__{... and finds that elsa's bedroom is in a similar ransacked state to his own. the room is empty. he is worried for her, knocks and calls out:}
+<C>__{indy}
+<D>__{elsa?}
+<A>__{he steps into the room and knocks upon the bathroom door.}
+<C>__{indy}
+<D>__{elsa?}
+<A>__{he opens the bathroom door, peering inside.}
+<C>__{indy}
+<D>__{elsa?}
+<L>__{interior elsa's bathroom day}
+<A>__{elsa is standing before a mirror, wearing a silk bathrobe. she gasps, startled, as indy enters. he retreats back into her bedroom as she reaches up to turn off a record player sitting on a ledge above the bathtub.}

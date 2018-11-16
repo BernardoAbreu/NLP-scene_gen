@@ -1,0 +1,28 @@
+<T>__{cut to:}
+<A>__{blacksmith shop day simon is standing by the anvil with the broken sword in his hand, lost in thought.}
+<B>__{house}
+<A>__{in the adjoining house valerian tends galen's wounds. he's propped up on a palette enduring the application of poultices.}
+<C>__{valerian}
+<D>__{you know what we have to do.}
+<P>__{(he looks at her with dull eyes)}
+<D>__{we have to leave urland.}
+<A>__{he winces in pain.}
+<C>__{valerian}
+<D>__{not because of what happened. i brought you here it didn't work now i'm taking you away. do you understand?}
+<P>__{(galen does not react)}
+<D>__{you said you loved me. is it true? if it is, it's the only good we've done. let's not lose that too.}
+<P>__{(pause)}
+<D>__{galen?}
+<A>__{he seems miles away. she turns aside, on the verge of tears. simon is standing there, still holding the sword hilt.}
+<C>__{simon}
+<D>__{she's right. what kind of a life could you have here? it's too late for me, but you're young enough.}
+<P>__{(he shows them the sword)}
+<D>__{you know what i think? magic is dying out, fading from the world. but that makes me happy. that means the dragon will be dying too.}
+<A>__{galen looks at him; he has heard everything. he sits up and fondly regards valerian.}
+<B>__{packing}
+<A>__{valerian packs her belongings into a rucksack. the last item in is her blue frock, carefully rolled. beside her, galen dons clean traveling clothes. he stiffly crosses the room and drags his pack out of the corner. he sorts through the effects, and amidst the clothing and supplies discovers the leather pouch containing ulrich's remains. he contemplates it.}
+<C>__{valerian}
+<D>__{what's that?}
+<C>__{galen}
+<D>__{nothing. i was just thinking poor hodge.}
+<A>__{he tucks the pouch away, throws some clothes on top and ties the satchel shut.}

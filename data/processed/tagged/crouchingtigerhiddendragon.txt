@@ -1,0 +1,1452 @@
+<D>__{crouching tiger, hidden dragon by wang hui ling, james schamus, tsai kuo jung based on the novel by wang du lu}
+<L>__{exterior yuan compound day}
+<A>__{security men and porters are loading wagons for a convoy. as they work, we see across the lake a lone horseman entering the village. one of the men recognizes him.}
+<C>__{worker}
+<D>__{master li is here!}
+<A>__{angle on: li mu bai, thirties, powerful and handsome. in the background, old aunt wu, at the sight of li mu bai, drops her parcels and runs excitedly into the building.}
+<L>__{interior yuan hallway day}
+<A>__{aunt wu runs hurriedly through the halls.}
+<C>__{aunt wu}
+<D>__{shu lien!}
+<L>__{interior yu's room day}
+<A>__{yu, a beautiful woman in her early 30s, is finishing packing for the convoy, wrapping a few small items in a linen wrapper, as aunt wu bursts in.}
+<C>__{aunt wu}
+<D>__{li mu bai is here!}
+<L>__{interior yuan practice hall day}
+<C>__{li}
+<D>__{how's everything?}
+<C>__{aunt wu}
+<D>__{fine. please come in.}
+<A>__{yu sits, composed, as aunt wu ushers li in. li carries a large object, wrapped in silk. yu smiles.}
+<C>__{yu}
+<D>__{mu bai...it's been too long.}
+<C>__{li}
+<D>__{it has.}
+<P>__{(he glances around the room)}
+<D>__{how's business?}
+<C>__{yu}
+<D>__{good. and how are you?}
+<C>__{li}
+<D>__{fine.}
+<A>__{an awkward pause.}
+<C>__{yu}
+<D>__{monk zheng said you were at wudan mountain. he said you were practicing deep meditation.}
+<C>__{li}
+<D>__{yes.}
+<C>__{yu}
+<D>__{the mountain must be so peaceful... i envy you. my work keeps me so busy, i hardly get any rest.}
+<C>__{li}
+<D>__{i left the training early.}
+<C>__{yu}
+<D>__{why? you're a wudan fighter. training is everything.}
+<C>__{li}
+<D>__{during my meditation training... i came to a place of deep silence... i was surrounded by light... time and space disappeared. i had come to a place my master had never told me about.}
+<C>__{yu}
+<D>__{you were enlightened?}
+<C>__{li}
+<D>__{no. i didn't feel the bliss of enlightenment. instead... i was surrounded by an endless sorrow. i couldn't bear it. i broke off my meditation. i couldn't go on. there was something... pulling me back.}
+<C>__{yu}
+<D>__{what was it?}
+<C>__{li}
+<D>__{something i can't let go of. you are leaving soon?}
+<C>__{yu}
+<D>__{we're preparing a convoy for a delivery to peking.}
+<C>__{li}
+<D>__{perhaps i could ask you to deliver something to sir te for me.}
+<A>__{li unwraps the object. it is an ancient, astonishingly beautiful sword.}
+<C>__{yu}
+<D>__{the green destiny sword? you're giving it to sir te?}
+<C>__{li}
+<D>__{i am. he has always been our greatest protector.}
+<C>__{yu}
+<D>__{i don't understand. how can you part with it? it has always been with you.}
+<C>__{li}
+<D>__{too many men have died at its edge. it only looks pure because blood washes so easily from its blade.}
+<C>__{yu}
+<D>__{you use it justly, you're worthy of it.}
+<C>__{li}
+<D>__{it's time for me to leave it behind.}
+<C>__{yu}
+<D>__{so what will you do now?}
+<A>__{li doesn't reply.}
+<C>__{yu}
+<D>__{come with me to peking. you can give the sword to sir te yourself. it'll be just like old times.}
+<C>__{li}
+<D>__{first i must visit my master's grave. it's been many years since jade fox murdered him. i have yet to avenge his death. and yet i'm thinking of quitting. i must pray for his forgiveness.}
+<C>__{yu}
+<D>__{join me once you have finished. i can wait for you in peking.}
+<C>__{li}
+<D>__{perhaps.}
+<L>__{exterior the gate to peking. day}
+<A>__{customs officials have just finished checking the contents in a row of carriages bearing the sun security insignia. the caravan slowly passes through the checkpoint into the boundaries of peking. yu, riding a handsome horse and clearly the leader, watches as her crew clears inspection.}
+<C>__{guards}
+<D>__{ok. pass.}
+<C>__{yu}
+<D>__{thanks. let's go into the city.}
+<L>__{exterior outside a depot. day}
+<A>__{workers are busy unloading the contents from the carriages. boss giao is checking off the merchandise a cargo of medicinal herbs.}
+<C>__{giao}
+<D>__{everything got here safely. i'm much obliged.}
+<C>__{yu}
+<D>__{just doing my job.}
+<C>__{giao}
+<D>__{sun security has been the best since your father started it. you're a credit to his memory.}
+<C>__{yu}
+<D>__{thank you.}
+<C>__{giao}
+<D>__{i mean it.}
+<L>__{exterior day. peking}
+<A>__{from a gray tiled roof, we can see peking's magnificent grid of houses extending miles and miles out, freshly painted by the morning sun.}
+<L>__{exterior peking street. day}
+<A>__{dusty and congested as always, people, horses, and carriages are fighting to get through the boulevards. a group of jugglers perform at a corner. yu surveys the busy street from on top of her horse.}
+<L>__{interior te's great hall day}
+<A>__{yu presents the sword to sir te.}
+<C>__{sir te}
+<D>__{this is li's personal sword, a great hero's weapon! he is the only one in the world worthy of carrying it. it's too fine a gift. i cannot accept it.}
+<C>__{yu}
+<D>__{sir te! it has brought him as much trouble as glory. help him to leave these troubles behind. otherwise, he'll never be able to start anew.}
+<C>__{sir te}
+<D>__{all right. i will act as the sword's custodian.}
+<A>__{de lu, the head servant, enters.}
+<C>__{de lu}
+<D>__{governor yu has arrived.}
+<C>__{sir te}
+<D>__{i must change.}
+<C>__{yu}
+<P>__{(getting up)}
+<D>__{you've always been so good to li mu bai and me. please accept our thanks.}
+<C>__{sir te}
+<D>__{please do not be such a stranger. you'll stay the night as my guest. now, shu lien... tell me something. and forgive me for prying. your father was a great friend to me, and i think of you as my own daughter.}
+<C>__{yu}
+<D>__{please, sir te, what is it?}
+<C>__{sir te}
+<D>__{li mu bai giving up his sword and his warrior days... maybe he's trying to tell you something?}
+<C>__{yu}
+<D>__{i don't know...}
+<C>__{sir te}
+<D>__{don't be coy. i've always known about your feelings for each other. all these years, it's a shame... neither of you is brave enough to admit the truth to the other. you're both wasting precious time.}
+<C>__{yu}
+<D>__{i beg your pardon. li mu bai and i aren't cowards.}
+<C>__{sir te}
+<D>__{when it comes to emotions, even great heroes can be idiots. tell me if li mu bai is not more open the next time you see him. i will give him an earful!}
+<L>__{interior te's study day}
+<A>__{yu and de lu approach the study.}
+<C>__{de lu}
+<D>__{sir te said to leave the sword in here.}
+<A>__{de lu opens the door and is startled to find a young woman inside. the woman is studying the sheets of calligraphy hanging on the walls.}
+<C>__{de lu}
+<D>__{who are you?}
+<C>__{jen}
+<D>__{i'm your guest today. i am governor yu's daughter.}
+<C>__{de lu}
+<D>__{this is sir te's study. you are here to...}
+<C>__{jen}
+<D>__{i was looking for a quiet corner.}
+<C>__{de lu}
+<D>__{i am sir te's head servant. and this is another of our guests.}
+<L>__{interior te's study day}
+<A>__{yu gently lays the sword, still in its sheath, in jen's hands.}
+<C>__{jen}
+<D>__{it's heavy for such a thin piece of metal!}
+<C>__{yu}
+<D>__{the handle is heavy. and the blade is no ordinary metal. still, the sword is the lightest of weapons. you're just not used to handling it.}
+<C>__{jen}
+<D>__{but i have had much practice. as a child in the west, a platoon lived with us. they'd let me play with their weapons. the scabbard is so beautiful.}
+<C>__{yu}
+<D>__{beautiful but dangerous. once you see it tainted with blood, its beauty is hard to admire. it's 400 years old.}
+<C>__{jen}
+<D>__{exquisite! you said it belongs to...}
+<C>__{yu}
+<D>__{my friend li mu bai. he's given it to sir te as a gift.}
+<C>__{jen}
+<D>__{li mu bai! the famous warrior? why would he give his sword to sir te?}
+<C>__{yu}
+<D>__{you're too young to understand.}
+<C>__{jen}
+<D>__{you're a sword fighter too?}
+<A>__{yu yanks the sword out of the sheath. an eerie sound resonates within the study. jen is even more impressed.}
+<C>__{yu}
+<D>__{yes, i am. but i prefer the machete. certain moves, however, call for a sword.}
+<C>__{jen}
+<D>__{really?}
+<A>__{yu puts the sword back in the case.}
+<C>__{jen}
+<P>__{(longingly)}
+<D>__{it must be exciting to be a fighter, to be totally free!}
+<C>__{yu}
+<D>__{fighters have rules too: friendship, trust, integrity... without rules, we wouldn't survive for long.}
+<C>__{jen}
+<D>__{i've read all about people like you. roaming wild, beating up anyone who gets in your way!}
+<C>__{yu}
+<D>__{writers wouldn't sell many books if they told how it really is.}
+<C>__{jen}
+<D>__{but you're just like the characters in the stories.}
+<C>__{yu}
+<D>__{sure. no place to bathe for days, sleeping in flea infested beds... they tell you all about that in those books?}
+<C>__{jen}
+<D>__{you know what i mean. i'm getting married soon, but i haven't lived the life i want.}
+<C>__{yu}
+<D>__{so i heard. congratulations. it's the most important step in a woman's life, isn't it?}
+<C>__{jen}
+<D>__{you're not married, are you?}
+<C>__{yu}
+<D>__{what do you think?}
+<C>__{jen}
+<D>__{no! you couldn't roam around freely if you were.}
+<C>__{yu}
+<D>__{you're probably right.}
+<A>__{yu studies jen. the room falls silent for a moment.}
+<L>__{exterior side court yard day}
+<A>__{it's dusk and the sky is beautiful orange and purple. jen is leaving the study escorted by her maid. she turns to yu for a final good bye. yu seems intrigued by the encounter.}
+<L>__{exterior sir te's compound night}
+<A>__{two lighted lanterns are raised up.}
+<L>__{interior te's study night}
+<A>__{sir te hands the sword to governor yu.}
+<C>__{sir te}
+<D>__{go ahead, governor yu.}
+<A>__{governor yu is impressed by the opulence and elegance of the sword. he closes his eyes to guess the weight of the sword. te snubs out the flame from a candle, then slides the sword out from its sheath. the sword gives off a luminous blue glow in the dark.}
+<C>__{sir te}
+<D>__{two feet 9 inches long. 1 inch wide. the handle is 1 inch deep, 2.6 inches wide. seven tenths of an inch thick. with seven rubies missing from the hilt. you can tell the design dates back to before the chin era. engraved with a technique lost by the time of the han dynasty.}
+<C>__{governor yu}
+<D>__{your knowledge is remarkable, sir te.}
+<C>__{sir te}
+<D>__{a sword by itself rules nothing. it comes alive only through skillful manipulation.}
+<C>__{governor yu}
+<D>__{i see your pointerior please continue.}
+<C>__{sir te}
+<D>__{the imperial court isn't the problem. with royalty and officials everywhere, the royal guard keeps security tight. but peking is not like the west. here, you'll find all sorts of characters. proceed with caution in your quest for law and order. don't depend only on the court. contacts in the giang hu underworld can ensure your position. be strong, yet supple. this is the way to rule.}
+<L>__{interior jen's room night}
+<A>__{a maid warms her hands in a basin of hot water for jen, then walks over to jen and helps remove her earrings. someone knocks and the maid goes to answer the door.}
+<C>__{maid}
+<D>__{governess...}
+<C>__{governess}
+<D>__{let me do it.}
+<A>__{the maid leaves as the governess enters the room.}
+<C>__{jen}
+<D>__{please sit.}
+<C>__{governess}
+<D>__{i've made you silk pajamas. do you want to change into them?}
+<C>__{jen}
+<D>__{put them down.}
+<C>__{governess}
+<D>__{i heard you met shu lien today.}
+<C>__{jen}
+<D>__{do you know her?}
+<C>__{governess}
+<D>__{she's one of those. your mother would not want you consorting with her kind.}
+<A>__{jen shoots her an angry look.}
+<C>__{jen}
+<D>__{i will socialize with whomever i please.}
+<C>__{governess}
+<D>__{don't invite danger into your father's house.}
+<A>__{she's about to say something, then thinks better of it.}
+<C>__{jen}
+<D>__{i'm tired now.}
+<C>__{governess}
+<D>__{go to bed then. miss has grown up, and is getting married soon. god knows what the future will bring.}
+<C>__{jen}
+<D>__{it will be just the same. enough! i'm tired.}
+<C>__{governess}
+<D>__{autumn is coming. i will shut the windows for you.}
+<A>__{the governess leaves. jen sits on the side of her bed, thinking.}
+<L>__{exterior te's compound night}
+<A>__{a wide shot of the compound. a patrol man greets master bo, sir te's head of security. the place is serene.}
+<C>__{master bo}
+<D>__{chilly, eh?}
+<C>__{nightman}
+<D>__{yes, master bo.}
+<A>__{as bo walks on, shadows rustle in a treetop in the background.}
+<L>__{exterior interior inside and outside of te's study night}
+<A>__{a masked figure silently opens the window and enters the room. it moves swiftly to the sword case, opens it, and wraps the sword. bo enters, sees the thief, who leaps up to the ceiling. the thief steps over bo and out into the courtyard. bo tries to stop the thief, who easily outwits him, jumping onto the roof as bo yells out.}
+<C>__{bo}
+<D>__{someone help! stop him! he's on the roof! the sword's been stolen! stop thief! stop him!}
+<A>__{the thief skips a few times and jumps off to a side street. bo grabs a pole and runs, as gongs begin to sound, alerting people to the theft. people rush outside, yu shu lien among them.}
+<L>__{exterior peking street night}
+<A>__{bo runs through the streets. the thief is nowhere in sight. suddenly, there are sounds of weapons clashing. bo hurries towards the source.}
+<L>__{exterior an alley outside governor yu's compound night}
+<A>__{bo is surprised to see the hooded figure battling with two other fighters tsai (male, 40s) and may, his daughter.}
+<C>__{tsai}
+<D>__{it's jade fox!}
+<C>__{may}
+<D>__{we must avenge mother!}
+<A>__{the hooded figure does a gravity defying flip and soars over a wall, just as bo arrives.}
+<C>__{bo}
+<D>__{do something! he's getting away!}
+<L>__{exterior peking rooftop night}
+<A>__{the thief runs atop a roof right into yu. yu and the hooded figure face off.}
+<C>__{yu}
+<D>__{return the sword, and i will let you go.}
+<A>__{the figure just regards her, slightly shifting weight. yu attacks, but the figure repels her.}
+<C>__{yu}
+<D>__{you've been trained at wudan?}
+<A>__{the figure answers by leaping to another rooftop. yu catches up, and resumes her attack with a relentless series of lightning quick blows.}
+<L>__{exterior alley outside governor yu's compound night}
+<A>__{bo follows tsai and may, who are quickly walking away.}
+<C>__{tsai}
+<D>__{you're mistaken. we're just street performers. we were rehearsing.}
+<C>__{may}
+<D>__{father!}
+<C>__{bo}
+<D>__{you were rehearsing? who are you trying to fool?}
+<A>__{may wants to respond but is again cut off by tsai. they run off.}
+<C>__{bo}
+<D>__{where did that thief go?}
+<A>__{bo looks around and discovers he had chased the thief into governor yu's compound.}
+<C>__{bo}
+<D>__{governor yu's house!}
+<L>__{exterior roof top}
+<A>__{yu and the black figure continue to fight.}
+<C>__{yu}
+<D>__{get down here! give back the sword!}
+<L>__{exterior governor yu's night}
+<A>__{yu slowly gets the upper hand in her fight with the thief. a small arrow cuts across the night and flies toward yu. she catches it, but the masked figure takes the opportunity to get away. yu pauses to feel the arrow in her hand, standing in the empty courtyard.}
+<L>__{exterior te's side entrance day}
+<A>__{de lu escorts yu into te's.}
+<C>__{de lu}
+<D>__{sir te awaits you.}
+<L>__{interior te's great hall day}
+<A>__{men are standing at attention. bo is giving his account of what happened, as yu enters.}
+<C>__{bo}
+<D>__{i'm sure the thief is in the yu household.}
+<C>__{sir te}
+<D>__{how dare you imply?}
+<C>__{bo}
+<D>__{but i say }
+<C>__{sir te}
+<D>__{ enough.}
+<A>__{the men hustle out. bo can barely contain his frustration.}
+<C>__{yu}
+<D>__{has governor yu ever seen the sword?}
+<C>__{sir te}
+<D>__{yes, though i doubt he's involved in this.}
+<C>__{yu}
+<D>__{but the sword could be in his compound.}
+<C>__{sir te}
+<D>__{then someone's trying to set him up. we should inform li mu bai.}
+<L>__{exterior outside governor yu's compound night}
+<A>__{madam yu is returning from temple. the governess is helping her out of the carriage. servants are peeling bills off a wall across the street.}
+<C>__{madam yu}
+<D>__{what is it?}
+<C>__{maid}
+<D>__{madam yu, someone's put up posters.}
+<A>__{a partially torn flyer with the words "jade fox will not escape justice!" is seen on the ground.}
+<C>__{madam yu}
+<D>__{let me see.}
+<C>__{governess}
+<D>__{someone is after jade fox. preposterous, looking for her here!}
+<A>__{madam yu nods and walks inside, as the governess tosses the flyer away and follows her. a hand scoops up the flyer it is yu. she studies it, then puts it in her pocket, and moves on.}
+<L>__{exterior bridge day}
+<A>__{bo is searching for the tsais. the bridge is full of jugglers. but the two are nowhere to be found.}
+<L>__{exterior peking street day}
+<A>__{bo quizzes a homeless man.}
+<C>__{bo}
+<D>__{where are they?}
+<C>__{homeless man}
+<D>__{i don't know. i haven't seen them in two days.}
+<A>__{bo is about to give up when he looks up and sees may walking quickly into an alley. bo follows her.}
+<L>__{exterior in front of tsai's house}
+<A>__{may walks into a dilapidated house surrounded by a broken down bamboo fence. bo inches closer and sees may and tsai oiling their weapons.}
+<L>__{interior bo's room day}
+<A>__{jen practices calligraphy. the governess is by her side embroidering and throwing occasional glances at jen. the maid enters.}
+<C>__{maid}
+<D>__{there is a miss shu lien here to see you.}
+<A>__{jen stops and looks up at them.}
+<C>__{governess}
+<D>__{miss is busy right now.}
+<C>__{maid}
+<D>__{i will tell her.}
+<C>__{jen}
+<D>__{show her in.}
+<A>__{the governess shoots her a look.}
+<C>__{governess}
+<D>__{this spells trouble.}
+<C>__{jen}
+<D>__{i have a guest.}
+<A>__{the governess gets up to leave just as the maid shows yu in.}
+<C>__{maid}
+<D>__{this way please.}
+<A>__{the governess and yu exchange quick glances. the governess bows slightly and departs.}
+<C>__{jen}
+<D>__{i've missed you.}
+<C>__{yu}
+<D>__{how so?}
+<C>__{jen}
+<D>__{i'm bored.}
+<A>__{yu sees the calligraphy.}
+<C>__{yu}
+<D>__{you're doing calligraphy?}
+<C>__{jen}
+<D>__{i will write your name. just for fun.}
+<A>__{jen writes yu's name with great confidence and swiftness.}
+<C>__{yu}
+<D>__{i never realized my name looks like "sword."}
+<A>__{jen freezes slightly.}
+<C>__{yu}
+<D>__{you write gracefully. calligraphy is so similar to fencing.}
+<C>__{jen}
+<D>__{maybe it is. i wouldn't know.}
+<A>__{the maid enters with tea.}
+<C>__{jen}
+<D>__{please.}
+<C>__{yu}
+<D>__{thank you for seeing me. i hear your wedding day is near. you must be overwhelmed by the preparations.}
+<C>__{jen}
+<D>__{i'm hardly doing a thing. the less i think of it the better. my parents are arranging everything. the gous are a very powerful family. my marrying one will be good for my father's career.}
+<C>__{yu}
+<D>__{you are fornuate to marry into such a noble family.}
+<C>__{jen}
+<D>__{am i? i wish i were like the heroes in the books i read. like you and li mu bai. i guess i'm happy to be marrying. but to be free to live my own life, to choose whom i love... that is true happiness.}
+<C>__{yu}
+<D>__{do you think so? let me tell you a story.}
+<C>__{jen}
+<D>__{about you and li mu bai?}
+<C>__{yu}
+<D>__{yes. did you know i was once engaged to be married?}
+<C>__{jen}
+<D>__{no, really?}
+<C>__{yu}
+<D>__{his name was meng si zhao. he was a brother to li mu bai by oath. one day, while in battle, he was killed by the sword of li mu bai's enemy. after, li mu bai and i went through a lot together. our feelings for each other grew stronger. but how could we dishonor meng's memory? so the freedom you talk about, i too desire it. but i have never tasted it.}
+<C>__{jen}
+<D>__{too bad for meng, but it's not your fault, or li mu bai's.}
+<C>__{yu}
+<D>__{i am not an aristocrat, as you are... but i must still respect a woman's duties.}
+<C>__{jen}
+<D>__{don't distance us. from now on, let's be like sisters.}
+<C>__{yu}
+<D>__{then as a sister, let me wish you happiness in your marriage.}
+<L>__{exterior yu's garden day}
+<A>__{the maid escorts yu out. yu pauses, looks around, and sees the profile of the governess peering at her from around a corner.}
+<L>__{interior jen's room night}
+<A>__{moonlight spills into the room, as jen rises sleeplessly from bed and looks out the window. a light breeze stirs her hair. the sound of the wind rises, and slowly her face dissolves, into...}
+<L>__{interior exterior carriage mongolian desert day}
+<A>__{...the face of a younger, less sophisticated jen, as she lets the dry desert air flow through her hair. she sits in a carriage, part of a caravan, with guards on horseback, that is traveling through the spectacular desert. across from her sits her mother, of whom she is barely cognizant.}
+<C>__{madam yu}
+<D>__{what a godforsaken place! can't your father be appointed closer to civilization? jen... are you listening to me?}
+<A>__{jen is still looking out the side of the carriage, at a beautiful mountainside.}
+<L>__{interior jen's room night}
+<A>__{jen sighs, and turns back toward her bed.}
+<L>__{exterior street outside governor yu's compound night}
+<A>__{tsai and may have been sitting, hidden in the branches of a tree, watching jen.}
+<C>__{tsai}
+<D>__{let's go!}
+<A>__{they drop down silently and walk away. from another rooftop, lo looks silently on.}
+<L>__{exterior tsai's house night}
+<A>__{tsai and may enter the house.}
+<L>__{interior tsai's house night}
+<A>__{inside the tiny house, they discover a hooded figure going through their belongings. immediately tsai throws a knife, which rips off the figure's mask revealing bo. tsai has another long knife at his throat.}
+<C>__{tsai}
+<D>__{who are you?}
+<C>__{bo}
+<D>__{wait! i'm a friend!}
+<A>__{tsai pauses.}
+<L>__{interior tsai's house night (later)}
+<A>__{may fans a small coal fired grill that is boiling a sizzling pot of vegetable and meatball soup. her father and bo are now friendly dinner companions, much to may's delight.}
+<C>__{tsai}
+<D>__{i don't care about your sword.}
+<C>__{bo}
+<D>__{why were you spying on the yus?}
+<C>__{tsai}
+<D>__{i'm looking for someone. jade fox. i'm a police inspector from shaan xi, gen su district. jade fox is a master criminal. i hear she infiltrated the yus. she must have come with them when they transferred here. but with yu's reputation, i can't just go in and accuse her.}
+<C>__{bo}
+<D>__{this jade fox is a woman?}
+<C>__{tsai}
+<D>__{yes.}
+<C>__{bo}
+<D>__{then leave her to me.}
+<C>__{tsai}
+<D>__{pardon me, but i doubt you can handle her. my wife was quite a martial arts expert. jade fox killed her. so you see, this is personal. leave her to me.}
+<C>__{may}
+<D>__{it's ready!}
+<P>__{(re: the soup)}
+<C>__{bo}
+<D>__{i'm ready for anything!}
+<A>__{bo fishes into the pot with his chopsticks. may intercepts him with her own chopsticks.}
+<C>__{may}
+<D>__{father gets first dip.}
+<A>__{tsai stiffens and snaps his chopsticks, not to pick up a meatball but to catch an incoming dart. a dart wrapped with a note. bo jumps up.}
+<C>__{tsai}
+<D>__{they're gone.}
+<C>__{may}
+<D>__{what does it say?}
+<C>__{tsai}
+<D>__{"we'll settle this at midnight on yellow hill." good, the fox is out of her hole.}
+<L>__{interior te's study night}
+<A>__{yu is ushered into the room, to discover sir te talking to another man, whose back is to her.}
+<C>__{sir te}
+<D>__{shu lien, look who's here.}
+<A>__{the man turns around it's li mu bai.}
+<L>__{exterior te's hall night}
+<A>__{yu and li mu bai sit together.}
+<C>__{li}
+<D>__{sir te believes it's a ploy cast suspicion on governor yu.}
+<C>__{yu}
+<D>__{but something is going on at the yu household.}
+<C>__{li}
+<D>__{what have you discovered?}
+<A>__{from her sleeve, yu removes the flyer. li takes it, his face darkening.}
+<C>__{li}
+<D>__{jade fox? impossible.}
+<C>__{yu}
+<D>__{you always suspected she'd fled to the west.}
+<C>__{li}
+<D>__{i didn't think she'd dare come back to peking!}
+<C>__{yu}
+<D>__{is there any place safer than under the nose of governor yu?}
+<C>__{li}
+<D>__{so i shall avenge my master's death after all.}
+<C>__{yu}
+<D>__{be careful. sir te requires discretion. official business is difficult enough. don't let personal feelings make it worse. and i don't know... even this poster... could be some sort of trap.}
+<C>__{li}
+<D>__{did you see who posted it?}
+<A>__{yu pauses.}
+<C>__{yu}
+<D>__{no.}
+<C>__{li}
+<D>__{it says jade fox is hiding at yu's. on the night of the theft there was a brawl near yu's. were you involved?}
+<C>__{yu}
+<D>__{it was bo, sir te's man. i hear he followed the thief to the yus'.}
+<C>__{li}
+<D>__{have you questioned him yet?}
+<C>__{yu}
+<D>__{no, not yet...}
+<C>__{li}
+<D>__{but your men are watching over yu's compund?}
+<C>__{yu}
+<D>__{no, i'd already sent them home. you can blame me for losing the sword, but please trust that i will get it back soon using my own methods.}
+<C>__{li}
+<D>__{that's not what i meant. i don't care about the sword.}
+<C>__{yu}
+<D>__{what do you mean? didn't you come back here for it?}
+<C>__{li}
+<D>__{i don't know it was stolen until i got here.}
+<C>__{yu}
+<D>__{then, why did you come?}
+<C>__{li}
+<D>__{well, we had talked...}
+<A>__{de lu enters.}
+<C>__{de lu}
+<D>__{pardon my intrusion. master li, your room is ready.}
+<C>__{li}
+<D>__{thank you. please lead the way.}
+<L>__{exterior yellow hill night}
+<A>__{tsai, bo, and may wait under an ancient tree. bo stifles a yawn.}
+<C>__{bo}
+<D>__{the fox doesn't care much for punctuality. still no sign of her.}
+<A>__{an old lady struggles up the hill, wearing a floppy hat over her face, holding a cane. the three exchange glances.}
+<C>__{tsai}
+<D>__{enough! show yourself.}
+<A>__{the old woman shrinks in fear, but then throws off her disguise and unveils herself the governess.}
+<C>__{fox}
+<D>__{tsai... you dog! you will pay for your stubbornness.}
+<C>__{bo}
+<D>__{that's what you think, old witch!}
+<C>__{tsai}
+<D>__{if you surrender now, you'll suffer less. but if you resist, i won't stop until you're dead.}
+<C>__{may}
+<D>__{father! let me avenge my mother's death.}
+<C>__{fox}
+<D>__{you'll soon end up like her, you little whore!}
+<C>__{bo}
+<D>__{you'll pay for that!}
+<A>__{a fierce battle begins, the main fighting between tsai and fox, with may and bo getting a stab in occasionally, when the opportunity presents itself.}
+<C>__{tsai}
+<P>__{(to bo)}
+<D>__{she's going to paralyze you!}
+<A>__{using acupressure, fox disables bo. may shoots an arrow at her, but she catches it and flings it back, hitting may.}
+<C>__{tsai}
+<D>__{may!}
+<A>__{fox then disables tsai, but just as she goes for the kill, li mu bai flies down from the treetops and steps between them.}
+<C>__{fox}
+<D>__{tsai, you filthy mongrel! an ambush!}
+<C>__{may}
+<D>__{father, are you all right?}
+<A>__{li addresses fox.}
+<C>__{li}
+<D>__{wudan should have gotten rid of you long ago. it's been a long time, jade fox! you don't remember me... but you should remember my master. you infiltrated wudan while i was away. you stole our master! now it's time for you to pay!}
+<C>__{fox}
+<D>__{your master underestimated us women. sure, he'd sleep with me, but he would never teach me. he deserved to die by a woman's hand!}
+<C>__{li}
+<D>__{you stole the secrets of wudan's highest martial arts. but after ten years of training, your moves are still undisciplined. and today, under a wudan sword... you will die!}
+<A>__{li easily brings fox to the ground. li raises his sword to the prostrate fox. a figure masked in black appears next to fox, sword extended, saving her.}
+<C>__{fox}
+<D>__{disciple, we'll kill them all!}
+<C>__{figure in black}
+<D>__{let's go!}
+<C>__{bo}
+<D>__{another one!}
+<C>__{fox}
+<D>__{i must get rid of tsai!}
+<A>__{fox fights tsai, bo, and may, as li addresses the masked figure.}
+<C>__{li}
+<D>__{who are you? why is the green destiny in your possession?}
+<C>__{figure in black}
+<D>__{what's it to you?}
+<C>__{li}
+<D>__{my name is li mu bai. the green destiny is mine. jade fox can't be your master. where did you learn that "xuan piu" move?}
+<C>__{figure in black}
+<D>__{i'm just playing around.}
+<C>__{li}
+<D>__{tell me, who is your master?}
+<C>__{figure in black}
+<D>__{let's go!}
+<C>__{fox}
+<D>__{we must kill them!}
+<A>__{tsai throws his blade at fox, who catches it and throws it back, hitting him in the head. fox and the masked figure leap away. may drops to the ground, cradling her dead father's head. bo kneels beside her.}
+<C>__{may}
+<D>__{father!}
+<L>__{exterior te's day}
+<A>__{te and a group of his men look down as a cloth is removed from over the body of tsai. bo and may stand before them.}
+<C>__{te}
+<D>__{this is tsai?}
+<C>__{may}
+<D>__{my father. police inspector from shaan.}
+<C>__{te}
+<D>__{this should be reported to governor yu. the victim is an officer. you believe the killer is hiding out in his compound.}
+<C>__{yu}
+<D>__{i'd bet my life on it!}
+<C>__{te}
+<P>__{(to li and yu)}
+<D>__{come with me.}
+<A>__{he exits the room.}
+<L>__{interior te's study day}
+<A>__{te, li, and yu are seated.}
+<C>__{sir te}
+<D>__{this needs to be resolved, and quickly.}
+<C>__{li}
+<D>__{i will get into the yu household and get her. i will ferret out fox and her gang.}
+<C>__{yu}
+<D>__{we must be careful. governor yu is a court official, and in charge of security. any disturbance will cast suspicion on him. it might get sir te in trouble.}
+<C>__{sir te}
+<D>__{this is a delicate matter.}
+<C>__{yu}
+<D>__{sir te, can you find some excuse to invite madam yu and her daughter?}
+<C>__{sir te}
+<D>__{what do you have in mind?}
+<C>__{yu}
+<D>__{the best way to trap a fox is through her cubs.}
+<A>__{sir te and li look puzzled.}
+<L>__{exterior sir te's garden day}
+<A>__{yu sits with madam yu and jen. they busy themselves with various items for her trousseau.}
+<C>__{madam yu}
+<D>__{madam te is certainly spoiling us with these wedding gifts. she's being so considerate.}
+<C>__{yu}
+<D>__{i'm sorry she's not feeling well enough to receive you today.}
+<C>__{madam yu}
+<D>__{i heard sir te lost something. and now madame te's not feeling well...}
+<A>__{jen sits silently reading.}
+<C>__{yu}
+<D>__{we know who stole the missing item. if the thief returns it, i'm sure sir te will pursue the matter no further.}
+<C>__{madam yu}
+<D>__{that's good. sometimes the help can't keep their hands to themselves. it's very embarassing.}
+<C>__{yu}
+<D>__{sir te knows that even well meaning people can make mistakes... that can bring ruin to themselves and their families.}
+<C>__{madam yu}
+<D>__{but don't be too lenient.}
+<C>__{yu}
+<D>__{no mercy will be shown toward the murderer who turned up in peking.}
+<C>__{madam yu}
+<D>__{a murderer?}
+<C>__{yu}
+<D>__{yes. the very killer of li mu bai's own master. last night, she killed a policeman who had tracked her down.}
+<C>__{madam yu}
+<D>__{a female criminal! now that's news!}
+<A>__{jen becomes visibly upset.}
+<C>__{jen}
+<D>__{you say she killed a policeman?}
+<C>__{yu}
+<D>__{yes, from the west. he went undercover and and followed her here,}
+<C>__{madam yu}
+<D>__{maybe the murderer and the thief are one and the same.}
+<C>__{yu}
+<D>__{i doubt it. this thief... it very unusual...}
+<A>__{as yu speaks, she lifts the tea pot to pour jen some tea. as she finishes speaking, she looks into jen's face and the pot slips from her hand. without even looking down, jen instinctively catches the pot with a lightning fast move.}
+<C>__{yu}
+<D>__{...and most likely smarter than a mere killer.}
+<A>__{sir te and li mu bai walk by.}
+<C>__{jen}
+<P>__{(formal)}
+<D>__{greetings, sir te.}
+<C>__{sir te}
+<D>__{hello, madam yu. this is li mu bai, the renowned swordsman.}
+<C>__{li}
+<D>__{delighted to meet you.}
+<A>__{li sizes jen up.}
+<C>__{te}
+<D>__{miss yu is soon to be married.}
+<C>__{li}
+<D>__{congratulations.}
+<L>__{exterior tsai's house night}
+<A>__{may opens her door, only to find bo standing guard.}
+<C>__{may}
+<D>__{why don't you come in?}
+<C>__{bo}
+<D>__{i'm standing guard.}
+<C>__{may}
+<D>__{come in. it's cold.}
+<A>__{she turns back inside, hesitates, then turns back to him.}
+<C>__{may}
+<D>__{come in. we don't have to fear jade fox if we're together.}
+<L>__{exterior te compound night}
+<A>__{a still, dark night.}
+<L>__{exterior te's study night}
+<A>__{something moves in the moonlight. a hooded figure jumps down. li mu bai, who had been hiding in the shadows, comes forward.}
+<C>__{li}
+<D>__{isn't it a bit too late to be out? you've brought me the sword?}
+<C>__{figure}
+<D>__{i do as i please.}
+<A>__{the masked figure lunges away, but li mu bai leaps with incredible speed and grabs the sword from her.}
+<C>__{li}
+<D>__{where's your master?}
+<C>__{figure}
+<D>__{what's it to you?}
+<A>__{the figure floats away. li chases after her.}
+<L>__{exterior peking street night}
+<A>__{the two fly over houses and bounce off of rooftops, displaying amazing floating skills.}
+<L>__{interior abandoned monastery night}
+<A>__{the figure bounces into an old monastery. li is already there.}
+<C>__{li}
+<D>__{had enough flying? you've got potential. you've studied the wudan manual but you don't understand it. you need a real master.}
+<A>__{the figure doesn't respond, but we sense the pride in her eyes.}
+<C>__{figure}
+<D>__{do you think you are a real master?}
+<C>__{li}
+<D>__{like most things, i am nothing. it's the same for this sword. all of it is simply a state of mind.}
+<C>__{figure}
+<D>__{stop talking like a monk! just fight!}
+<C>__{li}
+<D>__{then tell me where jade fox is.}
+<C>__{figure}
+<D>__{on guard!}
+<C>__{li}
+<D>__{real sharpness comes without effort.}
+<L>__{exterior monastery night}
+<A>__{the figure leaps into the garden, but again, li is ahead of her. the figure attacks li, who uses his agility to evade her. frustrated, the figure intensifies her attack. the figure, losing composure, attacks wildly. li gets even more elusive, using a branch to repel her.}
+<C>__{li}
+<D>__{no growth without assistant. no action without reaction. no desire without restrainterior now give yourself up and find yourself again. there is a lesson for you.}
+<A>__{li now holds the stick to her mask, gently raising it slightly.}
+<C>__{figure}
+<D>__{go ahead.}
+<C>__{li}
+<D>__{why should i? you need practice. i can teach you to fight with the green destiny, but first you must learn to hold it in stillness.}
+<C>__{figure}
+<D>__{why do you want to teach me?}
+<C>__{li}
+<D>__{i've always wanted a disciple worthy of wudan's secrets.}
+<C>__{figure}
+<D>__{and if i use them to kill you?}
+<C>__{li}
+<D>__{that's a risk i'm willing to take. deep down, you're good. even jade fox couldn't corrupt you.}
+<A>__{the figure's eyes cloud with tears.}
+<C>__{figure}
+<D>__{wudan is a whorehouse! keep your lessons!}
+<A>__{the figure swirls and takes off, leaving a rueful li standing alone in the monastery.}
+<L>__{interior jen's room night}
+<A>__{jen slips in through the window. she pulls off her mask, as she spots the governess fox sitting and sewing.}
+<C>__{fox}
+<D>__{you're home late... or should i say early?}
+<C>__{jen}
+<D>__{why are you still here? you killed a policeman. you should leave! you'll bring ruin on my whole family.}
+<C>__{fox}
+<D>__{they wouldn't have found me if you hadn't stolen the sword. like a little girl, you thought stealing would be fun? you, too, are responsible for that death. come with me. you don't want to waste your life as the wife of some bureaucrat. denied your talent... as a master and disciple we will rule.}
+<C>__{jen}
+<D>__{i will never live as a thief!}
+<C>__{fox}
+<D>__{you're already a thief.}
+<C>__{jen}
+<D>__{that was just for fun. how can i leave? where would i go?}
+<C>__{fox}
+<D>__{wherever we want. we'll get rid of anyone in our way. even your father.}
+<C>__{jen}
+<D>__{shut up!}
+<C>__{fox}
+<D>__{it's the giang hu fighter lifestyle... kill or be killed. exciting, isn't it?}
+<C>__{jen}
+<D>__{i owe you nothing.}
+<C>__{fox}
+<D>__{yes, you do! you are still my disciple.}
+<A>__{jen lunges at the governess, and the two exchange a few blows. jen presses her finger against one of the governess's pressure points, disabling her. jen pushes her across the room.}
+<C>__{jen}
+<D>__{you think you've been teaching me all these years from the manual? you couldn't even decipher the symbols!}
+<C>__{fox}
+<D>__{i studied the diagrams. but you hid the details!}
+<C>__{jen}
+<D>__{you wouldn't have understood, even if i had tried to explain. you know... you've gone as far as you can go. i hid my skills so as not to hurt you.}
+<C>__{fox}
+<D>__{if i hadn't seen you fight with li mu bai, i'd still be ignorant of all you've hidden from me.}
+<C>__{jen}
+<D>__{master... i started learning from you in secret when i was 10. you enchanted me with the world of giang hu. but once i realized i could surpass you, i became so frightened! everything fell apart. i had no one to guide me, no one to learn from.}
+<C>__{fox}
+<D>__{believe me, i've a lesson or two left to teach you!}
+<A>__{fox exits.}
+<L>__{exterior governor yu's gate day}
+<A>__{the governess leaves, a small sack over her back.}
+<L>__{exterior te's courtyard day}
+<A>__{li practices fluently with green destiny in hand, beautifully at ease with the weapon. he spins around to find yu standing in the doorway.}
+<C>__{yu}
+<D>__{the sword is back... are you happy?}
+<A>__{li smiles.}
+<C>__{li}
+<D>__{i admit, getting it back makes me realize how much i'd missed it.}
+<C>__{yu}
+<D>__{but it's not your sword anymore. you gave it to sir te.}
+<C>__{li}
+<D>__{true. but i must borrow it for one last mission. jade fox must die at its edge. did you know what you were hiding when you covered for that girl?}
+<C>__{yu}
+<D>__{my job was to get the sword back, without embarassing anyone. i wasn't about to ruin her life, or her father's.}
+<C>__{li}
+<D>__{you did your job well. but, this girl... i saw her last night.}
+<C>__{yu}
+<D>__{i knew she would intrigue you.}
+<C>__{li}
+<D>__{she needs direction... and training.}
+<C>__{yu}
+<D>__{she's an aristocrat's daughter. she's not one of us. in any case, it will all be over soon. you'll kill fox, and she'll marry.}
+<C>__{li}
+<D>__{that's not for her. she should come to wudan and become a disciple.}
+<C>__{yu}
+<D>__{but wudan does not accept women.}
+<C>__{li}
+<D>__{for her, they might make an exception. if not, i'm afraid she'll become a poisoned dragon.}
+<C>__{yu}
+<D>__{it's not our affair. even if wudan accepts her, her husband might object.}
+<C>__{li}
+<D>__{i thought by giving away the sword, i could escape the giang hu world. but the cycle of bloodshed continues.}
+<C>__{yu}
+<D>__{i wish there were something more i could do to help you.}
+<C>__{li}
+<D>__{just be patient with me, shu lien.}
+<L>__{interior jen's room night}
+<A>__{jen is asleep. a noise awakens her. lo opens the window and sneaks in right into the point of jen's waiting sword. jen's sword drops to the ground.}
+<C>__{jen}
+<D>__{lo?}
+<C>__{lo}
+<D>__{jen!}
+<A>__{lo grabs her by the wrist.}
+<C>__{jen}
+<D>__{you shouldn't have come.}
+<C>__{lo}
+<D>__{with all the traffic on your rooftop these days... it took me a while to get in here. i can't wait any longer. i was wrong to let you go. come back with me. you'll be happy in the desert. you'll be free there.}
+<A>__{jen turns back to him and rests herself briefly in his arms again.}
+<C>__{jen}
+<D>__{you've been looking for me all this time?}
+<A>__{flashback: four years earlier}
+<L>__{interior exterior carriage mongolian desert day}
+<A>__{jen holds up a comb, with daylight shining through it. jen admires the piece, her most prized possession. madam yu sits opposite her.}
+<C>__{madam yu}
+<D>__{jen... stop playing with it.}
+<A>__{jen looks out over the desert, as the wind picks up and the sky darkens.}
+<C>__{jen}
+<D>__{i won't break it.}
+<L>__{exterior carriage mongolian desert day}
+<A>__{lo and a group of armed bandits descend on the caravan.}
+<C>__{guard a}
+<D>__{it's dark cloud! dark cloud is coming!}
+<A>__{his warning is useless. from jen's pov, we see the guards slaughtered in a hail of arrows and swords.}
+<C>__{madam yu}
+<D>__{lower the shade, don't let them see you!}
+<C>__{dark cloud }
+<D>__{don't touch the women!}
+<A>__{though unharmed, madam yu immediately faints. lo approaches the carriage and grabs the comb from jen's hand. she bolts from the carriage, and, once outside, bends down and grabs a lance from the body of a dead guard, whose horse flails beside him. she looks up to see the gang of bandits already making their escape on horseback.}
+<C>__{lo}
+<D>__{let's go!}
+<L>__{exterior desert day}
+<A>__{jen and lo ride across the desert floor at breakneck speed.}
+<C>__{lo}
+<D>__{come get your comb.}
+<A>__{she tries to jab him with the lance, but he grabs it and flings her off her horse.}
+<C>__{lo}
+<D>__{hurry back to your mother.}
+<A>__{lo rides on as she charges after her horse.}
+<L>__{exterior desert bluff day}
+<A>__{a group of bandits is dividing up the loot, as jen rides up, keeping a respectable distance. they notice her and rise as she dismounts. one of them saunters over to her and stands, grinning, a few feet away. in a second, she's slammed his balls into his stomach and knocked his nose into his face. he crumples to the sand. the other bandits stop laughing, quickly exchange glances, and charge her at once. in a matter of seconds, they're either on the ground or dragging their fallen comrades back. lo calls out and stops the fight.}
+<C>__{lo}
+<D>__{she's mine.}
+<L>__{exterior desert day}
+<A>__{lo and jen ride, if not side by side, then parallel, about}
+<L>__{20 feet apart. their pace has slowed considerably. in}
+<A>__{fact, they're dead tired.}
+<C>__{lo}
+<D>__{let's stop a moment.}
+<C>__{jen}
+<D>__{give it back!}
+<C>__{lo}
+<P>__{(shouting a bit)}
+<D>__{you're tired. you need rest. your horse needs water. there's a creek up here.}
+<A>__{he dismounts, looks down at the dry creek bed.}
+<C>__{lo}
+<D>__{well, there used to be! what's your name? i'm lo. the hans call me dark cloud. i'm not that tall or big, but i'm quick as lightning.}
+<C>__{jen}
+<D>__{my comb!}
+<A>__{she kicks him. they fight ferociously until lo, exhausted, collapses. she kicks him a few times, then collapses too.}
+<L>__{interior cave day}
+<A>__{jen comes to and finds herself wrapped in a blanket of animal fur. she sits up with a start and checks her clothes. looking around, she realizes she's in a cave. next to her are a lamp, some hunting equipment, and a neat row of sharp arrows. she quickly grabs one of the arrows.}
+<C>__{lo}
+<D>__{if you like that arrow, i can make you a bow. great for hunting wild chicken. they're delicious.}
+<A>__{jen raises one of the arrows, going on the attack again, but her legs betray her and she falls.}
+<C>__{lo}
+<D>__{you need to eat, understand? then you'll have the strength to fight. understand?}
+<A>__{he helps her up, then pours her some horse milk from a sac. he hands her a small chunk of food, which she first accepts grudgingly, then, her hunger getting the better of her, she starts to wolf it down.}
+<C>__{lo}
+<D>__{you're eating too fast. slowly.}
+<L>__{exterior cave day}
+<A>__{lo walks out into a barren mountain landscape. a chicken roasts over a fire. lo whistles. jen appears suddenly with a rock and knocks it over his head. lo passes out as jen scurries away.}
+<L>__{exterior mountainside and desert day}
+<A>__{jen tries to find her way among the treacherous stony terrain, her lips chapped and fingers bloody and blistered. but soon she passes out.}
+<L>__{interior cave night}
+<A>__{jen again awakes inside the cave. lo tries to feed her some water, but she chokes, and tries to push him away, only to find that her legs and hands are tied up.}
+<C>__{lo}
+<D>__{you've got quite a temper. it's better this way.}
+<C>__{jen}
+<D>__{you coward!}
+<C>__{lo}
+<D>__{still in a bad mood? at least you're speaking. what's your name?}
+<A>__{jen spits at lo.}
+<C>__{lo}
+<D>__{i didn't think the hans had names like that.}
+<A>__{later: she weaves in and out of consciousness. in the flickering lights, she sees lo sharpening his arrows. later, he pulls back an opaque curtain to reveal a makeshift bathroom a water filled cavity serves as a tub. he rises as jen sobs at the sight of her imprisoned and dishevelled body. he comes over and unties her.}
+<C>__{lo}
+<D>__{relax. if i had wanted to, i would already have done it. you must be dying for a bath. fresh water's hard to get here. but i managed to bring some up. you can wear my clothes when you're done. they're clean. don't worry. i will sing, so you'll know where i am. after the bath, you'll be calmer.}
+<A>__{jen nods and the bandit releases her. he starts to sing as he walks out. jen waits until the sound recedes before closing the curtain behind her and dipping into the pit. while she bathes, she listens to his singing, a loud rendition of a tribal song. lo apparently doesn't remember all the lyrics, and la las his way through more than a few passages. jen smiles.}
+<L>__{interior cave night}
+<A>__{jen grimaces as lo pulls the last of some cactus needles from the soles of her feet.}
+<C>__{lo}
+<D>__{no more hitting on the head! all this trouble for a comb?}
+<C>__{jen}
+<D>__{it's mine. it means a lot to me. a barbarian like you wouldn't understand.}
+<C>__{lo}
+<D>__{not true. i can use it to pick fleas from my horse.}
+<C>__{jen}
+<D>__{by the way, i'm a real manchurian.}
+<C>__{lo}
+<D>__{i'm sorry... i guessed wrong. i though you were a han.}
+<C>__{jen}
+<D>__{give me back my comb.}
+<C>__{lo}
+<D>__{i don't take orders from anyone.}
+<C>__{jen}
+<D>__{give it back.}
+<A>__{jen impulsively grabs an arrow and stabs lo, drawing a little blood from his chest. furious, lo lunges at her and they tussle briefly. finally, lo gets on top of jen, and the scuffling becomes more like foreplay. violence turns into unleashed passion.}
+<L>__{exterior desert oasis day}
+<A>__{lo and jen ride across the desert. jen holds tightly to him.}
+<L>__{exterior cave night}
+<A>__{lo and jen lie in the bath together.}
+<C>__{lo}
+<D>__{when i was a boy, one night, i saw a thousand shooting stars. i thought, where did they all go? i'm an orphan. i used to look for stars alone. i thought if i rode to the other end of the desert, i'd find them. i've been riding in the desert ever since.}
+<C>__{jen}
+<D>__{and so, the little boy became a fearsome bandit. he couldn't find the stars, so he stole my comb.}
+<A>__{lo pauses.}
+<C>__{lo}
+<D>__{out here, you always fight for survival. you have to be part of a gang to stand a chance. slowly, your gang becomes your family. all that dark cloud stuff is just to scare people and make my life easier.}
+<C>__{jen}
+<D>__{so you're still that little boy looking for shooting stars.}
+<C>__{lo}
+<D>__{i am a man. and now i've found the brightest star of all.}
+<L>__{exterior desert day}
+<A>__{lo sees uniformed men through his binoculars.}
+<C>__{lo}
+<D>__{your father's men are looking for you.}
+<A>__{jen doesn't respond.}
+<L>__{exterior desert day}
+<A>__{lo and jen ride through a mountain pass.}
+<L>__{exterior cliff day}
+<A>__{lo and jen stand at the crest of a cliff. lo looks over, viewing the desert valley below, as jen joins him. they see a troop of uniformed men riding by in the distance.}
+<C>__{lo}
+<D>__{your father's men are still looking for you. they're still out there, circling closer.}
+<C>__{jen}
+<D>__{let them look.}
+<C>__{lo}
+<D>__{it is trouble for me.}
+<A>__{jen bites her lip.}
+<C>__{jen}
+<D>__{don't send me back!}
+<C>__{lo}
+<D>__{you must decide. you might get tired of this life. you might begin to miss your family. if it were our daughter, we'd look for her too. she would miss us. jen... i want you to be mine forever. i will make my mark on the world. i will earn your parents' respect. we have a legend. anyone who dares to jump from the mountain, god will grant his wish. long ago, a young man's parents were ill, so he jumped. he didn't die. he wasn't even hurt. he floated away, far away, never to return. he knew his wish had come true. if you believe, it will happen. the elders say, "a faithful heart makes wishes come true."}
+<L>__{interior tent day}
+<A>__{jen and lo kiss. jen takes the jade comb out of her hair and presses it into his palm. jen starts to cry. they embrace.}
+<C>__{jen}
+<D>__{keep it safe. return it to me when we are together again.}
+<C>__{lo}
+<D>__{i will.}
+<C>__{jen}
+<P>__{(smiling painfully)}
+<D>__{if you don't, i will come after you. and i won't let you off so easy.}
+<L>__{exterior tent day}
+<A>__{jen quietly walks out and stands sadly in the early morning light. end of flashback.}
+<L>__{interior jen's room night}
+<C>__{lo}
+<D>__{wherever i went, someone always recognized me. i really tried. later, i heard you came to peking. i was afraid i'd never see you again. so i came. i can't let you marry.}
+<A>__{jen is about to respond when a servant's voice is heard from outside the door.}
+<C>__{jen}
+<P>__{(whispering)}
+<D>__{go.}
+<C>__{lo}
+<D>__{jen...}
+<C>__{jen}
+<P>__{(through her tears)}
+<D>__{don't ever come back.}
+<A>__{lo hovers at the window frame.}
+<C>__{lo}
+<D>__{so it's over?}
+<A>__{jen pauses.}
+<C>__{jen}
+<D>__{yes.}
+<A>__{lo thrusts a small object in her hand. he lifts his legs through the window, and drops out of sight, just as jen's door is opened from the hall.}
+<C>__{maid}
+<D>__{we heard noises.}
+<C>__{jen}
+<D>__{it was just a cat.}
+<A>__{the maid pauses, then dutifully exits, closing the door. jen opens up her palm; gasping, she sees the comb that lo has given her.}
+<L>__{exterior wedding procession day}
+<A>__{the noise and color of a wedding procession. a marching band heralds the occasion, as throngs of onlookers fight to get a glimpse of the groom, gou jun pei, who trots by on a handsome white horse.}
+<L>__{interior wedding carriage day}
+<A>__{jen's head is completely covered in red cloth, as she rides silently in the bride's carriage.}
+<L>__{exterior balcony overlooking wedding procession day}
+<A>__{li and yu watch the festivities from a balcony of the city gate.}
+<C>__{yu}
+<D>__{you think jade fox will show up?}
+<C>__{li}
+<D>__{she's out there, but i doubt she'll show herself. we'll keep our eyes open. sooner or later, she'll come for the girl.}
+<L>__{interior wedding carriage day}
+<A>__{a small arrow flies into the carriage. jen calmly lifts the red cloth from her face and pulls the arrow out of the panelling inside the carriage. we hear lo's voice from outside the carriage, but jen doesn't seem to notice.}
+<C>__{lo}
+<P>__{(v.o.)}
+<D>__{jen! come with me! you're mine!}
+<A>__{lo runs wildly into the crowd.}
+<C>__{lo}
+<D>__{come with me to the desert! jen! come with me to xin jiang!}
+<A>__{the guards surround lo, but he escapes.}
+<L>__{exterior beijing street day}
+<A>__{lo leaps and lands right in front of li mu bai, his fingers pressed against lo's neck. yu comes running around the corner and sees them.}
+<C>__{li}
+<D>__{where is jade fox?}
+<A>__{yu jumps in and pushes li away.}
+<C>__{yu}
+<P>__{(to lo)}
+<D>__{come with me! hurry!}
+<L>__{interior city outskirts day}
+<A>__{lo sits dejectedly, having told his story to yu and li, who look him over.}
+<C>__{yu}
+<P>__{(to lo)}
+<D>__{you thought she'd give it all up and go back west with you?}
+<C>__{lo}
+<D>__{she's mine.}
+<C>__{li}
+<D>__{either way, you are no good to her dead. with the gou and yu clans hunting you, you'll soon be in their hands.}
+<C>__{lo}
+<D>__{i don't care anymore.}
+<C>__{li}
+<D>__{if you truly loved her, you wouldn't say that.}
+<C>__{yu}
+<D>__{don't you want to see her again.}
+<C>__{li}
+<D>__{all right. i will write you an introduction. take it to wudan. wait there for news from me.}
+<C>__{lo}
+<D>__{all right.}
+<L>__{exterior te compound night}
+<A>__{yu and li enter, as other men and women race through the compound, a sense of panic in the air. yu gives li a look. li shrugs.}
+<L>__{interior te's hall night}
+<A>__{a crowd, including li and yu, stand by as te opens the empty sword case, his voice rising.}
+<C>__{sir te}
+<D>__{when will this end? they take it, they put it back, they take it again. my home is turning into a warehouse.}
+<A>__{bo bursts into the hall, bows to te.}
+<C>__{te}
+<D>__{speak!}
+<C>__{bo}
+<D>__{jen has run away! gou found the wedding chamber empty. governor yu requests your assistance. you know the giang hu underworld. he wants to find her, and keep her from harm.}
+<C>__{li}
+<D>__{sir te, leave this to us. don't worry.}
+<L>__{interior tea stall day}
+<A>__{jen arrives at the tea stall. she places her sword on the table, which catches the attention of a couple of giang hu martial arts characters sitting nearby.}
+<C>__{waitress}
+<D>__{what can i serve you?}
+<A>__{as the waitress turns to leave, jen grabs her by the arm.}
+<C>__{jen}
+<D>__{the cup is dirty.}
+<A>__{the flustered waitress apologizes and takes the cup away. the men approach jen.}
+<C>__{gangster a}
+<D>__{hello. what is your name?}
+<C>__{jen}
+<P>__{(without lifting her eyes)}
+<D>__{long.}
+<C>__{gangster b}
+<D>__{it's young master long. my apologies. i'm iron eagle sung and this is my brother in arms, flying cougar li yun. what brings you to huai an, and where are you headed, master long?}
+<C>__{jen}
+<D>__{anywhere there's action.}
+<A>__{the two men exchange glances.}
+<C>__{gangster a}
+<D>__{in that case, perhaps we could be of assistance.}
+<C>__{jen}
+<D>__{don't bother.}
+<C>__{gangster a}
+<D>__{you don't seem to understand.}
+<C>__{jen}
+<D>__{so what if i don't?}
+<C>__{gangster b}
+<D>__{we have ways of helping you understand.}
+<A>__{the two pull out their weapons which are immediately chopped into scraps by jen.}
+<C>__{gangster a}
+<P>__{(stunned)}
+<D>__{are you related to li mu bai?}
+<C>__{jen}
+<D>__{he is my defeated foe!}
+<L>__{exterior woods day}
+<A>__{li and yu pass a cup back and forth as bo tends to the horses in the background.}
+<C>__{yu}
+<D>__{have some tea.}
+<A>__{as yu passes the cup to li, their fingers touch. embarrassed, li pulls back.}
+<C>__{li}
+<D>__{shu lien... the things we touch have no permanence. my master would say... there is nothing we can hold on to in this world. only by letting go can we truly possess what is real.}
+<C>__{yu}
+<D>__{not everything is an illusion. my hand... wasn't that real?}
+<C>__{li}
+<D>__{your hand, rough and callused from machete practice... all this time, i've never had the courage to touch it.}
+<A>__{li takes yu's hand and presses it to his face.}
+<C>__{li}
+<D>__{giang hu is a world of tigers and dragons, full of corruption... i tried sincerely to give it up but i have brought us only trouble.}
+<C>__{yu}
+<D>__{to repress one's feelings only makes them stronger.}
+<C>__{li}
+<D>__{you're right, but i don't know what to do. i want to be with you... just like this. it gives me a sense of peace.}
+<A>__{li mu bai smiles.}
+<L>__{interior star restaurant day}
+<A>__{jen walks upstairs. a waiter greets her.}
+<C>__{waiter}
+<D>__{please follow me.}
+<C>__{jen}
+<D>__{i want a clean room.}
+<C>__{waiter}
+<D>__{we have plenty. your order?}
+<A>__{jen again sets her sword on the table as she sits down.}
+<C>__{jen}
+<D>__{steamed whole cod, bite size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine.}
+<C>__{waiter}
+<P>__{(dazed)}
+<D>__{i have to order from a bigger restaurant.}
+<C>__{jen}
+<D>__{hurry then.}
+<A>__{the waiter gauges jen for an instant before bouncing off to place the orders. jen checks her pouch and sees there's not much money left. a large group of giang hu characters enters. they survey the restaurant and quickly find jen upstairs.}
+<C>__{giang hu a}
+<D>__{that's him.}
+<C>__{mi biao}
+<D>__{i am iron arm mi. i heard a true master has arrived. i have come to seek a lesson.}
+<A>__{jen ignores him.}
+<C>__{mi biao}
+<P>__{(bristles)}
+<D>__{you asked for it!}
+<A>__{mi charges and attacks jen, who is still sitting sipping tea. jen barely lifts a finger and disposes of mi with a poke at a sensitive pressure pointerior this provokes a reaction from the other men.}
+<C>__{jen}
+<D>__{what kind of iron arm are you?}
+<C>__{flying machete chang}
+<D>__{you have amazing technique! i am flying machete. are you related to southern crane?}
+<C>__{jen}
+<D>__{southern duck? i don't eat anything with two feet. who could remember such long winded names?}
+<C>__{gou jun sihung}
+<D>__{li mu bai is your defeated foe, and you don't know his master, southern crane?}
+<C>__{jen}
+<D>__{who are you?}
+<C>__{gou jun sihung}
+<D>__{i'm shining phoenix mountain gou.}
+<C>__{jen}
+<P>__{(furious)}
+<D>__{gou? i hate that name. it makes me puke! too bad you're named gou. you'll be the first to feel my sword today.}
+<A>__{jen leaps up and dives into battle. the men all use different kinds of weapons, but they all succumb to the powerful green destiny.}
+<C>__{monk jing}
+<D>__{hold it! don't you know monk jing?}
+<C>__{jen}
+<D>__{a monk, in a place like this? you need a lesson!}
+<C>__{monk jing}
+<D>__{who are you?}
+<A>__{she smiles, and leaps again into action after unsheathing the green destiny.}
+<C>__{jen}
+<D>__{who am i? i am... i am the invincible sword goddess. armed with the incredible... green destiny. be you li or southern crane... lower your head... and ask for mercy. i am the desert dragon. i leave no trace. today i fly over eu mei. tomorrow... i will kick over wudan mountain!}
+<A>__{jen is in a frenzy, slashing and maiming as she speaks.}
+<L>__{interior star restaurant day}
+<A>__{yu and li are surrounded by the variously bandaged men who battled with jen.}
+<C>__{flying machete chang}
+<D>__{we politely asked for a friendly match, but she showed no respect, and attacked us. everyone came by to teach her a lesson.}
+<C>__{mi biao}
+<D>__{her sword was just too powerful.}
+<C>__{monk jing}
+<D>__{i've traveled everywhere, but never met anyone so uncivilized.}
+<C>__{shining phoenix mountain god}
+<P>__{(heavily bandaged)}
+<D>__{she kept accusing me of being gou jun pei's brother. who is this gou, anyway?}
+<C>__{yu}
+<D>__{her husband.}
+<A>__{the men all nod their heads.}
+<L>__{exterior outside hwai an day}
+<A>__{li and yu ride together.}
+<C>__{li}
+<P>__{(to yu)}
+<D>__{we're close to your headquarters. go home and check in.}
+<C>__{yu}
+<D>__{what about you?}
+<C>__{li}
+<D>__{i will look around and catch up later.}
+<C>__{yu}
+<D>__{not a bad idea. tonight we'll get a good night's sleep at headquarters.}
+<A>__{yu takes a fork off the road. thunder can be heard in the darkening sky.}
+<L>__{exterior sun compound day}
+<A>__{a group of security men are practicing kung fu in the front yard of sun security. they stop when yu enters.}
+<C>__{security man a}
+<D>__{mistress, you're back.}
+<C>__{yu}
+<D>__{it's you! how's everything here?}
+<C>__{captain}
+<D>__{fine. you've been gone a while.}
+<C>__{yu}
+<D>__{yes, and i leave again tomorrow. your wife was due?}
+<C>__{ah wai}
+<D>__{yeah, a baby girl.}
+<C>__{yu}
+<D>__{good!}
+<C>__{ah wai}
+<D>__{i will be happy if she's half as strong as you.}
+<C>__{yu}
+<D>__{mrs. wu...}
+<C>__{aunt wu}
+<D>__{you're back!}
+<C>__{yu}
+<D>__{how's the arm? still sore?}
+<C>__{aunt wu}
+<D>__{much better. you've been gone so long.}
+<C>__{yu}
+<D>__{li mu bai is coming to stay the night.}
+<C>__{aunt wu}
+<P>__{(excited)}
+<D>__{i will go and make up his room!}
+<A>__{aunt wu hustles out. yu goes into her own room.}
+<L>__{interior hall of ancestral worship}
+<A>__{yu lights incense for her former fiance meng. hearing something, she turns to see a dishevelled jen standing outside downstairs.}
+<C>__{jen}
+<D>__{sister shu lien...}
+<L>__{interior yu's room day}
+<A>__{yu eases her guard, then opens a drawer, and takes out some clothes. jen, wearing just white underclothing, sets herself on the edge of yu's bed. yu brings over the clothes.}
+<C>__{yu}
+<D>__{here you must be in proper attire.}
+<C>__{jen}
+<D>__{i'm just borrowing some clean clothes. i'm not staying.}
+<C>__{yu}
+<D>__{i will give them to you.}
+<C>__{jen}
+<D>__{i was just passing by and wondered how you were.}
+<A>__{jen tries to hide her anxiety but finally breaks down on yu's shoulder in tears.}
+<C>__{jen}
+<D>__{you, sister...}
+<C>__{yu}
+<D>__{look at the trouble you've caused. now you know what giang hu life is really like. if you think of me as your sister, let me give you some sisterly advice. you can run from marriage, but not your parents.}
+<C>__{jen}
+<D>__{they forced me to marry!}
+<C>__{yu}
+<D>__{go back to them first. then you can decide about lo.}
+<C>__{jen}
+<D>__{you know about lo?}
+<C>__{yu}
+<D>__{he really loves you. come back to peking with me. we'll find a solution.}
+<C>__{jen}
+<D>__{where is he now?}
+<C>__{yu}
+<D>__{li mu bai has made arrangements. he sent him to wudan mountain.}
+<C>__{jen}
+<D>__{you're working together to set me up! i'm leaving!}
+<C>__{yu}
+<D>__{how dare you accuse us? i always knew you had stolen the sword! i've done nothing but protect you and your family. and you're repaid me with nothing but contempt. li mu bai himself spared you, and all you do is insult him. we wanted some peace and you've ruined it all! you're no sister of mine!}
+<C>__{jen}
+<D>__{what do i care? you were never a real friend anyway. but i wonder, how long could you last as my enemy?}
+<A>__{jen gets up to leave. yu intercepts her.}
+<C>__{yu}
+<D>__{put the sword down!}
+<A>__{jen jumps out.}
+<L>__{interior yuan courtyard day}
+<A>__{jen soars out to the front courtyard where the guards are still practicing. they raise their weapons at the sight of an intruder.}
+<C>__{yu}
+<P>__{(calling out)}
+<D>__{jen!}
+<A>__{jen greets yu with the green destiny.}
+<C>__{yu}
+<D>__{everyone out. shut the doors.}
+<A>__{the men leave.}
+<C>__{yu}
+<D>__{fine... the friendship is over.}
+<A>__{yu scoops up a weapon from one of many lying around and begins her battle with jen. yu uses every weapon that's available against jen but none are any match for the green destiny. after slicing through another set of yu's weapons, jen looks admiringly at the green destiny in her hands.}
+<C>__{yu}
+<D>__{don't touch it! that's li mu bai's sword.}
+<C>__{jen}
+<D>__{come and get it if you can.}
+<C>__{yu}
+<D>__{without the green destiny, you are nothing.}
+<C>__{jen}
+<D>__{don't be a sore loser. go ahead. take your pick. i will wait. go ahead.}
+<A>__{yu picks up a huge broad sword and attacks. just as the green destiny slices it in half, yu holds the broken blade at jen's neck. she pauses before hurting jen, then pulls back.}
+<C>__{yu}
+<D>__{give me the sword.}
+<A>__{jen, taking advantage of yu's trust, slices her arm.}
+<C>__{jen}
+<D>__{take it!}
+<A>__{yu, her shoulder bleeding, falls back as li mu bai jumps in.}
+<C>__{li}
+<P>__{(enraged)}
+<D>__{stop it! you don't deserve the green destiny.}
+<C>__{jen}
+<D>__{not another lecture! on guard!}
+<C>__{li}
+<D>__{let's end this here.}
+<C>__{jen}
+<D>__{only the sword will settle this.}
+<A>__{jen soars up to the rooftop, with li right on her tail.}
+<L>__{exterior lake day}
+<A>__{jen floats over the lake, li close behind.}
+<L>__{exterior bamboo forest day}
+<A>__{jen runs into a sea of bamboo. she appears to have lost li but is not slowing down. her white clothes are now stained with blood and mud. the wind had picked up and every breeze sounds like an air attack by li. the two leap onto the tips of the bamboo trees and begin their dances and dodges. they glance off bamboos and each other while staying afloat. finally jen lands on the same stick of bamboo as li. the two hold their positions for a while, as the bamboo bends.}
+<C>__{li}
+<D>__{i only let you go because i wanted to see the real you.}
+<A>__{jen tries to shake li off the bamboo but li recovers nicely.}
+<C>__{jen}
+<D>__{what do you know about a true heart?}
+<A>__{li suddenly leaps off the bamboo tree. the bamboo straightens up and throws jen toward the ground. jen quickly pulls herself up and charges at li. jen chases after li, into a clearing, out of the bamboo forest.}
+<L>__{exterior river day}
+<A>__{jen finally catches up to li, who is standing on a rock about a few feet wide amid the rapids. jen vaults onto the rock and scuffles with li. jen loses her balance.}
+<C>__{jen}
+<D>__{what do you want?}
+<C>__{li}
+<D>__{what i've always wanted, to teach you.}
+<C>__{jen}
+<D>__{all right. if you can take back the sword in three moves, i will go with you.}
+<A>__{li takes the sword back.}
+<C>__{jen}
+<D>__{give it back!}
+<C>__{li}
+<D>__{kneel!}
+<C>__{jen}
+<D>__{never!}
+<C>__{li}
+<D>__{then you have no use for the sword.}
+<A>__{li throws the sword into the rapids. jen dives in to retrieve it. he follows jen downstream by hopping from one rock to another. jen recovers the sword but is herself drowning. suddenly jade fox swings into the rapids and fishes jen out. jade fox carries the unconscious jen away. li gives chase, but loses them.}
+<L>__{interior abandoned factory day}
+<A>__{it's raining. inside an old factory, fox heats some medicine paste and then dips a needle in the paste. she burns the needle point, causing a blue smoke. she lights some incense and puts it in a burner near jen, who is barely conscious.}
+<C>__{fox}
+<D>__{sooner or later, they'd drag you back to peking. your parents will never accept you again. but why go home? we've gone this far, we won't stop now. you'll always be my lady. at last, we'll be our own masters. we'll be happy. that's the most important thing. all we have left is each other, right? lie down and rest.}
+<A>__{jen is too weak to respond. fox leaves jen clutching the green destiny.}
+<L>__{exterior abandoned factory day}
+<A>__{fox scurries ahead in the rain. her eyes catch something, but she keeps moving.}
+<L>__{interior yuan compound day}
+<A>__{aunt wu finishes bandaging yu.}
+<C>__{aunt wu}
+<D>__{she's crazy. you should have killed her.}
+<C>__{yu}
+<D>__{i didn't have the heart.}
+<C>__{aunt wu}
+<D>__{well, li mu bai can do it.}
+<A>__{yu senses movement at the window. looking out, she sees jade fox in the distance.}
+<L>__{interior abandoned factory day}
+<A>__{jen wakes up, flushed from fever. she takes a sip from a cup of water it's empty. she tosses the cup, gets up, and walks into the rain.}
+<L>__{exterior abandoned factory day}
+<A>__{jen walks out, raises her face into the rain, and drinks the raindrops. thirst quenched, she turns around and finds li standing there. jen limps towards him while mumbling.}
+<C>__{jen}
+<D>__{is it me or the sword you want?}
+<A>__{jen falls into li, who checks her pulse and looks at her eyes.}
+<C>__{li}
+<D>__{you've been drugged!}
+<A>__{li carries her inside, kicking away the incense burner.}
+<L>__{interior abandoned factory day}
+<A>__{li lays his hands on jen's back; she slowly comes to.}
+<C>__{li}
+<D>__{where is jade fox?}
+<A>__{jen gestures that she doesn't know. yu and bo enter. yu looks at jen.}
+<C>__{yu}
+<D>__{what happened?}
+<C>__{li}
+<D>__{jade fox drugged her. how did you get here?}
+<C>__{yu}
+<D>__{we followed jade fox.}
+<A>__{instantaneously, a flurry of darts flies directly in jen's direction. li and yu swipe miraculously at them all, sending them flinging hither and thither. fox shows herself. li attacks her. she falls back, bleeding to death.}
+<C>__{li}
+<D>__{and so you die.}
+<A>__{li touches his neck.}
+<C>__{fox}
+<D>__{and so shall you!}
+<A>__{li pulls a single needle from his neck.}
+<C>__{yu}
+<D>__{a poisoned needle!}
+<C>__{fox}
+<D>__{you deserve to die, but the life i was hoping to take... was jen's. ten years i devoted to you. but you deceived me! you hid the manual's true meaning. i never improved... but your progress was limitless! you know what poison is? an eight year old girl, full of deceit. that's poison! jen! my only family... my only enemy...}
+<A>__{jade fox dies.}
+<C>__{yu}
+<D>__{you can't die! tell us what poison you used! you can't die! tell us the antidote! you can't let li mu bai die!}
+<C>__{jen}
+<D>__{she used purple yin... purple yin poison. it goes straight to the heart.}
+<C>__{li}
+<D>__{my blood will soon reverse its flow. it's the same poison she used to kill my master. there is no antidote.}
+<C>__{yu}
+<D>__{that can't be! everything has an antithesis! why not this?}
+<C>__{jen}
+<D>__{the antidote exists. she taught it to me. the formula is simple, but it takes time to prepare. trust me. as you have helped me, let me help you.}
+<C>__{li}
+<D>__{all right. hurry. i will hold on as long as i can.}
+<C>__{yu}
+<P>__{(takes the comb from her hair)}
+<D>__{take my horse and go to the compound. give this to mrs. wu. she'll help you. hurry!}
+<C>__{jen}
+<D>__{spare your energy. i will be back!}
+<L>__{exterior abandoned factory night}
+<A>__{bo is burying fox in the rain.}
+<L>__{exterior yuan compound night}
+<A>__{the guards surround jen. she pushes past them.}
+<C>__{jen}
+<D>__{where is mrs. wu?}
+<A>__{aunt wu comes running out.}
+<C>__{aunt wu}
+<D>__{stop it!}
+<A>__{jen pulls out yu's comb.}
+<C>__{jen}
+<D>__{shu lien told me to show you this.}
+<C>__{aunt wu}
+<D>__{let her in.}
+<L>__{interior abandoned factory night}
+<A>__{yu sits across from li, whose pose is almost meditational, eerily calm.}
+<C>__{yu}
+<D>__{mu bai, hold on. give me some hope...}
+<C>__{li}
+<D>__{shu lien...}
+<C>__{yu}
+<D>__{save your strength.}
+<C>__{li}
+<D>__{my life is departing. i've only one breath left.}
+<C>__{yu}
+<D>__{use it to meditate. free yourself from this world as you have been taught. let your soul rise to eternity with your last breath. do not waste it... for me.}
+<C>__{li}
+<D>__{i've already wasted my whole life. i want to tell you with my last breath... i have always loved you. i would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you. because of your love... i will never be a lonely spirit.}
+<A>__{yu cries. she kisses him lightly. he closes his eyes.}
+<L>__{exterior path day}
+<A>__{as the sun rises, jen rides speedily, clutching the medicine in her hands.}
+<L>__{interior abandoned factory day}
+<A>__{li is in yu's arms. they're holding hands. the sun shines in. yu slowly releases li's stiff fingers he is dead. jen is at the door.}
+<C>__{jen}
+<D>__{he's gone?}
+<A>__{bo peeks over jen's shoulder. yu rises and picks up green destiny. jen kneels. yu raises the sword, but doesn't kill her.}
+<C>__{yu}
+<D>__{bo... please take this sword back to sir te.}
+<A>__{he takes the sword from her.}
+<C>__{yu}
+<P>__{(to jen)}
+<D>__{now you must go to wudan mountain. lo awaits you there. promise me one thing, whatever path you take in this life... be true to yourself.}
+<L>__{exterior wu tan temple day}
+<A>__{jen climbs up toward the temple, finally reaching the temple gate, and sees lo standing there. he runs to her. she greets him.}
+<L>__{interior wu tan temple magic}
+<A>__{jen and lo make love.}
+<L>__{interior wu tan temple day}
+<A>__{lo wakes up to find the jade comb on the pillow beside him, jen gone.}
+<L>__{exterior wu tan mountain day}
+<A>__{lo catches up to jen, who stands on a bridge. the gorges below are shrouded in clouds. she looks back at him.}
+<C>__{jen}
+<D>__{do you remember the legend of the young man?}
+<C>__{lo}
+<D>__{"a faithful heart makes wishes come true."}
+<C>__{jen}
+<D>__{make a wish, lo.}
+<A>__{lo pauses.}
+<C>__{lo}
+<P>__{(closing his eyes)}
+<D>__{to be back in the desert, together again.}
+<A>__{jen smiles, turns, and leaps into the clouds. they seem to catch her gently, before she disappears into them. lo remains standing, a smile on his face, tears rolling down his cheeks.}
+<B>__{the end.}

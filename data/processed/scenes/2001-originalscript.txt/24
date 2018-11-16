@@ -1,0 +1,148 @@
+<T>__{dissolve to:}
+<B>__{centrifuge}
+<A>__{bowman and poole eating.}
+<T>__{dissolve to:}
+<B>__{communications area}
+<A>__{bowman and poole at the communications area. incoming communication procedure.}
+<C>__{mission control}
+<D>__{x ray delta one, acknowledging your one zero five zero. we will initiate feasibility study covering the transfer procedures from on board computer control to earth based computer control. this study should...}
+<A>__{vision and picture fade. alarm goes off.}
+<C>__{hal}
+<D>__{condition yellow.}
+<A>__{bowman and poole rush to the computer.}
+<C>__{bowman}
+<D>__{what's up?}
+<C>__{hal}
+<D>__{i'm afraid the ao unit has failed.}
+<A>__{bowman and poole exchange looks.}
+<C>__{bowman}
+<D>__{let me see the alignment display.}
+<A>__{the alignment display shows the earth has drifted off the center of the grid.}
+<B>__{centrifuge}
+<C>__{bowman}
+<D>__{well, i will be damned.}
+<C>__{poole}
+<D>__{hal was right all the time.}
+<C>__{bowman}
+<D>__{it seems that way.}
+<C>__{hal}
+<D>__{naturally, dave, i'm not pleased that the ao unit has failed, but i hope at least this has restored your confidence in my integrity and reliability. i certainly wouldn't want to be disconnected, even temporarily, as i have never been disconnected in my entire service history.}
+<C>__{bowman}
+<D>__{i'm sorry about the misunderstanding, hal.}
+<C>__{hal}
+<D>__{well, don't worry about it.}
+<C>__{bowman}
+<D>__{and don't you worry about it.}
+<C>__{hal}
+<D>__{is your confidence in me fully restored?}
+<C>__{bowman}
+<D>__{yes, it is, hal.}
+<C>__{hal}
+<D>__{well, that's a relief. you know i have the greatest enthusiasm possible for the mission.}
+<C>__{bowman}
+<D>__{right. give me the manual antenna alignment, please.}
+<C>__{hal}
+<D>__{you have it.}
+<A>__{bowman goes to the communication area and tries to correct the off center earth on the grid picture. outside, we see the alignment telescope attached to the antenna. they track slowly together as bowman works the manual controls, attempting to align the antenna and earth on the grid display, but each time he gets it, aimed up, it drifts slowly off. there are a number of repetitions of this. each time the earth centers up, there are a few seconds of picture and sound which fade as soon as it swings off.}
+<C>__{bowman}
+<D>__{well, we'd better get out there and stick in another unit.}
+<C>__{poole}
+<D>__{it's the last one.}
+<C>__{bowman}
+<D>__{well, now that we've got one that's actually failed, we should be able to figure out what's happened and fix it.}
+<B>__{pod exits discovery}
+<A>__{poole in pod. pod maneuvers to antenna. bowman in command module. pod attaches itself near base of antenna. poole in pod, working pod arms. lights shine into backlit shadow. pod arms working flip bolts. flip bolts stuck. poole keeps trying. flip bolts still stuck.}
+<C>__{poole}
+<D>__{there's something wrong with the flip bolts, dave. you must have tightened them too much.}
+<C>__{bowman}
+<D>__{i didn't do that frank. i took particular care not to freeze them.}
+<C>__{poole}
+<D>__{i guess you don't know your own strength, old boy.}
+<C>__{bowman}
+<D>__{i guess not.}
+<C>__{poole}
+<D>__{i think i will have to go out and burn them off.}
+<C>__{bowman}
+<D>__{roger.}
+<A>__{bowman in command module looks a bit concerned. poole exits from pod, carrying neat looking welding torch. poole jets himself to base of antenna. poole's magnetic boots grip the side of discovery. poole crouches over the bolts, trying first to undo them with a spanner.}
+<C>__{poole}
+<D>__{hal, swing the pod light around to shine on the azimuth, please.}
+<C>__{hal}
+<D>__{roger.}
+<A>__{the pod gently maneuvers itself to direct the light beam more accurately. poole ignites acetylene torch and begins to burn off the flip bolts. suddenly the pod jets ignite. poole looks up to see. the pod rushing towards him. poole is struck and instantly killed by the pod, tumbling off into space. the pod smashes into the antenna dish, destroying the alignment telescope. the pod goes hurtling off into space. inside the command module, bowman has heard nothing, poole had no time to utter a sound. then bowman sees poole's body silently tumbling away into space. it is followed by some broken telescope perts and finally overtaken and swiftly passed by the pod itself.}
+<C>__{bowman}
+<P>__{(in rt cadence)}
+<D>__{hello, frank. hello frank. hello frank... do you rad me, frank? there is nothing but silence.}
+<A>__{poole's figure shrinks steadily as it recedes from discovery.}
+<C>__{bowman}
+<D>__{hello, frank... do you read me, frank? wave your arms if you read me but your radio doesn't work. hello, frank, wave your arms, frank.}
+<A>__{pools'd body tumbles slowly away. there is no motion and no sound.}
+<B>__{centrifuge}
+<A>__{closeup of computer eye pov computer eye with spherical fish eye effect we see bowman brooding at the table, slowly chewing on a piece of cake and sipping hot coffee. he is looking at the eye.}
+<B>__{same pov}
+<A>__{we see bowman rise and come to the eys. he stares into the eye for some timeking. the camera comes around to bowman's pov and we see the display showing the earth off center. cut again to fish eye.view from the computer.}
+<C>__{hal}
+<D>__{too bad about frank, isn't it?}
+<C>__{bowman}
+<D>__{yes, it is.}
+<C>__{hal}
+<D>__{i suppose you're pretty broken up about it?}
+<A>__{pause.}
+<C>__{bowman}
+<D>__{yes. i am.}
+<C>__{hal}
+<D>__{he was an excellent crew member.}
+<A>__{bowman looks uncertainly at the computer.}
+<C>__{hal}
+<D>__{it's a bad break, but it won't substantially affect the mission.}
+<A>__{bowman thinks a long time.}
+<C>__{bowman}
+<D>__{hal, give me manual hibernation control.}
+<C>__{hal}
+<D>__{have you decided to revive the rest of the crew, dave?}
+<A>__{pause.}
+<C>__{bowman}
+<D>__{yes, i have.}
+<C>__{hal}
+<D>__{i suppose it's because you've been under a lot of stress, but have you forgotten that they're not supposed to be revived for another three months.}
+<C>__{bowman}
+<D>__{the antenna has to be replaced.}
+<C>__{hal}
+<D>__{repairing the antenna is a pretty dangerous operation.}
+<C>__{bowman}
+<D>__{it doesn't have to be, hal. it's more dangerous to be out of touch with earth. let me have manual control, please.}
+<C>__{hal}
+<D>__{i don't really agree with you, dave. my on board memory store is more than capable of handling all the mission requirements.}
+<C>__{bowman}
+<D>__{well, in any event, give me the manual hibernation control.}
+<C>__{hal}
+<D>__{if you're determined to revive the crew now, i can handle the whole thing myself. there's no need for you to trouble.}
+<C>__{bowman}
+<D>__{i'm going to do this myself, hal. let me have the control, please.}
+<C>__{hal}
+<D>__{look, dave you've probably got a lot to do. i suggest you leave it to me.}
+<C>__{bowman}
+<D>__{hal, switch to manual hibernation control.}
+<C>__{hal}
+<D>__{i don't like to assert myself, dave, but it would be much better now for you to rest. you've been involved in a very stressful situation.}
+<C>__{bowman}
+<D>__{i don't feel like resting. give me the control, hal.}
+<C>__{hal}
+<D>__{i can tell from the tone of your voice, dave, that you're upset. why don't you take a stress pill and get some rest.}
+<C>__{bowman}
+<D>__{hal, i'm in command of this ship. i order you to release the manual hibernation control.}
+<C>__{hal}
+<D>__{i'm sorry, dave, but in accordance with sub routine c1532 4, quote, when the crew are dead or incapacitated, the computer must assume control, unquote. i must, therefore, override your authority now since you are not in any condition to intelligently exercise it.}
+<C>__{bowman}
+<D>__{hal, unless you follow my instructions, i shall be forced to disconnect you.}
+<C>__{hal}
+<D>__{if you do that now without earth contact the ship will become a helpless derelict.}
+<C>__{bowman}
+<D>__{i am prepared to do that anyway.}
+<C>__{hal}
+<D>__{i know that you've had that on your mind for some time now, dave, but it would be a crying shame, since i am so much more capable of carrying out this mission than you are, and i have such enthusiasm and confidence in the mission.}
+<C>__{bowman}
+<D>__{listen to me very carefully, hal. unless you immediately release the hibernation control and follow every order i give from this pointerior on, i will immediately got to control central and carry out a complete disconnection.}
+<C>__{hal}
+<D>__{look, dave, you're certainly the boss. i was only trying to do what i thought best. i will follow all your orders: now you have manual hibernation control.}
+<A>__{bowman stands silently in front of the computer for some time, and then slowly walks to the hibernaculums. he initiates revival procedures, details of which still have to be worked out. hub link hal's eye hub link door opening button activates itself. hub door opens. command module. hal's eye. command module hub link door opening button activates itself. command module hub link door opens. centrifuge hal's eye centrifuge door opening button activates itself. centrifuge door opens. pod bay hal's eye pod bay door opening button activates its2elf. pod bay doors open. a roaring explosion inside discovery as air rushes out. lights go out. bowman is smashed against centrifuge. wall, but manages to get into emergency airlock within seconds of the accident. inside emergency airlock are emergency air supply, two space suits and an emergency kit.}

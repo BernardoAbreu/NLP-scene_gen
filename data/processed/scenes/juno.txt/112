@@ -1,0 +1,21 @@
+<L>__{interior hospital maternity ward day}
+<A>__{a nurse reaches into one of the maternity ward bassinets and gently lifts up a swaddled newborn baby. the nurse turns and addresses an unseen spectator.}
+<C>__{nurse}
+<D>__{would you like to meet your son?}
+<A>__{pull back to reveal she's speaking to vanessa, who stands, paralyzed, several feet away.}
+<C>__{vanessa}
+<D>__{i have a son?}
+<C>__{nurse}
+<P>__{(amused)}
+<D>__{you are the adoptive mother?}
+<C>__{vanessa}
+<D>__{i have a son.}
+<C>__{nurse}
+<D>__{healthy kid, too. didn't waste any time getting out.}
+<A>__{vanessa reaches out for the baby and gingerly accepts him in her eyes. she spends a few moments just looking at him. she feels someone watching her, then looks up to see a bren leaning against the doorway. vanessa blinks away her tears self consciously.}
+<C>__{vanessa}
+<D>__{how do i look?}
+<C>__{bren}
+<P>__{(gently)}
+<D>__{like a mom. scared shitless.}
+<A>__{vanessa laughs.}

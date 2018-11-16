@@ -1,0 +1,29 @@
+<L>__{int control room night}
+<A>__{the dark room is lit with two outdoor torches. light flickering on their faces, arnold and wu stare at the console screen.}
+<C>__{wu}
+<D>__{why?}
+<C>__{arnold}
+<D>__{because nedry messed with the code. that's why i'm checking it.}
+<C>__{wu}
+<D>__{but that could take weeks. what would be faster? try keychecks.}
+<A>__{arnold snaps his fingers, grabs wu,}
+<C>__{arnold}
+<D>__{that's true. keychecks will give me a record of every button nedry pushed.}
+<A>__{with a rapid series of keys, arnold initiates "keystrokes". the computer displays a short series of commands. arnold runs his finger down the screen.}
+<C>__{arnold}
+<D>__{jesus, that's all he did all afternoon? he was just dicking around, maybe waiting to get his nerve up.}
+<A>__{wu points to a line. it reads: whte rbt.obj}
+<C>__{wu}
+<D>__{what's that?}
+<C>__{arnold}
+<D>__{some sort of object. let's see if we can trace it.}
+<A>__{arnold types find whte rbt.obj. nothing. he tries define whte rbt.obj. still nothing. list whte rbt.obj. the screen fills with data. each line defines another security system that has been shut off: security}
+<B>__{perim}
+<A>__{eter fences off security interior fences off security laboratory doors off , etc.}
+<C>__{wu}
+<D>__{what's it mean?}
+<C>__{arnold}
+<D>__{it wasn't a bug. it was a trap door that fat bastard left for himself. when he hit whte rbt. obj, it initiates a set of commands that turned the whole goddamn park off. hammond was right about him.}
+<C>__{wu}
+<D>__{if i did that i'd leave a way to turn it back on. in case i had to. i'm sure nedry did. you're find it.}
+<A>__{arnold nods grimly.}

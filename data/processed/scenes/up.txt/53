@@ -1,0 +1,85 @@
+<L>__{interior carl's house, front hall continuous}
+<A>__{carl listens through the door. is the kid gone? he opens it.}
+<C>__{russell}
+<D>__{"good afternoon. my name is russell."}
+<C>__{carl}
+<D>__{uh... kid...}
+<C>__{russell}
+<D>__{"and i am a wilderness explorer in tribe 54, sweatlodge 12."}
+<C>__{carl}
+<D>__{kid. kid!!}
+<A>__{russell stops... but goes back to reading.}
+<C>__{russell}
+<D>__{"are you in need of any assistance today sir?"}
+<C>__{carl}
+<D>__{thank you, but i don't need any help!}
+<A>__{carl swings the door shut, but a small camping boot stops it.}
+<C>__{russell}
+<D>__{ow.}
+<A>__{carl opens the door. russell stands at attention.}
+<C>__{carl}
+<P>__{(resigned)}
+<D>__{proceed.}
+<C>__{russell}
+<D>__{"good afternoon. my "}
+<C>__{carl}
+<D>__{but skip to the end!}
+<A>__{russell points to his sash. it is covered with badges except for one glaringly empty space.}
+<C>__{russell}
+<D>__{see these? these are my wilderness explorer badges. you may notice one is missing. it's my assisting the elderly badge. if i get it i will become a senior wilderness explorer!}
+<A>__{russell makes the explorer sign: his thumbs form a "w", his fingers the "wings" of a bird, then the "claws" of a bear.}
+<C>__{russell}
+<D>__{"the wilderness must be explored! caw caw! raaar!"}
+<A>__{this sets carl's hearing aid off. carl grumbles in pain.}
+<C>__{russell}
+<D>__{it's gonna be great! there's a big ceremony, and all the dads come, and they pin on our badges...}
+<C>__{carl}
+<D>__{so you want to assist an old person?}
+<C>__{russell}
+<D>__{yep! then i will be a senior wilderness explorer!}
+<A>__{carl leans in close to russell.}
+<C>__{carl}
+<P>__{(conspiratorially)}
+<D>__{you ever heard of a snipe?}
+<C>__{russell}
+<D>__{snipe?}
+<C>__{carl}
+<D>__{bird. beady eyes. every night it sneaks in my yard and gobbles my poor azaleas. i'm elderly and infirm. i can't catch it. if only someone could help me...}
+<C>__{russell}
+<D>__{me! me! i will do it!}
+<C>__{carl}
+<D>__{oh, i don't know, it's awfully crafty. you'd have to clap your hands three times to lure it in.}
+<C>__{russell}
+<D>__{i will find it, mr. fredricksen!}
+<C>__{carl}
+<D>__{i think its burrow is two blocks down. if you go past }
+<C>__{russell}
+<D>__{two blocks down! got it!}
+<A>__{russell runs down the block clapping and calling.}
+<C>__{russell}
+<D>__{sniiiipe! here snipey snipey...}
+<C>__{carl}
+<P>__{(calls after russell)}
+<D>__{bring it back here when you find it!}
+<A>__{carl rolls his eyes and begins to close his door. he stops short. a large truck is backing up, getting dangerously close to ellie's mailbox.}
+<C>__{construction worker steve}
+<D>__{okay, keep her coming... and... stop. stop! stop!!}
+<A>__{the truck hits ellie's mailbox, crushing the front. carl is shocked. he runs to the box.}
+<C>__{carl}
+<D>__{what? hey! hey you! what do you think you're doing?}
+<C>__{construction worker steve}
+<D>__{i am so sorry, sir...}
+<A>__{the worker bangs on the mailbox, trying to fix it.}
+<C>__{carl}
+<D>__{don't touch that!}
+<C>__{construction worker steve}
+<D>__{no no, let me take care of that for you.}
+<A>__{carl grabs the mailbox, trying to wrestle it from the worker.}
+<C>__{carl}
+<P>__{(struggling)}
+<D>__{get away from our mailbox!}
+<C>__{construction worker steve}
+<D>__{hey sir, i...}
+<C>__{carl}
+<D>__{i don't want you to touch it!}
+<A>__{carl hits the worker with his cane. he falls to the sidewalk. the worker rubs his head. blood. carl backs up toward his door, cradling his mailbox. what has he done? passerbys stare. workers gather, as does the real estate developer. carl backs into his house.}

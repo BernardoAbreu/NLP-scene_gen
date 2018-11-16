@@ -1,0 +1,27 @@
+<L>__{interior brian's living room night}
+<A>__{roberta lies awake on the futon, heartbroken.}
+<L>__{interior brian's bedroom night}
+<A>__{roberta stands and watches nick and lexi sleep. she lies down beside them and closes her eyes.}
+<L>__{interior school hallway day}
+<A>__{roberta walks through crowds of kids towards janet who's in the middle of confronting a boy student. janet holds a fifty dollar bill. roberta hangs back and waits for a chance to speak.}
+<C>__{boy}
+<D>__{my mother gave it to me.}
+<C>__{janet}
+<D>__{why would she give you fifty dollars?}
+<C>__{boy}
+<D>__{to buy breakfast.}
+<A>__{janet gives him a stern look.}
+<C>__{janet}
+<D>__{do you know how hard your mother works? do you think it's right for you steal from her?}
+<C>__{boy}
+<D>__{i didn't!}
+<C>__{janet}
+<D>__{well let's go call her right now and ask her.}
+<A>__{as janet turns to walk off, roberta crosses to her.}
+<C>__{roberta}
+<D>__{i need to speak to you. it's important.}
+<C>__{janet}
+<D>__{it'll have to wait.}
+<P>__{(to the boy)}
+<D>__{come on. in my office.}
+<A>__{roberta watches as janet dashes off with the boy in tow.}

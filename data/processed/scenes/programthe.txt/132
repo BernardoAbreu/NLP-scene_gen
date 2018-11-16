@@ -1,0 +1,31 @@
+<L>__{interior camille's room day}
+<C>__{nurse }
+<D>__{i'm sorry, he doesn't wish to speak to you right now.}
+<A>__{crushed and angry, camille hangs up.}
+<L>__{interior athletic dorm hall day}
+<A>__{bud lite is watching television. louanne enters on her way to bobby collins' room, carrying an armload of neatly pressed laundry. but lite gets up to bar her way.}
+<C>__{bud}
+<D>__{hey, louanne, how ya' doin?}
+<C>__{louanne}
+<D>__{fine, bud, ya know. goin to j.c., hopin' to get back in here next year. just came by to give bobby some laundry i did for him.}
+<C>__{bud}
+<D>__{you two seein' each other again?}
+<C>__{louanne}
+<D>__{yeh, he was even talking about us gettin' a place off campus together, until he got reinstated. i don't know how i woulda told my dad.}
+<A>__{bud just nods blankly. louanne starts to head for bobby's room.}
+<C>__{bud}
+<D>__{ah, louanne...}
+<P>__{(pained to say it)}
+<D>__{i wouldn't go in there right now.}
+<C>__{louanne}
+<D>__{why not?}
+<A>__{bud doesn't have the heart to tell her. she finally realizes bobby's with another girl.}
+<C>__{louanne}
+<D>__{ah. guess i'm pretty stupid when it comes to men. i never learn, do i?}
+<C>__{bud}
+<D>__{i think maybe men are just stupid when it comes to you. if you ever feel like, ya know, just talkin' sometime, gettin' a beer let me know. my schedule's pretty open.}
+<C>__{louanne}
+<D>__{thanks, bud}
+<P>__{(handing him the clothes)}
+<D>__{give him these, will ya?}
+<A>__{bud nods. louanne, fighting back tears, walks back down the hall with as much dignity as she can muster.}

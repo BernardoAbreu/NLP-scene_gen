@@ -1,0 +1,90 @@
+<L>__{interior brokerage house conference room day}
+<A>__{edward stands at the window looking out. there is something about his somber demeanor that both reflects the look we've just seen on vivian and suggests the way we saw him at the top of the story. jake enters, a pile of papers under his arm. he begins laying them out on the conference table.}
+<C>__{jake}
+<D>__{congratulations, sir.}
+<C>__{edward}
+<D>__{what?}
+<C>__{jake}
+<D>__{mr. kross is just getting off the phone with his stock broker. it's finished. you've won.}
+<A>__{edward says nothing.}
+<C>__{jake}
+<D>__{who are you going after next, sir?}
+<C>__{edward}
+<D>__{who indeed...}
+<A>__{he turns as stuckey, james and david kross, and vance enter the room. they surround a conference table. kross sits, the papers laid out in front of him. stuckey hands kross a pen. a secretary lays out finger food. they wait for her to leave before they speak.}
+<C>__{stuckey}
+<D>__{if we can get these letters of intent out of the way now... mr. harris and i would like to ask you some questions about your company.}
+<C>__{david}
+<D>__{dad, excuse me, but that's inappropriate. you're under no obligation to answer any questions at all.}
+<C>__{kross}
+<D>__{could we at least wait till after the filing period?}
+<A>__{stuckey glances to edward for help. edward is silent; indeed it's as if something is twisting inside of him. stuckey plunges ahead.}
+<C>__{stuckey}
+<D>__{mr. harris is preparing a bid based on our speculation of the corporation's net worth. the price he ultimately pays for your father's stock will be based on that bid. the more we know, the higher our bid can be.}
+<C>__{kross}
+<D>__{it's in my best interest to cooperate, david.}
+<C>__{david}
+<D>__{if he throws himself on your sword, you promise to take care of him and his family, huh?}
+<A>__{david stares at him.}
+<C>__{stuckey}
+<D>__{that's unfair!}
+<C>__{david}
+<D>__{you bed it is.}
+<P>__{(to edward)}
+<D>__{you're everything he said you were.}
+<P>__{(to his father)}
+<D>__{do what you have to do, dad. just don't expect me to watch it.}
+<A>__{he exits. a moment. kross looks at edward with a resigned smile.}
+<C>__{kross}
+<D>__{he's young. he hasn't learned how to lose gracefully yet. i will sign your papers. and i will answer your questions. whatever you want.}
+<A>__{he sighs. he picks up the pen. he's about to sign.}
+<C>__{edward}
+<D>__{stop. for just a moment.}
+<P>__{(a moment)}
+<D>__{mr. kross, i'd like to ask you a few questions before you sign. you realize that you're a target. if you weren't mine, you'd be someone elses, correct?}
+<C>__{kross}
+<D>__{yes.}
+<C>__{edward}
+<D>__{if you had a... reprieve, what would do?}
+<C>__{stuckey}
+<P>__{(quickly)}
+<D>__{i don't think there's any sense in }
+<C>__{edward}
+<D>__{let him answer.}
+<C>__{kross}
+<D>__{i... i would take advantage of it.}
+<C>__{edward}
+<D>__{how?}
+<A>__{kross looks uncertain. he gropes for an answer.}
+<C>__{kross}
+<D>__{i... i don't know. there... there wasn't time...}
+<C>__{edward}
+<D>__{i suppose you'd find out soon enough that you have assets you presently don't seem aware of, wouldn't you? the waste processing licenses at that abandoned shipyard of yours, you'd certainly find out about that.}
+<A>__{surprise suddenly flares in stuckey's eyes.}
+<C>__{stuckey}
+<D>__{oh, my god... edward, no!}
+<C>__{edward}
+<D>__{i suppose you'd use them as collateral on new loans, wouldn't you?}
+<C>__{stuckey}
+<D>__{have you lost your mind?}
+<C>__{kross}
+<P>__{(to stuckey)}
+<D>__{quiet.}
+<P>__{(to edward)}
+<D>__{would i get the loans?}
+<C>__{edward}
+<D>__{this time i imagine you would, yes.}
+<P>__{(as if thinking about it)}
+<D>__{hmm...}
+<P>__{(a moment)}
+<D>__{with all this in mind, mr. kross, i can't logically make a formal bid on your company, can i?}
+<C>__{kross}
+<P>__{(a small smile)}
+<D>__{you'd be initiating a financial battle you'd ultimately lose, mr. harris.}
+<C>__{edward}
+<D>__{you're very right. i think the best thing we could all do is go home.}
+<C>__{stuckey}
+<D>__{what!?}
+<C>__{edward}
+<D>__{have a good day, gentlemen.}
+<A>__{he exits from the room. stuckey follows.}

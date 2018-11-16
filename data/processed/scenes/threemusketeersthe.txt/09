@@ -1,0 +1,56 @@
+<T>__{dissolve to:}
+<A>__{emblem of king's musketeers it fills the screen, serves as background for the main titles. as the final credit appears, and the music ends, the blade of a sword enters frame. it slides beneath the emblem, pries it off the wall. the emblem falls to the floor with an undignified thud. a fire blazes in a huge hearth behind it. include musketeers' headquarters a room in the musketeers headquarters. the fallen emblem is retrieved by jussac, an officer who wears the bright red tunic of the cardinal's guards.}
+<C>__{jussac}
+<D>__{what should i do with this?}
+<A>__{jussac offers the emblem to a tall, elegant wraith in black finery, a patch covers one eye. this is the count de rochefort, richelieu's right hand, one of the deadliest swordsmen in all of france.}
+<C>__{rochefort}
+<D>__{throw it on the fire with everything else.}
+<C>__{jussac}
+<D>__{but this is the emblem of the musketeers...}
+<C>__{rochefort}
+<D>__{the musketeers no longer exist. or haven't you heard?}
+<P>__{(cold command)}
+<D>__{throw it on the fire.}
+<A>__{jussac hastily adds the emblem to the fiery blaze, it is instantly consumed. rochefort watches it burn, then walks to a balcony overlooking a vast courtyard.}
+<B>__{include courtyard}
+<A>__{grim, funereal silence as a hundred musketeers remove their blue and gold tunics, drop them into a pile that already contains their swords and muskets. the musketeers remain stoic throughout, unwilling to reveal the depth of their despair. the latter is supervised by the cardinal's guards, who view their hated enemies' plight with satisfaction. this is a sad day for the musketeers, the end of an era. monsieur de treville forces a salute toward the captain of the cardinal's guards, hands over his own musket. treville is the respected leader of the musketeers. this is the saddest moment of all. rochefort watches from above, a cruel smile twists his lips. he steps to the railing, addresses the men below.}
+<C>__{rochefort}
+<D>__{musketeers...}
+<A>__{a hundred faces turn upward to regard him. and on each the same expression absolute loathing for the man in black. rochefort is not intimidated by this sea of contempt. he revels in it.}
+<C>__{rochefort}
+<D>__{by joint edict of his majesty king louis xiii and his eminence cardinal richelieu, the musketeers are officially disbanded. in preparation for the coming war with england, your ranks and commissions are hereby transferred to the infantry. you will be contacted and told where to report. until that time, you are instructed to return to your homes.}
+<C>__{de treville}
+<P>__{(shouting to rochefort)}
+<D>__{and who will protect the king?}
+<C>__{rochefort}
+<D>__{the cardinal's guards are more than capable of assuming that... responsibility.}
+<A>__{muttered curses and dissent throughout. rochefort raises his voice to be heard:}
+<C>__{rochefort}
+<D>__{you are hereby ordered to disperse. should even one of you resist... the entire corps will be arrested and imprisoned.}
+<P>__{(with pleasure and disdain)}
+<D>__{'all for one, and one for all.'}
+<A>__{as rochefort intended, the musketeers explode. but before they can attack the guards, de treville's commanding voice calls out above the clamor.}
+<C>__{de treville}
+<D>__{musketeers!}
+<A>__{and with that, the musketeers freeze. their eyes go to de treville. there is a moment of silence as de treville chooses his words carefully. even in defeat, de treville is stoic.}
+<C>__{de treville}
+<D>__{go to your homes. wait. our day will come again.}
+<A>__{de treville shoots a defiant look at rochefort who smiles in a patronizing manner. then, de treville leads his musketeers out of the courtyard.}
+<B>__{rochefort}
+<A>__{he returns to the adjoining room where jussac stands by. rochefort has enjoyed himself immensely. he goes to a mirror and preens, adjusting his eye patch to a more rakish angle. that's when he catches a glimpse of something behind him. something red. rochefort turns. a tall, powerfully built man stands in the shadows of the room, a spectre in red.}
+<C>__{rochefort}
+<D>__{your eminence.}
+<A>__{rochefort and jussac instantly fall to their knees. armand du pleiss the cardinal richelieu steps out of the darkness and into the light, his long crimson robes swirling about him like clouds of blood. his face is long, shrewd and intelligent. his eyes are penetrating. he smiles his crocodile smile. richelieu observes a duty roster on one of the walls. it contains the names of all the musketeers, past and present.}
+<C>__{richelieu}
+<D>__{have they all been accounted for?}
+<C>__{rochefort}
+<P>__{(hedging)}
+<D>__{all but... three.}
+<A>__{on richelieu's face, a flicker of irritation.}
+<C>__{richelieu}
+<D>__{three?}
+<C>__{jussac}
+<P>__{(speaking up)}
+<D>__{i sent a patrol to find them but it hasn't returned yet.}
+<C>__{richelieu}
+<D>__{i want those musketeers, not excuses. bring them in at once.}

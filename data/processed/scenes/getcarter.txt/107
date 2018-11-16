@@ -1,0 +1,20 @@
+<L>__{interior betting shop day}
+<A>__{carter closes the door. race results and odds are coming over the tannoy. he moves into the shop until he reaches albert swift. albert is making out a betting slip and doesn't see him.}
+<C>__{carter}
+<D>__{hello, albert.}
+<A>__{albert looks like he's going to be sick.}
+<C>__{albert}
+<D>__{hello, jack,}
+<P>__{(snivelling)}
+<D>__{i don't know anything, jack.}
+<C>__{carter}
+<D>__{yes, you do, albert. talk or i will kill you.}
+<C>__{albert}
+<D>__{i know. i know.}
+<A>__{carter sees a door at the back. there's a sign for the toilets.}
+<C>__{carter}
+<D>__{do you want to go to the toilet, albert?}
+<A>__{at first albert doesn't understand.}
+<C>__{carter}
+<D>__{do you want to go to the toilet, albert?}
+<A>__{this time it clicks. albert moves to the door and carter follows.}

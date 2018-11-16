@@ -1,0 +1,227 @@
+<L>__{exterior bungalow house adelaide drive}
+<A>__{gittes pulls up in mulwray's buick. he hurries to the front door, pounds on it. the chinese servant answers the door.}
+<C>__{chinese servant}
+<D>__{you wait.}
+<C>__{gittes}
+<P>__{(short sentence in chinese)}
+<D>__{you wait.}
+<A>__{gittes pushes past him. evelyn, looking a little worn but glad to see him hurries to the door. she takes gittes' arm.}
+<C>__{evelyn}
+<D>__{how are you? i was calling you.}
+<A>__{she looks at him, searching his face.}
+<C>__{gittes}
+<D>__{yeah?}
+<A>__{they move into the living room. gittes is looking around it.}
+<C>__{evelyn}
+<D>__{did you get some sleep?}
+<C>__{gittes}
+<D>__{sure.}
+<C>__{evelyn}
+<D>__{did you have lunch? kyo will fix you something.}
+<C>__{gittes}
+<P>__{(abruptly)}
+<D>__{where's the girl?}
+<C>__{evelyn}
+<D>__{upstairs. why?}
+<C>__{gittes}
+<D>__{i want to see her.}
+<C>__{evelyn}
+<D>__{...she's having a bath now... why do you want to see her?}
+<A>__{gittes continues to look around. he sees clothes laid out for packing in a bedroom off the living room.}
+<C>__{gittes}
+<D>__{going somewhere?}
+<C>__{evelyn}
+<D>__{yes, we've got a 4:30 train to catch. why?}
+<A>__{gittes doesn't answer. he goes to the phone and dials.}
+<C>__{gittes}
+<D>__{j. j. gittes for lieutenant escobar}
+<C>__{evelyn}
+<D>__{what are you doing? what's wrong? i told you we've got a 4:30.}
+<C>__{gittes}
+<P>__{(cutting her off)}
+<D>__{you're going to miss your train!}
+<P>__{(then, into phone)}
+<D>__{lou, meet me at 1412 adelaide. it's above santa monica canyon... yeah, soon as you can.}
+<C>__{evelyn}
+<D>__{what did you do that for?}
+<C>__{gittes}
+<P>__{(a moment, then)}
+<D>__{you know any good criminal lawyers?}
+<C>__{evelyn}
+<P>__{(puzzled)}
+<D>__{no...}
+<C>__{gittes}
+<D>__{don't worry. i can recommend a couple. they're expensive but you can afford it.}
+<C>__{evelyn}
+<P>__{(evenly but with great anger)}
+<D>__{what the hell is this all about?}
+<A>__{gittes looks at her, then takes the handkerchief out of his breast pocket. unfolds it on a coffee table, revealing the bifocal glasses, one lens still intact. evelyn stares dumbly at them.}
+<C>__{gittes}
+<D>__{i found these in your backyard... in your fish pond. they belonged to your husband, didn't they?... didn't they?}
+<C>__{evelyn}
+<D>__{i don't know. i mean yes, probably.}
+<C>__{gittes}
+<D>__{yes positively. that's where he was drowned...}
+<C>__{evelyn}
+<D>__{what are you saying?}
+<C>__{gittes}
+<D>__{there's no time for you to be shocked by the truth, mrs. mulwray. the coroner's report proves he was killed in salt water. just take my word for it. now i want to know how it happened and why. i want to know before escobar gets here because i want to hang onto my license.}
+<C>__{evelyn}
+<D>__{i don't know what you're talking about. this is the most insane... the craziest thing i ever...}
+<A>__{gittes has been in a state of near frenzy himself. gets up, shakes her.}
+<C>__{gittes}
+<D>__{stop it! i will make it easy. you were jealous, you fought, he fell, hit his head. it was an accident, but his girl is a witness. you've had to pay her off. you don't have the stomach to harm her, but you've got the money to shut her up. yes or no?}
+<C>__{evelyn}
+<D>__{...no...}
+<C>__{gittes}
+<D>__{who is she? and don't give me that crap about it being your sister. you don't have a sister.}
+<A>__{evelyn is trembling.}
+<C>__{evelyn}
+<D>__{i will tell you the truth...}
+<A>__{gittes smiles.}
+<C>__{gittes}
+<D>__{that's good. now what's her name?}
+<C>__{evelyn}
+<D>__{katherine.}
+<C>__{gittes}
+<D>__{katherine?... katherine who?}
+<C>__{evelyn}
+<D>__{she's my daughter.}
+<A>__{gittes stares at her. he's been charged with anger and when evelyn says this it explodes. he hits her full in the face. evelyn stares back at him. the blow has forced tears from her eyes, but she makes no move, not even to defend herself.}
+<C>__{gittes}
+<D>__{i said the truth!}
+<C>__{evelyn}
+<D>__{she's my sister.}
+<A>__{gittes slaps her again.}
+<C>__{evelyn}
+<D>__{she's my daughter.}
+<A>__{gittes slaps her again.}
+<C>__{evelyn}
+<D>__{my sister.}
+<A>__{he hits her again.}
+<C>__{evelyn}
+<D>__{my daughter, my sister.}
+<A>__{he belts her finally, knocking her into a cheap chinese vase which shatters and she collapses on the sofa, sobbing.}
+<C>__{gittes}
+<D>__{i said i want the truth.}
+<C>__{evelyn}
+<P>__{(almost screaming it)}
+<D>__{she's my sister and my daughter!}
+<A>__{kyo comes running down the stairs.}
+<C>__{evelyn}
+<P>__{(continuing; in chinese)}
+<D>__{for god's sake, kyo, keep her upstairs, go back!}
+<A>__{kyo turns after staring at gittes for a moment then goes back upstairs.}
+<C>__{evelyn}
+<D>__{my father and i, understand, or is it too tough for you?}
+<A>__{gittes doesn't answer.}
+<C>__{evelyn}
+<D>__{...he had a breakdown... the dam broke... my mother died... he became a little boy... i was fifteen... he'd ask me what to eat for breakfast, what clothes to wear!... it happened... then i ran away...}
+<C>__{gittes}
+<D>__{to mexico...}
+<A>__{she nods.}
+<C>__{evelyn}
+<D>__{hollis came and took... care of me... after she was born... he said... he took care of her... i couldn't see her... i wanted to but i couldn't... i just want to see her once in a while... take care of her... that's all... but i don't want her to know... i don't want her to know...}
+<C>__{gittes}
+<D>__{...so that's why you hate him...}
+<A>__{evelyn looks slowly up at gittes.}
+<C>__{evelyn}
+<D>__{no... for turning his back on me after it happened! he couldn't face it...}
+<P>__{(weeping)}
+<D>__{i hate him.}
+<A>__{gittes suddenly feels the need to loosen his tie.}
+<C>__{gittes}
+<D>__{yeah... where are you taking her now?}
+<C>__{evelyn}
+<D>__{back to mexico.}
+<C>__{gittes}
+<D>__{you can't go by train. escobar'll be looking for you everywhere.}
+<C>__{evelyn}
+<D>__{how about a plane?}
+<C>__{gittes}
+<D>__{that's worse... just get out of here. walk out, leave everything.}
+<C>__{evelyn}
+<D>__{i have to go home and get my things.}
+<C>__{gittes}
+<D>__{i will take care of it.}
+<C>__{evelyn}
+<D>__{where can we go?}
+<C>__{gittes}
+<D>__{...where does kyo live?}
+<C>__{evelyn}
+<D>__{with us.}
+<C>__{gittes}
+<D>__{on his day off. get the exact address.}
+<C>__{evelyn}
+<D>__{okay...}
+<A>__{she stops suddenly.}
+<C>__{evelyn}
+<D>__{those didn't belong to hollis.}
+<A>__{for a moment gittes doesn't know what she's talking about. then he follows her gaze to the glasses lying on his handkerchief.}
+<C>__{gittes}
+<D>__{how do you know?}
+<C>__{evelyn}
+<D>__{he didn't wear bifocals.}
+<A>__{gittes picks up the glasses, stares at the lens, is momentarily lost in them.}
+<B>__{evelyn}
+<A>__{from the stairs. she has her arm around katherine.}
+<C>__{evelyn}
+<D>__{say hello to mr. gittes, sweetheart.}
+<C>__{katherine}
+<P>__{(from the stairs)}
+<D>__{hello.}
+<C>__{gittes}
+<D>__{rises a little shakily from the arm of the sofa.}
+<C>__{gittes}
+<D>__{hello.}
+<A>__{with her arm around the girl, talking in spanish, evelyn hurries her toward the bedroom. in a moment she re emerges.}
+<C>__{evelyn}
+<P>__{(calling down)}
+<D>__{he lives at 1712 alameda... do you know where that is?}
+<B>__{reaction gittes}
+<A>__{he nods slowly.}
+<C>__{gittes}
+<D>__{sure. it's chinatown.}
+<B>__{thru window}
+<A>__{of bungalow gittes watches evelyn, the girl and kyo head for kyo's black dusty sedan. gittes drops the curtain, heads swiftly to the phone. he dials.}
+<C>__{gittes}
+<D>__{sophie... is walsh there?... yeah, listen, pal, escobar's going to try and book me in about five minutes... relax, i will tell you. wait in the office for two hours. if you don't hear from me, you and duffy meet me at 1712 alameda.}
+<C>__{walsh's voice}
+<D>__{jesus, that's in chinatown, ain't it?}
+<A>__{the front bell rings.}
+<C>__{gittes}
+<D>__{i know where it is! just do it.}
+<A>__{gittes hangs up and goes to the door. he opens it. no one is there.}
+<C>__{gittes}
+<P>__{(not even bothering}
+<D>__{to look around the}
+<P>__{sides)}
+<D>__{come on in, lou. we're both too late.}
+<A>__{escobar and his minions appear from either side of the door.}
+<C>__{gittes}
+<D>__{looks like she flew the coop.}
+<A>__{escobar nods.}
+<C>__{escobar}
+<D>__{i don't suppose you got any idea where she went?}
+<C>__{gittes}
+<D>__{matter of fact i do.}
+<C>__{escobar}
+<D>__{where?}
+<C>__{gittes}
+<D>__{her maid's house. i think she knows something's up.}
+<C>__{escobar}
+<D>__{what's the maid's address?}
+<C>__{gittes}
+<D>__{she lives in pedro. i will write it down for you.}
+<C>__{escobar}
+<D>__{no, gittes, you'll show us.}
+<C>__{gittes}
+<D>__{what for?}
+<C>__{escobar}
+<D>__{if she's not there, you're going downtown, and you're staying there til she shows up.}
+<C>__{gittes}
+<P>__{(deliberately petulant)}
+<D>__{gee, lou, i'm doing the best i can.}
+<C>__{escobar}
+<P>__{(shoving him toward the door)}
+<D>__{tell us about it on the way to pedro.}

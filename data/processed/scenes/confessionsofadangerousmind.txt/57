@@ -1,0 +1,22 @@
+<L>__{interior bar day}
+<A>__{barris is drunk and in a fight. he is losing, flailing, swinging wildly. jim byrd, a middle aged, business man looking guy, in tinted glasses and sideburns, watches from the bar. eventually barris and the other brawler get thrown out of the bar. byrd takes a sip of his drink.}
+<L>__{exterior bar day}
+<A>__{barris sits on the curb, nursing his wounds. byrd exits the bar and casually approaches.}
+<C>__{byrd}
+<D>__{you're a pretty angry young fella, aren't you? can't fight worth a damn though.}
+<C>__{barris}
+<D>__{screw off, fag. don't think i haven't seen you watching me in that bar for a week now.}
+<C>__{byrd}
+<D>__{kind of a loner, i'd say. fairly bright. a tad anti social. mad at the world. can i buy you lunch?}
+<C>__{barris}
+<D>__{look, there's a schoolyard half a block down. why don't you go trolling there?}
+<A>__{barris gets up and starts to walk away.}
+<C>__{byrd}
+<D>__{i could teach you at least thirty different ways to kill a man with a single blow, mr. barris.}
+<A>__{barris stops.}
+<C>__{byrd }
+<D>__{might help you in future bar fights. just a thought.}
+<A>__{barris just stands there.}
+<C>__{byrd }
+<D>__{oh, and there's money in it. good money.}
+<A>__{barris turns.}

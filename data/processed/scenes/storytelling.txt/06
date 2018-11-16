@@ -1,0 +1,66 @@
+<L>__{exterior bar night}
+<A>__{students hang around outside. vi goes inside.}
+<L>__{interior bar night}
+<A>__{vi walks up to the bar.}
+<C>__{vi}
+<D>__{can i have a beer?}
+<A>__{after getting her beer, vi turns around and suddenly notices mr scott, who is sitting alone. she goes over to him.}
+<C>__{vi}
+<D>__{hi.}
+<C>__{mr scott}
+<D>__{hello, vi.}
+<C>__{vi}
+<D>__{what are you doing here?}
+<C>__{mr scott}
+<D>__{what are you doing here?}
+<C>__{vi}
+<D>__{i'm sorry. i didn't mean, i just didn't expect to run into you here, that's all.}
+<C>__{mr scott}
+<D>__{well, now you have.}
+<A>__{vi laughs, sort of, ten blushes.}
+<C>__{vi}
+<D>__{yeah, um, then...are you alone?}
+<C>__{mr scott}
+<D>__{uh huh.}
+<C>__{vi}
+<D>__{can i join you?}
+<A>__{mr scott gestures for her to sit down with him.}
+<C>__{vi}
+<D>__{gee, thanks. well, um...i just wanted to say that i'm really happy with the class and, um...i know you must here this all the time, but i'm also a great admirer of your work. a sunday lynching, especially...really, um spoke to me. god, i hope i'm not embarrassing you...}
+<C>__{mr scott}
+<D>__{you're not.}
+<C>__{vi}
+<D>__{good.}
+<P>__{(beat)}
+<D>__{'cause i...um...i really agreed with everything you had to say last week about how bad my story was...}
+<C>__{mr scott}
+<D>__{that's good.}
+<C>__{vi}
+<D>__{and i also agreed with what you said today about marcus's story. it is a piece of shit.}
+<A>__{pause.}
+<C>__{mr scott}
+<D>__{you have beautiful skin.}
+<C>__{vi}
+<D>__{thank you.}
+<P>__{(beat)}
+<D>__{so catherine seems like she might become a really good writer.}
+<C>__{mr scott}
+<D>__{maybe. she's ok.}
+<A>__{pause.}
+<C>__{vi}
+<D>__{aren't you going out with catherine?}
+<P>__{(beat)}
+<D>__{i'm sorry. it's none of my business. i didn't mean...}
+<C>__{mr scott}
+<D>__{i'm not 'going out' with catherine.}
+<C>__{vi}
+<D>__{oh.}
+<P>__{(beat)}
+<D>__{do you think i have a potential as a writer?}
+<C>__{mr scott}
+<D>__{no.}
+<C>__{vi}
+<D>__{thank you for being honest.}
+<A>__{mr scott leans over and touches her hand.}
+<C>__{vi}
+<D>__{i have so much respect for you.}

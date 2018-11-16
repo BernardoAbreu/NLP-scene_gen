@@ -1,0 +1,18 @@
+<L>__{interior living room}
+<A>__{annette's parents come inside.}
+<C>__{mother}
+<D>__{annette. we're home.}
+<A>__{she notices a red spot on the carpet and leans over to inspect it.}
+<L>__{interior hallway}
+<A>__{annette's mom starts down the hallway, noticing the trail of blood leading to annette's door, realizing something is wrong.}
+<C>__{mother}
+<P>__{(concerned)}
+<D>__{annette?}
+<A>__{she tugs at annette's door.}
+<L>__{interior bedroom}
+<A>__{the door is still barricaded.}
+<L>__{exterior corridor}
+<A>__{her mother frantically tugs at the door. her dad appears.}
+<C>__{mother}
+<D>__{annette!!}
+<A>__{her dad lifts his foot and starts kicking at the door. it begins to splinter.}

@@ -1,0 +1,24 @@
+<L>__{interior security command center museum night}
+<A>__{officer mcnitt stands in the corner of the computer room, bathed in neon light. running the security system is george, your basic computer nerd. multiple screens all over show various rooms in the museum. most are empty with the exception of those showing the exhibition. on these, the crowds can be seen entering the various rooms. mcnitt holds his walkie talkie.}
+<C>__{mcnitt}
+<D>__{yeah lieutenant? i'm here.}
+<C>__{d'agosta }
+<D>__{i'm heading to the evolutionary bio labs. any sign of pendergast?}
+<C>__{mcnitt}
+<D>__{not yet.}
+<A>__{at this moment a noise comes from the adjoining room. mcnitt's head swivels. it's a loud thump.}
+<C>__{mcnitt}
+<D>__{hold on lieutenant.}
+<P>__{(to george)}
+<D>__{what was that?}
+<C>__{george}
+<D>__{probably just something wrong with the air conditioning. there's a shit load of electrical rooms back there.}
+<A>__{george is playing an elaborate computer game and not paying attention. mcnitt returns to his walkie talkie as the thump comes again. now he looks distinctly nervous.}
+<C>__{mcnitt}
+<D>__{lieutenant? there's something wrong in the computer room.}
+<C>__{d'agosta }
+<D>__{goddamn it. i will get ippolito and send him up.}
+<A>__{george rises.}
+<C>__{george}
+<D>__{you're over reacting. sounds like the air conditioning to me.}
+<A>__{mcnitt watches uneasily as george opens the door, disappears into the next room.}

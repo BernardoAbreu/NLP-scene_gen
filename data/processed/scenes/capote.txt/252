@@ -1,0 +1,75 @@
+<L>__{interior truman and jack's house, jack's tiny office same time}
+<A>__{jack is writing, longhand, at his desk. phone is ringing. jack notices that his door is slightly ajar. he kicks it shut. the ringing is much quieter. he keeps writing.}
+<L>__{interior truman and jack's house, bedroom same time}
+<A>__{truman asleep. phone ringing. he wakes up, groggy, answers.}
+<C>__{truman}
+<D>__{hello.}
+<C>__{operator }
+<D>__{mr. capote?}
+<C>__{truman}
+<D>__{yes?}
+<C>__{operator}
+<D>__{i have a call from mr. perry smith in the kansas correctional system. will you accept charges?}
+<A>__{pause.}
+<C>__{operator}
+<D>__{mr. truman capote?}
+<C>__{truman}
+<D>__{yes.}
+<C>__{operator}
+<D>__{will you accept charges?}
+<C>__{truman}
+<D>__{oh.}
+<P>__{(no way out of this)}
+<D>__{uh... yes.}
+<C>__{operator}
+<D>__{you'll accept charges?}
+<C>__{truman}
+<D>__{yes.}
+<C>__{operator}
+<D>__{mr. smith, you're on the line.}
+<A>__{now truman's awake. we hear a series of clicks, then:}
+<C>__{perry }
+<D>__{hello.}
+<A>__{truman can't bring himself to speak.}
+<C>__{perry}
+<D>__{hello? i can't }
+<P>__{(to someone)}
+<D>__{this doesn't seem }
+<P>__{(we hear perry clicking the cradle, then:)}
+<D>__{operator, i don't think you put me }
+<C>__{truman}
+<D>__{i'm here.}
+<A>__{beat.}
+<C>__{perry}
+<D>__{truman.}
+<C>__{truman}
+<D>__{hello, perry.}
+<C>__{perry}
+<D>__{they let me make a couple phone calls before i go down to holding... you heard the supreme court rejected the appeal.}
+<C>__{truman}
+<D>__{i didn't... i hadn't heard that.}
+<C>__{perry}
+<D>__{yeah.}
+<A>__{pause.}
+<C>__{truman}
+<D>__{i'm sorry.}
+<C>__{perry}
+<D>__{yeah. they let me make two phone calls.}
+<A>__{truman doesn't know what to say.}
+<C>__{perry}
+<D>__{we've got a date set for the warehouse, dick and me. two weeks and... finito. april 14.}
+<A>__{beat.}
+<C>__{perry}
+<D>__{will you visit me? truman. will you come visit?}
+<C>__{truman}
+<D>__{i don't know if i can. i will try.}
+<P>__{(beat)}
+<D>__{i don't know if i can.}
+<A>__{we hear over the line a guard in the background:}
+<C>__{guard in background }
+<D>__{time, smith. hang it up.}
+<C>__{perry}
+<D>__{please visit me, truman. just...}
+<C>__{guard in background }
+<D>__{time. smith.}
+<A>__{click. truman sits very still, the phone in his hand.}

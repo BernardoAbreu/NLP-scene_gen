@@ -1,0 +1,15 @@
+<L>__{interior the bastille main courtyard night}
+<A>__{the prison courtyard is murky in the darkness, and ringed by doors leading into mazes of corridors to its dungeons.}
+<C>__{guard}
+<D>__{take him down to level three. the captain will see to the documents.}
+<A>__{aramis and porthos drag athos into one of the shadowy portals surrounding the courtyard.}
+<L>__{interior bastille various shots night}
+<A>__{the three musketeers duck into the inky shadows; aramis cuts the bonds that hold athos' hands, and gives him the extra sword he had beneath his cloak.}
+<C>__{porthos}
+<D>__{it worked!}
+<C>__{athos}
+<D>__{it's a prison, you idiot! they don't expect anyone to try getting in! the problem will come when we want out!}
+<A>__{aramis shushes them, and leads them into another quiet corridor. they hear the distant bells of a church, then suddenly they must scramble, as a platoon of guards carrying torches troop up stairs into the corridor; the musketeers dart like rats into dark nooks; as the guards pass, the musketeers huddle, and the bells end their tolling.}
+<C>__{aramis}
+<D>__{midnight! we have ten minutes!}
+<A>__{they press on, deeper into the bastille.}

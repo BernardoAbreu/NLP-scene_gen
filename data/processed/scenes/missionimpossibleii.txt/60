@@ -1,0 +1,93 @@
+<L>__{int sheep farm imf safehouse}
+<A>__{the bomb's led readout shows 6, 5, 4, 3, 2, 1.. as it reaches 0 a small light on the bomb suddenly stops its incessant blinking.}
+<L>__{ext van}
+<A>__{explodes. saw horses and dirt fly.}
+<L>__{int glass observation room ethan}
+<A>__{looks up just in time to see ambrose and team arrive at the far end of the lab. they immediately open fire, shattering the room's walls and the glass injection gun chamber. as the injection gun begins falling to the lab floor below, one of ambrose's team runs to grab it, but before he can reach it he is shot by ethan, who's falling to the floor below.}
+<C>__{ambrose}
+<P>__{(to ulrich)}
+<D>__{get it.}
+<A>__{as ethan hits and dives for cover, ulrich goes for the gun ethan shoots ulrich in the leg. ulrich hops back in pain.}
+<C>__{ambrose}
+<D>__{those were two explosions, your van and your safehouse, in case you didn't hear them both i believe that means you've also lost a friend.}
+<A>__{ethan's crouching on the ground protected behind a series of vertical metal sheets.}
+<C>__{ethan}
+<D>__{and you couldn't walk to tell me about it.}
+<A>__{ethan moves to pick up the injection gun which lies in the shattered glass on the floor. ambrose, wallis, and a couple of other ambrose team members fire, kicking up broken glass. ethan backs off.}
+<C>__{ambrose}
+<P>__{(yelling)}
+<D>__{hold your fire, dammit!}
+<A>__{the two spot one another in a mirror on the far wall of the hot zone..}
+<C>__{ambrose }
+<D>__{well, hunt. how've you been?}
+<C>__{ethan}
+<P>__{(smiling)}
+<D>__{fight a bit of a cold..}
+<C>__{ambrose}
+<D>__{and you're happy about that?}
+<C>__{ethan}
+<D>__{beats fighting the flu, i'm here to tell you.}
+<C>__{ambrose}
+<D>__{you know, that was the hardest part of having to portray you. grinning like an idiot every fifteen minutes.}
+<C>__{ethan}
+<D>__{i would've thought the hardest part was exercising restrainterior curbing that pressing need of your to get your gun off. you were in such a hurry to knock off that 747, you never figured out where the virus really was.}
+<C>__{ambrose}
+<D>__{i knew where it was.}
+<C>__{ethan}
+<D>__{oh. then you knew the only way could smuggle the live virus to the cdc scientists in atlanta was by injecting himself and using his own bloodstream as a petri dish, doing it inside of twenty hours so he could take the anti virus and still have it be effective. you knew that while you were knocking him off and destroying the very thing you came for.}
+<A>__{ethan has been using this exchange to ease a fresh seventeen round clip into his weapon and he punctuates this last with a spray of gunfire, attempting to cover his own effort to the reach the injection gun. the return fire nearly hits the injection gun, kicking up glass and dust and making it move around on the floor.}
+<C>__{ambrose}
+<D>__{stop! put a sock in it! hit that bloody gun and you'll spray the bloody virus all over the place!}
+<A>__{everybody's regained cover but the injection gun remains out of everybody's reach.}
+<C>__{ethan}
+<D>__{there it is, guys, the last of it.}
+<C>__{ambrose}
+<D>__{yep. you've provided us with a golden opportunity to have both the bug and the bug killer.}
+<C>__{ethan}
+<D>__{what was the top bid?}
+<C>__{ambrose}
+<D>__{why, you going to make me a better offer?}
+<C>__{ethan}
+<D>__{than thirty seven million pounds? not really.}
+<C>__{ambrose}
+<P>__{(not amused)}
+<D>__{somebody's been slipping you our mail. come on out here, you bad girl.}
+<A>__{nyah walks out into view on her own. ethan sees her reflection in the mirror. enraged, but trying to control it.}
+<C>__{ethan}
+<D>__{she doesn't belong here, sean. let her go.}
+<C>__{ambrose}
+<D>__{she wouldn't be here if it wasn't for you, hunt. from this moment you're responsible for what happens to her, and if you're looking out for her well being, i suggest you advise her to pick up the gun and bring it to me. ball's in your court, hunt. what've you got to say? nyah's waiting for your answer.}
+<A>__{a pregnant pause.}
+<C>__{luther's voice}
+<P>__{(breaking through the static)}
+<D>__{ethan, nyah's in the building! do you copy?}
+<A>__{with luther (exterior biocyte) a mess amid the rubble of the construction van.}
+<B>__{ethan}
+<C>__{ethan}
+<P>__{(dryly)}
+<D>__{thank you.}
+<C>__{ethan }
+<D>__{sure he won't shoot you the minute he's got it?}
+<C>__{ambrose}
+<D>__{oh, hunt, please! one can't hold nyah responsible for her actions..}
+<C>__{ethan}
+<D>__{in other words, you're calling her a flake.}
+<A>__{close nyah listening.}
+<C>__{ambrose}
+<D>__{you know women, mate. like monkeys, they are. won't let go of one branch til they've got a grip on the nexterior..get it, nyah. i will cover you.}
+<A>__{ambrose cocks his weapon.}
+<C>__{ambrose }
+<D>__{i'm waiting.}
+<C>__{nyah}
+<P>__{(not much more than body length from ethan)}
+<D>__{this isn't exactly working out the way you thought it would, ethan. sorry.}
+<A>__{finger on the injection trigger, she rises and turns the barrel on her arm, firing. the sound of the air pressure pushing the virus into her is unmistakable, as is the circle of tiny puncture wounds on her skin. nyah moves in front of ethan, covering him, as she turns to face ambrose.}
+<B>__{ethan}
+<A>__{shocked by nyah's gesture but as she addresses ambrose he resets the 'countdown' on his chronometer to twenty hours. as it drops into the nineteen:}
+<C>__{ambrose}
+<P>__{(frustrated in the extreme)}
+<D>__{you..bitch!}
+<A>__{she's been laughing away with ethan:}
+<C>__{nyah}
+<D>__{you're not going to shoot, sean. not this bitch. she's worth thirty seven million pounds.}
+<A>__{close ethan's hands fingers press a red button on a tiny detonator. there's a bright heat flash from the hot zone and an explosion of gas and water the plastique killing any airborne virus. ethan uses the diversion to grab nyah and run with her to the far side of the lab, behind a stock of horizontal cylinders.}

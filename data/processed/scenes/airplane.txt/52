@@ -1,0 +1,29 @@
+<L>__{interior cockpit night}
+<C>__{ground controller }
+<D>__{flight two zero niner, you are cleared for takeoff.}
+<C>__{oveur}
+<D>__{roger.}
+<C>__{murdock}
+<P>__{(turning to oveur)}
+<D>__{huh?}
+<A>__{oveur throws console lever into second gear.}
+<C>__{ground controller }
+<D>__{l.a. departure frequency two point niner.}
+<C>__{oveur}
+<D>__{roger.}
+<C>__{murdock}
+<P>__{(turning to oveur)}
+<D>__{huh?}
+<C>__{basta}
+<P>__{(to tower)}
+<D>__{request vector...over.}
+<C>__{oveur}
+<P>__{(turning to basta)}
+<D>__{what?}
+<C>__{ground controller }
+<D>__{flight two zero niner, cleared for vector three...two four.}
+<C>__{murdock}
+<D>__{we have clearance, clarence.}
+<C>__{oveur}
+<D>__{roger, roger. what's our vector, victor?}
+<A>__{oveur throws console lever into third.}

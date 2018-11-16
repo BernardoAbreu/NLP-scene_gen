@@ -1,0 +1,74 @@
+<L>__{interior the polyonax place. day}
+<A>__{phil joins larry and puts a bag of beers on the table.}
+<C>__{larry}
+<D>__{speak to her?}
+<C>__{phil}
+<D>__{who?}
+<C>__{larry}
+<D>__{your girlfriend? your wife?}
+<C>__{phil}
+<D>__{none of your damn business.}
+<C>__{larry}
+<D>__{so you didn't?}
+<A>__{a pause.}
+<C>__{phil}
+<D>__{no.}
+<T>__{con tinue d:}
+<C>__{larry}
+<D>__{maybe she's out. shopping, or something.}
+<A>__{phil pours the rest of his beer down his throat, before signaling the barman to serve him another.}
+<C>__{phil}
+<D>__{yeah, that'll be it. shopping.}
+<A>__{he raises an eyebrow at larry. behind him, we see stanley walk in and take a seat at the bar.}
+<C>__{stanley}
+<P>__{(to barman)}
+<D>__{beer.}
+<A>__{the barman gives stanley his beer.}
+<C>__{stanley }
+<D>__{would you put a scotch in there, please?}
+<C>__{barman}
+<D>__{sure.}
+<A>__{he pours the spirit in.}
+<C>__{barman }
+<D>__{bad day?}
+<A>__{stanley rubs the top of his head.}
+<C>__{stanley}
+<D>__{yeaaaaah. yeah, a real bad day.}
+<C>__{barman}
+<D>__{what happened?}
+<C>__{stanley}
+<D>__{my boy died out here the other day, and some punks have stolen his body.}
+<A>__{stanley reaches for his pocket. the barman puts his hand up to refuse the money.}
+<C>__{barman}
+<D>__{that's worth a shot on the house.}
+<A>__{the barman tips a little more scotch into the beer.}
+<C>__{stanley}
+<D>__{thanks.}
+<A>__{con tinue d: (2) stanley takes a drink. phil slips some money on the bar and stands up.}
+<C>__{phil}
+<P>__{(to larry)}
+<D>__{we gotta go.}
+<A>__{larry is listening to the conversation.}
+<C>__{larry}
+<D>__{haven't finished my drink.}
+<C>__{barman}
+<P>__{(to stanley)}
+<D>__{why would someone steal a body?}
+<A>__{phil picks up the glass of water and drinks it down.}
+<C>__{phil}
+<D>__{all gone. c'mon.}
+<A>__{he turns and walks to the door.}
+<C>__{stanley}
+<D>__{well, maybe they were souvenir hunters or something. my boy's kinda famous...}
+<C>__{barman}
+<D>__{who is he?}
+<A>__{phil is back.}
+<C>__{stanley}
+<D>__{gram parsons.}
+<A>__{the barman looks surprised.}
+<C>__{barman}
+<D>__{gram parsons?}
+<A>__{phil reaches across and grabs the back of larry's jacket.}
+<C>__{larry}
+<D>__{gram parsons?}
+<A>__{both the barman and stanley look round, but larry's stool is now empty, spinning. he and phil are already at the door.}

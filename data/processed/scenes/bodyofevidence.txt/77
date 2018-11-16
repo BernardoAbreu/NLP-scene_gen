@@ -1,0 +1,53 @@
+<L>__{interior underground parking lot afternoon}
+<A>__{dulaney walks towards his car with biggs. there is no sense of victory or elation.}
+<C>__{biggs}
+<D>__{what are you gonna do now?}
+<C>__{dulaney}
+<D>__{take some time off.}
+<C>__{biggs}
+<D>__{you think the d.a.'s gonna file on joanne?}
+<C>__{dulaney}
+<D>__{i don't know.}
+<A>__{dulaney reaches his car.}
+<C>__{dulaney}
+<D>__{you did a good job, charlie.}
+<C>__{biggs}
+<D>__{thanks, mister d.}
+<A>__{biggs walks away. dulaney takes out his keys, opens the door to his car. he is about to get in when he senses someone behind him. he turns around. joanne steps out from behind a pillar. she stares at dulaney hatefully. her hand is inside her purse.}
+<C>__{joanne}
+<D>__{that bastard should have left me something. i worked for him for six years and he goes and gives it all to her.}
+<A>__{dulaney looks around the parking lot. he is alone. joanne is obviously very high on something. her mind seems to wander, her eyes drift.}
+<C>__{joanne}
+<D>__{you take what people say and make it ugly. you make others believe what you want them to. she should have been found guilty. she shouldn't have gotten off.}
+<C>__{dulaney}
+<D>__{then you would have gotten your money?}
+<C>__{joanne}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{you killed him didn't you, joanne?}
+<C>__{joanne}
+<D>__{do you think if i did i'd be stupid enough to tell you?}
+<A>__{dulaney looks her hand fidgeting in her purse.}
+<C>__{dulaney}
+<D>__{what do you have in your purse?}
+<C>__{joanne}
+<D>__{what do you think i've got? a gun? maybe i'm gonna kill you too. maybe i will blow your head off right now.}
+<A>__{her hand starts to come out of the purse. suddenly, biggs appears, rushing her from behind a pillar. he grabs her hand and pushes her against a car. he pulls her hand from the purse. she is holding a piece of paper.}
+<C>__{joanne}
+<P>__{(crying)}
+<D>__{i'm gonna go to jail. i know they're gonna make it look like i did it. they gotta put it on someone.}
+<C>__{dulaney}
+<D>__{why'd you come here?}
+<C>__{joanne}
+<P>__{(holds up the letter)}
+<D>__{to show you this. it's a letter from that lawyer, koehler. he wrote it to me the day after i saw him. he's the one who told me i could get the money if miss lawson went to jail.}
+<C>__{dulaney}
+<D>__{you didn't know about it before that?}
+<C>__{joanne}
+<D>__{no.}
+<A>__{dulaney is suddenly very confused.}
+<C>__{dulaney}
+<D>__{then why did you go see mr. koehler in the first place?}
+<C>__{joanne}
+<D>__{because he called me.}
+<A>__{dulaney is stunned. he looks at biggs with a knowing stare.}

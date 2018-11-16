@@ -1,0 +1,55 @@
+<L>__{interior hospital, abe's room day}
+<A>__{eve sleeps in a chair next to abe, in bed sleeping. he looks pale but otherwise fine. kelly stands in the doorway, still in his uniform. abe comes to and sees him standing there.}
+<C>__{abe}
+<D>__{hey. kelly.}
+<C>__{kelly}
+<D>__{hey dad. how you feeling?}
+<C>__{abe}
+<D>__{not bad.}
+<C>__{kelly}
+<D>__{they gave me some stitches downstairs.}
+<P>__{(points to eyebrow)}
+<D>__{three.}
+<C>__{abe}
+<D>__{did you get punched?}
+<C>__{kelly}
+<D>__{a couple times, actually.}
+<C>__{abe}
+<D>__{i know the feeling. come on in and watch some television. don't worry, this one's bolted to the wall. as you can see, my reputation precedes me.}
+<A>__{kelly comes into the room and sits in a chair.}
+<C>__{abe}
+<D>__{any battles this weekend?}
+<C>__{kelly}
+<D>__{a few.}
+<C>__{abe}
+<D>__{busy, busy.}
+<A>__{abe and kelly look up at the television in the corner.}
+<C>__{abe}
+<D>__{answer me this: how come no one ever reenacts the vietnam war?}
+<C>__{kelly}
+<D>__{it'd be pretty depressing, wouldn't it?}
+<C>__{abe}
+<D>__{i guess it would.}
+<A>__{both continue to look up at the television.}
+<C>__{kelly}
+<D>__{plus that, you'd have to have protesters and stuff.}
+<C>__{abe}
+<D>__{folks dressed up like your mom and me. people reenacting fleeing to canada, burning draft cards. i guess that would ruin the spirit of the thing, now wouldn't it?}
+<C>__{kelly}
+<D>__{i could make it work.}
+<A>__{abe looks at kelly.}
+<C>__{abe}
+<D>__{i bet you could.}
+<A>__{kelly nods. eve wakes up.}
+<C>__{eve}
+<D>__{kelly, is that you?}
+<C>__{kelly}
+<D>__{you were expecting some one else?}
+<B>__{hospital corridor}
+<A>__{kelly and eve get snacks from the vending machine.}
+<C>__{kelly}
+<D>__{he looks good.}
+<A>__{eve looks at kelly, her face full of love and sadness.}
+<C>__{eve}
+<D>__{he looks just like you.}
+<A>__{kelly nods slowly, taking this in. and it is finally too much. he breaks down and cries. for the fear and the misplaced rage, the fights and the stubbornness. but finally, relief. they walk back down the hall together. eve reaches out and puts her hand on kelly's neck.}

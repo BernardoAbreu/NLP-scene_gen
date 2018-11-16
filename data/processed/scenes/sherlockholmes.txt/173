@@ -1,0 +1,100 @@
+<L>__{123a interior 221 baker st. staircase}
+<A>__{as watson and mary climb the stairs, it becomes clear that mary now wears irene's diamond on her finger. holmes had it made into an engagement ring.}
+<C>__{watson}
+<D>__{i still can't believe he's given us that ring.}
+<C>__{mary}
+<D>__{do you think he's finally come to terms with you leaving?}
+<C>__{watson}
+<D>__{of course. no question about it }
+<L>__{interior 221 baker st.}
+<A>__{watson opens the door of holmes' apartment revealing a horrific scene: holmes is hanging from a rope, his back to them. he looks dead.}
+<C>__{watson}
+<D>__{don't panic, dear.}
+<A>__{watson and mary step in but do nothing to help holmes.}
+<C>__{watson}
+<D>__{suicide is not in his repetoire, he's far too fond of himself.}
+<A>__{watson pokes him. turns him around.}
+<C>__{holmes}
+<D>__{good afternoon. i was trying to deduce the manner in which blackwood survived his execution. clearing your good name, as it were. but it had a surprisingly soporific effect and i was carried off in the arms of morpheus, like a caterpillar in a cocoon.}
+<C>__{watson}
+<D>__{get on with it, holmes.}
+<C>__{holmes}
+<D>__{cleverly concealed in the hangman's knot was a hook i believe my legs have fallen asleep. i should probably come down.}
+<C>__{mary}
+<D>__{shouldn't you help him, john?}
+<C>__{watson}
+<D>__{i hate to stop when he's on a roll. do carry on, holmes.}
+<A>__{watson and mary walk by.}
+<C>__{holmes}
+<D>__{the executioner attached it to a harness, thus allowing the weight to be distributed around the waist and the neck to remain intact. my lord, i can't feel my cheeks. might we continue this at ground level?}
+<C>__{watson}
+<D>__{how did you manage it, holmes?}
+<C>__{holmes}
+<D>__{i managed it with braces, belts and a coat hook. please, watson, my tongue is going nexterior i will be of no use to you at all.}
+<C>__{watson}
+<D>__{worse things could happen.}
+<C>__{mary}
+<D>__{john.}
+<A>__{watson draws his sword.}
+<C>__{watson}
+<D>__{but none of this explains the lack of a pulse.}
+<A>__{he finally uses his sword stick and slices holmes down. holmes tumbles to the ground.}
+<C>__{holmes}
+<D>__{there is a toxin refined from the nectar of the rhododendron ponticum. it is quite infamous in the region of turkey bordering the black sea for its ability to induce an apparently mortal paralysis. enough to mislead a medical mind even as tenacious and well trained as your own. it is known locally as }
+<C>__{mary}
+<D>__{what's wrong with gladstone?}
+<C>__{holmes}
+<D>__{ mad honey disease.}
+<A>__{closeup of watson's dog stiff as a board.}
+<C>__{holmes}
+<D>__{he is demonstrating the very effect i've just described. he doesn't mind.}
+<C>__{watson}
+<D>__{his heart should be ticking in no time.}
+<A>__{watson feels for a pulse in his dog's neck he shakes his head. they are interrupted by a knock on the door. constable clark enters.}
+<C>__{constable clark}
+<D>__{mr. holmes... inspector lestrade asks that you come with me, right away.}
+<C>__{holmes}
+<D>__{what is it this time, clarky?}
+<C>__{constable clark}
+<D>__{it's one of our sergeants, sir. he went missing in the sewers, the day you stopped lord blackwood... well, a maintenance man found his body this morning. we believe the sergeant was our first man on the scene. shot in the head.}
+<C>__{holmes}
+<D>__{were there powder burns on his eyebrows?}
+<A>__{clarky nods.}
+<C>__{constable clark}
+<D>__{yes.}
+<C>__{watson}
+<D>__{point blank range.}
+<C>__{holmes}
+<D>__{with small caliber bullet.}
+<C>__{constable clark}
+<D>__{indeed.}
+<C>__{holmes}
+<D>__{moriarty.}
+<A>__{holmes and watson look at each other complete change of demeanor mind racing, looking concerned. the dog has regained its vital signs.}
+<C>__{mary}
+<D>__{there's a brave boy... there, there, everything's going to be all right.}
+<C>__{watson}
+<D>__{where is blackwood's device now?}
+<C>__{constable clark}
+<D>__{the secret service has it, sir. they've taken over the case.}
+<B>__{closeup on holmes and watson}
+<A>__{piecing it together:}
+<C>__{holmes}
+<D>__{i'd wager there's a piece missing.}
+<A>__{constable clarke nods. holmes pulls his coat on.}
+<C>__{watson}
+<D>__{so you're saying moriarty was after a part of the machine and not the poison.}
+<A>__{watson nods.}
+<C>__{holmes}
+<D>__{the wire free invention was the game all along. imagine being able to control any device simply by sending a command via radio waves.}
+<C>__{watson}
+<D>__{adler was just a diversion.}
+<A>__{mary looks at watson who is clearly trying to curb his enthusiasm and interest. a knock. the driver pokes his head in.}
+<C>__{driver}
+<P>__{(to watson)}
+<D>__{i've loaded the last of your boxes, sir.}
+<A>__{watson nods, the driver exits. watson turns to holmes.}
+<C>__{watson}
+<D>__{well...}
+<C>__{holmes}
+<D>__{i will leave with you. clarky, case reopened.}

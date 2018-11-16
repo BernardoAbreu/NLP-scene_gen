@@ -1,0 +1,27 @@
+<L>__{interior hotel corridor. day}
+<A>__{paul going door to door, knocking. the rooms are all packed with tutsi refugees. a door opens.}
+<C>__{paul}
+<D>__{good day. here is your bill for the last week. if you cannot pay, or think you will not be able to pay, go to the ballroom. zozo will take care of you.}
+<T>__{dissolve to:}
+<L>__{interior hotel corridor. day.}
+<A>__{paul knocks on a door. the tutsi politician xavier opens the door, sees that it is paul.}
+<C>__{xavier}
+<D>__{come in paul.}
+<L>__{interior hotel luxury suite. day}
+<A>__{a beautiful two bedroom suite. xavier lives in comfort compared to the other refugees.}
+<C>__{paul}
+<D>__{i'm afraid you will have to move room.}
+<C>__{xavier}
+<D>__{move? where to?}
+<C>__{paul}
+<D>__{i'm going to put you on the third floor.}
+<C>__{xavier}
+<D>__{the third floor are low class rooms.}
+<C>__{paul}
+<D>__{yes they are. however if the army return they will expect important people such as yourself to be in these grand rooms.}
+<C>__{xavier}
+<P>__{(to his wife)}
+<D>__{pack the bags, we have to move.}
+<C>__{paul}
+<D>__{also, this is your bill for the last week.}
+<A>__{paul leaves, xavier looks shocked.}

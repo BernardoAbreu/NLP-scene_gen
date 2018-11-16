@@ -1,0 +1,79 @@
+<L>__{interior forge day}
+<A>__{the flames of the forge still burn as corin pushes conan into the room. he bolts the door behind him.}
+<C>__{conan}
+<D>__{do we need more weapons?}
+<A>__{corin drops his sword, then struggles to lift a heavy grating in the dirt floor. beneath it a trough of cooling water leads under the hut and away from the village.}
+<C>__{corin}
+<D>__{go. there is a hunting lodge in the north pass with provisions.}
+<C>__{conan}
+<D>__{no! i will fight!}
+<A>__{corin grabs conan by his tunic, pulling him up to his face. corin's eyes are half crazed.}
+<C>__{corin}
+<D>__{this fight is over, but yours has just begun. you wanted to be a warrior of the tribe, conan now you must be its last.}
+<C>__{conan}
+<D>__{father, i am not afraid to die.}
+<C>__{corin}
+<D>__{good. make your death have purpose.}
+<A>__{boom. something slams at the door. it does not budge. again,}
+<B>__{boom.}
+<A>__{a shadow appears under the door, sliding into the forge, and materializing into the form of remo. remo quickly slides away the bolt. in rush enter lucius and ukafa. corin and conan face their attackers, fighting in close quarters. lucius rushes at conan, only for conan to duck under his attack and throw him in the fiery forge. lucius screams in agony, rising up to reveal half of his formerly handsome face burned to a crisp. corin fights ukafa to a standstill, until remo emerges from the shadows behind him and drives a short sword into his back. corin falls to his knees.}
+<C>__{conan}
+<D>__{no!}
+<A>__{lucius delivers a massive backhand, sending conan flying backwards and demolishing one of the forge's main support beams. half of the forge comes crashing down on top of conan, pinning his bleeding form to the ground, just a few feet from his fallen father. enraged, lucius turns his anger to corin, raising his sword to deliver the killing blow.}
+<C>__{khalar singh }
+<D>__{i said i wanted a word with him.}
+<A>__{lucius stays his hand as khalar singh steps into the forge. beside him stands the pict who escaped from conan earlier, grinning from ear to ear. khalar singh hands him a bag of gold.}
+<C>__{khalar singh }
+<D>__{as promised.}
+<C>__{pict}
+<P>__{(strange dialect subtitled)}
+<D>__{their heads. you promised me their heads.}
+<C>__{khalar singh}
+<D>__{all you wish, once we are gone.}
+<A>__{the pict nods and heads off, drawing his knife. khalar singh stares down at corin, sizing him up. corin lifts up into a sitting position, back to the forge.}
+<C>__{khalar singh }
+<D>__{i take no pleasure in this day, barbarian. your people are fierce warriors, deserving of every story told of them. but now you must choose the story for yourself. i am khalar singh. my army is handpicked from the best hyboria. my second, ukafa, and his kushite horde. remo and his shadow scouts from the jungles of zingara. and countless others. they all had a day like this one. they all chose a way forward.}
+<A>__{into the forge walks cherin and akhun. the lieutenants stand behind corin, eyeing corin with malice. corin catches a glimpse of conan, buried but staring back at him, unable to move. corin quickly turns away, careful not to give his son away.}
+<C>__{corin}
+<D>__{what is it you want?}
+<C>__{khalar singh}
+<D>__{i seek neither gold nor steel, but flesh and blood. the last of a royal line that goes back three thousand years.}
+<A>__{corin laughs.}
+<C>__{corin}
+<D>__{royalty in cimmeria? never. each man is free here.}
+<C>__{khalar singh}
+<D>__{but i seek a woman.}
+<A>__{khalar looks outside the door of the forge. the cimmerians women are being herded by the slavers.}
+<C>__{khalar singh }
+<D>__{a queen in hiding. point her out and you'll spare the lives of your own. perhaps even your wife?}
+<C>__{corin}
+<D>__{my wife was killed, long ago, by swine such as you.}
+<A>__{khalar nods, understanding.}
+<C>__{khalar singh}
+<D>__{then our stories began in the same place, cimmerian. i too lost my wife to marauders. how many men, in how many lands have suffered so? the only answer is power, strength unfettered, the kind of which can unite all hyboria under a single crown. that is the legacy i seek. will you join me?}
+<A>__{it's a powerful, convincing speech. but corin holds his tongue, unmoved.}
+<C>__{khalar singh }
+<D>__{very well. then death will be your story. your men will die. and your women too, when i am done with them. none will survive to carry your name forth, and over time, even your enemies will forget you ever were. you will be wiped from the pages of history.}
+<P>__{(to his men)}
+<D>__{take your blood, but leave the kill.}
+<A>__{one by one, the lieutenants beat and stab corin, taking pleasure in his pain. conan struggles, trying to move, to yell, to do anything other than lie there. but a huge timber lies upon his back, pinning him to the ground.}
+<C>__{khalar singh }
+<D>__{fariq! come!}
+<A>__{entering the wrecked forge is fariq, the six year old son to khalar singh. he stares at corin's bleeding form with the dispassion of a sociopath. khalar picks up the sword corin and conan had forged together, the one corin took away. he admires it, then hands it to his son. he keeps a hand on it as it is too heavy for his son to lift alone. he instructs his son as if teaching him multiplication.}
+<C>__{khalar singh }
+<D>__{before you lies our enemy. his tribe waits for him in the beyond. what would you do?}
+<C>__{fariq}
+<D>__{i would cut out his eyes, father, so that he will not find them. so he will wander the afterlife forever.}
+<A>__{khalar smiles.}
+<C>__{khalar singh}
+<D>__{show me your strength, fariq. without it, you will never rule. with it, you will never be forgotten.}
+<A>__{fariq drives the sword into corin's eye. corin doesn't make a sound. once fariq has ripped out corin's eyes, khalar runs corin through.}
+<C>__{khalar singh }
+<D>__{you have your desire. death has found you.}
+<A>__{corin spits out his last words, also meant for conan.}
+<C>__{corin}
+<D>__{soon it comes for you.}
+<C>__{conan's pov}
+<A>__{conan glimpses around the faces of khalar and his men, each image seared into his memory as if ablaze.}
+<C>__{khalar singh}
+<D>__{burn this place. it no longer exists.}

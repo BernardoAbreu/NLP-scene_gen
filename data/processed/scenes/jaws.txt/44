@@ -1,0 +1,142 @@
+<L>__{interior hospital day}
+<A>__{michael is wheeled out in the bed. brody and ellen are there. sean is sleepy in brody's arms. vaughn is waiting in the hall.}
+<C>__{nurse}
+<D>__{the doctor said it's okay mild shock. he can come home in the morning.}
+<C>__{ellen}
+<P>__{(to michael)}
+<D>__{hey, big guy you want anything from home?}
+<C>__{michael}
+<D>__{my cars. and a comic book.}
+<C>__{brody}
+<P>__{(sees vaughn)}
+<D>__{here }
+<P>__{(gives baby to ellen)}
+<D>__{take him home.}
+<C>__{ellen}
+<D>__{home... new york?}
+<C>__{brody}
+<D>__{no. home here.}
+<A>__{ellen exits.}
+<C>__{brody}
+<P>__{(crossing to vaughn)}
+<D>__{got a pen on you?}
+<C>__{vaughn}
+<D>__{why?}
+<C>__{brody}
+<D>__{there's only one thing you're good for anymore signing a damn voucher. here. it's an authorization to employ a contractor.}
+<C>__{vaughn}
+<D>__{i don't know if i can do that without a...}
+<C>__{brody}
+<P>__{(interrupting)}
+<D>__{i'm going to hire quint to kill the fish. i want to see that shark dead.}
+<C>__{vaughn}
+<D>__{maybe we can save august...}
+<C>__{brody}
+<D>__{forget it. this summer's had it. next summer's had it. you're the mayor of shark city. you wanted to keep the beaches open. what happens when the town finds out about that?}
+<C>__{vaughn}
+<D>__{i was acting in the town's best interests...}
+<C>__{brody}
+<D>__{the best interest in this town would be to see that fish belly up in the water with a hole in his head. you do the right thing. you authorize me.}
+<P>__{(indicates paper)}
+<D>__{right there. whatever it costs.}
+<C>__{vaughn}
+<D>__{my kids were on that beach...}
+<C>__{brody}
+<D>__{just sign it, larry.}
+<A>__{vaughn signs, and brody takes the paper and exits. quint's house day brody and hooper are approaching quint's house. they enter through the big wooden doors, into another circle of hell. smoke and steam from two big oil drums sitting over fires fills the air. quint and his mate, herschel, are grinding pieces of pilot whale into chum. the whale lies bloody on the floor, its ruined carcass adding to the stench of other sharks being boiled in the drums, their tails suspended in the air. diesel fumes and decay fill the air, and tools, ropes, broken bits of iron and engine parts litter the floor. wall hangings of rope and floats, and buoys, barrels, tackle and gear all conspire to frame the killing floor. brody and hooper navigate the obstacle course.}
+<C>__{brody}
+<D>__{this has got to be one big violation...}
+<C>__{hooper}
+<P>__{(handling some gear)}
+<D>__{this is quite a place.}
+<C>__{quint's voice}
+<D>__{keep your hands off my stuff.}
+<A>__{he emerges from the steam and smoke.}
+<C>__{quint}
+<D>__{did you bring a check?}
+<C>__{brody}
+<D>__{what?}
+<C>__{quint}
+<D>__{cash? or do we do this on a handshake and a promise?}
+<C>__{brody}
+<D>__{i'm authorized by the township of amity to hire you as an independent contractor. we'll meet your price. $10,000.}
+<C>__{quint}
+<D>__{and my regular daily rate $200, whether we catch him or not.}
+<C>__{brody}
+<D>__{you got it.}
+<C>__{quint}
+<D>__{and incidental damages, if any...}
+<C>__{brody}
+<D>__{you got it.}
+<C>__{quint}
+<D>__{and you get the mayor off my back with this zoning crap. nobody tells me how to run my property.}
+<C>__{brody}
+<D>__{you got it.}
+<C>__{quint}
+<D>__{and, uh, a case of apricot brandy and you buy the lunch.}
+<C>__{brody}
+<D>__{two cases. and dinner when you land.}
+<C>__{quint}
+<P>__{(pours drink)}
+<D>__{try some of this. i made it myself.}
+<A>__{brody tastes.}
+<C>__{quint}
+<D>__{here's to swimmin' with bowlegged women.}
+<A>__{herschel interrupts. he's stopped working, and is wiping his hands on a bloody rag.}
+<C>__{herschel}
+<D>__{mr. quinterior..}
+<A>__{quint wheels to face him.}
+<C>__{herschel}
+<D>__{i'm not goin'. no sir.}
+<C>__{quint}
+<D>__{you want to get paid, you go.}
+<C>__{herschel}
+<D>__{forget the money. you can't pay me enough. i ain't crazy. i worked some big mean fish with you, but i ain't goin' on this one.}
+<C>__{quint}
+<D>__{this is the last time i hear from you. i don't want anyone with piss for blood on my vessel. put that blackfish on board, pump the bilges, and top off the fuel tanks, and finish up in the morning. then you're on the beach.}
+<C>__{hooper}
+<D>__{you're going to need an extra hand...}
+<A>__{quint turns to see this new voice, and starts walking towards him.}
+<C>__{brody}
+<D>__{this is matt hooper...}
+<C>__{quint}
+<D>__{i know who he is...}
+<C>__{brody}
+<D>__{he's from the oceanographic institute.}
+<C>__{hooper}
+<D>__{i've been to sea since i was 12. i've crewed three trans pacs }
+<C>__{quint}
+<D>__{transplants?}
+<C>__{hooper}
+<D>__{ and an america's cup trials...}
+<C>__{quint}
+<D>__{i'm not talking about day sailing or pleasure boating. i'm talking about working for a living. sharking.}
+<C>__{hooper}
+<D>__{and i'm not talking about hooking some poor dogfish or sand shark. i'm talking about a great white.}
+<C>__{quint}
+<D>__{are you now. i know about porkers in the water }
+<P>__{(throws him some rope)}
+<D>__{here. tie me a sheepshank.}
+<A>__{hooper ties the knot effortlessly.}
+<C>__{hooper}
+<D>__{i don't need to pass basic seamanship.}
+<C>__{quint}
+<D>__{let me see your hands...}
+<A>__{he takes hooper's hands in his own big bloody fists, and feels them as he talks.}
+<C>__{quint}
+<D>__{ha. city hands. you been counting money. if you had a $5000 net and $2000 worth of fish in it, and along comes mr. white, and makes it look like a kiddy scissors class has gone to work on it and made paper dolls. if you'd ever worked for a living, you'd know what that means.}
+<C>__{hooper}
+<D>__{look, i don't need to hear any of this working class hero crap. some party boat skipper who's killed a few sharks...}
+<C>__{brody}
+<P>__{(interrupting)}
+<D>__{hey. knock it off. i don't want to have to listen to this while we're out there...}
+<C>__{quint}
+<D>__{what do you mean 'we...?'}
+<C>__{brody}
+<D>__{it's my charter. my party.}
+<C>__{quint}
+<D>__{all right, commissioner. but when we're on my ship, i am master, mate and pilot. and i want him...}
+<P>__{(indicates hooper)}
+<D>__{...along for ballast.}
+<C>__{brody}
+<D>__{you got it.}

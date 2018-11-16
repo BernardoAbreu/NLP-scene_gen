@@ -1,0 +1,31 @@
+<T>__{dissolve:}
+<L>__{exterior sawmill road day}
+<A>__{as the work wagon lumbers along. its markings identify it as belonging to the stageline haven now manages. we recognize jerry the driver as haven rides up. jerry gives him a grin and a salute.}
+<C>__{jerry}
+<D>__{hello there, mr. haven!}
+<C>__{haven}
+<D>__{hello, jerry. what's the haul?}
+<C>__{jerry}
+<D>__{this is that load of grub for the sawmill.}
+<C>__{haven}
+<D>__{want to ride my horse back to town?}
+<C>__{jerry}
+<D>__{what about the wagon here?}
+<C>__{haven}
+<D>__{i will finish the haul.}
+<C>__{jerry}
+<D>__{you're the boss.}
+<A>__{he climbs down as haven dismounts and turns the horse over to jerry.}
+<C>__{haven}
+<P>__{(throwing it away)}
+<D>__{any excitement in town?}
+<C>__{jerry}
+<P>__{(grins)}
+<D>__{don't know, mr. haven. i left before daybreak.}
+<C>__{haven}
+<P>__{(relieved)}
+<D>__{take him easy. he's tired.}
+<C>__{jerry}
+<D>__{i will give him a good rubdown.}
+<P>__{(mounting)}
+<A>__{haven watches him ride away, then climbs aboard the wagon. picking up the reins, he notices the bandages on his hands and, not wanting to be identified by them, rips them off. blowing on his still sore knuckles, he drives toward the sawmill.}

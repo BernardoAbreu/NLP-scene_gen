@@ -1,0 +1,66 @@
+<T>__{cut to:}
+<L>__{interior whitehall palace hallway dusk}
+<A>__{robert cecil walks down the long hall, heading for an audience with the queen. two guards open a door, letting him into }
+<L>__{interior whitehall palace old elizabeth's bedroom dusk}
+<A>__{elizabeth is looking out the window. it's raining outside. she is not wearing her wig, not much make up, and looks quite... odd. robert cecil enters.}
+<C>__{elizabeth}
+<P>__{(turns)}
+<D>__{you find me disgusting, don't you? repugnant. wrinkled?}
+<C>__{robert cecil}
+<D>__{you, you are the sun, majesty. the glory of }
+<C>__{elizabeth}
+<D>__{liar!}
+<A>__{robert cecil shuts his mouth.}
+<C>__{elizabeth }
+<D>__{is it so hard to believe that once i was young? that i was... beautiful? your father knew me as such...}
+<P>__{(beat)}
+<D>__{you have read the book?}
+<A>__{she doesn't have to say which one. robert cecil sees a copy of "venus and adonis" on a table. he nods.}
+<C>__{elizabeth }
+<D>__{he writes to me. to remind me of that beauty. that love. how i... took him. how i... adored him...}
+<A>__{robert cecil knows to be silent. she looks out the window.}
+<C>__{elizabeth }
+<P>__{(throaty, sexually)}
+<D>__{graze on my lips; and if those hills be dry, stray lower, where the pleasant fountains lie...}
+<A>__{she smiles seductively, transported in time.}
+<C>__{elizabeth }
+<D>__{i've been foolish. proud. yes. too proud. gloriana... the virgin queen... a statue. bloodless.}
+<P>__{(beat)}
+<D>__{"thou wast begot; to beget is thy duty. by law of nature thou art bound to breed, that thine may live when thou thyself art dead"...}
+<P>__{(beat)}
+<D>__{your father told you of the child?}
+<A>__{a beat.}
+<C>__{robert cecil}
+<P>__{(hint of a smile)}
+<D>__{which one, your majesty?}
+<A>__{elizabeth's eyes flare in anger for an instant, then she regains composure.}
+<C>__{elizabeth}
+<D>__{his. mine. he still lives?}
+<A>__{robert cecil nods.}
+<C>__{elizabeth }
+<D>__{he was well placed? a nobleman?}
+<C>__{robert cecil}
+<P>__{(hesitates)}
+<D>__{yes... your majesty.}
+<C>__{elizabeth}
+<D>__{who?}
+<A>__{robert cecil hesitates.}
+<C>__{elizabeth }
+<D>__{i am your queen! now who is my son!!?}
+<C>__{robert cecil}
+<D>__{his grace, the earl of... southampton, your majesty.}
+<A>__{she seems surprised. perhaps she was expecting essex. but then she smiles, and nods in approval.}
+<C>__{cecil}
+<D>__{majesty... you are not having doubts about james of scotland succeeding you, are you?}
+<A>__{elizabeth goes into a rage.}
+<C>__{elizabeth}
+<D>__{james?! he is the son of mary! she plotted and schemed to steal the throne from under me! no son of hers will rule while a yet tudor lives!}
+<A>__{robert cecil is surprised by her fury. he bows his head as elizabeth tries to collect herself.}
+<C>__{elizabeth }
+<D>__{i will decide what is best for my kingdom! not you! not you!!}
+<P>__{(calmer)}
+<D>__{i have bid edward to come to me on my return to london on monday nexterior it is decided.}
+<A>__{she says no more, the audience over. robert cecil hesitates, and then she glares at him... he bows and exits, the fury on his face plain. elizabeth looks at her own reflection in the window...}
+<C>__{elizabeth }
+<P>__{(sotto)}
+<D>__{and so, in spite of death, i shall survive, in that, my likeness still is left alive.}

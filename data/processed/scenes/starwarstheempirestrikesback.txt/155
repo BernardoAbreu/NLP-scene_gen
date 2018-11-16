@@ -1,0 +1,61 @@
+<L>__{interior creature's house}
+<A>__{artoo, peeking in the window, sees the inside of the house a very plain, but cozy dwelling. everything is in the same small scale as the creature. the only thing out of place in the miniature room is luke, whose height makes the four foot ceiling seem even lower. he sits cross legged on the floor of the living room. the creature is in an adjoining area his little kitchen cooking up an incredible meal. the stove is a steaming hodgepodge of pots and pans. the wizened little host scurries about chopping this, shredding that, and showering everything with exotic herbs and spices. he rushes back and forth putting platters on the table in front of luke, who watches the creature impatiently.}
+<C>__{luke}
+<D>__{look, i'm sure it's delicious. i just don't understand why we can't see yoda now.}
+<C>__{creature}
+<D>__{patience! for the jedi it is time to eat as well. eat, eat. hot. good food, hm? good, hmm?}
+<A>__{moving with some difficulty in the cramped quarters, luke sits down near the fire and serves himself from the pot. tasting the unfamiliar concoction, he is pleasantly surprised.}
+<C>__{luke}
+<D>__{how far away is yoda? will it take us long to get there?}
+<C>__{creature}
+<D>__{not far. yoda not far. patience. soon you will be with him.}
+<P>__{(tasting food from the pot)}
+<D>__{rootleaf, i cook. why wish you become jedi? hm?}
+<C>__{luke}
+<D>__{mostly because of my father, i guess.}
+<C>__{creature}
+<D>__{ah, your father. powerful jedi was he, powerful jedi, mmm.}
+<C>__{luke}
+<P>__{(a little angry)}
+<D>__{oh, come on. how could you know my father? you don't even know who i am.}
+<P>__{(fed up)}
+<D>__{oh, i don't know what i'm doing here. we're wasting our time.}
+<A>__{the creature turns away from luke and speaks to a third party.}
+<C>__{creature}
+<P>__{(irritated)}
+<D>__{i cannot teach him. the boy has no patience.}
+<A>__{luke's head spins in the direction the creature faces. but there is no one there. the boy is bewildered, but it gradually dawns on him that the little creature is yoda, the jedi master, and that he is speaking with ben.}
+<C>__{ben's voice}
+<D>__{he will learn patience.}
+<C>__{yoda}
+<D>__{hmmm. much anger in him, like his father.}
+<C>__{ben's voice}
+<D>__{was i any different when you taught me?}
+<C>__{yoda}
+<D>__{hah. he is not ready.}
+<C>__{luke}
+<D>__{yoda! i am ready. i... ben! i can be a jedi. ben, tell him i'm ready.}
+<A>__{trying to see ben, luke starts to get up but hits his head on the low ceiling.}
+<C>__{yoda}
+<D>__{ready, are you? what know you of ready? for eight hundred years have i trained jedi. my own counsel will i keep on who is to be trained! a jedi must have the deepest commitment, the most serious mind.}
+<P>__{(to the invisible ben, indicating luke)}
+<D>__{this one a long time have i watched. all his life has he looked away... to the future, to the horizon. never his mind on where he was. hmm? what he was doing. hmph. adventure. heh! excitement. heh! a jedi craves not these things.}
+<P>__{(turning to luke)}
+<D>__{you are reckless!}
+<A>__{luke looks down. he knows it is true.}
+<C>__{ben's voice}
+<D>__{so was i, if you'll remember.}
+<C>__{yoda}
+<D>__{he is too old. yes, too old to begin the training.}
+<A>__{luke thinks he detects a subtle softening in yoda's voice.}
+<C>__{luke}
+<D>__{but i've learned so much.}
+<A>__{yoda turns his piercing gaze on luke, as though the jedi master's huge eyes could somehow determine how much the boy had learned. after a long moment, the little jedi turns toward where he alone sees ben.}
+<C>__{yoda}
+<P>__{(sighs)}
+<D>__{will he finished what he begins?}
+<C>__{luke}
+<D>__{i won't fail you i'm not afraid.}
+<C>__{yoda}
+<P>__{(turns slowly toward him)}
+<D>__{oh, you will be. you will be.}

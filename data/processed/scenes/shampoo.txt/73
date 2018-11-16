@@ -1,0 +1,89 @@
+<L>__{exterior shop george day}
+<A>__{pulls up. he goes into the shop.}
+<L>__{interior shop norman and devra}
+<A>__{norman is by the front desk.}
+<C>__{norman}
+<D>__{you're late, george.}
+<C>__{george}
+<D>__{devra, try jackie shawn will you? and if you don't reach her, keep trying.}
+<C>__{devra}
+<P>__{(on desk)}
+<D>__{mrs. shumann and mrs. young are waiting. mrs. young is kind of p.o.'d.}
+<A>__{george nods.}
+<C>__{george}
+<D>__{where's mary?}
+<C>__{devra}
+<D>__{she hasn't showed up yet.}
+<C>__{george}
+<P>__{(grumbling something under his breath, then:)}
+<D>__{norman!}
+<P>__{(to devra)}
+<D>__{devra, i asked you to call jackie. call her.}
+<C>__{devra}
+<P>__{(perturbed)}
+<D>__{all right.}
+<A>__{norman from upstairs shouts down.}
+<C>__{norman}
+<D>__{what!}
+<C>__{george}
+<D>__{somebody's going to have to wash mrs. young. mary's not here.}
+<C>__{norman}
+<D>__{you do it.}
+<C>__{george}
+<P>__{(he's had about enough)}
+<D>__{look, norman, i'm not the shampoo girl.}
+<C>__{norman}
+<D>__{you are today.}
+<A>__{george starts to say something but he's tired. he goes to his corner, slams his jacket down.}
+<C>__{mrs. shumann}
+<D>__{temper, temper, george.}
+<A>__{george fiddles around with the shampoos and rinses, knocks over one where the top was not on, and the shampoo spills all over the table top and starts to drip on the floor.}
+<C>__{george}
+<D>__{oh, jesus, that fucking goddam mary }
+<A>__{he starts to look for a rag and sees that mary, wearing a cloth coat is coming into the shop.}
+<C>__{george }
+<D>__{mary! get over here!}
+<A>__{mary moves very slowly, george waits, hands on hips. it should almost be a little faggy, his petulance as if, inevitably some of the shop must rub off on him.}
+<C>__{george }
+<D>__{mary, where were you yesterday? huh?}
+<A>__{mary doesn't answer.}
+<C>__{george }
+<D>__{you ran out on me and you left it like a goddamn pig pen.}
+<A>__{mary's swaying.}
+<C>__{george }
+<D>__{what's wrong, mary, are you drunk? look, i've had a rough night, one of the roughest i've ever had, now i'm not in the mood for any sulking bullshit, what's wrong? are you sick? are you drunk? can you work?}
+<C>__{mary}
+<D>__{otis is dead.}
+<C>__{george}
+<D>__{ otis?}
+<A>__{she points to his picture on the wall.}
+<C>__{mary}
+<D>__{my son otis. he was killed in vietnam. they done phoned me at the shop yesterday.}
+<A>__{it's suddenly very quiet. the sound of the shampoo dripping on the floor can be heard.}
+<B>__{george and mary}
+<C>__{george}
+<D>__{oh, mary.}
+<A>__{mary starts to cry and like a little child buries her head on george's shoulder.}
+<C>__{mary}
+<D>__{ you shouldn't talk to me like that no matter what, george... you know better...}
+<C>__{george}
+<D>__{ oh sweetheart...}
+<C>__{mary}
+<D>__{ you shouldn't do me like that...}
+<C>__{george}
+<P>__{(hugging her)}
+<D>__{ please, please forgive me...}
+<C>__{mary}
+<P>__{(crying)}
+<D>__{ you know better...}
+<C>__{george}
+<P>__{(after a moment)}
+<D>__{ why did you come in today?}
+<C>__{mary}
+<D>__{ left my bag, didn't have no money...}
+<C>__{george}
+<D>__{ how did you get here?}
+<C>__{mary}
+<D>__{ took a bus.}
+<C>__{george}
+<D>__{ c'mon, i will get you home...}

@@ -1,0 +1,98 @@
+<L>__{interior bank reserve vault area day}
+<A>__{they're herding the men through the hall.}
+<C>__{bank manager}
+<P>__{(to the sub lobby teller)}
+<D>__{[vault locked?]}
+<C>__{sub lobby teller}
+<D>__{[yes.]}
+<C>__{eric}
+<D>__{[shut your fucking mouths!]}
+<C>__{bank manager}
+<P>__{(to eric)}
+<D>__{[the vault doors are shut and time locked. you won't be able to open them.]}
+<A>__{they walk through a doorway into the storage elevator area.}
+<L>__{interior bank storage elevator area day}
+<A>__{eric pushes the manager and the others through the doorway.}
+<C>__{eric}
+<P>__{(to the bank manager)}
+<D>__{[you think we're fucking amateurs? you think we're stupid? i've got news for you...we planned ahead my friend!]}
+<A>__{eric pushes them infront of the calibre vault door.}
+<C>__{eric}
+<D>__{[now save us a lot of time and just open the vault.]}
+<C>__{bank manager}
+<D>__{[no.]}
+<C>__{eric}
+<D>__{[okay.]}
+<A>__{he releases the bank manager and stuffs the barrel of his handgun into the sub level tellers mouth.}
+<C>__{eric}
+<D>__{[open the vault.]}
+<A>__{the teller's eyes widen.}
+<C>__{bank manager}
+<D>__{[i cannot.]}
+<C>__{eric}
+<D>__{[oh.]}
+<P>__{(to the teller)}
+<D>__{[can you?]}
+<C>__{bank manager}
+<D>__{[no. once closed only i can open it.]}
+<C>__{eric}
+<D>__{[then open it.]}
+<C>__{bank manager}
+<D>__{[i cannot.]}
+<A>__{the sub lobby teller's eyes plead with the bank manager. zed is watching the whole affair nervously.}
+<C>__{eric}
+<D>__{[do you understand that i will kill her if you don't open this fucking vault?]}
+<C>__{bank manager}
+<D>__{[do you understand that this is an international reserve bank? robbing it is punishable by life imprisonment.]}
+<A>__{eric fires. the back of the sub lobby teller's head paints the wall red.}
+<C>__{zed}
+<D>__{jesus fucking christ!}
+<A>__{the bank manager, shocked as he is, looks at zed. he knows he's an american. the sub lobby teller's body slumps to the ground. eric grabs the stodgy customer and puts the gun to his temple.}
+<C>__{eric}
+<D>__{[open the vault door or i will kill this man nexterior]}
+<A>__{the bank manager is freaking out, but after what was probably the most horribly agonizing internal debate, he holds his ground.}
+<C>__{bank manager}
+<D>__{[i still cannot open the vault.]}
+<C>__{eric}
+<D>__{[come on. it's only things in there. this man is flesh and blood.]}
+<C>__{bank manager}
+<D>__{[i will not open the vault.]}
+<C>__{zed}
+<D>__{eric no! i can open the vault!}
+<C>__{eric}
+<D>__{shut the fuck up!}
+<P>__{(then to the stodgy customer)}
+<D>__{[you're a customer in this bank and this is how they treat you. do you have a family?]}
+<A>__{he nods his head "yes".}
+<C>__{eric}
+<D>__{[would you like to see them again?]}
+<A>__{he nods his head again.}
+<C>__{eric}
+<P>__{(to the manager)}
+<D>__{[this man has a family he would like to have bastille day dinner with tonight. so save us some time and open the vault.]}
+<A>__{after losing about a pound of sweat...}
+<C>__{bank manager}
+<D>__{[no.]}
+<A>__{eric quickly removes the gun from the customers temple and fires two shots into the bank manager's face. the bank manager falls against the vault door and onto the floor.}
+<C>__{eric}
+<D>__{fucking idiot.}
+<P>__{(then to the stodgy customer)}
+<D>__{[you seem like a nice man. tonight at dinner think about how lucky you are and how much you love your family.]}
+<A>__{he starts nodding his head.}
+<C>__{stodgy customer}
+<D>__{oui.}
+<C>__{eric}
+<P>__{(to oliver)}
+<D>__{[take him upstairs.]}
+<A>__{oliver takes the customer upstairs to the rest of the people. eric rips off his mask.}
+<C>__{eric}
+<D>__{don't you ever conflict with me during work again! do you hear!?}
+<A>__{zed off his clown mask.}
+<C>__{zed}
+<D>__{you didn't have to shoot any of them!}
+<C>__{eric}
+<P>__{(patronizing)}
+<D>__{oh, i'm sorry. i didn't realize you were in charge now. nobody told me.}
+<P>__{(his temper flares)}
+<D>__{if he had opened the vault it would have saved us a fucking hour.}
+<A>__{he charges into the reserve vault area.}

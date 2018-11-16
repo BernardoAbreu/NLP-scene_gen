@@ -1,0 +1,41 @@
+<T>__{dissolve to:}
+<L>__{interior sitting room walter reed hospital night}
+<A>__{there is a door to the corridor and a door to klaatu's room. in the small sitting room, talking in tones of hushed concern, is a group of men. there's a major general, a likable man with a chest full of ribbons. there are also a colonel in command of the hospital, a high ranking police officer, a couple of medical officers and two civilians. the conversation is interrupted by the entrance from klaatu's room of a medical corps major, followed by an army nurse.}
+<C>__{general}
+<P>__{(to major)}
+<D>__{how is he?}
+<C>__{major white}
+<D>__{he's all right, general... blood pressure's a little high, but it could be aggravation.}
+<C>__{general}
+<P>__{(wryly)}
+<D>__{can't blame him. i always get mad when somebody shoots me.}
+<C>__{major white}
+<D>__{he still wants to see the president.}
+<C>__{colonel}
+<P>__{(to general)}
+<D>__{we informed the white house over an hour ago.}
+<C>__{general}
+<P>__{(to major)}
+<D>__{didn't drop any hints about where he's from, did he?}
+<C>__{major white}
+<D>__{no, sir, he didn't.}
+<A>__{the door to the corridor opens and a worried young captain enters.}
+<C>__{captain}
+<D>__{excuse me.}
+<P>__{(to the colonel)}
+<D>__{what about the reporters, colonel? they're swarming all over the lobby.}
+<A>__{the colonel turns, in deference, to the general.}
+<C>__{general}
+<P>__{(quietly)}
+<D>__{tell them there won't be any statement tonight.}
+<C>__{captain}
+<D>__{yes, sir.}
+<P>__{(glancing down the corridor)}
+<D>__{mr. harley's here from the white house.}
+<A>__{harley appears in the doorway, a brief case under his arm. he's a dignified, intelligent member of the white house secretariat. he proceeds uninterruptedly into the room, nodding cordially to the general.}
+<C>__{harley}
+<D>__{general }
+<C>__{general}
+<P>__{(indicating klaatu's room)}
+<D>__{right in there, mr. harley.}
+<A>__{harley proceeds in businesslike fashion to the door. he knocks and then enters.}

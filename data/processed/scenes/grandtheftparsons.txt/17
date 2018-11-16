@@ -1,0 +1,15 @@
+<L>__{interior hospital locker room. morning}
+<A>__{phil slips off his overcoat and stuffs it into the trash. he tosses away the unlit cigar, grabs a white coat from a hook and puts it on. he walks out through another door.}
+<L>__{interior hospital corridor. morning}
+<A>__{phil wanders down the corridor, glancing into rooms and checking signs. he pushes open a door marked 'pathology'.}
+<L>__{interior hospital pathology lab. morning}
+<A>__{the room is empty, except for a couple of covered bodies on trolleys. phil checks under the first sheet, and recoils at whatever it is which lies beneath.}
+<C>__{phil}
+<D>__{sheesh!}
+<A>__{he walks over to the next gurney and lifts the sheet. he stares down at the body, visibly moved.}
+<C>__{phil }
+<D>__{hello buddy. how you been?}
+<A>__{he stands for a moment, gripping the gurney and looking down at his friend. then he snaps out of it.}
+<C>__{phil }
+<D>__{well, i can't stand around here chatting with you all day. things to do...}
+<A>__{he wheels the gurney towards the door.}

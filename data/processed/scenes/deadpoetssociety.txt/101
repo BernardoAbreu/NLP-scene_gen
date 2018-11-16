@@ -1,0 +1,35 @@
+<L>__{interior hallway day}
+<A>__{todd is lead up the steps to mr. nolan's office by hager.}
+<L>__{interior nolan's office day}
+<A>__{todd enters the room to see his mother and father seated opposite mr. nolan's desk.}
+<C>__{mr. anderson}
+<D>__{hello, son.}
+<C>__{mrs. anderson}
+<D>__{hello, darling.}
+<C>__{todd}
+<D>__{mom.}
+<A>__{the door closes behind todd. he remains standing, not knowing what to do.}
+<C>__{mr. nolan}
+<D>__{have a seat, mr. anderson.}
+<A>__{todd sits down next to his parents.}
+<C>__{mr. nolan}
+<D>__{mr. anderson, i think we've pretty well put together what's happened here. you do admit to being a part of this dead poets society?}
+<A>__{todd says nothing.}
+<C>__{mr. anderson}
+<D>__{answer him, todd.}
+<C>__{todd}
+<D>__{yes, sir.}
+<A>__{mr. nolan puts his glasses on and glances at a paper before him before removing his glasses once more.}
+<C>__{mr. nolan}
+<D>__{i have here a detailed description of what occurred at your meetings. it describes how your teacher, mr. keating, encouraged you boys to organize this club and to use it as a source of inspiration for reckless and self indulgent behavior. it describes how mr. keating, both in and out of the classroom, encouraged neil perry to follow his obsession with acting when he knew all along it was against the explicit order of neil's parents. it was mr. keating's blatant abuse of his position as teacher that led directly to neil perry's death.}
+<A>__{mr. nolan motions to todd's father, who passes along a sheet of paper to todd.}
+<C>__{mr. nolan}
+<D>__{read that document carefully, todd. very carefully.}
+<A>__{todd looks at the paper, which already contains the signatures of the other four boys.}
+<C>__{mr. nolan}
+<D>__{if you've nothing to add or amend, sign it.}
+<C>__{todd}
+<D>__{what's gonna happen to mr. keating?}
+<C>__{mr. anderson}
+<D>__{i've had enough. sign the paper, todd.}
+<A>__{mr. nolan holds out a pen for todd to take.}

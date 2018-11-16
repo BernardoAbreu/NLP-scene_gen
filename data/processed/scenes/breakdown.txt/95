@@ -1,0 +1,65 @@
+<T>__{cut to:}
+<L>__{exterior bottom of mesa day}
+<A>__{jeff stumbles and nearly falls as he descends the loose rock at the foot of the mesa. he looks up at the ridge, but red and his crew have pulled back out of view. jeff starts across an open field toward the town, first jogging, then running.}
+<L>__{exterior street day}
+<A>__{jeff hurries toward the bank. he looks back at the mesa again. the gang has disappeared. up ahead, a mud streaked pickup cruises the main street. jeff eyes it warily. is it one of theirs? the truck pulls around a corner.}
+<L>__{interior bank day}
+<A>__{jeff pushes through the main doors. it's a typical small town operation. a guard stands near the entrance. several customers wait in line for the woman teller. jeff looks at the slow moving line and swears softly. he doesn't have time to wait. he glances around, sees an older man sitting at a desk in the rear of the bank, the nameplate on the desk identifying him as roger calhoun. jeff approaches.}
+<C>__{jeff}
+<D>__{i need to see the manager. i need a wire transfer from my bank in boston.}
+<A>__{calhoun looks up from his paperwork, hesitates at jeff's appearance.}
+<C>__{calhoun}
+<D>__{yes... sir. i'm the manager. would you like to have a seat?}
+<A>__{jeff remains standing. he eyes the other customers nervously.}
+<C>__{calhoun}
+<D>__{sir?}
+<C>__{jeff}
+<P>__{(turning; preoccupied)}
+<D>__{what?}
+<C>__{calhoun}
+<D>__{i said you can have a seat if you want.}
+<C>__{jeff}
+<D>__{right.}
+<A>__{he takes a seat across the desk from the manager, reaches into his wallet and brings out several forms of identification.}
+<C>__{jeff}
+<D>__{here's my driver's license, credit card if you need it, my account number in boston... how long is this going to take?}
+<A>__{calhoun looks at him curiously.}
+<C>__{calhoun}
+<D>__{are you all right?}
+<C>__{jeff}
+<P>__{(quickly)}
+<D>__{yes, i'm fine. look, that account only has $5,000 in it. how much can you advance me on my credit card?}
+<C>__{calhoun}
+<D>__{excuse me?}
+<C>__{jeff}
+<P>__{(impatient)}
+<D>__{my credit card. i've got a $6,000 limit. can you advance me the whole $6,000?}
+<A>__{calhoun looks mystified.}
+<C>__{calhoun}
+<D>__{no, i can't. for non customers the limit is $500 a day. sir, are you sure you're all right?}
+<C>__{jeff}
+<D>__{yes, i'm fine. just... transfer the money, okay?}
+<A>__{calhoun raises an eyebrow and begins filling out the transfer form. jeff eyes him, decides he has to risk it. he leans toward the desk.}
+<C>__{jeff}
+<D>__{look, i'm going to tell you something. whatever happens, just keep filling out that form, okay?}
+<C>__{calhoun}
+<P>__{(looking up; baffled)}
+<D>__{sir?}
+<C>__{jeff}
+<D>__{there are people watching }
+<C>__{cowboy }
+<D>__{excuse me, you the manager?}
+<A>__{jeff turns. a guy wearing cowboy boots and a feed cap stands behind him.}
+<C>__{calhoun}
+<D>__{yes, i am.}
+<C>__{cowboy}
+<D>__{lady over there said to see you about a car loan.}
+<C>__{calhoun}
+<P>__{(indicating waiting area)}
+<D>__{certainly, sir. would you like to have a seat?}
+<A>__{the guy takes a seat ten feet away. jeff looks at him, paranoid. their eyes meet. jeff looks away quickly.}
+<C>__{calhoun}
+<P>__{(turning back to jeff)}
+<D>__{you were saying, mr. taylor?}
+<C>__{jeff}
+<D>__{just... transfer the money.}

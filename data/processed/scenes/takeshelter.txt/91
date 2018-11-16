@@ -1,0 +1,41 @@
+<L>__{interior delta agri pro main office jim's office day}
+<A>__{jim fills out paperwork at his desk. there is a knock.}
+<C>__{jim}
+<D>__{come in.}
+<A>__{curtis walks inside. he stands in front of the desk.}
+<C>__{jim }
+<D>__{what you need curtis?}
+<C>__{curtis}
+<D>__{i need a favor jim.}
+<C>__{jim}
+<D>__{what's that?}
+<C>__{curtis}
+<D>__{can you take dewart off my crew? just reassign him someplace else.}
+<A>__{jim sets his pen down and leans back.}
+<C>__{jim}
+<D>__{what's the trouble? he not pullin' his weight?}
+<C>__{curtis}
+<D>__{no, nothin' like that. he's a good worker. he's a good man. he's my friend. i think it'd be easier not being in charge of someone i'm so close to.}
+<A>__{jim nods.}
+<C>__{jim}
+<D>__{you know, i understand. this is part of what it means to manage people curtis. you're gonna have to learn that.}
+<C>__{curtis}
+<D>__{yes sir. i appreciate that but... well it would just be very helpful in this case.}
+<C>__{jim}
+<D>__{okay. well, i can put him with russell. anybody else you prefer?}
+<C>__{curtis}
+<D>__{no. whoever you think's right.}
+<C>__{jim}
+<D>__{okay.}
+<C>__{curtis}
+<D>__{thank you.}
+<A>__{curtis turns to leave the office.}
+<C>__{jim}
+<D>__{you been missin' a lotta work curtis.}
+<C>__{curtis}
+<D>__{i know. my daughter's had a lot of doctor's visits. i haven't let anything get behind.}
+<C>__{jim}
+<D>__{no. but don't. okay.}
+<C>__{curtis}
+<D>__{yessir.}
+<A>__{curtis shows himself out.}

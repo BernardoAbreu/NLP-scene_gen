@@ -1,0 +1,21 @@
+<L>__{exterior pay phone day}
+<A>__{louise is hanging up the phone. she walks away towards the front of the store.}
+<L>__{exterior country store day}
+<A>__{thelma comes out of the front of the store. the store is at a crossroads with a fair amount of vehicular traffic.}
+<C>__{louise}
+<D>__{go call darryl.}
+<A>__{thelma is walking towards the car. she puts her purse in the front seat. she looks at louise.}
+<C>__{thelma}
+<D>__{call him?}
+<C>__{louise}
+<D>__{call him. don't tell him anything. tell him you're having a wonderful time and you'll be home tomorrow night.}
+<C>__{thelma}
+<D>__{will i be?}
+<C>__{louise}
+<D>__{i don't know. i won't be.}
+<A>__{thelma and louise look at each other while this sinks in.}
+<B>__{thelma}
+<A>__{walks around to the side of the building to the phone. she picks it up and dials.}
+<C>__{thelma}
+<P>__{(into phone)}
+<D>__{collect from thelma.}

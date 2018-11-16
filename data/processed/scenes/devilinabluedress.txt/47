@@ -1,0 +1,110 @@
+<L>__{interior motel room}
+<A>__{it's a regular drab, cheap motel that she has given a warmer touch with colorful scarves draped over the two lamps.}
+<C>__{daphne}
+<D>__{would you like a drink?}
+<A>__{she indicates a pint of scotch on the dresser with an empty glass and one that she's been drinking from.}
+<C>__{easy}
+<D>__{no, thanks.}
+<A>__{she indicates the chair.}
+<C>__{daphne}
+<D>__{please sit down.}
+<A>__{she's wearing a blue dress that's plain, cutting just below her knee with a ceramic pin just over her left breast.}
+<C>__{daphne}
+<D>__{what happened to you? have you been fighting?}
+<A>__{easy stubs out his cigarette in an ashtray and sits down.}
+<C>__{easy}
+<D>__{why don't you just tell me what you want?}
+<A>__{she sits down too, her calm but brittle exterior betrayed at the hands. she stops wringing them when she sees that he notices and takes a drink more medicine than pleasure.}
+<C>__{daphne}
+<D>__{i should be asking you that question. why have you been asking about me?}
+<C>__{easy}
+<D>__{i heard about you. fellas at john's said you were something to see.}
+<C>__{daphne}
+<D>__{so...? you've found me.}
+<C>__{easy}
+<D>__{uh... yeah... guess i have. but you got a boyfriend i don't want no part of... frank green.}
+<A>__{she lights a cigarette.}
+<C>__{daphne}
+<D>__{you can stop pretending, mr. rawlins. i know someone hired you to look for me. in fact i had to pay coretta not to tell you where i was... you know how coretta is...}
+<P>__{(forces a weak smile)}
+<D>__{she told me you two became 'good friends' yesterday...}
+<P>__{(tears gather in her eyes)}
+<D>__{i talked to her this morning before she died.}
+<P>__{(regaining control)}
+<D>__{i... uh... need to go across town to see someone. it's very important... i can't seem to reach him by phone. i'm afraid i'd better have someone go with me.}
+<C>__{easy}
+<D>__{uh... miss monet }
+<C>__{daphne}
+<D>__{call me daphne.}
+<C>__{easy}
+<D>__{daphne }
+<C>__{daphne}
+<D>__{i can understand why you'd be nervous... because i threatened you with coretta... i'm very sorry, but i couldn't think of any other way to get you to come.}
+<A>__{she takes another drink and stubs out her cigarette though it's less than a third gone.}
+<C>__{easy}
+<D>__{i can't why don't you ask frank?}
+<A>__{she gets up and starts to pace nervously about the room.}
+<C>__{daphne}
+<D>__{he's out of town i... i'm willing to pay you.}
+<C>__{easy}
+<D>__{that's nice of you but, see, i'm not really a detective }
+<C>__{daphne}
+<D>__{ i know that.}
+<C>__{easy}
+<D>__{i was just hired to ask around to try to find you for a man }
+<C>__{daphne}
+<D>__{i know all about that, mr. rawlins.}
+<C>__{easy}
+<D>__{but this is a gettin' a little out of hand }
+<C>__{daphne}
+<D>__{ mr. rawlins }
+<C>__{easy}
+<D>__{ easy.}
+<C>__{daphne}
+<D>__{easy... if you don't help me, then i will call the police and tell them that you were with coretta before she died and that you've been after me too.}
+<A>__{that stops easy.}
+<C>__{easy}
+<D>__{you'd do that?}
+<C>__{daphne}
+<D>__{yes, i would. i don't want to but i would.}
+<A>__{she hates herself for threatening and decides to change direction, moving in close.}
+<C>__{daphne}
+<D>__{please let me pay you.}
+<C>__{easy}
+<D>__{no. i can't do that.}
+<C>__{daphne}
+<D>__{why?}
+<C>__{easy}
+<D>__{i don't want no part of all this.}
+<C>__{daphne}
+<D>__{please, i will pay you twenty dollars.}
+<C>__{easy}
+<D>__{no dice.}
+<C>__{daphne}
+<D>__{thirty... or even more. name your price.}
+<A>__{she moves in closer, massaging with her voice.}
+<C>__{daphne}
+<P>__{(continuing)}
+<D>__{go ahead. there's gotta be something that you want.}
+<A>__{her eyes make an offer, but he's a better man than me and he's not taking.}
+<C>__{daphne}
+<P>__{(angrily, sarcastically)}
+<D>__{what? are you afraid i will yell rape or something?}
+<A>__{she walks away and turns up her glass, her desperation, raw, unguarded.}
+<C>__{easy}
+<D>__{uh, miss monet... daphne, i'm sorry but i really better be goin'.}
+<A>__{he starts out and she runs to stop him.}
+<C>__{daphne}
+<D>__{easy, don't touch that door }
+<A>__{he opens it and scream! like an alarm, she's shrieking all of the scale. he looks out and sees lights going on in other rooms.}
+<B>__{back to scene}
+<A>__{he looks back frantically and grabs her by the shoulders.}
+<C>__{easy}
+<D>__{crazy assed broad! what the hell are you doing?!}
+<C>__{daphne}
+<D>__{i'm really very sorry. i really am.}
+<A>__{she pulls on a coat and grabs her purse.}
+<C>__{daphne}
+<P>__{(continuing)}
+<D>__{i didn't want to do this but... shall we?}
+<A>__{she grabs an already packed suitcase and is out the door.}

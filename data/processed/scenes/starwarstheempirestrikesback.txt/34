@@ -1,0 +1,35 @@
+<L>__{interior rebel base control room.}
+<A>__{alarms sound throughout the hidden rebel base. in the control room, a controller urgently gestures for general rieekan to check a computer scan.}
+<C>__{controller}
+<D>__{general, there's a fleet of star destroyers coming out of hyperspace in sector four.}
+<C>__{rieekan}
+<D>__{reroute all power to the energy shield. we've got to hold them till all transports are away. prepare for ground assault.}
+<A>__{rieekan exits hurriedly.}
+<L>__{interior vader's star destroyer vader's chamber meditation cubicle}
+<A>__{the dark cubicle is illuminated by a single shaft of light which falls on the brooding dark lord as he sits on a raised meditation cube. general veers enters the room and approaches the silent, unmoving vader. although seemingly very sure of himself, veers is still not bold enough to interrupt the meditating lord. the younger general stands quietly at attention until the evil presence speaks.}
+<C>__{vader}
+<D>__{what is it, general?}
+<C>__{veers}
+<D>__{my lord, the fleet has moves out of light speed. com scan has detected an energy field protecting an area around the sixth planet of the hoth system. the field is strong enough to deflect any bombardment.}
+<C>__{vader}
+<P>__{(angrily)}
+<D>__{the rebels are alerted to our presence. admiral ozzel came out of light speed too close to the system.}
+<C>__{veers}
+<D>__{he felt surprise was wiser...}
+<C>__{vader}
+<D>__{he is as clumsy as he is stupid. general, prepare your troops for a surface attack.}
+<C>__{veers}
+<D>__{yes, my lord.}
+<A>__{veers turns smartly and leaves as vader activates a large viewscreen showing the bridge of his mighty ship. admiral ozzel appears on the viewscreen, standing slightly in front of captain piett.}
+<C>__{ozzel}
+<D>__{lord vader, the fleet has moved out of light speed, and we're preparing to... aaagh!}
+<C>__{vader}
+<D>__{you have failed me for the last time, admiral. captain piett.}
+<A>__{piett steps forward, as the admiral moves away, slightly confused, touching his throat as it begins to constrict painfully.}
+<C>__{piett}
+<D>__{yes, my lord.}
+<C>__{vader}
+<A>__{make ready to land out troops beyond the energy shield and deploy the fleet so that nothing gets off that system. you are in command now, admiral piett.}
+<C>__{piett}
+<D>__{thank you, lord vader.}
+<A>__{piett's pleasure about his unexpected promotion is not an unmixed emotion. he glances warily at the struggling admiral ozzel who, with a final choke, stumbles and falls in a lifeless heap before him.}

@@ -1,0 +1,21 @@
+<L>__{interior rand mansion basement bowling alley day}
+<A>__{chance stands in the middle of the two lane bowling alley, totally confused. mrs. aubrey enters, he smiles at her.}
+<C>__{mrs. aubrey}
+<D>__{oh, mr. gardiner, i've been looking all over.}
+<C>__{chance}
+<D>__{oh, yes.}
+<C>__{mrs. aubrey}
+<D>__{morton hull, the producer of 'this evening' just called.}
+<C>__{chance}
+<D>__{yes, i have seen that show on television.}
+<C>__{mrs. aubrey}
+<D>__{of course. they would like you to appear on the show tonight. the vice president was scheduled, but he had to cancel, and they asked if you would be interested.}
+<C>__{chance}
+<D>__{yes. i would like to be on that show.}
+<C>__{mrs. aubrey}
+<D>__{fine. they felt that since you had such close ties with the president, you would be a splendid choice.}
+<P>__{(chance nods, there is a pause)}
+<D>__{... can i help you? are you looking for something?}
+<C>__{chance}
+<D>__{no. i like this attic very much.}
+<A>__{mrs. aubrey gives him a look, leaves.}

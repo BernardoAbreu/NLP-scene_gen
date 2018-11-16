@@ -1,0 +1,140 @@
+<L>__{interior living room 221b baker street night}
+<A>__{watson is leading gabrielle to a chair by the fireplace. holmes is putting his violin down on the table.}
+<C>__{watson}
+<D>__{sit here, my dear.}
+<A>__{he settles her in the chair. holmes comes over, plucks the square of cardboard from watson's hand.}
+<C>__{watson}
+<D>__{she's suffering from shock and exposure.}
+<A>__{he starts to massage her wrists to restore her circulation. holmes is examining the soggy cardboard. on one side is their address, written in pencil. he turns it over, disclosing some smudges of green ink on the other side.}
+<C>__{holmes}
+<D>__{there was some printing on the back of this but it seems to have come off in the water.}
+<A>__{watson is now studying the bruise on gabrielle's temple.}
+<C>__{watson}
+<D>__{look at this she's had a nasty blow on the head.}
+<C>__{holmes}
+<D>__{could she have hit her head when she fell or jumped into the river?}
+<C>__{watson}
+<D>__{no. the blood has already coagulated. so it would appear that she was the victim of a deliberate attack... get my bag, will you?}
+<A>__{as holmes fetches the medical bag, gabrielle looks from one to the other.}
+<C>__{gabrielle}
+<D>__{who are you?}
+<C>__{watson}
+<D>__{i'm dr. watson and this is mr. sherlock holmes. do the names mean anything to you?}
+<C>__{gabrielle}
+<D>__{no.}
+<C>__{watson}
+<D>__{think.}
+<C>__{gabrielle}
+<D>__{i'm trying.}
+<C>__{holmes}
+<D>__{can you think of your own name?}
+<C>__{gabrielle}
+<P>__{(a beat, then shakes her head)}
+<D>__{no.}
+<C>__{watson}
+<D>__{she's obviously had a concussion which often leads to temporary amnesia.}
+<A>__{he has now taken some cotton and a bottle of antiseptic out of the medical bag, and is swabbing her wound.}
+<C>__{holmes}
+<D>__{so all we know is that she was coshed on the head, dumped into the thames, and subsequently dumped into our laps.}
+<C>__{watson}
+<D>__{we know a lot more than that. from her accent, we know she is foreign from her ring, we know she is married and there is one other clue we have... something i deduced while i was helping her up the stairs. no corset.}
+<C>__{holmes}
+<D>__{good work.}
+<A>__{he glances down at gabrielle's shoe, which has slipped off her foot. inside, slightly worn away, are the words:}
+<B>__{la femme elegante.}
+<C>__{holmes}
+<P>__{(to gabrielle)}
+<D>__{are you french?}
+<P>__{(in berlitz french)}
+<D>__{vous etes francaise?}
+<C>__{gabrielle}
+<P>__{(concentrating then)}
+<D>__{non, je ne suis pas francaise.}
+<C>__{watson}
+<D>__{how can she say she's not french, in french?}
+<C>__{holmes}
+<D>__{vous etes suisse?}
+<C>__{gabrielle}
+<D>__{non.}
+<C>__{holmes}
+<D>__{alors, vous etes belge.}
+<C>__{gabrielle}
+<P>__{(haltingly)}
+<D>__{je suis pas sure.}
+<A>__{holmes reaches behind her, turns back the collar of her dress. sewn inside is a label reading: bazaar modern, bruxelles.}
+<C>__{holmes}
+<D>__{vous etes belge de bruxelles!}
+<C>__{gabrielle}
+<D>__{bruxelles? oui... je pense que oui.}
+<A>__{mrs. hudson has come in with a loaded tea tray, starts to put it down on the table.}
+<C>__{mrs. hudson}
+<D>__{oh, dash. will someone remove the violin, please?}
+<A>__{watson takes the violin off the table, and she sets down the tray.}
+<C>__{watson}
+<D>__{we just found out that she's belgian.}
+<C>__{mrs. hudson}
+<D>__{poor thing.}
+<C>__{watson}
+<D>__{from brussels.}
+<C>__{holmes}
+<P>__{(taking gabrielle's hand)}
+<D>__{if you don't mind.}
+<A>__{he slips the wedding ring off her finger, picks up a magnifying glass, examines it. it is made of copper, and engraved on the inside is the inscription: gabrielle emile.}
+<C>__{holmes}
+<D>__{your name is gabrielle, is that right? gabrielle?}
+<C>__{gabrielle}
+<D>__{i don't know.}
+<C>__{holmes}
+<D>__{and your husband's name is emile?}
+<C>__{gabrielle}
+<P>__{(vaguely)}
+<D>__{emile...}
+<C>__{holmes}
+<D>__{where is he? what are you doing in london?}
+<C>__{gabrielle}
+<D>__{i don't know.}
+<C>__{holmes}
+<D>__{when did you arrive from brussels? where are you staying?}
+<C>__{gabrielle}
+<D>__{i don't know.}
+<C>__{holmes}
+<D>__{what happened at the river? think! pensez! concentrez vous!}
+<A>__{gabrielle bursts into sobs.}
+<C>__{watson}
+<P>__{(stepping forward)}
+<D>__{that's enough, holmes. i will not permit you to question her in this condition.}
+<P>__{(helps the sobbing gabrielle out of the chair)}
+<D>__{mrs. hudson, put her to bed. my bed.}
+<P>__{(mrs. hudson gives him a look)}
+<D>__{i will sleep on the couch.}
+<C>__{mrs. hudson}
+<D>__{come, my dear.}
+<A>__{she puts her arm around gabrielle, who is still crying, leads her into watson's bedroom.}
+<C>__{watson}
+<D>__{i'd better mix her a sleeping potion.}
+<A>__{he gets a packet of white powder out of his medical bag, and during the following, stirs a spoonful into her tea cup.}
+<C>__{holmes}
+<D>__{watson, i think we should arrange to have her removed to a hospital.}
+<C>__{watson}
+<D>__{under no circumstances.}
+<C>__{holmes}
+<D>__{she should have medical attention.}
+<C>__{watson}
+<D>__{she can get that from me. but more importantly, she must be protected there has already been one attempt on her life.}
+<C>__{holmes}
+<D>__{this temporary amnesia how temporary is it?}
+<C>__{watson}
+<D>__{it depends on the extent of the injury. it's like veils shrouding her memory. it could clear up in a few days or a few weeks.}
+<C>__{holmes}
+<D>__{watson, this is a very small flat we don't want to clutter it up with women...}
+<C>__{watson}
+<D>__{holmes, we've never had a case like this. a woman comes to us with a problem we don't know who the woman is and we don't know what the problem is. don't you find that challenging?}
+<C>__{holmes}
+<D>__{quite. but we can't afford to wait for those veils to lift we must break through them as quickly as possible.}
+<C>__{watson}
+<D>__{you really feel it's that urgent?}
+<C>__{holmes}
+<D>__{i do. the sooner we solve the case, the sooner we can get rid of her.}
+<C>__{watson}
+<D>__{oh.}
+<A>__{he picks up the cup of tea with the sedative in it, carries it toward the door of his bedroom.}

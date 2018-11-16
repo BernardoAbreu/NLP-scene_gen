@@ -1,0 +1,55 @@
+<L>__{interior tesseract chamber room continuous (early night)}
+<A>__{fury makes his way over to erik selvig.}
+<C>__{fury}
+<D>__{talk to me, doctor.}
+<C>__{selvig}
+<D>__{director.}
+<C>__{fury}
+<D>__{is there anything we know for certain?}
+<C>__{selvig}
+<D>__{the tesseract is misbehaving.}
+<C>__{fury}
+<D>__{is that supposed to be funny?}
+<C>__{selvig}
+<D>__{no, it’s not funny at all. the tesseract is not only active, she’s misbehaving.}
+<C>__{fury}
+<D>__{how soon can you pull the plug?}
+<C>__{selvig}
+<D>__{she’s an energy source. we turn off the power, she turns it back on. if she reaches peak level }
+<C>__{fury}
+<D>__{we prepared for this, doctor. harnessing energy from space.}
+<C>__{selvig}
+<D>__{we don’t have the harness. my calculations are far from complete. she’s throwing off interference, radiation. nothing harmful, low levels of gamma radiation.}
+<C>__{fury}
+<D>__{that can be harmful. where’s agent barton?}
+<C>__{selvig}
+<D>__{the hawk? up in his nest, as usual.}
+<A>__{clint barton, also known as hawkeye, is on a balcony, observing the lab.}
+<C>__{fury}
+<P>__{(over barton’s radio)}
+<D>__{agent barton. report.}
+<A>__{barton zip lines down a rope.}
+<C>__{fury }
+<P>__{(sturn)}
+<D>__{i gave you this detail so you could keep a close eye on things.}
+<A>__{fury and barton walk together toward the tesseract machine.}
+<C>__{barton}
+<D>__{i see better from a distance.}
+<C>__{fury}
+<D>__{have you seen anything that might set this thing off?}
+<A>__{a nasa scientist calls for selvig.}
+<C>__{nasa scientist}
+<D>__{doctor! it’s spiking again.}
+<A>__{barton and fury step onto the platform, in front of the tesseract machine.}
+<C>__{barton}
+<D>__{no one’s come and gone. and selvig’s clean. no contacts, no im. if there’s any tampering, sir, it wasn’t this end.}
+<A>__{while barton is talking selvig walks over to the computer where the nasa scientist is. he looks concerned and worried.}
+<C>__{fury}
+<P>__{(a little confused)}
+<D>__{at this end?}
+<C>__{barton}
+<D>__{yeah. the cube is a doorway to the other end of space, right? doors open from both sides.}
+<A>__{the cube sparks.}
+<C>__{selvig}
+<D>__{what’s that?}
+<A>__{it sparks again.}

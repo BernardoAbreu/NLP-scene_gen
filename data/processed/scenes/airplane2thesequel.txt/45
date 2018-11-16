@@ -1,0 +1,82 @@
+<L>__{interior terminal}
+<A>__{stella barrington pushes her wheelchair ridden father, dr. cyrus barrington, through the terminal crowd. a porter approaches.}
+<C>__{porter}
+<D>__{you folks need any help?}
+<C>__{stella}
+<D>__{thanks, but we have a terrific woman in on thursdays.}
+<C>__{porter}
+<D>__{say, isn't that dr. barrington, the world renowned agronomist?}
+<C>__{stella}
+<D>__{yes.}
+<C>__{porter}
+<D>__{it's a privilege to meet you, sir, i'm familiar with all your work.}
+<C>__{stella}
+<D>__{let's go, daddy. we have to check in.}
+<P>__{(to porter)}
+<D>__{he was never appreciated at the institute.}
+<C>__{porter}
+<D>__{ah, yes, the institute, i'm familiar with it.}
+<C>__{stella}
+<D>__{now he's d y i n ging and wants to be buried on mercury.}
+<A>__{stella pushes her father away as another porter approaches our first porter.}
+<C>__{porter 2}
+<D>__{say, wasn't that dr. barrington, the world renowned agronomist?}
+<C>__{porter 1}
+<D>__{that's right. are you familiar with his work?}
+<C>__{porter 2}
+<D>__{no, but the missus sure is.}
+<A>__{angle on ted at arrivals departures monitors the departures side reads. "mercury shuttle departs 6:15 am"}
+<C>__{ted}
+<P>__{(to self)}
+<D>__{i have to stop that flight.}
+<A>__{ted pushes his way through the crowd past two businessmen. hold on them as businessman 1 straightens businessman 2's tie and hair.}
+<C>__{businessman 1}
+<D>__{don't worry about the viatex account. it's a buy sell option. we can't get hurt in either case.}
+<C>__{businessman 2}
+<D>__{just keep on top of their legal people, bob.}
+<C>__{businessman 1}
+<D>__{don't sweat it.}
+<A>__{they kiss and part. angle on "1st class" ticket line}
+<C>__{agent}
+<P>__{(to traveller)}
+<D>__{we can take your in flight dinner orders here, if you like. today there's lobster or rack of lamb.}
+<C>__{traveller}
+<D>__{the lobster sounds nice.}
+<A>__{the agent throws a huge lobster into a steaming cauldron. sfx: lobster scream.}
+<C>__{ted}
+<P>__{(rushing up)}
+<D>__{where can i find mission control?}
+<C>__{agent}
+<P>__{(without pointing or indicating in any way)}
+<D>__{information's over there.}
+<C>__{ted}
+<D>__{thanks.}
+<A>__{he seems a bit puzzled but moves on. angle on "2nd class" line ted passes travellers in rags.}
+<C>__{agent}
+<P>__{(to traveller in rags)}
+<D>__{today there's the swill or the slop.}
+<C>__{traveller}
+<D>__{the slop sounds nice.}
+<A>__{ted passes the "no class" line. travellers in line all wear gaudy double knit suits, white belts and shoes, carry lava lamps and bongo drums, wear alpine hats, etc. the agent hands a no class traveller his ticket with large foam dice dangling. ted spots the information counter and heads for it.}
+<B>__{angle on information counter}
+<C>__{man}
+<P>__{(to info agent)}
+<D>__{what's the fastest animal on earth?}
+<C>__{info agent}
+<D>__{the cheetah. nexterior}
+<C>__{woman}
+<D>__{should i fake my orgasms?}
+<C>__{info agent}
+<D>__{yes. nexterior}
+<A>__{next in line are three armed, bearded "terrorists."}
+<D>__{"terrorist" 1 please, where is flight to miami?}
+<C>__{info agent}
+<P>__{(without indicating anything)}
+<D>__{over there. nexterior}
+<A>__{the terrorists leave looking confused.}
+<C>__{ted}
+<D>__{mission control?}
+<C>__{info agent}
+<P>__{(without indicating anything)}
+<D>__{it's over therrrrrrr!}
+<A>__{the agent is shot with an arrow and slumps over the counter.}

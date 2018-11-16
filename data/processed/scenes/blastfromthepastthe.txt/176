@@ -1,0 +1,65 @@
+<L>__{interior eve's house an hour later}
+<A>__{adam springs in, troy drags in behind him (knowing the deal). eve is standing away from the door next to a kind looking professional woman named dr.aron.}
+<C>__{adam}
+<D>__{hi, eve!}
+<C>__{eve}
+<D>__{hi, adam. this is, uh....}
+<C>__{aron}
+<D>__{i'm nina aron, adam.}
+<C>__{adam}
+<D>__{how do you do?}
+<C>__{aron}
+<D>__{very well, thank you. i'm with the county family services department. eve tells me you've been living in a bomb shelter most of your life.}
+<C>__{adam}
+<D>__{fallout shelter. there's a difference.}
+<C>__{aron}
+<D>__{adam, i'd like to introduce you to my associate mr. brown.}
+<A>__{brown appears from the kitchen. he's good sized man who dresses casually. adam becomes uneasy.}
+<C>__{adam}
+<D>__{hello.}
+<A>__{he nods politely.}
+<C>__{aron}
+<D>__{we want you to come with us so we can talk some more about your experiences.}
+<C>__{adam}
+<D>__{come where?}
+<C>__{aron}
+<D>__{my office.}
+<C>__{adam}
+<D>__{for how long?}
+<C>__{aron}
+<D>__{well, that depends...}
+<C>__{adam}
+<D>__{i thank you very much for the invitation, but i'm quite busy today. perhaps i could see you tomorrow.}
+<C>__{eve}
+<D>__{adam....you should go with dr. aron. it's the best thing. the best thing for you. i promise.}
+<C>__{adam}
+<D>__{...all right, eve. if you say so.}
+<C>__{eve}
+<D>__{...i do.}
+<C>__{adam}
+<P>__{(to aron)}
+<D>__{could i please just go home? i was lost, but this morning i found home and i promise not to bother any of you ever again.}
+<C>__{aron}
+<D>__{let's go talk first, adam.}
+<C>__{adam}
+<D>__{yes, ma'am.}
+<A>__{the two come forward. one opens the door and one beckons for adam to step out.}
+<C>__{troy}
+<D>__{good bye, adam.}
+<C>__{adam}
+<D>__{goodbye.}
+<A>__{adam looks back at eve, who looks away. adam exits.}
+<C>__{aron}
+<P>__{(to eve)}
+<D>__{you'll be hearing from me.}
+<A>__{she shuts the door. troy sits dejectedly.}
+<C>__{eve}
+<D>__{well what was i supposed to do?! he wants me to live underground with him! that's like silence of the lambs, don't you think?!}
+<C>__{troy}
+<D>__{i know...i know. you did the right thing.}
+<A>__{eve goes to the window and watches as we see adam break from brown and run off with him chasing.}
+<C>__{eve}
+<D>__{oh, no!}
+<C>__{troy}
+<D>__{what?!}
+<A>__{she runs out. he follows.}

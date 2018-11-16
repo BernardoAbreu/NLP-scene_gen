@@ -1,0 +1,37 @@
+<L>__{interior o'rourke's tavern night}
+<A>__{galvin is at the bar, smiling to himself. his drink is being refilled. to bartender:}
+<C>__{galvin}
+<D>__{i want to buy you a drink.}
+<C>__{jimmy }
+<D>__{thanks, franky.}
+<A>__{galvin looks around. a very attractive self possessed young woman is sitting in the crook of the bar across from him; she is intently perusing the newspaper and circling items with a felt pen. galvin speaks to her:}
+<C>__{galvin}
+<D>__{would you like a drink?}
+<A>__{she looks up. smiles.}
+<C>__{woman}
+<D>__{i'd like an apartment.}
+<C>__{galvin}
+<D>__{settle for a drink?}
+<A>__{she gestures at her own full glass in front of her.}
+<C>__{woman}
+<D>__{no. thank you.}
+<A>__{galvin shrugs.}
+<C>__{galvin}
+<D>__{i had a very good day today.}
+<C>__{woman}
+<P>__{(beat, smiles, downs}
+<D>__{drink, gets up off}
+<P>__{the stool, sincerely)}
+<D>__{i'm glad you did. thank you. good night.}
+<C>__{galvin}
+<D>__{you're very welcome.}
+<A>__{he watches her as she leaves the bar. he turns back to his drink.}
+<C>__{galvin}
+<D>__{well, well, well. huh?}
+<C>__{jimmy}
+<D>__{yeah.}
+<C>__{galvin}
+<P>__{(sighs)}
+<D>__{it's a long road that has no turning.}
+<C>__{jimmy}
+<D>__{that's for sure, frank.}

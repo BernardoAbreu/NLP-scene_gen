@@ -1,0 +1,39 @@
+<L>__{interior van tassel house, kitchen morning}
+<A>__{lady van tassel prepares food with two servants at the open fireplace oven. ichabod enters, rushed.}
+<C>__{ichabod}
+<D>__{excuse me, lady van tassel... katrina is not in her room.}
+<C>__{lady van tassel}
+<D>__{no. she has gone out.}
+<C>__{ichabod}
+<D>__{where?}
+<C>__{lady van tassel}
+<D>__{she has taken the last of our grain to be milled.}
+<P>__{(crossing to him)}
+<D>__{you do have a background in the medical arts, don't you, constable?}
+<C>__{ichabod}
+<D>__{very little. i must be going...}
+<A>__{lady van tassel holds out her cut palm, the gash sewn shut.}
+<C>__{lady van tassel}
+<D>__{will you look at this? i cut my hand this morning: i sewed it myself, but i am afraid it will go bad.}
+<A>__{ichabod takes her hand, distracted and nervous.}
+<C>__{ichabod}
+<D>__{it appears well. it has already clotted.}
+<C>__{lady van tassel}
+<D>__{look closer. do you have anything to clean it with?}
+<C>__{ichabod}
+<D>__{it is fine. now, i must...}
+<A>__{lady van tassel grabs ichabod by the wrist, tight.}
+<C>__{lady van tassel}
+<P>__{(whispering, close)}
+<D>__{i know you saw me.}
+<C>__{ichabod}
+<D>__{what... ?}
+<A>__{lady van tassel glances to servants, keeps her voice low.}
+<C>__{lady van tassel}
+<D>__{i know you followed last night. you must promise not to tell baltus...}
+<A>__{ichabod tries to pull away, but she grips tighter. the front door is heard slamming. ichabod is panicky.}
+<C>__{lady van tassel}
+<D>__{have mercy on me. please... have mercy.}
+<A>__{ichabod pulls away just as baltus enters. lady van tassel goes back to work as if nothing happened.}
+<C>__{baltus}
+<D>__{constable, it is urgent that we speak.}

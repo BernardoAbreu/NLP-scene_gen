@@ -1,0 +1,127 @@
+<T>__{dissolve to:}
+<L>__{interior kanoma city poolroom, day}
+<A>__{two of duffy's men, pillsbury and a local commissioner, are playing pool as jack enters.}
+<C>__{jack}
+<D>__{where can i find tiny duffy?}
+<C>__{pillsbury}
+<D>__{right over there, mister.}
+<A>__{he walks over to duffy. some townspeople, who followed him there, gather around him to listen.}
+<C>__{jack}
+<D>__{uh, they told me i could get my camera back here.}
+<C>__{duffy}
+<D>__{who told you that?}
+<C>__{jack}
+<D>__{people. can i?}
+<C>__{duffy}
+<D>__{you the reporter that's been snoopin' around town?}
+<C>__{jack}
+<D>__{are you tiny duffy?}
+<C>__{duffy}
+<D>__{what paper?}
+<C>__{jack}
+<D>__{chronicle.}
+<C>__{duffy}
+<D>__{you sure come a long way to stick your nose into other people's business.}
+<C>__{jack}
+<D>__{that's true... only my boss on the paper can't see it that way.}
+<C>__{duffy}
+<D>__{it ain't any of his business either.}
+<C>__{jack}
+<D>__{whose business is it?}
+<C>__{pillsbury}
+<D>__{them as is tendin' to it. county commissioners that the voters of kanoma county elected to tend to their business and not take no buttin' in from nobody.}
+<C>__{jack}
+<D>__{you a commissioner?}
+<C>__{pillsbury}
+<D>__{yeah. name's pillsbury. dolph pillsbury. 2nd commissioner me too. i'm a commissioner too.}
+<C>__{jack}
+<D>__{who isn't a commissioner?}
+<C>__{duffy}
+<D>__{he's the head man.}
+<C>__{jack}
+<P>__{(to pillsbury)}
+<D>__{then you're in a position to know where }
+<C>__{duffy}
+<D>__{he's in a position to know nothin'. and to say nothin'.}
+<C>__{jack}
+<D>__{i thought you said he was head man?}
+<C>__{duffy}
+<P>__{(smiling)}
+<D>__{he uses my head.}
+<C>__{pillsbury}
+<P>__{(laughing loudly)}
+<D>__{oh, tiny, you're a card... ain't he a card? yeah, he's a card... now, who thought up those city ordinances about arresting someone for making a speech?}
+<C>__{duffy}
+<D>__{who's arrested? nobody's been arrested.}
+<P>__{(looks toward the door)}
+<D>__{hi, willie.}
+<A>__{willie enters, accompanied by the sheriff and his deputy. the others in the room, including sugar boy in his bartender's apron, step aside to let him pass through.}
+<C>__{pillsbury}
+<D>__{hi, willie.}
+<C>__{duffy}
+<P>__{(to sheriff)}
+<D>__{did you apologize to willie?}
+<C>__{sheriff}
+<P>__{(mumbles)}
+<D>__{yeah, i apologized to willie.}
+<C>__{duffy}
+<D>__{did you give him his handbills back?}
+<C>__{sheriff}
+<D>__{yeah, i gave 'em back.}
+<C>__{duffy}
+<D>__{give him back his flag and his bag and...}
+<P>__{(points to jack)}
+<D>__{give this man his camera.}
+<C>__{willie}
+<D>__{i'm going to be on that same street corner tomorrow, mr. duffy.}
+<C>__{duffy}
+<D>__{you go right ahead, willie. we all believe in free speech. we got to... it's in the constitution.}
+<C>__{willie}
+<D>__{my boy is out distributing those handbills now.}
+<C>__{duffy}
+<D>__{it's a free country, willie. if you can convince the people to vote for you... you go right ahead.}
+<C>__{willie}
+<D>__{what did you want to see me about, mr. duffy?}
+<C>__{duffy}
+<D>__{i wanted you to meet a fella came all the way up from the state capital to meet you. a reporter. wants to write you up... maybe put your picture in the paper.}
+<C>__{willie}
+<P>__{(turns to jack)}
+<D>__{i'm happy to know you, sir.}
+<C>__{jack}
+<D>__{burden's my name... jack burden. can we go somewhere where we can talk?}
+<C>__{duffy}
+<D>__{now that ain't polite. don't you want to hear both sides of the story?}
+<A>__{jack examines the camera that has just been returned to him.}
+<C>__{jack}
+<D>__{i know your side.}
+<P>__{(finds the plate missing)}
+<D>__{what happened to the plate your men took from my camera?}
+<C>__{duffy}
+<D>__{must have dropped out. oh, come on, fellas, let's relax. it's a hot day... hey, sugar boy...}
+<C>__{sugar boy}
+<D>__{yeah?}
+<C>__{duffy}
+<D>__{bring some cold beer for the boys.}
+<C>__{willie}
+<D>__{none for me, thank you kindly.}
+<C>__{pillsbury}
+<D>__{now you know willie don't drink, tiny. his wife don't favor drinking. and willie's the teacher's pet, ain't you, willie?}
+<C>__{willie}
+<D>__{i will have some orange pop if you don't mind.}
+<A>__{duffy roars with laughter.}
+<C>__{duffy}
+<D>__{orange pop! all right, sugar boy. bring him some orange pop.}
+<C>__{sugar boy}
+<P>__{(stutters)}
+<D>__{th th the p p pop's s s sold out.}
+<C>__{duffy}
+<D>__{did you hear that, boys? the p p pop's s s sold out.}
+<A>__{they all laugh.}
+<C>__{pillsbury}
+<D>__{now ain't he a card?}
+<C>__{willie}
+<P>__{(his face hard)}
+<D>__{he stutters, mr. duffy, but you... you don't say anything.}
+<P>__{(to jack)}
+<D>__{let's go, mister.}
+<A>__{they turn and go out.}

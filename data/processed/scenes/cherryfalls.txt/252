@@ -1,0 +1,25 @@
+<L>__{exterior house}
+<A>__{jody and kenny limp out of the house. kenny grabs jody's bike.}
+<C>__{kenny}
+<D>__{climb on.}
+<L>__{interior back pantry}
+<A>__{leonard breaks through the door.}
+<L>__{interior kitchen}
+<A>__{leonard runs into the kitchen and looks out the window.}
+<L>__{exterior house}
+<A>__{kenny and jody are peddling away down the driveway.}
+<L>__{exterior back door}
+<A>__{leonard bursts out of the house and jumps into his car.}
+<L>__{interior car}
+<A>__{leonard starts the car.}
+<L>__{exterior house}
+<A>__{the car squeals out of the driveway, rims sparking wildly.}
+<L>__{exterior suburban street}
+<A>__{kenny frantically pedals the bike up the pristine suburban street. jody hangs on for dear life.}
+<C>__{jody}
+<D>__{go to the police station!}
+<C>__{kenny}
+<D>__{deputy webber's at the party. it's only three blocks away.}
+<A>__{leonard's car squeals around the corner behind them.}
+<C>__{jody}
+<D>__{fuck! it's him.}

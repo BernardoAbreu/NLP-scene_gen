@@ -1,0 +1,102 @@
+<L>__{interior indy's lecture hall classroom day}
+<A>__{indy's course a combination of archeology and anthropology is taught in this amphitheater type lecture hall. his desk and lectern hold large reference books; blackboards line the wall. bones, maps, charts festoon the walls. indy leans against his desk talking with brody and two uniformed army officers, colonel musgrove and major eaton, who are situated around the first seats in the classroom.}
+<C>__{musgrove}
+<D>__{but you did study under professor ravenwood at the university of chicago?}
+<C>__{indy}
+<P>__{(nods)}
+<D>__{we haven't spoken in ten years. i'm afraid we had a bit of a falling out.}
+<C>__{eaton}
+<D>__{you know nothing of his whereabouts?}
+<C>__{indy}
+<P>__{(negative)}
+<D>__{just rumors. somewhere in asia, last i heard.}
+<A>__{musgrove and eaton exchange a look; they're disappointed.}
+<C>__{eaton}
+<P>__{(to musgrove)}
+<D>__{maybe dr. jones can make sense of it.}
+<A>__{again the military men have a silent communication, deciding what to reveal.}
+<C>__{musgrove}
+<D>__{well... you must understand, dr. jones, this is all strictly confidential.}
+<C>__{indy}
+<D>__{i understand.}
+<C>__{musgrove}
+<D>__{yesterday, one of our european sections intercepted a nazi communique from cairo to berlin. we don't quite know what to make of it.}
+<A>__{musgrove takes a sheet from his briefcase.}
+<C>__{musgrove}
+<D>__{here it is "tanis development proceeding. acquire headpiece, staff of ra, general tengtu hok, shanghai. locate abner ravenwood, u.s."}
+<A>__{brody is excited. he looks at indy.}
+<C>__{brody}
+<D>__{tanis. they must have discovered the lost ruins.}
+<A>__{indy contemplates this big news; he's impressed.}
+<C>__{indy}
+<P>__{(to himself)}
+<D>__{tanis. ain't that somethin'!}
+<C>__{eaton}
+<D>__{frankly, we're a little suspicious... an american being mentioned so prominently in a secret nazi cable.}
+<C>__{indy}
+<D>__{ah, ravenwood's no nazi.}
+<C>__{eaton}
+<D>__{then what do they want him for?}
+<C>__{indy}
+<D>__{they're looking for the headpiece to the staff of ra.}
+<C>__{musgrove}
+<P>__{(indicates his sheet)}
+<D>__{but it says here that's in china.}
+<C>__{indy}
+<D>__{only half of it. ravenwood had the other half.}
+<C>__{eaton}
+<D>__{what would the nazis want with this this staff of ra?}
+<C>__{brody}
+<D>__{i can tell you that. over the last two years the nazis have had teams of archeologists running around the world looking for all kinds of religious artifacts.}
+<C>__{musgrove}
+<D>__{that's right. hitler's a nut on the subject. crazy. he's obsessed with the occult.}
+<C>__{eaton}
+<D>__{what is this staff of ra, anyway?}
+<C>__{indy}
+<D>__{it all has to do with the ark of the covenant.}
+<P>__{(the army guys look mystified)}
+<D>__{the chest the hebrews used to carry around the ten commandments.}
+<A>__{now it's the army men who are impressed.}
+<C>__{indy}
+<D>__{an egyptian pharaoh stole the ark from jerusalem and took it back to the city of tanis. a short time later, tanis was consumed by the desert in a sandstorm that lasted a year. but before that, the pharaoh had had the ark hidden away in a secret chamber called the well of the souls. which is where the staff of ra comes in.}
+<A>__{indy moves to the blackboard and makes a quick sketch to give a rough idea of the system as he describes it. (and we get a glimpse of what an interesting and enthusiastic teacher he must be).}
+<C>__{indy}
+<D>__{now this was rather clever. the staff was really just a big stick oh, i don't know, say like this }
+<P>__{(he indicates about six feet)}
+<D>__{no one really knows for sure. any way, it was capped by an elaborate headpiece with a carving of the sun at the top. what you had to do was take the staff to a special map room in tanis it had the whole city laid out in miniature on the floor. when you placed the staff in a certain spot in this room, at a certain time of day, the sun would shine through a hole here in the headpiece and then send a beam of light down here to the map giving you the location of the well of the souls...}
+<C>__{musgrove}
+<D>__{...where the ark of the covenant was kept.}
+<C>__{indy}
+<P>__{(nods)}
+<D>__{which is probably what the nazis are after.}
+<C>__{eaton}
+<D>__{what's this ark look like?}
+<C>__{indy}
+<D>__{look like? why, it's right here...}
+<A>__{indy pulls a big format book from the stack on his lectern and flips through the pages until he finds a large color printerior the other men gather to look.}
+<B>__{the print}
+<A>__{fills the screen. it shows a biblical battle. the israelite army is vanquishing an opposition force. at the forefront of the israelite ranks, two men carry the ark of the covenant, a beautiful gold chest, crowned by two sculptured gold angels. the men do not touch the ark itself; rather they carry it by use of two long wooden poles which pass through rings in the corners of the ark. the painting is very dramatic, full of smoke, tumult and sinewy dying men. but the most astounding thing in the picture is the brilliant jet of white light and flame issuing from the wings of the angels. it pierces deep into the ranks of the retreating enemy, wreaking devastation and terror.}
+<C>__{eaton}
+<D>__{good god!}
+<C>__{indy}
+<D>__{yes. that's what the hebrews thought.}
+<C>__{musgrove}
+<D>__{what's that supposed to be coming out of there?}
+<C>__{indy}
+<D>__{who knows... lightning... fire... the power of god.}
+<C>__{eaton}
+<D>__{i'm beginning to understand hitler's interest in this thing.}
+<C>__{indy}
+<D>__{oh yes. the bible tells of it leveling mountains and wasting entire regions. moses promised that when the ark was with you, "your enemies will be scattered and your foes fell before you".}
+<P>__{(pause)}
+<D>__{an army which carries the ark before it is invincible.}
+<A>__{eaton and musgrove exchange worried looks.}
+<C>__{indy}
+<D>__{oh, there's one other thing that hitler undoubtably believes about the ark...}
+<P>__{(a long pregnant pause)}
+<D>__{it's said that the lost ark will be recovered at the time of the coming of the true messiah.}
+<C>__{musgrove}
+<D>__{dr. jones, you've been very helpful. i hope we can call on you again if we have questions.}
+<C>__{indy}
+<D>__{most certainly.}
+<A>__{brody and indy exchange a look as they all shake and brody starts to leave with the army men.}

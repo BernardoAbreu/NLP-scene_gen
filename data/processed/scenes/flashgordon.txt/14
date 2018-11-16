@@ -1,0 +1,21 @@
+<L>__{interior cockpit}
+<P>__{(flash)}
+<C>__{flash}
+<D>__{brace yourself i'm aiming at that field up ahead!}
+<L>__{exterior zarkov's greenhouse day}
+<P>__{(zarkov's voice)}
+<A>__{its thousands of panes reflect the red sun and the red bolts which rain down in intermittent bursts. one strikes an end of a gallery, exploding glass and foliage. from inside, we hear a furious echoing voice:}
+<C>__{zarkov's voice}
+<D>__{i see you, munson! come out or i shoot!}
+<L>__{interior greenhouse day}
+<A>__{(munson, zarkov) zarkov is on the lower stairs of the tower, aiming his revolver. munson emerges from some dry brown bush where he was hiding.}
+<C>__{munson}
+<D>__{so what's it matter if i'm shot or go up in that thing? i'm a goner either way, right?}
+<C>__{zarkov}
+<D>__{of course i admit that! but this way you'll be giving your life for a chance of saving earth! haven't you any spirit at all??}
+<C>__{munson}
+<D>__{goodbye, doctor they were all right about you. have a nice trip.}
+<A>__{munson starts walking away, toward the door at the end of the long side wing.}
+<C>__{zarkov}
+<D>__{i tell you i can't take it off alone! if you won't come, who will i find?}
+<A>__{if you woo't come, who will i find: munson ignores him totally, keeps walking away. zarkov lifts his revolver and draws a bead on the man's back. just as he is about to shoot, he reacts to something outside.}

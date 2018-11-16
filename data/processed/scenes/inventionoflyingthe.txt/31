@@ -1,0 +1,24 @@
+<L>__{interior mark's apartment living room afternoon}
+<A>__{mark opens the door to find his landlord, a middle aged, well groomed man.}
+<C>__{landlord}
+<D>__{i'm here for the rent.}
+<C>__{mark}
+<D>__{i was going to come talk to you about that. i got fired yesterday.}
+<C>__{landlord}
+<D>__{i know. that's why i'm here for the rent.}
+<C>__{mark}
+<D>__{well, i haven't got it.}
+<C>__{landlord}
+<D>__{how much do you have?}
+<C>__{mark}
+<D>__{i think i've got about three hundred dollars in my bank account.}
+<C>__{landlord}
+<D>__{the rent is eight hundred dollars.}
+<C>__{mark}
+<D>__{i know. i haven't got it.}
+<C>__{landlord}
+<D>__{then you're evicted. i will help you with your things.}
+<A>__{a stunned mark stands helpless as the landlord pushes past him, grabs a lamp from his living room and carries it out into the hallway.}
+<C>__{landlord}
+<D>__{help me with the couch. it looks heavy.}
+<A>__{mark sighs and follows the landlord back into his apartment.}

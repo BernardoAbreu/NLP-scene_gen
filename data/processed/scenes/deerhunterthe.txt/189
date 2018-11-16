@@ -1,0 +1,34 @@
+<L>__{interior terminal building warehouse area day}
+<A>__{nick walks along briskly with the lieutenant at his side.}
+<C>__{nick}
+<D>__{right this way.}
+<L>__{interior terminal building warehouse area day}
+<A>__{nick comes to a door, opens it.}
+<C>__{nick}
+<D>__{through here.}
+<L>__{interior terminal building utility closet day}
+<A>__{the lieutenant walks into the closet and comes to a stop, looking puzzled. nick comes in behind him, closes the door and picks up a length of pipe.}
+<C>__{nick}
+<D>__{take off the uniform.}
+<A>__{the lieutenant stares at nick, dumbfounded.}
+<C>__{nick }
+<D>__{take off the uniform, lieutenant!}
+<A>__{the lieutenant nods, begins taking off his uniform.}
+<L>__{interior terminal building utility closet day}
+<A>__{nick has changed into the lieutenant's uniform and tied him to a chair. the lieutenant is in tears. nick is going through his orders.}
+<C>__{lieutenant}
+<D>__{please! please mister, please! this is vital i go to saigon. this is very important. most important.}
+<C>__{nick}
+<P>__{(exasperated)}
+<D>__{listen, biederman, i'm going to club you into the floor unless you tell me what the fuck is so important.}
+<C>__{lieutenant}
+<D>__{that i must not tell you. top secret. you see there. topmost secret.}
+<C>__{nick}
+<D>__{biederman!}
+<C>__{lieutenant}
+<P>__{(stiffly)}
+<D>__{i will not betray my country. no. ne ver!}
+<A>__{nick throws down the pipe in disgust, whips a gag around the lieutenant's mouth and ties it.}
+<C>__{nick}
+<D>__{when i get to saigon i will tell 'em where you are.}
+<A>__{slams the door.}

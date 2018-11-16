@@ -1,0 +1,67 @@
+<L>__{interior office building day}
+<A>__{trevor walks through the maze of cubicles a big smile on his face. he's actually having a good day.}
+<L>__{interior trevor's cubicle day}
+<A>__{bret's already looking up at trevor as he enters.}
+<C>__{trevor}
+<D>__{don't say a word, bret.}
+<A>__{trevor's smile disappears when he sees someone's already sitting in his chair. lange. he's on trevor's computer surfing the internet.}
+<C>__{bret}
+<P>__{(to lange)}
+<D>__{guess i will leave you two alone.}
+<C>__{lange}
+<P>__{(concentrating on the computer)}
+<D>__{nice chatting with ya.}
+<A>__{bret gets up and leaves as trevor approaches lange.}
+<C>__{lange }
+<D>__{sorry i'm in your seat aren't i?}
+<C>__{trevor}
+<D>__{no please make yourself at home.}
+<A>__{trevor sits in bret's chair as lange logs off and swivels to face trevor.}
+<C>__{lange}
+<D>__{how's everything, mr. gooding?}
+<C>__{trevor}
+<D>__{can't we dispense with the games for once?}
+<C>__{lange}
+<D>__{i thought you loved games.}
+<C>__{trevor}
+<D>__{i will just stay out of this conversation until you come out and tell me why you've disrupted me at work.}
+<C>__{lange}
+<D>__{you and your wife were playing a game shortly before you got into that car accident weren't you?}
+<C>__{trevor}
+<D>__{where is she? where is my wife?}
+<A>__{lange shakes his head and pulls something else out of his pocket. it's the cube sealed in a ziploc. trevor cannot conceal a feeling of dread.}
+<C>__{lange}
+<D>__{we found this curious little object not too far from the site of the accident. no prints but forensics scraped a little dark residue that was caked on one of the corners. it was blood trevor. matched some blood we took off your car seat too. can you tell me anything about it?}
+<C>__{trevor}
+<P>__{(to lange)}
+<D>__{it looks familiar. i think it was in the car...}
+<C>__{lange}
+<D>__{gee you think so?}
+<A>__{lange puts the cube back in his pocket and stands up.}
+<C>__{lange }
+<D>__{sorry to take up your time like that trevor. don't work too hard. oh, before i forget. i talked your neighbor out of pressing charges.}
+<C>__{trevor}
+<D>__{what?}
+<C>__{lange}
+<D>__{the whackjob in the black lipstick who lives down the hall? she wanted you arrested for harassment. i told her to chill out and smoke a jointerior i'd look the other way as long as she did you know?}
+<C>__{trevor}
+<D>__{thanks.}
+<C>__{lange}
+<D>__{we're all here for you trevor.}
+<A>__{lange gets up and exits. trevor satys seated, after a beat he stands up looking over his cubicle and sees det. givens staring back at him from the door. trevors sits back down. trevor suddenly clutches his head as if it's been killing him this whole time. he goes to his chair picks up the phone and dials.}
+<C>__{recording }
+<P>__{(from phone)}
+<D>__{we're sorry the number you have has either been disconnected or no longer in service. if you feel you have reached this recording in error }
+<A>__{trevor hangs up. we can almost hear his head throbbing in pain. he turns around and there's bret leaning against his desk eating a frozen yogurt. staring at trevor.}
+<C>__{bret}
+<D>__{frogurt guy's here. they're all out chocolate vanilla swirl or i'd have gotten you one.}
+<C>__{trevor}
+<D>__{i'm sure you would have.}
+<A>__{bret nods, tosses the frozen yogurt container out and sits down.}
+<C>__{bret}
+<D>__{hey if you're not doing anything i'd like to buy you a beer after work. be just like old times.}
+<C>__{trevor}
+<D>__{what's the occasion?}
+<C>__{bret}
+<D>__{i quit. today's my last day.}
+<A>__{this hits trevor like a ton of bricks.}

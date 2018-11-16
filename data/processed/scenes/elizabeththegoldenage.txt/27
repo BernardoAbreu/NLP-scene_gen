@@ -1,0 +1,36 @@
+<L>__{interior walsingham's house evening}
+<A>__{walsingham enters his private home, and gives his hat and cloak to his servant.}
+<C>__{servant}
+<D>__{visitor waiting, sir.}
+<A>__{walsingham frowns. he climbs the stairs to the door of his study. there, pacing nervously, is his younger brother william, a middle aged student. walsingham's scowl disappears. he opens his arms wide.}
+<C>__{walsingham}
+<D>__{william!}
+<C>__{william}
+<D>__{hello, francis.}
+<A>__{they embrace. then walsingham pushes him back to take a good look at him.}
+<C>__{walsingham}
+<D>__{you look terrible. don't they feed you in paris? how are your studies? learned the secrets of the universe yet?}
+<C>__{william}
+<D>__{not yet.}
+<C>__{walsingham}
+<D>__{these are dangerous times to be questioning the ways of god. you must take care of yourself.}
+<C>__{william}
+<D>__{my needs are simple.}
+<C>__{walsingham}
+<D>__{you'll dine with us? you'll lodge with us?}
+<A>__{is daughter mary appears at the top of the next flight.}
+<C>__{mary walsingham}
+<D>__{william!}
+<A>__{she comes tumbling down and into his arms. she's an eager innocent 20 year old, much loved by her father.}
+<C>__{william}
+<D>__{look at you! all grown up.}
+<A>__{ursula, walsingham's wife, appears as mary leads william up the stairs.}
+<C>__{ursula}
+<D>__{william. this is a pleasure.}
+<C>__{william}
+<D>__{i've been away too long, ma'am.}
+<C>__{mary walsingham}
+<D>__{you come with me, william.}
+<A>__{ary and william go on into the family's living rooms. ursula meets her husband's eyes.}
+<C>__{ursula}
+<D>__{he's not still a student, is he?}

@@ -1,0 +1,70 @@
+<L>__{interior clementine's apartment night}
+<A>__{joel says goodbye to clementine.}
+<C>__{clementine}
+<D>__{so you'll call me, right?}
+<C>__{joel}
+<D>__{yeah.}
+<C>__{clementine}
+<D>__{when?}
+<C>__{joel}
+<D>__{tomorrow?}
+<C>__{clementine}
+<D>__{tonight. just to test out the phone lines.}
+<C>__{joel}
+<D>__{yeah.}
+<A>__{joel exits. we stay on clementine as she watches joel head to his car, tromping through the snow.}
+<L>__{interior joel's apartment night}
+<A>__{joel enters, drops his overcoat on a chair, dials the phone.}
+<C>__{joel}
+<D>__{hi, naomi, it's joel.}
+<C>__{naomi's voice}
+<D>__{hi.}
+<C>__{joel}
+<D>__{how's it going?}
+<C>__{naomi's voice}
+<D>__{good. i called you at work today. they said you were home sick.}
+<C>__{joel}
+<D>__{i know. i had to take the day to think.}
+<C>__{naomi's voice}
+<D>__{yeah, i tried you at home. did you get my message?}
+<C>__{joel}
+<D>__{i just got in.}
+<C>__{naomi's voice}
+<D>__{long day thinking.}
+<A>__{joel flips on messages with volume down.}
+<C>__{joel}
+<D>__{yeah, i suppose so.}
+<C>__{naomi on machine}
+<P>__{(cheerful)}
+<D>__{hi. they told me you were sick! so... where are you?! i had a really nice time last night. just wanted to say hi, so... hi. call me. i'm home. call me!}
+<C>__{naomi's voice}
+<D>__{that's me.}
+<C>__{joel}
+<D>__{there you are.}
+<P>__{(pause)}
+<D>__{naomi, it's just... i'm afraid if we fall back into this fast without considering the problems we had...}
+<C>__{naomi}
+<D>__{okay, joel. i suppose you're right.}
+<C>__{joel}
+<D>__{i had a good time last night. i really did.}
+<C>__{naomi}
+<D>__{so i'm going to get some sleep. i'm glad you're okay.}
+<C>__{joel}
+<D>__{we'll speak soon.}
+<C>__{naomi}
+<D>__{'night.}
+<A>__{she hangs up and joel stands there for a minute feeling creepy, then he dials the number on a piece of paper.}
+<C>__{clementine's voice}
+<D>__{what took you so long?}
+<C>__{joel}
+<D>__{i just walked in.}
+<C>__{clementine's voice}
+<D>__{hmmm. do you miss me?}
+<C>__{joel}
+<D>__{oddly enough, i do.}
+<C>__{clementine's voice}
+<D>__{ha ha! you said, i do. i guess that means we're married.}
+<C>__{joel}
+<D>__{i guess so.}
+<C>__{clementine's voice}
+<D>__{tomorrow night... honeymoon on ice.}

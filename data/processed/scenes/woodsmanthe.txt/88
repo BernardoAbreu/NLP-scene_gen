@@ -1,0 +1,109 @@
+<L>__{exterior bus stop day}
+<A>__{the bus comes to a stop. the girl gets off amongst a couple of passengers. walter follows.}
+<L>__{exterior park day}
+<A>__{walter walks down a path that opens onto a secluded little field surrounded by trees. the girl stands in the middle of the field looking at the sky through her binoculars. she turns slowly, scanning the trees. she spots walter and lowers the binoculars.}
+<C>__{girl}
+<D>__{hello.}
+<A>__{walter is silent. he looks up at the trees.}
+<C>__{girl }
+<D>__{what are you looking at?}
+<C>__{walter}
+<D>__{birds.}
+<C>__{girl}
+<P>__{(indifferently)}
+<D>__{there's a million birds here.}
+<C>__{walter}
+<D>__{in that birch tree is a nest.}
+<C>__{girl's voice}
+<P>__{(interested)}
+<D>__{where?}
+<C>__{walter}
+<P>__{(pointing)}
+<D>__{up there.}
+<A>__{she looks through her binoculars. walter stares at her.}
+<C>__{walter }
+<D>__{a little higher.}
+<A>__{she points her binoculars up. walter walks towards her.}
+<C>__{girl}
+<D>__{there's little chicks!}
+<P>__{(turns to walter)}
+<D>__{you want to see?}
+<C>__{walter}
+<D>__{sure.}
+<A>__{she hands him her binoculars. he looks through them.}
+<C>__{girl}
+<D>__{they're starlings.}
+<C>__{walter}
+<P>__{(continues looking)}
+<D>__{is that right?}
+<C>__{girl}
+<D>__{i don't like starlings.}
+<C>__{walter}
+<D>__{why not?}
+<C>__{girl}
+<D>__{they're extremely aggressive birds. plus, their habits are rather filthy.}
+<C>__{walter}
+<D>__{the mother sure has her hands full.}
+<A>__{he hands her back the binoculars.}
+<C>__{walter }
+<D>__{you always carry these?}
+<C>__{girl}
+<D>__{when i go bird watching. it's why i like coming here.}
+<C>__{walter}
+<D>__{it's just a city park.}
+<C>__{girl}
+<D>__{you'd be surprised how many kinds of birds you'll see here. last week i saw a purple martin. and the week before that, i saw a solitary vireo. that's rare.}
+<C>__{walter}
+<D>__{a solitary vireo. i like that one.}
+<C>__{girl}
+<D>__{their sound is quite musical.}
+<C>__{walter}
+<D>__{how does it sound?}
+<C>__{girl}
+<D>__{it's hard to describe.}
+<C>__{walter}
+<D>__{try.}
+<C>__{girl}
+<D>__{i can't.}
+<C>__{walter}
+<D>__{i bet you can.}
+<A>__{she shakes her head.}
+<C>__{walter }
+<D>__{i'd love to hear it.}
+<C>__{girl}
+<P>__{(pause)}
+<D>__{it's a bright sound.}
+<A>__{she closes her eyes and pipes a little tune.}
+<C>__{girl }
+<D>__{cheery! cheerily! cheery! cheerily!}
+<A>__{she opens her eyes, shyly.}
+<C>__{girl }
+<D>__{something like that.}
+<C>__{walter}
+<D>__{that was terrific.}
+<C>__{girl}
+<D>__{you should hear the bird.}
+<C>__{walter}
+<D>__{you live around here?}
+<C>__{girl}
+<P>__{(pause)}
+<D>__{not too far.}
+<C>__{girl}
+<P>__{(she looks at him)}
+<D>__{are you a bird watcher too?}
+<C>__{walter}
+<D>__{me? nah. i'm more of a people watcher.}
+<C>__{girl}
+<D>__{were you watching me?}
+<C>__{walter}
+<P>__{(pause)}
+<D>__{not at first. you would stare at the tops of the trees so intently. any second i thought you would take off and fly.}
+<C>__{girl}
+<D>__{i have to go.}
+<C>__{walter}
+<D>__{do you come here often?}
+<C>__{girl}
+<D>__{my daddy likes me home before dark.}
+<C>__{walter}
+<D>__{it's good to listen to your daddy.}
+<A>__{the girl runs off down the path. walter watches after her. he stands alone in the field.}

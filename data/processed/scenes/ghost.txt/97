@@ -1,0 +1,71 @@
+<L>__{interior card file room day}
+<A>__{furgeson lays oda mae's id next to her signature card. the signatures match up. he nods his head in approval.}
+<L>__{interior carl's office day}
+<A>__{carl looks up at the clock. it is 3:50. he pushes down a button on the phone. a secretary answers.}
+<C>__{secretary }
+<D>__{yes, mr. bruner.}
+<C>__{carl}
+<D>__{get me the first island bank of nassau. it's on the rolodex.}
+<L>__{interior market security bank & trust day}
+<A>__{mr. furgeson returns with rita miller's signature card and a cashier's check for $4,000,000. oda mae's hand shakes as she examines it.}
+<C>__{furgeson}
+<D>__{i will just need your signature right here.}
+<C>__{oda mae}
+<D>__{sure.}
+<C>__{sam}
+<D>__{sign rita miller.}
+<A>__{sam looks up and gulps. molly has just entered the bank and is heading toward them. he jumps up nervously.}
+<C>__{sam}
+<P>__{(continuing)}
+<D>__{i will be back in a minute. you're on your own. don't say anything foolish.}
+<A>__{oda mae signs a form closing the account. of course the signatures match. mr. furgeson examines them both and smiles. he shakes oda mae's hand.}
+<C>__{furgeson}
+<D>__{now you be careful with this. it's like carrying cash, you know.}
+<C>__{oda mae}
+<P>__{(positively glowing)}
+<D>__{i sure do.}
+<A>__{sam rushes over to molly. he is not sure what to do. he notices a stack of deposit forms on the counter she is about to pass. he hurries to it and flicks the entire stack, a hundred sheets, flying up into the air. molly, confused, thinks she is responsible and stoops to pick them up. sam, delighted, flicks another stack. oda mae is talking a blue streak when sam returns to her.}
+<C>__{oda mae}
+<P>__{(continuing)}
+<D>__{then my mother took all the money from the oil wells and put it in gasoline pumps. every gas station has 'em you know, sometimes six or more. it adds up.}
+<C>__{sam}
+<D>__{oda mae, come on. we gotta get out of here. say goodbye.}
+<C>__{oda mae}
+<P>__{(abruptly getting up)}
+<D>__{well, i've got to leave. it's been a pleasure doin' business with you. say "hi" to shirley and snooky for me.}
+<C>__{furgeson}
+<D>__{thank you, rita. i will be glad to.}
+<A>__{oda mae smiles and leaves. there is a new lilt in her walk. suddenly sam looks and sees molly about to stand up.}
+<C>__{sam}
+<D>__{hurry up, oda mae.}
+<A>__{at that second, oda mae spots a quarter lying on the ground. she stoops down and picks it up.}
+<C>__{oda mae}
+<P>__{(excitedly)}
+<D>__{what a day!}
+<A>__{molly sees her, does a double take, and starts to go after her. unfortunately, oda mae steps onto an elevator before molly can catch up. the doors close. molly stops for a moment and then looks back across to the executive area. she sees lionel furgeson and hurries over to him.}
+<C>__{molly}
+<D>__{lionel?}
+<A>__{he is surprised to see her and grows instantly solicitous.}
+<C>__{furgeson}
+<D>__{molly. how are you?}
+<C>__{molly}
+<D>__{lionel, a woman who just left, a black lady, about my height, did you see her?}
+<C>__{furgeson}
+<D>__{well, yes. i just took care of her.}
+<C>__{molly}
+<D>__{what did she want? did it have anything to do with me? did she ask about sam?}
+<C>__{furgeson}
+<P>__{(not understanding)}
+<D>__{sam? no. why?}
+<C>__{molly}
+<D>__{was her name oda mae brown?}
+<C>__{furgeson}
+<D>__{no, rita miller. she just closed an account.}
+<A>__{molly stares at furgeson. she is not sure what to think.}
+<C>__{furgeson}
+<P>__{(continuing)}
+<D>__{is there a problem?}
+<C>__{molly}
+<P>__{(hesitating, not sure what to say)}
+<D>__{no. i guess not. thanks.}
+<A>__{she walks away, confused.}

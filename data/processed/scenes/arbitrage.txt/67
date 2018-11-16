@@ -1,0 +1,23 @@
+<L>__{exterior ellen's office}
+<A>__{ellen exits the building, passes the doorman and then bryer, who is waiting in his car outside the multi unit townhouse where she keeps her office. she doesn't notice him as she passes and enters a towncar. she's about half way into the car when he approaches.}
+<C>__{bryer}
+<P>__{(calling after her)}
+<D>__{mrs. miller?}
+<C>__{ellen}
+<P>__{(startled)}
+<D>__{yes?}
+<C>__{bryer}
+<P>__{(shows his badge)}
+<D>__{detective bryer.}
+<C>__{ellen}
+<D>__{did you just call my office?}
+<C>__{bryer}
+<D>__{yeah, i was hoping to talk to you.}
+<C>__{ellen}
+<D>__{well, i don't have time right now, sorry..}
+<C>__{bryer}
+<P>__{(turning on the charm)}
+<D>__{just take a couple a seconds. it's about your husband.}
+<C>__{ellen}
+<D>__{well, fine, but, make an appointment.}
+<A>__{she closes the door and rides away. bryer smiles in frustration, walks back to his car.}

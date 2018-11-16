@@ -1,0 +1,290 @@
+<L>__{international airport.}
+<B>__{rooftop parking lot}
+<A>__{the brown ciera enters and drives lazy s curves around the few snow covered cars parked on the roof of the lot. it stops by one car and carl emerges. he quickly scans the lot, then kneels in the snow at the back of the parked car and starts unscrewing its license plate.}
+<B>__{exit booth}
+<A>__{carl pulls up and hands the attendant his ticket.}
+<C>__{carl}
+<D>__{yeah, i decided not to park here.}
+<A>__{the attendant frowns uncomprehendingly at the ticket.}
+<C>__{attendant}
+<D>__{... what do you mean, you decided not to park here?}
+<C>__{carl}
+<D>__{yeah, i just came in. i decided not to park here.}
+<A>__{the attendant is still puzzled.}
+<C>__{attendant}
+<D>__{you, uh... i'm sorry, sir, but }
+<C>__{carl}
+<D>__{i decided not to i'm, uh, not taking the trip as it turns out.}
+<C>__{attendant}
+<D>__{i'm sorry, sir, we do have to charge you the four dollars.}
+<C>__{carl}
+<D>__{i just pulled in here. i just fucking pulled in here!}
+<C>__{attendant}
+<D>__{well, see, there's a minimum charge of four dollars. long term parking charges by the day.}
+<A>__{a car behind beeps. carl glances back, starts digging for money.}
+<C>__{carl}
+<D>__{i guess you think, ya know, you're an authority figure. with that stupid fucking uniform. huh, buddy?}
+<A>__{the attendant doesn't say anything.}
+<C>__{carl}
+<D>__{... king clip on tie here. big fucking man.}
+<A>__{he is peeling off one dollar bills.}
+<C>__{carl}
+<D>__{... you know, these are the limits of your life, man. ruler of your little fucking gate here. there's your four dollars. you pathetic piece of shit.}
+<B>__{gustafson olds garage}
+<A>__{jerry is staring up, mouth agape, at the underside of a car on a hydraulic lift. bewildered, he looks about, then asks a mechanic passing by, his voice raised over the din of the shop.}
+<C>__{jerry}
+<D>__{where's shep?}
+<A>__{the mechanic points.}
+<C>__{mechanic}
+<D>__{talkin' to a cop.}
+<A>__{jerry looks.}
+<C>__{jerry}
+<D>__{... cop?}
+<A>__{marge and shep face each other at the other end of the floor in a grimy and cluttered glassed in cubicle.}
+<C>__{mechanic}
+<D>__{said she was a policewoman.}
+<A>__{marge and shep silently talk. jerry stares, swallows.}
+<B>__{inside the cubicle}
+<C>__{marge}
+<D>__{ wednesday night?}
+<A>__{shep is shaking his head.}
+<C>__{shep}
+<D>__{nope.}
+<C>__{marge}
+<D>__{well, you do reside their at 1425 fremont terrace?}
+<C>__{shep}
+<D>__{yep.}
+<C>__{marge}
+<D>__{anyone else residing there?}
+<C>__{shep}
+<D>__{nope.}
+<C>__{marge}
+<D>__{well, mr. proudfoot, this call came in past three in the morning. it's just hard for me to believe you can't remember anyone calling.}
+<A>__{shep says nothing.}
+<C>__{marge}
+<D>__{... now, i know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole }
+<C>__{shep}
+<D>__{so?}
+<C>__{marge}
+<D>__{well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in stillwater.}
+<C>__{shep}
+<D>__{uh huh.}
+<C>__{marge}
+<D>__{now, i saw some rough stuff on your priors, but nothing in the nature of a homicide...}
+<A>__{shep stares at her.}
+<C>__{marge}
+<D>__{... i know you don't want to be an accessory to something like that.}
+<C>__{shep}
+<D>__{nope.}
+<C>__{marge}
+<D>__{so you think you might remember who those folks were who called ya?}
+<A>__{jerry's office jerry is worriedly pacing behind his desk. at a noise he looks up. marge has stuck her head in the door.}
+<C>__{marge}
+<D>__{mr. lundegaard?}
+<C>__{jerry}
+<D>__{huh? yah?}
+<C>__{marge}
+<D>__{i wonder if i could take just a minute of your time here }
+<C>__{jerry}
+<D>__{what... what is it all about?}
+<C>__{marge}
+<D>__{huh? do you mind if i sit down i'm carrying quite a load here.}
+<A>__{marge plops into the chair opposite him.}
+<C>__{marge}
+<D>__{... you're the owner here, mr. lundegaard?}
+<C>__{jerry}
+<D>__{naw, i... executive sales manager.}
+<C>__{marge}
+<D>__{well, you can help me. my name's marge gunderson }
+<C>__{jerry}
+<D>__{my father in law, he's the owner.}
+<C>__{marge}
+<D>__{uh huh. well, i'm a police officer from up brainerd investigating some malfeasance and i was just wondering if you've had any new vehicles stolen off the lot in the past couple of weeks specifically a tan cutlass ciera?}
+<A>__{jerry stares at her, his mouth open.}
+<C>__{marge}
+<D>__{... mr. lundegaard?}
+<C>__{jerry}
+<D>__{... brainerd?}
+<C>__{marge}
+<D>__{yah. yah. home a paul bunyan and babe the blue ox.}
+<C>__{jerry}
+<D>__{... babe the blue ox?}
+<C>__{marge}
+<D>__{yah, ya know we've got the big statue there. so you haven't had any vehicles go missing, then?}
+<C>__{jerry}
+<D>__{no. no, ma'am.}
+<C>__{marge}
+<D>__{okey dokey, thanks a bunch. i will let you get back to your paperwork, then.}
+<A>__{as marge rises, jerry looks blankly down at the papers on the desk in front of him.}
+<C>__{jerry}
+<D>__{... yah, okay.}
+<A>__{he looks up at marge's retreating back. he looks back down at the papers. he looks over at the phone. he picks up the phone and dials four digits.}
+<C>__{jerry}
+<D>__{... yah, gimmee shep... the heck d'ya mean?... well, where'd he go? it's only... no, i don't need a mechanic oh, geez i gotta talk to a friend of his, so, uh ... have him, uh ... oh, geez...}
+<B>__{hotel bar}
+<A>__{marge enters. she looks around the bar, a rather characterless, lowlit meeting place for business people.}
+<C>__{voice}
+<D>__{marge?}
+<A>__{it is a bald, paunching man of about marge's age, rising from a booth halfway back. his features are broad, friendly, asian american.}
+<C>__{marge}
+<D>__{mike!}
+<A>__{he approaches somewhat carefully, as if on his second drink. they hug and head back toward the booth.}
+<C>__{mike}
+<D>__{geez! you look great!}
+<C>__{marge}
+<D>__{yah easy there you do too! i'm expecting, ya know.}
+<C>__{mike}
+<D>__{i see that! that's great!}
+<A>__{a waitress meets them at the table.}
+<C>__{mike}
+<D>__{... what can i get ya?}
+<C>__{marge}
+<D>__{just a diet coke.}
+<A>__{again she glances about.}
+<C>__{marge}
+<D>__{... this is a nice place.}
+<C>__{mike}
+<D>__{yah, ya know it's the radisson, so it's pretty good.}
+<C>__{marge}
+<D>__{you're livin' in edina, then?}
+<C>__{mike}
+<D>__{oh, yah, couple years now. it's actually eden prarie that school district. so chief gunderson, then! so ya went and married norm son of a gunderson!}
+<C>__{marge}
+<D>__{oh, yah, a long time ago.}
+<C>__{mike}
+<D>__{great. what brings ya down are ya down here on that homicide if you're allowed, ya know, to discuss that?}
+<C>__{marge}
+<D>__{oh, yah, but there's not a heckuva lot to discuss. what about you, mike? are you married you have kids?}
+<C>__{mike}
+<D>__{well, yah, i was married. i was married to you mind if i sit over here?}
+<A>__{he is sliding out of his side of the booth and easing in next to marge.}
+<C>__{mike}
+<D>__{... i was married to linda cooksey }
+<C>__{marge}
+<D>__{no, i mike wyncha sit over there, i'd prefer that.}
+<C>__{mike}
+<D>__{huh? oh, okay, i'm sorry.}
+<C>__{marge}
+<D>__{no, just so i can see ya, ya know. don't have to turn my neck.}
+<C>__{mike}
+<D>__{oh, sure, i unnerstand, i didn't mean to }
+<C>__{marge}
+<D>__{no, no, that's fine.}
+<C>__{mike}
+<D>__{yah, sorry, so i was married to linda cooksey ya remember linda? she was a year behind us.}
+<C>__{marge}
+<D>__{i think i remember linda, yah. she was yah. so things didn't work out, huh?}
+<C>__{mike}
+<D>__{and then i, and then i been workin' for honeywell for a few years now.}
+<C>__{marge}
+<D>__{well, they're a good outfit.}
+<C>__{mike}
+<D>__{yah, if you're an engineer, yah, you could do a lot worse. of course, it's not, uh, it's nothin' like your achievement.}
+<C>__{marge}
+<D>__{it sounds like you're doin' really super.}
+<C>__{mike}
+<D>__{yah, well, i, uh ... it's not that it didn't work out linda passed away. she, uh...}
+<C>__{marge}
+<D>__{i'm sorry.}
+<C>__{mike}
+<D>__{yah, i, uh... she had leukemia, you know...}
+<C>__{marge}
+<D>__{no, i didn't...}
+<C>__{mike}
+<D>__{it was a tough, uh ... it was a long she fought real hard, marge...}
+<C>__{marge}
+<D>__{i'm sorry, mike.}
+<C>__{mike}
+<D>__{oh, ya know, that's, uh what can i say?...}
+<A>__{he holds up his drink.}
+<C>__{mike}
+<D>__{... better times, huh?}
+<A>__{marge clinks it.}
+<C>__{marge}
+<D>__{better times.}
+<C>__{mike}
+<D>__{i was so... i been so ... and then i saw you on tv, and i remembered, ya know... i always liked you...}
+<C>__{marge}
+<D>__{well, i always liked you, mike.}
+<C>__{mike}
+<D>__{i always liked ya so much...}
+<C>__{marge}
+<D>__{it's okay, mike should we get together another time, ya think?}
+<C>__{mike}
+<D>__{no i'm sorry! it's just i been so lonely then i saw you, and...}
+<A>__{he is weeping.}
+<C>__{mike}
+<D>__{... i'm sorry... i shouldn't a done this... i thought we'd have a really terrific time, and now i've...}
+<C>__{marge}
+<D>__{it's okay...}
+<C>__{mike}
+<D>__{you were such a super lady ... and then i... i been so lonely...}
+<C>__{marge}
+<D>__{it's okay, mike...}
+<B>__{carlton celebrity room}
+<A>__{carl showalter is sitting at a small table with a tarty looking blonde in a low cut gown. each holds a drink.}
+<C>__{carl}
+<D>__{just in town on business. just in and out. ha ha! a little of the old in and out!}
+<C>__{woman}
+<D>__{wuddya do?}
+<A>__{carl looks around.}
+<C>__{carl}
+<D>__{have ya been to the celebrity room before? with other, uh, clients?}
+<C>__{woman}
+<D>__{i don't think so. it's nice.}
+<C>__{carl}
+<D>__{yeah, well, it depends on the artist. you know, jose feliciano, ya got no complaints. waiter!}
+<A>__{the reverse shows a disappearing waiter and the backs of many, many people sitting at tables between us and the very distant stage. jose feliciano, very small, performs on a spotlit stool. the acoustics are poor. carl grimaces.}
+<C>__{carl}
+<D>__{... what is he, deaf?... so, uh, how long have you been with the escort service?}
+<C>__{woman}
+<D>__{i don't know. few munce.}
+<C>__{carl}
+<D>__{ya find the work interesting, do ya?}
+<C>__{woman}
+<D>__{... what're you talking about?}
+<B>__{a dirty bedroom}
+<A>__{carl is humping the escort. we hear the door burst open. the escort is grabbed and flung out of bed.}
+<C>__{carl}
+<D>__{shep! what the hell are you doing? i'm banging that girl! shep! jesus ch }
+<A>__{shep slaps him hard, forehand, backhand.}
+<C>__{shep}
+<D>__{fuck out of my house!}
+<A>__{he hauls him up }
+<C>__{carl}
+<D>__{shep! don't you dare fucking hit me, man! don't you }
+<A>__{ punches him and flings him away. carl hits a sofa and we see his bare legs disappear as he flips back over it. shep enters frame to circle the sofa and kick at carl behind it.}
+<C>__{shep}
+<D>__{fuck outta here. put me back in stillwater. little fucking shit.}
+<A>__{there is a knock at the door.}
+<C>__{voice}
+<D>__{hey! come on in there!}
+<A>__{shep strides to the door, flings it open. a man in boxer shorts stands in the doorway.}
+<C>__{man}
+<D>__{c'mon, brother, it's late unghh!}
+<A>__{shep hits him twice, then grabs both of his ears and starts banging his head against the wall. the hooker runs by, clutching her clothes, and shep kicks her in the ass as she passes. he spins and goes back into the apartment. carl is hopping desperately into his pants.}
+<C>__{carl}
+<D>__{stay away from me, man! hey! smoke a fuckin' peace pipe, man! don't you dare fuckin' unghh!}
+<A>__{after hitting him several times, shep yanks carl's belt out of his dangling pants and strangles him with it. carl gurgles. shep knees carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of the belt.}
+<B>__{chain restaurant phone booth}
+<A>__{carl listens to the phone ring at the other end. his face is deeply bruised and cut. finally, through the phone...}
+<C>__{voice}
+<D>__{... yah?}
+<C>__{carl}
+<D>__{all right, jerry, i'm through fucking around. you got the fucking money?}
+<A>__{jerry's kitchen jerry is at the kitchen phone. through the door to the dining room we see wade picking up an extension.}
+<C>__{jerry}
+<D>__{yah, i got the money, but, uh }
+<C>__{carl}
+<D>__{don't you fucking but me, jerry. i want you with this money on the dayton radisson parking ramp, top level, thirty minutes, and we'll wrap this up.}
+<C>__{jerry}
+<D>__{yah, okay, but, uh }
+<C>__{carl}
+<D>__{you're there in thirty minutes or i find you, jerry, and i shoot you, and i shoot your fucking wife, and i shoot all your little fucking children, and i shoot 'em all in the back of their little fucking heads. got it?}
+<C>__{jerry}
+<D>__{... yah, well, you stay away from scotty now }
+<C>__{carl}
+<D>__{got it?}
+<C>__{jerry}
+<D>__{okay, real good, then.}
+<A>__{the line goes dead. a door slams offscreen.}

@@ -1,0 +1,84 @@
+<L>__{ext interior bookstore. night}
+<A>__{anthony and dignan walk through the shadows in front of a huge bookstore. the lights are on inside. they watch for a minute and then go to the front door. dignan hides behind a post. anthony knocks on the glass. an employee appears.}
+<C>__{anthony}
+<D>__{i left my sweater inside.}
+<A>__{the employee shakes his head. he can't hear through the glass.}
+<C>__{anthony}
+<D>__{do you have a lost and found?}
+<A>__{the employee unlocks the door and opens it an inch.}
+<C>__{employee}
+<D>__{we're closed.}
+<C>__{anthony}
+<D>__{i left my sweater in there.}
+<C>__{employee}
+<D>__{oh. i see. come on in.}
+<A>__{anthony goes inside. dignan comes out from behind the post.}
+<C>__{employee}
+<D>__{we're closed, sir.}
+<C>__{dignan}
+<D>__{where's that guy going?}
+<C>__{employee}
+<D>__{he left his sweater.}
+<C>__{dignan}
+<D>__{well, i left some money in there.}
+<C>__{employee}
+<D>__{where?}
+<C>__{dignan}
+<P>__{(pulls out the gun)}
+<D>__{in the cash relister. step away from the door.}
+<A>__{dignan goes in. they walk through the store.}
+<C>__{anthony}
+<D>__{where's the manager?}
+<C>__{dignan}
+<D>__{where's the other stocker?}
+<C>__{anthony}
+<D>__{there's another stocker, right?}
+<C>__{dignan}
+<D>__{we know there's another stocker.}
+<C>__{employee}
+<D>__{rob?}
+<A>__{dignan points the gun at the employee.}
+<C>__{dignan}
+<D>__{where is he? where is rob?}
+<C>__{employee}
+<D>__{i don't know. maybe in literature. that's his section.}
+<C>__{dignan}
+<D>__{you got that?}
+<C>__{anthony}
+<D>__{sure. literature. the classics.}
+<A>__{the manager is locking the door of his office.}
+<C>__{anthony}
+<D>__{is that the manager?}
+<C>__{dignan}
+<P>__{(to manager)}
+<D>__{unlock that door.}
+<P>__{(to anthony)}
+<D>__{check the aisles.}
+<A>__{anthony starts walking through the store, checking down each aisle. he picks up a copy of the air war on hitler's germany and takes it with him. he goes through literature and sees rob in travel, kneeling in front of a low shelf with a carton of books beside him.}
+<C>__{anthony}
+<D>__{rob?}
+<C>__{rob}
+<P>__{(looks up, a little puzzled)}
+<D>__{uh huh?}
+<C>__{anthony}
+<D>__{why aren't you in literature?}
+<C>__{rob}
+<P>__{(hesitates)}
+<D>__{it's all full up.}
+<A>__{dignan is in the office with the manager and the first employee. he's pointing at a drawer.}
+<C>__{dignan}
+<D>__{open it up.}
+<A>__{the manager opens it. it's full of office supplies.}
+<C>__{dignan}
+<D>__{ok. open the other. let's go.}
+<A>__{the manager opens the other drawer. it's full of cash. dignan looks at the manager. he looks back at the cash.}
+<C>__{dignan}
+<D>__{put it in one of those.}
+<A>__{dignan points at some bookstore bags. the manager picks up a little one and starts to put the money in it.}
+<C>__{dignan}
+<D>__{a bigger one, you idiot.}
+<C>__{manager}
+<P>__{(glares at dignan)}
+<D>__{don't call me an idiot, you punk.}
+<C>__{dignan}
+<D>__{i'm sorry. but that bag's too small.}

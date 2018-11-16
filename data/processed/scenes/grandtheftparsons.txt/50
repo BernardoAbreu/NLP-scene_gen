@@ -1,0 +1,69 @@
+<T>__{con tinue d:}
+<C>__{phil}
+<P>__{(carefully)}
+<D>__{okay.}
+<A>__{he pops a cigar into his mouth.}
+<C>__{larry}
+<D>__{there's no smoking in here, i'm afraid.}
+<A>__{phil stares meaningfully at the burning joss stick, but puts the cigar away.}
+<C>__{phil}
+<D>__{right.}
+<C>__{larry}
+<D>__{who are you, please?}
+<C>__{phil}
+<D>__{oh, i'm phil kaufman.}
+<C>__{larry}
+<D>__{and how may i help you, phil kaufman?}
+<C>__{phil}
+<D>__{i'd like to hire your car.}
+<C>__{larry}
+<D>__{why?}
+<C>__{phil}
+<D>__{well, i need to pick someone up at the airport.}
+<C>__{larry}
+<D>__{don't you know anyone with a car?}
+<C>__{phil}
+<D>__{yes, of course. it's just that i'm told your car is more suitable.}
+<C>__{larry}
+<D>__{i see. in what way is my car more suitable?}
+<C>__{phil}
+<D>__{well... it's a hearse.}
+<C>__{larry}
+<D>__{yes.}
+<A>__{they both look at each other. larry waits for phil to speak. con tinue d: (2)}
+<C>__{larry }
+<D>__{and how is a hearse going to be suitable for picking someone up from the airport?}
+<C>__{phil}
+<D>__{it's... a joke.}
+<C>__{larry}
+<D>__{a joke?}
+<A>__{he doesn't look entirely convinced.}
+<C>__{phil}
+<D>__{a prank. a surprise.}
+<C>__{larry}
+<D>__{well, okay. is it two hundred dollars worth of surprise?}
+<C>__{phil}
+<D>__{no, it's more of a fifty dollar surprise.}
+<C>__{larry}
+<D>__{i can lend you a bicycle. besides, the car is booked.}
+<C>__{phil}
+<D>__{booked how?}
+<C>__{man}
+<D>__{i use it to carry equipment for a band.}
+<A>__{phil pulls some cash out of his pocket and sorts through it.}
+<C>__{phil}
+<D>__{well, here's two hundred dollars to unbook it. let 'em carry their own trombones.}
+<A>__{phil passes the money over. larry starts to count it.}
+<C>__{phil }
+<D>__{you don't need to count it. you could trust me.}
+<A>__{larry doesn't pause counting.}
+<C>__{larry}
+<D>__{let's see; i've never met you in my life, you shout through my mail slot, you want to hire my hearse as a joke, and...}
+<P>__{(mor e)}
+<A>__{con tinue d: (3)}
+<C>__{lar ry }
+<D>__{you're twenty dollars short. why should i trust you?}
+<C>__{phil}
+<D>__{that last twenty is for gas. anyway i haven't even seen the car yet. i'm the one who's operating on trust.}
+<C>__{larry}
+<D>__{it's a hearse. what else do you need to know?}

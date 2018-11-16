@@ -1,0 +1,36 @@
+<L>__{interior brinnlitz factory day}
+<A>__{schindler strolls through his factory looking over the shoulders of the workers, nodding his approval. the place is in full operation, finally; the people, having figured out the complicated hilos, turning out shells by the caseload. schindler pauses at one of the machines.}
+<C>__{schindler}
+<D>__{how's it going?}
+<C>__{worker}
+<D>__{good. it's taken a while to calibrate the machines, but it's going good now.}
+<C>__{schindler}
+<D>__{good.}
+<A>__{schindler nods. then frowns. he leans down and taps at the crystal of one of the gauges.}
+<C>__{schindler}
+<D>__{this isn't right, is it?}
+<A>__{the worker kneels down, takes a look. it looks right to him. reaching over, schindler changes the calibration of the machine with a cavalier adjustment to a knob and all the gauge readings shift.}
+<C>__{schindler}
+<D>__{there. that looks right.}
+<A>__{he wanders off. the worker stares after him. he's just screwed up settings that took weeks to get right. schindler comes up to another worker, levartov, the hingemaker. he's at a machine buffing shells.}
+<C>__{schindler}
+<D>__{how's it going, rabbi?}
+<C>__{levartov}
+<D>__{good, sir.}
+<A>__{schindler nods, watches him work, eventually glances away.}
+<C>__{schindler}
+<D>__{sun's going down.}
+<A>__{levartov, following schindler's gaze, nods uncertainly.}
+<C>__{schindler}
+<D>__{it is friday, isn't it?}
+<C>__{levartov}
+<D>__{is it?}
+<C>__{schindler}
+<D>__{you should be preparing for the sabbath, shouldn't you? what are you doing here?}
+<A>__{levartov just stares. it's been years since he's been allowed, indeed inclined, to perform sabbath rites.}
+<C>__{schindler}
+<D>__{i've got some wine in my office. why don't we go over there, i will give it to you. come on, let's go.}
+<A>__{schindler heads off. the rabbi keeps staring. schindler gestures back to him, offering casually }
+<C>__{schindler}
+<D>__{come on.}
+<A>__{levartov looks around. finally, he hangs up his goggles and follows after schindler.}

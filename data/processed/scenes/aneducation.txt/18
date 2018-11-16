@@ -1,0 +1,136 @@
+<L>__{interior jenny's house. evening}
+<A>__{jenny is dressed up for her evening out. she looks good, but also stiff, uncomfortable she's not herself in her dress, which looks too old for her. her father is standing in front of her, shouting.}
+<C>__{jack}
+<D>__{i won't allow it!}
+<C>__{jenny}
+<P>__{(coolly)}
+<D>__{fine. he's quite happy for you to take me.}
+<C>__{jack}
+<P>__{(uncertainly)}
+<D>__{right. i will.}
+<C>__{jenny}
+<D>__{good.}
+<C>__{jack}
+<D>__{where is it?}
+<C>__{jenny}
+<D>__{st john's smith square.}
+<C>__{jack}
+<D>__{where's that?}
+<C>__{jenny}
+<D>__{i don't know. i'm sure we could find out.}
+<A>__{marjorie comes into the room.}
+<C>__{marjorie}
+<D>__{it's in westminster. just around the corner from the abbey.}
+<A>__{jack looks at her as if she'd just given directions to the nearest opium den.}
+<C>__{jack}
+<D>__{how d'you know that?}
+<C>__{marjorie}
+<D>__{i had a life before we were married, you know.}
+<C>__{jenny}
+<D>__{he soon put a stop to that.}
+<C>__{jack}
+<D>__{there we are.}
+<C>__{jenny}
+<D>__{where are we?}
+<C>__{jack}
+<D>__{near westminster abbey. i'm not going all the way over there.}
+<C>__{jenny}
+<D>__{the trouble is, that's where st john's smith square is.}
+<C>__{jack}
+<D>__{and i've just said. that's where i'm not going. there must be something on locally. where's the paper?}
+<C>__{marjorie}
+<D>__{jack, she wants to see someone who can play. she doesn't want to see sheila kirkland scratching away. i will take her.}
+<C>__{jack}
+<D>__{and how are you going to get over there? raf helicopter?}
+<A>__{the doorbell rings.}
+<C>__{jenny}
+<D>__{that's him. now what?}
+<C>__{jack}
+<D>__{oh, bloody hell.}
+<C>__{marjorie}
+<D>__{jack!}
+<A>__{jenny starts towards the door, and then turns.}
+<C>__{jenny}
+<D>__{oh, and by the way...david's a jew. a wandering jew. so watch yourself.}
+<A>__{she goes to the door.}
+<C>__{jack}
+<P>__{(panic stricken and shouting)}
+<D>__{what's she talking about? i've never said anything like that in my life! anyway, it's just an expression! i'm not against the jews!}
+<A>__{jenny comes back in with david, who is dressed stylishly in his early 60s young executive leisurewear sports jacket, slacks, cashmere sweater. he looks out of place he is brighter and brasher than his surroundings, the most colourful thing in the room, and he seems intimidatingly exotic. david has obviously heard jack's last line.}
+<C>__{david}
+<P>__{(pleasantly)}
+<D>__{i'm glad to hear it. hello. david goldman.}
+<A>__{he offers his hand.}
+<C>__{jack}
+<D>__{i didn't mean i'm not against you... actually, i did mean that, because i'm not, but...}
+<C>__{jenny}
+<D>__{dad!}
+<A>__{david's hand is still extended in his confusion and embarrassment, jack hasn't yet taken it. he does so now, and shakes it for way too long.}
+<C>__{jack}
+<D>__{i'm sorry. what i'm saying is that you're not the sort of, of person i'd be against, if i were the sort of person who was against...people. you're not an old...oh, dear. i'm jack, and this is marjorie.}
+<C>__{david}
+<P>__{(deadpan)}
+<D>__{you didn't tell me you had a sister, jenny.}
+<A>__{general confusion, until david chuckles naughtily. marjorie giggles, and then offers her hand.}
+<C>__{david}
+<D>__{you're a lucky man, jack.}
+<C>__{jack}
+<D>__{i suppose i am, yes.}
+<A>__{they all sit down.}
+<C>__{david}
+<D>__{so. gosh. (he looks around approvingly.) this is lovely.}
+<A>__{marjorie smiles.}
+<C>__{marjorie}
+<D>__{thank you.}
+<C>__{jack}
+<D>__{i'm sorry, david. can i get you a drink?}
+<C>__{david}
+<D>__{i'd love one, jack, but we're running a little late. if jenny's ready, perhaps we'll shoot off.}
+<A>__{jenny looks at her father, and takes a calculated gamble.}
+<C>__{jenny}
+<D>__{ah. well. dad's got something to tell you.}
+<C>__{jack}
+<D>__{no, no, nothing...it was more of a question, really. how would you get to st john's smith square from here? for future reference?}
+<C>__{david}
+<D>__{oh, it's a pretty straight run, really. up to hammersmith, take the a4 through kensington and you're there.}
+<C>__{jack}
+<D>__{simple as that.}
+<C>__{david}
+<D>__{simple as that.}
+<A>__{jack smiles broadly.}
+<C>__{marjorie}
+<P>__{(playfully)}
+<D>__{so shall i book some tickets for something?}
+<C>__{jack}
+<P>__{(still smiling)}
+<D>__{no.}
+<A>__{beat.}
+<C>__{jack}
+<D>__{back by ten, please, david. she's usually in bed by then.}
+<A>__{jenny winces.}
+<C>__{david}
+<D>__{i was hoping jenny would come with me afterwards to have a bite of supper with my aunt helen.}
+<A>__{jenny studies him carefully. suddenly his friends danny and helen have become `aunt helen'.}
+<C>__{jack}
+<D>__{oh, well, i suppose...}
+<C>__{david}
+<D>__{how about if i promise to have her in by eleven thirty?}
+<C>__{jack}
+<D>__{well, it's friday night. and if you're going out to the west end...}
+<C>__{david}
+<D>__{thanks, jack. i appreciate it. see you again.}
+<A>__{they exchange warm handshakes. he turns to marjorie. marjorie extends her hand. david takes it, but kisses it suavely,leaving her a little flustered.}
+<C>__{marjorie}
+<D>__{have a nice time.}
+<C>__{jenny}
+<D>__{bye.}
+<A>__{jenny and david leave.}
+<C>__{jack}
+<P>__{(sniffing the air)}
+<D>__{what's that smell? has he got perfume on?}
+<C>__{marjorie}
+<D>__{it's called after shave, jack. and it makes a change from carbolic soap.}
+<C>__{jack}
+<D>__{at least there's no confusion, if you smell of carbolic soap. marjorie rolls her eyes.}
+<C>__{marjorie}
+<D>__{nobody's ever going to get confused about you, dear.}

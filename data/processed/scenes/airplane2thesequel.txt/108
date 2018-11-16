@@ -1,0 +1,28 @@
+<L>__{interior cabin food preparation area}
+<A>__{mary is on intercom.}
+<C>__{mary}
+<D>__{would you like a little breakfast, captain oveur? over.}
+<L>__{interior cockpit}
+<C>__{oveur}
+<D>__{a couple eggs and juice would be nice, mary. over.}
+<C>__{mary }
+<P>__{(on intercom)}
+<D>__{how would you like your eggs, captain? over.}
+<C>__{oveur}
+<D>__{no. poached. over.}
+<C>__{mary }
+<P>__{(on intercom)}
+<D>__{poached and over, captain oveur? over.}
+<C>__{oveur}
+<D>__{just poached on toast. over.}
+<L>__{interior cabin preparation area}
+<C>__{mary}
+<P>__{(on intercom)}
+<D>__{i don't think we do poached eggs on toast over, captain oveur. over.}
+<L>__{interior cockpit}
+<C>__{oveur}
+<D>__{that's how i want them. poached. over.}
+<C>__{mary}
+<D>__{all right, captain oveur. over.}
+<C>__{oveur}
+<D>__{poached! not over! over!}

@@ -1,0 +1,36 @@
+<L>__{interior air lock day}
+<A>__{roby stumbles in as the inner door closes; and with a heavy whine, the thick surface door rumbles open. orange sunlight billows in, followed by the inevitable dust. standard hurls the carcass out, tongs and all.}
+<L>__{exterior base of ship day}
+<A>__{the parasite hits the ground and begins to sink into the dust, smouldering and fuming.}
+<L>__{interior air lock day}
+<A>__{the outer door rolls shut.}
+<C>__{roby}
+<P>__{(slumping against the wall)}
+<D>__{my god, it's lethal even when it's dead!}
+<A>__{melkonis gets down on his knees and studies the small burn holes in the floor. standard opens the inner door and steps out into the corridor. there, he activates the wall intercom and punches out a combination.}
+<L>__{interior corridor outside air lock}
+<C>__{hunter}
+<P>__{(over intercom, filtered)}
+<D>__{yes?}
+<C>__{standard}
+<D>__{how's broussard?}
+<C>__{hunter}
+<P>__{(over, filtered)}
+<D>__{he's running a fever.}
+<C>__{standard}
+<D>__{still unconscious?}
+<C>__{hunter}
+<P>__{(over, filtered)}
+<D>__{yes.}
+<C>__{standard}
+<D>__{can you do anything for him?}
+<C>__{hunter}
+<P>__{(over, filtered)}
+<D>__{the machine will bring his temperature down. his vital functions are strong.}
+<C>__{standard}
+<D>__{good.}
+<A>__{he switches off the intercom.}
+<C>__{standard }
+<P>__{(suddenly exhausted)}
+<D>__{i need some coffee.}
+<A>__{he turns and walks away.}

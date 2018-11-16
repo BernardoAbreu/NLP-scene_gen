@@ -1,0 +1,83 @@
+<L>__{interior coroner's office}
+<A>__{a set of golf clubs rest forelornly in the corner. an irritable looking coroner fumes behind his desk as thomas enters.}
+<C>__{daggett}
+<D>__{hey, willie, sorry to hear about the weather.}
+<A>__{the coroner just stares at him.}
+<C>__{daggett}
+<D>__{should i bother sitting?}
+<C>__{coroner}
+<D>__{sit.}
+<A>__{thomas obeys as the coroner spreads out a stack of white sheets.}
+<C>__{coroner}
+<D>__{where would you like me to start?}
+<C>__{daggett}
+<D>__{i think we can skip the cause of death.}
+<C>__{coroner}
+<D>__{all right. to begin with, your man has no eyes.}
+<C>__{daggett}
+<D>__{weren't stuck in the radiator grill?}
+<C>__{coroner}
+<D>__{no, he never had any eyes. we checked the sockets. there's no optic nerve, muscle pores, loose viscus, nothing.}
+<C>__{daggett}
+<D>__{huh.}
+<C>__{coroner}
+<D>__{we also did a toxicology on his blood: high sodium, elevated selenium, no floating cholesterol platelets, trace ammonia.}
+<C>__{daggett}
+<D>__{something wrong with that?}
+<C>__{coroner}
+<D>__{no, it's actually pretty common for an aborted fetus.}
+<C>__{daggett}
+<P>__{(rubs eyes)}
+<D>__{i should have listened to burrows...}
+<C>__{coroner}
+<D>__{we also did a bone section. wasn't that much trouble since most of them were sticking out of his chest anyway.}
+<C>__{daggett}
+<D>__{and?}
+<C>__{coroner}
+<D>__{when babies grow up their bones get larger by adding calcium layers over the interior haversham canals. child growth isn't uniform though, comes in spurts that always leave growth rings in the bone. everybody has them except your man. that would, to a hasty observer, seem to indicate he had never been a child.}
+<C>__{daggett}
+<D>__{i assume you, a cautious and learned observer, of course have an explanation.}
+<C>__{coroner}
+<D>__{not even remotely. want to hear the last one?}
+<C>__{daggett}
+<D>__{not even remotely.}
+<C>__{coroner}
+<D>__{he's a hermaphrodite.}
+<P>__{(thomas stares at him)}
+<D>__{ has both male and female sex organs.}
+<C>__{daggett}
+<D>__{think of the possibilities.}
+<C>__{coroner}
+<D>__{yeah, you can be impotent and frigid all at the same time they don't normally work.}
+<A>__{thomas sighs and climbs to his feet.}
+<C>__{daggett}
+<D>__{well, i'd love to say thank you, but }
+<C>__{coroner}
+<D>__{oh, i also have a bonus prize for you.}
+<A>__{the coroner opens his desk and pulls out a small, ancient looking leather bound book.}
+<C>__{coroner}
+<D>__{found this sealed in his coat lining.}
+<A>__{thomas turns it over in his hand.}
+<C>__{daggett}
+<D>__{it's a bible.}
+<C>__{coroner}
+<D>__{a pretty old one, i think.}
+<A>__{thomas runs his finger across the gold leaf cover.}
+<C>__{coroner}
+<D>__{we checked it out inside. thought there might be a name or fingerprint somewhere. all we found was a curled page marking the fourteenth chapter of st. john's revelations.}
+<C>__{daggett}
+<D>__{there is no fourteenth chapter to revelations.}
+<C>__{coroner}
+<D>__{maybe this is the teacher's edition.}
+<A>__{thomas opens the bible and there it is, in latin, the fourteenth chapter.}
+<C>__{daggett}
+<D>__{can i keep this awhile?}
+<C>__{coroner}
+<D>__{sure.}
+<C>__{daggett}
+<P>__{(beat)}
+<D>__{can you sit on all this a few days, willie? not circulate the file? i need some time before all the questions start.}
+<C>__{coroner}
+<D>__{oooh, are we breaking the rules again?}
+<C>__{daggett}
+<D>__{so what else is new?}

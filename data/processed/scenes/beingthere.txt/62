@@ -1,0 +1,20 @@
+<L>__{interior rand mansion hallway morning}
+<A>__{chance limps aimlessly through a hallway. he stops, admires a large tapestry on the wall. a servant, smythe, notices chance appears confused, approaches him.}
+<C>__{smythe}
+<D>__{may i help you, mr. gardiner?}
+<C>__{chance}
+<P>__{(with a smile)}
+<D>__{yes. i would like to go to rand memorial hospital.}
+<C>__{smythe}
+<P>__{(a pause)}
+<D>__{... sir?}
+<C>__{chance}
+<D>__{yes.}
+<A>__{there is another long pause.}
+<C>__{smythe}
+<D>__{... did you wish to see someone, sir?}
+<C>__{chance}
+<D>__{yes, i would like to see ben.}
+<C>__{smythe}
+<D>__{oh, mr. rand, of course. right this way, sir.}
+<A>__{chance follows smythe down the hall.}

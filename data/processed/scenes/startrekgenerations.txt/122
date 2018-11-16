@@ -1,0 +1,33 @@
+<L>__{interior engineering}
+<A>__{there is a sudden explosion on the upper level. geordi and the other engineers rush to deal with it.}
+<C>__{geordi}
+<D>__{get a stabilizer on that conduit.}
+<L>__{interior bridge}
+<A>__{riker suddenly gets an inspiration as the bridge is}
+<B>__{rocked.}
+<C>__{riker}
+<P>__{(to data)}
+<D>__{could we access the defective coil and trigger their cloak?}
+<C>__{data}
+<P>__{(considers)}
+<D>__{perhaps.}
+<P>__{(suddenly enthusiastic)}
+<D>__{yes! if we sent a low level ionic pulse, it might reset the coil and engage the cloaking systems.}
+<C>__{worf}
+<P>__{(onto the idea)}
+<D>__{as their cloak begins to engage, their shields will drop.}
+<C>__{riker}
+<D>__{right. and they'll be vulnerable for at least two seconds.}
+<P>__{(to data)}
+<D>__{data, lock onto that plasma coil.}
+<C>__{data}
+<P>__{(confident)}
+<D>__{no problem.}
+<A>__{data goes to work.}
+<C>__{riker}
+<D>__{worf, prepare a spread of photon torpedoes. we'll have to hit them the instant they begin to cloak.}
+<C>__{worf}
+<D>__{aye, sir.}
+<C>__{riker}
+<D>__{we're only going to get one shot at this. target their primary reactor. with any luck, their warp core should implode.}
+<A>__{worf works.}

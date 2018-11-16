@@ -1,0 +1,30 @@
+<L>__{interior southwest bank loan desk}
+<A>__{carl's at the loan desk. norman comes over, looking grave.}
+<C>__{norman}
+<D>__{carl, could i see you for a moment?}
+<A>__{carl nervously walks into his office.}
+<L>__{interior norman's office}
+<A>__{carl nervously sits before norman.}
+<C>__{norman}
+<D>__{earlier today, you showed some initiative. and i loved it. what do you say to a permanent spot at the loan desk?}
+<C>__{carl}
+<D>__{that seems like a lot of responsibility.}
+<C>__{norman}
+<D>__{we need a loan specialist a lot more than we need a teller and greeter. besides, you'd have a starting salary of 52.}
+<C>__{carl}
+<D>__{grand?}
+<C>__{norman}
+<D>__{no, dollars. what is this darfur?}
+<P>__{(waving to an african american employee)}
+<D>__{sorry, patricia, that was inappropriate.}
+<P>__{(then, back to carl)}
+<D>__{of course grand. to celebrate, next saturday, i'm throwing a party. dress up as your favorite character from heroes.}
+<P>__{(whispering)}
+<D>__{save the cheerleader, save the world.}
+<C>__{carl}
+<D>__{next saturday... sounds great.}
+<C>__{norman}
+<D>__{don't dress as hiro. i got dibs.}
+<C>__{carl}
+<D>__{wouldn't think of it.}
+<A>__{carl heads back to the loan desk, happy about his promotion.}

@@ -1,0 +1,110 @@
+<L>__{interior lab one}
+<C>__{rizzo}
+<D>__{do something!!!}
+<C>__{thorgon}
+<D>__{don't look at me! i'm in high school!}
+<L>__{interior cargo bay}
+<A>__{brodski runs. he's spooked. twisting and turning in every direction.}
+<C>__{brodski}
+<D>__{find crutch! set up an ion field around the cargo bay. we'll torch the sucker! yllo...you're a dead man!}
+<A>__{brodski races toward the cargo exit.}
+<L>__{interior lab two}
+<B>__{on monitor}
+<A>__{we see brodski racing towards us. we also see jason, lying in wait, hidden by one of the crates.}
+<C>__{yllo}
+<D>__{sergeant!}
+<C>__{brodski}
+<P>__{(stops)}
+<D>__{what?}
+<A>__{yllo considers then.}
+<C>__{yllo}
+<D>__{nothing.}
+<A>__{on the monitor we see brodski move forward. he never saw jason coming. brodski screams. yllo turns his head.}
+<L>__{interior lab one}
+<A>__{the kids stand in shock, silently staring at one another, listening to the static of the dead communications. boeman reaches over and clicks off the radio. silence. rizzo leaps to her feet.}
+<C>__{rizzo}
+<D>__{lesson number one, kiddies. you wanna get home safely then we get off this boat.}
+<A>__{kkinsa starts t cry.}
+<C>__{kkinsa}
+<D>__{i don't understand...what does he want?}
+<C>__{rizzo}
+<D>__{he wants to kill you...and me...and everyone on this ship.}
+<A>__{rizzo looks at everyone.}
+<C>__{rizzo}
+<D>__{any questions?}
+<A>__{a side door hisses open. yllo enters.}
+<C>__{yllo}
+<D>__{you're not going anywhere.}
+<C>__{rizzo}
+<D>__{you wanna die?}
+<C>__{yllo}
+<P>__{(ignores her)}
+<D>__{are we locked down?}
+<C>__{boeman}
+<D>__{that door's the only way in or out and it won't open without the code.}
+<C>__{yllo}
+<D>__{then we wait. we're docking with space lab in less than an hour.}
+<C>__{rizzo}
+<D>__{what good will that do?}
+<C>__{yllo}
+<D>__{they can deal with this sort of thing.}
+<C>__{rizzo}
+<D>__{more soldiers?}
+<C>__{yllo}
+<D>__{scientists. very intellegent men.}
+<C>__{rizzo}
+<D>__{that's great. i bet they'll kick jason's ass at a spelling bee!}
+<C>__{janessa}
+<D>__{look ice chip, why don't you just chill out and let us handle this?}
+<C>__{yllo}
+<D>__{try to calm down. just think, you're going to be famous!}
+<C>__{rizzo}
+<P>__{(to kids)}
+<D>__{guys, please come with me!}
+<C>__{yllo}
+<D>__{4you're not going anywhere.}
+<A>__{rizzo starts for the door but yllo grabs her arms, holds them behind her.}
+<C>__{delongpre}
+<D>__{now hold on! we should hear her out!}
+<C>__{thorgan}
+<D>__{she's obviously dealt with this guy before.}
+<C>__{yllo}
+<D>__{shut up! she just wants this thing dead!}
+<C>__{delongpre}
+<D>__{no shit. i got no problem with that.}
+<A>__{janessa readies a hypo.}
+<C>__{thorgan}
+<D>__{maybe if we knew a little bit more about what we're delaing with here...}
+<A>__{janessa moves behind rizzo with the sedative. suddenly rizzo throws her head back, salmming it into yllo's nose. he cries out in pain. janessa lunges with the syringe but rizzo snatches her wrist, grabbing the hypo, burying it into janessa's left breast.}
+<C>__{rizzo}
+<D>__{tnighty night.}
+<A>__{janessa collapses. yllo rushes rizzo again, but this time boeman stands, blocks his path.}
+<C>__{crutch}
+<D>__{leave her be.}
+<C>__{rizzo}
+<D>__{ok, who do i gotta fuck to get off this boat?}
+<A>__{thorgan timidly raises his hand.}
+<C>__{rizzo}
+<D>__{listen to me. please. let's get off thsi ship. come with me.}
+<C>__{thorgan}
+<D>__{rizzo, a shuttle out in the middle of space? we'll die oout there.}
+<A>__{rizzo rushes the door. there's a code box on the wall.}
+<C>__{rizzo}
+<D>__{how do you open the damn door?}
+<C>__{yllo}
+<D>__{you're crazy!}
+<A>__{kkinsa punches in the code. the door hisses open.}
+<C>__{delongpre}
+<D>__{rizzo, he's out there.}
+<C>__{rizzo}
+<D>__{yeah and he'll be here soon enough.}
+<P>__{(looks at delongpre)}
+<D>__{last chance.}
+<A>__{the others stare at her. she's crazy.}
+<C>__{rizzo}
+<D>__{fine. bye.}
+<A>__{she and kkinsa exit, the door swishes closed behind them.}
+<C>__{yllo}
+<P>__{(favoring his nose)}
+<D>__{pack your shit. we'll disembark in an hour. the guys at space lab have the necessary equipment to contain this thing and then we can study it.}
+<A>__{but the kids aren't so sure.}

@@ -1,0 +1,16 @@
+<L>__{interior barbershop}
+<A>__{where moretti and cops are trying to revive leon. a cop at the phone turns to moretti.}
+<C>__{cop on phone}
+<D>__{moretti he wants to talk to you.}
+<A>__{moretti walks over to phone, takes receiver from cop.}
+<L>__{interior bank}
+<A>__{sonny waiting for moretti to answer phone.}
+<C>__{sonny}
+<D>__{is he all right? is he all right?}
+<C>__{moretti }
+<D>__{he's all doped up.}
+<C>__{sonny}
+<D>__{i want to talk to him.}
+<C>__{moretti }
+<D>__{he's groggy, sonny. let me get him on his feet and he'll call you back.}
+<P>__{(hangs up)}

@@ -1,0 +1,11 @@
+<L>__{interior hallway night}
+<A>__{baffert gets into the elevator.}
+<L>__{interior elevator night}
+<A>__{baffert takes out his cell phone. dials.}
+<C>__{baffert}
+<P>__{(as the elevator descends)}
+<D>__{hello, judge stone... this is lieutenant samuel baffert. i'm at a suspect's residence. i'm requesting a telephonic search warrant in connection with an armed robbery at a jewelry store. there's visible evidence on the premises. glassine envelopes with jeweler's markings were seen in the trash can...}
+<A>__{the elevator hits the first floor.}
+<C>__{baffert}
+<D>__{...i believe a full search of the premises will turn up some stolen property...}
+<A>__{the elevator opens. korda is standing there with a knife. baffert has no time to react... the knife hand slashes forward... stabbing the chest and slashing across the throat.}

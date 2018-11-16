@@ -1,0 +1,56 @@
+<L>__{interior the zeppelin passenger compartment day}
+<A>__{the zeppelin is about to take off. indy and henry make themselves comfortable in one of the compartments.}
+<C>__{indy}
+<D>__{well, we made it.}
+<A>__{henry looks over his newspaper at indy.}
+<C>__{henry}
+<D>__{when we're airborne, with germany behind us, then i will share that sentiment.}
+<C>__{indy}
+<D>__{relax.}
+<A>__{but indy looks out the window and is suddenly concerned when he sees:}
+<B>__{vogel and a gestapo agent}
+<A>__{rushing across the tarmac toward the zeppelin.}
+<C>__{vogel}
+<D>__{nicht zumachen! wir steigen ein!}
+<B>__{indy}
+<A>__{sits back in his chair, looks to henry, now reading his newspaper. a steward enters and sets a bowl of nuts on the table in front of indy and henry, then continues down the aisle of passengers. indy follows after the steward. he puts his arm around the steward's shoulder and together they walk up a flight of stairs.}
+<B>__{vogel}
+<A>__{now walks up the aisle. he approaches a male passenger hidden behind a newspaper. vogel uses his walking stick to lower the newspaper and show the passenger the leaflet with henry's photograph.}
+<C>__{vogel}
+<D>__{haben sie disen mann gesehen?}
+<A>__{the passengers at the table shake their heads in the negative. vogel shows the picture to other passengers.}
+<C>__{female passenger}
+<D>__{nein.}
+<C>__{indy }
+<D>__{fahrscheine, bitte.}
+<C>__{male passenger}
+<D>__{nein.}
+<A>__{vogel turns to see:}
+<B>__{indy wearing the hat and jacket of the chief steward.}
+<C>__{male passenger }
+<D>__{ich habe ihn night gesehen.}
+<C>__{indy}
+<D>__{tickets please.}
+<A>__{the passengers do not react to the request, made in english.}
+<C>__{indy}
+<D>__{fahrscheine meine dame. bitte.}
+<B>__{vogel}
+<A>__{approaches henry, still hidden behind his newspaper. again, vogel uses his walking stick to lower the paper, revealing henry's face.}
+<C>__{vogel}
+<D>__{guten tag, herr jones.}
+<A>__{now indy, still playing the role of steward, asks vogel for his ticket.}
+<C>__{indy}
+<D>__{fahrscheine meine herr.}
+<C>__{vogel}
+<D>__{weg.}
+<C>__{indy}
+<D>__{tickets please.}
+<A>__{henry looks confused.}
+<C>__{vogel}
+<P>__{(in german)}
+<D>__{was?}
+<A>__{vogel glances up and recognizes indywho quickly punches vogel in the face, knocking him toward the window. in another quick move, indy tosses him out the window onto the tarmac below. shocked passengers blink in bewilderment.}
+<C>__{indy}
+<P>__{(in german; with a shrug)}
+<D>__{no ticket.}
+<A>__{everyone else with a ticket quickly produces it and waves it in indy's face.}

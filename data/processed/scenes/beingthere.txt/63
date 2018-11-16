@@ -1,0 +1,21 @@
+<L>__{interior rand's hospital room morning}
+<A>__{rand is in an easy chair, dressed for his meeting with the president. the two nurses are working at the disinfecting table. rand smiles as chance is shown into the room by smythe.}
+<C>__{rand}
+<D>__{chauncey, up and around this morning, are you?}
+<C>__{chance}
+<D>__{yes, ben. my leg is not very sore.}
+<C>__{rand}
+<D>__{well, that's good news, my boy.}
+<C>__{chance}
+<D>__{you're looking much better today, ben.}
+<C>__{rand}
+<D>__{hah! it's all make up, chauncey... i asked nurse teresa to fix me up, i didn't want the president to think i was going to die during our talk.}
+<C>__{chance}
+<D>__{i understand.}
+<C>__{rand}
+<D>__{no one likes a dying man, my boy because few know what death is. all we know is the terror of it. but you're an exception, chauncey that's what i admire in you, your marvelous balance. you don't stagger back and forth between fear and hope you're a truly peaceful man.}
+<C>__{chance}
+<D>__{thank you, ben.}
+<P>__{(looks at rand closely)}
+<D>__{... the nurse did a very good job, ben.}
+<A>__{the nurses turn, look at chance.}

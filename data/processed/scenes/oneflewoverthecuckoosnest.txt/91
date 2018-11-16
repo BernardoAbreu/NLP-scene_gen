@@ -1,0 +1,55 @@
+<L>__{interior nurses' station night}
+<A>__{as turkle, shushing the crowd, makes his way to the nurses' lounge and opens the door.}
+<C>__{turkle}
+<P>__{(harsh whisper)}
+<D>__{alla ya goons, get in here!}
+<A>__{the patients pile into the nurses' lounge, turkle cramming the last one through the door and closing it. he turns and crosses to the side door and steps out.}
+<L>__{interior hallway night}
+<A>__{as turkle steps out of the nurses' station, closing the door behind him.}
+<C>__{night supervisor}
+<D>__{oh, there you are, mister turkle.}
+<C>__{turkle}
+<D>__{evenin', ma'am.}
+<C>__{night supervisor}
+<D>__{is everything all right?}
+<C>__{turkle}
+<P>__{(blocking her way to the day room)}
+<D>__{why, sure, ma'am...}
+<C>__{night supervisor}
+<D>__{the lights were flashing on and off, mister turkle.}
+<C>__{turkle}
+<D>__{jus' cleanin' up, ma'am.}
+<C>__{night supervisor}
+<D>__{at this hour?}
+<C>__{turkle}
+<D>__{cleanliness is a twenty four hour job, ma'am...}
+<A>__{harding passes by and enters the latrine.}
+<C>__{night supervisor}
+<D>__{what are these men doing up wandering around?}
+<C>__{turkle}
+<P>__{(leaning in)}
+<D>__{ah guess the natives are restless, ma'am...}
+<C>__{night supervisor}
+<P>__{(getting a whiff of his breath)}
+<D>__{you've been drinking on the job again, haven't you, mister turkle!}
+<C>__{turkle}
+<D>__{ah, no, ma'am... well, yes, ma'am...}
+<P>__{(leaning in close)}
+<D>__{a man get awful lonely at night, if ya know what ah mean, ma'am...}
+<A>__{down the hall, rose sticks her head out the door, sees what's happening, and ducks back in as the night supervisor turns on her heel and starts back down the hallway, turkle at her heels.}
+<C>__{night supervisor}
+<D>__{i want those men put back to bed, mister turkle!}
+<C>__{turkle}
+<D>__{yes, ma'am...}
+<C>__{night supervisor}
+<D>__{and you haven't heard the last of this!}
+<C>__{turkle}
+<D>__{yes, ma'am...}
+<A>__{she opens the gate, slams it behind her, crosses to the main door, opers it and exits to:}
+<C>__{turkle }
+<P>__{(calling after her)}
+<D>__{night, night.}
+<A>__{turkle turns and the smile leaves his face as he hurries down the hallway. o.s. the toilet flushes as turkle stops at the seclusion room and sticks his head in.}
+<C>__{turkle }
+<D>__{be right back, honey...}
+<A>__{turkle closes the door, crosses down to the nurses' station, and enters as harding comes out of the latrine.}

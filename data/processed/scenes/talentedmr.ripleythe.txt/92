@@ -1,0 +1,35 @@
+<L>__{interior ripley's apartment, rome. evening.}
+<A>__{someone is knocking urgently at the door. ripley opens it, finds himself face to face with signora buffi and two policemen. one of them offers his hand.}
+<C>__{roverini}
+<D>__{dickie greenleaf?}
+<C>__{ripley}
+<D>__{yes?}
+<C>__{roverini}
+<D>__{inspector roverini. can we come in?}
+<L>__{interior ripley's apartment. evening.}
+<A>__{ripley sits with his head in his hands at the table. roverini and his sergeant, baggio, watch patiently.}
+<C>__{roverini}
+<D>__{it's a terrible shock, eh? what time did signor miles leave yesterday?}
+<C>__{ripley}
+<D>__{i can't be absolutely sure 8? 9? we'd both taken on far too many drinks but it was dark, it was certainly dark when i walked him down to his car.}
+<C>__{roverini}
+<D>__{so signor miles drove away and you did what?}
+<C>__{ripley}
+<D>__{i went to bed. freddie's a big man, but i'm in trouble after a couple of drinks. i've suffered all day. who found him?}
+<A>__{roverini has walked over to the bust of hadrian.}
+<C>__{roverini}
+<D>__{senta. we have to ask you to stay in rome.}
+<C>__{ripley}
+<D>__{yes, if it's going to help, certainly.}
+<C>__{roverini}
+<D>__{so, the doctor, he has to make the }
+<P>__{(looks at baggio)}
+<D>__{ come se dice?}
+<C>__{ripley}
+<D>__{postmortem?}
+<C>__{roverini}
+<D>__{yes, exactly, but his first, his first conclusion was that signor miles was killed not later than seven o'clock yesterday evening.}
+<C>__{ripley}
+<D>__{well, he certainly wasn't dead when he drove off in his car.}
+<C>__{roverini}
+<D>__{no.}

@@ -1,0 +1,30 @@
+<L>__{interior death star conference room}
+<A>__{tarkin pushes a button and responds to the intercom buzz.}
+<C>__{tarkin}
+<D>__{yes.}
+<C>__{voice}
+<P>__{(over intercom)}
+<D>__{we've captured a freighter entering the remains of the alderaan system. it's markings match those of a ship that blasted its way out of mos eisley.}
+<C>__{vader}
+<D>__{they must be trying to return the stolen plans to the princess. she may yet be of some use to us.}
+<L>__{interior death star docking bay 2037}
+<A>__{vader and a commander approach the troops as an officer and several heavily armed troops exit the spacecraft.}
+<C>__{voice}
+<P>__{(over intercom)}
+<D>__{unlock one five seven and nine. release charges.}
+<C>__{officer}
+<P>__{(to vader)}
+<D>__{there's no one on board, sir. according to the log, the crew abandoned ship right after takeoff. it must be a decoy, sir. several of the escape pods have been jettisoned.}
+<C>__{vader}
+<D>__{did you find any droids?}
+<C>__{officer}
+<D>__{no, sir. if there were any on board, they must also have jettisoned.}
+<C>__{vader}
+<D>__{send a scanning crew on board. i want every part of this ship checked.}
+<C>__{officer}
+<D>__{yes, sir.}
+<C>__{vader}
+<D>__{i sense something... a presence i haven't felt since...}
+<A>__{vader turns quickly and exits the hangar.}
+<C>__{officer}
+<D>__{get me a scanning crew in here on the double. i want every part of this ship checked!}

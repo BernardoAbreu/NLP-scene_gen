@@ -1,0 +1,31 @@
+<L>__{exterior midnight mission, los angeles night}
+<A>__{chris walks in.}
+<L>__{interior registration desk, midnight mission same}
+<A>__{(reminder: condition of mission is circa 1991) chris stands at the registration desk talking with a a heavy set black female social worker.}
+<C>__{chris}
+<D>__{can you tell me how to get an id card?}
+<C>__{social worker}
+<D>__{did you lose your identification sir?}
+<C>__{chris}
+<D>__{yeah.}
+<C>__{social worker}
+<D>__{no birth certificate? nothing?}
+<A>__{chris shakes his head apologetically.}
+<C>__{social worker }
+<D>__{ouch. alright. well you're gonna have to work that out with the dmv. you can catch them in the morning.}
+<A>__{the social worker begins to write an address on a piece of paper.}
+<C>__{social worker }
+<D>__{the closest one is montebello and we can help you with a bus voucher.}
+<A>__{she hands the montebello address to chris.}
+<C>__{social worker }
+<D>__{so, just come to this desk when you need the voucher.}
+<C>__{chris}
+<D>__{and, if i want to apply for a job somewhere, can you help me with that?}
+<C>__{social worker}
+<D>__{if you know how to cook, we might have a space for you in our mobile kitchen. but i will have to talk to my supervisor about it in the morning.}
+<C>__{chris}
+<D>__{alright then. thank you. oh, one last thing. do you have a bed for me?}
+<C>__{social worker}
+<P>__{(handing him a form)}
+<D>__{sure. just fill this in and i will get you all set up.}
+<A>__{chris begins filling in the form.}

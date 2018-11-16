@@ -1,0 +1,97 @@
+<T>__{cut to:}
+<A>__{rotunda night clustering together in the center of a wide reception hall is a contingent of weary peasants, awkward amidst the dusty rugs, drapes and heavy furniture. their leader is a fineboned youth, not yet twenty. like the others, he is uneasy; his name is valerian. hodge enters and sets a tray of mead before them. he leaves without a word. the visitors stare glumly at the refreshment, but are too timorous to go near it.}
+<B>__{conjuring room}
+<A>__{galen helps ulrich prepare for the audience. the sorcerer peers at himself in a full length mirror, adjusting the hem of a black robe.}
+<C>__{ulrich}
+<D>__{looks forbidding enough, don't you think?}
+<C>__{galen}
+<D>__{here are your sticks.}
+<C>__{ulrich}
+<D>__{no they'll think me infirm. you know, balisarius wore this whenever he changed lead into gold. he could really do that, you know. i never could. too bad you'd stand to inherit some real wealth.}
+<C>__{galen}
+<D>__{you're in a morbid frame of mind. what's all this about dying? you don't even look sick.}
+<C>__{ulrich}
+<P>__{(tying on a sash)}
+<D>__{you still wearing that amulet?}
+<P>__{(galen nods)}
+<D>__{good. don't lose it. it still belongs to me.}
+<A>__{he backs away from the mirror and fits a silver coronet onto his head.}
+<C>__{ulrich}
+<D>__{now, adeptus minor, get yourself a handful of that sulphurous ash over there...}
+<A>__{the sorcerer starts down a circular stone staircase.}
+<B>__{the rotunda}
+<A>__{the visitors watch warily as a door swings open and galen makes his entrance, his face expressionless and hands pressed together. he looks rather young to be the famous ulrich. galen allows a moment to go by, then throws his arms wide. ka whump! and ulrich appears in the doorway in a smoky fireball. alarmed, the visitors retreat.}
+<C>__{ulrich}
+<D>__{nunc habeus lux!}
+<A>__{pffst! around the room candles flare in their niches.}
+<C>__{ulrich}
+<D>__{et calor!}
+<A>__{in the fireplace, the birch logs are suddenly ablaze. ulrich totters to the hearth and extends long bony fingers toward the warmth.}
+<C>__{ulrich}
+<D>__{welcome to cragganmore. i am ulrich. which one of you calls himself valerian?}
+<A>__{the travelers are suitably dazzled by the magician's performance. the young leader of the party screws up his courage and speaks.}
+<C>__{valerian}
+<D>__{that would be me. we are here on behalf...}
+<C>__{ulrich}
+<D>__{i know why you're here. you're a delegation from urland, from beyond dalvatia. let's see the artifacts.}
+<A>__{the travelers exchange nervous glances. valerian motions to one of his companions. the man steps forward and hands over a leather pouch. one by one, valerian places the contents on the table for ulrich's inspection.}
+<C>__{valerian}
+<D>__{a bone. scorched. a rock, fire blackened.}
+<P>__{(pause)}
+<D>__{scales.}
+<A>__{at this, ulrich advances and closely examines three shimmering irridescent disks as big as saucers.}
+<C>__{ulrich}
+<D>__{all right. how did you come by these?}
+<C>__{valerian}
+<P>__{(proudly)}
+<D>__{i found them. at the mouth of the lair.}
+<C>__{ulrich}
+<P>__{(grim)}
+<D>__{what else?}
+<A>__{valerian reaches under his jerkin and withdraws what appears to be a curved sword. he jabs it into the table.}
+<C>__{valerian}
+<D>__{a claw.}
+<C>__{ulrich}
+<D>__{that's no claw. it's a tooth. by the gods!}
+<A>__{he runs a finger along a serrated edge and gazes bleakly at his visitors.}
+<C>__{ulrich}
+<D>__{and you want me to do battle with that?}
+<A>__{valerian has lost all trace of timidity.}
+<C>__{valerian}
+<D>__{who else can we turn to? we all know what we're dealing with here. this is a basilicok.}
+<P>__{(he takes a step forward)}
+<D>__{a cockatrice.}
+<P>__{(another step, bolder)}
+<D>__{a dragon.}
+<P>__{(he leans close to ulrich)}
+<D>__{this is no stag, no bear, no natural creature. this is one of your kind. and only a necromancer such as yourself can rid us of it.}
+<C>__{ulrich}
+<D>__{did you try the meredydd sisters? what about rinbod? i've heard it said he killed a dragon once.}
+<C>__{valerian}
+<D>__{they're all dead. you're the only one left.}
+<A>__{with a sigh, ulrich lowers himself into a chair. he rubs his withered legs and shakes his head.}
+<C>__{ulrich}
+<D>__{it's a long way to urland.}
+<C>__{valerian}
+<D>__{every quarter, upon the solstices and the equinoxes there's a new victim.}
+<A>__{greil, a grizzled peasant, speaks up.}
+<C>__{greil}
+<D>__{my daughter, for one.}
+<C>__{other travelers}
+<D>__{my sister... cousins...}
+<C>__{ulrich}
+<D>__{all women?}
+<C>__{valerian}
+<D>__{girls. virgins, to be exact, chosen by lot.}
+<A>__{galen edges over to the table and inspects the scales and tooth.}
+<C>__{galen}
+<D>__{master, don't you think }
+<C>__{ulrich}
+<D>__{silence!}
+<A>__{he broods for a long time.}
+<C>__{valerian}
+<D>__{are you afraid of dragons?}
+<C>__{ulrich}
+<D>__{no. sorcerers and dragons go back a long long time together. if it weren't for sorcerers, there wouldn't be any dragons.}
+<P>__{(pause)}
+<D>__{all right. i will go.}

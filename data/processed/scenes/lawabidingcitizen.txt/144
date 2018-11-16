@@ -1,0 +1,39 @@
+<L>__{interior judge burch's office dusk}
+<A>__{a secretary answers the ringing phone:}
+<C>__{secretary}
+<D>__{judge's chambers.}
+<C>__{voice on phone}
+<D>__{laura? laura, that you?}
+<C>__{secretary}
+<D>__{i'm sorry, judge burch is gone for the evening.}
+<C>__{voice on phone}
+<D>__{dang it. listen, honey, i flew in from galveston for this a.b.a thing laura invited me to just got here and they said it was moved. you got a number, address, anything?}
+<L>__{interior hospital room dusk}
+<A>__{nick peers in. sarah's in bed, leg braced, in traction. she's awake but groggy which isn't stopping her from giving instructions to royce, who's scribbling notes at her bedside:}
+<C>__{sarah}
+<D>__{...tell hansen we need hard info on those addresses...don't let the shell game on ownership title slow him down...at this point we'll take educated guesses...}
+<A>__{sarah looks over, sees nick step in, gives him a weak smile.}
+<C>__{nick}
+<D>__{hey.}
+<C>__{sarah}
+<D>__{hey. nice flowers. thanks.}
+<A>__{he comes to the bed, takes her hand, squeezes it.}
+<C>__{nick}
+<D>__{how you doing?}
+<C>__{sarah}
+<D>__{this place has great drugs. damn. i should've totaled my leg long ago.}
+<A>__{but her emotions are in turmoil she puts her hands over her face, holding back a sob.}
+<C>__{sarah}
+<D>__{they're all dead?}
+<C>__{nick}
+<D>__{i'm afraid so.}
+<A>__{sarah lets herself cry. nick waits, then:}
+<C>__{nick}
+<D>__{you're alive. that counts for a lot.}
+<P>__{(beat)}
+<D>__{i'm sorry i put you in harm's way.}
+<A>__{blue 9 19 08 she absorbs that, angrily wipes her eyes.}
+<C>__{sarah}
+<D>__{it wasn't you. it was that son of a bitch. i hear he's threatened jonas?}
+<C>__{nick}
+<D>__{we're all over it. jonas is safe out of reach.}

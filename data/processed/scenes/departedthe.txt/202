@@ -1,0 +1,28 @@
+<L>__{exterior police building. night}
+<A>__{billy exits the police building and moves across the plaza.}
+<L>__{interior hallway outside madolyn's office day}
+<A>__{billy waits outside madolyn's office. madolyn, carrying work, breakfast, rounds the corner and sees him standing and waiting for her. she's a little spooked, opens her mouth to speak...}
+<C>__{billy}
+<D>__{i know. i'm not here to...i'm not here for that. i've got something to...to give to you...something i need you to keep. for me.}
+<C>__{madolyn}
+<D>__{what is it?}
+<C>__{billy}
+<P>__{(stopping her from speaking)}
+<D>__{i need you to be my friend here and not ask any questions. that's for you to hold.}
+<A>__{he gives her a manila envelope.}
+<C>__{billy }
+<D>__{only you. open this if i'm dead or if i call you and tell you to open it. please do exactly what it says. exactly what it says, please.}
+<A>__{madolyn is a friend. she's not going to ask questions. she accepts the envelope.}
+<C>__{madolyn}
+<D>__{all right.}
+<C>__{billy}
+<D>__{i'm sorry to show up here like this. there was no one else i could give it to. i'm sorry. there was no one else.}
+<A>__{he backs away, and then turns to go.}
+<C>__{madolyn}
+<D>__{i...we...}
+<P>__{(he turns)}
+<D>__{i've, it's, been so confused... i just want to say...}
+<A>__{he turns and looks at her. she doesn't speak: can't.}
+<C>__{billy}
+<D>__{whatever you have to say, really think about it, and if you still want to tell me, tell me in two weeks, all right?}
+<A>__{she moves her head slightly, watches him go.}

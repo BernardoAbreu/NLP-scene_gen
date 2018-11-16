@@ -1,0 +1,36 @@
+<L>__{interior prisoner processing building main room continuous}
+<A>__{zaphod is in line with arthur and ford. he looks up to: a presidential photograph of himself, in suit and tie, smiling broadly. he lowers his thinking cap.}
+<C>__{female vogon processor}
+<D>__{next!}
+<A>__{arthur steps up, followed by ford and zaphod who keeps his head low and bowed.}
+<C>__{arthur}
+<D>__{yes. hi. we're here about getting a prisoner released?}
+<C>__{female vogon processor}
+<D>__{prisoner release form?}
+<A>__{she holds out her hand. arthur doesn't have a form. annoyed, she points across the room to a wall that is nothing but shelves holding forms.}
+<C>__{arthur}
+<D>__{right. once i've filled it out can i return to the front of the line, seeing as i've already waited...}
+<C>__{female vogon processor}
+<D>__{no. next!}
+<A>__{arthur sighs, frustrated. all three of them walk to the shelves holding the forms. arthur turns to zaphod.}
+<C>__{arthur}
+<D>__{can't you do something?! you're president, aren't you?}
+<C>__{zaphod}
+<D>__{you want me to make a speech, shake a hand? that's what i do i think. it's all a little fuzzy.}
+<A>__{arthur angrily fills out the form. moments later arthur is back in line, having waited a long time. he finally gets to the window, hands the green form to the vogon processor. she types into her computer, then checks the screen.}
+<C>__{female vogon processor}
+<D>__{this prisoner is being detained for...}
+<P>__{(reading)}
+<D>__{kidnapping the president. not eligible for release at this time. you can make an appointment for a later date or take a number and wait.}
+<A>__{arthur's breathing quickens. he can't take this.}
+<C>__{arthur}
+<D>__{alright, look.}
+<P>__{(yanks thinking cap and sunglasses off zaphod)}
+<D>__{this is the president.}
+<A>__{she looks at zaphod, then back to the large portrait of zaphod, then back to zaphod. she nods. okay...}
+<C>__{arthur }
+<D>__{he says the whole kidnapping thing was a terrible misunderstanding, she didn't mean anything by it and he's ordering you to let her go.}
+<C>__{female vogon processor}
+<P>__{(holding up green form)}
+<D>__{but this isn't a presidential release of prisoner form. those are blue.}
+<A>__{she points to the wall of forms. arthur sighs.}

@@ -1,0 +1,18 @@
+<L>__{interior another classroom}
+<A>__{maddy, dolores and peggy enter the room. peggy stands at the door till most are seated. she sees an empty seat between maddy and dolores and, assuming it's hers, sits down.}
+<C>__{dolores}
+<D>__{did you study for the test?}
+<C>__{peggy}
+<P>__{(horrified)}
+<D>__{test?}
+<L>__{interior classroom twenty minutes later}
+<A>__{mr. snelgrove, an officious little creep, is standing by his desk.}
+<C>__{snelgrove}
+<D>__{all right, class. time's up.}
+<A>__{he walks along the aisles collecting the papers. when he gets to peggy he picks up her blank sheet.}
+<C>__{snelgrove}
+<D>__{what's the meaning of this, peggy sue?}
+<C>__{peggy}
+<P>__{(patiently)}
+<D>__{mr. snelgrove, i happen to know that in the future, i will never have the slightest use for algebra. and i speak from experience.}
+<A>__{the class gasps, a few students applaud, and mr. snelgrove's jaw drops.}

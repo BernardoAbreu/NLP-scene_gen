@@ -1,0 +1,23 @@
+<L>__{interior queens detention center}
+<A>__{walter walks into a small brightly lit waiting room. a few soda machines and twelve blue plastic chairs. in one corner is a guard booth with three guards. one female guard is wearing a muslim headdress. walter approaches the window and waits in line. the other people waiting comprise a mix of nationalities: african, latin american, chinese, indian. the guard talks to a man in front of walter. the man has a slavic accent.}
+<C>__{guard}
+<D>__{that detainee has been moved.}
+<C>__{slavic man}
+<D>__{to where?}
+<C>__{guard}
+<D>__{i don't know.}
+<C>__{slavic man}
+<D>__{he was here yesterday.}
+<C>__{guard}
+<D>__{but now he's not. that's all i know. you can call ice. the number is on the wall. nexterior sir, step aside please.}
+<A>__{the slavic man reluctantly steps aside, staring at a piece of paper. walter steps up to the window. he sets a piece of paper on the window sill.}
+<C>__{walter}
+<D>__{hi. i'm here to see tarek khalil.}
+<A>__{the guard takes it.}
+<C>__{guard}
+<D>__{you been here before?}
+<C>__{walter}
+<D>__{no.}
+<C>__{guard}
+<D>__{can i see your license please?}
+<A>__{walter takes out his wallet.}

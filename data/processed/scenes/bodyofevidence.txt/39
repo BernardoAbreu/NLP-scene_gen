@@ -1,0 +1,23 @@
+<L>__{interior laundry room, dulaney house day}
+<A>__{sharon is getting a load of washing ready. she picks up one of dulaney's tee shirts and notices several thin stripes of blood near the shoulder.}
+<L>__{interior dulaney's house, living room day}
+<A>__{rain falls. dulaney enters the room to find michael on the phone. dulaney appears nervous anxious.}
+<C>__{dulaney}
+<D>__{michael get off the phone.}
+<C>__{michael}
+<D>__{why?}
+<C>__{dulaney}
+<P>__{(impatiently)}
+<D>__{because i'm expecting a call.}
+<C>__{michael}
+<D>__{ but it's sunday.}
+<C>__{dulaney}
+<P>__{(snapping)}
+<D>__{i know what day it is! get off the phone.}
+<C>__{michael}
+<P>__{(hurt; into phone)}
+<D>__{i gotta go. i will call you later.}
+<A>__{michael hangs up and leaves the room. dulaney stares at the phone struggling against himself. he picks it up and dials.}
+<C>__{rebecca's voice}
+<D>__{this is rebecca lawson. i'm not in right now. so if you please leave a message }
+<A>__{dulaney slams down the phone. he checks his watch.}

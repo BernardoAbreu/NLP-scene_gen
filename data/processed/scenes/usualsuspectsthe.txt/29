@@ -1,0 +1,40 @@
+<L>__{interior hospital room}
+<A>__{(<< .. denotes lines spoken in hungarian) + baer comes to an abrupt halt at the foot of a bed surrounded by a massive tangle of medical equipment. in the center of it all is the as yet unnamed arkosh kovash, mid thirties. his body is nearly mummified in bandages and plaster from waist to chin.}
+<T>__{bold is overlapped:}
+<D>__{kovash s <<are you the police? i need the police. he'll find out i'm here and he'll kill me. i need the police. i will tell them anything they want to know. please, i am going to be killed.>>}
+<C>__{baer}
+<D>__{will he die?}
+<C>__{plumber}
+<D>__{there's a chance.}
+<A>__{baer walks over to rovash and kneels down on the bed beside him. he looks closely at his battered and scalded face. he listens to him far a moment. kovash goes on incessantly.}
+<C>__{kovash}
+<D>__{<<find someone who understands me, you idiot, i'm going to be killed, you'll all be killed if he has to do it. help me, god. they're all stupid. get someone who understands me or we're all going to die.>>}
+<A>__{baer pulls a cellular phone out of his jacket and dials.}
+<C>__{baer}
+<D>__{call hospital security and put a man on the door until the police get here.}
+<C>__{kovash}
+<D>__{<<why are you just standing there, you idiot? i'm not speaking english am i? wouldn't it make sense to find someone who could talk to me so you could find the person that set me on fire, perhaps? he is the devil. you've never seen anyone like keyser soze in all your miserable life you idiot. keyser soze. do you at least understand that? keyser soze. the devil himself. or are you american policemen io stupid that you haven't even heard of him. keyser soze, you ridiculous man. keyser soze . >>}
+<A>__{ridgly runs out of the room. kovash babbles louder and louder, trying to get baer's attention. baer sticks a finger in one ear to block him out and hear the phone.}
+<C>__{plumber}
+<D>__{is he dangerous?}
+<C>__{baer}
+<D>__{yes.}
+<A>__{someone picks up on the other end of the phone.}
+<C>__{baer }
+<D>__{joel, it's baer. i'm down at l.a. county. the guy they pulled out of the harbor is arkosh kovash... yes, i'm sure... no, he's all fucked up... what? i can't hear you.}
+<P>__{(to arkosh)}
+<D>__{shut up, hugo, i'm on the phone.}
+<P>__{(into phone)}
+<D>__{yes... no... not until i put someone on him. listen, i need you to send me someone who can speak hungarian. he's awake and talking like a thai hooker... how should i know? get me someone who can talk to him }
+<A>__{baer is suddenly distracted by something kovash has said. in the middle of a long string of unintelligible dialect, he has spouted two words that have gotten baer's attention. he turns and looks down at the tattered man in the bed. kovash realizes baer is listening and says the two words again.}
+<C>__{kovash}
+<D>__{keyser soze.}
+<C>__{baer}
+<D>__{what?}
+<A>__{he waves his hand, gesturing for kovash to say it again.}
+<C>__{kovash}
+<D>__{keyser soze.}
+<C>__{baer}
+<D>__{no shit?}
+<P>__{(into phone)}
+<D>__{joel, call dan metzheiser over at justice and find dave kujan from customs.}

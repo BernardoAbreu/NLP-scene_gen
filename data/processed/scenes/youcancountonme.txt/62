@@ -1,0 +1,77 @@
+<L>__{interior sammy's bedroom. night}
+<A>__{sammy is asleep in bed.}
+<L>__{interior rudy's bedroom. night}
+<A>__{rudy is asleep in bed.}
+<L>__{interior bar. night}
+<A>__{terry sits at the bar, drinking beer. there are a few locals in the place, but it's pretty dead. he looks around; his energy is too restless for the near empty bar.}
+<L>__{interior rudy's bedroom. night}
+<A>__{the door opens, and terry comes in, smoking a cigarette. he's plastered. he looks around the room. looks at rudy's toys. picks up some superhero comics and sits on rudy's bed. then he spies rudy's composition book, picks it up and starts reading it.}
+<C>__{rudy }
+<D>__{what are you doing?}
+<A>__{terry looks up. rudy is half sitting up in bed.}
+<C>__{terry}
+<D>__{oh just readin' some of your compositions.}
+<C>__{rudy}
+<D>__{why are you smoking?}
+<C>__{terry}
+<D>__{um... because it's bad. don't ever do it.}
+<C>__{rudy}
+<D>__{i won't.}
+<C>__{terry}
+<D>__{you know this used to be my room?}
+<C>__{rudy}
+<D>__{yeah...}
+<P>__{(pause)}
+<D>__{do you want it back?}
+<C>__{terry}
+<D>__{no.}
+<A>__{rudy is very relieved. terry keeps reading. rudy watches him.}
+<C>__{rudy}
+<D>__{did you fight in vietnam?}
+<C>__{terry}
+<D>__{no. i wasn't even born yet.}
+<C>__{rudy}
+<D>__{were you ever in the army?}
+<C>__{terry}
+<D>__{no.}
+<C>__{rudy}
+<D>__{my father was in the army.}
+<C>__{terry}
+<D>__{i know. unfortunately he didn't fight in vietnam either.}
+<C>__{rudy}
+<D>__{were you friends with him?}
+<C>__{terry}
+<D>__{not really. we had some friends in common, i guess... i didn't like him very much.}
+<C>__{rudy}
+<D>__{why not?}
+<C>__{terry}
+<D>__{well, he wasn't very likable.}
+<C>__{rudy}
+<D>__{why do you say that?}
+<C>__{terry}
+<D>__{i don't know. he was always he always had to be better than you at everything. you know. like if you were all playing basketball or something, everybody's havin' like a friendly game and he's like ready to kill somebody if his team didn't win. or like if you told like a joke or a story, he always had to tell a better one? kinda gets annoying after a while. plus it was pretty scummy how he split on your mom and you... he was a prick. probably still a prick. fortunately for you though, your mom is like, the greatest. so you had some bad luck and you had some good luck.}
+<P>__{(pause)}
+<D>__{you mind if i ask you a personal question?}
+<C>__{rudy}
+<D>__{i don't know.}
+<C>__{terry}
+<D>__{do you like it here? i mean, in scottsville?}
+<C>__{rudy}
+<D>__{yeah...?}
+<C>__{terry}
+<D>__{why?}
+<C>__{rudy}
+<D>__{i don't know. my friends are here... i like the scenery... i don't know.}
+<C>__{terry}
+<D>__{i know, i know, but it's so... there's nothing to do here.}
+<C>__{rudy}
+<D>__{yes there is.}
+<C>__{terry}
+<D>__{no there isn't, man! it's narrow. it's dull. it's a dull, narrow town full of dull, narrow people who don't know anything except... what things are like right around here. they have no perspective whatsoever. no scope. they might as well be living in the nineteenth century because they have no idea what's going on, and if you try to tell 'em that, they wanna fuckin' kill you.}
+<C>__{rudy}
+<D>__{what are you talking about?}
+<C>__{terry}
+<D>__{i don't know...}
+<A>__{terry lies on his back and smokes.}
+<C>__{terry}
+<D>__{you're a good kid.}

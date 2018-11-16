@@ -1,0 +1,20 @@
+<L>__{interior thelma's house night}
+<C>__{hal}
+<D>__{you're both okay? neither one of you hurt? you're bein' careful with that gun?}
+<L>__{exterior phone night}
+<C>__{louise}
+<D>__{we're both fine.}
+<C>__{hal }
+<D>__{good. you wanna tell me what happened?}
+<C>__{louise}
+<D>__{sure. maybe over coffee sometime. i will buy.}
+<L>__{interior thelma's house night}
+<C>__{hal}
+<D>__{i just want you to know, neither one of you are charged with murder yet. you're still just wanted for questioning. although, now, mrs. dickinson's wanted in oklahoma for armed robbery.}
+<L>__{exterior phone night}
+<C>__{louise}
+<D>__{no kiddin'. listen, we gotta go. i will call you back, all right?}
+<A>__{louise looks at her watch.}
+<C>__{hal }
+<D>__{miss sawyer, i don't think y'all are gonna make it to mexico. we should talk. please. i wanna to help you.}
+<A>__{on hearing this louise mouths the word "shit" in a very frustrated way. louise hangs up the phone.}

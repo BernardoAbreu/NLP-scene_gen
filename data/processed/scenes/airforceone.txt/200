@@ -1,0 +1,30 @@
+<L>__{interior main cabin}
+<A>__{serge takes his position by the conference room. across from him, against the cabin divider, marshall peers down the sight of his gun. serge freezes.}
+<C>__{marshall}
+<D>__{don't make the same mistake your friend did earlier... show me your hands.}
+<A>__{serge raises his hands. marshall reaches over and pulls out the clip to his mp5.}
+<C>__{marshall}
+<D>__{open the door.}
+<L>__{interior conference room night}
+<A>__{caldwell, shepherd and a few other aides hear the key turn in the lock. they quickly take position around the door. as marshall marches serge in, they're both tackled and smothered by the group. they wrest the guns away and shut the door quickly behind them. marshall struggles against his people.}
+<C>__{marshall}
+<D>__{it's me goddamnit. let me go.}
+<A>__{surprised to hear their boss' voice, the aides and advisors release marshall.}
+<C>__{shepherd}
+<D>__{mr. president, how the hell did you get on board?}
+<C>__{marshall}
+<D>__{i never left. where's my wife and daughter?}
+<C>__{major caldwell}
+<D>__{they took `em out. they're probably on the upper deck.}
+<C>__{shepherd}
+<D>__{mr. president, major caldwell here has a plan to get these hostages of f the plane.}
+<C>__{marshall}
+<D>__{i dumped most of the fuel. they'll land soon and delta will take its shot.}
+<C>__{serge}
+<D>__{a refueling plane is already on it's way so we won't be landing until we reach turkmenistan. your best course of action is to release me. i will be merciful.}
+<B>__{major caldwell}
+<A>__{sir, maybe we can use this. turn it to our advantage.}
+<C>__{marshall}
+<D>__{mr. caidwell, the ground's a few miles away. how do you propose getting us from here to there?}
+<C>__{major caldwell}
+<D>__{gravity.}

@@ -1,0 +1,63 @@
+<L>__{interior courtroom day}
+<A>__{frances, looking disheveled, dazed, and over tired from a sleepless night in jail, stands alone before the judge. next to the prosecutor sits tora, her jaw heavily bandaged, glaring at frances. the spectator's section is packed.}
+<C>__{judge}
+<D>__{...is that not true?}
+<C>__{frances}
+<P>__{(under her breath)}
+<D>__{who's writing this guy's lines?}
+<C>__{judge}
+<D>__{answer the question! have you driven a car since you were placed on probation?}
+<C>__{frances}
+<D>__{no, i couldn't get my hands on one.}
+<C>__{judge}
+<D>__{have you reported to your probation officer as directed?}
+<C>__{frances}
+<D>__{i never saw him. why didn't he show up?}
+<C>__{judge}
+<D>__{did you expect him to look you up?}
+<C>__{frances}
+<D>__{why, certainly. i wanted to get a peek at his face...}
+<A>__{suppressed laughter ripples through the courtroom.}
+<C>__{judge}
+<D>__{you're on your way to a contempt citation, young lady.}
+<C>__{frances}
+<D>__{that's fine with me...}
+<P>__{(turning to spectators)}
+<D>__{get it? fine. a fine! hey c'mon, c'mon, what is this, an audience or a jury?}
+<C>__{judge}
+<D>__{miss farmer, is it true you fought with the policeman who arrested you last night?}
+<C>__{frances}
+<D>__{sure it's true. i was fighting for my country as well as myself.}
+<C>__{judge}
+<D>__{miss farmer, you were advised at the last hearing that if you took one drink of liquor or failed to be a law abiding citizen }
+<A>__{frances moves closer to the bench.}
+<C>__{frances}
+<D>__{are you telling me you didn't have a little rum in your pineapple juice this morning? i can smell it from here, your honor.}
+<A>__{the courtroom erupts into surprised laughter.}
+<C>__{judge}
+<D>__{that's enough!}
+<A>__{frances laughs triumphantly and spears the air with her finger, pointing at the judge.}
+<C>__{frances}
+<D>__{it's the truth! i can smell it from here you old hypocrite!}
+<A>__{the laughter grows. the judge bangs his gavel.}
+<C>__{judge}
+<D>__{miss farmer! in light of your flagrant disregard for the conditions of your probation, coupled with the unwarranted assault on the plaintiff here... i am forced to order you to begin serving a sentence of 180 days in the county jail.}
+<C>__{frances}
+<D>__{fine!}
+<C>__{judge}
+<P>__{(rising)}
+<D>__{you are a deeply troubled young lady... i only hope you change your course before it's too late.}
+<A>__{the judge pounds his gavel. frances is about to say something when suddenly the realization of what's happening hits her. the judge is leaving the bench. a reporter runs out of the room.}
+<C>__{frances}
+<P>__{(frightened now)}
+<D>__{wait a minute... i haven't got a lawyer...}
+<A>__{the judge ignores this.}
+<C>__{frances}
+<P>__{(shouting)}
+<D>__{what i want to know is do i have any civil rights?}
+<A>__{the judge closes his chambers door behind him. frances turns slowly. the matrons are coming toward her.}
+<C>__{frances}
+<D>__{i want to make a phone call...}
+<A>__{she lunges at the matrons, trying to get past them.}
+<C>__{frances}
+<D>__{i have a right to make a phone call!}

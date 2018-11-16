@@ -1,0 +1,31 @@
+<L>__{interior sickbay}
+<A>__{worf and riker enter. beverly is closing a panel on the back of data's head. he is sitting on a bio bed, scanning himself with a tricorder.}
+<C>__{riker}
+<D>__{how is he?}
+<C>__{beverly}
+<D>__{it looks like a power surge fused the emotional chip into his neural net.}
+<C>__{worf}
+<D>__{will that be a danger to him?}
+<C>__{beverly}
+<D>__{i don't think so. the chip still seems to be working. i'd feel better if i could take a closer look, but i can't remove it without completely dismantling his cerebral conduit.}
+<C>__{riker}
+<P>__{(to data)}
+<D>__{looks like you're stuck with emotions for a while. how do you feel?}
+<C>__{data}
+<D>__{i am quite... preoccupied with concern about geordi.}
+<C>__{riker}
+<D>__{we all are, data. but we're going to get him back.}
+<C>__{data}
+<D>__{i hope so, sir.}
+<A>__{data's expression is still one of concern. beverly pulls riker aside.}
+<C>__{beverly}
+<D>__{wil, i checked into doctor soran's background.}
+<A>__{beverly activates the wall monitor and a picture of doctor soran along with some biographical information appears.}
+<C>__{beverly}
+<D>__{he's an el aurian... over three hundred years old. he lost his entire family when the borg destroyed his world. soran escaped with a handful of other refugees aboard a ship called the lakul. the ship was destroyed by some kind of energy ribbon, but soran and forty six others were rescued by the enterprise b.}
+<C>__{riker}
+<P>__{(reacts)}
+<D>__{that was the mission where james kirk was killed.}
+<C>__{beverly}
+<D>__{i checked the passenger manifest of the lakul... guess who else was on board?}
+<A>__{she hits a control and suddenly guinan's face appears on the screen. riker reacts to the image...}

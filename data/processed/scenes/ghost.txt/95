@@ -1,0 +1,145 @@
+<L>__{interior carl's office}
+<A>__{the clock on carl's wall says 3:40. he seems anxious. the phone rings. carl jumps. he pushes down the speaker button.}
+<C>__{carl}
+<D>__{hello. carl bruner speaking.}
+<C>__{voice}
+<D>__{carl?}
+<C>__{carl}
+<D>__{mr. balsitrari}
+<C>__{voice}
+<D>__{balistrari? carl, it's me, john. i've got the info on the bradley portfolio.}
+<C>__{carl}
+<D>__{oh yeah, yeah. that's great. i will pick it up later.}
+<A>__{he hangs up. his hand is shaking.}
+<L>__{interior market security bank & trust day}
+<A>__{sam and oda mae approach a fancy part of the bank housing administrative personnel. they approach a guard who is standing there.}
+<C>__{sam}
+<D>__{tell the guard you're here to see lyle furgeson.}
+<C>__{oda mae}
+<D>__{lyle furgeson, please.}
+<C>__{guard}
+<D>__{do you have an appointment?}
+<C>__{oda mae}
+<D>__{no. i'm here for the fun of it.}
+<C>__{sam}
+<D>__{don't say that! tell him rita miller's here.}
+<C>__{oda mae}
+<D>__{tell him rita miller's here.}
+<C>__{guard}
+<D>__{just one moment, please.}
+<C>__{sam}
+<D>__{don't embellish.}
+<C>__{oda mae}
+<D>__{yes, sir.}
+<C>__{guard}
+<P>__{(turning around)}
+<D>__{excuse me?}
+<A>__{she waves him on.}
+<C>__{sam}
+<P>__{(whispering)}
+<D>__{now listen, this guy furgeson's a real jerk.}
+<C>__{oda mae}
+<D>__{why are you whispering?}
+<C>__{sam}
+<P>__{(he doesn't know)}
+<D>__{just be quiet and listen. i've known him five years and he still thinks my name's paul.}
+<A>__{we see the guard leaning over mr. furgeson's desk. furgeson looks up and sees oda mae. he shrugs his shoulders.}
+<C>__{sam}
+<P>__{(continuing)}
+<D>__{he's a social moron. you don't have to worry about anything. tell the guard furgeson knows you. you spent time with him and his wife shirley at the brewster's christmas party last year.}
+<A>__{the guard comes back.}
+<C>__{guard}
+<D>__{what is this regarding?}
+<C>__{oda mae}
+<D>__{what? he doesn't remember me? we were together at the brewster's christmas party. with his wife shirley. they had that lovely tree... all those presents. why, i will never forget all those beautiful...}
+<A>__{sam pokes her. she yelps, surprised, and glances around. the guard gives her an odd look.}
+<C>__{oda mae}
+<P>__{(continuing)}
+<D>__{oops. gas.}
+<A>__{she forces a smile. he smiles back and then goes over to mr. furgeson.}
+<C>__{sam}
+<D>__{this'll be easy. furgeson was so drunk at that party, he could have had a conversation with tina turner and he wouldn't remember.}
+<A>__{the guard whispers in furgeson's ear. furgeson appears totally flummoxed. he looks up at oda mae, embarrassed, and waves. the guard motions her to come back. she walks proudly over to his desk. he sticks out his hand.}
+<C>__{furgeson}
+<D>__{hello, hello. of course, of course. it's been so long.}
+<C>__{oda mae}
+<D>__{a long time.}
+<C>__{sam}
+<D>__{ask how bobby and snooky are.}
+<C>__{oda mae}
+<D>__{how are bobby and snooky doin'?}
+<C>__{furgeson}
+<P>__{(perplexed)}
+<D>__{why, they're just fine, thank you. nice of you to ask. and how is your... family?}
+<C>__{oda mae}
+<D>__{couldn't be better.}
+<C>__{furgeson}
+<D>__{well, isn't that wonderful.}
+<C>__{sam}
+<D>__{tell him you've been wondering how they did on the gibraltar securities.}
+<C>__{oda mae}
+<D>__{so tell me, fergie, how did you do on the gibraltar securities?}
+<C>__{furgeson}
+<P>__{(surprised)}
+<D>__{the gibraltar securities! well, it looks like we topped out, huh?}
+<C>__{sam}
+<D>__{"we sure did!"}
+<C>__{oda mae}
+<D>__{we sure did.}
+<C>__{furgeson}
+<P>__{(impressed)}
+<D>__{that was a wonderful tip.}
+<C>__{sam}
+<D>__{"good old randy".}
+<C>__{oda mae}
+<D>__{good old randy. got a real head on his shoulders.}
+<C>__{sam}
+<D>__{"her" shoulders.}
+<C>__{oda mae}
+<D>__{"her" shoulders.}
+<C>__{furgeson}
+<D>__{sure does. well... well. so what brings you here today?}
+<C>__{sam}
+<D>__{you're closing an account.}
+<C>__{oda mae}
+<D>__{i'm closing an account.}
+<C>__{furgeson}
+<D>__{well... wonderful. do you have your account number?}
+<C>__{sam}
+<D>__{926 31043.}
+<C>__{oda mae}
+<D>__{926 3143.}
+<C>__{sam}
+<D>__{31 0 43.}
+<A>__{she looks up into the air. furgeson eyes her strangely.}
+<C>__{oda mae}
+<D>__{make that 31 0 43... numbers. i'm dyslexic.}
+<A>__{he punches rita miller's number into the computer. a figure appears on the screen. he stares at it for a few seconds and then punches it in again.}
+<C>__{furgeson}
+<P>__{(trying to be calm)}
+<D>__{well, rita, you'll be withdrawing four million dollars from us today, is that correct?}
+<C>__{oda mae}
+<D>__{four million dollars?!}
+<C>__{sam}
+<D>__{say "yes"!}
+<C>__{oda mae}
+<P>__{(gasping)}
+<D>__{yes! four million. that's right. that's right.}
+<C>__{furgeson}
+<D>__{and how will you want that?}
+<C>__{oda mae}
+<D>__{tens and twenties?}
+<C>__{furgeson}
+<D>__{pardon?}
+<C>__{sam}
+<D>__{a cashier's check! tell him a cashier's check.}
+<C>__{oda mae}
+<D>__{a cashier's check.}
+<C>__{furgeson}
+<D>__{fine. of course, you realize we're required to get some identification from everyone. it's just procedural. you understand.}
+<C>__{oda mae}
+<D>__{of course.}
+<A>__{oda mae reaches into her purse and pulls out a driver's license and a social security card. furgeson gets up and walks away from his desk. he seems unsteady on his feet. an officer at the next desk is using a brillo pad to clean a stain on her desk. oda mae smiles.}
+<C>__{oda mae}
+<D>__{you know, if you put that brillo pad in the freezer, it'll last twice as long.}
+<A>__{the officer nods appreciatively.}

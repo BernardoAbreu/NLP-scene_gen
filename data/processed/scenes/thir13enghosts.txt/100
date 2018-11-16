@@ -1,0 +1,50 @@
+<T>__{cut to:}
+<L>__{interior basement with arthur and kalina}
+<A>__{arthur and kalina are in front of the blocked off staircase. kalina's flipping through her book, studying the map of the house. arthur keeps lookout for anything out of the ordinary.}
+<C>__{arthur}
+<D>__{find anything?}
+<C>__{kalina}
+<D>__{not yet.}
+<A>__{arthur turns back around... and now, at the end of the hallway is the jackal.}
+<C>__{arthur}
+<D>__{oh, damn... it's back... hurry up!}
+<C>__{kalina}
+<D>__{i'm hurrying. but when he looks back, it's gone...}
+<C>__{arthur}
+<D>__{shit... i lost it!}
+<A>__{arthur panics.}
+<C>__{arthur}
+<D>__{do something for christ's sake!}
+<A>__{kalina gets in arthur's face }
+<C>__{kalina}
+<D>__{show. a little. backbone. no matter how much i hated your uncle, he always managed some.}
+<A>__{the words sting arthur, and for the first time he knows it's always been a problem. kalina's still rifling through her book.}
+<C>__{kalina}
+<D>__{if i can just pinpoint where things have moved to...}
+<A>__{arthur peers around the corner, and the jackal's back. closer.}
+<C>__{arthur}
+<D>__{you wanna read a little faster! our friend's back.}
+<A>__{kalina drops her knapsack to the floor. removes a flare from her bag. hands it to arthur.}
+<C>__{kalina}
+<D>__{light it. it's quicksilver.}
+<A>__{arthur ignites the flare.}
+<C>__{kalina}
+<D>__{the burning metal disrupts its spiritual energy and buys us time.}
+<C>__{arthur}
+<D>__{how many of these do you have left?}
+<C>__{kalina}
+<D>__{three.}
+<C>__{arthur}
+<D>__{three? you couldn't have brought a few more?}
+<C>__{kalina}
+<D>__{i didn't plan on giving a tour of the place.}
+<P>__{(finds what she's looking for in )(book)}
+<D>__{here it is...}
+<A>__{the book is opened to one of the layouts. a red square is indicated in one of the "blocks."}
+<C>__{kalina}
+<D>__{we gotta get to the library. it has spell protection all around it.}
+<C>__{arthur}
+<D>__{where is it from here? kalina shifts the book around to see where they are.}
+<C>__{kalina}
+<D>__{above us, to the right.}
+<A>__{kalina notices the glass blocks above them in the ceiling. arthur sees where she's going with this, and we...}

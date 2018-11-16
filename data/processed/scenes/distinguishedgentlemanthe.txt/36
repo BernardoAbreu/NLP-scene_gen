@@ -1,0 +1,36 @@
+<L>__{interior airport bar day}
+<A>__{the entourage is enjoying a round of libations. reinhardt runs up.}
+<C>__{reinhardt}
+<D>__{i got lucky at the madison. thank god there's been a coup in uruguay. their delegation just checked out.}
+<C>__{tommy}
+<D>__{you're a wizard, reinhardt. i knew you could handle it.}
+<L>__{exterior airport taxi rank day}
+<A>__{tommy's entourage and their luggage are being packed into a cab. tommy turns to reinhardt.}
+<C>__{tommy}
+<D>__{so when does the house open for business?}
+<A>__{reinhardt hasn't heard it put quite that way before. reinhardt gets his courage up.}
+<C>__{reinhardt}
+<D>__{say, congressman, you got my resume, didn't you?}
+<C>__{tommy}
+<P>__{(hasn't a clue)}
+<D>__{i'm sure i did.}
+<C>__{reinhardt}
+<D>__{there's something i wanted to ask you. i know it's a big step, but i'd like you to consider me to be your aa.}
+<C>__{tommy}
+<D>__{that's quite an offer, reinhardt, very decent of you, but i'm just a social drinker.}
+<C>__{reinhardt}
+<D>__{no. aa. your administrative assistant. i worked for congressman johnson. i'd like to work for you, congressman johnson.}
+<C>__{tommy}
+<D>__{really.}
+<A>__{tommy looks at his own troops, then back to reinhardt.}
+<C>__{tommy}
+<D>__{you mean like an affirmative action thing?}
+<A>__{tommy opens the cab door.}
+<C>__{tommy}
+<D>__{tell you what i will think about it, okay?}
+<A>__{tommy gets in and closes the door.}
+<C>__{tommy}
+<P>__{(through the open window)}
+<D>__{thanks for getting us settled, really appreciate it.}
+<P>__{(to driver)}
+<D>__{madison hotel.}

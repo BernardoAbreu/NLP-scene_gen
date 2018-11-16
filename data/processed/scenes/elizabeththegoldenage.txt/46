@@ -1,0 +1,35 @@
+<L>__{interior privy chamber, whitehall palace day}
+<A>__{bess hurries ahead of the others through the privy chamber to the queen's private quarters.}
+<B>__{b}
+<L>__{interior queen's private quarters day}
+<A>__{ess passes ladies organising the queen's wardrobe. she finds the queen laughing with raleigh not alone, but unusually informal.}
+<C>__{elizabeth}
+<D>__{don't tease me, mr raleigh. there's nothing i'd like to do more.}
+<C>__{raleigh}
+<D>__{so why don't you?}
+<C>__{elizabeth}
+<D>__{alright, then. i will.}
+<A>__{he blinks: caught by surprise.}
+<C>__{elizabeth}
+<D>__{see! you lie! you don't want me on your ship at all.}
+<P>__{(turning towards bess)}
+<D>__{you're a liar!}
+<A>__{elizabeth now takes in bess.}
+<C>__{elizabeth}
+<D>__{would you like to go to sea, bess?}
+<C>__{bess}
+<D>__{majesty?}
+<C>__{raleigh}
+<D>__{i'm afraid that's not possible. women bring bad luck on board ship.}
+<C>__{elizabeth}
+<D>__{oh, do they?}
+<C>__{raleigh}
+<D>__{lock up a hundred men in a space smaller than this room, for months at a time men have needs. a beautiful woman like you would drive us all mad.}
+<C>__{elizabeth}
+<P>__{(amused)}
+<D>__{men have needs?}
+<A>__{nce again elizabeth meets raleigh's eyes. then she breaks away, feeling the contact is dangerous.}
+<C>__{elizabeth}
+<D>__{then let them stay on land and see to their needs.}
+<P>__{(to bess)}
+<D>__{mr raleigh is eager to sail away to his infant colony, bess. we must persuade him to stay a little longer, mustn't we?}

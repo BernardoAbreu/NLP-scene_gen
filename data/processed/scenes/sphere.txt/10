@@ -1,0 +1,28 @@
+<L>__{interior hallway}
+<A>__{barnes leads norman down the corridor, lined with officers and guards.}
+<C>__{barnes}
+<D>__{what have you been told so far?}
+<C>__{norman}
+<D>__{the usual. plane crash. survivers unknown. routine stuff really.}
+<C>__{barnes}
+<D>__{anything else?}
+<C>__{norman}
+<D>__{nothing else.}
+<A>__{a guard unlocks a large, steel door.}
+<C>__{guard}
+<D>__{captain barnes. dr. johnson.}
+<C>__{norman}
+<D>__{hello.}
+<A>__{norman looks at the guard as they proceed through the doorway, wondering how the guard knows his name.}
+<C>__{barnes}
+<D>__{you talk to any reporters? any press?}
+<C>__{norman}
+<D>__{press? no, i haven't.}
+<A>__{the steel door shuts loudly behind them.}
+<C>__{barnes}
+<D>__{good. security's been our biggest worry. now that you're here we can shut this thing down tight.}
+<C>__{norman}
+<D>__{from what? what's with all the security?}
+<C>__{barnes}
+<D>__{well, we don't have all the facts yet.}
+<A>__{another guard opens up another large steel door...}

@@ -1,0 +1,18 @@
+<L>__{interior dirigible, cockpit}
+<A>__{muntz enters the cockpit and takes the wheel.}
+<C>__{muntz}
+<D>__{where are you, fredricksen?}
+<L>__{exterior dirigible}
+<A>__{the dirigible turns, revealing carl's house sneaking up behind.}
+<L>__{interior carl's house, living room}
+<A>__{carl steers toward the cockpit. he dons russell's sash, then hooks his cane onto his back. he's fighting for a cause. he hears screaming. it's russell! tied to his chair, he slides down the ramp as it lowers, closer and closer to the edge.}
+<C>__{carl}
+<D>__{russell!}
+<A>__{carl steers his house to the dirigible.}
+<L>__{exterior dirigible, ramp continuous}
+<A>__{carl flings the hose, hooking it to the ramp railing. using his cane as a zip line, carl slides to russell, catching him just as russell slides off the ramp edge. they land safely together.}
+<C>__{russell}
+<D>__{mr. fredricksen!}
+<C>__{carl}
+<D>__{dug! bring `er over!}
+<A>__{dug winches in the hose caddy, pulling the house closer to the dirigible ramp. carl carries russell into the house.}

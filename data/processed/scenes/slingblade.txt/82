@@ -1,0 +1,30 @@
+<L>__{exterior vaughan's house day}
+<A>__{karl knocks on the door. after a moment, vaughan answers in a pair of big shorts and a sweatshirt.}
+<C>__{vaughan}
+<D>__{karl, what are you doing here? come in.}
+<C>__{karl}
+<D>__{i ain't a stayin'. i need to ast you fer a favor.}
+<C>__{vaughan}
+<D>__{okay.}
+<C>__{karl}
+<D>__{this evenin' i want you to go get mizz wheatley and that frank and have them stay with you tonight.}
+<C>__{vaughan}
+<D>__{what's wrong? is everything okay?}
+<C>__{karl}
+<D>__{that dern doyle is in a bad way again with that drinkin' and bein' mean to folks. will you give me your word you'll do it?}
+<C>__{vaughan}
+<D>__{well, sure, okay. he hasn't hurt them, has he?}
+<C>__{karl}
+<D>__{naw, not yet.}
+<P>__{(hands the bag to vaughan)}
+<D>__{i want ye to give this to mizz wheatley. hit ain't much, but maybe there's a little somethin' to hep out. hits what i've earned fixin' lawnmowers and whatnot fer bill cox.}
+<A>__{vaughan takes the bag.}
+<C>__{vaughan}
+<D>__{what about you, karl? do you want to stay here?}
+<C>__{karl}
+<D>__{i don't reckon you have to go with women to be a daddy to a boy.}
+<P>__{(pause)}
+<D>__{you've been real square dealin' with me. the bible says two men ort not lay together. but i will bet you the good lord wouldn't send nobody like you to hades. some folks calls it hell, i call it hades.}
+<P>__{(karl starts away)}
+<D>__{that boy lives inside of his own heart. hits an awful big place. you take care of that boy.}
+<A>__{vaughan watches karl walk away.}

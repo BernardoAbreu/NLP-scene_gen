@@ -1,0 +1,48 @@
+<L>__{interior queen's private quarters day}
+<A>__{elizabeth is pacing, disturbed, raleigh's letter open in her hand. the doors open. raleigh enters. elizabeth waits for the servants to close the doors behind him. holds up the letter.}
+<C>__{elizabeth}
+<D>__{you ask permission to go.}
+<C>__{raleigh}
+<D>__{yes, majesty.}
+<C>__{elizabeth}
+<D>__{you plan to return to the new world. to your colony. for two, or three, or four years.}
+<C>__{raleigh}
+<D>__{if your majesty grants me your royal warrant.}
+<C>__{elizabeth}
+<D>__{that is a long time.}
+<C>__{raleigh}
+<D>__{there's nothing left for me to do here. at sea i know what i'm to do, i know the risks, i know the rewards. here }
+<A>__{a shrug. what can he do?}
+<C>__{elizabeth}
+<D>__{but you're quite wrong. you are needed here. i have decided to appoint you captain of my personal guard.}
+<C>__{raleigh}
+<D>__{captain of your !}
+<C>__{elizabeth}
+<D>__{kneel.}
+<A>__{he kneels. she taps him on the shoulder with one hand.}
+<C>__{elizabeth}
+<D>__{rise, sir walter raleigh.}
+<A>__{he rises, but keeps his eyes on the ground.}
+<C>__{elizabeth}
+<D>__{well? you may express your gratitude.}
+<C>__{raleigh}
+<D>__{this is too great an honour.}
+<C>__{elizabeth}
+<D>__{if it's such an honour, why are you staring at your boots?}
+<C>__{raleigh}
+<D>__{you know why.}
+<A>__{he raises his eyes, but he still doesn't look at her.}
+<C>__{elizabeth}
+<D>__{now you stare at the wall. am i so old and hideous that you can't even look me in the face?}
+<A>__{he turns now, and looks her in the face.}
+<C>__{raleigh}
+<D>__{why do you talk like a fool when you're anything but a fool?}
+<A>__{this stops her in her tracks. for a moment she can't trust herself to speak. then:}
+<C>__{elizabeth}
+<D>__{my friend, forgive me. i'm a vain and foolish woman. at court it's all a game. i like to be admired. i require it. i grow accustomed to it. but it's all nothing.}
+<B>__{b}
+<C>__{elizabeth}
+<D>__{you come here as if from another world, and i you have real adventures, you go where the maps end. i would follow you there if i could, believe me.}
+<A>__{raleigh looks long into her eyes. if anything, he admires and loves her all the more now.}
+<C>__{elizabeth}
+<D>__{the storm clouds are gathering, my friend. please don't leave me now.}

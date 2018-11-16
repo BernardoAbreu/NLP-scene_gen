@@ -1,0 +1,31 @@
+<L>__{exterior repair ward robot hallway continuous}
+<A>__{the rejects march wall e out the entrance. their red "defect" boots all blink. activate a warning light above the doorway.}
+<T>__{match cut to:}
+<L>__{interior robot service tunnel}
+<A>__{emergency lights blinking. activate an embedded row of stewards. they pop out of the wall. race to the repair ward. sirens wailing.}
+<L>__{interior robot hallways}
+<A>__{the reject mob stampedes through the halls. disrupts all robot traffic. wall e carried over their heads. suddenly, the mob stops in front of... ...a blockade of stewards.}
+<C>__{steward}
+<D>__{halt.}
+<A>__{wall e's dropped in front of them. still holds eve's gun. cowers. a tiny robot pushes wall e closer. show `em who's boss.}
+<C>__{eve}
+<P>__{(stern)}
+<D>__{wall e!}
+<A>__{eve catches up to them. flies over to wall e. snatches her arm back. just as she reattaches her gun... ...the steward camera eyes take a snapshot of them.}
+<B>__{all around the ship}
+<A>__{alarms sound. screens appear, displaying eve and wall e's image. she appears to brandish her gun at camera. like bonnie and clyde. their faces now on every wall... ...passenger's hover chair... ...cabin... ...hallway...}
+<C>__{ship's computer}
+<D>__{caution: rogue robots...caution: rogue robots...}
+<A>__{back with eve and wall e the stewards prepare to fire suspension beams (like gopher). eve realizes what's about to happen. grabs wall e. flies over the stewards.}
+<C>__{stewards}
+<D>__{halt. halt.}
+<A>__{the mass of rejects take their cue. robot rebellion! they bust through the steward blockade.}
+<B>__{on various hallways}
+<A>__{robots recognize eve and wall e as they fly past. match them with the "wanted" screens. call attention to them. pointerior stewards in hot pursuit. eve hides herself and wall e in a porthole cubby. lets the stewards pass by. she glances out the porthole... on eve's pov she can see the docking bay below her. just under the bay doors... ...a row of emergency escape pods. eve gets an idea. grabs wall e and flies down the hallway... inside axiom elevator moments later eve and wall e ride in uncomfortable silence. their "wanted" image plays on an elevator screen.}
+<C>__{ship's computer }
+<D>__{caution: rogue robots.}
+<A>__{wall e points to it.}
+<D>__{wall e}
+<P>__{(beeps)}
+<D>__{[hey look! we're on tv !]}
+<A>__{eve aims her gun at the screen. blows it to pieces. wall e shrinks into a box. never mind.}

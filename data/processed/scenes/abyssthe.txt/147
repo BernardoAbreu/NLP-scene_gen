@@ -1,0 +1,34 @@
+<L>__{interior machine room}
+<A>__{lindsey is working, up to her knees in water. she is covered with grease, tools scattered around. bud puts his hand on her shoulder. she looks up, blows some hair out of her eyes.}
+<C>__{bud}
+<D>__{what's the scoop, ace?}
+<C>__{lindsey}
+<D>__{i can get power to this module and sub bay if i remote these busses. i've gotta get past the mains, which are a total melt down.}
+<A>__{rather than trigger anger and invective, the disaster seems to have affected her in a different way. she's accepted the situation, now that's it's done, and is immersing herself in technical tasks, which are for her therapeutic.}
+<C>__{bud}
+<D>__{need some help?}
+<C>__{lindsey}
+<D>__{thanks. no, i can handle it. bud... there won't be enough to run the heaters. in a couple hours this place is going to be as cold as a meat locker.}
+<C>__{bud}
+<D>__{what about o 2?}
+<C>__{lindsey}
+<D>__{brace yourself. we've got about 12 hours worth if we close off the sections we're not using.}
+<C>__{bud}
+<D>__{the storm's gonna last longer than 12 hours.}
+<C>__{lindsey}
+<D>__{i can extend that. there's some storage tanks outboard on the wrecked module. i will have to go outside to tie onto them.}
+<A>__{she goes back to her task, working efficiently with a socket wrench.}
+<C>__{bud}
+<D>__{hey, lins...}
+<P>__{(she looks up)}
+<D>__{i'm glad your here.}
+<C>__{lindsey}
+<D>__{yeah? well i'm not.}
+<A>__{the sub bay is still a mess. dark. a few battery operated lamps. flatbed is back, floating in the moonpool. one night and hippy are in deep concentration, piloting the two rovs in a damage survey of the rig. bud comes up behind them, check her screen first. big geek's monitor shows a view of the aft section of the rig. the drilling derrick had collapsed across cab three, totaling it. a girder is jammed through its acrylic front dome.}
+<C>__{one night}
+<D>__{right through the brainpan. deader'n dogshit, boss.}
+<C>__{bud}
+<P>__{(to hippy)}
+<D>__{where're you?}
+<C>__{hippy}
+<D>__{quarters. level two.}

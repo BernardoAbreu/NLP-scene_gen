@@ -1,0 +1,42 @@
+<L>__{interior police station afternoon}
+<A>__{corey signs her statement on officer o'dell's desk, the expression of shock still glued to her face. o'dell sits facing her.}
+<C>__{officer o'dell}
+<D>__{you're sure you didn't see a driver?}
+<C>__{corey}
+<D>__{no...}
+<A>__{he takes the statement from her.}
+<C>__{officer o'dell}
+<D>__{well, you're one lucky girl to have gotten outta the car when you did. front passenger side was wiped right out. coulda' been two dead girls today instead of one.}
+<A>__{corey nods, taking this in.}
+<C>__{officer o'dell }
+<D>__{i talked to randy and sent him home a little while ago. he's pretty shook up.}
+<A>__{corey doesn't respond. o'dell leans in to speak to her in confidence.}
+<C>__{officer o'dell }
+<D>__{both of us know he'd been doin' some drinkin' today. but we also know he's not at fault here. that old beater cut right in front him.}
+<C>__{corey}
+<D>__{can't you just look up the license plates?}
+<C>__{officer o'dell}
+<D>__{no plates on the vehicle. we're investigating the vin, but that could take a little more time, depending on the history of ownership. we'll find him.}
+<A>__{corey seems somewhat hesitant to bring up the next subject:}
+<C>__{corey}
+<D>__{what about the missing boy?}
+<A>__{o'dell shifts in his chair.}
+<C>__{officer o'dell}
+<D>__{you really think it was him, huh?}
+<C>__{corey}
+<D>__{he was on the side of the road right before the accident.}
+<C>__{officer o'dell}
+<D>__{i'm no psychiatrist, but i do know sometimes shock does funny things...}
+<C>__{corey}
+<D>__{you think i was hallucinating?}
+<C>__{officer o'dell}
+<D>__{we were on the scene five minutes after the accident. i think somebody woulda noticed a little boy wandering around.}
+<A>__{he sees how troubled corey is.}
+<C>__{officer o'dell }
+<D>__{why don't you stop in and see dr. peters on your way out... right down the hall there. she'll give you somethin' to make you feel better.}
+<A>__{corey nods and gets up to leave. as she's on her way out, o'dell's voice stops her.}
+<C>__{officer o'dell }
+<D>__{oh, uh... is there anything you wanted to say to samantha's parents?}
+<A>__{corey's expression is blank.}
+<C>__{corey}
+<D>__{like what?}

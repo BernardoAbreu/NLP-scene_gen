@@ -1,0 +1,266 @@
+<L>__{exterior the castorini house day}
+<A>__{ronny appears and approaches the door. he knocks, waits, and then rings the bell. rose answers the door and invites him in.}
+<L>__{interior the castorini house kitchen}
+<A>__{rose walks in with ronny behind her. there's no one in the kitchen. rose calls out.}
+<C>__{rose}
+<D>__{it's not johnny.}
+<A>__{loretta comes out of a closet, where she was hiding. she's very surprised to see ronny.}
+<C>__{loretta}
+<D>__{ronny!}
+<C>__{ronny}
+<D>__{is johnny here?}
+<C>__{loretta}
+<D>__{he's coming.}
+<C>__{ronny}
+<D>__{good! we can get this out on the table.}
+<P>__{(to rose)}
+<D>__{i'm ronny, johnny's brother.}
+<P>__{(shakes her hand)}
+<C>__{rose}
+<D>__{nice to meet you. you've got a love bite on your neck. your mother's recovered from death.}
+<C>__{ronny}
+<D>__{oh. good. we're not close. i'm not really moved.}
+<C>__{loretta}
+<D>__{you've gotta get outta here.}
+<C>__{ronny}
+<D>__{no. i'm gonna wait.}
+<C>__{loretta}
+<P>__{(arguing with ronny)}
+<D>__{ronny, please...}
+<C>__{rose}
+<D>__{would anyone like some oatmeal?}
+<A>__{loretta continues arguing.}
+<C>__{ronny}
+<P>__{(ignores loretta)}
+<D>__{yes, i would like some oatmeal.}
+<A>__{ronny and loretta sit down and rose serves them oatmeal. cosmo walks in dressed for business. he regards the trio, puts on his hat in shock and then takes it off again.}
+<C>__{rose}
+<D>__{cosmo, this is ronny, johnny's brother.}
+<C>__{cosmo}
+<D>__{his brother.}
+<A>__{cosmo sits down. rose puts a bowl of oatmeal in front of him. he absently begins to eat it. a silence reigns. then he puls down his spoon.}
+<C>__{cosmo}
+<D>__{you're johnny's brother?}
+<C>__{ronny}
+<D>__{yeah.}
+<A>__{cosmo picks up his spoon and they all eat silently once more. the sound of dogs barking comes up and then fades away.}
+<B>__{the old man walks in}
+<A>__{he looks at the assemblage. the assemblage looks at him. he points at rose. then his pointing drifts to cosmo and his hand opens in a gesture of supplication.}
+<C>__{old man}
+<D>__{i am old. the old are not wanted. and what they say has no weight. but, my son, i must speak. you should pay for the wedding of your only daughter. you are breaking your house through pride. there. i've said it.}
+<C>__{cosmo}
+<D>__{it's okay, pop. if she gets married, i will pay for the whole thing.}
+<A>__{the old man lets go a great noise of relief, sits down at the table, and waits. rose brings him a bowl of oatmeal. he is content now, and eats his oatmeal with great relish. the others eat with a more meaningful silence. rose puts down her spoon. she looks at the table, but she is speaking to cosmo.}
+<C>__{rose}
+<D>__{have i been a good wife?}
+<C>__{cosmo}
+<D>__{yes.}
+<C>__{rose}
+<D>__{i want you to stop seeing her.}
+<A>__{everyone stops eating. a tremendous silence falls. an old clock goes tick, tick, tick. suddenly cosmo smashes his fists to the table and stands. he doesn't look at rose during this. then slowly, he sits down.}
+<C>__{cosmo}
+<D>__{okay.}
+<C>__{rose}
+<D>__{and go to confession.}
+<C>__{cosmo}
+<P>__{(still not looking at her)}
+<D>__{a man... under stands one day... that his life is built on nothing. and that's a bad, crazy day.}
+<C>__{rose}
+<D>__{your life is not built on nothing. ti amo.}
+<A>__{she puts her hand across the table to him.}
+<C>__{cosmo}
+<D>__{ti amo.}
+<A>__{he slides his hand out and takes her hand. slowly, he lifts his eyes. their eyes meet. it's the first time he's been able to hold her gaze in this whole story. the doorbell rings.}
+<C>__{loretta}
+<D>__{it's johnny. i will get it.}
+<A>__{loretta's tone is fatal.}
+<C>__{ronny}
+<D>__{i will get it.}
+<A>__{rose gets up.}
+<C>__{rose}
+<D>__{i will get it.}
+<A>__{she goes to answer the door.}
+<C>__{ronny}
+<P>__{(goes for the door)}
+<D>__{no, i will tell him.}
+<C>__{loretta}
+<D>__{no, i will tell him.}
+<P>__{(to her father)}
+<D>__{what am i going to tell him?}
+<C>__{cosmo}
+<D>__{tell him the truth, loretta they find out anyway.}
+<A>__{loretta looks at her father.}
+<C>__{loretta}
+<D>__{i love you pop.}
+<A>__{it's a private moment. but who appears at the kitchen door is not johnny. it's the}
+<B>__{cappomaggis.}
+<A>__{they have their coats on and they look very serious and concerned and timid.}
+<C>__{rita}
+<D>__{hi loretta.}
+<C>__{loretta}
+<D>__{hi.}
+<C>__{raymond}
+<D>__{hi, loretta.}
+<C>__{loretta}
+<D>__{hi. why ain't you at the store?}
+<C>__{rita}
+<D>__{is there anything you want to tell us, honey?}
+<C>__{loretta}
+<D>__{you? no.}
+<C>__{raymond}
+<D>__{we just come from the bank.}
+<C>__{loretta}
+<D>__{the bank. oh my god, i forgot to make the deposit!}
+<C>__{rita}
+<P>__{(to raymond)}
+<D>__{she's got it.}
+<C>__{raymond}
+<D>__{i knew she had it.}
+<A>__{loretta runs out of the kitchen and reappears with her everyday bag. she takes out the night deposit bag and hands it to raymond.}
+<C>__{rita}
+<D>__{we didn't know what to think. you were so weird yesterday, and then this morning, we go to the bank and no bag.}
+<C>__{raymond}
+<P>__{(a sudden outburst to loretta)}
+<D>__{we never suspected you!}
+<A>__{raymond covers his face to hide his emotion. rita, meanwhile is clearing the oatmeal bowls.}
+<C>__{rose}
+<D>__{listen. who wants coffee?}
+<A>__{there is a general acknowledgment. everybody wants coffee. rose passes out white mugs and begins pouring steaming drafts of coffee. raymond and rita are standing. the rest are sitting.}
+<C>__{rita}
+<D>__{so what are we doing?}
+<C>__{rose}
+<D>__{we're waiting for johnny cammareri.}
+<A>__{rita nods. a silence.}
+<C>__{ronny}
+<D>__{i'm his brother.}
+<C>__{ta}
+<P>__{(taking and shaking his hand)}
+<D>__{nice to meet you. i'm rita cappomaggi.}
+<C>__{raymond}
+<P>__{(taking and taking his hand)}
+<D>__{i'm raymond cappomaggi. i'm rose's brother.}
+<C>__{ronny}
+<D>__{nice to meet you.}
+<A>__{silence. then the old man erupts.}
+<C>__{old man}
+<D>__{somebody tell a joke!}
+<A>__{the doorbell rings. and rings again. everyone is frozen for a moment, then rita mobilizes.}
+<C>__{rita}
+<D>__{i will get it.}
+<A>__{she goes. loretta puts down her coffee and deep breathes, preparing herself.}
+<C>__{loretta}
+<D>__{i'm getting palpitations!}
+<A>__{she pushes away her coffee.}
+<C>__{raymond}
+<D>__{i thought he was in palermo.}
+<B>__{rita appears with mr. johnny in tow}
+<A>__{rita continues into the room, leaving mr. johnny in the doorway. he is in a dark, vested suit. he is a little bewildered by the crowd of people, but succeeds in hiding most of his discomfort.}
+<C>__{rita}
+<D>__{it's johnny cammareri.}
+<C>__{loretta}
+<D>__{johnny.}
+<C>__{mr. johnny}
+<D>__{loretta...}
+<C>__{ronny}
+<D>__{johnny...}
+<C>__{mr. johnny}
+<D>__{ronny! our mother has recovered from death!}
+<C>__{ronny}
+<D>__{good.}
+<C>__{mr. johnny}
+<D>__{have you come to make peace with me?}
+<C>__{ronny}
+<D>__{well. yeah. you may not want to.}
+<C>__{mr. johnny}
+<D>__{of course i want to.}
+<C>__{loretta}
+<D>__{i don't know. but johnny, how did your mother recover? she was dying.}
+<C>__{mr. johnny}
+<D>__{we should talk alone.}
+<C>__{loretta}
+<D>__{i can't. i need my family around me now.}
+<C>__{mr. johnny}
+<D>__{well. i told my mother that we were to be married. and she got well. right away.}
+<C>__{ronny}
+<D>__{i'm sure she did.}
+<C>__{mr. johnny}
+<D>__{it was a miracle!}
+<C>__{loretta}
+<D>__{johnny, i have something to tell you.}
+<C>__{mr. johnny}
+<D>__{i have something to tell you. but i must talk to you alone.}
+<C>__{loretta}
+<D>__{i have no secrets from my family.}
+<C>__{mr. johnny}
+<D>__{loretta, i can't marry you.}
+<C>__{loretta}
+<D>__{what?}
+<C>__{mr. johnny}
+<D>__{if i marry you my mother will die.}
+<A>__{the old man laughs a loud sudden laugh, and then subsides.}
+<C>__{loretta}
+<D>__{what the hell are you talking about? we're engaged.}
+<C>__{ronny}
+<D>__{loretta, what are you talking about?}
+<C>__{loretta}
+<D>__{i'm talking about a promise. you proposed to me!}
+<C>__{mr. johnny}
+<D>__{because my mother was dying! but now she's not.}
+<C>__{ronny}
+<D>__{you're forty two years old, johnny, and mama is still running your life.}
+<C>__{mr. johnny}
+<D>__{and you are a son who doesn't love his mother!}
+<C>__{loretta}
+<D>__{and you're a big liar! i've got your ring here!}
+<C>__{mr. johnny}
+<D>__{i must ask for that back.}
+<A>__{loretta struggles and pulls off the ring.}
+<C>__{loretta}
+<D>__{here! take your stupid pinky ring.}
+<P>__{(she throws it at johnny)}
+<D>__{who needs it? the engagement's off.}
+<A>__{mr. johnny retrieves the ring.}
+<C>__{mr. johnny}
+<D>__{in time, you will see that this is the best thing.}
+<C>__{loretta}
+<D>__{in time, you will drop dead, and i will come to your funeral in a red dress.}
+<C>__{ronny}
+<D>__{loretta?}
+<C>__{loretta}
+<D>__{what!}
+<C>__{ronny}
+<D>__{will you marry me.}
+<C>__{mr. johnny}
+<D>__{what?}
+<C>__{loretta}
+<D>__{where's the ring?}
+<A>__{ronny looks to mr. johnny a little sheepishly.}
+<C>__{ronny}
+<D>__{could i a... borrow that ring.}
+<A>__{mr. johnny, in shock, hands it over to ronny.}
+<C>__{ronny}
+<D>__{thanks.}
+<A>__{he kneels down before loretta. he presents the ring to her.}
+<C>__{ronny}
+<D>__{will you marry me, loretta castorini clark?}
+<C>__{loretta}
+<D>__{before all these people, yes, i will marry you, ronny cammareri!}
+<A>__{she takes the ring. ronny and loretta kiss.}
+<C>__{rose}
+<D>__{do you love him, loretta?}
+<C>__{loretta}
+<D>__{yeah, ma, i love him awful.}
+<C>__{rose}
+<D>__{oh god, that's too bad.}
+<A>__{ronny and loretta enter into a long kiss. the old man starts to cry. cosmo leans forward to the old man solicitously.}
+<C>__{cosmo}
+<D>__{what's the matter, pop?}
+<C>__{old man}
+<P>__{(lifts his head and cries out)}
+<D>__{i'm confused !}
+<A>__{loretta pushes ronny away, breaking the kiss. they have both neglected to breathe the whole time they were kissing. they are both gasping for air, especially loretta.}
+<C>__{loretta}
+<D>__{wait a minute! wait a minute!}
+<A>__{but then she looks at ronny, and lunges back to him, diving into another kiss like a mermaid diving into the bluest ocean.}
+<B>__{music}
+<A>__{"o soave fanciulla" from "la boheme," comes up and engulfs the lovers, the family, the world. we see the faces of the lovers swirl away into a golden and diamond light, and}

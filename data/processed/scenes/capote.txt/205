@@ -1,0 +1,82 @@
+<T>__{cut to:}
+<L>__{interior ksp, death row next day}
+<A>__{truman slows for a moment as he passes hickock's cell.}
+<C>__{truman}
+<D>__{hello handsome.}
+<A>__{hickock just stares at him. truman, unnerved, moves on to perry's cell.}
+<L>__{interior ksp, death row, perry's cell continuous}
+<A>__{perry doing pushups. he sees truman and stops. he stands. the row guard approaches.}
+<C>__{row guard}
+<D>__{you want to go in?}
+<A>__{truman regards perry for a few moments, then:}
+<C>__{truman}
+<D>__{yes}
+<A>__{the guard unlocks the door. perry starts to move toward it. the guard slams it shut.}
+<C>__{perry}
+<D>__{what's the name of your book?}
+<A>__{no response. perry can barely control his anger.}
+<C>__{perry}
+<D>__{what's the name of your book?}
+<C>__{truman}
+<D>__{i don't...}
+<C>__{perry}
+<D>__{what's the name of your book?}
+<C>__{truman}
+<D>__{i don't know what you're talking about.}
+<A>__{perry picks up a cut out article from the ny times from his desk. he reads.}
+<C>__{perry}
+<D>__{"truman capote read last night before a packed audience from his non fiction book in cold blood."}
+<A>__{he looks at truman.}
+<C>__{perry}
+<D>__{more?}
+<P>__{(reads)}
+<D>__{"the true crime novel tells of killers richard hickock and perry smith, who brutally murdered a kansas family three years ago."}
+<C>__{truman}
+<D>__{who sent that to you?}
+<A>__{perry doesn't answer.}
+<C>__{truman}
+<D>__{who sent that to you?}
+<C>__{perry}
+<D>__{that's not your goddamn business.}
+<C>__{truman}
+<D>__{it is my business, because it's not true. the organizers of the reading needed a title. they picked one a sensational one, i admit to attract a crowd.}
+<C>__{perry}
+<D>__{they picked it.}
+<C>__{truman}
+<D>__{yes.}
+<C>__{perry}
+<D>__{that's not your title.}
+<C>__{truman}
+<D>__{i haven't chosen one yet.}
+<A>__{perry stares at him, not believing.}
+<C>__{truman}
+<D>__{how could i choose }
+<C>__{perry}
+<D>__{you pretend to be my friend...}
+<C>__{truman}
+<D>__{how could i choose a title when you still haven't told me what happened that night? how could i? i couldn't possibly.}
+<A>__{long pause. truman reaches in his breast pocket and extracts a photo (the one of perry and linda splashing in the puddle.)}
+<C>__{truman}
+<D>__{i have something from your sister.}
+<A>__{he hands it through the bars to perry. perry takes it.}
+<C>__{truman}
+<D>__{she misses you.}
+<A>__{perry looks at the photo. after a few moments, truman turns to the guard.}
+<C>__{truman}
+<D>__{it's alright. i will go in.}
+<A>__{the guard unlocks the cell. truman enters. the guard locks up, walks away. perry is still looking at the photo.}
+<C>__{truman}
+<D>__{i'm sorry. i should have told you what they made me call the book.}
+<P>__{(touches perry's arm)}
+<D>__{i couldn't pretend to be your friend. the truth is, i can't help wanting to be.}
+<P>__{(silence, then:)}
+<D>__{you don't have to tell me anything if you don't want to.}
+<A>__{perry looks at the photo of himself and his sister for a long time.}
+<C>__{perry}
+<D>__{look at my belly.}
+<A>__{perry sits on the bed. then, almost to himself:}
+<C>__{perry}
+<D>__{there must be something wrong with us. to do what we did.}
+<A>__{truman waits him out, sitting on the chair. finally, perry looks at him. when perry speaks, it is quietly, completely matter of fact.}
+<C>__{perry}
+<D>__{we heard there was ten thousand dollars in that house. once we'd tied up everybody and searched all over, i knew the guy who told us about it was wrong. there wasn't any money. but dick wouldn't believe it. he went tearing through the house again, banging on the walls, looking for a safe. he said when he was done, he was going to come up to nancy's room and have his way with her. i wouldn't allow it. i told him that. i sat with nancy.}

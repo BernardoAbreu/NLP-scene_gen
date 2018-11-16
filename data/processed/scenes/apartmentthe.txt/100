@@ -1,0 +1,132 @@
+<L>__{interior the apartment day}
+<A>__{bud comes bursting through the door. the living room is empty, and the bedclothes have been removed from the couch.}
+<C>__{bud}
+<P>__{(calling)}
+<D>__{miss kubelik!}
+<A>__{he dumps the bag of groceries on a table, rushes into the kitchen. the burner has been turned on under the kettle, but there is no flame, and gas is hissing from the vents. bud snaps it off, starts out again.}
+<C>__{bud}
+<D>__{miss kubelik!}
+<A>__{meanwhile fran has appeared from the bathroom, and is approaching the bedroom door. she is still in her robe, and is holding a double sock stretcher with one of bud's socks on it. bud, rounding the corner from the kitchen at full speed, collides with fran in the bedroom doorway. he grabs her arms with obvious relief.}
+<C>__{bud}
+<D>__{are you all right?}
+<C>__{fran}
+<D>__{sure.}
+<P>__{(sniffs)}
+<D>__{what's that funny smell?}
+<C>__{bud}
+<D>__{gas.}
+<P>__{(indicating kitchen)}
+<D>__{didn't you turn it on?}
+<C>__{fran}
+<D>__{yes. i was boiling some water to get the coffee stains out of my dress.}
+<C>__{bud}
+<P>__{(accusingly)}
+<D>__{you turned it on but you didn't light it.}
+<C>__{fran}
+<D>__{are you supposed to?}
+<C>__{bud}
+<D>__{in this house, you're supposed to.}
+<C>__{fran}
+<D>__{oh.}
+<A>__{bud starts to take off his hat and coat, notices the sock stretcher in her hand.}
+<C>__{bud}
+<D>__{what are you doing with that?}
+<C>__{fran}
+<D>__{i was washing my stockings, so i decided i might as well do your socks.}
+<C>__{bud}
+<D>__{thank you.}
+<C>__{fran}
+<D>__{it's very curious i could only find three and a half pair.}
+<C>__{bud}
+<D>__{well, things are a little disorganized around here.}
+<A>__{he carries the bag of groceries into the kitchen, fran trailing after him. during the following, he removes the contents of the bag bread, eggs, bacon, spaghetti, ground round, frankfurters, and assorted canned goods sets them out on the drainboard.}
+<C>__{fran}
+<D>__{i'd say. what's a tennis racquet doing in the kitchen?}
+<A>__{she produces the racquet from behind the stove.}
+<C>__{bud}
+<D>__{tennis racquet? oh, i remember i was cooking myself an italian dinner.}
+<P>__{(fran looks at him oddly)}
+<D>__{i used it to strain the spaghetti.}
+<C>__{fran}
+<P>__{(thinking it over)}
+<D>__{why not?}
+<C>__{bud}
+<D>__{as a matter of fact, i'm a pretty good cook but i'm a lousy housekeeper.}
+<C>__{fran}
+<D>__{yes, you are,}
+<P>__{(indicating the living room)}
+<D>__{when i was straightening up the couch, you know what i found? six hairpins, a lipstick, a pair of false eyelashes, and a swizzle stick from the stork club.}
+<C>__{bud}
+<P>__{(shrugging)}
+<D>__{it's just that i'm the kind of guy who can't say no i don't mean to girls i mean }
+<C>__{fran}
+<D>__{you mean to someone like mr. sheldrake.}
+<C>__{bud}
+<D>__{i guess so.}
+<C>__{fran}
+<D>__{i know so. he's a taker.}
+<C>__{bud}
+<D>__{a what?}
+<C>__{fran}
+<D>__{some people take, some people get took and they know they're getting took and there's nothing they can do about it.}
+<C>__{bud}
+<D>__{i wouldn't say that }
+<P>__{(trying to change the subject)}
+<D>__{what would you like to have for diner? there's onion soup and canned asparagus }
+<C>__{fran}
+<D>__{i really ought to be getting home. my family will be flipping by now.}
+<A>__{she starts into the living room. bud follows her.}
+<C>__{bud}
+<D>__{you can't leave yet. the doctor says it takes forty eight hours to get the stuff out of your system.}
+<C>__{fran}
+<P>__{(wistfully)}
+<D>__{i wonder how long it takes to get someone you're stuck on out of your system? if they'd only invent some kind of a pump for that }
+<A>__{she sits on the arm of a chair.}
+<C>__{bud}
+<D>__{i know how you feel, miss kubelik. you think it's the end of the world but it's not, really. i went through exactly the same thing myself.}
+<C>__{fran}
+<D>__{you did?}
+<C>__{bud}
+<D>__{well, maybe not exactly i tried to do it with a gun.}
+<C>__{fran}
+<D>__{over a girl?}
+<C>__{bud}
+<D>__{worse than that she was the wife of my best friend and i was mad for her. but i knew it was hopeless so i decided to end it all. i went to a pawnshop and bought a forty five automatic and drove up to eden park do you know cincinnati?}
+<C>__{fran}
+<D>__{no, i don't.}
+<C>__{bud}
+<D>__{anyway, i parked the car and loaded the gun well, you read in the papers all the time that people shoot themselves, but believe me, it's not that easy i mean, how do you do it? here, or here, or here }
+<P>__{(with cocked finger,}
+<D>__{he points to his}
+<P>__{temple, mouth and chest)}
+<D>__{ you know where i finally shot myself?}
+<C>__{fran}
+<D>__{where?}
+<C>__{bud}
+<P>__{(indicating kneecap)}
+<D>__{here.}
+<C>__{fran}
+<D>__{in the knee?}
+<C>__{bud}
+<D>__{uh huh. while i was sitting there, trying to make my mind up, a cop stuck his head in the car, because i was illegally parked so i started to hide the gun under the seat and it went off pow!}
+<C>__{fran}
+<P>__{(laughing)}
+<D>__{that's terrible.}
+<C>__{bud}
+<D>__{yeah. took me a year before i could bend my knee but i got over the girl in three weeks. she still lives in cincinnati, has four kids, gained twenty pounds she sends me a fruit cake every christmas.}
+<C>__{fran}
+<P>__{(suddenly suspicious)}
+<D>__{are you just making that up to make me feel better?}
+<C>__{bud}
+<D>__{of course not. here's the fruit cake.}
+<P>__{(shows it to her under christmas tree)}
+<D>__{and you want to see my knee?}
+<P>__{(starts to raise pant leg)}
+<C>__{fran}
+<D>__{no, thanks. the fellows in the office may get the wrong idea how i found out.}
+<C>__{bud}
+<D>__{so let 'em. look, i'm going to cook dinner for us. we'll have the fruit cake for dessert. you just sit there and rest. you've done enough for one day.}
+<C>__{fran}
+<P>__{(smiling)}
+<D>__{yes, nurse.}
+<A>__{bud starts happily into the kitchen.}

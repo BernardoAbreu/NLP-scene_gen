@@ -1,0 +1,19 @@
+<L>__{interior walkway continuous}
+<A>__{john and lori emerge and continue to look around frantically. they run up the walkway.}
+<L>__{exterior lighting tower continuous}
+<A>__{donny pursues ted up the tower.}
+<L>__{exterior lower seating area continuous}
+<A>__{john and lori emerge into the lower seating section, and run down the aisle, looking around with desperation.}
+<C>__{lori}
+<P>__{(spotting the action on the tower)}
+<D>__{look!}
+<A>__{john turns and sees the drama playing out on the distant lighting tower.}
+<C>__{john}
+<D>__{oh jesus...}
+<P>__{(then)}
+<D>__{stay here.}
+<C>__{lori}
+<D>__{wait, john! what are you }
+<C>__{john}
+<D>__{stay there!!}
+<A>__{he turns and runs back up the aisle, toward the concession area.}

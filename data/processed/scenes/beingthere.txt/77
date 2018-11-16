@@ -1,0 +1,24 @@
+<L>__{interior rand mansion hallway morning}
+<A>__{rand has an arm around chance, hangs on for dear life as the two of them walk through the hall. behind them, wilson and perkins push empty wheelchairs.}
+<C>__{rand}
+<P>__{(very weak)}
+<D>__{... you know, chauncey, there's something about you... you're direct, you grasp things quickly and you state them plainly. you don't play games with words to protect yourself. i feel i can speak to you frankly... you know what i was talking to you about last night?}
+<C>__{chance}
+<P>__{(blankly)}
+<D>__{no, ben.}
+<C>__{rand}
+<D>__{oh, sure you do, the financial assistance program. i think you might be just the man to take charge of such an undertaking. i'd like you to meet with the members of the board, we'll be able to discuss the matter at greater length at that time.}
+<C>__{chance}
+<D>__{i understand.}
+<C>__{rand}
+<P>__{(stops outside his door)}
+<D>__{and, please, chauncey don't rush your decision. i know you're not a man to act on the spur of the moment.}
+<C>__{chance}
+<D>__{thank you, ben.}
+<C>__{rand}
+<D>__{and now, chauncey, i'm afraid you must excuse me i'm very tired all of a sudden.}
+<A>__{wilson and perkins leave the wheelchairs, assist rand into his hospital room.}
+<C>__{chance}
+<P>__{(as they go in)}
+<D>__{i'm sorry that you are so sick, ben.}
+<A>__{the door closes, chance limps off down the hall.}

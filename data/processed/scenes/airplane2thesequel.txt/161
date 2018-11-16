@@ -1,0 +1,39 @@
+<L>__{exterior ship space}
+<A>__{it roars through the asteroid field.}
+<L>__{interior washroom}
+<A>__{simon sits on toilet seat and slides open a wall panel.}
+<L>__{interior adjacent washroom}
+<A>__{father o'flanagan slides open an adjacent wall panel and sits down. split screen the two washrooms}
+<C>__{simon}
+<D>__{father, what should i do?}
+<C>__{o'flanagan}
+<D>__{have you considered suicide, my son?}
+<A>__{a panel on the other side of simon slides open.}
+<C>__{jimmy }
+<D>__{do you want to talk about it now, commander?}
+<L>__{interior mission control}
+<D>__{mccrosky}
+<P>__{(holding radio mike)}
+<D>__{come in, mayflower. over. do you read me? over. damnit!}
+<A>__{mccrosky throws the mike down.}
+<C>__{controller 1}
+<P>__{(taking mike)}
+<D>__{let me try, sir. come in, mayflower. over. come in. over. damnit!}
+<A>__{controller 1 throws the mike even harder.}
+<C>__{controller 2}
+<P>__{(taking mike)}
+<D>__{let me try, sir. come in. over. damnit!}
+<A>__{controller 2 smashes the mike through the monitor screen.}
+<C>__{controller 3}
+<D>__{let me try, sir.}
+<A>__{controller 3 smashes the monitor with an axe. controller 4 smashes the monitor with an electric guitar. other controllers line up for their turns with various heavy implements. angle on mccrosky}
+<D>__{mccrosky}
+<P>__{(to controller 5)}
+<D>__{stinson, have you contacted the families of the passengers and crew?}
+<A>__{mccrosky looks out window. insert mob scene from "the hunchback of notre dame"}
+<B>__{back to scene}
+<D>__{mccrosky try and calm them down. and for god sake, be diplomatic.}
+<A>__{stinson turns to two burly men in leather jerkins and black hoods. they hold a large caldron of molten lead next to window.}
+<C>__{controller 5}
+<D>__{give 'em the lead!}
+<A>__{they pour it out. sfx: mob screams}

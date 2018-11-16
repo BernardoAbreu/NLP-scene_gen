@@ -1,0 +1,46 @@
+<L>__{interior pirelli's apartment day}
+<A>__{luis and his men burst in. diana runs for the phone. a comacho takes it from her and rips it from the wall. diana is caught by two comachos.}
+<L>__{interior hearing room day}
+<A>__{eddie is on the witness stand.}
+<C>__{eddie}
+<D>__{i can't comment on that. it was over before i got there.}
+<C>__{partida}
+<D>__{you are his superior officer, are you not?}
+<C>__{eddie}
+<D>__{cragie's in my unit, yes.}
+<C>__{partida}
+<D>__{did you give the men their various assignments?}
+<C>__{eddie}
+<D>__{i did.}
+<C>__{partida}
+<D>__{did you request that officer cragie be on your tac team?}
+<C>__{eddie}
+<D>__{no, i didn't.}
+<A>__{partida lifts a document from the table.}
+<C>__{partida}
+<D>__{sergeant... i have here a department document dated 24 september, of last year. it is a request by you, to your superiors, to have officer cragie transferred to another unit. are you familiar with this document?}
+<C>__{eddie}
+<D>__{yes.}
+<A>__{the room listens to every word.}
+<C>__{partida}
+<D>__{why did you request his transfer?}
+<C>__{eddie}
+<D>__{maybe 30 years is too long for anyone to look at the city's guts, mr. partida.}
+<C>__{partida}
+<D>__{what happened to this request?}
+<C>__{eddie}
+<D>__{it was denied.}
+<A>__{partida lifts another document.}
+<C>__{partida}
+<D>__{this is a letter of support for officer cragie.}
+<P>__{(hands it to him)}
+<D>__{everyone in his unit signed it but you.}
+<P>__{(pause)}
+<D>__{why?}
+<A>__{eddie glances over the letter and hands it back.}
+<C>__{eddie}
+<D>__{i don't agree with what it says.}
+<C>__{partida}
+<D>__{are you saying you do not believe officer cragie is fit to work the streets of chicago?}
+<C>__{eddie}
+<D>__{that's what i'm saying.}

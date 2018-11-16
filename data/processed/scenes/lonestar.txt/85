@@ -1,0 +1,91 @@
+<L>__{interior del's office day}
+<A>__{athena stands at attention as del sits at his desk, reviewing her record. he lets her stand for a long time before speaking }
+<C>__{del}
+<D>__{private johnson, are you unhappy in the army?}
+<C>__{athena}
+<D>__{no, sir }
+<C>__{del}
+<D>__{then how would you explain the fact that out of one hundred twenty people we tested, you're the only one who came up positive for drugs?}
+<C>__{athena}
+<D>__{i'm sorry, sir.}
+<C>__{del}
+<D>__{when you were given the opportunity to enlist, a kind of contract was agreed upon. i think the army has honored its part of that agreement.}
+<C>__{athena}
+<D>__{yes, sir }
+<C>__{del}
+<D>__{do you believe in what we're doing here, private johnson?}
+<C>__{athena}
+<D>__{i i can do the job, sir.}
+<C>__{del}
+<D>__{you don't sound too enthusiastic.}
+<C>__{athena}
+<D>__{i am, sir.}
+<C>__{del}
+<D>__{what exactly do you think your job is, private?}
+<C>__{athena}
+<D>__{follow orders. do whatever they say.}
+<C>__{del}
+<D>__{who's "they"?}
+<C>__{athena}
+<D>__{the the officers.}
+<C>__{del}
+<D>__{and that's the job? nothing about serving your country?}
+<A>__{athena is confused, hesitates to speak }
+<C>__{del}
+<D>__{these aren't trick questions, private. you'll be given an article 15 and be going into the adcap program one way or the other. what happens after that is up to you. i'm just trying to understand how somebody like you thinks.}
+<A>__{silence }
+<C>__{del}
+<D>__{well?}
+<C>__{athena}
+<P>__{(hesitant)}
+<D>__{you really want to know, sir?}
+<C>__{del}
+<D>__{please.}
+<C>__{athena}
+<D>__{it's their country. this is one of the best deals they offer.}
+<A>__{del knows he asked for it, but doesn't like the answer }
+<C>__{del}
+<D>__{how do you think i got to be a colonel?}
+<C>__{athena}
+<D>__{work hard, be good at your job. sir. do whatever they tell you.}
+<C>__{del}
+<D>__{do whatever they tell you }
+<C>__{athena}
+<D>__{i mean, follow orders, sir.}
+<C>__{del}
+<D>__{with your attitude, private, i'm surprised you want to stay in the service.}
+<C>__{athena}
+<D>__{i do, sir.}
+<C>__{del}
+<D>__{because it's a job?}
+<C>__{athena}
+<P>__{(struggling)}
+<D>__{outside it's it's such a mess it's }
+<C>__{del}
+<D>__{chaos.}
+<A>__{athena is sure she's overstepped her rank }
+<C>__{del}
+<D>__{why do you think they let us in on the "deal"?}
+<C>__{athena}
+<D>__{they got people to fight. arabs, yellow people, whatever. might as well use us.}
+<C>__{del}
+<D>__{do you think you've been discriminated against on this post?}
+<C>__{athena}
+<D>__{no, sir. not at all.}
+<C>__{del}
+<D>__{any serious problems with your sergeant or your fellow soldiers?}
+<C>__{athena}
+<D>__{no, sir. they all been real straight with me.}
+<A>__{del stands, thinking, trying not to bullshit her }
+<C>__{del}
+<D>__{it works like this, private every soldier in a war doesn't have to believe in what he's fighting for. most of them fight just to back up the soldiers in their squad you try not to get them killed, try not to get them extra duty, try not to embarrass yourself in front of them.}
+<A>__{he is right in her face now }
+<C>__{del}
+<D>__{why don't you start with that?}
+<C>__{athena}
+<D>__{yes, sir.}
+<C>__{del}
+<D>__{you're dismissed, private.}
+<C>__{athena}
+<D>__{thank you, sir.}
+<A>__{athena salutes, steps out. del looks out the window, troubled by the encounter.}

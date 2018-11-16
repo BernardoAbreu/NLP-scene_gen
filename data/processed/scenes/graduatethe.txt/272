@@ -1,0 +1,39 @@
+<L>__{interior robinson upstairs hall and mrs. robinson's room }
+<B>__{night}
+<A>__{ben follows her through the hall into mrs. robinson's room.}
+<C>__{ben}
+<D>__{where is she?}
+<L>__{221 mrs. robinson's room night}
+<A>__{mrs. robinson, without stopping, puts elaine's clothes down next to a half packed open suitcase on her bed and moves to a telephone on the night table. she lifts the receiver and dials zero. ben follows.}
+<C>__{mrs. robinson}
+<D>__{hello. get me the police, please.}
+<C>__{ben}
+<D>__{where is elaine?}
+<C>__{mrs. robinson}
+<D>__{i will be with you in a moment, benjamin.}
+<P>__{(into phone)}
+<D>__{will you send a police car to twelve hundred glenview road. we have a burgler here. just a second. i will ask him.}
+<P>__{(to ben)}
+<D>__{are you armed?}
+<P>__{(into phone)}
+<D>__{no i don't believe he is. thank you.}
+<A>__{she hangs up.}
+<C>__{ben}
+<D>__{what have you done to her?}
+<C>__{mrs. robinson}
+<D>__{i think we have everything quite under control now, benjamin. would you like a quick drink before you go?}
+<A>__{she picks up a glass from the night table and takes a drink.}
+<C>__{ben}
+<D>__{you can't stop me from seeing her, mrs. robinson. i will find her.}
+<C>__{mrs. robinson}
+<D>__{i'm sorry we won't be able to invite you to the wedding, benjamin, but the arrangements have been so rushed }
+<C>__{ben}
+<D>__{what the hell have you done?}
+<A>__{sound of several cars turning into driveway.}
+<C>__{mrs. robinson}
+<D>__{ahh. i don't think you'll have time for that drink after all.}
+<C>__{ben}
+<D>__{i will find her.}
+<C>__{mrs. robinson}
+<D>__{i don't think so.}
+<A>__{the cars have reached the top of the driveway. sound of the squeal of brakes and car doors opening.}

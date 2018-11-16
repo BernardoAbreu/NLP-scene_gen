@@ -1,0 +1,34 @@
+<L>__{interior hallway day}
+<A>__{robert and seth stand in the dim, dingy hallway. a junkie leaves.}
+<C>__{seth}
+<D>__{you're gonna get me killed.}
+<A>__{robert shoves seth toward the door. seth knocks. the door opens a crack and sketch's face appears.}
+<C>__{sketch}
+<D>__{what do you want?}
+<A>__{robert moves around seth.}
+<C>__{robert}
+<D>__{i'm looking for my daughter, caroline. she comes here.}
+<C>__{sketch}
+<D>__{this is a business. get the fuck outta here.}
+<C>__{robert}
+<D>__{i need to find my daughter. i will pay you.}
+<A>__{sketch pulls a gun and shoves it against robert's cheek.}
+<C>__{sketch}
+<D>__{who the fuck do you think you are? where the fuck do you think you are? why the fuck do you think i shouldn't just put you in a dumpster?}
+<C>__{robert}
+<D>__{i have money }
+<C>__{sketch}
+<D>__{i got money.}
+<C>__{robert}
+<D>__{i will pay you a thousand dollars. i have it in my wallet.}
+<C>__{sketch}
+<D>__{i want your money, i will take your money.}
+<C>__{robert}
+<D>__{just tell me where she is.}
+<A>__{sketch pushes robert back into the hall. sketch sees seth lurking there.}
+<C>__{sketch}
+<P>__{(to seth)}
+<D>__{don't do that shit again.}
+<A>__{sketch slams the door in their face.}
+<C>__{seth}
+<D>__{great. what a good idea.}

@@ -1,0 +1,21 @@
+<L>__{exterior o'shea apartment building day}
+<A>__{a street cleaning machine drives past the apartment}
+<L>__{interior o'shea apartment building lobby day}
+<A>__{sebastian lies sleeping on a sofa in the lobby. the night doorman taps him awake.}
+<C>__{sebastian}
+<D>__{what time is it?}
+<C>__{night doorman}
+<D>__{eight o'clock. you got to go.}
+<C>__{sebastian}
+<D>__{did she show up?}
+<C>__{night doorman}
+<D>__{nope.}
+<C>__{sebastian}
+<D>__{do you mind if i check upstairs?}
+<C>__{night doorman}
+<D>__{i can't have you do that, nor can i have you hanging around the lobby all day.}
+<C>__{sebastian}
+<D>__{i understand. thanks for letting me crash here.}
+<C>__{night doorman}
+<D>__{don't worry about it.}
+<A>__{sebastian stands and staggers out of the building.}

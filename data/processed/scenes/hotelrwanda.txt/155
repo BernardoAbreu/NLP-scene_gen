@@ -1,0 +1,21 @@
+<L>__{interior hotel lobby. day}
+<A>__{the lobby is deserted except for gregoire now neatly dressed.}
+<C>__{paul}
+<D>__{gregoire it is good to see you back to work.}
+<C>__{gregoire}
+<D>__{please, except my humblest apologies...}
+<C>__{paul}
+<D>__{don't worry. i have a job this morning. i must go to visit my good friend george rutagunda. you know george?}
+<A>__{gregoire nods, impressed.}
+<C>__{paul }
+<D>__{fetch the van.}
+<L>__{exterior hotel forecourt. dawn}
+<A>__{a thick mist blankets the grounds as paul and gregoire emerge.}
+<C>__{gregoire}
+<P>__{(fearful) where are we going, sir?}
+<C>__{paul}
+<D>__{for supplies, you drive.}
+<C>__{gregoire}
+<D>__{the fog is too heavy, sir.}
+<C>__{paul}
+<D>__{just drive, gregoire.}

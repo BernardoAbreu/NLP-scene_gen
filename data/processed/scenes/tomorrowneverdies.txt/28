@@ -1,0 +1,213 @@
+<L>__{interior m's anteroom (moneypenny's area) continuous}
+<C>__{bond}
+<D>__{what no lust for adventure?}
+<C>__{moneypenny}
+<D>__{no, 007. it's just that i've learned from personal experience that when we get what we want }
+<P>__{(beat)}
+<D>__{somehow the reality is never as... satisfying as the fantasy.}
+<A>__{bond scowls. moneypenny smiles wryly, points to the inner door:}
+<C>__{moneypenny}
+<D>__{don't keep m waiting.}
+<L>__{interior m's office day}
+<A>__{m is behind her desk; minister peter johnstone sits across a high handed teflon coated politician, with the survival instincts of plutonium. they've been arguing.}
+<C>__{m}
+<D>__{come in, 007. you know the minister?}
+<C>__{bond}
+<D>__{of course.}
+<P>__{(nods to)}
+<D>__{minister johnstone.}
+<C>__{minister johnstone}
+<A>__{bond sits in an armchair. m presses a button, and a video bio of eliot harmsway appears on the wall behind her. mid 50's, regal.}
+<C>__{m}
+<D>__{tell me, 007, what do you know about elliot harmsway?}
+<C>__{bond}
+<P>__{(quipping)}
+<D>__{only what i read in the newspapers.}
+<C>__{minister johnstone}
+<P>__{(disdainfully)}
+<D>__{his newspapers?}
+<C>__{bond}
+<P>__{(glancing sideways)}
+<D>__{occasionally, yes.}
+<P>__{(directly to m)}
+<D>__{british media mogul. born in hong kong; controls newspapers, tv, radio, cable, satellites; books, magazines, movies, computer software. theme parks.}
+<C>__{m}
+<P>__{(holding up a copy of:)}
+<D>__{ along with tomorrow the first world wide newspaper. circulation 27 million. daily. }
+<C>__{bond}
+<D>__{'able to topple governments with a single story' as he says in his press.}
+<C>__{johnstone}
+<P>__{(hurrumph)}
+<D>__{exactly.}
+<A>__{bond looks at johnstone quizzically. then a very tight lipped m. he senses he's about to enter a minefield:}
+<C>__{bond}
+<D>__{... what's harmsway done?}
+<C>__{m}
+<D>__{it seems, 007, we've received a tip}
+<C>__{minister johnstone}
+<D>__{a rumor from an anonymous source }
+<C>__{m}
+<D>__{ that sir elliot may be involved with stamper and yung, and the missing uranium.}
+<C>__{minister johnstone}
+<D>__{hearsay. idle chatter from a source you can't identify who insists on talking only to 007. nothing but loose talk and innuendo.}
+<C>__{m}
+<D>__{that may be the case at present, minister johnstone... but our own sources suspect that mr. harmsway used his considerable russian media holdings to elect valentin zukofsky president of the ukraine in trade for the uranium.}
+<A>__{(m has punched a button, and valentin's video bio has appeared.)}
+<C>__{minister johnstone}
+<D>__{more scurrilous, unsubstantiated gossip.}
+<C>__{bond}
+<D>__{perhaps. but it does explain how an ex kgb agent turned illegal arms dealer is suddenly portrayed as a long time friend of the people.}
+<P>__{(beat)}
+<D>__{if you believe what you read in the papers.}
+<C>__{minister johnstone}
+<P>__{(annoyed)}
+<D>__{need i remind the two of you that elliot harmsway sir elliot harmsway is directly descended from the earl of aberdeen? that his scottish ancestors practically invented hong kong and out of sheer gratitude, queen victoria herself named the port "aberdeen harbor" in their honor?}
+<C>__{m}
+<P>__{(long pause, then:)}
+<D>__{... no more than i need remind you, minister, that merely being a member of the lucky sperm club does not preclude one from a life of criminal activity.}
+<A>__{johnstone is reeling. m continues, to bond, with aplomb:}
+<C>__{m}
+<D>__{the reason i invited the minister here, 007, was to reassure him that this investigation will be handled with the utmost discretion.}
+<C>__{bond}
+<D>__{of course.}
+<C>__{m}
+<D>__{which is also why i've withheld this information from nato and our allies.}
+<C>__{bond}
+<P>__{(nods, then, recalling)}
+<D>__{... didn't we once investigate harmsway?}
+<C>__{m}
+<D>__{yes. 1988. he was furious at the british plan to return hong kong, and supposedly started his own negotiations with the chinese government. the inquiry went nowhere but it did earn mi 6 a rather powerful enemy }
+<C>__{minister johnstone}
+<D>__{not to mention the chaos it caused at whitehall when his newspapers began screaming for the recall of the sitting government.}
+<C>__{m}
+<P>__{(a beat, then:)}
+<D>__{i'm sending you to venice, 007. you're to check out the source, determine whether elliot harmsway is involved with the enriched uranium, and, if so, stop him.}
+<C>__{bond}
+<D>__{how will i meet the informant?}
+<A>__{she hands bond a carnival mask:}
+<C>__{m}
+<D>__{you're to wear this mask at the venice carnival, and wait to be contacted.}
+<C>__{bond}
+<D>__{i understand.}
+<C>__{minister johnstone}
+<P>__{(standing, to leave)}
+<D>__{there is one last thing, 007: elliot harmsway is vital to the economic interests of this nation. he's also a major contributor to the party. i expect him to be given every consideration.}
+<C>__{bond}
+<D>__{political considerations?}
+<C>__{minister johnstone}
+<D>__{to the best of my recollection, mr. bond, i suggested no such thing.}
+<P>__{(beat, at the door)}
+<D>__{in fact, i was never here.}
+<A>__{and he exits. m, frowning, hits a button on her intercom:}
+<C>__{m}
+<D>__{would you send in the new man from equipment branch?}
+<C>__{moneypenny }
+<D>__{right away.}
+<C>__{bond}
+<D>__{.... i hate to ask, but... did you ever think you'd miss communism?}
+<C>__{m}
+<D>__{we serve the interests of the british people, 007. no matter who we may be foolish enough to elect.}
+<A>__{bond is silent, chastised. m looks away, then looks back:}
+<C>__{m}
+<D>__{but if elliot harmsway is involved with that uranium, i want him prosecuted to the ends of the earth.}
+<C>__{bond}
+<D>__{hopefully, it won't get that far.}
+<A>__{m looks up: malcolm saunders, q's successor, limps in, looking like a mummy plaster casts on his left leg, left arm; neck brace, crutch.}
+<C>__{m}
+<D>__{come in, saunders.}
+<C>__{saunders}
+<D>__{m. 007.}
+<C>__{bond}
+<D>__{okay, saunders. what is it this time? rocket in the leg? machine pistol in the arm?}
+<C>__{saunders}
+<D>__{q's retirement party. i'd just put the knife into the cake, and }
+<C>__{bond}
+<D>__{come on. i know better than that }
+<A>__{bond thwacks the crutch against the leg. saunders grimaces in pain.}
+<C>__{bond}
+<D>__{it must do something.}
+<C>__{saunders}
+<D>__{well... if you insist.}
+<A>__{saunders flexes his broken arm; armored spikes pop out of the it.}
+<C>__{bond}
+<D>__{the die is cast.}
+<A>__{saunders exchanges a beleaguered glance with m. he takes off the cast and neck brace, and places a briefcase on m's desk.}
+<C>__{saunders}
+<D>__{now pay attention, 007. we haven't much time to demonstrate your new q toys.}
+<C>__{bond}
+<D>__{how is old q?}
+<C>__{saunders}
+<D>__{gone fishing.}
+<C>__{bond}
+<D>__{fishing?}
+<C>__{saunders}
+<D>__{big game fishing.}
+<P>__{(beat)}
+<D>__{sonar torpedoes. retirement gift from his friends at the cia.}
+<A>__{saunders has opened the briefcase. bond tries to look inside, but saunders repositions it. saunders continues:}
+<C>__{saunders}
+<D>__{in the meantime, perhaps this will spark your interest.}
+<P>__{(takes out a disposable lighter)}
+<D>__{cigarette lighter. thumb here, press here }
+<A>__{a small flame appears. bond, unimpressed, reaches for it }
+<C>__{bond}
+<D>__{saunders, i've lit cigarettes }
+<C>__{saunders}
+<D>__{not from forty feet.}
+<A>__{saunders flips the lighter sideways and whoosh! a burst of flame shoots across the room.}
+<C>__{saunders}
+<D>__{the disposable lighter also contains a small self detonation charge}
+<P>__{(beat)}
+<D>__{depending on who or what you wish to dispose of.}
+<A>__{bond takes the lighter, begins to play with it...}
+<C>__{saunders}
+<D>__{stop fidgeting, 007. next }
+<A>__{he takes out a pair of shoelaces.}
+<C>__{bond}
+<D>__{... shoelaces?}
+<C>__{saunders}
+<D>__{plastique explosive shoelaces.}
+<P>__{(holding them out at length)}
+<D>__{cut them to regulate the size of the blast; totally harmless until you attach the detonator hidden in the heel of your shoe.}
+<C>__{bond}
+<P>__{(examining them curiously)}
+<D>__{perfect way to tie up a... 'knotty' problem?}
+<C>__{saunders}
+<P>__{(frowns)}
+<D>__{moving along }
+<P>__{(he produces:)}
+<D>__{a typical plastic security card. name here, magnetic information stripe here }
+<P>__{(pointing to)}
+<D>__{and a code breaking microprocessor here. swipe it through any card reader anywhere you're in.}
+<C>__{bond}
+<D>__{does it work on cash machines?}
+<A>__{saunders is suddenly stricken. flustered. he blurts out:}
+<C>__{saunders}
+<D>__{it was an authorized test. i returned the money.}
+<C>__{bond}
+<P>__{(amused)}
+<D>__{i see...}
+<C>__{saunders}
+<P>__{(ignoring this)}
+<D>__{finally, your new watch: blue laser here for signaling or burning through locks; press this button, the sweep hand becomes a geiger counter.}
+<C>__{bond}
+<P>__{(needling him)}
+<D>__{if you can't do the time, don't do the crime?}
+<C>__{saunders}
+<P>__{(smirks at bond, pauses, then)}
+<D>__{oh. i almost forgot. there is one last thing: before q retired, he asked that i give you one other protective device.}
+<A>__{he hands bond a wedding band.}
+<C>__{bond}
+<D>__{a wedding band??? what am i supposed to be able to do with this?}
+<C>__{saunders}
+<D>__{i believe q's exact words were:}
+<P>__{(imitating q, emphatically:)}
+<D>__{"hopefully, nothing."}
+<A>__{bond turns from saunder's devious grin to an amused m. smiles:}
+<C>__{bond}
+<D>__{...i will give you a ring from venice.}
+<C>__{m}
+<D>__{good luck on your mission, 007.}
+<A>__{he snaps the ring down on her desk.}
+<C>__{bond}
+<D>__{till death do us part.}

@@ -1,0 +1,70 @@
+<L>__{interior kenobi's dwelling}
+<A>__{the small, spartan hovel is cluttered with desert junk but still manages to radiate an air of time worn comfort and security. luke is in one corner repairing threepio's arm, as old ben sits thinking.}
+<C>__{luke}
+<D>__{no, my father didn't fight in the wars. he was a navigator on a spice freighter.}
+<C>__{ben}
+<D>__{that's what your uncle told you. he didn't hold with your father's ideals. thought he should have stayed here and not gotten involved.}
+<C>__{luke}
+<D>__{you fought in the clone wars?}
+<C>__{ben}
+<D>__{yes, i was once a jedi knight the same as your father.}
+<C>__{luke}
+<D>__{i wish i'd known him.}
+<C>__{ben}
+<D>__{he was the best star pilot in the galaxy, and a cunning warrior. i understand you've become quite a good pilot yourself. and he was a good friend. which reminds me...}
+<A>__{ben gets up and goes to a chest where he rummages around. as luke finishes repairing threepio and starts to fit the restraining bolt back on, threepio looks at him nervously. luke thinks about the bolt for a moment then puts it on the table. ben shuffles up and presents luke with a short handle with several electronic gadgets attached to it.}
+<C>__{ben}
+<D>__{i have something here for you. your father wanted you to have this when you were old enough, but your uncle wouldn't allow it. he feared you might follow old obi wan on some damned fool idealistic crusade like your father did.}
+<C>__{threepio}
+<D>__{sir, if you'll not be needing me, i will close down for awhile.}
+<C>__{luke}
+<D>__{sure, go ahead.}
+<A>__{ben hands luke the saber.}
+<C>__{luke}
+<D>__{what is it?}
+<C>__{ben}
+<D>__{your fathers lightsaber. this is the weapon of a jedi knight. not as clumsy or as random as a blaster.}
+<A>__{luke pushes a button on the handle. a long beam shoots out about four feet and flickers there. the light plays across the ceiling.}
+<C>__{ben}
+<D>__{an elegant weapon for a more civilized time. for over a thousand generations the jedi knights were the guardians of peace and justice in the old republic. before the dark times, before the empire.}
+<A>__{luke hasn't really been listening.}
+<C>__{luke}
+<D>__{how did my father die?}
+<C>__{ben}
+<D>__{a young jedi named darth vader, who was a pupil of mine until he turned to evil, helped the empire hunt down and destroy the jedi knights. he betrayed and murdered your father. now the jedi are all but extinct. vader was seduced by the dark side of the force.}
+<C>__{luke}
+<D>__{the force?}
+<C>__{ben}
+<D>__{well, the force is what gives a jedi his power. it's an energy field created by all living things. it surrounds us and penetrates us. it binds the galaxy together.}
+<A>__{artoo makes beeping sounds.}
+<C>__{ben}
+<D>__{now, let's see if we can't figure out what you are, my little friend. and where you come from.}
+<C>__{luke}
+<D>__{i saw part of the message he was...}
+<A>__{luke is cut short as the recorded image of the beautiful young rebel princess is projected from artoo's face.}
+<C>__{ben}
+<D>__{i seem to have found it.}
+<A>__{luke stops his work as the lovely girl's image flickers before his eyes.}
+<C>__{leia}
+<D>__{general kenobi, years ago you served my father in the clone wars. now he begs you to help him in his struggle against the empire. i regret that i am unable to present my father's request to you in person, but my ship has fallen under attack and i'm afraid my mission to bring you to alderaan has failed. i have placed information vital to the survival of the rebellion into the memory systems of this r2 unit. my father will know how to retrieve it. you must see this droid safely delivered to him on alderaan. this is our most desperate hour. help me, obi wan kenobi, you're my only hope.}
+<A>__{there is a little static and the transmission is cut short. old ben leans back and scratches his head. he silently puffs on a tarnished chrome water pipe. luke has stars in his eyes.}
+<C>__{ben}
+<D>__{you must learn the ways of the force if you're to come with me to alderaan.}
+<C>__{luke}
+<P>__{(laughing)}
+<D>__{alderaan? i'm not going to alderaan. i've got to go home. it's late, i'm in for it as it is.}
+<C>__{ben}
+<D>__{i need your help, luke. she needs your help. i'm getting too old for this sort of thing.}
+<C>__{luke}
+<D>__{i can't get involved! i've got work to do! it's not that i like the empire. i hate it! but there's nothing i can do about it right now. it's such a long way from here.}
+<C>__{ben}
+<D>__{that's your uncle talking.}
+<C>__{luke}
+<P>__{(sighing)}
+<D>__{oh, god, my uncle. how am i ever going to explain this?}
+<C>__{ben}
+<D>__{learn about the force, luke.}
+<C>__{luke}
+<D>__{look, i can take you as far as anchorhead. you can get a transport there to mos eisley or wherever you're going.}
+<C>__{ben}
+<D>__{you must do what you feel is right, of course.}

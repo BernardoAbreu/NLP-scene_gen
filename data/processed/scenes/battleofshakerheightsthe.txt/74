@@ -1,0 +1,114 @@
+<L>__{interior kitchen}
+<A>__{kelly comes down the stairs two at a time, singing. eve and abe watch surprised from the table. abe looks pale.}
+<C>__{kelly}
+<D>__{what?}
+<L>__{interior bowland house, bart's room night}
+<A>__{bart sits in his desk chair, frowning. mathilda knocks and opens the door.}
+<C>__{mathilda}
+<D>__{minnie's starting dinner. is kelly coming over?}
+<C>__{bart}
+<D>__{not tonight, ma.}
+<A>__{mathilda pauses and looks at her son.}
+<C>__{mathilda}
+<D>__{okay, then.}
+<L>__{exterior battlefield day}
+<A>__{an assistant director and cameraman unload equipment from a van. the director looks off into the distance, trying to visualize. kelly pulls up next to the van. he wears a spotlessly clean uniform.}
+<C>__{director}
+<D>__{are you with the 101st or the 82nd?}
+<C>__{kelly}
+<D>__{well, 82nd today. it's not my usual division. technically, my patches indicate }
+<C>__{director}
+<D>__{whatever. make yourself comfortable. we'll be a while setting up. some of the other boys are over by craft service.}
+<C>__{kelly}
+<D>__{oh?}
+<A>__{kelly doesn't go anywhere.}
+<C>__{director}
+<D>__{the snack table. it's over there. someone will come get you when we're ready.}
+<C>__{kelly}
+<D>__{right. is bart bowland here yet?}
+<C>__{director}
+<D>__{bart? oh, harrison's son. i don't know.}
+<C>__{kelly}
+<D>__{ok. thanks.}
+<B>__{craft service}
+<A>__{kelly and a half dozen other soldiers stand or sit in the grass around the table. they talk and rest on their backpacks. a makeup artist makes the rounds.}
+<C>__{makeup artist}
+<P>__{(to kelly)}
+<D>__{and you are?}
+<C>__{kelly}
+<D>__{kelly ernswiler, private first class.}
+<C>__{makeup artist}
+<D>__{all right, kelly. let's take a look at you.}
+<A>__{she gets out some pomade and runs a comb through his hair, slicking it back.}
+<C>__{makeup artist}
+<D>__{that's it, handsome.}
+<A>__{kelly grins. when she walks away he messes up his hair again. he scans the crowd. no bart. the a.d. walks over.}
+<C>__{a.d.}
+<D>__{okay, everyone. we're going to start positioning. then we'll go through a few rehearsals.}
+<P>__{(points at soldiers)}
+<D>__{you, you and you go over there by that tree. you and you guys, behind the hill.}
+<P>__{(looks at clipboard)}
+<D>__{okay, who's got the jeep?}
+<C>__{kelly}
+<D>__{that mg? she's mine.}
+<C>__{a.d.}
+<D>__{great. we'd like to use it. can you drive it beyond the hill over there?}
+<A>__{kelly tries to act casual.}
+<C>__{kelly}
+<D>__{sure. i don't think that would be a problem.}
+<A>__{he walks towards his jeep and pauses.}
+<C>__{kelly}
+<D>__{have you seen bart bowland? has he checked in?}
+<C>__{a.d.}
+<D>__{don't know. we've got enough people. it doesn't matter.}
+<A>__{kelly nods, wondering a bit. but it's soon forgotten.}
+<C>__{kelly}
+<P>__{(to jeep)}
+<D>__{hot lips, old girl, you're going to be famous.}
+<C>__{a.d.}
+<P>__{(yells)}
+<D>__{okay people. listen to my voice. from now on, you do whatever this voice says. take your place.}
+<B>__{behind the hill}
+<A>__{kelly waits with his rifle next to his jeep, bored. he sees a figure in the shadows of the trees. he raises his rifle and points it at the figure.}
+<C>__{kelly}
+<D>__{password.}
+<A>__{bart steps out of the barn.}
+<C>__{kelly}
+<D>__{hey! where the hell have you been?}
+<C>__{bart}
+<D>__{no where.}
+<C>__{kelly}
+<D>__{they put you over here with me? that's great. i think we'll get some close ups. they want me to drive old lippy. isn't that awesome?}
+<A>__{bart doesn't say anything.}
+<C>__{kelly}
+<D>__{what the hell's your problem?}
+<C>__{bart}
+<D>__{i ought to fucking kill you.}
+<C>__{kelly}
+<D>__{what?}
+<C>__{bart}
+<D>__{you had to do it.}
+<A>__{kelly shakes his head, avoiding bart's eyes, trying to keep it normal.}
+<C>__{kelly}
+<D>__{what are you talking about?}
+<C>__{bart}
+<D>__{you just do whatever the fuck you want. and consequences don't matter, do they?}
+<C>__{kelly}
+<D>__{are you out of your mind?}
+<A>__{bart looks at kelly. sees nothing but a kid in an old army uniform.}
+<C>__{bart}
+<D>__{what the fuck do you think she's going to do, run off with you?}
+<A>__{the blood rises to kelly's face. but he still won't look at bart.}
+<C>__{bart}
+<D>__{you're a seventeen year old bag boy. she's a yale grad student. talk about living in a fucking fantasy world.}
+<A>__{kelly's hands turn white around the rifle.}
+<C>__{kelly}
+<D>__{no. you'd rather have me be miserable like you are.}
+<A>__{bart comes closer. uncomfortably close.}
+<C>__{bart}
+<P>__{(biting sarcasm)}
+<D>__{once again, you've displayed your uncanny ability to nail the truth of a character.}
+<A>__{kelly finally raises his head. and looks bart right in the eyes.}
+<C>__{kelly}
+<D>__{stop talking out your dad's mouth and use your own for once.}
+<A>__{bart lunges at kelly.}

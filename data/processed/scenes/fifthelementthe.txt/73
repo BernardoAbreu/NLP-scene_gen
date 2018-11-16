@@ -1,0 +1,31 @@
+<L>__{interior hallway zorg's warehouse day}
+<A>__{the warriors have all taken a weapon. one of them inspects his zf1. he turns it over and notices the little red button. he presses it.}
+<L>__{exterior outside zorg's warehouse day}
+<A>__{behind zorg, an ear shattering explosion levels the warehouse.}
+<C>__{zorg}
+<P>__{(impassive)}
+<D>__{bring the priest.}
+<L>__{interior garage day omit interior korben's apartment day}
+<A>__{korben is finishing a thai meal, cooked by a thai on his mini restaurant anchored at the window. the cat eats next to korben, contented.}
+<C>__{korben}
+<D>__{so you forgive me?}
+<A>__{the cat meows just as a red light blinks, announcing the arrival of a message in a glass tube. korben ignores it.}
+<C>__{thai}
+<D>__{not going to open?}
+<C>__{korben}
+<D>__{i've never gotten a message that wasn't bad news.}
+<C>__{thai}
+<D>__{how someone strong like you scared from a message? is good news i sure!}
+<C>__{korben}
+<D>__{the last two messages i got? the first one was from my wife telling me she was leaving! and the second was from my lawyer telling me he was leaving too... with my wife.}
+<C>__{thai}
+<D>__{you right that is bad.. but mathematically luck must change! grandfather say: "it never rain every day." this is good news guarantee.. i bet you lunch!}
+<A>__{korben hesitates, then gives the envelope to the thai, who opens it with a big smile that fades as reads the contents aloud.}
+<C>__{thai}
+<D>__{...you're fired. oh!}
+<A>__{korben smiles at him.}
+<C>__{korben}
+<D>__{at least i won lunch.}
+<C>__{thai}
+<D>__{good philosophy..see good in bad.. i like..i prepare number one dessert.. special for you and pussy..}
+<A>__{the cat meows.}

@@ -1,0 +1,14 @@
+<L>__{exterior hallway}
+<A>__{a confused mary is standing outside the bathroom door.}
+<C>__{mary}
+<D>__{shaving?}
+<C>__{harry}
+<P>__{(o.s.)}
+<D>__{yeah! i was running a little late. thought this would save time.}
+<C>__{mary}
+<D>__{okay. well i will be in the living room whenever you're ready.}
+<L>__{interior bathroom}
+<A>__{harry's got his pants back on and is lifting the lid off the toilet tank. he starts tinkering with a few valves.}
+<C>__{harry}
+<P>__{(under breath)}
+<D>__{come on, flush, you bastard...}

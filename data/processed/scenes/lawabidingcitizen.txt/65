@@ -1,0 +1,115 @@
+<L>__{interior police interrogation room day}
+<A>__{clyde sits alone and isolated in a small room. widen to reveal sarah at the observation glass. she turns as nick steps up.}
+<C>__{sarah}
+<D>__{he says he'll only talk to you.}
+<A>__{nick and dunnigan prepare to go in. dunnigan takes off his gun and holster, lays them on a table, as garza activates the video. cantrell finds a chair by feel, sits down, as:}
+<B>__{inner room}
+<A>__{nick and dunnigan enter. dunnigan melts into a corner to observe as nick sits across the table from clyde.}
+<C>__{clyde}
+<D>__{counselor.}
+<C>__{nick}
+<D>__{mr. clyde.}
+<C>__{clyde}
+<D>__{why so formal? we go way back. call me benson. or ben.}
+<A>__{nick sits across the table from clyde, settles in.}
+<C>__{nick}
+<D>__{well. i'm here. so?}
+<C>__{clyde}
+<D>__{so. maybe you can explain what this is all about.}
+<A>__{nick almost laughs not what he expected to hear.}
+<C>__{nick}
+<D>__{i think that's obvious.}
+<A>__{clyde spreads his hands questioningly not really.}
+<C>__{dunnigan}
+<D>__{you murdered two people. rupert ames and clarence darby.}
+<C>__{clyde}
+<P>__{(shifts his gaze)}
+<D>__{detective...?}
+<C>__{dunnigan}
+<D>__{dunnigan.}
+<C>__{clyde}
+<D>__{dunnigan. i thought i'd made it clear i would only speak to the gentleman across the table from me.}
+<A>__{dunnigan glowers at him, looks to nick.}
+<C>__{nick}
+<D>__{you murdered two people. rupert ames and clarence darby.}
+<C>__{clyde}
+<D>__{darby? i knew about ames, of course. i've been following the news about his horribly botched execution. but darby too? quite a coincidence.}
+<C>__{dunnigan}
+<D>__{cut the shit. we know you did it. save everybody a lot of time and trouble and just confess.}
+<C>__{clyde}
+<D>__{are you going to continue to insist on being part of this conversation?}
+<C>__{dunnigan}
+<D>__{yes.}
+<C>__{clyde}
+<P>__{(beat, gives in)}
+<D>__{fine. far be it from me to be rude.}
+<C>__{nick}
+<D>__{clarence darby was found on your property. old abandoned shed?}
+<C>__{clyde}
+<D>__{i didn't know i had one. it's 150 acres, uncultivated. the other day i found a creek i never knew i had. hunters trespass all the time. you going to try to pin the dead deer on me too?}
+<B>__{observation area}
+<C>__{sarah}
+<D>__{i don't believe this guy.}
+<C>__{cantrell}
+<D>__{that man is frosty.}
+<B>__{inner room}
+<C>__{clyde}
+<D>__{it occurs to me that an even moderately clever person could try to frame me for the murder simply by killing him on my property. one of darby's drug rivals? that's an unsavory world.}
+<P>__{(off nick's stare)}
+<D>__{a jury would have to weigh that possibility. what else you got?}
+<C>__{nick}
+<P>__{(temper flaring)}
+<D>__{how about video of you dismembering darby while he was still alive?}
+<C>__{clyde}
+<D>__{that's odd. see, if i were to do such a thing, i'd probably wear something so i couldn't be identified. some kind of mask maybe. but you say it's actually me on the video? did the camera capture my good side?}
+<A>__{nick snaps, lunges across the table, grabs clyde.}
+<C>__{nick}
+<D>__{you sick fuck, you sent it to my house! my daughter saw that video! it fucking traumatized her! she couldn't stop sobbing!}
+<A>__{dunnigan moves in fast, trying to pull nick off (but failing):}
+<C>__{dunnigan}
+<D>__{whoa whoa, nick, ease off!}
+<C>__{clyde}
+<D>__{no trouble here, detective, we're fine. thank you, though.}
+<A>__{dunnigan backs off. clyde turns back to nick, who's still got him in his grasp, their faces close.}
+<C>__{clyde}
+<D>__{your daughter is, what, ten now? that's a wonderful age. my daughter was always so busy at that age, so interested, so into everything. jumping around. i called her "bean," she jumped around so much.}
+<A>__{nick is easing off by inches, subtly and ineffably weirded out, unable to break clyde's gaze. softly:}
+<C>__{clyde}
+<D>__{i am sorry, nick, that your daughter experienced that. you're right. that video should not have arrived that way. the person who sent it should have thought twice.}
+<A>__{dunnigan moves in again, gently but firmly pulls nick away.}
+<C>__{dunnigan}
+<D>__{okay, enough.}
+<C>__{clyde}
+<D>__{unless there's hard evidence tying me to these crimes forensic or otherwise why am i here? why are we having this conversation?}
+<C>__{nick}
+<D>__{we know you did it.}
+<C>__{clyde}
+<D>__{it's not about what you know. it's about what you can prove in court.}
+<P>__{(off nick's look)}
+<D>__{your words. like when you called it a justice system. you know the thing about a system, nick? any system can be played.}
+<C>__{nick}
+<D>__{you think you can play us? you gonna take me on?}
+<C>__{clyde}
+<D>__{clarence darby did. and i'm much smarter than he was. or you.}
+<A>__{nick advances, furious, held back by dunnigan:}
+<C>__{nick}
+<D>__{i'm gonna bury you, fucker!}
+<C>__{clyde}
+<P>__{(lunges to his feet)}
+<D>__{that's it, that's what i want! that fire in the belly! that's what i wanted ten years ago! do it, nick! bury me!}
+<C>__{dunnigan}
+<P>__{(shouting at clyde)}
+<D>__{sit down! sit the fuck down!}
+<A>__{clyde does, settles in, speaking calmly:}
+<C>__{clyde}
+<D>__{or. set me free.}
+<C>__{nick}
+<D>__{what?}
+<C>__{clyde}
+<D>__{did i stutter? make your case. or. shake my hand on the courthouse steps and send me on my way.}
+<P>__{(off nick's look)}
+<D>__{i will even make it easy on you. i will confess, how's that?}
+<C>__{nick}
+<D>__{you're gonna confess.}
+<C>__{clyde}
+<D>__{let's start tomorrow after a good night's sleep. we'll all be fresh and rested.}

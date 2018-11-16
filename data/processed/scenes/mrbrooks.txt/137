@@ -1,0 +1,34 @@
+<L>__{interior police station n afternoon}
+<A>__{trailed by snyder, detective atwood arrives at captain lister's secretary.}
+<C>__{detective atwood}
+<D>__{is she in?}
+<C>__{secretary}
+<D>__{she's with someone.}
+<C>__{detective atwood}
+<D>__{good.}
+<A>__{atwood blows past the secretary and opens the door to lister's office.}
+<L>__{interior captain lister's office n afternoon}
+<A>__{there are two men in suits on the other side of the desk from the captain. atwood ignores them and focuses on lister.}
+<C>__{detective atwood}
+<D>__{you promised if i settled my divorce i had three days on the thumbprint killer. i have the rest of today and tomorrow left.}
+<C>__{captain lister}
+<D>__{detective atwood, meet fbi agents longnecker and campbell, they're taking over your investigation.}
+<C>__{detective atwood}
+<D>__{you promised you would keep them out of it for three days.}
+<C>__{captain lister}
+<D>__{they won't allow me to keep that promise.}
+<A>__{atwood glares at her then at the fbi men.}
+<C>__{detective atwood}
+<D>__{this is my case, what you're doing is fucked. but since i can't stop you, and she won't, here's a tip. james baffert, you should stake him out, he knows something.}
+<C>__{detective longnecker}
+<D>__{we have some other ideas we are looking into.}
+<C>__{detective atwood}
+<D>__{then what's the problem? you do that and i will tail baffert.}
+<C>__{detective longnecker}
+<D>__{thank you for all your good work, detective. this is our case now.}
+<A>__{atwood looks from one man to the other.}
+<C>__{detective atwood}
+<D>__{good luck.}
+<P>__{(to captain lister)}
+<D>__{later i suppose you'll fill me in on what i'm supposed to be doing around here. i'm confused.}
+<A>__{she leaves. snyder closes the door behind her.}

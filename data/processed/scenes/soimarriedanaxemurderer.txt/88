@@ -1,0 +1,40 @@
+<L>__{interior hallway harriet's apartment day}
+<A>__{tony knocks. no answer. he picks the lock and enters.}
+<L>__{interior living room day}
+<A>__{rose is tied up and lying in a pool of blood. tony stops for a beat, draws his gun and slowly walks over to her. just as he gets there, a shutter clicks.}
+<C>__{rose}
+<D>__{oh, hi!}
+<C>__{tony}
+<P>__{(practically hysterical)}
+<D>__{what is it with the women in your family?}
+<C>__{rose}
+<D>__{i was just doing a murder series in honor of the wedding.}
+<C>__{tony}
+<D>__{hey, this is real blood.}
+<C>__{rose}
+<D>__{yes, harriet, give it to me. she's a butcher.}
+<P>__{(tony reacts)}
+<D>__{...she owns a butcher shop.}
+<C>__{tony}
+<D>__{i need a picture of harriet.}
+<C>__{rose}
+<D>__{sorry. no can do.}
+<C>__{tony}
+<D>__{you took a picture at the party. i saw it.}
+<C>__{rose}
+<D>__{it didn't come out.}
+<C>__{tony}
+<D>__{look, rose. i need a photo.}
+<C>__{rose}
+<D>__{the picture didn't come out.}
+<P>__{(he waits)}
+<D>__{it was unflattering. in made her look ten pounds heavier.}
+<P>__{(he waits)}
+<D>__{she's my sister.}
+<C>__{tony}
+<D>__{she's been implicated in a crime. i need the photo to eliminate her as a suspect.}
+<C>__{rose}
+<D>__{and if she's not innocent. if she's, you know, "quirky?"}
+<C>__{tony}
+<D>__{if she's "quirky" we'll save charlie's life.}
+<A>__{rose pulls out a photograph charlie and harriet. looking young and in love.}

@@ -1,0 +1,39 @@
+<L>__{interior lounge day}
+<A>__{cynthia is tending bar. the dude from earlier is still there, puffing on a big cigar.}
+<C>__{dude}
+<D>__{just tell me what time you get off. work, i mean. what's the harm in that? whaddaya say?}
+<A>__{ann enters the lounge. cynthia watches with apprehensive surprise as ann approaches with a potted plant.}
+<C>__{cynthia}
+<P>__{(to dude)}
+<D>__{excuse me.}
+<A>__{cynthia moves to meet ann at the end of the bar. ann sets the plant down on the counter. her manner is diffident, but not hostile.}
+<C>__{ann}
+<D>__{i know it's your birthday, and i know you like plants. so i got you this.}
+<A>__{cynthia is very moved, though she struggles valiantly to conceal her emotions.}
+<C>__{cynthia}
+<D>__{thank you.}
+<C>__{ann}
+<D>__{well. i can't stay.}
+<A>__{ann begins to leave.}
+<C>__{cynthia}
+<D>__{can i call you?}
+<A>__{ann turns back to face her. they look at each other for a moment.}
+<C>__{ann}
+<D>__{do you have my work number?}
+<C>__{cynthia}
+<D>__{no.}
+<A>__{ann writes the number down on a napkin.}
+<C>__{ann}
+<D>__{i get real busy between two and four.}
+<C>__{cynthia}
+<D>__{okay. ann looks at cynthia again before leaving.}
+<C>__{ann}
+<D>__{bye.}
+<C>__{cynthia}
+<D>__{bye.}
+<A>__{ann leaves. cynthia continues to look at the door long after ann has left.}
+<C>__{dude}
+<D>__{nice plant.}
+<A>__{cynthia turns to him.}
+<C>__{cynthia}
+<D>__{do me a favor. don't come in here anymore.}

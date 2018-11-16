@@ -1,0 +1,50 @@
+<L>__{interior building day}
+<A>__{hector climbs to the fourth floor. a policeman goes with him. two paramedics come up the stairs behind them, carrying a stretcher. the policeman stops.}
+<C>__{policeman}
+<D>__{you guys are downstairs... third floor... thirty eight...}
+<A>__{the paramedics turn around and head back down the stairs. hector looks at the policeman curiously.}
+<C>__{policeman}
+<D>__{you're forty eight.}
+<A>__{they continue climbing.}
+<L>__{interior apartment day}
+<A>__{hector and the policeman squeeze past a cluster of people at the door and enter the apartment.}
+<C>__{policeman}
+<D>__{this is troup!}
+<A>__{a detective is with another man who looks like a city official.}
+<C>__{detective}
+<D>__{come here, troup. i'm cobb.}
+<A>__{hector joins them.}
+<C>__{detective}
+<D>__{you bring everything?}
+<C>__{hector}
+<D>__{what?}
+<C>__{detective}
+<D>__{building warrant, license, fire certificate, sanitation certificate... i want them all... this is mr. santiago, from the city... insurance...}
+<C>__{hector}
+<D>__{this isn't really my building... it's my partner's... i just took the call and came right over... i have to leave town in an hour or so anyway...}
+<C>__{detective}
+<D>__{slow down, troup... so it's 3:15 on a friday... you're staying here 'til mr. santiago gets the paperwork... get your partner over here, with everything... this is serious...}
+<A>__{hector looks at his watch.}
+<C>__{hector}
+<D>__{3:35...}
+<C>__{mr. santiago}
+<D>__{i might have to close the place down.}
+<C>__{hector}
+<D>__{where is she?}
+<A>__{the detective and hector walk down the hall. they stop at the door of the bathroom. hector looks inside. there is a large ragged hole in the floor. at the far side of it the toilet unit dangles at a dangerous angle into the hole, held only by its plumbing. firemen are working to secure it and what is left of the floor with metal props and hydraulic jacks. lying on the floor below, surrounded by rubble, and being attended by the paramedics, is an old lady, mrs. philippopolis. she tries to sit up when she sees hector peering at her over the rim of the hole. she looks angry.}
+<C>__{mr. philippopolis}
+<D>__{i phoned you monday... i told you the floor was making noises...}
+<C>__{hector}
+<D>__{not me, mrs. philippopolis... my ex partner... i think you spoke to him... how are you feeling?}
+<A>__{hector says this clearly, for the benefit of the detective and mr. santiago. the detecitve is unimpressed.}
+<C>__{detective}
+<D>__{come back from there, troup, the floor's still moving...}
+<C>__{hector}
+<D>__{i will make a couple of calls... i will straighten it out... is she bad? why don't they move her?}
+<C>__{detective}
+<D>__{they waited for a portable x ray machine... they can move her now.}
+<C>__{hector}
+<D>__{she seems in good spirits...}
+<A>__{as if in response, mrs. philippopolis shouts up to hector as she sees him leaving the bathroom above her.}
+<C>__{mrs. philippopolis}
+<D>__{wait 'til my son sees his mother lying here like this... he's gonna sue you... you're a lousy landlord... you should be ashamed... to let old people live like this... i phoned you monday... i have a witness! i was dancing with a prince on my eighteenth birthday, and now look at me... you have me falling down a toilet!}

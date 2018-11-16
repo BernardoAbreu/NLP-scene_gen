@@ -1,0 +1,41 @@
+<L>__{interior bob's room day}
+<A>__{bob is doing tai chi. knock on the door. he goes to open it. carla is bringing him his dinner.}
+<C>__{bob}
+<D>__{yeah. come in.}
+<A>__{she comes in.}
+<C>__{bob }
+<D>__{i'm just...}
+<A>__{she puts his dinner down on the coffee table. he takes out money from his pants to pay her.}
+<C>__{carla}
+<D>__{the prices are going up.}
+<C>__{bob}
+<D>__{but, that's the way of the world, huh? everybody's gotta eat. way of the world.}
+<A>__{he sits before his dinner, hands her some money. remembers himself.}
+<C>__{bob }
+<D>__{well, i'm pretty impolite. would you like some?}
+<C>__{carla}
+<D>__{i don't eat vegetables.}
+<C>__{bob}
+<D>__{well, i can offer you something to drink?}
+<C>__{carla}
+<D>__{sure, what have you got?}
+<C>__{bob}
+<D>__{what do you drink?}
+<C>__{carla}
+<D>__{bourbon and milk.}
+<C>__{bob}
+<D>__{how old are you?}
+<A>__{carla whispers her age to him. he makes her a drink out of his fridge, hands it to her.}
+<C>__{bob }
+<D>__{then i hope you wouldn't tell anyone i gave you this.}
+<C>__{carla}
+<D>__{i wouldn't tell anyone anything that happened between me and somebody who was my friend.}
+<B>__{pause}
+<C>__{bob}
+<D>__{nice town that you've got here.}
+<C>__{carla}
+<D>__{you want to see it better, we could go out on the roof.}
+<C>__{bob}
+<D>__{...wouldn't that be dangerous?}
+<C>__{carla}
+<D>__{...not if you've got something to hold on to.}

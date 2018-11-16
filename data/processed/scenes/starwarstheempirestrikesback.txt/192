@@ -1,0 +1,45 @@
+<L>__{exterior landing platform door of millennium falcon.}
+<C>__{threepio}
+<A>__{well, he seems very friendly.}
+<C>__{leia}
+<P>__{(wary)}
+<D>__{yes... very friendly.}
+<L>__{exterior cloud city landing platform}
+<C>__{lando}
+<D>__{what are you doing here?}
+<C>__{han}
+<P>__{(gestures toward the falcon)}
+<D>__{ahh... repairs. i thought you could help me out.}
+<C>__{lando}
+<P>__{(in mock panic)}
+<D>__{what have you done to my ship?}
+<C>__{han}
+<D>__{your ship? hey, remember, you lost her to me fair and square.}
+<A>__{chewie growls a reserved greeting. lando suddenly notices the princess and smiles.}
+<C>__{lando}
+<D>__{hello. what have we here? welcome. i'm lando calrissian. i'm the administrator of this facility. and who might you be?}
+<C>__{leia}
+<D>__{leia.}
+<C>__{lando}
+<D>__{welcome, leia.}
+<A>__{lando bows before leia and kisses her hand.}
+<C>__{han}
+<D>__{all right, all right, you old smoothie.}
+<A>__{han takes leia by the hand and steers her away from lando.}
+<C>__{threepio}
+<D>__{hello, sir. i am see threepio, human cyborg relations. my facilities are at your...}
+<A>__{before threepio can finish his self introduction, lando has turned to follow han and leia, who are walking toward the city.}
+<C>__{threepio}
+<D>__{well, really!}
+<A>__{lando, his aide, lobot, and han lead the way across the bridge, followed by threepio, chewie and leia.}
+<C>__{lando}
+<D>__{what's wrong with the falcon?}
+<C>__{han}
+<D>__{hyperdrive.}
+<C>__{lando}
+<D>__{i will get my people to work on it.}
+<C>__{han}
+<D>__{good.}
+<A>__{lando turns to leia.}
+<C>__{lando}
+<D>__{you know, that ship saved my life quite a few times. she's the fastest hunk of junk in the galaxy.}

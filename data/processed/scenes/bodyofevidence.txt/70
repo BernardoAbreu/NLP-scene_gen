@@ -1,0 +1,124 @@
+<L>__{interior courtroom morning}
+<A>__{dulaney looks worn, tired the tension between him and rebecca shows.}
+<C>__{judge burnham}
+<D>__{mr. dulaney, are you ready to call your next witness?}
+<A>__{dulaney doesn't seem to hear him.}
+<C>__{judge burnham}
+<D>__{mr. dulaney, are you with us?}
+<A>__{dulaney snaps out of it.}
+<C>__{dulaney}
+<D>__{yes, your honor. the defense recalls joanne braslow.}
+<A>__{as joanne walks towards the stand dulaney looks over at rebecca. it's as if he is trying to make up his mind about her. joanne takes her seat.}
+<C>__{judge burnham}
+<D>__{miss braslow, i'd like to remind you that you are still under oath.}
+<C>__{dulaney}
+<D>__{how often do you use cocaine?}
+<A>__{cardenas shoots out of his seat.}
+<C>__{cardenas}
+<D>__{objection, your honor.}
+<C>__{judge burnham}
+<P>__{(impatiently)}
+<D>__{counsel approach the bench.}
+<A>__{dulaney and cardenas walk over to the bench.}
+<C>__{judge burnham}
+<D>__{mr. dulaney, i'm getting tired of seeing you this close to me.}
+<A>__{judge burnham looks at cardenas indicating he will hear his argument now.}
+<C>__{cardenas}
+<D>__{whether or not miss braslow uses drugs is not an issue here.}
+<C>__{dulaney}
+<D>__{your honor the prosecution has introduced cocaine as one of the contributing reasons mr. marsh died. how it may have been introduced into the household is of vital importance.}
+<C>__{judge burnham}
+<D>__{are you able to back up this allegation or are you fishing?}
+<C>__{dulaney}
+<D>__{i can back it up.}
+<C>__{judge burnham}
+<D>__{you better.}
+<P>__{(to joanne)}
+<D>__{please answer the question.}
+<C>__{joanne}
+<D>__{i've tried it.}
+<C>__{dulaney}
+<D>__{you've tried it? isn't it true that you've been in and out of rehab centers for the last four years?}
+<A>__{this is clearly embarrassing for her.}
+<C>__{joanne}
+<D>__{i've been to a few yes.}
+<C>__{dulaney}
+<D>__{you don't like miss lawson much do you?}
+<C>__{joanne}
+<P>__{(hesitantly)}
+<D>__{no.}
+<C>__{dulaney}
+<D>__{you don't like her because you were involved with mr. marsh before she came along. isn't that true?}
+<C>__{joanne}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{you resented the fact that she told you what to do in mr. marsh's house?}
+<C>__{joanne}
+<D>__{yes.}
+<A>__{dulaney moves the questions along, quickening their pace, building a rhythm.}
+<C>__{dulaney}
+<D>__{and you resented that he cared for her in a way he once cared for you?}
+<C>__{joanne}
+<P>__{(breaking down)}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{ and that mr. marsh paid less attention to you?}
+<C>__{joanne}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{ and that he changed his will?}
+<C>__{joanne}
+<D>__{yes.}
+<A>__{she has blurted out the answer before the full implications of the question has dawned on her. her face reveals her mistake. cardenas can only watch uncomfortably from his seat.}
+<C>__{dulaney}
+<D>__{in his previous will mr. marsh left you two hundred and fifty thousand dollars then he cut you out. why do you think he did that?}
+<C>__{joanne}
+<D>__{she talked him into it. she wanted everything.}
+<C>__{dulaney}
+<D>__{two hundred and fifty thousand dollars is a lot of money. that must have made you pretty angry?}
+<C>__{joanne}
+<D>__{yes.}
+<A>__{dulaney picks up a small piece of paper and walks towards joanne.}
+<C>__{dulaney}
+<D>__{you testified that you returned to mr. marsh's house at eleven o'clock the night of his murder. is that correct?}
+<C>__{joanne}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{well i'm a little confused.}
+<P>__{(holds up the paper)}
+<D>__{this is a charge receipt from rosen's drug store where mr. marsh had an account. it's dated the day of the murder.}
+<P>__{(hands it to her)}
+<D>__{is this your signature?}
+<C>__{joanne}
+<P>__{(nervously studies it)}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{there's an item you picked up that's marked. will you read it?}
+<C>__{joanne}
+<D>__{dristan nasal spray.}
+<C>__{dulaney}
+<D>__{would you read for us the time of the purchase?}
+<C>__{joanne}
+<D>__{three fifteen.}
+<C>__{dulaney}
+<D>__{a.m or p.m.?}
+<C>__{joanne}
+<D>__{p.m.}
+<C>__{dulaney}
+<D>__{you see that's what bothers me. no other bottle of nasal spray was found in the house. the police looked. there was only the one bottle. but you say you didn't arrive until after mr. marsh was dead yet we know he was using the nasal spray prior to his death. how do you think it got there?}
+<C>__{joanne}
+<D>__{i don't know.}
+<C>__{dulaney}
+<D>__{isn't it true that you stopped by the house after you left the drug store and dropped off the items you bought?}
+<C>__{joanne}
+<P>__{(nervously)}
+<D>__{no.}
+<C>__{dulaney}
+<D>__{isn't it true that you put the cocaine in the bottle?}
+<C>__{joanne}
+<D>__{no! why would i want to kill him?}
+<C>__{dulaney}
+<D>__{because you were jealous. because he cut you out of the will. because you have a cocaine habit to feed because you know that if rebecca lawson is found guilty the new will is void and there's a very good chance the old one would be honored.}
+<A>__{silence fills the room. members of the jury look at rebecca, they are confused doubt fills their minds.}
+<C>__{dulaney}
+<D>__{the defense rests.}

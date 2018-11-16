@@ -1,0 +1,27 @@
+<L>__{interior tunnel}
+<A>__{childs, huffing and puffing, lugs the huge industrial torch toward the crowded kennel doorway.}
+<C>__{childs}
+<D>__{what's happening?}
+<C>__{macready }
+<D>__{childs, you got the torch? you get your ass in here!!}
+<L>__{interior kennel}
+<A>__{childs scrunches in, disoriented by the blackness, and bumps into garry, knocking him off balance.}
+<C>__{childs}
+<D>__{where are you?}
+<A>__{macready signals with his flashlight and then points it at the gathering of snarling dogs.}
+<C>__{macready}
+<D>__{torch it over there!}
+<C>__{childs}
+<D>__{the dogs?}
+<C>__{macready}
+<D>__{screw the dogs!! torch it!!}
+<A>__{childs lets loose with a burst of blue flame. a mewing, a screeching. part of the kennel starts to burn.}
+<C>__{garry}
+<P>__{(panic)}
+<D>__{we're on fire!}
+<C>__{macready}
+<D>__{don't let up, childs!}
+<C>__{garry}
+<P>__{(to outside)}
+<D>__{extinguishers.}
+<A>__{childs moves closer, continuing his assault on the hissing, gurgling presence. men charge into the room and begin spraying dogs and burning walls. dogs and men choke and cough amidst the smoke and co2. the screeching lessens. the hissing and gurgling fade. childs turns off his torch.}

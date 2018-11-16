@@ -1,0 +1,33 @@
+<L>__{exterior arizona state prison day}
+<A>__{gin slagel walks through the main gate of the heavily fortified penitentiary, leaving a huge trail of cigarette smoke.}
+<L>__{interior prison waiting room day}
+<A>__{gin slagel sits, smoking and waiting with family members and lawyers. a guard enters and motions.}
+<C>__{guard}
+<D>__{alright gin, come on.}
+<L>__{interior prison visitors' room day}
+<A>__{gin sits down in one of the booths across from a middle aged prisoner.}
+<C>__{prisoner}
+<D>__{who are you?}
+<C>__{gin}
+<D>__{your name roger merman?}
+<C>__{prisoner}
+<D>__{yes, but }
+<C>__{gin}
+<D>__{doing three to six for embezzlement?}
+<C>__{prisoner}
+<D>__{...many accounting questions are not cut and dried }
+<C>__{gin}
+<D>__{you live at 41 sage terrace?}
+<C>__{prisoner}
+<P>__{(suddenly tense)}
+<D>__{is it granma? is my son alright?}
+<C>__{gin}
+<D>__{they're fine. do you have any house guests?}
+<A>__{the man is bewildered:}
+<C>__{prisoner}
+<D>__{...house guests?}
+<C>__{gin}
+<D>__{thanks much for your time. god bless.}
+<A>__{he gets up and walks away.}
+<C>__{prisoner}
+<D>__{...who are you? who are you?}

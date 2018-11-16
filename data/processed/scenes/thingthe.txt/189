@@ -1,0 +1,51 @@
+<L>__{interior supply room}
+<C>__{macready}
+<D>__{what are you doing?}
+<C>__{childs }
+<D>__{you're a dead man, macready or a dead whatever the hell you are!}
+<A>__{macready begins to rummage through the supplies in the darkness.}
+<C>__{childs }
+<D>__{we found your clothes the ones you tried to burn.}
+<C>__{macready}
+<D>__{what clothes?}
+<C>__{childs }
+<D>__{you been made, macready.}
+<A>__{childs chops away. macready desperately continues rummaging through the supplies.}
+<C>__{macready}
+<D>__{someone's trying to mark me, you bastard... trying to frame me.}
+<B>__{hallway}
+<A>__{childs cautions to palmer as he prepares for one last blow.}
+<C>__{childs}
+<D>__{move in slow now.}
+<A>__{crunch. the door gives. the men move in. their blow torches ready. they freeze. macready stands before them holding a lighted flare. his hair and clothing are covered with snow; his cheeks and nose blackened by frostbite. tucked under his arm is an entire box of dynamite. he holds the flare dangerously close to the open box.}
+<C>__{macready}
+<D>__{anyone messes with me the whole camp goes.}
+<A>__{he appears to mean it. they don't seem anxious to test him.}
+<C>__{macready}
+<D>__{put those torches on the floor and back off.}
+<A>__{they do. he follows them out into the hall.}
+<B>__{hallway}
+<A>__{the men step backwards carefully.}
+<C>__{macready}
+<D>__{...back way off.}
+<A>__{they heed, retreating further down the hall. macready glances behind him.}
+<C>__{macready}
+<D>__{...where's the rest...}
+<A>__{nauls and norris, who have silently crept in through the supply window, come flying through the hacked up door and barrel into macready. both going straight for the flare. macready spins nauls off and rips into norris, sending him crashing violently into the wall. nauls tackles macready's legs, pulling him to the floor. the others rush him. macready, still in control of the dynamite and flare, bellow:}
+<C>__{macready}
+<D>__{so help me i mean it!!}
+<A>__{they skid to a halt. nauls crawls away, quickly.}
+<C>__{nauls}
+<D>__{it's cool, man. we ain't near you, man... stay cool...}
+<C>__{palmer}
+<D>__{yeah, man, really. just relax.}
+<C>__{macready}
+<D>__{anybody touches me... we go.}
+<A>__{norris, lying on the floor, coughs as if gasping for breath. he quivers for a moment and then is still. nauls crawls over to him and shakes him. a beat.}
+<C>__{nauls}
+<D>__{i don't think he's breathing.}
+<A>__{nauls listens to norris' chest. macready stands.}
+<C>__{macready}
+<D>__{go untie the doc. get him in here. bring the others, too...}
+<P>__{(grins menacingly)}
+<D>__{from now on no one gets out of my sight.}

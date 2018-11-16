@@ -1,0 +1,54 @@
+<L>__{exterior jail day}
+<A>__{ronnie walks up the steps that lead to the local jail.}
+<L>__{interior jail day}
+<A>__{ronnie walks into one of those booths where you can talk to a prisoner on the opposite side of a plexiglas divider. ronnie sits down in wait. then, two guards appear escorting a handcuffed dennis. dennis takes a seat and picks up the phone.}
+<C>__{dennis}
+<D>__{what's up, ronnie? how you doing?}
+<C>__{ronnie}
+<D>__{i've been better. you?}
+<C>__{dennis}
+<D>__{i'm holding it down in here.}
+<C>__{ronnie}
+<D>__{yeah, i heard they finally caught up with you.}
+<C>__{dennis}
+<D>__{i know. i should have hit mexico, but, you know, i got stoned and just kind of kicked with this girl in kannapolis for a while.}
+<C>__{ronnie}
+<D>__{you know they fired me when they found out you were the one who robbed the mall.}
+<C>__{dennis}
+<D>__{shit, dog. sorry about that.}
+<C>__{ronnie}
+<D>__{it's cool, but i need to know why you did it.}
+<C>__{dennis}
+<D>__{i told you. i'm an outlaw.}
+<C>__{ronnie}
+<D>__{come on, dennis.}
+<C>__{dennis}
+<D>__{man, you want to know the real reason?}
+<C>__{ronnie}
+<D>__{yeah.}
+<C>__{dennis}
+<D>__{alright, i will tell you. man, that gig was one of the best jobs i ever had. i got to wear a uniform, i could smoke weed whenever i wanted. for once in my life, i felt like i was actually somebody. i know most people don't think it's shit, but i really loved it. then, all of a sudden, i find out that your ass got promoted over me.}
+<C>__{dennis }
+<D>__{after all i put into it, you're the one that makes it to head of mall security. you know what it's like to get passed over, ronnie? so i got pissed off. i started robbing the joint as a way to get at them for what they did to me. but you know what, ronnie?}
+<C>__{ronnie}
+<D>__{what's that?}
+<C>__{dennis}
+<D>__{you ever love a girl so much that you can't break up with her, so the only thing you can do when she pisses you off is smack her in the goddamn face?}
+<C>__{ronnie}
+<D>__{no, dennis, i haven't.}
+<C>__{dennis}
+<D>__{well, i have. and that's pretty much how i felt about the job.}
+<C>__{ronnie}
+<D>__{thanks for talking to me, dennis.}
+<C>__{dennis}
+<D>__{well, it's the least i could do after knocking you out and all.}
+<A>__{ronnie starts to hang up the phone.}
+<C>__{dennis}
+<D>__{hey, ronnie.}
+<C>__{ronnie}
+<D>__{yeah, dennis.}
+<C>__{dennis}
+<D>__{bail me out of here, old friend.}
+<C>__{ronnie}
+<D>__{i can't do it, dennis. you're now a criminal who stopped caring, but my crime is that i care too much.}
+<A>__{ronnie hangs up the phone and walks out.}

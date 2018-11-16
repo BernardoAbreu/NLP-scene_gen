@@ -1,0 +1,40 @@
+<L>__{exterior balcony day}
+<A>__{holmes lowers the telescope.}
+<C>__{holmes}
+<D>__{i see nothing.}
+<C>__{watson}
+<D>__{nothing?}
+<A>__{he grabs the telescope from holmes, looks toward the lake.}
+<C>__{watson}
+<D>__{it's gone.}
+<C>__{holmes}
+<D>__{gone? maybe it was never there.}
+<C>__{watson}
+<D>__{i swear to you i saw it clear as anything }
+<C>__{holmes}
+<D>__{watson, as you so succinctly put it, we are living in the nineteenth century }
+<A>__{he steps back into the room.}
+<L>__{interior hotel room day}
+<A>__{watson comes halfway through the french window.}
+<C>__{watson}
+<D>__{maybe that grave digger was right the swell, and the boat overturning }
+<C>__{holmes}
+<D>__{monsieur valladon may have been found in the lake but he did not drown. he died of asphyxiation.}
+<C>__{gabrielle}
+<D>__{asphyxiation.}
+<C>__{holmes}
+<P>__{(holding up wedding rings)}
+<D>__{there is only one substance that can turn a copper ring green and bleach the color out of canaries chlorine gas.}
+<C>__{watson}
+<D>__{that may be. but the fact remains that i saw something out there.}
+<C>__{holmes}
+<D>__{a figment of your imagination. now let us be logical. the only concrete lead we have is the reference to the castle }
+<P>__{(picks up guide book from desk, opens it to map)}
+<D>__{the question is, which castle?}
+<C>__{watson}
+<D>__{you call yourself logical? you're the least logical man i know.}
+<C>__{holmes}
+<D>__{am i?}
+<C>__{watson}
+<D>__{how can you say it's a figment of my imagination, when for years you've been saying i have no imagination whatsoever!}
+<A>__{he looks at holmes almost triumphantly.}

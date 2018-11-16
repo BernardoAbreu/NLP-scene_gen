@@ -1,0 +1,65 @@
+<L>__{interior courtroom later day}
+<A>__{mccurdy is on the witness stand. cardenas stands before him.}
+<C>__{cardenas}
+<D>__{doctor mccurdy, what was the cause of death?}
+<C>__{mccurdy}
+<D>__{a massive cardiac arrest.}
+<C>__{cardenas}
+<D>__{what was mr. marsh's physical condition prior to his death?}
+<C>__{mccurdy}
+<D>__{very poor. he was suffering from severe arterial disease.}
+<C>__{cardenas}
+<D>__{was the heart attack the result of natural causes?}
+<C>__{mccurdy}
+<D>__{no.}
+<C>__{cardenas}
+<D>__{what induced it?}
+<C>__{mccurdy}
+<D>__{we found a high concentration of cocaine in his blood.}
+<C>__{cardenas}
+<D>__{so, mr. marsh used cocaine?}
+<C>__{mccurdy}
+<D>__{i don't think so. the membrane in his nasal passage didn't show any sign of long time usage.}
+<C>__{cardenas}
+<D>__{then how did it get into his body?}
+<C>__{mccurdy}
+<D>__{we found a bottle of dristan nasal spray on the nightstand. it was filled with water and cocaine. mr. marsh had a head cold at the time of his death. i believe he wasn't aware that he was ingesting cocaine.}
+<A>__{cardenas holds up a bottle of nasal spray in a plastic bag. he brings it over to mccurdy.}
+<C>__{cardenas}
+<D>__{is this the bottle that was found on the nightstand?}
+<C>__{mccurdy}
+<P>__{(examines it)}
+<D>__{yes.}
+<C>__{cardenas}
+<D>__{your honor, the state enters this evidence as exhibit a.}
+<P>__{(to mccurdy)}
+<D>__{were any fingerprints found on the bottle?}
+<C>__{mccurdy}
+<D>__{yes those of mr. marsh and a thumb print of miss lawson's.}
+<C>__{cardenas}
+<D>__{dr. mccurdy, what would cocaine do to someone in mr. marsh's condition?}
+<C>__{mccurdy}
+<D>__{increase his heart rate.}
+<C>__{cardenas}
+<D>__{ and if he were in the midst of making love while under the influence of cocaine?}
+<C>__{mccurdy}
+<D>__{it would be an added stress to his heart.}
+<C>__{cardenas}
+<D>__{what would be the effect if someone secretly administered cocaine to mr. marsh and then induced him to make love?}
+<C>__{mccurdy}
+<D>__{it would be the same as shooting a gun at him.}
+<C>__{cardenas}
+<D>__{thank you, doctor mccurdy.}
+<P>__{(to dulaney)}
+<D>__{your witness.}
+<A>__{rebecca looks at dulaney for his opinion of mccurdy's testimony. dulaney gives her a reassuring glance before he stands up and approaches mccurdy.}
+<C>__{dulaney}
+<D>__{can you say with any certainty that mr. marsh didn't ingest the cocaine himself?}
+<C>__{mccurdy}
+<D>__{no but it seems highly unlikely that a man in his condition would use cocaine.}
+<C>__{dulaney}
+<D>__{that's your opinion, doctor but i'm asking you if there is any scientific test that can tell who actually put the cocaine into the dristan bottle?}
+<C>__{mccurdy}
+<D>__{no.}
+<C>__{dulaney}
+<D>__{thank you.}

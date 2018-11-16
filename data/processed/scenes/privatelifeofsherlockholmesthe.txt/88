@@ -1,0 +1,79 @@
+<T>__{dissolve to:}
+<L>__{interior hotel room night}
+<A>__{holmes, in a different suit of clothes, is pacing across the room, whistling the main theme from "swan lake." he stops before the open french window, gazes out toward the lake. gabrielle is propped up in bed, a blanket drawn up to her chin, watching him. watson, who has changed into a pair of kilts, is standing in front of the fireplace, warming his backside. gabrielle glances at watson, suppresses a giggle.}
+<C>__{watson}
+<D>__{yes, i know. but would you believe that you can't borrow a decent pair of trousers in this place?}
+<A>__{holmes resumes pacing, and watson becomes aware of his whistling.}
+<C>__{watson}
+<D>__{would you like to confide in us?}
+<A>__{no answer from holmes. watson turns to gabrielle.}
+<C>__{watson}
+<D>__{whenever he starts whistling, i know he's getting close to a solution.}
+<C>__{holmes}
+<D>__{it's nothing new, actually. we've come across this situation before.}
+<C>__{watson}
+<D>__{we have? where?}
+<C>__{holmes}
+<D>__{at the ballet.}
+<C>__{watson}
+<D>__{ballet?}
+<C>__{holmes}
+<D>__{there's a lake and there's a castle and there's a swan that isn't really a swan or, in this case, a monster that isn't really a monster }
+<C>__{watson}
+<D>__{then what is it?}
+<C>__{holmes}
+<D>__{what is it indeed that feeds on canary birds and sulphuric acid, and has an engine for a heart?}
+<C>__{gabrielle}
+<D>__{an engine?}
+<C>__{holmes}
+<D>__{the stethoscope is a very sensitive instrument, and water is an excellent conductor of sound. there is no doubt that what we are dealing with is a mechanical monster.}
+<C>__{watson}
+<D>__{oh?}
+<C>__{holmes}
+<D>__{not only is it equipped with an artificial heart, it also has artificial lungs. judging from the bubbles on the surface of the lake, it uses some form of air pump.}
+<C>__{gabrielle}
+<D>__{you think my husband was involved in all this?}
+<C>__{holmes}
+<D>__{yes, madame valladon. i'm sure of it.}
+<C>__{watson}
+<D>__{but why would anybody build a mechanical monster? just to scare people?}
+<C>__{holmes}
+<D>__{not very likely.}
+<C>__{gabrielle}
+<D>__{why did they try to keep me from finding my husband? and why was he buried anonymously?}
+<C>__{holmes}
+<D>__{i think i have a pretty good notion of what they're up to the society for the preservation of scottish monuments better known as the diogenes club.}
+<C>__{watson}
+<D>__{the diogenes club?}
+<A>__{there is a knock on the door.}
+<C>__{holmes}
+<D>__{come in.}
+<A>__{the door opens and the hotel manager enters, holding a magnum of champagne.}
+<C>__{manager}
+<D>__{mr. ashdown, i have a bottle of champagne for you.}
+<C>__{holmes}
+<P>__{(crossing to him)}
+<D>__{a bottle of champagne? i didn't order it.}
+<C>__{manager}
+<D>__{no, indeed. you are to deliver it. these are my instructions.}
+<A>__{he hands the magnum to holmes.}
+<C>__{holmes}
+<D>__{instructions from whom? deliver it where?}
+<C>__{manager}
+<D>__{i wouldn't know, sir. but there's a carriage waiting for you downstairs.}
+<C>__{holmes}
+<D>__{are you sure you have the right mr. ashdown?}
+<C>__{manager}
+<P>__{(flatly)}
+<D>__{quite sure, mr. holmes.}
+<A>__{he turns and exits. holmes taps the bottle of champagne thoughtfully.}
+<C>__{holmes}
+<D>__{well, watson, i would say the curtain is going up on the last act.}
+<C>__{watson}
+<D>__{i don't like the sound of it.}
+<C>__{gabrielle}
+<D>__{please be careful.}
+<A>__{as holmes starts toward the door, watson reaches into his sporran.}
+<C>__{watson}
+<D>__{you'd better take this with you.}
+<A>__{he produces a revolver, holds it out to holmes. holmes ignores it, exits.}

@@ -1,0 +1,74 @@
+<L>__{interior inner office area continuous}
+<A>__{mary pads down the hallway. she knocks on a closed door.}
+<C>__{mierzwiak }
+<D>__{yes?}
+<A>__{mary opens the door, peeks in. howard mierzwiak, 40's, professional, dry, sits behind his desk studying some papers.}
+<C>__{mary}
+<D>__{howard, your one o'clock.}
+<C>__{mierzwiak}
+<P>__{(not looking up)}
+<D>__{thanks, mary. you can bring her in.}
+<A>__{she smiles and nods. it's clear she's in love. it's equally clear that mierzwiak doesn't have a clue. mary turns to leave.}
+<C>__{mierzwiak }
+<P>__{(looking up)}
+<D>__{mary...}
+<C>__{mary}
+<P>__{(turning back)}
+<D>__{yes?}
+<C>__{mierzwiak}
+<D>__{order me a pastrami for after?}
+<C>__{mary}
+<D>__{cole slaw, ice tea?}
+<C>__{mierzwiak}
+<P>__{(nodding)}
+<D>__{thanks.}
+<C>__{mary}
+<D>__{welcome, howard.}
+<A>__{she smiles and heads down the hall. stan, 30's, tall, spindly, and earnest in a lab coat pops out of a doorway.}
+<C>__{stan}
+<D>__{boo.}
+<C>__{mary}
+<D>__{hi.}
+<A>__{she glances back nervously at mierzwiak's open door.}
+<C>__{stan}
+<D>__{barely seen you all morning, kiddo.}
+<A>__{he leans in to kiss her. she cranes her neck to keep him off.}
+<C>__{mary}
+<P>__{(reprimanding whisper)}
+<D>__{stan... c'mon...}
+<C>__{stan}
+<D>__{sorry. i just }
+<C>__{mary}
+<P>__{(somewhat guiltilly)}
+<D>__{it's just...y'know... i mean...}
+<C>__{stan}
+<D>__{i know. anyway }
+<C>__{mary}
+<D>__{anyway, i've got to do my tap dance here.}
+<A>__{she indicates the door to the reception area. stan nods.}
+<C>__{stan}
+<D>__{see you later, alligator.}
+<C>__{mary}
+<D>__{'kay.}
+<C>__{stan}
+<D>__{hey, if you're ordering lunch for mierzwiak, would you }
+<C>__{mary}
+<D>__{i better do this, stan.}
+<A>__{stan nods again and mary opens the door to the waiting room.}
+<C>__{mary }
+<D>__{ms. kruczynski?}
+<C>__{clementine }
+<D>__{hi.}
+<A>__{after a moment, clementine appears in the doorway. mary leads her down the hall, not looking back.}
+<C>__{mary}
+<P>__{(professionally courteous)}
+<D>__{how are you today?}
+<C>__{clementine}
+<D>__{okay, i guess.}
+<C>__{mary}
+<P>__{(at mierzwiak's office)}
+<D>__{here we are.}
+<A>__{mierzwiak steps out from behind his desk.}
+<C>__{mierzwiak}
+<D>__{ms. kruczynski, please come in.}
+<A>__{clementine enters the office. mary smiles at mierzwiak and closes the door, leaving them alone.}

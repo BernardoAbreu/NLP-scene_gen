@@ -1,0 +1,37 @@
+<L>__{interior kitchen dawn}
+<A>__{where eli is getting into a heavy coat, preparing to go out... the remains of the hearty morning breakfast are on the table. rachel is beginning the dishes.}
+<L>__{interior barn dawn}
+<A>__{book and samuel are starting the morning milking...}
+<L>__{interior kitchen dawn}
+<A>__{eli is preparing to extinguish the lamp when suddenly the kitchen door is kicked open and mcelroy and fergie weapons leveled, burst in. eli reacts with angry shock as schaeffer enters: rachel is, for a moment, terrified.}
+<C>__{schaeffer}
+<P>__{(to fergie)}
+<D>__{outside}
+<P>__{(to mac)}
+<D>__{check out the rest of the house.}
+<A>__{he turns to eli, who is standing in the middle of the room. schaeffer flashes his badge:}
+<C>__{schaeffer}
+<D>__{we're police officers. we're looking for a fugitive, john book. he's living here?}
+<C>__{eli}
+<D>__{i have nothing to say to you. get out of my house!}
+<C>__{schaeffer}
+<D>__{you speak english. good. now listen}
+<C>__{rachel}
+<P>__{(recovering)}
+<D>__{no, you listen. get out!}
+<C>__{schaeffer}
+<D>__{lady, i'm here to help you. this man is very dangerous. an armed criminal.}
+<P>__{(ingratiating)}
+<D>__{he's got a gun, hasn't he?}
+<C>__{rachel}
+<D>__{you have no right here!}
+<A>__{mcelroy re enters.}
+<C>__{mcelroy}
+<D>__{he's not in this building.}
+<C>__{schaeffer}
+<P>__{(to eli)}
+<D>__{all right, where is he?}
+<A>__{suddenly eli shouts: it's deafening. probably the loudest noise eli has ever made:}
+<C>__{eli}
+<D>__{john book!}
+<A>__{mcelroy whips around, smashes eli on the temple with the butt of his shotgun. eli crumples to the floor. rachel screams, runs to eli.}

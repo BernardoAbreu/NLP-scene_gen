@@ -1,0 +1,46 @@
+<L>__{interior storage room night}
+<A>__{they all enter. nothing has been disturbed. the crates sit in the middle of the small room, untouched. pendergast kneels by the only one that's been opened.}
+<C>__{pendergast}
+<D>__{this must be the one that held the statue. let's see what else is inside.}
+<A>__{pendergast removes the lid and hands it to d'agosta, pulls out a blow dart gun, seed pods, a carved stone. d'agosta takes the lid and turns it.}
+<C>__{d'agosta}
+<D>__{the lid of this crate is scratched with claw marks, just like the door.}
+<A>__{as d'agosta studies the lid, a brittle, water damaged envelope slips out. d'agosta picks it up. the envelope bears an imprint of two arrows, one silver overlaid with another of gold.}
+<C>__{d'agosta}
+<D>__{look. it's some kind of letter.}
+<C>__{frock}
+<P>__{(excited)}
+<D>__{may i see that?}
+<A>__{d'agosta hands the letter to frock.}
+<C>__{frock}
+<D>__{it's from john. those two arrows were his insignia. it's addressed to louis moriarty, a patron who financed his expeditions.}
+<C>__{pendergast}
+<D>__{read it out loud.}
+<C>__{frock}
+<D>__{"dear louis, tomorrow we go to the south end of the tepui where we'll be in the greatest danger, so i'm sending carlos back with the crates. you always believed in me, louis, even in the darkest days. so it gives me great pleasure to tell you your faith has been rewarded. we've made an incredible find. i enclose a representation of mbwun. note the exaggerated claws, the reptilian attributes, the hints of bipedalia. it's beyond belief, but this statue is accurate. i know because i've seen the beast."}
+<A>__{frock stops, looks up at d'agosta and pendergast. his face flushes with the thrill.}
+<C>__{frock}
+<D>__{did you hear that? my god. he says that mbwun is real!}
+<C>__{d'agosta}
+<P>__{(snorts)}
+<D>__{pardon my french, but bull shit.}
+<C>__{frock}
+<D>__{this on top of the scratches... isn't it proof!}
+<C>__{pendergast}
+<D>__{i think the scratches were put there to scare us. perhaps even lead us to this note.}
+<A>__{pendergast looks out to the dark corridors.}
+<C>__{pendergast}
+<D>__{you said john whittlesley made a study of your blueprints of the museum.}
+<C>__{frock}
+<D>__{yes.}
+<C>__{pendergast}
+<D>__{are there any hidden rooms or staircases? places where someone could hide?}
+<C>__{frock}
+<D>__{not really. just the sub basement.}
+<A>__{d'agosta and pendergast exchange a look.}
+<C>__{pendergast}
+<D>__{where is that?}
+<C>__{frock}
+<D>__{i don't know. it was walled over. no one's been down there in years.}
+<C>__{pendergast}
+<D>__{you said you had plans of the museum. could we see them, please?}

@@ -1,0 +1,40 @@
+<L>__{interior ripley house, living room. night.}
+<A>__{peter has just put a band aid over ripley's cut hand.}
+<C>__{peter}
+<D>__{you can't be angry with her. she's upset and needs someone to blame. so she blames you. i will go home and talk to her. as for you either get a safety razor or grow a beard.}
+<L>__{interior lobby, europa regina hotel, venice. morning.}
+<A>__{ripley hurries through the gleaming marble entrance.}
+<L>__{interior herbert greenleaf's suite, europa regina. day.}
+<A>__{ripley knocks on the door. it's opened by a face he doesn't recognize. a middle aged heavy set man. it's maccarron, the private investigator.}
+<C>__{ripley}
+<D>__{is mr greenleaf here?}
+<C>__{maccarron}
+<D>__{mr ripley? i'm alvin maccarron.}
+<P>__{marge (o s)}
+<D>__{i don't know, i don't know, i just know it.}
+<P>__{herbert greenleaf (o s)}
+<D>__{marge, there's female intuition, and then there are facts }
+<A>__{greenleaf sits with a scrubbed marge, her hair pulled back, as if newly widowed. the rings sit glinting on the coffee}
+<B>__{table.}
+<C>__{herbert greenleaf}
+<D>__{tom.}
+<C>__{ripley}
+<D>__{hello, sir.}
+<P>__{(smiles thinly at marge)}
+<D>__{marge, you should have waited, didn't peter tell you i'd come by and pick you up?}
+<C>__{herbert greenleaf}
+<D>__{marge has been telling us about the rings.}
+<C>__{ripley}
+<D>__{you know i feel ridiculous i didn't mention them yesterday i clean forgot ridiculous.}
+<C>__{herbert greenleaf}
+<D>__{perhaps you didn't mention them because there's only one conclusion to be drawn.}
+<A>__{ripley worries about what that conclusion is as mr greenleaf heads into his bedroom.}
+<C>__{herbert greenleaf}
+<P>__{(cont'd)}
+<D>__{i'm going to take marge for a little walk, tom. mr maccarron wants to talk with you.}
+<C>__{ripley}
+<P>__{(feeling caged in)}
+<D>__{we could go down to the bar no need for you to }
+<C>__{herbert greenleaf}
+<D>__{no, he should talk to you alone.}
+<A>__{he helps marge to her feet and leads her out. ripley is paralysed. he waits for the door to shut. aimlessly he walks out onto the terrace, with its staggering, beautiful and indifferent view.}

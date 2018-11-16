@@ -1,0 +1,121 @@
+<L>__{interior living room 221b baker street day}
+<A>__{it's all there the fireplace, the coal scuttle, the persian slipper with the tobacco; the velvet wing chair, the basket chair with the writing arm, the couch with the cushions; the sideboard with the tantalus and the gasogene; the acid stained deal topped table with holmes' chemical equipment on it, the dining table, the small moorish table; the bookshelves and the violin case; the gas fixtures and the oil lamps; the dumbwaiter connecting with the kitchen in the basement; and holmes' desk, piled high with papers, clippings, research material, etc. holmes is pulling up the window shades. watson has removed his hat and coat, and is putting his medical bag down on the sideboard; the cabbie, having deposited their luggage, is just leaving.}
+<C>__{mrs. hudson}
+<D>__{i do wish you'd give me a little more warning when you come home unexpected. i would have roasted a goose and had some flowers for you.}
+<C>__{holmes}
+<D>__{my dear mrs. hudson criminals are as unpredictable as head colds. you never quite know when you're going to catch one.}
+<A>__{he has picked up a dagger, starts opening his mail, which is on the dining table.}
+<C>__{mrs. hudson}
+<D>__{i will unpack your bags.}
+<A>__{she exits into one of the bedrooms. watson has now taken a magazine out of an envelope.}
+<C>__{watson}
+<D>__{here's an advance copy of strand magazine.}
+<P>__{(shows it to holmes)}
+<D>__{they've printed 'the red headed league!'}
+<A>__{on the cover is a colored illustration from the story, featuring in obligatory inverness and deerstalker.}
+<C>__{holmes}
+<P>__{(offhand)}
+<D>__{very impressive.}
+<C>__{watson}
+<P>__{(leafing through the magazine)}
+<D>__{would you like to see how i treated it?}
+<C>__{holmes}
+<D>__{i can hardly wait. i'm sure i will find out all sorts of fascinating things about the case that i never knew before.}
+<C>__{watson}
+<D>__{just what do you mean by that?}
+<C>__{holmes}
+<D>__{oh, come now, watson, you must admit that you have a tendency to over romanticize. you have taken my simple exercises in logic and embellished them, exaggerated them...}
+<C>__{watson}
+<D>__{i deny the accusation.}
+<C>__{holmes}
+<D>__{you have described me as six foot four, whereas i am barely six foot one.}
+<C>__{watson}
+<D>__{a bit of poetic license.}
+<C>__{holmes}
+<P>__{(removing inverness and deerstalker)}
+<D>__{you have saddled me with this improbable costume, which the public now expects me to wear.}
+<C>__{watson}
+<D>__{that's not my doing.}
+<P>__{(indicating cover of strand)}
+<D>__{blame it on the illustrator.}
+<C>__{holmes}
+<D>__{you've made me out to be a violin virtuoso. here }
+<P>__{(holds out a letter he's been reading)}
+<D>__{ a request from the liverpool symphony to appear as soloist in the mendelssohn concerto.}
+<C>__{watson}
+<P>__{(excited)}
+<D>__{oh, really?}
+<C>__{holmes}
+<D>__{the fact is that i could barely hold my own in the pit orchestra of a second rate music hall.}
+<C>__{watson}
+<D>__{you're much too modest.}
+<C>__{holmes}
+<P>__{(busy with the mail)}
+<D>__{you have given the reader the distinct impression that i am a misogynist. actually, i don't dislike women i merely distrust them. the twinkle in the eye and the arsenic in the soup.}
+<C>__{watson}
+<D>__{it's those little touches that make you colorful }
+<C>__{holmes}
+<D>__{lurid is more like it. you have painted me as a hopeless dope addict just because i occasionally take a five per cent solution of cocaine.}
+<C>__{watson}
+<D>__{a seven per cent solution.}
+<C>__{holmes}
+<D>__{five per cent. don't you think i'm aware you've been diluting it behind my back?}
+<C>__{watson}
+<D>__{as a doctor and as your friend i strongly disapprove of this insidious habit of yours.}
+<C>__{holmes}
+<D>__{my dear friend as well as my dear doctor i only resort to narcotics when i am suffering from acute boredom when there are no interesting cases to engage my mind.}
+<P>__{(holding out one of the open letters)}
+<D>__{look at this an urgent appeal to find six missing midgets.}
+<A>__{he tosses the letter down is disgust.}
+<C>__{watson}
+<D>__{did you say midgets?}
+<A>__{he picks up the letter.}
+<C>__{holmes}
+<D>__{six of them the tumbling piccolos an acrobatic act with some circus.}
+<C>__{watson}
+<D>__{disappeared between london and bristol ... don't you find that intriguing?}
+<C>__{holmes}
+<D>__{extremely so. you see, they are not only midgets but also anarchists.}
+<C>__{watson}
+<D>__{anarchists?}
+<C>__{holmes}
+<P>__{(nodding)}
+<D>__{by now they have been smuggled to vienna, dressed as little girls in burgundy pinafores. they are to greet the czar of all the russias when he arrives at the railway station. they will be carrying bouquets of flowers, concealed in each bouquet will be a bomb with a lit fuse.}
+<C>__{watson}
+<D>__{you really think so?}
+<C>__{holmes}
+<D>__{not at all. the circus owner offers me five pounds for my services that's not even a pound a midget. so obviously he is a stingy blighter, and the little chaps simply ran off to join another circus.}
+<C>__{watson}
+<P>__{(crestfallen)}
+<D>__{oh. and it sounded so promising }
+<C>__{holmes}
+<D>__{there are no great crimes anymore, watson. the criminal class has lost all enterprise and originality. at best they commit some bungling villainy, with a motive so transparent that even a scotland yard official can see through it.}
+<A>__{he has crossed to the desk, suddenly notices something.}
+<C>__{holmes}
+<P>__{(angrily)}
+<D>__{mrs. hudson!}
+<P>__{(even angrier)}
+<D>__{mrs. hudson!}
+<A>__{mrs. hudson comes hurrying out of the bedroom.}
+<C>__{mrs. hudson}
+<D>__{yes? what is it? what have i done now?}
+<C>__{holmes}
+<P>__{(sternly)}
+<D>__{there is something missing from my desk.}
+<C>__{mrs. hudson}
+<D>__{missing?}
+<C>__{holmes}
+<D>__{something very crucial.}
+<P>__{(picks up a small feather)}
+<D>__{you have been tidying up against my explicit orders.}
+<C>__{mrs. hudson}
+<D>__{oh, i made sure not to disturb anything.}
+<C>__{holmes}
+<D>__{dust, mrs. hudson, is an essential part of my filing system. by the thickness of it, i can date any document immediately.}
+<C>__{mrs. hudson}
+<D>__{some of the dust was this thick.}
+<A>__{she demonstrates with her thumb and forefinger.}
+<C>__{holmes}
+<P>__{(promptly)}
+<D>__{that would be march, 1883.}
+<A>__{he blows the feather away.}

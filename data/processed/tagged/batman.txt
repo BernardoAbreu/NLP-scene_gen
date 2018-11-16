@@ -1,0 +1,2552 @@
+<T>__{fade in:}
+<L>__{exterior cityscape night}
+<A>__{the place is gotham city. the time, 1987 once removed. the city of tomorrow: stark angles, creeping shadows, dense, crowded, airless, a random tangle of steel and concrete, self generating, almost subterranean in its aspect... as if hell had erupted through the sidewalks and kept on growing. a dangling fat moon shines overhead, ready to burst.}
+<L>__{exterior cathedral night}
+<A>__{amid the chrome and glass sits a dark and ornate gothic anomaly: old city cathedral, once grand, now abandoned long since boarded up and scheduled for demolition. on the rooftop far above us, stone gargoyles gaze down from their shadowy, windswept perches, keeping monstrous watch over the distant streets below, sightless guardians of the gotham night. one of them is moving.}
+<L>__{exterior gotham square night}
+<A>__{the pulsing heart of downtown gotham, a neon nightmare of big city corruption, almost surreal in its oppressiveness. hookers wave to drug dealers. street hustlers slap high fives with three card monte dealers. they all seem to know each other... with one conspicuous exception: a tourist family, mom, dad, and little jimmy, staring straight ahead as they march in perfect lockstep down the main drag. they've just come out of a bit show two blocks over; the respectable theatre crowd has thinned out, and now playbills in hand they find themselves adrift in the predatory traffic of gotham's meanest street.}
+<C>__{mom}
+<D>__{for god's sake, harold, can we please just get a taxi??}
+<C>__{dad}
+<D>__{i'm trying to get a }
+<P>__{(shouting)}
+<D>__{taxi!!}
+<A>__{three cabs streak pass and disappear. mom grimaces in frustration as little jimmy consults a subway map.}
+<C>__{jimmy}
+<D>__{we're going the wrong way.}
+<A>__{nearby, street types are beginning to snicker. dad surveys them nervously, gestures toward the subway map.}
+<C>__{dad}
+<D>__{put that away. we'll look like tourists.}
+<A>__{two cops lean on their patrol car outside an all night souvlaki stand, sipping coffee and chatting with a hooker. the hooker smiles at jimmy. jimmy smiles back. mom yanks him off down the street and glowers at dad.}
+<C>__{dad }
+<D>__{we'll never get a cab here. let's cut over to seventh.}
+<C>__{jimmy}
+<D>__{seventh is that way.}
+<C>__{dad}
+<D>__{i know where we are!}
+<L>__{exterior side street that moment night}
+<A>__{a deserted access street, sidewalks lined with the husks of stripped down cars. mom, dad, and jimmy take a deep breath and march down the darkened street. a voice startles them.}
+<C>__{voice}
+<D>__{hey, mister. gimme a dollar?}
+<A>__{the voice belongs to a derelict nineteen or twenty, acne scarred who sits between two garbage cans, his palm uplifted. his ratty t shirt reads: 'i love gotham city.' mom, dad, and jimmy pause for the merest of seconds, then move on pretending not to hear.}
+<C>__{derelict}
+<D>__{mister. how about it. one dollar?}
+<P>__{(standing up)}
+<D>__{one dollar, man. are you deaf? are you deaf? do you speak english??}
+<A>__{by now the tourists are halfway across the street. mercifully, the derelict doesn't seem to be following. they pick up their pace. they don't see the shadowy figure in the alleyway. they don't see the gun until a gloved hand brings it down, butt first, across the back of dad's neck. dad crumples. mom grabs jimmy and backs up against a brick wall, too terrified to scream. the derelict races across the street to join his confederate, the street punk, who's already searching for dad's wallet. mom's mouth opens in panic. they can see she's about to snap so the street punk, still in a crouch, trains his gun on jimmy.}
+<C>__{street punk}
+<D>__{do the kid a favor, lady. don't scream.}
+<A>__{the poor woman is utterly horrified. tears stream down her face. but she keeps her wits about her, stifles the urge to shriek, and hustles jimmy off down the street. the two punks watch them break into a run then chuckle, slap hands, race off in the opposite direction.}
+<L>__{exterior rooftop night}
+<A>__{six stories up. the punks nick and eddie hunker down on the tar and gravel roof, sizing up their take.}
+<C>__{nick}
+<P>__{(emptying the wallet)}
+<D>__{all right. the gold card.}
+<P>__{(tossing the credit card in eddie's face)}
+<D>__{don't leave home without it.}
+<A>__{a chill wind whips across the roof as nick extracts the cash and begins to count it. there's a distant, indistinct clang: metal on metal. eddie hears it and tenses up.}
+<C>__{eddie}
+<D>__{let's beat it, man. i don't like being up here.}
+<C>__{nick}
+<D>__{what, scared of heights?}
+<C>__{eddie}
+<D>__{i dunno, man. after what happened to johnny gobs }
+<C>__{nick}
+<D>__{look, johnny gobs got ripped and walked off a roof, all right? no big loss.}
+<C>__{eddie}
+<D>__{that ain't what i heard. that ain't what i heard at all.}
+<P>__{(beat)}
+<D>__{i heard the bat got him.}
+<C>__{nick}
+<D>__{gimme a break, will you? shut up...}
+<C>__{eddie}
+<D>__{five stories, straight down. there was no blood in the body.}
+<C>__{nick}
+<D>__{no shit. it was all over the pavement.}
+<A>__{nick has no patience with campfire tales but here on the roof, in the pale moonlight, he can't ignore the slight tingle at the base of his spine...}
+<C>__{eddie}
+<D>__{there was no blood, man.}
+<P>__{(beat)}
+<D>__{my brother says... all the bad things you done... they come back and haunt you...}
+<C>__{nick}
+<D>__{listen to this. how old are you? there ain't no bat.}
+<C>__{eddie}
+<D>__{my brother's a priest, man.}
+<C>__{nick}
+<D>__{no wonder you're such a chickenshit. now shut up.}
+<P>__{(conclusively)}
+<D>__{there ain't no bat.}
+<A>__{as they speak our attention shifts to a point at the opposite corner of the roof, some fifteen yards away... where, at the end of a line, a strange black silhouette is dropping slowly, implacably, into frame...}
+<C>__{eddie}
+<D>__{you shouldn'ta turned the gun on that kid, man. you shouldn'ta }
+<C>__{nick}
+<D>__{do you want this money or don't you? now shut up! shut up }
+<A>__{both punks freeze at the sudden, inexplicable sound of boots crunching on gravel. they turn slowly. their jaws}
+<B>__{drop.}
+<A>__{standing at the edge of the roof, bathed in moonlight, is a}
+<B>__{black apparition. it does not move.}
+<A>__{eddie stands rooted to the spot, a choked gurgle in his throat, as if he's just seen his own death. the black figure advances, spreading its arms. or rather, its wings: great black batwings, flapping in the wind. nick drops to the gravel, gropes for the gun, brings it up. and still the black figure draws closer, deliberate, menacing. on its chest: the emblem of a bat, in an oval yellow field, glowing like a target in the darkness... nick fires twice. two clean hits. the strange black figure is knocked bodily to the roof. trembling, sweating buckets, nick gets to his feet. he whacks a motionless eddie on the arm }
+<C>__{nick }
+<D>__{i'm gettin' outta here.}
+<A>__{ and bends to retrieve his loot. eddie lets out a strange, pre verbal squeal... ... and nick sees the human bat, back on its feet, nightmarish, undead, moving slowly and inevitably closer. panic. sheer, raw, unrelenting panic. stolen money flutters out of nick's hands. he scuttles around the periphery of the roof, his feet skidding on the gravel as he searches for a way down. the black spectre is blocking his path to the fire escape. trapped like a rat, nick fires wildly. eddie is frozen in place, his eyes glazed over, his face drained of blood. the bat treads calmly past. a leg snakes out. a black boot catches eddie high on the chest lifts him cleanly off his feet and sends him flying through the air. eddie slams into a brick chimney and slumps to the roof unconscious, a broken, weightless puppet. this action is so smooth, so automatic, that the bat does not even break his stride. nick sees his chance and charges past the black wraith, scrambling toward the fire escape... a gloved hand slices through the air, and nick pitches forward, his legs ensnared in a tangle of wires. screaming now, he drags himself across the gravel roof, the looming figure of the bat at his heels... ... until there's no place left to go. nick cowers against the ledge, his pants torn, his hands and knees bloody. he has dissolved into total mindless hysteria. almost by reflex, nick keeps shooting. he'd do better if he could manage to open his eyes. by now the hammer is falling on an empty chamber, but nick continues, obsessively, to pull the trigger. he weeps; he moans; he wails... the bat grabs a fistful of nick's shirt, and with supernatural ease hoists him into the air.}
+<C>__{nick }
+<D>__{don't kill me... don't kill me...}
+<A>__{when nick finally opens his eyes, he realizes the bat is standing on the ledge of the roof holding him out, at arm's length, over six stories of nothingness. the gruesome black apparition speaks, in a rasping whisper:}
+<C>__{batman}
+<D>__{i won't kill you. i want you to do me a favor.}
+<A>__{nick looks down. far, far below, cars wink silently past. he looks up. and sees, in the mirrored lenses where batman's eyes should be, the twin reflections of his own stricken face.}
+<C>__{batman }
+<D>__{tell your friends. tell all your friends.}
+<A>__{nick howls. almost as an afterthought, the batman heaves him roughly back onto the roof. and then casually, without a moment's hesitation steps off the ledge of the roof, into midair. trembling, nick crawls to the ledge and looks over... finding absolutely no trace of the batman. nick is still screaming as we pan up to the bilious yellow globe of gotham's moon. main credits roll:}
+<C>__{batman}
+<T>__{cut to:}
+<L>__{interior gotham city democrats' club night}
+<A>__{an oversized campaign poster fills one wall: "a new gotham. harvey dent for district attorney". we tilt down to find the man himself, determined, dynamic harvey dent, addressing a crowd from behind his podium.}
+<C>__{dent}
+<D>__{... it is no longer enough to go after the small time punks and petty criminals who infest the streets of gotham city. crime and corruption must be attacked at the root!}
+<A>__{another angle the audience civic minded politicos decked out in fund raiser finery. they applaud dent's tough talk wildly. they've just shelled out $500 a plate for a chicken dinner, and by god they're going to enjoy this. tuxedoed waiters move among the tables, deftly refilling water glasses. as they do, we see an empty place setting the only one in the hall. some well meaning moneybags has laid out half a grand and then neglected to show up. the engraved placecard reads: bruce wayne.}
+<B>__{angle on dent}
+<C>__{dent}
+<D>__{if elected, my first act as district attorney will be to return an indictment against boss carl grissom!}
+<T>__{cut to:}
+<L>__{interior apartment night}
+<A>__{a woman's apartment, decorated in pastel pinks and mauves. original paintings and sculptures everywhere. the place reeks of money. in the foreground: a man's hand, long, elegant, manicured. manipulating a deck of cards, doing a one handed shuffle with extraordinary finesse. in the background: a tv set tuned to the 11 o'clock news, with highlights of harvey dent's campaign speech.}
+<C>__{dent}
+<P>__{(on the tv screen)}
+<D>__{together we can make gotham city a safe place for decent people to live and work and play.}
+<A>__{the hand sets the deck on an end table, raps it twice, turns up four aces off the top. this most unusual deck sports a .22 calibre bullet hole straight through the middle.}
+<C>__{jack napier}
+<D>__{decent people shouldn't live here. they'd be much happier someplace else.}
+<A>__{jack napier, 32, is right hand man and chief enforcer to boss carl grissom. his features are delicate, almost feminine, and he takes a vain, gangsterish pride in his appearance. he is also absolutely merciless. he trains a cold eye on dent's televised image as alicia hunt 26, beautiful, carl grissom's kept woman glides over in her negligee and snuggles up.}
+<C>__{alicia}
+<D>__{anything new?}
+<C>__{jack}
+<D>__{the usual gas. if this clown could lay a hand on grissom... i would've had to kill him by now.}
+<A>__{alicia finds jack's necktie draped over a nearby chair. she begins knotting it playfully about his neck.}
+<C>__{alicia}
+<D>__{if grissom knew about us... he might kill you.}
+<A>__{jack seems uninterested in her affections. his eye darts back and forth between the tv and his own reflection in a nearby vanity.}
+<C>__{jack}
+<D>__{don't think so, angel. i'm too valuable. that's the way i've planned it.}
+<P>__{(pause)}
+<D>__{and besides, he doesn't know.}
+<A>__{jack checks his watch, reaches for his topcoat, and stands in front of the vanity. he runs a hand through sculpted hair, checks out his albert nipon ensemble.}
+<C>__{alicia}
+<D>__{you look just fine, jack.}
+<A>__{he smiles at himself before turning to the door.}
+<C>__{jack}
+<D>__{... i didn't ask.}
+<T>__{cut to:}
+<L>__{exterior alleyway night}
+<A>__{the scene of the earlier mugging, a half block off gotham square. only now, the deserted alleyway is a beehive of activity: police cars, an ambulance, a forensics van. eddie the punk goes past on a stretcher, catatonic. watching him are a porcine cop, lt. eckhardt, and a police}
+<B>__{medic.}
+<C>__{medic}
+<D>__{that one there won't say a word. the other one's raving his head off.}
+<C>__{eckhardt}
+<D>__{variety, huh? the spice of life.}
+<A>__{at the mouth of the alley, we find alexander knox thirty, hyperactive, a crime reporter for the gotham gazette. at the moment, he's chatting with a uniformed}
+<B>__{patrolman.}
+<C>__{patrolman}
+<D>__{they found him hugging a drainpipe. he was scared to come off the roof.}
+<C>__{knox}
+<D>__{great, but tell me: is this another you know what? 'cause if so, it's the third one this week.}
+<C>__{patrolman}
+<P>__{(testily)}
+<D>__{i dunno. what's "what"?}
+<C>__{knox}
+<D>__{good answer. i'm gonna put you in for a commendation.}
+<A>__{knox spots eckhardt and the medic, waves cheerily, and saunters down the alley. eckhardt curses under his breath.}
+<C>__{eckhardt}
+<D>__{oh christ, it's knox.}
+<C>__{knox}
+<D>__{hiya, gents. this anything i should know about?}
+<C>__{eckhardt}
+<D>__{nothing out of the routine.}
+<A>__{at this exact moment two uniformed patrolmen drag a brain fried nick past the mouth of the alley.}
+<C>__{nick}
+<D>__{a bat, i tell you, a giant bat! he wanted me to do him a favor...!}
+<A>__{knox tilts one eyebrow. eckhardt and the medic trade disgusted looks.}
+<C>__{knox}
+<D>__{no offense, boys, but these guys are seeing something up there.}
+<C>__{eckhardt}
+<D>__{no comment. print what you like.}
+<C>__{knox}
+<D>__{come on. one question. is there a six foot bat in gotham city?}
+<A>__{knox's tone is jokey, but only half jokey. eckhardt snorts in disgust and turns away. knox shouts after him:}
+<C>__{knox }
+<D>__{if so, is he on the police payroll? if so, what's he pulling down after taxes?}
+<L>__{exterior street that moment night}
+<A>__{we pick up lt. eckhardt as he emerges onto the side street. he's headed for his car when he spies a stretch limo idling across the street. leaning on the hood, waving hi, is the dandyish jack napier flanked by two impressive goons. eckhardt throws a nervous glance back in knox's direction. he turns left, gestures to jack to meet him farther up the block. by the time he reaches the corner jack has swaggered up alongside him. eckhardt takes a fat brown envelope from jack and stuffs it quickly in his coat.}
+<C>__{jack}
+<D>__{you didn't show up.}
+<C>__{eckhardt}
+<D>__{we had another bat sighting.}
+<C>__{jack}
+<D>__{i'm sure that was vitally important. listen: things are heating up. someone is leaking information to harvey dent.}
+<A>__{eckhardt bristles. there's no love lost between these two.}
+<C>__{eckhardt}
+<D>__{i'm doing the best i can. if it's a problem }
+<C>__{jack}
+<D>__{eckhardt... our problems are your problems.}
+<C>__{eckhardt}
+<D>__{i will work on it.}
+<A>__{jack reaches out and grabs eckhardt by the lapels of his topcoat an italian job, obviously expensive. he rubs the material between his fingers.}
+<C>__{jack}
+<D>__{very nice, lieutenant. but a little ostentatious on a cop's salary, don't you think?}
+<C>__{eckhardt}
+<P>__{(knocking his hands away)}
+<D>__{i answer to grissom, punk. not to you.}
+<C>__{jack}
+<D>__{you're a smart boy, eckhardt. you should be thinking about the future.}
+<A>__{eckhardt laughs in his face.}
+<C>__{eckhardt}
+<D>__{ambition.}
+<P>__{(nodding his head)}
+<D>__{forget it, jack. you'll never run that organization.}
+<C>__{jack}
+<D>__{and why's that?}
+<C>__{eckhardt}
+<D>__{you're a psycho, friend. you're an a one crazy boy and grissom knows it.}
+<A>__{jack lashes out and backhands eckhardt across the face. the fat cop, stunned, turns bright red and charges jack. jack claps a hand on eckhardt's face and shoves him back full force. the cop sprawls on his ass in the doorway of an all night cuban chinese restaurant. by now patrons are staring out of the restaurant windows. eckhardt is livid. his hand goes instinctively to his gun.}
+<C>__{jack}
+<D>__{here. use mine.}
+<A>__{jack pulls an automatic from his pocket and tosses it in eckhardt's lap. he looks down and laughs, daring eckhardt to pick it up just as the two enormous goons from the stretch limo appear behind him for reinforcement. eckhardt wipes blood from his mouth as jack an a one crazy boy grin on his face reaches down for the gun.}
+<C>__{jack }
+<D>__{it's all right, boys. lt. eckhardt here is a good cop. a real good cop.}
+<P>__{(pause; smiling)}
+<D>__{inexpensive.}
+<T>__{dissolve to:}
+<L>__{interior gotham globe city room day}
+<A>__{gotham city's leading tabloid daily. copy boys rush to and fro; reporters pound out articles on computer terminals. alexander knox saunters in, a sheath of typed pages in his hand, and pauses at a cartoonist's drawing table.}
+<C>__{knox}
+<D>__{what have you got for me, jerry?}
+<A>__{jerry holds up a cartoon: a human bat, with an awful, fanged rodent's face, wearing a business suit. the caption at the top reads: "have you seen this man?" knox nods in approval.}
+<C>__{knox }
+<D>__{nice, but... maybe a little more gore on the fangs, huh?}
+<A>__{he pats jerry on the shoulder, moves on. a bespectacled colleague spots him and calls out:}
+<C>__{colleague}
+<D>__{hey knox, you got a visitor.}
+<C>__{knox}
+<D>__{i'm real busy, clark. be a pal and dust him, okay?}
+<C>__{colleague}
+<D>__{this one you might want to dust yourself.}
+<A>__{curiosity piqued, knox moves toward his desk... and stops in his tracks. propped up on the desk are a pair of legs. the legs exceptionally nice ones are attached to a woman leaning back in knox's swivel chair, taking a nap, her face obscured by a big outrageous hat.}
+<C>__{knox}
+<D>__{... vicki vale.}
+<A>__{the hat tips back. vicki vale, her face framed by a shock of bright red hair, flashes a dazzling smile. she pulls knox over for a quick smooch and laughs.}
+<C>__{vicki}
+<D>__{how'd you know it was me?}
+<C>__{knox}
+<D>__{honey i would know any randomly selected square inch of vicki vale.}
+<P>__{(grinning)}
+<D>__{if i had a good enough hinterior}
+<A>__{he points at the oversized camera bag on his desk. it bears the monogram "v.v." vicki catches on, makes a face at him.}
+<C>__{knox }
+<D>__{where the hell have you been?}
+<C>__{vicki}
+<D>__{a nice, restful vacation.}
+<A>__{she reaches into the camera bag and pulls out a stack of glossy 8x10's: combat photos from some unspecified war torn corner of the world. knox leafs though them, impressed.}
+<C>__{knox}
+<D>__{god, a girl could get hurt doing this.}
+<C>__{vicki}
+<D>__{i do get hurt.}
+<A>__{she unbuttons her sleeve, rolls it back to show knox a long fresh scar on the inside of her arm. he winces then points to the scar and adds, slyly:}
+<C>__{knox}
+<D>__{got any more of those?}
+<C>__{vicki}
+<D>__{nothing i'm at liberty to reveal here. what's new and hot in gotham city?}
+<C>__{knox}
+<D>__{it's too good, vick. we got a six foot bat that swoops out of the night and preys on evildoers.}
+<C>__{vicki}
+<P>__{(laughing)}
+<D>__{evildoers, huh? big or small?}
+<C>__{knox}
+<D>__{small so far. i mean they don't allow bats in boardrooms, do they.}
+<C>__{vicki}
+<D>__{speaking of which... i hear the notorious bruce wayne is throwing a big do for the harvey dent campaign.}
+<C>__{knox}
+<D>__{yeah. hottest ticket in town. every law'n'order freak in the city's gonna be there.}
+<A>__{knox suddenly freezes. it's just occurred to him that vicki may have a purpose in all this.}
+<C>__{knox }
+<D>__{wa a it. vicki. you're not saying }
+<A>__{she reaches back into her camera bag and hands over an invitation. knox is all but panting with excitement.}
+<C>__{knox }
+<D>__{aw, vicki. vicki!}
+<P>__{(apprehensively)}
+<D>__{got a date?}
+<A>__{she flutters her great big eyelashes, shakes her head no. knox grabs her face and plants a kiss on her forehead, nearly knocking her out of the swivel chair.}
+<C>__{knox }
+<D>__{vicki, baby, i love you, i've always loved you. will you marry me?}
+<C>__{vicki}
+<P>__{(straightening her clothes)}
+<D>__{no.}
+<C>__{knox}
+<D>__{well, i'm starving. will you at least buy me a hamburger?}
+<C>__{vicki}
+<D>__{yes, but please be gentle.}
+<A>__{overwhelmed with glee, he offers her his arm.}
+<T>__{cut to:}
+<L>__{interior penthouse day}
+<A>__{a huge plate glass window opens on the best view in gotham. this spectacular penthouse suite is just one of the power perks available to carl grissom, kingpin of the gotham city rackets, fat, fifty, and utterly without charm. grissom, behind a big broad desk, addresses his lieutenants a fearsome assemblage of bloodless white collar types and few outright goons, sprawled in chairs throughout this makeshift 'boardroom.' the big boss waves a copy of the gotham globe with harvey dent's face on the cover.}
+<C>__{grissom}
+<D>__{nine points ahead in the new poll. i don't like the way this is shaping up.}
+<A>__{jack napier slouches in an easy chair off to grissom's right, doing his trademark one handed shuffle.}
+<C>__{jack}
+<D>__{we can always pop him. or pop someone close to him.}
+<C>__{lieutenant}
+<D>__{let's feed him to the bat.}
+<A>__{this suggestion draws chuckles from several members of the crowd. grissom is unamused.}
+<C>__{grissom}
+<D>__{he's going after our front companies. specifically ace chemical. which would tie us in with councilman kane, senator miller... on up the line.}
+<P>__{(pause)}
+<D>__{we have to clean out our files before the subpoena comes down.}
+<C>__{lieutenant}
+<D>__{how do we go? the usual fire?}
+<C>__{grissom}
+<D>__{i'm thinking break in. trash the office, remove the relevant documents...}
+<C>__{jack}
+<D>__{"industrial espionage."}
+<C>__{grissom}
+<D>__{that's right. and jack }
+<P>__{(pause)}
+<D>__{i'd like you to handle this operation personally.}
+<A>__{jack has just turned up the third ace off the top of the deck. his hand freezes in midair.}
+<C>__{jack}
+<D>__{... me?}
+<A>__{at this exact moment, metal doors slide back and alicia hunt steps out of grissom's private penthouse elevator. she's carrying a handful of shopping bags.}
+<C>__{grissom}
+<D>__{hello, sweetheart. i wonder if you'd mind waiting in the other room.}
+<A>__{alicia's gaze meets jack's as she vanishes through a side door. the eye contact is not lost on grissom.}
+<C>__{jack}
+<D>__{why do you need me to handle a simple break in?}
+<C>__{grissom}
+<P>__{(emphatically)}
+<D>__{because i want someone i can trust.}
+<A>__{jack bridles, but doesn't protest. nervously, he turns the fourth card off the top of the deck. it's not an ace. it's a joker a joker with a neat, round, .22 calibre hole through its face.}
+<C>__{grissom }
+<D>__{we'll work out the details later. but it's got to be soon. all right, that's all for now.}
+<A>__{grissom's cronies get up to go. jack, troubled, lingers behind a moment.}
+<C>__{grissom }
+<D>__{you don't mind, do you jack? it's an important job. i can't trust it to somebody who'll screw up.}
+<C>__{jack}
+<D>__{i understand.}
+<C>__{grissom}
+<P>__{(smiling)}
+<D>__{jack. don't forget your lucky deck.}
+<A>__{jack pockets the deck and leaves. grissom sits behind the big desk and grins wolfishly.}
+<C>__{grissom }
+<D>__{my friend, your luck is just about to change.}
+<A>__{he reaches for the phone. alicia appears in the doorway nearby, modeling her new purchases for him. he smiles coolly at her as he speaks into the receiver.}
+<C>__{grissom }
+<D>__{get me lieutenant eckhardt.}
+<T>__{cut to:}
+<L>__{exterior wayne manor establishing night}
+<A>__{a vast, rambling mansion on sixty wooded acres a half hour's drive from gotham: old money, and how. out front, a team of red jacketed valets are parking expensive cars.}
+<L>__{interior ballroom night}
+<A>__{a dealer's hand pushes cards out of a shoe (the card kind, not the florsheim kind). it's casino night at wayne manor; the ballroom has been outfitted with roulette wheels, blackjack tables, etc., and the various members of gotham's power elite are happily and legally throwing money into harvey dent's campaign kitty. dent himself is surrounded by a gang of political cronies, telling jokes, calling in favors. vicki's off in another group, looking luscious, drawing compliments from big shots and envious, furtive glances from their wives. and, in a corner of the room, all alone in his cheap suit, stands alexander knox staring inquisitively up at the ceiling. a butler, alfred, appears alongside knox with a trayful of champagne glasses. he too looks up at the ceiling.}
+<C>__{knox}
+<D>__{how high up would you say that is?}
+<C>__{alfred}
+<D>__{i'd say about thirty feet, sir.}
+<C>__{knox}
+<D>__{you know, if you cut your bathroom in half, you'd have my apartment.}
+<C>__{alfred}
+<D>__{which bathroom is that, air?}
+<C>__{knox}
+<D>__{the small one.}
+<A>__{knox takes a drink and alfred moves on. a moment later, vicki detaches herself from her little circle of admirers and hooks up with knox.}
+<C>__{knox }
+<D>__{man, i feel like robin leach. you actually know all these people?}
+<C>__{vicki}
+<D>__{some. i am a rich bitch, remember.}
+<P>__{(pause)}
+<D>__{i'm quoting.}
+<A>__{knox winces at the reminder. she smiles and takes his arm.}
+<C>__{knox}
+<D>__{yeah, i guess we move in different circles. though i did meet a one eyed pimp last week.}
+<B>__{angle on james w. gordon}
+<A>__{gotham's police commissioner, a distinguished looking gent in his late fifties. he's at a craps table, blowing into his fist. onlookers root him on as he lets the dice fly. snake eyes. crapped out. gordon passes the dice as knox and vicki wander up alongside him.}
+<C>__{knox}
+<D>__{commissioner gordon! what do you hear from our pointy eared friend?}
+<A>__{knox puts his hands up behind his head and wiggles his fingers like little bat ears. gordon groans.}
+<C>__{gordon}
+<D>__{knox, for the ninth time, and you can quote me there is no bat.}
+<C>__{knox}
+<D>__{aww, commissioner. there's gotta be one honest cop in gotham city.}
+<A>__{harvey dent is working the room. he ambles up, claps a friendly hand on gordon's shoulder.}
+<C>__{dent}
+<D>__{how's your luck, jim?}
+<C>__{knox}
+<D>__{mr. dent. what's your stand on winged vigilantes?}
+<A>__{dent exchanges a meaningful look with gordon.}
+<C>__{dent}
+<D>__{mr. knox, i think we have enough real problems in this city without worrying about ghosts and goblins and halloween characters.}
+<T>__{cut to:}
+<L>__{exterior ace chemical co. establishing night}
+<A>__{a neon sign reads: "ace chemical. for a modern tomorrow." from the sign we pan over to a metal sluice gate dumping tons of churning toxic sludge into gotham's east river.}
+<L>__{interior van that moment night}
+<A>__{tight on the rear view mirror. jack napier is meticulously applying black camouflage paint to his face. he could be getting ready for a date. the van is parked outside a chain link fence which surrounds the ace chemical complex. jack's pov through windshield the security guard in a glass booth at the entrance to the parking lot. one of jack's boys creeps up behind the booth and takes the guard out.}
+<L>__{interior van on jack}
+<A>__{he turns the key in the ignition, shifts into first.}
+<T>__{cut to:}
+<L>__{interior wayne manor night}
+<A>__{knox and vicki are taking an unauthorized tour of bruce's house, wandering through rooms decorated in wildly divergent motifs, eyeing an astounding collection of artworks and antiques from every corner of the world.}
+<C>__{knox}
+<D>__{my question is, where does one man get all this junk.}
+<C>__{vicki}
+<D>__{all over the world. they say he spends most of the year overseas until recently, anyway.}
+<C>__{knox}
+<D>__{holy shit...}
+<A>__{knox goes goggle eyed as they enter the library.}
+<L>__{interior bruce wayne's library night}
+<C>__{knox }
+<D>__{... we found the arsenal.}
+<A>__{one wall is lined to the ceiling with leather bound volumes. on the other walls hang exotic weapons. halberds. maces. blowguns. bolas. thugee ropes and samurai swords... every arcane implement of death the human mind has ever devised. knox lets out a low whistle.}
+<C>__{knox }
+<D>__{this guy has just gotten interesting. what else do you know?}
+<C>__{vicki}
+<D>__{just what i've heard. rich. reclusive. old money and lots of it.}
+<C>__{knox}
+<D>__{likes to kill?}
+<C>__{vicki}
+<P>__{(smiling)}
+<D>__{women find him magnetic.}
+<C>__{knox}
+<D>__{i bet they like him for his big charity balls.}
+<C>__{vicki}
+<D>__{that, and the sweet smell of two hundred million bucks.}
+<C>__{knox}
+<D>__{well, you know me. the more they've got, the less they're worth.}
+<P>__{(scanning the room)}
+<D>__{this guy must be the most worthless man in america.}
+<A>__{just then, a voice from behind intrudes.}
+<C>__{bruce wayne}
+<D>__{you disappoint me. why not the world?}
+<A>__{knox turns. we get our first good look at the smiling face of bruce wayne: 32, tall, athletic, impeccably mannered... and intensely handsome.}
+<C>__{knox}
+<D>__{i assume in my usual charming manner i've just insulted the host.}
+<P>__{(extending a hand)}
+<D>__{alexander knox.}
+<C>__{bruce}
+<D>__{bruce wayne. i've read your work. i quite like it.}
+<C>__{knox}
+<D>__{great. give me a grant.}
+<C>__{bruce}
+<D>__{i might consider it if you introduce me to miss vale.}
+<A>__{knox blinks at vicki. bruce already seems to know who she is. knox shrugs and forges bravely ahead:}
+<C>__{knox}
+<D>__{"this is miss vale." that felt redundant.}
+<C>__{bruce}
+<P>__{(to vicki)}
+<D>__{you're just back from corto maltese. i saw your combat photos. quite a departure for you.}
+<C>__{vicki}
+<D>__{that's intriguing. they haven't been published yet.}
+<A>__{bruce smiles and ignores the implied question.}
+<C>__{bruce}
+<D>__{... you have an extraordinary eye.}
+<A>__{he's laying on the charm now. knox, his territorial instincts aroused, pipes up:}
+<C>__{knox}
+<D>__{some people think she has two.}
+<A>__{vicki shoots knox a sidelong glance:}
+<C>__{vicki}
+<D>__{don't mind my friend. he's a little nervous tonight.}
+<A>__{knox, chastened, calls off the dogs and sizes up his competition. bruce is charming, all right, but there's something formal, maybe even calculating about it he could be reading his clever remarks off cue cards. it's almost as though he's an actor doing a brilliant imitation of charm. this is a man who thinks three moves ahead. knox doesn't like him. but vicki who's used to seeing male charm turned on and off, at will doesn't seem to mind at all:}
+<C>__{vicki }
+<D>__{this is an amazing house. i'd love to shoot it sometime.}
+<C>__{bruce}
+<D>__{i don't... seek publicity. will you be staying in gotham for a while?}
+<C>__{vicki}
+<D>__{as far as i know.}
+<C>__{bruce}
+<D>__{good. then with any luck we'll run into each other.}
+<A>__{suddenly alfred, the butler, appears in the doorway behind them. he clears his throat. bruce turns.}
+<C>__{alfred}
+<D>__{excuse me, sir. commissioner gordon was compelled to leave very unexpectedly. he asked me to convey his regrets.}
+<C>__{bruce}
+<D>__{thank you, alfred.}
+<P>__{(to vicki)}
+<D>__{i hope you'll excuse me. it was a great pleasure meeting you.}
+<P>__{(to knox)}
+<D>__{and you.}
+<A>__{without bothering to shake hands bruce does a sharp 180 and strides hurriedly out of the room.}
+<C>__{knox}
+<D>__{i know the rich are different, but that guy is real different.}
+<A>__{vicki, staring off after bruce, doesn't seem to hear him.}
+<C>__{knox }
+<D>__{hello? vicki?}
+<C>__{vicki}
+<D>__{oh. sorry. i was thinking.}
+<C>__{knox}
+<D>__{what were you thinking?}
+<C>__{vicki}
+<D>__{yum, yum.}
+<C>__{knox}
+<D>__{well, he must like the way he looks. he's got a mirror in every room.}
+<A>__{and indeed, the two of them are standing before an enormous wall mirror, eight feet wide, running from floor to ceiling.}
+<C>__{vicki}
+<D>__{i get it. bruce vain.}
+<A>__{she pokes knox. he groans at the dumb pun. and suddenly we}
+<T>__{cut to:}
+<A>__{reverse angle through the mirror looking down on knox and vicki through one way glass as they continue to chat. behind the mirror... recording everything that happens in the room... is a small, silent, state of the art surveillance camera. closeup video monitor showing knox and vicki in the library. camera pulls back to reveal that the screen we're watching is only one in a whole vast bank of video monitors. from this control center, we can see everything that's happening in the house. now we zero in on a single screen: guests moving backward, with exaggerated speed, as a videotape rewinds. at the panel, bruce wayne hits a button. and now we see commissioner gordon talking to a uniformed policeman.}
+<C>__{patrolman}
+<D>__{... anonymous tip. tonight. the ace chemical company.}
+<C>__{gordon}
+<P>__{(obviously agitated)}
+<D>__{good lord, it we could put our hands on jack napier... why wasn't i told about this? who's in charge of the }
+<C>__{patrolman}
+<D>__{lt. eckhardt, sir.}
+<C>__{gordon}
+<D>__{eckhardt. oh my god...}
+<A>__{and suddenly commissioner gordon is grabbing for his coat. the monitor goes black. bruce reaches up, loosens his tie.}
+<T>__{cut to:}
+<L>__{exterior ace chemical co. parking lot night}
+<A>__{unmarked police cars are pulling into the lot, headlights off. eckhardt circulates among his armed swat team, handing out xeroxed copies of a photograph. the photograph is a full face shot of jack napier.}
+<C>__{eckhardt}
+<D>__{shoot to kill.}
+<L>__{interior ace chemical file room night}
+<A>__{sparks fly. a safecracker, in welder's mask, trains a blowtorch on the office safe. behind him, jack's hoods are at work on the filing cabinets. the safecracker kills his blowtorch and opens the metal door of the safe, giving jack a good look at its contents:}
+<C>__{safecracker}
+<D>__{... empty.}
+<C>__{hood i}
+<D>__{just like the file cabinets.}
+<C>__{hood ii}
+<D>__{i don't get it. if this place is cleaned out already, what do we need five men?}
+<A>__{jack shakes his head. his boys are antsy, ready to mutiny. by now it's depressingly obvious: they've been set up. then, as if they needed any proof a siren blares outside.}
+<L>__{exterior ace chemical night}
+<A>__{eckhardt's swat team goes wide eyed as a convoy of police black and whites roars into the ace parking lot. uniformed cops pile out of their squad cars, relieving the swat team. eckhardt goes livid as commissioner gordon approaches.}
+<C>__{eckhardt}
+<D>__{what are you trying to do, blow the collar?}
+<C>__{gordon}
+<P>__{(to swat team)}
+<D>__{you men are dismissed. we'll take over from here.}
+<P>__{(to uniformed cops)}
+<D>__{any man who opens fire on jack napier... will answer to me.}
+<A>__{eckhardt tries to slink off. gordon grabs him roughly.}
+<C>__{gordon }
+<D>__{you. stick around.}
+<L>__{interior ace chemical that moment}
+<A>__{jack and his hoods ducking out of the office. it's two stories above the refinery floor, accessible by a network of steel ladders and catwalks running between the walls. down below, a corrugated metal door begins to rise.}
+<C>__{cop}
+<D>__{freeze!}
+<A>__{one hood goes into a crouch and opens fire. half of his colleagues dive back into the office, looking for a rear exit. the others take off across the catwalks.}
+<B>__{angle on gordon}
+<A>__{standing in the doorway as his men rush into the building and take their places behind heavy machinery. shots ring out as the hoods scatter.}
+<C>__{eckhardt}
+<P>__{(snidely)}
+<D>__{nice work, commissioner.}
+<C>__{gordon}
+<D>__{i'm in charge here. not carl grissom.}
+<L>__{interior hallway that moment}
+<A>__{two hoods run down a tiled corridor in the office section of the complex. they're almost at the end of the hall when a caped black shadow steps into their path. it stands there, motionless. extends its arms like giant wings revealing the yellow and black insigne on its massive chest. batman. one millisecond later, the shocked hoods are racing back in the opposite direction. the batman flings a handful of steel ball bearings across the tiled floor. hood i tumbles to the floor and lands hard, losing his breath. hood ii rolls and pulls a gun. batman hurls a boomerang its edges scalloped, like a bat's wing. hood ii finds his gun hand pinned to the wall by the twin prongs of the batarang. the batman strides briskly toward them, businesslike, taking his time. he grabs a handful of hood i's hair, lifts his head off the floor, knees him in the face. he turns to the petrified hood ii. chrome steel talons spring out of his fingertips. he strolls past hood ii, reaching out casually to give him a quick nick on the chin. hood ii slumps against the wall, unconscious.}
+<B>__{angle on jack}
+<A>__{down on the floor, racing along a wall, throwing switches anything to create a diversion. with every switch he throws, another gigantic machine roars to life. centrifuges spin. huge polymer extruders spit out thick strands of plastic gunk. overhead chemical tanks rotate into place over giant basins. jack sees a squad of cops on his tail, moving from machine to machine, keeping covered. he shoots and runs.}
+<B>__{angle on catwalks}
+<A>__{blasting away, hoods iii and iv scuttle across the elevated walkways, keeping down, avoiding police fire. one of them starts up a vertical ladder leading to the next catwalk up. batman plunges past on the end of a rope. a black gloved hand snatches at hood iii's collar as he climbs and yanks him cleanly off the ladder. they drop to the lower catwalk. hood iv gapes. he levels his gun at batman, who stands his ground, holding onto the rails of the catwalk for support. a bullet hits him squarely in the chest. he does not fall. hood iv turns and scrambles. batman goes to his belt for a miniature spear gun. he points it at hood iv and fires... planting a barbed hook in the hood's leg.}
+<B>__{angle on cops}
+<A>__{staring up in utter disbelief at the action on the catwalk.}
+<C>__{cop}
+<D>__{look!}
+<C>__{gordon}
+<D>__{my god... it's him.}
+<B>__{angle on catwalk}
+<A>__{hood iii, on his feet now, charges batman from behind. batman not even turning to face him drops hood iii with an elbow. now he has a hood on either side. he takes a steel billy club from his belt, whips it once through the air. it telescopes out into a four foot staff. like a drum majorette from hell, he whirls the staff as the hoods converge on him. hood iii takes a debilitating jab under the jaw. batman spins on his heels and slams the staff into hood iv's back knocking him off the catwalk to the factory floor forty feet below!}
+<L>__{interior ace loading bay that moment}
+<A>__{jack spots a possible out. he hits a button on the wall; steel doors rise to reveal ace cargo trucks in the parking lot outside. beyond the trucks... an army of cops waiting for jack to make his move. no go. he turns. behind him, other cops the inside team are rushing at him in full riot gear. jack ducks behind a forklift and darts into the adjacent room.}
+<L>__{interior chemical supply room a moment later}
+<A>__{jack sprints through the room, firing four shots at the metal chemical tanks on the wall. toxic chemicals gush out onto the floor in streams. the streams run together... begin to smoke and sizzle. cops right behind him. jack can't resist taking one last pot shot at a fifth chemical tank. an explosion knocks him off his feet.}
+<L>__{interior factory floor a moment later}
+<A>__{cops look on in puzzlement as a river of chemicals courses out into the main refinery. a second later, they go up in flames. a wall of fire bisects the factory floor. jack races along behind the spreading wall of flame. the cops can't see him now. he ducks behind a huge machine, hits a switch and sluice gates open. chemical sludge begins to churn. a big hole in the wall appears as a gate opens on the east river. it's the waste dump! up on the catwalk, batman has a perfect view of jack. if jack can just sprint through the flames without getting shot, he'll make it to the river. batman hooks a rope to his batarang, flings it at a catwalk across the floor. jack bolts. bursts through the wall of fire. and just as he does batman leaps off the catwalk and swings down toward him! his foot catches a thirty foot roll of plastic, six feet in diameter, one of several standing upright on the floor. the plastic roll drops into jack's path, blocking his exit. an instant later, batman lands on top of jack. wraps an arm around his throat and raises his free hand. drug tipped steel talons appear. but before he can paralyze jack...}
+<C>__{voice}
+<D>__{hold it!}
+<A>__{in all the ruckus, hood v has managed to circle back behind the heavy machinery. now he's got a gun pointed directly at commissioner gordon's head.}
+<C>__{hood v}
+<D>__{let him go or i will do it.}
+<A>__{batman releases jack and stands back. jack chuckles to himself: what loyalty. then, with plenty of time, he strolls across the floor to a jacob's ladder mounted on the back wall... and begins to climb toward the catwalks. all action stops. batman doesn't move. the cops don't move. hood v stands there sweating, his gun hand shaking as he waits for jack to climb safely out of shooting range. eckhardt's pig like eyes glisten. his hand drops to his side. he's half tempted to pull a gun and get the commissioner plugged.}
+<B>__{angle on jack}
+<A>__{at a crouch, groping his way along the rail of the catwalk. he reaches a paneled glass window propped open by a supporting rod. it's a forty foot drop to the swirling black currents of the east river... and freedom. he's about to climb out when his eye falls on a .38 automatic which lies, abandoned, on the gridwork floor of the catwalk mere yards away.}
+<B>__{angle on factory floor}
+<A>__{the hood, one arm around gordon. with his gun at the commissioner's temple, he backs slowly toward the door.}
+<C>__{hood v}
+<D>__{nobody makes a move. we go out clean.}
+<C>__{jack's voice}
+<D>__{eckhardt!!}
+<A>__{all eyes turn to the catwalk overhead, where jack stands poised with the .38 in his fist. a single shot drops eckhardt cleanly. the moment's distraction is all batman needs. he hurls a ninja wheel a small, ratcheted, razor sharp disc at the forearm of hood v. one jerk of a thin filament wire a sudden shriek and gordon is free. the thug lurches forward. his gun drops to the floor,}
+<B>__{discharging accidentally.}
+<A>__{an ungodly howl of pain echoes out from the catwalk above. jack reels and staggers, his hands clutching at his cheeks. blood gushes from between his fingers.}
+<B>__{jack napier has been shot through the face.}
+<A>__{a young cop, unnerved by the sight of jack's agonized pirouette, draws his gun and opens fire.}
+<C>__{gordon}
+<D>__{no!!}
+<A>__{but the bullet has caught jack in the arm. he spins, totters to the edge of the catwalk... and topples over. the cops look on helplessly as jack plunges two stories down into a catch basin full of bubbling toxic waste, screaming}
+<B>__{all the way.}
+<C>__{gordon }
+<D>__{goddammit, we had him. we }
+<A>__{and suddenly, with jack out of the picture, all attention focusses on the batman. cops reach for their guns, circle warily around him. cornered now, he backs off slowly, hands}
+<B>__{on his belt.}
+<C>__{gordon }
+<D>__{hold it right there, mister.}
+<A>__{the batman raises his hands in a gesture of surrender. then as the cops advance he flicks two tiny capsules onto the factory floor. a blinding flash of light. colors burst in a wild pyrotechnic display. cops stumble backwards, momentarily dazzled, as a thick wall of black smoke conceals batman from view. a tiny grappling hook rockets out of the dense curling cloud and catches on a catwalk overhead.}
+<C>__{cop}
+<D>__{look!}
+<A>__{the cops are firing wildly into the smoke. but it's too late. at the end of a cord, the black majestic figure of the batman whips upward, rising out of the smoke like an avenging angel and disappearing into the shadowy heights, safely out of range.}
+<C>__{gordon}
+<D>__{hold your fire!}
+<C>__{cop}
+<D>__{... who is this guy?}
+<C>__{gordon}
+<D>__{i don't know, but he's one hell of a showman.}
+<T>__{cut to:}
+<L>__{exterior ace chemical co. that moment night}
+<A>__{a black shadow scurries across the roof. from the illuminated sign with its neon ace, we pan down past the chemical sluice to a second ace... a card from jack's lucky deck, pierced by a neat, round bullet hole, bobbing on the oily surface of the foul, polluted river. as deadly toxins gush forth, other cards from the deck swirl past: a nine. a deuce. a queen. and finally, a joker shot cleanly through the face. a bone white hand breaks the surface as we}
+<T>__{shock cut to:}
+<L>__{interior gotham globe city room day}
+<A>__{a banner headline on the late edition of the globe: "bat man foils robbery. who is masked vigilante?" behind the newspaper, feet propped up on his desk, is a jubilant knox. he's on the horn to commissioner gordon.}
+<C>__{knox}
+<D>__{commissioner. do us both a favor. don't tell me some lie you'll have to retract later.}
+<A>__{click. knox grins, lowers the paper, finds himself looking up at the smiling face of vicki vale.}
+<C>__{knox }
+<D>__{vick! looks like our friend the bat is getting ambitious. why the dopey grin?}
+<C>__{vicki}
+<D>__{guess who's got a date with bruce wayne.}
+<C>__{knox}
+<D>__{bruce wayne? date? he called you up and asked you for a date?... shit.}
+<P>__{(shouting)}
+<D>__{hey miranda! c'mere!}
+<P>__{(to vicki)}
+<D>__{i want you to pay close attention to this. miranda tell my friend here what you told me about bruce wayne.}
+<A>__{a superannuated southern belle toddles over. miranda reitz,}
+<L>__{60, is the society editor of the globe.}
+<C>__{miranda}
+<D>__{you mean mister one nighter?}
+<C>__{knox}
+<D>__{yeah. "mister one nighter."}
+<P>__{(to vicki)}
+<D>__{because that's the average length of his relationships with women.}
+<C>__{miranda}
+<D>__{the current record is almost two weeks. that cover girl what's her name? you must've shot her, vicki }
+<C>__{knox}
+<D>__{tell her about the peanuts.}
+<C>__{vicki}
+<D>__{peanuts?}
+<C>__{knox}
+<D>__{yeah. peanuts. which is how he goes through women.}
+<C>__{miranda}
+<D>__{like planter's peanuts.}
+<A>__{vicki is about to break out into helpless giggles.}
+<C>__{vicki}
+<D>__{plain or roasted?}
+<P>__{(standing up)}
+<D>__{alex, i'm very flattered that you've gone out and done all this research.}
+<C>__{knox}
+<D>__{why?}
+<P>__{(blushing suddenly)}
+<D>__{aw, come on, vicki, i'm a reporter. i'm curious. i do this for a living. what'd you tell him?}
+<C>__{vicki}
+<D>__{i told him yes.}
+<A>__{knox fumes. vicki shakes her head and laughs. she takes knox's face in her hands, plants a kiss on his forehead.}
+<C>__{vicki }
+<D>__{you're awfully sweet to be concerned, but it's really not necessary. i will call you, okay?}
+<A>__{she exits. knox stands there looking poleaxed.}
+<C>__{knox}
+<D>__{... what was that?}
+<C>__{miranda}
+<D>__{that was one of the most gracious fuck yous it's ever been my pleasure to watch. what a nice girl.}
+<A>__{knox, totally flustered, sighs and sinks into his chair.}
+<C>__{knox}
+<D>__{miranda, i'm busy. go be productive.}
+<T>__{cut to:}
+<L>__{exterior coastline day}
+<A>__{a cabin cruiser slices through the waves. in the distance, closer to the shore, we see a throng of sailboats.}
+<L>__{exterior deck yacht day}
+<A>__{bruce's forty foot cabin cruiser, aptly christened "die fleidermaus." bruce and vicki are on the deck, in chairs, soaking up sun, gazing off at the sailboats.}
+<C>__{vicki}
+<D>__{do you sail?}
+<C>__{bruce}
+<D>__{too much work. i'm not really the physical type. thank you, alfred.}
+<A>__{alfred has just appeared from belowdecks with a tray of drinks for bruce and vicki. vicki watches as bruce reaches for his glass. his forearm looks like a thin layer of skin over braided telephone cables.}
+<C>__{vicki}
+<D>__{you do a very convincing imitation.}
+<P>__{(sipping her drink)}
+<D>__{mm, this is tasty. what's yours?}
+<A>__{he smiles, slides the drink over toward her, gestures for her to try a sip.}
+<C>__{vicki }
+<D>__{... ginger ale?}
+<C>__{bruce}
+<D>__{two drinks and i start swinging from the rooftops.}
+<P>__{(beat)}
+<D>__{tell me, vicki. there's something i'm very curious about. what took you down to corto maltese?}
+<C>__{vicki}
+<D>__{... i guess i needed a change.}
+<C>__{bruce}
+<D>__{you were one of the most successful magazine photographers in the city. everyone wanted you.}
+<C>__{vicki}
+<D>__{have you ever been to corto maltese?}
+<C>__{bruce}
+<D>__{not since the shooting started.}
+<C>__{vicki}
+<D>__{we went there once when i was little. i played on the beach. and at nights they had a band i danced with my father on the hotel patio.}
+<P>__{(shrugging)}
+<D>__{that was corto maltese. when the war broke out i had to go back. and i promised myself that this time... i wouldn't look away.}
+<C>__{bruce}
+<D>__{what did you see?}
+<C>__{vicki}
+<D>__{... terror.}
+<A>__{the conversation is getting rather intense at both ends. vicki seems to have hit some weird chord within bruce.}
+<C>__{bruce}
+<D>__{there's terror everywhere. some types are just more familiar than others.}
+<A>__{for a moment bruce seems to be drifting back into his familiar 'preoccupied' mode. vicki laughs apologetically.}
+<C>__{vicki}
+<D>__{i'm sorry. i didn't mean to i know it all seems a million miles away, out here on the water, with all this }
+<C>__{bruce}
+<D>__{insulation?}
+<A>__{vicki is momentarily stuck for a reply. in some way she can't quite grasp, he seems to be challenging her.}
+<C>__{vicki}
+<D>__{bruce, really, when i say these things i don't mean to criticize you.}
+<C>__{bruce}
+<D>__{i think you see things very clearly.}
+<C>__{vicki}
+<D>__{i'm happy to talk about something else. i don't want to be depressing.}
+<C>__{bruce}
+<P>__{(smiling)}
+<D>__{do you assume that if i know you better i won't like you as much?}
+<A>__{vicki starts laughing. bruce is a notorious womanizer, but if this is a come on, it's like no come on she's ever seen.}
+<C>__{vicki}
+<D>__{i'm sorry, bruce, i have to ask. are you like this with the other women you know? because i just can't seem to get a handle on this conversation.}
+<C>__{bruce}
+<P>__{(taking her hand)}
+<D>__{vicki, if i say anything cryptic, or... ambiguous, i think you should put the most flattering possible interpretation on it. because even if it doesn't sound that way... that's how i will mean it.}
+<A>__{bingo. the guy's a chessplayer, but on the other hand he's also rather touchingly, almost childishly, sincere. before she knows it, vicki finds herself melting.}
+<T>__{cut to:}
+<L>__{interior gotham city opera house night}
+<A>__{rigoletto. the duke onstage, launching into his big crowd pleaser, "la donna e mobile." we pan the audience, finding several mobile young donnas in the crowd drop dead beauties in slinky gowns. although most eyes are fixed, reasonably enough, on the stage, donna #1 is staring with undisguised envy at a private box above the orchestra seats. her mouth twists in disgust. she scans the crowd, finds her counterpart (donna #2) some rows back, on the arm of a bald bigwig. donna #2 is wearing a similar sour expression, staring up at the same box. donna #3 is even less discreet than her comrades. she has her opera glasses trained on the couple in the box. her pov through opera glasses the box bruce and vicki. he whispers in her ear. she smiles and whispers back. a beat. he whispers again. this time she doesn't laugh. but her lips part slightly. screen goes black as the opera glasses snap shut. angle on crowd donna #3 staring icily at the duke as he finishes up to a round of}
+<B>__{tumultuous applause.}
+<T>__{cut to:}
+<L>__{interior wayne manor night}
+<A>__{bruce and vicki enter. he takes her coat, drops it on a chair by the door. vicki is giddy, all champagned up.}
+<C>__{vicki}
+<D>__{ but it's not fair. i'm half drunk and you're not even }
+<C>__{bruce}
+<D>__{would you like me to take you home?}
+<C>__{vicki}
+<D>__{god. you would.}
+<P>__{(sidling up to him)}
+<D>__{come on, bruce. i just want to get two drinks in you. as an experiment.}
+<C>__{bruce}
+<D>__{maybe we should just kiss.}
+<C>__{vicki}
+<D>__{... we could try that.}
+<B>__{wider angle}
+<A>__{bruce embracing vicki in the vastness of the darkened entry hall, framed by long semicircular stairways on opposite walls. a sudden flash of lightning transports us to:}
+<L>__{exterior office building establishing night}
+<A>__{broken windows, graffiti on the walls: a decrepit rathole near the gotham docks.}
+<L>__{interior doctor's office night}
+<A>__{tight on a face swathed in bandages. the patient sits erect in a wooden chair, surrounded by the grimy paraphernalia of an unlicensed gangland doctor. the doctor, a nervous little ferret with the bedside manner of a back alley abortionist, steps up with a scissors.}
+<C>__{doctor}
+<D>__{well, mr. napier, let's see how we did.}
+<A>__{he begins to snip away. as the bandages come off, we get: jack napier's pov the last strands of gauze peel away. the doctor stands there, looking at his handiwork. his mouth falls open. his eyes bug out. he gags.}
+<C>__{jack }
+<D>__{mirror.}
+<A>__{the doctor just stands there staring at camera, stock still, apparently transfixed by the sight of jack's face.}
+<C>__{jack }
+<D>__{mirror.}
+<B>__{angle on doctor}
+<A>__{he clears his throat, reaches apprehensively for a hand mirror, and passes it out of frame to jack. two beats. then, the sound of glass shattering as the mirror drops to the floor. jack begins to laugh. the doctor gets a little edgy.}
+<C>__{doctor}
+<D>__{you understand the facial muscles were completely severed }
+<A>__{jack keeps on laughing. the doctor turns uneasily away, gestures apologetically at his seedy equipment.}
+<C>__{doctor }
+<D>__{ you can see what i have to work with here }
+<A>__{more laughter. the trembling doctor covers his face with one hand, whining now, not daring to look at jack.}
+<C>__{doctor }
+<D>__{i'm sure that with proper recon recon reconstructive surgery }
+<A>__{a door slams. jack is gone. the grateful doctor breathes a sigh of relief and steadies himself on an operating table.}
+<L>__{exterior office building overhead angle night}
+<A>__{from a point high above we see jack emerging into the alley, pulling on a hat, wrapping a muffler about his head. we can't see his face. but we can't forget his laugh.}
+<T>__{cut to:}
+<L>__{interior bruce wayne's bedroom night}
+<A>__{vicki nestled peacefully under the covers. beside her is bruce: hands behind his head, staring up at the ceiling. it's almost as though bruce is not used to sleeping at night. he doesn't know what to do with himself. he looks at vicki. she's terribly lovely. but despite all that, we can't shake the feeling that bruce... would really rather be somewhere else.}
+<T>__{cut to:}
+<L>__{exterior street night}
+<A>__{loud music. kids in punk regalia stand outside a rock club as jack stalks past. the wind knocks his hat off.}
+<C>__{kid}
+<D>__{nice hair, dude!}
+<A>__{jack ignores them as he bends to retrieve his hat. then he gazes up at the steel and glass facade of a skyscraper and strides deliberately across the street.}
+<L>__{interior grissom's penthouse night}
+<A>__{the spectacular gotham skyline, seen through the plate glass window of grissom's conference room. the doors to the private elevator hiss open and jack wanders in. he plops in the big plush swivel chair behind grissom's desk.}
+<C>__{grissom }
+<D>__{that you, sugar bumps?}
+<A>__{grissom waddles in unsuspectingly from the adjoining room. he's fresh out of the shower, a towel wrapped around his impressive girth. he's using a smaller towel to dry his hair, and so it's a moment before he sees the bundled up figure at his desk.}
+<C>__{grissom }
+<D>__{who the hell are you?}
+<C>__{jack}
+<D>__{it's me. "sugar bumps."}
+<C>__{grissom}
+<P>__{(recognizing his voice)}
+<D>__{jack?}
+<P>__{(advancing cautiously)}
+<D>__{thank god. i can't believe it's you. i heard you'd been }
+<C>__{jack}
+<P>__{(standing up)}
+<D>__{is that what you "heard"?}
+<A>__{jack gestures him over to the empty chair. grissom doesn't move until he sees the gun pointed at his belly.}
+<C>__{jack }
+<D>__{you set me up!}
+<P>__{(beat)}
+<D>__{over a girl. you must be insane!}
+<A>__{grissom surreptitiously reaches for a desk drawer.}
+<C>__{jack }
+<D>__{keep your hands on the desk.}
+<C>__{grissom}
+<D>__{sooner or later you would've tried to take me, jack. you may get me now, but your life won't be worth a dime.}
+<C>__{jack}
+<D>__{i've died once already. it wasn't so bad. in fact i recommend it.}
+<A>__{grissom is beginning to panic now. it's obvious that jack is utterly, hopelessly deranged.}
+<C>__{grissom}
+<D>__{jack, listen we'll cut a deal }
+<C>__{jack}
+<D>__{jack? jack? do i look like a jack??}
+<A>__{and now, for the first time, he flings away the hat. rips the muffler from his face. and as grissom gasps in shock stands revealed in his full horrendous glory. his flesh is bleached bone white. his hair is a luminous seaweed green. and his cheeks are torn and puckered from the bullet wound, twisting his mouth into a hideous, perpetual harlequin's grin.}
+<C>__{jack }
+<D>__{i'm not a jack any more.}
+<P>__{(pause; cackling)}
+<D>__{you made me a joker!}
+<A>__{the cackle builds into furious, hysterical laughter. grissom, revulsed, terrified, pushes himself away from the desk, back toward the window which overlooks the city.}
+<C>__{grissom}
+<D>__{jack i'm warning you. wipe that lunatic grin off your face.}
+<C>__{jack}
+<D>__{ha! that's the best part. i can't!!}
+<A>__{and with that jack pulls the trigger. and fires. and fires again until the clip is empty.}
+<L>__{exterior grissom's building night}
+<A>__{we tilt up the chrome and glass facade of the skyscraper, arriving finally at the top floor: a plate glass window spiderwebbed with cracks where jack's bullets hit.}
+<L>__{interior grissom's penthouse that moment night}
+<A>__{the room is still dark. jack or, as we'll know him from this moment on, the joker sits in grissom's swivel chair, staring out at the moon drenched skyline.}
+<C>__{joker}
+<D>__{what a view. our little city. it always brings a smile to my face.}
+<A>__{he reaches for a nearby glass of liquor and glances down at grissom who lies dead on the floor, the towel still wrapped around him. the joker laughs softly to himself.}
+<C>__{joker }
+<D>__{guess it's my little city now. wonder what it'll look like when i get done with it.}
+<P>__{(pause)}
+<D>__{i bet it'll be something real fine. real fine and pretty.}
+<T>__{dissolve t:}
+<L>__{0: interior bruce wayne's bedroom morning}
+<A>__{the sun is just up, and vicki finds herself alone in bed. a soft, off key baritone voice drifts out of the adjacent bathroom: bruce in the shower, singing "honeysuckle rose." she breaks into a huge smile and climbs out of bed. somehow she's wound up wearing bruce's ribbed formal shirt.}
+<L>__{interior bathroom a moment later morning}
+<A>__{bruce in his opulent deco shower stall, still singing to himself. vicki sneaks up behind him, opens the door. he instantly stops singing as if he's been hit by a brick.}
+<C>__{vicki}
+<D>__{i didn't mean to scare you. i just had to come in here and see it that was really you singing.}
+<A>__{she smiles, teasing him. he doesn't respond. he acts as if she's caught him doing something shameful exposed him.}
+<C>__{vicki }
+<P>__{(singing)}
+<D>__{"don't buy sugar you just have to touch my cup." come on. "you're my sugar "}
+<P>__{(no response from bruce)}
+<D>__{bruce, you are such a case.}
+<A>__{bruce seems somehow unable to sing along. but be quickly recovers his composure and forces a crooked, almost childish smile.}
+<C>__{bruce}
+<D>__{i don't sing very well.}
+<C>__{vicki}
+<D>__{then there's one thing in the world you don't do very well. and i know what it is. now you'll have to kill me.}
+<A>__{he kisses her good morning, steps out and reaches for a towel. his body is one big mass of bruises and abrasions.}
+<C>__{vicki }
+<D>__{poor thing. you should stay off that horse.}
+<T>__{cut to:}
+<L>__{interior globe city room day}
+<A>__{knox, in a surly mood, examines the morning edition of the globe. he's turned to page six the gossip page and there, under miranda reitz's byline, is a picture of vicki. it seems she and bruce are the talk of the town.}
+<C>__{knox}
+<P>__{(disgusted)}
+<D>__{...peanut.}
+<A>__{a copy boy approaches his desk with a manila folder:}
+<C>__{copy boy}
+<D>__{here's that morgue file you wanted.}
+<A>__{knox leans back in his chair. the file is labelled "bruce wayne: 1982 1987." knox opens it and begins to leaf through old clippings from back issues of the globe. wayne foundation to fund low cost housing. millionaire}
+<B>__{heads charity drive for gotham handicapped. hurricane}
+<A>__{victims say 'thank you' to bruce wayne. knox's face sags in dismay. every article seems to be telling us just how swell a rich philanthropist can be.}
+<C>__{knox}
+<D>__{come on. gimme some dirt!}
+<A>__{then he notices something odd. in the whole fat file of clippings, there are no pictures of bruce wayne with two partial exceptions. one is a group shot, bruce in the middle, waving at the camera and blocking our view of his face. the other is an ancient picture of a collegiate bruce, stern faced, hair down to his collar. the caption reads "bruce wayne in}
+<L>__{1973" years out of date even when it ran in the paper.}
+<C>__{knox }
+<D>__{... why don't you like your picture taken?}
+<T>__{cut to:}
+<L>__{interior apartment lobby night}
+<A>__{a doorman dozes in the plush lobby of alicia hunt's apartment building on the east side of gotham. through the glass doors we see alicia outside in the chill wind, peering inside, hesitant to enter. as silently as possible she uses her key and steps in, tiptoeing past the doorman, trying not to wake him. she's almost made it when he sits bolt upright, startling her.}
+<C>__{doorman}
+<D>__{miss hunt!}
+<P>__{(smiling)}
+<D>__{no need to sneak in. the rent's been taken care of.}
+<C>__{alicia}
+<D>__{... the rent? paid?}
+<L>__{interior alicia's apartment night}
+<A>__{alicia, mystified, lets herself in and turns to lock the door. she's startled once more by a voice from behind.}
+<C>__{voice}
+<D>__{honey i'm home!}
+<A>__{she pivots. her eyes widen. she shrieks. sitting cross legged in an easy chair, a twisted grin on his loathesome face, is the joker. he's in a smoking jacket and slippers, reading the paper, a dry martini at his side. this grim parody of domesticity sends poor alicia into a dead fainterior}
+<L>__{interior penthouse suite day}
+<A>__{it looks for all the world like a corporate boardroom. at a long table sit gotham's most distinguished criminals: ganglords and rackets bosses from every corner of the city. they stare suspiciously at the head of the table.}
+<C>__{joker }
+<D>__{so that's how it is, gents. until grissom decides it's safe to come up for air... i'm running the show.}
+<A>__{now we see what they see: the joker, dressed rather flamboyantly in a big slouch hat. his face is layered with flesh toned makeup, and his hair's been rinsed black. unfortunately, he can't conceal his ghoulish smile.}
+<C>__{gang boss}
+<D>__{so why don't we hear this from grissom?}
+<C>__{racketeer}
+<D>__{i got something i'd like to know. how come you're wearing that stupid smirk?}
+<C>__{joker}
+<D>__{'cause i got an army, chum. and i got grissom's army. and this city is mine.}
+<A>__{carmine rotelli, an especially oily mobster, speaks up:}
+<C>__{rotelli}
+<D>__{i don't like taking orders, from grissom. and i especially don't like taking orders from grissom's goon.}
+<C>__{joker}
+<D>__{i've considered that possibility.}
+<C>__{rotelli}
+<D>__{and what happens if we say no?}
+<C>__{joker}
+<P>__{(chuckling)}
+<D>__{nobody wants a war, carmine. if we can't do business, we shake hands and part friends.}
+<C>__{rotelli}
+<D>__{that's it?}
+<C>__{joker}
+<D>__{that's it.}
+<A>__{the joker extends a hand. rotelli reaches out to shake it. he doesn't see the joy buzzer concealed in the joker's palm.}
+<L>__{40,000 volts course through rotelli's body. he drops back}
+<A>__{into his seat a blackened husk, smoke pouring out from his sleeves and shirt collar. the crimelords recoil in horror. before they can make a move, a squad of armed thugs burst into the room.}
+<C>__{joker }
+<D>__{looks like carmine got a little hot under the collar.}
+<C>__{crimelord}
+<D>__{... you're insane!}
+<A>__{the joker is a wee bit agitated. he removes the hat and mops sweat from his brow, exposing a patch of chalk white flesh to the great bewilderment of the onlookers.}
+<C>__{joker}
+<D>__{that's what they said about lee iacocca. now get out of here. and think it over!}
+<A>__{the sickened criminals file out cautiously. that leaves the joker alone in the room with the charred corpse of rotelli. the joker sinks into a chair and as is his wont }
+<T>__{addresses the stiff:}
+<C>__{joker }
+<D>__{heck, they're not such bad guys. i say we give 'em a couple of days to come around.}
+<P>__{(thoughtful pause)}
+<D>__{we e ll... maybe one day.}
+<P>__{(then, casually)}
+<D>__{aaah, screw it. let's grease 'em.}
+<T>__{cut to:}
+<L>__{interior small back room night}
+<A>__{a poker game. a crimelord from the joker's board meeting picks up his hand and fans out the cards. five jokers. he looks up, puzzled. the last thing he sees is a hired killer bursting in through the door, gun in hand.}
+<L>__{exterior gotham park day}
+<A>__{a costumed clown with a wheeled cart, filling balloons from a helium tank, passing them out to the kids. crimelord #2 strolls past. the clown offers him a balloon, which be politely refuses. the clown reaches into his cart for a red metal tank. but, as we quickly find out, it's not a helium tank it's a}
+<B>__{flamethrower.}
+<L>__{exterior halliday plaza day}
+<A>__{a sunny, landscaped quad surrounded by corporate skyscrapers: trees, grass, marble fountains, flags of many nations. amid the pedestrians we catch bruce and vicki, all smiles, cutting through the plaza on the way to lunch.}
+<C>__{vicki}
+<D>__{... to tell you the truth, i'd just about given up waiting.}
+<C>__{bruce}
+<D>__{i said i'd call you the minute i got free. and i did. and here we are.}
+<C>__{vicki}
+<P>__{(teasing him)}
+<D>__{hm hmm. lunch. not even dinner.}
+<A>__{he stops in his tracks, takes her by the shoulders.}
+<C>__{bruce}
+<D>__{vicki. do you want the whole truth? all coyness aside?}
+<P>__{(long pause)}
+<D>__{i wish i had more time to give you. every day i don't see you, i miss you.}
+<P>__{(beat)}
+<D>__{now. are you going to waste this lovely afternoon being all mad at me?}
+<A>__{all this, of course, is delivered with devastating sincerity. vicki finds herself totally disarmed.}
+<C>__{vicki}
+<D>__{okay, i'm a sucker. you sound so much like someone i used to...}
+<P>__{(stopping suddenly)}
+<D>__{bruce? i know this is silly, but you're not married, are you?}
+<A>__{he stops and laughs. she smiles crookedly, takes his arm. another angle across plaza that moment philly ricorso another crimelord from the boardroom enters the plaza flanked by a cadre of paid bodyguards.}
+<B>__{on bruce and vicki}
+<A>__{a painted street mime walks alongside them, feeling his way along an imaginary wall. vicki groans.}
+<C>__{vicki}
+<D>__{all street mimes should be executed.}
+<C>__{bruce}
+<D>__{... looks like a convention.}
+<A>__{and indeed, there are half a dozen street mimes converging on the center of the plaza. ricorso and co. approach the mirrored glass entrance of a skyscraper. in the lobby, a mime who's been annoying the passersby throws a bolt, locking the doors from inside. a bodyguard bangs on the glass. nearby, another mime reaches into a trash bin and pulls out a machine gun. sudden screams of terror from the onlookers. vicki turns to bruce. before she can get his name out, he's hoisted her bodily and thrown her behind a marble fountain.}
+<B>__{series of shots}
+<A>__{bruce's eyes darting birdlike around the plaza intercut : with the following pov shots, all in slow motion: two mimes with machine guns. one of them lining philly}
+<D>__{and co. up against the glass doors, the other holding the crowd at bay;}
+<A>__{ a woman in the crowd fainting. a third mime gleefully}
+<D>__{imitating her swoon, to no one's amusement;}
+<A>__{ philly and his goons, cowering, hands in the air, as}
+<D>__{other mimes cruelly mimic their terrified poses...}
+<A>__{... and suddenly bruce is running frantically, looking for a secluded spot, an alleyway, anything. no go. he's out in the open, with onlookers everywhere. in his civvies, he's just another citizen... totally impotent. he darts around a corner, backs against a wall. women, children, grown men race past. no privacy. he's practically quaking now, in the throes of some terrible anxiety. he looks up at the sky overhead, terrified. a brilliant sun bears down on him as machine guns chatter.}
+<B>__{angle on philly and bodyguards}
+<A>__{bodies jerking as glass rains down in shards.}
+<B>__{angle on bruce}
+<A>__{his back arched, his mouth agape, his face drained of blood as the sounds of carnage echo through the plaza. it's almost as if the bullets are striking him. a moment later, it's all over but the screaming. vicki emerges from the crowd and finds bruce slumped against the wall, nearly catatonic. she moves to touch him. as if by reflex he reaches out and grabs her by the arms with a grip so strong it could crush bone. she gasps, looks up and sees, in his traumatized eyes, a look so raw, so desperate, that it virtually defies comprehension.}
+<C>__{vicki}
+<D>__{bruce!!}
+<A>__{he blinks rapidly. he relaxes his grip. before vicki's eyes, he's changing... becoming the bruce she knows.}
+<C>__{bruce}
+<D>__{oh my god... are you all right?}
+<A>__{he reaches for her. involuntarily, she steps back. he sees her reaction and his face goes slack frightened, pleading. this time she lets him embrace her... but her face is full of bewilderment and doubt. insert television screen}
+<C>__{anchorwoman}
+<D>__{... live from halliday plaza, where a gangland style execution claimed the life of racketeer philly ricorso. ricorso's death is the third in a rash of underworld killings...}
+<T>__{cut to two:}
+<A>__{ shot: the anchorwoman and commissioner gordon.}
+<C>__{anchorwoman }
+<D>__{commissioner, you've heard the rumors. are these murders the work of the mysterious 'batman'?}
+<A>__{a piercing cackle fills the air. camera pulls back from the tv, placing us in the joker's boardroom. behind the big desk he swivels into view, phone in hand.}
+<C>__{joker}
+<D>__{all reet! i think it's about time we called another meeting, huh?}
+<T>__{cut to:}
+<L>__{interior wayne manor day}
+<A>__{alfred on the phone, a feather duster in his hand.}
+<C>__{alfred}
+<D>__{i'm sorry, miss vale. i've given him your messages. that's all i can do.}
+<A>__{angle widens. bruce is sitting mere feet away, obviously distraught, locked in some sort of internal struggle.}
+<L>__{interior vicki's apartment that moment day}
+<C>__{vicki}
+<D>__{please tell him... i'm not trying to make his life difficult. i'd just i'd just like to know what's going on.}
+<A>__{a knock at the door as vicki hangs up. she goes to open it, finds knox wearing a big, cheshire cat smile.}
+<C>__{knox}
+<D>__{hiya, peanut. i got something i'd like you to see.}
+<L>__{interior library day}
+<A>__{a microfilm machine. as vicki looks on curiously, knox all eagerness now threads up a roll of film and begins cranking through back issue newspapers.}
+<C>__{knox}
+<D>__{okay, here we go. check it out.}
+<A>__{he steps back. vicki stares down at the display screen. a front page banner headline reads:}
+<B>__{thomas wayne murdered}
+<A>__{prominent doctor, wife slain in robbery unidentified gunman leaves child unharmed beneath it, a photo: cops kneeling over corpses. medics with stretchers. and off to one side, a young boy bruce wayne his arms wrapped around the waist of a beat cop. the boy stares straight at the camera. his face is a mask of unforgettable agony. you can't take your eyes off it.}
+<C>__{vicki}
+<D>__{oh my god... i've seen this picture.}
+<C>__{knox}
+<D>__{i guess so. pulitzer prize, 1963.}
+<C>__{vicki}
+<D>__{his face. allie, look at his face.}
+<A>__{tight on the boy's contorted face, staring out in shock and disbelief, his features recognizable across all the years permanently, indelibly traumatized. the same face vicki saw in halliday plaza.}
+<C>__{knox}
+<D>__{yep. he watched the whole thing happen. recognize the beat cop? jim gordon.}
+<C>__{vicki}
+<D>__{oh, bruce...}
+<C>__{knox}
+<D>__{something like this what do you suppose this could drive a guy to?}
+<L>__{interior restaurant day}
+<A>__{a greasy spoon off the lobby of the globe building. knox and vicki in a booth.}
+<C>__{vicki}
+<D>__{alexander, you are on drugs.}
+<C>__{knox}
+<D>__{he walks out on his own party. half an hour later, the caped crusader turns up in full bat drag.}
+<P>__{(beat)}
+<D>__{sees an execution, freaks out in an alleyway. no place to change.}
+<P>__{(smiling)}
+<D>__{yeah, vicki, he's "married" all right.}
+<C>__{vicki}
+<D>__{you're pissing me off, allie. i know exactly why you're doing this.}
+<C>__{knox}
+<P>__{(leaning forward)}
+<D>__{oh? why is that, vicki?}
+<A>__{vicki wilts under the challenge. she holds her silence for a second, then changes the subject.}
+<C>__{vicki}
+<D>__{he's best friends with jim gordon and harvey dent. they would know.}
+<C>__{knox}
+<D>__{... okay, vicki, i have a confession to make. i'm the batman.}
+<A>__{vicki snorts, rolls her eyes impatiently.}
+<C>__{knox }
+<D>__{don't believe me? why not?}
+<C>__{vicki}
+<D>__{alexander... i know you.}
+<C>__{knox}
+<D>__{right. and they know him. and that's why it would never occur to them for a minute that their old buddy bruce puts on a cape at night and goes out looking for }
+<C>__{vicki}
+<D>__{this is pointless. i'm leaving.}
+<C>__{knox}
+<P>__{(grabbing her arm)}
+<D>__{your little chum is out of his mind.}
+<P>__{(relaxing his grip)}
+<D>__{next time you call him up and he can't go out friday night think it over.}
+<T>__{cut to:}
+<L>__{interior ace chemical co. day}
+<A>__{low angle on the joker. he stands on a catwalk high above the refinery floor, lord of all he surveys, overseeing production like a demented middle manager.}
+<L>__{interior storeroom day}
+<A>__{a dank, windowless room in the bowels of ace chemical, which the joker has converted into a makeshift lair. sap like goo drips in puddles from exposed pipes overhead. camera drifts across the joker's cluttered desk. shipping manifests. ledgers. psychotic doodles scrawled in crayon. more significantly: an old contract dating back to the mid seventies. it's half obscured by other papers, but the initials 'cia' are plainly visible. then: a bound report with the title 'ddid nerve gas: results of preliminary experimentation.' across its title and finally: a sheaf of photos. laboratory apes, chimps and orangutans, all dead. their lips are drawn back, exposing hideous, chemical induced grimaces. on one wall: poster sized blowups of the grinning apes. on the opposite wall: a large scale photographic reproduction of the gotham city skyline, its bottom half hidden from view by the joker's desk. the phone rings. the joker who has been sitting on the floor by the cityscape pops into frame and picks it up.}
+<C>__{joker}
+<D>__{how's that first shipment coming?}
+<C>__{voice on phone}
+<D>__{right on schedule. oh, we got that address for you 79 east end, #12 c.}
+<C>__{joker}
+<D>__{mmm. how'd you find it?}
+<C>__{voice on phone}
+<D>__{called her agent.}
+<A>__{the joker nods in satisfaction and resumes his place on the floor. like a happy kindergartener, with paste pot and scissors, he's clipping photos from a magazine horrible scenes of death, destruction, panic, mutilation. one by one, he's pasting these shots on the blowup of gotham city all along sidewalk level creating a massive photomontage of anarchy in the streets. we've seen these photos before. vicki vale took them... in corto maltese.}
+<L>__{interior photographer's studio day}
+<A>__{in foreground, rows of makeup in startling profusion: mascara, blusher, eyeliner, lipstick. half a dozen beautiful models giggle into their makeup mirrors. in the background vicki wanders past with a stylish friend, claire, who owns and operates the studio.}
+<C>__{claire}
+<D>__{... of course, after corto maltese, this must all seem pretty tame.}
+<C>__{vicki}
+<D>__{not to me. i need a job.}
+<C>__{claire}
+<D>__{now vicki. everyone knows you've got your hooks in bruce wayne.}
+<C>__{vicki}
+<D>__{then "everyone" must know something i don't.}
+<C>__{claire}
+<P>__{(cattily)}
+<D>__{oh. really. well. come on, dear, tony's dying to see you.}
+<A>__{in a corner of the studio, tony, a gaunt, tubercular brit, is shooting a swimsuit layout with two supermodels. they all ad lib greetings to vicki as tony darts around hyperkinetically, snapping the girls in a series of poses.}
+<C>__{tony}
+<D>__{yes, ladies, smiles, show me those smiles, fabulous, tropical smiles, think tahiti, i want to see teeth, yes, those glorious teeth }
+<A>__{as vicki looks on, the supermodels freeze in place simultaneously, a strange, stricken look on their faces.}
+<C>__{tony }
+<D>__{my god no, don't stop now, those smiles, i need those smiles }
+<A>__{suddenly the girls are laughing but the laughter is unnatural, involuntary. vicki, sensing that something is terribly wrong, lays a hand on claire's arm. the models, now wearing huge smiles, begin to twitch spasmodically. tony snaps away.}
+<C>__{tony }
+<D>__{yes! oh baby, yes! that's }
+<P>__{(beat)}
+<D>__{no! too far, too far! pull back, pull back!}
+<P>__{(dropping the camera)}
+<D>__{oh my god!}
+<A>__{the supermodels pitch to the floor, shuddering convulsively, their lips drawn back in frightful, frozen, lab ape grins. vicki gasps. claire screams. tony screams.}
+<T>__{cut to:}
+<L>__{interior television studio evening}
+<A>__{the eyewitness news set, with anchors patsy narita and dave mcelroy. behind them, blowups of the two dead}
+<B>__{supermodels.}
+<C>__{patsy}
+<D>__{the fashion world was stunned today by the sudden deaths of top models kelly brinkley and christie emberg. cause of death has been attributed to a violent allergic reaction, although authorities have not yet ruled out the possibility of drug use. dave?}
+<A>__{behind dave, on the bluescreen: a huge statue, covered in canvas not unlike new york's statue of liberty.}
+<C>__{dave}
+<D>__{in gotham, plans continue for the city's 300th birthday celebration. the four day event will conclude with the unveiling, in gotham harbor, of the newly restored 'lady gotham'...}
+<A>__{a technician's hand passes a slip of paper into frame.}
+<C>__{dave }
+<D>__{this bulletin just in. nine more mysterious deaths at a beauty parlor in }
+<A>__{off to the left, patsy begins to laugh. dave frowns.}
+<C>__{dave }
+<D>__{patsy! this is hardly the }
+<P>__{(his eyes widen)}
+<D>__{patsy!!}
+<A>__{an offscreen crash. suddenly dave is up out of his seat, mouth agape in horror.}
+<B>__{patsy has gone into convulsions. camera whips violently}
+<A>__{right and left as she jerks out of her seat and totters uncontrollably across the set, laughing insanely. technicians rush the soundstage in an unrehearsed frenzy. patsy spins like a dervish and lurches backward over the newsdesk in a death spasm, giving us a quick look at the grisly joker's grin etched on her now lifeless face. dave gestures frantically to the cameraman:}
+<C>__{dave }
+<D>__{kill the camera!! kill the }
+<A>__{suddenly, crackling video static wipes out the screen. a moment later, we're looking at: splitscreen closeup the supermodels their gorgeous faces sprout big, animated cartoon grins as a bouncy tune "put on a happy face" comes up underneath.}
+<C>__{models }
+<D>__{... love that joker!}
+<L>__{interior supermarket day}
+<A>__{theme music continues as a grinning, deranged pitchman the joker pushes his shopping cart down the aisle. the shelves are filled with products bearing his trademark harlequin's face. he waves merrily in time to the music.}
+<L>__{interior studio video control booth that moment}
+<A>__{panicked technicians swarm the booth. the studio feed has been jammed. every monitor shows the joker's commercial.}
+<C>__{director}
+<D>__{where's it coming from??}
+<C>__{technician}
+<D>__{i don't know!}
+<A>__{closeup the joker}
+<C>__{joker}
+<D>__{... new improved joker brand. with the secret ingredient... smylenol!}
+<P>__{(a sweep of the hand)}
+<D>__{let's go to our blind taste test.}
+<A>__{tight on an anonymous man gagged and blindfolded, tied to his chair, squirming, struggling. on the table before him is a package labelled "brand x." a superimposed title reads: "not an actor."}
+<C>__{joker }
+<D>__{ooh. he's tense. irritable. out of sorts.}
+<P>__{(wagging a finger)}
+<D>__{he's been using brand x! but with new improved joker brand...}
+<A>__{angle widens to include a blindfolded corpse, limp in his chair, grinning horrifically.}
+<C>__{joker }
+<D>__{... it's a smile every time!!}
+<L>__{exterior idyllic pastoral setting day}
+<A>__{the joker in a field of wheat. on a picnic blanket before him are two clean cut models : one male, one female, both dead... and grimacing horribly.}
+<C>__{joker }
+<D>__{ and the world smiles with you! irresistable oh so kissable }
+<A>__{he grabs the dead models by the hair. their teeth clink as he forces their heads together for a post mortem kiss.}
+<B>__{series of shots}
+<A>__{television sets all over gotham, as startled citizens react to the joker's maniacal promo.}
+<C>__{joker}
+<D>__{i know what you're saying. where can i buy these fine, fine products? well, that's the gag, folks, you never know. chances are... you've bought 'em already!!!}
+<A>__{as his rant continues, we see: a young man watching the bedroom tv as he dresses for}
+<D>__{a date. he's got an aerosol deodorant can poised under one arm, ready to spray. he looks down at the can, suddenly uncertain. could it be...?}
+<A>__{ a family in their kitchen, eyeing a 12 inch portable}
+<D>__{as mom serves dinner. they dig in automatically, then freeze with their forks in midair.}
+<A>__{ a middle aged matron at the living room tv. shocked,}
+<D>__{she calls to her husband and gets no reply. we follow her to the bathroom door. on the floor she sees an overturned shampoo bottle. then: her husband, slumped down in the tub, a lethal grin on his face. she lets out a shriek.}
+<L>__{interior wayne manor study night}
+<A>__{alfred the butler in a crouch, glued to the tube.}
+<C>__{alfred}
+<D>__{... sir!}
+<A>__{his pov: the joker in tight closeup. offscreen, an infant begins to squall. the joker cocks an eyebrow.}
+<C>__{joker}
+<D>__{baby's got a tummyache? here's something that'll fix him quick!}
+<A>__{he tosses a joker product out of frame. then leering he gives the camera a big juicy wink.}
+<C>__{joker }
+<D>__{now on your grocer's shelf. so remember use joker brand and put on a happy face!!}
+<A>__{music up. video snow fills the screen as the jammed transmission end. alfred looks over his shoulder. track in on the grim, determined face of bruce wayne.}
+<B>__{series of shots}
+<A>__{ the gotham globe cartwheeling into frame:}
+<B>__{panic grips gotham}
+<A>__{contaminated products claim 72 lives who is the mysterious "joker"? an anchorwoman on the evening news. her complexion is}
+<D>__{curiously sallow. black bags show under her eyes.}
+<C>__{anchorwoman}
+<D>__{... sixteen new deaths, with no clues as to the joker's identity or demands. the list at potentially lethal products now includes: perfume mascara cold cream }
+<A>__{ the makeover counter at bloomingdale's. security}
+<D>__{guards rush to the scene as three matronly customers go into simultaneous smiling fits.}
+<A>__{ an anchorman with a big ugly zit on his nose:}
+<C>__{anchorman}
+<D>__{men's cologne toothpaste mouthwash underarm deodorant }
+<A>__{ a subway car jammed with straphangers. huge patches of}
+<D>__{sweat under every arm. the doors slide open; oncoming passengers recoil visibly at the unendurable stench.}
+<A>__{ the original anchorwoman, whose look is now 100%}
+<D>__{natural. her hair is frizzy. her eyebrows are missing altogether. every wrinkle on her face is plainly visible.}
+<C>__{anchorwoman}
+<D>__{hair spray eyebrow pencil moisturizing cream }
+<A>__{ a large drugstore. cashiers sit idly by the registers.}
+<D>__{the store is utterly devoid of customers.}
+<T>__{cut to:}
+<L>__{exterior street dusk}
+<A>__{from across the street we see vicki headed down the sidewalk toward a museum. a gloved hand reaches for a pay phone.}
+<C>__{voice}
+<D>__{she's outside the fluegelheim.}
+<L>__{interior alicia hunt's penthouse that moment}
+<A>__{a bone white hand slams a phone receiver down. the joker is at his vanity. he's rinsed his hair black. he's applying pounds of pancake makeup to his bleached face, his puckered cheeks. in the right light he could almost pass for human. in all the city, he's the only person still using cosmetics. a dreamy, drugged voice intrudes:}
+<C>__{alicia}
+<D>__{jack? who was that?}
+<A>__{as he looks up at the mirror, we get a quick glimpse of alicia behind him. the voice, the long blonde hair, are unmistakable. but for some reason, alicia's face is covered... by a shiny white porcelain doll's mask.}
+<C>__{joker}
+<D>__{get dressed. we're going out.}
+<L>__{interior fluegelheim museum evening}
+<A>__{a gotham landmark, the fluegelheim looks like something frank lloyd wright would've dreamed up a large open atrium encircled by a stucco ramp, which spirals up along the interior walls to the ceiling four stories above. you walk up this gently inclined ramp to view the paintings.}
+<L>__{interior fluegelheim rooftop tea room evening}
+<A>__{the upper terminus of the ramp opens on an airy, fern filled dining room popular with tourists and elderly matrons who work up an appetite looking at art. vicki enters, camera bag slung over one shoulder, portfolio in hand.}
+<C>__{vicki}
+<D>__{i'm meeting mr. wayne. is he here?}
+<C>__{maitre d'}
+<D>__{no, but your table is ready.}
+<L>__{interior tea room twenty minutes later evening}
+<A>__{vicki, sipping on a gin and tonic, checks her watch. a waiter brings her a small parcel, wrapped in brown paper, bearing a single word: urgent.}
+<C>__{waiter}
+<D>__{miss vale, this just arrived for you.}
+<A>__{as the waiter leaves, she tears off the wrapper. inside is a small white box and a note scribbled in crayon. dear v. vale,}
+<B>__{put this on right now.}
+<A>__{unsigned, of course. vicki, puzzled, opens the box to find a miniature gas mask. she hears a strange hissing noise. a few feet away, green smoke is billowing out of an air conditioning vent. trays of food crash to the floor as waiters pass out. art lovers drop forks, go face down in their pasta salad. vicki hurriedly fits the gas mask over her nose and mouth. within seconds, she's the only one conscious in the room.}
+<L>__{interior museum that moment}
+<A>__{green smoke plumes up toward the ceiling as we tilt down toward the floor of the atrium. patrons and security guards lie sprawled on the floor, twisted at odd angles, out cold. the mist is beginning to clear now. the doors swing open and in strolls the joker, looking quite dapper in his street makeup and big purple pimp's hat. a squad of goons enters behind him. some of them are carrying large cartons. they lock the entry doors, place a "closed" sign in front of them, and begin uncrating large}
+<B>__{cans of black painterior}
+<A>__{the joker steps up onto the ramp, examines the artwork with an appreciative eye.}
+<C>__{joker}
+<D>__{okay, boys, let's broaden our minds.}
+<A>__{he stops in front of an ingres odalisque. stands back a pace or two to get a better look. then pulls out a straight razor and cuts a long diagonal gash in the canvas. he ambles up the ramp, stepping over collapsed patrons, pausing at every fourth or fifth painting. monet water lilies, a degas ballerina all get the razor treatment. behind him his cronies work their way up the ramp, heaving black paint on every canvas the joker has missed. he cocks an eyebrow at edvard munch's "the scream."}
+<C>__{joker }
+<D>__{i kinda like this one. leave it.}
+<L>__{interior tea room a moment later evening}
+<A>__{vicki at her table, still wearing the gas mask, scared as hell. the overhead lights wink out and the room goes dark. the joker saunters over and pulls up a chair.}
+<C>__{joker}
+<D>__{i think it's safe to take that off.}
+<A>__{vicki recognizes the deranged smile instantly. she removes the gas mask, tries to gather her wits.}
+<C>__{joker }
+<D>__{you're quite beautiful.}
+<C>__{vicki}
+<D>__{... thank you.}
+<C>__{joker}
+<D>__{unfortunate, but i think we can work around it.}
+<A>__{he sets a couple of candlesticks on the table and reaches for his lighter. a long jet of flame shoots out, jerry lewis style, as he lights the candles.}
+<C>__{joker }
+<D>__{you're vicki vale. i guess you know who i am. is this your portfolio?}
+<A>__{she nods. he opens it, begins leafing through the record of vicki's career. newspaper photos from the globe, at first. then fashion layouts, magazine covers of celebrities. artier b&amp;w shots from vicki's first couple of exhibitions.}
+<C>__{joker }
+<D>__{crap. crap. crap, crap, crap... ahhh. now here's what caught my eye.}
+<A>__{he's come to the combat photos from corto maltese.}
+<C>__{joker }
+<D>__{the panic. the bloody skulls. the armless screaming fellows... you know, the atrocities.}
+<P>__{(smirking)}
+<D>__{somehow, when you shoot it, it all comes out so clean, so lovely.}
+<A>__{vicki is squirming, but she doesn't think it wise to debate the pointerior not with this lunatic, anyway.}
+<C>__{joker }
+<D>__{i guess i'm just an old cornball, but... i live for beauty. i look around at my little city, it gets me down.}
+<P>__{(indicating the photos)}
+<D>__{we don't have anything like this. well, it came to me that what this city needs... is beautification. kind of a big makeover.}
+<P>__{(enraptured)}
+<D>__{miss vale, i finally realized that one man can make a difference. you know the saying. "in his image... created he them"?}
+<A>__{vicki gazes at the awful face of this deranged visionary, getting more frightened by the minute.}
+<C>__{vicki}
+<D>__{and you want a }
+<C>__{joker}
+<D>__{a visual record, yes. a before and after kind of thing.}
+<P>__{(leaning closer)}
+<D>__{this could make your reputation.}
+<A>__{her first impulse is to get up and run. but she fights the impulse. she won't run... not until she gets this maniac on film. she reaches for her camera bag.}
+<C>__{vicki}
+<D>__{maybe we should start with a portrait of the artist. people might like to see the face behind the makeup.}
+<C>__{joker}
+<P>__{(momentarily puzzled)}
+<D>__{... behind the makeup?}
+<A>__{then it sinks in. by candlelight, in the darkened restaurant, with his pancake makeup and his black rinse job, he looks practically normal. vicki must think she's looking at his real face!}
+<C>__{joker }
+<D>__{oh. yes. i see what you mean.}
+<A>__{he finds a pitcher, pours a glass of water, and very carefully sets it on the table in front of vicki. then suddenly, inexplicably he barks at her:}
+<C>__{joker }
+<D>__{silly little twit i can't take you anywhere!}
+<A>__{he sits back and grins expectantly. vicki is thoroughly nonplussed by this bizarre outburst. a moment passes. he obviously wants her to do something, but she hasn't got a clue as to what it is. growing impatient now, he points at the water glass:}
+<C>__{joker }
+<D>__{well? what are you waiting for??}
+<A>__{now vicki gets the pointerior she picks up the glass and hurls its contents in the joker's face. his hands go up. he writhes. he shrieks like the wicked witch of the west dissolving. he reaches for a napkin to wipe his face clean... and begins to cackle. his awful white and green clown's face revealed behind the running makeup, he leers at her.}
+<C>__{joker }
+<D>__{you see, miss vale that was my makeup.}
+<P>__{(leaning forward)}
+<D>__{what do you think?}
+<A>__{vicki is repulsed, but she's determined to tough it out.}
+<C>__{vicki}
+<D>__{i've seen worse. much worse.}
+<C>__{joker}
+<D>__{strong stomach, huh? i like that in a woman. maybe we can do business after all.}
+<A>__{he seems to have calmed down a bit. it's almost as if he's coming on to her. but just then, a tiny bell sounds behind them... and a voice intrudes:}
+<C>__{voice}
+<D>__{jack?}
+<A>__{the joker turns. alicia steps out of a rooftop elevator and moves toward them, drugged, wraithlike. she's still wearing the porcelain doll's mask we saw earlier.}
+<C>__{joker}
+<P>__{(to vicki)}
+<D>__{christ, it's my girlfriend.}
+<P>__{(to alicia)}
+<D>__{what?}
+<C>__{alicia}
+<D>__{you said i could look at the pictures before you before you }
+<C>__{joker}
+<D>__{shucks, honey, i forgot.}
+<P>__{(rolling his eyes at vicki)}
+<D>__{i'm in trouble now.}
+<P>__{(to alicia)}
+<D>__{this is business, sweetie. why don't you go outside and see how the boys are coming?}
+<A>__{vicki can't take her eyes off this strange figure drifting eerily through the abandoned tea room.}
+<C>__{vicki}
+<P>__{(hesitantly)}
+<D>__{... why the mask?}
+<C>__{joker}
+<D>__{alicia! come here, have a seat. show miss vale why you wear the mask.}
+<A>__{alicia sits down numbly and begins to undo the mask.}
+<C>__{joker }
+<D>__{you see, miss vale, alicia's beautiful. one in a million. a work of art. in fact...}
+<A>__{we're looking at alicia's profile as the mask comes off. the side that's turned to us is indeed beautiful. but the side we can't see... sends vicki right over the edge.}
+<C>__{joker }
+<D>__{she makes you look sick.}
+<A>__{vicki lurches out of her seat, knocking it over, her face frozen in horror. she finds her camera, holds it out like a weapon as the joker advances on her.}
+<C>__{vicki}
+<D>__{you scum! you sick filth!... you did that to her!}
+<C>__{joker}
+<D>__{what? i improved her a little...}
+<A>__{vicki backs away, snapping the shutter on her camera. he blinks as the flash gun goes off repeatedly.}
+<C>__{vicki}
+<D>__{i will see you burn. i will see you dead. get away from me!!}
+<C>__{joker}
+<D>__{miss vale, was it something i said?}
+<P>__{(brightly)}
+<D>__{do you want to sniff my flower?}
+<A>__{there's a bright purple boutonniere in his lapel. he holds it up for vicki's inspection as he moves menacingly closer.}
+<C>__{vicki}
+<D>__{no!}
+<A>__{the joker squeezes a concealed bulb. a jet of clear liquid spurts out of the flower, narrowly missing vicki. she gasps. bumps into a table. acrid black smoke rises from the floor where the clear liquid hit. acid.}
+<C>__{joker}
+<D>__{come on, miss vale... stop and smell the roses!!}
+<A>__{he backs vicki into a corner. and then abruptly a skylight shatters in a hail of glass! a caped shadow drops to the floor of the restaurant! and the joker is face to face with... the batman! on his wrist is a steel gauntlet. ha aims it at the joker like a weapon. then pivots suddenly points his arm through the door of the restaurant and fires a metal spike into the adobe wall of the ramp outside!!}
+<C>__{joker }
+<D>__{... you!!}
+<A>__{on the end of the spike is a cord leading to batman's belt. in the wink of an eye he's grabbed vicki dragged her out of the tea room and plunged over the ramp wall, four stories straight down to the atrium floor below!!! the joker races to the edge of the ramp.}
+<C>__{joker }
+<D>__{get 'em!! get 'em!!}
+<A>__{his goons are stationed at various points along the ramp, still defacing masterpieces. they pull their guns and open fire as batman and vicki plummet past. angle on batman and vicki as they fall he holds the gauntlet overhead, rope whistling through it. as we watch, the gauntlet sprouts steel wings forming a bulletproof shield over their heads! two feet above the marble floor, the rope jerks them up short like a bunjee cord. guns blaze as batman and vicki drop safely to earth and make for the exit. the doors are locked. batman spots the black "closed" sign on a metal stand. he heaves it through the glass doors. vicki hustles through. he points her to a side alley.}
+<L>__{exterior side alley that moment dusk}
+<A>__{vicki rounds the corner just as batman lobs a smoke pellet into the doorway of the fluegelheim.}
+<C>__{batman}
+<D>__{get in the car!}
+<C>__{vicki}
+<D>__{which car?}
+<A>__{vicki suddenly feels quite stupid. because while there are many cars parked along the side alley there is only one batmobile.}
+<C>__{vicki }
+<D>__{... oh.}
+<A>__{the batmobile is sleek, futuristic, and... well, indescribable. imagine your own. vicki climbs into the passenger seat and is immediately dazzled by a stunning array of electronic gadgetry.}
+<C>__{batman}
+<D>__{ignition!}
+<A>__{as batman sprints down the alley, a computer display on the dashboard registers his unique voiceprinterior a tinny, synthesized voice repeats the command:}
+<C>__{computer}
+<D>__{ignition.}
+<A>__{the engines are revving up even as batman vaults into the cockpit alongside vicki. guns in hand, the joker's goons are stumbling out of the fluegelheim, hacking, coughing, blinded by smoke. they dive for their lives as the batmobile comes barrelling out of the alley at ninety miles an hour. the joker emerges just as the batmobile careens off.}
+<C>__{joker}
+<D>__{i want him!! i want him!!}
+<A>__{the joker climbs into the back of a van labelled "monarch playing cards." half his goons pile into the van behind him, the other half into a second car nearby.}
+<L>__{exterior streets that moment}
+<A>__{sirens howl as police cars converge on the flugelheim.}
+<L>__{interior batmobile that moment}
+<A>__{roaring out into city traffic.}
+<C>__{vicki}
+<D>__{look! police!}
+<C>__{batman}
+<D>__{i called them.}
+<C>__{vicki}
+<D>__{shouldn't we }
+<A>__{a police car whizzes past the batmobile. tires skid. the cop car does a quick 180 and sets out in hot pursuit of the batmobile. batman floors the accelerator in response.}
+<L>__{interior van that moment}
+<A>__{tight on the demented face of the joker. a goon calls out from the front of the van.}
+<C>__{goon}
+<D>__{there they are! dead ahead!}
+<A>__{the joker screams into a radio dispatcher's mike.}
+<C>__{joker}
+<D>__{all units! southbound on riverview!}
+<B>__{series of shots}
+<A>__{the joker's army. thugs in cars. creeps in italian restaurants. crooked cops at a coffee shop. lights flash, beepers sound, and within seconds they're racing to the streets, eager to join the chase. series of shots the streets cop cars. goon cars. the batmobile streaks through an intersection, nearly causing a pileup. the joker's van makes short work of a sabrett's hot dog stand in its path.}
+<L>__{interior batmobile that moment}
+<A>__{pedestrians gawk as the sleek supercar rips up the}
+<B>__{pavement.}
+<C>__{vicki}
+<D>__{what about her? what about the girl?}
+<C>__{batman}
+<D>__{he won't kill her.}
+<P>__{(gritting his teeth)}
+<D>__{goddammit!}
+<A>__{they're moving up on an empty block a night construction team. a huge piece of heavy machinery backs up slowly and inexorably, blocking the intersection.}
+<B>__{batman guns the engine. swerves left. tries to slide past.}
+<A>__{and hits the brakes stopping inches short of a head on collision with a lamppost. he jumps out of the car. no chance to get through. the joker's van is two blocks back and coming up fast. onlookers and construction workers are beginning to form a crowd around them.}
+<C>__{vicki}
+<D>__{can't we }
+<C>__{batman}
+<D>__{too many people. come on!}
+<P>__{(as she scrambles out)}
+<D>__{shields!!}
+<A>__{the batmobile's computerized voice replies:}
+<C>__{computer}
+<D>__{shields.}
+<A>__{with a series or clangs, chrome steel plates slide into place across the cockpit, over the tires leaving the batmobile an inert, impenetrable block of black metal. batman and vicki sprint through the construction site, vaulting over mounds of loose dirt and concrete rubble.}
+<L>__{interior van moving night}
+<A>__{three police cars, red lights blazing, overtake the joker's van and bear down on the abandoned batmobile.}
+<C>__{goon at wheel}
+<D>__{are they ours?}
+<C>__{joker}
+<D>__{... i don't know. we'd better get out of here.}
+<P>__{(into radio mike)}
+<D>__{westbound on 36th. do you copy??}
+<A>__{the van does a discreet u turn and rumbles off sedately down the street.}
+<L>__{exterior side street that moment night}
+<A>__{batman and vicki zigzag past storefronts and candy stands, dodging astonished pedestrians.}
+<L>__{interior car moving that moment}
+<A>__{four goons with guns. they spot batman and vicki coming off the side street. goon i, the driver, speaks into a radio:}
+<C>__{goon i}
+<D>__{we got 'em!}
+<C>__{joker }
+<P>__{(over radio)}
+<D>__{take 'em! i want his head!}
+<L>__{exterior street that moment night}
+<A>__{batman and vicki race down the sidewalk. the car is gaining on them; and then, from behind batman and vicki are caught in a spray of bullets. they dive. drop behind a parked car. and don't come up. they've ducked into a blind alley.}
+<L>__{interior alleyway night}
+<A>__{hunkered on the pavement, they watch the car glide past the mouth of the alley. vicki sighs in relief. batman still alert, his muscles tensed puts a restraining hand on her arm. he looks overhead, sees a catwalk spanning the width of the alleyway five stories up.}
+<C>__{batman}
+<D>__{how much do you weigh?}
+<C>__{vicki}
+<D>__{... a hundred and eight?}
+<A>__{he does some quick mental calculations. a beat. then the car reappears backing up blocking their only avenue of escape. batman unfurls a rope, heaves a batarang upward, and grabs vicki roughly about the waist.}
+<C>__{batman}
+<D>__{hang on!}
+<A>__{the joker's thugs pile out of the car. the batarang catches on the catwalk, and batman triggers the spring action reel on his utility belt jerking him and vicki into the air. bullets zing past as they whip upward like fish on a line. one story; two stories; and then... they slow. they stop. they dangle in midair as the joker's goons advance. batman wriggles, twists. they lurch upward another few feet and stop again. vicki screams. her additional weight is too much for the reel mechanism. they're stranded two stories up sitting ducks.}
+<C>__{batman }
+<D>__{whatever happens don't let go!!}
+<A>__{in the wink of an eye he's detached the reel from his own waist and hitched it around vicki's belt. before she has a chance to protest, he lets go. vicki rockets upward at blinding speed, shrieking all the way. batman, his cape billowing, plummets downward. vicki slams up into the catwalk and bobs on the end of the line as batman lands with a loud crash, overturning a row of garbage cans. the goons are on him in a flash one per limb. random kicking and flailing. batman manages to slam two goons into a wall, but before he can get to his feet goon #3 slams a lead pipe into the back of his skull. batman is down for the count. the thugs dust themselves off and circle around his prostrate form, still wary. the lead thug holds his colleagues back, draws his gun, and fires two shots, point blank, at the yellow and black insigne on batman's chest. the body jerks. they move closer. and stop.}
+<C>__{goon i}
+<D>__{... no blood.}
+<C>__{goon ii}
+<D>__{jesus.}
+<C>__{goon iii}
+<D>__{wait a minute.}
+<A>__{goon iii screws up his courage and crouches beside the body. he examines the batman's tunic... and rips it open.}
+<C>__{goon iv}
+<D>__{... what is that?}
+<C>__{goon iii}
+<D>__{some kind of body armor.}
+<C>__{goon i}
+<D>__{he's human after all. take that mask off.}
+<L>__{exterior rooftop on vicki}
+<A>__{five stories overhead, vicki has pulled herself up onto the roof of the adjacent building. she watches transfixed as the thugs bend over to remove batman's cowl. but at this height and this angle she can't see his face. on a sudden impulse she reaches for her camera bag.}
+<B>__{angle on goons}
+<A>__{peering down open mouthed at the unconscious face of bruce wayne. blood seeps from bruce's left nostril.}
+<C>__{goon i}
+<D>__{well?... who is this guy?}
+<C>__{goon ii}
+<D>__{i dunno. you seen him before?}
+<C>__{goon iii}
+<D>__{maybe he's got some kind of i.d.}
+<C>__{goon iv}
+<D>__{good idea. let's check his wallet.}
+<C>__{goon i}
+<D>__{we'll worry about it later. plug him.}
+<P>__{(beat)}
+<D>__{in the head.}
+<A>__{goon ii draws his automatic. and at that very instant... a}
+<B>__{flash gun explodes overhead.}
+<A>__{startled, the thugs look up. another camera flash.}
+<C>__{goon iii}
+<D>__{goddam, it's the redhead!}
+<B>__{on vicki}
+<A>__{a chunk of ledge chips off mere inches from her head as the goons open fire. she ducks back behind the overhang, holds the camera out over the ledge, and keeps on flashing.}
+<B>__{on bruce his eyes wink open. on vicki}
+<A>__{momentarily idle. she's used up her roll. the goons keep shooting as she reaches in her bag for new film. she finds it, loads the camera with astonishing dexterity and then, on instinct, reaches back inside the bag for a telephoto lens. all the better to see you with, batman...}
+<B>__{on the thugs}
+<A>__{no response from vicki. they begin to relax a little.}
+<C>__{goon ii}
+<D>__{did you hit her?}
+<C>__{goon i}
+<D>__{who cares? wax that freak.}
+<A>__{they turn their attention to bruce. a gloved hand snakes out with lightning speed grabbing goon i by the coattail and pulling him directly into the line of fire. goon ii bas pulled the trigger twice before he knows what's happened. in one fluid motion bruce heaves goon i's lifeless body through the air, knocking goon ii backward over a garbage can. goon ii falls and cracks his head on the nearest wall. goon iii takes a rabbit punch to the throat. he's on the way down when he catches a steel toed boot in the gut. four seconds after all this began, bruce is alone in the alleyway with goon iv. goon iv has his gun pointed right at bruce, but he's shaking too much to pull the trigger. bruce smiles. goon iv screams and runs for his life. through all this, vicki's telephoto camera has been poised on the ledge, snapping away. bruce looks up at the flash gun and shakes his head. he bends to retrieve his cowl.}
+<B>__{on vicki}
+<A>__{she finally dares to peek down at the alley. limp goons everywhere. and, in addition, the batman leaping up, grabbing the edge of a fire escape, climbing up to meet her. vicki thinks fast. she may have a clean shot of batman's face. she advances the film in the camera and removes the roll, then drops it down her blouse. but batman is likely to want that roll. so she straightens her skirt and scurries across the roof, away from the alley. she should have a minute or so before be gets there. it's a three foot drop to the next roof over. vicki clambers down and quickens her pace, tossing a nervous glance over her shoulder every couple of steps. then, somehow and she'll be damned if she can figure out how she walks smack into the batman. and gasps.}
+<C>__{batman}
+<D>__{... not even a 'thank you'?}
+<C>__{vicki}
+<D>__{well i think you might consider thanking me. you were good as dead.}
+<C>__{batman}
+<D>__{that's because you lied about your weight.}
+<P>__{(a long pause)}
+<D>__{thank you.}
+<A>__{vicki nods and tries to walk past him. he grabs her arm.}
+<C>__{batman }
+<D>__{i will have to ask you for that film.}
+<C>__{vicki}
+<D>__{i just wanted to distract them. i wasn't trying to get a picture of you.}
+<A>__{batman looks down at the camera hanging from her neck. the telephoto lens must jut out six inches. vicki gulps.}
+<C>__{batman}
+<D>__{please.}
+<C>__{vicki}
+<D>__{i won't let you have it.}
+<A>__{the batman is amused. he smiles menacingly.}
+<C>__{vicki }
+<D>__{i know you can break my neck and take it. but the joker's on that same roll. i }
+<C>__{batman}
+<D>__{the joker is a murderer. and you were as good as dead. so }
+<C>__{vicki}
+<D>__{look, i appreciate what you did for me. but this is my job. and i'm keeping those pictures.}
+<C>__{batman}
+<D>__{all right, here's a compromise. i will develop the photos. you keep the jokers and i will keep the rest.}
+<C>__{vicki}
+<D>__{how do i know you won't keep them all?}
+<C>__{batman}
+<D>__{because i will take you with me.}
+<A>__{he reaches out, holds her gently by the shoulders. his voice is deep and soothing. true, vicki is a little dizzy from all that's happened, but she's undeniably drawn to him. still cautious, though. she reaches into her bag and hands over a roll of film. the original roll not the telephoto shots, which are still stashed in her blouse.}
+<C>__{batman }
+<D>__{thank you, vicki.}
+<C>__{vicki}
+<D>__{... where are you going to take me?}
+<A>__{no reply. she looks up into his mirrored eyes. he pulls her closer to him. brushes back her hair, runs one hand delicately along the line of her cheek... ... and breaks a tiny capsule under her nose. vicki slumps into batman's arms.}
+<T>__{cut to:}
+<L>__{exterior alleyway night}
+<A>__{street level. batman emerges carrying vicki's inert form in his arms. he pauses and peers around the edge of a wall at the batmobile two blocks down. the car is still there, the chrome steel shields intact. but dozens of cops and curiosity seekers are swarming all over the fearsome machine. batman snorts in frustration. an enormous three ton caterpillar winch rumbles up the street toward the batmobile. he's about to get towed. batman takes a radio transmitter from his utility belt and speaks into it.}
+<C>__{batman}
+<D>__{shields open.}
+<L>__{exterior street on batmobile}
+<A>__{two cops are crawling along the hood of the car. from within they hear the tinny computerized voice:}
+<C>__{computer}
+<D>__{shields open.}
+<A>__{the steel plates begin to retract.}
+<C>__{batman }
+<P>__{(over radio)}
+<D>__{ignition.}
+<C>__{computer}
+<D>__{ignition.}
+<A>__{the stunned cops gaze into the batmobile's cockpit.}
+<C>__{cop}
+<D>__{there's somebody in there!}
+<A>__{they tumble off the hood as the turbine engines roar to life and the batmobile begins to move. cops and onlookers quickly clear a path. they stand there stunned as the futuristic auto picks up speed and advances toward the end of the block. the left turn signal flashes dutifully. and the batmobile vanishes around the corner. pandemonium breaks loose as the cops bolt for their cars.}
+<L>__{exterior street night}
+<A>__{sirens wail. passersby stare slackjawed at the driverless batmobile as it tears down the street, passing, darting, dodging buses and cutting off taxis all with a squad of cop cars in hot pursuit.}
+<L>__{exterior alleyway night}
+<A>__{batman sees the batmobile rounding the corner and approaching on the straightaway. he takes vicki in his arms and steps directly into the path of the onrushing}
+<B>__{headlights.}
+<C>__{batman}
+<D>__{stop!}
+<A>__{brakes squeal. the batmobile stops one yard short of batman and vicki. a moment later batman is at the wheel. sirens build. lights flash. the cop cars are now visible behind them. batman floors the pedal; the batmobile's powerful afterburners kick in; and the hapless cops kill their sirens as batman zooms off into the night at 140 mph.}
+<T>__{dissolve to:}
+<L>__{exterior back road night}
+<A>__{a deserted stretch of road, lined by ancient tall pines on either side. the batmobile roars past.}
+<L>__{interior batmobile night}
+<A>__{vicki is gradually coming to on the passenger's side.}
+<C>__{vicki}
+<D>__{... how long have i been out?}
+<C>__{batman}
+<D>__{quite a while. i took the scenic route.}
+<C>__{vicki}
+<P>__{(gazing around her)}
+<D>__{well, i've certainly enjoyed it. what's that?}
+<A>__{he's just hit a button on the dashboard.}
+<C>__{batman}
+<D>__{garage door.}
+<L>__{exterior road that moment night}
+<A>__{at the side of the road, a fallen tree, surrounded by underbrush, rises hydraulically into the air revealing a secret road invisible from the main thoroughfare. doing sixty, the batmobile makes a hairpin turn. seconds later, the fallen tree drops back magically into place.}
+<L>__{interior batmobile a moment later night}
+<A>__{as they cruise down the hidden road, vicki studies batman's face. knox's words are very much on her mind.}
+<C>__{vicki}
+<D>__{i meant to ask you. up on the roof how did you know my name?}
+<A>__{batman smiles in response. vicki smiles with him.}
+<C>__{vicki }
+<D>__{i'm serious. how did you know?}
+<A>__{no reply. vicki frowns, looks through the windshield, and sees much to her horror an enormous sheer cliff wall}
+<B>__{looming dead ahead.}
+<A>__{wide eyed, she looks at batman. still smiling, he hits the gas speeding up. she lets out a scream.}
+<B>__{angle on cliff wall}
+<A>__{one second to impact. suddenly the cliff wall vanishes altogether revealing, in its place, the gaping mouth of}
+<B>__{an underground cavern.}
+<A>__{the batmobile zooms through. a moment later, the cliff wall which is nothing more than a holographic projection winks back into existence, showing no trace of the cavern.}
+<L>__{interior batcave night}
+<A>__{we all know this place. although we haven't had time to acquire the familiar mementos the dinosaur, the giant penny the batcave is unmistakable. vast banks of blinking computers. a state of the art crime lab. a fully equipped workshop for hammering out new toys. it's the biggest and best secret clubhouse a boy could wish for. batman climbs out of the car. he removes his cape, strips off his bullet riddled jersey and his body armor. there are two big bruises on the center of his chest. vicki looks on as he goes to a rack along one wall and picks out a fresh tunic one of four. she wanders over to examine the row of bat suits and the body armor.}
+<C>__{vicki}
+<D>__{what is this stuff? kevlar?}
+<C>__{batman}
+<D>__{better. it's not on the market yet.}
+<C>__{vicki}
+<D>__{it doesn't protect your head, though.}
+<C>__{batman}
+<D>__{that's why i wear a target on my chest.}
+<A>__{the batman takes obvious pleasure in showing her his futuristic bachelor's pad. his tone is jokey, almost flirtatious. behind the mask, he's a lot looser, more carefree, than some guys we could name... ... like bruce wayne. vicki is, to put it mildly, awed. she wanders around gaping at millions of dollars' worth of equipment.}
+<C>__{vicki}
+<D>__{how'd you find this place?}
+<C>__{batman}
+<D>__{stumbled across it when i was a boy.}
+<A>__{vicki's head jerks up abruptly. in the dim recesses overhead, bats are screaming. she shivers.}
+<C>__{batman }
+<D>__{they don't come down here. they're afraid of the lights.}
+<C>__{vicki}
+<D>__{i don't like bats. not that kind.}
+<C>__{batman}
+<D>__{they used to terrify me. but i forced myself to keep coming back, and }
+<P>__{(smiling)}
+<D>__{ i guess i became the thing i feared the most. i will do your photos now.}
+<A>__{he goes to a high speed photo processing machine the kind they have at fotomat, only better and loads the roll. vicki wanders over to the edge of a deep black pit. she kicks a pebble over. long seconds pass; no sound. she looks up. suspended over the bottomless pit are a pair of gymnast's rings. this guy is dedicated.}
+<C>__{vicki}
+<D>__{who pays for all this?}
+<C>__{batman}
+<D>__{i have sponsors.}
+<C>__{vicki}
+<D>__{the computers?}
+<C>__{batman}
+<D>__{i'm running a check on the tainted products. there is a pattern. beauty products. personal hygiene.}
+<C>__{vicki}
+<D>__{no more makeup. looks like we'll all be showing our true faces now.}
+<A>__{she looks straight at him. it's almost a direct request. but batman is preoccupied with the matter at hand.}
+<C>__{batman}
+<D>__{i've tracked all the records. every shipment, every warehouse, every loading dock. nothing. no opportunities for tampering. somehow the joker is supplying tainted ingredients... at the source.}
+<C>__{vicki}
+<D>__{wait. you can just tap into any corporate database you want? anywhere?}
+<C>__{batman}
+<D>__{oh, no. i let the fbi do that. then i tap into the fbi. your photos are ready.}
+<A>__{he holds up a hand to vicki: stand back. then he checks out the pictures smiling as he shuffles through the prints.}
+<C>__{vicki}
+<D>__{you could've killed him, you know. you could have killed the joker.}
+<C>__{batman}
+<D>__{i had to save you, vicki.}
+<P>__{(turning to face her)}
+<D>__{here you go. i think i will let you keep the whole set.}
+<A>__{she looks at the photos. joker. joker. joker. and four shots of the batman in action. he's without his mask, but there's no clean angle on his face. vicki doesn't quite know why, but her head is reeling.}
+<C>__{batman }
+<D>__{care for an autograph?}
+<A>__{he takes one of the prints, scrawls on it, hands it to her with the inscription: "to vicki. love, b." now he turns to shut down the photo machine. vicki is trembling. her hand goes to her belt, finds the telephoto roll concealed in her blouse. she steps up silently behind him, reaches for his cowl. at the last second... she stops.}
+<C>__{vicki}
+<D>__{... bruce?}
+<A>__{he freezes in place for an indecisive moment. then:}
+<C>__{batman}
+<D>__{are you talking to me?}
+<A>__{he turns in seeming incomprehension. and shows her a smile... the same crooked, curious, childlike smile she saw on bruce's face that morning when she caught him singing.}
+<C>__{batman }
+<D>__{maybe we've had enough for one night. i will take you home.}
+<A>__{almost in a trance now, she lets him lead her to the batmobile. as she takes her seat he reaches into his utility belt for another knockout capsule.}
+<C>__{batman }
+<D>__{do you want to do it this time?}
+<A>__{vicki doesn't move. she looks at the capsule in her hand as he walks over to the driver's side and gets in.}
+<C>__{batman }
+<D>__{don't be afraid. i'm here.}
+<A>__{she takes one last look at the familiar smile beneath the mask... then breaks the capsule and breathes deep. flame erupts from the rear of the batmobile as the after burners kick in and batman screeches off. a fiery red glow fills the screen, burning out the image as we}
+<T>__{dissolve to:}
+<L>__{exterior gotham street 1963 night (dream sequence)}
+<A>__{the red glow resolves itself into a dreamlike street scene: liquid, weightless figures moving in a tinted, soundless cityscape as distant, tinkly carnival music plays underneath. we're outside a theatre watching first nighters emerge from the opening of a hit musical. in the crowd we pick out three figures: dr. thomas wayne, his wife martha, and in thomas's arms their young son bruce. bruce hasn't made it through the show. he's asleep, head nestled peacefully against his father's shoulder. thomas rouses the boy gently, sets him down on the sidewalk. bruce rubs the sleep from his eyes as thomas puts an arm around his wife. together they begin walking.}
+<T>__{in a single cut :}
+<A>__{the crowd has disappeared, and the waynes are walking toward us up a deserted street. thomas and martha are laughing, making jokes, reaching down to tousle bruce's hair. their faces, as they draw closer, are full of joy. and then, without warning a handgun enters frame. the waynes freeze in their tracks. thomas steps protectively in front of his wife, reaches for his wallet, begins unbuckling his watch. he won't put up a fight. martha's hand goes involuntarily to the pearl necklace at her throat. the gunman sees it, gestures for her to hand it over. but martha is paralyzed, afraid to move. the gunman steps past thomas, snatches at the necklace. the instant his wife is threatened, thomas attacks. the pearl strand breaks in the gunman's hand as he drops toward the sidewalk. a silent burst of flame erupts from the muzzle of the gun. thomas crumples. martha emits a piercing shriek a shriek we cannot hear a shriek cut short by a second burst of flame. bruce stands paralyzed in shock. the gunman scoops a handful of pearls off the sidewalk, reaches for martha's purse, and rises slowly his gun levelled directly at the boy. almost catatonic, bruce stares down at the corpses of his parents. at their hands, somehow intertwined. at the tiny glinting pearls and the spreading pool of blood around them. he looks up with a gaze so bleak, so petrifying... that the gunman turns and runs. and we cut. to an exact reproduction of the pulitzer prize winning photo... the cops bent over the bodies, the medics with their stretchers, the boy bruce, his arms wrapped tightly around the waist of officer gordon. there's only one difference. bruce's head is turned away from us. we can't see his face. and now a hand enters the frame. much like the gunman's hand, but feminine, beckoning. bruce, hearing his name, looks up; then, agonized, ashamed, he buries his face in gordon's side. gordon gestures angrily at the intruder. but the hand keeps beckoning. and ultimately bruce turns. showing us the tear stained face from the famous photo. a face slack with horror. the horror of his parents' death... and more importantly, the horror that someone would dare to violate this most private and terrible of moments. at last we see what bruce sees: a woman crouched on the sidewalk nearby. the woman is holding a camera. the woman is smiling prettily at bruce. the woman is vicki vale. a flashbulb explodes. filling. the screen with its blinding white light, scorching out the image as a harsh ringing sound cuts through the silence.}
+<T>__{cut to:}
+<L>__{interior bedroom night}
+<A>__{vicki awakens. she sits up in bed, tremulous, distraught. the bedside phone is ringing. she reaches for it, but her hand freezes in midair. she knows who's calling. three rings later, she manages to lift the receiver. to her amazement, she finds she cannot speak. finally, she hears a voice at the other end of the line.}
+<C>__{bruce }
+<D>__{vicki... ?}
+<L>__{interior bruce wayne's study night}
+<A>__{bruce at a big mahogany desk in his somber, book lined study. the room is dark but for a small table lamp.}
+<C>__{bruce}
+<D>__{vicki, i've been thinking about you.}
+<P>__{(long pause)}
+<D>__{i know it's late. i'm sorry. i are you there?}
+<L>__{intercut bruce and vicki:}
+<C>__{vicki}
+<D>__{yes, bruce i'm here }
+<C>__{bruce}
+<D>__{i'm sorry about the way things went between us. i'd very much like to see you again.}
+<C>__{vicki}
+<D>__{well, bruce... i don't think... that would be possible.}
+<C>__{bruce}
+<D>__{i wish you'd reconsider.}
+<P>__{(groping)}
+<D>__{i didn't stand you up today. the museum was closed when i got there.}
+<C>__{vicki}
+<D>__{i, uh...}
+<B>__{on vicki}
+<A>__{her voice trails off. she's profoundly shaken. she knows.}
+<C>__{bruce }
+<D>__{vicki? vi }
+<A>__{she returns the receiver to its cradle.}
+<B>__{on bruce}
+<A>__{he hears the click. his lips part slightly. he hangs up and sits there at the desk, staring straight ahead.}
+<T>__{cut to:}
+<L>__{interior vicki's bathroom night}
+<A>__{total darkness. vicki stands before the bathroom mirror. she holds the opened roll of telephoto shots over the sink. then she strikes a match. ignites the film. drops it into the sink, and with hollow eyes watches it burn.}
+<T>__{cut to:}
+<L>__{interior vicki's apartment later night}
+<A>__{it's four in the morning. vicki, wrapped in a bathrobe, still shaky, pours her fifth cup of coffee. sitting across from her is a rumpled and stubbly alexander knox.}
+<C>__{knox}
+<D>__{vicki, it all fits. the stuff you're telling me the car, the equipment somebody's paying for it.}
+<C>__{vicki}
+<D>__{i just can't }
+<C>__{knox}
+<D>__{the fbi. you know who's got the fbi computer contract? wayne technologies.}
+<P>__{(shaking his head)}
+<D>__{the guy's bats all right. he's bat shit crazy. this is gonna be the most incredible }
+<C>__{vicki}
+<D>__{but he's not.}
+<C>__{knox}
+<D>__{not what?}
+<C>__{vicki}
+<D>__{he's not crazy.}
+<A>__{knox slaps his forehead in frustration, sprawls back in his chair.}
+<C>__{knox}
+<D>__{vicki. we got a wealthy millionaire here... who dresses up like a bat. he goes out at night and swings around in his cape on a rope.}
+<P>__{(throwing up his hands)}
+<D>__{okay. maybe i'm crazy.}
+<C>__{vicki}
+<D>__{allie... he wants to tell me. that's why he took me there. because he's trying to tell me.}
+<C>__{knox}
+<D>__{gimme a break. if he wants to chat, he can talk to his car.}
+<A>__{the joke dies. vicki stares dead ahead. knox looks on in utter disbelief as it all comes into focus: he's lost her loyalty. vicki is in over her head with bruce.}
+<C>__{vicki}
+<D>__{he has to tell someone. and i'm the one. he's trying to tell me.}
+<A>__{knox, hurt in a way he doesn't fully understand, gets up and pulls on his coat. he stares at her coldly:}
+<C>__{knox}
+<D>__{well, when he does you know my number.}
+<T>__{cut to:}
+<L>__{exterior newsstand day}
+<A>__{customers are lining up to buy the early edition of the globe, which carries the full page banner headline:}
+<B>__{war of the freaks}
+<A>__{batman, joker in fluegelheim shootout in the midst of the hubbub a delivery truck cruises past, dumping a bundle of afternoon editions on the sidewalk. "war of the freaks" has been relegated to the lower right hand corner of the page supplanted by more pressing news:}
+<B>__{stock market crashes}
+<A>__{product scare drops dow to 1100 biggest one day decline in history}
+<L>__{interior wayne foundation day}
+<A>__{bruce in a plush office suite downtown, on the phone to his broker. behind his desk is a big plate glass window with a fortieth floor view of the financial district, so he can wave at his fellow millionaires on their way down.}
+<C>__{bruce}
+<D>__{don't sell. it won't last. we'll ride it out.}
+<A>__{with exaggerated calm, he hangs up. he lifts the receiver to dial another number, then hesitates and hangs up again.}
+<L>__{interior reception area a moment later day}
+<A>__{bruce, affecting an air of nonchalance, strolls past a squad of secretaries at desks. phones are ringing off the hook.}
+<L>__{interior hallway a moment later day}
+<A>__{bruce ambles past a couple of colleagues. one of them is shambling catatonically down the hall, bumping into walls. the other is wailing hysterically.}
+<C>__{wailing colleague}
+<D>__{... a nine million dollar bath!}
+<A>__{bruce nods in sympathy as they pass. he stops outside the door to a men's room, looks around cautiously, then enters.}
+<L>__{interior men's room a moment later day}
+<A>__{a small anteroom outside the bathroom proper, with a bank of pay phones on one wall. bruce checks the bathroom to make sure it's empty, then digs out a quarter and dials a number. he cups one hand confidentially over the receiver:}
+<C>__{bruce}
+<P>__{(the familiar rasp)}
+<D>__{vicki?... this is batman. i thought i'd call and see how you're doing.}
+<L>__{interior vicki's apartment day}
+<C>__{vicki}
+<P>__{(hesitantly)}
+<D>__{... i know it's you, bruce. i'm not going to talk to you unless we can discuss it.}
+<L>__{interior men's room on bruce}
+<C>__{bruce}
+<P>__{(a little smile)}
+<D>__{who's this "bruce"? are you trying to make me jealous?}
+<C>__{vicki }
+<P>__{(filter)}
+<D>__{i'm serious, bruce. we have to }
+<A>__{at this very moment, a dazed financier enters from behind.}
+<C>__{financier}
+<D>__{hi, bruce.}
+<A>__{bruce automatically claps a hand over the mouthpiece. his face goes slack as he hangs up with vicki's tinny voice still squeaking on the other end of the line.}
+<T>__{cut to:}
+<L>__{interior district attorney's office night}
+<A>__{harvey dent at a big desk, flanked by a number of}
+<B>__{politicos.}
+<C>__{dent}
+<D>__{... we deal.}
+<C>__{adviser}
+<D>__{harvey, please. i mean }
+<P>__{(shaking his head)}
+<D>__{if your first official act as d.a. is to cut a deal with a terrorist...}
+<C>__{dent}
+<D>__{screw that, ed. we've got a market panic of national proportions. we've got 786 people dead.}
+<P>__{(beat)}
+<D>__{i won't sacrifice one more life for the sake of appearing strong.}
+<C>__{politico}
+<D>__{harvey's right. we've got the 300th anniversary gala coming up. the networks won't even send in a crew.}
+<C>__{adviser}
+<D>__{harvey, the police are working round the clock, the feds are coming in. this thing could break any minute now.}
+<P>__{(turning)}
+<D>__{tell him, jim.}
+<A>__{commissioner gordon reaches into his vest pocket for a cigar. he clips the end off, lights it, takes a long drag... and stares glumly at the floor.}
+<C>__{gordon}
+<D>__{cut the deal.}
+<L>__{interior city hall night}
+<A>__{the mayor sits impatiently at a long table, flanked by jim gordon, harvey dent, and other prominent officials. the room is packed with reporters and tv news crews.}
+<C>__{news anchor}
+<D>__{... at city hall, where the mayor is waiting to open negotiations with the clown faced terrorist known as the joker. it is now eight minutes past the appointed deadline, and still no word from }
+<L>__{interior gotham globe city room that moment night}
+<A>__{reporters cluster around a bank of four tv sets, each tuned to a different station, all broadcasting from city hall.}
+<C>__{reporter i}
+<D>__{look at 'em sweat. can't wait for the next gallup poll.}
+<C>__{reporter ii}
+<D>__{hey knox, cheer up. it ain't the batman but it's pretty choice.}
+<A>__{knox, who has recently taken up smoking, responds with a grunt. sudden hubbub from the onlookers as a wave of video noise wipes half the screen away. insert television screen split screen. on one side is the mayor. on the other sitting in a director's chair with a big yellow happy face backdrop behind him is the joker, grinning fiendishly.}
+<C>__{joker}
+<D>__{joker here. can we talk?}
+<A>__{the mayor fumbles for his prepared statement.}
+<C>__{mayor}
+<D>__{"while this administration remains vehemently opposed to terrorism in any form, we are prepared to negotiate any reasonable demands which will guarantee the safety of the populace."}
+<C>__{joker}
+<D>__{huh. demands. well, gents, this is kinda embarrassing, but... i'm having such a swell time, i just haven't thought any up.}
+<A>__{he shrugs. startled reactions from the city officials.}
+<C>__{joker }
+<D>__{but i'm a reasonable fella. if you want to make me an offer...}
+<A>__{panicked, the mayor and co. go into a quick huddle.}
+<C>__{mayor}
+<D>__{all right, all right. here's the deal. total amnesty... and the sum of ten million dollars, payable in }
+<C>__{joker}
+<D>__{ten million dollars. ten million dollars.}
+<P>__{(flying off the handle)}
+<D>__{ten mi you cheapskates! i've just wiped out the stock market. i've cost you billions!}
+<P>__{(petulantly)}
+<D>__{i want ten million and one.}
+<C>__{mayor}
+<D>__{no, wait, please! we'll talk. just tell us what you expect.}
+<C>__{joker}
+<D>__{goddammit, i expect to be treated like an artist. get off my screen!!}
+<A>__{more video static sweeps across the screen, pushing the mayor clean out of frame. the joker leers at the camera.}
+<C>__{joker }
+<D>__{i might just think up some demands. and i'm gonna talk to all my friends, and see what they want, too. and then maybe we'll get together have a little party exchange presents.}
+<P>__{(waving goodbye)}
+<D>__{happy birthday, gotham.}
+<A>__{"the shadow of your smile" comes up underneath as the joker's transmission ends and the screen goes black.}
+<L>__{interior globe city room that moment night}
+<A>__{frantic activity as reporters rush to their telephones and typewriters. knox strolls slowly back to his desk. he's sitting on the biggest story of his career... and now, as he realizes grimly, nobody knows or cares.}
+<T>__{cut to:}
+<L>__{exterior andrews island day}
+<A>__{a tiny island in gotham harbor, homesite of lady gotham the huge, newly restored stone statue that welcomes incoming ships. her upper half is draped in a huge tarp prior to the unveiling ceremony scheduled for this sunday. at the base of the statue, workmen are assembling a big wooden platform, complete with microphones, amplifiers and spotlights. they raise a gigantic banner which reads: "gotham city 300th anniversary celebration."}
+<T>__{cut to:}
+<L>__{exterior wayne manor day}
+<A>__{a taxi pulls away from the wrought iron gate at the entrance to the estate. knox ambles up to a stone pillar, glances up at a video camera mounted over the gate, and hits a buzzer.}
+<C>__{alfred }
+<P>__{(through loudspeaker)}
+<D>__{yes?}
+<C>__{knox}
+<D>__{alexander knox. gotham globe.}
+<C>__{alfred }
+<D>__{mr. wayne is out for the day.}
+<C>__{knox}
+<D>__{actually, i wanted to talk to batman. pass that on to mr. wayne, would you?}
+<A>__{knox starts cockily off down the driveway then stops. behind him, the iron gates are sliding open.}
+<L>__{interior bruce's library ten minutes later day}
+<A>__{knox, agitated, drums his fingers on the edge of a big leather chair. bruce stands across from him.}
+<C>__{bruce}
+<D>__{i've been expecting to hear from you.}
+<C>__{knox}
+<D>__{well, that's how it is, chum. she tells me everything.}
+<C>__{bruce}
+<D>__{what is it you want?}
+<C>__{knox}
+<D>__{simple. you know the score. one column and i can bring all this tumbling down. i can take you off the streets once and for all.}
+<P>__{(a shaky pause)}
+<D>__{i want you to hang up the suit. and i want you to stay away from vicki.}
+<C>__{bruce}
+<D>__{i can't do that. not while the joker's still out there.}
+<C>__{knox}
+<D>__{then stay away from vicki. that's all i want, man. i just want your word.}
+<A>__{bruce turns away, evading his gaze. knox fumbles in his jacket for a cigarette.}
+<C>__{knox }
+<D>__{see, i don't know how it happened she's a smart girl and you are an extraordinarily screwed up guy but she's in love with you.}
+<C>__{bruce}
+<D>__{there's something i don't understand. if you've got the story, why haven't you printed it?}
+<C>__{knox}
+<D>__{because i }
+<P>__{(beat)}
+<D>__{because she'd never speak to me again.}
+<A>__{knox is a bundle of nerves now. no longer cocky, he stubs out his newly lit cigarette and begins to plead openly.}
+<C>__{knox }
+<D>__{come on, bruce. be straight. what have you got to offer? you gonna marry her? batman and mrs. batman?}
+<P>__{(laughing bitterly)}
+<D>__{gimme a break, huh? who's gonna be best rodent?}
+<A>__{bruce sinks into a chair, exhales sharply. he can't even put up an argument. the two of them sit there, not looking at each other, as alfred appears in the doorway.}
+<C>__{bruce}
+<D>__{do you want a drink?}
+<C>__{knox}
+<D>__{yeah, a drink. "civilized." man to man, right?}
+<C>__{bruce}
+<D>__{alfred, bring something for mr. knox. i will have one too.}
+<T>__{cut to:}
+<L>__{exterior gotham park late afternoon}
+<A>__{the weekend long birthday gala is getting underway, and gotham park is mobbed with celebrants enjoying a free concert. onstage: five elvis imitators, dressed in everything from black leather to white spangled jumpsuits, representing the king in progressive stages of deterioration.}
+<L>__{interior vicki's apartment dusk}
+<A>__{she's on the sofa beside a disconsolate bruce.}
+<C>__{vicki}
+<D>__{... so we just pretend none of this ever happened. we never met. we }
+<P>__{(frightened)}
+<D>__{you're going to get yourself killed, bruce. you know that, don't you?}
+<C>__{bruce}
+<D>__{it wouldn't matter much.}
+<C>__{vicki}
+<D>__{i don't understand it. you can do so much good for people. as bruce wayne.}
+<A>__{he sinks back on the sofa, closes his eyes. he's had the same argument with himself a thousand times.}
+<C>__{bruce}
+<D>__{money makes money, vicki. the foundation runs itself. i'm extraneous to the process.}
+<C>__{vicki}
+<D>__{you're one man. you can't save everybody.}
+<C>__{bruce}
+<D>__{what it i could save a handful? what if i could save one?}
+<A>__{vicki is sick of watching bruce torment himself. she stands up, almost crying now, and accuses him directly:}
+<C>__{vicki}
+<D>__{bruce, at the rate you're going, you can't even save yourself.}
+<C>__{bruce}
+<P>__{(staring right at her)}
+<D>__{sometimes... i don't know if there's enough of me left to save.}
+<A>__{vicki is totally drained. she heads for the kitchen.}
+<C>__{vicki}
+<D>__{oh, god. i've got to have some coffee or something.}
+<A>__{a moment's breather as bruce sits on the sofa reflecting. then, suddenly, a knock at the door. vicki reappears and moves to answer the door. bruce on his feet instantly grabs her by the shoulder.}
+<C>__{bruce}
+<D>__{are you expecting anyone?}
+<A>__{she nods no. he goes to the peephole in the door.}
+<C>__{bruce }
+<D>__{who's there?}
+<A>__{through the peephole he sees a delivery boy.}
+<C>__{delivery boy}
+<D>__{package tor miss vale.}
+<C>__{bruce}
+<D>__{set it down by the door. on the left hand side.}
+<A>__{the delivery boy sets the package down and wanders off, tipless, muttering something about "cheap shits." after a moment's interval, bruce opens the door and bends to pick up the mysterious package. another brown paper parcel... addressed in crayon.}
+<C>__{vicki}
+<D>__{bruce!}
+<A>__{he strides past her, handling the parcel gingerly, and sets it down on the kitchen counter.}
+<C>__{vicki }
+<D>__{it's just like the last time. he sent me a present before he }
+<C>__{bruce}
+<D>__{very thoughtful. don't touch it.}
+<A>__{as vicki watches, he goes into the living room and finds his alligator attache case. he opens the case, removes a laptop computer and a handful of business papers... then lifts out a false bottom to reveal his utility belt.}
+<C>__{vicki}
+<D>__{oh, bruce. don't tell me you carry it around with you.}
+<C>__{bruce}
+<D>__{i feel naked without it.}
+<A>__{he takes out a tiny ultrasound scanner rather like a stethoscope, with a miniature sonar display where the earpieces should be and runs it over the package.}
+<C>__{bruce }
+<D>__{not a bomb. but it could be rigged. wait in the next room.}
+<A>__{he takes a small gas mask from his belt, puts it on, then slits the wrapping with a steak knife. nothing. cautiously, he pulls back the flaps. the box is full of styrofoam popcorn. bruce shoves a hand down into the popcorn... and extracts a human ear. in the doorway behind him, vicki lets out a squeal. bruce grabs the box and dumps two dozen ears on the counter.}
+<C>__{bruce}
+<D>__{... they're wax.}
+<A>__{vicki finds a hand scrawled note among the ears.}
+<C>__{vicki}
+<D>__{"it worked for van gogh. let's make up. i will need you soon." whew.}
+<C>__{bruce}
+<P>__{(lost in thought)}
+<D>__{that does it. it's going to be this weekend.}
+<A>__{the kitchen phone rings. vicki reaches for the receiver. her eyes go wide and she gestures him over.}
+<L>__{interior alicia hunt's apartment that moment}
+<A>__{alicia, in her porcelain mask, on the phone.}
+<C>__{alicia}
+<D>__{i thought you ought to know he's coming for you...}
+<B>__{on bruce and vicki}
+<A>__{faces pressed together as they listen in. bruce covers the mouthpiece with one hand.}
+<C>__{bruce}
+<D>__{keep her on the line!}
+<C>__{vicki}
+<D>__{... where are you calling from?}
+<A>__{as vicki struggles to keep the conversation alive, bruce rushes into the living room and crouches beside his laptop computer. he plugs it in, flips open the screen, punches up a telecommunications program. a moment later vicki enters from the kitchen.}
+<C>__{vicki}
+<D>__{i'm sorry, she hung up. what are }
+<C>__{bruce}
+<D>__{finding out where she is.}
+<C>__{vicki}
+<D>__{how can you do that if she's already off the line?}
+<C>__{bruce}
+<D>__{i've had an automatic tracer on this number ever since he tracked you to the museum.}
+<L>__{interior batcave that moment}
+<A>__{massive computers click and whir. at bruce's prodding, information comes up on the monitor: a number, a name alicia hunt and an east side address.}
+<L>__{interior vicki's apartment that moment evening}
+<A>__{the same information scrolls across bruce's screen.}
+<C>__{bruce}
+<D>__{got it!}
+<C>__{vicki}
+<D>__{what now!}
+<C>__{bruce}
+<D>__{hang on. i have to leave a message.}
+<A>__{he freezes. he's heard something in the hallway outside.}
+<L>__{interior hallway that moment}
+<A>__{elevator doors open on three thugs. one of them uses a key to lock the car in place on vicki's floor. the key is on the end of a ring which contains dozens of other keys. the key ring belongs to a doorman, who's riding in the elevator with the joker's trio of thugs. he's dead, alas. the thugs dump him unceremoniously on the floor of the hall and march toward vicki's apartment.}
+<L>__{interior vicki's apartment a moment later}
+<A>__{bruce is nowhere in sight. vicki is at the sink washing dishes, acting nonchalant. she pretends not to hear the door unlocking behind her. she turns and faces the three advancing thugs.}
+<C>__{thug i}
+<D>__{hi, miss vale. let's not put up a fight, huh? 'cause we'd hate to have to }
+<A>__{bruce steps into the doorway behind them. with a single sweep of the arm, he flings three drug tipped ninja wheels at the thugs, catching one in the neck, one in the shoulder, one in the hip. they collapse in quick succession.}
+<C>__{bruce}
+<D>__{there's a garage in this building?}
+<A>__{vicki nods yes. bruce all business now that he's in his element disappears into vicki's bedroom. she peeks around the corner. he reemerges carrying a black nylon stocking, which he stuffs into his pocket. vicki is full of question, but he shushes her before she can speak.}
+<C>__{bruce }
+<D>__{i've got to take him out now.}
+<A>__{he stoops down beside the thugs and pulls the elevator key off the key ring which he then tosses to vicki.}
+<C>__{bruce }
+<D>__{pick an apartment and stay there. and listen: call the police. give them that address. every available man.}
+<A>__{he starts out the door, stops just long enough to take a dumbfounded vicki in his arms for a kiss.}
+<L>__{interior underground garage a moment later evening}
+<A>__{the joker's van, bearing the monarch playing card logo. two armed goons lean against the hood. they watch as the elevator opens and an ordinary fellow in a suit steps out. bruce pulls car keys from his pocket and strolls past the thugs, head down, whistling. as he walks around the van, his hand brushes against it leaving a magnetized homing device, almost too tiny to notice, stuck to the fender. he walks another six paces, then stops short. he feels around in all his pockets, making a big show of having forgotten something.}
+<C>__{bruce}
+<D>__{oh, hell!}
+<A>__{the goons eye him curiously as he strides back toward the elevator. the doors are closing before it strikes them that something is amiss.}
+<C>__{goon}
+<D>__{hey, boss, something's up. the elevator's working.}
+<L>__{interior van on joker}
+<A>__{frustrated, snarling, ready to throw a tantrum.}
+<C>__{joker}
+<D>__{dammit! you can't get good help these days. let's move out.}
+<L>__{exterior street evening overhead angle}
+<A>__{from high above the street we see the joker's van pulling out of vicki's building. we're up on the roof, with bruce. he hits a button on his utility belt, and a red signal light begins to flash. bruce clamps the utility belt around his waist. pulls the black nylon stocking over his head. and suddenly, he's bounding across the rooftops in pursuit of the joker.}
+<L>__{exterior cross street a moment later evening}
+<A>__{the van turns right at the intersection. nothing unusual. but for some reason, pedestrians are pointing at the sky, staring goggle eyed at the rooftops. far above them, a man dressed in a suit, a tie, a yellow belt and a black stocking mask is gliding across the intersection on a rope.}
+<L>__{interior van a moment later}
+<A>__{the van driver guns through a red light. brakes squeal on either side. in the back of the van, the joker growls:}
+<C>__{joker}
+<D>__{slow down, you maniac!}
+<L>__{exterior intersection that moment evening}
+<A>__{as the van roars past, a mounted policeman shakes his fist. his horse shies, rears back, turns in a circle. he's just about gotten the beast calmed down when a man in a stocking mask plummets down on a rope from nowhere and lands directly behind him on the horse's back. bruce elbows the startled cop. now there's only one rider. the van turns left. bruce gallops straight ahead through the intersection, hoping to cut the joker off.}
+<L>__{interior alicia hunt's apartment that moment}
+<A>__{alicia peers out through the window. on the street below, unmarked cars are converging.}
+<L>__{interior van that moment}
+<A>__{the joker and co. are two blocks away from alicia's. they see a police swat team sealing off the building.}
+<C>__{driver}
+<D>__{boss! jesus! they've }
+<C>__{joker}
+<D>__{they'll be sorry. they'll be sorry. get out of here!}
+<L>__{exterior side street that moment evening}
+<A>__{bruce on horseback, charging past elegant old brownstones, drawing stares from passersby. we get a quick look at the flashing red signal light on his belt.}
+<L>__{exterior riverview drive that moment evening}
+<A>__{a yellow vw bug rips up the street at 70 mph.}
+<L>__{interior volkswagen bug that moment}
+<A>__{we can't see the driver. but we do see, on the seat beside him, a video display with a shifting grid map of the city and on it, a flashing signal blinking in perfect sync with the one on bruce's belt.}
+<L>__{exterior side street that moment}
+<A>__{bruce sees the vw bug rounding the corner and streaking toward him. he reins in the horse; it rears back on its hind legs in a classic western pose; the bug zooms past and alfred the butler heaves out a brown laundry bundle, neatly tied in string. bruce snatches it out of the air, gives alfred a quick salute and the bug is gone.}
+<L>__{interior joker's van evening}
+<A>__{the joker and his boys are stalled in heavy traffic at the southern border of gotham park. police barricades are everywhere; the surrounding streets have been roped off for the birthday gala. horns honk in anger.}
+<C>__{joker}
+<D>__{move! can't you do something??}
+<C>__{driver}
+<D>__{it's some kind of detour. they're backed up for blocks!}
+<A>__{the joker snorts. he happens to glance into the side view mirror. what he sees there... curdles his blood.}
+<C>__{joker}
+<D>__{oh my god. how does he do it... ?}
+<L>__{exterior street a block away that moment}
+<A>__{the batman, in full costumed glory, galloping up the street on horseback passing stunned cops, weaving in and around the stalled autos, gaining fast on the joker.}
+<L>__{interior van that moment}
+<A>__{the joker climbing all over the driver. he hits the gas, runs the van up on the sidewalk, and at the first opening he sees crashes through a police barricade into}
+<B>__{gotham park itself.}
+<A>__{batman is half a block behind him now. as he follows hot on the joker's heels, two helicopters swing into the park from overhead.}
+<L>__{exterior gotham park evening}
+<A>__{crowds everywhere. on the central platform where we saw the free concert earlier, an emcee mans the microphone:}
+<C>__{emcee}
+<D>__{ the most spectacular, most death defying aerial stunt ever devised. tonight for the first time anywhere the flying graysons!}
+<A>__{he points up at the two approaching helicopters, flying side by side in tight formation some forty feet apart.}
+<B>__{angle on helicopters}
+<A>__{onlookers gasp as two trapezes drop from the bellies of the twin copters. dangling from the trapezes are the flying graysons a husband and wife aerialist team in spangled red and green suits. they begin swinging toward each other in a plane perpendicular to the path of the copters.}
+<L>__{exterior gotham park ground level}
+<A>__{panic down below as the joker's van barrels through the crowd, horn blaring. batman is moving up swiftly. on each wrist he's wearing a miniature rocket launcher. he lets fly with two salvos. the first explodes harmlessly against a tree. the second hits the rear door of the van driving it off the access road down into the brush, where it nearly topples over sideways.}
+<B>__{angle on flying graysons}
+<A>__{grayson has just completed a double somersault in midair, landing in the capable hands of his wife. now they're swinging again, building momentum as he prepares to make the return leap back to his own trapeze.}
+<L>__{interior helicopter that moment}
+<A>__{in the bay of the helicopter stands a kid, fifteen, compact, tough, and wiry: dick grayson. like his parents, he's wearing a red and green suit. from the copter, he's got a perfect bird's eye view of the batman joker chase.}
+<C>__{pilot}
+<D>__{ready to go, dick?}
+<C>__{dick}
+<D>__{what's all the ruckus down there?}
+<L>__{exterior park ground level that moment}
+<A>__{the van bounces over rocks and bushes, narrowly avoiding trees, with batman in hot pursuit.}
+<L>__{interior van that moment}
+<A>__{at the foot of a hill, the joker spies a truck. on its side, in bright red letters, a warning: "danger fireworks. flammable load." the joker reaches into the back for a highway flare.}
+<C>__{joker}
+<D>__{head for the truck!}
+<L>__{interior helicopter that moment}
+<A>__{hovering over the chase scene, dick catches sight of the joker. he gasps in shock as a lit flare flies from the back of the van... directly into the fireworks truck.}
+<L>__{exterior park ground level a moment later}
+<A>__{the batman is thrown off his horse by the shock of a massive explosion. all at once, the sky is full of bursting, incandescent colors!! the joker hangs out of the rear of the van, looking up, an expression of pure delight on his face.}
+<C>__{joker}
+<D>__{i love fireworks!}
+<B>__{angle on helicopters}
+<A>__{lurching and spinning in the sky as fireworks rocket past. one of them takes a dead hit on the rotor. john grayson falls to his death instantly; a moment later, the copter plummets into the trees with a resounding, fiery crash. mary grayson hangs from the second copter as it bobs and weaves out of control. onlookers scream in terror.}
+<L>__{exterior street that moment}
+<A>__{the joker's van bursts out of the park and speeds up a wide, cordoned off avenue. overhead, the second copter veers wildly, out of the park now, swinging dangerously close to the tall buildings along the avenue.}
+<L>__{interior helicopter that moment}
+<A>__{dick grayson at the mouth of the bay, hanging on by a canvas strap. he watches helplessly as his mother swings into a power line and drops three stories to the pavement.}
+<C>__{dick}
+<D>__{no! noooooooo!!!!}
+<A>__{his face is contorted with rage and pain. the pilot struggles desperately to right the copter, barely avoiding a collision with the nearest building. and then before the pilot can make a move to stop him dick has jumped}
+<B>__{out of the copter. angle on dick}
+<A>__{with astonishing physical grace, he dives. grabs a flagpole. executes a perfect somersault. flips onto a nearby fire escape. vaults to the next fire escape down. and leaps out over the street making a perfect two point landing on his intended target... the roof of the joker's van!!}
+<L>__{interior van that moment}
+<A>__{the joker hears a thunk overhead. he casually lifts his gun and blows a hole through the roof of the van.}
+<L>__{exterior roof of van moving that moment}
+<A>__{the blast just misses dick. he sprawls flat, yanks at the chrome luggage rack on the roof of the van, and breaks off a four foot shaft of metal. another shot through the roof. dick rolls forward, hoists his chrome spear over the windshield.}
+<L>__{interior van that moment}
+<A>__{splintered glass flies everywhere as dick rams the shaft through the windshield. the driver dodges left and loses}
+<B>__{control of the wheel.}
+<L>__{exterior roof of van moving that moment}
+<A>__{the van careens wildly toward an overpass. dick rises up into a crouch just in time to see a sign which reads "danger low clearance." he's about to get his head taken off! one second before impact a black caped shadow swings across the street and scoops dick off the roof of the van.}
+<L>__{exterior street night}
+<A>__{batman and dick tumble to the pavement. the van knocks over a fire hydrant and stops. dick is already on his feet, ready to charge the van, when batman throws a powerful arm around his waist.}
+<C>__{dick}
+<D>__{let me go! let me }
+<A>__{the joker steps casually out of the van. two goons with machine guns emerge behind him. pedestrians scream as the goons level their guns at the crowd.}
+<C>__{dick }
+<D>__{you piece of you motherf }
+<A>__{dick is kicking, screaming, clawing, biting. batman has his hands full restraining the kid.}
+<C>__{joker}
+<D>__{like your boyfriend. he's kinda hot.}
+<P>__{(glowering at batman)}
+<D>__{hands off the belt.}
+<C>__{batman}
+<D>__{take me. let the boy go.}
+<C>__{joker}
+<D>__{gosh, i could kill you, but then you'd miss my party. and i'd be real, real sad if you couldn't make it.}
+<C>__{batman}
+<D>__{what are you talking about?}
+<C>__{joker}
+<D>__{batman! don't you even recognize your old pal jack? after all...}
+<P>__{(cackling insanely)}
+<D>__{you made me what i am today.}
+<A>__{batman cocks his head in puzzlement as distant sirens blare. the joker and his hoods guns still aimed at the crowd back away and race off on foot, vanishing into the night. dick breaks free and bolts after them. batman throws him to the street with a flying tackle. the boy is hysterical.}
+<C>__{dick}
+<D>__{he killed my parents! he killed my }
+<A>__{batman flinches at the sound of the words. he reaches into his belt and mercifully breaks a knockout capsule under dick's nose.}
+<T>__{dissolve to:}
+<A>__{insert television screen a taped report from the hallway outside alicia's apartment. cops and forensics men mill about in the b.g.}
+<C>__{reporter}
+<D>__{... on a tip attributed to the mysterious batman. the apartment was booby trapped with the joker's laughing gas, leaving 17 policemen dead.}
+<P>__{(beat)}
+<D>__{also found dead at the scene was alicia hunt, 26, a former model }
+<A>__{camera pulls back to reveal that the tv screen is part of bruce's bank of monitors, deep in the batcave. the other screens show the various rooms of wayne manor, all empty. we move now to the video display of a computer workstation, showing two faces side by side: a mug shot of jack napier and a freeze frame of the joker from one of his pirate transmissions. a graphics program abstracts the twin heads into three dimensional, rotating topological grids and, as we watch, the two spinning heads collide and merge. except for the fearsome grin, they mesh perfectly. yet another terminal: bruce's database. the same phrase flashes again and again, scrolling up the screen: ace}
+<B>__{chemical co. ace chemical co. ace chemical co.}
+<A>__{and, finally: bruce himself, slumped at a table, his head in his hands. he's realized, to his horror, that he is responsible for the birth of the joker. and frankly... he would just as soon be dead.}
+<L>__{interior wayne manor guest bedroom day}
+<A>__{dick grayson is sprawled on a huge four poster bed, unconscious, softly moaning. he comes to with a jolt. breaking into a sweat almost instantly, he looks at his unfamiliar surroundings. a shadowy figure stands nearby.}
+<C>__{dick}
+<D>__{... where am i?}
+<C>__{bruce}
+<D>__{my name is bruce wayne. you're welcome to stay here as long as you want.}
+<A>__{bruce steps out just as alfred enters with a breakfast tray. dick makes a puzzled face. what the hell is going on here?}
+<L>__{interior hall of justice day}
+<A>__{beneath the statue of blind justice, bruce and harvey dent march through the portico, engaged in a heated argument.}
+<C>__{dent}
+<D>__{we'll send a team into ace the moment the warrant comes through.}
+<C>__{bruce}
+<D>__{he'll be ready when you do. remember what happened at the apartment.}
+<C>__{dent}
+<D>__{all right, bruce, what do you suggest?}
+<C>__{bruce}
+<D>__{i suggest a nice big bomb.}
+<C>__{dent}
+<D>__{good. a bomb. on a blind tip from bruce wayne. we do have laws.}
+<C>__{bruce}
+<D>__{then for god's sake, harvey, cancel the anniversary celebration.}
+<C>__{dent}
+<D>__{we've told him we'll deal. what could he possibly have to gain by }
+<C>__{bruce}
+<D>__{do you still think the joker cares about money??}
+<C>__{dent}
+<D>__{i don't know. i'm just a d.a. i don't have access to all your expert sources.}
+<A>__{mexican standoff. bruce stalks off fuming. dent hangs back a moment, then turns down the hall.}
+<L>__{exterior wayne manor establishing day}
+<A>__{the ornate, wrought iron gate which opens on the long driveway snaking up toward wayne manor. it's bolted shut.}
+<L>__{interior wayne manor day}
+<A>__{a glass enclosed room which houses an enormous heated indoor swimming pool. dick grayson does a couple of laps, then climbs out and towels himself off. he looks out at the estate: tennis courts, a riding stable in the distance. he's not happy. all this opulence could drive a guy stark staring nuts in short order.}
+<L>__{interior guest bedroom day}
+<A>__{an open suitcase on the bed. dick fingers a gold ashtray bearing the figure of winged victory then shrugs and tosses it into the suitcase on top of his gymnast's costume. when he looks up he sees bruce in the doorway behind him.}
+<C>__{dick}
+<D>__{... your butler wouldn't gimme a ride so i figured i'd hoof it.}
+<C>__{bruce}
+<D>__{sorry. i can't let you leave.}
+<C>__{dick}
+<D>__{you can't keep me here, man. that's kidnapping.}
+<C>__{bruce}
+<D>__{if i let you leave, you'll do the same thing again. you'll go after the joker... and you'll wind up dead.}
+<P>__{(turning to go)}
+<C>__{dick}
+<D>__{hey, man. look at you. you're rich. you got everything you want. how do you know what's in my mind?}
+<A>__{bruce turns to face him. the little hellion's eyes are filled with raw, burning hatred. bruce knows the feeling.}
+<C>__{bruce}
+<D>__{i don't care what's in your mind. you're staying.}
+<A>__{bruce reaches for a key in his pocket. without warning, the kid rushes him, throwing a rock solid punch. with blinding speed, bruce sidesteps him, parries the blow, and winds up spinning dick around into a wall. dick is stunned, but he has to laugh. this rich boy has a move or two. bruce stands there, silently challenging him. a second later, the kid is airborne upping the ante with a scissor kick aimed squarely at bruce's gut. in a blur of motion bruce checks the kick, swings an arm into dick's chest, and sends the boy sprawling flat on his back.}
+<L>__{interior wayne manor kitchen that moment}
+<A>__{alfred, in his apron, fixing a tray of snacks. he looks up curiously at the ceiling. from the sound of it, a battle royal is shaping up in the guest bedroom.}
+<L>__{interior guest bedroom that moment}
+<A>__{dick's body head down, feet up flies through the air. he smashes into a closet door and slumps to the carpet. shaken now, and sweating profusely, he looks up at bruce... who stands calmly over him, adjusting his necktie. a long, tense moment passes between them. then:}
+<C>__{dick}
+<D>__{... you're him.}
+<A>__{no reply from bruce. their gazes lock. and suddenly...}
+<C>__{alfred }
+<D>__{freeze!}
+<A>__{dick and bruce look around. the puny, mustachioed butler stands in the doorway, feet spread in a dirty harry stance, a .44 magnum trained on dick.}
+<C>__{bruce}
+<D>__{it's all right, alfred. everything's under control.}
+<C>__{alfred}
+<D>__{... very good, sir.}
+<A>__{alfred relaxes, musters his dignity, and turns to go.}
+<T>__{cut to:}
+<L>__{interior conference room afternoon}
+<A>__{canned applause as the joker marches out onto a makeshift stage to give his quarterly report to the stockholders.}
+<C>__{joker}
+<D>__{thankya, thankya. ladies and germs, i'm here to tell you... we have had one helluva quarter.}
+<A>__{he waves a pointer at three sales charts on portable easels.}
+<C>__{joker }
+<D>__{panic's up. terror's up. and fear fear's gone straight through the roof. you guys should be proud 'cause i couldn'ta done it without each and every one of you!}
+<A>__{more canned applause. the joker takes a bow.}
+<C>__{joker }
+<D>__{i feel it's time to expand the joker line. i was askin' myself, what are the products that every consumer wants most? and that's when it hit me: the water you drink, and the air you breathe! huh? bingo!}
+<P>__{(strutting across stage)}
+<D>__{now, some of you have your eye on the profit margin. you're thinkin': this boy's too ambitious. you don't approve. in fact, some of you have been talking about turning me in to the cops. or knocking me off.}
+<A>__{he pauses. glares out at the audience. no response.}
+<C>__{joker }
+<D>__{but that's okay. i understand. not everyone shares my eye for beauty. and just to show there's no hard feelings, i'm throwin' a little shindig tonight and you're all invited!}
+<A>__{the canned applause goes right off the meter.}
+<C>__{joker }
+<D>__{how 'bout it? is everybody happy??}
+<A>__{reverse angle the audience familiar faces all around the major players of the gotham underworld. but despite the enormous twisted grins, no one here is laughing or applauding. no one here is living. the joker is playing to a roomful of smiling corpses. one of them topples out of his chair and lands with a plop.}
+<C>__{joker}
+<D>__{look at that, folks. we got 'em rolling in the aisles!}
+<T>__{cut to:}
+<L>__{interior bruce's bedroom toward dusk}
+<A>__{vicki lies in bruce's bed, under the covers, propped up on the pillows. bruce is in his robe over by the window, looking out at his estate.}
+<C>__{bruce}
+<D>__{all this apparatus, vicki... this house, and the money, and the power... it was never mine. it was something i inherited. bruce wayne was something i inherited.}
+<P>__{(pause)}
+<D>__{all i ever hoped for was someone who could see through bruce who could see me and not be frightened.}
+<C>__{vicki}
+<D>__{i'm not frightened of you, bruce. i'm frightened for you.}
+<C>__{bruce}
+<D>__{in all these years... why couldn't i see how it would turn out?}
+<A>__{he turns toward her. his face is ravaged with guilt. now she's truly afraid.}
+<C>__{bruce }
+<D>__{i'm responsible, vicki. if it wasn't for me, there'd be no joker.}
+<T>__{cut to:}
+<L>__{interior batcave evening}
+<A>__{tight on a tiny electronic device: two cylindrical steel casings bracketed together, topped by a digital timer. bruce makes a few adjustments with a jeweler's screwdriver, hits a trigger, and watches the timer tick off seconds. 30.}
+<L>__{29. 28. at 25 seconds, bruce kills the}
+<A>__{countdown and clamps the device into an empty packet on his utility belt. he stands up wearily. he's in his bat suit, minus the cape and cowl. behind him, hanging back discreetly in the shadows, is his loyal butler alfred.}
+<C>__{bruce}
+<D>__{where's the boy?}
+<C>__{alfred}
+<D>__{upstairs. he's quite docile.}
+<C>__{bruce}
+<D>__{i know that feeling. it won't last.}
+<A>__{bruce takes a moment to survey the batcave as alfred looks on tremulously.}
+<C>__{bruce }
+<D>__{he's a long way ahead of where i was at his age.}
+<P>__{(taking alfred's shoulders)}
+<D>__{i want you to treat him just as if he were me. promise.}
+<C>__{alfred}
+<D>__{yes, sir.}
+<C>__{bruce}
+<D>__{he'll be taken care of financially. beyond that... you know what to do. don't let all this go to waste.}
+<A>__{their eyes lock for a long moment. alfred is unable to speak. finally bruce turns and starts slowly up the long circular stairway which leads from the batcave to wayne manor. on the third step he pauses:}
+<C>__{bruce }
+<D>__{alfred? thank you.}
+<A>__{as bruce disappears up the stairs, a shaken alfred steadies himself against a lab table, fighting back tears.}
+<L>__{interior bruce's bedroom evening}
+<A>__{bruce draws the curtains, sets an alarm clock. the current time is 7:09 pm. he sits cross legged on the floor, slumps forward slightly, and closes his eyes. he inhales, exhales, taking deep, regular breaths. his muscles relax. ten seconds later, bruce has plunged into deep sleep. time passes. the clock shows 7:19, 7:32. at 7:44 we track in on bruce's unconscious face, drawing closer and closer until his eyelids fill the frame, twitching with the irregular movement characteristic of r.e.m. sleep. without warning his eyes snap open. hold on bruce's gaze grim, alert, determined as the clock hits 7:45. an alarm sounds, breaking the silence with its grating electronic whine.}
+<T>__{dissolve to:}
+<L>__{exterior ace chemical aerial shot night}
+<A>__{the trademark ace on the illuminated sign. from our vantage point high above, we can see three cargo trucks rolling out the main gates. a half mile away, the batmobile cruises up the waterfront, approaching soundlessly, its headlights off... preparing for a final showdown with the joker's forces.}
+<L>__{interior ace chemical that moment night}
+<A>__{the joker's minions, working late, readying a huge shipment. at an open loading bay, we find a dispatcher with a clipboard, directing more unmarked trucks in the lot outside.}
+<C>__{dispatcher}
+<D>__{boston, philly: loading bay one.}
+<L>__{exterior ace chemical that moment night}
+<A>__{the batmobile stops short of the main gate. engines roar and the supercar accelerates, smashing through the gate and taking half the chain link fence with it. in the guard's booth, armed goons pull guns as the batmobile streaks across the parking lot and launches a rocket at the corrugated metal door which opens on the factory floor. a thunderous explosion tears a gaping hole in the door.}
+<L>__{interior ace chemical that moment night}
+<A>__{the batmobile cruises through the flaming wreckage and skids to a halt on the refinery floor. the joker's men are everywhere. they take one look at the batmobile, panic, and pelt the car with a barrage of machine gun fire. cracks begin to spread across the batmobile's plexiglass dome. within moments, the windshield shatters and}
+<B>__{collapses altogether.}
+<L>__{interior batmobile that moment}
+<A>__{bullets rip through the upholstered passenger seats. it doesn't matter. the car is empty. no one's driving. track in on the computer console where a familiar tinny voice calmly repeats its pre programmed command:}
+<C>__{computer}
+<D>__{... detonate.}
+<A>__{a beat. then: blam.}
+<L>__{interior police car that moment night}
+<A>__{a convoy approaches ace chemical gordon's team preparing to raid the plant. inside each car: special unit cops dressed in asbestos suits, gas masks in their laps. all at once, a brilliant red glare suffuses the sky.}
+<C>__{cop}
+<D>__{good lord!}
+<L>__{exterior ace chemical that moment night}
+<A>__{the joker's men running for their lives across the parking lot, knocked flat by the force of six deafening explosions. for a few seconds everything is flame and fury. and then all that's left of ace chemical is a pile of charred rubble and a pillar of thick black smoke, spiraling up to the sky.}
+<T>__{cut to:}
+<L>__{exterior andrews island night}
+<A>__{dazzling fireworks explode in the night sky over gotham harbor. searchlights sweep across the mammoth, welcoming stone figure of lady gotham still wrapped in canvas, ready to be unveiled. thousands of rubberneckers jam every square inch of andrew's island. cops on horseback speak into walkie talkies as they patrol the edges of the crowd. across the harbor, ace chemical is going up in flames but as far as the crowd can tell, with all the noise and excitement, it's just another part of the celebration. at the base of the statue, governor gilroy speaks into a microphone:}
+<C>__{governor gilroy}
+<D>__{as governor of this great state, it is now my honor to unveil for you a very special lady a lady who stands tall for life and liberty america's favorite lady... lady gotham!}
+<A>__{the crowd begins to applaud rhythmically, chanting 'lady gotham! lady gotham!' it's like times square on new year's eve, waiting for the big ball to drop. gilroy hoists a pair of oversized scissors and cuts a ceremonial ribbon: hydraulic cranes kick into gear: cables drop free, and the canvas cover draws back from lady gotham's face... ... to a chorus of screams from the crowd. lady gotham is wearing a grisly joker grin!!! suddenly in the midst of the hysteria the searchlights die. the stage lights blink out. andrews island is plunged into darkness. instantaneous mass panic: the governor shouts to his aides as onlookers mob the stage. cops are knocked from their horses as the crowd stampedes. pandemonium rules. and across the harbor... block by block... gotham city is}
+<B>__{going dark.}
+<L>__{exterior gotham skies aerial shots night}
+<A>__{quick shots of four helicopters hovering at different points over the blacked out city. loudspeakers blare out a pre recorded message:}
+<C>__{joker }
+<D>__{happy birthday, gotham. here's a little token of my esteem. have fun... 'cause the party's on me!}
+<A>__{insane laughter echoes. cargo bays open wide. the joker's helicopters begin leafleting the city... with money!}
+<B>__{series of shots}
+<A>__{anarchy in gotham as high denomination bills flutter to earth, blanketing the streets. hopelessly outmanned cops try to maintain order as solid citizens trample one another in a paroxysm of animal greed. buildings empty as apartment dwellers race outside. all traffic stops as drivers climb out of their cars to snatch money from the air. darkness everywhere. in the pitch black subways, terrified commuters are seized by claustrophobia. glass shatters, doors break open as they claw their way out of stalled subway cars and spill out onto the tracks. on the streets above, gotham's criminal element is having a field day. the cops are preoccupied, utterly helpless against the first waves of rioting and looting. flames erupt. punks race down the street carrying fur coats and color tv's. looters break through the display window of an electronics store, and climb in among the goodies... only to fly out, two seconds later, on the wrong end of a shotgun blast. the joker's dream is coming true.}
+<L>__{exterior street night}
+<A>__{in a crouch on the pavement, snapping photos of the wild street action, is vicki fearless, professional, doing her job. a battered ford escort cruises up behind her.}
+<C>__{knox}
+<D>__{vicki!}
+<A>__{vicki sees knox, climbs into the passenger seat. he's wearing a big smile. they're jazzed, oblivious to danger.}
+<C>__{knox }
+<D>__{couldn't turn down the job, huh? a girl could get hurt this way.}
+<C>__{vicki}
+<D>__{yeah. deja vu.}
+<C>__{knox}
+<D>__{what do you say? let's head for the lights.}
+<A>__{in the distance, above the tops of the buildings, beacons are sweeping the sky.}
+<L>__{exterior broad avenue night}
+<A>__{stationed all up and down gotham's widest thoroughfare are huge portable searchlights mounted on trucks with portable generators, unaffected by the power outage. on the money covered sidewalks, total bedlam. but on the street itself, a bizarre parade is taking place, just as if nothing's wrong. rumbling up the avenue at two block intervals, moored to floats, are dozens of enormous balloons in the shapes of cartoon characters and historical figures. it's like a hellish thanksgiving's day procession. the lead off balloon is a gigantic, grotesque clown smiling ghoulishly, dressed in white pierrot frills. we tilt down to the float beneath it... ... and there, atop a mountain of roses where the prom queen should be, sits the joker smiling, waving daintily at the rioters and looters, presiding over the carnage like some demented parade marshal.}
+<T>__{cut to:}
+<L>__{exterior lake night}
+<A>__{a desolate rural setting. utter silence. moonlight glints on placid waters. we track in on a small sign bearing the legend: "gotham city reservoir." far off in the distance, headlights are approaching.}
+<L>__{exterior access road aerial shot moving night}
+<A>__{the three cargo trucks from ace chemical roll ominously toward the reservoir on their deadly mission. and then a streaking black shadow enters frame, overtaking the trucks. the batwing! a phenomenal ultralight aircraft, swift, sleek, jet black and infinitely maneuverable, it soars easily past the trucks, swooping low just long enough to release a bomb over a concrete bridge.}
+<L>__{exterior access road a moment later}
+<A>__{the bridge explodes, blocking the trucks' path to the reservoir. puzzled drivers climb out of their cabs and wonder what to do nexterior they spot the batwing in the distance banking, doing a sharp 180. for a moment they gape in disbelief. then they head for the trees as the batwing dives directly at the trucks, firing three armor piercing shells... and destroying the joker's lethal cargo once and for all.}
+<B>__{angle on batman}
+<A>__{in the cockpit, his jaw set, not even looking back at the wreckage as his plane screams off toward the gotham skyline.}
+<L>__{exterior gotham street night}
+<A>__{frightened pedestrians race past overturned cars. a parade float, run aground on the sidewalk, begins to burn. above it, a damaged balloon the cartoon character underdog is losing helium, warping and buckling in on itself, sinking down gently toward the flames. down the street, knox's ford escort is coming up fast.}
+<L>__{interior ford moving that moment}
+<A>__{vicki snapping photos out the window as underdog drifts downward. flames lick up at his belly and the cartoon blimp explodes.}
+<C>__{knox}
+<D>__{so much for underdog.}
+<A>__{then as they drive past a second explosion. and all at once the street is full of deadly greenish gas!}
+<C>__{vicki}
+<D>__{allie!! the windows!!}
+<L>__{exterior street a moment later night}
+<A>__{the ford escort, windows up, swerves out of a thick spreading cloud of green laughing gas threatening to engulf the entire block!}
+<L>__{interior ford moving that moment}
+<C>__{knox}
+<D>__{what happened?!?}
+<A>__{vicki stares back at the green cloud. turns. and sees, up the street, the joker's procession: balloons by the dozen!}
+<C>__{vicki}
+<D>__{oh my god. compressor tanks. he's got the balloons rigged with compressor tanks!!}
+<C>__{knox}
+<D>__{jesus christ, the guy's a genius.}
+<L>__{interior batwing that moment night}
+<A>__{batman, at the controls, gliding over the gotham streets. he looks down, sees a billowing haze of dense green fumes. at its periphery: looters reeling and staggering, falling to the pavement, laughing themselves to death.}
+<L>__{interior ford moving that moment}
+<A>__{vicki staring through the windshield. overhead, an aircraft streaks past... an aircraft with scalloped black bat wings.}
+<C>__{vicki}
+<D>__{look! it's bruce!!}
+<P>__{(frantically)}
+<D>__{allie the balloons. we've got to find some way to tell him!}
+<C>__{knox}
+<D>__{great. how??}
+<A>__{they speed up the street toward the parade. spotlights shine. suddenly knox's eyes bug out. he slams on the brakes and skids to a halt.}
+<C>__{knox }
+<D>__{come on!}
+<L>__{exterior avenue a second later night}
+<A>__{before vicki can speak, knox has grabbed a tire iron from the back of the car and raced out onto the street. he flings the tire iron through a glass storefront. it's a costume shop. in the window, mannequins dressed in party costumes: frankenstein. ronald reagan. and, that current popular sensation... the batman. as vicki catches up with him, knox drags the batman dummy out of the store window. rips off its black cape. and}
+<B>__{dashes maniacally up the sidewalk.}
+<A>__{waving the cape, he vaults onto the back of a spotlight truck. vicki's face goes slack. now she gets it.}
+<C>__{knox}
+<D>__{gimme a hand up here!}
+<A>__{vicki climbs aboard. they drape the cape over the face of the spotlight. then they put their shoulders to the swivel assembly tilting the spotlight aiming the beam... ... directly at the joker's white clown balloon!!!}
+<L>__{interior batwing that moment}
+<A>__{batman stares at the clown balloon dead ahead. on its massive distended belly... a burning yellow oval. and in the center of the oval... the black silhouette of a bat. batman's mouth drops open. he understands.}
+<L>__{exterior avenue on joker's float that moment}
+<A>__{the joker reaches into a big sack and begins distributing miniature gas masks, like party favors, to his cronies on the float. then he pulls out a radio operated remote control device and points it up at the clown balloon. he hits a button. the clown begins to inflate. its joints bulge. its face swells up as the compressor tank concealed inside it releases its noxious contents. the joker is beaming, a look of pure unalloyed joy on his face... ... when his parade float blows to smithereens beneath him! the joker and his men cartwheel through the air and tumble to the asphalt as the batwing whips past overhead, soaring through the stone canyons of gotham at a 90 degree angle to the ground!}
+<C>__{joker}
+<D>__{no... nooooo!!!}
+<B>__{angle on clown balloon}
+<A>__{as it rises, rises, swelling to grotesque proportions in the starless night. the tallest buildings are far below it now. finally it bursts and the deadly gas inside it disperses harmlessly in the wind.}
+<L>__{exterior avenue that moment}
+<A>__{the joker on the edge of a tantrum as he digs amid the rubble of his float for the remote device. at last he finds it; aims it up at the other balloons in the procession; hits a button repeatedly... ... and howls in frustration. nothing's happening. the damned thing is broken. he heaves it to the street in a fit of pique. a screaming comes across the sky as the batwing swings back for another pass, buzzing the joker at an altitude of twenty feet. sizzling laser fire sweeps the street. cables snap and balloons drift upward as batman's lasers sever their moorings. the joker can only look on helplessly, in stunned disbelief. as he's watching his plans evaporate... his eyes fall on the makeshift bat signal.}
+<C>__{joker}
+<D>__{there. there. get 'em!!}
+<B>__{angle on spotlight truck}
+<A>__{a spray of machine gun fire shatters the bat signal. knox throws vicki to the street, ducks down behind the spotlight, and tosses her his car keys.}
+<C>__{knox}
+<D>__{get the car!}
+<A>__{the joker's goons are coming up fast as vicki reaches the ford, starts it, and comes roaring up toward knox. he jumps off the truck as vicki twists the wheel, lays a track of rubber, and noses the car back in the opposite direction. gunfire as knox jumps inside and they peel out.}
+<L>__{interior ford escort moving a moment later}
+<A>__{knox's breathing is ragged, but he breaks out in hysterical laughter nonetheless. the two of them are totally exhilarated. they can't believe what they've just done.}
+<C>__{knox}
+<D>__{holy shit!!}
+<C>__{vicki}
+<D>__{you okay?}
+<C>__{knox}
+<D>__{yeah. yeah. little winded. did you see that?!}
+<C>__{vicki}
+<P>__{(laughing wildly)}
+<D>__{god yes, allie. i've gotta say that was the ballsiest move i ever }
+<C>__{knox}
+<P>__{(ecstatic)}
+<D>__{holy shit. holy }
+<A>__{he gurgles. an enormous gout of blood bubbles up between his lips and bursts.}
+<C>__{vicki}
+<D>__{allie!!}
+<A>__{his hand goes to his stomach and comes away bloody. he looks down in genuine bewilderment.}
+<C>__{knox}
+<D>__{jesus, vicki.}
+<A>__{that quickly, he's dead. vicki lets out an awful wail and slams on the brakes. she sits there in the middle of the street, pounding the wheel, tears pouring down her face.}
+<L>__{exterior gotham harbor night}
+<A>__{in the sky, cartoon characters drift lazily out to sea.}
+<L>__{exterior broad avenue night}
+<A>__{the joker and his boys running like hell down the avenue, past the parade. they reach the last of the floats the one bringing up the rear then climb aboard and disappear through a concealed hatch. wood splinters as the top of the float begins to rotate mysteriously. the muzzle of a cannon breaks through the parade decorations. and one moment later... a rose covered tank is rumbling up broad avenue!}
+<L>__{interior batwing that moment}
+<A>__{batman sweeps past overhead. he sees the tank, unleashes a burst of laser fire. it bounces harmlessly off the tank, leaves a trail of smoking asphalt on the street. he swoops low overhead, hits a button on his control panel as he streaks over the tank and into firing range.}
+<L>__{interior tank that moment}
+<A>__{the joker and his men clap hands to their ears as an ear splitting ultrasonic shriek reverberates in the tank. the joker screams out commands, to no avail. no one can hear him. he falls on the controls, begins hitting buttons.}
+<L>__{exterior street that moment}
+<A>__{the tank turret swings wildly. a heat seeking missile rips through the night, narrowly missing the batwing... and blowing a hole in the side of a skyscraper.}
+<L>__{interior batwing that moment}
+<A>__{the blast all but knocks the batwing out of the sky. batman stabilizes the plane, climbs for the clouds. when he's clear of the buildings, he grits his teeth and rolls out. he's coming back for more!}
+<L>__{interior tank that moment}
+<A>__{the joker stares at a tiny blip on his radar screen.}
+<C>__{joker}
+<D>__{he'll be back... he'll be back!!}
+<L>__{exterior broad avenue on batwing}
+<A>__{the black ultralight hurtles down broad avenue at full speed, on a suicide mission. missiles streak past on either side. machine gun fire peppers the dome of the cockpit. the rear stabilizer wing takes a direct hit... and bursts into flame! the batwing, trailing thick black smoke, bears down on the tank like a kamikaze plane. bomb bays open as batman dumps the last of his high explosives directly into the path of the tank. the batwing takes a hard bounce off the top of the tank and crashes to the street. and suddenly a gaping chasm opens underneath the tank as the bombs go off and broad avenue begins to split wide open!}
+<L>__{interior subway tunnel that moment}
+<A>__{broken concrete slabs rain down on a subway car stalled in the tunnel directly beneath broad avenue. support girders groan and give way as the street itself collapses and the front end of the tank drops through, crushing the subway train beneath it!}
+<L>__{exterior broad avenue that moment night}
+<A>__{the rear end of the tank projects out through the rubble. a hatch pops open. the joker crawls out through the smoke and pulls himself up to the street. he's down to his last three goons. he points to the batwing: bent, broken, wedged on its side in the asphalt seam running up broad avenue half in, half out of the tunnel.}
+<C>__{joker}
+<D>__{you do him. i'm outta here.}
+<A>__{the goons look on in dismay as the joker scurries off. they sidestep blackened debris and move up cautiously on the batwing. through the cockpit dome they can see batman... inert in his harness, beaten to a pulp, all but dead. a jet of flame drives them back momentarily. they reach for their guns, move in warily...}
+<C>__{voice}
+<D>__{yo.}
+<A>__{the frightened goons turn in unison. an abrupt flurry of motion feet and fists flying quick flashes of red and green and three goons lie paralyzed on the street. the only one left standing is a fifteen year old boy garbed in a red and green aerialist's uniform... dick grayson.}
+<L>__{interior batwing that moment}
+<A>__{batman slumps at the controls. beneath him, asphalt shifts and buckles. the batwing lurches to the right, drops a foot or two into the tunnel. metal braces collapse and the plexiglass dome of the cockpit shatters like an eggshell. tongues of fire lick at his face. he's helpless, pinned in place. he manages to look up and sees, through a dream like haze, a hand extended toward him:}
+<C>__{dick}
+<D>__{hey! come on!}
+<A>__{and suddenly dick is clambering down into the flaming wreckage. he gets an arm around batman's chest and with an extraordinary effort hauls him out of the batwing.}
+<L>__{exterior street a moment later night}
+<A>__{they stagger across the ruptured street. batman grimaces in agony. his right leg shattered is like rubber beneath him. his ribs are crushed. he's barely conscious.}
+<C>__{dick}
+<D>__{now we're even, huh? even up.}
+<C>__{batman}
+<D>__{how did you...}
+<C>__{dick}
+<D>__{i hitched. move it!}
+<A>__{dick drags batman to safety as the batwing erupts into flame behind them.}
+<C>__{batman}
+<D>__{the joker. is he ?}
+<C>__{dick}
+<D>__{forget it. relax.}
+<P>__{(beat)}
+<D>__{... he's mine now.}
+<A>__{dick snatches an abandoned .38 off the pavement.}
+<C>__{batman}
+<D>__{dick!}
+<A>__{the batman tries to pull himself erect. the pain is unendurable. his body has finally failed him. he collapses on the pavement, powerless to intervene, as dick races off with murder in his eyes.}
+<L>__{exterior gotham cathedral night}
+<A>__{a belltower's jagged spire, jutting up into the night sky, piercing the moon. down at street level, the joker is scrambling up the marble steps at the entrance to the old abandoned cathedral. he pulls a walkie talkie off his belt.}
+<C>__{joker}
+<D>__{gotham cathedral. come and get me.}
+<A>__{heavy paneled doors groan on tired hinges as the joker forces his way inside. a beat. then dick grayson appears, hot on his trail, sprinting up the steps two at a time.}
+<L>__{interior cathedral a moment later night}
+<A>__{ancient and creepy. a huge pipe organ, shattered stained glass windows, row after row of mahogany pews... all forgotten, covered with dust and cobwebs. the joker wanders about, staring at the statuary, the rusted icons. dick enters silently behind him. he kneels behind a rear pew, brings up the gun, and squeezes off three quick shots at the joker. the joker dives, takes cover, and returns dick's fire. then: silence. in a crouch, groping his way along the wall, the joker finds what he wants: a small door opening on a wooden stairway, leading to the belltower. he ducks inside and starts up. dick's gun drops with a thud. his hand slips from the back of the pew. in the second before he slumps to the floor, unconscious, he sees a curious sight: a tiny black ninja wheel, imbedded in the flesh of his leg. behind him framed in the arched doorway a ragged black ghost begins his final unholy march down the center aisle of the old cathedral.}
+<L>__{interior cathedral belltower night}
+<A>__{a tiny stone chamber, 8'x8', open on four sides to the wind. the enormous church bell has long since been removed. the joker stands in an archway, gazing at the gargoyles on the roof below. he hits a button on the walkie talkie:}
+<C>__{joker}
+<D>__{i'm in the belltower. don't land.}
+<L>__{interior helicopter moving night}
+<A>__{a pilot replies through his radio headset.}
+<C>__{pilot}
+<D>__{e.t.a. two minutes. hang on.}
+<A>__{the pilot swings the copter right in a wide, swooping arc.}
+<L>__{interior stairway to belltower that moment night}
+<A>__{batman. broken, beaten, his right leg useless, he hauls himself up the steps one at a time. he should be dead. dried blood cakes his face, his chest. dizzy, exhausted, his body strained to the limit, he slumps against a wall to steady himself, then reaches into his utility belt for a painkiller and forces the capsule back onto his dry, swollen tongue. quaking all over, he tries to draw himself erect... and topples over, landing with his full weight on the rotten wood of the belltower stairs. the stairway collapses, turning to splinters beneath him. and suddenly batman finds himself dangling precariously in midair, hanging by one hand to an upper step. it would be so much easier to let go. he looks down at the fragments of the shattered stairway, still falling, vanishing into the dark depths of the stairwell. then he looks up. at the trapdoor. a mere six feet away. his teeth clench in a monstrous grimace. and with an inhuman effort, he hoists himself up onto the upper steps. for a full five seconds he's blind with pain. a ragged wooden shaft is buried in his right shoulder. twitching, trembling, he reaches up and yanks it out with his last ounce of strength. the trapdoor is a foot above his head. it could be a mile. batman finally realizes he's not going to make it. he reaches down and rips open a velcro seal on his utility belt, revealing the strange timer device we saw him making earlier. before he can activate it his hand falls limply at his side. the batman is out like a light.}
+<L>__{interior belltower that moment night}
+<A>__{the joker glances casually down at the trapdoor, wondering what all the noise is about. he draws his gun, moves cautiously to the trapdoor, and lifts it a few inches... just enough to see the unconscious form on the stairs.}
+<C>__{joker}
+<D>__{... batman?}
+<A>__{no reply. the joker stands there and lets out a little snicker. he looks out through the archway, sees no sign of his rescue copter. then a look of curious amusement on his face he steps down through the trapdoor and lugs batman up into the belltower. he props batman up against a wall. still no sign of life. the joker crouches beside him and almost tenderly pats his face.}
+<C>__{joker }
+<D>__{batman? batman?}
+<A>__{the batman's lips part. but he's too weak to speak.}
+<C>__{joker }
+<D>__{i thought you'd be more comfortable here in the belfry.}
+<P>__{(chuckling to himself)}
+<D>__{before i kill you i'd like to see who you are. would that be okay?}
+<A>__{batman emits a tiny low moan. the joker takes it as a yes and reaches over to undo his cowl. bruce wayne stares up with dulled, sightless eyes. the joker reaches into his pocket for a purple handkerchief, moistens it, dabs at the caked blood on bruce's face.}
+<C>__{joker }
+<D>__{oh my, aren't we pretty.}
+<P>__{(brightening suddenly)}
+<D>__{i know you! you're the rich boy!!}
+<A>__{the joker is enormously tickled by this discovery. he claps his hands together in sheer glee.}
+<C>__{joker }
+<D>__{my goodness, what in the world made you do it? it must've been something pretty terrible!}
+<A>__{he's practically dancing now. he's made a friend.}
+<C>__{joker }
+<D>__{you know, we should've sat down and had us a little heart to heart. i bet we would have got on famously.}
+<C>__{batman}
+<D>__{mad... man...}
+<C>__{joker}
+<D>__{well now, you're not exactly the picture of mental health, are you.}
+<C>__{batman}
+<D>__{... murderer...}
+<C>__{joker}
+<D>__{bruce, we're both murderers. think how many people you've killed by letting me live.}
+<A>__{a spotlight cuts through the night sky. the joker hears his helicopter approaching in the distance. bruce reaches down furtively. finds the timer on his utility belt. flicks a switch... and the countdown begins. the joker pulls a straight razor from his pocket and opens it gingerly.}
+<C>__{joker }
+<D>__{i have to do it now, bruce, but it won't even hurt. now relax. the bat's in his belfry, all's right with the world...}
+<A>__{he has the razor almost up to bruce's throat when bruce reaches out and grabs his lapels in a death grip. the joker is momentarily amused by this seeming display of affection.}
+<C>__{joker }
+<D>__{why, bruce...}
+<A>__{then he hears ticking. looks down at the flashing digital display on bruce's belt.}
+<L>__{0:26 seconds. 0:25 seconds.}
+<A>__{he shrieks horrifically and drops the razor. bruce won't let go of him. finally he manages to lurch convulsively away, sprawling on the floor of the belfry. bruce is wearing a great big joker smile.}
+<C>__{joker }
+<D>__{it's not funny!!!}
+<C>__{bruce}
+<D>__{no... sense... of humor?}
+<A>__{the joker reaches out for the ticking time bomb. thinks better of it and retracts his shaking hand. he can see the copter approaching now, slicing through the clouds. he screams, waves a flashlight in the air: his signal beacon. 0:20 and counting. the joker scans the belltower frantically. his eyes fall on the trapdoor. he races over, flings it open, starts down the stairs in a frenzy. there are no stairs. they've collapsed. 0:16 and counting. screaming insanely, the joker vaults through the door and makes for the open stone archway. the copter is directly overhead now. a rope ladder drops from its belly.}
+<L>__{exterior belltower that moment}
+<A>__{the helicopter descends, its whirling blades stirring up a windstorm on the roof of the old abandoned cathedral. dead leaves rise and swirl in the churning air.}
+<L>__{interior belltower}
+<A>__{the joker makes a futile grab at the rope ladder, almost losing his purchase on the archway parapet. he gestures wildly for the copter to make another pass. 0:12 to go.}
+<L>__{exterior belltower}
+<A>__{a maelstrom of swirling leaves. and now, among the leaves roused from their resting place in the rotten rafters of the old cathedral a horde of squealing, chittering bats!! filling the air like a black cloud, hundreds of them, taking flight in blind uncomprehending fury }
+<L>__{interior belltower}
+<A>__{the joker leaps into empty space, grabs hold of the ladder, cackles in mad triumph and suddenly the belltower is full of bats. a screeching swarm, hideous, black winged swooping through the archways directly at the joker who screams in terror lets go of the ladder and plunges into the night. tight on batman. six seconds remain. there is still time if he makes his choice now. surrounded by the flapping of leathery wings, his body working on pure adrenalin, he unbuckles the belt. lurches into position. heaves it out into the darkness. it snags on the bottom rung of the dangling rope ladder.}
+<L>__{interior helicopter pov co pilot}
+<A>__{the co pilot is hanging out one side of the copter, just enough to see what's going on.}
+<D>__{co pilot pull up!! pull }
+<L>__{exterior churchyard overhead angle}
+<A>__{it's as if time has stopped. the world has grown suddenly silent. we're looking down at the joker, whose body lies splayed and broken on the flagstone surface of the churchyard. slowly, elegantly we have all the time in the world, now we drift downward, closer, until his face fills the screen, the familiar chilling grin still intact. sad clown, a one crazy boy, staring aimlessly at the stars. suddenly his face is bathed in a brilliant gasoline glow.}
+<B>__{pov joker}
+<A>__{looking up he sees a beautiful display of fireworks, bursting and burning, spirals of color snaking through the sky as the helicopter explodes in eerie silence. reverse angle the joker's face it's all so lovely. the joker's expression is happy, almost childlike, as he gazes up at this private show. gradually, though, the bright colors fade; and the joker's face begins to relax, the twisted grin dissolving at last as darkness sets in.}
+<T>__{fade through to:}
+<L>__{interior television studio night}
+<A>__{an anchorwoman delivering an oncamera editorial.}
+<C>__{anchorwoman}
+<D>__{as the details of the joker's heinous plan become known, a city's gratitude goes out to the mysterious batman. his whereabouts remain unknown, but batman if you're alive if you're listening thank you.}
+<L>__{exterior cemetery day}
+<A>__{vicki at a fresh gravesite. she places a floral arrangement in the urn at the head of the grave; stands back to examine it; then bends once more to reposition the drooping flowers.}
+<C>__{vicki}
+<D>__{i loved you too.}
+<A>__{as soon as the words come out, she begins to cry. then she gets hold of herself; rises; turns up her collar; and goes. the headstone reads: "alexander knox, 1956 1987."}
+<L>__{interior wayne manor study day}
+<A>__{alfred, in his apron, on the phone.}
+<C>__{alfred}
+<D>__{no, mr. wayne is in thailand. i'm afraid he's quite unreachable.}
+<L>__{interior wayne manor day}
+<A>__{the glass enclosed room which houses bruce's olympic sized swimming pool. outside, snow is falling. in the pool, on an inflatable rubber raft, is bruce wayne. beside him, waist deep is the water, is vicki helping him rehabilitate his leg and shoulder.}
+<C>__{vicki}
+<D>__{i don't know why i'm doing this. i half wish you'd stay a cripple.}
+<C>__{bruce}
+<D>__{ohhhh... you don't mean that.}
+<C>__{vicki}
+<P>__{(grasping for words)}
+<D>__{i don't, but... i do. it's just... i love you, bruce. i }
+<C>__{bruce}
+<P>__{(taking her hand)}
+<D>__{vicki. do you love half of me? or all of me?}
+<A>__{a hard question for vicki to answer. she thinks it over for several beats, then smiles... slowly, sadly.}
+<C>__{vicki}
+<D>__{i guess you did it, didn't you. you saved everyone.}
+<P>__{(pause)}
+<D>__{almost.}
+<A>__{for a moment he stares deeply into her eyes. then he pulls her over, takes her in a tight embrace.}
+<C>__{bruce}
+<D>__{i don't know how to explain this so it makes sense... but you saved me.}
+<L>__{interior batcave that moment day}
+<A>__{dick grayson stands at the brink of the bottomless pit and looks up at the gymnast's rings suspended overhead. he sets his jaw and then with only a moment's hesitation }
+<B>__{leaps into the void.}
+<A>__{his hands find the rings. he launches himself high into the air and does a spectacular triple somersault, catching the rings on his way down. exhilarated, he makes a perfect landing on the edge of the pit. 10 point 0. a smile of pleasure comes to his lips.}
+<T>__{cut to:}
+<L>__{exterior rooftop gotham city night}
+<A>__{a dark, moonless night. lights of the city sparkle in the distance. camera drifts across the rooftop, settling finally on the broad back of a black caped figure poised at the edge of the roof, gazing down on the streets below. a second figure enters frame. we get a brief glimpse of his red and green suit in the seconds before our eyes turn skyward... to the searing yellow spotlight sweeping through the clouds. in its center: the vast black silhouette of a bat, wings extended, dominating the night sky. we hold on the glaring bat signal as batman and robin vanish over the edge of the roof, plunging down toward new adventures. music builds and we}
+<T>__{fade out:}

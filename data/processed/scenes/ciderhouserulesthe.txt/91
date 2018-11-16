@@ -1,0 +1,62 @@
+<L>__{interior larch's office day}
+<A>__{larch is doing something at his desk when angela comes in.}
+<C>__{angela}
+<D>__{wilbur, you should read this.}
+<A>__{larch stares at angela, who holds a letter.}
+<C>__{angela}
+<D>__{it's from the board. another letter.}
+<L>__{interior larch's office night}
+<A>__{dr. larch stands in front of a mechanical drawing easel. he works intently with a calligraphic pen, but we don't see what he's working on. angela and edna sit at the desk; they're looking over the letter.}
+<C>__{angela}
+<P>__{(quoting the letter)}
+<D>__{uh... "merely suggesting that some new blood might benefit you all... someone with new ideas in the obstetrical and pediatric fields."}
+<P>__{(she looks up at larch)}
+<D>__{i think they're just testing some ideas for our next meeting.}
+<C>__{edna}
+<D>__{dr. holtz seems nice. i think he only wants to help...}
+<C>__{larch}
+<D>__{he is a goddamn psychiatrist of course he wants to "help"! he'd be happy if he could help commit me!}
+<C>__{angela}
+<D>__{it's that mrs. goodhall you have to be careful of, wilbur.}
+<C>__{larch}
+<D>__{one has to be more than "careful" of mrs. goodhall she has sufficient christian zeal to start her own country! i'd like to give her a little ether.}
+<C>__{edna}
+<D>__{so what are you going to do?}
+<A>__{larch puts down the pen, comes around the easel, opens a drawer in a filing cabinet, and hands edna a folder containing a few cleanly typed pages. larch returns to the easel, to his painstaking work. edna opens the file; as she and angela read the contents, larch recites from memory as he works.}
+<C>__{larch}
+<D>__{"homer wells, born portland, maine, march 2, 1915..."}
+<C>__{edna}
+<D>__{homer was born here, in, what was it, 1922?}
+<C>__{larch}
+<D>__{"...graduated bowdoin college, 1935, and harvard school of medicine, 1939."}
+<C>__{angela}
+<D>__{this is your life story, wilbur! you just changed the dates!}
+<C>__{larch}
+<D>__{"an internship and two years of training at the boston lying in, south end branch. for his age, he was judged an accomplished gynecological obstetrical surgeon; he is also experienced in pediatric care..."}
+<C>__{angela}
+<D>__{you invented him! you've completely made his up!}
+<C>__{larch}
+<D>__{don't you understand? the board is going to replace me! that's what the "new blood" is for!}
+<C>__{edna}
+<D>__{you mean they'll replace you with someone who won't perform abortions.}
+<C>__{larch}
+<P>__{(sarcastically)}
+<D>__{well, we can only guess about that, edna. they are against the law.}
+<C>__{angela}
+<D>__{these credentials are against the law!}
+<C>__{larch}
+<D>__{we all know who trained homer his credentials are as good as mine are. don't you be holy to me about the law! what has the law done for any of us here?}
+<A>__{edna and angela think this over.}
+<C>__{larch}
+<P>__{(points at file)}
+<D>__{so here is my candidate. what do you think?}
+<C>__{edna}
+<D>__{but what about school records? homer doesn't have any diplomas...}
+<A>__{larch turns the easel around. attached is a parchment headed: "harvard medical school" it's a diploma in progress.}
+<C>__{larch}
+<D>__{he will have them, edna.}
+<A>__{the women are shocked, awed.}
+<C>__{angela}
+<D>__{oh, wilbur, i don't know...}
+<P>__{(sudden thought)}
+<D>__{we don't even know where he is!}

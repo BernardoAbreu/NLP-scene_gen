@@ -1,0 +1,22 @@
+<L>__{exterior alley behind bar continuous}
+<A>__{the thugs turn and open up on the swats with automatic weapons.}
+<L>__{interior dive bar continuous}
+<A>__{selina moves to the door. spots the congressman under the bar, clutching his bleeding leg.}
+<C>__{selina}
+<D>__{keep some pressure on that, sweetheart.}
+<A>__{she adjusts her dress in the broken mirror behind the bar. moves for the door.}
+<C>__{congressman}
+<P>__{(weak)}
+<D>__{call me?}
+<L>__{exterior dive bar continuous}
+<A>__{selina waltzes out right into blake. she feigns panic.}
+<C>__{selina}
+<D>__{there's a man in there he's bleeding!}
+<C>__{blake}
+<D>__{it's okay, miss. it's okay.}
+<A>__{blake helps selina down onto the tailgate of a swat truck. he heads into the bar, weapon drawn. selina slips behind the truck and into the night.}
+<L>__{interior dive bar continuous}
+<A>__{blake enters, gun drawn. spots the congressman.}
+<C>__{blake}
+<P>__{(into radio)}
+<D>__{i've got the congressman bullet to the leg, but he's okay.}

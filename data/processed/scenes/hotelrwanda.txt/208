@@ -1,0 +1,87 @@
+<L>__{exterior interior diplomat hotel. day}
+<A>__{paul arrives into the lobby of the diplomat. looters have stripped the place bare. the convoy pulls up. general bizimungu stands with his pistol out. the looters see him and disperse.}
+<C>__{general bizimungu}
+<D>__{maggots!}
+<L>__{interior diplomat hotel office. day}
+<A>__{paul enters the manager's office, followed by the general. it has been stripped clean, except for the safe, which is pock marked with bullet strikes. lose on: paul: he sees a big problem. the dial is damaged.}
+<C>__{general bizimungu}
+<D>__{do your work.}
+<A>__{paul goes to the safe and turns the dials, tries the handle nothing. it is incredibly hot, and paul is soaked with nervous perspiration, he takes off his jacket.}
+<C>__{paul}
+<D>__{it might be damaged, general.}
+<A>__{bizimungu's look says: it better not be for your sake. paul starts again, turns the dials more carefully, tries and opens the safe door. click. he pulls it open, sees six bottles of glenfiddich, four bottles of vsop brandy. bizimungu is joyous as paul hands him a bottle bizimungu sits on a window ledge, takes a swig.}
+<C>__{general bizimungu}
+<D>__{here. (offers) to celebrate.}
+<A>__{paul takes a swig.}
+<C>__{general bizimungu }
+<D>__{you know what the scottish call it?}
+<C>__{paul}
+<D>__{no.}
+<C>__{general bizimungu}
+<D>__{ishca baha the water of life. i went on a tour once of the finest single malt distillery in the world. have you ever been to scotland?}
+<C>__{paul}
+<D>__{no, sir.}
+<C>__{general bizimungu}
+<D>__{wonderful country, wonderful golf. i wonder will i ever go back? what do you think?}
+<C>__{paul}
+<D>__{i hope we all get to do many things. can we go now?}
+<A>__{the soldier arrives with a box. he whispers to bizimungu.}
+<C>__{general bizimungu}
+<P>__{(to the soldier) pack those carefully,}
+<D>__{put them in my jeep, and guard them.}
+<C>__{paul}
+<P>__{(looses his cool)}
+<D>__{please, general, call and put your policemen back at the gate.}
+<A>__{the soldier packs the bottles. bizimungu pours into paul's cup.}
+<C>__{general bizimungu}
+<D>__{i am going to do you a great favor.}
+<P>__{(studies glass) i am going to take you}
+<D>__{with us to gitarama.}
+<C>__{paul}
+<D>__{i do not want to go to gitarama, general.}
+<C>__{general bizimungu}
+<D>__{you cannot go back to the hotel. the crazy men are going there now. better to come with me.}
+<A>__{paul is now terrified.}
+<C>__{paul}
+<D>__{the militia are at the hotel?! we must go back now, general, please, for my family.}
+<A>__{bizimungu, now tipsy, drinks more.}
+<C>__{general bizimungu}
+<D>__{we are better here.}
+<C>__{paul}
+<P>__{(desperate, forceful)}
+<D>__{listen, you need me.}
+<A>__{bizimungu laughs.}
+<C>__{paul }
+<D>__{you are a marked man.}
+<C>__{general bizimungu}
+<D>__{how so.}
+<C>__{paul}
+<D>__{the americans, and the un they have you as a war criminal. you are on a list.}
+<C>__{general bizimungu}
+<D>__{i am on a list! what list?}
+<C>__{paul}
+<D>__{when the europeans left, their soldiers gathered lists.}
+<A>__{bizimungu grabs paul.}
+<C>__{general bizimungu}
+<D>__{you lie.}
+<C>__{paul}
+<D>__{if you do not help me, you will stay on that list.}
+<C>__{general bizimungu}
+<D>__{i committed no war crimes.}
+<C>__{paul}
+<D>__{who will tell them? you need me to tell how you helped the hotel. the others who have gone, they blame you for all their misfortune. they say you led the massacres.}
+<C>__{general bizimungu}
+<P>__{(nervous now) i led no massacres.}
+<C>__{paul}
+<D>__{you think they will believe you?}
+<C>__{eneral bizimungu}
+<D>__{you will tell them the truth.}
+<C>__{paul}
+<P>__{(defiant)}
+<D>__{i will do nothing unless you help me now.}
+<A>__{bizimungu reaches for his pistol.}
+<C>__{paul }
+<D>__{what are you going to do, shoot me? it will be a blessing. go ahead shoot. i will pay you to shoot my family. you can do nothing to me!}
+<A>__{bizimungu jumps up, grabs paul, pulls him.}
+<C>__{general bizimungu}
+<D>__{you will tell them i did nothing.}

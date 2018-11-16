@@ -1,0 +1,25 @@
+<L>__{exterior street "end of the line" hotel night}
+<A>__{quail emerges from the side street and sees "end of the line" hotel. it is clean, bland, middle class. he quickly crosses the road and enters.}
+<L>__{interior "end of the line" hotel lobby night}
+<A>__{the foyer is brightly lit and empty. quail approaches the desk clerk, who is reading a book. "dr. no", marked, in flowing script, "from the classic series".}
+<C>__{desk clerk}
+<P>__{(without looking up)}
+<D>__{help you, sir?}
+<C>__{quail}
+<P>__{(handing over money)}
+<D>__{a room for the night.}
+<C>__{desk clerk}
+<P>__{(reluctantly}
+<D>__{putting down}
+<P>__{the book)}
+<D>__{id.}
+<C>__{quail}
+<P>__{(handing over money)}
+<D>__{here's ten thousand. forget the id.}
+<A>__{desk clerk looks up at him, with interest. his hand hovers over the money.}
+<C>__{quail}
+<P>__{(continuing)}
+<D>__{i have a liaison with a lady... and i'm married...}
+<C>__{desk clerk}
+<D>__{i understand, sir. nothing like a bit on the side, eh? bit of fugitive flesh. the greatest aphrodisiac is a new body, wouldn't you say, sir?}
+<A>__{quail looks at him with distaste but is only anxious to be given the key to his room. he says nothing.}

@@ -1,0 +1,17 @@
+<L>__{interior hallway}
+<A>__{mr. thomerson, who's been standing at the door, takes this time to sneak into the suite right behind them.}
+<L>__{interior rick's suite}
+<A>__{mr. thomerson can't believe the goings on. people are making out, drinking and dancing. he hides in a corner to watch undercover.}
+<B>__{angle in corridor}
+<A>__{the guys shove the donkey onto the elevator and the doors snap shut.}
+<L>__{interior hotel lobby}
+<C>__{manager}
+<P>__{(on phone)}
+<D>__{yes... i see... of course we don't allow that sort of thing here, ma'am. no... well, i'm sorry the noise woke you. i will take care of it right away.}
+<A>__{he hangs up and crosses to the elevator.}
+<C>__{manager}
+<D>__{i've had enough of this.}
+<A>__{just then the elevator door swings open. the donkey falls out into the lobby. the manager screams in terror, as do several of the hotel guests.}
+<C>__{manager}
+<P>__{(continuing)}
+<D>__{that's it. i'm calling the cops.}

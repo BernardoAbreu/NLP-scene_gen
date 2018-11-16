@@ -1,0 +1,16 @@
+<L>__{exterior a run down tenement neighborhood day}
+<A>__{scooby pulls into a spot.}
+<L>__{interior toby's apartment building day}
+<A>__{scooby climbs a stairwell, rings a bell. mike opens the door.}
+<C>__{scooby}
+<D>__{hey, uh, mike. is toby here?}
+<C>__{mike}
+<D>__{uh, no, he's not.}
+<C>__{scooby}
+<D>__{oh. do you have any idea where he might be?}
+<C>__{mike}
+<D>__{i think he's at a test screening.}
+<L>__{exterior toby's apartment building day}
+<A>__{scooby hurries outside only to find his car stolen.}
+<L>__{interior subway day}
+<A>__{scooby rides a train.}

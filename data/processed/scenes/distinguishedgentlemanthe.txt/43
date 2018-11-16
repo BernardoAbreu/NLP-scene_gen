@@ -1,0 +1,38 @@
+<L>__{interior tommy's reception area day}
+<A>__{tommy's office is a small, dark garret, with dirty car peting, bare shelves, and a pile of bulging canvas u.s. mail bags.}
+<C>__{tommy}
+<D>__{wait here.}
+<A>__{he heads further into the office.}
+<L>__{interior tommy's office day}
+<A>__{equally unattractive. perched on the desk: reinhardt.}
+<C>__{tommy}
+<D>__{you again!}
+<C>__{reinhardt}
+<D>__{good morning, congressman.}
+<C>__{tommy}
+<D>__{what is this shithole?}
+<C>__{reinhardt}
+<D>__{excuse me?}
+<C>__{tommy}
+<P>__{(gesturing, peeved)}
+<D>__{this.}
+<C>__{reinhardt}
+<P>__{(casual)}
+<D>__{oh you missed the freshman lottery for offices. they assign them by draw. you didn't show for the draw, so you got the worst office in congress.}
+<C>__{tommy}
+<D>__{i missed what lottery?}
+<C>__{reinhardt}
+<D>__{it was all in the briefing books i mailed you.}
+<C>__{tommy}
+<D>__{what else did i miss, reinhardt?}
+<C>__{reinhardt}
+<D>__{are you hiring me, congressman?}
+<A>__{tommy gives reinhardt a good once over, seeing him anew.}
+<C>__{tommy}
+<D>__{you're shaking me down, aren't you?}
+<A>__{tommy laughs, then clasps reinhardt's shoulders.}
+<C>__{tommy}
+<D>__{this is fantastic, reinhardt. i haven't been here five minutes, and you're shaking me down. god, i'm gonna love this town. you're hired, man. just tell me what to do nexterior i don't want to miss out on any of the good shit.}
+<C>__{reinhardt}
+<D>__{the dinner for new members is tonight, at union station. do you have black tie?}
+<A>__{begin elegant, spirited classical music.}

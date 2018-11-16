@@ -1,0 +1,24 @@
+<L>__{interior panic room night}
+<A>__{the phone is ringing. an operator picks up.}
+<C>__{operator}
+<D>__{911 emergency }
+<C>__{meg}
+<D>__{i'm at 26 west }
+<C>__{operator}
+<D>__{ please hold.}
+<A>__{it's a mechanical voice, which gives over to muzak.}
+<C>__{meg}
+<D>__{no!}
+<L>__{interior mechanical room night}
+<A>__{burnham bangs through the door again, starts searching the darkened mechanical room, shining harsh light around its dingy walls.}
+<L>__{interior panic room night}
+<A>__{muzak continues to play.}
+<C>__{meg}
+<D>__{damn it!}
+<A>__{no more time to hold. meg hangs up the phone, dials another number, a seven digit one she knows by heart.}
+<C>__{sarah}
+<D>__{call dad!}
+<C>__{meg}
+<D>__{on it!}
+<L>__{interior mechanical room night}
+<A>__{in the mechanical room, the bouncing flashlight beam falls on a metal cabinet across the way. burnham runs to it, flings it open. circuit breakers. slams it shut.}

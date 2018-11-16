@@ -1,0 +1,31 @@
+<L>__{interior coast guard headquarters night}
+<A>__{skipper sits across from a coast guard officer, tyler, 60. tyler pulls out a file and lays it on the table.}
+<C>__{tyler}
+<D>__{there are allegations questioning your competence with regard to the command of the albatross. i have been instructed to convene a formal tribunal to determine whether or not negligence played a part in the sinking.}
+<C>__{skipper}
+<D>__{i understand.}
+<C>__{tyler}
+<D>__{may i ask you something?}
+<A>__{skipper nods.}
+<C>__{tyler}
+<D>__{how'd you manage to piss off a guy as powerful as francis boutillier?}
+<C>__{skipper}
+<D>__{it wasn't hard.}
+<C>__{tyler}
+<D>__{i used to helm a school ship. a long time ago.}
+<C>__{skipper}
+<D>__{the coast guard 'eagle'. she never lost a race while you were skipper.}
+<A>__{tyler is taken aback by skipper's knowledge.}
+<C>__{tyler}
+<D>__{that's right, we didn't. i miss it sometimes. but, there are other things a skipper can do.}
+<A>__{tyler removes his glasses and studies skipper.}
+<C>__{tyler}
+<D>__{the families... want your ticket. turn it in, we forget the whole thing. everybody goes home.}
+<C>__{skipper}
+<D>__{... absolutely not.}
+<C>__{tyler}
+<D>__{the papers are going to eat you alive. even if you beat it, you'll never get another commission.}
+<P>__{(beat)}
+<D>__{they want someone to be accountable.}
+<C>__{skipper}
+<D>__{i am accountable.}

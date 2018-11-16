@@ -1,0 +1,77 @@
+<L>__{interior rand mansion first floor hallway night}
+<A>__{the elevator door opens, wilson guides chance in the wheelchair into the hallway.}
+<C>__{chance}
+<P>__{(looks back to elevator)}
+<D>__{... that is a very small room.}
+<C>__{wilson}
+<P>__{(laughs)}
+<D>__{yes sir, i guess that's true smallest room in the house.}
+<C>__{chance}
+<P>__{(glancing around)}
+<D>__{yes. it seems to be.}
+<A>__{wilson takes this as another joke, chuckles as he wheels chance toward rand's hospital room.}
+<L>__{interior rand's hospital room night}
+<A>__{constance and another nurse, teresa, stand by as rand is being given a transfusion. rand lifts his head as wilson wheels chance into the room.}
+<C>__{rand}
+<D>__{welcome to rand memorial hospital, mr. gardiner.}
+<C>__{chance}
+<P>__{(looks around room)}
+<D>__{... i see.}
+<A>__{wilson pushes chance to the x ray machine, where the technician, billings, a black man, waits. as wilson and billings help chance onto the x ray table, chance's face brightens up.}
+<C>__{chance }
+<D>__{i feel very good in here.}
+<C>__{rand}
+<D>__{sure you do. this ward is air tight, i have a little extra oxygen pumped in, keeps my spirits up.}
+<C>__{chance}
+<D>__{yes. i like that very much.}
+<C>__{billings}
+<P>__{(lining up chance's leg)}
+<D>__{this won't take long, mr. gardiner. please hold still when i ask.}
+<A>__{chance stares at billings, reacts to him being black.}
+<C>__{chance}
+<P>__{(to billings)}
+<D>__{do you know raphael?}
+<C>__{billings}
+<D>__{no sir, i don't believe i do.}
+<C>__{chance}
+<D>__{oh. i have a message for him.}
+<C>__{billings}
+<D>__{yes, sir.}
+<C>__{chance}
+<D>__{a black man gave me the message.}
+<C>__{billings}
+<D>__{well, i still don't believe i know the man, mr. gardiner. now, hold still.}
+<A>__{rand looks over as billings takes the x ray.}
+<C>__{rand}
+<D>__{aplastic anemia, mr. gardiner aplastic anemia.}
+<A>__{chance smiles to rand.}
+<C>__{rand }
+<D>__{failure of the bone marrow to produce red blood cells... not a damn thing they can do about it. oh, they can make me comfortable, prolong my life with steroid therapy and transfusions... and what makes my blood boil, what little i have left, that is, mr. gardiner is that it's generally a young person's disease... here i am, getting on in years and about to die of a young person's disease...}
+<C>__{chance}
+<P>__{(still smiles at rand)}
+<D>__{yes. you look very sick.}
+<C>__{billings}
+<D>__{hold still, please, mr. gardiner.}
+<C>__{rand}
+<P>__{(a laugh)}
+<D>__{i am very sick, and, as you can see by all this paraphernalia, i am very wealthy. i think i would rather be wealthy and sick than poor and sick.}
+<C>__{chance}
+<P>__{(looks around the room)}
+<D>__{i understand. i've never seen anything like this on television.}
+<C>__{billings}
+<D>__{please, hold still, mr. gardiner.}
+<C>__{constance}
+<D>__{you too, mr. rand, you must stay quiet.}
+<A>__{rand lays his head back.}
+<C>__{rand}
+<D>__{... we're prisoners, mr. gardiner we're prisoners of tubes and technology.}
+<C>__{chance}
+<D>__{i agree.}
+<C>__{rand}
+<P>__{(flat on his back)}
+<D>__{... you will join us for dinner, won't you, mr. gardiner?}
+<C>__{chance}
+<P>__{(also flat on his back)}
+<D>__{yes. i am very hungry.}
+<C>__{rand}
+<D>__{... so am i, my boy so am i.}

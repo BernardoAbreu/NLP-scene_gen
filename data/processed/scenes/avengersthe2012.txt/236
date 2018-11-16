@@ -1,0 +1,18 @@
+<L>__{interior passage to deck, carrier continuous}
+<A>__{fury closes the door to the deck.}
+<C>__{fury}
+<D>__{stark, you hear me? you have a missile headed straight for the city.}
+<L>__{exterior street, midtown continuous}
+<A>__{iron man is down on the ground.}
+<C>__{iron man}
+<D>__{how long?}
+<T>__{inside iron man helmet:}
+<C>__{fury}
+<P>__{(over radio)}
+<D>__{three minutes. max. stay load can wipe out mid town.}
+<C>__{tony}
+<D>__{jarvis, put everything we got into the thrusters.}
+<T>__{back to scene:}
+<C>__{jarvis}
+<D>__{i just did.}
+<A>__{iron man blasts away warriors and flies off elsewhere.}

@@ -1,0 +1,33 @@
+<L>__{exterior chicago fire department training academy day}
+<A>__{brian walks through its sculpted columns, straightening his tie. he comes to a door, fire academy chief. he takes a deep breath, steadies his gaze, and enters.}
+<L>__{interior fire academy chief's office day}
+<A>__{the academy chief sits at his desk going over a file. out the window can be heard a fire training class in action.}
+<C>__{chief fitzgerald}
+<D>__{is this a joke?}
+<A>__{brian's sitting in the seat opposite.}
+<C>__{brian}
+<D>__{if it was a joke, sir, you'd be laughing.}
+<C>__{chief fitzgerald}
+<D>__{you walked out on this academy six years ago. one week to graduation. you think we forgot that? you think i did?}
+<C>__{brian}
+<D>__{i want another shot, sir.}
+<C>__{chief fitzgerald}
+<P>__{(beat)}
+<D>__{look, everybody remembers your old man. being his son, all you had to do was breathe to graduate here. dead hero father rule. but you blew us off. why should i take you back?}
+<C>__{brian}
+<D>__{if you remember, sir, my test scores were in the top }
+<C>__{chief fitzgerald}
+<D>__{ i don't give a damn what your test scores were, maybe you could have been a good firemen, but you had your shot.}
+<C>__{brian}
+<D>__{i need another one, sir.}
+<C>__{chief fitzgerald}
+<D>__{sorry, but it's out of my hands. try again next year.}
+<C>__{brian}
+<D>__{no, it isn't out of your hands or you wouldn't even have met me. if i push you have to let me back in. dead hero father rule. sir.}
+<C>__{chief fitzgerald}
+<P>__{(simmers)}
+<D>__{even if you graduate this academy, you've still got nine months of probation. that's hard duty, son. if you don't really love this job, it'll kill you.}
+<C>__{brian}
+<P>__{(rises)}
+<D>__{see you monday. sir.}
+<A>__{as we hear the blow of a whistle}

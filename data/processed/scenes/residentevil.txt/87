@@ -1,0 +1,48 @@
+<L>__{int cubicle timeless}
+<A>__{the escapees arrive in the security cubicle.}
+<C>__{ada}
+<D>__{the corridor outside... can be moved.}
+<A>__{ada rushes over to the instrument panel. her hands go to work on an array of buttons and switches.}
+<L>__{int runway timeless}
+<A>__{the multi faceted corridor twists into a new configuration with the rumble of an "eight" on the richter.}
+<L>__{int cubicle timeless}
+<C>__{ada}
+<D>__{you won't come out in the same place. but you'll find a freight loader that can be accessed with...}
+<C>__{jill}
+<D>__{...a blue key. i hope.}
+<C>__{ada}
+<D>__{no. pot blue or green. red.}
+<A>__{ada pulls a red key from under her lab coat, snaps the chain on her neck, and holds it out to chris.}
+<C>__{ada }
+<D>__{i took it from an umbrella agent assigned to us here. he died... like all the rest.}
+<C>__{chris}
+<D>__{red... overrides green.}
+<C>__{ada}
+<D>__{yes.}
+<C>__{chris}
+<D>__{so... you could have unlocked "d" lab.}
+<C>__{ada}
+<D>__{i was hoping it would never be un locked again. go. i will see that this.. .(she holds up the data disk) ... is destroyed.}
+<A>__{chris grabs ada's arm and holds it tight while he wrenches the disk away from her. he folds it over onto itself, drops it to the floor, and pumps three winchester rounds into it.}
+<C>__{chris}
+<D>__{it's destroyed. it's worthless but you're not.}
+<C>__{ada}
+<D>__{i helped develop it!}
+<C>__{chris}
+<D>__{unwittingly. they lied to you. they lied to marcus. they made you believe you were doing a good thing when it wasn't good at all. it was evil!}
+<A>__{ada looks deeply into chris' eyes.}
+<C>__{chris }
+<D>__{the kind of evil that... resides in all of us. makes us... greedy, uncaring. the kind of evil that will... wipe us out, in the end. unless we stand up against it.}
+<C>__{ada}
+<D>__{stand up? against powers that have... ruled the world since before we were born? we will only be...eliminated. or locked away someplace else. i'd rather die here. knowing that the virus has died with me .}
+<A>__{jill takes a step toward ada.}
+<C>__{jill}
+<D>__{what if it's already spread? you're the only one...who knew anything about it.}
+<C>__{ada}
+<P>__{(the thought penetrating) but, i...}
+<D>__{know so little.}
+<C>__{chris}
+<D>__{more than anyone else. you have... a responsibility.}
+<C>__{jill}
+<D>__{to a higher command. the highest.}
+<A>__{she and chris touch eyes again, this time with understanding.}

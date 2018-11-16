@@ -1,0 +1,76 @@
+<L>__{exterior building night}
+<A>__{brenna runs the sidewalk and disappears into a metro station.}
+<L>__{interior metro station}
+<A>__{brenna runs down the platform and jumps into a subway car just as the doors shut.}
+<B>__{the knight}
+<A>__{is also now on the platform but can only watch brenna through a window as the train pulls away.}
+<L>__{exterior taupin's townhouse day}
+<A>__{brenna knocks at the front door. no answer. she knocks harder. the unlatched door pushes open.}
+<L>__{interior townhouse}
+<A>__{brenna stands in the doorway. before her is a disaster. furniture has been smashed like matchsticks. a desk drawer's contents lie strewn in piles on the floor. brenna enters slowly.}
+<C>__{brenna}
+<D>__{mr. taupin? i have to talk to you.}
+<A>__{nothing has been left unturned or unbroken. brenna kneels and sifts through a pile of crumpled papers. she comes across an old black and white photograph. badly streaked and faded, it shows taupin standing beside a farm house. written in the corner is "worstick, 1928". brenna slips the photo into her pocket. standing, she turns smack into taupin.}
+<C>__{taupin}
+<D>__{finished?}
+<A>__{he looks past her to the destruction of his living room. it doesn't seem to surprise him.}
+<C>__{brenna}
+<D>__{he tried to kill me last night.}
+<C>__{taupin}
+<D>__{where?}
+<C>__{brenna}
+<D>__{dupont circle.}
+<A>__{taupin sifts through the debris, selecting articles from it.}
+<C>__{brenna}
+<D>__{who is he?}
+<C>__{taupin}
+<D>__{at the moment? carl smith.}
+<C>__{brenna}
+<D>__{and you?}
+<A>__{he ignores the question.}
+<C>__{brenna}
+<D>__{what will you do now?}
+<C>__{taupin}
+<D>__{you needn't worry miss cartwright. i've been at this a very long time.}
+<C>__{brenna}
+<D>__{he called you "macleod".}
+<C>__{taupin}
+<D>__{not your concern.}
+<C>__{brenna}
+<D>__{i left a man dead in felton. but you don't really care, do you?}
+<C>__{taupin}
+<D>__{that bothers you?}
+<C>__{brenna}
+<D>__{he was innocent.}
+<C>__{taupin}
+<D>__{he's dead. whatever i may or may not feel means exceedingly little to him now.}
+<C>__{brenna}
+<D>__{what about me?}
+<C>__{taupin}
+<D>__{you?}
+<C>__{brenna}
+<D>__{i'm a witness to a murder. that seems to put me pretty high on your friend's chop list.}
+<C>__{taupin}
+<D>__{have you gone to the police?}
+<C>__{brenna}
+<D>__{no.}
+<C>__{taupin}
+<D>__{why not? i'm sure they'd love to hear your story.}
+<C>__{brenna}
+<D>__{i'd rather hear yours.}
+<C>__{taupin}
+<P>__{(beat)}
+<D>__{you are being foolish.}
+<C>__{brenna}
+<D>__{i'm a historian, mr. taupin. only once in a lifetime do you stare history in the face.}
+<C>__{taupin}
+<D>__{go home.}
+<A>__{he walks to the doorway.}
+<C>__{brenna}
+<D>__{why does he want to kill you?}
+<A>__{taupin stops, his back to her.}
+<C>__{taupin}
+<D>__{he sees me as a threat.}
+<C>__{brenna}
+<D>__{are you?}
+<A>__{taupin walks out the door.}

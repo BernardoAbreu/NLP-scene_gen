@@ -1,0 +1,25 @@
+<L>__{interior allgood house living room dawn}
+<A>__{jules wakes up looking crusty from a rough night on the couch. she looks like she hasn't slept at all.}
+<L>__{interior laser's room dawn}
+<A>__{jules enters and walks over to her sleeping son. she gently nudges him awake.}
+<C>__{jules}
+<D>__{hey laser. honey?}
+<A>__{laser turns over, semi conscious.}
+<C>__{laser}
+<D>__{what?}
+<A>__{she sits down on his bed.}
+<C>__{jules}
+<D>__{listen, i know you and joni heard what's going on. i just want you to know that what happened with paul and me is over. there's nothing going on now.}
+<C>__{laser}
+<D>__{okay.}
+<C>__{jules}
+<D>__{i know you might need some time to process your feelings around this, but i just want you to know that i'm here for you if you want to talk about anything.}
+<P>__{(beat)}
+<D>__{is there anything you want to talk about?}
+<C>__{laser}
+<P>__{(leave my room)}
+<D>__{not really.}
+<C>__{jules}
+<P>__{(fighting the impulse to push it)}
+<D>__{okay then. go back to sleep.}
+<A>__{jules pats her son and leaves.}

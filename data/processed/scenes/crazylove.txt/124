@@ -1,0 +1,39 @@
+<L>__{interior mcdonald's restaurant night}
+<A>__{michael sits in the same booth, eating a hamburger. about half of the application is now completed.}
+<L>__{interior tuxedo shop night}
+<A>__{letty and her mother sit in silence. letty smiles at her mother. her mother gives her a very tiny smile back. michael hurries in.}
+<C>__{michael}
+<D>__{hey, letty. mrs. mayer.}
+<C>__{letty}
+<D>__{i got worried. are you ok.}
+<A>__{michael pulls a blue polyester hat out of his pocket and puts it on. m}
+<C>__{ichael}
+<D>__{how may i help you?}
+<C>__{letty}
+<D>__{congratulations.}
+<C>__{mrs. mayer}
+<D>__{michael, the shop's about to close. maybe you could try on your tux.}
+<A>__{michael heads to the dressing room in the back of the store.}
+<C>__{letty}
+<P>__{(to mrs. mayer)}
+<D>__{michael just got a job. couldn't you congratulate him?}
+<C>__{mrs. mayer}
+<D>__{i will, dear. i promise.}
+<P>__{(beat)}
+<D>__{why mcdonald's?}
+<C>__{letty}
+<D>__{he's been looking everywhere for weeks, mom. it's not that easy after you've been locked away.}
+<A>__{letty looks toward the back of the store. her mother looks at her. letty ignores her mother.}
+<C>__{mrs. mayer}
+<D>__{i've read that lots of people my age are supplementing their incomes these days by working at mcdonald's and burger king.}
+<A>__{letty looks at her mother, tries to read her.}
+<C>__{letty}
+<D>__{i'm going to take that as an honest effort at being open minded.}
+<C>__{mrs. mayer}
+<D>__{don't be fresh.}
+<C>__{letty}
+<D>__{just remember that i love him.}
+<A>__{michael walks out of the dressing room and advances toward the two women, bowing in cary grant fashion as he nears. letty's mother turns to her daughter, who beams brightly at the dashing michael.}
+<C>__{mrs. mayer}
+<P>__{(to letty)}
+<D>__{i will say this, dear. he looks damn good in a tuxedo.}

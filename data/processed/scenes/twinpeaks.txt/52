@@ -1,0 +1,17 @@
+<L>__{43. interior hallway below the surveillance camera same}
+<A>__{cooper stares into the lens of the camera for a moment. then sprints to the surveillance room.}
+<L>__{44. interior surveillance room}
+<A>__{cooper stares at the monitor. sees nothing on the screen but an empty hallway.}
+<L>__{45. exterior buenos aires hotel day}
+<A>__{nice sunny day. the dity in all its glory. on screen it reads:}
+<D>__{"buenos aires"}
+<L>__{46. interior buenos aires hotel day}
+<A>__{phillip jeffries checks into the hotel.}
+<C>__{head clerk}
+<D>__{here's your key, mr. jeffries. i hope you enjoy your stay here at the palm deluxe.}
+<P>__{(grabs a note)}
+<D>__{this is for you. the joven... ah... young lady... she left it.}
+<A>__{rings the bell. a bellhop appears. young, sweating, and eager. jeffries hands him the key.}
+<C>__{bellhop}
+<D>__{612 very nice.}
+<A>__{he picks up jeffries' bag and heads for the elevator.}

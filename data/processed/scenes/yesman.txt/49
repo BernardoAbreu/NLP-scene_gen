@@ -1,0 +1,25 @@
+<L>__{interior holiday inn conference room}
+<A>__{carl runs to the conference room. the just say yes seminar has been packed up.}
+<L>__{interior holiday inn lobby}
+<A>__{carl walks up to the counter.}
+<C>__{carl}
+<D>__{hi... is there a sanji gupta staying here?}
+<C>__{receptionist}
+<D>__{room 125.}
+<L>__{interior holiday inn hallway}
+<A>__{carl walks down the hallway. he knocks on room 125. after a couple minutes of shuffling around, sanji opens the door.}
+<C>__{carl}
+<D>__{i'm carl. the guy from yesterday.}
+<C>__{sanji}
+<D>__{of course, of course! please come in!}
+<A>__{carl comes into sanji's hotel room.}
+<C>__{sanji }
+<D>__{would you like a cup of coffee?}
+<C>__{carl}
+<D>__{no thanks. i just wanted to thank you for that inspiration.}
+<C>__{sanji}
+<D>__{fantastic. so how do you plan on continuing with your journey?}
+<C>__{carl}
+<D>__{you know, just living every day to it's fullest. and, like, learning to continue to experience life or whatever.}
+<C>__{sanji}
+<D>__{outstanding, carl. except for one}

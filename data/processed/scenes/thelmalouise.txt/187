@@ -1,0 +1,75 @@
+<L>__{exterior side of desert highway day}
+<C>__{patrolman }
+<D>__{turn off your engine.}
+<A>__{louise does. the patrolman gets out of his car and approaches their car. he comes to the driver's side window. it is rolled up. patrolman's pov of louise smiling up at him. he gestures to her to roll her window down. she does.}
+<C>__{louise}
+<D>__{hello, officer. is there a problem?}
+<C>__{patrolman}
+<D>__{you wanna let me see your license, please?}
+<A>__{louise fumbles in her purse for her wallet, opens it and shows her license.}
+<C>__{patrolman}
+<D>__{you wanna take it out of your wallet, please?}
+<C>__{louise}
+<D>__{oh yeah.}
+<A>__{she does and hands it to him.}
+<C>__{thelma}
+<D>__{i told you to slow down. hell, officer, i told her to slow down.}
+<C>__{louise}
+<D>__{about how fast was i going?}
+<C>__{patrolman}
+<D>__{about a hundred and ten. you wanna step out of the car, please?}
+<A>__{they walk to the back of the car. he notes the license plate number.}
+<C>__{patrolman}
+<D>__{is this your car?}
+<C>__{louise}
+<D>__{yes.}
+<C>__{patrolman}
+<D>__{you wanna come with me, please? walk around and get in the car, please.}
+<C>__{louise}
+<D>__{in the back?}
+<C>__{patrolman}
+<D>__{front.}
+<C>__{louise}
+<D>__{am i in trouble?}
+<C>__{patrolman}
+<D>__{as far as i'm concerned, yes, ma'am, you are.}
+<A>__{patrolman gets in the driver's side. he picks up a clipboard and clips louise's driver's license to it. he picks up the hand mike for the radio and, as he does, a hand with a gun comes in his car window. it's thelma and she puts the gun to his head.}
+<C>__{thelma}
+<D>__{officer, i am so sorry about this. could you let go of that?}
+<A>__{he drops it.}
+<C>__{thelma}
+<D>__{i really, really apologize, but please put your hands on the steering wheel. see, if you get on that radio, you're gonna find out that we're wanted in two states and probably considered armed and dangerous, at least i am, then our whole plan would be shot to hell. louise, take his gun.}
+<A>__{louise reaches over and takes his gun.}
+<C>__{louise}
+<P>__{(apologetic)}
+<D>__{i am really sorry about this.}
+<C>__{thelma}
+<D>__{i swear, before yesterday, neither one of us would have ever pulled a stunt like this. but if you ever met my husband, you'd know why i just can... you wanna step out of the car, please?}
+<P>__{(she opens the door for him)}
+<D>__{you wanna put your hands on your head, please? louise, shoot the radio.}
+<C>__{louise}
+<D>__{what?}
+<C>__{thelma}
+<D>__{shoot the radio!}
+<A>__{louise shoots the car radio. the cop flinches with each shot.}
+<C>__{thelma}
+<D>__{the police radio, louise! jesus!}
+<A>__{louise fires two shots into the police radio. it blasts all to hell.}
+<C>__{thelma}
+<D>__{you wanna step to the back of the car, please. louise, bring the keys.}
+<A>__{louise reaches over and takes the keys. she takes her license off the clipboard. she gets out and trots around to the back of the car. thelma is holding the gun on the patrolman. suddenly thelma fires the gun, blowing two holes into the trunk cover.}
+<C>__{thelma}
+<P>__{(to louise)}
+<D>__{open the trunk.}
+<A>__{louise opens the trunk.}
+<C>__{thelma}
+<P>__{(to patrolman)}
+<D>__{you wanna step into the trunk, please?}
+<C>__{patrolman}
+<D>__{ma'am, please... i got kids... a wife...}
+<C>__{thelma}
+<D>__{you do? well, you're lucky. you be sweet to 'em. especially your wife. my husband wasn't sweet to me and look how i turned out. now go on, get in there.}
+<A>__{as he's climbing into the trunk, thelma explains to louise:}
+<C>__{thelma}
+<D>__{air holes.}
+<A>__{he's all the way in and louise closes the trunk.}

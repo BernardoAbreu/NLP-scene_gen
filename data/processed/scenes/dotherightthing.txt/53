@@ -1,0 +1,42 @@
+<L>__{int: tenement hallway day}
+<A>__{mookie hands the pizzas over and takes the money and counts it.}
+<C>__{mookie}
+<D>__{thanks.}
+<L>__{ext: street day}
+<A>__{mookie walks, says hello to the people he knows.}
+<L>__{ext: stoop day}
+<A>__{mookie runs up stoop.}
+<L>__{int: mookie's apartment day}
+<A>__{we hear a key in the door, the lock turns and mookie enters.}
+<C>__{mookie}
+<D>__{jade.}
+<C>__{jade }
+<D>__{i'm in here.}
+<L>__{int: jade's bedroom day}
+<A>__{jade sits in a chair directly in front of an air conditioner going full blast.}
+<C>__{jade}
+<D>__{how come you're not at sal's?}
+<C>__{mookie}
+<D>__{i'm working.}
+<C>__{jade}
+<D>__{is this another one of your patented two hour lunches?}
+<C>__{mookie}
+<D>__{i just come home to take a quick shower.}
+<C>__{jade}
+<D>__{sal's gonna be mad.}
+<C>__{mookie}
+<D>__{later for sal. y'know, sometimes i think you're more concerned with him than me.}
+<C>__{jade}
+<D>__{i think no such a thing. sal pays you, you should work.}
+<C>__{mookie}
+<D>__{slavery days are over. my name ain't kunta kinte. sis, i don't want to argue, stop pressing me.}
+<C>__{jade}
+<D>__{i just don't want you to lose the one job you've been able to keep, that's all. i'm carrying you as it is.}
+<C>__{mookie}
+<D>__{don't worry 'bout me. i always get paid.}
+<C>__{jade}
+<D>__{yeah, then ya should take better care of your responsibilities.}
+<C>__{mookie}
+<D>__{what responsibilities?}
+<C>__{jade}
+<D>__{i didn't stutter. take care of your responsibilities. y'know exactly what i'm talking about.}

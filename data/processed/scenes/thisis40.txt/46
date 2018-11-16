@@ -1,0 +1,28 @@
+<L>__{interior outside the bedroom continuous}
+<C>__{charlotte}
+<D>__{what's going on in there?}
+<C>__{sadie}
+<D>__{mom, i can't be late for school, i have a test!}
+<C>__{pete }
+<D>__{mommy can't talk right now!}
+<L>__{interior bedroom continuous}
+<C>__{sadie }
+<D>__{this isn't funny, mom. i need to go.}
+<C>__{charlotte }
+<D>__{mom, let me in!}
+<L>__{interior outside the bedroom continuous}
+<C>__{sadie}
+<D>__{that's not going to help.}
+<A>__{charlotte shoves sadie.}
+<C>__{pete }
+<D>__{put on your shoes. we'll meet you in the car.}
+<A>__{the fight between sadie and charlotte escalates and becomes physical.}
+<L>__{interior bedroom continuous}
+<C>__{charlotte }
+<D>__{sadie hurt me!}
+<C>__{sadie }
+<D>__{i didn't!}
+<C>__{pete}
+<D>__{hit her back!}
+<C>__{sadie }
+<D>__{she's faking!}

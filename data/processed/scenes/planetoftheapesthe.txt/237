@@ -1,0 +1,111 @@
+<L>__{283 full shot the amphitheater}
+<A>__{zaius glances at the accused.}
+<C>__{zaius}
+<D>__{well...do you acknowledge kinship with any of these creatures?}
+<C>__{taylor}
+<D>__{with one of them.}
+<C>__{zaius}
+<D>__{identify him, then. speak to him.}
+<A>__{taylor moves forward for a few paces, stops.}
+<C>__{taylor}
+<D>__{landon?}
+<L>__{284 closer shot featuring landon from taylor's p.o.v.}
+<A>__{landon looks catatonic. his face is in shadow}
+<L>__{285 wider angle to include taylor}
+<A>__{stunned by landon's imbecility.}
+<C>__{taylor}
+<D>__{john ... it's me, taylor.}
+<A>__{taylor steps forward to grasp his arm. there is still no response. taylor takes landon's head in his hands and looks at his face. there is a fresh scar running from his forehead to the top of his cranium.}
+<L>__{286 full shot the amphitheater}
+<A>__{as taylor whirls on zira.}
+<C>__{taylor}
+<D>__{you! ... you knew about this?}
+<C>__{zira}
+<D>__{no, i swear i never saw this man before.}
+<C>__{taylor}
+<P>__{(whirling on zaius)}
+<D>__{you did this to him! you've removed his frontal lobes!}
+<C>__{president}
+<D>__{silence!}
+<P>__{(turning)}
+<D>__{bailiff, take the prisoner inside!}
+<A>__{the bailiff jerks brutally on taylor's leash, pulling him toward the door leading under the amphitheater. a 286 interior inquiry room med. shot day the bailiff enters, dragging taylor behind him, shoves him into his chair. moments later the other apes enter the room. all take their seats but zaius. taylor glares at him furiously.}
+<C>__{zaius}
+<P>__{(calmly)}
+<D>__{mr. president, a word of explanation: the creature in question suffered a skull fracture during the hunt. two fine veternary surgeons under my direction were able to save his life. but the beast could not speak, of course. nor will he ever speak}
+<A>__{taylor leaps from his chair, livid with rage, approaches the dais.}
+<C>__{taylor}
+<D>__{you destroyed his memory! his mind! his identity! and, you want to do the same to me!}
+<C>__{president}
+<P>__{(pounding gavel)}
+<D>__{bailiff! stop this outburst! gag that monstrosity!}
+<A>__{the bailiff and a husky guard seize taylor, who continues shouting:}
+<C>__{taylor}
+<D>__{you barbarians!}
+<A>__{the powerful guard twists taylor's arms behind his back and the bailiff lashes his wrists together. then the bailiff gags taylor. his voice is cut off as the bailiff ties the twisted kerchief around his open mouth. the guard holds taylor's leash during the rest of this scene. meanwhile, cornelius has risen to his feet. his tone is firm, but conciliatory.}
+<C>__{cornelius}
+<D>__{may it please the tribunal: i for one grant that this being cannot have come from another planet. but this much is certain he comes from somewhere in the forbidden zone. he has described the region to us, and described it accurately, for i have been there.}
+<C>__{president}
+<D>__{you visited the forbidden zone?}
+<C>__{cornelius}
+<D>__{why, yes, sir. a year ago. with the special permission of the academy.}
+<C>__{zaius}
+<P>__{(to president)}
+<D>__{he exceeded his orders. his travel permit was promptly revoked.}
+<C>__{cornelius}
+<D>__{yes, sir, so it was thanks to you. but not before i discovered evidence of a simian culture that existed long before the sacred scrolls were written ...}
+<C>__{honorius}
+<D>__{objection! these remarks are profane and irrelevant.}
+<C>__{president}
+<D>__{sustained.}
+<P>__{(to cornelius)}
+<D>__{your archeological theories have no bearing on the disposition of this creature.}
+<C>__{zaius}
+<P>__{(softly)}
+<D>__{let them talk, mr president. let them talk.}
+<C>__{zira}
+<P>__{(rising)}
+<D>__{sirs: our theories have a bearing on his identity.}
+<C>__{president}
+<D>__{how so?}
+<C>__{zira}
+<D>__{let us assume, as common sense dictates, that the prisoner's story is false. but if he does not come from another planet, then surely he sprang from our own. yes, sprang.}
+<P>__{(a beat)}
+<D>__{as an animal psychologist, i have found no physiological defect to explain why humans are mute.}
+<C>__{honorius}
+<D>__{objection!}
+<C>__{president}
+<D>__{sustained.}
+<C>__{zira}
+<P>__{(plunging on)}
+<D>__{their speech organs are adequate. the flaw lies not in anatomy but in the brain.}
+<C>__{honorius}
+<D>__{objection!}
+<C>__{president}
+<D>__{sustained.}
+<C>__{zira}
+<P>__{(voice rising)}
+<D>__{sustain all objections, but face the truth!}
+<A>__{cornelius has regained his courage. rising to zira's support, he points at taylor.}
+<C>__{cornelius}
+<D>__{yes! behold this marvel, this living paradox, this missing link in an evolutionary chain!}
+<C>__{president}
+<P>__{(pounding gavel)}
+<D>__{silence!}
+<P>__{(puffing with rage)}
+<D>__{you have gone too far.}
+<C>__{zaius}
+<P>__{(calmly)}
+<D>__{there you are, mr. president. i warned you these two would use this hearing as a forum for subversion.}
+<C>__{maximus}
+<D>__{you were right! the advocates of heresy have revealed themselves.}
+<C>__{zaius}
+<D>__{mr. president, i think an indictment is in order.}
+<C>__{honorius}
+<P>__{(promptly)}
+<D>__{yes, sir. the state charges doctors zira and cornelius with contempt of this tribunal, malicious mischief and scientific heresy.}
+<C>__{president}
+<D>__{be it so ordered. the tribunal will examine all the evidence presented here and in due time render a verdict on the proposed indictment and on the disposition of the deviate in question.}
+<P>__{(pounds gavel once)}
+<D>__{this hearing is adjourned.}
+<A>__{all rise. the guard drags taylor from the inquiry room. zira and cornelius stand there, stunned by the entrapment into which zaius has maneuvered them.}

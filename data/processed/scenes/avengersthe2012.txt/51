@@ -1,0 +1,61 @@
+<L>__{interior loki’s liar, underground lab day}
+<A>__{selvig is working on a machine in loki’s hidden base.}
+<C>__{selvig}
+<D>__{put it over there.}
+<P>__{(to barton)}
+<D>__{where did you find all these people?}
+<C>__{barton}
+<D>__{shield has no shortage of enemies, doctor. this the stuff you need?}
+<C>__{selvig}
+<D>__{yeah. iridium. it’s found in meteorites, it forms anti protons. it’s very hard to get hold of.}
+<C>__{barton}
+<D>__{especially if shield knows you need it.}
+<C>__{selvig}
+<D>__{well, i didn’t know.}
+<A>__{loki walks up.}
+<P>__{(to loki)}
+<D>__{hey! this is wonderful. the tesseract has shown me so much. it’s it’s more than knowledge, it’s truth.}
+<C>__{loki}
+<D>__{i know. it, ah it touches everyone differently.}
+<P>__{(to barton)}
+<D>__{what did it show you agent barton?}
+<C>__{barton}
+<D>__{my next target.}
+<C>__{selvig}
+<P>__{(laughing)}
+<D>__{stick in the mud. he’s got no soul. no wonder you chose this, this tomb to work in.}
+<C>__{barton}
+<P>__{(snapping)}
+<D>__{well, the radisson doesn’t have three levels of lead lined flooring between shield and that cube.}
+<A>__{selvig walks back to the machine he was working on.}
+<C>__{loki}
+<D>__{i see why fury chose you to guard it.}
+<C>__{barton}
+<D>__{you’re going to have to contend with him sir. as long as he’s in the air, i can’t pin him down. and he’ll be putting together a team.}
+<C>__{loki}
+<D>__{are they a threat?}
+<C>__{barton}
+<D>__{to each other more than likely. but if fury can get ’em on track, and he might, they could throw some noise our way.}
+<C>__{loki}
+<D>__{you admire fury.}
+<C>__{barton}
+<D>__{he’s got a clear line of sight.}
+<C>__{loki}
+<D>__{is that why you failed to kill him?}
+<C>__{barton}
+<D>__{it might be. i was disoriented, and i’m not at my best with a gun.}
+<C>__{loki}
+<D>__{i want to know everything you can tell me about this team of his. i would test their mettle.}
+<A>__{barton nods.}
+<D>__{i am weary of scuttling in shadow. i mean to rule this world, not burrow in it.}
+<C>__{barton}
+<D>__{that’s a risk}
+<C>__{loki}
+<D>__{oh yes.}
+<C>__{barton}
+<D>__{if you’re set on making yourself known. i could be useful.}
+<C>__{loki}
+<D>__{tell me what you need.}
+<A>__{barton walks over to a small case, opens it, then takes out his bow. he flicks it open.}
+<C>__{barton}
+<D>__{i need a distraction. and an eyeball.}

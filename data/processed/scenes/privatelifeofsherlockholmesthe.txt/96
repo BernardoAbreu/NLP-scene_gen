@@ -1,0 +1,79 @@
+<L>__{exterior castle night}
+<A>__{a coach and escort approach the castle. painted on the door of the coach are the initials "v.r."}
+<L>__{interior castle courtyard}
+<A>__{the entourage enters the castle courtyard and stops. footmen open the door and bow to the lone passenger. waiting on top of the steps, outside the tent, are mycroft and holmes. lined up on the other side of the torch lit red carpet are half a dozen scientists, in their best clothes. out of the coach steps a familiar figure her majesty, queen victoria, defender of the faith, empress of india. she is 69 years old, and dressed entirely in black. mycroft comes down the carpeted steps to meet her.}
+<C>__{mycroft}
+<D>__{your majesty.}
+<A>__{he bows. the queen extends her hand to him, and he touches it.}
+<C>__{mycroft}
+<D>__{i trust you had a pleasant journey, ma'am.}
+<C>__{queen victoria}
+<D>__{it was long and it was tedious. and it had better be worth our while, mr. holmes.}
+<C>__{mycroft}
+<D>__{i can assure you, ma'am, it will be.}
+<A>__{a lady in waiting and a uniformed equerry have now descended from the coach. mycroft leads the party up the steps.}
+<C>__{queen victoria}
+<D>__{now what is this curious ship we are supposed to christen?}
+<C>__{mycroft}
+<D>__{we call it a submersible, ma'am. it travels under water.}
+<C>__{queen victoria}
+<D>__{under water? what a fantastic idea.}
+<A>__{they have now reached the top of the steps.}
+<C>__{mycroft}
+<D>__{ma'am, may present some of the scientists who were responsible for this achievement. j.w. ferguson, naval architect }
+<C>__{first scientist}
+<P>__{(bowing)}
+<D>__{your majesty.}
+<C>__{mycroft}
+<D>__{professor simpson, our leading expert on hydraulics }
+<C>__{second scientist}
+<P>__{(bowing)}
+<D>__{your majesty.}
+<C>__{mycroft}
+<D>__{w.w. prescott, co inventor of the revolving periscope }
+<C>__{third scientist}
+<P>__{(bowing)}
+<D>__{your majesty.}
+<C>__{mycroft}
+<D>__{and this is sir arthur grisby, our authority on maritime ballistics }
+<C>__{queen victoria}
+<D>__{we don't claim to understand any of this. but england is proud of you, gentlemen. to think that man can now observe fish in their native habitat }
+<C>__{mycroft}
+<P>__{(trying to correct her)}
+<D>__{well, not exactly, ma'am }
+<C>__{queen victoria}
+<D>__{ and underwater plants and coral reefs }
+<P>__{(noticing holmes)}
+<D>__{young man what was your contribution to this project?}
+<C>__{holmes}
+<D>__{i'm afraid it was rather negligible, your majesty.}
+<C>__{mycroft}
+<P>__{(to the queen)}
+<D>__{this is my brother, sherlock, ma'am.}
+<C>__{queen victoria}
+<D>__{ah, yes. sherlock holmes. we have been following your exploits with great interest.}
+<A>__{holmes bows, touches the queen's extended hand.}
+<C>__{holmes}
+<D>__{thank you, ma'am.}
+<C>__{queen victoria}
+<D>__{are you engaged in one of your fascinating cases at the moment?}
+<C>__{holmes}
+<D>__{in a manner of speaking, ma'am.}
+<C>__{queen victoria}
+<D>__{when can we expect to read dr. watson's account of the case?}
+<C>__{holmes}
+<D>__{i hope never, ma'am. it has not been one of my more successful endeavors.}
+<A>__{mycroft signals to a bagpiper, who starts playing hielan'}
+<B>__{laddie.}
+<C>__{queen victoria}
+<D>__{ah, the ceremonies are about to begin.}
+<P>__{(to mycroft)}
+<D>__{now where is this underwater ship of yours?}
+<C>__{mycroft}
+<P>__{(pointing to tower)}
+<D>__{in the dungeon, ma'am.}
+<C>__{queen victoria}
+<D>__{the dungeon? what a peculiar place to keep it.}
+<P>__{(turning to the others)}
+<D>__{well, let us get on with it, gentlemen.}
+<A>__{mycroft leads the queen along the red runner toward the tower. holmes follows, then the lady in waiting and the equerry, then the scientists. as they cross the inner courtyard, the highland piper falls in ahead of the procession, leads them toward the drawbridge. then he steps aside, as the royal party crosses the drawbridge and passes through the door of the tower.}

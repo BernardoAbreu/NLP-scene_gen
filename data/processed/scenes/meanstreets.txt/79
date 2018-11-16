@@ -1,0 +1,36 @@
+<L>__{exterior chinatown day in tony's car}
+<C>__{michael}
+<D>__{ok, you guys get out, and wait here for me.}
+<C>__{boys}
+<D>__{why?}
+<C>__{michael}
+<D>__{i gotta get the stuff.}
+<C>__{boys}
+<D>__{can't we come with you?}
+<C>__{michael}
+<D>__{nobody sees where i get the stuff. that's good business. i will be back in thirty minutes.}
+<A>__{they start to get out.}
+<C>__{michael}
+<D>__{hey hold it! gimmie the cash.}
+<C>__{boys}
+<D>__{uh...can we give you a check?}
+<C>__{michael}
+<D>__{a check? what the...hey, where you kids from? boy #1 riverdale.}
+<C>__{michael}
+<P>__{(contemptuosly)}
+<D>__{well, maybe they do that in riverdale, but down here we take cash. now, you got it or not?}
+<A>__{they give him the money.}
+<C>__{michael}
+<D>__{ok. now wait here...and keep your mouths shut!}
+<A>__{the car pulls away.}
+<C>__{tony}
+<D>__{how much?}
+<C>__{michael}
+<D>__{not bad. $20. here, $5.}
+<C>__{tony}
+<D>__{can you spare it?}
+<C>__{michael}
+<D>__{sure.}
+<C>__{tony}
+<P>__{(sarcastically)}
+<D>__{thanks.}

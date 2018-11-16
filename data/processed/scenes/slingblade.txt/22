@@ -1,0 +1,46 @@
+<L>__{interior waiting room day}
+<A>__{there is no one at the desk in the outer office, so karl goes into woolridge's office.}
+<L>__{interior woolridge's office day}
+<A>__{karl finds woolridge doing paper work. woolridge looks up startled.}
+<C>__{woolridge}
+<D>__{karl, what in the world are you doing here?}
+<C>__{karl}
+<D>__{i want to come back and stay here.}
+<C>__{woolridge}
+<D>__{well, you can't do that. you're a free man. you've been let out to do as you please.}
+<C>__{karl}
+<D>__{i reckon i don't care nothin' about bein' a free man. i don't know how to go about it.}
+<C>__{woolridge}
+<D>__{well, you have to learn. it'll take some time. don't you know anybody down there to help you out?}
+<C>__{karl}
+<D>__{naw.}
+<C>__{woolridge}
+<D>__{your daddy's still livin' down there from what you told me.}
+<P>__{(pause)}
+<D>__{i guess he wouldn't help you any, would he? i wasn't thinking. you don't know anybody?}
+<C>__{karl}
+<D>__{naw. never did know too much of nobody. not to he'p me out anyway.}
+<C>__{woolridge}
+<P>__{(sighs)}
+<D>__{listen, karl, the truth is i don't know where they expect you to go or what they expect you to do. if it was up to me, i'd let you stay here if that's what you wanted. i'm just doin' my job.}
+<P>__{(they sit in silence for a moment)}
+<D>__{you follow me?}
+<P>__{(no answer)}
+<D>__{listen, i know an old boy that runs a fix it shop deal down in millsburg. he used to go to church with me. you're good workin' on small engines and things. if i put my neck out for you with him, will you work at it if he'll hire you?}
+<C>__{karl}
+<D>__{i'm pretty handy i reckon on lawn mowers and whatnot.}
+<C>__{woolridge}
+<D>__{i know, i've seen it myself. would you give that a try?}
+<C>__{karl}
+<D>__{i reckon.}
+<C>__{woolridge}
+<D>__{i can't promise he'll hire you. i will have to tell him about your history.}
+<C>__{karl}
+<D>__{i never was no good with history.}
+<C>__{woolridge}
+<D>__{no, i mean your past. about why you were in here.}
+<P>__{(pause)}
+<D>__{i will take you first thing in the mornin'. you have anyplace you can stay tonight at all? i just can't let you stay here. it's the rules. if something happened well, i'd be liable.}
+<C>__{karl}
+<D>__{i reckon i can just walk around till the mornin'. or set and read me a book somewhere.}
+<A>__{they sit and stare at each other for a moment.}

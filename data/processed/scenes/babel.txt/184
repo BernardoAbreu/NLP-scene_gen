@@ -1,0 +1,54 @@
+<L>__{interior interrogation room, police headquarters evening}
+<D>__{amelia sits in a room painted white. an american, his hair slicked back, dressed in a shirt and tie, sits before her.}
+<C>__{police officer}
+<P>__{(in spanish)}
+<D>__{is your full name amelia gloria jordan susilla?}
+<C>__{amelia}
+<P>__{(in spanish)}
+<D>__{yes sir.}
+<C>__{police officer}
+<D>__{do you understand english?}
+<C>__{amelia}
+<P>__{(in english)}
+<D>__{yes sir.}
+<C>__{police officer}
+<P>__{(in english)}
+<D>__{ma'am, it was a miracle that we found those kids. i don't know how you could leave them alone in the desert.}
+<C>__{amelia}
+<D>__{i had to look for help.}
+<C>__{police officer}
+<D>__{your reckless behavior endangered their lives.}
+<A>__{amelia stops arguing. she looks worried.}
+<C>__{amelia}
+<D>__{how are they?}
+<C>__{police officer}
+<D>__{that's none of your business, ma'am.}
+<A>__{the man's words hurt amelia, who looks away to avoid crying.}
+<C>__{police officer }
+<D>__{you've committed serious crimes.}
+<C>__{amelia}
+<D>__{i just took the kids to my son's wedding.}
+<C>__{police officer}
+<D>__{no ma'am, you did not just do that. you took them to another country without their parents' permission and you put them in danger.}
+<C>__{amelia}
+<D>__{sir, i raised these kids since they were born. i take care of them day and night. i feed them breakfast, lunch and dinner. i play with them. mike and debbie are like my own children.}
+<C>__{police officer}
+<P>__{(sternly)}
+<D>__{but they are not your kids, ma'am.}
+<C>__{amelia}
+<D>__{what about my nephew, santiago?}
+<C>__{police officer}
+<D>__{i don't have any information on him.}
+<A>__{amelia looks destitute.}
+<C>__{police officer }
+<D>__{we located the parents in morocco. they're very angry, but they've decided not to raise charges. amelia exhales, relieved. the policeman leans toward her.}
+<C>__{police officer }
+<D>__{nevertheless, the government of the united states has deemed you were seriously breaking the law and has decided to immediately and definitively deport you. amelia loses her breath.}
+<C>__{amelia}
+<D>__{i've been living here for fifteen years. my things are here, i rent a house, i made my life here.}
+<C>__{police officer}
+<D>__{you should've thought of that beforehand.}
+<C>__{amelia}
+<D>__{i want to talk to a lawyer.}
+<C>__{police officer}
+<D>__{if you attempt to take this to court, i assure you you will end up in jail. if you want my advice, accept the deportation and never come back.}

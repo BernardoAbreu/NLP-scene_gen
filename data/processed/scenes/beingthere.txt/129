@@ -1,0 +1,157 @@
+<L>__{interior sophie's night}
+<A>__{sophie pulls eve and chance to ambassador skrapinov and his wife. skrapinov smiles as he sees eve.}
+<C>__{skrapinov}
+<D>__{mrs. rand. how delightful.}
+<A>__{skrapinov kisses eve's hand.}
+<C>__{eve}
+<D>__{it seems like ages, mr. ambassador.}
+<P>__{(a nod to his wife)}
+<D>__{mrs. skrapinov.}
+<A>__{mrs. skrapinov returns the nod as sophie introduces chance.}
+<C>__{sophie}
+<D>__{mr. gardiner, let me introduce you to our guest of honor, his excellency vladimar skrapinov, ambassador of the soviet union.}
+<A>__{chance warmly shakes skrapinov's hand with both of his own.}
+<C>__{chance}
+<P>__{(stumbles over name)}
+<D>__{hello... his... his...}
+<C>__{sophie}
+<D>__{ambassador skrapinov, this is mr. chauncey gardiner.}
+<C>__{skrapinov}
+<D>__{delighted. delighted.}
+<C>__{sophie}
+<D>__{and this is mrs. skrapinov.}
+<A>__{chance smiles at mrs. skrapinov as the ambassador puts an arm around him.}
+<C>__{skrapinov}
+<D>__{you must sit with us, my friend, we have much to discuss.}
+<C>__{chance}
+<D>__{i agree.}
+<C>__{skrapinov}
+<P>__{(to eve)}
+<D>__{how is my dear friend benjamin feeling?}
+<C>__{eve}
+<D>__{he's doing as well as could be expected, mr. ambassador. he still speaks of the stimulating discussions he's had with you.}
+<C>__{skrapinov}
+<D>__{ah, yes. please give him my regards.}
+<C>__{eve}
+<D>__{of course.}
+<C>__{sophie}
+<P>__{(tugs at eve)}
+<D>__{come on, eve. let's let the men talk, there are so many people that have been asking about you.}
+<C>__{eve}
+<P>__{(to chance and skrapinov)}
+<D>__{would you two excuse me for a moment?}
+<C>__{skrapinov}
+<D>__{regretfully, mrs. rand i shall yield the pleasure of your company to others.}
+<C>__{chance}
+<D>__{yes, eve. i shall yield too.}
+<C>__{eve}
+<P>__{(smiling)}
+<D>__{i will be back soon...}
+<A>__{eve and sophie leave. skrapinov leads his wife and chance to their table.}
+<C>__{skrapinov}
+<P>__{(as they walk)}
+<D>__{i'm sorry we haven't met sooner, mr. gardiner. i had the pleasure of seeing you on television last night and i listened with great interest to your down to earth philosophy. i'm not surprised that it was so quickly endorsed by the president.}
+<P>__{(quietly)}
+<D>__{... tell me, mr. gardiner, just how serious is benjamin's illness? i did not want to upset mrs. rand by discussing it in detail.}
+<C>__{chance}
+<D>__{ben is very ill.}
+<C>__{skrapinov}
+<D>__{yes, so i've heard, a shame... as you know, we in the soviet union have the keenest interest in developments of the first american financial corporation... we are pleased to hear that you may fill benjamin's place should he fail to recover.}
+<P>__{(arrive at table)}
+<D>__{be seated, please, mr. gardiner.}
+<A>__{chance sits between skrapinov and mrs. skrapinov.}
+<C>__{skrapinov }
+<P>__{(moves chair close to chance)}
+<D>__{... mr. gardiner, i wish to be quite candid considering the gravity of your economic situation, shouldn't we, the diplomats, and you, the businessman get together more often?}
+<C>__{chance}
+<D>__{yes, i agree, i think so too.}
+<C>__{skrapinov}
+<D>__{to exchange our thoughts what does a russian know about business? on the other hand, what does an american know about diplomacy?}
+<C>__{chance}
+<D>__{yes, i understand.}
+<C>__{skrapinov}
+<D>__{and i have noticed in you a certain reticence regarding political issues so why not a coming together? an interchange of opinion? we may find, my friend, that we are not so far from each other, not so far!}
+<C>__{chance}
+<P>__{(an engaging smile)}
+<D>__{we are not far...}
+<P>__{(motions at nearness of their chairs)}
+<D>__{... our chairs almost touch.}
+<C>__{skrapinov}
+<P>__{(laughs)}
+<D>__{bravo! bravo! our chairs are indeed almost touching! and we want to remain seated on them, correct? we don't want them snatched from under us, am i right? because if one goes, the other goes, and then boom! boom! and we are both down before our time, you see? and neither of us wants that, do you agree?}
+<C>__{chance}
+<D>__{i certainly do.}
+<C>__{skrapinov}
+<D>__{yes. tell me, mr. gardiner do you by any chance enjoy krylov's fables? i ask this because there is something... there is something krylovian about you.}
+<C>__{chance}
+<D>__{do you think so? do you think so?}
+<C>__{skrapinov}
+<D>__{so you know krylov!}
+<A>__{skrapinov pauses, then leans close to chance, speaks softly in russian. chance, having never heard this language, raises his eyebrows and laughs. mrs. skrapinov remains impassive.}
+<C>__{skrapinov }
+<P>__{(amazed)}
+<D>__{so you know your krylov in russian, do you? mr. gardiner, i must confess i had suspected as much all along i know an educated man when i meet one!}
+<C>__{chance}
+<D>__{oh, good.}
+<C>__{skrapinov}
+<D>__{yes, it is very good!}
+<C>__{chance}
+<D>__{yes, it is.}
+<P>__{(beat)}
+<D>__{would you tell me your name again, please?}
+<C>__{skrapinov}
+<P>__{(slaps chance on the back)}
+<D>__{ho! ho! a dash of american humor! vladimar skrapinov!}
+<C>__{chance}
+<D>__{yes. i like that name very much.}
+<C>__{skrapinov}
+<D>__{and yours, sir chauncey gardiner!}
+<P>__{(in russian)}
+<D>__{how poetic! chauncey, a name of uncertain meaning! and gardiner, a bit of the french, a suggestion of a stroll through the flowers! a beautiful name, my friend!}
+<A>__{as he speaks in russian, eve comes to the table, taps skrapinov on the shoulder.}
+<C>__{skrapinov }
+<P>__{(immediately rises)}
+<D>__{mrs. rand! you have returned to us!}
+<C>__{eve}
+<D>__{only to steal mr. gardiner away, if i might.}
+<P>__{(to chance)}
+<D>__{everyone wants to meet you.}
+<C>__{chance}
+<D>__{yes, eve. that would be good.}
+<C>__{skrapinov}
+<P>__{(shakes chance's hand)}
+<D>__{we must speak again, mr. gardiner, many times!}
+<C>__{chance}
+<D>__{thank you.}
+<A>__{as eve and chance leave, skrapinov turns and nods to a man standing a short distance away. the man, karpatov, hurries to the table.}
+<C>__{skrapinov}
+<D>__{yes? what have you found?}
+<C>__{karpatov}
+<P>__{(in russian)}
+<D>__{we have nothing on him, ambassador skrapinov.}
+<C>__{skrapinov}
+<P>__{(holds up hand, looks around)}
+<D>__{quietly, please. mr. gardiner, for one, understands our language.}
+<C>__{karpatov}
+<P>__{(in english, softly)}
+<D>__{sorry, comrade ambassador.}
+<C>__{skrapinov}
+<D>__{what do you mean there is nothing? that's impossible.}
+<C>__{karpatov}
+<D>__{there is no information available on the man before he moved into benjamin rand's. it has proven to be such a difficult task that it has resulted in the loss of one of our agents to the united states government.}
+<A>__{mrs. skrapinov strains to overhear the conversation.}
+<C>__{skrapinov}
+<D>__{but... where was this man gardiner before last week?}
+<C>__{karpatov}
+<D>__{apparently the white house shares our curiosity they have also launched an investigation, and, according to our sources, neither the f.b.i. nor the c.i.a. has met with success.}
+<C>__{skrapinov}
+<D>__{i see. clearly, such interest on their part is of great political significance.}
+<C>__{karpatov}
+<D>__{clearly, yes comrade.}
+<C>__{skrapinov}
+<D>__{hmmm... take this down.}
+<P>__{(karpatov takes out notepad)}
+<D>__{i want this quote included in the tass coverage; 'chauncey gardiner, in an intimate discussion with ambassador skrapinov, noted that "unless the leaders of the opposing political systems move the chairs on which they sit closer to each other, all of their seats will be pulled from under them by rapid social and political changes."'}
+<C>__{karpatov}
+<D>__{very good, your excellency.}
+<A>__{karpatov leaves the table.}

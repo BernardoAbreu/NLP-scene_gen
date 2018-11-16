@@ -1,0 +1,22 @@
+<L>__{int pigsty dawn}
+<A>__{the creature stirs, hearing movement within the house. he scurries to the slats of the sty and peers out. all the baskets from the tool shed are stacked to overflow before the door. the door opens. felix steps out and trips on a basket, sprawling to the ground in a torrent of potatoes and turnips. he sits up, gazing in wonder.}
+<L>__{int pigsty night}
+<A>__{a sliver of warm light spills through the chink in the wall. the creature looms into frame, busily munching a raw potato. a pig comes snuffling at his elbow. he shoves him away. go find your own. inside, the family is enjoying a much more generous meal than the last one:}
+<C>__{grandfather}
+<D>__{i wish we could thank our benefactor.}
+<C>__{felix}
+<D>__{nothing in this life comes free of cost. i'd like to know who and why.}
+<C>__{maggie}
+<D>__{it's the good spirit of the forest.}
+<C>__{felix}
+<D>__{who's been filling your head?}
+<C>__{grandfather}
+<D>__{it does no harm.}
+<C>__{felix}
+<P>__{(peers at him)}
+<D>__{oh, i see.}
+<C>__{thomas}
+<D>__{is it, papa? is it the good spirit?}
+<A>__{felix and marie exchange a look. he's not as amused as she is, but lets it go. she smiles at the children.}
+<C>__{marie}
+<D>__{of course it is. now finish your food before it gets cold.}

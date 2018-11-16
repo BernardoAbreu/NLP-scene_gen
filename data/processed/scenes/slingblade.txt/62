@@ -1,0 +1,23 @@
+<L>__{interior shop day}
+<A>__{karl is cleaning some parts in a bucket of gasoline. bill comes to the door.}
+<C>__{bill}
+<D>__{hey there karl, can you come unload a generator for me?}
+<A>__{karl wipes his hands on a shop towel and starts outside.}
+<L>__{exterior parking lot day}
+<A>__{a man and a teenage boy stand by a pickup truck. a small generator is on the tailgate.}
+<C>__{bill}
+<D>__{karl, lift this thing down and carry it to the back. it's on the blink.}
+<P>__{(to man as karl unloads it)}
+<D>__{we'll have it for you in a day or two, walter.}
+<C>__{walter}
+<D>__{y'ont us to he'p you there liftin' that?}
+<C>__{bill}
+<D>__{oh no, that dang karl can lift a bulldozier. fix anything, too.}
+<P>__{(confidentially)}
+<D>__{he's mentally retarded, but he's a whiz on small engines. lord works in mysterious ways.}
+<A>__{karl carries the generator toward the shop. he turns and watches the man and boy talking and laughing with bill. the man playfully puts an arm around his son's neck and tousles his hair.}
+<C>__{walter}
+<D>__{hell, he didn't just make the team, coach says he's probably gonna start at end on defense. he's a chip off the old block. ain't you, steve?}
+<C>__{steve}
+<D>__{i guess so.}
+<A>__{karl turns and goes in the shop.}

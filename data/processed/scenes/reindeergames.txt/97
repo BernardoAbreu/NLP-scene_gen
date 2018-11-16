@@ -1,0 +1,12 @@
+<L>__{interior second floor hall}
+<A>__{merlin finds a room key. puts it in the lock. turns the handle but the door won't open. merlin checks the key.}
+<C>__{merlin}
+<D>__{my room.}
+<L>__{exterior parking lot}
+<A>__{the blazer starts to roll backwards, toward the snowy shrubs ringing the building. headed for the empty parking space below rudy's window. rudy keeps pushing. the blazer picks up speed, rolling on its own.}
+<L>__{interior second floor hall}
+<A>__{merlin searches his pockets again, finds the right key.}
+<L>__{exterior parking lot}
+<A>__{the blazer rolls toward the building. rudy scrambles to his feet, runs after it, leaps his left foot onto the bumper, the right foot onto the hood, then onto the roof getting two roof steps worth of running start as the blazer slows to a rest against the snowy shrubs and rudy dives into the air, torpedoing himself right through the window to his room }
+<L>__{interior rudy's room}
+<A>__{ where he crashes headlong to the floor, turning a somersault and landing sprawled across the carpet.}

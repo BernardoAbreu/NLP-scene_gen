@@ -1,0 +1,31 @@
+<L>__{interior office's day}
+<A>__{fletcher drags himself past greta's desk. miranda gives him the stink eye. fletcher doesn't see her.}
+<C>__{greta}
+<D>__{do you want your messages?}
+<C>__{fletcher}
+<D>__{no.}
+<A>__{he goes into his office. greta is concerned. she follows him in, leaving his door open.}
+<L>__{interior fletcher's office continuous}
+<A>__{fletcher collapses onto his couch. greta enters.}
+<C>__{greta}
+<D>__{are you okay?}
+<C>__{fletcher}
+<D>__{my son hates me.}
+<C>__{greta}
+<D>__{no! he loves you. i've seen y ou together. you're his hero.}
+<C>__{fletcher}
+<D>__{o h yeah? last night at his birthday party, he made a wish. that i wouldn't be able to tell a lie for one whole day.}
+<C>__{greta}
+<D>__{kids...}
+<C>__{fletcher}
+<D>__{it came true.}
+<C>__{greta}
+<D>__{what?}
+<C>__{fletcher}
+<D>__{it's true. didn't it seem odd to you that i kept telling the truth all morning?}
+<C>__{greta}
+<D>__{well, yeah, but...}
+<P>__{(incredulous)}
+<D>__{you're telling me that you can't lie.}
+<C>__{fletcher}
+<D>__{that's right! i am incapable of lying.}

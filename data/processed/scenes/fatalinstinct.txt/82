@@ -1,0 +1,13 @@
+<L>__{interior second coach car day}
+<A>__{max steps out of the lavatory and sees the conductor coming his way collecting tickets. he quickly spins around, slides the door open and steps into the vestibule between cars. the conductor can't get past the old woman, so he climbs over the top of her trunk, with no thought of helping her.}
+<L>__{interior vestibule day}
+<A>__{max looks out the side window, trying to conceal the weapon in front of him. the conductor enters, sees him.}
+<C>__{conductor}
+<D>__{ticket?}
+<A>__{without turning, max holds the ticket up over his shoulder. the conductor takes it, punches it, notices the gun barrel.}
+<C>__{conductor}
+<D>__{sorry pal... automatic weapons are only allowed in the club car after nine p.m.}
+<A>__{max turns, raising the gun with a nasty growl. the conductor casually snaps a baggage tag to the barrel, taking the gun.}
+<C>__{conductor}
+<D>__{i will check it with baggage. you can claim it at the depot in santa barbara.}
+<A>__{the conductor drops the weapon into a big mesh bag... along with a dozen other guns he's collected. he exits. max whirls around facing the window, eyes filled with rage. now what?}

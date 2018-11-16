@@ -1,0 +1,115 @@
+<T>__{dissolve to:}
+<L>__{exterior highway, night}
+<A>__{willie's car, as it races down the highway.}
+<C>__{jack}
+<P>__{(voice over)}
+<D>__{and always the trail led to one place... burden's landing... and the judge.}
+<L>__{exterior ferry to burden's landing, night}
+<A>__{willie's car coming across on the ferry.}
+<T>__{dissolve to:}
+<L>__{exterior stanton home, night}
+<A>__{as willie's car stops and they all get out.}
+<C>__{willie}
+<D>__{you sure you don't want me to go in with you?}
+<C>__{jack}
+<D>__{i'm sure.}
+<C>__{willie}
+<D>__{well, hurry it up, boy. we've got places to go.}
+<A>__{jack goes into the house alone.}
+<T>__{dissolve to:}
+<L>__{interior judge stanton's study, night}
+<A>__{jack and the judge are seated opposite each other.}
+<C>__{jack}
+<D>__{judge, i beg you, as a favor to yourself, to me... call up, release your votes.}
+<C>__{judge}
+<D>__{i made a mistake once, jack... when i resigned. it was too easy then, just resigning, pulling out. no, jack, i've made my choice. i have nothing more to lose.}
+<C>__{jack}
+<D>__{judge, you know what stark is capable of. think it over. i will leave now. i will come back tomorrow and we'll talk about it again. you can give me your answer then.}
+<A>__{the door opens and willie and sugar boy enter.}
+<C>__{willie}
+<D>__{i can't wait until tomorrow. i'm a very impatient man.}
+<C>__{jack}
+<P>__{(rising)}
+<D>__{i told you not to come in here.}
+<C>__{willie}
+<P>__{(ignoring him)}
+<D>__{is it true, judge, that you're behind the impeachment proceedings?}
+<C>__{judge}
+<D>__{yes, it's true.}
+<A>__{willie takes a seat in an easy chair.}
+<C>__{willie}
+<D>__{i wanted to hear you say it with your own silver tongue.}
+<C>__{judge}
+<D>__{well, you've heard it. if that's all you came to hear you could have saved yourself a trip.}
+<A>__{willie picks up a decanter off the table.}
+<C>__{willie}
+<D>__{mind if i pour myself a drink? how about you, judge, will you have one? you better... you're going to need it.}
+<A>__{jack and judge stanton remain standing, silently watching willie.}
+<C>__{willie}
+<D>__{what'd he say, jack?}
+<C>__{jack}
+<D>__{you'll get your answer tomorrow.}
+<C>__{willie}
+<D>__{are you kidding? did you show it to him, or didn't you?}
+<C>__{judge}
+<D>__{show me what?}
+<C>__{willie}
+<D>__{that's what i figured. let's get down to cases, judge. do you remember a man with the name of littlepaugh?}
+<A>__{the judge shakes his head. he doesn't.}
+<C>__{willie}
+<D>__{remember the fortune electric company?}
+<C>__{judge}
+<D>__{of course. i was their counsel for over ten years.}
+<C>__{willie}
+<D>__{remember how you got the job?}
+<C>__{jack}
+<D>__{how did you find out?}
+<C>__{willie}
+<P>__{(hands the judge some papers)}
+<D>__{do you remember how you got the job?}
+<A>__{the judge examines the papers.}
+<C>__{willie}
+<D>__{you know, judge, dirt's a funny thing. some of it rubs off on everybody. how did you get the job, judge? blackmail?}
+<C>__{judge}
+<P>__{(to jack)}
+<D>__{i swear i never even remembered his name. isn't that remarkable, jack? i never even remembered his name. it's all so long ago it's hard for me to realize it ever happened.}
+<C>__{willie}
+<D>__{yeah. but it did.}
+<C>__{judge}
+<D>__{yes, it did. but it's difficult for me to realize it.}
+<C>__{jack}
+<D>__{for me too, judge.}
+<C>__{judge}
+<D>__{thanks for that much.}
+<C>__{willie}
+<D>__{well, i guess you know what the next move is, don't you?}
+<C>__{judge}
+<D>__{yes, i do. jack burden. willie stark's hatchet man.}
+<C>__{jack}
+<P>__{(to willie)}
+<D>__{i asked you... how did you find out?}
+<C>__{judge}
+<D>__{this would never stand at law, not for a minute. it happened over twenty five years ago, and you could never get any testimony. everybody is dead.}
+<C>__{willie}
+<D>__{everybody except you, judge. you're alive. and people think you're a certain kind of man. and you just couldn't bear for people to think otherwise.}
+<C>__{judge}
+<D>__{ever since then i... i've done my duty. i... i'm responsible for many good things.}
+<P>__{(looks at the papers again)}
+<D>__{but i also did this.}
+<C>__{willie}
+<D>__{yes, yes, you did.}
+<C>__{jack}
+<D>__{judge, i beg of you, call and release your votes, for your sake.}
+<C>__{judge}
+<D>__{you have tender sensibilities for a hatchet man.}
+<P>__{(goes to the door)}
+<D>__{good night, gentlemen.}
+<C>__{willie}
+<D>__{how about my answer?}
+<C>__{judge}
+<D>__{you'll have it in the morning.}
+<C>__{willie}
+<D>__{i want it tonight.}
+<C>__{judge}
+<D>__{in the morning. good night, gentlemen.}
+<A>__{there is silence. then the three men get up to go. the judge closes the door behind them.}

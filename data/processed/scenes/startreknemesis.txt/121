@@ -1,0 +1,39 @@
+<L>__{interior scimitar bridge following}
+<A>__{shinzon, supremely confident, leans back in his command chair.}
+<C>__{shinzon}
+<D>__{open a channel.}
+<L>__{interior enterprise bridge following}
+<A>__{picard is still entering commands in his chair console.}
+<C>__{data}
+<D>__{we are being hailed.}
+<C>__{picard}
+<D>__{deanna, stand by.}
+<P>__{(to data)}
+<D>__{open a channel.}
+<C>__{shinzon }
+<D>__{i hope you're still alive, jean luc.}
+<C>__{picard}
+<D>__{i am.}
+<C>__{shinzon }
+<D>__{don't you think it's time to surrender? i will have my cloak back in a matter of minutes and your poor ship is shot to pieces. why should the rest of your crew have to die?}
+<A>__{picard continues to enter command codes transmits them to deanna at helm she receives the commands, nods. all of this as picard buys some time:}
+<C>__{picard}
+<D>__{i never told you about my first academy evaluation, did i? i received very high marks for my studies. but i was found lacking in certain other areas. personality traits, you might say. in particular i was thought to be extremely...}
+<P>__{(he glares up at the prow of the scimitar)}
+<D>__{... over confident.}
+<A>__{picard indicates for data to end the communication. then:}
+<C>__{picard}
+<P>__{(quickly)}
+<D>__{geordi, put 211 power to the engines. take it from life support if you have to everything you can give me.}
+<C>__{geordi}
+<D>__{aye, sir.}
+<C>__{picard}
+<D>__{deanna, on my mark.}
+<C>__{geordi}
+<D>__{ready, sir!}
+<A>__{picard leans forward in his chair:}
+<C>__{picard}
+<P>__{(on comm)}
+<D>__{all hands, brace for impact!}
+<P>__{(to deanna)}
+<D>__{engage.}

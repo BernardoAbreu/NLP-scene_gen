@@ -1,0 +1,39 @@
+<L>__{interior sheldrake's office day}
+<A>__{sheldrake is pacing in front of his desk. a couple of suitcases are standing in a corner of the room. the intercom buzzes, and sheldrake presses the lever down.}
+<C>__{secretary's voice}
+<D>__{mr. baxter is here.}
+<C>__{sheldrake}
+<D>__{send him in.}
+<A>__{a beat, then the door opens, and bud marches in determinedly.}
+<C>__{bud}
+<D>__{mr. sheldrake, i've got good news for you }
+<C>__{sheldrake}
+<D>__{and i've got good news for you, baxter. all your troubles are over.}
+<C>__{bud}
+<P>__{(reacting to the echo)}
+<D>__{sir?}
+<C>__{sheldrake}
+<D>__{i know how worried you were about miss kubelik well, stop worrying i'm going to take her off your hands.}
+<C>__{bud}
+<P>__{(stunned)}
+<D>__{you're going to take her off my hands?}
+<C>__{sheldrake}
+<D>__{that's right.}
+<P>__{(indicating suitcases)}
+<D>__{i've moved out of my house i'm going to be staying in town, at the athletic club.}
+<C>__{bud}
+<D>__{you left your wife?}
+<C>__{sheldrake}
+<D>__{well, if you must know i fired my secretary, my secretary got to my wife, and my wife fired me. ain't that a kick in the head?}
+<C>__{bud}
+<D>__{yeah }
+<C>__{sheldrake}
+<D>__{now what was your news, baxter?}
+<C>__{bud}
+<P>__{(recovering with difficulty)}
+<D>__{it's about miss kubelik she's all right again so she went back home.}
+<C>__{sheldrake}
+<D>__{swell. and don't think i've forgotten what you did for me.}
+<P>__{(opens door to adjoining office)}
+<D>__{this way, baxter.}
+<A>__{bud advances slowly toward the door.}

@@ -1,0 +1,26 @@
+<L>__{exterior rodeo drive day}
+<A>__{vivian's arms are filled with clothing boxes and bags. she feels like she owns the block. a well dressed man passes by, smiling politely. vivian's nose lifts as she happily ignores him. suddenly vivian stops. she's about to pass the shop she was thrown out of. vivian takes a breath and enters the shop.}
+<L>__{interior boutique day}
+<A>__{vivian enters. the moment she steps through the door, vivian's courage leaves her. the saleswoman is waiting on a customer.}
+<C>__{saleswoman}
+<P>__{(to the customer)}
+<D>__{isn't this lovely? i think it would look wonderful on you.}
+<A>__{vivian musters her courage. she takes a deep breath and starts forward.}
+<C>__{saleswoman}
+<P>__{(to her customer)}
+<D>__{would you like to try it on?}
+<C>__{vivian}
+<D>__{'scume me.}
+<A>__{both the saleswoman and her customer look up. the saleswoman smiles pleasantly.}
+<C>__{saleswoman}
+<D>__{yes?}
+<C>__{vivian}
+<D>__{do you remember me?}
+<C>__{saleswoman}
+<D>__{no, i'm sorry, i don't.}
+<C>__{vivian}
+<D>__{i was in here yesterday.}
+<A>__{vivian slowly raises her middle finger. the recognition starts to dawn in the saleswoman's eyes. vivian's courage begins to return.}
+<C>__{vivian}
+<D>__{yeah. that's right. it's me. i want you to know something. you made me feel terrible. i wasn't dressed right and you said i didn't belong here. well, i do. you're the one that was wrong, not me. and i want to tell you something else. i'm never gonna shop here again as long as i live.}
+<A>__{and with that, vivian turns and walks out. the saleswoman is stunned. a beat. the customer thrusts the dress into the saleswoman's arm as if offended by vivian's speech and leaves the store also.}

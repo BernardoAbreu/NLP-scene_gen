@@ -1,0 +1,57 @@
+<L>__{interior village bakery, kitchen night}
+<A>__{lila and ray listen from the kitchen. ray eyes the back door. ray grabs her jacket off the oven and takes half the cash out of the pocket and hands it to lila.}
+<C>__{ray}
+<D>__{i gotta go.}
+<A>__{lila takes the money. the chinese girls look on confused. one gets up and grabs her jacket, but ray motions her back.}
+<C>__{ray }
+<D>__{no. you stay here.}
+<A>__{ray hurries to the back door, opens it, but bernie littlewolf is there. at the sight of him, ray backs up. he walks in.}
+<C>__{bernie}
+<D>__{hi, lila.}
+<C>__{lila}
+<D>__{hi bernie.}
+<C>__{bernie}
+<D>__{you're in a lot of trouble.}
+<A>__{lila looks at him, unfazed.}
+<C>__{bernie }
+<D>__{the council voted to expel you.}
+<C>__{lila}
+<D>__{expel me?}
+<C>__{bernie}
+<D>__{for five years. you can appeal, but you'll never be able to change rosalie's mind.}
+<C>__{lila}
+<D>__{they can't do that.}
+<C>__{bernie}
+<D>__{they'll make your life miserable if you try to stay.}
+<C>__{lila}
+<D>__{they've already done that.}
+<C>__{bernie}
+<D>__{believe me, it could get even worse.}
+<C>__{ray}
+<D>__{i thought this was all legal on the reservation.}
+<A>__{bernie ignores her.}
+<C>__{ray }
+<P>__{(to lila)}
+<D>__{look, i gotta get home.}
+<A>__{she moves for the door, but bernie blocks her.}
+<C>__{bernie}
+<D>__{if she leaves, they'll turn you in lila. the troopers want somebody.}
+<C>__{ray}
+<D>__{but, she's a mohawk.}
+<C>__{bernie}
+<D>__{the chiefs want her out, so there's nothing standing between her and the troopers.}
+<C>__{ray}
+<D>__{listen, my kids got no one but me.}
+<C>__{bernie}
+<D>__{if you leave she won't see her son again.}
+<A>__{ray and bernie stare at each other.}
+<C>__{lila}
+<D>__{let her go.}
+<C>__{bernie}
+<D>__{lila, you're giving up on him and he's only one year old.}
+<C>__{lila}
+<P>__{(to ray)}
+<D>__{just go.}
+<A>__{ray goes to the door, but turns around...}
+<C>__{ray}
+<D>__{at least you got family to take care of him, ya' know?}

@@ -1,0 +1,39 @@
+<L>__{interior kirk's quarters}
+<A>__{the doors opening, kirk entering, mccoy moves to b.g. while decker stands attentively, waiting as kirk turns to him.}
+<C>__{kirk}
+<D>__{explanation, mr. decker: why was my phaser order countermanded?}
+<C>__{decker}
+<P>__{(cool, polite)}
+<D>__{sir, the enterprise redesign increases phaser power by channeling it through the main engines. when they went into anti matter imbalance, the phasers were automatically cut off.}
+<A>__{kirk is surprised by this information, perhaps slight ly chagrined. after a beat:}
+<C>__{kirk}
+<D>__{then you acted properly, of course.}
+<C>__{decker}
+<D>__{thank you, sir. i'm sorry i embar rassed you.}
+<C>__{kirk}
+<D>__{you saved the ship.}
+<C>__{decker}
+<P>__{(coolly)}
+<D>__{i'm aware of that, sir.}
+<C>__{kirk}
+<P>__{(flaring)}
+<D>__{stop competing with me, decker!}
+<C>__{decker}
+<D>__{permission to speak freely, sir?}
+<C>__{kirk}
+<P>__{(tight)}
+<D>__{granted.}
+<C>__{decker}
+<D>__{sir, you haven't logged a single star hour in two and a half years. that, plus your unfamiliarity with the ship's design in my opinion, sir, seriously jeopardizes our mission.}
+<A>__{kirk reacts with anger. struggles for and regains control.}
+<C>__{kirk}
+<D>__{i trust you will... nursemaid me through these difficulties, mister?}
+<C>__{decker}
+<D>__{yes, sir, i will do that.}
+<A>__{kirk peers at decker, who stands facing him determinedly.}
+<C>__{kirk}
+<D>__{then i won't keep you from your duties any longer, commander.}
+<P>__{(whirling at mccoy)}
+<D>__{yes, doctor?}
+<A>__{kirk's last line has drowned out decker's "aye, sir." mccoy says nothing, waits until decker is gone and the door closes behind him. then:}
+<D>__{mccoy he may not be wrong, jim.}

@@ -1,0 +1,56 @@
+<L>__{interior pub night}
+<A>__{a small neighborhood tavern. regulars chat amicably with the bartender owner.}
+<B>__{taupin}
+<A>__{sits alone at a corner table. a waitress hovers over him.}
+<C>__{taupin}
+<D>__{lager and lime.}
+<B>__{later}
+<A>__{taupin's lager is drained. lost in thought, he drags a finger around and around the lip of the mug. he hand stops. it twitches. shakes. taupin pulls his hand from the glass and watches it shake slightly out of control. a warning. he whirls around suddenly to see ling kahn, asian, standing over him.}
+<C>__{kahn}
+<D>__{macleod.}
+<A>__{taupin is anxious, poised for attack. kahn breaks into a broad smile.}
+<C>__{kahn}
+<D>__{spare a chair?}
+<C>__{taupin}
+<D>__{kahn?}
+<C>__{kahn}
+<D>__{are you going to offer me a chair or leave me standing here all night?}
+<C>__{taupin}
+<D>__{sit.}
+<A>__{kahn takes his place across the table.}
+<C>__{taupin}
+<P>__{(unsure)}
+<D>__{how are you?}
+<C>__{kahn}
+<D>__{head still secure to the neck.}
+<C>__{taupin}
+<D>__{how did you find me?}
+<C>__{kahn}
+<D>__{how many places this side of the atlantic serve lager and lime?}
+<A>__{taupin looks to his own glass.}
+<C>__{kahn}
+<D>__{old habits die hard.}
+<P>__{(to waitress)}
+<D>__{waitress! a round of nitzhic!}
+<P>__{(beat)}
+<D>__{peasant drool, i know. but it's the closest thing they stock to my side of the fence.}
+<C>__{taupin}
+<D>__{what are you doing here?}
+<C>__{kahn}
+<D>__{it is the gathering, my friend. the settling of old scores.}
+<A>__{taupin tenses.}
+<C>__{taupin}
+<D>__{and have you something to settle with me?}
+<C>__{kahn}
+<P>__{(smiles)}
+<D>__{not tonight. tonight i have a drink with an old friend.}
+<C>__{taupin}
+<D>__{it's good to see you, kahn.}
+<A>__{the waitress sets down two glasses.}
+<C>__{kahn}
+<D>__{come, toast with me the past.}
+<P>__{(raises glass)}
+<D>__{to old conquests, old loves, and to a time when we cared about either.}
+<A>__{kahn drains his glass.}
+<C>__{kahn}
+<D>__{waitress!}

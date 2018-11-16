@@ -1,0 +1,81 @@
+<L>__{interior lincoln's office, the white house morning}
+<A>__{lincoln is at his desk, hay feeding him documents to read and sign. seward warms himself by the fireplace, holding a brandy.}
+<C>__{seward}
+<D>__{consider the obstacles that we'd face. the aforementioned two thirds majority needed to pass an amendment: we have a republican majority, but barely more than fifty percent }
+<C>__{lincoln}
+<D>__{fifty six.}
+<C>__{seward}
+<D>__{we need democratic support. there's none to be had.}
+<C>__{lincoln}
+<D>__{since the house last voted on the amendment there's been an election. sixty four democrats lost their house seats in november. that's sixty four democrats looking for work come march.}
+<C>__{seward lincoln}
+<A>__{i know, but that's they don't need to worry}
+<D>__{about re election, they can vote however it suits `em.}
+<A>__{there's a knock at the office door.}
+<C>__{seward lincoln}
+<A>__{but we can't, um, buy the (to hay:) vote for the amendment. it's might as well let `em in. too important.}
+<C>__{lincoln }
+<D>__{i said nothing of buying anything. we need twenty votes was all i said. start of my second term, plenty of positions to fill.}
+<A>__{hay opens the door to the outer office, admitting the sound of a sizable crowd. john nicolay, 33, lincoln's rather severe german born senior secretary, ushers in mr. jolly, mid 40s, mud spattered coat, hat in hands, followed by mrs. jolly, similarly road worn, holding a suitcase. lincoln stands.}
+<C>__{john nicolay}
+<D>__{mr. president, may i present mr. and mrs. jolly who've come from missouri to }
+<C>__{mr. jolly}
+<D>__{from jeff city, president.}
+<A>__{lincoln shakes mr. jolly's hand. mrs. jolly curtseys.}
+<C>__{lincoln}
+<D>__{mr. jolly. ma'am. this by the fire's secretary of state seward.}
+<A>__{seward nods slightly as he lights a cuban cigar.}
+<C>__{lincoln }
+<D>__{jeff city.}
+<A>__{lincoln looks at the jollys. they are worried and a little awed.}
+<C>__{lincoln }
+<D>__{i heard tell once of a jefferson city lawyer who had a parrot that'd wake him each morning crying out, "today is the day the world shall end, as scripture has foretold." and one day the lawyer shot him for the sake of peace and quiet, i presume, thus fulfilling, for the bird at least, its prophecy!}
+<A>__{lincoln smiles. the jollys don't get it. mr. jolly looks back at seward, who gestures for him to speak, then exhales a plume of smoke.}
+<C>__{mr. jolly}
+<P>__{(launching into his prepared speech:)}
+<D>__{they's only one tollbooth in jeff city, t' the southwest `n this man heinz sauermagen from rolla been in illegal possession for near two yar, since your man general schofield set him up there. but president monroe give that tollgate to my granpap and quincy adams give my pap a letter saying it's our'n for keeps. mrs. jolly got the }
+<P>__{(to his wife:)}
+<D>__{show mr. lincoln the quincy adams letter.}
+<A>__{mrs. jolly opens the suitcase and begins to dig frantically for the letter.}
+<C>__{lincoln}
+<D>__{that's unnecessary, mrs. jolly. just tell me what you want from me.}
+<A>__{seward exhales more smoke. mr. jolly starts coughing, while mrs. jolly tries to fan away the cigar smoke with the quincy adams letter.}
+<C>__{mrs. jolly}
+<D>__{mr. jolly's emphysema don't care for cigars.}
+<C>__{seward}
+<D>__{madame. do you know about the proposed thirteenth amendment to the constitution }
+<C>__{mrs. jolly}
+<D>__{yes sir, everybody knows of it. the president favors it.}
+<C>__{seward}
+<D>__{do you?}
+<C>__{mrs. jolly}
+<D>__{we do.}
+<C>__{seward}
+<D>__{you know that it abolishes slavery?}
+<C>__{mrs. jolly}
+<D>__{yes sir. i know it.}
+<C>__{seward}
+<D>__{and is that why you favor it?}
+<C>__{mrs. jolly}
+<D>__{what i favor's ending the war. once't we do away with slavery, the rebs'll quit fighting, since slavery's what they're fighting for. mr. lincoln, you always says so. with the amendment, slavery's ended and they'll give up. the war can finish then.}
+<C>__{seward}
+<D>__{if the war finished first, before we end slavery, would }
+<C>__{mrs. jolly}
+<D>__{president lincoln says the war won't stop unless we finish slavery }
+<C>__{seward}
+<D>__{but if it did. the south is exhausted. if they run out of bullets and men, would you still want your, uh who's your representative?}
+<C>__{lincoln}
+<D>__{jeff city? that's, uh, congressman burton?}
+<C>__{mrs. jolly}
+<D>__{"beanpole" burton, i mean, josiah burton, yes, sir!}
+<C>__{lincoln}
+<P>__{(to mrs. jolly:)}
+<D>__{republican. undecided on the question of the amendment, i believe. perhaps you could call on him and inform him of your enthusiasm.}
+<C>__{mrs. jolly}
+<D>__{yeah...}
+<C>__{seward}
+<D>__{madam? if the rebels surrender next week, would you, at the end of this month, want congressman burton to vote for the thirteenth amendment?}
+<A>__{mrs. jolly is puzzled, and looks to mr. jolly. then:}
+<C>__{mrs. jolly}
+<D>__{if that was how it was, no more war and all, i reckon mr. jolly'd much prefer not to have congress pass the amendment.}
+<A>__{mr. jolly nods. seward glances at lincoln, then turns back to}

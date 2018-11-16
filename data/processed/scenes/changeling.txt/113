@@ -1,0 +1,70 @@
+<L>__{interior hospital mental ward hallway day}
+<A>__{wearing a bandage on one arm, christine is escorted down the hall by one of the nurses. she's led into }
+<L>__{interior hospital steele's office continuous}
+<A>__{ where doctor jonathan steele stands as christine enters. he's in his fifties, heavy set, serious.}
+<C>__{steele}
+<D>__{mrs. collins...dr. jonathan steele. please, have a seat.}
+<A>__{the nurse leaves. christine notes that there are three chairs in a row. could be a test. she sits in the middle chair. sits as straight as she can. trying to look sane.}
+<C>__{steele}
+<D>__{i hope your stay has been comfortable so far.}
+<C>__{christine}
+<D>__{fine. thank you.}
+<C>__{steele}
+<D>__{really? i'd think it would be quite difficult at first.}
+<C>__{christine}
+<P>__{(catching herself)}
+<D>__{well, it was. difficult, i mean. but comfortable.}
+<A>__{he makes a note of this. she grimaces. this isn't going well. he motions to the bandage on her arm.}
+<C>__{steele}
+<D>__{i see they took a blood test.}
+<C>__{christine}
+<D>__{wasserman test. to check for syphilis. apparently it can affect the mind.}
+<C>__{steele}
+<D>__{the idea that someone thinks you should be checked for syphilis...did that upset you?}
+<C>__{christine}
+<D>__{no. not at all. i'm sure it's... standard procedure.}
+<A>__{she smiles a forced smile. trying to appear level headed. changeling a true story}
+<C>__{steele}
+<D>__{yes. exactly. standard procedure. we have to cover all bases, and }
+<C>__{christine}
+<P>__{(covering her bases)}
+<D>__{but...at the same time...i imagine that it would be...would probably be upsetting to...some people that someone else might...suspect that of them.}
+<P>__{(beat)}
+<D>__{however inappropriate that might be.}
+<A>__{she flashes another wan smile. he makes another note, picks up the report on his desk, glances it over.}
+<C>__{steele}
+<D>__{according to your file, you believe the police have substituted a fake boy for your son. is that true?}
+<C>__{christine}
+<D>__{i didn't say they substituted a fake boy, just...not the right boy.}
+<P>__{(beat)}
+<D>__{they brought back the wrong boy. not my son. he's still missing.}
+<A>__{he starts pulling out papers from his file.}
+<C>__{steele}
+<D>__{that's strange...you see, i have here a newspaper article with a photo of you at the train station, welcoming your son home. that is you in the photo, isn't it?}
+<C>__{christine}
+<D>__{yes.}
+<C>__{steele}
+<D>__{so at first he was your son, but now he's not your son.}
+<P>__{(beat)}
+<D>__{has this been going on for a long time? people...changing, becoming something other than what they are?}
+<C>__{christine}
+<D>__{people don't change, doctor.}
+<C>__{steele}
+<D>__{you don't think people change?}
+<A>__{changeling a true story}
+<C>__{christine}
+<D>__{that's not what i }
+<C>__{steele}
+<D>__{and the police...they're not out to persecute you?}
+<C>__{christine}
+<D>__{no. of course not.}
+<C>__{steele}
+<D>__{the police are here to protect us.}
+<C>__{christine}
+<D>__{that's right.}
+<A>__{he nods. she's trying to say what she thinks he wants to hear. it's a chess match that ends with:}
+<C>__{steele}
+<D>__{that's odd, because according to the head nurse, when you were admitted you accused the police of conspiring to do this deliberately, to punish you. so either she and the interns are also conspiring against you...or you're changing your story.}
+<P>__{(beat)}
+<D>__{do you often have trouble telling reality from fantasy, mrs. collins?}
+<A>__{he sits back. christine's face tells the story.}

@@ -14,5 +14,5 @@ for FILE in $INPUT_DIR/*; do
 	BASEFILE=$(basename $FILE);
 	echo $BASEFILE;
 	mkdir -p "${OUTPUT_DIR}/${BASEFILE}";
-	csplit -z -f "${OUTPUT_DIR}/${BASEFILE}/" $FILE "/<LOC>__.*/" {*};
+	csplit -z -f "${OUTPUT_DIR}/${BASEFILE}/" $FILE "/<[LT]>__.*/" {*};
 done

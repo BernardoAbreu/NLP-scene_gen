@@ -1,0 +1,131 @@
+<L>__{interior carter's office}
+<A>__{baxter ushers easy into a huge elegantly furnished room more closely resembling a hall than an office with large arched doors and windows leading out onto a stone veranda overlooking a canyon. alone looking out at the greenery on the opposite hillside is todd carter. baxter walks out and speaks with carter, while easy watches them from inside the office. the rich man perks up with interest and hurries inside with baxter who throws easy a dirty look on his way out. he pauses uncertainly wearing a simple sears roebuck looking tan suit with a plain open collared white shirt. the dark circles under his eyes show nights without sleep.}
+<C>__{carter}
+<D>__{mr. rawlins.}
+<A>__{he runs a hand through his thinning red hair, and offers an overstuffed sofa. they sit on either end.}
+<C>__{carter}
+<P>__{(distraught)}
+<D>__{has something happened to daphne?}
+<C>__{easy}
+<D>__{the last time i saw her she looked fine.}
+<C>__{carter}
+<D>__{you saw her?}
+<C>__{easy}
+<D>__{yeah. last night.}
+<C>__{carter}
+<D>__{she's still in town?}
+<C>__{easy}
+<D>__{she was last night.}
+<C>__{carter}
+<D>__{what did she say what was she wearing?}
+<C>__{easy}
+<D>__{a blue dress. blue heels.}
+<C>__{carter}
+<D>__{and a pin on her chest?}
+<C>__{easy}
+<D>__{yeah, on the left side.}
+<C>__{carter}
+<P>__{(carried away)}
+<D>__{oh yes, that's her. that's her. you know i've never known a woman who could wear perfume so slight that }
+<C>__{easy}
+<D>__{ mr. carter, mr. carter }
+<C>__{carter}
+<D>__{what did she say? what did she say?... oh, i'm sorry. brandy?}
+<A>__{he points to a crystal decanter near easy. easy pours himself a drink and takes in carter as he wrings his hands to keep from going to pieces. this guy's got it bad.}
+<C>__{easy}
+<D>__{mr. carter. i came here to get some answers.}
+<C>__{carter}
+<D>__{yes...?}
+<C>__{easy}
+<D>__{i don't know... i'm takin' a helluva chance...}
+<A>__{carter runs his hand through his hair again, the suspense killing him.}
+<C>__{easy}
+<P>__{(continuing)}
+<D>__{i guess it's just that when i'm working for somebody, i wanna know what i'm gettin' myself into...}
+<A>__{carter leans in as if he missed something.}
+<C>__{carter}
+<D>__{i beg your pardon.}
+<C>__{easy}
+<D>__{well, i'd like to know the real reason why mr. albright hired me.}
+<C>__{carter}
+<P>__{(after a moment)}
+<D>__{mr. albright?}
+<C>__{easy}
+<D>__{yeah. the man you hired to find daphne.}
+<C>__{carter}
+<D>__{there must be some mistake... i'm sorry, busy... who are you talking about?}
+<A>__{easy and carter stare at each other, not sure how to proceed.}
+<C>__{easy}
+<D>__{you didn't hire somebody to find your girlfriend?}
+<C>__{carter}
+<D>__{no... until just now i was sure that she was hundreds of miles away from here... you say someone is looking for her?}
+<A>__{easy nods, his brow furrowed in thought. carter gets up and walks to the door, looking out into the canyon.}
+<C>__{carter}
+<P>__{(half to himself)}
+<D>__{someone is looking for her.}
+<C>__{easy}
+<D>__{what's goin' on between you two?}
+<A>__{carter shrugs and stammers nervously.}
+<C>__{carter}
+<D>__{uh... i don't know... we were going to be married... we had a fight...}
+<P>__{(then recovering)}
+<D>__{uh... that's none of your concern, mr. rawlins.}
+<A>__{he stops and looks to the floor, the gravity pulling him down... way down.}
+<C>__{carter}
+<P>__{(continuing)}
+<D>__{someone's... after her? a mr. albright? and he said he's working for me?}
+<C>__{easy}
+<D>__{yeah... do you know a man named richard mcgee?}
+<C>__{carter}
+<D>__{no... i can't say that i do.}
+<C>__{easy}
+<D>__{why would someone be after her, mr. carter?}
+<C>__{carter}
+<D>__{uh... i can't say i don't know...}
+<A>__{he's lying and easy knows it.}
+<C>__{carter}
+<P>__{(continuing)}
+<D>__{do you think you could find her again?}
+<C>__{easy}
+<D>__{i don't know.}
+<C>__{carter}
+<D>__{it's important, mr. rawlins, for her sake... i'm willing to pay you.}
+<C>__{easy}
+<D>__{mr. carter, why did she leave?}
+<C>__{carter}
+<D>__{i can't tell you any more mr. rawlins i will pay you to find her...}
+<A>__{easy thinks about it, and then nods.}
+<C>__{easy}
+<D>__{okay... a thousand dollars.}
+<C>__{carter}
+<D>__{a thousand dollars?!}
+<C>__{easy}
+<D>__{yeah. i will take two hundred right now.}
+<C>__{carter}
+<D>__{mr. rawlins. i think you're trying to take advantage of me. but left me inform you that the incumbent mayor and the chief of police eat at my house regularly.}
+<C>__{easy}
+<D>__{good. then they can help us }
+<C>__{carter}
+<D>__{ no. they can't!}
+<A>__{carter is too emphatic and easy waits for him to give more, but instead he turns and gazes out again at the canyon.}
+<C>__{baxter}
+<D>__{i will have baxter write you out a check.}
+<C>__{easy}
+<P>__{(after a moment)}
+<D>__{mr. carter, why'd you stop runnin' for mayor?}
+<C>__{carter}
+<P>__{(terse)}
+<D>__{i will have baxter write you a check.}
+<C>__{easy}
+<D>__{why is matthew teran looking for her too?}
+<C>__{carter}
+<P>__{(with finality)}
+<D>__{baxter will write you a check!!}
+<A>__{easy takes him in and then holds out his hand.}
+<C>__{easy}
+<D>__{i will take cash, mr. carter.}
+<A>__{carter fumbles in his wallet, and too nervous to count the money, shoves the wallet at easy.}
+<C>__{carter}
+<D>__{take it all... just take it all.}
+<A>__{easy nods and strides out of the room.}
+<B>__{omit}

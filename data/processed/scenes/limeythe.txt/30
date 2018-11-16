@@ -1,0 +1,60 @@
+<L>__{interior warehouse hallway.}
+<A>__{a scratching at the door. it opens. he's in. waits. cautious. nothing. he starts along the hallway.}
+<L>__{interior warehouse.}
+<A>__{a supervisor (the one from the flash cuts) does a double take as wilson passes.}
+<C>__{supervisor}
+<D>__{hey!}
+<A>__{wilson stops and turns. says nothing.}
+<C>__{supervisor}
+<D>__{how'd you get in here.}
+<C>__{wilson}
+<D>__{walked.}
+<C>__{supervisor}
+<D>__{you walked.}
+<P>__{(coming over)}
+<D>__{what the hell are you doing here.}
+<C>__{wilson}
+<D>__{looking for a bloke named valentine. know him?}
+<A>__{meat puppets (who we saw before as well) who work here gathering. the supervisor and the meat puppets exchange glances.}
+<C>__{supervisor}
+<D>__{he's expecting you?}
+<C>__{wilson}
+<P>__{(beat)}
+<D>__{i doubt it.}
+<A>__{the supervisor moves toward wilson.}
+<C>__{supervisor}
+<D>__{so why would he want to see you.}
+<C>__{wilson}
+<D>__{i have a message for him. about jennifer wilson.}
+<C>__{supervisor}
+<D>__{jennifer wilson.}
+<A>__{more looks are exchanged.}
+<C>__{wilson}
+<D>__{you know her?}
+<C>__{supervisor}
+<D>__{yeah. i know her, all right. she came down here once, stirred up a shitstorm. we lost a full day's work, took me weeks to get back on schedule. if she hadn't a' been terry's woman i would've broke her jaw. 'course, she's nobody's problem now.}
+<A>__{wilson stares at him.}
+<C>__{wilson}
+<D>__{is valentine here?}
+<C>__{supervisor}
+<D>__{what do you think?}
+<A>__{wilson looks at the meat puppets, the loading area.}
+<C>__{wilson}
+<D>__{where is he, then?}
+<C>__{supervisor}
+<D>__{listen, get the fuck out of here before you get hurt. who the fuck do you think you are, waltzing in here, asking questions?}
+<A>__{wilson just looks at him.}
+<C>__{supervisor}
+<D>__{do you hear me, asshole?}
+<A>__{the supervisor shoves him. the meat puppets move a little in anticipation. wilson isn't giving any indication that he's going to leave.}
+<C>__{supervisor}
+<D>__{jesus, you really want your ass kicked, don't you?}
+<A>__{he pushes wilson again, hard.}
+<C>__{supervisor}
+<D>__{go on, get outta here.}
+<A>__{he pushes wilson again. still, wilson won't leave.}
+<C>__{supervisor}
+<D>__{fuckin' nut. go on.}
+<A>__{this time he tries to slap wilson. wilson blocks the supervisor's hand and then punches him, hard. the supervisor stumbles back and falls to the floor.}
+<B>__{the meat puppets}
+<A>__{move to wilson. he tries to fend them off, but there are too many. they beat him. when they find that he's armed, they beat him harder.}

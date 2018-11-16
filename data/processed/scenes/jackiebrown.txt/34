@@ -1,0 +1,53 @@
+<L>__{interior hallway courthouse day}
+<A>__{dargus and nicolet confer with the public defender, an attractive blonde woman in a nice business suit.}
+<C>__{dargus}
+<D>__{if she'll cooperate with us, we'll turn possession with intent into plain ol' possession, and she can bond outta here for one thousand bucks. if she doesn't help us, we'll go for the intent and request a twenty five thousand dollar bond.}
+<L>__{interior courtroom day}
+<A>__{jackie and the public defender. jackie, in her county blues; public defender in her nice suit.}
+<C>__{jackie}
+<D>__{you tell those guys they'll have to do one helluva lot better than that before i will even say 'hi' to them.}
+<C>__{public defender}
+<D>__{well, that's the state's offer. if you plead to possession and tell l.a.p.d. what they want to know, your bond will be set at one thousand dollars. if you don't, l.a.p.d. will request one at twenty five thousand based on your prior record and risk of flight. if you don't post it or don't know anyone who can, you'll spend six to eight weeks in county before your arraignment comes up.}
+<C>__{jackie}
+<D>__{who's side are you on?}
+<C>__{public defender}
+<D>__{i beg your pardon?}
+<C>__{jackie}
+<D>__{what if i plead guilty?}
+<C>__{public defender}
+<D>__{and cooperate? you might get probation.}
+<C>__{jackie}
+<D>__{if i don't cooperate?}
+<C>__{public defender}
+<D>__{with the prior? you could get anywhere from a year to five depending on the judge. you want to think about it? you got two minutes before we're up.}
+<B>__{court in session}
+<A>__{it's a full schedule in court today. jackie sits with a bunch of other females wearing county blues in the defendant's area (where the jury sits during a jury trial) dargus and nicolet sit in the courtroom. the judge reads the next case.}
+<C>__{judge}
+<D>__{brown. case number 700324.}
+<A>__{jackie rises amongst the other defendants. the p.d. rises. dargus, the arresting officer, rises.}
+<C>__{judge}
+<D>__{the charge is possession of narcotics with the intent to distribute. how does your client plead?}
+<C>__{public defender}
+<D>__{she wishes to stand mute, your honor.}
+<C>__{judge}
+<D>__{very well...}
+<P>__{(to dargus)}
+<D>__{... detective dargus you're the arresting officer in his case, correct?}
+<C>__{dargus}
+<D>__{that's correct, your honor.}
+<C>__{judge}
+<D>__{you have a recommendation for bail?}
+<C>__{dargus}
+<D>__{yes, i do, your honor. based on the defendant's prior conviction and the extreme possibility of flight due to her occupation, the state requests a bond of no less than twenty five thousand.}
+<A>__{the judge looks at the report, then at jackie...}
+<C>__{judge}
+<D>__{i will set bond at ten thousand and set the date of august 14th for the arraignment.}
+<C>__{jackie}
+<D>__{when is that, your honor?}
+<C>__{judge}
+<D>__{that's six weeks from now, miss brown. we'll continue this matter then. owens, case 72242.}
+<A>__{jackie sits down. dargus sits down next to nicolet. they smile and giggle together. jackie sees them giggle like fifth graders. it fucking pisses her off.}
+<B>__{different perspective}
+<A>__{we go from a closeup of a boiling jackie, to a perspective from the back of the courtroom. we see jackie in the defendant's area. we see the two happy detectives walk past us on their way out of the courtroom.}
+<B>__{ordell}
+<A>__{sits in the back, watching the proceedings without any expression. when he's seen enough, he stands up and out of the shot leaving an empty frame.}

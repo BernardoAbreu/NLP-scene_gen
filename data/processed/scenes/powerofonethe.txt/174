@@ -1,0 +1,84 @@
+<T>__{cut to:}
+<L>__{interior st. john's study}
+<A>__{pk and morrie enter to a somber st. john.}
+<C>__{pk}
+<D>__{wanted to see us, sir?}
+<C>__{st. john}
+<D>__{yes. come in. close the door.}
+<A>__{as the door closes, brigadier johannes bretyn, a quiet but formidable man, comes into their line of vision. trouble is in the air.}
+<C>__{st. john}
+<D>__{this is brigadier bretyn from the police department.}
+<A>__{bretyn just nods his head.}
+<C>__{st. john}
+<D>__{he has come to deliver, in person, an order to close the saturday school.}
+<C>__{pk}
+<D>__{why?}
+<C>__{bretyn}
+<D>__{because it is illegal.}
+<C>__{morrie}
+<D>__{we're only teaching them how to read and do sums.}
+<C>__{bretyn}
+<D>__{you don't have certification to do that.}
+<C>__{pk}
+<D>__{prince of wales is a certified school.}
+<C>__{bretyn}
+<D>__{yes. but not certified for that sort of thing.}
+<C>__{pk}
+<D>__{can he do this, sir?}
+<C>__{bretyn}
+<D>__{of course i can do it. would i be here if i couldn't? come now meneer headmaster. let's end this now. i have a full day ahead of me still.}
+<A>__{st. john meets bretyn's steely eyes. he cannot hold the man's gaze.}
+<C>__{st. john}
+<P>__{(resigned)}
+<D>__{the saturday school is to be disbanded until further notice.}
+<C>__{bretyn}
+<D>__{thank you, meneer headmaster. your cooperation in this matter is very appreciated. good day.}
+<A>__{bretyn goes to exit.}
+<C>__{pk}
+<D>__{you know it can't go on like this forever.}
+<A>__{st. john tenses.}
+<C>__{bretyn}
+<D>__{what can't?}
+<C>__{pk}
+<D>__{what you're doing.}
+<C>__{bretyn}
+<D>__{i'm just doing my job. and if you'll take some advice, you should just do yours.}
+<A>__{bretyn exits.}
+<C>__{morrie}
+<D>__{is that really the end of it, sir?}
+<C>__{st. john}
+<D>__{for the moment i'm afraid it is.}
+<C>__{pk}
+<D>__{if we let them get away with it on our own grounds, it will never change. it'll just get worse.}
+<C>__{st. john}
+<D>__{history disputes you.}
+<C>__{pk}
+<D>__{history takes too long.}
+<C>__{st. john}
+<D>__{yes it does. but it is never kind to those who try to hurry it.}
+<C>__{pk}
+<D>__{i feel we should resist, sir.}
+<C>__{st. john}
+<D>__{so do i, p.k. but this is not a subtle government. they mean to have their way and damn the consequences. and i cannot jeopardize this school, no matter how i personally feel. i'm sorry.}
+<P>__{(beat)}
+<D>__{i heard you were accepted at oxford.}
+<C>__{morrie}
+<D>__{yes, sir. received notification today.}
+<C>__{st. john}
+<D>__{well, congratulations.}
+<C>__{morrie}
+<D>__{thank you, sir.}
+<A>__{st. john looks at pk who remains silent.}
+<C>__{st. john}
+<D>__{to both of you.}
+<C>__{pk}
+<P>__{(tight)}
+<D>__{thank you, sir.}
+<A>__{an uncomfortable silence lingers.}
+<C>__{st. john}
+<D>__{we'll talk before you go.}
+<C>__{pk}
+<D>__{yes, sir. will that be all?}
+<C>__{st. john}
+<D>__{that'll be all.}
+<A>__{pk turns immediately and exits. morrie and st. john trade an uncomfortable look.}

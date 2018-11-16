@@ -1,0 +1,29 @@
+<L>__{interior dodge's reception area day}
+<A>__{dodge and marshall enter.}
+<C>__{dodge}
+<D>__{eli, the people who elected you. they sent you here to help them. don't you want to?}
+<C>__{marshall}
+<D>__{not if it means supporting your bill. all you want is the perfect platform to campaign for speaker. dick dodge. mr. clean. what a joke!}
+<C>__{dodge}
+<P>__{(undeterred)}
+<D>__{come on board, eli.}
+<P>__{(leaning in)}
+<D>__{you know you can't save the world if you can't save your seat.}
+<A>__{tommy enters. marshall gives him a once over and extends a hand.}
+<C>__{marshall}
+<D>__{we haven't met. eli marshall.}
+<C>__{tommy}
+<D>__{tommy johnson.}
+<C>__{marshall}
+<D>__{i know. the florida upset. well, now that you're here, what are you going to do with it? you gonna feather your own nest, or are you gonna make something of your office?}
+<C>__{tommy}
+<D>__{i plan to be as good a congressman as all the others.}
+<C>__{marshall}
+<D>__{exactly what does that mean?}
+<C>__{tommy}
+<D>__{well, ever since i got back from nam, i've wanted to do something about the rain forest }
+<C>__{marshall}
+<D>__{no, do me a favor, don't tell me. i try not to get depressed until the second week of a new session.}
+<C>__{dodge}
+<P>__{(ushering tommy into his office)}
+<D>__{eli, you'll excuse us we have a meeting.}

@@ -1,0 +1,61 @@
+<L>__{interior mission control}
+<A>__{noah stands over the com. the room is a madhouse.}
+<C>__{noah}
+<D>__{give me a telemetry projection.}
+<A>__{noah looks up at the main monitor. the graphic of the jupiter two is heading towards the graphic of the sun.}
+<L>__{interior jupiter two}
+<A>__{john and don stand over the com.}
+<C>__{noah }
+<D>__{you're way off course. we show you in the sun's gravitational pull.}
+<C>__{west}
+<D>__{how long do we have?}
+<C>__{noah }
+<D>__{we count seven minutes before your outer hull begins to melt.}
+<A>__{don straps himself into the pilot's chair.}
+<C>__{west}
+<D>__{i'm going to try for the mercury mines.}
+<A>__{smith stands at the freezing tube, penny and maureen assisting him.}
+<C>__{smith}
+<D>__{i will need dr. robinson's portable gurney. i believe it is stored in }
+<C>__{penny}
+<D>__{i'm on it.}
+<A>__{penny races off. smith begins working the controls to judy's freezing tube.}
+<C>__{maureen}
+<D>__{we trusted you.}
+<P>__{(sinking in)}
+<D>__{you tried to kill us all.}
+<C>__{smith}
+<D>__{existence offers us nothing if not the opportunity for an endless series of betrayals.}
+<P>__{(off her stunned expression)}
+<D>__{there's a world behind the world, professor robinson. lie once, cheat twice and everything becomes clear. do not mistake my deception for a character flaw. it is philosophical choice, a profound understanding of the universe. it is a way of life.}
+<C>__{maureen}
+<D>__{you're a monster.}
+<C>__{smith}
+<D>__{perhaps. but i am also the only one who can save your daughter's life.}
+<A>__{penny reappears, a case in hand. she presses a button and the case unfolds into a hovering, gyroscopicaly leveled gurney.}
+<C>__{maureen}
+<D>__{where's will?}
+<C>__{penny}
+<D>__{he's futzing with that robot.}
+<C>__{smith}
+<D>__{alright, penny dear, i need you to short the power on my command.}
+<C>__{penny}
+<D>__{does he have to call me dear?}
+<C>__{smith}
+<D>__{professor, if you will assist me in lowering the body.}
+<A>__{smith hands penny a wrench.}
+<C>__{smith}
+<D>__{penny, dear. now.}
+<A>__{maureen nods. penny slams the wrench into the power circuit. the freezing field flares and deactivates, the tube swinging open. lifesign monitor close. flatline.}
+<C>__{maureen}
+<D>__{she's dying.}
+<A>__{smith and maureen lower her onto the gurney.}
+<C>__{smith}
+<D>__{sickbay. move.}
+<A>__{penny, maureen and smith rush the gurney out the blast doors towards sickbay just as the ship tilts madly.}
+<B>__{at the helm}
+<A>__{windscreen close. the sun is growing ever larger.}
+<C>__{west}
+<D>__{unable to re route to mercury. the sun's pull is too strong.}
+<P>__{(a beat)}
+<D>__{noah, i need options.}

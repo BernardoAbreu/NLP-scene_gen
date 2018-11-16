@@ -1,0 +1,29 @@
+<L>__{exterior small mexican airport day}
+<A>__{the plane lands.}
+<L>__{exterior terminal cab stand}
+<A>__{rath and electra hand their bags to a cabby who puts them in his trunk.}
+<L>__{interior cab}
+<A>__{rath speaks perfect spanish.}
+<C>__{rath}
+<P>__{(in spanish)}
+<D>__{good afternoon. we have reservations at the hotel paraiso in costa blanca.}
+<C>__{cabby}
+<P>__{(in spanish)}
+<D>__{yes, sir.}
+<L>__{exterior hotel paraiso day}
+<A>__{the cab pulls up in front of a large, brand new glass hotel, which shimmers in the blue green reflection of the gulf water. rath is upset.}
+<C>__{rath}
+<P>__{(in spanish)}
+<D>__{no, no. i said the hotel paraiso.}
+<C>__{cabby}
+<P>__{(in spanish)}
+<D>__{yes. this is the hotel paraiso.}
+<C>__{rath}
+<P>__{(in spanish)}
+<D>__{no, the other hotel paraiso, in the city. near the plaza del sol.}
+<C>__{cabby}
+<P>__{(in spanish)}
+<D>__{i'm sorry, sir. a year ago there was a fire in the old hotel paraiso. this is the new hotel paraiso.}
+<C>__{rath}
+<P>__{(in spanish)}
+<D>__{take us there.}

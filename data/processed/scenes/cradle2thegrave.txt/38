@@ -1,0 +1,29 @@
+<L>__{interior vault anteroom day}
+<A>__{fait grabs a bag of jewels.}
+<C>__{fait}
+<D>__{go time. leave the rest.}
+<L>__{interior lobby security station day}
+<A>__{swat swarms in. tommy exits behind them.}
+<L>__{interior exterior limo day}
+<A>__{tommy gets in. a swat cop signals him.}
+<C>__{swat cop}
+<D>__{move it out.}
+<L>__{interior utility tunnels day}
+<A>__{fait, miles, and daria run.}
+<L>__{interior subway tunnel day}
+<A>__{slam! fait, miles, and daria blast out the access door. fait kneels, feels the track.}
+<C>__{fait}
+<D>__{stopped the trains.}
+<P>__{(then)}
+<D>__{we're in the rabbit hole, they're sending down the snakes.}
+<P>__{(then)}
+<D>__{daria comes with me.}
+<P>__{(to miles)}
+<D>__{i got no idea where you should go, but you know where to end up.}
+<A>__{miles nods.}
+<C>__{fait}
+<D>__{faith.}
+<C>__{miles}
+<D>__{faith.}
+<L>__{interior su's rental t bird day}
+<A>__{su studies a computer map of downtown as he drives.}

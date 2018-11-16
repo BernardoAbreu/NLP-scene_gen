@@ -1,0 +1,54 @@
+<T>__{cut to:}
+<L>__{interior carriage day}
+<A>__{aramis and porthos have settled in comfortably. porthos spies a wicker hamper on the floor.}
+<C>__{porthos}
+<D>__{well, what have we here?}
+<A>__{porthos lifts the lid. inside: bottles of wine, champagne, and a wide assortment of foods.}
+<C>__{porthos}
+<D>__{how considerate of the cardinal to provide us with a snack.}
+<A>__{porthos extracts a bottle of wine, grabs a turkey leg. aramis looks about the interior, spies a small ornate box.}
+<C>__{aramis}
+<D>__{hello.}
+<A>__{aramis opens the box, reacts. it is filled with gold coins, jewelry.}
+<C>__{aramis}
+<D>__{how is it that a man of god becomes a man of gold?}
+<C>__{porthos}
+<P>__{(looks on, grins)}
+<D>__{trinkets for the ladies.}
+<C>__{aramis}
+<D>__{let's share.}
+<A>__{streets of paris carriage aramis sticks his head through the hole in the fabric roof, hands the ornate box to d'artagnan.}
+<C>__{aramis}
+<D>__{would you be so good as to distribute these? your generosity will be greatly appreciated.}
+<C>__{d'artagnan}
+<P>__{(open the box, reacts)}
+<D>__{but...?}
+<C>__{aramis}
+<P>__{(to the point)}
+<D>__{throw the coins, boy. the people are hungry.}
+<A>__{d'artagnan grabs a handful of coins, and tosses them into the air. aramis smiles approval, drops back to the carriage interior. pedestrians see the gold, shout, and leap after. their hurried steps impede the guards' progress, horses rear up, soldiers tumble. but several of the guards manage to avoid the obstacle, pursue the carriage with renewed determination. d'artagnan hears a loud popping sound, ducks.}
+<C>__{d'artagnan}
+<D>__{they're firing at us!}
+<A>__{porthos sticks his head into view, offers them a bubbling bottle of champagne, the source of the popping sound.}
+<C>__{porthos}
+<D>__{champagne?}
+<C>__{athos}
+<D>__{you know i prefer wine.}
+<C>__{porthos}
+<D>__{don't go away.}
+<A>__{porthos ducks down, returns with a new bottle.}
+<C>__{porthos}
+<D>__{may i recommend this find cabernet?}
+<A>__{porthos hands the bottle to athos. athos hands the reins to d'artagnan. d'artagnan struggles with the reins, tries to control the horses. and beams, taking delight from every instant of adventure. athos smashes the top of the bottle, drinks deeply, settles back to enjoy himself.}
+<C>__{athos}
+<D>__{turn right at the next street.}
+<C>__{d'artagnan}
+<D>__{the next right...?}
+<C>__{athos}
+<D>__{turn.}
+<A>__{athos growls, d'artagnan jerks at the reins. the carriage careens around the corner, tipping on two wheels.}
+<B>__{include interior}
+<A>__{porthos looks up from his chest, champagne spilled all over his tunic... and a brand new sash.}
+<C>__{porthos}
+<P>__{(to aramis)}
+<D>__{that's it. next time, you drive.}

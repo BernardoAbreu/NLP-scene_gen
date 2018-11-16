@@ -1,0 +1,100 @@
+<L>__{interior flight deck }
+<A>__{gibbs puts the plane on automatic pilot. rises to join the group.}
+<L>__{interior mission communications center }
+<A>__{korshunov separates marshall from his family. waves him into the com officer's chair. his hands are now wrapped too. gibbs enters looking down.}
+<C>__{marshall}
+<D>__{special agent gibbs. you helped do this?}
+<C>__{gibbs}
+<D>__{yes, mr. president.}
+<C>__{marshall}
+<D>__{why?}
+<C>__{gibbs}
+<D>__{because it is my duty.}
+<C>__{marshall}
+<D>__{you're duty to what? the country you served doesn't exist anymore.}
+<C>__{gibbs}
+<D>__{my loyalty was never to my country.}
+<A>__{i serve my commanding officers.}
+<C>__{korshunov}
+<D>__{you don't think the leaders of the kgb would allow peristroika to ruin years of infiltration? no, when the soviet union collapsed, we took our sleepers with us.}
+<A>__{korshunov holds up a telephone.}
+<C>__{korshunov}
+<D>__{now since we've had very little luck getting washington or moscow to cooperate, i wondered if you would be so kind.}
+<C>__{marshall}
+<D>__{over my dead body.}
+<C>__{korshunov}
+<D>__{no. but since i only have a few of your staff left to kill, perhaps i will start with your family instead... gibbs.}
+<A>__{gibbs grabs alice and shoves her into a chair. she fights him off, and he smacks her across the face and shoves his gun into her neck. marshall and rose struggle against their bonds.}
+<C>__{korshunov}
+<D>__{the world is such a dangerous place and we can't always protect our children.}
+<C>__{rose}
+<D>__{please. you can kill me but leave my daughter alone.}
+<A>__{korshunov runs his finger down alice's cheek.}
+<C>__{marshall}
+<D>__{she isn't a part of this. this is between you and me.}
+<C>__{korshunov}
+<D>__{call up petrov and order stravanavitch' s release.}
+<A>__{marshall looks to alice, then rose, then back to alice.}
+<C>__{marshall}
+<D>__{this administration does not negotiate with terrorists.}
+<C>__{korshunov}
+<D>__{pity. mr. gibbs.}
+<A>__{gibbs withdraws his pistol. places it against alice's temple.}
+<C>__{korshunov}
+<D>__{perhaps a president does not negotiate, but does a father?}
+<P>__{(beat)}
+<D>__{an interesting choice. your daughter versus your world vision. the implicit trust of a family against your oath of office.}
+<A>__{tears of fears are streaming down alice's face. she looks into her father's eyes.}
+<C>__{alice}
+<D>__{daddy...}
+<C>__{marshall}
+<D>__{alice... i...}
+<C>__{korshunov}
+<D>__{and once the trigger is pulled, she is gone forever. then, i wonder, how do you live, knowing you could've saved her?}
+<A>__{marshall struggles with his duty. his honor.}
+<C>__{korshunov}
+<D>__{and could you ever forget the look on her face as she ceases to exist... late at night, when you think about her, will stravanavitch really matter anymore?}
+<A>__{marshall tries to look away, but zedeck forces him to watch.}
+<C>__{alice}
+<D>__{daddy. daddy, please...}
+<C>__{rose}
+<D>__{jim... for godsake!}
+<C>__{korshunov}
+<D>__{look inside your heart. no one will think you weak. five...}
+<A>__{alice's face, trying to be brave.}
+<C>__{korshunov}
+<D>__{four...}
+<C>__{rose}
+<D>__{jim...}
+<C>__{korshunov}
+<D>__{three...}
+<A>__{rose looks away.}
+<C>__{korshunov}
+<D>__{two. .}
+<A>__{alice looks at her father for the very last time. then shuts her eyes tight.}
+<C>__{korshunov}
+<D>__{one...}
+<A>__{gibbs begins to squeeze the trigger.}
+<C>__{marshall}
+<D>__{no!}
+<A>__{korshunov smiles.}
+<C>__{marshall}
+<D>__{stop.}
+<C>__{korshunov}
+<D>__{you'll do it?}
+<C>__{marshall}
+<D>__{yes, i will do it.}
+<P>__{(broken)}
+<D>__{just leave my family alone.}
+<C>__{korshunov}
+<D>__{good. good.}
+<A>__{gibbs withdraws the gun from alice's temple. alice opens her eyes and gasps for breath.}
+<C>__{korshunov}
+<D>__{bring him the phone...}
+<A>__{you are true to your nature, mr. president.}
+<C>__{marshall}
+<D>__{someday, you'll regret my nature.}
+<C>__{korshunov}
+<D>__{you don't like seeing people get hurt. now in morality, that is a virtue. in politics, however, that is weakness.}
+<P>__{(beat)}
+<D>__{you were a hostage to everyone else long before you were a hostage to}

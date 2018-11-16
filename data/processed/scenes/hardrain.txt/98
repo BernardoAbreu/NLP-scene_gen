@@ -1,0 +1,24 @@
+<L>__{interior church}
+<A>__{tom shuts the door. he piles the weapons on a shelf. he sees jim touch his head.}
+<C>__{tom}
+<D>__{that hurt?}
+<C>__{jim}
+<D>__{yeah.}
+<C>__{tom}
+<D>__{good.}
+<L>__{exterior main street}
+<A>__{wayne and hank are alongside the sheriff, engines idling as they look at the church.}
+<C>__{sheriff}
+<P>__{(nods, to hank)}
+<D>__{then go get some bottles.}
+<A>__{hank nods, guns his engine.}
+<C>__{phil}
+<P>__{(to hank)}
+<D>__{wait what about the dam?}
+<C>__{sheriff}
+<D>__{it'll be fine.}
+<C>__{phil}
+<D>__{you said if it goes it'll wipe out the town.}
+<C>__{sheriff}
+<D>__{fuck the town.}
+<A>__{hank nods in agreement and takes off.}

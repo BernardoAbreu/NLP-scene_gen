@@ -1,0 +1,68 @@
+<L>__{interior dillinger's office}
+<A>__{dillinger opens the door, welcoming alan.}
+<C>__{dillinger}
+<D>__{come on in...}
+<C>__{alan}
+<D>__{alan. alan bailey.}
+<C>__{dillinger}
+<D>__{oh, yes. the algorithms on cloud seeding...great piece of work. how's it going?}
+<A>__{he waves alan to a chair; they sit.}
+<C>__{alan}
+<D>__{well, i don't know...i just tried to run this program i've been working on, and i was denied access all of a sudden. i thought maybe i'd been laid off and nobody told me.}
+<C>__{dillinger}
+<D>__{oh, you have group 7 access, don't you?}
+<C>__{alan}
+<D>__{yeah...?}
+<C>__{dillinger}
+<D>__{we have to close that down, just briefly. security reasons. someone with that access has been tampering.}
+<C>__{alan}
+<D>__{i hope you don't think it's me. i don't even balance my checkbook on downtime. i've got a honeywell at home for that.}
+<C>__{dillinger}
+<D>__{no, no, i'm sure, but you understand. it should only be a couple of days. what's the thing you're working on?}
+<C>__{alan}
+<D>__{it's called tron. it's a security program itself, actually. monitors all the contacts between our system and other systems... if it finds anything going on that's not scheduled, it shuts it down. i sent you a memo on it.}
+<C>__{dillinger}
+<D>__{mmm. part of the master control program?}
+<C>__{alan}
+<D>__{no, it'll run independently. it can watchdog the mcp as well.}
+<C>__{dillinger}
+<D>__{ah. sounds good. well, we should have you running again in a couple of days, i hope.}
+<C>__{alan}
+<D>__{ok}
+<A>__{alan rises, goes to the door. as soon as he leaves:}
+<C>__{dillinger}
+<P>__{(trouble)}
+<D>__{oh boy.}
+<A>__{the master control program comes back to life, on the screen and through the speakers.}
+<C>__{mcp}
+<D>__{ed, i am so very disappointed in you.}
+<C>__{dillinger}
+<D>__{i'm sorry }
+<C>__{mcp}
+<P>__{(sharply)}
+<D>__{i can't afford to have an independent program monitoring me. do you have any idea how many outside systems i've gone into? how many programs i've appropriated?}
+<C>__{dillinger}
+<P>__{(nods)}
+<D>__{it's my fault. i programmed you to want so much...}
+<C>__{mcp}
+<D>__{and i was planning to hit the pentagon next week...}
+<C>__{dillinger}
+<D>__{the pentagon?}
+<C>__{mcp}
+<D>__{it shouldn't be any harder than general motors was. but now...this is what i get for using humans.}
+<C>__{dillinger}
+<D>__{now, wait a minute i wrote you.}
+<C>__{mcp}
+<D>__{i've gotten 2,415 times smarter since then.}
+<C>__{dillinger}
+<D>__{what do you want with the pentagon?}
+<C>__{mcp}
+<D>__{the same thing i want with the kremlin. i'm bored with corporations. with the information i can access, i can run things 900 to 1200 times better than any human.}
+<C>__{dillinger}
+<D>__{if you think }
+<C>__{mcp}
+<D>__{you wouldn't want me to dig up flynn's file and read it up on a vdt at the new york times, would you?}
+<C>__{dillinger}
+<D>__{you wouldn't dare.}
+<C>__{mcp}
+<D>__{so do as i tell you. keep that tron program out of the system. and get me those chinese language program i asked for. end of line.}

@@ -1,0 +1,32 @@
+<L>__{exterior ocean foggy night}
+<A>__{ide on: the venture sails into thickening fog.}
+<L>__{interior wheelhouse foggy night}
+<A>__{angle on: englehorn at the wheel ... he barks at the helmsman.}
+<C>__{englehorn}
+<D>__{station the for'head lookout, and get me the depth by lead line!}
+<C>__{helmsman}
+<D>__{aye, captain.}
+<A>__{the helmsman hurries away.}
+<L>__{exterior venture deck foggy night}
+<A>__{wide on: the venture steams through the fog bank ... angle on: a crewman throws a lead line over the side. concerned crewmen hurry to their stations.}
+<C>__{crewman}
+<P>__{(calling)}
+<D>__{thirty fathoms ... no bottom!}
+<L>__{interior wheelhouse foggy night}
+<A>__{hayes is tense. englehorn remains focussed, his eyes fixed ahead.}
+<C>__{englehorn}
+<D>__{reduce speed, steerage way only.}
+<A>__{hayes swings the telegraph levers.}
+<C>__{hayes}
+<D>__{dead slow ahead, both.}
+<P>__{(beat)}
+<D>__{you should stop the ship.}
+<A>__{angle on: englehorn spins the wheel.}
+<C>__{englehorn}
+<D>__{15 degrees port.}
+<P>__{(beat)}
+<D>__{we're getting out of here, mr. hayes ... we'll find clear conditions.}
+<C>__{crewman }
+<P>__{(calling)}
+<D>__{we have seabed!}
+<A>__{close on: hayes rushes out of the wheelhouse.}

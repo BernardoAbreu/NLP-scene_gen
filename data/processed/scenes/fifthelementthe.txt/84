@@ -1,0 +1,59 @@
+<L>__{interior korben's hall}
+<A>__{leeloo and cornelius search for korben's apartment. leeloo carries the card korben gave her. cornelius finds the apartment, and yanks the. number off the door. he waves leeloo over as his hand goes to the bell.}
+<L>__{interior korben's apartment}
+<A>__{the doorbell rings.}
+<C>__{korben}
+<D>__{...scuse me.}
+<A>__{korben goes to the door and looks out the peephole: the beautiful leeloo. korben panics, overcome with happiness.}
+<C>__{korben}
+<D>__{...shit!}
+<C>__{munro}
+<P>__{(worried)}
+<D>__{what is it?}
+<A>__{korben has two seconds to make up something to get rid of munro.}
+<C>__{korben}
+<D>__{it's my wife.}
+<C>__{munro}
+<D>__{i thought you were divorced.}
+<C>__{korben}
+<D>__{i mean my future.. my ex.. my future ex.. if she sees you here i'm finished. she hates you guys. it's what killed us in the first place. please...}
+<A>__{he puts them in the fridge, shoving the jellyfish cake in iceborg's hands.}
+<C>__{korben}
+<D>__{...sorry, general, but we've got no choice! it'll only take a minute! let me set up another meeting and i will be back.}
+<C>__{munro}
+<D>__{three of us will never fit in there!}
+<C>__{korben}
+<P>__{(pushing him)}
+<D>__{oh, yes you will...}
+<A>__{korben slams the fridge door. the doorbell rings again.}
+<C>__{korben}
+<D>__{...coming!}
+<A>__{he whips through his place in ten seconds, gathers up things laying about, shuts drawers, rolls up his laundry in the folding bed. he brushes his hair back and opens the door with a big smile only to discover a gun stuck between his eyes held by cornelius.}
+<C>__{leeloo}
+<D>__{apipoulai!}
+<C>__{korben}
+<D>__{i suppose that means "hi" ?}
+<C>__{cornelius}
+<D>__{i'm sorry to have to resort to such methods, but we heard about your good luck on he radio and we need the tickets to fhloston.}
+<C>__{korben}
+<D>__{is that the usual way priests go on vacation?}
+<C>__{cornelius}
+<D>__{we're not going on vacation..we're on a mission..}
+<C>__{korben}
+<D>__{what kind of mission?}
+<C>__{cornelius}
+<P>__{(sincere)}
+<D>__{we have to save the world.}
+<C>__{korben}
+<P>__{(skeptical)}
+<D>__{good luck..}
+<C>__{cornelius}
+<D>__{of course.}
+<C>__{korben}
+<D>__{father, i was in the army for awhile and every time they told us we were on a mission to save the world the only thing that changed was i lost a lot of friends. so thanks for the offer.. but no thanks.}
+<A>__{cornelius is disappointed. leeloo looks crestfallen.}
+<C>__{korben}
+<D>__{i'm sorry..}
+<C>__{voice}
+<D>__{this is a police control action..}
+<A>__{everyone freezes as the whole building resounds with the electronic voice.}

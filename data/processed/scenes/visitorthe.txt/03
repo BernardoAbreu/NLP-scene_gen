@@ -1,0 +1,28 @@
+<L>__{interior walter's house day}
+<A>__{walter walks barbara to the front door. he opens it and then hands barbara some money.}
+<C>__{walter}
+<D>__{here.}
+<C>__{barbara}
+<D>__{thank you. next tuesday at the same time?}
+<C>__{walter}
+<D>__{no. i don't think i'm going to continue with our lessons.}
+<C>__{barbara}
+<D>__{oh, no. are you giving up?}
+<C>__{walter}
+<D>__{no.}
+<A>__{barbara gets the pointerior he is stopping with her, not the lessons.}
+<C>__{barbara}
+<D>__{oh. ok. goodbye.}
+<C>__{walter}
+<D>__{goodbye.}
+<A>__{barbara walks out the door and then turns before walter shuts it.}
+<C>__{barbara}
+<D>__{mr. vale? if i may ask, how many teachers have you had before me?}
+<C>__{walter}
+<D>__{four.}
+<C>__{barbara}
+<D>__{well, for what it's worth, it's difficult to learn an instrument at your age. especially if you don't possess a natural gift for it. i'm not saying this to be mean. but if you do decide to give up then i would really like to buy your piano. it's a beautiful instrument.}
+<A>__{walter nods, not quite sure how to receive the comment.}
+<C>__{barbara }
+<D>__{goodbye.}
+<A>__{barbara turns and leaves. walter shuts the door.}

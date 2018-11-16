@@ -1,0 +1,31 @@
+<L>__{interior corridor elevator}
+<A>__{they waste no time getting to the elevator. linda and matt step in.}
+<C>__{linda}
+<D>__{i will be right back with help.}
+<A>__{linda taps in his floor code.}
+<C>__{elevator }
+<D>__{authorization please.}
+<C>__{linda}
+<D>__{foster one delta eight three five.}
+<C>__{elevator }
+<D>__{authorization invalid. request denied.}
+<C>__{linda}
+<D>__{that's a first.}
+<A>__{linda taps the keypad again.}
+<C>__{elevator }
+<D>__{authorization please.}
+<C>__{linda}
+<D>__{foster one delta eight three five.}
+<C>__{elevator }
+<D>__{authorization invalid. request denied.}
+<C>__{matt}
+<D>__{let me try mine.}
+<A>__{matt hits buttons on the keypad.}
+<C>__{elevator }
+<D>__{authorization please.}
+<C>__{matt}
+<D>__{kensington two romeo one five nine.}
+<C>__{elevator }
+<D>__{authorization invalid. request denied.}
+<C>__{linda}
+<D>__{tell me this isn't happening.}

@@ -1,0 +1,216 @@
+<L>__{interior, living room leon's apartment}
+<A>__{leon enters the room. closes the door. ninotchka is examining the room.}
+<C>__{leon}
+<D>__{well, may i offer you a drink, or how about something to eat?}
+<C>__{ninotchka}
+<D>__{thank you. i've had all the calories necessary for today.}
+<A>__{leon feels a little uncertain as to how to approach this creature.}
+<C>__{ninotchka}
+<D>__{what do we do now?}
+<C>__{leon}
+<D>__{we take off our hat and coat.}
+<P>__{(he takes her things)}
+<D>__{we sit down we make ourselves comfortable. we adjust ourselves to the prospect of a most enjoyable evening. we look at each other. we smile.}
+<P>__{(ninotchka doesn't respond)}
+<D>__{well... we don't smile. how about some music?}
+<C>__{ninotchka}
+<D>__{is that customary?}
+<C>__{leon}
+<D>__{it helps. it has ever since king david wooed bathsheba with the harp. as i am not so fortunate as to have my harp at hand, i shall turn on the radio.}
+<C>__{ninotchka}
+<P>__{(the observer)}
+<D>__{i should say this room is eighteen by twenty five.}
+<C>__{leon}
+<D>__{not too big and not too small. what i'd call the typical room of an average man. or shall we say a little above average. now if there are any special aspects you wish to study i have nothing to conceal. just look around. that's my desk. those are my books, and here am i. where shall we begin?}
+<C>__{ninotchka}
+<D>__{i will start with you.}
+<C>__{leon}
+<D>__{that's great. i'm thirty five years old. just over six feet tall. i weigh a hundred and eighty two pounds stripped.}
+<C>__{ninotchka}
+<D>__{and what is your profession?}
+<C>__{leon}
+<D>__{keeping my body fit, keeping my mind alert, keeping my landlord appeased. that's a full time job.}
+<C>__{ninotchka}
+<D>__{and what do you do for mankind?}
+<C>__{leon}
+<D>__{for mankind not a thing for womankind the record is not quite so bleak.}
+<C>__{ninotchka}
+<D>__{you are something we do not have in russia.}
+<C>__{leon}
+<D>__{thank you. thank you.}
+<C>__{ninotchka}
+<D>__{that is why i believe in the future of my country.}
+<C>__{leon}
+<D>__{i begin to believe in it myself since i've met you. i still don't know what to make of it. it confuses me, it frightens me a little, but it fascinates me, ninotchka.}
+<C>__{ninotchka}
+<D>__{you pronounce it incorrectly. ni notchka.}
+<C>__{leon}
+<D>__{ni notchka.}
+<C>__{ninotchka}
+<D>__{that is correct.}
+<C>__{leon}
+<D>__{ninotchka, do you like me just a little bit?}
+<C>__{ninotchka}
+<D>__{your general appearance is not distasteful.}
+<C>__{leon}
+<D>__{thank you.}
+<C>__{ninotchka}
+<D>__{look at me. the whites of your eyes are clear. your cornea is excellent.}
+<C>__{leon}
+<D>__{your cornea is terrific. tell me you're so expert on things can it be that i'm falling in love with you?}
+<C>__{ninotchka}
+<D>__{you are bringing in wrong values. love is a romantic designation for a most ordinary biological, or shall we say chemical, process. a lot of nonsense is talked and written about it.}
+<C>__{leon}
+<D>__{oh, i see. what do you use instead?}
+<C>__{ninotchka}
+<D>__{i acknowledge the existence of a natural impulse common to all.}
+<C>__{leon}
+<D>__{what can i possibly do to encourage such an impulse in you?}
+<C>__{ninotchka}
+<D>__{you don't have to do a thing. chemically we are already quite sympathetic.}
+<C>__{leon}
+<P>__{(bewildered, and yet completely intrigued)}
+<D>__{you're the most improbable creature i've ever met in my life, ninotchka, ninotchka...}
+<C>__{ninotchka}
+<D>__{you repeat yourself.}
+<C>__{leon}
+<D>__{i'd like to say it a thousand times.}
+<C>__{ninotchka}
+<D>__{don't do it, please.}
+<C>__{leon}
+<D>__{i'm at a loss, ninotchka. you must forgive me if i appear a little old fashioned. after all, i'm just a poor bourgeois.}
+<C>__{ninotchka}
+<D>__{it's never too late to change. i used to belong to the petty bourgeoisie myself. my father and mother wanted me to stay and work on the farm, but i preferred the bayonet.}
+<C>__{leon}
+<P>__{(bewildered)}
+<D>__{the bayonet? did you really?}
+<C>__{ninotchka}
+<D>__{i was wounded before warsaw.}
+<C>__{leon}
+<D>__{wounded? how?}
+<C>__{ninotchka}
+<D>__{i was a sergeant in the third cavalry brigade. would you like to see my wound?}
+<C>__{leon}
+<P>__{(dumfounded)}
+<D>__{i'd love to.}
+<P>__{(she pulls the blouse}
+<D>__{off her shoulder and}
+<P>__{shows him her scar)}
+<D>__{tsk, tsk, tsk.}
+<C>__{ninotchka}
+<D>__{a polish lancer. i was sixteen.}
+<C>__{leon}
+<D>__{poor ninotchka. poor, poor ninotchka.}
+<C>__{ninotchka}
+<P>__{(readjusting her blouse)}
+<D>__{don't pity me. pity the polish lancer. after all, i'm alive.}
+<A>__{more and more puzzled and fascinated, leon sits down close to her.}
+<C>__{leon}
+<D>__{what kind of a girl are you, anyway?}
+<C>__{ninotchka}
+<D>__{just what you see. a tiny cog in the great wheel of evolution.}
+<C>__{leon}
+<D>__{you're the most adorable cog i ever saw in my life. ninotchka, cogitska, let me confess something. never did i dream i could feel like this toward a sergeant.}
+<A>__{a clock strikes.}
+<C>__{leon}
+<D>__{do you hear that?}
+<C>__{ninotchka}
+<D>__{it's twelve o'clock.}
+<C>__{leon}
+<D>__{it's midnight. one half of paris is making love to the other half. look at the clock. one hand has met the other hand. they kiss. isn't that wonderful?}
+<C>__{ninotchka}
+<D>__{that's the way a clock works. there's nothing wonderful about it. you merely feel you must put yourself in a romantic mood to add to your exhilaration.}
+<C>__{leon}
+<D>__{i can't possibly think of a better reason.}
+<C>__{ninotchka}
+<D>__{it's false sentimentality.}
+<C>__{leon}
+<P>__{(trying desperately}
+<D>__{to make her mood}
+<P>__{more romantic)}
+<D>__{you analyze everything out of existence. you analyze me out of existence. i won't let you. love is not so simple. ninotchka, ninotchka, why do doves bill and coo? why do snails, coldest of all creatures, circle interminably around each other? why do moths fly hundreds of miles to find their mates? why do flowers open their petals? oh, ninotchka, ninotchka, surely you feel some slight symptom of the divine passion... a general warmth in the palms of your hands... a strange heaviness in your limbs... a burning of the lips that is not thirst but a thousand times more tantalizing, more exalting, than thirst?}
+<A>__{he pauses, waiting for the results of his speech.}
+<C>__{ninotchka}
+<D>__{you are very talkative.}
+<A>__{that is too much for leon. he takes her into his arms and kisses her.}
+<C>__{leon}
+<D>__{was that talkative?}
+<C>__{ninotchka}
+<D>__{no, that was restful. again.}
+<A>__{leon kisses her again.}
+<C>__{ninotchka}
+<D>__{thank you.}
+<C>__{leon}
+<D>__{oh, my barbaric ninotchka. my impossible, unromantic, statistical...}
+<A>__{the telephone rings.}
+<C>__{leon}
+<P>__{(continuing)}
+<D>__{glorious, analytical...}
+<C>__{ninotchka}
+<D>__{the telephone is ringing.}
+<C>__{leon}
+<D>__{oh, let it ring.}
+<C>__{ninotchka}
+<D>__{but one of your friends may be in need of you. you must answer.}
+<A>__{leon exits out of shot to answer telephone. close shot at desk leon enters, sits down, takes the telephone.}
+<C>__{leon}
+<P>__{(into phone)}
+<D>__{hello?... yes... i'm sorry but i couldn't make it. i ran into a friend from the army... what?... the deal is off! are you crazy, buljanoff?...}
+<A>__{close up ninotchka she is startled by the name. leon at telephone}
+<C>__{leon}
+<D>__{...a special envoy arrived... what?... that sounds better. i will be glad to see her any time she wants... oh, she doesn't want to see me? what do you know about that? why?... well, i will get in touch with her myself. what's her name?...}
+<P>__{(he takes a pencil and a piece of paper)}
+<D>__{...what?... yaku... how do you spell it?... heavens! those russian names!}
+<P>__{(he starts to write it down)}
+<D>__{...i... oh, y...}
+<A>__{camera pulls back and ninotchka enters the shot. she takes pencil from leon's hand, writes out the name, and leaves again. at first leon is not aware of the full significance of her action. then it dawns on him.}
+<C>__{leon}
+<P>__{(continuing)}
+<D>__{yakushova... ninotch...}
+<A>__{at last the situation is entirely clear to him.}
+<C>__{leon}
+<P>__{(into phone)}
+<D>__{all right. thank you.}
+<A>__{he hangs up and stares at ninotchka. she is putting on her jacket.}
+<C>__{leon}
+<P>__{(camera panning with}
+<D>__{him as he walks over}
+<P>__{to her)}
+<D>__{ninotchka...}
+<A>__{he takes her arm.}
+<C>__{ninotchka}
+<D>__{i must go.}
+<C>__{leon}
+<D>__{ninotchka, or shall i say special envoy yakushova...}
+<C>__{ninotchka}
+<D>__{let's forget that we ever met.}
+<C>__{leon}
+<D>__{i have a better suggestion. let's forget that the telephone ever rang. i never heard that you are yakushova... you are ninotchka... my ninotchka...}
+<C>__{ninotchka}
+<P>__{(firmly)}
+<D>__{i was sent here by my country to fight you.}
+<C>__{leon}
+<D>__{all right, fight me, fight me as much as you want, but fight me tomorrow morning! there's nothing sweeter than sharing a secret with a bitter enemy.}
+<C>__{ninotchka}
+<P>__{(uncompromisingly)}
+<D>__{as a representative of moscow...}
+<C>__{leon}
+<D>__{tonight let's not represent anybody but ourselves.}
+<C>__{ninotchka}
+<D>__{it is out of the question. if you wish to approach me...}
+<C>__{leon}
+<D>__{you know i want to...}
+<C>__{ninotchka}
+<D>__{then do it through my lawyer!}
+<C>__{leon}
+<P>__{(desperate)}
+<D>__{ninotchka, you can't walk out like this... i'm crazy about you, and i thought i'd made an impression on you. you liked the white of my eye.}
+<A>__{ninotchka looks at him for a second, then pulls herself together.}
+<C>__{ninotchka}
+<D>__{i must go.}
+<A>__{she starts for the door.}
+<C>__{leon}
+<D>__{but, ninotchka, i held you in my arms. you kissed me!}
+<C>__{ninotchka}
+<D>__{i kissed the polish lancer too... before he died.}
+<A>__{as she goes out, we}

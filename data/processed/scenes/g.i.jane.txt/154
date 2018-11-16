@@ -1,0 +1,26 @@
+<L>__{interior private staircase capitol bldg. day}
+<A>__{... down a private staircase...}
+<L>__{interior another corridor capitol bldg. day}
+<A>__{... and through a door marked "naval appropriation liaison office." it's not 30 seconds from dehaven's door.}
+<L>__{interior foyer dehaven's office capitol bldg. day}
+<C>__{secretary}
+<D>__{your name again?}
+<C>__{jordan}
+<D>__{lieutenant j.g. o'neil.}
+<A>__{in a side office, dehaven's aide overhears. he rises quickly and enters the foyer.}
+<C>__{dehaven's aide}
+<D>__{ms. o'neil. yes, of course. i'm douglas champeau. unfortunately, the senator is in chamber right now. how can i help you?}
+<C>__{jordan}
+<D>__{what chamber? which way is that?}
+<C>__{dehaven's aide}
+<D>__{i mean, she's on the floor of the senate.}
+<C>__{jordan}
+<D>__{okay, which way?}
+<C>__{dehaven's aide}
+<D>__{she really can't be disturbed. but if you care to wait, i will find you an office with a phone. it might be several hours, but }
+<A>__{a tourist pokes in.}
+<C>__{tourist}
+<D>__{'scuse me, but i'm here to pick up gallery tickets? are you...}
+<C>__{dehaven's aide}
+<D>__{see the secretary, please.}
+<A>__{over the aide's shoulder, jordan watches as... the tourist claims tickets. hold on the bureau near the secretary's desk where the tickets are stored.}

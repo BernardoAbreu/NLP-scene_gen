@@ -1,0 +1,71 @@
+<L>__{interior queens, diner later}
+<A>__{it's a dingy place occupied by truck drivers and factory workers. mouna sitting in a booth clutching a cup of tea. she looks very out of place. two detention center guards enter and sit down in a booth. mouna watches them. an arab waiter is cleaning the counter. he keeps looking at mouna.}
+<C>__{waiter}
+<D>__{do you need anything else?}
+<C>__{mouna}
+<D>__{no.}
+<C>__{waiter}
+<P>__{(in arabic)}
+<D>__{where are you from?}
+<C>__{mouna}
+<P>__{(in arabic)}
+<D>__{i am palestinian from damascus.}
+<C>__{waiter}
+<P>__{(in arabic)}
+<D>__{ah. i knew it. i am from egypt. alexandria. i'm nasim. why are you here?}
+<C>__{mouna}
+<P>__{(in arabic)}
+<D>__{i am visiting my son.}
+<C>__{nasim}
+<P>__{(in arabic)}
+<D>__{he is in detention.}
+<C>__{mouna}
+<P>__{(in arabic)}
+<D>__{yes.}
+<A>__{the waiter shakes his head.}
+<C>__{nasim}
+<P>__{(in arabic)}
+<D>__{it's a bad place. i'm lucky. i have a green card.}
+<A>__{he nods to the guards.}
+<C>__{nasim }
+<P>__{(in arabic)}
+<D>__{they're the ones taking care of your son. they come here everyday. they don't tip.}
+<A>__{mouna is uncomfortable.}
+<C>__{nasim }
+<P>__{(in arab)}
+<D>__{don't worry. they can't understand us.}
+<A>__{walter enters and walks over to mouna's booth.}
+<C>__{nasim }
+<D>__{hello, sir.}
+<A>__{walter nods and sits down. he hands mouna her letter.}
+<C>__{mouna}
+<D>__{how is he?}
+<C>__{walter}
+<D>__{he's good but he's concerned about you being here.}
+<C>__{mouna}
+<D>__{i will not leave.}
+<C>__{walter}
+<D>__{mrs. khalil, i'm not sure that your being in new york will do any good. we have a very good lawyer working on tarek's case...}
+<C>__{mouna}
+<P>__{(politely but forceful)}
+<D>__{mr. vale, i cannot go back to michigan knowing that my son is in that building. even if i can't see him, i will stay.}
+<A>__{she stands up, ready to leave.}
+<C>__{mouna }
+<D>__{shall we go?}
+<A>__{walter stands. mouna digs in her purse.}
+<C>__{nasim}
+<P>__{(in arabic)}
+<D>__{the tea is on me.}
+<C>__{mouna}
+<P>__{(in arabic)}
+<D>__{thank you.}
+<C>__{nasim}
+<P>__{(in arabic)}
+<D>__{is that your lawyer? or your husband?}
+<C>__{mouna}
+<P>__{(in arabic)}
+<D>__{goodbye.}
+<C>__{nasim}
+<P>__{(in arabic)}
+<D>__{see you next time.}
+<A>__{walter follows mouna out.}

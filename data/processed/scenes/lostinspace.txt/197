@@ -1,0 +1,34 @@
+<L>__{interior corridor}
+<A>__{will walks down the corridor. (over) the knocking continues. will follows the sound until he comes to the door of smith's prison. smith is visible through the door window, sitting at a table, hammering out the code with his boot. he beckons will inside. will shakes his head. smith begins tapping again.}
+<C>__{will}
+<P>__{(sounding out the code)}
+<D>__{danger.}
+<L>__{interior smith's cell}
+<A>__{the door slides open and will enters, a laser pistol in hand.}
+<C>__{will}
+<D>__{you said someone is in danger.}
+<C>__{smith}
+<D>__{we all are. you are wise to arm yourself.}
+<A>__{smith eyes the weapon, moving towards the boy.}
+<C>__{will}
+<D>__{this gun is set to fire for me only so don't try anything funny.}
+<A>__{smith barely misses a beat as he adjusts, passing the child, going instead to the window and opening the blast shield.}
+<C>__{smith}
+<D>__{william, you misjudge me. i only want to help you.}
+<C>__{will}
+<D>__{help us? you tried to kill us all.}
+<C>__{smith}
+<D>__{but now our fates are intertwined. if your father and that idiot west fail, i will have no chance of getting home. it is in my best interests they succeed. and i always follow my best interests.}
+<A>__{smith gazes out at the exotic terrain. (over) an inhuman wail.}
+<C>__{smith}
+<D>__{what monsters roam these alien wilds? fools. to set off blindly across this savage land. much as i hate to admit it, it will be harder to manage without them.}
+<C>__{will}
+<D>__{what are you talking about? they'll be back. they'll be okay.}
+<A>__{smith is silent. a long, lethal beat.}
+<C>__{will}
+<D>__{someone should go after them.}
+<C>__{smith}
+<D>__{will, i forbid it. you're a boy. a clever one, certainly, but a child nonetheless. this planet is likely full of predators. even if you found them, what if they're hurt, ravaged, dying, what good could you do?}
+<C>__{will}
+<D>__{but you're a doctor.}
+<A>__{smith turns away, hiding his smile.}

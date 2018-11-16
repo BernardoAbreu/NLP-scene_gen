@@ -1,0 +1,26 @@
+<L>__{interior ar county community health center hallway day}
+<A>__{curtis walks down the hallway to kendra's office. the door ajar, he knocks and enters.}
+<L>__{interior kendra's office continuous}
+<A>__{curtis finds andy(42), a man in khakis and a button up, sitting behind the desk.}
+<C>__{curtis}
+<D>__{oh, `scuse me.}
+<A>__{andy rises from his chair.}
+<C>__{andy}
+<D>__{are you curtis?}
+<C>__{curtis}
+<D>__{yeah.}
+<C>__{andy}
+<D>__{come in. kendra transferred out. i will be meeting with you today.}
+<A>__{curtis looks at the man. he's kind of mincing.}
+<C>__{andy }
+<D>__{please, sit down.}
+<A>__{curtis takes a seat.}
+<C>__{curtis}
+<D>__{what happened to kendra?}
+<C>__{andy}
+<D>__{she got into a program at osu so she'll be transferring near there. i've split her case load with another counselor. it's been kind of crazy around here lately.}
+<C>__{curtis}
+<D>__{huh.}
+<C>__{andy}
+<D>__{so i've looked over your file. it says your mother was diagnosed with paranoid schizophrenia in her early thirties. let's start there.}
+<A>__{curtis looks at the man for a moment, then stands and walks out of the room.}

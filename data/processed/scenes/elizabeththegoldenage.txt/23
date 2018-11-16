@@ -1,0 +1,17 @@
+<L>__{interior antechamber, whitehall palace day}
+<A>__{bess throckmorton is late. she comes running through the crowd of lesser petitioners who wait in the hope of gaining access to the queen. she passes calley, the two native americans, and a group of sailors holding large hampers. raleigh is trying to persuade the doorkeeper to let him past.}
+<C>__{doorkeeper}
+<D>__{you'll have to see the lord chamberlain, sir.}
+<A>__{he indicates a portly man surrounded by petitioners, beyond the open doors to the inner rooms.}
+<C>__{raleigh}
+<D>__{how am i to see him if you won't let me through?}
+<C>__{doorkeeper}
+<D>__{you must wait for him to come out, sir.}
+<C>__{raleigh}
+<D>__{and when will he come out?}
+<C>__{doorkeeper}
+<D>__{there's no way of knowing that, sir.}
+<A>__{the doorkeeper stands aside for bess. she recognises raleigh, and throws him a smile before rushing past.}
+<C>__{raleigh}
+<P>__{(as if to calley)}
+<D>__{i had less trouble than this boarding a spanish ship! everything is easier when you can kill people.}

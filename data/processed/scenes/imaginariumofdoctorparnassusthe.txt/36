@@ -1,0 +1,151 @@
+<L>__{ext derelict buildings dawn}
+<A>__{the wagon stands, hidden, among deserted derelict buildings. all is quiet. the lid of the big travelling trunk slowly opens. the man struggles out. his neck is sore, his wrists ache and his head is bruised. he hasn't a clue where he is. he tries to make sense of the wagon, the grazing horses, the derelict buildings. some distance away a bizarre, horned and tailed creature is involved in a strange contorted dance. hoping to avoid the creature, the man starts to move away but is stopped by a squeaky voice behind him.}
+<C>__{percy }
+<D>__{hey, you!}
+<A>__{the man turns around to find percy looking at him.}
+<C>__{percy }
+<D>__{i suppose somebody saves your life everyday of the week.}
+<C>__{man}
+<P>__{(croaking)}
+<D>__{what?}
+<A>__{he can hardly speak. it hurts him to do so.}
+<C>__{percy}
+<D>__{too much like routine to bother with a thank you.}
+<C>__{man}
+<P>__{(with difficulty)}
+<D>__{who are you?}
+<C>__{percy}
+<D>__{percival st. antoine della touraine et sansepolcro da piemonte the third. if that proves too difficult, you may call me percy.}
+<C>__{man}
+<D>__{where are we?}
+<C>__{percy}
+<D>__{geographically, in the northern hemisphere. socially, on the margins. narratively, with some way to go. and your name is...}
+<C>__{man}
+<P>__{(appalled)}
+<D>__{i... i can't remember.}
+<C>__{percy}
+<D>__{that's handy.}
+<A>__{percy whistles to the dancing creature, who turns and approaches. the man is getting very nervous.}
+<C>__{percy }
+<D>__{any credit cards?}
+<C>__{man}
+<D>__{what?..oh..ok... you can have whatever you want.. just don't..}
+<C>__{percy}
+<D>__{...with your name on them.}
+<C>__{man}
+<D>__{ah...right.. good idea.}
+<P>__{(searching his pockets)}
+<C>__{man }
+<D>__{my wallet... it's gone. nothing. i've been robbed.}
+<C>__{percy}
+<D>__{don't look at us.}
+<C>__{creature}
+<D>__{what's your name?}
+<C>__{percy}
+<P>__{(sceptical)}
+<D>__{he can't remember.}
+<A>__{suddenly a mobile phone starts ringing. they all look at each other. it's in the man's pocket. but, he doesn't move. the creature takes his head off ..it's anton.}
+<C>__{anton}
+<D>__{might be for you.}
+<C>__{percy}
+<D>__{they'll know who you are.}
+<A>__{the man still doesn't move. anton reaches over and tries to find the phone in the man's pockets. the man tries to push him off and find the phone himself. the phone is retrieved but, in the struggle to answer it, it's dropped. a woman speaking russian can be heard from the phone. as anton and the man dive for it, the man `accidently' steps on it. the phone is crushed.}
+<C>__{percy }
+<D>__{pity.. i speak russian.}
+<A>__{anton and percy glare with deep suspicion at the man.}
+<C>__{dr. parnassus }
+<D>__{dammit! i told you to leave him. he was dead.}
+<A>__{dr. parnassus, holding a cold, damp towel to his throbbing head, appears, coughing and miserable from the wagon.}
+<C>__{percy}
+<D>__{well, we didn't and he isn't.}
+<C>__{anton}
+<D>__{he was hanging under the b bridge.}
+<C>__{doctor parnassus}
+<D>__{hanging?}
+<C>__{percy}
+<P>__{(handing parnassus the noose)}
+<D>__{by his neck. until dead. if we'd had any sense.}
+<A>__{anton produces the bricks with strange markings that were in the man's pockets.}
+<C>__{anton}
+<D>__{we found these in his p pockets.}
+<A>__{doctor parnassus examines the bricks with great interest. he pulls out the hanged man card and compares it's arcane details a noose, strangely marked shapes like bricks, a metal tube to the objects found on the man.}
+<C>__{doctor parnassus}
+<D>__{the hanged man!}
+<C>__{valentina}
+<D>__{is he okay?}
+<A>__{she appears from inside the wagon.}
+<C>__{valentina }
+<P>__{(to man)}
+<D>__{are you alright?}
+<C>__{man}
+<D>__{yes... thank you.}
+<C>__{valentina}
+<P>__{(to parnassus who is in deep thought)}
+<D>__{he tried to kill himself.}
+<C>__{anton}
+<D>__{with his hands t tied behind his b back?}
+<A>__{they all look at one another. good pointerior}
+<C>__{percy}
+<D>__{actually, i saw that trick performed many years ago at....}
+<C>__{anton}
+<D>__{s somebody was trying to k kill him.}
+<C>__{valentina}
+<D>__{my god... that's exciting.}
+<C>__{anton}
+<D>__{we c can't let him stay with us.}
+<C>__{valentina}
+<D>__{why not?}
+<C>__{anton}
+<D>__{we d don't know what this is about, who he is, what he m might have done...}
+<C>__{man}
+<P>__{(croaking)}
+<D>__{i haven't done anything. i'm sure. i hope. please... give me the benefit of the doubt.}
+<A>__{percy and anton exchange knowing looks.}
+<C>__{valentina}
+<P>__{(appealing to parnassus)}
+<D>__{father?}
+<A>__{doctor parnassus, looking up from his study of the bricks and noose, takes the man aside, looks closely, trying to read the strange markings on his forehead.}
+<C>__{doctor parnassus}
+<D>__{these marks... i recognize them.}
+<C>__{man}
+<P>__{(puzzled)}
+<D>__{marks?}
+<A>__{the man wipes his hand across his forehead. looks at his inky hand.. confused.}
+<C>__{doctor parnassus}
+<P>__{(sotto voce)}
+<D>__{you've been sent by mr nick.}
+<C>__{man}
+<P>__{(puzzled)}
+<D>__{mr nick?}
+<C>__{doctor parnassus}
+<P>__{(impassioned)}
+<D>__{don't toy with me. tell me you're an emissary from mr nick.}
+<C>__{doctor parnassus }
+<D>__{tell me you've come with a proposition. tell me what i want to hear!}
+<A>__{tony doesn't know what dr parnassus in talking about but he grasps the fact that if he wants to be allowed to stay here he needs to play along.}
+<C>__{man}
+<D>__{yes.}
+<C>__{dr. parnassus}
+<D>__{thank god! thank god! thank god for that!}
+<A>__{doctor parnassus takes percy aside, shows him the hanged man tarot card and indicates the man with a nod.}
+<C>__{doctor parnassus}
+<D>__{he's from mr nick.}
+<C>__{percy}
+<D>__{no he's not.}
+<C>__{doctor parnassus}
+<D>__{he's come with a proposal.}
+<C>__{percy}
+<D>__{no he hasn't.}
+<C>__{doctor parnassus}
+<D>__{all is not lost.}
+<C>__{percy}
+<D>__{what proposal?}
+<C>__{valentina}
+<D>__{father?}
+<C>__{doctor parnassus}
+<P>__{(looking at the card, then to the man)}
+<D>__{you're welcome.}
+<C>__{man}
+<P>__{(croaking)}
+<D>__{thank you.}
+<A>__{percy groans and tears his hair. valentina is pleased. anton is not. valentina kisses parnassus on the cheek.}

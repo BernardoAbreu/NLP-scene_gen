@@ -1,0 +1,29 @@
+<L>__{interior ellis entrance lobby day}
+<A>__{the lobby has institutional chairs and few vending machines. to one side is a guard's counter and a walk through metal detector. they enter and make their way toward the counter.}
+<C>__{grover}
+<D>__{this changes for no man. you're not carryin' a weapon are you?}
+<C>__{bitsey}
+<D>__{no.}
+<C>__{grover}
+<D>__{mr. stemmons, you packin'?}
+<C>__{zack}
+<D>__{no, sir.}
+<A>__{they arrive at the counter. behind it are two guards, one male, one female.}
+<C>__{grover}
+<P>__{(to the guards)}
+<D>__{clarence. karla. new york guests for mr. gale.}
+<C>__{clarence }
+<D>__{may i see your purse, ma'am.}
+<C>__{grover}
+<P>__{(to bitsey, indicating the metal detector)}
+<D>__{go on and walk through.}
+<A>__{grover keeps talking as he walks around the detector and waits for her.}
+<C>__{grover}
+<D>__{now, should any kinda of unpleasantness occur in the visitation area, we ask that you stay put. come on through, mr. stemmons. and please follow the instructions of these fine correctional officers should they see fit to give you any.}
+<C>__{clarence}
+<P>__{(handing her the purse)}
+<D>__{here you go, ma'am.}
+<A>__{he leads them down the hall.}
+<C>__{grover}
+<D>__{anythin' you say can be overheard.}
+<A>__{and any discussion of criminal activity on your part is admissible. not plannin' a jailbreak are you, bitsey?}

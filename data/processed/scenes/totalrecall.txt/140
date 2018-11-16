@@ -1,0 +1,24 @@
+<L>__{interior corridor level one}
+<A>__{alarms go off everywhere. quail carrying a gun and all the grenades and ammo belts and melina (just carrying a gun) bolt down a corridor past a sign: "level one".}
+<C>__{melina}
+<P>__{(running)}
+<D>__{where'd you get that little trick?}
+<C>__{quail}
+<P>__{(running)}
+<D>__{mail order company. it's a great one for fooling the wife.}
+<L>__{interior control room (level thirteen)}
+<A>__{cohaagen and his aides hear the alarms, see quail and melina on monitors as they race down the corridor on level one.}
+<C>__{cohaagen}
+<D>__{how the hell did they get in?}
+<C>__{security aide}
+<D>__{up the fusion core.}
+<C>__{cohaagen}
+<D>__{up the fusion core??}
+<A>__{he exhibits begrudging admiration for quail.}
+<C>__{security aide}
+<P>__{(studies monitor more carefully)}
+<D>__{they're on level one.}
+<A>__{a wall sign behind cohaagen reads: "level thirteen".}
+<C>__{cohaagen}
+<D>__{seal all upper levels.}
+<A>__{a button is pressed and huge doors slide across in front of the formidable doors already closing the control room off from the outside corridors.}

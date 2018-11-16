@@ -1,0 +1,520 @@
+<L>__{interior press room}
+<A>__{taking in door as it opens and mrs. baldwin, followed by the policemen, comes in.}
+<C>__{hildy}
+<P>__{(leaping forward)}
+<D>__{mother!}
+<C>__{mrs. baldwin}
+<P>__{(pointing out burns to the officers)}
+<D>__{that man there!}
+<C>__{hildy}
+<P>__{(hugging mrs. baldwin)}
+<D>__{mother! oh, i'm so glad to see you! are you all right? tell me.}
+<A>__{mrs. baldwin indignantly shakes her off.}
+<C>__{hartman}
+<D>__{what's the idea here?}
+<C>__{policeman}
+<D>__{this lady claims she was kidnapped.}
+<C>__{hartman}
+<D>__{what?}
+<C>__{mrs. baldwin}
+<D>__{they dragged me all the way down the stairs }
+<C>__{hartman}
+<D>__{just a minute. did did }
+<P>__{(points to burns)}
+<D>__{ this man have anything to do with it?}
+<C>__{mrs. baldwin}
+<D>__{he was the one in charge of everything! he told them to kidnap me!}
+<C>__{burns}
+<P>__{(amazed)}
+<D>__{are you referring to me, madam?}
+<C>__{mrs. baldwin}
+<D>__{you know you did!}
+<C>__{hartman}
+<D>__{what about this, burns? kidnapping, eh?}
+<C>__{burns}
+<P>__{(round eyed)}
+<D>__{oh, trying to frame me, eh! i never saw this woman before in my life!}
+<C>__{mrs. baldwin}
+<D>__{oh, what a thing to say! i was standing right here after the girl jumped out of the window.}
+<C>__{hartman}
+<D>__{did you get the mayor?}
+<C>__{deputy}
+<D>__{he's coming over.}
+<C>__{burns}
+<P>__{(to mrs. baldwin)}
+<D>__{now, madam be honest. if you were out joy riding, drunk, and got into some scrape, why don't you admit it, instead of accusing innocent people?}
+<C>__{mrs. baldwin}
+<P>__{(beginning to doubt her senses)}
+<D>__{you ruffian! how dare you say a thing like that?}
+<C>__{hilda}
+<D>__{please, mother, he's just crazy!}
+<C>__{mrs. baldwin}
+<P>__{(to sheriff)}
+<D>__{i will tell you something more. i will tell you why they did it!}
+<C>__{burns}
+<P>__{(fidgeting)}
+<D>__{come on, sheriff. we've got to get bail.}
+<C>__{mrs. baldwin}
+<P>__{(continuing crescendo)}
+<D>__{i was in here and they had some kind of murderer in with them. they were hiding him!}
+<A>__{this is a bombshell. the room is electrified.}
+<C>__{hartman}
+<D>__{hiding him? in here?}
+<A>__{murphy, followed by the reporters, comes into scene.}
+<C>__{murphy}
+<D>__{hiding him where?}
+<C>__{hildy}
+<D>__{mother!}
+<C>__{reporters}
+<D>__{where was he?... where'd they have him?... etc.}
+<B>__{close shot burns}
+<A>__{at the desk.}
+<C>__{burns}
+<P>__{(with superb indignation)}
+<D>__{madam, you're a cockeyed liar! and you know it!}
+<A>__{to emphasize his righteousness, he pounds on the desk three times, forgetting that that is his signal to williams. then, realizing what he has done, he gasps.}
+<B>__{med. shot}
+<A>__{burns advances from desk, the others retreating before him.}
+<C>__{burns}
+<P>__{(anxiously)}
+<D>__{come on, sheriff, we've got to get bail.}
+<A>__{three answering knocks come from the desk.}
+<B>__{group shot with doorway in b.g}
+<A>__{they jump around to face the desk.}
+<C>__{hartman}
+<P>__{(whispering)}
+<D>__{what was that?}
+<C>__{reporters ad lib}
+<D>__{he's in the desk! for the love of he's in there! etc.}
+<C>__{hartman}
+<D>__{aha! i thought so! stand back, everybody!}
+<C>__{deputy}
+<D>__{look out, sheriff. he may shoot!}
+<C>__{hartman}
+<D>__{get your guns out!}
+<A>__{the policemen and deputies get out their guns.}
+<C>__{hildy}
+<D>__{he's harmless.}
+<C>__{hartman}
+<D>__{don't take any chances. shoot through the desk.}
+<C>__{hildy}
+<D>__{he can't hurt anybody. you've got his gun.}
+<C>__{mrs. baldwin}
+<P>__{(panic stricken)}
+<D>__{oh, dear! oh, dear!}
+<C>__{burns}
+<D>__{you grey haired old judas!}
+<C>__{mrs. baldwin}
+<D>__{let me out! let me out of here!}
+<A>__{she streaks for the door, flings it open and goes. the reporters tear out of scene to their telephones.}
+<C>__{hartman}
+<P>__{(to policeman)}
+<D>__{you stand there!}
+<C>__{murphy's voice}
+<D>__{city desk! quick!}
+<C>__{schwartz' voice}
+<D>__{gimme the desk!}
+<C>__{hartman}
+<P>__{(to another policeman)}
+<D>__{you there!}
+<C>__{endicott's voice}
+<D>__{city desk! hurry!}
+<C>__{mccue's voice}
+<D>__{gimme emil...}
+<C>__{hartman}
+<P>__{(to a deputy, pointing}
+<D>__{with his gun toward}
+<P>__{the window)}
+<D>__{you cover the window.}
+<C>__{murphy's voice}
+<D>__{look out where you're pointing that gun!}
+<A>__{the sheriff draws his men in around the desk, their guns drawn on it.}
+<C>__{wilson's voice}
+<D>__{lemme have the desk! quick!}
+<C>__{murphy's voice}
+<D>__{hold the wire! i've got a flash for you!}
+<C>__{burns}
+<P>__{(to hildy)}
+<D>__{call duffy!}
+<C>__{hartman}
+<D>__{no, you don't!}
+<C>__{burns}
+<P>__{(to sheriff, furiously)}
+<D>__{do you want to get us scooped?}
+<C>__{mccue's voice}
+<D>__{emil? hang on for a second.}
+<C>__{hartman}
+<D>__{now then, everybody aim at the center. and when i say three }
+<C>__{hildy}
+<D>__{that's murder!}
+<C>__{hartman}
+<P>__{(changing his mind)}
+<D>__{all right! carl! frank! one of you get on each side of the desk. take hold of the cover.}
+<A>__{they do.}
+<C>__{hartman}
+<D>__{now then! we got you covered, williams. don't try to move. now! everybody quiet and ready for an emergency. i'm going to count three.}
+<C>__{schwartz}
+<D>__{hold it! something coming up.}
+<C>__{hartman}
+<D>__{one!}
+<C>__{endicott}
+<D>__{hold the phone!}
+<C>__{murphy}
+<P>__{(into the phone)}
+<D>__{i will have it in a minute.}
+<C>__{hartman}
+<D>__{two!}
+<C>__{wilson}
+<P>__{(into phone)}
+<D>__{right away now!}
+<C>__{hartman}
+<P>__{(turning back to desk)}
+<D>__{everybody ready? all right. now then, up with it.}
+<A>__{two deputies raise the cover. williams is revealed, cowering in the desk, his hands over his face. the sheriff rushes on him, jabbing his gun into him.}
+<B>__{close shot sheriff and williams}
+<C>__{hartman}
+<D>__{got you, williams!}
+<C>__{williams}
+<P>__{(a wail)}
+<D>__{go on shoot me!}
+<B>__{medium shot}
+<A>__{as the police and deputies come in to assist the sheriff. the reporters are telephoning in, the police shouting all the voices mixing in, in incredible confusion, as the sheriff rushes williams to the door and takes him out.}
+<C>__{murphy's voice}
+<D>__{earl williams was just captured in the press room of the criminal courts building, hiding in a desk.}
+<C>__{officers ad lib}
+<P>__{(all talking at once)}
+<D>__{grab him! that's him! don't let him shoot! stick 'em up! etc.}
+<B>__{closeup mccue at phone}
+<C>__{mccue}
+<P>__{(into phone)}
+<D>__{...williams in a rolltop }
+<B>__{closeup wilson at phone}
+<C>__{wilson}
+<P>__{(into phone)}
+<D>__{ nabbed williams hiding }
+<C>__{endicott's voice}
+<D>__{ found williams' hiding place.}
+<C>__{schwartz' voice}
+<D>__{he offered no resistance.}
+<B>__{closeup mccue at phone}
+<C>__{mccue}
+<P>__{(into phone)}
+<D>__{williams put up a desperate struggle but the police overpowered }
+<B>__{closeup murphy at phone}
+<C>__{murphy}
+<P>__{(into phone)}
+<D>__{ tried to shoot it out with the cops but his gun wouldn't work, so }
+<C>__{wilson's voice}
+<D>__{ trying to break through the cordon of police }
+<B>__{closeup endicott at phone}
+<C>__{endicott}
+<P>__{(into phone)}
+<D>__{williams was unconscious when they opened the desk }
+<B>__{closeup burns}
+<A>__{grabbing the post phone.}
+<C>__{burns}
+<P>__{(into phone)}
+<D>__{duffy! the morning post just turned earl williams over to the sheriff.}
+<B>__{close shot the sheriff}
+<A>__{coming in the door with two policemen and leaping to get the phone away from burns. med. shot burns at phone, hildy beside him}
+<C>__{burns}
+<P>__{(into phone)}
+<D>__{duffy!}
+<A>__{the sheriff and police come into scene.}
+<C>__{hartman}
+<P>__{(indicating burns and hildy)}
+<D>__{put the cuffs on those two!}
+<A>__{the police handcuff hildy and burns.}
+<C>__{endicott}
+<D>__{an anonymous note received by the sheriff led to williams' capture. more later.}
+<A>__{he hangs up.}
+<B>__{closeup murphy at phone}
+<C>__{murphy}
+<P>__{(into phone)}
+<D>__{an old sweetheart of williams' doublecrossed him. call you back.}
+<A>__{he hangs up.}
+<B>__{med. shot taking in door}
+<C>__{reporters}
+<D>__{where's that old lady? hey, madam! where'd she go? where's the old dame? etc., etc. they run out after mrs. baldwin, the mayor entering just after they go. burns and hildy, handcuffed together, stand near the sheriff.}
+<C>__{hartman}
+<P>__{(into phone)}
+<D>__{hello, girlie gimme cooley. quick!}
+<C>__{burns}
+<D>__{hartwell, you're going to wish you'd never been born!}
+<A>__{the mayor comes into scene.}
+<C>__{mayor}
+<D>__{fine work, pete! you certainly delivered the goods. i'm proud of you.}
+<C>__{hartman}
+<P>__{(holding the phone)}
+<D>__{look kind o' natural, don't they, fred?}
+<C>__{mayor}
+<P>__{(happily)}
+<D>__{a sight for sore eyes!}
+<C>__{hartman}
+<P>__{(rolling in catnip)}
+<D>__{aiding an escaped criminal! and a little charge of kidnapping i'm looking into.}
+<P>__{(into phone; suddenly)}
+<D>__{but that's the jail! there must be somebody there!}
+<C>__{mayor}
+<D>__{well! looks like about ten years apiece for you birds!}
+<C>__{burns}
+<D>__{does it? you forget the power that always watches over the morning post.}
+<C>__{mayor}
+<D>__{your luck's not with you now!}
+<C>__{hartman}
+<P>__{(into phone)}
+<D>__{cooley?... i caught williams single handed we're going to proceed with the hanging per schedule!}
+<A>__{he wiggles the hook for another call.}
+<C>__{burns}
+<P>__{(to mayor)}
+<D>__{you're going to be in office for exactly two days more and then we're pulling your nose out of the feed bag.}
+<C>__{hartman}
+<P>__{(into phone)}
+<D>__{give me the district attorney's office.}
+<P>__{(to burns)}
+<D>__{i will tell you what you'll be doing making brooms in the state penitentiary.}
+<P>__{(into phone)}
+<D>__{hello, d'arrasty! this is hartwell. come over to my office, will you? i've just arrested a couple of important birds and i want to take their confessions.}
+<A>__{he hangs up. burns makes a sudden lunge for the morning post phone and cries into it.}
+<C>__{burns}
+<P>__{(into phone)}
+<D>__{duffy! get liebowitz!}
+<C>__{mayor}
+<D>__{all the lawyers in the world aren't going to help you!}
+<C>__{burns}
+<D>__{this is the morning post you're talking to!}
+<C>__{mayor}
+<P>__{(enjoying himself)}
+<D>__{the power of the press, huh!}
+<A>__{he laughs. pinkus, the governor's messenger, plentifully stewed, reels in the door. he approaches the mayor and sheriff who have their backs to him.}
+<C>__{burns}
+<P>__{(at the mayor)}
+<D>__{bigger men than you have found out what the power of the press is... president!... yes and kings!}
+<C>__{pinkus}
+<P>__{(woozy; handing sheriff}
+<D>__{the reprieve over}
+<P>__{his shoulder)}
+<D>__{here's your reprieve.}
+<A>__{the mayor and sheriff spin around.}
+<C>__{mayor}
+<P>__{(in a panic)}
+<D>__{get out of here!}
+<C>__{pinkus}
+<D>__{you can't bribe me!}
+<C>__{burns}
+<D>__{what's this?}
+<C>__{hartman}
+<D>__{get out of here, you!}
+<C>__{pinkus}
+<D>__{i won't. here's your reprieve.}
+<C>__{hildy}
+<D>__{what?}
+<C>__{pinkus}
+<D>__{i don't want to be city sealer. i don't like seals anyhow. they smell.}
+<C>__{mayor}
+<D>__{who is this man?}
+<C>__{hartman}
+<P>__{(to an officer)}
+<D>__{throw him out, frank.}
+<C>__{hildy}
+<P>__{(seizing pinkus with her free hand)}
+<D>__{who was bribing you?}
+<A>__{burns also seizes pinkus who is being pulled out of shape.}
+<C>__{pinkus}
+<D>__{they wouldn't take it.}
+<C>__{mayor}
+<D>__{you're insane!}
+<C>__{burns}
+<P>__{(triumphant)}
+<D>__{what did i tell you? an unseen power!}
+<P>__{(to pinkus)}
+<D>__{what's your name?}
+<C>__{pinkus}
+<D>__{silas f. pinkus.}
+<C>__{mayor}
+<D>__{you drunken idiot! arrest him! the idea of coming here with a cock and bull story like that!}
+<C>__{hartman}
+<D>__{it's a frame up! some imposter!}
+<C>__{hildy}
+<D>__{wait a minute!}
+<P>__{(to the officers)}
+<D>__{let go there!}
+<C>__{burns}
+<P>__{(to sheriff and mayor)}
+<D>__{murder, uh?}
+<C>__{hildy}
+<D>__{hanging an innocent man to win an election!}
+<C>__{hartman}
+<D>__{that's a lie!!}
+<C>__{mayor}
+<D>__{i never saw him before!}
+<C>__{burns}
+<P>__{(to pinkus)}
+<D>__{when did you deliver this first?}
+<C>__{hildy}
+<D>__{who did you talk to?}
+<C>__{pinkus}
+<D>__{they started right in bribing me!}
+<C>__{hildy}
+<D>__{who's 'they'?}
+<C>__{pinkus}
+<P>__{(indicating the mayor and sheriff)}
+<D>__{them!}
+<C>__{mayor}
+<D>__{that's absurd on the face of it, mr. burns! he's talking like a child.}
+<C>__{burns}
+<D>__{out of the mouths of babes.}
+<C>__{mayor}
+<D>__{he's insane or drunk or something. why, if this unfortunate man, williams, has really been reprieved, i personally am tickled to death. aren't you, pete?}
+<C>__{hildy}
+<D>__{go on, you'd kill your mother to get elected!}
+<C>__{mayor}
+<D>__{that's a horrible thing to say, miss johnson, about anybody!}
+<P>__{(to burns)}
+<D>__{now, look here, walter, you're an intelligent man }
+<C>__{burns}
+<P>__{(interrupting)}
+<D>__{just a minute.}
+<P>__{(to pinkus)}
+<D>__{all right, mr. pinkus. let's have your story.}
+<C>__{pinkus}
+<D>__{well, i been married for ten years and }
+<C>__{burns}
+<P>__{(interrupting)}
+<D>__{skip all that.}
+<C>__{mayor}
+<P>__{(loudly)}
+<D>__{take those handcuffs off our friends, pete. that wasn't at all necessary.}
+<C>__{hartman}
+<P>__{(springing to obey)}
+<D>__{i was just going to!}
+<A>__{he gets the key from the officer.}
+<C>__{mayor}
+<D>__{walter, i can't tell you how badly i feel about this. there was no excuse for hartwell to fly off the handle.}
+<C>__{hartman}
+<P>__{(unlocking the handcuffs)}
+<D>__{i was only doing my duty. nothing personal in it.}
+<A>__{they are set free.}
+<C>__{hildy}
+<D>__{you guys better quit politics and take in washing.}
+<C>__{mayor}
+<P>__{(looking over the reprieve)}
+<D>__{sheriff, this document is authentic! earl williams has been reprieved, this commonwealth has been spared the painful necessity of shedding blood.}
+<C>__{burns}
+<D>__{save that for the tribune.}
+<C>__{mayor}
+<P>__{(to pinkus)}
+<D>__{what did you say your name was pinkus?}
+<C>__{pinkus}
+<D>__{that's right.}
+<A>__{he shows the mayor a locket.}
+<C>__{pinkus}
+<D>__{here's the picture of my wife.}
+<C>__{mayor}
+<D>__{a very fine looking women.}
+<C>__{pinkus}
+<P>__{(mysteriously angered)}
+<D>__{she's good enough for me! and if i was to go home and tell my wife }
+<C>__{mayor}
+<D>__{i understand perfectly, mr. pinkus, and as long as i am mayor }
+<C>__{burns}
+<D>__{which ought to be about three hours more, i'd say.}
+<C>__{hildy}
+<D>__{just until we can get out a special edition asking for your impeachment.}
+<C>__{burns}
+<D>__{and your arrest. you'll each get about ten years, i think.}
+<C>__{mayor}
+<D>__{don't make any hasty decisions, mr. burns, you might run into a thumping big libel suit.}
+<C>__{hildy}
+<D>__{you're going to run into the governor.}
+<C>__{mayor}
+<P>__{(trying to brush it off)}
+<D>__{now, my old friend the governor and i understand each other perfectly.}
+<C>__{hartman}
+<P>__{(eagerly)}
+<D>__{and so do i!}
+<C>__{mayor}
+<P>__{(with superb contempt)}
+<D>__{so do you what, you hoodoo!}
+<P>__{(to pinkus, suavely)}
+<D>__{and now, mr. pinkus, if you'll come with us, we'll take you over to the warden's office and deliver this reprieve.}
+<A>__{the sheriff, pinkus and the mayor go out of scene.}
+<C>__{burns}
+<P>__{(dreamily)}
+<D>__{wait till those two future jailbirds read the morning post tomorrow.}
+<A>__{walter turns to hildy and they suddenly smile at each other.}
+<C>__{hildy}
+<D>__{how was that for a tight squeeze?}
+<C>__{burns}
+<D>__{don't tell me you were worried!}
+<C>__{hildy}
+<D>__{worried! i was petrified. weren't you?}
+<C>__{burns}
+<D>__{uh uh. as long as we were in there together pitching they couldn't lick us. well, it's been a lot of fun.}
+<C>__{hildy}
+<D>__{in a way.}
+<C>__{burns}
+<P>__{(laughs)}
+<D>__{i mean working together. just like the old days. the things we've been through, hildy.}
+<C>__{hildy}
+<D>__{we've certainly been in some swell jams.}
+<C>__{burns}
+<D>__{remember the time we broke into the d.a.'s office, and copied fifi randell's diary?}
+<C>__{hildy}
+<D>__{yeah. what about the time we hid the missing heiress in the sauerkraut factory? six scoop interviews!}
+<C>__{burns}
+<D>__{yeah but that time we stole old lady haggerty's stomach off the coroner's physician. we proved she was poisoned though, didn't we?}
+<C>__{hildy}
+<P>__{(laughing)}
+<D>__{we sure did, but we had to go in hiding for a week.}
+<C>__{burns}
+<D>__{in the shoreland hotel. and our only chaperon was the poor old lady's stomach.}
+<C>__{hildy}
+<D>__{don't remind me. that's how we happened to }
+<A>__{she breaks off. there is a moment's pause.}
+<C>__{burns}
+<D>__{sorry, hildy. i didn't mean to be making love to another man's fiancee.}
+<C>__{hildy}
+<D>__{that's all right, walter. it's as much my fault as yours.}
+<C>__{burns}
+<P>__{(glancing at the clock)}
+<D>__{bruce is making the nine o'clock train. i told him you'd be on it unless you want to write this story yourself.}
+<C>__{hildy}
+<D>__{well, if it's my last story, i'd like it to be a good one. but i guess i can't, walter.}
+<C>__{burns}
+<D>__{suit yourself, kid. this isn't for me to decide. of course, you could make a later train and still be in albany tomorrow morning.}
+<C>__{hildy}
+<D>__{yeah. i suppose i could. but, walter }
+<C>__{burns}
+<D>__{he's going to have you the rest of his life, hildy. can't you give me another hour?}
+<C>__{hildy}
+<D>__{i don't know what to do, walter.}
+<C>__{burns}
+<D>__{flip a coin.}
+<C>__{hildy}
+<D>__{all right.}
+<P>__{(takes coin from her bag)}
+<D>__{heads i go tails i stay to write the story. ready?}
+<B>__{closeup burns}
+<A>__{gazing nervously at the hand holding the coin.}
+<C>__{burns}
+<D>__{ready.}
+<B>__{close shot burns and hildy}
+<A>__{she flips and catches the coin. she holds it tightly clasped in her hand, afraid to look. they stare at each other a second.}
+<C>__{burns}
+<P>__{(nervously)}
+<D>__{well what is it?}
+<C>__{hildy}
+<P>__{(almost breaking)}
+<D>__{what's the difference? i'm going to write that story and you know it!}
+<A>__{she puts the coin away without looking at it. burns rushes to her, tries to take her in his arms.}
+<C>__{burns}
+<D>__{hildy!}
+<C>__{hildy}
+<P>__{(furiously)}
+<D>__{don't touch me! i'm not doing it for you!}
+<C>__{burns}
+<P>__{(softly)}
+<D>__{then why are you doing it?}
+<C>__{hildy}
+<D>__{because i'm a newspaper woman, heaven help me!}

@@ -1,0 +1,41 @@
+<L>__{exterior campus day}
+<A>__{knox exits one of the doors. the ground is covered with a thick layer of snow. he looks around to see if anyone is about and then hurries over to the bike rack. grabbing one of the bikes, he hurries off.}
+<L>__{interior school hallway day}
+<A>__{a crowd of students come in from the cold. knox pushes his way through them, carrying a handful of wildflowers. he begins searching for chris.}
+<C>__{knox}
+<D>__{chris!}
+<A>__{he approaches a girl with hair similar to chris' and turns her around, only to realize that it's not her.}
+<C>__{knox}
+<D>__{chris noel. do you know where she is?}
+<C>__{girl}
+<D>__{um, i think she's in room 111.}
+<A>__{the girl points down the hallway and knox sets off in that direction.}
+<C>__{knox}
+<D>__{thanks.}
+<A>__{chris is at her locker talking to a friend. she just closes her locker as she notices knox coming towards her. she turns away.}
+<C>__{knox}
+<D>__{excuse me. chris.}
+<C>__{chris}
+<D>__{knox, what are you doing here?}
+<C>__{knox}
+<D>__{i came to apologize for the other night. i brought you these and a poem i wrote for you.}
+<A>__{chris pulls him aside, out of the main hallway.}
+<C>__{chris}
+<D>__{knox, don't you know that, if chet finds you here he'll kill you?}
+<C>__{knox}
+<D>__{i can't care. i love you, chris.}
+<C>__{chris}
+<D>__{knox, you're crazy.}
+<C>__{knox}
+<D>__{look, i acted like a jerk and i know it. please, accept these. please.}
+<C>__{chris}
+<D>__{no. no i, i can't. forget it.}
+<A>__{chris walks away. the school bell rings and she enters her classroom, closing the door behind her. undaunted, knox follows, opening the door and standing before her desk.}
+<C>__{chris}
+<D>__{knox, i don't believe this.}
+<C>__{knox}
+<D>__{all i'm asking you to do is listen.}
+<A>__{as knox begins to read his poem, the classroom grows quiet as everyone stops to listen.}
+<C>__{knox}
+<D>__{the heavens made a girl named chris with hair and skin of gold. to touch her would be paradise.}
+<A>__{chris holds her head in her hands in embarrassment.}

@@ -1,0 +1,30 @@
+<L>__{interior grandparents' home, stairs & landing night}
+<A>__{conrad gets home, climbs upstairs directly to his room, and closes the door. his grandmother hears him, opens her bedroom door, closes it.}
+<L>__{interior conrad's bedroom night}
+<A>__{conrad reflects for a short time, then goes down to...}
+<L>__{interior kitchen night}
+<A>__{conrad enters the kitchen, takes something in the fridge, goes to the phone to make a call. he dials.}
+<C>__{karen's mother }
+<D>__{hello?}
+<C>__{conrad}
+<D>__{hello. is karen there?}
+<C>__{karen's mother }
+<D>__{she...uh... ah!... bill?}
+<C>__{karen's father }
+<D>__{hello.}
+<C>__{conrad}
+<D>__{yes, hello. is karen there? this is conrad jarrett, calling. i'm a friend of hers.}
+<C>__{karen's father}
+<D>__{karen's...}
+<C>__{conrad}
+<D>__{i called...}
+<C>__{karen's father}
+<D>__{karen's dead.}
+<C>__{conrad}
+<D>__{what? what?}
+<C>__{karen's father}
+<D>__{she killed herself.}
+<A>__{karen's father hangs up. conrad suffocates under the shock. he hears karen's voice.}
+<C>__{karen}
+<P>__{(os)}
+<D>__{let's have the best christmas ever.}

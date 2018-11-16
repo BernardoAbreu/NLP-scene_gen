@@ -1,0 +1,78 @@
+<L>__{interior tavern. day.}
+<A>__{will has remained behind, aghast now at his predicament. he goes to the bar.}
+<C>__{will}
+<D>__{give me to drink mandragora.}
+<C>__{barman}
+<D>__{straight up, will?}
+<C>__{voice}
+<D>__{give my friend a beaker of your best brandy.}
+<A>__{will turns towards a figure further down the bar. it's}
+<B>__{christopher marlowe.}
+<C>__{will}
+<D>__{kit}
+<C>__{marlowe}
+<D>__{how goes it, will?}
+<C>__{will}
+<D>__{wonderful, wonderful.}
+<C>__{marlowe}
+<D>__{burbage says you have a play.}
+<C>__{will}
+<D>__{i have. and chinks to show for it.}
+<A>__{his drink arrives. will places a sovereign on the bar.}
+<C>__{will }
+<D>__{i insist and a beaker for mr. marlowe. the barman does the business.}
+<C>__{will }
+<D>__{i hear you have a new play for the curtain.}
+<C>__{marlowe}
+<D>__{not new my doctor faustus.}
+<C>__{will}
+<D>__{i love your early work. "was this the face that launched a thousand ships and burnt the topless towers of ilium?"}
+<C>__{marlowe}
+<D>__{i have a new one nearly done, and better. the massacre at paris.}
+<C>__{will}
+<D>__{good title.}
+<C>__{marlowe}
+<D>__{and yours?}
+<C>__{will}
+<D>__{romeo and ethel the pirate's daughter.}
+<P>__{(beat, sighs despondently)}
+<D>__{yes, i know.}
+<C>__{marlowe}
+<D>__{what is the story?}
+<C>__{will}
+<D>__{well, there's a pirate}
+<P>__{(confesses)}
+<D>__{in truth, i have not written a word.}
+<C>__{marlowe}
+<D>__{romeo is...italian. always in and out of love.}
+<C>__{will}
+<D>__{yes, that's good. until he meets}
+<C>__{marlowe}
+<D>__{ethel.}
+<C>__{will}
+<D>__{do you think?}
+<C>__{marlowe}
+<D>__{the daughter of his enemy.}
+<C>__{will}
+<P>__{(thoughtfully)}
+<D>__{the daughter of his enemy.}
+<C>__{marlowe}
+<D>__{his best friend is killed in a duel by ethel's brother or something. his name is mercutio.}
+<C>__{will}
+<D>__{mercutio...good name.}
+<A>__{nol hurries back to will's side.}
+<C>__{nol}
+<D>__{will they're waiting for you!}
+<C>__{will}
+<D>__{i'm coming.}
+<A>__{he drains his glass.}
+<C>__{will }
+<D>__{good luck with yours, kit.}
+<C>__{marlowe}
+<D>__{i thought your play was for burbage.}
+<C>__{will}
+<D>__{this is a different one.}
+<C>__{marlowe}
+<P>__{(trying to work it out)}
+<D>__{a different one you haven't written?}
+<A>__{will makes a helpless gesture and hurries after nol.}

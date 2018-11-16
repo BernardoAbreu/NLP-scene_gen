@@ -1,0 +1,52 @@
+<L>__{interior lobby "21" day}
+<A>__{karen consults her watch and the doorman as she enters.}
+<C>__{karen}
+<D>__{has miss channing come in?}
+<C>__{doorman}
+<D>__{not yet, mrs. richards...}
+<A>__{karen sees eve who waits as addison hands his hat, coat, and cane to an attendant. she smiles, crosses to her.}
+<C>__{karen}
+<D>__{eve. i've heard the most wonderful things about your performance }
+<C>__{eve}
+<D>__{mostly relief that i managed to stagger through it at all...}
+<C>__{addison}
+<D>__{she was magnificent.}
+<C>__{karen}
+<P>__{(pleased)}
+<D>__{then you've heard too.}
+<C>__{addison}
+<D>__{i was there. an eyewitness.}
+<C>__{karen}
+<P>__{(staggered)}
+<D>__{you were there? at the play last night?}
+<C>__{addison}
+<P>__{(smiles)}
+<D>__{a happy coincidence.}
+<C>__{eve}
+<P>__{(quickly)}
+<D>__{we're having lunch with a movie talent scout.}
+<C>__{karen}
+<D>__{they certainly don't waste much time.}
+<C>__{eve}
+<D>__{nothing definite yet it's just to have lunch.}
+<C>__{addison}
+<D>__{they'll be wasting this much of their time at any rate. eve has no intention of going to hollywood.}
+<A>__{he turns to karen, changing the subject.}
+<C>__{addison}
+<D>__{from the smartness of your dress, i take it your luncheon companion is a lady?}
+<C>__{karen}
+<P>__{(smiles)}
+<D>__{margo.}
+<C>__{addison}
+<D>__{margo? lunching in public?}
+<C>__{karen}
+<D>__{it's new margo. but she's just as late as the old one.}
+<C>__{addison}
+<D>__{she may be later than you think...}
+<A>__{as he speaks, he crosses to pick up an evening paper, opens it as he comes back.}
+<C>__{addison}
+<P>__{(handing it to her)}
+<D>__{why not read my column to pass the time? the minutes will fly like hours...}
+<P>__{(he takes eve's arm)}
+<D>__{... and now we must join our sunburned eager beaver.}
+<A>__{he goes up the stairs with eve. karen glances after them curiously, then at the column. it is headed: "things i promised not to tell" by addison dewitt. he expression becomes increasingly horrified. she drops the paper and rushes out...}

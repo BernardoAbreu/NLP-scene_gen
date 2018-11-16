@@ -1,0 +1,68 @@
+<L>__{interior lobby}
+<A>__{alvy, dressed, puts things into a gym bag. one knee is on the bench and his back is turned from the entrance. annie walks toward the entrance door dressed in street clothes and carrying her tennis bag over her shoulder. seeing alvy, she stops and turns.}
+<C>__{annie}
+<D>__{hi. hi, hi.}
+<C>__{alvy}
+<P>__{(looking over his shoulder)}
+<D>__{hi. oh, hi. hi.}
+<C>__{annie}
+<P>__{(hands clasped in front of her, smiling)}
+<D>__{well, bye. she laughs and backs up slowly toward the door.}
+<C>__{alvy}
+<P>__{(clearing his throat)}
+<D>__{you you play ... very well.}
+<C>__{annie}
+<D>__{oh, yeah? so do you. oh, god, whatta }
+<P>__{(making sounds and laughing)}
+<D>__{whatta dumb thing to say, right? i mean, you say it, "you play well," and right away ... i have to say well. oh, oh ... god, annie.}
+<P>__{(she gestures with her hand)}
+<D>__{well ... oh, well ... la de da, la de da, la la.}
+<A>__{she turns around and moves toward the door.}
+<C>__{alvy}
+<P>__{(still looking over his shoulder)}
+<D>__{uh ... you you wanna lift?}
+<C>__{annie}
+<P>__{(turning and aiming her thumb over her shoulder)}
+<D>__{oh, why uh ... y y you gotta car?}
+<C>__{alvy}
+<D>__{no, um ... i was gonna take a cab.}
+<C>__{annie}
+<P>__{(laughing)}
+<D>__{oh, no, i have a car.}
+<C>__{alvy}
+<D>__{you have a car?}
+<P>__{(annie smiles, hands folded in front of her)}
+<D>__{so ...}
+<P>__{(clears his throat)}
+<D>__{i don't understand why ... if you have a car, so then then wh why did you say "do you have a car?"... like you wanted a lift?}
+<C>__{annie}
+<D>__{i don't ...}
+<P>__{(laughing)}
+<D>__{i don't ... geez, i don't know, i've ... i wa this ... yeah, i got this vw out there ...}
+<P>__{(laughing and gesturing toward the door)}
+<D>__{what a jerk, yeah. would you like a lift?}
+<C>__{alvy}
+<P>__{(zipping up his bag)}
+<D>__{sure. w w w which way yuh goin'?}
+<C>__{annie}
+<D>__{me? oh, downtown!}
+<C>__{alvy}
+<D>__{down i'm i'm goin' uptown.}
+<C>__{annie}
+<P>__{(laughing)}
+<D>__{oh, well, i'm goin' uptown, too.}
+<C>__{alvy}
+<D>__{uh, well, you just said you were going downtown.}
+<C>__{annie}
+<D>__{yeah, well, i'm, but i ...}
+<A>__{alvy picks up his bag and moves toward the door. as he turns his bag around, the handle of the tennis racket bits annie between the legs.}
+<C>__{alvy}
+<P>__{(laughing)}
+<D>__{so sorry.}
+<C>__{annie}
+<P>__{(laughing)}
+<D>__{i mean, i can go uptown, too. i live uptown, but ... uh, what the hell, i mean, it'd be nice having company, you know i mean, i hate driving alone.}
+<C>__{alvy}
+<P>__{(making sounds)}
+<D>__{yeah.}
+<A>__{they walk out the door.}

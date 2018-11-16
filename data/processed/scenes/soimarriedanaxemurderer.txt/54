@@ -1,0 +1,112 @@
+<L>__{interior police station day}
+<A>__{charlie walks through the precinct towards tony's office, holding the national enquirer in his hand.}
+<C>__{desk sergeant}
+<D>__{hey charlie!}
+<C>__{charlie}
+<D>__{is tony back there?}
+<A>__{the sergeant nods and charlie heads back to the office.}
+<L>__{interior police station day}
+<C>__{captain}
+<D>__{o.k., tony. do you have the k673 form completed yet, that street vendor incident on powell street?}
+<C>__{tony}
+<P>__{(really bummed)}
+<D>__{yes, captain.}
+<C>__{captain}
+<D>__{tony, do you mind my saying that you seem a little down?}
+<C>__{tony}
+<D>__{captain. it's about my work. about being a policeman.}
+<C>__{captain}
+<D>__{tony, if there's anything wrong, i'm here to listen.}
+<C>__{tony}
+<D>__{i know. and that's what's irritating, you're too nice.}
+<C>__{captain}
+<D>__{too nice!?}
+<C>__{tony}
+<D>__{yes, you're my captain for gods sakes. you should be constantly on my case, like the captain on starsky and hutch. once a week you should routinely haul my ass into your office, accuse me of being a maverick and complain to me that you're sick and tired of defending my screwball antics to the commissioner.}
+<C>__{captain}
+<D>__{well, as you may know, tony. i don't report to a commissioner. i report to a committee, some of whom are appointed, some elected and the remainder co opted on a bi annual basis. a quorum }
+<C>__{tony}
+<D>__{police work should be all about running around, following up crazy hunches that turn out to be right, going out on a limb.}
+<C>__{captain}
+<D>__{well tony, i've never seen it that way. for me police work is all about following procedure and remaining accountable to the general public.}
+<C>__{tony}
+<P>__{(exasperated)}
+<D>__{captain! when i joined the police force, i thought i was going to be serpico and unfortunately i ended up being toma. i would have settled for beretta.}
+<C>__{captain}
+<D>__{that's interesting tony. i'm perturbed that you should be so disillusioned.}
+<A>__{charlie enters.}
+<C>__{charlie}
+<D>__{hey, tony, i gotta talk to you.}
+<C>__{captain}
+<D>__{oh, hello, charlie. look, i'm in the way here. you guys probably have something you want to talk about, and tony, if you've still got stuff you want to sort out, please, you know where the suggestion box is.}
+<A>__{the captain exits.}
+<C>__{charlie}
+<D>__{nice guy. hey, what's up?}
+<C>__{tony}
+<D>__{i'm having doubts about being a cop again. it's not like how it is on cop shows. all i do is fill out papers and reports.}
+<C>__{charlie}
+<D>__{let me get this straight, your captain hasn't threatened to have you up on charges so fast you won't know what hit you?}
+<C>__{tony}
+<D>__{no! he's never once said to me that he was going to "throw the book at me so hard it'll knock my ass from here till tuesday." anyways what's up?}
+<A>__{charlie pulls out the national enquirer (the one on mrs. x, the honeymoon killer).}
+<C>__{charlie}
+<D>__{have you heard of this case? mrs. x? she murders her husbands on their honeymoons and then changes her identity and marries again.}
+<C>__{tony}
+<D>__{i never heard of it. so what?}
+<C>__{charlie}
+<D>__{curious, that's all. i read about it, and...}
+<P>__{(after a pause)}
+<D>__{i think i'm dating mrs. x.}
+<C>__{tony}
+<P>__{(after a pause)}
+<D>__{two words, charlie. get therapy. they have doctors that deal specifically with this illness.}
+<C>__{charlie}
+<D>__{everything's adding up, tony. one of the victims was a martial arts expert. last night at dinner, she put a martial arts move on my dad.}
+<C>__{tony}
+<D>__{there about twenty thousand people in san francisco who are martial arts experts. should i arrest all of them too?}
+<C>__{charlie}
+<D>__{if they also say ralph in their sleep i think it'd be a good start.}
+<P>__{(showing him paper)}
+<D>__{ralph elliot. a plumber from san francisco. missing since his honeymoon.}
+<C>__{tony}
+<D>__{you're just getting scared. like the dream, you feel harriet could be the one, so you start to suspect her of things, 'cause deep down you're scared that if she is the one, you'll marry, and marriage to you is death.}
+<C>__{charlie}
+<D>__{hey, don't analyze my dreams, okay? they're my dreams. analyze your own dreams.}
+<P>__{(a beat)}
+<D>__{it's not a marrying thing, tony. it's a murdering thing.}
+<P>__{(showing him paper)}
+<D>__{harriet lived in atlantic city, right? well so did this guy, right around the same time she left town.}
+<C>__{tony}
+<P>__{(reading article)}
+<D>__{"larry leonard, a crooner who made a name for himself for being able to sing in six different languages the song "only you".}
+<P>__{(putting paper down)}
+<D>__{does she know the song "only you?"}
+<C>__{charlie}
+<D>__{i don't know. it hasn't come up yet.}
+<C>__{tony}
+<D>__{charlie, move past it. you're running your life by the national enquirer.}
+<C>__{charlie}
+<P>__{(defensively)}
+<D>__{what? it's the fifth highest circulating newspaper in the united states.}
+<P>__{(taking paper back)}
+<D>__{mrs. x. please. look it up.}
+<A>__{computer room at police station minutes later charlie and tony are in the back with kathy, a stocky black woman in uniform, who works in the files department.}
+<C>__{kathy}
+<D>__{there's no record of any deaths. all three of these guys were reported missing around the time of their honeymoon, but so were the wives. no pictures of any of the brides. for all we know they just picked up and moved away.}
+<C>__{charlie}
+<D>__{and ralph elliot, too?}
+<C>__{tony}
+<D>__{charlie, you're talking about three guys over a seven year span. that's hardly news. no deaths. elopement in this state, as of this day, is still not illegal.}
+<C>__{charlie}
+<P>__{(re: the article)}
+<D>__{yeah well murder is. and this article says that these men were murdered by the same woman.}
+<C>__{kathy}
+<D>__{mr. mackenzie, we've found that, most national enquirer articles are actually based on our own police reports. they take the facts and fabricate a story around them.}
+<C>__{tony}
+<D>__{it's true, charlie. you gotta realize that. i mean, personally, i would lie to you, but kathy... has this crazy notion of always telling the truth.}
+<P>__{(patting his back)}
+<D>__{you feel better now?}
+<C>__{charlie}
+<D>__{it guess so. it's just... if i had a photo of harriet, i could show it to the relatives or friends of mrs. x's victims to identify her.}
+<C>__{tony}
+<D>__{charlie, listen to me! there is no mrs. x! drop it! okay?}

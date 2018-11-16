@@ -1,0 +1,44 @@
+<L>__{exterior scout camp. day}
+<A>__{scout master ward stands on a bench addressing his assembled troop. the scouts are equipped for hiking with back packs and walking sticks.}
+<C>__{scout master ward}
+<D>__{you have your orders. use the orienteering and path finding skills you've been practicing all summer. let's find our man and bring him safely back to camp. remember: this isn't just a search party, it's a chance to do some first class scouting. any questions?}
+<A>__{lazy eye raises his hand. scout master ward points to him.}
+<C>__{scout master ward}
+<D>__{lazy eye. lazy eye what's your real job, sir?}
+<C>__{scout master ward}
+<P>__{(caught off guard)}
+<D>__{i'm a math teacher. lazy eye what grade?}
+<C>__{scout master ward}
+<P>__{(stiffening)}
+<D>__{eighth. why?}
+<A>__{lazy eye shrugs. scout master ward frowns.}
+<C>__{scout master ward}
+<D>__{you know, we're, actually, kind of, in the middle of something, if you didn't notice. this is a crisis. anybody else?}
+<A>__{redford raises his hand. scout master ward points to him.}
+<C>__{scout master ward}
+<D>__{redford.}
+<C>__{redford}
+<D>__{what if he resists?}
+<C>__{scout master ward}
+<P>__{(hesitates)}
+<D>__{who?}
+<C>__{redford}
+<D>__{shakusky. are we allowed to use force on him?}
+<C>__{scout master ward}
+<P>__{(irritated)}
+<D>__{no, you're not. this is a non violent rescue effort. your instructions are to find him, not to hurt him. under any circumstances. do i make myself understood?}
+<A>__{the scouts murmur their understanding. scout master ward nods.}
+<C>__{scout master ward}
+<D>__{good.}
+<A>__{pause. scout master ward wheels back to lazy eye:}
+<C>__{scout master ward}
+<D>__{i'm going to change my answer, in fact. this is my real job. scout master, troop}
+<A>__{that's us. i'm proud of that. the scouts look impressed but slightly lost. scout master ward says finally:}
+<C>__{scout master ward}
+<D>__{be leery out there. ok, let's get started. where's snoopy?}
+<C>__{skotak}
+<D>__{right here.}
+<A>__{skotak holds up a leash attached to a wire haired terrier. scout master ward takes a sock with a fleur de lis on it out of a paper sack.}
+<C>__{scout master ward}
+<D>__{give him the scent.}
+<A>__{scout master ward hands the sock to skotak.}

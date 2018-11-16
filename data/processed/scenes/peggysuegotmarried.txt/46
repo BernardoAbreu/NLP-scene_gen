@@ -1,0 +1,28 @@
+<L>__{interior peggy's room}
+<A>__{peggy enters warily, looking around, a fifties museum of teenage artifacts. she walks around the room gently touching her old belongings including the record player from opening scene. she looks in the mirror to make sure she's still there. suddenly, she turns around.}
+<C>__{peggy}
+<D>__{okay, i'm alone now. is anyone here?}
+<A>__{she opens the closet door expectantly, then closes it shaking her head.}
+<C>__{peggy}
+<D>__{no. this is crazy. is somebody going to tell me what's going on? why me? what happened? you don't have to show up. i don't have to see you. just send me a sign.}
+<P>__{(beat)}
+<D>__{thanks a lot. 1 guess i'm on my own.}
+<A>__{nancy, peggy's twelveyearold sister, peeks in the room.}
+<C>__{peggy}
+<D>__{nancy! come here.}
+<A>__{nancy tentatively approaches. peggy hugs her.}
+<C>__{nancy}
+<D>__{what are you doing?}
+<C>__{peggy}
+<D>__{i'm just happy to see you.}
+<C>__{nancy}
+<D>__{come on! mom said you were sick. you're never happy to see me.}
+<C>__{peggy}
+<D>__{i'm sorry about that. i really want us to be closer. i have enough unresolved relationships in my... life.}
+<C>__{nancy}
+<D>__{teenagers are weird. and you're the weirdest.}
+<C>__{peggy}
+<D>__{let's do something together.. do you want to play monopoly? or careers... clue... snakes and ladders?}
+<C>__{nancy}
+<P>__{(suspicious)}
+<D>__{okay, what do you want? what dumb favor do you want me to do?}

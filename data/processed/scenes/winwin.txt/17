@@ -1,0 +1,34 @@
+<L>__{interior shelly's office.}
+<A>__{shelly flips through some documents. the boiler sounds off. clank clank clank. she jumps. she picks up the documents and walks into mike's office setting the documents down.}
+<C>__{shelly}
+<D>__{am i still hung over or is that noise getting louder?}
+<C>__{mike}
+<D>__{you're probably still hung over. what's that?}
+<C>__{shelly}
+<D>__{leo's financial statements. he's loaded, huh?}
+<C>__{mike}
+<D>__{yes, he is. you find his daughter?}
+<C>__{shelly}
+<D>__{no. that lady is gone and doesn't want to be found.}
+<C>__{mike}
+<D>__{crap.}
+<A>__{mike takes the statements and puts them in leo's file.}
+<C>__{shelly}
+<D>__{can't the state just leave him in his home? that's what the guy wants.}
+<C>__{mike}
+<D>__{they could but they never will. it's too much work. they'll probably move him into oak knoll. hand me one of their brochures?}
+<A>__{shelly grabs an oak knoll brochure from a stack.}
+<C>__{shelly}
+<D>__{but he has jolie now. she can handle it.}
+<C>__{mike}
+<D>__{no, she can't. his guardian still has to make every single decision. it's the difference between a baby sitter and a parent.}
+<A>__{she hands it to mike who takes it and paper clips in on the inside of leo's file.}
+<C>__{shelly}
+<D>__{i wish i could do it. i could use an extra 1,500 bucks a month.}
+<C>__{mike}
+<D>__{$1,500. is that what it is?}
+<C>__{shelly}
+<D>__{yeah. it's in his file.}
+<P>__{(answering the phone)}
+<D>__{mike flaherty's office.}
+<A>__{mike opens leo's file.}

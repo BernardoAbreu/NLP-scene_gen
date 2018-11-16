@@ -1,0 +1,31 @@
+<L>__{interior museum hallways night}
+<A>__{jonathan and hobbes tear down the hallway and disappear. behind them comes a roar so loud it rattles the walls.}
+<L>__{interior hallways secure storage area night}
+<A>__{the door opens slowly and pendergast appears. he shines his beam in both directions.}
+<C>__{pendergast}
+<D>__{all clear.}
+<A>__{margo and frock quickly come out. margo holds the crate. frock tries to follow in his wheelchair.}
+<C>__{frock}
+<D>__{i'm coming with you.}
+<C>__{margo}
+<D>__{no, dr. frock. you can't.}
+<C>__{pendergast}
+<D>__{you'd slow us down and put margo in danger.}
+<C>__{margo}
+<D>__{unlock one of the other storage rooms. we're going upstairs. we'll leave a trail back to 1012 and try to trap the monster in here.}
+<C>__{frock}
+<D>__{margo, this is too dangerous. you always think you can solve everything. this time you don't have enough information. the animal might behave in unexpected ways.}
+<P>__{(to pendergast)}
+<D>__{leave her here with me. don't put her in danger.}
+<C>__{pendergast}
+<D>__{he's right.}
+<C>__{margo}
+<D>__{no. you'll need me }
+<A>__{at this a loud sound comes from upstairs!}
+<C>__{frock}
+<D>__{what's that?}
+<C>__{pendergast}
+<D>__{footsteps!}
+<C>__{margo}
+<D>__{no, not footsteps! people running for their lives!}
+<A>__{all three know this ends the discussion. frock opens the door to room}

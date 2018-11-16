@@ -1,0 +1,38 @@
+<L>__{interior subway day}
+<A>__{a train pulls on to the platform. arthur leaps aboard.}
+<L>__{interior train day}
+<A>__{arthur stands among new yorkers, none of whom bat an eyelid at his appearance. he looks up at the stations.}
+<C>__{arthur}
+<P>__{(to a male passenger)}
+<D>__{excuse me. terribly sorry to bother you, but...}
+<A>__{without looking at him, the guy hands him a dollar.}
+<C>__{arthur }
+<D>__{crikey. thanks.}
+<L>__{interior church. sacristy day continuous}
+<A>__{susan is ready. she looks to the door. erica, who is peering out, shakes her head with an `i told you so' look.}
+<L>__{interior naomi's tour bus day}
+<A>__{naomi's driving her bus up 42nd street.}
+<C>__{naomi}
+<P>__{(into a headset mic)}
+<D>__{...originally a rough neighbourhood. some say it was called 42nd street because it wasn't safe to spend more than forty seconds on it.}
+<A>__{a few grudging laughs from the tourists.}
+<C>__{male tourist}
+<D>__{excuse me.}
+<C>__{naomi}
+<D>__{if you burst into song, you're off this bus.}
+<C>__{male tourist}
+<D>__{huh? i want to see st. john the divine.}
+<C>__{naomi}
+<D>__{sorry, sir, that's not on our route today. anyway...}
+<C>__{female tourist}
+<D>__{i want to know if arthur's gonna make it.}
+<C>__{other female tourist }
+<D>__{you should be there for him.}
+<A>__{other tourists agree.}
+<C>__{male tourist}
+<P>__{(waves leaflet)}
+<D>__{it says here `ask about your personalised tours'. i want the personalised tour. to st. john the divine!}
+<C>__{all other tourists}
+<D>__{so do i! st. john the divine, st. john the divine, st. john the...}
+<C>__{naomi}
+<D>__{okay!}

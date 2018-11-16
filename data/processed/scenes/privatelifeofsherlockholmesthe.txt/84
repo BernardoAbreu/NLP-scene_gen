@@ -1,0 +1,67 @@
+<T>__{dissolve to:}
+<L>__{exterior urquhart castle day}
+<A>__{holmes, gabrielle and watson are coming up a path from the lakeside, leading their bicycles. they lean the cycles against a ruined wall, start across the courtyard. a middle aged man in kilts emerges from the tumbled down gatehouse, comes toward them.}
+<C>__{guide}
+<D>__{sorry. no visitors allowed.}
+<C>__{holmes}
+<D>__{are you the guide here?}
+<C>__{guide}
+<D>__{yes. the castle is closed to the public while work is going on.}
+<C>__{holmes}
+<D>__{what are they doing?}
+<C>__{guide}
+<D>__{it's being restored by the society for the preservation of scottish monuments.}
+<C>__{holmes}
+<D>__{too bad. i particularly wanted my wife to see urquhart castle. the tower is one of the most interesting examples of about 1400, wasn't it?}
+<C>__{guide}
+<D>__{that's right.}
+<C>__{holmes}
+<D>__{let me see was it built under james the second or james the third?}
+<C>__{guide}
+<D>__{the thrid... if you come back next year, we'll be all done here, and i will be glad to show you around.}
+<C>__{holmes}
+<D>__{thank you.}
+<A>__{as the three of them move off, a canvas topped wagon comes through the stone archway, stops at the front of the steps leading to the inner courtyard.}
+<C>__{watson}
+<D>__{pleasant sort, isn't he?}
+<C>__{holmes}
+<D>__{pleasant, but ignorant. he was off one hundred years and one james.}
+<P>__{(taps guide book in his pocket)}
+<D>__{it's actually 1500 and james the fourth.}
+<C>__{gabrielle}
+<D>__{if he's an official guide, shouldn't he know... ?}
+<C>__{holmes}
+<D>__{if he's an official guide.}
+<A>__{they have now reached the wall against which they left their bicycles. suddenly holmes stops, attracted by the sound of birds chirping.}
+<C>__{holmes}
+<D>__{listen... do you hear anything, watson?}
+<C>__{watson}
+<P>__{(concentrating)}
+<D>__{no. those birds are making too much of a racket.}
+<C>__{holmes}
+<P>__{(looking off)}
+<D>__{they're not just birds they're our old friends.}
+<A>__{watson and gabrielle follow his gaze. from the back of the wagon, the carriers have removed the small bird cage we saw in the mail drop on ashdown street. they hand it to a workman, who starts up the steps with it. to another couple of workmen they pass down an open sided crate in which rest two heavy glass bottles protected by wicker. stencilled on the wooden slate of the crate are the words: sulphuric acid }
+<B>__{corrosive.}
+<A>__{holmes is watching thoughtfully, gabrielle and watson are puzzled.}
+<C>__{watson}
+<D>__{sulphuric acid?}
+<C>__{gabrielle}
+<D>__{the more we find out the less sense it makes.}
+<C>__{holmes}
+<D>__{to a graduate chemist it makes a great deal of sense. sulphuric acid, when exposed to salt water, produces chlorine gas.}
+<P>__{(a beat)}
+<D>__{would you mind clasping your hands, watson?}
+<C>__{watson}
+<P>__{(obeying)}
+<D>__{like this?}
+<C>__{holmes}
+<D>__{a little lower... thank you.}
+<A>__{watson has lowered his clasped hands, and holmes uses them as a foothold to go scrambling up the scaffolding of the nearby wall. reaching the top, he looks off in the direction of the tower. the workman carrying the canary cage, and the two carrying the crate of sulphuric acid are approaching the tower. a draw bridge comes down, and the three men cross the moat and enter the tower.}
+<C>__{holmes}
+<P>__{(looking off)}
+<D>__{that tower may be more interesting than i thought and not just architecturally.}
+<A>__{out of the ruined gatehouse comes the guard with the two mastiffs on leashes. the dogs start to snarl viciously.}
+<C>__{watson}
+<D>__{holmes, i have a feeling we're redundant here.}
+<A>__{holmes leaps down from the scaffolding, wheels the tandem around, starts back in the direction from which they came. gabrielle follows. watson hurries after them with his bicycle, casting anxious glances over his shoulder as the dogs continue barking.}

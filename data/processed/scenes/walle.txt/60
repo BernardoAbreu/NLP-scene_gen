@@ -1,0 +1,39 @@
+<L>__{interior bridge}
+<A>__{auto busy operating the ship. doesn't see eve and wall e outside the window. auto turns the sky dial from day to night.}
+<B>__{inside the concourse}
+<A>__{the sky dome fast forwards to evening. pan over to the top of the bridge tower. the windows of the captain's quarters are dark. only the flickering glow of a holo screen lights the room.}
+<C>__{captain }
+<D>__{define "hoe down".}
+<L>__{interior captain's quarters night same}
+<A>__{the captain is still engrossed in his earth research. multiple images litter the screen. crops, farms, a barn, etc.... an image of people square dancing pops up.}
+<C>__{ship's computer }
+<D>__{"hoedown" a social gathering at which lively dancing would take place.}
+<A>__{an aperture opens in the ceiling above. auto lowers down to face the captain.}
+<C>__{captain}
+<D>__{auto! earth is amazing!}
+<P>__{(points to images)}
+<D>__{these are called "farms". humans would put seeds in the ground, pour water on them, and they'd grow food, like, pizza }
+<A>__{auto shuts off the holo screen.}
+<C>__{autopilot}
+<D>__{good night, captain.}
+<C>__{captain}
+<P>__{(annoyed grunt)}
+<A>__{auto rises back up to the bridge. the aperture shuts. lights out. the captain glares at the ceiling. then whispers conspiratorially to the computer.}
+<C>__{captain}
+<D>__{psst! computer.}
+<P>__{(the holo screen lights up)}
+<D>__{define "dancing".}
+<B>__{back outside the axiom}
+<A>__{eve and wall e descend along the starboard side. spiral gracefully around one another.}
+<C>__{ship's computer }
+<D>__{"dancing" a series of movements, involving two partners, where speed and rhythm match harmoniously with music.}
+<A>__{wall e's extinguisher runs out of foam. he lets it float freely out into space. eve catches him in her arms. wall e croons.}
+<B>__{song ends}
+<A>__{eve scans the axiom for a way in. notices sparks. down on the ship's lower hull...}
+<B>__{closer on lower hull}
+<A>__{a repair bot (burn e) welds an antenna. eve and wall e fly into the open hatch behind him. it shuts. burn e bangs on the closed door. stuck outside.}
+<D>__{burn e}
+<P>__{(beeps)}
+<D>__{[hey! let me in! let me in!]}
+<P>__{(looks around)}
+<D>__{[crap.]}

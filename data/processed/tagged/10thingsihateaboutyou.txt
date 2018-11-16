@@ -1,0 +1,2811 @@
+<A>__{padua high school day welcome to padua high school, your typical urban suburban high school in portland, oregon. smarties, skids, preppies, granolas. loners, lovers, the in and the out crowd rub sleep out of their eyes and head for the main building. padua high parking lot day kat stratford, eighteen, pretty but trying hard not to be in a baggy granny dress and glasses, balances a cup of coffee and a backpack as she climbs out of her battered, baby blue '75 dodge dart. a stray skateboard clips her, causing her to stumble and spill her coffee, as well as the contents of her backpack. the young rider dashes over to help, trembling when he sees who his board has hit.}
+<C>__{rider}
+<D>__{hey sorry.}
+<A>__{cowering in fear, he attempts to scoop up her scattered belongings.}
+<C>__{kat}
+<D>__{leave it}
+<A>__{he persists.}
+<C>__{kat}
+<D>__{i said, leave it!}
+<A>__{she grabs his skateboard and uses it to shove him against a car, skateboard tip to his throat. he whimpers pitifully and she lets him go. a path clears for her as she marches through a pack of fearful students and slams open the door, entering school.}
+<L>__{interior girls' room day}
+<A>__{bianca stratford, a beautiful sophomore, stands facing the mirror, applying lipstick. her less extraordinary, but still cute friend, chastity stands next to her.}
+<C>__{bianca}
+<D>__{did you change your hair?}
+<C>__{chastity}
+<D>__{no.}
+<C>__{bianca}
+<D>__{you might wanna think about it}
+<A>__{leave the girls' room and enter the hallway. hallway day continuous bianca is immediately greeted by an admiring crowd, both boys and girls alike.}
+<C>__{boy}
+<P>__{(adoring)}
+<D>__{hey, bianca.}
+<C>__{girl}
+<D>__{awesome shoes.}
+<A>__{the greetings continue as chastity remains wordless and unaddressed by her side. bianca smiles proudly, acknowledging her fans. guidance counselor's office day cameron james, a clean cut, easy going senior with an open, farm boy face, sits facing miss perky, an impossibly cheery guidance counselor.}
+<C>__{miss perky}
+<D>__{i'm sure you won't find padua any different than your old school. same little asswipe mother fuckers everywhere.}
+<A>__{her plastic smile never leaves her face. cameron fidgets in his chair uncomfortably.}
+<C>__{miss perky}
+<D>__{any questions?}
+<C>__{cameron}
+<D>__{i don't think so, ma'am}
+<C>__{miss perky}
+<D>__{then go forth. scoot i've got deviants to see.}
+<A>__{cameron rises to leave and makes eye contact with patrick verona, a sullen looking bad ass senior who waits outside ms perky's door. his slouch and smirk let us know how cool he is. miss perky looks down at her file and up at patrick}
+<C>__{miss perky}
+<D>__{patrick verona. i see we're making our visits a weekly ritual.}
+<A>__{she gives him a withering glance. he answers with a charming smile.}
+<C>__{patrick}
+<D>__{i missed you.}
+<C>__{miss perky}
+<D>__{it says here you exposed yourself to a group of freshmen girls.}
+<C>__{patrick}
+<D>__{it was a bratwurst. i was eating lunch.}
+<C>__{miss perky}
+<D>__{with the teeth of your zipper?}
+<A>__{she motions for patrick to enter her office and cameron shuffles out the door, bumping into michael eckman, a lanky, brainy senior who will either end up a politician or game show host.}
+<C>__{michael}
+<D>__{you the new guy?}
+<C>__{cameron}
+<D>__{so they tell me...}
+<C>__{michael}
+<D>__{c'mon. i'm supposed to give you the tour.}
+<A>__{they head out of the office}
+<C>__{michael}
+<D>__{so which dakota you from?}
+<C>__{cameron}
+<D>__{north, actually. how'd you ?}
+<C>__{michael}
+<D>__{i was kidding. people actually live there?}
+<C>__{cameron}
+<D>__{yeah. a couple. we're outnumbered by the cows, though.}
+<C>__{michael}
+<D>__{how many people were in your old school?}
+<C>__{cameron}
+<D>__{thirty two.}
+<C>__{michael}
+<D>__{get out!}
+<C>__{cameron}
+<D>__{how many people go here?}
+<C>__{michael}
+<D>__{couple thousand. most of them evil}
+<L>__{interior hallway day continuous}
+<A>__{prom posters adorn the wall. michael steers cameron through the crowd as he points to various cliques.}
+<C>__{michael}
+<D>__{we've got your basic beautiful people. unless they talk to you first, don't bother.}
+<A>__{the beautiful people pass, in full jock cheerleader splendor.}
+<C>__{michael}
+<D>__{those 're your cowboys.}
+<A>__{several stetson wearing, big belt buckle. wrangler guys walk by.}
+<C>__{cameron}
+<D>__{that i'm used to.}
+<C>__{michael}
+<D>__{yeah, but these guys have never seen a horse. they just jack off to clint eastwood.}
+<A>__{they pass an espresso cart with a group of teens huddled around it.}
+<C>__{michael}
+<D>__{to the right, we have the coffee kids. very edgy. don't make any sudden movements around them.}
+<L>__{exterior school courtyard day}
+<A>__{michael continues the tour}
+<C>__{michael}
+<D>__{and these delusionals are the white rastae.}
+<A>__{several white boys in dreadlocks and jamaican knit berets lounge on the grass. a cloud of pot smoke hovers above them}
+<C>__{michael}
+<D>__{big marley fans. think they're black. semi political, but mostly, they watch a lot of wild kingdom, if you know what i mean.}
+<A>__{michael waves to derek, the one with the longest dreads.}
+<C>__{michael}
+<D>__{derek save some for after lunch, bub?}
+<C>__{derek}
+<P>__{(very stoned)}
+<D>__{michael, my brother, peace}
+<A>__{cameron turns to follow michael as they walk into the cafeteria.}
+<C>__{cameron}
+<D>__{so where do you fit in all this?}
+<L>__{interior cafeteria day continuous}
+<A>__{loud music and loud students. michael sits with a group of studious looking teens.}
+<C>__{michael}
+<D>__{future mbas we're all ivy league, already accepted. someday i will be sipping merlot while those guys }
+<A>__{he points to the table of jocks, as they torture various passers by.}
+<C>__{michael}
+<D>__{are fixing my saab. yuppie greed is back, my friend.}
+<A>__{he points proudly to the alligator on his shirt. cameron stops listening as bianca walks by, and we go slo mo. pure and perfect, she passes cameron and michael without a look. cameron is smitten}
+<C>__{cameron}
+<D>__{that girl i }
+<C>__{michael}
+<D>__{you burn, you pine, you perish?}
+<C>__{cameron}
+<D>__{who is she?}
+<C>__{michael}
+<D>__{bianca stratford. sophomore. don't even think about it}
+<C>__{cameron}
+<D>__{why not?}
+<C>__{michael}
+<D>__{i could start with your haircut, but it doesn't matter. she's not allowed to date until her older sister does. and that's an impossibility.}
+<A>__{english class day a room full of bored seniors doodle and scare off into space ms. blaise, the one step away from medication english teacher, tries to remember what she's talking about.}
+<C>__{mrs. blaise}
+<D>__{well, then. oh, yes. i guess that does it for our analysis of the old man and the sea. any other comments?}
+<P>__{(with dread)}
+<D>__{kat?}
+<A>__{kat, the girl we saw as we entered the school, slowly cakes off her glasses and speaks up.}
+<C>__{kat}
+<D>__{why didn't we just read the hardy boys?}
+<C>__{mrs. blaise}
+<D>__{i'm sorry?}
+<C>__{kat}
+<D>__{this book is about a guy and his fishing habit. not exactly a crucial topic.}
+<A>__{the other students roll their eyes.}
+<C>__{kat}
+<D>__{frankly, i'm baffled as to why we still revere hemingway. he was an abusive, alcoholic misogynist who had a lot of cats.}
+<A>__{joey dorsey, a well muscled jock with great cheekbones, makes fun of her from his row.}
+<C>__{joey}
+<D>__{as opposed to a bitter self righteous hag who has no friends?}
+<A>__{a few giggles. kat ignores him. a practiced gesture}
+<C>__{mrs. blaise}
+<D>__{that's enough, mr. dorsey.}
+<A>__{really gets fired up now}
+<C>__{kat}
+<D>__{i guess the school board thinks because hemingway's male and an asshole, he's worthy of our time}
+<A>__{she looks up at ms. blaise, who is now fighting with her pill box.}
+<C>__{kat}
+<D>__{what about colette? charlotte bronte? simone de beauvoir?}
+<A>__{patrick, lounging in his seat in the back row, elbows a crusty looking crony, identified by the name scurvy, embroidered on his workshirt.}
+<C>__{patrick}
+<D>__{mother goose?}
+<A>__{the class titters. kat wears an expression of intolerance}
+<L>__{interior guidance counselor's office day}
+<A>__{kat now sits before miss perky.}
+<C>__{miss perky}
+<D>__{katarina stratford. my, my. you've been terrorizing ms. blaise again.}
+<C>__{kat}
+<D>__{expressing my opinion is not a terrorist action.}
+<C>__{miss perky}
+<D>__{well, yes, compared to your other choices of expression this year, today's events are quite mild. by the way, bobby rictor's gonad retrieval operation went quite well, in case you're interested.}
+<C>__{kat}
+<D>__{i still maintain that he kicked himself in the balls. i was merely a spectator.}
+<C>__{miss perky}
+<D>__{the point is kat people perceive you as somewhat ...}
+<A>__{kat smiles at her, daring her to say it.}
+<C>__{kat}
+<D>__{tempestuous?}
+<C>__{miss perky}
+<D>__{no ... i believe "heinous bitch" is the term used most often.}
+<A>__{she grimaces, as if she's referring to a medical condition.}
+<C>__{miss perky}
+<D>__{you might want to work on that}
+<A>__{kat rises from her chair with a plastic smile matching the counselor's.}
+<C>__{kat}
+<D>__{as always, thank you for your excellent guidance.}
+<L>__{interior sophomore english class day}
+<A>__{bianca ignores the droning teacher as she writes a note in big flowing handwriting.}
+<C>__{teacher }
+<D>__{i realize the language of mr. shakespeare makes him a bit daunting, but i'm sure you're all doing your best.}
+<A>__{bianca folds the note and passes it behind her with a flip of her hair to chastity. chastity opens the note and reads: insert "joey dorsey said hi to me in the hall! oh! my god!" chastity frowns to herself.}
+<C>__{teacher }
+<D>__{ms. stratford, do you care to comment on what you've read so far?}
+<A>__{bianca looks up and smiles the smile of daddy's little girl.}
+<C>__{bianca}
+<D>__{not really.}
+<A>__{the teacher shakes her head, but lets it go. mandella. a waif like senior girl who sits off to the side trying to slit her wrist with the plastic spiral on her notebook, looks up and raises her hand.}
+<C>__{teacher}
+<D>__{mandella since you're assisting us, you might as well comment. i'm assuming you read the assignment.}
+<C>__{mandella}
+<D>__{uh, yeah, i read it all}
+<C>__{teacher}
+<D>__{the whole play^}
+<C>__{mandelia}
+<D>__{the whole folio. all the plays.}
+<C>__{teacher}
+<P>__{(disbelieving)}
+<D>__{you've read every play by william shakespeare?}
+<C>__{mandella}
+<D>__{haven't you?}
+<A>__{she raises a challenging eyebrow. the stunned teacher doesn't answer and goes to call on the next student.}
+<L>__{exterior school courtyard day}
+<A>__{mandella and kat sit down in the quiet corner. they are eating a carton of yogurt with gusto.}
+<C>__{mandella}
+<A>__{your sister is so amazingly without. she'll never read him. she has no idea. kat attacks}
+<C>__{kat}
+<D>__{the fact that you're cutting gym so you can t.a. sophomore english just to hear his name, is a little without in itself if you ask me.}
+<A>__{kat's attention is caught by patrick as he walks by with his friends, lighting up a cigarette. mandella notices her staring.}
+<C>__{mandella}
+<D>__{who's that?}
+<C>__{kat}
+<D>__{patrick verona random skid.}
+<C>__{mandella}
+<D>__{that's pat verona? the one who was gone for a year? i heard he was doing porn movies.}
+<C>__{kat}
+<D>__{i'm sure he's completely incapable of doing anything that interesting.}
+<C>__{mandella}
+<D>__{he always look so}
+<C>__{kat}
+<D>__{block e?}
+<A>__{kat turns back to face mandella and forces her yogurt into mandella's hand.}
+<C>__{kat}
+<D>__{mandella, eat. starving yourself is a very slow way to die.}
+<C>__{mandella}
+<D>__{just a little.}
+<A>__{she eats. kat sees her wrist}
+<C>__{kat}
+<D>__{what's this?}
+<C>__{mandella}
+<D>__{an attempted slit.}
+<A>__{kat stares at her, expressionless.}
+<C>__{kat}
+<D>__{i realize that the men of this fine institution are severely lacking, but killing yourself so you can be with william shakespeare is beyond the scope of normal teenage obsessions. you're venturing far past daytime talk show fodder and entering the world of those who need very expensive therapy.}
+<C>__{mandella}
+<D>__{but imagine the things he'd say during sex.}
+<A>__{thinks a minute}
+<C>__{kat}
+<D>__{okay, say you do it. you kill yourself, you end up in wherever you end up and he's there. do you really think he's gonna wanna dace a ninety pound compulsive who failed volleyball?}
+<A>__{mandella's attention is struck by bianca}
+<B>__{across the courtyard}
+<A>__{as she and chastity parade by joey and his cohorts one of the cohorts elbows joey.}
+<C>__{cohort}
+<D>__{virgin alert.}
+<A>__{joey looks up and smiles at bianca.}
+<C>__{joey}
+<D>__{lookin' good, ladies.}
+<A>__{bianca smiles her coyest of smiles. back to kat and mandella still watching.}
+<C>__{mandella}
+<D>__{tragic.}
+<A>__{doesn't respond}
+<B>__{another angle}
+<A>__{michael and cameron observe joey's leers at bianca from their bench in another corner. cowboys eating cue of a can of beans linger on the grass behind them.}
+<C>__{cameron}
+<D>__{why do girls like that always like guys like that?}
+<C>__{michael}
+<D>__{because they're bred to. their mothers liked guys like that, and their grandmothers before them. their gene pool is rarely diluted.}
+<C>__{cameron}
+<D>__{he always have that shit eating grin?}
+<C>__{michael}
+<D>__{joey dorsey? perma shit grin. i wish i could say he's a moron, but he's number twelve in the class. and a model. mostly regional stuff, but he's rumored to have a big tube sock ad coming out.}
+<A>__{the bell rings, and the cowboys stand and spit into their empty bean cans. cameron and michael rise as cameron tries to catch a glimpse of bianca as she walks back inside.}
+<C>__{michael}
+<D>__{you know french?}
+<C>__{cameron}
+<D>__{sure do ... my mom's from canada}
+<C>__{michael}
+<D>__{guess who just signed up for a tutor?}
+<C>__{cameron}
+<D>__{you mean i'd get a chance to talk to her?}
+<C>__{michael}
+<D>__{you could consecrate with her, my friend.}
+<A>__{cameron watches as bianca flounces back into the building.}
+<L>__{exterior school parking lot day}
+<A>__{kat and mandella walk toward kat's car. joey pulls up beside her in his viper.}
+<C>__{joey}
+<P>__{(re her dress)}
+<D>__{the vintage look is over, kat. haven't you been reading your sassy?}
+<C>__{kat}
+<D>__{yeah, and i noticed the only part of you featured in your big kmart spread was your elbow. tough break.}
+<C>__{joey}
+<P>__{(practically spitting)}
+<D>__{they're running the rest of me next month.}
+<A>__{he zooms away as kat yanks open the door of her dart. mandella ties a silk scarf around her head, as if they're in a convertible.}
+<C>__{kat}
+<D>__{the people at this school are so incredibly foul.}
+<C>__{mandella}
+<D>__{you could always go with me. i'm sure william has some friends.}
+<A>__{they watch joey's car as he slows next to bianca and chastity as they walk toward the school bus.}
+<B>__{on bianca and chastity}
+<C>__{joey}
+<D>__{need a ride, ladies?}
+<A>__{bianca and chastity can't get in joey's car fast enough. he pulls away with a smile.}
+<B>__{back to kat and mandella}
+<A>__{mandella lowers her sunglasses to watch.}
+<C>__{mandella}
+<D>__{that's a charming new development}
+<A>__{kat doesn't answer, but reaches over and puts a tape in the tape deck. the sounds of joyful punk rock fill the car. as they pull out, michael crosses in front of them on his moped. kat has to slam the brakes to keep from hitting him}
+<C>__{kat}
+<P>__{(yelling)}
+<D>__{remove head from sphincter! then pedal!}
+<A>__{michael begins fearfully, pedaling as kat peels out, angry at the delay. cameron rushes over}
+<C>__{cameron}
+<D>__{you all right?}
+<A>__{he slows to a stop}
+<C>__{michael}
+<D>__{yeah, just a minor encounter with the shrew.}
+<C>__{cameron}
+<D>__{that's her? bianca's sister?}
+<C>__{michael}
+<D>__{the mewling, rampalian wretch herself.}
+<A>__{michael putters off, leaving cameron dodging patrick's grimy, grey jeep a vehicle several years and many paint jobs away from its former glory as a regulation mail truck as he sideswipes several cars on his way out of the lot.}
+<L>__{interior stratford house day}
+<A>__{sharon stratford, attractive and focused, sits in front of her computer, typing quickly. a shelf next to her holds several bodice ripper romance novels, bearing her name. kat stands behind her, reading over her shoulder as she types.}
+<C>__{kat}
+<D>__{"undulating with desire, adrienne removes her crimson cape, revealing her creamy "}
+<A>__{walter stratford, a blustery, mad scientist type obstetrician, enters through the front door, wearing a doctor's white jacket and carrying his black bag.}
+<C>__{walter}
+<A>__{i hope dinner's ready because i only have ten minutes before mrs. johnson squirts out a screamer. he grabs the mail and rifles through it, as he bends down to kiss sharon on the cheek.}
+<C>__{sharon}
+<D>__{in the microwave.}
+<C>__{walter}
+<P>__{(to kat)}
+<D>__{make anyone cry today?}
+<C>__{kat}
+<D>__{sadly, no. but it's only four thirty.}
+<A>__{bianca walks in.}
+<C>__{kat}
+<D>__{where've you been?}
+<C>__{bianca}
+<P>__{(eyeing walter)}
+<D>__{nowhere... hi, daddy.}
+<A>__{she kisses him on the cheek}
+<C>__{walter}
+<D>__{hello, precious.}
+<A>__{walter kisses bianca back as kat heads up the stairs}
+<C>__{kat}
+<D>__{how touching.}
+<A>__{walter holds up a letter to kat}
+<C>__{walter}
+<D>__{what's this? it says sarah lawrence?}
+<A>__{snatches it away from him.}
+<C>__{kat}
+<D>__{i guess i got in}
+<A>__{sharon looks up from her computer.}
+<C>__{sharon}
+<D>__{what's a synonym for throbbing?}
+<C>__{walter}
+<D>__{sarah lawrence is on the other side of the country.}
+<C>__{kat}
+<D>__{i know.}
+<C>__{walter}
+<D>__{i thought we decided you were going to school here. at u of 0.}
+<C>__{kat}
+<D>__{you decided.}
+<C>__{bianca}
+<D>__{is there even a question that we want her to stay?}
+<A>__{kat gives bianca an evil look then smiles sweetly at}
+<C>__{kat}
+<D>__{ask bianca who drove her home}
+<C>__{sharon}
+<D>__{swollen...turgid.}
+<C>__{walter}
+<P>__{(to bianca; upset)}
+<D>__{who drove you home?}
+<A>__{bianca glares at kat then turns to walter}
+<C>__{bianca}
+<D>__{now don't get upset. daddy, but there's this boy... and i think he might ask...}
+<C>__{walter}
+<D>__{no! you're not dating until your sister starts dating. end of discussion.}
+<C>__{bianca}
+<D>__{what if she never starts dating?}
+<C>__{walter}
+<D>__{then neither will you. and i will get to sleep at night.}
+<C>__{bianca}
+<D>__{but it's not fair she's a mutant, daddy!}
+<C>__{kat}
+<D>__{this from someone whose diary is devoted to favorite grooming tips?}
+<C>__{walter}
+<D>__{enough!}
+<A>__{he pulls out a small tape recorder from his black bag.}
+<C>__{walter}
+<D>__{do you know what this is?}
+<A>__{he hits the "play' button and shrieks of pain emanate from the tape recorder.}
+<B>__{bianca and walter}
+<P>__{(in unison, by rote)}
+<D>__{the sound of a fifteen year old in labor.}
+<C>__{walter}
+<D>__{this is why you're not dating until your sister does.}
+<C>__{bianca}
+<D>__{but she doesn't want to date.}
+<C>__{walter}
+<D>__{exactly my point}
+<A>__{his beeper goes off and he grabs his bag again}
+<C>__{walter}
+<D>__{jesus! can a man even grab a sandwich before you women start dilating?}
+<C>__{sharon}
+<D>__{tumescent!}
+<C>__{walter}
+<P>__{(to sharon; as he leaves)}
+<D>__{you're not helping.}
+<L>__{interior tutoring room day}
+<A>__{cameron sits with an empty chair beside him. bianca arrives in a flurry of blonde hair.}
+<C>__{bianca}
+<D>__{can we make this quick? roxanne korrine and andrew barrett are having an incredibly horrendous public break up on the quad. again.}
+<C>__{cameron}
+<D>__{well, i thought we'd start with pronunciation, if that's okay with you.}
+<B>__{bianca}
+<A>__{not the hacking and gagging and spitting part. please.}
+<C>__{cameron}
+<P>__{(looking down)}
+<D>__{okay... then how 'bout we try out some french cuisine. saturday? night?}
+<A>__{bianca smiles slowly}
+<C>__{bianca}
+<D>__{you're asking me out. that's so cute. what's your name again?}
+<C>__{cameron}
+<P>__{(embarrassed)}
+<D>__{forget it.}
+<A>__{bianca seizes an opportunity.}
+<C>__{bianca}
+<D>__{no, no, it's my fault we didn't have a proper introduction }
+<C>__{cameron}
+<D>__{cameron.}
+<C>__{bianca}
+<D>__{the thing is, cameron i'm at the mercy of a particularly hideous breed of loser. my sister. i can't date until she does.}
+<C>__{cameron}
+<D>__{seems like she could get a date easy enough...}
+<A>__{she fingers a lock of her hair. he looks on, dazzled.}
+<C>__{bianca}
+<A>__{the problem is, she's completely anti social.}
+<C>__{cameron}
+<D>__{why?}
+<C>__{bianca}
+<D>__{unsolved mystery. she used to be really popular when she started high school, then it was just like she got sick of it or something.}
+<C>__{cameron}
+<D>__{that's a shame.}
+<A>__{she reaches out and touches his arm}
+<C>__{bianca}
+<D>__{gosh, if only we could find kat a boyfriend...}
+<C>__{cameron}
+<D>__{let me see what i can do.}
+<A>__{cameron smiles, having no idea how stupid he is}
+<L>__{interior biology class}
+<A>__{a frog is being torn asunder by several prongs and picks. michael and cameron go for the spleen.}
+<C>__{michael}
+<D>__{you're in school for one day and you ask out the most beautiful girl? do you have no concept of the high school social code?}
+<A>__{cameron grins away}
+<C>__{cameron}
+<D>__{i teach her french, get to know her, dazzle her with charm and she falls in love with me.}
+<C>__{michael}
+<D>__{unlikely, but even so, she still can't go out with you. so what's the point?}
+<A>__{cameron motions with his head toward patrick, a few lab tables away. he's wearing biker glasses instead of goggles as he tries to revive his frog.}
+<C>__{cameron}
+<D>__{what about him?}
+<C>__{michael}
+<P>__{(confused)}
+<D>__{you wanna go out with him?}
+<A>__{the others at the lab table raise their eyebrows}
+<C>__{cameron}
+<P>__{(impatient)}
+<D>__{no he could wrangle with the sister.}
+<A>__{michael smiles. liking the intrigue.}
+<C>__{michael}
+<D>__{what makes you think he'll do it?}
+<C>__{cameron}
+<D>__{he seems like he thrives on danger}
+<C>__{michael}
+<D>__{no kidding. he's a criminal. i heard he lit a state trooper on fire. he just got out of alcatraz...}
+<C>__{cameron}
+<D>__{they always let felons sit in on honors biology?}
+<C>__{michael}
+<D>__{i'm serious, man, he's whacked. he sold his own liver on the black market so he could buy new speakers.}
+<C>__{cameron}
+<D>__{forget his reputation. do you think we've got a plan or not?}
+<C>__{michael}
+<D>__{did she actually say she'd go out with you?}
+<C>__{cameron}
+<D>__{that's what i just said}
+<A>__{michael processes this.}
+<C>__{michael}
+<D>__{you know, if you do go out with bianca, you'd be set. you'd outrank everyone. strictly a list. with me by your side.}
+<C>__{cameron}
+<D>__{i thought you hated those people.}
+<C>__{michael}
+<D>__{hey i've gotta have a few clients when i get to wall street.}
+<A>__{a cowboy flicks the frog's heart into one of the coffee kid's latte. cameron presses on, over the melee.}
+<C>__{cameron}
+<D>__{so now all we gotta do is talk to him.}
+<A>__{he points to patrick, who now makes his frog hump another frog, with full on sound effects.}
+<C>__{michael}
+<D>__{i will let you handle that.}
+<L>__{interior woodshop day}
+<A>__{boys and a few stray girls nail their pieces of wood michael sits next to pepe, a coffee kid, who holds out his jacket like the men who sell watches in the subway. inside several bags of coffee hang from hooks.}
+<C>__{pepe}
+<D>__{some people like the colombian, but it all depends on your acidity preference. me? i prefer east african and indonesian. you start the day with a sumatra boengie or maybe and ethiopian sidamo in your cup, you're that much farther ahead than someone drinkin' cosia rican or kona you know what i mean?}
+<A>__{michael nods solemnly.}
+<B>__{across the room}
+<A>__{patrick sits at a table with scurvy, making something that looks like a machete out of a two by four. cameron approaches, full of good natured farm boy cheer}
+<C>__{cameron}
+<D>__{hey, there}
+<A>__{in response, patrick brandishes a loud power tool in his direction. cameron slinks away.}
+<C>__{cameron}
+<D>__{later, then.}
+<A>__{michael watches, shaking his head.}
+<L>__{interior cafeteria day}
+<A>__{joey and his pals take turns drawing boobs onto a cafeteria tray with a magic marker. michael walks up and sits between them, casual as can be}
+<C>__{michael}
+<D>__{hey.}
+<C>__{joey}
+<D>__{are you lost?}
+<C>__{michael}
+<D>__{nope just came by to chat}
+<C>__{joey}
+<D>__{we don't chat.}
+<C>__{michael}
+<D>__{well, actually, i thought i'd run an idea by you. you know, just to see if you're interested.}
+<C>__{joey}
+<D>__{we're not.}
+<A>__{he grabs michael by the side of the head, and proceeds to draw a penis on his cheek with the magic marker. michael suffers the indignity and speaks undaunted.}
+<C>__{michael}
+<P>__{(grimacing)}
+<D>__{hear me out. you want bianca don't you?}
+<A>__{joey sits back and cackles at his drawing.}
+<C>__{michael}
+<D>__{but she can't go out with you because her sister is this insane head case and no one will go out with her. right?}
+<C>__{joey}
+<D>__{does this conversation have a purpose?}
+<C>__{michael}
+<D>__{so what you need to do is recruit a guy who'll go out with her. someone who's up for the job.}
+<A>__{michael points to patrick, who makes a disgusted face at his turkey pot pie before he rises and throws it at the garbage can, rather than in it.}
+<C>__{joey}
+<A>__{that guy? i heard he ate a live duck once. everything but the beak and the feet.}
+<C>__{michael}
+<D>__{exactly}
+<A>__{joey turns to look at michael.}
+<C>__{joey}
+<A>__{what's in it for you?}
+<C>__{michael}
+<D>__{oh, hey, nothin' man purely good will on my part.}
+<A>__{he rises to leave and turns to the others.}
+<C>__{michael}
+<D>__{i have a dick on my face, don't i?}
+<L>__{interior boy's room day}
+<A>__{michael stands at the sink, trying to scrub joey's artwork off his face as cameron watches.}
+<C>__{cameron}
+<D>__{you got him involved?}
+<C>__{michael}
+<D>__{like we had a choice? besides when you let the enemy think he's orchestrating the battle, you're in a position of power. we let him pretend he's calling the shots, and while he's busy setting up the plan, you have time to woo bianca.}
+<A>__{cameron grins and puts an arm around him}
+<C>__{cameron}
+<D>__{you're one brilliant guy}
+<A>__{michael pulls back, noticing other guys filing in.}
+<C>__{michael}
+<A>__{hey i appreciate gratitude as much as the next guy, but it's not gonna do you any good to be known as new kid who embraces guys in the bathroom. cameron pulls back and attempts to posture himself in a manly way for the others, now watching.}
+<L>__{interior kenny's thai food diner day}
+<A>__{kat and mandella pick apart their pad thai. mandella is smoking.}
+<C>__{kat}
+<D>__{so he has this huge raging fit about sarah lawrence and insists that i go to his male dominated, puking frat boy, number one golf team school. i have no say at all.}
+<C>__{mandella}
+<D>__{william would never have gone to a state school.}
+<C>__{kat}
+<D>__{william didn't even go to high school}
+<C>__{mandella}
+<D>__{that's never been proven}
+<C>__{kat}
+<D>__{neither has his heterosexuality.}
+<A>__{mandella replies with a look of ice. kat uses the moment to stub out mandella's cigarette.}
+<C>__{kat}
+<D>__{i appreciate your efforts toward a speedy death, but i'm consuming.}
+<P>__{(pointing at her food)}
+<D>__{do you mind?}
+<C>__{mandella}
+<D>__{does it matter?}
+<C>__{kat}
+<D>__{if i was bianca, it would be, "any school you want, precious. don't forget your tiara."}
+<A>__{they both look up as patrick enters. he walks up to the counter to place his order. mandella leans toward kat with the glow of fresh gossip}
+<C>__{mandella}
+<D>__{janice parker told me he was a roadie for marilyn manson.}
+<A>__{patrick nods at them as he takes his food outside.}
+<C>__{kat}
+<D>__{janice parker is an idiot}
+<L>__{interior miss perky's office day}
+<A>__{patrick sits before miss perky, eating his thai food}
+<C>__{miss perky}
+<P>__{(looking at chart)}
+<D>__{i don't understand, patrick. you haven't done anything asinine this week. are you not feeling well?}
+<C>__{patrick}
+<D>__{touch of the flu.}
+<C>__{miss perky}
+<D>__{i'm at a loss, then. what should we talk about? your year of absence?}
+<A>__{he smiles his charming smile}
+<C>__{patrick}
+<D>__{how 'bout your sex life?}
+<A>__{she tolerates his comment with her withering glance.}
+<C>__{miss perky}
+<D>__{why don't we discuss your driving need to be a hemorrhoid?}
+<C>__{patrick}
+<D>__{what's to discuss?}
+<C>__{miss perky}
+<D>__{you weren't abused, you aren't stupid, and as far as i can tell, you're only slightly psychotic so why is it that you're such a fuck up?}
+<C>__{patrick}
+<D>__{well, you know there's the prestige of the job title... and the benefits package is pretty good...}
+<A>__{the bell rings.}
+<C>__{miss perky}
+<D>__{fine. go do something repugnant and give us something to talk about next week.}
+<L>__{interior tutoring room day}
+<A>__{several pairs of tutors and students sit at the various desks. mandella sits with trevor, a white rasta. she attempts to get him to do geometry, but he stares at her, as if smitten}
+<C>__{mandella}
+<D>__{look, it's really easy.}
+<C>__{trevor}
+<D>__{you're a freedom fighter. be proud, sister.}
+<A>__{mandella sets down her pencil and closes the book.}
+<C>__{mandella}
+<P>__{(rotely)}
+<D>__{it's mandella with two l's. i am not related to nelson mandela. i am not a political figure. i do not live in south africa. my parents just spent a few too many acid trips thinking they were revolutionaries.}
+<C>__{trevor}
+<D>__{but you freed our people}
+<C>__{mandella}
+<D>__{your "people" are white, suburban high school boys who smoke too much hemp. i have not freed you, trevor.}
+<P>__{(grabbing his arm dramatically)}
+<D>__{only you can free yourself.}
+<A>__{across the room bianca and cameron sit side by side, cozy as can be}
+<C>__{bianca}
+<D>__{c'esc ma tete. this is my head}
+<C>__{cameron}
+<D>__{right. see? you're ready for the quiz.}
+<C>__{bianca}
+<D>__{i don't want to know how to say that though. i want to know useful things. like where the good stores are. how much does champagne cost? stuff like chat. i have never in my life had to point out my head to someone.}
+<C>__{cameron}
+<D>__{that's because it's such a nice one.}
+<C>__{bianca}
+<D>__{forget french.}
+<A>__{she shuts her book and puts on a seductive smile}
+<C>__{bianca}
+<D>__{how is our little find the wench a date plan progressing?}
+<C>__{cameron}
+<D>__{well, there's someone i think might be }
+<A>__{bianca's eyes light up}
+<C>__{bianca}
+<D>__{show me}
+<L>__{interior hallway day}
+<A>__{cameron and bianca lean against the wall inconspicuously. bianca plays it cool.}
+<C>__{bianca}
+<D>__{give me a sign when he walks by. and don't pointerior}
+<A>__{the bell rings. kids flood past. then patrick saunters by with scurvy. cameron nudges bianca.}
+<C>__{cameron}
+<D>__{there.}
+<C>__{bianca}
+<D>__{where?}
+<A>__{out of desperation, cameron awkwardly lunges across patrick's path. patrick shoves him back against the wall without a thought. cameron lands in a thud at bianca's feet.}
+<C>__{cameron}
+<D>__{i guess he didn't see me}
+<P>__{(calling after patrick)}
+<D>__{some other time }
+<A>__{bianca watches patrick, a wicked gleam in her eye.}
+<C>__{bianca}
+<D>__{my god, he's repulsive. he's so perfect!}
+<L>__{interior gym class day}
+<A>__{several volleyball games are being played. joey and a member of his hulking entourage, approach patrick, who still manages to look cool, even in gym clothes. they pull him aside roughly.}
+<C>__{patrick}
+<P>__{(shrugging them off)}
+<D>__{what?}
+<A>__{joey points joey see that girl? patrick follows his line of vision to kat as she spikes the ball into some poor cowboy's face.}
+<C>__{patrick}
+<D>__{yeah}
+<C>__{joey}
+<D>__{what do you think?}
+<A>__{kat wins the game and high fives the others, who are scared of her.}
+<C>__{patrick}
+<D>__{two legs, nice rack...}
+<C>__{joey}
+<D>__{yeah, whatever. i want you to go out with her.}
+<C>__{patrick}
+<D>__{sure, sparky. i will get right on it.}
+<C>__{joey}
+<D>__{you just said}
+<C>__{patrick}
+<D>__{you need money to take a girl out}
+<C>__{joey}
+<D>__{but you'd go out with her if you had the cake?}
+<A>__{patrick stares at joey deadpan. his dislike for the guy obvious.}
+<C>__{patrick}
+<P>__{(sarcastic)}
+<D>__{yeah, i'd take her to europe if i had the plane.}
+<A>__{joey smiles.}
+<C>__{joey}
+<D>__{you got it, verona. i pick up the tab, you do the honors.}
+<C>__{patrick}
+<D>__{you're gonna pay me to take out some girl?}
+<C>__{joey}
+<D>__{i can't date her sister until that one gets a boyfriend. and that's the catch. she doesn't want a boyfriend.}
+<C>__{patrick}
+<D>__{how much?}
+<C>__{joey}
+<A>__{twenty bucks each time you take her out.}
+<C>__{patrick}
+<D>__{i can't take a girl like that out on twenty bucks.}
+<C>__{joey}
+<D>__{fine, thirty.}
+<A>__{patrick raises an eyebrow, urging him up}
+<C>__{joey}
+<D>__{take it or leave it. this isn't a negotiation.}
+<C>__{patrick}
+<D>__{fifty, and you've got your man.}
+<A>__{patrick walks away with a smile}
+<L>__{exterior field hockey field day}
+<A>__{kat and the rest of the team go through a grueling practice session. kat spares no one as she whips the ball all over the field. patrick sits on the bleachers nearby, watching. a cigarette dangles from his mouth. his pal, scurvy is next to him. mr. chapin, the coach, blows the whistle.}
+<C>__{mr. chapin}
+<P>__{(proudly)}
+<D>__{good run, stratford.}
+<A>__{kat nods in response, and the girls leave the field. patrick hops down to follow.}
+<C>__{patrick}
+<D>__{hey. girlie.}
+<A>__{kat stops and turns slowly to look at him.}
+<C>__{patrick}
+<D>__{i mean wo man. how ya doin'?}
+<C>__{kat}
+<P>__{(smiles brightly)}
+<D>__{sweating like a pig, actually. and yourself?}
+<C>__{patrick}
+<D>__{there's a way to get a guy's attention.}
+<C>__{kat}
+<D>__{my mission in life.}
+<A>__{she stands there undaunted, hand on hip.}
+<C>__{kat}
+<D>__{obviously, i've struck your fancy. so, you see, it worked. the world makes sense again.}
+<A>__{patrick's eyes narrow. he steps closer.}
+<C>__{patrick}
+<D>__{pick you up friday, then}
+<C>__{kat}
+<D>__{oh, right. friday.}
+<A>__{patrick backs up a little. he uses his most seductive tone}
+<C>__{patrick}
+<D>__{the night i take you to places you've never been before. and back.}
+<C>__{kat}
+<D>__{like where? the 7 eleven on burnside? do you even know my name, screwboy?}
+<C>__{patrick}
+<D>__{i know a lot more than that}
+<A>__{kat stares at him.}
+<C>__{kat}
+<D>__{doubtful. very doubtful.}
+<A>__{she walks away quickly, leaving him standing alone.}
+<C>__{patrick}
+<P>__{(calling after her)}
+<D>__{you're no bargain either, sweetheart.}
+<A>__{scurvy appears at his side}
+<C>__{scurvy}
+<D>__{so i guess the jeep won't be getting a new blaupunkt.}
+<A>__{across the field cameron and michael watch.}
+<C>__{michael}
+<D>__{he took the bait.}
+<A>__{stratford house bathroom night kat washes her face at the sink. bianca appears behind her, and attempts to twist kat's hair into a chignon. she wacks bianca away.}
+<C>__{bianca}
+<D>__{have you ever considered a new look? i mean, seriously, you could have some potential buried under all this hostility.}
+<A>__{kat pushes past her into the hallway.}
+<C>__{kat}
+<D>__{i have the potential to smack the crap out of you if you don't get out of my way.}
+<C>__{bianca}
+<D>__{can you at least start wearing a bra?}
+<A>__{kat slams her door in response.}
+<L>__{interior hallway day}
+<A>__{patrick, scurvy and some other randoms head for the exit scurvy you up for a burger? patrick looks in his wallet. it's empty.}
+<L>__{interior hallway day}
+<A>__{kat stands at her locker, gathering her books. patrick appears at her side, smiling.}
+<C>__{patrick}
+<D>__{hey}
+<A>__{kat doesn't answer}
+<C>__{patrick}
+<D>__{you hate me don't you?}
+<C>__{kat}
+<D>__{i don't really think you warrant that strong an emotion.}
+<C>__{patrick}
+<D>__{then say you'll spend dollar night at the track with me.}
+<C>__{kat}
+<D>__{and why would i do that?}
+<C>__{patrick}
+<D>__{come on the ponies, the flat beer, you with money in your eyes, me with my hand on your ass...}
+<C>__{kat}
+<D>__{you covered in my vomit.}
+<C>__{patrick}
+<D>__{seven thirty?}
+<A>__{she slams her locker shut and walks away}
+<L>__{exterior downtown street night}
+<A>__{kat emerges from a music store carrying a bag of cds in her teeth, and fumbling through her purse with both hands. she finds her keys and pulls them out with a triumphant tug. she looks up and finds patrick sitting on the hood of her car}
+<C>__{patrick}
+<D>__{nice ride. vintage fenders.}
+<A>__{kat takes the bag out of her mouth.}
+<C>__{kat}
+<D>__{are you following me?}
+<C>__{patrick}
+<D>__{i was in the laundromat. i saw your car. thought i'd say hi.}
+<C>__{kat}
+<D>__{hi}
+<A>__{she gets in and starts the car.}
+<C>__{patrick}
+<D>__{you're not a big talker, are you?}
+<C>__{kat}
+<D>__{depends on the topic. my fenders don't really whip me into a verbal frenzy.}
+<A>__{she starts to pull out, and is blocked by joey's viper, which pulls up perpendicular to her rear and parks. joey and his groupies emerge and head for the liquor store}
+<C>__{kat}
+<D>__{hey do you mind?}
+<C>__{joey}
+<D>__{not at all}
+<A>__{they continue on into the store. kat stares at them in disbelief... then backs up her vintage fenders crash into the door of joey's precious viper. patrick watches with a delighted grin joey races out of the liquor store.}
+<C>__{joey}
+<D>__{you fucking bitch!}
+<A>__{kat pulls forward and backs into his car again. smiling sweetly.}
+<L>__{interior stratford house night}
+<A>__{walter paces as kat sits calmly on the couch.}
+<C>__{walter}
+<D>__{my insurance does not cover pms}
+<C>__{kat}
+<D>__{then tell them i had a seizure.}
+<C>__{walter}
+<D>__{is this about sarah lawrence? you punishing me?}
+<C>__{kat}
+<D>__{i thought you were punishing me.}
+<C>__{walter}
+<D>__{why can't we agree on this?}
+<C>__{kat}
+<D>__{because you're making decisions for me.}
+<C>__{walter}
+<D>__{as a parent, that's my right}
+<C>__{kat}
+<D>__{so what i want doesn't matter?}
+<C>__{walter}
+<D>__{you're eighteen. you don't know what you want. you won't know until you're forty five and you don't have it.}
+<C>__{kat}
+<P>__{(emphatic)}
+<D>__{i want to go to an east coast school! i want you to trust me to make my own choices. i want }
+<A>__{walter's beeper goes off}
+<C>__{walter}
+<D>__{christ! i want a night to go by that i'm not staring a contraction in the face.}
+<A>__{he walks out, leaving kat stewing on the couch.}
+<L>__{interior hallway day}
+<A>__{patrick shuts his graffiti encrusted locker, revealing joey's angry visage, glowering next to him.}
+<C>__{joey}
+<D>__{when i shell out fifty, i expect results.}
+<C>__{patrick}
+<D>__{i'm on it}
+<C>__{joey}
+<D>__{watching the bitch trash my car doesn't count as a date.}
+<C>__{patrick}
+<D>__{i got her under control. she just acts crazed in public to keep up the image.}
+<A>__{joey sees through the bluff}
+<C>__{joey}
+<D>__{let me put it to you this way, if you don't get any action, i don't get any action. so get your ass on hers by the end of the week.}
+<A>__{joey starts to walk off}
+<C>__{patrick}
+<D>__{i just upped my price}
+<C>__{joey}
+<P>__{(turning)}
+<D>__{what?}
+<C>__{patrick}
+<D>__{a hundred bucks a date.}
+<C>__{joey}
+<D>__{forget it.}
+<C>__{patrick}
+<D>__{forget her sister, then.}
+<A>__{joey thinks for a frustrated moment, punches the locker, then peels another fifty out of his wallet with a menacing scowl.}
+<C>__{joey}
+<D>__{you better hope you're as smooth as you think you are, verona.}
+<A>__{patrick takes the money with a smile.}
+<L>__{interior tutoring room day}
+<A>__{cameron runs a sentence past bianca.}
+<C>__{cameron}
+<D>__{la copine et i 'ami? la diferance?}
+<A>__{bianca glares at him.}
+<C>__{bianca}
+<D>__{a "copine" is someone you can count on. an "ami" is someone who makes promises he can't keep.}
+<A>__{cameron closes the french book}
+<C>__{cameron}
+<D>__{you got something on your mind?}
+<C>__{bianca}
+<D>__{i counted on you to help my cause. you and that thug are obviously failing. aren't we ever going on our date?}
+<A>__{he melts}
+<C>__{cameron}
+<D>__{you have my word. as a gentleman}
+<C>__{bianca}
+<D>__{you're sweet.}
+<A>__{she touches his hand. he blushes at her praise and watches her toss her hair back}
+<C>__{cameron}
+<P>__{(appreciative)}
+<D>__{how do you get your hair to look like that?}
+<C>__{bianca}
+<D>__{eber's deep conditioner every two days. and i never, ever use a blowdryer without the diffuser attachment.}
+<A>__{cameron nods with interest.}
+<C>__{cameron}
+<D>__{you know, i read an article about that.}
+<A>__{bianca looks surprised.}
+<C>__{bianca}
+<D>__{you did?}
+<L>__{interior boy's room day}
+<A>__{patrick stands at the sink, washing his hands michael and cameron cower in the corner, watching him.}
+<C>__{patrick}
+<P>__{(without turning around)}
+<D>__{say it}
+<C>__{michael}
+<P>__{(clearing his throat)}
+<D>__{what?}
+<C>__{patrick}
+<D>__{whatever the hell it is you're standin' there waitin' to say.}
+<A>__{cameron bravely steps forward}
+<C>__{cameron}
+<D>__{we wanted to talk to you about the plan.}
+<A>__{patrick turns toward them.}
+<C>__{patrick}
+<D>__{what plan?}
+<C>__{michael}
+<D>__{the situation is, my man cameron here has a major jones for bianca stratford.}
+<C>__{patrick}
+<D>__{what is it with this chick? she have three tits?}
+<A>__{cameron starts to object, but michael holds up a hand.}
+<C>__{michael}
+<D>__{i think i speak correctly when i say that cameron's love is pure. purer than say joey dorsey's.}
+<C>__{patrick}
+<D>__{dorsey can plow whoever he wants. i'm just in this for the cash.}
+<A>__{cameron starts choking at the thought of joey plowing his beloved bianca.}
+<C>__{michael}
+<D>__{that's where we can help you. with kat.}
+<C>__{patrick}
+<D>__{so dorsey can get the girl?}
+<C>__{michael}
+<D>__{patrick, pat, you're not looking at the big picture. joey's just a pawn. we set this whole thing up so cameron can get the girl.}
+<A>__{patrick smiles. he likes the idea of joey being a pawn in this game.}
+<C>__{patrick}
+<D>__{you two are gonna help me tame the wild beast?}
+<C>__{michael}
+<P>__{(grinning)}
+<D>__{we're your guys.}
+<C>__{cameron}
+<D>__{and he means that strictly in a non prison movie type of way.}
+<C>__{patrick}
+<D>__{yeah we'll see.}
+<A>__{he swings the door open and exits, leaving michael and cameron grinning at each other.}
+<C>__{michael}
+<D>__{we're in.}
+<L>__{interior classroom day}
+<A>__{cu on a party invitation as it gets handed out. "future princeton grad bogey lowenstein proudly presents a saturday night bash at his abode. casual attire". michael holds the invitation up to cameron.}
+<C>__{cameron}
+<D>__{this is it. a golden opportunity. patrick can ask katarina to the party.}
+<C>__{michael}
+<D>__{in that case, we'll need to make it a school wide blow out.}
+<C>__{cameron}
+<D>__{will bogey get bent?}
+<C>__{michael}
+<D>__{are you kidding? he'll piss himself with joy. he's the ultimate kiss ass.}
+<A>__{cafeteria day michael hands a jock the party invite as they pass each other at the trash cans.}
+<L>__{interior gym class day}
+<A>__{the jock calls a fellow jock}
+<L>__{interior math class day}
+<A>__{jock whispers to a cheerleader courtyard day the cheerleader calls a white rasta that she's making out with, showing him the invite. track day the white rasta tells a cowboy as they run laps during track practice.}
+<L>__{interior showers day}
+<A>__{the cowboy cells a coffee kid, as he shields his java from the spray of the shower.}
+<L>__{interior hallway day}
+<A>__{joey stands ac his open locker with bianca. the locker is an homage to joey's "modeling" career. cheesy print ads of him running in a field of daisies, petting a kitten, etc. adorn the locker door.}
+<C>__{joey}
+<D>__{which do you like better?}
+<A>__{insert headshots of joey. in one, he's pouting in a white shirt. in the other, he's pouting in a black shirt.}
+<C>__{bianca}
+<D>__{i think i like the white shirt}
+<A>__{joey nods thoughtfully.}
+<C>__{joey}
+<D>__{it's more}
+<C>__{bianca}
+<D>__{expensive?}
+<C>__{joey}
+<D>__{exactly}
+<P>__{(beat)}
+<D>__{so, you going to bogey lowenbrau's thing on saturday?}
+<C>__{bianca}
+<D>__{hopefully.}
+<A>__{he gives her his best flirtatious smile}
+<C>__{joey}
+<D>__{good, 'cause i'm not gonna bother if you won't be there.}
+<A>__{he taps her on the nose and she giggles}
+<L>__{interior tutoring room}
+<A>__{bianca sits across from cameron, who's transfixed, as always}
+<C>__{bianca}
+<D>__{have you heard about bogey lowenstein's party?}
+<C>__{cameron}
+<D>__{sure have.}
+<C>__{bianca}
+<P>__{(pouting)}
+<D>__{i really, really, really wanna go, but i can't. not unless my sister goes.}
+<C>__{cameron}
+<D>__{i'm workin' on it. but she doesn't seem to be goin' for him.}
+<A>__{he fishes.}
+<C>__{cameron}
+<D>__{she's not a...}
+<C>__{bianca}
+<D>__{lesbian? no. i found a picture of jared leto in one of her drawers, so i'm pretty sure she's not harboring same sex tendencies.}
+<C>__{cameron}
+<D>__{so that's the kind of guy she likes? pretty ones?}
+<C>__{bianca}
+<D>__{who knows? all i've ever heard her say is that she'd dip before dating a guy that smokes.}
+<A>__{cameron furiously takes notes}
+<C>__{cameron}
+<D>__{all right. what else is she partial to?}
+<L>__{interior dive bar night}
+<A>__{patrick plays pool with some random deviant cronies. he looks up when he hears a commotion at the door. lou the bouncer is in the midst of throwing michael and cameron out.}
+<C>__{patrick}
+<D>__{lou, it's okay. they're with me.}
+<A>__{lou looks at patrick, surprised, then reluctantly lets our two non deviants pass through. patrick guides them to a table and sips from a beer.}
+<C>__{patrick}
+<D>__{what've you got for me?}
+<C>__{cameron}
+<D>__{i've retrieved certain pieces of information on miss katarina stratford i think you'll find helpful.}
+<A>__{cameron pulls out a piece of paper.}
+<C>__{michael}
+<P>__{(to patrick)}
+<A>__{one question before we start should you be drinking alcohol when you don't have a liver?}
+<C>__{patrick}
+<D>__{what?!}
+<C>__{michael}
+<D>__{good enough.}
+<A>__{cameron looks up at patrick.}
+<C>__{cameron}
+<D>__{number one. she hates smokers}
+<C>__{michael}
+<D>__{it's a lung cancer issue}
+<C>__{cameron}
+<D>__{her favorite uncle}
+<C>__{michael}
+<D>__{dead at forty one.}
+<A>__{patrick sits up}
+<C>__{patrick}
+<D>__{are you telling me i'm a }
+<P>__{(spits the word out)}
+<D>__{"non smoker"?}
+<C>__{michael}
+<D>__{just for now.}
+<C>__{cameron}
+<D>__{another thing. bianca said that kat likes pretty guys.}
+<A>__{this is met with silence. then:}
+<C>__{patrick}
+<D>__{what? you don't think i'm pretty?}
+<A>__{michael smacks cameron}
+<C>__{michael}
+<D>__{he's pretty!}
+<C>__{cameron}
+<D>__{okay! i wasn't sure}
+<A>__{cameron goes back to the list.}
+<C>__{cameron}
+<D>__{okay likes: thai food, feminist prose, and "angry, stinky girl music of the indie rock persuasion".}
+<C>__{patrick}
+<D>__{so what does that give me? i'm supposed to buy her some noodles and a book and sit around listening to chicks who can't play their instruments?}
+<C>__{michael}
+<D>__{ever been to club skunk?}
+<C>__{patrick}
+<D>__{yeah.}
+<C>__{cameron}
+<D>__{gigglepuss is playing there tomorrow night.}
+<C>__{patrick}
+<D>__{don't make me do it, man}
+<C>__{michael}
+<D>__{assail your ears for one night.}
+<C>__{cameron}
+<D>__{it's her favorite band.}
+<A>__{patrick groans}
+<C>__{michael}
+<D>__{i also retrieved a list of her most recent cd purchases, courtesy of american express.}
+<A>__{he hands it over.}
+<C>__{patrick}
+<P>__{(smiling)}
+<D>__{michael did you get this information "illegally"?}
+<A>__{michael puts a finger to his lips.}
+<C>__{michael}
+<D>__{i prefer to think of it simply as an alternative to what the law allows.}
+<C>__{patrick}
+<D>__{i'm likin' you guys better}
+<A>__{he looks down at the list of cds.}
+<C>__{patrick}
+<D>__{this is really music?}
+<L>__{interior kat's room night}
+<A>__{music blares in a room with minimalist decor splashed with indie rock band posters and flyers. kat and mandella dance as they dress and apply make up bianca enters, interrupting their fun.}
+<C>__{bianca}
+<D>__{can you turn down the screaming menstrual bitches? i'm trying to study.}
+<A>__{kat doesn't move, so bianca crosses to the stereo, turning down the volume.}
+<C>__{bianca}
+<D>__{don't tell me you're actually going out? on a school night, no less.}
+<A>__{kat shoots her a glare}
+<C>__{bianca}
+<P>__{(continuing; excited)}
+<D>__{oh my god, does this mean you're becoming normal?}
+<C>__{kat}
+<D>__{it means that gigglepuss is playing at club skunk and we're going.}
+<C>__{bianca}
+<P>__{(disappointed)}
+<D>__{oh, i thought you might have a date}
+<P>__{(beat)}
+<D>__{i don't know why i'm bothering to ask, but are you going to bogey lowenstein's party saturday night?}
+<C>__{kat}
+<D>__{what do you think?}
+<C>__{bianca}
+<D>__{i think you're a freak. i think you do this to torture me. and i think you suck.}
+<A>__{she smiles sweetly and shuts the door behind her. kat doesn't bat an eye. she grabs her purse and opens the door}
+<C>__{kat}
+<D>__{let's hit it.}
+<L>__{exterior club skunk night}
+<A>__{a happy black and white neon skunk sprays fine mist on the line of kids below.}
+<L>__{interior club foyer night}
+<A>__{kat and mandella walk in, mandella nervously pulling out her fake id. the giant, afroed bouncer, bruce, looks typically mono syllabic.}
+<C>__{mandella}
+<P>__{(whispering to kat)}
+<D>__{you think this'll work?}
+<C>__{kat}
+<D>__{no fear.}
+<A>__{they approach bruce. kat puts on her happy, shiny face}
+<C>__{kat}
+<D>__{hello! we'd like two for gigglepuss!}
+<A>__{bruce looks the girls up and down.}
+<C>__{bruce}
+<D>__{i can count.}
+<A>__{he looks at their ids. mandella gently moves kat aside, wearing a face that could only be described as "i am a victoria's secret model."}
+<C>__{mandella}
+<D>__{i will bet you can..}
+<A>__{she sticks out her chest and licks her lips. bruce stares at her deadpan and hands her back the ids.}
+<C>__{bruce}
+<D>__{go ahead.}
+<P>__{(to mandella)}
+<D>__{and you}
+<C>__{mandella}
+<P>__{(all come hither)}
+<D>__{yes?}
+<C>__{bruce}
+<D>__{take it easy on the guys in there.}
+<A>__{mandella winks at him and sashays inside kat: follows behind, shaking her head.}
+<L>__{exterior club skunk night}
+<A>__{patrick's mail truck clatters to a stop out front.}
+<L>__{interior club foyer night}
+<A>__{patrick walks up to bruce, who's frisking a badly mowhawked pierced eyebrow boy. bruce pulls a switchblade out of the boy's inside pocket.}
+<C>__{bruce}
+<D>__{next time, leave the bic at home, skippy.}
+<C>__{skippy}
+<D>__{it's a bottle opener.}
+<A>__{bruce pushes him inside the club, then sees patrick.}
+<C>__{bruce}
+<D>__{verona, my man.}
+<A>__{they shake.}
+<C>__{patrick}
+<D>__{always a pleasure, brucie.}
+<C>__{bruce}
+<D>__{didn't have you pegged for a gigglepuss fan. aren't they a little too pre teen belly button ring for you?}
+<C>__{patrick}
+<D>__{fan of a fan. you see a couple of minors come in?}
+<C>__{bruce}
+<D>__{never}
+<C>__{patrick}
+<D>__{padua girls. one tall, decent body. the other one kinda short and undersexed?}
+<C>__{bruce}
+<D>__{just sent 'em through.}
+<A>__{patrick starts to go in}
+<C>__{bruce}
+<D>__{hey what happened to that chick you brought last time? the one with the snake?}
+<A>__{patrick laughs and goes into the club}
+<L>__{interior club night}
+<A>__{onstage, the all female band gigglepuss is parlaying their bad girl sass into a ripping punk number. near the stage is a joyful mass of pogo ing teens at the bar patrick bellies up and looks around the club. gigglepuss finishes a song.}
+<C>__{lead singer}
+<D>__{hello, out there. we're gigglepuss and we're from olympia.}
+<A>__{a teenage boy in the audience takes the opportunity to scream.}
+<C>__{boy }
+<D>__{pet my kitty!}
+<C>__{lead singer}
+<D>__{meow}
+<A>__{they rev into their next song.}
+<B>__{near the stage}
+<A>__{mandella and kat glow with sweat. when they hear the opening chords of the song, they look at each other and scream with glee as they begin to dance. they couldn't be having a better time.}
+<B>__{at the bar}
+<A>__{patrick signals to get the bartender's attention and looks across the bouncing surge of the crowd. he spots kat and mandella singing along.}
+<B>__{his pov}
+<A>__{the gleeful kat dancing and looking completely at ease. none of her usual "attitude". patrick is transfixed. and most definitely attracted. near the stage kat looks at mandella.}
+<C>__{kat}
+<P>__{(shouting)}
+<D>__{i need agua!}
+<A>__{she makes her way through the crowd to the bar. at the bar she made it. she signals for the bartender and as she's waiting, looks around. she spots patrick a few feet away}
+<C>__{kat}
+<P>__{(continuing to herself)}
+<D>__{shit}
+<A>__{she sneaks a glance. he's staring, but this time he looks away before she can. despite herself, she's miffed. the bartender arrives}
+<B>__{bartender}
+<P>__{(shouting)}
+<D>__{what can i get you?}
+<C>__{kat}
+<D>__{two waters.}
+<A>__{she looks at patrick again. he's completely absorbed in the band. she scowls. the bottled water arrives and she marches off, forgetting to pay. she walks up to patrick.}
+<C>__{kat}
+<D>__{you're not fooling anyone.}
+<A>__{patrick looks at her, surprised}
+<C>__{patrick}
+<P>__{(yelling)}
+<D>__{hey. great show, huh?}
+<C>__{kat}
+<P>__{(yelling)}
+<A>__{if you're planning on asking me out you might as well get it over with.}
+<C>__{patrick}
+<P>__{(yelling)}
+<D>__{excuse me?}
+<C>__{kat}
+<P>__{(yelling)}
+<D>__{that's what you want, isn't it?}
+<C>__{patrick}
+<P>__{(yelling; gesturing toward the band)}
+<D>__{do you mind? you're sort of ruining it for me.}
+<A>__{kat steams. and watches him watch the band}
+<C>__{kat}
+<P>__{(yelling)}
+<D>__{you're not surrounded by your usual cloud of smoke.}
+<A>__{the band takes a break, so they can stop yelling now}
+<C>__{patrick}
+<D>__{i know. i quit.}
+<A>__{he leans back, making no attempt to hit on her. she moves closer.}
+<C>__{kat}
+<D>__{oh, really?}
+<A>__{he motions toward the stage}
+<C>__{patrick}
+<D>__{you know, these guys are no bikini kill or the raincoats, but they're right up there.}
+<C>__{kat}
+<D>__{you know who the raincoats are?}
+<C>__{patrick}
+<D>__{why, don't you?}
+<A>__{she's completely taken aback. he uses the moment to his advantage and brushes her hair back as he speaks right into her ear.}
+<C>__{patrick}
+<D>__{i watched you out there i've never seen you look like that}
+<A>__{kat steps away, brushing the hair back that he just touched her cheeks pinken. his cocky side is back in a flash}
+<C>__{patrick}
+<D>__{come to that party with me.}
+<A>__{at that moment, the band starts another song}
+<C>__{kat}
+<P>__{(yelling)}
+<D>__{what?}
+<A>__{the bartender approaches.}
+<B>__{bartender}
+<P>__{(to kat, yelling)}
+<D>__{you forgot to pay!}
+<C>__{patrick}
+<P>__{(yelling)}
+<D>__{i got it, rick.}
+<A>__{he tosses some bills on the bar rather than thank him, kat simply watches him, trying to figure out his motive.}
+<C>__{patrick}
+<P>__{(continuing; yelling)}
+<D>__{nine thirty then.}
+<A>__{a few people have gotten between them at the bar and she can't hear a word he's saying. she gives him one last look and heads back into the crowd. patrick smiles. she didn't say no this time.}
+<L>__{exterior club skunk night}
+<A>__{the crowd files out of the club, kat and mandella amongst them. a^ they're walking toward the parking lot, patrick coasts by in his truck. the gears grind. he yells out the window.}
+<C>__{mandella}
+<D>__{what'd he say?}
+<C>__{kat}
+<D>__{who cares?}
+<A>__{mandella watches kat as she stares after patrick}
+<C>__{mandella}
+<D>__{has he importun'd you with love in honourable fashion?}
+<A>__{kat glances sharply at her.}
+<C>__{mandella}
+<P>__{(continuing; off her look)}
+<D>__{don't be cruella with me. i'm in favor of romance. you're the one that wants to march on washington every five minutes.}
+<A>__{kat pokes her, then looks back at the club dreamily.}
+<C>__{kat}
+<D>__{gigglepuss was so beyond.}
+<A>__{mandella nods.}
+<C>__{mandella}
+<D>__{they were. i only wish william could have been here to witness the rebirth of punk rock with us.}
+<A>__{kat links her arm through mandella's and they head for the car.}
+<C>__{kat}
+<D>__{so true.}
+<L>__{interior hallway day}
+<A>__{cameron and michael are at michael's locker.}
+<C>__{cameron}
+<D>__{so, then she says that she almost didn't wear the kenneth coles with that dress because she thought she was mixing, you know, genres. and the fact that i noticed and i'm quoting here "really meant something."}
+<A>__{cameron looks at michael expectantly}
+<C>__{michael}
+<D>__{you told me that part already.}
+<C>__{cameron}
+<D>__{hell, i've just been going over the whole thing in my head and }
+<A>__{joey appears over cameron's shoulder.}
+<C>__{joey}
+<D>__{hey. dingo boingo}
+<A>__{cameron and michael look at each other and turn around slowly}
+<C>__{joey}
+<P>__{(continuing; to michael)}
+<D>__{i hear you're helpin' verona.}
+<C>__{michael}
+<D>__{uh, yeah. we're old friend*}
+<C>__{joey}
+<D>__{you and verona?}
+<C>__{michael}
+<D>__{what? we took bathes together when we were kids.}
+<A>__{it's incredibly obvious that he's lying. joey eyes him then turns to cameron.}
+<C>__{joey}
+<D>__{what's your gig in all this?}
+<C>__{cameron}
+<D>__{i'm just the new guy.}
+<A>__{joey turns back to michael, grabbing the alligator on his shirt and twisting it.}
+<C>__{joey}
+<D>__{you better not fuck this up. i'm heavily invested.}
+<C>__{michael}
+<D>__{hey it's all for the higher good right?}
+<A>__{joey lets go of michael and shoves cameron against a locker for good measure, as he walks away }
+<C>__{cameron}
+<D>__{is it about me?}
+<L>__{exterior miss perky's office day}
+<A>__{kat sits outside waiting for her appointment, bored and annoyed. the door opens and miss perky escorts patrick out}
+<C>__{miss perky}
+<D>__{you're completely demented.}
+<C>__{patrick}
+<P>__{(cheery)}
+<D>__{see you next week!}
+<A>__{kat stands and patrick sees her. miss perky watches in horror}
+<B>__{miss perky}
+<A>__{you two know each other?}
+<D>__{patrick kat yeah no.}
+<A>__{miss perky grabs kat and shoves her into her office.}
+<C>__{miss perky}
+<P>__{(to patrick)}
+<D>__{dear god, stay away from her. if you two ever decided to breed, evil would truly walk the earth.}
+<A>__{patrick gives kat one last look before the door shuts, then smiles }
+<L>__{exterior stratford house night}
+<A>__{the lights are on, illuminating the yard}
+<L>__{interior stratford house upstairs hallway night}
+<A>__{bianca and chastity stand outside kat's room. music is blaring and the door is shut. bianca looks at her watch}
+<C>__{bianca}
+<D>__{she's obviously not going.}
+<L>__{interior living room night}
+<A>__{across the carpet, two pairs of teenage girl feet sneak past. bianca and chastity, teddy bear purses in hand. from the kitchen a rustling is heard. the girls freeze. walter emerges from the kitchen with a mile high sandwich the girls are like statues. walter jumps.}
+<C>__{bianca}
+<D>__{daddy, i }
+<C>__{walter}
+<D>__{and where're you going?}
+<C>__{bianca}
+<D>__{if you must know, we were attempting to go to a small study group of friends.}
+<C>__{walter}
+<D>__{otherwise known as an orgy?}
+<C>__{bianca}
+<D>__{it's just a party. daddy, but i knew you'd forbid me to go since "gloria steinem" over there isn't going }
+<A>__{she points to kat walkman blaring who comes downstairs, wearing a baby tee and battered levis. her relaxing at home look is about 400 times sexier than her at school look. she wanders toward the kitchen. walter directs his attention toward kat.}
+<C>__{walter}
+<D>__{do you know about any party? katarina?}
+<A>__{kat shrugs as she comes back out of the kitchen with an apple}
+<C>__{bianca}
+<D>__{daddy, people expect me to be there!}
+<C>__{walter}
+<D>__{if kat's not going, you're not going.}
+<A>__{bianca turns to kat, eyes ablaze}
+<C>__{bianca}
+<D>__{you're ruining my life' because you won't be normal, i can't be normal.}
+<C>__{kat}
+<D>__{what's normal?}
+<C>__{bianca}
+<D>__{bogey lowenstein's party is normal, but you're too busy listening to bitches who need prozac to know that.}
+<C>__{walter}
+<D>__{what's a bogey lowenstein?}
+<A>__{kat takes off her earphones, ready to do battle}
+<C>__{bianca}
+<D>__{can't you forget for just one night that you're completely wretched?}
+<C>__{kat}
+<D>__{at least i'm not a clouted fen sucked hedge pig.}
+<A>__{bianca tosses her hair.}
+<C>__{bianca}
+<D>__{like i'm supposed to know what that even means.}
+<C>__{kat}
+<D>__{it's shakespeare. maybe you've heard of him?}
+<C>__{bianca}
+<D>__{yeah, he's your freak friend mandella's boyfriend. i guess since i'm not allowed to go out, i should obsess over a dead guy, too.}
+<C>__{walter}
+<D>__{girls}
+<A>__{kat stares bianca down}
+<C>__{kat}
+<D>__{i know about the goddamn party. i'm going.}
+<A>__{bianca and chastity look at each other, thrilled, and burst into gleeful screams. a startled walter clutches bianca in a protective hug.}
+<C>__{walter}
+<D>__{oh, god. it's starting.}
+<C>__{bianca}
+<D>__{it's just a party. daddy.}
+<A>__{walter looks dazed.}
+<C>__{walter}
+<D>__{wear the belly before you go.}
+<C>__{bianca}
+<D>__{daddy, no!}
+<C>__{walter}
+<D>__{just for a minute}
+<A>__{he rushes to a cupboard and pulls out a padded faux pregnancy belly.}
+<C>__{walter}
+<D>__{i want you to realize the weight of your decisions.}
+<A>__{he hangs the belly on her as she stands mortified.}
+<C>__{bianca}
+<D>__{you are so completely unbalanced.}
+<C>__{kat}
+<D>__{can we go now?}
+<C>__{walter}
+<P>__{(to bianca)}
+<D>__{promise me you won't talk to any boys unless your sister is present.}
+<C>__{bianca}
+<D>__{why?}
+<C>__{walter}
+<D>__{because she'll scare them away.}
+<A>__{kat stomps to the door, grabbing her car keys off the hall table and a sweater from the coat rack. she flings open the door and... there stands patrick.}
+<C>__{patrick}
+<D>__{nine thirty right?}
+<A>__{kat's in shock}
+<C>__{patrick}
+<D>__{i'm early.}
+<A>__{she holds up her keys}
+<C>__{kat}
+<D>__{i'm driving.}
+<A>__{he peeks in behind her.}
+<C>__{patrick}
+<D>__{who knocked up your sister?}
+<L>__{interior bogey lowenstein's house night}
+<A>__{bogey, a short future mba in a tux, greets his guests like a pro, handing out cigars and martinis.}
+<C>__{bogey}
+<D>__{nice to see you. martini bar to the right, shots in the kitchen.}
+<A>__{the house is filled to capacity with padua high's finest kat pushes through the crowd. patrick saunters in behind her}
+<L>__{interior bogey's kitchen night}
+<A>__{joey lines up a row of shots amid much whooping and hollering within the jock crowd. kat enters, then quickly tries to make an about face. joey sees her and rushes over to block her, standing in the doorway.}
+<C>__{joey}
+<D>__{lookin' fresh tonight, pussy kat}
+<A>__{kat gives him a death look and then stops and points at his forehead.}
+<C>__{kat}
+<D>__{wait was that? did your hairline just recede?}
+<A>__{he panics, whipping out a handy pocket mirror she's already walking away.}
+<C>__{joey}
+<D>__{where ya goin?}
+<C>__{kat}
+<D>__{away.}
+<C>__{joey}
+<D>__{your sister here?}
+<A>__{kat's face shows utter hatred}
+<C>__{kat}
+<D>__{leave my sister alone.}
+<C>__{joey}
+<P>__{(smirking)}
+<D>__{and why would i do that?}
+<A>__{a ruckus sounds from the next room}
+<C>__{jock}
+<D>__{a fight!}
+<A>__{the other jocks rush to watch as two coffee kids splash their cupfuls on each other.}
+<D>__{coffee kid #1 that was a new guinea peaberry, you folger's crystals slurping buttwipe.}
+<A>__{caffeinated fists fly. joey slithers away from the door to watch, giving kat one last smirk, just as bianca walks into the kitchen.}
+<C>__{joey}
+<D>__{just who i was looking for.}
+<A>__{he puts his arm around bianca and escorts her out}
+<C>__{kat}
+<C>__{bianca}
+<A>__{bianca keeps walking, ignoring kat a guy pouring shots hands kat one she downs it and accepts another.}
+<B>__{guy}
+<A>__{drink up, sister. patrick walks up}
+<C>__{patrick}
+<D>__{what's this?}
+<C>__{kat}
+<P>__{(mocking)}
+<D>__{"i'm getting trashed, man." isn't that what you're supposed to do at a party?}
+<C>__{patrick}
+<D>__{i say, do what you wanna do.}
+<C>__{kat}
+<D>__{funny, you're the only one}
+<A>__{she downs another.}
+<L>__{interior bogey's living room night}
+<A>__{cameron and michael enter. cameron looks, around for his beloved, while michael schmoozee with all in attendance and dishes dirt simultaneously.}
+<C>__{michael}
+<P>__{(high fiving a jock)}
+<D>__{moose, my man!}
+<P>__{(to cameron)}
+<D>__{ranked fifth in the state. recruiters have already started calling.}
+<A>__{cameron nods intently}
+<C>__{michael}
+<P>__{(continuing; grabbing his belt)}
+<D>__{yo, clem.}
+<P>__{(to cameron)}
+<D>__{a patsy cline fan, but hates the new leanne rimes.}
+<P>__{(with a jamaican swagger)}
+<D>__{ziggy, peace, bra.}
+<P>__{(to cameron)}
+<D>__{prefers a water pipe, but has been known to use a bong.}
+<A>__{michael spots bianca and chastity, watching the skirmish, and points cameron's body in her direction.}
+<C>__{michael}
+<D>__{follow the love, man}
+<A>__{on bianca and chastity bianca cranes her neck}
+<C>__{bianca}
+<D>__{where did he go? he was just here.}
+<C>__{chastity}
+<D>__{who?}
+<C>__{bianca}
+<D>__{joey.}
+<A>__{cameron walks over.}
+<C>__{cameron}
+<D>__{evening, ladies.}
+<A>__{bianca turns and graces him with a pained smile.}
+<C>__{bianca}
+<D>__{hi.}
+<C>__{cameron}
+<D>__{looks like things worked out tonight, huh?}
+<A>__{bianca ignores the question and tries to pawn him off}
+<C>__{bianca}
+<D>__{you know chastity?}
+<C>__{cameron}
+<D>__{i believe we share an art instructor}
+<C>__{chastity}
+<D>__{great}
+<C>__{bianca}
+<D>__{would you mind getting me a drink, cameron?}
+<C>__{cameron}
+<D>__{certainly pabst? old milwaukee? raijieer?}
+<A>__{bianca gives him a tense smile.}
+<C>__{bianca}
+<D>__{surprise me.}
+<A>__{he heads for the kitchen. joey walks up and grabs her around the waist. she giggles as he picks her up and carries her off just as cameron returns, a beer complete with a napkin and straw in his hand. chastity glares with a jealous fury after bianca and joey, then gives cameron the once over and walks away. michael appears.}
+<C>__{michael}
+<D>__{extremely unfortunate maneuver.}
+<C>__{cameron}
+<D>__{the hell is that? what kind of 'guy just picks up a girl and carries her away while you're talking to her?}
+<C>__{michael}
+<D>__{buttholus extremus. but hey, you're making progress.}
+<C>__{cameron}
+<D>__{no, i ' m not.}
+<A>__{he smacks himself in the head}
+<C>__{cameron}
+<D>__{she used me! she wants to go out with dorsey. not me. i'm an idiot!}
+<A>__{michael pats him on the shoulder.}
+<C>__{michael}
+<D>__{at least you're self aware}
+<A>__{bogey's kitchen night kat and a crowd of white rastas and cowboys stand in a drunken group hug singing "i shot the sheriff". kat has another shot glass in hand. patrick is showing a scar to an inebriated, enraptured cheerleader. he looks up at kat and smiles meets his eyes then looks away.}
+<L>__{interior bogey's living room night}
+<A>__{bianca stands next to joey, sipping from her beer}
+<C>__{joey}
+<D>__{so yeah, i've got the sears catalog thing going and the tube sock gig " that's gonna be huge. and then i'm up for an ad for queen harry next week.}
+<C>__{bianca}
+<D>__{queen harry?}
+<C>__{joey}
+<D>__{it's a gay cruise line, but i will be, like, wearing a uniform and stuff.}
+<A>__{bianca tries to appear impressed, but it's getting difficult.}
+<C>__{bianca}
+<D>__{neat...}
+<C>__{joey}
+<D>__{my agent says i've got a good shot at being the prada guy next year.}
+<A>__{he looks over her shoulder and waves at someone. bianca takes the opportunity to escape.}
+<C>__{bianca}
+<D>__{i will be right back.}
+<L>__{interior bogey's bathroom night}
+<A>__{bianca shuts the door and leans on it with a sigh. chastity applies lip gloss in the mirror.}
+<C>__{bianca}
+<D>__{he practically proposed when he found out we had the same dermatologist. i mean. dr. bonchowski is great an all, but he's not exactly relevant party conversation.}
+<C>__{chastity}
+<D>__{is he oily or dry?}
+<C>__{bianca}
+<D>__{combination. i don't know i thought he'd be different. more of a gentleman...}
+<A>__{chastity rolls her eyes}
+<C>__{chastity}
+<D>__{bianca, i don't think the highlights of dating joey dorsey are going to include door opening and coat holding.}
+<C>__{bianca}
+<D>__{sometimes i wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with, you know?}
+<C>__{chastity}
+<D>__{all i know is i'd give up my private line to go out with a guy like joey.}
+<A>__{there's a knock at the door. bianca opens it to find a very drunken kat.}
+<C>__{kat}
+<D>__{bianca, i need to talk to you i need to tell you }
+<C>__{bianca}
+<P>__{(cutting her off)}
+<D>__{i really don't think i need any social advice from you right now.}
+<A>__{bianca grabs chastity's arm and they exit}
+<L>__{interior bogey's kitchen night later}
+<A>__{patrick tries to remove a shot glass from kat's hand.}
+<C>__{patrick}
+<A>__{maybe you should let me have it. kat is fierce in her refusal to let go}
+<C>__{kat}
+<D>__{i want another one}
+<A>__{joey enters, grabbing patrick by the shoulder, distracting him from his task.}
+<C>__{joey}
+<D>__{my man}
+<A>__{as patrick turns, kat breaks free and dives into the sea of dancing people in the dining room.}
+<C>__{patrick}
+<P>__{(annoyed)}
+<D>__{it's about time.}
+<C>__{joey}
+<D>__{a deal's a deal.}
+<A>__{he peels off some bills}
+<C>__{joey}
+<D>__{how'd you do it?}
+<C>__{patrick}
+<D>__{do what?}
+<C>__{joey}
+<D>__{get her to act like a human}
+<A>__{a very drunken kat jumps up onto the kitchen island and starts dancing by herself. she lets loose, hair flying. she's almost burlesque. others form a crowd, clapping and cheering her on she swings her head around banging it on a copper pot hanging from the rack above the center island. she starts to sway, then goes down as patrick rushes over to catch her. the others clap, thinking this is a wonderful finale. patrick sets her down on her feet, holding her up}
+<C>__{patrick}
+<D>__{okay?}
+<C>__{kat}
+<D>__{i'm fine. i'm}
+<A>__{she tries to push him away, but staggers when she does grabs her again, bracing her.}
+<C>__{patrick}
+<D>__{you're not okay.}
+<C>__{kat}
+<D>__{i just need to lie down for awhile}
+<C>__{patrick}
+<D>__{uh, uh. you lie down and you'll go to sleep}
+<C>__{kat}
+<D>__{i know, just let me sleep}
+<C>__{patrick}
+<D>__{what if you have a concussion? my dog went to sleep with a concussion and woke up a vegetable. not that i could tell the difference...}
+<A>__{she tries to sit on the floor}
+<C>__{kat}
+<D>__{okay, i will just sleep but stay awake, okay?}
+<A>__{he pulls her back to her}
+<C>__{patrick}
+<D>__{c'mon, let's walk}
+<L>__{interior bogey's dining room night}
+<A>__{as patrick walks kat through the dining room, cameron grabs his arm. cameron we need to talk.}
+<C>__{patrick}
+<D>__{cameron, i'm a little busy}
+<C>__{cameron}
+<D>__{it's off. the whole thing.}
+<A>__{kat slides down to the floor and patrick struggles to get h back on her feet.}
+<C>__{patrick}
+<D>__{what 're you talking about?}
+<C>__{cameron}
+<D>__{she's partial to joey, not me}
+<A>__{patrick doesn't have time for this.}
+<C>__{patrick}
+<D>__{cameron do you like the girl?}
+<C>__{cameron}
+<D>__{sure}
+<C>__{patrick}
+<P>__{(impatient)}
+<D>__{then, go get her}
+<A>__{patrick continues walking an oblivious kat outside. cameron stands there, unsure how to make use of this advice}
+<L>__{exterior bogey lowenstein's house night}
+<A>__{patrick marches kat around the yard, holding her up}
+<C>__{kat}
+<D>__{this is so patronizing.}
+<C>__{patrick}
+<D>__{leave it to you to use big words when you're shitfaced.}
+<C>__{kat}
+<D>__{why 're you doing this?}
+<C>__{patrick}
+<D>__{i told you}
+<C>__{kat}
+<D>__{you don't care if i die}
+<C>__{patrick}
+<D>__{sure, i do}
+<C>__{kat}
+<D>__{why?}
+<C>__{patrick}
+<D>__{because then i'd have to start taking out girls who like me.}
+<C>__{kat}
+<D>__{like you could find one}
+<C>__{patrick}
+<D>__{see that? who needs affection when i've got blind hatred?}
+<C>__{kat}
+<D>__{just let me sit down.}
+<A>__{he walks her over to the swingset and plops her down in a swing, moving her hands to hang onto the chains.}
+<C>__{patrick}
+<D>__{how's that?}
+<A>__{she sits and looks at him for a moment with a smile. then falls over backward.}
+<C>__{patrick}
+<D>__{jesus. you're like a weeble}
+<A>__{patrick rushes to right her, then starts pushing her on the swing to keep her entertained.}
+<C>__{patrick}
+<D>__{why'd you let him get to you?}
+<C>__{kat}
+<D>__{who?}
+<C>__{patrick}
+<D>__{dorsey.}
+<C>__{kat}
+<D>__{i hate him.}
+<C>__{patrick}
+<D>__{i know. it'd have to be a pretty big deal to get you to mainline tequila. you don't seem like the type.}
+<C>__{kat}
+<P>__{(holding up a drunken head)}
+<D>__{hey man. . . you don ' t think i can be "cool"? you don't think i can be "laid back" like everyone else?}
+<C>__{patrick}
+<P>__{(slightly sarcastic)}
+<D>__{i thought you were above all that}
+<C>__{kat}
+<D>__{you know what they say}
+<A>__{he stops the swing}
+<C>__{patrick}
+<D>__{no. what do they say?}
+<A>__{kat is asleep, her head resting against the swing's chains.}
+<C>__{patrick}
+<D>__{shit!}
+<A>__{he drags her to her feet and starts singing loudly.}
+<C>__{patrick}
+<D>__{jingle bells! jingle belles! wake up damn it!}
+<A>__{he sits her down on the slide and shakes her like a rag doll.}
+<C>__{patrick}
+<D>__{kat! wake up!}
+<C>__{kat}
+<P>__{(waking)}
+<D>__{what?}
+<A>__{he sighs with relief.}
+<C>__{patrick}
+<D>__{i thought you were...}
+<A>__{they share some meaningful eye contact. and then she pukes on his shoes.}
+<L>__{interior bogey's bathroom night}
+<A>__{kat washes her face and grabs a bottle of scope, taking a big swig. a knock sounds at the door}
+<C>__{kat}
+<D>__{go away}
+<A>__{bianca opens the door and looks at her sister with the smuggest of all possible grins.}
+<C>__{bianca}
+<D>__{dinner taste better on the way out?}
+<A>__{gives her a "don't even start" look.}
+<C>__{bianca}
+<D>__{i don't get you. you act like you're too good for any of this, and then you go totally apeshit when you get here.}
+<C>__{kat}
+<D>__{you're welcome.}
+<A>__{she pushes past her and leaves the bathroom. kat's car night kat's in the driver's seat. patrick leans in and takes the keys out of the ignition.}
+<C>__{patrick}
+<D>__{cute}
+<A>__{bogey lowenstein's house night kids loiter on the lawn. bianca and chastity walk outside joey catches up to them.}
+<C>__{joey}
+<D>__{a bunch of us are going to jaret's house. wanna come?}
+<A>__{chastity looks at bianca, who wears a pained expression. she looks at her watch.}
+<C>__{bianca}
+<D>__{i have to be home in twenty minutes.}
+<C>__{chastity}
+<P>__{(eagerly, to joey)}
+<D>__{i don't have to be home 'til two.}
+<C>__{joey}
+<D>__{then, c'mon.}
+<P>__{(to bianca)}
+<D>__{maybe next time }
+<A>__{they head back into the party, leaving an astonished bianca cameron exits the party and stops when he sees bianca standing alone.}
+<C>__{cameron}
+<P>__{(slightly accusatory)}
+<D>__{have fun tonight?}
+<C>__{bianca}
+<D>__{tons}
+<A>__{he starts to walk on}
+<C>__{bianca}
+<D>__{cameron?}
+<A>__{he stops. she gives him a helpless smile.}
+<C>__{bianca}
+<D>__{do you think you could give me a ride home?}
+<L>__{interior kat's car night}
+<A>__{patrick drives as kat sits in the passenger seat, fiddling with the radio dial. she finds a song she's happy with and patrick quickly changes it.}
+<C>__{patrick}
+<D>__{i'm driving, so i get to pick the tunes.}
+<A>__{she changes it back to her song.}
+<C>__{kat}
+<D>__{it's my car.}
+<A>__{he changes it back.}
+<C>__{patrick}
+<D>__{and i'm in control of it.}
+<C>__{kat}
+<D>__{but it's gigglepuss i know you like them. i saw you there.}
+<A>__{patrick doesn't have an answer for this, so he let's her listen to her song.}
+<C>__{kat}
+<D>__{when you were gone last year where were you?}
+<C>__{patrick}
+<D>__{busy}
+<C>__{kat}
+<D>__{were you in jail?}
+<C>__{patrick}
+<D>__{maybe.}
+<C>__{kat}
+<D>__{no, you weren't}
+<C>__{patrick}
+<D>__{then why'd you ask?}
+<C>__{kat}
+<D>__{why'd you lie?}
+<A>__{he doesn't answer, but instead, frowns and turns up the music. she bobs her head drunkenly.}
+<C>__{kat}
+<D>__{i should do this.}
+<C>__{patrick}
+<D>__{do what?}
+<C>__{kat}
+<D>__{this.}
+<A>__{she points to the radio}
+<C>__{patrick}
+<D>__{start a band?}
+<C>__{kat}
+<P>__{(sarcastically)}
+<D>__{my father wouldn't approve of that that}
+<C>__{patrick}
+<D>__{you don't strike me as the type that would ask permission.}
+<A>__{she turns to look at him.}
+<C>__{kat}
+<D>__{oh, so now you think you know me?}
+<C>__{patrick}
+<D>__{i'm gettin' there}
+<A>__{her voice loses it's venom}
+<C>__{kat}
+<D>__{the only thing people know about me is that i'm "scary".}
+<A>__{he turns to look at her she looks anything but scary right now. he tries to hide his smile.}
+<C>__{patrick}
+<A>__{yeah well, i'm no picnic myself. they eye each other, sharing a moment of connection, realizing they're both created the same exterior for themselves. patrick pulls into her driveway and shuts off the motor. he looks up at her house.}
+<C>__{patrick}
+<D>__{so what ' s up with your dad? he a pain in the ass?}
+<C>__{kat}
+<D>__{he just wants me to be someone i'm not.}
+<C>__{patrick}
+<D>__{who?}
+<C>__{kat}
+<C>__{bianca}
+<C>__{patrick}
+<D>__{no offense, but you're sister is without. i know everyone likes her and all, but ...}
+<A>__{kat stares at him with new admiration.}
+<C>__{kat}
+<D>__{you know you're not as vile as i thought you were.}
+<A>__{she leans drunkenly toward him. their faces grow closer as if they're about to kiss and then patrick turns away}
+<C>__{patrick}
+<D>__{so, i will see you in school}
+<A>__{kat stares at him, pissed. then gets out of the car, slamming the door shut behind her. cameron's car night bianca and cameron ride in silence. he finally breaks it.}
+<C>__{cameron}
+<D>__{i looked for you back at the party, but you always seemed to be "occupied".}
+<C>__{bianca}
+<P>__{(faux innocence )}
+<D>__{i was?}
+<C>__{cameron}
+<D>__{you never wanted to go out with 'me, did you?}
+<A>__{bianca bites her lip.}
+<C>__{bianca}
+<P>__{(reluctant)}
+<D>__{well, no...}
+<C>__{cameron}
+<D>__{then that's all you had to say.}
+<C>__{bianca}
+<D>__{but}
+<C>__{cameron}
+<D>__{you always been this selfish?}
+<A>__{bianca thinks a minute he pulls up in front of the house}
+<C>__{cameron}
+<D>__{just because you're beautiful, doesn't mean you can treat people like they don't matter.}
+<A>__{she looks at him for a moment then grabs his face and gives him a kiss on the lips. he draws back in surprise, then kisses her back. she smiles, then gets out of the car without another word. cameron grins and drives away}
+<C>__{cameron}
+<D>__{and i'm back in the saddle.}
+<L>__{interior english class day}
+<A>__{kat sits at her desk, burying her face in a book as the others enter. the white rastas are first.}
+<C>__{derek}
+<D>__{kat, my lady, you sway to the rhythm of my heart.}
+<A>__{he grabs her hand and kisses it as she pulls it away. clem, a cowboy, enters, high fiving derek with new found friendliness.}
+<C>__{clem}
+<D>__{yippe kai aye, bra.}
+<P>__{(to kat)}
+<D>__{dance for me, cowgirl.}
+<A>__{he sits next to derek}
+<C>__{clem}
+<D>__{okay, now tell me again why he didn't shoot the deputy?}
+<C>__{derek}
+<D>__{because the deputy meant him no harm, my friend. it was only the sheriff that was the oppressor.}
+<A>__{joey saunters in and takes his seat.}
+<C>__{joey}
+<D>__{kat, babe, you were on fire.}
+<A>__{mrs. blaise enters and sits at her desk}
+<C>__{mrs. blaise}
+<D>__{well now, did everyone have a good weekend?}
+<C>__{joey}
+<D>__{maybe we should ask verona}
+<A>__{patrick enters, late, and slinks to his desk. kat looks up, down and around, everywhere but at patrick. mrs. blaise tries to remember what she's supposed to talk about.}
+<C>__{mrs. blaise}
+<D>__{okay then. well.}
+<P>__{(beat)}
+<D>__{oh, yes}
+<A>__{she clears her throat.}
+<C>__{mrs. blaise}
+<D>__{i'd like you all to write your own version of shakespeare's sonnet #141.}
+<A>__{groans.}
+<C>__{mrs. blaise}
+<D>__{any form you'd like. rhyme, no rhyme, whatever. i'd like to see you elaborate on his theme, however. let's read it aloud, shall we? anyone?}
+<A>__{the class is frozen in apathy.}
+<C>__{mrs. blaise}
+<D>__{derek?}
+<A>__{ms. blaise hands him the sonnet. he shifts uncomfortably in his seat. then grins.}
+<C>__{derek}
+<P>__{(reading; in his rasta stoner drawl)}
+<D>__{in faith, i do not love thee with mine eyes for they in thee a thousand errors note but 'tis my heart that loves what they despise who in despite of view is pleas 'd to dote.}
+<A>__{in the back of the room clem raises his hand}
+<C>__{clem}
+<D>__{ms. blaise, can i get the bathroom pass? damn if shakespeare don't act as a laxative on my person.}
+<L>__{interior kenny's thai food diner day}
+<A>__{kat and mandella scrape the peanuts out of their sauce.}
+<C>__{mandella}
+<D>__{you went to the party? i thought we were officially opposed to suburban social activity.}
+<C>__{kat}
+<D>__{i didn't have a choice.}
+<C>__{mandella}
+<D>__{you didn't have a choice? where's kat and what have you done with her?}
+<C>__{kat}
+<D>__{i did bianca a favor and it backfired.}
+<C>__{mandella}
+<D>__{you didn't}
+<C>__{kat}
+<D>__{i got drunk. i puked. i got rejected. it was big fun.}
+<A>__{patrick enters, walking to the counter to order. he sees kat and smiles.}
+<C>__{patrick}
+<D>__{hey}
+<A>__{she gathers her things and bolts out the door. patrick looks at mandella, who shrugs and follows kat.}
+<L>__{interior biology class day cameron and michael flank patrick}
+<A>__{at his lab table}
+<C>__{michael}
+<D>__{so you got cozy with she who stings?}
+<C>__{patrick}
+<D>__{no i've got a sweet payin' job that i'm about to lose.}
+<C>__{cameron}
+<D>__{what'd you do to her?}
+<C>__{patrick}
+<D>__{i don ' t know.}
+<P>__{(beat)}
+<D>__{i decided not to nail her when she was too drunk to remember it.}
+<A>__{michael and cameron look at each other in realization, then turn back to patrick.}
+<C>__{cameron}
+<A>__{you realize this puts the whole operation in peril.}
+<C>__{patrick}
+<A>__{no shit. she won't even look at me}
+<C>__{cameron}
+<A>__{why can't you just tell her you're sorry? patrick's expression says that this is not a possibility. michael makes a time out sign with his hands.}
+<C>__{michael}
+<D>__{i'm on it}
+<L>__{interior hallway day}
+<A>__{mandella is at her locker. drawings of william shakespeare adorn the door. she looks at them with a sigh, then ties her silk scarf tightly around her neck, in an attempt to cut off her air supply. michael walks up.}
+<C>__{michael}
+<D>__{hey there. tired of breathing?}
+<C>__{mandella}
+<P>__{(shyly, as she loosens the scarf)}
+<D>__{hi.}
+<C>__{michael}
+<D>__{cool pictures. you a fan?}
+<C>__{mandella}
+<D>__{yeah. i guess.}
+<A>__{michael rocks. very hip.}
+<C>__{mandella}
+<D>__{you think?}
+<C>__{michael}
+<D>__{oh yeah.}
+<A>__{she looks at him suspiciously}
+<C>__{mandella}
+<D>__{who could refrain that had a heart to love and in that heart, courage to make ' b love known?}
+<A>__{michael thinks for a minute.}
+<C>__{michael}
+<D>__{macbeth, right?}
+<C>__{mandella}
+<P>__{(happily stunned)}
+<D>__{right.}
+<C>__{michael}
+<D>__{kat a fan, too?}
+<C>__{mandella}
+<P>__{(puzzled)}
+<D>__{yeah...}
+<A>__{he leans in close to her, conspiratorially}
+<C>__{michael}
+<D>__{so, listen... i have this friend}
+<L>__{exterior field hockey field day}
+<A>__{cameron sits next to patrick on the bleachers as they watch kat's practice.}
+<C>__{cameron}
+<D>__{she hates you with the fire of a thousand suns . that's a direct quote}
+<C>__{patrick}
+<D>__{she just needs time to cool off i will give it a day.}
+<A>__{a puck flies at them from the field, narrowly missing their heads.}
+<C>__{patrick}
+<D>__{maybe two.}
+<A>__{he looks at cameron.}
+<C>__{patrick}
+<D>__{you makin' any headway?}
+<C>__{cameron}
+<D>__{she kissed me.}
+<C>__{patrick}
+<P>__{(eyebrow raised)}
+<D>__{where?}
+<L>__{interior hallway day}
+<A>__{chastity rounds the corner and bends down to get a drink from the water fountain.}
+<B>__{nearby}
+<A>__{joey stands talking to two jock cohorts. the guys don't see her.}
+<C>__{joey}
+<D>__{don't talk to me about the sweetest date. that little halo bianca is gonna be prone and proven on prom night. six virgins in a row.}
+<A>__{the cohorts chortle chastity keeps drinking from the fountain}
+<L>__{exterior parking lot day}
+<A>__{joey leans against patrick's jeep. patrick is inside.}
+<C>__{patrick}
+<D>__{i don't know, dorsey. ..the limo. the flowers. another hundred for the tux }
+<C>__{joey}
+<D>__{enough with the barbie n' ken shit. i know.}
+<A>__{he pulls out his wallet and hands patrick a wad of money}
+<C>__{joey}
+<D>__{take it}
+<A>__{patrick does, with a smile, as he roars out of the parking lot.}
+<L>__{interior school courtyard day}
+<A>__{kat and mandella deface a prom flyer.}
+<C>__{kat}
+<D>__{can you even imagine? who the hell would go to this a bastion of commercial excess?}
+<C>__{mandella}
+<D>__{well, i guess we're not, since we don't have dates .}
+<C>__{kat}
+<D>__{listen to you! you sound like betty, all pissed off because archie is taking veronica.}
+<C>__{mandella}
+<D>__{okay, okay, we won't go. it's not like i have a dress anyway}
+<C>__{kat}
+<D>__{you ' re looking at this from the wrong perspective. we're making a statement.}
+<C>__{mandella}
+<P>__{(unconvinced)}
+<D>__{oh, good. something new and different for us.}
+<L>__{exterior archery field day}
+<A>__{mr. chapin patrols as boys and girls shoot arrows at targets joey swaggers up to bianca, who is taking careful aim. chastity watches from across the row.}
+<C>__{joey}
+<D>__{hey, sweet cheeks.}
+<C>__{bianca}
+<P>__{(not looking at him)}
+<D>__{hi, joey.}
+<C>__{joey}
+<D>__{you're concentrating awfully hard considering it's gym class.}
+<A>__{she lets the arrow go and turns to look at him.}
+<C>__{joey}
+<D>__{listen, i want to talk to you about the prom.}
+<C>__{bianca}
+<D>__{you know the deal. i can ' t go if kat doesn't go }
+<A>__{in the background, a rasta crumples to the ground. hit a casualty of gym. mr. chapin scurries over.}
+<C>__{joey}
+<D>__{your sister is going.}
+<A>__{bianca looks at him, surprised}
+<C>__{bianca}
+<D>__{since when?}
+<A>__{joey takes the bow and arrow from bianca's hand. he draws back and takes aim.}
+<C>__{joey}
+<D>__{i'm taking care of it.}
+<A>__{chastity looks over from her spot on the field, but keeps lips firmly shut.}
+<L>__{interior book store day}
+<A>__{kat browses through the feminist lit section patrick appears, through a hole in the books.}
+<C>__{patrick}
+<D>__{excuse me, have you seen the feminine mystique? i lost my copy.}
+<C>__{kat}
+<P>__{(frowning)}
+<D>__{what are you doing here?}
+<C>__{patrick}
+<D>__{i heard there was a poetry reading.}
+<C>__{kat}
+<D>__{you 're so }
+<C>__{patrick}
+<D>__{pleasant?}
+<A>__{kat stares at him, deadpan.}
+<C>__{patrick}
+<D>__{wholesome.}
+<C>__{kat}
+<D>__{unwelcome.}
+<C>__{patrick}
+<D>__{unwelcome? i guess someone still has her panties in a twist.}
+<C>__{kat}
+<D>__{don't for one minute think that you had any effect whatsoever on my panties.}
+<C>__{patrick}
+<D>__{so what did i have an effect on ?}
+<C>__{kat}
+<D>__{other than my upchuck reflex? nothing.}
+<A>__{she pushes past him and heads out the' door pat looks down at the book he's been holding in his hand: taming of the shrew.}
+<L>__{interior cafeteria day}
+<A>__{cameron and michael flank patrick as he shovels food into mouth.}
+<C>__{patrick}
+<D>__{you were right. she's still pissed.}
+<C>__{michael}
+<D>__{sweet love, renew thy force!}
+<C>__{patrick}
+<D>__{man don't say shit like that to me. people can hear you.}
+<C>__{cameron}
+<P>__{(exasperated)}
+<D>__{you humiliated the woman! sacrifice yourself on the altar of dignity and even the score.}
+<C>__{michael}
+<D>__{best case scenario, you're back on the payroll for awhile.}
+<C>__{patrick}
+<D>__{what's the worst?}
+<C>__{cameron}
+<D>__{you get the girl.}
+<A>__{patrick thinks for a minute}
+<C>__{patrick}
+<D>__{if i go down. i'm takin' her with me}
+<L>__{interior english class day}
+<A>__{kat and the other students sit at their desks, taking a quiz patrick's seat is conspicuously empty. from outside, we hear the soft, unsure beginnings of a song. kat looks up, then out the window, horrified. the song grows louder until we realize it's the partridge family's "i think i love you". being sung by patrick.}
+<C>__{patrick}
+<P>__{(0. s.)}
+<D>__{"this morning, i woke up with this feeling, i didn't know how to deal with, and so i just decided to myself "}
+<A>__{the students rush to the window. outside patrick stands beneath the window, crooning. scurvy is next to him, keeping the beat on the bongos and doing backup vocal s.}
+<C>__{patrick}
+<D>__{"i'd hide it to myself. and never talk about it. and didn't i go and shout it when you walked into the room "}
+<A>__{he makes quite a sarcastic show of it.}
+<B>__{in the classroom}
+<A>__{mrs. blaise touches her heart, as if the song is for her. kat slowly walks to the window, peeking below.}
+<B>__{outside}
+<A>__{patrick smiles at her as he finishes the verse with a big finale.}
+<C>__{patrick}
+<D>__{" i think i love you i "}
+<B>__{inside}
+<A>__{the other students laugh, clap, cheer, etc. kat sinks down, mortified, but with a slight smile}
+<L>__{interior detention hall day}
+<A>__{patrick and several other miscreants sit quietly, mulling over their misfortune.}
+<C>__{miscreant}
+<D>__{nice song, verona.}
+<C>__{patrick}
+<D>__{flog me.}
+<A>__{he makes the appropriate hand gesture mr. chapin, the gym teacher, sits at the desk in front, ignoring them while he reads a girly weightlifting magazine}
+<C>__{kat }
+<D>__{excuse me, mr. chapin?}
+<A>__{patrick looks up at the sound of her voice and sees kat standing in the doorway. she gives him a smile and he perks up a little. kat walks into the room and addresses mr. chapin again. he turns fully to face her.}
+<C>__{kat}
+<D>__{sir, i'd like to state for the record that mr. verona ' s current incarceration is unnecessary. i never filed a complainterior}
+<C>__{mr. chapin}
+<D>__{you didn't have to. he disrupted a classroom.}
+<A>__{kat glances over at patrick and motions her head toward the window. patrick shrugs, not knowing what she ' s talking about. she motions again, and looks toward the window with an expression that says, "make a break for it, moron." kat brings her attention back to mr. chapin while patrick inches out of his seat toward the window. the other miscreants watch with glee.}
+<C>__{kat}
+<D>__{but, mr. chapin, i hardly think a simple serenade warrants a week of detention. there are far more hideous acts than off key singing being performed by the student body on a regular basis.}
+<A>__{patrick is halfway out the window now. and none too happy about it, considering they're on the second floor. he eyes a large tree a few feet away from mr. chapin. he starts to turn away from kat}
+<C>__{mr. chapin}
+<D>__{you're not gonna change my mind, kat. rules stick.}
+<A>__{kat starts to panic, as patrick has yet to make the jump for the tree.}
+<C>__{kat}
+<D>__{wait, mr. chapin. there's something i've always wanted to show you.}
+<A>__{he turns back toward her again, the very second before he would have spotted patrick. kat glances toward the window. patrick's just about to make the jump.}
+<C>__{mr. chapin}
+<D>__{what?}
+<C>__{kat}
+<D>__{these.}
+<A>__{from behind, we see her lift up her shirt and flash her bra at mr. chapin, just as patrick makes the jump. the miscreants cheer, for both the daring' escape and the flash of skin. mr. chapin reddens and tries to be stern.}
+<C>__{mr. chapin}
+<D>__{i'm going to let that slide, katarina. but if i catch you doing that again, you'll be in here with the rest of these guys.}
+<A>__{he motions to the remaining detention prisoners, without noticing patrick's absence. kat smiles at him.}
+<C>__{kat}
+<D>__{thank you, mr. chapin.}
+<A>__{kat bolts out the door. mr. chapin goes back to his muscle mag, wiping the sweat from his brow.}
+<L>__{exterior school campus lawn}
+<A>__{kat arrives at the tree. looking around breathlessly, seeing no one.}
+<C>__{kat}
+<D>__{he left! i sprung the dickhead and he cruised on me.}
+<C>__{patrick}
+<P>__{(0. s.)}
+<D>__{look up, sunshine}
+<A>__{she does. he's still in the tree}
+<C>__{patrick}
+<D>__{i guess i never told you i'm afraid of heights.}
+<C>__{kat}
+<P>__{(smiling)}
+<D>__{c'mon. it's not that bad}
+<C>__{patrick}
+<D>__{try lookin' at it from this angle}
+<A>__{she assesses the branch structure}
+<C>__{kat}
+<D>__{put your right foot there }
+<C>__{patrick}
+<D>__{forget it. i'm stayin'.}
+<C>__{kat}
+<D>__{you want me to climb up and show you how to get down?}
+<C>__{patrick}
+<P>__{(voice trembling)}
+<D>__{maybe.}
+<A>__{she sighs and dose so. when she gets to his level, she perches on the branch next to him. he grins at her. then swings himself down with the grace and ease of a monkey, leaving her sitting there, realizing she's been duped.}
+<C>__{kat}
+<D>__{you shit!}
+<A>__{she climbs down after him}
+<L>__{exterior outdoor arcade day}
+<A>__{patrick and kat walk amongst the games}
+<C>__{kat}
+<D>__{the partridge family?}
+<C>__{patrick}
+<D>__{i figured it had to be something ridiculous to win your respect. and piss you off.}
+<C>__{kat}
+<D>__{good call.}
+<C>__{patrick}
+<D>__{so how'd you get chapin to look the other way?}
+<C>__{kat}
+<D>__{i dazzled him with my wit}
+<A>__{she stops and picks up a toy gun that shoots water at giggling hyenas and wails on it. the barker hands her a stuffed animal as her prize. she hands it to the small kid next to her and they continue walking.}
+<C>__{patrick}
+<P>__{(sarcastic)}
+<D>__{a soft side? who knew?}
+<C>__{kat}
+<D>__{yeah, well, don't let it get out}
+<C>__{patrick}
+<D>__{so what's your excuse?}
+<C>__{kat}
+<D>__{acting the way we do.}
+<C>__{patrick}
+<D>__{yes}
+<C>__{kat}
+<D>__{i don't like to do what people expect. then they expect it all the time and they get disappointed when you change.}
+<C>__{patrick}
+<D>__{so if you disappoint them from the start, you're covered?}
+<C>__{kat}
+<D>__{something like that}
+<C>__{patrick}
+<D>__{then you screwed up}
+<C>__{kat}
+<D>__{how?}
+<C>__{patrick}
+<D>__{you never disappointed me.}
+<A>__{she blushes under his gaze}
+<C>__{patrick}
+<D>__{you up for it?}
+<C>__{kat}
+<D>__{for. . . ?}
+<A>__{he motions to the sign for a paint ball game. she grins}
+<T>__{series of shots:}
+<A>__{the two of them creep through the paint ball course, stealthy and full of the desire to best the other. patrick nails kat in the back with a big glob of red paint kat gets him in the chest with a glob of blue. patrick returns fire with a big yellow splat to the side of her face. kat squirts a green shot to his forehead after a few more shots, they're both covered in paint she tries to shoot him again, only to find that her gun is empty.}
+<C>__{kat}
+<D>__{damn it!}
+<A>__{patrick grabs her in a victorious tackle. they land, laughing. it's hard to even recognize them, as their hair and faces are so smeared with paint globs, but they still manage to find each other's eyes. he wipes a smear of blue paint away from her lips, as he goes to kiss her. nearby the kid with the stuffed animal, points}
+<C>__{kid}
+<D>__{look, mom}
+<A>__{his mother hurries him away. what's started as a tackle has turned into a passionate kiss}
+<L>__{exterior stratford house night}
+<A>__{patrick pulls up in kat's driveway. their paint wardrobe has dried by now and they look like refugees from some strange, yet colorful, war.}
+<C>__{kat}
+<D>__{state trooper?}
+<C>__{patrick}
+<D>__{fallacy.}
+<C>__{kat}
+<D>__{the duck?}
+<C>__{patrick}
+<D>__{hearsay.}
+<C>__{kat}
+<D>__{i know the porn career's a lie.}
+<A>__{he shuts off the car and turns to her.}
+<C>__{patrick}
+<D>__{do you?}
+<A>__{he kisses her neck. it tickles. she laughs.}
+<C>__{kat}
+<D>__{tell me something true.}
+<C>__{patrick}
+<D>__{i hate peas.}
+<C>__{kat}
+<D>__{no something real. something no one else knows.}
+<C>__{patrick}
+<P>__{(in between kisses)}
+<D>__{you're sweet. and sexy. and completely hot for me.}
+<C>__{kat}
+<D>__{what?}
+<C>__{patrick}
+<D>__{no one else knows}
+<C>__{kat}
+<D>__{you're amazingly self assured. has anyone ever told you that?}
+<C>__{patrick}
+<D>__{go to the prom with me}
+<A>__{kat's smile disappears.}
+<C>__{kat}
+<D>__{is that a request or a command?}
+<C>__{patrick}
+<D>__{you know what i mean}
+<C>__{kat}
+<D>__{no.}
+<C>__{patrick}
+<D>__{no what?}
+<C>__{kat}
+<D>__{no, i won't go with you}
+<C>__{patrick}
+<D>__{why not?}
+<C>__{kat}
+<D>__{because i don't want to. it's a stupid tradition.}
+<A>__{patrick sits quietly, torn. he can't very well tell her he being paid to take her.}
+<C>__{patrick}
+<D>__{people won't expect you to go...}
+<A>__{kat turns to him, getting angry.}
+<C>__{kat}
+<D>__{why are you doing this?}
+<C>__{kat}
+<D>__{all of it what's in it for you?}
+<A>__{he sits silently, not looking at her, confirming her suspicions.}
+<C>__{kat}
+<D>__{create a little drama? start a new rumor? what?}
+<C>__{patrick}
+<D>__{so i have to have a motive to be with you?}
+<C>__{kat}
+<D>__{you tell me.}
+<C>__{patrick}
+<D>__{you need therapy. has anyone ever told you that?}
+<C>__{kat}
+<P>__{(quietly)}
+<D>__{answer the question, patrick}
+<C>__{patrick}
+<P>__{(angry)}
+<D>__{nothing! there's nothing in it for me. just the pleasure of your company.}
+<A>__{he takes out a cigarette. she breaks it in half before she slams the car door and walks into the house. patrick peels out of the driveway. kat turns at the front door and watches him go}
+<L>__{exterior street night}
+<A>__{patrick pulls up to a stop light and waits for .the green he glances over at a drunken homeless guy in the median, who has decided that he doesn't need to wear pants. patrick pulls out his wallet, takes the wad of money joey gave him and hands it to the homeless guy.}
+<C>__{patrick}
+<D>__{cover that up}
+<A>__{the light turns green and patrick pulls away}
+<L>__{interior stratford house bathroom night}
+<A>__{kat stands at the sink, scrubbing paint off of her face bianca taps on the open door.}
+<C>__{bianca}
+<D>__{quick question are you going to the prom?}
+<A>__{kat pushes the door shut with a slam}
+<L>__{interior study hall day}
+<A>__{cameron and bianca sit together at their study cubby. she fingers a strand of her hair.}
+<C>__{bianca}
+<D>__{then guillermo says, "if you go any lighter, you're gonna look like an extra on 90210."}
+<C>__{cameron}
+<D>__{no...}
+<A>__{bianca stares at him for a moment.}
+<C>__{bianca}
+<D>__{do you listen to this crap?}
+<C>__{cameron}
+<D>__{what crap?}
+<C>__{bianca}
+<D>__{me. this endless ...blonde babble. i'm like, boring myself.}
+<C>__{cameron}
+<D>__{thank god! if i had to hear one more story about your coiffure...}
+<A>__{he mock stabs himself with a pencil as she giggles and smacks his hand away.}
+<C>__{cameron}
+<D>__{i figured you'd get to the good stuff eventually.}
+<C>__{bianca}
+<D>__{what good stuff?}
+<C>__{cameron}
+<D>__{the "real you".}
+<C>__{bianca}
+<D>__{like my fear of wearing pastels?}
+<A>__{he looks stricken.}
+<C>__{bianca}
+<D>__{i'm kidding.}
+<P>__{(beat)}
+<D>__{you know how sometimes you just become this "persona"? and you don't know how to quit?}
+<C>__{cameron}
+<P>__{(matter of fact)}
+<D>__{no}
+<C>__{bianca}
+<D>__{okay you're gonna need to learn how to lie.}
+<L>__{interior hallway day}
+<A>__{mandella struggles with the lock on her locker. finally, it opens. hanging inside is a beautiful dress, inspired by the 16th century. mandella slowly unpins a note from the dress. insert "0 fair one. join me at the prom. i will be waiting. love, william s." mandella's agog. trevor walks by and sees her holding the dress.}
+<C>__{trevor}
+<D>__{you're gonna look splendiferous in that, mandella.}
+<A>__{mandella looks up sharply, shaken from her reverie.}
+<C>__{trevor}
+<D>__{that's cool to say.}
+<A>__{mandella grins it is}
+<C>__{mandella}
+<L>__{interior stratford house den day}
+<A>__{sharon is at her computer, walter at his exercise bike}
+<C>__{sharon}
+<D>__{would you rather be ravished by a pirate or a british rear admiral?}
+<C>__{walter}
+<D>__{pirate no question.}
+<A>__{bianca enters and walks over to walter}
+<C>__{bianca}
+<D>__{daddy, i want to discuss the prom with you. it's tomorrow night }
+<C>__{walter}
+<D>__{the prom? kat has a date?}
+<C>__{bianca}
+<D>__{no, but}
+<C>__{walter}
+<D>__{it's that hot rod joey, right? that ' s who you want me to bend my rules for?}
+<C>__{bianca}
+<D>__{he's not a "hot rod". whatever that is.}
+<C>__{walter}
+<D>__{you're not going unless your sister goes. end of story.}
+<C>__{bianca}
+<D>__{fine. i see that i'm a prisoner in my own house. i'm not a daughter. i'm a possession!}
+<A>__{bianca storms out.}
+<C>__{walter}
+<P>__{(calling out)}
+<D>__{you know what happens at proms?}
+<A>__{sharon stops her typing and looks up at walter}
+<C>__{sharon}
+<D>__{they'll dance, they'll kiss, they'll come home. let her go.}
+<C>__{walter}
+<D>__{kissing? is that what you think happens? kissing isn't what keeps me up to my elbows in placenta all day.}
+<L>__{interior bianca's room night}
+<A>__{bianca lies on her bed. mtv blares. a knock sounds.}
+<B>__{bianca}
+<A>__{come in. kat enters and sits down on the bed, muting the tv.}
+<C>__{kat}
+<P>__{(kindly)}
+<D>__{listen, i know you hate having to sit home because i'm not susie high school.}
+<C>__{bianca}
+<D>__{like you care.}
+<C>__{kat}
+<D>__{i do care. but i'm a firm believer in doing something for your own reasons, not someone else ' s .}
+<C>__{bianca}
+<D>__{i wish i had that luxury. i'm the only sophomore that got asked to the prom and i can't go, because you won ' t.}
+<A>__{kat clears her throat}
+<C>__{kat}
+<D>__{joey never told you we went out, did he?}
+<C>__{bianca}
+<D>__{what?}
+<C>__{kat}
+<D>__{in 9th. for a month}
+<C>__{bianca}
+<P>__{(confused)}
+<D>__{why?}
+<C>__{kat}
+<P>__{(self mocking)}
+<D>__{he was, like, a total babe}
+<C>__{bianca}
+<D>__{but you hate joey}
+<C>__{kat}
+<D>__{now i do. back then, was a different story.}
+<C>__{bianca}
+<D>__{as in...}
+<A>__{kat takes a deep breath.}
+<C>__{kat}
+<D>__{he said everyone was doing it. so i did it.}
+<C>__{bianca}
+<D>__{you did what?}
+<C>__{kat}
+<P>__{(continuing on)}
+<D>__{just once. afterwards, i told him i didn't want to anymore. i wasn't ready. he got pissed. then he broke up with me.}
+<A>__{bianca stares at her, dumbfounded}
+<C>__{bianca}
+<D>__{but}
+<C>__{kat}
+<D>__{after that, i swore i'd never do anything just because "everyone else" was doing it. and i haven't since. except for bogey's party, and my stunning gastro intestinal display }
+<C>__{bianca}
+<P>__{(stunned)}
+<D>__{why didn't you tell me?}
+<C>__{kat}
+<D>__{i wanted to let you make up your own mind about him.}
+<C>__{bianca}
+<D>__{no. you didn't! if you really thought i could make my own decisions, you would've let me go out with him instead of helping daddy hold me hostage.}
+<A>__{kat stands up slowly}
+<C>__{kat}
+<D>__{that's not}
+<C>__{bianca}
+<D>__{i'm not stupid enough to repeat your mistakes.}
+<C>__{kat}
+<D>__{i guess i thought i was protecting you.}
+<C>__{bianca}
+<D>__{god, you're just like him! just keep me locked away in the dark, so i can't experience anything for myself}
+<C>__{kat}
+<D>__{not all experiences are good, bianca. you can't always trust the people you want to.}
+<C>__{bianca}
+<D>__{i guess i will never know, will i?}
+<A>__{she rises and holds the door open for kat, then slams it behind her.}
+<L>__{exterior stratford house day}
+<A>__{a sprinkler cruises the lawn.}
+<L>__{interior kat's room day}
+<A>__{kat lies in bed, staring at the ceiling. she rolls over and picks up the phone. bianca's room day bianca, still in her pajamas, eats a bowl of cereal while watching "i love lucy" reruns. a knock sounds}
+<C>__{bianca}
+<D>__{come in.}
+<A>__{kat opens the door and peers in with a grin}
+<C>__{kat}
+<D>__{feel like shopping?}
+<A>__{bianca looks up, hopefully. living room night walter and sharon are in front of the television. walter has the tv guide in hand, glasses on.}
+<C>__{walter}
+<D>__{what do you wanna watch? we've got crap, crap, crap or crap}
+<C>__{sharon}
+<D>__{dr. ruth?}
+<A>__{bianca walks into the living room. she's wearing a prom dress.}
+<C>__{bianca}
+<D>__{hi, mommy.}
+<P>__{(looking away)}
+<C>__{walter}
+<A>__{walter scurries takes off his glasses and looks from bianca to sharon.}
+<C>__{sharon}
+<D>__{honey, you look beautiful!}
+<C>__{bianca}
+<D>__{you like? my date should be here in five.}
+<C>__{walter}
+<D>__{i'm missing something.}
+<C>__{bianca}
+<D>__{i have a date, daddy. and he ' s not a captain of oppression like some men we know.}
+<A>__{the doorbell rings. bianca runs to open it. there stands cameron. he takes in bianca's outfit.}
+<C>__{cameron}
+<D>__{wow}
+<C>__{bianca}
+<D>__{let's go.}
+<A>__{walter rises. sharon pulls him back down on the couch}
+<C>__{sharon}
+<P>__{(to bianca)}
+<D>__{have a great time, honey!}
+<C>__{walter}
+<D>__{but who what ?}
+<A>__{the door slams. as sharon looks at walter with a grin, a blur rushes down the stairs and out the door. the blur has kat ' s voice.}
+<C>__{kat}
+<D>__{hey, guys. i'm going to the prom. see you in a few.}
+<A>__{the door slams again. walter and sharon 'are alone}
+<C>__{walter}
+<D>__{what just happened?}
+<C>__{sharon}
+<D>__{your daughters went to the prom.}
+<C>__{walter}
+<D>__{did i have anything to say about it?}
+<C>__{sharon}
+<D>__{absolutely not.}
+<C>__{walter}
+<D>__{that ' s what i thought}
+<A>__{the doorbell rings again. walter opens it to find joey on the porch, wearing a tux.}
+<C>__{joey}
+<D>__{i'm here to pick up bianca.}
+<C>__{walter}
+<D>__{late}
+<A>__{he slams the door shut}
+<L>__{ext hotel parking lot night}
+<A>__{kat pulls up in her car, emerging resplendent in an ice gown. patrick sits on the steps, waiting. in a tux.}
+<C>__{kat}
+<D>__{how'd you get a tux at the last minute?}
+<C>__{patrick}
+<D>__{it's scurvy's. his date got convicted. where'd you get the dress?}
+<C>__{kat}
+<D>__{it's just something i had. you know}
+<C>__{patrick}
+<P>__{(smiling)}
+<D>__{oh huh}
+<C>__{kat}
+<D>__{look, i'm sorry that i questioned your motives. i was wrong.}
+<A>__{patrick winces slightly, but covers it with a smile}
+<C>__{patrick}
+<D>__{no prob.}
+<A>__{he remains seated. kat fidgets nervously.}
+<C>__{kat}
+<D>__{are you ready?}
+<A>__{he rises and stares at her, taking in her image appreciatively. she blushes and turns away.}
+<C>__{kat}
+<D>__{c'mon. let's get this over with.}
+<L>__{interior prom night}
+<A>__{a hotel ballroom transformed into a fantasy world. patrick and kat enter, kat attempting to deny the romance of it.}
+<C>__{kat}
+<D>__{quite the ostentatious display}
+<A>__{a cowboy two steps by them, dragging some poor girl around}
+<C>__{patrick}
+<D>__{look, clem even wore his good boots}
+<A>__{kat steps forward, looking around and spots cameron and bianca dancing cheek to cheek. she smiles.}
+<B>__{across the room}
+<A>__{mandella enters nervously, in the long elizabethan gown, hair piled on top of her head. she spots kat and hurries over.}
+<C>__{mandella}
+<D>__{have you seen him?}
+<C>__{kat}
+<D>__{who?}
+<C>__{mandella}
+<D>__{william he asked me to meet him here.}
+<C>__{kat}
+<D>__{oh, honey tell me we haven't' progressed to full on hallucinations.}
+<A>__{patrick looks toward the door and taps kat. she turns and points mandella the same way. michael in full shakespearean dress with a new goatee on his chin bows in their direction. mandella's grin couldn't be bigger. michael swashbuckles over to them, taking mandella's hand and leading her onto the dance floor.}
+<C>__{michael}
+<D>__{mi' lady.}
+<P>__{(to patrick)}
+<D>__{good sir.}
+<A>__{patrick rolls his eyes.}
+<L>__{interior prom night later}
+<A>__{kat and patrick dance to a slow song. whatever he's whispering into her ear is making her laugh. cam and bianca dance nearby, glowing with happiness. she whispers something in his ear and heads for the ladies' room}
+<L>__{interior ladies room night}
+<A>__{bianca walks in, positively radiant. chastity emerges from a stall.}
+<C>__{bianca}
+<P>__{(surprised)}
+<D>__{what are you doing here?}
+<A>__{chastity checks her hair in the mirror, aloof.}
+<C>__{chastity}
+<D>__{you think you ' re the only sophomore at the prom?}
+<C>__{bianca}
+<D>__{i did.}
+<A>__{chastity maintains her snooty tone.}
+<C>__{chastity}
+<D>__{and just so you know, my date isn't planning on spending most of the night in his backseat.}
+<A>__{bianca what're you talking about?}
+<C>__{chastity}
+<D>__{joey dorsey is only after one thing your cherry. he practically made a public announcement.}
+<A>__{appalled, bianca storms out. chastity tries to backpedal.}
+<C>__{chastity}
+<D>__{i wanted to tell you}
+<L>__{interior prom night}
+<A>__{joey, drunk, disorderly and pissed off, walks in with a few stray jocks also dateless. he zeroes in on cameron, now consoling a pissed off bianca. patrick and kat continue to slow dance, oblivious to the evil about to erupt.}
+<C>__{patrick}
+<D>__{my grandmother's .}
+<C>__{kat}
+<D>__{what?}
+<C>__{patrick}
+<D>__{that's where i was last year. she'd never lived alone my grandfather died i stayed with her. i wasn't in jail, i don't know marilyn manson, and i've never slept with a spice girl. i spent a year sitting next to my grandma on the couch watching wheel of fortune. end of story.}
+<A>__{he takes a breath and looks away, not meeting her eyes. kat stares at him for a moment and laughs a delighted laugh}
+<C>__{kat}
+<D>__{that ' s completely adorable!}
+<C>__{patrick}
+<D>__{it gets worse you still have your freshman yearbook?}
+<A>__{he's interrupted by joey's hand on his shoulder.}
+<C>__{joey}
+<D>__{what's bianca doing here with that cheese dick? i didn't pay you to let some little punk ass snake me.}
+<B>__{across the room}
+<A>__{michael spots the altercation and dances mandella over to cameron and bianca.}
+<C>__{michael}
+<P>__{(to cameron)}
+<D>__{feces hitting fan. c'mon}
+<A>__{michael takes cameron aside, leaving mandella and bianca staring after them.}
+<B>__{across the room}
+<A>__{michael and cameron approach joey as he continues to taunt patrick who keeps quiet, realizing the weight of this situation.}
+<C>__{michael}
+<D>__{joey, pal, compadre. let's take it easy.}
+<A>__{joey turns toward michael and cameron. joey you two are in big trouble cameron faces joey.}
+<C>__{cameron}
+<D>__{admit it. you lost. be a man.}
+<A>__{joey punches cameron in the face, taking him by surprise cameron holds his nose as it bleeds onto his tux the various cliques descend angrily and joey is soon surrounded by seething cowboys, coffee kids and white rastas.}
+<C>__{derek}
+<D>__{very uncool, my brother}
+<C>__{joey}
+<D>__{i'm not your brother, white boy.}
+<A>__{the other rastas gasp, as if stung by the realization that they're white. joey turns back to patrick and kat.}
+<C>__{joey}
+<D>__{just so you know she'll only spread her legs once.}
+<A>__{kat looks from joey to patrick, not sure what she's hearing. joey pushes through the crowd but a hand drags him back. it's bianca. and she belts the hell out of him}
+<C>__{bianca}
+<D>__{that's for making my date bleed}
+<A>__{she belts him again}
+<C>__{bianca}
+<D>__{that's for my sister.}
+<A>__{and again}
+<C>__{bianca}
+<D>__{and that's for me.}
+<A>__{cliques now descend on joey, punching him wildly.}
+<C>__{cowboy}
+<D>__{and that's for the fourth grade, asshole.}
+<A>__{hotel night kat runs down the stairs, patrick chasing her}
+<C>__{patrick}
+<D>__{wait i...}
+<C>__{kat}
+<D>__{you were paid to take me out! by the one person i truly hate. i knew it was a set up!}
+<C>__{patrick}
+<D>__{it wasn't like that.}
+<C>__{kat}
+<D>__{really? what was it like? a down payment now, then a bonus for sleeping with me?}
+<C>__{patrick}
+<D>__{i didn't care about the money.}
+<A>__{he catches up to her now}
+<C>__{patrick}
+<D>__{i cared about }
+<A>__{she turns to face him with a countenance more in sorrow than in anger.}
+<C>__{kat}
+<D>__{you are so not what i thought you were.}
+<A>__{he grabs her and kisses her to shut her up. after a second, she jerks away and flees down the stairs and out of sight. bianca stands at the top of the stairs, watching. she's never looked more guilty.}
+<L>__{interior stratford house day}
+<A>__{kat is sprawled on the couch in sweats, wrapped in a blanket, watching "sixteen candles". when molly ringwald leans across the birthday cake to get a kiss from her dream date, kat changes the channel disgustedly, settling for an infomercial the phone sits next to her. not ringing. bianca breezes in, bearing a cup of tea.}
+<C>__{bianca}
+<D>__{are you sure you don't want to come with us? it'll be fun.}
+<A>__{kat takes the tea and gives a weak smile.}
+<C>__{kat}
+<D>__{i ' m sure .}
+<A>__{bianca sits down next to her}
+<C>__{bianca}
+<D>__{you looked beautiful last night, you know.}
+<C>__{kat}
+<D>__{so did you}
+<A>__{bianca gives her a squeeze, then jumps up when the doorbell rings, opening the door to a waiting cameron. he peeks his head inside.}
+<C>__{cameron}
+<D>__{she okay?}
+<C>__{bianca}
+<D>__{i hope so.}
+<A>__{the door shuts behind her as walter enters.}
+<C>__{walter}
+<D>__{was that your sister?}
+<C>__{kat}
+<D>__{yeah. she left with some bikers big ones. full of sperm.}
+<C>__{walter}
+<D>__{funny.}
+<A>__{walter sits down on the arm of the chair and watches the infomercial with kat.}
+<C>__{walter}
+<D>__{i don't understand the allure of dehydrated food. is this something i should be hip to?}
+<C>__{kat}
+<D>__{no, daddy.}
+<C>__{walter}
+<P>__{(dreading the answer)}
+<D>__{so tell me about this dance. was it fun?}
+<C>__{kat}
+<D>__{parts of it.}
+<C>__{walter}
+<D>__{which parts?}
+<C>__{kat}
+<D>__{the part where bianca beat the hell out of some guy.}
+<C>__{walter}
+<D>__{bianca did what?}
+<C>__{kat}
+<D>__{what's the matter? upset that i rubbed off on her?}
+<C>__{walter}
+<D>__{no impressed.}
+<A>__{kat looks up in surprise.}
+<C>__{walter}
+<D>__{you know, fathers don't like to admit that their daughters are capable of running their own lives. it means we've become spectators. bianca still lets me play a few innings. you've had me on the bleachers for years. when you go to sarah lawrence, i won't even be able to watch the game.}
+<C>__{kat}
+<P>__{(hopeful)}
+<D>__{when i go?}
+<C>__{walter}
+<D>__{oh, christ. don't tell me you've changed your mind. i already sent 'em a check.}
+<A>__{kat reaches over and gives him a hug}
+<L>__{interior cafeteria day kat stands grabs a box of cornflakes}
+<A>__{from the food line.}
+<C>__{cameron }
+<D>__{katarina?}
+<A>__{she turns and looks at him}
+<C>__{cameron}
+<D>__{i'd like to express my apologies.}
+<C>__{kat}
+<D>__{for what?}
+<C>__{cameron}
+<P>__{(looking down)}
+<D>__{i didn't mean for you to get when bianca asked me to find you a boyfriend, i had no idea it would turn out so ugly. i would never have done anything to compromise your }
+<A>__{he trails off when he realizes she's thrown her food tray against the wall and marched off the old "kill, kill" look back in her eyes.}
+<L>__{interior hallway day}
+<A>__{kat stomps up the hallway, full of menace classroom day bianca's english teacher perches on the edge of a desk, open book in hand.}
+<C>__{teacher}
+<D>__{who can tell me at what point lucentio admits his deception?}
+<A>__{the door of the classroom flies open and an angry kat stalks in, yanking bianca from her chair and dragging her toward the hallway.}
+<C>__{kat}
+<P>__{(to the teacher)}
+<D>__{family emergency.}
+<A>__{hallway day bianca tries to pull away as kat drags her by the hair between two rows of lockers.}
+<C>__{bianca}
+<D>__{let go!}
+<C>__{kat}
+<D>__{you set me up.}
+<C>__{bianca}
+<D>__{i just wanted }
+<C>__{kat}
+<D>__{what? to completely damage me? to send me to therapy forever? what?}
+<C>__{bianca}
+<D>__{no! i just wanted}
+<A>__{miss perky walks up}
+<C>__{miss perky}
+<D>__{ladies? shall we take a trip to my office?}
+<L>__{interior miss perky's office day}
+<A>__{miss perky stares at both sisters as they sit before her, then focuses on bianca.}
+<C>__{miss perky}
+<D>__{so you're the real bitch}
+<C>__{bianca}
+<D>__{yes! okay? yes i'm the real bitch. i wanted her to get a boyfriend so i could. apparently, this makes me a horrible person. i'm sorry.}
+<A>__{she turns to kat.}
+<C>__{bianca}
+<D>__{i swear i didn't know about the money. i didn't even know joey was involved. i would never intentionally hurt you, kat.}
+<C>__{miss perky}
+<P>__{(to kat)}
+<D>__{do you care to respond?}
+<C>__{kat}
+<D>__{am i supposed to feel better? like, right now? or do i have some time to think about it?}
+<C>__{miss perky}
+<D>__{just smack her now.}
+<A>__{bianca rises, taking kat by the arm.}
+<C>__{bianca}
+<P>__{(to miss perky)}
+<D>__{we'll be getting back to you.}
+<C>__{miss perky}
+<D>__{what, no hug?}
+<A>__{hallway day and bianca leave miss perky's office}
+<C>__{bianca}
+<D>__{is that woman a complete fruit loop or is it just me?}
+<C>__{kat}
+<D>__{it's just you.}
+<A>__{english class day mrs. blaise faces the class}
+<C>__{mrs. blaise}
+<D>__{all right. i'm assuming everyone found time to compose, their poems. except for mr. dorsey, who's still in icu.}
+<A>__{nerds in the back high five each other.}
+<C>__{mrs. blaise}
+<D>__{would anyone care to read theirs aloud?}
+<A>__{no one moves. then kat slowly stands up.}
+<C>__{kat}
+<D>__{i will go}
+<A>__{patrick looks up.}
+<C>__{mrs. blaise}
+<D>__{oh, lord.}
+<A>__{she downs a couple prozac}
+<C>__{mrs. blaise}
+<D>__{please proceed.}
+<A>__{kat stands, puts on her glasses, and takes a deep breath before reading from her notebook.}
+<C>__{kat}
+<D>__{i hate the way you talk to me and the way you cut your hair i hate the way you drive my car i hate it when you stare.}
+<A>__{she pauses, then continues}
+<C>__{kat}
+<D>__{i hate your big dumb combat boots and the way you read my mind i hate you so much it makes me sick it even makes me rhyme.}
+<A>__{she takes a deep breath, and looks quickly at patrick, who stares at the floor.}
+<C>__{kat}
+<D>__{i hate the way you're always right i hate it when you lie i hate it when you make me laugh even worse when you make me cry i hate it that you're not around and the fact that you didn't call but mostly i hate the way i don ' t hate you not even close, not even a little bit, not even any at all.}
+<A>__{she looks directly at patrick. he looks back this time. the look they exchange says everything. then she walks out of the room the rest of the class remains in stunned silence.}
+<L>__{exterior parking lot moments later}
+<A>__{kat walks to her car alone. when she opens the door, she's greeted with a fender stratocaster guitar, reclining in the front seat. she picks it up slowly, inspecting every detail, then spins around. patrick stands there, smiling.}
+<C>__{kat}
+<D>__{a fender strat. you bought this?}
+<C>__{patrick}
+<D>__{i thought you could use it. when you start your band.}
+<A>__{she doesn't answer, but hides a smile, so he walks closer.}
+<C>__{patrick}
+<D>__{besides, i had some extra cash. some asshole paid me to take out a really great girl.}
+<C>__{kat}
+<D>__{is that right?}
+<C>__{patrick}
+<D>__{yeah, but then i fucked up. i fell for her.}
+<A>__{blushes and looks down.}
+<C>__{patrick}
+<D>__{you know it's not every day you find a girl who'll flash her tits to get you out of detention.}
+<A>__{looks up. surprised and embarrassed that he found out he takes her upturned face as a sign to kiss her and he does she lets him this time. then breaks it off}
+<C>__{kat}
+<D>__{you can't just buy me a guitar every time you screw up, you know.}
+<A>__{he grimaces.}
+<C>__{patrick}
+<D>__{i know}
+<A>__{he quiets her with another kiss which she breaks off again.}
+<C>__{kat}
+<D>__{and don't just think you can}
+<A>__{he kisses her again, not letting her end it this time. stratford house sunset we hear the sounds of music and laughter. stratford house backyard sunset patrick is at the barbecue grill, flipping burgers. kat watches.}
+<C>__{kat}
+<D>__{why is my veggie burger the only burnt object on this grill?}
+<C>__{patrick}
+<D>__{because i like to torture you.}
+<C>__{kat}
+<D>__{oh, bianca? can you get me my freshman yearbook?}
+<C>__{patrick}
+<D>__{don ' t you even dare. . .}
+<A>__{on bianca and cameron as they argue on the patio.}
+<C>__{cameron}
+<D>__{they do to!}
+<C>__{bianca}
+<D>__{they do not!}
+<A>__{rises to get the yearbook.}
+<C>__{cameron}
+<D>__{can someone please tell her that sunflower seeds come from sunflowers?}
+<B>__{on michael and mandella}
+<A>__{severely making out in a lawn chair. she comes up for a breath.}
+<C>__{mandella}
+<D>__{i can't remember a word of shakespeare right now. isn't that weird?}
+<A>__{michael pulls her back down for another round on kat and}
+<B>__{patrick}
+<A>__{she tries to keep him from grabbing the yearbook that bianca now hands her.}
+<C>__{kat}
+<D>__{you're freaked over this, aren't you?}
+<A>__{bianca hands her the yearbook}
+<C>__{bianca}
+<D>__{he's more than freaked. he's froke}
+<A>__{flips to a page.}
+<C>__{kat}
+<D>__{i'd like to call your attention to patrick verona's stunning bad ass look of 1995 }
+<A>__{insert a horrifically nerdy freshman year picture glasses, bad hair, headgear the works. she holds up the picture for all to view. patrick cringes and throws a handful of pretzels at her.}
+<C>__{bianca}
+<D>__{patrick is that a.}
+<C>__{kat}
+<D>__{perm?}
+<C>__{patrick}
+<D>__{ask my attorney.}
+<A>__{kat and bianca huddle over the picture, giggling as we crane up and hear a girly punk version of the partridge family's "i think i love you".}
+<T>__{fade out:}
+<B>__{end}

@@ -1,0 +1,80 @@
+<L>__{interior juvenile detention hall day}
+<A>__{it's raining. the administrator enters with detective ybarra.}
+<C>__{administrator}
+<D>__{i'm sorry to bring you out in this weather, detective, but the boy has been quite insistent.}
+<C>__{ybarra}
+<D>__{it's all right, i will just see what he has to say so i can go home and get dry. where is he?}
+<C>__{administrator}
+<D>__{room seven.}
+<L>__{interior interrogation room moments later}
+<A>__{a single table, two chairs. sanford sits quietly, nervously, as ybarra hangs his wet coat up on a hook. changeling a true story}
+<C>__{ybarra}
+<D>__{it's raining cats, dogs and democrats out there, so this better be worth it.}
+<A>__{he sits across the table from sanford, lights up a cigarette. sanford's mouth works for a moment, but nothing comes out.}
+<C>__{ybarra}
+<D>__{well?}
+<C>__{sanford}
+<D>__{look, i this isn't easy, okay?}
+<C>__{ybarra}
+<D>__{nothing is.}
+<A>__{a long beat. sanford composes himself, begins:}
+<C>__{sanford}
+<D>__{my cousin's gordon northcott. he owns the ranch where you found me. he let me live there in exchange for watching the place when he was gone, doing chores, stuff like that. said i could stay on as long as i wanted to. i figured that also meant i could leave whenever i wanted to, but he wouldn't let me.}
+<C>__{ybarra}
+<D>__{are you saying he held you prisoner?}
+<P>__{(sanford nods)}
+<D>__{bull. when i got to the ranch you were running around free as a jaybird. could've left any time you wanted. so what's this, some kind of story to cover why you were in the country illegally?}
+<C>__{sanford}
+<D>__{no...no, it's nothing like that.}
+<C>__{ybarra}
+<D>__{because i don't have time for }
+<C>__{sanford}
+<D>__{listen to me, please. he said }
+<C>__{ybarra}
+<D>__{what? what did he }
+<C>__{sanford}
+<D>__{he said that if i tried to leave, he'd kill me!}
+<P>__{(more)}
+<A>__{changeling a true story}
+<C>__{sanford }
+<D>__{you don't understand, you don't know what he's like, what he...what we did...what he made me do.}
+<A>__{sanford is in tears by now. ybarra realizes that there's something real going on here, and backs off.}
+<C>__{ybarra}
+<D>__{okay, lets start at the beginning. what did he make you do?}
+<A>__{sanford closes his eyes. takes a long beat. finally....}
+<C>__{sanford}
+<D>__{him and me...me and gordon, we...}
+<P>__{(beat, softly)}
+<D>__{...we killed some kids.}
+<A>__{ybarra freezes, the cigarette not moving in his hand.}
+<C>__{sanford}
+<D>__{i didn't mean to, i swear...he made me help him, said if i didn't he'd kill me, too. please, you gotta help me...i'm scared...i don't want to go to hell for killing kids.}
+<C>__{ybarra}
+<D>__{what kids?}
+<C>__{sanford}
+<D>__{i don't know...i never knew their names.}
+<C>__{ybarra}
+<D>__{how many kids?}
+<C>__{sanford}
+<D>__{all together?}
+<A>__{he thinks about it for a moment. the fact that he has to add them all up is almost as chilling as what follows nexterior}
+<C>__{sanford}
+<D>__{about...twenty, i guess.}
+<C>__{ybarra}
+<D>__{you're lying.}
+<C>__{sanford}
+<D>__{no, it's true, i swear!}
+<C>__{ybarra}
+<D>__{twenty kids.}
+<A>__{changeling a true story}
+<C>__{sanford}
+<D>__{yeah...thereabouts...i kinda stopped counting after a while, and gordon said one or two might've gotten away, but }
+<C>__{ybarra}
+<D>__{nobody can just up and kill twenty kids }
+<C>__{sanford}
+<D>__{we did...yeah, we did that....}
+<C>__{ybarra}
+<D>__{how?}
+<A>__{sanford looks off, pauses, then, softly and slowly....}
+<C>__{sanford}
+<D>__{most times we'd bring back just one or two...sometimes as many as three.}

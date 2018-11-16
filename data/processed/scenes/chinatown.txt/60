@@ -1,0 +1,84 @@
+<L>__{interior car}
+<A>__{evelyn sees gittes sitting in her car, staring coldly at her.}
+<C>__{gittes}
+<D>__{okay, give me the keys.}
+<C>__{evelyn}
+<P>__{(stunned, furious)}
+<D>__{you bastard.}
+<C>__{gittes}
+<D>__{it's either that or you drive to the police yourself.}
+<C>__{evelyn}
+<D>__{the police?}
+<C>__{gittes}
+<D>__{c'mon, mrs. mulwray. you've got your husband's girlfriend tied up in there!}
+<C>__{evelyn}
+<D>__{she's not tied up!}
+<C>__{gittes}
+<D>__{you know what i mean. you're keeping her there against her will.}
+<C>__{evelyn}
+<D>__{i am not!}
+<C>__{gittes}
+<D>__{then let's go talk to her.}
+<A>__{gittes starts to get out of the car. evelyn grabs his arm, nearly screaming:}
+<C>__{evelyn}
+<D>__{no!}
+<A>__{her intensity actually rips gittes' already partially torn jacket. he looks at it and her. it seems to have a momentary calming effect on both of them.}
+<C>__{evelyn}
+<P>__{(continuing)}
+<D>__{she's too upset.}
+<C>__{gittes}
+<D>__{what about?}
+<C>__{evelyn}
+<D>__{hollis' death. i tried to keep it from her, i didn't want her upset before i could make plans for her to leave.}
+<C>__{gittes}
+<D>__{you mean she just found out?}
+<C>__{evelyn}
+<D>__{yes.}
+<C>__{gittes}
+<D>__{that's not what it looks like, mrs. mulwray.}
+<C>__{evelyn}
+<D>__{what does it look like?}
+<C>__{gittes}
+<D>__{like she knows about hollis' death. like she knows more than you want her to tell.}
+<C>__{evelyn}
+<D>__{you're insane.}
+<A>__{gittes explodes.}
+<C>__{gittes}
+<D>__{just tell me the truth. i'm not the police. i don't care what you've done. i'm not going to hurt you, but one way or another i'm going to know.}
+<C>__{evelyn}
+<D>__{you won't go to the police if i tell you?}
+<C>__{gittes}
+<D>__{i will if you don't.}
+<A>__{a long pause. evelyn's head sinks onto the steering wheel, her hair covering her face.}
+<C>__{evelyn}
+<D>__{she's my sister.}
+<A>__{evelyn is breathing very deeply now. not crying, but the kind of deep breathing that comes from real hysteria. gittes puts an arm on her shoulder.}
+<C>__{gittes}
+<D>__{take it easy... if it's your sister it's your sister... why all the secrecy?}
+<A>__{she lifts her head and looks up at him. he's genuinely puzzled.}
+<C>__{evelyn}
+<P>__{(really upset)}
+<D>__{i can't...}
+<C>__{gittes}
+<D>__{because of hollis? because she was seeing your husband? was that it? jesus christ, say something. was that it?}
+<A>__{she nods. gittes sighs.}
+<C>__{evelyn}
+<P>__{(finally)}
+<D>__{i would never ever have harmed hollis. i loved him more than my own family. he was the most gentle, decent man imaginable... and he put up with more from me than you'll ever know... i just wanted him to be happy...}
+<A>__{she begins to cry softly.}
+<C>__{gittes}
+<P>__{(after a moment)}
+<D>__{i took your husband's buick...}
+<P>__{(he opens the car door)}
+<D>__{i will return it tomorrow.}
+<C>__{evelyn}
+<D>__{aren't you coming back with me?}
+<C>__{gittes}
+<D>__{don't worry. i'm not telling anybody about this.}
+<C>__{evelyn}
+<D>__{...that's not what i meant.}
+<A>__{there is a long moment of silence. gittes looks over to evelyn. her hair covers most of her face from him.}
+<C>__{gittes}
+<P>__{(finally)}
+<D>__{yeah, well... i'm very tired, mrs. mulwray. good night.}
+<A>__{he gets out and slams the car door. she drives off.}

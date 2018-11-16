@@ -1,0 +1,131 @@
+<L>__{interior courtroom day}
+<A>__{the jury box. one juror leans over and makes a whispered comment to another. the second juror nods, inclines his head toward the witness box.}
+<B>__{angle}
+<A>__{dr. thompson on the stand. composed, waiting. concannon consulting his notes.}
+<C>__{concannon}
+<D>__{dr. thompson, just so the jury knows, you never treated deborah ann kaye. is that correct?}
+<C>__{dr. thompson}
+<D>__{that is correct. i was engaged to render an opinion.}
+<C>__{concannon}
+<D>__{engaged to render an opinion. for a price. is that correct? you're being paid to be here today?}
+<C>__{dr. thompson}
+<D>__{just as you are, sir...}
+<C>__{concannon}
+<D>__{are you board certified in anesthesiology, doctor?}
+<C>__{dr. thompson}
+<D>__{no, i am not. it's quite common in new york state...}
+<C>__{concannon}
+<D>__{...i'm sure it is, but this is massachusetts, doctor. certified in internal medicine?}
+<C>__{dr. thompson}
+<D>__{no.}
+<C>__{concannon}
+<D>__{neurology?}
+<C>__{dr. thompson}
+<D>__{no.}
+<C>__{concannon}
+<D>__{orthopedics?}
+<C>__{dr. thompson}
+<D>__{i'm just an m.d.}
+<C>__{concannon}
+<D>__{do you know dr. robert towler...?}
+<C>__{dr. thompson}
+<D>__{i know of him.}
+<C>__{concannon}
+<D>__{how is that?}
+<C>__{dr. thompson}
+<D>__{through, through his book.}
+<C>__{concannon}
+<D>__{what book is that?}
+<C>__{dr. thompson}
+<D>__{meth... methodology and technique...}
+<C>__{concannon}
+<D>__{...of anesthesiology?}
+<C>__{dr. thompson}
+<D>__{'methodology and techniques of anesthesiology.' yes.}
+<C>__{concannon}
+<D>__{how old are you?}
+<C>__{dr. thompson}
+<D>__{i am seventy four years old.}
+<C>__{concannon}
+<D>__{uh huh. still practice a lot of medicine?}
+<C>__{dr. thompson}
+<D>__{i'm on the staff of...}
+<C>__{concannon}
+<D>__{yes, we've heard that. doctor: you testify quite a bit against other physicians? isn't that right? you, you're available for that? when you're paid to be there?}
+<C>__{dr. thompson}
+<D>__{sir. yes. when a thing is wrong... as in this case, i am available. i am seventy four years old, i am not board certified.}
+<C>__{dr. thompson}
+<D>__{i have been practicing medicine for forty six years and i know when an injustice has been done.}
+<C>__{concannon}
+<D>__{do you, indeed. i will bet you do. fine. fine. we'll save the court the time. we will admit the doctor as an 'expert witness,' fine.}
+<A>__{concannon sits.}
+<C>__{judge}
+<P>__{(in undertone, to bailiff)}
+<D>__{do we have time this morning to...}
+<P>__{(glances at watch, bailiff nods to him)}
+<D>__{all right. mr. galvin, you want to continue now, or we can resume with dr. thompson this afternoon.}
+<C>__{galvin}
+<P>__{(rising)}
+<D>__{thank you, your honor, i will continue. dr. thompson. did you examine deborah ann kaye last night at the northern chronic care facility?}
+<C>__{dr. thompson}
+<D>__{i did.}
+<C>__{concannon}
+<D>__{objection.}
+<C>__{judge}
+<D>__{sustained. yes. the witness will confine his testimony to review of the hospital records.}
+<C>__{galvin}
+<D>__{what?}
+<C>__{judge}
+<P>__{(patronizing)}
+<D>__{i believe that's the law... is it not, mr. galvin...?}
+<A>__{a beat.}
+<C>__{galvin}
+<D>__{dr. thompson. from your review of the hospital records of may twelfth nineteen seventy six.}
+<C>__{galvin}
+<D>__{in your opinion, what happened to deborah ann kaye?}
+<C>__{dr. thompson}
+<D>__{cardiac arrest. during delivery her heart stopped. when the heart stops the brain's deprived of oxygen. you get brain damage. that is why she's in the state she's in today.}
+<C>__{galvin}
+<D>__{now, dr. towler's testified that they restored the heartbeat within three or four minutes. in your opinion is his estimate correct?}
+<C>__{dr. thompson}
+<D>__{it's my opinion it took him much longer. nine... ten minutes. there's too much brain damage.}
+<A>__{the judge leans over.}
+<C>__{judge}
+<P>__{(to dr. thompson)}
+<D>__{are you saying that a failure to restore the heartbeat within nine minutes in itself constitutes bad medical practice?}
+<C>__{dr. thompson}
+<D>__{well...}
+<C>__{galvin}
+<D>__{your honor!}
+<A>__{he has shouted unconsciously; the whole courtroom turns to look at him.}
+<C>__{judge}
+<D>__{yes, mr. galvin?}
+<C>__{galvin}
+<D>__{if i may be permitted to question my own witness in my own way...}
+<C>__{judge}
+<D>__{i'd just like to get to the point, mr. galvin. let's not waste these people's time. answer the question, mr. witness. please. would a nine minute lapse in restoring the heartbeat in and of itself be negligence?}
+<C>__{dr. thompson}
+<D>__{i... in that small context i would have... i would have to say 'no.'}
+<C>__{judge}
+<D>__{then you're saying there's no negligence, based on my question?}
+<C>__{dr. thompson}
+<D>__{i... given the limits of your question, that's correct.}
+<C>__{judge}
+<D>__{the doctors were not negligent.}
+<C>__{dr. thompson}
+<P>__{(beat)}
+<D>__{i... um...}
+<A>__{the judge shrugs, meaning, "well then what in the hell are we doing here?"}
+<B>__{angle}
+<A>__{galvin, furious.}
+<B>__{angle}
+<A>__{the judge and witness.}
+<C>__{judge}
+<D>__{thank you.}
+<A>__{the witness starts to step down. galvin strides over to him and speaks to the judge.}
+<C>__{galvin}
+<D>__{i'm not through with the witness, your honor. with all due respect if you are going to try my case for me i would appreciate it if you wouldn't lose it.}
+<A>__{the judge stands, furious.}
+<C>__{judge}
+<D>__{thank you. i think that's enough for this morning. i will see the plaintiff's counsel in my chambers. now, please.}
+<A>__{the courtroom rises. the bailiff is heard, "all rise, court is adjourned until one o'clock."}

@@ -1,0 +1,110 @@
+<T>__{slow dissolve to:}
+<L>__{interior the courtroom late afternoon}
+<A>__{there's low murmur in the room as the jurors are being led back into their box. everyone's in place. randolph enters.}
+<C>__{sergeant at arms}
+<D>__{ten hut.}
+<A>__{all rise. and sit when randolph sits.}
+<C>__{randolph}
+<D>__{have the jurors reached a verdict?}
+<C>__{jury foreman}
+<D>__{we have, sir.}
+<A>__{the sergeant at arms takes all the slips of paper from the foreman and brings them to randolph. kaffee stands, and nods to dawson and downey that they should do the same. sam and jo stand as well.}
+<C>__{randolph}
+<P>__{(reading)}
+<D>__{on the charge of murder, the members find the defendants not guilty.}
+<A>__{it's hard to resist the temptation to scream and shout, but they do.}
+<C>__{randolph}
+<P>__{(continuing; reading)}
+<D>__{on the charge of conspiracy to commit murder, the members find the defendants not guilty.}
+<A>__{randolph looks up. then reads from the last slip of paper.}
+<C>__{randolph}
+<P>__{(continuing)}
+<D>__{on the charge of conduct unbecoming a united states marine, the members find the defendants guilty as charged.}
+<A>__{a little of the energy drains out of the room. randolph continues reading.}
+<C>__{randolph}
+<P>__{(continuing; reading)}
+<D>__{the defendants are hereby sentenced by this court to time already served, and are ordered...}
+<A>__{randolph clears his throat.}
+<C>__{randolph}
+<P>__{(continuing)}
+<D>__{...and are ordered to be dishonorably discharged from the marine corps.}
+<P>__{(pause)}
+<D>__{this court martial is adjourned.}
+<A>__{randolph raps his gavel.}
+<C>__{sergeant at arms}
+<D>__{ten hut.}
+<A>__{all rise. randolph's gone.}
+<C>__{sergeant at arms}
+<P>__{(continuing)}
+<D>__{dismissed.}
+<A>__{the m.p.'s move to dawson and downey to unlock their handcuffs. kaffee is packing up his things, just another day at the office.}
+<C>__{dawson}
+<D>__{why?}
+<C>__{kaffee}
+<D>__{harold, i'm sorry.}
+<C>__{dawson}
+<D>__{why?!}
+<C>__{downey}
+<D>__{i don't understand. colonel jessep said he ordered the code red.}
+<C>__{jo}
+<D>__{i know, but }
+<C>__{downey}
+<D>__{colonel jessep said he ordered the code red, what did we do wrong?}
+<C>__{jo}
+<D>__{it's not as simple as }
+<C>__{downey}
+<D>__{what did we do wrong?}
+<C>__{dawson}
+<D>__{we did nothing wrong.}
+<A>__{sam slaps his hands down on the table }
+<C>__{sam}
+<D>__{yes you did! a jury just said your conduct was unbecoming a marine. what does that mean?!}
+<C>__{dawson}
+<D>__{you're the lawyer.}
+<C>__{sam}
+<D>__{you're the marine.}
+<C>__{dawson}
+<D>__{not anymore.}
+<A>__{sam lets it hang. dawson is staring at sam. his stare moves slowly to the floor.}
+<C>__{dawson}
+<P>__{(continuing)}
+<D>__{i never meant to hurt willy.}
+<A>__{dawson looks up at his parents. the moment hangs there... before}
+<C>__{sergeant at arms}
+<D>__{kaffee, i've gotta take these guys over to personnel for some paper work.}
+<A>__{kaffee nods.}
+<C>__{sergeant at arms}
+<P>__{(continuing; to dawson & downey)}
+<D>__{gentleman?}
+<A>__{dawson looks to kaffee. there's gotta be more. this can't be it. but kaffee has nothing to say. dawson and downey walk to the sergeant at arms and begin to follow him up the aisle and out of the courtroom. but before they get to the door, kaffee turns around and calls}
+<C>__{kaffee}
+<D>__{harold!}
+<A>__{they stop and turn around.}
+<C>__{dawson}
+<D>__{sir!}
+<C>__{kaffee}
+<P>__{(pause)}
+<D>__{you don't need to wear a patch on your arm to have honor.}
+<A>__{dawson stares at kaffee for a long moment.}
+<C>__{dawson}
+<D>__{ten hut.}
+<A>__{dawson and downey come to attention.}
+<C>__{dawson}
+<P>__{(continuing)}
+<D>__{there's an officer on deck.}
+<A>__{dawson snaps a salute and holds it. kaffee stares back. then stands up straight and returns their salute. with one last glance back at kaffee, dawson turns and walks out the door, followed by downey. ross walks over to the defense table.}
+<C>__{ross}
+<D>__{airmen cecil o'malley and anthony perez? what exactly were these guys gonna testify to?}
+<C>__{kaffee}
+<D>__{unless i'm mistaken they were gonna testify, under oath, that they have absolutely no recollection of anything.}
+<A>__{ross smiles.}
+<C>__{ross}
+<D>__{strong witnesses.}
+<C>__{kaffee}
+<D>__{and very handsome, too, don't you think?}
+<C>__{ross}
+<D>__{i will see you around the campus. i've gotta go arrest kendrick.}
+<C>__{kaffee}
+<D>__{tell him i say "hi".}
+<C>__{ross}
+<D>__{will do.}

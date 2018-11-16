@@ -1,0 +1,103 @@
+<T>__{cut to:}
+<A>__{dragon country day dark clouds slide across a pale sun, throwing the ruined land below into shadow. soon fat droplets of rain are splattering on the rocks above the dragon's lair. with each tiny splash there is a sizzle and a puff of steam. these rocks are hot!}
+<T>__{cut to:}
+<B>__{dungeon}
+<A>__{outside the barred window, a steady rain is falling. inside, galen uses a chunk of limestone to inscribe a pentagram on the floor of his cell. he marks runic signs on the window sill and lintel. then, positioning himself in the center of the mystic symbol, he raises his hands and spreads his fingers.}
+<C>__{galen}
+<P>__{(authoritative)}
+<D>__{cubiculum gravis aperat!}
+<A>__{there's a long moment when nothing happens. a very long moment. finally, a thoroughly frustrated galen leaps to the window and rattles the bars.}
+<C>__{galen}
+<D>__{open up, dammit! fenestra gravis aperat! asser gravis aperat! divinitus!}
+<C>__{voice}
+<D>__{salve, magistrum iuvenilum.}
+<A>__{startled, galen whirls around to find elspeth standing outside his cell. she hands some food and blankets through the bars.}
+<C>__{elspeth}
+<D>__{i've studied latin. greek, too. me appelo elspeth, filia regis.}
+<A>__{galen looks her over. he's never seen anyone so angelic.}
+<C>__{galen}
+<D>__{how do you do.}
+<C>__{elspeth}
+<D>__{please don't think ill of us. my father is a wonderful man, a wise man. the lottery was his idea.}
+<C>__{galen}
+<D>__{i see.}
+<C>__{elspeth}
+<D>__{you don't understand. from the moment it began, the dragon was tame. the kingdom prospered.}
+<C>__{galen}
+<D>__{and only a few had to be sacrificed.}
+<C>__{elspeth}
+<D>__{yes, that's true. isn't it better that a few should die that many might live?}
+<C>__{galen}
+<D>__{depends on who does the dying.}
+<C>__{elspeth}
+<D>__{oh, but we all take our chances. my father is a just man. my name is entered on the lists, along with every other young }
+<C>__{galen}
+<D>__{virgin?}
+<C>__{elspeth}
+<D>__{maiden.}
+<C>__{galen}
+<D>__{if you say so.}
+<C>__{elspeth}
+<D>__{what do you mean?}
+<C>__{galen}
+<P>__{(sighs)}
+<D>__{nothing.}
+<C>__{elspeth}
+<D>__{i've participated in every drawing since i came of age.}
+<C>__{galen}
+<D>__{maybe.}
+<C>__{elspeth}
+<D>__{it's true. you don't believe me. you think i'm lying. well i'm not.}
+<C>__{galen}
+<D>__{i'm sorry. i heard a rumor. families with money, that sort of thing.}
+<C>__{elspeth}
+<D>__{don't listen to rumors. they're lies. i have to go now.}
+<C>__{galen}
+<D>__{wait how long do i have to stay in here?}
+<C>__{elspeth}
+<D>__{until we know. not long. goodbye. vale. dormi bene.}
+<A>__{she slips away down the corridor.}
+<B>__{library}
+<A>__{king casiodorus and tyrian are huddled over a table piled high with manuscripts and papers. tyrian clears a spot and sets out a stack of lead bars.}
+<C>__{king}
+<D>__{that's enough. let's not be greedy here.}
+<A>__{the king picks up galen's amulet, and holds it over the bars in his clenched fist.}
+<C>__{king}
+<D>__{now then: i, casiodorus rex do hereby command thou base metal to change thy essence and become gold.}
+<A>__{there is a rustle of skirts and elspeth appears behind him.}
+<C>__{elspeth}
+<D>__{father?}
+<C>__{king}
+<D>__{not now. tyrian, remove all but one bar. we'll try it one at a time.}
+<C>__{elspeth}
+<D>__{father: did you know that some families have paid bribes to stay out of the lottery?}
+<A>__{the king and tyrian glance up at her.}
+<C>__{king}
+<D>__{nonsense. by the power of this amulet, justly wielded by my hand in accordance with the laws of urland, now lead be thou gold.}
+<A>__{the lead remains unchanged, but the king gives out a cry and drops the amulet.}
+<C>__{king}
+<D>__{i'm burned! what devilish thing is this?}
+<C>__{elspeth}
+<D>__{have you ever kept my name off the lottery list?}
+<C>__{king}
+<D>__{that'll be all, tyrian. you may withdraw.}
+<A>__{tyrian bows and exits. the king uses his sceptre to pick up the amulet and chain. he conceals it in a hollowed out book and places the volume on a shelf among many others.}
+<C>__{king}
+<D>__{now, my dear, what's troubling you?}
+<C>__{elspeth}
+<D>__{answer my question: am i not exposed to the same risk as every other man's daughter?}
+<A>__{the king paces over to the window and stares out. the rain has stopped.}
+<C>__{elspeth}
+<D>__{well?}
+<C>__{king}
+<P>__{(finally)}
+<D>__{your father loves you very much.}
+<A>__{elspeth sways in dismay.}
+<C>__{elspeth}
+<P>__{(a wail)}
+<D>__{it's true! what have you done to me!?}
+<C>__{king}
+<D>__{who fills your head with such ideas?}
+<A>__{at that moment a tremor passes through the room. king and daughter look at each other in alarm.}
+<B>__{dungeon}
+<A>__{the same tremor shakes the bars in galen's cell. puzzled, he rolls off his straw palette and gets to his feet. the tremor dies away. suddenly a violent shaking hits the cell, bouncing galen off the walls.}

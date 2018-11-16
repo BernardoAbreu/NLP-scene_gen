@@ -1,0 +1,31 @@
+<L>__{interior cockpit flight 209 night}
+<A>__{clarence oveur is in the pilot's seat. victor basta is seated at engineer's console. there is a st. christopher's statue on the dashboard.}
+<C>__{basta}
+<D>__{any word on that storm lifting over salt lake, clarence?}
+<A>__{texaco service man is cleaning windshield.}
+<C>__{oveur}
+<D>__{unlikely, victor. i just reviewed the area report for 1609 hours through 2400 hours. that's an occluded front stalled over the dakotas backed up all the way to utah.}
+<A>__{texaco service man opens hood and checks dipstick.}
+<C>__{basta}
+<D>__{if it decides to push over into the great lakes it could get plenty soupy. how about the southern route, around tulsa?}
+<C>__{oveur}
+<D>__{i double checked the terminal forecast and winds aloft. ifr ceilings all the way.}
+<A>__{oveur gives charge card to texaco man.}
+<C>__{basta}
+<D>__{where do they top out?}
+<C>__{oveur}
+<D>__{well, there's some light scattered cover at twenty thousand with icing around eighteen.}
+<C>__{basta}
+<D>__{looks like the original flight plan over denver is still the best bet.}
+<A>__{oveur signs charge form and gives it to texaco man.}
+<C>__{oveur}
+<D>__{denver it is.}
+<A>__{roger murdock enters. he is played by a famous athlete.}
+<C>__{murdock}
+<D>__{sorry, clarence. latest weather report shows everything socked in from salt lake to lincoln.}
+<C>__{oveur}
+<P>__{(to murdock)}
+<D>__{hi, roger. good to have you aboard. victor, this is roger murdock.}
+<C>__{basta}
+<D>__{how do you do, roger?}
+<A>__{texaco man hands receipt to oveur.}

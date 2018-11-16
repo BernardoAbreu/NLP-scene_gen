@@ -1,0 +1,104 @@
+<L>__{interior trading floor}
+<A>__{sam rogers comes through the door from the elevator looking quite disheveled and walks across the long and empty trading floor. he looks around, then heads over to will emerson's office where the light is on.}
+<L>__{interior will emerson's office continuous}
+<A>__{sam lightly knocks on the glass.}
+<C>__{sam rogers}
+<D>__{hey.}
+<C>__{will emerson}
+<D>__{hey.}
+<A>__{sam looks at will for some hint of what is going on, then eventually puts his coat down and sits into a chair. they wait for who goes first.}
+<C>__{sam rogers}
+<D>__{so?}
+<C>__{will emerson}
+<D>__{eric dale...}
+<C>__{sam rogers}
+<D>__{oh jesus...}
+<C>__{will emerson}
+<D>__{before he was escorted out of the building by security...}
+<C>__{sam rogers}
+<D>__{i had nothing to do with that.}
+<C>__{will emerson}
+<D>__{i know.}
+<C>__{sam rogers}
+<D>__{i'm sorry, go on.}
+<C>__{will emerson}
+<D>__{so as he was leaving the building he hands a disk to peter sullivan...}
+<C>__{sam rogers}
+<D>__{who's peter sullivan again?}
+<C>__{will emerson}
+<D>__{one of eric's guys.}
+<C>__{sam rogers}
+<D>__{right.}
+<C>__{will emerson}
+<D>__{...and tells him that he was almost on to something but hasn't been able to figure it out. so he gives him the disk and says give it a try... but the last thing he says as the doors to the elevator close is `be careful'...}
+<C>__{sam rogers}
+<D>__{be careful?}
+<C>__{will emerson}
+<D>__{yeah.}
+<C>__{sam rogers}
+<D>__{be careful?}
+<C>__{will emerson}
+<D>__{yes.}
+<C>__{sam rogers}
+<D>__{why?}
+<C>__{will emerson}
+<D>__{well... take a look.}
+<C>__{sam rogers}
+<D>__{speak, you know i can't read those fucking things they put together.}
+<C>__{will emerson}
+<D>__{basically the kid dives right into the thing after your little pep talk, nice job by the way, and he seems to have nailed it.}
+<C>__{sam rogers}
+<D>__{nailed it?}
+<C>__{will emerson}
+<D>__{the kid figured out what eric was missing. and...}
+<C>__{sam rogers}
+<D>__{and?}
+<A>__{will gives him a long pause.}
+<C>__{will emerson}
+<D>__{...it isn't good.}
+<A>__{will's look gets sam up and he comes over to stand behind will at his desk and look at the computer.}
+<C>__{will emerson }
+<D>__{as far as i can tell these here are the historical volatility index limits... which i guess our whole fucking trading model relies on pretty heavily... and we are so fucking levered up that if this thing starts getting outside those limits it gets ugly in a hurry.}
+<C>__{sam rogers}
+<D>__{how ugly?}
+<C>__{will emerson}
+<D>__{real ugly.}
+<C>__{sam rogers}
+<D>__{and how close to those limits have we gotten?}
+<C>__{will emerson}
+<D>__{oh we're beyond close... we broke through five or six days over the last two weeks, but we've managed to stay on the upside of it... for now...}
+<C>__{sam rogers}
+<D>__{for now?}
+<C>__{will emerson}
+<D>__{well look what happens here when we get on the wrong side of it.}
+<C>__{sam rogers}
+<D>__{what am i looking at?}
+<A>__{will takes his finger and points at a red number with a whole lot of zeroes after it. sam's look says it all.}
+<C>__{will emerson}
+<D>__{and that wouldn't even be that bad a day for us... historically speaking.}
+<C>__{sam rogers}
+<D>__{is this right?}
+<C>__{will emerson}
+<D>__{i don't know.}
+<C>__{sam rogers}
+<D>__{where is eric?}
+<C>__{will emerson}
+<D>__{we shut his phone off.}
+<C>__{sam rogers}
+<D>__{of course we did.}
+<C>__{will emerson}
+<D>__{and he hasn't come home yet, i spoke to his wife.}
+<C>__{sam rogers}
+<D>__{he's probably crying in a fucking beer somewhere.}
+<C>__{will emerson}
+<D>__{or worse.}
+<C>__{sam rogers}
+<D>__{where's the kid who did this?}
+<C>__{will emerson}
+<D>__{out looking for eric.}
+<C>__{sam rogers}
+<D>__{do we think he knows what he's doing?}
+<C>__{will emerson}
+<D>__{i don't know. what do i know?}
+<C>__{sam rogers}
+<D>__{well get him back here.}

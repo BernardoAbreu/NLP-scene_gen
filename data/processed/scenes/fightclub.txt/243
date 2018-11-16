@@ -1,0 +1,128 @@
+<L>__{interior 1888 lobby}
+<A>__{jack pushes through the broken glass. he sprints for the "parking" door...}
+<L>__{interior ground level parking}
+<A>__{jack enters, looks no cars. he bolts to the stairs...}
+<L>__{interior top level parking area seventh floor}
+<A>__{jack enters, heaving. again, no cars. he moves from one support post to another, searching. he finally spies, across the garage, nine large canisters, heavily wired. jack runs to the bomb, frantic. he walks around it. there's a digital clock, ticking down from "10:05"... jack moves to pull the lid off one canister, looks inside..}
+<C>__{tyler}
+<D>__{could be worse...}
+<A>__{jack looks tyler's seated, his back against one post.}
+<C>__{tyler}
+<D>__{you could be standing under 37 stories of steel and concrete with a 150 gallons of nitroglycerin strapped to the support... oh, maybe it couldn't be...}
+<C>__{jack}
+<P>__{(points at bomb)}
+<D>__{you... you can't be serious about this.}
+<C>__{tyler}
+<D>__{what a ridiculous thing to say.}
+<C>__{jack}
+<D>__{i can't let you...}
+<C>__{tyler}
+<D>__{...go through with this? what are you going to do?}
+<C>__{jack}
+<D>__{i'm going to...}
+<C>__{tyler}
+<D>__{...stop me?}
+<C>__{jack}
+<D>__{i'm not going...}
+<C>__{tyler}
+<D>__{...to let this happen!}
+<C>__{jack}
+<D>__{stop finishing...}
+<C>__{tyler}
+<D>__{...your sentences! they're our sentences. get your mind around that.}
+<A>__{tyler gets up walks to jack.}
+<C>__{tyler}
+<D>__{what are you doing running through the streets in your underpants? we both use that body.}
+<C>__{jack}
+<D>__{since when is project mayhem about murder?}
+<C>__{tyler}
+<D>__{the buildings were evacuated thirty minutes ago. everything's proceeding exactly as planned.}
+<C>__{jack}
+<D>__{you don't know that. there could still be people inside.}
+<A>__{tyler keeps walking around, crosses his arms.}
+<C>__{tyler}
+<D>__{maybe. maybe a couple of guys with shaved heads couldn't synchronize their watches. good riddance.}
+<A>__{jack looks back to the bomb, goes to it, wipes sweat off his face. he starts finger the many wires, sorting them.}
+<C>__{tyler}
+<D>__{i wouldn't be doing that. unless you know which wires, in what order...}
+<C>__{jack}
+<D>__{if you know, i know.}
+<A>__{jack holds his gun under one armpit, uses both hands to go through the tangle of colored wires.}
+<C>__{tyler}
+<D>__{or... maybe i knew you'd know, so i spent the whole day thinking about the wrong ones.}
+<A>__{jack chooses one wire, green, holds it in his fingers.}
+<C>__{jack}
+<D>__{if i'm wrong, we're both dead..}
+<C>__{tyler}
+<D>__{this is not about martyrdom.}
+<A>__{jack twists the green wire around his finger.}
+<C>__{jack}
+<D>__{i'm pulling the green wire.}
+<C>__{tyler}
+<D>__{green? did you say green?}
+<A>__{tyler comes a little closer, leaning to try to get a look, seems genuinely concerned.}
+<C>__{jack}
+<D>__{yes...}
+<C>__{tyler}
+<D>__{don't pull the green wire. pull anything but the green wire.}
+<C>__{jack}
+<D>__{fuck you.}
+<C>__{tyler}
+<D>__{i'm serious. that's the wrong one.}
+<A>__{jack's unsure, swallowing, pulling the wire taunt, fingers trembling. the sound of a vehicle is heard from below...}
+<C>__{tyler}
+<D>__{hear that? marla's here. just in the nick of time, eh?}
+<A>__{jack looks to tyler. tyler points towards the sound...}
+<C>__{tyler}
+<D>__{see for yourself.}
+<A>__{jack releases the wire, walks to a railing, gun in hand, keeps an eye on tyler. jack looks over the railing... below, a bus idles. the doors open and marla's dragged out, kicking and screaming, carried by six space monkeys...}
+<C>__{marla}
+<D>__{you motherfuckers...}
+<A>__{they carry marla into the building's entrance. jack leans against the railing, exhausted.}
+<C>__{tyler}
+<D>__{i've got everything. the bombs. the army. i've got marla.}
+<C>__{jack}
+<D>__{bob is dead, tyler. the police blew a hole in his head. was that part of your plan?}
+<A>__{tyler thinks, shrugs.}
+<C>__{tyler}
+<D>__{bob was a grown man. in any great struggle, there will be casualties. wouldn't that be implicit in the name? project "mayhem."}
+<C>__{jack}
+<D>__{fuck your struggle. i want out.}
+<C>__{tyler}
+<D>__{you want out?}
+<C>__{jack}
+<D>__{i quit.}
+<C>__{tyler}
+<D>__{not an option, for the most obvious of reasons. you need to get with the program.}
+<P>__{(looks at his watch)}
+<D>__{seven minutes. let's get out of here.}
+<A>__{tyler's walks away. jack looks at the gun in his hand. he points the gun at tyler...}
+<C>__{jack}
+<D>__{tyler...}
+<C>__{tyler}
+<P>__{(still walking away)}
+<D>__{what?}
+<C>__{jack}
+<P>__{(cocks the gun)}
+<D>__{defuse the bomb.}
+<A>__{tyler stops walking.}
+<C>__{tyler}
+<D>__{ask me nicely.}
+<C>__{jack}
+<D>__{defuse the bomb, please.}
+<C>__{tyler}
+<D>__{defuse the bomb?}
+<C>__{jack}
+<D>__{yes.}
+<A>__{tyler strides towards the bomb. jack trains the gun...}
+<C>__{jack}
+<D>__{please.}
+<A>__{tyler looks at the bomb, reaches over to it. he grips the green wire, yanks it out the clock stops. jack lowers his gun.}
+<C>__{tyler}
+<D>__{i did that for you. as a gesture. now, how fast can you run? there are ten other bombs, in ten other buildings in the immediate area. if you're going to get them all, you better get cracking.}
+<P>__{(looks at watch)}
+<D>__{six minutes. green wires, remember. i will be upstairs.}
+<A>__{jack's stunned. tyler walks across the parking garage, past jack, heading for the stairs. jack aims the gun at tyler's back, fires! tyler ducks to one side, impossibly quick, avoiding... tyler spins to face jack.}
+<C>__{tyler}
+<D>__{whoa! what was that all about?}
+<A>__{jack aims... fires! tyler dodges behind a post as the bullet throws concrete. jack edges forward, gun held in both hands, moves around the post... tyler is not there. jack turns, takes slow steps, moving the gun from side to side... suddenly, a fist enters frame slugs jack's face. jack falls. the gun goes clattering across the floor... jack turns, looking... tyler's gone. jack looks to the gun, scrambles to his feet, running to pick up the gun... tyler kicks jack in the chest, sends jack sprawling. jack rolls, holding his chest. he looks up, sees tyler run into the stairwell. jack grabs the gun and follows...}

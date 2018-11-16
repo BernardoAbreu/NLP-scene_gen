@@ -1,0 +1,32 @@
+<L>__{exterior new york street, night}
+<A>__{walter and mouna are walking home.}
+<C>__{walter}
+<D>__{are you hungry, mouna? we can stop for dinner.}
+<C>__{mouna}
+<D>__{i would prefer to cook if you don't mind?}
+<C>__{walter}
+<D>__{ok.}
+<C>__{mouna}
+<D>__{should we stop at a market?}
+<C>__{walter}
+<D>__{yeah. that's probably a good idea.}
+<L>__{interior walter's apartment, kitchen later}
+<A>__{mouna is preparing dinner. walter comes in and takes a bottle of wine out of the refrigerator.}
+<C>__{walter}
+<D>__{would you like a glass of wine?}
+<C>__{mouna}
+<D>__{no thank you.}
+<A>__{walter pours his glass.}
+<C>__{walter}
+<D>__{mouna? i need to go back to connecticut tomorrow. for work. i told tarek.}
+<C>__{mouna}
+<D>__{how long will you be gone?}
+<C>__{walter}
+<D>__{i don't know yet. i will try to make it back to visit tarek as soon as i can.}
+<C>__{mouna}
+<D>__{you don't have keep visiting him, walter. i'm sure you are busy.}
+<C>__{walter}
+<D>__{i will see what i can do.}
+<C>__{mouna}
+<D>__{ok. dinner will be ready soon.}
+<A>__{walter walks out of the kitchen.}

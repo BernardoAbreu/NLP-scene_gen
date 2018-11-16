@@ -1,0 +1,32 @@
+<T>__{cut to:}
+<A>__{oscar approaches the table where charlie, giovanni, and mario are seated and greets them warmly.}
+<C>__{oscar}
+<D>__{put the menus away. i, personally do the cooking tonight.}
+<C>__{giovanni}
+<D>__{fine...that's why i'm here.}
+<C>__{mario}
+<D>__{calamari?}
+<C>__{oscar}
+<D>__{capozelle, calamari...anything you want...}
+<C>__{giovanni}
+<P>__{(pouring wine)}
+<D>__{drink.}
+<T>__{dissolve to:}
+<L>__{interior oscar's restaurant later in the meal}
+<A>__{oscar sits.}
+<C>__{oscar}
+<D>__{giovanni...er...can i talk?}
+<A>__{refering to charlie. giovanni nods his head yes.}
+<C>__{oscar}
+<D>__{about the place, giovanni...}
+<C>__{giovanni}
+<D>__{...i know all about it. we'll discuss it later.}
+<C>__{oscar}
+<P>__{(continuing)}
+<D>__{our arrangements about the place haven't changed, have they? i mean...}
+<C>__{giovanni}
+<P>__{(good naturedly)}
+<D>__{no, no, not at all...look, we leave it the way it is for now, we talk later, understand?}
+<C>__{oscar}
+<P>__{(somewhat relieved)}
+<D>__{sure, giovanni...i understand. i will bring the clams now.}

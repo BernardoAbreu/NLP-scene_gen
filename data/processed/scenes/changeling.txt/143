@@ -1,0 +1,62 @@
+<L>__{interior police station hallway day}
+<A>__{captain jones is pacing nervously in the hallway for a long beat when another officer steps out of an office with a brass nameplate that reads chief of police james e davis.}
+<C>__{officer}
+<D>__{the chief will see you now.}
+<A>__{jones straightens his tie and steps into}
+<L>__{interior chief davis' office continuous}
+<A>__{lots of dark wood and filtered light. davis is sitting at his desk, looking at a series of newspapers in front of him as jones steps up and stands before the desk.}
+<C>__{davis}
+<D>__{i don't know if you're aware of it, captain, but i have an exceptionally good vocabulary. i'm a terror at scrabble, crossword puzzles, but even i'm in awe of the vocabulary that the press and the city council have been exercising in reference to this department courtesy of the christine collins...incident.}
+<P>__{(scans papers)}
+<D>__{incompetent. cowardly. bullying. reprehensible. mendacious and invidious...those two courtesy of that prick gustav briegleb. bonus words in scrabble, both of them. especially invidious. hard to work that one into a conversation. but he managed it, all right.}
+<A>__{changeling a true story}
+<C>__{jones}
+<D>__{sir, i }
+<C>__{davis}
+<D>__{the key, of course, is the context in which words like this get used. you have to do that in scrabble, you know, when somebody challenges a word...show how it's used in a sentence. so "incompetent," as in }
+<P>__{(reads)}
+<D>__{"a department so incompetent that they never realized that up to twenty children were being kidnapped and murdered under their very noses."}
+<P>__{(looks over)}
+<D>__{and here: "so incompetent that they insisted they knew better than a mother the identity of her own child, forced him upon her, and then incarcerated her when she confronted them with evidence of their own reprehensible behavior." that was a two fer. incompetent and reprehensible in the same sentence. guy must be a real terror at crossword puzzles.}
+<A>__{davis gets up and crosses the room, looking out through the slatted windows at the busy los angeles street outside.}
+<C>__{davis}
+<D>__{captain, your handling of the collins case has exposed this department to public ridicule. there is even the potential for civil and criminal liability.}
+<C>__{jones}
+<D>__{sir, nobody could have known what was going on up at that ranch. not us, not the sheriff's department, the marshall's office...as for the collins woman....}
+<P>__{(beat)}
+<D>__{i'm still not convinced that her kid is among the victims up in wineville.}
+<C>__{davis}
+<D>__{no?}
+<C>__{jones}
+<D>__{no, sir.}
+<P>__{(more)}
+<A>__{changeling a true story}
+<C>__{jones }
+<D>__{there were four other photos of missing boys that looked a lot like him...this clark kid could have been mistaken.}
+<C>__{davis}
+<D>__{maybe he was...which raises the obvious question: so what?}
+<C>__{jones}
+<D>__{sir?}
+<A>__{davis turns back to him from the window.}
+<C>__{davis}
+<D>__{the mayor wants this to go away. i want this to go away. the way you do that is to stop insisting that walter collins was not among those kids killed up at that goddamned ranch. because if the boy you brought back isn't walter collins, and he's not dead up at that ranch, then where the hell is he? people will want to know why we haven't found him. why we aren't we doing our job.}
+<P>__{(beat)}
+<D>__{but if, on the other hand, he is, or could be among those poor boys killed up in wineville...then the inquiries stop. it's a momentary embarrassment that you'll have to live with...but better a short inconvenience than a lingering problem, wouldn't you say, captain?}
+<A>__{jones doesn't like it, but he swallows his pride. nods.}
+<C>__{jones}
+<D>__{yes, sir.}
+<C>__{davis}
+<D>__{the boy's been gone for nearly a year. if he was going to be found, it would've happened by now. whether he was up at that ranch or not, the truth is he probably is dead somewhere. better his mother accepts that now rather than later, don't you think?}
+<C>__{jones}
+<D>__{yes, sir.}
+<A>__{changeling a true story}
+<C>__{davis}
+<D>__{good. that'll be all, captain.}
+<A>__{jones starts to leave, then looks back as davis settles back behind his desk.}
+<C>__{jones}
+<D>__{sir, there's talk of an investigation by the police commission.}
+<C>__{davis}
+<D>__{let me worry about the commission. but it wouldn't hurt to find out just who the fuck that kid is you brought back from de kalb and why he did this, because the press bought into his bullshit same as we did. that we were all taken in by the scheming little bastard may help take some of the sting off this.}
+<C>__{jones}
+<D>__{my boys are working on it now, sir.}
+<A>__{and he exits as we go to}

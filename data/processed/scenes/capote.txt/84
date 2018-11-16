@@ -1,0 +1,36 @@
+<L>__{interior sheriff's residence, foyer continuous}
+<A>__{truman walks into the residence. to the left is the kitchen; to the right is the living room. truman looks back at dorothy she's still on the phone. he heads for the kitchen.}
+<L>__{interior sheriff's residence, kitchen continuous}
+<A>__{truman walks slowly through the doorway of the large kitchen. on the far side of the kitchen is a jail cell. inside the cell is perry smith. (now we know why truman came here.) truman stares. perry doesn't see him he's resting his head on a small table, the tip of his thumb in his mouth. the chair seems too tall for perry. he looks like a lonely kindergartner, told to take his afternoon nap. after several moments, dorothy enters, flustered:}
+<C>__{dorothy}
+<D>__{oh. truman. i meant in there.}
+<P>__{(points to living room)}
+<D>__{i... um...}
+<A>__{perry sits up quickly, rubs his legs.}
+<C>__{dorothy}
+<D>__{it's the women's cell. it's hardly ever used. but they wanted to, um, separate... please. let's sit in the living room. i will set up in the living room.}
+<A>__{she gathers a tray of truman's pastries, and coffee cups.}
+<C>__{dorothy}
+<D>__{come.}
+<A>__{she goes truman starts to follow, then lingers.}
+<C>__{truman}
+<D>__{they put you in the women's cell.}
+<C>__{perry}
+<D>__{among other indignities.}
+<A>__{perry's voice is oddly high, whispery special words are precisely enunciated.}
+<C>__{truman}
+<D>__{well... she's a good cook.}
+<C>__{perry}
+<D>__{she's scared of me.}
+<C>__{truman}
+<D>__{i think so am i. a little bit.}
+<C>__{perry}
+<D>__{are you?}
+<P>__{(a moment, then:)}
+<D>__{you have any aspirin? my legs }
+<A>__{dorothy's in the doorway.}
+<C>__{dorothy}
+<D>__{um. truman? all set.}
+<A>__{truman looks at dorothy, looks back at perry.}
+<C>__{truman}
+<D>__{i'm sorry.}

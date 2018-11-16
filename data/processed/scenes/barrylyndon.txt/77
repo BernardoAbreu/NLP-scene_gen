@@ -1,0 +1,40 @@
+<L>__{exterior chevalier de belle fast's house berlin day}
+<A>__{roderick, now dressed in civilian clothes, admires a beautiful carriage, waiting at the door. then he enters.}
+<L>__{interior chevalier de belle fast's apartment day}
+<C>__{chevalier}
+<D>__{you are the young man who m. de seebach recommended?}
+<C>__{roderick}
+<D>__{yes, sir. here is my letter.}
+<A>__{roderick bows, and hands him a letter from that gentleman, with which the captain had taken care to provide him. as the chevalier reads the letter, roderick has the leisure to examine him. he is a man of sixty years of age, dressed superbly, wearing rings, diamonds and laces. one of his eyes is closed with a black patch, and he wears a little white and red paint, and a pair of moustachios, which fall over his lip. the chevalier is seated at a table near the window to read the letter.}
+<C>__{chevalier}
+<D>__{your name is lazlo zilagyi?}
+<C>__{roderick}
+<D>__{yes, sir.}
+<C>__{chevalier}
+<D>__{you come highly recommended by herr seebach.}
+<C>__{roderick}
+<D>__{herr seebach was a very kind employer.}
+<C>__{chevalier}
+<D>__{for whom else have you worked?}
+<C>__{roderick}
+<D>__{no one, sir. before that i served in the army but had to leave due to weakness of the loins.}
+<C>__{chevalier}
+<D>__{who else can give me information about you?}
+<C>__{roderick}
+<D>__{only the agency of servants.}
+<A>__{the chevalier puts the letter down, looks at roderick for a few seconds, and then smiles.}
+<C>__{chevalier}
+<D>__{you will do. i will give you 30... a day. i do not provide your clothing; you will sleep at home, and you will be at my orders every morning at seven o'clock.}
+<A>__{he notices roderick begin to tremble and look peculiar.}
+<C>__{chevalier}
+<D>__{is there something wrong?}
+<A>__{he goes up to roderick.}
+<C>__{roderick }
+<D>__{it was very imprudent of me; but when i saw the splendor of his appearance, the nobleness of his manner, i felt it impossible to keep disguise with him. you, who have never been out of your country know little what it is to hear a friendly voice in captivity; and there's a many a man that will understand the cause of the burst of feeling which was about to take place.}
+<A>__{the chevalier takes roderick by the shoulder.}
+<C>__{roderick}
+<P>__{(as he speaks, bursting into tears)}
+<D>__{sir, i have a confession to make. i am an irishman, and my name is roderick james. i was abducted into the prussian army two years ago, and now i have been put into your service by my captain and his uncle, the minister of police, to serve as a watch upon your actions, of which i am to give information to the same quarter. for this odious service, i have been promised my discharge, and a hundred guineas.}
+<A>__{sobbing, roderick falls into his arms.}
+<C>__{chevalier}
+<D>__{the rascals! they think to catch me, do they? why, young man, my chief conspiracy is a faro bank. but the king is so jealous, that he will see a spy in every person who comes to his miserable capital, in the great sandy desert here.}

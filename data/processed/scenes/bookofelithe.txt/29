@@ -1,0 +1,86 @@
+<L>__{interior palladium auditorium carnegie's box}
+<A>__{carnegie sits at his desk, the huge auditorium and stage area visible behind him. eli stands before him. around him are the other gunmen, who keep their weapons trained on him. standing at carnegie's side are redridge and claudia.}
+<C>__{carnegie}
+<D>__{so, who are you?}
+<C>__{eli}
+<D>__{nobody. a walker in the outland.}
+<C>__{carnegie}
+<D>__{i've met walkers before. not a particularly civilized bunch. some have even taken to eating their own kind, did you know that? you wouldn't be one of those savages now, would you?}
+<A>__{carnegie's gunmen look him over, inspecting him warily.}
+<C>__{carnegie gunman}
+<D>__{he ain't got the shakes.}
+<A>__{carnegie's confident gaze remains fixed on eli throughout.}
+<C>__{carnegie}
+<D>__{good. this is a civilized town. under god. do you know what that means?}
+<A>__{eli can't help but react at the mention of that word.}
+<C>__{carnegie}
+<D>__{it means we have laws here. laws set down long before any of us ever walked this earth. and one of them is, you don't eat the flesh of your brother. else you're no better than an animal. and not welcome here.}
+<A>__{eli doesn't respond. just stands there in carnegie's gaze.}
+<C>__{carnegie}
+<D>__{so what's your business here, friend? walkers don't usually come into town less they want something.}
+<C>__{eli}
+<D>__{i had a battery needed charging and a canteen needed filling. i didn't come here looking for trouble.}
+<A>__{barely noticeable, carnegie gestures to one of the gunmen, who nods in acknowledgement and leaves.}
+<C>__{carnegie}
+<D>__{well, you sure as hell found it. do you know who i am?}
+<C>__{eli}
+<D>__{no.}
+<C>__{carnegie}
+<D>__{my name's carnegie. i own this bar. i own the whole town. you've never heard of me?}
+<C>__{eli}
+<D>__{that's you out there on the street.}
+<C>__{carnegie}
+<D>__{remarkable likeness, isn't it? you'd never guess half the men who built it were blind. a small tribute from a grateful people. i was deeply touched.}
+<C>__{eli}
+<D>__{you had slaves build you a monument to yourself?}
+<A>__{the mention of that word rankles carnegie. he walks around the desk toward eli, waves an admonishing finger at him.}
+<C>__{carnegie}
+<D>__{don't call them slaves. that's an old word. i'm not a slaver. i'm trying to help these people.}
+<A>__{carnegie can't help himself once again he is in his natural element, spinning the argument his way, pitching. selling.}
+<C>__{carnegie}
+<D>__{in the outland the sightless are preyed upon like sick animals. here at least they're protected. they do the essential work others don't want. and in return they eat, they drink, they survive. last year, a couple of them even got married performed the ceremony myself.}
+<P>__{(beat)}
+<D>__{you see, i'm not exploiting these people i'm saving them! any one of them is free to leave whenever they wish. but here they stay. and they thank me every single day for their salvation!}
+<A>__{an impressive, impassioned performance. he sounds just like an old school tv evangelist. but eli is unmoved.}
+<C>__{eli}
+<D>__{it's none of my business what you do here. like you said, it's your town. i just want to be on my way.}
+<C>__{carnegie}
+<D>__{what's your name, walker?}
+<A>__{eli doesn't respond. just stands there.}
+<C>__{carnegie}
+<D>__{all right, i guess we just call you walker. don't see too many folks your age these days. you lived in the world before? you can read?}
+<C>__{eli}
+<D>__{i read every day.}
+<C>__{carnegie}
+<D>__{that's good. good man. we educated folk, we need to stick together, if we're ever going to rebuild this world. people like you and me, we're the future.}
+<C>__{eli}
+<D>__{what do you want with me?}
+<C>__{carnegie}
+<D>__{straight to the pointerior i like that. fact is, you could be in a lot of trouble. this is a peaceful town. you walk in here, armed, and the next thing a dozen of my good citizens are dead. i've hanged men for less. i could hang you.}
+<P>__{(beat)}
+<D>__{or, you could come work for me.}
+<C>__{eli}
+<D>__{what?}
+<C>__{carnegie}
+<D>__{i never once saw anyone handle themselves the way you did down there in that bar. i don't know where you learned it, but i sure as hell could use it.}
+<C>__{eli}
+<D>__{i'm not interested.}
+<C>__{carnegie}
+<D>__{people who work for me can live better than any walker ever dreamed. real beds, clean water, hot food. women, even. you could do a lot worse, my friend.}
+<C>__{eli}
+<D>__{i'm not your friend. and i'm not staying. i got someplace i need to be. out west.}
+<C>__{carnegie}
+<D>__{west? there is nothing west. it's all gone, a long time ago.}
+<C>__{eli}
+<D>__{i've been told different.}
+<C>__{carnegie}
+<D>__{by who?}
+<A>__{eli doesn't reply. carnegie smiles, dials up the charm.}
+<C>__{carnegie}
+<D>__{all right, look. i'm going to make you an offer of goodwill. stay the night, think it over. try a little local hospitality. we'll talk again in the morning. if you're still not interested, you're free to go. no hard feelings.}
+<C>__{eli}
+<D>__{thank you for your offer. but i'd prefer to just leave right now. so you can either let me out of here, or i can kill my way out.}
+<A>__{the gunmen bristle, exchange nervous looks. carnegie appears unfazed. he smiles. beat. he looks to the gunman at the door.}
+<C>__{carnegie}
+<D>__{let him go.}
+<A>__{the gunman opens the door. eli turns and exits.}

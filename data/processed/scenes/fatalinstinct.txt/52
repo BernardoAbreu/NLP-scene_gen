@@ -1,0 +1,94 @@
+<L>__{interior ned's law office day}
+<A>__{ned enters, carrying the box. he sets it down on her desk.}
+<C>__{laura}
+<D>__{oh gee, you shouldn't have...}
+<C>__{ned}
+<D>__{i didn't. it's for my wife.}
+<A>__{he goes into his office, starts to change out of his tattered suit. laura talks to him from the outer office.}
+<C>__{laura}
+<D>__{she called. wondered why you never came home last night. i told her you were working with a client, undercover.}
+<A>__{she steps into the doorway of his office.}
+<C>__{laura}
+<D>__{were you?}
+<C>__{ned}
+<D>__{what?}
+<C>__{laura}
+<D>__{there's lipstick on your collar.}
+<A>__{she returns to her desk. disturbed, ned quickly pulls the shirt collar out, checks it.}
+<C>__{ned}
+<D>__{no there isn't.}
+<C>__{laura}
+<D>__{no... there isn't. but you answered my question. she's a real looker, huh?}
+<C>__{ned}
+<D>__{who?}
+<C>__{laura}
+<D>__{lola cain.}
+<C>__{ned}
+<D>__{i hadn't noticed.}
+<A>__{she opens the blinds behind her and looks at ned through the window between their offices.}
+<C>__{laura}
+<D>__{yeah, i noticed how you hadn't noticed.}
+<P>__{(returns to work)}
+<D>__{that's alright. she noticed enough for both of us.}
+<A>__{she picks up a stack of papers from the fax machine. ned steps into the doorway, wearing a clean shirt.}
+<C>__{laura}
+<D>__{i worry about you, ned. i worry a lot.}
+<P>__{(hands him papers)}
+<D>__{max shady's been faxing death threats to you all morning.}
+<C>__{ned}
+<P>__{(reading bits)}
+<D>__{...stick a knife in your...}
+<P>__{(reacts, next)}
+<D>__{...rip the eyeballs out of your...}
+<P>__{(next)}
+<D>__{...drive razor sharp spikes under your...}
+<C>__{laura}
+<D>__{did you get to the one...?}
+<C>__{ned}
+<D>__{...cut it off... shove it in a blender.}
+<C>__{laura}
+<D>__{yeah... that one.}
+<C>__{ned}
+<P>__{(tosses them aside)}
+<D>__{he's just getting it out of his system. once they say it... they never do it. you know... like the president.}
+<A>__{there's a knock at the door. they look up to see an ominous silhouette of a man on the milkglass. ned starts toward the door. laura grabs his arm, stopping him.}
+<C>__{laura}
+<P>__{(whispers)}
+<D>__{wait. it might be him.}
+<A>__{she opens her purse, pulls out a big colt .45, holding it out to him. ned stares at it, taken aback.}
+<C>__{ned}
+<D>__{where did you get that?}
+<C>__{laura}
+<P>__{(as if obvious)}
+<D>__{from my purse.}
+<C>__{ned}
+<D>__{what are you doing with it?}
+<C>__{laura}
+<P>__{(still obvious)}
+<D>__{handing it to you.}
+<C>__{ned}
+<D>__{jeez, laura, what do you use a gun for?}
+<C>__{laura}
+<D>__{you shoot it. a bullet comes out. gosh, ned, after all your years as a cop, i'd think you'd know these things.}
+<C>__{ned}
+<D>__{laura... put the gun away.}
+<A>__{he hands the gun back to her... goes to the door... opens it. there's a young delivery man holding a bouquet of flowers.}
+<C>__{delivery man}
+<P>__{(checks card)}
+<D>__{flowers for ned rav...}
+<P>__{(looks up)}
+<D>__{hey... aren't you that lawyer guy? man, you are dead meat!}
+<A>__{ned grabs the flowers, slams the door. laura takes the envelope from the flowers... opens it.}
+<C>__{laura}
+<D>__{is this another sick joke from max shady?}
+<A>__{she looks at the card... her expression turning cold.}
+<C>__{ned}
+<D>__{what is it...?}
+<C>__{laura}
+<P>__{(hands it to him)}
+<D>__{lola cain.}
+<A>__{she grabs the flowers... takes them into the bathroom.}
+<C>__{laura}
+<D>__{i will put these in water for you.}
+<A>__{ned opens the envelope. an audio cassette drops into his hand. written on the label: play me. from the bathroom, we hear the loud sound of a toilet}
+<B>__{flushing.}

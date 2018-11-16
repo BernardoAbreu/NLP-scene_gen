@@ -1,0 +1,228 @@
+<T>__{dissolve to:}
+<B>__{poole is finished}
+<A>__{bowman is still reading and working on his dessert.}
+<C>__{poole}
+<D>__{dave, if you've a minute, i'd like your advice on something.}
+<C>__{bowman}
+<D>__{sure, what is it?}
+<C>__{poole}
+<D>__{well, it's nothing really important, but it's annoying.}
+<C>__{bowman}
+<D>__{what's up?}
+<C>__{poole}
+<D>__{it's about my salary cheques.}
+<C>__{bowman}
+<D>__{yes?}
+<C>__{poole}
+<D>__{well i got the papers on my official up grading to ags 19 two weeks before we left.}
+<C>__{bowman}
+<D>__{yes, i remember you mentioning it. i got mine about the same time.}
+<C>__{poole}
+<D>__{that's right. well, naturally, i didn't say anything to payroll. i assumed they'd start paying me at the higher grade on the nexterior pay cheque. but it's been almost three weeks now and i'm still being paid as an ags 18.}
+<C>__{bowman}
+<D>__{interesting that you mention it, because i've got the same problem.}
+<C>__{poole}
+<D>__{really.}
+<C>__{bowman}
+<D>__{yes.}
+<C>__{poole}
+<D>__{yesterday, i finally called the accounting office at mission control, and all they could tell me was that they'd received the ags 19 notification for the other three but not mine, and apparently not yours either.}
+<C>__{bowman}
+<D>__{did they have any explanation for this?}
+<C>__{poole}
+<D>__{not really. they just said it might be because we trained at houston and they trained in marshall, and that we're being charged against different accounting offices.}
+<C>__{bowman}
+<D>__{it's possible.}
+<C>__{poole}
+<D>__{well, what do you think we ought to do about it?}
+<C>__{bowman}
+<D>__{i don't think we should make any fuss about it yet. i'm sure they'll straighten it out.}
+<C>__{poole}
+<D>__{i must say, i never did understand why they split us into two groups for training.}
+<C>__{bowman}
+<D>__{no. i never did, either.}
+<C>__{poole}
+<D>__{we spent so little time with them, i have trouble keeping their names straight.}
+<C>__{bowman}
+<D>__{i suppose the idea was specialized training.}
+<C>__{poole}
+<D>__{i suppose so. though, of course, there's a more sinister explanation.}
+<C>__{bowman}
+<D>__{oh?}
+<C>__{poole}
+<D>__{yes. you must have heard the rumour that went around during orbital check out.}
+<C>__{bowman}
+<D>__{no, as a matter of fact, i didn't.}
+<C>__{poole}
+<D>__{oh, well, apparently there's something about the mission that the sleeping beauties know that we don't know, and that's why we were trained separately and that's why they were put to sleep before they were even taken aboard.}
+<C>__{bowman}
+<D>__{well, what is it?}
+<C>__{poole}
+<D>__{i don't know. all i heard is that there's something about the mission we weren't told.}
+<C>__{bowman}
+<D>__{that seems very unlikely.}
+<C>__{poole}
+<D>__{yes, i thought so.}
+<C>__{bowman}
+<D>__{of course, it would be very easy for us to find out now.}
+<C>__{poole}
+<D>__{how?}
+<C>__{bowman}
+<D>__{just ask hal. it's conceivable they might keep something from us, but they'd never keep anything from hal.}
+<C>__{poole}
+<D>__{that's true.}
+<C>__{bowman}
+<P>__{(sighs)}
+<D>__{well... it's silly, but... if you want to, why don't you?}
+<A>__{poole walks to the hal 9000 computer.}
+<C>__{poole}
+<D>__{hal... dave and i believe that there's something about the mission that we weren't told. something that the rest of the crew know and that you know. we'd like to know whether this is true.}
+<C>__{hal}
+<D>__{i'm sorry, frank, but i don't think i can answer that question without knowing everything that all of you know.}
+<C>__{bowman}
+<D>__{he's got a pointerior.}
+<C>__{poole}
+<D>__{okay, then how do we re phrase the question?}
+<C>__{bowman}
+<D>__{still, you really don't believe it, do you?}
+<C>__{poole}
+<D>__{not really. though, it is strange when you think about it. it didn't really make any sense to keep us apart during training.}
+<C>__{bowman}
+<D>__{yes, but it's to fantastic to think that they'd keep something from us.}
+<C>__{poole}
+<D>__{i know. it would be almost inconceivable.}
+<C>__{bowman}
+<D>__{but not completely inconceivable?}
+<C>__{poole}
+<D>__{i suppose it isn't logically impossible.}
+<C>__{bowman}
+<D>__{i guess it isn't.}
+<C>__{poole}
+<D>__{still, all we have to do is ask hal.}
+<C>__{bowman}
+<D>__{well, the only important aspect of the mission are: where are we going, what will we do when we get there, when are we coming back, and... why are we going?}
+<C>__{poole}
+<D>__{right. hal, tell me whether the following statements are true or false.}
+<C>__{hal}
+<D>__{i will if i can, frank.}
+<C>__{poole}
+<D>__{our mission profile calls for discovery going to saturn. true or false?}
+<C>__{hal}
+<D>__{true.}
+<C>__{poole}
+<D>__{our transit time is 257 days. is that true?}
+<C>__{hal}
+<D>__{that's true.}
+<C>__{poole}
+<D>__{at the end of a hundred days of exploration, we will all go into hibernation. is this true?}
+<C>__{hal}
+<D>__{that's true.}
+<C>__{poole}
+<D>__{approximately five years after we go into hibernation, the recovery vehicle will make rendezvous with us and bring us back. is this true?}
+<C>__{hal}
+<D>__{that's true}
+<C>__{poole}
+<D>__{there is no other purpose for this mission than to carry out a continuation of the space program, and to further our general knowledge of the planets. is that true?}
+<C>__{hal}
+<D>__{that's true.}
+<C>__{poole}
+<D>__{thank you very much, hal.}
+<C>__{hal}
+<D>__{i hope i've been able to be of some help.}
+<A>__{both men look at each other rather sheepishly.}
+<B>__{discovery in space}
+<A>__{pulsing along. earth and moon.}
+<B>__{documentary sequence illustrating the following activities}
+<A>__{split screen technique and superimposed clock to give sense of simultaneous action and the feeling of a typical day. in the course of these activities we shall see the computer used in all of its functions.}
+<C>__{narrator}
+<D>__{bowman and poole settled down to the peaceful monotony of the voyage, and the next three months passed without incident.}
+<B>__{bowman time poole}
+<A>__{tv news morning 0800 wakes up bedtime snack 0900 breakfast to sleep with 1000 gymnasium instant electronarcosis and ear}
+<B>__{plugs}
+<A>__{sleep 1100 ship inspection sleep 1200 household duties sleep 1300 lunch sleep 1400 experiments and astronomy sleep 1500 experiments and astronomy sleep 1600 recreation sleep 1700 recreation wakes up 1800 gymnasium breakfast 1900 dinner gymnasium 2000 tv news evening papers mission control 2100 mission control report report family and social 2200 family and social tv chat tv chat films 2300 films lunch 2400 bedtime snack inspection 0100 instant electronarcosis sleep experiments 0200 sleep astronomy experiments 0300 sleep recreation 0400 sleep household duties 0500 sleep gymnasium 0600 sleep dinner 0700 sleep}
+<B>__{centrifuge}
+<A>__{bowman sitting at personal communication panel. poole standing nearby. bowman's parents are seen on the vision screen. mother, father and younger sister. they are all singing "happy birthday". the parents, poole and hal. the song ends.}
+<C>__{father}
+<D>__{well, david there is a man telling us that we've used up our time.}
+<C>__{mother}
+<D>__{david... again we want to wish you a happy birthday and god speed. we'll talk to you again tomorrow. bye bye now.}
+<A>__{chorus of "good byes". vision screen goes blank.}
+<C>__{hal}
+<D>__{sorry to interrupt the festivities, dave, but i think we've got a problem.}
+<C>__{bowman}
+<D>__{what is it, hal?}
+<C>__{hal}
+<D>__{my f.p.c. shows an impending failure of the antenna orientation unit.}
+<A>__{tv display diagram of skeletonished picture of the ship. picture changes to closer sectionalized view of the ship. picture changes to actual component in color relief and its warehouse number.}
+<C>__{hal}
+<D>__{the ao unit should be replaced within the nexterior seventy two hours.}
+<C>__{bowman}
+<D>__{right. let me see the antenna alignment display, please.}
+<A>__{tv display of earth very small in cross hairs of grid picture. exterior view of the big dish antenna and earth alignment telescope.}
+<B>__{centrifuge}
+<C>__{hal}
+<D>__{the unit is still operational, dave. but it will fail within seventy two hours.}
+<C>__{bowman}
+<D>__{i understand hal. we'll take care of it. please, let me have the hard copy.}
+<A>__{xeroxed diagrams come out of a slot.}
+<C>__{poole}
+<D>__{strange that the a.o. unit should go so quickly.}
+<C>__{bowman}
+<D>__{well, i suppose it's lucky that that's the only trouble we've had so far.}
+<B>__{discovery in space}
+<A>__{no planets visible. shots of antenna.}
+<B>__{centrifuge}
+<A>__{we see bowman and poole go to a cupboard labelled in paper tape, "random decision maker". they removed a silver dollar in a protective case. poole flips the coin. bowman call "head", it is tails. poole wins. poole looks pleased.}
+<B>__{discovery in space pod bay}
+<A>__{poole in space suit doing preliminary check out.}
+<B>__{command module}
+<A>__{bowman at flight control. see tv picture of poole in pod bay. hal's pod bay console with eye. poole goes to pod bay warehouse section and obtains component. he carries it back to the pod and places it in front of the floor.}
+<C>__{poole}
+<D>__{hal, have pod arms secure the component.}
+<C>__{hal}
+<D>__{roger.}
+<A>__{see pod arms secure component.}
+<C>__{poole}
+<D>__{hal, please rotate pod number two.}
+<A>__{see the center pod rotate to face the pod bay doors. poole enters pod. inside pod, he does initial pre flight check, tries buttons and controls.}
+<C>__{poole}
+<D>__{how do you read me, dave?}
+<B>__{bowman in command module}
+<C>__{bowman}
+<D>__{five by five, frank.}
+<B>__{inside pod}
+<C>__{poole}
+<D>__{how do you read me, hal?}
+<C>__{hal}
+<D>__{five by five, frank.}
+<C>__{poole}
+<D>__{hal, i'm going out now to replace the ao unit.}
+<C>__{hal}
+<D>__{i understand.}
+<C>__{poole}
+<D>__{hal, maintain normal e.v.a. condition.}
+<C>__{hal}
+<D>__{roger.}
+<C>__{poole}
+<D>__{hal, check all airlock doors secure.}
+<C>__{hal}
+<D>__{all airlock doors are secure.}
+<C>__{poole}
+<D>__{decompress pod bay.}
+<A>__{see big pod bay air pumps at work.}
+<C>__{hal}
+<D>__{pod bay is decompressed. all doors are secure. you are free to open pod bay doors.}
+<C>__{poole}
+<D>__{opening pod bay doors.}
+<A>__{inside pod, poole keys open pod bay doors. pod slowly edges out of pod bay. poole maneuvers the pod carefully away from discovery.}
+<B>__{inside command module}
+<A>__{bowman can see tiny pod maneuvering directly in front.}
+<B>__{poole see bowman in command module window}
+<A>__{pod slowly maneuvers to antenna. pod fastens itself magnetically to sides of discovery at base of antenna. special magnetic plates grip discovery sides. the pod arms work to remove the faulty component. easy flip bolts of a special design facilitate job. inside the pod, poole works the arms by special control.}
+<B>__{in command module}
+<A>__{bowman sees insert of work taken from tv camera pov in pod hand. hal stands by. poole secures the faulty part in one hand. the new component is fitted into place by the other three hands are snapped closed with the specially designed flip bolts.}
+<C>__{poole}
+<D>__{hal, please acknowledge component correctly installed and fully operational.}
+<C>__{hal}
+<D>__{the component is correctly installed and fully operational.}
+<A>__{the pod floats away from the discovery by shutting off the electro magnetic plates. the pod maneuvres away from the antenna and out in front of discovery. bowman sees the pod through the command module window. poole sees bowman in command module window. poole carefully maneuvres toward the pod doors. pod stops a hundred feet away. poole keys automatic docking alignment mode. poole checks airlock safety procedure with hal. hal approves entry. poole actuates pod bay doors open. see pod bay doors open. pod carefully maneuvers on to docking arm, which then draws pod into pod bay.}

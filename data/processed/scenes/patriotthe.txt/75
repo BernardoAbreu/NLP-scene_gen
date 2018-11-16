@@ -1,0 +1,35 @@
+<L>__{exterior camden night}
+<A>__{glittering lights shine from the camden inn, a grand structure in the center of town. a line of opulent carriages discharges well dressed passengers, arriving for a ball. ladies in their finery. patrician husbands. redcoat and green dragoon officers in magnificent dress uniforms.}
+<L>__{interior cornwallis' personal quarters evening}
+<A>__{cornwallis, standing in front of a full length mirror, is dressed by his valet while major halbert, colonel huntington and tarleton look on.}
+<C>__{cornwallis}
+<D>__{why am i here, colonel halbert?}
+<C>__{major halbert}
+<D>__{for the ball, sir?}
+<A>__{cornwallis holds his temper.}
+<C>__{cornwallis}
+<D>__{why, after six weeks, are we still here to attend a ball. by now, we should be attending balls in north carolina, not south carolina.}
+<C>__{major halbert}
+<D>__{our supply line, sir?}
+<C>__{cornwallis}
+<D>__{excellent guess, major.}
+<A>__{the valet puts a dress coat on cornwallis who looks at the garment with deepest disdain.}
+<C>__{cornwallis}
+<D>__{and what, praytell, is this?}
+<C>__{valet}
+<D>__{uh... i borrowed it from colonel north. i took it in at the back, added wider epaulets, a court sash and looped gold braiding on the cuffs...}
+<C>__{cornwallis}
+<D>__{it's a horse blanket.}
+<P>__{(to major halbert)}
+<D>__{first my personal baggage, then half the bridges and ferries between here and charleston burned, a dozen convoys attacked. colonel, if you can't secure our supply line against militia, how do you expect to do so against colonial regulars or the french when they come?}
+<C>__{colonel halbert}
+<D>__{sir, they're not like regulars, we can't find them and we don't know when or where they're going to strike.}
+<C>__{cornwallis}
+<D>__{how impolite. and who leads these clever, secretive fellows?}
+<C>__{colonel halbert}
+<D>__{we don't know, sir. he's called, the commander by some, the swamp fox by others.}
+<C>__{cornwallis}
+<D>__{colonel, i'm a civilized man but i'm finding to difficult to remain civil. secure my supply line.}
+<C>__{colonel halbert}
+<D>__{yes, sir.}
+<A>__{cornwallis looks at his reflection with dismay, sighs and strides out. tarleton, amused, follows.}

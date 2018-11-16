@@ -1,0 +1,68 @@
+<T>__{cut to:}
+<L>__{exterior resurrection city hospital night}
+<A>__{the hospital is completely lit up the only building in town with this much power.}
+<L>__{interior hospital corridor night}
+<A>__{picard walks down the hall, stops outside a door marked "x ray processing." the red light is on above the door, but that means nothing to picard... who opens the door and steps inside...}
+<L>__{interior x ray processing room}
+<A>__{much like a traditional darkroom, trays of chemicals and washes, etc. but everything has a slightly futuristic and cobbled together feel. they are developing x rays by hand instead of by machine. the room is lit with an amber glow. as soon as picard opens the door, we hear ruby's voice:}
+<C>__{ruby's voice}
+<D>__{shut that door!}
+<A>__{picard quickly shuts the door behind him, looks around the room. ruby, who's working at a tray of chemicals, turns around in fury.}
+<C>__{ruby}
+<D>__{what are you, an idiot? didn't you see the red light was on?}
+<C>__{picard}
+<D>__{ah... yes... but, i didn't realize that }
+<C>__{ruby}
+<D>__{thank god this plate was already fixed.}
+<A>__{she pulls down a small pane of glass (probably from a window) out of a tub of water... holds it up to the light. and there on the glass is a x ray of a man's skull. picard moves to her.}
+<C>__{picard}
+<P>__{(re: x ray)}
+<D>__{cochrane?}
+<C>__{ruby}
+<D>__{yes... and i only had enough silver halide for one shot. so you're lucky you didn't screw it up.}
+<C>__{picard}
+<D>__{i'm very sorry.}
+<A>__{she glances at him, sees he feels genuinely bad. she softens a little.}
+<C>__{ruby}
+<D>__{don't worry about it.}
+<A>__{she picks up a rubber squeegee and carefully starts to dry off the pane of glass.}
+<C>__{ruby}
+<D>__{did you need something?}
+<C>__{picard}
+<D>__{yes... i wanted to ask you about some photographs i saw out at the silo. there were three of them... printed on some kind of fabric.}
+<C>__{ruby}
+<D>__{bed sheets.}
+<P>__{(off his look)}
+<D>__{i used my last set of bed sheets to make those prints. not the best material, but i haven't seen a clean piece of paper in five years.}
+<C>__{picard}
+<D>__{did you take any other pictures of the rocket?}
+<A>__{the x ray is now dry, and ruby turns and looks at him.}
+<C>__{ruby}
+<D>__{sure.}
+<P>__{(jokingly)}
+<D>__{why, did you want to buy them?}
+<A>__{picard doesn't realize she was kidding jumps on the opportunity to get the photos.}
+<C>__{picard}
+<D>__{yes. i don't have any money right now, but i may be able to get some.}
+<A>__{ruby looks at him for a moment is he serious? she gives him a curious smile.}
+<C>__{ruby}
+<D>__{"money." so you can get dome money...}
+<C>__{picard}
+<D>__{i can try.}
+<C>__{ruby}
+<D>__{you'd have to try real hard. no one's used currency in over ten years. what are you, from another planet?}
+<A>__{picard hesitates, smiles at her, tries to laugh it off.}
+<C>__{picard}
+<D>__{no... but sometimes i feel that way.}
+<P>__{(beat)}
+<D>__{what i meant was, i'd be willing to trade for the photographs.}
+<C>__{ruby}
+<D>__{trade. okay. the photographs... for a straight answer.}
+<P>__{(beat)}
+<D>__{who are you? and how do you know zephram?}
+<C>__{picard}
+<D>__{i'm an old friend... i met him when he was doing his undergraduate work at cornell back in }
+<C>__{ruby}
+<P>__{(cuts him off)}
+<D>__{'fraid not.}
+<A>__{ruby walks past him with the x ray...}

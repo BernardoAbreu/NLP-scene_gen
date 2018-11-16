@@ -1,0 +1,23 @@
+<L>__{interior ada's bedroom, black cove farm. predawn}
+<A>__{ada wakes up to persistent knocking.}
+<C>__{ruby}
+<D>__{ada? ada? you up?}
+<C>__{ada}
+<D>__{yes.}
+<P>__{(opening her eyes)}
+<D>__{it's still dark.}
+<C>__{ruby}
+<D>__{tell the cows that. it's late.}
+<L>__{interior kitchen, black cove farm. predawn}
+<A>__{ada enters blearily, clutching her novel. ruby already busy.}
+<C>__{ada}
+<D>__{i have to eat something.}
+<C>__{ruby}
+<D>__{then you have to get up earlier.}
+<P>__{(at ada's book)}
+<D>__{what's that?}
+<C>__{ada}
+<D>__{a novel.}
+<C>__{ruby}
+<P>__{(heading outside)}
+<D>__{you want to carry a book carry one you can write in }

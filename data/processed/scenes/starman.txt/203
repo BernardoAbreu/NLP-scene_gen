@@ -1,0 +1,52 @@
+<L>__{interior boxcar morning}
+<A>__{jenny awakens and looks around. the star man is not with her. as she stands up she hears his voice outside. he is speaking to something in his language. she goes to the door to find out what and sees him standing beside a fenced in pasture talking to the horses inside.}
+<L>__{exterior pasture morning}
+<A>__{jenny joins the star man at the fence.}
+<C>__{jenny}
+<D>__{good morning.}
+<C>__{star man}
+<D>__{horses.}
+<C>__{jenny}
+<D>__{you don't forget anything, do you?}
+<C>__{star man}
+<D>__{no.}
+<A>__{jenny pets one of the horses on the nose.}
+<C>__{jenny}
+<P>__{(to the horse)}
+<D>__{hello... hello. how are you this morning?}
+<C>__{star man}
+<D>__{do they talk?!}
+<C>__{jenny}
+<P>__{(laughs)}
+<D>__{no, they don't talk... we talk to them.}
+<C>__{star man}
+<D>__{i understand.}
+<A>__{an appaloosa nudges her way through the others to the fence.}
+<C>__{jenny}
+<D>__{oh, you're pretty...}
+<C>__{star man}
+<D>__{i gave you a baby last night.}
+<A>__{shocked, jenny looks at him from around the appaloosa's nose. the star man is combing a horse's mane with his fingers and he doesn't see her expression.}
+<C>__{star man}
+<P>__{(meaning the horses)}
+<D>__{they are beautiful.}
+<C>__{jenny}
+<D>__{yes, they are.}
+<C>__{star man}
+<D>__{you have been very good to me, jennyhaydn.}
+<P>__{(turns to face her)}
+<D>__{you said you wanted a baby, so i gave you one.}
+<C>__{jenny}
+<P>__{(shakes her head 'no')}
+<D>__{but...}
+<C>__{star man}
+<D>__{it will be human and it will look like this.}
+<P>__{(touches his face)}
+<D>__{but when it comes it will know everything i know and everything you know. that is something from my planet that i want your baby to have.}
+<C>__{jenny}
+<D>__{i told you it's impossible for me to have a baby.}
+<C>__{star man}
+<D>__{you will have this baby. if you want it. if you don't, i can stop it now.}
+<A>__{jenny comes over and puts her arms around the star man.}
+<C>__{jenny}
+<D>__{i want it.}

@@ -1,0 +1,59 @@
+<L>__{interior infirmary shack same}
+<A>__{doc is at the console of his computer. as words appear on the screen, obviously in response to his query... "...would appear to indicate a virus of unknown origin..." doc shakes his head disgustedly.}
+<C>__{doc}
+<P>__{(to himself)}
+<D>__{no kidding? "a virus of unknown origin." come on and tell me something i don't know... like what's going on...}
+<B>__{on screen}
+<A>__{more words come up. "...no idea..."}
+<C>__{doc}
+<P>__{(typing, angrily)}
+<D>__{then take a guess, goddamnit!}
+<A>__{he finishes typing and waits for an answer. the cursor flashes the word "processing". then an answer comes up. "genetic alteration?" the words send a chill down doc's spine. swamp room later the mood is happy. like a high school football locker room after a winning game. dejesus climbs out of his suit and slaps beck on the shoulder.}
+<C>__{dejesus}
+<D>__{good work out there, mr. becky.}
+<A>__{beck, obviously pleased, looks at the others. jones sums up the feelings of the entire group.}
+<C>__{jones}
+<D>__{thank you, sir.}
+<A>__{beck's grin suddenly disappears at the sight of a flashing red light over the intercom. infirmary later beck is standing in the doorway of the infirmary, glaring at doc, who sits with his bottle of old granddad.}
+<C>__{beck}
+<D>__{dead? this morning you said he had some skin disorder.}
+<C>__{doc}
+<D>__{he did.}
+<C>__{beck}
+<D>__{well, how the hell does a skin rash kill you in eight hours?!}
+<A>__{doc looks at beck wearily and hands him a mask.}
+<C>__{doc}
+<D>__{here. put this on. you examine him.}
+<C>__{beck}
+<D>__{i'm not a doctor.}
+<C>__{doc}
+<D>__{for this...you don't need to be.}
+<A>__{beck hesitates, then puts on the mask.}
+<B>__{sick room}
+<A>__{as beck enters, masked, sixpack's back is to him under the sheets. slowly he pulls back the sheet and recoils from the sight. the black splotches have nearly all grown together. his fingers have lengthened and become more webbed. most dramatically the sores on the sides of his neck have become flared and elongated. though not bleeding, the open veins are visible.}
+<B>__{infirmary}
+<A>__{doc pours some bourbon in a glass, and takes a sip. beck enters dazed from the sick room and their eyes meet.}
+<C>__{beck}
+<D>__{the mask is because you think it might be...catching?}
+<C>__{doc}
+<D>__{i don't know. i've been back and forth with narragansett naval all day, consulting with the best people in maritime medicine, the best people in viruses...}
+<C>__{beck}
+<P>__{(impatiently)}
+<D>__{and?}
+<C>__{doc}
+<D>__{and they didn't believe the symptoms i described...}
+<C>__{beck}
+<P>__{(beat)}
+<D>__{why sixpack?}
+<C>__{doc}
+<D>__{it could be a million things, something in the air, food....}
+<P>__{(he looks up and locks eyes with beck)}
+<D>__{but he went on that ship and so did williams...}
+<P>__{(beat)}
+<D>__{i want to examine the crew.}
+<C>__{beck}
+<P>__{(still in shock)}
+<D>__{yeah...right...}
+<A>__{he starts to the door and doc watches him.}
+<C>__{doc}
+<D>__{i've reported the death to the company.}

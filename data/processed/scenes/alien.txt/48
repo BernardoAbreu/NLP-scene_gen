@@ -1,0 +1,45 @@
+<L>__{interior multi purpose room}
+<A>__{roby is alone in the room, slumped into a chair, watching the photographic slides on the screen. he is clicking slowly through them. he stops on an angle of the skeleton, and stares at it. the alien's misshapen skull is sitting on the table next to him. he picks it up, holds it up to the screen for comparison, and studies it. standard appears in the doorway.}
+<C>__{standard}
+<D>__{alas, poor yorick.}
+<A>__{roby starts, puts down the skull. standard sits at the table.}
+<C>__{standard }
+<P>__{(nodding at the screen)}
+<D>__{find anything we missed?}
+<C>__{roby}
+<P>__{(shrugs)}
+<D>__{i don't even know what i'm looking for.}
+<C>__{standard}
+<D>__{still worried?}
+<C>__{roby}
+<D>__{oh well... you know me.}
+<C>__{standard}
+<D>__{i've always respected your opinion, martin. if something worries you, it worries me.}
+<A>__{roby reaches over and changes the slide, to the one of the crudely}
+<B>__{drawn triangle on the alien control panel.}
+<C>__{roby}
+<D>__{what would you say that was supposed to mean?}
+<C>__{standard}
+<D>__{well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...}
+<C>__{roby}
+<D>__{but why draw it on the wall?}
+<A>__{roby switches off the projector, sits up, and rubs his face wearily. he rises and goes to the coffee machine.}
+<C>__{roby }
+<P>__{(picking a hair out of the coffeepot)}
+<D>__{this ship is full of cat hair.}
+<C>__{standard}
+<D>__{tell you what, martin. as soon as the engine's fixed }
+<A>__{beep! the communicator interrupts standard. he leans across and presses the button.}
+<C>__{standard }
+<D>__{this is chaz.}
+<C>__{broussard}
+<P>__{(over, filtered)}
+<D>__{chaz, this is dell. can you come topside for a minute?}
+<C>__{standard}
+<D>__{what's up?}
+<C>__{broussard}
+<P>__{(over, filtered)}
+<D>__{well, the sun just came up again, and it seems the wind's died down. it's as clear as a bell outside. there's something i think you ought to see.}
+<C>__{standard}
+<D>__{i'm on my way.}
+<A>__{he and roby head for the door.}

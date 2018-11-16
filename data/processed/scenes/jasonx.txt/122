@@ -1,0 +1,25 @@
+<L>__{interior shuttle docking bay}
+<A>__{panel, clicks some buttons, then }
+<C>__{boeman}
+<D>__{uh oh.}
+<C>__{janessa}
+<D>__{what?!}
+<C>__{boeman}
+<D>__{kkinsa! open the doors!}
+<L>__{interior shuttle cockpit}
+<A>__{kkinsa sits in the pilot's seat. she's terrified.}
+<C>__{boeman}
+<D>__{kkinsa! he's coming! open the doors!}
+<L>__{interior cargo shuttle bay}
+<A>__{delongpre shoves boeman out of the way.}
+<C>__{delongpre}
+<D>__{kkinsa, open the goddamn door!}
+<C>__{rizzo}
+<D>__{yeah, that's it, scare the hell out of here, that'll work.}
+<L>__{interior shuttle cockpit}
+<C>__{rizzo}
+<P>__{(calming)}
+<D>__{kkinsa, it's me, rizzo. he's not out here right now, so please let us in.}
+<A>__{kkinsa doesn't move.}
+<C>__{rizzo}
+<D>__{kkinsa, crutch is hurt! we need access to the shuttle's med kit or he'll die.}

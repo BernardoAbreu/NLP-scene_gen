@@ -1,0 +1,113 @@
+<L>__{interior spacedock observation room (vfx i)}
+<A>__{the people are still applauding and we can see that they are looking out over the ship in its berth.}
+<L>__{exterior space enterprise b in spacedock (vfx i)}
+<A>__{the great ship sits in spacedock.}
+<L>__{interior enterprise b bridge}
+<A>__{close on a set of turbolift doors as they slide open to reveal kirk, scotty and chekov. a bright light shines into their faces and they react. move to reveal that the bright light is coming from a futuristic camera with a small bank of lights attached to it. the camera is a holographic recorder with two lenses and is worn on an operator's head. there are four journalists clustered in front of the turbolift one associated with the camera, the others using padds to make notations. also clustered around the door are the bridge crew of the enterprise b. everyone is applauding as kirk and the others blink under the bright lights and enter the bridge.}
+<C>__{journalists}
+<P>__{(overlapping)}
+<D>__{captain kirk, how does it feel to be back on the enterprise bridge... captain, can i have a minute... captain scott, do you have any comment on... commander chekov... etc.}
+<A>__{captain john harriman pushes through the crowd.}
+<C>__{harriman}
+<D>__{excuse me, excuse me...there will be plenty of time for questions later...}
+<A>__{the journalists edge away, and the cameraman moves to get a good angle.}
+<C>__{harriman}
+<P>__{(continuing, to all)}
+<D>__{i'm captain john harriman. i'd like to welcome you all aboard.}
+<C>__{kirk}
+<D>__{it's our pleasure.}
+<A>__{harriman is young, confident, eager this is his first command and he takes it very seriously.}
+<C>__{harriman}
+<D>__{i just want you to know how excited we all are to have a group of living legends with us on our maiden voyage.}
+<P>__{(beat)}
+<D>__{i remember reading about your missions when i was in grade school.}
+<A>__{the original enterprise officers all stop and give him a look. harriman looks a little embarrassed he didn't mean to insult them. but kirk gives him a little smile, lets it roll off.}
+<C>__{kirk}
+<D>__{well... may we have a look around?}
+<C>__{harriman}
+<D>__{please... please.}
+<A>__{chekov sees someone in the background, calls out to her.}
+<C>__{chekov}
+<D>__{demora!}
+<A>__{chekov moves off.}
+<C>__{journalist}
+<P>__{(breezy)}
+<D>__{so, captain... this is the first starship enterprise in thirty years without james t. kirk in command. how do you feel about that?}
+<A>__{the journalist has unknowingly touched a nerve. kirk's eyes flash for a moment the longer he's on this bridge, the more he realizes he doesn't feel good about it at all. he tries to shrug it off with a smile.}
+<C>__{kirk}
+<D>__{just fine. i'm glad to be here to send her on her way...}
+<A>__{he tries to move away from the journalist, who dogs him.}
+<C>__{journalist}
+<D>__{what have you been doing since you retired?}
+<C>__{kirk}
+<D>__{i've been... keeping busy.}
+<A>__{at this point, chekov approaches with a young, (mid twenties) attractive, asian female ensign named demora.}
+<C>__{chekov}
+<P>__{(to kirk)}
+<D>__{excuse me, captain. i'd like you to meet the helmsman of the enterprise b. ensign demora sulu captain james kirk.}
+<C>__{demora}
+<D>__{it's a pleasure to meet you, sir. my father's told me some... interesting stories about you.}
+<A>__{kirk is shocked. for a long moment, he stares at her in amazement.}
+<C>__{kirk}
+<D>__{your father... hikaru sulu is your father?}
+<C>__{demora}
+<D>__{yes, sir.}
+<C>__{chekov}
+<D>__{you met her once before, but she was...}
+<A>__{chekov holds out his hand and indicates a very short height.}
+<C>__{kirk}
+<D>__{but that wasn't so long ago... it couldn't have been more than...}
+<C>__{chekov}
+<D>__{twelve years, sir.}
+<C>__{kirk}
+<D>__{yes... well... congratulations, ensign. it wouldn't be the enterprise without a sulu at the helm.}
+<C>__{demora}
+<D>__{thank you, sir.}
+<P>__{(to chekov)}
+<D>__{let me show you the new inertial guidance system.}
+<A>__{demora and chekov move off and kirk looks after them for a long beat. the expression on his face changes from shock to sadness... something is clearly bothering him. scotty moves over to kirk, with a smile on his face.}
+<C>__{scotty}
+<P>__{(to kirk)}
+<D>__{damn fine ship if you ask me...}
+<A>__{but kirk's mind is still on demora. he watches her as she moves to the helmsman's position.}
+<C>__{kirk}
+<D>__{you know, scotty... it amazes me.}
+<C>__{scotty}
+<D>__{and what would that be, sir?}
+<C>__{kirk}
+<D>__{sulu. when did he find the time for a family?}
+<C>__{scotty}
+<D>__{it's like you always said if something's important enough, you make the time.}
+<A>__{kirk nods absently. scotty realizes something...}
+<C>__{scotty}
+<D>__{so... that's why you've been running around the galaxy like an eighteen year old. finding retirement a little lonely, are we?}
+<A>__{kirk gives him a look.}
+<C>__{kirk}
+<D>__{with that kind of tact, i'm glad you're an engineer and not a psychiatrist.}
+<A>__{harriman interrupts.}
+<C>__{harriman}
+<D>__{excuse me, gentlemen... if you'll take your seats.}
+<C>__{kirk}
+<D>__{oh... of course.}
+<B>__{new angle}
+<A>__{revealing that three chairs have been neatly arranged to one side. scotty, kirk and chekov all take their seats. the journalists take positions on the opposite side of the bridge. harriman moves to the command chair and the rest of the bridge crew go to their stations.}
+<C>__{harriman}
+<P>__{(to all)}
+<D>__{prepare to leave spacedock. aft thrusters ahead one quarter, port and starboard at station keeping.}
+<P>__{(beat)}
+<D>__{captain kirk, i'd be honored if you would give the order to get underway.}
+<C>__{kirk}
+<D>__{no... no. thank you.}
+<C>__{harriman}
+<D>__{please, i insist.}
+<A>__{all eyes on kirk he has little choice. he stands uncomfortably. there is a moment of anticipation.}
+<C>__{kirk}
+<P>__{(to all)}
+<D>__{take us out.}
+<A>__{everyone breaks into applause. kirk sits down in acute embarrassment and annoyance.}
+<C>__{chekov}
+<P>__{(sotto)}
+<D>__{very good, sir.}
+<C>__{scotty}
+<P>__{(sotto)}
+<D>__{brought a tear to my eye.}

@@ -1,0 +1,35 @@
+<L>__{interior hotel corridor. day}
+<A>__{paul hurries his family along the corridor. rwandan refugees wander aimlessly pulling their meagre possessions.}
+<C>__{refugee}
+<P>__{(calls out)}
+<D>__{moses, moses seradungu.}
+<C>__{paul}
+<D>__{can i help you?}
+<C>__{refugee}
+<D>__{i'm looking for moses seradungu's room.}
+<C>__{paul}
+<D>__{what is his room number?}
+<C>__{refugee}
+<D>__{i don't know.}
+<C>__{paul}
+<D>__{go downstairs, i will help you.}
+<A>__{paul finds his room and opens the door.}
+<L>__{interior hotel room. day}
+<A>__{paul leads his family into a one bedroom suite. the kids drop to the beds exhausted. tatiana picks up the phone and dials.}
+<C>__{paul}
+<D>__{what are you doing?}
+<C>__{tatiana}
+<D>__{trying thomas and fedens. we've got to get them here.}
+<A>__{paul paces the room. the maids clearly haven't cleaned it since it's last occupants: the beds are unmade; towels are on the floor; and a newspaper is scattered across the desk.}
+<C>__{paul}
+<P>__{(re: room) this won't do.}
+<C>__{tatiana}
+<D>__{it will do just fine.}
+<A>__{so paul tidies the place. as he does,}
+<C>__{paul}
+<D>__{any luck?}
+<C>__{tatiana}
+<D>__{no answer. please send someone to get them, please.}
+<C>__{paul}
+<D>__{i will try.}
+<A>__{paul leaves.}

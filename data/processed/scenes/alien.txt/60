@@ -1,0 +1,35 @@
+<L>__{exterior top of pyramid day}
+<A>__{the peak of the pyramid is in extreme disrepair. broussard arrives at the top and clings to the jagged, crumbling stones.}
+<C>__{broussard}
+<D>__{there's a hole at the top.}
+<L>__{exterior base of pyramid day}
+<C>__{standard}
+<D>__{can we come up?}
+<C>__{broussard}
+<P>__{(over, filtered)}
+<D>__{no, it's too small, only room enough for one person.}
+<C>__{standard}
+<D>__{can you see anything in the hole?}
+<L>__{exterior top of pyramid day}
+<A>__{broussard leans over and looks into the hole. he sees only blackness. freeing one arm, he unclips his datastick from his belt, switches on the "flashlight" function, and shines it down into the hole.}
+<C>__{broussard}
+<D>__{i can see... partway down. it just goes down like a stovepipe. smooth walls. i can't see the bottom light won't reach.}
+<L>__{interior bridge day}
+<A>__{faust comes trotting up the steps, a questioning look on his face.}
+<C>__{faust}
+<D>__{yes? what is it?}
+<C>__{roby}
+<D>__{jay, we've got a problem. i was wondering if there was any way you could shortcut the repairs and give us immediate takeoff capability.}
+<C>__{faust}
+<P>__{(quickly)}
+<D>__{why, what's wrong?}
+<C>__{roby}
+<D>__{the computer's translated the alien signal, and it's kind of alarming.}
+<C>__{faust}
+<D>__{what do you mean?}
+<C>__{roby}
+<D>__{it couldn't translate the whole thing, only three phrases. i will just read it to you the way i got it:}
+<P>__{(reads from a strip of paper)}
+<D>__{"... hostile... survival ... advise do not land... "}
+<P>__{(looks up at the others)}
+<D>__{and that's all it could translate.}

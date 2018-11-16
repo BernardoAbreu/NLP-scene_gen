@@ -1,0 +1,18 @@
+<L>__{interior house. foyer}
+<A>__{rooney sneaks into the house. he looks around the foyer and heads into the kitchen.}
+<L>__{interior house. upstairs hallway}
+<A>__{jeanie tiptoes down the stairs.}
+<L>__{interior house. kitchen}
+<A>__{rooney sneaks through the kitchen into the den.}
+<L>__{interior house. foyer}
+<A>__{jeanie comes down the stairs into the foyer.}
+<L>__{interior house. kitchen}
+<A>__{rooney comes out of the den, back into the kitchen. he crosses back toward the foyer.}
+<L>__{interior foyer}
+<A>__{jeanie sneaks into the kitchen.}
+<L>__{interior kitchen}
+<A>__{jeanie and rooney come face to face. jeanie squeals in horror. she doesn't recognize rooney as himself but as an intruder. she drops into a karate stance and kicks rooney in the face. he hits the deck. she flees back up the stairs.}
+<L>__{interior car}
+<A>__{boyd is sitting in the backseat of joyce's car listening to the radio.}
+<C>__{ferris' voice}
+<D>__{my input on the star wars defense plan was pretty substantial so i guess this is their way of rewarding me. i'm pretty flattered.}

@@ -1,0 +1,50 @@
+<L>__{interior lobby. day}
+<A>__{benedict greets paul in the lobby.}
+<C>__{benedict}
+<D>__{paul, we would like to speak to you in your office.}
+<C>__{paul}
+<D>__{we, who is we?}
+<C>__{benedict}
+<D>__{a delegation.}
+<L>__{interior hotel manager's office. day}
+<A>__{paul walks in and discovers the office packed with the elite tutsi refugees including xavier, odette and jean baptiste. paul's puzzled, there's an air of tension in the room.}
+<C>__{paul}
+<D>__{yes.}
+<A>__{a brief silence, then a tutsi bank manager speaks.}
+<C>__{banker}
+<D>__{you have no right to charge us rent.}
+<C>__{paul}
+<D>__{why not?}
+<C>__{banker}
+<D>__{this is no longer a hotel, it is a prison and you are profiteering from our misery.}
+<C>__{odette}
+<D>__{that is not true.}
+<A>__{another accuser speaks up.}
+<C>__{tutsi accuser}
+<D>__{yes it is. he charges for food, for everything. where is all this money going? we hear he has a deal with bizimungu. tutsi accuser #2 it is said that you work for the murderer george rutagunda.}
+<A>__{murmurs of agreement. paul has heard enough.}
+<C>__{paul}
+<D>__{i confess. ( a beat) it's true i have a deal with general bizimungu. he was just here. i worked out another money making scheme for him. new arrivals will be taxed at the gate.}
+<A>__{silence.}
+<C>__{paul }
+<D>__{do you know what my deal is with bizimungu. i pay him and he keeps you alive. anyone want to take their money back?}
+<A>__{paul pulls money from his pocket, hands it around, offers it.}
+<C>__{paul }
+<D>__{here, here take it. and you don't have to pay your bill. i will move you into the ballroom or out into the gardens.}
+<A>__{he walks among them.}
+<C>__{paul }
+<D>__{and, yes, i work with george rutagunda. i buy rice and beans, beer and soap. i will have to visit his warehouse soon because we are running out of food. who wants to come with me?}
+<A>__{paul holds the door open.}
+<C>__{paul }
+<D>__{anyone who wants to come with me stay behind. if not, please leave.}
+<A>__{they hurry out, duly chastised. but odette and her husband jean baptiste remain.}
+<C>__{paul }
+<P>__{(laughs)}
+<D>__{you are most certainly not coming with me. you will get me killed.}
+<C>__{jean baptiste}
+<D>__{you can't go to that place, they know what you are doing here.}
+<C>__{paul}
+<D>__{george will not hurt me, i am too profitable to him.}
+<C>__{odette}
+<D>__{what if he is not there?}
+<A>__{paul hasn't got an answer for that one. he leads them out.}

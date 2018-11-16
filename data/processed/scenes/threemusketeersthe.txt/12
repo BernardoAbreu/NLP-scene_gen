@@ -1,0 +1,59 @@
+<L>__{interior tavern}
+<A>__{jussac and his company burst in and discover the room in a shambles, the aftermath of a violent fight. but for now, all is calm. a group of the cardinal's guards is seated around a big table littered with flagons and bottles. on the floor around them are their swords and rifles. it appears the gruards are celebrating a victory. but wait. there's something wrong with this picture. on closer inspection, we see that the guards have been stripped to their underclothes and tied to their chairs with ropes. they are all bruised and bloody. some are unconscious. presiding over the "celebration" are two musketeers. they sit at the head of the table, relaxing with their boots up. one of them casually cleans his sword with a lace handkerchief. he is aramis, the most handsome and dashing of the musketeers a poet and idealist a gentleman of great personal charm and style. his companion is athos, the musketeers' deadliest and most charismatic member also its most mysterious and tortured. athos is the unofficial leader of the three musketeers, their planner and strategist. at the moment, he's sewing up a nasty gash on his right arm.}
+<C>__{jussac}
+<P>__{(approaching)}
+<D>__{what is this?}
+<A>__{athos greets him with a dark smile.}
+<C>__{athos}
+<D>__{a private party. go away.}
+<C>__{aramis}
+<D>__{athos is that any way to greet our guests?}
+<A>__{aramis leaps to his feet and bows graciously. he is the epitome of politeness.}
+<C>__{aramis}
+<D>__{don't be shy, gentlemen. come in. your friends have been expecting you.}
+<A>__{jussac is not amused.}
+<C>__{jussac}
+<D>__{your presence is requested at musketeer headquarters by captain rochefort.}
+<A>__{athos and aramis exchange looks.}
+<C>__{athos}
+<D>__{the cyclops is a captain? he must've made a pact with the devil.}
+<C>__{aramis}
+<D>__{or the cardinal.}
+<C>__{athos}
+<D>__{what's the difference?}
+<C>__{aramis}
+<P>__{(with an edge of contempt)}
+<D>__{the devil is more ethical than the cardinal.}
+<A>__{jussac takes a step forward, fingering his saber.}
+<C>__{jussac}
+<D>__{you're instructed to come with me and surrender your tunics.}
+<A>__{with a sweeping gesture, athos indicates the bloody guards around him.}
+<C>__{athos}
+<D>__{these gentlemen made a similar request.}
+<C>__{jussac}
+<D>__{are you refusing to come peaceably?}
+<C>__{athos}
+<D>__{probably. but i will leave it up to my companions. aramis?}
+<C>__{aramis}
+<D>__{we can't refuse rochefort's invitation. it would be impolite.}
+<A>__{athos tips back in his chair and gazes upward.}
+<C>__{athos}
+<D>__{and what do you say, porthos?}
+<A>__{to the guards' surprise, porthos is balancing on the balcony rail above, just about even with a large wagon wheel chandelier.}
+<C>__{porthos}
+<D>__{i will be right down!}
+<A>__{with the grace of an aerialist, porthos jumps from the balcony and lands atop the chandelier. his weight causes the chains suspending it to break. with a whoop of pleasure, porthos rides the chandelier down as it lands squarely atop jussac's guards, squashing them. when the dust clears, only jussac has been spared. he looks on in disbelief as porthos extricates himself from the wreckage and calmly brushes his clothes off.}
+<C>__{porthos}
+<P>__{(to athos and aramis; cheerful)}
+<D>__{ready when you are.}
+<A>__{athos and aramis sheathe their swords, put on their hats, wrap their capes around them and cross the room to join porthos.}
+<C>__{aramis}
+<D>__{congratulations, porthos. you brought down the house.}
+<C>__{porthos}
+<D>__{my aim was off. i was trying to hit jussac.}
+<A>__{athos fixes jussac with a dark, threatening look.}
+<C>__{athos}
+<D>__{now. about those tunics...}
+<A>__{jussac turns to watch athos, porthos, and aramis step to the street. he mutters as if to curse:}
+<C>__{jussac}
+<D>__{musketeers.}

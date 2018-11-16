@@ -1,0 +1,80 @@
+<L>__{interior kirk's quarters}
+<C>__{bones}
+<D>__{i've got the sick bay ready. will someone please tell me what is going on?}
+<C>__{kirk}
+<P>__{(dims lights)}
+<D>__{computer. request security procedure and access to project genesis summary.}
+<C>__{computer voice}
+<D>__{identify for retina scan.}
+<C>__{kirk}
+<D>__{kirk, admiral james t., starfleet general staff. security class 1.}
+<A>__{the screen is suddenly busy with coded read outs and then computer graphics of retina patterns. then it glows green. security clearance, class 1 granted.}
+<C>__{kirk}
+<P>__{(continuing)}
+<D>__{summary, please.}
+<A>__{more coded read outs, a red line security scan, then over it approved, in green. replaced by: on screen interior carol marcus' lab, regula i carol appears, facing camera, not used to it. to one side stands david and behind them, the lab. angle kirk, spock, bones}
+<C>__{spock}
+<D>__{carol marcus }
+<C>__{kirk}
+<D>__{yes.}
+<A>__{on screen (and intercut)}
+<C>__{carol}
+<D>__{i'm dr. carol marcus, and i am the director of the project genesis team at regula i. what exactly is genesis? put simply, genesis is a procedure whereby the molecular structure of any given matter can be restructured changed into anything else of identical mass.}
+<A>__{(dna ilm tape accompanies, ad lib)}
+<C>__{spock}
+<D>__{fascinating.}
+<C>__{kirk}
+<D>__{wait }
+<C>__{carol}
+<D>__{stage one of our experiments was conducted in the labora tory. stage two of the series will be attempted in a lifeless underground; stage three will involve the process on a plane tary scale. what follows is a computer projected simulation of stage three. please watch closely.}
+<B>__{ilm monitor sequence}
+<A>__{& &}
+<B>__{carol}
+<D>__{it is our intention to introduce what we call the genesis device or "torpedo" into the targeted area of a lifeless space body, a moon or other inert form the device is fired }
+<A>__{on bones, spock and kirk react with wonder.}
+<B>__{back to monitor}
+<C>__{carol}
+<D>__{ unleashing, almost instantan eously, what we call the genesis effect. particulate matter is reorganized and electrified with life introduced results. instead of a dead moon, a living breathing planet, capable of sus taining whatever life forms we see fit to deposit on it... the reformed object you see represents the merest fraction of the genesis potential, should the federation wish to pursue these experiments to their logical conclusion.}
+<B>__{back to carol in lab}
+<C>__{carol}
+<D>__{when we consider the problems of population and food supply, the usefulness of this process begins to become clear. this concludes this demonstration tape. thank you for your attention. the genesis team eagerly awaits the decision of the federation regarding the next phase of our work.}
+<A>__{the tape becomes snowy and blinks off. kirk looks at bones and spock they are stunned.}
+<C>__{spock}
+<D>__{it literally is genesis...}
+<C>__{kirk}
+<D>__{the power of creation }
+<C>__{spock}
+<D>__{have they proceeded with their experiments?}
+<C>__{kirk}
+<D>__{the tape was made a year ago. i can only assume they've reached phase two by now }
+<C>__{bones}
+<D>__{but dear lord, are we intelligent enough to suppose, this thing were used where life already exists?}
+<C>__{spock}
+<D>__{it would destroy such life in favor of its new matrix }
+<C>__{bones}
+<D>__{it's new have you any idea what you're saying?}
+<C>__{spock}
+<D>__{i was not attempting to evaluate its moral implications, doctor. as a matter of cosmic history, it has always been easier to destroy than to create }
+<C>__{bones}
+<D>__{not anymore! now you can do both at the same time! according to myth, the earth was created in six days. watch out: here comes genesis; we'll do it for you in six minutes }
+<C>__{spock}
+<D>__{i don't dispute that in the wrong hands }
+<C>__{bones}
+<D>__{would you like to tell me whose are the right hands, my cold blooded friend? are you in favor of these experiments?}
+<C>__{kirk}
+<D>__{gentlemen, this isn't }
+<C>__{spock}
+<D>__{really, dr. mccoy; you cannot ban the acquisition of knowledge because you distrust the moral implications of what you learn. logic suggests }
+<C>__{bones}
+<D>__{logic? we're talking about universal armageddon , you inhuman bloodless...}
+<C>__{saavik's voice}
+<P>__{(intercom)}
+<D>__{admiral, sensors indicate a vessel in our area, closing fast.}
+<C>__{kirk}
+<D>__{what do you make of her?}
+<C>__{saavik's voice}
+<D>__{it's one of ours, admiral... it's reliant.}
+<C>__{spock}
+<D>__{what's she doing here?}
+<C>__{kirk}
+<D>__{chekov's on reliant, isn't he?}

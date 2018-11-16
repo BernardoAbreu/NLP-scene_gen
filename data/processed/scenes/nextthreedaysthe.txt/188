@@ -1,0 +1,61 @@
+<L>__{interior county jail entry hall afternoon}
+<A>__{john sits in the children's area, waiting for the line of visitors to get shorter. one look at his face and we can see how tortured he is. he has his cell phone to his ear:}
+<C>__{meyer }
+<D>__{i'm sorry.}
+<C>__{john}
+<D>__{no, it was a long shot. thanks.}
+<L>__{interior criminal courthouse continuous}
+<C>__{meyer}
+<P>__{(into phone)}
+<D>__{how's lara?}
+<L>__{interior county jail entry hall continuous}
+<C>__{john}
+<D>__{she's okay. thanks, meyer.}
+<A>__{john hangs up and stands.}
+<L>__{interior county jail contact visiting room afternoon}
+<A>__{john stands in the corner, staring out through the high, thick windows. he turns as he hears lara and other prisoners coming. he tries to smile, but she knows something is wrong.}
+<C>__{lara}
+<D>__{what's wrong?}
+<C>__{john}
+<D>__{nothing.}
+<C>__{lara}
+<D>__{is it luke?}
+<C>__{john}
+<D>__{no. he's fine. i had meyer see what he could do about not getting you moved.}
+<C>__{john }
+<D>__{i told him traveling that distance would be a hardship on us, that luke was already having trouble at school. which is true. i haven't been spending enough time with him.}
+<C>__{lara}
+<D>__{you haven't? you haven't? god, john, you are too much. luke is having a 'hard time' because mommy is in jail for murder, not because daddy doesn't spend enough time with him! your father was right, you don't live in the same world we do.}
+<C>__{john}
+<P>__{(stung)}
+<D>__{that's nice, that the two of you talk. what world do i live in, lara?}
+<C>__{lara}
+<D>__{i don't know, but it's not the real one. i am in here for the rest of my life! and you want me to believe in some fantasy that !}
+<A>__{a guard steps up and raps her knuckles on the table to get their attention. only john looks up.}
+<C>__{female guard}
+<D>__{we good here?}
+<C>__{john}
+<D>__{yes. sorry.}
+<A>__{lara lowers her voice a little, but not her intensity. the guard walks away under:}
+<C>__{lara}
+<D>__{now you come here all long faced, like you've let me down. what do you want me to do, make you feel better?}
+<C>__{john}
+<D>__{got it. i'm sorry.}
+<C>__{lara}
+<D>__{and now you're apologizing. you really are a gem.}
+<C>__{john}
+<D>__{what do you want from me?}
+<C>__{lara}
+<D>__{nothing. you're too perfect already. you know you never even asked me if i did it. if i killed her.}
+<C>__{john}
+<P>__{(stopped dead)}
+<D>__{because i knew you didn't.}
+<C>__{lara}
+<D>__{then you'd be wrong.}
+<A>__{she leans forward and whispers in his ear.}
+<C>__{lara }
+<D>__{i grabbed the fire extinguisher. i hit her in the face. i heard her neck snap. you know why i did it? because she pissed me off. i threw her purse in the river. we paid for dinner with the cash from her wallet.}
+<A>__{she sits back a bit to look in his face. only now, looking in his eyes, a crack forms in her tough exterior.}
+<C>__{lara }
+<D>__{i'm sorry. i'm actually very sorry.}
+<A>__{she stands. the guard opens the door and lets her into the changing room. john watches, unable to breathe.}

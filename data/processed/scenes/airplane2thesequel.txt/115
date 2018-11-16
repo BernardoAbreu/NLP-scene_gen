@@ -1,0 +1,45 @@
+<L>__{interior cabin outside toilet}
+<A>__{ted leans his back against the door and breathes heavily.}
+<L>__{interior cockpit}
+<C>__{dunn}
+<D>__{we seem to have a malfunction in disposal unit four, sir.}
+<C>__{oveur}
+<D>__{you better check it, unger.}
+<C>__{uger}
+<P>__{(getting up)}
+<D>__{done.}
+<C>__{dunn}
+<D>__{yes?}
+<L>__{interior cabin outside toilet}
+<A>__{ted spots elaine coming.}
+<C>__{ted}
+<D>__{elaine.}
+<C>__{elaine}
+<D>__{ted. i don't know why you got on this flight. i don't know what you're trying to prove.}
+<C>__{ted}
+<D>__{elaine, we have to go back.}
+<C>__{elaine}
+<D>__{we can't go back. we had something very special, but it's all over.}
+<C>__{ted}
+<D>__{elaine, i mean the mission has to be aborted. this ship should never have passed fsa inspection. this thing is held together by string and chewing gum.}
+<A>__{a cupboard door, labeled "emergency use only," swings open behind elaine revealing shelves of gum and string. elaine shuts it without looking inside. music: dramatic sting.}
+<C>__{elaine}
+<D>__{ted, get a grip on yourself. you should never have left the hospital.}
+<C>__{ted}
+<D>__{then you do think i'm insane.}
+<C>__{elaine}
+<D>__{i've never used the word insane, ted.}
+<C>__{ted}
+<P>__{(facetiously)}
+<D>__{what word would you use, elaine?}
+<C>__{elaine}
+<D>__{the word is sick. ted very, very, very sick.}
+<C>__{ted}
+<D>__{what would you say if i told you the toilet just blew up in my face.}
+<C>__{elaine}
+<D>__{i'd use the word insane.}
+<C>__{ted}
+<D>__{there's something dangerously wrong with this ship, elaine. i know its the wiring. that toilet's just the tip of the iceberg.}
+<C>__{elaine}
+<D>__{ted, a toilet's not going to kill anyone.}
+<A>__{elaine leaves.}

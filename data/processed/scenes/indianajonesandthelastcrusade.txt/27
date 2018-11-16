@@ -1,0 +1,105 @@
+<L>__{exterior side of college building day}
+<A>__{indy escapes through the garden.}
+<L>__{exterior front of college building day}
+<A>__{indy walks briskly toward the street; smiling, eruoying his freedom. as he arrives at the curb, a long black packard sedan pulls up before him.}
+<C>__{man }
+<D>__{doctor jonesl}
+<A>__{three men step out of the sedan. everything about them bespeaks "g man." the first man steps behind indy.}
+<C>__{man}
+<D>__{doctor jones?}
+<L>__{interior penthouse apartment day}
+<A>__{indy is ushered into a large art deco apartment and left alone. numerous museum quality artifacts are displayed around the room. indy takes this opportunity to examine them. after a moment, walter donovan enters from across the room. during the brief time that the door is open, we hear a cocktail party going on in the next room: voices and soft piano music. donovan strides across the room toward indy. although in his late fifties, donovan has the broad shoulders and trim physique of a much younger man. dressed in a tuxedo, he exudes both confidence and power.}
+<C>__{donovan}
+<D>__{i trust your trip down was comfortable, doctor jones. my men didn't alarm you, i hope.}
+<A>__{he shakes hands with indy.}
+<C>__{donovan}
+<D>__{my name is donovan. walter donovan.}
+<C>__{indy}
+<D>__{i know who you are mr. donovan. your contributions to the museum over the years have been extremely generous. some of the pieces in your collection here are very impressive.}
+<C>__{donovan}
+<D>__{well, like yourself, doctor jones, i have a passion for antiquities.}
+<P>__{(beat)}
+<D>__{have a look over here. this might interest you.}
+<A>__{donovan goes to a table where an object is wrapped in cloth. he throws back the cloth revealing a flat stone tabletabout two feet square, inscribed with letters and symbols. indy looks impressed. he puts on his glasses to make a closer examination.}
+<C>__{indy}
+<D>__{well, it's sandstone. christian symbol. early latin texterior mid twelfth century, i should think.}
+<C>__{donovan}
+<D>__{that was our assessment as well.}
+<C>__{indy}
+<D>__{where did this come from?}
+<C>__{donovan}
+<D>__{my engineers unearthed it in the mountain region north of ankara while excavating for copper.}
+<P>__{(beat)}
+<D>__{can you translate the inscription?}
+<A>__{translating the inscription is no easy matter, even for someone as knowledgeable as indy.}
+<C>__{indy}
+<P>__{(stumbling through it)}
+<D>__{"... who drinks the water i shall give him, says the lord, will have a spring inside him welling up for eternal life. let them bring me to your holy mountain in the place where you dwell.}
+<A>__{donovan pours champagne into several fluted glasses as indy reads.}
+<C>__{indy}
+<D>__{across the desert and through the mountain to the canyon of the crescent moon, to the temple where the cup that"}
+<A>__{suddenly indy stops and looks up at donovan with a startled expression.}
+<C>__{indy}
+<D>__{"where the cup that holds the blood of jesus christ resides forever. "}
+<C>__{donovan}
+<P>__{(reverently)}
+<D>__{the holy grail, doctor jones. the chalice used by christ during the last supper. the cup that caught his blood at the crucifixion and was entrusted to joseph of arimathaea.}
+<A>__{indy rubs his chin with a dubious expression as he takes the glass of champagne donovan now offers him.}
+<C>__{indy}
+<D>__{the arthur legend. i've heard this bedtime story before.}
+<C>__{donovan}
+<D>__{eternal life, doctor jones! the gift of youth to whoever drinks from the grail.}
+<P>__{(beat)}
+<D>__{oh, now that's a bedtime story i'd like to wake up to!}
+<C>__{indy}
+<D>__{an old man's dream.}
+<C>__{donovan}
+<D>__{every man's dream.}
+<P>__{(beat)}
+<D>__{including your father's, i believe.}
+<A>__{indy stiffens slightly at the mention of his father, nods.}
+<C>__{indy}
+<D>__{grail lore is his hobby. he's a teacher of medieval literature. the one the students hope they don't get.}
+<A>__{the door opens and mrs. donovan steps into the room. she's a matronly woman in an expensive evening gown.}
+<C>__{mrs. donovan}
+<D>__{walter, you're neglecting our guests.}
+<C>__{donovan}
+<D>__{be along in a moment, dear.}
+<A>__{he leans over and kisses her cheek. mrs. donovan sighs to herself and returns to the party. indy, meanwhile, has turned his attention back to the grail tablet, obviously hooked by its archaeological promise. he moistens his finger with champagne and rubs it over the tablet. donovan steps up next to indy.}
+<C>__{donovan}
+<D>__{hard to resist, isn't it? the holy grail's final resting place described in detail!}
+<C>__{indy}
+<D>__{what good is it? this grail tablet speaks of deserts and mountains and canyons. pretty vague. where do you start looking? maybe if the tablet were intact, you'd have something to go on. but the entire top portion is missing.}
+<C>__{donovan}
+<D>__{just the same, an attempt to recover the grail is currently underway.}
+<A>__{indy has to shake his head at donovan's apparent lack of judgment.}
+<C>__{donovan}
+<D>__{let me tell you another "bedtime story, " doctor jones. after the grail was entrusted to joseph of arimathaea, it disappeared and was lost for a thousand years before it was found again by three knights of the first crusade. three brothers, to be exact.}
+<C>__{indy}
+<D>__{i've heard this one as well. two of these brothers walked out of the desert one hundred and fifty years after having found the grail and began the long journey back to france. but only one of them made it. and before dying of extreme old age, he supposedly imparted his tale to ato a franciscan friar, i think.}
+<C>__{donovan}
+<D>__{not "supposedly," doctor jones.}
+<A>__{donovan produces an ancient leather bound volume with very brittle pages. indy views the manuscript with considerable interest.}
+<C>__{donovan}
+<D>__{this is the manuscript in which the friar chronicled the knight's story... it doesn't reveal on location of the grail, i'm afraid... but the knight promised that two "markers" that had been left behind would.}
+<P>__{(indicates the tablet)}
+<D>__{this tablet is one of those "markers." it proves the knight's story is true. but as you pointed outit's incomplete.}
+<P>__{(beat)}
+<D>__{now, the second "marker" is entombed with the knight's dead brother. our project leader believes that tomb to be located within the city of venice, italy.}
+<P>__{(beat)}
+<D>__{as you can now see, doctor jones, we're about to complete a great quest that began almost two thousand years ago. we're only one step away.}
+<C>__{indy}
+<D>__{that's usually when the ground falls out from underneath your feet.}
+<C>__{donovan}
+<D>__{you could be more right than you know.}
+<C>__{indy}
+<D>__{yes?}
+<C>__{donovan}
+<D>__{we've hit a snag. our project leader has vanished. along with all his research. uh, we received a cable from his colleague, doctor schneider, who has no idea of his whereabouts or what's become of him.}
+<P>__{(beat)}
+<D>__{i want you to pick up the trail where he left off. find the man and you will find the grail.}
+<C>__{indy}
+<D>__{you've got the wrong jones, mister donovan. why don't you try my father?}
+<C>__{donovan}
+<P>__{(after a pause)}
+<D>__{we already have. your father is the man who's disappeared.}

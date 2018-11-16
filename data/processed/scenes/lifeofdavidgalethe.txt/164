@@ -1,0 +1,20 @@
+<L>__{interior phone booth night}
+<A>__{zack is on the phone with the booth door open. bitsey stands just outside.}
+<C>__{zack}
+<D>__{let's talk about your tape... no, meet me at the station down the hill, in fifteen minutes.}
+<A>__{zack hangs up before dusty can respond. he stops out of the booth and gives bitsey a tentative look.}
+<L>__{interior wright's cabin night}
+<A>__{dusty hangs up, thinks.}
+<L>__{exterior gas station night}
+<A>__{bitsey sits in the car's driver seat. zack stands by the booth.}
+<C>__{bitsey}
+<D>__{don't move from the booth. call the second you see the truck. remember, let it ring just once. then get into the woods }
+<C>__{zack}
+<D>__{i know. go.}
+<C>__{bitsey}
+<P>__{(pulling away)}
+<D>__{into the woods, zack.}
+<C>__{zack}
+<D>__{go!}
+<L>__{exterior wright cabin night}
+<A>__{bitsey is in the woods, watches dusty pull away in the pickup. she hurries to the front door, enters.}

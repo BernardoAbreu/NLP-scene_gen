@@ -1,0 +1,86 @@
+<L>__{interior adam's room night}
+<C>__{adam}
+<P>__{(on the phone)}
+<D>__{where are you, ol' buddy?}
+<L>__{interior phone booth night}
+<C>__{tex}
+<P>__{(on the phone) (laughs)}
+<D>__{i will tell you what, fella you want t' find me, you jus' turn 'round from now on i will be right behind you.}
+<P>__{(hangs up)}
+<L>__{interior adam's room night}
+<A>__{adam, before hanging up, reflects on tex's words, then looks behind him. smiling softly, he hangs up the phone and starts for reggie's door.}
+<L>__{interior reggie's room night}
+<A>__{reggie slips back into her robe and goes to the connecting door.}
+<C>__{reggie}
+<D>__{what is it?}
+<C>__{adam}
+<D>__{open up.}
+<A>__{she undoes the bolt and opens the door. adam enters.}
+<C>__{adam}
+<D>__{i think we were wrong about tex having the money.}
+<C>__{reggie}
+<D>__{why?}
+<C>__{adam}
+<D>__{i just heard from him he's still hungry. that means killing gideon didn't get it for him so he's narrowed it down to us. you've got it.}
+<C>__{reggie}
+<D>__{i've looked, adam you know i have }
+<C>__{adam}
+<D>__{where's that airlines bag?}
+<C>__{reggie}
+<D>__{lord, you're stubborn.}
+<C>__{adam}
+<D>__{i sure am. get it.}
+<A>__{she goes to the closet and gets the bag.}
+<C>__{adam}
+<D>__{charles must have had the money with him on the train, and tex missed it.}
+<A>__{he takes the bag to the bed where he dumps out the contents.}
+<C>__{reggie}
+<D>__{but everyone and his aunt lilian's been through that bag. somebody would have seen it.}
+<C>__{adam}
+<D>__{let's look anyway.}
+<C>__{reggie}
+<D>__{lord, you're stubborn.}
+<C>__{adam}
+<D>__{i mean, it's there, reggie. if only we could see it. we're looking at it right now.}
+<A>__{close shot bed with charles' belongings}
+<C>__{adam's voice }
+<D>__{something on that bed is worth a quarter of a million dollars.}
+<C>__{reggie's voice }
+<D>__{yes, but what?}
+<C>__{adam's voice }
+<D>__{i don't know i just don't know.}
+<A>__{med. shot reggie and adam as adam begins to examine the items one by one.}
+<C>__{adam}
+<D>__{electric razor comb steamship ticket fountain pen four passports toothbrush wallet }
+<P>__{(he goes through the wallet, finds nothing)}
+<D>__{key what about that?}
+<C>__{reggie}
+<D>__{to the apartment it matches mine perfectly.}
+<C>__{adam}
+<D>__{the letter }
+<A>__{he takes it out of the envelope and takes out his glasses before reading it.}
+<C>__{reggie}
+<D>__{i will bet you don't really need those.}
+<A>__{he hands her the glasses and she looks through them.}
+<C>__{reggie}
+<D>__{you need them.}
+<P>__{(she hands them back)}
+<C>__{adam}
+<P>__{(reading the letter)}
+<D>__{it still doesn't make sense, but it isn't worth any quarter of a million either. have we forgotten anything?}
+<C>__{reggie}
+<D>__{the tooth powder. wait a minute could you recognize heroin just by tasting it?}
+<A>__{he shakes some powder into his hand and tastes it. reggie watches expectantly.}
+<C>__{adam}
+<D>__{heroin peppermint flavored heroin.}
+<C>__{reggie}
+<D>__{well, i guess that's it dead end.}
+<C>__{adam}
+<D>__{go to bed. you've got to be at work in the morning. there's nothing more we can do tonight.}
+<C>__{reggie}
+<P>__{(pause)}
+<D>__{i love you, adam.}
+<C>__{adam}
+<D>__{yes, you told me.}
+<C>__{reggie}
+<D>__{no last time i said "i love you, alex."}

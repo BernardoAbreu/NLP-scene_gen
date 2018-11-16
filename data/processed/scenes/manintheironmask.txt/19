@@ -1,0 +1,27 @@
+<L>__{interior the corridor}
+<A>__{d'artagnan approaches the queen mother, and bows.}
+<C>__{d'artagnan}
+<D>__{m'lady...?}
+<C>__{anne}
+<D>__{i understand you saved my son's life today.}
+<C>__{d'artagnan}
+<D>__{god smiled upon us.}
+<C>__{anne}
+<D>__{and you were not hurt?}
+<C>__{d'artagnan}
+<D>__{no, m'lady.}
+<C>__{anne}
+<D>__{that is good.}
+<A>__{without a change of expression on her still beautiful but sad face, she enters her room.}
+<L>__{interior d'artagnan's room evening}
+<A>__{d'artagnan returns to his room, just as a young lieutenant of musketeers (andre) arrives with two of the royal guards.}
+<C>__{lieutenant}
+<D>__{duty lists of the day, captain!}
+<C>__{d'artagnan}
+<D>__{thank you, andre.}
+<A>__{they hand him the list and salute again, to leave.}
+<C>__{d'artagnan}
+<D>__{wait. there is an entry here "messenger sent by king to residence of mademoiselle michelle beaufort." why was that?}
+<A>__{the young musketeers try not to smirk.}
+<C>__{lieutenant}
+<D>__{well, captain...}

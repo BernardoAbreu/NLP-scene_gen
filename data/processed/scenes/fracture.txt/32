@@ -1,0 +1,83 @@
+<L>__{interior norman's office continuous}
+<A>__{norman slowly smiles, listening.}
+<C>__{norman}
+<D>__{you know i really wish i was going to see this.}
+<L>__{interior courtroom later}
+<A>__{willy slips self consciously through the double doors, wearing the tuxedo. he gets even more self conscious when he notices a handful of local reporters. he hurries in passing nunally, in the back row. nunally is making a good show of keeping it together...but it's only a show. judge irene feldman, 50 ish, looks over her half glasses.}
+<C>__{judge feldman}
+<D>__{mr. slocum. nice to see a man who dresses for court.}
+<C>__{willy}
+<D>__{sorry, your honor. long story.}
+<A>__{willy, hurrying to prosecution table, barely glances at the defense table but crawford, sitting beside his public defender in an orange jumpsuit and handcuffs, never takes his eyes off willy, intrigued.}
+<C>__{judge feldman}
+<D>__{grapevine has it the punch line is wooton sims.}
+<C>__{willy}
+<D>__{yes, ma'am.}
+<C>__{judge feldman}
+<D>__{good for you, double oh seven.}
+<P>__{(signaling the bailiff)}
+<D>__{let's see what public service is offering you by way of a send off:}
+<C>__{bailiff}
+<D>__{the state of california versus thomas crawford.}
+<A>__{the defense rises; crawford hardly pays any attention to the judge glancing back and noticing nunally, whose eyes bore into him, haunted and burning. crawford stares at him impassively a second, then turns to lean past his p.d. and watch willy hastily skim the file.}
+<C>__{judge}
+<D>__{mr. crawford, you've been charged with section 664 slash 187 of the california penal code: attempted murder, with additional allegations of assault with a deadly weapon penal code section 245 dash a2, with great bodily injury, p.c. section 12022.07.}
+<P>__{(beat)}
+<D>__{do you waive further reading of the complaint and complete statement of rights?}
+<C>__{p.d.}
+<P>__{(sotto)}
+<D>__{you do.}
+<C>__{crawford}
+<D>__{i do. but, your honor }
+<C>__{judge feldman}
+<D>__{and do you wish to enter a plea at this time?}
+<C>__{crawford}
+<D>__{not guilty. but i also want to waive my right to counsel, and represent myself.}
+<A>__{willy looks up from the file startled.}
+<C>__{judge feldman}
+<D>__{do you have a problem with your appointed counsel, mr. crawford?}
+<C>__{crawford}
+<D>__{no. i just want to do it myself. i believe it's within my rights.}
+<C>__{p.d.}
+<D>__{your honor, if i could have a moment with my client }
+<C>__{crawford}
+<D>__{i'm not your client. try and keep up, would you?}
+<A>__{the p.d. shuts up, taken aback. the judge considers crawford, thoughtful, then turns to willy.}
+<C>__{judge feldman}
+<D>__{do the people have an objection or a comment for the record, mr. slocum?}
+<A>__{willy hesitates, held by crawford's strange, amused gaze. shakes it off:}
+<C>__{willy}
+<D>__{i'm sorry, your honor: we've got the weapon and a signed confession. i really think mr. crawford needs a competent attorney to frankly negotiate a plea.}
+<A>__{crawford reaches up with cuffed hands and adjusts an imaginary bow tie. willy self consciously touches where crawford indicated on his own collar, straightens his clip on. crawford nods: you're welcome. willy turns to the judge.}
+<C>__{willy}
+<D>__{i can't this was supposed to be with a pro se defendant, this is going to drag out for months and i'm not even going to be here. the people request a continuance to }
+<C>__{crawford}
+<D>__{excuse me? your honor? i'm willing to waive my right to a preliminary hearing and go directly to a jury trial.}
+<P>__{(to willy)}
+<D>__{does that help?}
+<C>__{judge}
+<D>__{you don't need to look out for mr. slocum, mr. crawford. the district attorney's office can shift another prosecutor to the case }
+<C>__{crawford}
+<D>__{no, i like mr. slocum.}
+<A>__{beat.}
+<C>__{judge feldman}
+<D>__{mr. slocum? he likes you.}
+<C>__{willy}
+<D>__{terrific.}
+<C>__{judge feldman}
+<D>__{mr. crawford seems to understand his rights and responsibilities.}
+<C>__{willy}
+<D>__{all due respect, your honor, i'm worried this may turn into some sort of a circus }
+<C>__{judge feldman}
+<D>__{i appreciate your concern for the dignity of my courtroom, mr. slocum considering you're making the argument dressed as a game show host. unfortunately, the man is a tax paying citizen, entitled by our constitution to try and manipulate the legal system, like everybody else.}
+<P>__{(turning)}
+<C>__{judge feldman }
+<D>__{as for you, mr. crawford, i strongly urge you to retain counsel. lack of same will not be grounds for appeal.}
+<C>__{crawford}
+<D>__{i understand. thank you.}
+<C>__{judge feldman}
+<D>__{are the people ready to go to trial without a preliminary hearing?}
+<A>__{willy hesitates, irritated. looks through the file again. checks crawford waiting, polite.}
+<C>__{willy}
+<D>__{sure. why not.}
+<A>__{crawford smiles at him, as the judge opens her calendar.}

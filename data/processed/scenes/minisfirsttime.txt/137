@@ -1,0 +1,105 @@
+<L>__{interior the living room evening}
+<A>__{martin and mini sit across from garson. martin appears cool and relaxed, a scotch in his hand.}
+<C>__{garson}
+<D>__{i really appreciate you taking the time to help us out. there's just a few loose ends we want to tie up.}
+<C>__{martin}
+<D>__{absolutely. what would you like to know?}
+<A>__{garson opens his briefcase and removes a report. he starts}
+<C>__{g}
+<A>__{leafing through papers.}
+<C>__{arson}
+<D>__{there appears to be some question as to the time of death. you said you went to dinner and a movie }
+<C>__{martin}
+<D>__{detective, not to be overly sensitive, but do i need my lawyer here? because these sound like the questions one asks when there's a homicide investigation.}
+<C>__{garson}
+<D>__{mr. tannen, i'd really like to just finish this up, i've got real homicides that need attention. how about if i just ask you some questions and the one's you don't want to answer, we'll just skip?}
+<C>__{mini}
+<D>__{that sounds good, doesn't it, dad? i mean, let's just get this over with.}
+<A>__{martin looks at mini, trying hard not to allow his anger to escape for a second.}
+<C>__{martin}
+<D>__{fair enough.}
+<C>__{garson}
+<D>__{terrific...now, the preliminary blood report indicated she had ritalin in her system.}
+<A>__{mini's eyes shift between garson and his note pad.}
+<C>__{martin}
+<D>__{i wasn't aware my wife was taking ritalin.}
+<C>__{garson}
+<D>__{neither was her physician, he had never prescribed it.}
+<C>__{martin}
+<D>__{well, as you may have discovered by now, my wife had substance abuse problems, i'm sure there were many drugs she took without a prescription.}
+<C>__{garson}
+<D>__{i know, but it's an odd drug to be taking. it's mostly given to adults and children with attention deficit disorder to calm them. but in people who don't need it, it has the reverse effect, making them incredibly hyper and agitated.}
+<C>__{martin}
+<D>__{again, detective, i really can't say why she was taking these drugs.}
+<C>__{garson}
+<D>__{fair enough...mr. tannen, were you and your wife close?}
+<C>__{martin}
+<D>__{no...we led, for the most part, separate lives. we had decided to stay together for mini.}
+<C>__{mini }
+<C>__{o}
+<D>__{oh...sacrifice personal happiness for the benefit of the child. excellent.}
+<C>__{garson}
+<D>__{i see...}
+<C>__{martin}
+<D>__{listen, detective garson, i must admit i don't see the relevance of these questions. diane was an extremely disturbed person. haven't you interviewed enough people who saw her at her worst?}
+<C>__{garson}
+<D>__{yes, but what i'm still unclear about is her time of death.}
+<C>__{martin}
+<D>__{well, that makes two of us... again, detective, we were out for the whole evening.}
+<C>__{garson}
+<P>__{(looking at his notes)}
+<D>__{after dinner you saw a movie that night?}
+<C>__{martin}
+<D>__{that's right.}
+<C>__{mini }
+<D>__{start time 9 o'clock.}
+<C>__{garson}
+<D>__{what did you see?}
+<C>__{martin}
+<D>__{that new jackie chan movie where the terrorists try to blow up mount rushmore.}
+<C>__{mini }
+<D>__{running time 115 minutes.}
+<C>__{garson}
+<D>__{ahh...my buddy told me the end is crazy.}
+<C>__{mini }
+<D>__{for god sakes, does he think we wouldn't actually see it?}
+<C>__{martin}
+<D>__{yeah, he slides down washington's nose with the bomb strapped to him.}
+<C>__{mini}
+<D>__{dad...don't give it away, he hasn't seen it yet.}
+<A>__{martin turns to mini, giving her a fatherly smile.}
+<C>__{martin}
+<D>__{another demerit...}
+<A>__{mini rolls her eyes at garson.}
+<C>__{garson}
+<D>__{that's okay...where did you see it?}
+<C>__{martin}
+<D>__{the galleria.}
+<C>__{mini }
+<D>__{drive time 17 minutes.}
+<C>__{garson}
+<D>__{and you got home at?}
+<C>__{mini }
+<D>__{precisely...}
+<C>__{martin}
+<D>__{11:30.}
+<C>__{mini }
+<D>__{with 12 minutes of previews. you didn't think we'd forget the previews?}
+<C>__{martin}
+<D>__{now, if there aren't any more questions, it is a school night.}
+<C>__{garson}
+<D>__{no, that about wraps it up for now.}
+<C>__{martin}
+<D>__{for now? detective we are trying very hard to put our lives back together, but every time you come by, it just dredges everything back up. we've told you everything we know. g}
+<C>__{arson}
+<D>__{i wish i could be more definitive.}
+<C>__{martin}
+<D>__{well, i'm telling you the next time you have a question, it had better be because you're charging us }
+<C>__{garson}
+<D>__{us?}
+<A>__{martin momentarily freezes.}
+<C>__{martin}
+<D>__{i'm just asking you to please let us deal with our grief and get on with our lives.}
+<C>__{garson}
+<P>__{(standing)}
+<D>__{thanks again for your time.}

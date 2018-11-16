@@ -1,0 +1,107 @@
+<L>__{interior courtroom morning}
+<A>__{court is in session. rebecca looks around the courtroom, trying to get a feel of the crowd's opinion. dulaney is not there. she looks at the door anxiously. the rooms waits. a beat. dulaney enters sits beside rebecca but acts as if she isn't there.}
+<L>__{interior courtroom later}
+<A>__{dulaney stands at the witness stand in front of an oriental man in his thirties.}
+<C>__{dulaney}
+<D>__{dr. wong what type of medicine do you practice?}
+<C>__{dr. wong}
+<D>__{oriental medicine.}
+<C>__{dulaney}
+<D>__{ and is miss lawson a patient of yours?}
+<C>__{dr. wong}
+<D>__{yes. i've been seeing her for over a year.}
+<C>__{dulaney}
+<D>__{why does she come to you?}
+<C>__{dr. wong}
+<D>__{she suffers from severe menstrual cramps.}
+<C>__{dulaney}
+<D>__{did you ever prescribe any medication for her cramps?}
+<C>__{dr. wong}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{what did you prescribe for her?}
+<C>__{dr. wong}
+<D>__{chinese peony root.}
+<C>__{dulaney}
+<D>__{would you describe for the court what chinese peony root looks like?}
+<C>__{dr. wong}
+<D>__{it's a white powder that comes in a vial.}
+<A>__{there is a moan from the crowd. cardenas looks at troxell.}
+<C>__{dulaney}
+<D>__{how do you instruct your patients to take it?}
+<C>__{dr. wong}
+<D>__{i tell them to pour an amount the size of a quarter into the their hand and mix it with water.}
+<C>__{dulaney}
+<D>__{a previous witness stated that she saw miss lawson pouring a white powder into her hand on october twenty eighth. according to your records when did you prescribe the drug?}
+<A>__{dr. wong checks his records.}
+<C>__{dr. wong}
+<D>__{october twenty seventh.}
+<C>__{dulaney}
+<D>__{one last question, doctor. if someone didn't know better, would it be easy to mistake the peony root for cocaine?}
+<C>__{dr. wong}
+<D>__{yes quite easy.}
+<C>__{dulaney}
+<P>__{(to cardenas)}
+<D>__{your witness.}
+<A>__{cardenas realizes there is nothing to gain by examining this witness.}
+<C>__{cardenas}
+<D>__{no questions.}
+<C>__{judge burnham}
+<D>__{you may call your next witness.}
+<C>__{dulaney}
+<D>__{the defense calls miss margaret sellers.}
+<A>__{cardenas looks worried as he watches an attractive woman in her mid twenties approach the stand.}
+<B>__{dulaney and miss sellers}
+<A>__{miss sellers appears a little nervous. dulaney smiles warmly.}
+<C>__{dulaney}
+<D>__{miss sellers, do you know dr. alan paley?}
+<C>__{miss sellers}
+<D>__{yes.}
+<C>__{dulaney}
+<D>__{where did you meet him?}
+<C>__{miss sellers}
+<D>__{i'm a nurse. i used to work at roseburg memorial hospital. dr. paley's on staff there.}
+<C>__{dulaney}
+<D>__{what was the nature of your relationship with dr. paley.}
+<C>__{miss sellers}
+<D>__{we dated for about a month last year.}
+<C>__{dulaney}
+<D>__{then what happened?}
+<C>__{miss sellers}
+<D>__{i realized he wasn't serious. he was seeing other women asking other nurses at the hospital out, so i ended it.}
+<C>__{dulaney}
+<D>__{ and what did dr. paley do after you stopped seeing him?}
+<C>__{miss sellers}
+<D>__{he used to call me tell me that i couldn't just walk out on him. he said that if i didn't come back he'd make my life miserable.}
+<C>__{dulaney}
+<D>__{did he make your life miserable?}
+<C>__{miss sellers}
+<D>__{yes he did.}
+<C>__{dulaney}
+<D>__{how?}
+<A>__{cardenas stands again.}
+<C>__{cardenas}
+<D>__{objection! may i remind mr. dulaney that the person on trial here is miss lawson not dr. paley.}
+<C>__{dulaney}
+<D>__{your honor, i'm trying to establish a pattern in dr. paley's behavior with women.}
+<C>__{judge burnham}
+<D>__{objection overruled. the witness will answer the question.}
+<C>__{miss sellers}
+<D>__{he'd call me in the middle of the night. show up at my house and bang on the door. finally after two weeks i went to his office one day to tell him to stop.}
+<C>__{dulaney}
+<D>__{what did he say?}
+<C>__{miss sellers}
+<D>__{he laughed and basically said he would decide when it was over.}
+<C>__{dulaney}
+<D>__{do you remember his exact words?}
+<C>__{miss sellers}
+<D>__{yes. he said, "if you want to play games, we'll play and you'll be sorry."}
+<A>__{another buzz from the crowd. cardenas inwardly cringes.}
+<C>__{dulaney}
+<D>__{what happened next?}
+<C>__{miss sellers}
+<D>__{while i was seeing dr. paley i mentioned to him one night that someone was stealing drugs from the third floor dispensary. three days after i spoke to him in his office he went to the head nurse and told her he had witnessed me stealing drugs.}
+<C>__{dulaney}
+<D>__{what happened?}
+<C>__{miss sellers}
+<D>__{there was an inquiry. it was his word against mine. they believed him. i was fired.}

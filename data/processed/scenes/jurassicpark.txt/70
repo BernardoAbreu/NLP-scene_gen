@@ -1,0 +1,44 @@
+<L>__{int control day}
+<A>__{arnold works at his console. hammond and wu lean over his shoulder. ellie bursts in, very agitated. hammond looks up.}
+<C>__{ellie}
+<D>__{gennaro's losing a lot of blood.}
+<A>__{he}
+<D>__{needs transfusions. we gotta get a rescue helicopter. arnold, what's with the phones?}
+<C>__{arnold}
+<D>__{ah hell. i just can't find it.}
+<A>__{he sips his coffee and stares bleary eyed at the screen.}
+<C>__{ellie}
+<D>__{find what?}
+<C>__{arnold}
+<D>__{nedry jammed all the communication lines. he inserted some command, a lockout into the program code. i can't find it, because i gave that restore command and it erased part of the program listings.}
+<C>__{wu}
+<D>__{so? just reset shut the system down and you'll clear the memory. everything will be in the normal wakeup mode.}
+<C>__{arnold}
+<D>__{shut the system down?}
+<C>__{wu}
+<D>__{and reset.}
+<C>__{arnold}
+<D>__{i've never done that before. and i'm reluctant to do it. maybe it's tr}
+<A>__{ue, all}
+<D>__{systems will come on, but maybe they won't.}
+<C>__{ellie}
+<D>__{look, there is a sick man here who needs medical attention or he'll die. four people are out there, missing in your park. we need search teams. we have to have a phone or radio.}
+<A>__{arnold still hesitates.}
+<C>__{ellie}
+<D>__{well?}
+<C>__{arnold}
+<D>__{well, it's just that the safety systems don't function with the computer shut down and }
+<A>__{ellie boils over.}
+<C>__{ellie}
+<D>__{ turn the goddamn safety systems off! can't you get it through your head that we have no choice?}
+<A>__{arnold looks at hammond, who now stares out into the park. without turning, hammond nods his consent.}
+<C>__{arnold}
+<D>__{okay.}
+<A>__{arnold gets up and goes to the main panel. he opens the doors and uncovers the metal swing latches over the safety switches. he pops them off, one after another.}
+<C>__{arnold}
+<D>__{you asked for it. and you got it.}
+<A>__{he throws the master switch. the control room goes black. all monitors go black. arnold, wu and ellie stand in the dark.}
+<C>__{ellie}
+<D>__{how long do we have to wait?}
+<C>__{arnold}
+<D>__{thirty seconds.}

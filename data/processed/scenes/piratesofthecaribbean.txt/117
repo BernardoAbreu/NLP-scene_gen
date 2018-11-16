@@ -1,0 +1,84 @@
+<L>__{interior caves night}
+<A>__{jack leads will out of a narrow passage and stops, staring. will is a few steps behind.}
+<C>__{will}
+<D>__{are you certain this is the right way?}
+<C>__{jack}
+<D>__{it's the right way.}
+<A>__{will join him and see what jack is staring at: treasure piled on treasure, sparkling, glowing, seemingly endless. at the center is the moonlit clearing, and the stone aztec chest.}
+<C>__{barbossa}
+<D>__{thank you, jack sparrow.}
+<A>__{the jump barbossa is standing right behind them, flanked by his men. the trio whirl to run more pirates emerge from hiding. nearly the entire crew of the black pearl is there. the pirates grab will and jack. will struggles, but jack does not fight at all.}
+<C>__{barbossa }
+<D>__{you couldn't have led him back more directly if you knew exactly where you were going.}
+<A>__{he laughs, and moves toward the stone chest. the pirates follow, dragging will and jack with them.}
+<C>__{will}
+<D>__{you did know where you were going! you did lead us directly to them!}
+<P>__{(jack's silence confirms it)}
+<D>__{why?}
+<A>__{jack looks away as will is manhandled toward the chest. barbo8sa steps up to him (becoming skeletal in the moonlight) and puts the medallion around will's neck. he picks up the stone knife.}
+<C>__{barbossa}
+<D>__{what was begun by blood, let blood now end!}
+<A>__{he raises the knife to will's throat }
+<C>__{jack}
+<D>__{you don't want to be doing that.}
+<A>__{barbossa pretends to think about his words.}
+<C>__{barbossa}
+<D>__{no, i really think i do.}
+<C>__{jack}
+<P>__{(shrugs)}
+<D>__{all right then.}
+<A>__{that makes barbossa pause. he steps out of the moonlight.}
+<C>__{barbossa}
+<D>__{why don't i want to do this?}
+<C>__{jack}
+<D>__{because, right about now, the h.m.s. dauntless is lying in wait in the harbor.}
+<C>__{will}
+<D>__{jack!}
+<C>__{jack}
+<D>__{ and its guns and crew will cut you and your men to pieces the moment you step outside these caves.}
+<A>__{a buzz of apprehension sweeps through the pirates.}
+<C>__{pintel}
+<D>__{do you believe him?}
+<C>__{barbossa}
+<D>__{no.}
+<P>__{(indicates will)}
+<D>__{but him i believe. he is genuinely angry.}
+<C>__{jack}
+<D>__{you've no hope of surviving norrington's attack ... that is, if you're mortal.}
+<C>__{barbossa}
+<D>__{what're you suggesting?}
+<A>__{jack shakes off the hands holding him, strolls toward barbossa, will, and the chest of coins.}
+<C>__{jack}
+<D>__{simple. don't kill the boy yet. wait for a more opportune moment.}
+<A>__{will glares, listening to every word he says. jack scoops up a handful of coins from the chest.}
+<C>__{jack }
+<P>__{(drops the coins one by one back into the chest)}
+<D>__{like after you've killed... every... last ... one ... of norrington's men.}
+<C>__{barbossa}
+<D>__{i can't help wondering, jack, why you're being so helpful and all? last time you did that, it didn't end 80 well for you.}
+<C>__{jack}
+<D>__{the situation has changed.}
+<C>__{barbossa}
+<D>__{that so?}
+<C>__{jack}
+<D>__{aye. see, after you're done with the royal navy, you'll have a bit of a problem: the h.m.s. dauntless. there you'll be, with two lovely ships on your hands, and what to do? of course you'll decide you deserve the bigger one, and who's to argue? the dauntless a first rate ship of line, and with it, you can rule the seas.}
+<P>__{(beat)}
+<D>__{but if you're captain of the dauntless, who's left for the black pearl?}
+<A>__{jack smiles and spreads his hands: me.}
+<C>__{jack }
+<D>__{i sail for you as part of your fleet, i give you fifteen percent of my plunder, and you get to introduce yourself at tea parties and brothels as 'commodore barbossa.'}
+<P>__{(sticks out his hand)}
+<D>__{do we have an accord?}
+<A>__{barbossa licks his lips. it's tempting ...}
+<C>__{jack }
+<D>__{now, you can take care of the dauntless, right?}
+<C>__{barbossa}
+<D>__{men! are you up for it?}
+<A>__{the pirates yell to the affirmative.}
+<C>__{barbossa }
+<D>__{mr. pintel, select five men to stay here. take the rest of the men out ... not through the caves.}
+<A>__{jack's expression falters; this he hadn't planned for.}
+<C>__{jack}
+<D>__{there's ... another exit?}
+<C>__{barbossa}
+<D>__{aye, for us there is.}

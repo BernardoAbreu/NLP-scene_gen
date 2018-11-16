@@ -1,0 +1,32 @@
+<L>__{interior dunkin donuts}
+<A>__{carl walks into dunkin donuts.}
+<C>__{dunkin donuts cashier}
+<D>__{would you like an italian inspired coffee flavoring?}
+<A>__{beat.}
+<C>__{carl}
+<D>__{yes.}
+<C>__{dunkin donuts cashier}
+<D>__{sugar, splenda or nutrasweet?}
+<C>__{carl}
+<D>__{all of them please.}
+<A>__{the confused dunkin donuts cashier loads up carl's coffee.}
+<C>__{dunkin donuts cashier}
+<D>__{we're having a special on munchkins?}
+<L>__{exterior street}
+<A>__{carl walks out of dunkin donuts, carrying a giant coffee and several boxes of munchkins. he walks by renee, the cute girl who hands out band fliers.}
+<C>__{renee}
+<D>__{want a flier? oh, it's you. never mind.}
+<C>__{carl}
+<D>__{of course i will take a flier.}
+<A>__{carl takes a flier. renee's surprised carl's taking a flier.}
+<C>__{carl }
+<P>__{(reading)}
+<D>__{the flying buttresses.}
+<C>__{renee}
+<D>__{i knew after a year and a half of wearing you down, you'd give in. i'm renee by the way.}
+<A>__{renee holds out her hand.}
+<C>__{carl}
+<D>__{carl.}
+<C>__{renee}
+<D>__{carl. cool. i like to thank everyone personally who comes to our performances. it gives it a nice intimate touch. see you soon carl.}
+<A>__{carl turns away, nervous that he's accepted her invitation. he takes a sip of his giant coffee and grimaces.}

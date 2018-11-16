@@ -1,0 +1,22 @@
+<L>__{exterior bullochville train station day}
+<A>__{franklin, in his wheelchair, smokes a cigarette. his bags are next to him, as is roy. a train's whistle blows and pulls in.}
+<C>__{roy}
+<D>__{right on time.}
+<A>__{franklin sees someone else on the platform. he squints in the distance. it's tom. he walks closer towards franklin and roy.}
+<C>__{tom}
+<D>__{good evening.}
+<A>__{franklin nods in tom's general direction. tom has a telegram in his hand which peaks franklin's curiosity.}
+<C>__{franklin}
+<D>__{expecting someone?}
+<C>__{tom}
+<D>__{yes.}
+<A>__{the train comes to a complete stop. a conductor steps out onto the platform. a single elderly woman gets off the train.}
+<C>__{tom}
+<P>__{(to the conductor)}
+<D>__{i'm looking for a young gentleman by the name of botts. fred botts?}
+<C>__{conductor}
+<D>__{don't know anything about that.}
+<C>__{tom}
+<D>__{i expect he would be in a wheelchair.}
+<C>__{conductor}
+<D>__{you mean the cripple? he's in the baggage car.}

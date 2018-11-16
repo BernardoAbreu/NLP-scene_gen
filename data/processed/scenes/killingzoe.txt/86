@@ -1,0 +1,134 @@
+<T>__{cut to:}
+<L>__{interior bank vault antechamber day}
+<A>__{zed looks up hearing the commotion. eric comes running out of the bathroom and into the storage elevator area.}
+<C>__{eric}
+<D>__{what is it? what's going on?}
+<A>__{zed gets up to go upstairs.}
+<C>__{zed}
+<D>__{i don't know.}
+<C>__{eric}
+<D>__{no! you stay here.}
+<A>__{eric runs upstairs.}
+<T>__{cut to:}
+<L>__{interior bank lobby day}
+<A>__{francois is on the ground holding his arm. he keeps rolling back and forth in pain. ricardo is dead. jean, claude, and oliver are waving their guns around ready to kill someone any second.}
+<C>__{jean}
+<D>__{[nobody fucking moves! nobody fucking moves!]}
+<A>__{claude motions to the dead security guard.}
+<C>__{claude}
+<D>__{[the gun! somebody get it!]}
+<A>__{oliver goes over to the dead security guard, the whole time waving his gun at people.}
+<C>__{oliver}
+<D>__{[don't fuck with me! don't fuck with me!]}
+<A>__{he grabs the gun from the dead security guards limp grip. eric storms in. he isn't wearing his mask.}
+<C>__{eric}
+<D>__{[what the fuck is going on!?]}
+<A>__{zoey notices eric, she remembers him.}
+<C>__{oliver}
+<P>__{(pointing at the dead man)}
+<D>__{[this crazy fuck shot ricardo!]}
+<A>__{eric looks over at ricardo and then at the carnage. then everybody notices he isn't wearing a mask.}
+<C>__{jean}
+<P>__{(quietly)}
+<D>__{[eric, your mask.]}
+<C>__{eric}
+<D>__{oh shit.}
+<A>__{then oliver yanks his off.}
+<C>__{oliver}
+<D>__{who gives a damn if they see us or not anyway! i can't see a fucking think in this!}
+<A>__{everyone takes their masks off.}
+<C>__{eric}
+<D>__{[is this what happens? is this what happens when i walk away for five minutes?]}
+<C>__{claude}
+<D>__{[he had a hidden gun.]}
+<C>__{eric}
+<P>__{(mimicking a little child)}
+<D>__{[he had a hidden gun.]}
+<P>__{(then back to normal)}
+<D>__{[i don't care!]}
+<A>__{then, one of the bank customers, a male tourist, speaks up.}
+<C>__{male tourist}
+<P>__{(holding up his passport)}
+<D>__{this is insane! i am a u.s. citizen! you must let me go!}
+<A>__{eric looks at him.}
+<C>__{male tourist}
+<D>__{i'm an american! american! i'm just here exchanging dollars. if it wasn't for my country you'd all be speaking german!}
+<A>__{eric is tired of this outburst, he shoots him. everyone screams.}
+<C>__{eric}
+<P>__{(to the people)}
+<D>__{[i have had enough of this nonsense! the next person that speaks will die!]}
+<A>__{everyone is quiet. francois is sitting on the floor bleeding from his arm.}
+<C>__{jean}
+<D>__{[eric, i'm sorry. things got out of hand. but we're in control now.]}
+<C>__{eric}
+<D>__{[good. let's try to keep it that way. god what a mess.]}
+<C>__{claude}
+<D>__{eric}
+<C>__{eric}
+<D>__{[what the fuck is it now!? you want me to hold your hand as you take a piss?]}
+<C>__{claude}
+<D>__{[i have a question.]}
+<C>__{eric}
+<D>__{[what?]}
+<C>__{claude}
+<D>__{[do we know if the alarm went off or not?]}
+<C>__{eric}
+<D>__{[yes.]}
+<C>__{claude}
+<D>__{[we do?]}
+<C>__{eric}
+<D>__{[yes. it didn't go off. if it had the police would be here and our whole plan would be fucked. but they're not here, and our plan isn't fucked. so if there aren't any more fucking stupid questions i will go downstairs and see if we're in yet. is that okay with you?]}
+<A>__{claude nods. then, the phone rings. everyone looks at it.}
+<C>__{eric}
+<D>__{[i thought the phones were dead.]}
+<A>__{it rings again.}
+<C>__{oliver}
+<D>__{the phones are dead.}
+<A>__{eric grabs a woman teller who is crying hysterically and lifts her to her feet. he drags her to the ringing phone.}
+<C>__{eric}
+<D>__{[answer it!]}
+<A>__{she is crying too hard. eric puts his gun to her head.}
+<C>__{eric}
+<D>__{[answer it or you will die.]}
+<A>__{she slowly picks up the phone.}
+<C>__{woman teller}
+<P>__{(answering phone through tears)}
+<D>__{banque internationale de paris.}
+<A>__{she pauses, then hands the phone to eric.}
+<C>__{woman teller}
+<D>__{[it's for you.]}
+<A>__{eric takes the phone and pushes her to the floor. he puts the receiver to his ear.}
+<C>__{eric}
+<P>__{(into phone)}
+<D>__{[hello.]}
+<P>__{(pause)}
+<D>__{[who is this?]}
+<A>__{eric motions to oliver to check the windows. oliver runs over and peeks out the blinds.}
+<C>__{oliver}
+<D>__{oh my god! the police!}
+<C>__{eric}
+<P>__{(into phone)}
+<D>__{[what do you want?]}
+<A>__{eric looks around at the dead bodies.}
+<C>__{eric}
+<P>__{(into phone)}
+<D>__{[we're all fine in here.]}
+<A>__{oliver is pacing back and forth wildly. he starts loading extra ammo into his weapon.}
+<C>__{eric}
+<P>__{(into phone)}
+<D>__{[no. i will tell you what, you go fuck yourself you fucking pig. you send anyone near this building and i will kill the first person i lay my hands on. i've got plenty hostages here to kill so don't even think of coming in.]}
+<P>__{(pause)}
+<D>__{[just stay put. we'll call you when we're ready. in the mean time, have a nice day.]}
+<A>__{eric hangs up the phone, and then leaves it off the hook.}
+<C>__{claude}
+<D>__{[the silent alarm must have gone off after all!]}
+<C>__{eric}
+<D>__{[shut the fuck up! the alarm didn't do shit. for all we know your idiot shooting brought them here. anyhow it doesn't matter. nothing has changed.]}
+<C>__{jean}
+<D>__{[my god! the police! what are we going to do?]}
+<C>__{eric}
+<D>__{[nothing. we don't have to do anything. the plan stays the same, just slightly different.]}
+<A>__{then eric catches sight of zoey, their eyes lock. eric smiles and winks. then he turns to jean with a whisper.}
+<C>__{eric}
+<D>__{[if the police decide to come in...kill them. and if you don't mind, stack those bodies somewhere else. this place is a fucking mess and it's bad for morale.]}
+<A>__{then he takes off downstairs, smiling. jean is a little stumped.}

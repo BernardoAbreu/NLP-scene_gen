@@ -1,0 +1,111 @@
+<T>__{cut to:}
+<A>__{courtyard day the travelers are making ready for departure in the grey light of dawn. as hodge stuffs provisions into a wicker box, ulrich wraps padding on a newly fashioned pair of crutches.}
+<C>__{ulrich}
+<D>__{i know of this dragon. vermithrax pejorative: she's four hundred years old. as far as i can tell she's the last of her kind. very appropriate that i'm the one to finish her off, don't you think?}
+<P>__{(he tries out the crutches)}
+<D>__{there. flatten the highest mountain. what say you, galen?}
+<P>__{(no answer)}
+<D>__{speak up.}
+<P>__{(still no answer)}
+<D>__{you, hodge.}
+<A>__{hodge mutters something inaudible and grimly keeps packing.}
+<C>__{ulrich}
+<P>__{(to galen)}
+<D>__{while i'm gone see you keep your nose in your books and your hands out of my reagents. leave my instruments alone too.}
+<A>__{galen crouches against the castle wall; he regards his master sullenly.}
+<C>__{galen}
+<D>__{look at yourself. how far will you get like that? a league, two leagues?}
+<C>__{ulrich}
+<D>__{i'm not worried about the road.}
+<C>__{galen}
+<P>__{(sarcastic)}
+<D>__{why don't you wave your hands around and summon up a coach and four?}
+<C>__{ulrich}
+<D>__{don't mock me.}
+<A>__{galen gets up and calls out to the urlanders.}
+<C>__{galen}
+<D>__{you pilgrims: you're used to lotteries. why not draw straws to see who'll be first to carry ironshanks here.}
+<A>__{this is too much for hodge.}
+<C>__{hodge}
+<D>__{hold your tongue. if the master's got a mind to go, he'll go.}
+<A>__{galen approaches the old sorcerer.}
+<C>__{galen}
+<D>__{send me. you're always saying i need seasoning. i need a test. let me go.}
+<C>__{ulrich}
+<D>__{you're not ready.}
+<C>__{galen}
+<D>__{i'm ready for anything.}
+<C>__{ulrich}
+<P>__{(wan smile)}
+<D>__{don't be so hasty. your time will come.}
+<A>__{the walkers are ready to set forth. hodge picks up his pack, steps forward and pulls open the great gate.}
+<B>__{horsemen}
+<A>__{three mounted men are outside the gate, helmets on their heads, swords on the belts and longbows across their shoulders. they look formidable. the urlanders take a step backward.}
+<C>__{valerian}
+<D>__{tyrian!?}
+<A>__{tyrian is a lean, heavily bearded nobleman. there is a coat of arms on the shield strapped to the pommel of his saddle.}
+<C>__{tyrian}
+<P>__{(amiable)}
+<D>__{good morning, all.}
+<C>__{valerian}
+<D>__{we're not afraid of you. give us the road.}
+<C>__{tyrian}
+<D>__{why, the road is yours. all the way to urland. it's a long journey, isn't it? but when you're in search of a sorcerer, i suppose no distance is too great.}
+<A>__{sensing trouble, galen moves forward. ulrich touches his arm.}
+<C>__{ulrich}
+<P>__{(under his breath)}
+<D>__{say nothing.}
+<A>__{galen hears the urgency in the old man's voice and obeys. hodge takes it upon himself to deal with the strangers.}
+<C>__{hodge}
+<D>__{what do you want with us?}
+<C>__{tyrian}
+<D>__{well, like my good friends here, i've come for a bit of black magic. no doubt you've heard of our troubles at home. this is cragganmore, is it not?}
+<C>__{hodge}
+<D>__{aye, this be the place of ulrich.}
+<A>__{tyrian dismounts and saunters up to the old magician.}
+<C>__{tyrian}
+<D>__{and here we have the mystical presence himself, no?}
+<C>__{hodge}
+<D>__{you'd best keep your distance and your manners.}
+<C>__{tyrian}
+<D>__{if he's ready to lay a dragon in its grave, he's got nothing to fear from me.}
+<P>__{(turns to the urlanders)}
+<D>__{i've no more love for that creature than you lot. nor has the king. but, before you stir things up, don't you think it a good idea to see you've got the right man for the job?}
+<C>__{hodge}
+<D>__{aha it's a test you're looking for. we don't do tests.}
+<C>__{tyrian}
+<D>__{i'm sure you don't. they never do tests and not many real deeds either. oh, conversation with your grandmother's shade in a darkened room, the odd love potion or two... but comes a doubter, well then, it's the wrong day, the planets are not aligned, the entrails aren't favorable, we don't do tests.}
+<C>__{valerian}
+<D>__{we've got no doubts. we require no test.}
+<C>__{hodge}
+<D>__{and you're not going to get one.}
+<A>__{when ulrich finally speaks, his voice is low and authoritative.}
+<C>__{ulrich}
+<P>__{(to galen)}
+<D>__{go to the conjuring room. the iron box. fetch me the dagger within.}
+<A>__{galen's eyes widen with alarm.}
+<C>__{ulrich}
+<D>__{the dagger. be quick.}
+<A>__{galen dashes into the castle. ulrich gazes almost shyly at tyrian.}
+<C>__{ulrich}
+<D>__{you shall have your test.}
+<B>__{conjuring room}
+<A>__{galen comes puffing up the steps, locates the iron box, and flings it open. amidst the tawdry paraphernalia of a professional magician is an ivory handled dagger covered with runic inscriptions. galen eagerly examines it to see how the blade might twist aside or collapse into the handle, but it is all too genuine. a murder weapon.}
+<C>__{ulrich's voice}
+<P>__{(impatient)}
+<D>__{where are you, boy? i'm waiting.}
+<A>__{galen throws open a window and looks down into the courtyard. he displays the dagger.}
+<C>__{galen}
+<D>__{not this one, was it?}
+<C>__{ulrich}
+<D>__{the very one. let it fall.}
+<A>__{galen hesitates, then tosses it. tumbling end over end, it arcs downward. the old conjurer calmly stretches out a hand and plucks it neatly out of the air. galen watches as ulrich passes the weapon to tyrian and strips back his robe exposing a bony chest. galen knows what's coming. he rushes for the door. he's only a step away when it bangs shut of its own accord. he sprints for a second exit. whack! this door slams shut too. locked in. quick, back to the window and climb down the vine... smack! the heavy shutters seal him in.}
+<B>__{ulrich and tyrian}
+<A>__{ulrich takes tyrian's arm and guides the point of the dagger to his breastbone.}
+<C>__{ulrich}
+<D>__{vita regula, vita hieratica!}
+<A>__{everyone is filled with dread. hodge is shaking. from the castle come the rattling of shutters and galen's muffled cries. a sick sarcastic smile has crept over tyrian's lips. he tenses himself to thrust.}
+<C>__{ulrich}
+<D>__{go on. don't worry, you can't hurt me.}
+<B>__{conjuring room}
+<A>__{galen stops hammering and presses his face to a crack in the shutter. below he can see the participants in this grisly drama. he holds his breath. tyrian makes a sudden movement and buries the blade in ulrich's chest. but the sorcerer stands unbent, seemingly unhurt. then, after a long moment, he slowly sags forward over the dagger and the hand that holds it. tyrian shrinks back and allows the body to fall in a heap. very quickly he remounts. in another moment he and his companions are gone. the others are riveted in horror. hodge sinks to his knees and wails his grief. galen turns away from the window and gazes blankly into the gloomy conjuring room. click! the doors unlatch themselves and swing open.}

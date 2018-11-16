@@ -1,0 +1,124 @@
+<T>__{fade to:}
+<L>__{interior e block day}
+<A>__{paul appears at bitterbuck's bars with a group of guards.}
+<C>__{paul}
+<D>__{arlen? your daughter and her family are here.}
+<A>__{bitterbuck steps from his cell. bill dodge escorts him off the block. the moment they're gone:}
+<C>__{paul}
+<D>__{let's move. i want at least two rehearsals before he gets back.}
+<L>__{interior visitor's room day}
+<A>__{bitterbuck is led in. his daughter rises...an awkward hesitation...and she touches his face, kisses him. he takes her hands, kisses them, tries not to cry. the rest of the family is there: son in law, grandchildren, cousins. they form around him, murmuring hellos, shaking hands...}
+<L>__{interior e block day}
+<A>__{...while toot toot takes bitterbuck's place in the cell. he's a wiry and toothless old trusty, crazy as a tick. he sits:}
+<C>__{toot}
+<D>__{sittin' down, sittin' down, rehearsing now! everybody settle!}
+<A>__{he glances to paul okay, hit it.}
+<C>__{paul}
+<D>__{arlen bitterbuck, step forward.}
+<A>__{toot springs to his feet and steps from the cell.}
+<C>__{toot}
+<D>__{i'm steppin' forward, i'm steppin' forward, i'm steppin' forward...}
+<A>__{toot turns, shows the top of his head to dean.}
+<C>__{paul}
+<D>__{is his head properly shaved?}
+<C>__{dean}
+<D>__{no, it's dandruffy and it smells.}
+<C>__{paul}
+<D>__{i will take that for a yes. all right, arlen, let's go.}
+<A>__{toot starts up the corridor, ringed by guards.}
+<C>__{toot}
+<D>__{i'm walkin' the mile, i'm walkin' the mile, i'm walkin' the mile...}
+<A>__{paul's inner office toot throws himself to his knees as soon as they enter:}
+<C>__{toot}
+<D>__{i'm prayin', i'm prayin', i'm prayin'. the lord is my shepherd, so on an' so forth...}
+<C>__{paul}
+<D>__{toot, you have to wait till i tell you to pray.}
+<P>__{(toot waits)}
+<D>__{okay, pray.}
+<C>__{toot}
+<D>__{still prayin', still prayin'...}
+<C>__{harry}
+<D>__{paul, we're not gonna have some cherokee medicine man in here whoopin' and hollerin' and shaking his dick, are we?}
+<C>__{paul}
+<D>__{well, actually }
+<C>__{toot}
+<D>__{still prayin', prayin', gettin' right with jesus...}
+<C>__{harry}
+<D>__{do it quietly, you old gink!}
+<A>__{harry slaps toot upside the head to shut him up.}
+<C>__{paul}
+<D>__{as i was saying, i don't believe they actually shake their dicks, harry. be that as it may, mr. bitterbuck is a christian, so we got reverend schuster coming in.}
+<C>__{dean}
+<D>__{oh, he's good. fast, too. doesn't get 'em worked up.}
+<C>__{paul}
+<D>__{on your feet, toot. you've prayed enough for one day.}
+<C>__{toot}
+<D>__{gettin' to my feet, walkin' again, walkin' on the green mile...}
+<B>__{execution chamber}
+<A>__{they enter. brutal is waiting for them, gun drawn. percy peers out from behind the partition wall from the switch room.}
+<C>__{percy}
+<D>__{what do i do?}
+<C>__{paul}
+<D>__{watch and learn.}
+<A>__{paul motions percy behind the wall. percy sighs, takes his spot next to jack van hay, peers through the wire mesh as toot plops into old sparky, wriggling his skinny ass to get comfy.}
+<C>__{toot}
+<D>__{sittin' down, sittin' down, takin' a seat in old sparky's lap...}
+<A>__{paul and dean kneel to apply the ankle clamps. brutal steps in from the side, pressing down on the condemned man's left arm to keep him in place until the ankle clamps are secure. harry moves in from the other side, securing the right arm clamp.}
+<C>__{toot}
+<D>__{gettin' clamped, gettin' clamped, gettin' ow, shit, watch the skin!}
+<A>__{paul signals "ankles secure." brutal holsters his pistol, applies the final clamp to the left arm.}
+<C>__{brutal}
+<D>__{roll on one.}
+<B>__{behind the partition}
+<A>__{van hay mimes turning the generator knob up, whispering:}
+<C>__{van hay}
+<D>__{"roll on one" means i turn the generator up full. you'll see the lights go brighter in half the prison...}
+<B>__{resume main chamber}
+<A>__{as brutal steps before the "condemned" and pronounces:}
+<C>__{brutal}
+<D>__{arlen bitterbuck, you have been condemned to die by a jury of your peers, sentence imposed by a judge in good standing in this state. do you have anything to say before the sentence is carried out?}
+<C>__{toot}
+<P>__{(gleefully)}
+<D>__{yeah! i want a fried chicken dinner with gravy on the taters, i want to shit in your hat, and i got to have mae west sit on my face, because i am one horny motherfucker!}
+<A>__{brutal tries to hold on, but it's impossible he cracks up. everybody falls apart, howling helplessly with laughter. even jack van hay is guffawing behind his partition. only paul is reining it in he's a little too pissed to go with it. he waits until the laughing fit starts to pass, then:}
+<C>__{paul}
+<D>__{shut up, brutal. that goes for everybody. i want quiet in here.}
+<P>__{(turns)}
+<D>__{toot, another remark like that, i will have van hay roll on two for real.}
+<C>__{brutal}
+<P>__{(beat, gently)}
+<D>__{it was pretty funny.}
+<C>__{paul}
+<D>__{that's why i don't like it. tomorrow night we're doing this for real. i don't want somebody remembering a stupid joke like that and getting going again.}
+<P>__{(off their looks)}
+<D>__{ever try not laughing in church once something funny gets stuck in your head. same goddamn thing.}
+<C>__{brutal}
+<D>__{sorry, paul. you're right. let's keep going. harry...}
+<A>__{harry takes a black mask and snugs it down over toot's head, leaving only the crown of his head exposed. brutal takes a large sponge, dips it in a steel bucket, mimes soaking it...}
+<B>__{behind the partition}
+<C>__{percy}
+<D>__{what's with the sponge?}
+<C>__{van hay}
+<D>__{you soak it in brine, get it good and wet. conducts the electricity directly to the brain, fast like a bullet. you don't ever want to throw the switch on a man without that.}
+<B>__{resume main chamber}
+<A>__{as the sponge is placed atop toot's head. harry now lowers the steel cap and brutal secures the straps.}
+<C>__{brutal}
+<D>__{arlen bitterbuck, electricity shall now be passed through your body until you are dead, in accordance with the state law. god have mercy on your soul.}
+<P>__{(to van hay)}
+<D>__{roll on two.}
+<B>__{behind the partition}
+<A>__{van hay mimes flipping the switch, looks to percy:}
+<C>__{van hay}
+<D>__{and that's that.}
+<B>__{resume main chamber}
+<A>__{toot can't resist he starts bucking and flailing:}
+<C>__{toot}
+<D>__{now i'm fryin'! fryin'! geeaaah! fryin' like a done tom turkey!}
+<A>__{paul rolls his eyes at brutal. brutal shifts his gaze past him and nods look behind you.}
+<C>__{brutal}
+<D>__{one of the witnesses showed up a day early.}
+<A>__{paul turns. sitting on the door sill, watching them with beady eyes, is the mouse. paul turns back, addresses the room:}
+<C>__{paul}
+<D>__{all right, let's go again and do it right this time! get that idiot out of the chair...}
+<B>__{high wide angle of execution chamber}
+<A>__{brutal and harry start undoing toot's clamps. everybody relaxes, drifting from their positions...}

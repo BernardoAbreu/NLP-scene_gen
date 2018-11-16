@@ -1,0 +1,113 @@
+<L>__{exterior mall day}
+<A>__{a black unmarked police car pulls up quickly and stops directly in front of the main entrance to the mall as if to say to the world, "i'm a cop and i can do this." out steps detective harrison, a young cop that has the arrogance and swagger of a man who is just beginning to feel his power.}
+<L>__{interior mall manager's office day}
+<A>__{mark sits at his desk, while ronnie comforts a crying brandi. dennis stands in the corner, not saying a word. detective harrison knocks as he comes in the door.}
+<C>__{detective harrison}
+<D>__{your secretary told me to come on in. i'm detective harrison, cabarrus county police.}
+<A>__{detective harrison shows his badge to mark. the two men shake.}
+<C>__{mark}
+<D>__{mark talbert, i manage the mall. this is brandi, she's the one who saw the deviant.}
+<C>__{detective harrison}
+<D>__{hello, brandi. are you doing okay?}
+<C>__{brandi}
+<D>__{i'm really shaken up.}
+<C>__{detective harrison}
+<D>__{yes, ma'am, i'm sure you are after all you've been through, but i'm here to tell you that we're going to work together to make sure we catch the person who did this.}
+<C>__{ronnie}
+<D>__{my name is ronnie barnhardt, chief inspector on the case and head of mall security here at carolina mall and this is my lieutenant, dennis. from one law enforcement officer to another, i just want to welcome you and say that we will do whatever it takes to coordinate with your department in order to bring this assailant to justice.}
+<A>__{the detective pauses as if he's unsure what just happened.}
+<C>__{detective harrison}
+<D>__{great.}
+<P>__{(back to brandi)}
+<D>__{okay, brandi. did you get a look at the suspect?}
+<C>__{brandi}
+<D>__{yes, i did.}
+<C>__{ronnie}
+<D>__{did you get a blood sample?}
+<C>__{brandi}
+<D>__{no.}
+<C>__{ronnie}
+<D>__{that's a shame. would have been useful.}
+<C>__{mark}
+<D>__{go ahead, detective.}
+<C>__{detective harrison}
+<D>__{thank you. brandi, can you remember anything specifically? what color was his hair? was he tall or short?}
+<C>__{brandi}
+<D>__{he was tall and skinny and he had brown hair and it was real greasy.}
+<A>__{detective harrison begins writing in his note pad as brandi speaks. ronnie notices this and picks up some paper and begins to write as well.}
+<C>__{detective harrison}
+<D>__{was his hair long or short?}
+<C>__{brandi}
+<D>__{it was long about to his shoulders.}
+<C>__{detective harrison}
+<D>__{did he say anything?}
+<C>__{brandi}
+<D>__{no, he just stood there and you know, touched himself.}
+<C>__{detective harrison}
+<D>__{what was he wearing?}
+<C>__{brandi}
+<D>__{just a brown trench coat.}
+<C>__{ronnie}
+<D>__{this is what i got so far.}
+<A>__{ronnie holds up his paper. ronnie has drawn a crude sketch of the pervert that brandi described, but it's basically a long haired stick figure with a penis.}
+<C>__{ronnie}
+<D>__{what's yours look like?}
+<C>__{detective harrison}
+<D>__{i just wrote a description.}
+<C>__{ronnie}
+<D>__{oh.}
+<A>__{ronnie puts his sketch away.}
+<C>__{detective harrison}
+<D>__{okay, brandi, i think that's good for now. i think the best thing at this point is to just follow up with the other ladies who saw the perpetrator yesterday and see if they remember anything.}
+<C>__{brandi}
+<D>__{what if he comes back?}
+<C>__{detective harrison}
+<D>__{that's highly unlikely. these incidents are usually random and unpredictable. i'm sure you'll be safe.}
+<C>__{ronnie}
+<D>__{i'm afraid i'm going to have to disagree with you there, detective. by my math, it seems pretty clear that brandi's been targeted.}
+<C>__{detective harrison}
+<D>__{targeted? what gives you that impression?}
+<C>__{ronnie}
+<D>__{well, how about the fact that she was the first employee to get assaulted? not to mention the fact that she is the prettiest girl who works at this mall. to me it seems obvious that this is some sort of methodical villain that plans on returning to finish what he started by murdering brandi.}
+<C>__{brandi}
+<D>__{is that going to happen?!}
+<C>__{detective harrison}
+<D>__{that's not going to happen.}
+<A>__{ronnie looks at brandi and nods his head "yes."}
+<C>__{detective harrison}
+<D>__{well don't worry. i'm on the case and i'm going to do everything in my power to bring this guy down.}
+<C>__{ronnie}
+<D>__{that's right, brandi, you've got the best team in law enforcement working for you.}
+<C>__{detective harrison}
+<D>__{look, i've got to get going. here's my card. i will even write my home phone number on the back, just in the event you need to get a hold of me.}
+<A>__{detective harrison writes his number on the back and then hands his card to brandi.}
+<C>__{detective harrison}
+<D>__{give me a call when you aren't working and i will have you come to the station to look through some mug shots.}
+<P>__{(touches her leg)}
+<D>__{don't worry okay.}
+<C>__{brandi}
+<D>__{i feel a lot better now.}
+<A>__{ronnie holds out his hand.}
+<C>__{detective harrison}
+<D>__{what?}
+<C>__{ronnie}
+<D>__{i will take one of those cards as well.}
+<C>__{detective harrison}
+<D>__{oh, okay.}
+<A>__{detective harrison reluctantly hands ronnie a card.}
+<C>__{ronnie}
+<D>__{go ahead and write your home phone on there as well in case i need to get a hold of you.}
+<C>__{detective harrison}
+<D>__{you can just leave a message at the station. i check my messages constantly.}
+<C>__{ronnie}
+<D>__{sorry, but i'm gonna need those digits. if we're gonna solve this crime we need to constantly be in communication with each other and have an open door policy with intelligence. brandi, let me see that card.}
+<A>__{ronnie takes the car from brandi and copies the home phone number from the back.}
+<C>__{ronnie}
+<D>__{cool, i will call you later with an update.}
+<C>__{detective harrison}
+<D>__{don't do that.}
+<C>__{ronnie}
+<D>__{it's no problem at all. we're brothers of the badge. this is what we do for each other.}
+<A>__{detective harrison takes off. ronnie looks around happily.}
+<C>__{ronnie}
+<D>__{seems like a good guy. a little green, but still solid.}

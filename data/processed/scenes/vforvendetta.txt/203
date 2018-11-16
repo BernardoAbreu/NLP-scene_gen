@@ -1,0 +1,130 @@
+<L>__{interior train station}
+<A>__{finch can feel the panic that is spreading through the tunnel.}
+<C>__{finch}
+<D>__{leader, we have to get out of here!}
+<C>__{leader}
+<D>__{this was your idea.}
+<C>__{finch}
+<D>__{it was a mistake. this is what he wants. he knows us, leader. he knows us too well. we have to get out of here before it's too late }
+<A>__{a voice rings out from hidden speakers, echoing through the tunnels.}
+<C>__{v }
+<D>__{good evening citizens of london. this is the voice of fate. your fate...}
+<C>__{leader}
+<D>__{what trick is this?}
+<C>__{v }
+<D>__{tonight, the face of london is going to change and i am going to offer you the chance to change with her. your leader is finished. he will not leave these tunnels alive.}
+<A>__{the leader screams to be heard over the resonant voice of v.}
+<C>__{leader}
+<D>__{this is an outrage! i order you not to listen to this!}
+<C>__{v }
+<D>__{at midnight tonight, the head will be destroyed and a new era will begin. you must now decide if you are going to be a part of that era.}
+<A>__{everywhere, terrified soldiers listen to the voice.}
+<C>__{v }
+<D>__{you can choose to stay here and die with your leader or you can choose to be free. the decision is yours and yours alone.}
+<C>__{leader}
+<D>__{captain, order all your men to fall back and secure this position!}
+<C>__{v }
+<D>__{some of you have wives. some of you have families. all of you have lives. consider each of them as you ask yourself, are they a part of the past, or are they a part of the future?}
+<C>__{captain}
+<D>__{fall back. fall back and secure the central platform.}
+<A>__{deep in the tunnel, two soldiers look at each other. simultaneously, they drop their guns and run.}
+<C>__{leader}
+<D>__{any man that disobeys this order will be court marshaled!}
+<A>__{groups of solders drop their weapons and disappear into the shadows.}
+<C>__{leader}
+<D>__{captain! captain, where are your men?}
+<A>__{the station fills with the sound of boots running wildly away.}
+<C>__{leader}
+<D>__{goddammit, i will not tolerate this insubordination! i want those deserters shot, captain.}
+<A>__{finch slowly draws back away from the leader.}
+<C>__{leader}
+<D>__{shot on sight!}
+<A>__{the few men on the platform are soon the only men left.}
+<C>__{captain}
+<D>__{you! you! point position. we're getting out of here! now!}
+<A>__{a knife sings through the air and buries itself in the captain's chest. with a tiny rasp, he falls to the ground. the remaining men bolt.}
+<C>__{leader}
+<D>__{traitors! you cowards!}
+<A>__{he grabs for the captain's machine gun.}
+<C>__{leader}
+<D>__{i know who you are! i will see you hang! every last one of you!}
+<A>__{"you" echoes down the dark empty throat of the tunnel. the leader looks around, his flashlight sweeping in big arcs as he realizes that he is alone.}
+<C>__{leader}
+<D>__{finch? finch! finch, goddammit, you can't leave me! don't leave me!}
+<C>__{v}
+<D>__{you are going to die as you ruled }
+<A>__{the leader screams, whipping around towards the voice.}
+<C>__{v}
+<D>__{alone.}
+<A>__{the smile is as cold and as sharp as the knife that flicks from his hand. the leader raises his gun just when the knife sinks into his shoulder. howling in pain, he drops the gun.}
+<C>__{leader}
+<D>__{damn you! damn you!}
+<A>__{v smiles into the spot of his flashlight.}
+<C>__{leader}
+<D>__{conrad? is that you? you're working with finch, aren't you? and creedy! you're all in this together!}
+<A>__{v closes in.}
+<C>__{leader}
+<D>__{who are you?}
+<C>__{v}
+<D>__{you, most of all, should know, leader. you created me. without you, i would never be. more than life, leader, you gave me purpose.}
+<A>__{v draws his final blade.}
+<C>__{v}
+<D>__{"he that killeth with the sword, shall be killed with the sword."}
+<A>__{v raises the knife.}
+<C>__{leader}
+<D>__{noooo!}
+<C>__{finch}
+<D>__{don't move!}
+<A>__{v and the leader turn to find finch aiming a machine gun at}
+<B>__{v.}
+<C>__{leader}
+<D>__{mr. finch! oh god, mr. finch!}
+<C>__{finch}
+<D>__{drop the knife.}
+<A>__{v does and susan begins an almost hysterical laugh.}
+<C>__{leader}
+<D>__{oh, i knew it, mr. finch. i knew you wouldn't desert me. you're a good man, finch. a damn good man.}
+<C>__{finch}
+<D>__{no, mr. susan. no, i'm not. i'm a man who does his job and does what he's told. for twenty seven years, that's all i've been.}
+<A>__{he steps toward v, staring into his smiling black eyes.}
+<C>__{leader}
+<D>__{careful, mr. finch. he's quick as the devil.}
+<A>__{finch ignores the leader.}
+<C>__{finch}
+<D>__{i've read delia's diary over and over all year. it sickens me but i am unable to judge her. i am as guilty as she.}
+<C>__{leader}
+<D>__{mr. finch, what are you doing? shoot him. kill the bastard, finch.}
+<C>__{finch}
+<D>__{i have no excuse. i did what i was told to do.}
+<C>__{leader}
+<D>__{finch, i order you to shoot him! finch!}
+<C>__{finch}
+<D>__{my job was to find you and catch you. i've done my job. i've done it for the last time. i'm tired of it. i'm tired of it all.}
+<A>__{he tosses the gun to the leader.}
+<C>__{finch}
+<D>__{kill him yourself if you can.}
+<A>__{the leader seethes, his eyes boring into finch.}
+<C>__{finch}
+<D>__{thank you, v. and goodbye.}
+<C>__{v}
+<D>__{goodbye, mr. finch.}
+<A>__{the machine gun burst shatters the quiet concrete silence. finch falls dead at v's feet.}
+<C>__{leader}
+<D>__{i warned you, finch, the penalty for treason is death.}
+<A>__{he aims the gun at v.}
+<C>__{leader}
+<D>__{are you ready to die?}
+<C>__{v}
+<D>__{the real question is, are you?}
+<A>__{the leader laughs.}
+<C>__{leader}
+<D>__{do you really believe you can pick up that knife before i pull this trigger?}
+<C>__{v}
+<D>__{no. but i don't have to.}
+<A>__{almost casually, v bends down to pick up the knife the leader screams and fires. bullets knock v back a bit but he continues, grabbing the knife and standing. eyes widening with disbelief, the leader fires another blast as v begins walking towards him. the machine gun roars, bullets shredding out through the back of v's cloak as he continues with short deliberate steps until the hammer clicks against the pin. the gun is empty. v stands before him.}
+<C>__{v}
+<D>__{you see? you cannot kill me. there is no flesh and blood within this cloak to kill. there is only an idea.}
+<A>__{v smiles.}
+<C>__{v}
+<D>__{and ideas are bulletproof.}
+<A>__{the leader screams. v drives the knife into his heart, killing him instantly. v stands alone amidst the carnage and seeping pools of red. his body wavers. he takes his hands out from beneath his cloak and reveals his gloves, wet with blood.}

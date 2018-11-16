@@ -1,0 +1,29 @@
+<L>__{interior police station brent's office}
+<A>__{brent is on the phone. his deputy is with him.}
+<C>__{brent}
+<D>__{what's the address? thanks.}
+<A>__{he hangs up the phone.}
+<C>__{deputy}
+<D>__{you found her?}
+<C>__{brent}
+<D>__{there's a lisa shermer living just sixty miles west of here. over the indiana border. i'm going.}
+<C>__{deputy}
+<D>__{we need you here. i can bring her in.}
+<C>__{brent}
+<D>__{no. i will handle this.}
+<L>__{interior station}
+<A>__{brent and the deputy head into the main station area. brent grabs his gun. the desk sergeant is on the phone.}
+<C>__{desk sergeant}
+<D>__{sir, we're getting calls from other towns. boys throughout the country have heard about what's going on here and they're heading our way, apparently, looking for girls.}
+<C>__{brent}
+<D>__{put a squad car at every entrance to town.}
+<A>__{the desk sergeant picks up another call.}
+<C>__{sergeant}
+<D>__{your wife's on line three.}
+<C>__{brent}
+<D>__{i can't talk to her now.}
+<C>__{sergeant}
+<D>__{there's a problem with jody.}
+<C>__{brent}
+<D>__{tell her she has to handle it.}
+<A>__{he heads outside.}

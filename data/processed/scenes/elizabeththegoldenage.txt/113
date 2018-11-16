@@ -1,0 +1,38 @@
+<L>__{interior whitehall palace dusk}
+<A>__{doors burst open and elizabeth comes storming out, barely containing a powerful rage.}
+<C>__{elizabeth}
+<D>__{bess! bess throckmorton!}
+<A>__{bess comes running from the far end.}
+<C>__{bess}
+<D>__{here, my lady!}
+<C>__{elizabeth}
+<D>__{tell me! is it true? are you married? are you with child? are you with child?}
+<A>__{bess stands before her with her head bowed.}
+<C>__{bess}
+<D>__{yes, my lady.}
+<A>__{elizabeth falls on her with uncontrolled rage, striking out at her, beating her about the head, shrieking out the words that so inflame and wound her. bess takes the blows in silence.}
+<C>__{elizabeth}
+<D>__{you traitress! you dare to have secrets from me! i am your queen! you ask my permission before you rut before you marry before you breed! my bitches wear my collars! do you hear me? how dare you be with child!}
+<A>__{walsingham comes hobbling up.}
+<C>__{walsingham}
+<D>__{majesty, please! dignity mercy }
+<A>__{but elizabeth is too far gone. she turns on him, eyes blazing.}
+<C>__{elizabeth}
+<D>__{this is no time for mercy! that's what you said to me. i don't forget. but you showed mercy, walsingham! go to your traitor brother, and leave me to my business!}
+<B>__{w}
+<A>__{alsingham turns white. elizabeth is back berating bess.}
+<C>__{elizabeth}
+<D>__{is it his child? tell me! say it! is the child his? tell me! say it! is it his?}
+<A>__{bess responds to the queen's hysteria with dignity.}
+<C>__{bess}
+<D>__{yes, my lady. it is my husband's child.}
+<A>__{her gaze reaches beyond the queen. elizabeth turns.}
+<B>__{f}
+<A>__{raleigh has come up to them unnoticed. he has seen and heard all. he speaks to elizabeth quietly, sadly.}
+<C>__{raleigh}
+<D>__{this is not the queen i love and serve.}
+<A>__{elizabeth stares at him. he meets her eyes. his gaze is so unflinching that slowly the madness drains out of her. when she speaks next, she is her proud self again.}
+<C>__{elizabeth}
+<D>__{this gentleman has seduced a lady under my care. this lady has married without my consent. these are offences punishable by law.}
+<P>__{(to walsingham)}
+<D>__{arrest him.}

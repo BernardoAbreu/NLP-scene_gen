@@ -1,0 +1,28 @@
+<L>__{interior pool, garage continuous}
+<A>__{pete is sitting on the floor repairing a weed wacker.}
+<C>__{pete}
+<D>__{you done already?}
+<A>__{corey hops off the lawn mower.}
+<C>__{corey}
+<D>__{i got an emergency, pete. i will come in early tomorrow and finish.}
+<A>__{he runs out the door.}
+<C>__{pete}
+<D>__{hey!}
+<C>__{corey}
+<P>__{(running out the door)}
+<D>__{sorry!}
+<A>__{the door slams shut behind corey.}
+<L>__{exterior carter's house, back yard evening}
+<A>__{music is audible from inside the house. carter's house is an old dilapidated house, with a tiny front yard and huge back yard surrounded by trees, with rusty old cars scattered throughout. just about everybody enters the house from the back. berubi, in his early twenties, very large and athletic, wearing mesh shorts and a beat up t shirt, and a male friend, of a similar age with an average build and dressed lazily in khakis and an un tucked shirt, are unloading a keg from the bed of a pick up truck onto a dolly. heather and allison are standing on the back porch. heather is holding a bottle of vodka in her hand. heather bangs on the screen door. carter approaches. in his early twenties, carter is tough, with a modestly athletic build and a gruff voice, and possessing an appetite for greasy food and cheap beer. he's a guy's guy.}
+<C>__{carter}
+<D>__{what's up.}
+<A>__{heather tries to open the screen door it's stuck.}
+<C>__{allison}
+<D>__{hey carter.}
+<A>__{carter slams the handle from the inside the door opens.}
+<C>__{carter}
+<D>__{what's up.}
+<C>__{heather}
+<P>__{(busting carter's chops with a mocking tone)}
+<D>__{what's up.}
+<A>__{as heather passes, carter mockingly shows heather the back of his hand as if to smack her. heather and allison pass, and carter holds the door open with his foot as he looks for something to prop it open.}

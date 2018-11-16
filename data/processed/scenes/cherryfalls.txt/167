@@ -1,0 +1,50 @@
+<L>__{interior kitchen}
+<A>__{jody's mom can't believe what she's seeing on the news.}
+<L>__{exterior house}
+<A>__{jody walks in the back door.}
+<L>__{interior kitchen}
+<A>__{her mom flips off the tv as jody enters the kitchen.}
+<C>__{jody}
+<D>__{hi mom.}
+<C>__{marge}
+<D>__{hi princess.}
+<C>__{jody}
+<D>__{mom?}
+<C>__{marge}
+<D>__{yes?}
+<C>__{jody}
+<D>__{i need to ask you something.}
+<C>__{marge}
+<D>__{you can ask me anything.}
+<C>__{jody}
+<D>__{have you ever heard of someone named lisa sherman?}
+<A>__{mom's cutting hand starts to shake. she pretends that she doesn't know who lisa sherman is but she obviously does.}
+<C>__{marge}
+<D>__{lisa sherman?}
+<C>__{jody}
+<D>__{yeah. who is she?}
+<C>__{marge}
+<D>__{i don't know. where did you hear that name.}
+<C>__{jody}
+<D>__{i overheard daddy mentioning her to someone. i he thinks she's the killer.}
+<C>__{marge}
+<D>__{what?}
+<C>__{jody}
+<D>__{that's what he said.}
+<C>__{marge}
+<D>__{did he say anything else about her?}
+<C>__{jody}
+<D>__{no but he got really weird. like i've never seen him act. really angry and super uptight.}
+<C>__{marge}
+<P>__{(lying)}
+<D>__{i've never heard of her. maybe something else was on his mind.}
+<C>__{jody}
+<D>__{no. i think she lived her a long time ago. like twenty eight years ago. when dad was eighteen.}
+<C>__{marge}
+<D>__{not that i know of.}
+<A>__{jody is suspicious. jody thinks for a moment, then picks her coat back up.}
+<C>__{marge}
+<D>__{where are you going?}
+<C>__{jody}
+<D>__{the library. i will be fine.}
+<A>__{jody heads out the door. her mother goes to the window, very concerned and watches her ride away. she picks up the phone.}

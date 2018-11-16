@@ -1,0 +1,27 @@
+<L>__{interior townhouse rear entrance hallway afternoon}
+<A>__{chance puts on his snow boots as franklin and hayes continue their questioning.}
+<C>__{franklin}
+<D>__{have you served in the army?}
+<C>__{chance}
+<D>__{no, thomas. but i have seen the army on television.}
+<C>__{hayes}
+<D>__{how about taxes, mr. chance, surely you must have paid taxes?}
+<C>__{chance}
+<D>__{no.}
+<A>__{chance picks up his slippers and leads the attorneys outside.}
+<L>__{exterior garden afternoon}
+<A>__{chance describes his garden with pride as they walk toward the rear building.}
+<C>__{chance}
+<P>__{(points)}
+<D>__{those trees were very young when i first arrived.}
+<C>__{franklin}
+<D>__{are you related to the deceased, mr. chance?}
+<C>__{chance}
+<D>__{no, i don't think so. and i have planted and shaped all the hedges, and in the springtime you will be able to see my flowers.}
+<C>__{hayes}
+<D>__{might you have a birth certificate, mr. chance?}
+<C>__{chance}
+<D>__{no.}
+<P>__{(points to wall)}
+<D>__{that's where joe fixed the bricks.}
+<A>__{they arrive at the rear building and chance opens the door to the garage. franklin and hayes follow him inside.}

@@ -1,0 +1,18 @@
+<L>__{interior anteroom gary's office}
+<A>__{gary's secretary types as milo enters. she smiles at him.}
+<C>__{secretary}
+<D>__{have a seat. he's with someone, but i know he wants to see you.}
+<L>__{interior gary's office continuous}
+<A>__{gary's face is red. the two lawyers who sat in on his deposition are with him again.}
+<C>__{lawyer}
+<D>__{because we bundled it, the judge is threatening to enjoin the whole }
+<C>__{gary}
+<D>__{i'm confused, ted.}
+<A>__{gary has used the phrase before, but the pretense of ingenuousness is gone; it's witheringly condescending.}
+<C>__{gary}
+<D>__{didn't you tell me they'd be chapter 12 by the time they could hope to enjoin? i'm very confused, because you said they'd be ready to settle.}
+<A>__{anteroom continuous milo hears gary yelling behind the closed door. it's indecipherable, but we discern an enraged "bullshit!" milo flips through a copy of wired, trying to ignore it. the lawyers come out, passing swiftly, rather grimly.}
+<C>__{secretary}
+<D>__{go on in.}
+<P>__{(when milo looks dubious)}
+<D>__{he's always happy to see you.}

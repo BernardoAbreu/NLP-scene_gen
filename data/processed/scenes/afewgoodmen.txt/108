@@ -1,0 +1,188 @@
+<T>__{cut to:}
+<B>__{shot of washington at night}
+<T>__{dissolve to:}
+<A>__{the parade grounds early morning, two sailors are raising the flag.}
+<T>__{cut to:}
+<L>__{interior the courtroom day}
+<A>__{commander stone, a navy doctor in his mid 40's, is on the stand.}
+<C>__{stone}
+<D>__{...and he was pronounced dead at zero zero thirty seven.}
+<C>__{ross}
+<D>__{dr. stone, what's lactic acidosis?}
+<C>__{stone}
+<D>__{if the muscles and other cells of the body burn sugar instead of oxygen, lactic acid is produced. that lactic acid is what caused santiago's lungs to bleed.}
+<C>__{ross}
+<D>__{how long does it take for the muscles and other cells to begin burning oxygen instead of sugar?}
+<C>__{stone}
+<D>__{twenty to thirty minutes.}
+<C>__{ross}
+<D>__{and what caused santiago's muscles and other cells to start burning sugar?}
+<C>__{stone}
+<D>__{an ingested poison of some kind.}
+<C>__{kaffee}
+<D>__{your honor, we object at this pointerior the witness is speculating.}
+<C>__{ross}
+<D>__{commander stone is an expert medical witness, in this courtroom his opinion isn't considered speculation.}
+<C>__{kaffee}
+<D>__{commander stone is an internist, not a criminologist, and the medical facts here are ultimately inconclusive.}
+<C>__{randolph}
+<D>__{a point which i'm confident you'll illustrate to the jury under cross examination, so i'm sure you won't mind if his opinion is admitted now.}
+<C>__{kaffee}
+<D>__{not at all, sir. objection withdrawn.}
+<A>__{kaffee sits.}
+<C>__{ross}
+<D>__{doctor stone, did willy santiago die of poisoning?}
+<C>__{stone}
+<D>__{absolutely.}
+<C>__{ross}
+<D>__{are you aware that the lab report and the coroners report showed no traces of poison?}
+<C>__{stone}
+<D>__{yes i am.}
+<C>__{ross}
+<D>__{then how do you justify }
+<C>__{stone}
+<D>__{there are literally dozens of toxins which are virtually undetectable, both in the human body and on a fabric. the nature of the acidosis is the compelling factor in this issue.}
+<C>__{ross}
+<D>__{thank you, sir.}
+<A>__{kaffee gets up.}
+<C>__{kaffee}
+<D>__{commander, you testified that it takes lactic acidosis 20 to 30 minutes before it becomes lethal.}
+<C>__{stone}
+<D>__{yes.}
+<C>__{kaffee}
+<D>__{let me ask you, is it possible for a person to have an affliction, some sort of condition, which might, in the case of this person, actually speed up the process of acidosis dramatically?}
+<A>__{stone says nothing for a moment.}
+<C>__{kaffee}
+<P>__{(continuing)}
+<D>__{commander, is it possible?}
+<C>__{stone}
+<D>__{certainly.}
+<C>__{kaffee}
+<D>__{what might some of those conditions be?}
+<C>__{stone}
+<P>__{(beat)}
+<D>__{if a person had a coronary disorder... or a cerebral disorder, the process would be more rapid.}
+<C>__{kaffee}
+<D>__{commander, if i had a coronary condition, and a perfectly clean rag was placed in my mouth, and the rag was accidentally pushed too far down, is it possible that my cells would continue burning sugar after the rag was taken out?}
+<C>__{stone}
+<D>__{it would have to be a very serious condition.}
+<C>__{kaffee}
+<D>__{is it possible to have a serious coronary condition, where the initial warning signals were so mild as to escape a physician during a routine medical exam?}
+<C>__{stone}
+<D>__{possibly. there would still be symptoms though.}
+<C>__{kaffee}
+<D>__{what kind of symptoms?}
+<C>__{stone}
+<D>__{there are hundreds of symptoms of a }
+<C>__{kaffee}
+<D>__{chest pains?}
+<C>__{stone}
+<P>__{(beat)}
+<D>__{yes.}
+<C>__{kaffee}
+<D>__{shortness of breath?}
+<C>__{stone}
+<D>__{yes.}
+<C>__{kaffee}
+<D>__{fatigue?}
+<C>__{stone}
+<D>__{of course.}
+<A>__{kaffee has gone back to his table where jo has handed him some documents. he shows then to stone.}
+<C>__{kaffee}
+<D>__{doctor, is this your signature?}
+<C>__{stone}
+<D>__{yes it is.}
+<C>__{kaffee}
+<D>__{this in an order for private santiago to be put on restricted duty. would you read your hand written remarks at the bottom of the page, please, sir.}
+<C>__{stone}
+<P>__{(reading)}
+<D>__{"initial testing negative. patient complains of chest pains, shortness of breath, and fatigue. restricted from running distances over five miles for one week."}
+<C>__{kaffee}
+<D>__{commander, isn't it possible that santiago had a serious coronary condition, and it was that condition, and not some mysterious poison, that caused the accelerated chemical reaction?}
+<C>__{stone}
+<D>__{no. i personally give the men a physical examination every three months. and every three months private santiago got a clean bill of health.}
+<C>__{kaffee}
+<D>__{and that's why it had to be, poison, right, commander? 'cause lord knows, if you put a man with a serious coronary condition back on duty with a clean bill of health, and that man died from a heart related incident, you'd have a lot to answer for, wouldn't you, doctor?}
+<C>__{ross}
+<D>__{object. move to strike.}
+<C>__{randolph}
+<D>__{sustained. strike it.}
+<C>__{kaffee}
+<D>__{no more questions, judge.}
+<A>__{ross stands immediately.}
+<C>__{ross}
+<D>__{dr. stone, you've held a license to practice medicine for 21 years, you are board certified in internal medicine, you are the chief of internal medicine at a hospital which serves over 8000 men. in your professional opinion, was willy santiago poisoned?}
+<A>__{jo stands.}
+<C>__{jo}
+<D>__{your honor, we re new our objection to commander stone's testimony, and ask that it be stricken from the record. and we further ask that the court instruct the jury to lend no weight to this witness's testimony.}
+<A>__{kaffee and sam are dying, but they're trying to keep their poker faces. randolph's gonna try to be polite about this, but he thought he made himself clear.}
+<C>__{randolph}
+<D>__{the objection's overruled, counsel.}
+<C>__{jo}
+<D>__{sir, the defense strenuously objects and requests a meeting in chambers so that his honor might have an opportunity to hear discussion before ruling on the objection.}
+<C>__{randolph}
+<D>__{the objection of the defense has been heard and overruled.}
+<C>__{jo}
+<D>__{exception.}
+<C>__{randolph}
+<D>__{noted. the witness is an expert and the court will hear his opinion.}
+<C>__{ross}
+<D>__{doctor, in your expert, professional opinion, was willy santiago poisoned?}
+<C>__{stone}
+<D>__{yes.}
+<C>__{ross}
+<D>__{thank you, sir, i have no more questions.}
+<C>__{randolph}
+<D>__{commander, you may step down.}
+<C>__{ross}
+<D>__{please the court, while we reserve the right to call rebuttal witnesses if the need arises, the government rests.}
+<C>__{randolph}
+<D>__{we'll stand in recess until ten hundred hours this monday, the l9th at which time the defense will call it's first witness.}
+<A>__{randolph raps his gavel.}
+<C>__{sergeant at arms}
+<D>__{ten hut.}
+<A>__{and the courtroom begins clearing out. kaffee, jo and sam are packing up their various papers.}
+<C>__{sam}
+<D>__{i strenuously object? is that how it works? objection. overruled. no, no, no, no, i strenuously object. oh, well if you strenuously object, let me take a moment to reconsider.}
+<C>__{jo}
+<D>__{i got it on the record.}
+<C>__{sam}
+<D>__{you also got it in the jury's head that we're afraid of the doctor. you object once so they can hear you say he's not a criminologist. you keep after it and it looks like this great cross we did was just a bunch of fancy lawyer tricks. it's the difference between paper law and trial }
+<C>__{kaffee}
+<D>__{sam }
+<C>__{sam}
+<D>__{christ, you even had the judge saying stone was an expert!}
+<C>__{kaffee}
+<D>__{sam, she made a mistake. let's not relive it.}
+<A>__{there's an uncomfortable silence.}
+<C>__{sam}
+<D>__{i'm gonna go call my wife. i will meet you tonight.}
+<A>__{sam starts to leave. jo turns and says}
+<C>__{jo}
+<D>__{why do you hate them so much?}
+<A>__{sam stops and turns around.}
+<C>__{sam}
+<D>__{they beat up on a weakling, and that's all they did. the rest is just smokefilled coffee house crap. they tortured and tormented a weaker kid. they didn't like him. and they killed him. and why? because he couldn't run very fast.}
+<A>__{a long silence. kaffee makes a decision.}
+<C>__{kaffee}
+<D>__{alright. everybody take the night off.}
+<C>__{sam}
+<P>__{(continuing)}
+<D>__{i apologize, i, }
+<C>__{kaffee}
+<D>__{it's alright. we've been working 20 hour days for three and a half weeks straight. take the night off. go see your wife, see your daughter. jo, do whatever it is you do when you're not here. what day is tomorrow?}
+<C>__{sam}
+<D>__{saturday.}
+<C>__{kaffee}
+<D>__{we'll start at ten.}
+<A>__{kaffee picks up his stuff and walks out. sam and jo stand there uncomfortably for a moment. jo begins packing up her things.}
+<C>__{sam}
+<D>__{why do you like them so much?}
+<C>__{jo}
+<P>__{(pause)}
+<D>__{'cause they stand on a wall.}
+<P>__{(beat)}
+<D>__{and they say "nothing's gonna hurt you tonight. not on my watch."}
+<A>__{despite their differences, sam likes this woman.}
+<C>__{sam}
+<D>__{don't worry about the doctor. this trial starts monday.}

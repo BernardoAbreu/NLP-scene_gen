@@ -1,0 +1,38 @@
+<L>__{interior hospital room night}
+<A>__{kirsty is lying in a bed in a private room. a nurse is at her bedside, monitoring her condition.}
+<C>__{nurse}
+<D>__{you're awake.}
+<A>__{she goes to the door.}
+<D>__{i will get the doctor.}
+<A>__{she exits. kirsty tries to sit up. her head hurts, badly. as she achieves a sitting position, the door opens. the nurse returns, with a doctor.}
+<C>__{doctor}
+<P>__{(approaching the bed)}
+<D>__{so ... you're back with us.}
+<C>__{kirsty}
+<D>__{i think so.}
+<C>__{doctor}
+<D>__{how are you feeling?}
+<C>__{kirsty}
+<D>__{tender.}
+<C>__{doctor}
+<D>__{you took quite a beating. do you remember what happened?}
+<A>__{she looks at him, uncertain of where to start.}
+<C>__{kirsty}
+<D>__{i want to speak to my father ...}
+<C>__{doctor}
+<P>__{(nods)}
+<D>__{of course. we'll bring you a telephone.}
+<A>__{the nurse exits. the doctor brings the box from his pocket.}
+<D>__{maybe this'll jog your memory.}
+<A>__{he lays it on the bed. she stares at it, her expression betraying nothing.}
+<D>__{i had the devil's own job getting it out of your hand. does it ring any bells?}
+<A>__{she shakes her head.}
+<D>__{do you want it left?}
+<C>__{kirsty}
+<D>__{why not?}
+<A>__{he offers her a reassuring smile.}
+<C>__{doctor}
+<D>__{chin up. there's no serious damage. and you're safe here.}
+<C>__{kirsty}
+<D>__{um.}
+<A>__{he leaves the room. kirsty picks up the box, tentatively. she turns it over in her hand, examining it.}

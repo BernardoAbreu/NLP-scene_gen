@@ -1,0 +1,22 @@
+<L>__{interior tex's room night}
+<A>__{tex speaks into the phone.}
+<C>__{tex}
+<D>__{miz lampert, my buddies 'n me, we'd oblige it mighty highly if you could mosey on across the hall 'n chew the fat with us for a spell.}
+<L>__{interior reggie's room night}
+<A>__{dyle is watching her.}
+<C>__{reggie}
+<P>__{(on the phone)}
+<D>__{can you give me one good reason why i should?}
+<L>__{interior tex's room night}
+<C>__{tex}
+<P>__{(on the phone)}
+<D>__{yes, ma'am. a little one 'bout seven or eight years old. th' little tyke keeps callin' you his aunt reggie ain't that cute?}
+<L>__{interior reggie's room night}
+<A>__{she covers the phone and turns to dyle in alarm.}
+<C>__{reggie}
+<D>__{they've got jean louis!}
+<C>__{dyle}
+<D>__{that sounds like their problem.}
+<C>__{reggie}
+<P>__{(into the phone)}
+<D>__{i will be right there.}

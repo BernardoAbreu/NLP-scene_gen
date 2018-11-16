@@ -1,0 +1,353 @@
+<T>__{quick dissolve:}
+<L>__{interior hotel lobby}
+<A>__{doc sits deep in the battered upholstery of one of the chairs. he stares fiercely across the room at smith who is on the couch, reading a neatly folded newspaper. behind him at the clerk's desk, pete is fitfully involved in a game of solitaire. at the foot of the stairs hector is pouring change into a slot machine. it whines, grinds, and clicks with rhythmic monotony, but it never seems to pay off. in the chair nearest doc is tim, with one of his boots off. he works hard and with some concentration, removing the other. then he places them neatly at the foot of his chair. he wiggles his toes watching them with some interest. the wheeze and whir of the slot machine stops. the sudden silence turns the eyes of the men toward hector and the one arm bandit. they follow his gaze up the steps. stairway macreedy walks down, carrying his suitcase. he goes to pete at the clerk's desk.}
+<C>__{macreedy}
+<D>__{anything for me?}
+<C>__{pete}
+<D>__{nothing.}
+<C>__{macreedy}
+<D>__{any message a telegram?}
+<C>__{pete}
+<P>__{(returning to his cards)}
+<D>__{nothing.}
+<A>__{as macreedy turns from the desk, doc joins him.}
+<C>__{doc}
+<P>__{(to macreedy, shrilly, gruffly)}
+<D>__{in case you're interested, coley'll live.}
+<P>__{(glaring at smith and hector)}
+<D>__{i'm truly sorry to say.}
+<A>__{smith coolly continues to read his paper. it is hector who turns toward doc...}
+<C>__{hector}
+<P>__{(to doc, jerking a}
+<D>__{fat hand toward}
+<P>__{macreedy)}
+<D>__{your friend's pretty tough.}
+<C>__{doc}
+<D>__{yeah. he's wicked. he defends himself when he's attacked.}
+<A>__{macreedy ignores the exchange of words. he walks across the frayed carpet to the nearest chair and drops into it. doc, who has followed him, stands looking down at macreedy for a long moment. then...}
+<C>__{doc}
+<P>__{(with some irritation)}
+<D>__{well...? you going to just sit here and let time run out?}
+<C>__{macreedy}
+<D>__{i'm waiting for a wire. from the state cops.}
+<C>__{doc}
+<D>__{you sent it through hastings?}
+<P>__{(an audible sigh)}
+<D>__{just don't expect an answer, if that's the way you sent it.}
+<C>__{macreedy}
+<P>__{(looking toward the door)}
+<D>__{no?}
+<P>__{(he rises)}
+<A>__{doc follows his gaze as hastings enters the lobby and looks around. he sees macreedy coming toward him. he walks rigidly in an arc past macreedy to smith. he holds out a postal telegraph form. smith puts down his paper and takes it. macreedy, followed by doc, goes over to smith. tim in his stockinged feet joins them. smith scans the message. he looks up to meet macreedy's gaze. smith rises. hector swaggers over from the slot machine. hastings slips around the back of the couch, protected by the barricade of hector's great body.}
+<C>__{macreedy}
+<P>__{(evenly, to smith)}
+<D>__{i think that's for me.}
+<P>__{(he takes the message}
+<D>__{from smith's hand and quickly glances at it. looking up at}
+<P>__{hastings)}
+<D>__{where's the answer?}
+<A>__{hastings is silent. a brittle expression of bemusement crosses smith's features.}
+<C>__{smith}
+<D>__{you expect an answer to a wire that's never sent?}
+<A>__{macreedy's mouth compresses in a harsh grin.}
+<C>__{smith}
+<D>__{what's so funny?}
+<C>__{macreedy}
+<D>__{nothing. just a thought }
+<P>__{(his eyes turn to}
+<D>__{hastings. hastings}
+<P>__{wilts)}
+<D>__{ a thought dazzling in its purity...}
+<A>__{macreedy takes a step toward hastings. the telegraph agent bounces away.}
+<C>__{macreedy}
+<P>__{(slowly)}
+<D>__{you're in a jam, hastings. you gave my telegram to smith.}
+<C>__{doc}
+<P>__{(excitedly)}
+<D>__{you warty wretch! that's a federal offense!}
+<C>__{macreedy}
+<P>__{(to smith)}
+<D>__{you're in deep, too.}
+<P>__{(grins hard)}
+<D>__{like i said, it's getting tougher and tougher.}
+<P>__{(to tim)}
+<D>__{sheriff, you'd better do something about this.}
+<A>__{tim hesitates, blinking his eyes worriedly, shifting from one stockinged foot to the other. smith watches him insolently as he takes the message from macreedy and gestures with it vaguely...}
+<C>__{tim}
+<P>__{(to smith)}
+<D>__{i reckon that's right, mr. smith...}
+<C>__{hector}
+<D>__{don't be a jerk, tim.}
+<C>__{tim}
+<P>__{(to smith, seriously)}
+<D>__{divulging information there's a law...}
+<C>__{smith}
+<D>__{tim, you're pathetic.}
+<C>__{tim}
+<P>__{(doggedly)}
+<D>__{could be. but i'm still sheriff.}
+<C>__{smith}
+<D>__{that's the pointerior you're not sheriff any more. you just lost a job, you're so pathetic.}
+<A>__{he reaches out, clawing the badge from tim's chest. he jabs it on hector's vest.}
+<C>__{smith}
+<P>__{(to hector)}
+<D>__{all right, sheriff. take over.}
+<C>__{doc}
+<D>__{you can't do that!}
+<C>__{smith}
+<D>__{can't i? i put him in office. now i take him out.}
+<A>__{hector moves his elephantine bulk within inches of macreedy...}
+<C>__{hector}
+<D>__{now. you want to register a complaint?}
+<A>__{macreedy doesn't answer. hector takes the message from tim's limp hand and tears it into little pieces.}
+<C>__{hector}
+<D>__{to register a complaint, boy, you've got to have evidence. you got evidence?}
+<A>__{macreedy doesn't answer.}
+<C>__{hector}
+<D>__{you got a big mouth, boy, makin' accusations, disturbin' the peace. there's laws in this county protectin' innocent folks from big mouths. why, i'd just hate to...}
+<C>__{smith}
+<P>__{(interrupting)}
+<D>__{hector...}
+<P>__{(wearily)}
+<D>__{come on, hector.}
+<A>__{he walks out, the new sheriff strutting beside him, with hastings in their wake. for a moment macreedy, doc and tim stand in the center of the lobby. pete eyes them non committally and goes back to his solitaire. he glances up now and then, moving the cards with a purposeful sort of slowness, as of a more natural swiftness restrained by his preoccupation with the three men in the lobby. macreedy is deep in thought. abstractedly he tugs at his collar and then repeats the ritual of lighting a cigarette. tim's shoulders are slumped. humiliation has corroded him, flesh and soul. even doc is momentarily subdued; he too, feels degraded, unclean. macreedy looks from one to the other of the good, ineffectual companions that circumstance has so haphazardly tossed his way. he takes a few steps to his suitcase, doc and tim trailing him; doc, for want of something better to do; tim, out of his deep, inexpressible need for support. macreedy takes an untapped bottle of whiskey from his bag. he thumbs the cork loose and holds the bottle out to tim. tim takes a drink. the light on the clerk's desk goes on, and we are aware that day has gone and that night is falling. the pressing, fierce light has drained from the lobby, leaving a shadowy, silvery dreariness. the shadows have lengthened and the silver has tarnished with the darkness.}
+<C>__{doc}
+<P>__{(hopefully)}
+<D>__{it's all right, tim. we're not licked yet.}
+<C>__{tim}
+<P>__{(numbly)}
+<D>__{ain't we? i am.}
+<C>__{doc}
+<D>__{there comes a time, tim, when a man's just got to do something.}
+<C>__{tim}
+<D>__{not me. i'm useless, and i know it.}
+<C>__{doc}
+<P>__{(imploring)}
+<D>__{no man is useless, if he's got a friend...}
+<A>__{pete comes out from behind the desk, walking from one lamp in the lobby to another, turning them on.}
+<C>__{doc}
+<D>__{i'm your friend, tim.}
+<C>__{tim}
+<D>__{then let me alone.}
+<A>__{he hands doc the whiskey bottle.}
+<C>__{doc}
+<P>__{(jabbing at macreedy with a thumb)}
+<D>__{he's going to need you before the night is over.}
+<A>__{he downs a snort, then looks at pete, who approaches them.}
+<C>__{doc}
+<P>__{(contemptuously)}
+<D>__{and all the useful men are on the other side.}
+<A>__{as pete turns on the lamp behind doc, he reacts ever so slightly to doc's words. his almost imperceptible grimace is not lost on macreedy. macreedy watches the young man as he continues to light the lamps...}
+<C>__{tim}
+<P>__{(angrily)}
+<D>__{lemme alone, i tell ya!}
+<A>__{doc slams the whiskey bottle down on a nearby table.}
+<C>__{doc}
+<D>__{i can't let you alone! i can't let myself alone! don't you understand that?}
+<P>__{(he turns from tim to}
+<D>__{pete, who is unable to shake his gaze.}
+<P>__{then, sadly, fiercely)}
+<D>__{four years ago something terrible happened here. we did nothing about it. nothing. the whole town fell into a sort of settled melancholy, and the people in it closed their eyes and held their tongues and failed the test with a whimper.}
+<A>__{self consciously pete has backed off until now he leans against the outside of the clerk's desk. but he still can't shut his ears to what doc is saying...}
+<C>__{doc}
+<D>__{now something terrible is going to happen again, and in a way we're lucky because we've been given a second chance. and this time i won't close my eyes, i won't hold my tongue, and if i'm needed i won't fail.}
+<P>__{(almost harshly, again facing tim)}
+<D>__{and neither will you!}
+<A>__{tim sighs, running a thick hand over his forehead...}
+<C>__{tim}
+<D>__{i got such a headache, i'm bewildered. i hurt all over.}
+<C>__{macreedy}
+<D>__{i know }
+<P>__{(unconsciously his}
+<D>__{right arm strays to massage the paralyzed}
+<P>__{left)}
+<D>__{ pain is bewildering. i came here bewildered, full of self pity, afraid to fight back.}
+<P>__{(gesturing with his hand to pete)}
+<D>__{and then your friend smith tried to kill me.}
+<P>__{(the muscles around pete's mouth tighten)}
+<D>__{funny, how a man clings to the earth when he feels there's a chance he may never see it again.}
+<C>__{doc}
+<D>__{there's a difference between clinging to the earth...}
+<P>__{(eyeing tim almost contemptuously)}
+<D>__{...and crawling on it. you going to stand by and watch forever?}
+<C>__{tim}
+<P>__{(flatly)}
+<D>__{i ain't gonna watch, and i ain't gonna get into it, either.}
+<A>__{there is a moment of crashing silence. then...}
+<C>__{tim}
+<D>__{i'm gettin' out. i'm sorry, mr. macreedy.}
+<A>__{slowly he lumbers out of the lobby. doc watches him go. again the benumbing silence, cut finally, unexpectedly by...}
+<C>__{pete}
+<P>__{(to doc)}
+<D>__{you'd be smart to get out, too.}
+<C>__{doc}
+<P>__{(angrily turning to pete)}
+<D>__{there's too many smart guys around here. i'm glad i'm a dummy.}
+<C>__{pete}
+<D>__{you're a troublesome dummy. you're liable to end up on your own slab...}
+<C>__{doc}
+<P>__{(heatedly)}
+<D>__{i expect to be in a lot more trouble before i die...}
+<C>__{pete}
+<D>__{go home, doc.}
+<P>__{(he jerks his head}
+<D>__{toward macreedy, and}
+<P>__{with mock bravado...)}
+<D>__{he's all washed up.}
+<C>__{macreedy}
+<P>__{(grinning harshly at him)}
+<D>__{you think so?}
+<A>__{his right hand closes over the neck of the whiskey bottle on the end table. abstractedly fingering it, he walks with tense, deliberate steps toward pete at the desk.}
+<C>__{macreedy}
+<D>__{i was washed up when i got off that train...}
+<A>__{he continues to advance inexorably toward pete.}
+<C>__{pete}
+<P>__{(flatly)}
+<D>__{you shouldn' of got off.}
+<C>__{macreedy}
+<D>__{had to. i had one last duty to perform before i resigned from the human race.}
+<C>__{doc}
+<P>__{(quizzically)}
+<D>__{i thought you were going to los angeles, that hot bed of pomp and vanity. is that resigning from the human race?}
+<C>__{macreedy}
+<P>__{(shrugging)}
+<D>__{l.a.'s a good jumping off place for the islands, for mexico, central america.}
+<C>__{doc}
+<D>__{why?}
+<C>__{macreedy}
+<P>__{(again shrugs)}
+<D>__{i don't know. i was looking for a place to get lost, i guess.}
+<C>__{doc}
+<D>__{why?}
+<C>__{macreedy}
+<P>__{(slapping his paralyzed}
+<D>__{arm with the whisky}
+<P>__{bottle)}
+<D>__{because of this. i thought i'd never be able to function again.}
+<P>__{(turning to pete)}
+<D>__{thanks to your friend smith, i found i was wrong.}
+<A>__{he is now within a couple of yards of pete.}
+<C>__{pete}
+<P>__{(drily)}
+<D>__{sure. you're a man of action.}
+<C>__{macreedy}
+<P>__{(slowly)}
+<D>__{i know your problem.}
+<P>__{(with mounting vigor)}
+<D>__{you'd like me to die quickly, without wasting too much of your time...}
+<P>__{(pete opens his mouth}
+<D>__{to say something, but macreedy presses}
+<P>__{on)}
+<D>__{...or silently, without making you feel too uncomfortable... or thankfully, without making your memories of the occasion too unpleasant.}
+<A>__{for a moment pete stares at macreedy, terribly disturbed by the incisiveness of macreedy's analysis. then...}
+<C>__{pete}
+<P>__{(bitterly)}
+<D>__{my memories are so pleasant as it is...}
+<A>__{in sudden frustration, pete grabs the deck of cards on the clerk's desk and slams them down hard. they scatter. he turns, stares blankly [...] between doc and macreedy.}
+<C>__{macreedy}
+<P>__{(quietly pressing his advantage)}
+<D>__{what happened, pete?}
+<A>__{pete doesn't answer.}
+<C>__{doc}
+<D>__{are you going to tell him or you want me to?}
+<P>__{(beat)}
+<D>__{smith owns adobe flat. he leased it to komako thought he had cheated him, thought komako could never even run stock without water. there was never any water on adobe flat. komako dug a well, by hand. he must have went down one hundred and fifty feet.}
+<C>__{pete}
+<D>__{he got water, plenty. smith was pretty sore. he didn't like japs anyway.}
+<C>__{doc}
+<D>__{that's an understatement.}
+<C>__{pete}
+<D>__{the day after pearl harbor, smith went to sand city.}
+<C>__{macreedy}
+<P>__{(interrupting)}
+<D>__{i know. to enlist. he was turned down.}
+<C>__{pete}
+<D>__{he was sore when he got back. about ten o'clock he started drinking.}
+<C>__{macreedy}
+<D>__{ten o'clock in the morning.}
+<C>__{pete}
+<D>__{yeah. hector joined him, and coley. then sam, and about nine p.m. me. we were all drunk patriotic drunk. we went out to komako's for a little fun, i guess scare him a little.}
+<C>__{macreedy}
+<D>__{did you know him?}
+<C>__{pete}
+<D>__{we'd seen him around some, but none of us knew him. when he heard us coming, he locked the door. smith started a fire. the jap came running out. his clothes were burning. smith shot him. i didn't even know smith had a gun.}
+<C>__{macreedy}
+<D>__{then you all got scared, buried him, kept quiet.}
+<A>__{pete nods helplessly, bowing his head. macreedy sighs, looks down at the bottle in his hand, slowly puts it on the table...}
+<C>__{macreedy}
+<P>__{(softly)}
+<D>__{did komako have any family besides his son joe?}
+<C>__{doc}
+<P>__{(puzzled)}
+<D>__{his son...? nobody around here knew he had a son.}
+<C>__{macreedy}
+<D>__{he had one. but he's dead, too. he's buried in italy.}
+<C>__{doc}
+<D>__{what are you doing here, mr. macreedy?}
+<C>__{macreedy}
+<D>__{joe komako died in italy, saving my life. they gave him a medal. i came here to give it to his father.}
+<A>__{silence. doc, realizing the enormity of macreedy's admission, frowns, rubs a hand across his tired eyes. pete looks at macreedy for a long, shocked moment. he shivers.}
+<C>__{pete}
+<P>__{(awfully)}
+<D>__{god forgive me...}
+<A>__{he takes the bottle from the table and shakily pours a shot glass of liquor. as he raises it to his mouth...}
+<C>__{macreedy}
+<P>__{(to pete, harshly guttural)}
+<D>__{it'll take a lot of whiskey to wash out your guts...}
+<A>__{pete is motionless, holding the glass inches from his lips, hypnotized by macreedy's voice, as hard and as cold as his eyes...}
+<C>__{macreedy}
+<D>__{...and it will never help not even a barrel full washes away murder!}
+<A>__{macreedy's hand shoots out, in a short, inexorable arc, smashing his palm across the shot glass. the whiskey bursts in a spray, the glass flies halfway across the room, shattering as it lands against something solid. pete is stunned, doc perplexed, at macreedy's violence. they stare at him... macreedy's eyes are murky. the creases between the brows over his nose are deep. his nostrils move in and out with his breathing. pete and doc regard him with growing uneasiness. rage comes into macreedy's face, turning it a painful red.}
+<C>__{macreedy}
+<D>__{but maybe i'm wrong. go on drink.}
+<P>__{(scornfully)}
+<D>__{what else is left for you?!}
+<P>__{(mounting anger)}
+<D>__{you're as dead as komako, only you don't know it!}
+<P>__{(roaring)}
+<D>__{you also don't know that it's not enough to feel guilty. it's not enough to confess. it's not enough to say, "forgive me, i've done wrong."}
+<C>__{doc}
+<D>__{take it easy, macreedy. sit down.}
+<C>__{macreedy}
+<P>__{(turning on him)}
+<D>__{sit down?! or would you rather have me kneel, to beg his pardon for raising a touchy subject?}
+<A>__{pete squirms under macreedy's relentless attack.}
+<C>__{pete}
+<P>__{(shaking his head)}
+<D>__{you don't have to remind me. i've never forgotten...}
+<C>__{macreedy}
+<D>__{well, that's mighty noble of you. you feel ashamed that's noble, too.}
+<P>__{(in mounting crescendo)}
+<D>__{and four years from now you'll probably be sitting here telling somebody else you haven't forgotten me. that's progress you'll still be ashamed but i will be dead.}
+<A>__{macreedy grabs the bottle, shoving it across the table toward pete.}
+<C>__{macreedy}
+<D>__{go on, have your drink.}
+<P>__{(with exorbitant scorn)}
+<D>__{you need it.}
+<A>__{pete pushes the bottle aside, too ravaged by macreedy's words and his own thoughts to drink. he shakes his head grimly and then, with sudden decision, goes to the switchboard and plugs in a line.}
+<C>__{doc}
+<P>__{(leaning over counter, staring at him)}
+<D>__{what are you doing?}
+<C>__{pete}
+<P>__{(into phone, ignoring doc)}
+<D>__{hello, liz. now listen... i... 'm getting macreedy out of town...}
+<A>__{another angle macreedy and doc as they exchange a glance. doc takes a long, deep breath of relief. macreedy frowns thoughtfully. he strains to listen to liz, but all he (and we) can hear is the staccato jumble of her words over the wire. wider angle favoring pete he cuts liz short...}
+<C>__{pete}
+<P>__{(into phone)}
+<D>__{i don't care about smith! let him try to kill me i might as well be dead as...}
+<A>__{again liz's voice incoherent over the phone, and again...}
+<C>__{pete}
+<P>__{(into phone, interrupting)}
+<D>__{liz, liz... there's not much of me left any more, but however little it is i won't waste it!}
+<P>__{(again liz's voice briefly; then...)}
+<D>__{i'm telling you because we need your help.}
+<P>__{(again liz's voice)}
+<D>__{...no matter about the past you've got to do this! you'd be saving two lives, liz. macreedy's, and mine.}
+<P>__{(again liz answers and...)}
+<D>__{all right. yeah... i've told him everything.}
+<A>__{slowly he replaces the phone on the switch board. he comes around from behind the desk, joining macreedy and doc.}
+<C>__{pete}
+<P>__{(flatly)}
+<D>__{she'll be here in five minutes.}
+<C>__{macreedy}
+<D>__{thanks, pete. thanks very much.}

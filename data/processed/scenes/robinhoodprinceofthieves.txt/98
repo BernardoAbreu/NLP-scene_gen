@@ -1,0 +1,51 @@
+<L>__{exterior city gate day}
+<A>__{masses stream in. they give wide berth to a celtic war rior in a boar's head helmet. soldiers prod and harness the passing peasants. tuck drives a cartload of barrels. a guard stops him.}
+<C>__{guard}
+<D>__{what you got there, father?}
+<C>__{friar}
+<D>__{the lord's finest brew for the good nottingham's fighting men. it has a mighty kick.}
+<C>__{guard}
+<P>__{(smiling)}
+<D>__{i will warrant. pass.}
+<L>__{exterior dungeon gate day}
+<A>__{wulf blinks at the sunlight as the prisoners are led out. holds his head high. soldiers hurl abuse, the people are too cowed to show support. fanny glances at her son, crosses herself and scurries into the castle, unnoticed. on horseback, encircled by guards, the sheriff and his baron cronies watch the outlaws progress with cruel amusement. a yell attracts nottingham. will is being shoved back by guards.}
+<C>__{will scarlet}
+<D>__{sheriff! my lord sheriff! i have word for you! of robin hood!}
+<A>__{nottingham shouts to one of his mounted guards, who rides over, grabs will by the collar, and drags him to his side.}
+<C>__{nottingham}
+<D>__{ah, the turncoat. did you succeed?}
+<C>__{will scarlet}
+<D>__{i found his lair, but alas he still lives.}
+<A>__{the sheriff strikes down with his armored hand. will crumples.}
+<C>__{nottingham}
+<D>__{stretch his neck with the others.}
+<A>__{hands yank will to his feet. dazed, he tries to speak. disinterested, nottingham turns away, until he catches...}
+<C>__{will scarlet}
+<D>__{...he... he... is here!}
+<C>__{nottingham}
+<D>__{locksley, here? where ?}
+<A>__{will struggles to get free of his holders.}
+<C>__{will scarlet}
+<D>__{call off your dogs.}
+<C>__{nottingham}
+<D>__{release him!... now, where is he?}
+<C>__{will scarlet}
+<D>__{i want your word, in front of these witnesses. if i tell you, i will go free.}
+<C>__{nottingham}
+<P>__{(scoffs)}
+<D>__{we will find him.}
+<C>__{will scarlet}
+<D>__{he is concealed. he is going to free the prisoners and stop the wedding.}
+<A>__{nottingham's jaw tightens. eyes the prisoners, the scaffold.}
+<C>__{nottingham}
+<D>__{put hood in my hands, you go free.}
+<C>__{will scarlet}
+<D>__{with the reward. ten thousand crowns.}
+<C>__{nottingham}
+<D>__{damn your worthless hide! just tell me where he is.}
+<C>__{will scarlet}
+<D>__{the reward!}
+<A>__{the parade of prisoners reaches them. seeing will, wulf charges at him, screaming in blind rage. soldiers grab wulf. throw him down, kicking and beating. voices in the crowd plead to let him be. someone tries to intervene, gets hurled down.}
+<C>__{nottingham}
+<P>__{(to will)}
+<D>__{you'll get your reward. where is he?}

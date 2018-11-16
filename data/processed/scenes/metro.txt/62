@@ -1,0 +1,27 @@
+<L>__{interior room day}
+<A>__{we're looking at a door. it's not clear where we are. mccall enters. we only see his face. determined.}
+<C>__{mccall}
+<D>__{i'm officer mccall, what's going on?}
+<B>__{reverse angle}
+<A>__{it's a training room. it's built to approximate a convenience store. several mannequins are placed around the room to represent a hostage situation. the "bad guy" has a walkie talkie strapped around his neck. roper's voice crackles out of it.}
+<C>__{bad guy}
+<D>__{what the fuck do you think is going on, turdhead? i'm about to waste everyone in this place.}
+<A>__{mccall hesitates, trying to figure out a response. he seems stiff and awkward.}
+<C>__{mccall}
+<D>__{h... how can i help you? tell me what...}
+<P>__{(looks off to his right)}
+<D>__{i feel stupid talking to a dummy.}
+<A>__{roper enters the training room from a side door. he's holding the other walkie talkie.}
+<C>__{roper}
+<D>__{what did you think? i'm going to let you practice on real people?}
+<A>__{roper comes up beside him.}
+<C>__{roper}
+<D>__{first things is, don't say, "what's going on?" everybody knows what's going on. i come into this situation, i say,}
+<P>__{(addressing the mannequin)}
+<D>__{"i'm glad to see nobody's hurt. that's good. i'm here to help you."}
+<P>__{(turns back to mccall)}
+<D>__{second: you hesitated. don't hesitate. if you're thinking, talk while you're thinking, or else he's going to think you're plotting. which you are. if he thinks you're plotting, you're going to make him nervous. you don't want him nervous. got that?}
+<C>__{mccall}
+<D>__{no.}
+<C>__{roper}
+<D>__{it'll come. try again.}

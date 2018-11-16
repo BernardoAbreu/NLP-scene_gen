@@ -1,0 +1,220 @@
+<L>__{interior waiting room day}
+<A>__{the door to the landing is open and rode is there pretending to sweep. he looks in to see furtwangler sitting, holding his handkerchief over his nose and mouth.}
+<C>__{rode}
+<D>__{would you perhaps like to have a glass of water, herr professor?}
+<A>__{furtwangler doesn't seem to hear. rode hesitates, then continues to sweep.}
+<L>__{interior steve's office day}
+<A>__{david and emmi look at him, puzzled. she goes to the door, opens it, nods. rode quickly disappears. furtwangler looks at emmi.}
+<C>__{furtwangler}
+<D>__{what is this man doing here?}
+<A>__{emmi doesn't answer. all eyes on the door. furtwangler enters.}
+<C>__{steve}
+<D>__{dr. furtwangler! come in, come in, sit down.}
+<A>__{furtwangler, deeply suspicious, goes for the uncomfortable chair.}
+<C>__{steve}
+<D>__{no, no, take this one, it's more comfortable}
+<A>__{he holds the other chair for furtwangler, who sits.}
+<C>__{steve}
+<D>__{if it's too hot, open your tie.}
+<C>__{furtwangler}
+<P>__{(interrupting)}
+<D>__{i wish to say something.}
+<C>__{steve}
+<D>__{go ahead, be my guest.}
+<A>__{furtwangler takes from his pocket a piece of paper with notes. he blows his nose. the room is warming up. it will become like an airless court room, a pressure cooker.}
+<C>__{furtwangler}
+<D>__{when i last saw you, i was unprepared. i did not know what to expect. in these past weeks, i have been thinking more carefully and making some notes.}
+<P>__{(glances at the notes.)}
+<D>__{you have to understand who i am and what i am. i am a musician and i believe in music. i am an artist and i believe in art. art in general, and music, in particular, has for me mystical powers which nurture man's spiritual needs. i must confess, however, to being extremely naive. i insisted for many years on the absolute separation of art and politics. my entire life was devoted to music because, and this is very important, because i thought that i could, through music, do something practical.}
+<C>__{steve}
+<D>__{and what was that?}
+<C>__{furtwangler}
+<D>__{maintain liberty, humanity and justice.}
+<C>__{steve}
+<D>__{gee, that's a thing of beauty, honest to god, a real thing of beauty. i'm going to try to remember that. liberty, humanity and justice. beautiful. but you used the word 'naive'. are you now saying you think you were wrong? that art and politics can't be separated?}
+<C>__{furtwangler}
+<D>__{i believe art and politics should be separate, but that they weren't kept separate i learned to my cost.}
+<C>__{steve}
+<D>__{and when did you first learn that when you sent the telegram? was that the surrender signal, the waving of the white flag?}
+<C>__{furtwangler}
+<D>__{what telegram?}
+<C>__{steve}
+<D>__{'happy birthday, dear adolf, love wilhelm.' or words to that effect. that sounds to me like you were dropping on your knees and saying, 'okay, adolf, you win. you're the number one man. have a swell party.'}
+<C>__{furtwangler}
+<D>__{i have no idea what you're talking about.}
+<C>__{steve}
+<D>__{the birthday greetings you sent to your old pal, adolf hider.}
+<C>__{furtwangler}
+<D>__{i never sent him any birthday greetings or any other kind of greetings.}
+<C>__{steve}
+<D>__{think carefully, wilhelm... maybe not in your own name, but as privy councillor or vice president.}
+<C>__{furtwangler}
+<D>__{i don't have to think carefully. this is utterly ridiculous.}
+<A>__{david and emmi exchange the briefest of looks. david raises his hand.}
+<C>__{steve}
+<D>__{yes, david?}
+<C>__{david}
+<D>__{why not show dr. furtwangler the evidence. it may refresh his memory?}
+<C>__{furtwangler}
+<D>__{you won't find it because no such telegram exists.}
+<C>__{steve}
+<D>__{well, i tried, you got to admit i tried. i thought i might just trap you there, wilhelm, but david here was too quick for me. smart move, david, smart move. no, i don't have the telegram, but i know it exists. and i want you to know, wilhelm, we're going to keep looking for it because i believe you sent it.}
+<C>__{furtwangler}
+<D>__{then you are wrong.}
+<C>__{steve}
+<D>__{art and politics, yeah, art and politics. let's look at that. you and the berlin philharmonic toured the third reich, played in countries the nazis had conquered. are you saying that conducting in occupied territories from 1939 on wasn't a commercial for adolf and all he stood for?}
+<C>__{furtwangler}
+<D>__{we never, never officially represented the regime when we played abroad. we always performed as a private ensemble. as i think i already told you, i was a freelance conductor.}
+<C>__{steve}
+<D>__{you know something? you should've written our insurance policies for us because you got more exclusion clauses than double indemnity. what do you imagine people thought? the berlin philharmonic's taken over by doctor goebbels and his propaganda ministry but wilhelm is a freelance, so art and politics are now entirely separate? is that what you believed ordinary people thought?}
+<C>__{furtwangler}
+<D>__{have no idea what ordinary people thought.}
+<C>__{steve}
+<D>__{no!}
+<C>__{furtwangler}
+<D>__{no, because i had only one intention. my only intention whatever i did was to show that music means more than politics.}
+<C>__{steve}
+<D>__{tell me about von der null.}
+<C>__{furtwangler}
+<P>__{(taken off guard)}
+<D>__{von der null?}
+<C>__{steve}
+<D>__{yes, von der null.}
+<C>__{furtwangler}
+<D>__{von der null?}
+<C>__{steve}
+<D>__{how long's this going to go on, wilhelm? i say von der null, you say von der null, i say von der null, you say von der null, we could go on all day. you know who von der null is, don't you? edwin von der nuell, music critic.}
+<C>__{furtwangler}
+<D>__{yes, i know who he is.}
+<C>__{steve}
+<D>__{isn't it true that because he gave you bad reviews and praised this young guy, von karajan, called him a goddamn miracle, said he was a better conductor than you, then you had von der null conscripted into the army and no one's heard from him since?}
+<C>__{furtwangler}
+<D>__{that's an outrageous lie!}
+<C>__{steve}
+<D>__{you sure you didn't call one of your close buddies and say, god in heaven, did you see what that guy von der null wrote about me? the greatest conductor on earth. i want him out the way. he had the nerve to accuse me i am not playing enough modern music. send him to stalingrad. isn't that what you did? you don't like criticism, do you, wilhelm? you surely didn't like them saying there was another conductor who was better than you... are you saying the name von der null was never mentioned in your talks with goebbels?}
+<C>__{furtwangler}
+<P>__{(uncomfortable)}
+<D>__{well. once he said he'd read what this man wrote about me.}
+<C>__{steve}
+<D>__{and what did he say?}
+<C>__{furtwangler}
+<D>__{he said, 'don't mind him. his job is to criticise, your job is to conduct.'}
+<C>__{steve}
+<D>__{and what happened to von der nul?}
+<C>__{furtwangler}
+<D>__{i have no idea.}
+<C>__{steve}
+<D>__{you've really no idea? i will tell you what happened. he died in stalingrad.}
+<C>__{furtwangler}
+<D>__{i'm sorry.}
+<C>__{steve}
+<D>__{now, that young conductor what's his name?}
+<P>__{(playing with furtwangler)}
+<D>__{that miracle kid, you know who i mean. von karajan! but you called him something else. c'mon. what did you call von karajan?}
+<A>__{silence.}
+<C>__{steve}
+<D>__{say it.}
+<A>__{silence.}
+<C>__{steve}
+<D>__{i will say it, then. 'little k.' is that right? you couldn't even bear to say his name!}
+<A>__{furtwangler rises angrily and starts to pace.}
+<C>__{furtwangler}
+<D>__{please stop playing these games with me. why you should bring up the name of another conductor is beyond my understanding.}
+<C>__{steve}
+<D>__{i will tell you why. you remember we talked about you playing for hitler's birthday? and you told me that goebbels got to your doctors first, that you were tricked?}
+<C>__{furtwangler}
+<D>__{yes, that's what happened.}
+<A>__{he sits heavily, wipes his brow. he is sweating now.}
+<C>__{steve}
+<D>__{i have a different story to tell. i don't think you were tricked. not in the way you describe. i believe something else happened. i've seen the hinkel archive, i've seen records of phone calls, and putting it all together, this is what i think happened. i think goebbels said, 'wilhelm, if you won't conduct for adolf's birthday, we'll get the miracle kid, the guy that critic, von der null, thinks is the greatest conductor in the world. he's not just willing to conduct for adolf, he's offered to sing "happy birthday" as a solo.'}
+<A>__{silence.}
+<C>__{steve}
+<D>__{come on, admit it. k worried you, didn't he? he always worried you. in 1942, he's thirty four years old, you're already fifty six. and goebbels and goering keep saying to you, 'if you don't do it, little k will.' never mind art and politics and symbols and airy fairy bullshit about liberty, humanity and justice because i don't care how great you are. it's the oldest story in the book,}
+<P>__{(a wry look at david)}
+<D>__{the ageing romeo jealous of the young buck. the real reason you didn't leave the country when you knew you should have was that you were frightened that, once you were out of the way, you'd be supplanted by the miracle kid, the party's boy twice over, flashy, talented little k.}
+<C>__{furtwangler}
+<D>__{this is absolute nonsense!}
+<C>__{steve}
+<D>__{well, i'm just beginning to develop my theme. isn't that what you call it in classical music, developing your theme? okay, so they played on your insecurity. that's human, understandable. but, there is one guy who doesn't like little k as much as he likes you yeah, the number one man your old pal, adolf. he thinks you're the greatest, and when he says, i want wilhelm for my birthday, boy, they better go out get wilhelm. so, josef calls and threatens you with little k. and you said to hell with the ninth in vienna, i will give it to adolf as a birthday present in berlin. that's the trick they played, they got you by the balls and they squeezed. hard. why did you stay? why did you play for them? why were you the flag carrier for their regime? jealousy?}
+<C>__{furtwangler}
+<P>__{(interrupting)}
+<D>__{of course there was a conspiracy against me, a campaign even abroad.}
+<A>__{brief silence; all eyes on him.}
+<C>__{steve}
+<D>__{you see, wilhelm, i'm talking about ordinary, everyday reasons. which is why i want to discuss your private life. how many illegitimate children do you have?}
+<C>__{david}
+<D>__{major, i don't see how this line of questioning could...}
+<C>__{steve}
+<D>__{david, what are you counsel for the defence now? (}
+<P>__{(to furtwangler)}
+<D>__{did you hear the question?}
+<C>__{furtwangler}
+<P>__{(barely audible)}
+<D>__{i have illegitimate children.}
+<C>__{steve}
+<D>__{what?}
+<C>__{furtwangler}
+<D>__{i said i have illegitimate children. i don't know how many.}
+<C>__{steve}
+<D>__{you like the women, don't you, wilhelm?}
+<A>__{no response.}
+<C>__{steve}
+<D>__{isn't it true that before every concert you got a woman in your dressing room and gave her the old conductor's baton, isn't that true?}
+<C>__{david}
+<P>__{(indicating emmi)}
+<D>__{major, this is deeply offensive and repugnant!}
+<C>__{steve}
+<D>__{you bet.}
+<C>__{david}
+<D>__{and totally irrelevant.}
+<C>__{steve}
+<P>__{(continuing to furtwangler)}
+<D>__{not so, counsellor. that secretary of yours, she wasn't just your secretary, she procured women for you, didn't she? as many and as often as you wanted.}
+<C>__{furtwangler}
+<D>__{stop this, please, stop this now!}
+<C>__{steve}
+<D>__{no, i'm not going to stop it. hitler himself offered you a beautiful house and a personal bomb shelter.}
+<C>__{furtwangler}
+<D>__{i absolutely refused the house and the bomb shelter.}
+<C>__{steve}
+<D>__{but you see what i'm getting at? you get a gorgeous house, you're highly paid. what are you gonna do, stay or leave? one voice comes back at me: stay!}
+<C>__{david}
+<D>__{major, that's not a good argument. if dr. furtwangler did indeed enjoy all these... these privileges, he enjoyed them because of who he is and what he is. that's true of any leading artist in any country in the world.}
+<C>__{steve}
+<D>__{but it still doesn't make them saints. they still have to get up and piss in the middle of the night, don't they? they can still be vindictive and envious and mean just like you and me. well, just like me. can't they?}
+<A>__{no response. to furtwangler:}
+<C>__{steve}
+<D>__{okay, wilhelm, go home now. go home and think about these past twelve years.}
+<C>__{furtwangler}
+<D>__{i don't understand what you mean.}
+<C>__{steve}
+<D>__{no, that's your problem, wilhelm. you understand nothing. we'll call you. go!}
+<A>__{furtwangler leaves.}
+<C>__{david}
+<D>__{major.}
+<A>__{steve goes to his desk and, as furtwangler rises uncertainly:}
+<C>__{steve}
+<D>__{what?}
+<C>__{david}
+<D>__{your manner.}
+<C>__{steve}
+<D>__{my manner? why don't you go downstairs, get a cup of coffee and calm down? what's the matter, emmi? what's going on with you? what's wrong?}
+<C>__{emmi}
+<D>__{i'm sorry but i have to leave. i will find other work. you'll have to get someone else, that's all.}
+<C>__{steve}
+<D>__{what is this, emmi?}
+<C>__{emmi}
+<D>__{i can't do this. it's not right.}
+<C>__{steve}
+<D>__{what's not right?}
+<C>__{emmi}
+<D>__{i have been questioned by the gestapo just like that. just like you questioned him.}
+<C>__{steve}
+<D>__{emmi, stop! i want to show you something. let me show you something and then if you want to leave, you can leave, please please. his friends, they did this. and he gave them birthday concerts.}
+<C>__{emmi}
+<D>__{but he had no idea, a lot of people had no idea. i only realised what was really going on when i got arrested.}
+<C>__{steve}
+<D>__{if he had no idea, why did the jews need saving? this is the question, emmi, to all germans: why did the jews need saving in this country? why, if people had no idea?}
+<C>__{emmi}
+<D>__{i would like to go now, please.}
+<A>__{but steve turns on the projector and the bergen belsen film flickers into life.}

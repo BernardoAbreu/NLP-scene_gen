@@ -1,0 +1,103 @@
+<L>__{interior jenny's apartment day}
+<A>__{jenny opens the door.}
+<C>__{jenny}
+<D>__{hey! forrest! how you doing?}
+<C>__{forrest}
+<D>__{hi.}
+<C>__{jenny}
+<D>__{come in. come in.}
+<C>__{forrest}
+<D>__{i got your letter.}
+<C>__{jenny}
+<D>__{oh, i was wondering about that.}
+<A>__{jenny shuts the door. forrest looks around.}
+<C>__{forrest}
+<D>__{is this your house?}
+<C>__{jenny}
+<D>__{yeah, it's messy right now. i just got off work.}
+<C>__{forrest}
+<D>__{it's nice. you got air conditioning.}
+<A>__{forrest hands jenny the box of chocolates.}
+<C>__{forrest}
+<D>__{ah...}
+<C>__{jenny}
+<D>__{thank you.}
+<C>__{forrest}
+<D>__{i ate some.}
+<A>__{jenny picks up a scrapbook and turns the pages.}
+<C>__{jenny}
+<D>__{hey, i kept, i kept a scrapbook of your, of your clippings and everything. there you are. this, i got your running.}
+<C>__{forrest}
+<D>__{i ran a long way. for a long time.}
+<C>__{jenny}
+<D>__{there. listen, forrest. i don't know how to say this. um, i just... i want to apologize for anything that i ever did to you, 'cause i was messed up for a long time, and...}
+<A>__{there is a knock at the door. lynn marie enters as she opens the door.}
+<C>__{lynn marie}
+<D>__{yoo hoo.}
+<C>__{jenny}
+<D>__{hey.}
+<C>__{lynn marie}
+<D>__{hi.}
+<A>__{jenny grabs a young boy.}
+<C>__{jenny}
+<D>__{hey, you. this is an old friend from alabama.}
+<C>__{lynn marie}
+<D>__{oh, how do you do?}
+<C>__{jenny}
+<D>__{ah, listen, next week my schedule changes, so i will be able to... but thanks for picking up.}
+<C>__{lynn marie}
+<D>__{no problem. got to go, jen. i'm double parked.}
+<C>__{jenny}
+<D>__{okay.}
+<A>__{lynn marie closes the door and waves bye to forrest.}
+<C>__{lynn marie}
+<D>__{bye.}
+<C>__{jenny}
+<D>__{thanks. this is very good friend, mr. gump. can you say hi to him?}
+<C>__{little boy}
+<D>__{hello, mr. gump.}
+<C>__{forrest}
+<D>__{hello.}
+<C>__{little boy}
+<D>__{now, can i go watch tv now?}
+<C>__{jenny}
+<D>__{yes, you can. just keep it low.}
+<A>__{the little boy runs into other room and picks up tv remote control.}
+<C>__{forrest}
+<D>__{you're a momma, jenny.}
+<C>__{jenny}
+<D>__{i'm a momma. his name is forrest.}
+<C>__{forrest}
+<D>__{like me.}
+<C>__{jenny}
+<D>__{i named him after his daddy.}
+<C>__{forrest}
+<D>__{he got a daddy named forrest, too?}
+<C>__{jenny}
+<D>__{you're his daddy, forrest.}
+<A>__{forrest continues to stare at forrest jr. forrest then looks frightened and starts to back away.}
+<C>__{jenny}
+<D>__{hey, forrest, look at me. look at me, forrest. there's nothing you need to do, okay? you didn't do anything wrong. okay?}
+<A>__{jenny turns and looks at forrest jr. in the other room.}
+<C>__{jenny}
+<D>__{isn't he beautiful?}
+<C>__{forrest}
+<D>__{he's the most beautiful thing i've ever seen. but... is, is he smart, or is he...}
+<C>__{jenny}
+<D>__{he's very smart. he's one of the smartest in his class.}
+<A>__{forrest breathes deep. he looks at jenny, then at forrest jr.}
+<C>__{jenny}
+<D>__{yeah, it's okay. go talk to him.}
+<A>__{forrest walks into the room and sits down next to forrest jr. "sesame street" is on the tv.}
+<C>__{bert}
+<D>__{oh, great.}
+<C>__{ernie}
+<D>__{hey, bert, can you give me a hand?}
+<C>__{bert}
+<D>__{a hand? well, yeah, what do you want, ernie?}
+<C>__{forrest}
+<D>__{what are you watching.}
+<C>__{forrest jr.}
+<D>__{bert and ernie.}
+<C>__{ernie}
+<D>__{well, it's the first stage. bert. it's planning to write a story, bert. i have pencils right here to write with, bert. now, we got, uh, paper. i will take that paper, bert. see, we have the paper to write on.}

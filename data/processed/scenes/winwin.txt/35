@@ -1,0 +1,39 @@
+<L>__{interior oak knoll senior living, hallway later}
+<A>__{mike knocks on leo's door. after a moment, leo opens it.}
+<C>__{mike}
+<D>__{hey, leo, you have a visitor.}
+<C>__{leo}
+<D>__{who? him?}
+<C>__{mike}
+<D>__{yeah.}
+<C>__{kyle}
+<D>__{hi.}
+<C>__{leo}
+<D>__{come on in. i will turn off the tv.}
+<L>__{interior oak knoll senior living, leo's room same.}
+<A>__{leo turns off the tv and then turns and looks at kyle. he doesn't recognize him.}
+<C>__{mike}
+<D>__{this is kyle timmons, leo. he's your grandson. he came from ohio to see you.}
+<C>__{leo}
+<D>__{i don't have a grandson.}
+<C>__{kyle}
+<D>__{yeah, you do. we just never met.}
+<C>__{leo}
+<D>__{are you bringing me home?}
+<A>__{kyle looks to mike, unsure of what to say.}
+<C>__{mike}
+<D>__{kyle's just here for a visit, leo.}
+<C>__{leo}
+<D>__{oh. you want to watch tv?}
+<C>__{kyle}
+<D>__{ok.}
+<A>__{leo turns on the tv and sits down. kyle joins him.}
+<C>__{mike}
+<D>__{ok. so i will come back to pick you up in an hour. you ok?}
+<C>__{kyle}
+<D>__{yeah.}
+<C>__{mike}
+<D>__{you alright, leo?}
+<P>__{(leo doesn't respond)}
+<D>__{ok, see you in a bit.}
+<A>__{mike leaves.}

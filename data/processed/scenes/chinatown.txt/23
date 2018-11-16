@@ -1,0 +1,87 @@
+<L>__{interior coroner's office hallway}
+<C>__{gittes}
+<D>__{don't give me that, lou. you hauled me down here for a statement.}
+<A>__{escobar shrugs.}
+<C>__{escobar}
+<D>__{i don't want it anymore.}
+<C>__{gittes}
+<D>__{no?}
+<C>__{escobar}
+<D>__{no. it was an accident.}
+<C>__{gittes}
+<D>__{you mean that's what you're going to call it.}
+<A>__{escobar looks up.}
+<C>__{escobar}
+<D>__{that's right.}
+<P>__{(contemptuously)}
+<D>__{out of respect for his civic position.}
+<A>__{resume walking. gittes laughs.}
+<C>__{gittes}
+<D>__{what'd he do, lou, make a pass at your sister?}
+<A>__{escobar stops.}
+<C>__{escobar}
+<D>__{no, he drowned a cousin of mine with about five hundred other people. but they weren't very important, just a bunch of dumb mexicans living by a dam. now beat it, gittes, you don't come out of this smelling like a rose, you know.}
+<C>__{gittes}
+<D>__{oh yeah? can you think of something to charge me with?}
+<C>__{escobar}
+<D>__{when i do, you'll hear about it.}
+<A>__{gittes nods, turns, and walks down the hall.}
+<B>__{outside morgue}
+<A>__{gittes stops by a body on the table, the toe tagged with mulwray's name. morty is standing near it in a doorway to an adjoining room. a radio is on, and with it the announcement that they're about to hear another chapter in the life of lorenzo jones and his devoted wife, belle. another coroner's assistant sits at the table, listening to the radio and eating a sandwich. gittes ambles into the room.}
+<C>__{morty}
+<P>__{(a cigarette dangling out of his mouth)}
+<D>__{jake, what're you doin' here?}
+<C>__{gittes}
+<D>__{nothin', morty, it's my lunch hour, i thought i'd drop by and see who died lately.}
+<A>__{gittes picks up the sheet and pulls it back. camera gets its first glimpse of mulwray's body. eyes open, the face badly cut and bruised.}
+<C>__{morty}
+<D>__{yeah? ain't that something? middle of a drought, the water commissioner drowns. only in l.a.}
+<C>__{gittes}
+<P>__{(looking at. mulwray)}
+<D>__{yeah. banged up pretty bad.}
+<C>__{morty}
+<D>__{that's a long fall.}
+<C>__{gittes}
+<D>__{so how are you, morty?}
+<A>__{morty is wheeling in another body with the help of an assistant.}
+<C>__{morty}
+<D>__{never better. you know me, jake.}
+<A>__{as he begins to move the body into the refrigerator, he breaks into a wrenching spasm of coughing. gittes spots the other body, lowers the sheet on mulwray.}
+<C>__{gittes}
+<P>__{(picking up on cough)}
+<D>__{yeah, so who you got there?}
+<A>__{morty pulls back the sheet.}
+<C>__{morty}
+<D>__{leroy shuhardt, local drunk used to hang around ferguson's alley.}
+<A>__{morty brushes some sand from the man's face, laughs.}
+<C>__{morty}
+<P>__{(continuing)}
+<D>__{quite a character. lately he'd been living in one of the downtown storm drains. had a bureau dresser down there and everything.}
+<A>__{gittes has already lost interest. he starts away.}
+<C>__{gittes}
+<D>__{yeah.}
+<C>__{morty}
+<D>__{drowned, too.}
+<A>__{this stops gittes.}
+<C>__{gittes}
+<D>__{come again?}
+<C>__{morty}
+<D>__{yeah, got dead drunk, passed out in the bottom of the riverbed.}
+<C>__{gittes}
+<D>__{the l.a. river?}
+<C>__{morty}
+<P>__{(a little puzzled)}
+<D>__{yeah, under hollenbeck bridge, what's wrong with that?}
+<A>__{gittes has moved back to the body, looks at it more closely.}
+<C>__{gittes}
+<D>__{it's bone dry, morty.}
+<C>__{morty}
+<D>__{it's not completely dry.}
+<C>__{gittes}
+<D>__{yeah, well he ain't gonna drown in a damp riverbed either, i don't care how soused he was. that's like drowning in a teaspoon.}
+<A>__{morty shrugs.}
+<C>__{morty}
+<D>__{we got water out of him, jake. he drowned.}
+<A>__{gittes walks away mumbling.}
+<C>__{gittes}
+<D>__{jesus, this town...}

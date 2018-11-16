@@ -1,0 +1,35 @@
+<L>__{interior hallway day}
+<A>__{joel looks for an office number. he finds it. the plaque on the door reads lacuna ltd. joel enters.}
+<L>__{interior waiting room day}
+<A>__{joel enters the lacuna waiting room. mary sits in the reception area.}
+<C>__{mary}
+<D>__{may i help you?}
+<C>__{joel}
+<D>__{my name is joel barish. i have an appointment.}
+<C>__{mary}
+<D>__{please have a seat. dr. mierzwiak will be right with you.}
+<L>__{interior office hall day}
+<A>__{mary leads joel down the hall.}
+<C>__{mary}
+<P>__{(without turning)}
+<D>__{how are you today?}
+<C>__{joel}
+<D>__{not great.}
+<C>__{mary}
+<P>__{(at mierzwiak's office)}
+<D>__{here we are.}
+<A>__{joel glimpses mary smiling coquettishly at mierzwiak.}
+<L>__{interior mierzwiak's office day}
+<A>__{joel and mierzwiak are in the sitting area. joel looks at the tape recorder.}
+<C>__{mierzwiak}
+<D>__{i'm sorry you saw one of our notification cards. you never should have.}
+<C>__{joel}
+<D>__{well... i did.}
+<C>__{mierzwiak}
+<D>__{we can help you through this. why don't you start now by telling me everything you can remember about your relationship with clementine.}
+<C>__{joel}
+<P>__{(thinks, then:)}
+<D>__{it was a mess. i don't know how it got this way...}
+<C>__{patrick's voice}
+<D>__{it's kind of a dump, don't you think?}
+<A>__{joel looks up, trying to locate the voice.}

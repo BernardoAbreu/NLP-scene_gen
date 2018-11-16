@@ -1,0 +1,31 @@
+<L>__{exterior stella's house}
+<A>__{she answers the door she is surprised.}
+<C>__{uri}
+<D>__{can i come in?}
+<L>__{interior stella's house}
+<C>__{uri}
+<D>__{sorry to surprise you, but i have something for you, a token of my appreciation.}
+<A>__{he hands her a check.}
+<C>__{stella}
+<D>__{what is this for?}
+<C>__{uri}
+<D>__{please do not be insulted, you have come to mean a lot to me and i value you much more than just your services.}
+<P>__{(pause)}
+<D>__{this is simply a reflection of my appreciation.}
+<P>__{(vulnerable he likes her)}
+<D>__{i would like to ask you something personal.}
+<A>__{his phone rings, he frowns slightly and answers it.}
+<C>__{uri }
+<D>__{not now victor, i am busy.}
+<A>__{uri turns. there, casually resting on the floor is his painting, his lucky painting. uri's expression changes, his world has been shattered, he's thinking very ugly thoughts. he turns back to stella, dead pan.}
+<C>__{uri }
+<D>__{a very nice painting. how long have you had it?}
+<A>__{a little caught off guard.}
+<C>__{stella}
+<D>__{years, it's my lucky painting,... it's very special isn't it?}
+<C>__{uri}
+<D>__{beauty is a cruel mistress, is it not?}
+<A>__{pause, she smiles. uri talks back into the phone, the other darker uri is now in charge.}
+<C>__{uri }
+<D>__{victor please, come to join us.}
+<C>__{the end}

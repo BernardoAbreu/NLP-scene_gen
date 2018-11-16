@@ -1,7 +1,0 @@
-<L>__{interior south hayward bart station lobby continuous}
-<A>__{the group enters through the turnstiles, sticking their tickets in and retrieving them as they pass through. they head up the stairs towards the platform.}
-<L>__{interior south hayward bart station platform continuous}
-<A>__{the san francisco bound train is docked and a few passengers are still getting on to it.}
-<C>__{bart announcement voice}
-<D>__{please stand clear, doors closing.}
-<A>__{oscar runs up and stops the doors just as they are about to close. he holds it while the rest of the group boards.}

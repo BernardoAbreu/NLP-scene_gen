@@ -7,9 +7,6 @@ def load_embedding(filename, load_pickle=False):
         m = pickle.load(open(filename, 'rb'))
     else:
         m = gensim.models.KeyedVectors.load_word2vec_format(filename)
-        _, embed_size = m.vectors.shape
-        # ### Adiciona vetores extras
-        m.add(['<PAD>', '<OOV>'], [[0.1] * embed_size, [0.2] * embed_size])
         pickle.dump(m, open(filename + '.p', 'wb'))
     return m
 

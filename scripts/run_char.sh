@@ -2,7 +2,7 @@
 
 INPUT_DIR=$1
 
-OUTPUT_FILE="tagged"
+OUTPUT_FILE="data/processed/tagged"
 
 INDEX=0
 END=1

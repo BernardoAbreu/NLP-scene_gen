@@ -12,11 +12,11 @@ import sys
 # nltk.download('stopwords')
 
 PATHS = {
-    'word2vec': '~/NLP-scene_gen/data/processed/word2vec.6b.100d.txt',
-    'word2vec_pickle': 'data/processed/word2vec_model_6b_100.p',
+    'word2vec': 'data/processed/word2vec.6b.100d.txt',
+    'word2vec_pickle': 'data/processed/word2vec.6b.100d.txt.p'
 }
 
-SENTENCE_LENGTH = 50
+SENTENCE_LENGTH = 20
 STOPWORDS_SET = set(stopwords.words('english'))
 
 
@@ -66,14 +66,14 @@ def preprocess(w2v_model, movie_file, out_filename):
     # print('Total Tag sequences: %d' % len(tags_sequences_no_punct))
 
     # Save sequences to file
-    save_sequences(out_filename, sequences)
-    save_sequences(out_filename + '_tags', tags_sequences)
+    save_sequences('all_scenes/regular/' + out_filename, sequences)
+    save_sequences('all_scenes/regular/' + out_filename + '_tags', tags_sequences)
 
-    save_sequences(out_filename + '_ns', sequences_no_stop)
-    save_sequences(out_filename + '_tags_ns', tags_sequences_no_stop)
+    save_sequences('all_scenes/no_stop/' + out_filename + '_ns', sequences_no_stop)
+    save_sequences('all_scenes/no_stop/' + out_filename + '_tags_ns', tags_sequences_no_stop)
 
-    save_sequences(out_filename + '_np', sequences_no_punct)
-    save_sequences(out_filename + '_tags_np', tags_sequences_no_punct)
+    save_sequences('all_scenes/no_punct/' + out_filename + '_np', sequences_no_punct)
+    save_sequences('all_scenes/no_punct/' + out_filename + '_tags_np', tags_sequences_no_punct)
 
 
 if __name__ == '__main__':
@@ -91,7 +91,7 @@ if __name__ == '__main__':
     total = len(scenes)
     total = '/' + str(total)
     for i, scene in enumerate(scenes):
-        out_filename = 'all_scenes/' + '_'.join(scene.split('/')[-2:])
+        out_filename = '_'.join(scene.split('/')[-2:])
         s = str(i) + total + ' - ' + out_filename
         print(s)
         preprocess(w2v_model, scene, out_filename)

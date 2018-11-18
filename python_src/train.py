@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import numpy as np
 import pandas as pd
 from utils import load_embedding
 import keras
@@ -33,12 +34,9 @@ def main(train_filename, test_filename):
 
     print('Load')
     # load
-    df_train = pd.read_csv(train_filename, sep=' ', prefix='X', header=None)
+    df_train = pd.read_csv(train_filename, sep=' ', prefix='X', header=None, na_filter=False)
     length = df_train.shape[1]
     df_train.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
-
-    df_test = pd.read_csv(test_filename, sep=' ', prefix='X', header=None)
-    df_test.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
 
     print('integer encode sequences of words')
     # integer encode sequences of words
@@ -47,7 +45,6 @@ def main(train_filename, test_filename):
         return w2v_model.vocab[word].index
 
     df_train = df_train.applymap(word2idx)
-    df_test = df_test.applymap(word2idx)
 
     print('separate into input and output')
     # separate into input and output
@@ -56,8 +53,6 @@ def main(train_filename, test_filename):
 
     SENTENCE_LENGTH = train_X.shape[1]
 
-    test_X = df_test.drop('Y', axis=1)
-    test_Y = df_test['Y']
 
     print('Define model')
     # define model
@@ -100,7 +95,7 @@ def main(train_filename, test_filename):
                                                  save_best_only=True,
                                                  mode='max')
 
-    model.fit(train_X, train_Y, batch_size=64, epochs=100,
+    model.fit(train_X, train_Y, batch_size=256, epochs=1, validation_split=0.2,
               callbacks=[csv_logger, early_stop, checkpoint])
 
     # save the model to file
@@ -110,6 +105,11 @@ def main(train_filename, test_filename):
     model.save(train_filename + '_model.h5')
 
     print('Evaluating model:')
+    df_test = pd.read_csv(test_filename, sep=' ', prefix='X', header=None, na_filter=False)
+    df_test.rename(columns={'X' + str(SENTENCE_LENGTH): 'Y'}, inplace=True)
+    df_test = df_test.applymap(word2idx)
+    test_X = df_test.drop('Y', axis=1)
+    test_Y = df_test['Y']
     scores = model.evaluate(test_X, test_Y)
     print("Test model %s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
 
@@ -118,3 +118,4 @@ if __name__ == '__main__':
     train_filename = sys.argv[1]
     test_filename = sys.argv[2]
     main(train_filename, test_filename)
+

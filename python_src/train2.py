@@ -32,7 +32,8 @@ def tag2id(tag):
     return tagdict[tag]
 
 
-def main(train_filename, train_tags_filename, test_filename, test_tags_filename):
+def main(train_filename, train_tags_filename,
+         test_filename, test_tags_filename):
     save_name = train_filename.split('/')[-1]
 
     # Embedding - Word2Vec
@@ -40,20 +41,14 @@ def main(train_filename, train_tags_filename, test_filename, test_tags_filename)
 
     print('Load')
     # load
-    df_train = pd.read_csv(train_filename, sep=' ', prefix='X', header=None)
+    df_train = pd.read_csv(train_filename, sep=' ', prefix='X', header=None,
+                           na_filter=False)
     length = df_train.shape[1]
     df_train.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
-
-    df_test = pd.read_csv(test_filename, sep=' ', prefix='X', header=None)
-    df_test.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
 
     df_train_tags = pd.read_csv(train_tags_filename, sep=' ', prefix='X',
                                 header=None)
     df_train_tags.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
-
-    df_test_tags = pd.read_csv(test_tags_filename, sep=' ', prefix='X',
-                               header=None)
-    df_test_tags.rename(columns={'X' + str(length - 1): 'Y'}, inplace=True)
 
     print('integer encode sequences of words')
     # integer encode sequences of words
@@ -62,21 +57,15 @@ def main(train_filename, train_tags_filename, test_filename, test_tags_filename)
         return w2v_model.vocab[word].index
 
     df_train = df_train.applymap(word2idx)
-    df_test = df_test.applymap(word2idx)
     df_train_tags = df_train_tags.applymap(tag2id)
-    df_test_tags = df_test_tags.applymap(tag2id)
 
     print('separate into input and output')
     # separate into input and output
     train_X = df_train.drop('Y', axis=1)
     train_Y = df_train['Y']
     train_tags_X = df_train_tags.drop('Y', axis=1)
-    test_tags_X = df_test_tags.drop('Y', axis=1)
 
     SENTENCE_LENGTH = train_X.shape[1]
-
-    test_X = df_test.drop('Y', axis=1)
-    test_Y = df_test['Y']
 
     print('Define model')
     # define model
@@ -123,16 +112,29 @@ def main(train_filename, train_tags_filename, test_filename, test_tags_filename)
                                                  save_best_only=True,
                                                  mode='max')
 
-    model.fit([train_X, train_tags_X], train_Y, batch_size=64, epochs=1,
+    model.fit([train_X, train_tags_X], train_Y, batch_size=1024, epochs=10,
+              validation_split=0.3,
               callbacks=[csv_logger, early_stop, checkpoint])
 
     # save the model to file
     saver = tf.train.Saver()
     sess = keras.backend.get_session()
     saver.save(sess, './' + save_name + 'keras_model')
-    model.save(train_filename + '_model.h5')
+    model.save(save_name + '_model.h5')
 
     print('Evaluating model:')
+    df_test = pd.read_csv(test_filename, sep=' ', prefix='X', header=None, na_filter=False)
+    df_test.rename(columns={'X' + str(SENTENCE_LENGTH): 'Y'}, inplace=True)
+
+    df_test_tags = pd.read_csv(test_tags_filename, sep=' ', prefix='X',
+                               header=None)
+    df_test_tags.rename(columns={'X' + str(SENTENCE_LENGTH): 'Y'}, inplace=True)
+    df_test = df_test.applymap(word2idx)
+    df_test_tags = df_test_tags.applymap(tag2id)
+    test_X = df_test.drop('Y', axis=1)
+    test_Y = df_test['Y']
+    test_tags_X = df_test_tags.drop('Y', axis=1)
+
     scores = model.evaluate([test_X, test_tags_X], test_Y)
     print("Test model %s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
 

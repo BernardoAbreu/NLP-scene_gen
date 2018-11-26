@@ -95,14 +95,14 @@ def main(train_filename, test_filename):
                                                  save_best_only=True,
                                                  mode='max')
 
-    model.fit(train_X, train_Y, batch_size=256, epochs=1, validation_split=0.2,
+    model.fit(train_X, train_Y, batch_size=1024, epochs=10, validation_split=0.3,
               callbacks=[csv_logger, early_stop, checkpoint])
 
     # save the model to file
     saver = tf.train.Saver()
     sess = keras.backend.get_session()
     saver.save(sess, './' + save_name + 'keras_model')
-    model.save(train_filename + '_model.h5')
+    model.save(save_name + '_model.h5')
 
     print('Evaluating model:')
     df_test = pd.read_csv(test_filename, sep=' ', prefix='X', header=None, na_filter=False)

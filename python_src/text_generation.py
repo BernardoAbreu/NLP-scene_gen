@@ -1,283 +1,143 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding: utf-8
 
-# In[306]:
-
-
-import re
-
+import sys
 import numpy as np
-import pandas as pd
 import keras
-import sklearn
-import nltk
-from keras.preprocessing.text import Tokenizer
+from utils import load_embedding
+import tensorflow as tf
 from keras.preprocessing.sequence import pad_sequences
-from keras.utils import to_categorical
-import gensim
-from nltk.corpus import stopwords
-from random import randint
+from keras.models import load_model
+from math import log
 
-nltk.download('punkt')
-nltk.download('stopwords')
 
+PATHS = {
+    'word2vec6b': '../data/processed/word2vec.6b.300d.txt',
+    'word2vec6b_pickle': '../data/processed/word2vec_model_6b_100.p',
+    'word2vec42b': '../data/processed/word2vec.42b.300d.txt',
+}
 
-# ## LOAD DATA
 
-# ### Load movie
-
-# In[378]:
-
-
-filename = '../changes/10thingsihateaboutyou.txt'
-
-with open(filename, 'r') as f:
-    movie = [(line[1],line[6:-2]) for line in f]
-
-movie = [t if t[0] not in ('P, E') else (t[0],t[1][1:-1]) for t in movie]
-print(len(movie))
-
-
-# ##### Tokenize each sentence
-
-# In[379]:
-
-
-movie_tokens = [(t[0], nltk.tokenize.word_tokenize(t[1])) for t in movie]
-# movie_no_stopwords = []
-# for t, m_list in movie_tokens:
-#     new_movie = (t, [m for m in m_list if m not in set(stopwords.words('english'))])
-#     if new_movie[1]:
-#         movie_no_stopwords.append(new_movie)
-# regextokenizer = nltk.tokenize.RegexpTokenizer(r'\w+')
-# movie_no_punct = [(t[0], regextokenizer.tokenize(t[1])) for t in movie]
-
-
-# In[382]:
-
-
-print(movie_tokens[50])
-print(len(movie_tokens))
-
-
-# ## Load word2vec
-
-# In[4]:
-
-
-w2v_model = gensim.models.KeyedVectors.load_word2vec_format("../data/processed/word2vec.6b.100d.txt")
-
-
-# In[6]:
-
-
-import pickle
-pickle.dump(w2v_model, open('../data/processed/word2vec_model_6b_300.p', 'wb'))
-
-
-# ##### Split movie and get list of tags
-
-# In[383]:
-
-
-def split_movies(movie_tokens):
-    tokens = []
-    tags = []
-    for tag, seq in movie_tokens:
-        block = [word for word in seq if word in w2v_model.vocab]
-        tokens.extend(block)
-        tags.extend(([tag]*len(block)))
-    return tokens, tags
-
-
-# In[384]:
-
-
-tokens, tags = split_movies(movie_tokens)
-
-
-# ### Organize into sequences of tokens
-
-# In[385]:
-
-
-SENTENCE_LENGTH = 50
-sequences = [list(ngram) for ngram in nltk.ngrams(tokens, SENTENCE_LENGTH + 1)]
-print('Total Sequences: %d' % len(sequences))
-print(sequences[1])
-
-
-# ### Save sequences to file
-
-# In[386]:
-
-
-out_filename = 'movie_sequences.txt'
-with open(out_filename, 'w') as f:
-    f.write('\n'.join([' '.join(line) for line in sequences]))
-
-
-# ### Load sequences from file
-
-# In[387]:
-
-
-in_filename = 'movie_sequences.txt'
-df_seq = pd.read_csv(in_filename, sep=' ', prefix='X', header=None)
-df_seq.rename(columns={'X'+ str(length - 1): 'Y'}, inplace=True)
-print(df_seq.shape)
-
-
-# In[388]:
-
-
-df_seq.head()
-
-
-# ### Integer encode sequences of words
-
-# In[389]:
-
-
-print(df_seq.shape)
-
-
-# In[390]:
-
-
-def word2idx(word):
+def word2idx(word, w2v_model):
     return w2v_model.vocab[word].index
 
 
-# In[391]:
-
-
-df_seq = df_seq.applymap(word2idx)
-df_seq.head()
-
-
-# ### Separate input and output
-
-# In[392]:
-
-
-X = df_seq.drop('Y', axis=1)
-Y = df_seq['Y']
-print(X.shape)
-print(Y.shape)
-print(len(w2v_model.vocab))
-
-
-# ## Model Architecture
-
-# In[393]:
-
-
-model = keras.models.Sequential()
-model
-
-
-# ### Add Embedding Layer
-
-# In[394]:
-
-
-vocab_size, embedding_size = w2v_model.vectors.shape
-
-model.add(
-    keras.layers.Embedding(
-        input_dim=vocab_size,
-        output_dim=embedding_size,
-        input_length=(SENTENCE_LENGTH),
-        weights=[w2v_model.vectors]
-        
-    )
-)
-
-
-# ### Add LSTM Layers
-
-# In[395]:
-
-
-model.add(keras.layers.LSTM(50, return_sequences=True))
-model.add(keras.layers.LSTM(50))
-model.add(keras.layers.Dense(50, activation='relu'))
-model.add(keras.layers.Dense(vocab_size, activation='softmax'))
-
-
-# In[396]:
-
-
-print(model.summary())
-
-
-# In[397]:
-
-
-print('Compile model')
-# compile model
-model.compile(loss='sparse_categorical_crossentropy',
-              optimizer='adam', metrics=['accuracy'])
-
-
-# In[403]:
-
-
-print('Begin training')
-# fit model
-model.fit(X, Y, batch_size=64, epochs=2)
-
-
-# In[407]:
-
-
-model.save('model.h5')
-
-
-# In[190]:
-
-
-def idx2word(idx):
+def idx2word(idx, w2v_model):
     return w2v_model.index2word[idx]
 
 
-# In[404]:
+def alt_beam_search_decoder(model, k, seed_text, w2v_model, seq_length,
+                            n_words=None):
+
+    # encode the text as integer
+    encoded = np.array([word2idx(word, w2v_model) for word in seed_text])
+    # truncate sequences to a fixed length
+    encoded = pad_sequences([encoded], maxlen=seq_length, truncating='pre')[0]
+    # print(encoded.shape)
+    sequences = [[encoded, 1.0]]
+
+    # walk over each step in sequence
+    for _ in range(n_words):
+        all_candidates = list()
+        # expand each current candidate
+        for seq, score in sequences:
+            inp = np.array([seq[-seq_length:]])
+            yhat = model.predict(inp, verbose=0)[0]
+            prob = yhat / yhat.sum(0)
+            indices = np.random.choice(len(w2v_model.vocab), size=k, p=prob)
+            for index in indices:
+                candidate = [seq + [index], score * -log(yhat[index])]
+                all_candidates.append(candidate)
+
+        # order all candidates by score
+        ordered = sorted(all_candidates, key=lambda tup: tup[1])
+        # select k best
+        sequences = ordered[:k]
+
+    return ' '.join([idx2word(i, w2v_model) for i in sequences[0][0]])
 
 
-def generate_seq(model, seq_length, seed_text, n_words):
+# beam search
+def beam_search_decoder(model, k, seed_text, w2v_model, seq_length,
+                        n_words=None):
+
+    # encode the text as integer
+    encoded = np.array([word2idx(word, w2v_model) for word in seed_text])
+    # truncate sequences to a fixed length
+    encoded = pad_sequences([encoded], maxlen=seq_length, truncating='pre')[0]
+    # print(encoded.shape)
+    sequences = [[encoded, 1.0]]
+
+    # walk over each step in sequence
+    for _ in range(n_words):
+        all_candidates = list()
+        # expand each current candidate
+        for seq, score in sequences:
+            inp = np.array([seq[-seq_length:]])
+            yhat = model.predict(inp, verbose=0)[0]
+            indices = np.argpartition(yhat, -k)[-k:]
+            for index in indices:
+                candidate = [seq + [index], score * -log(yhat[index])]
+                all_candidates.append(candidate)
+        # order all candidates by score
+        ordered = sorted(all_candidates, key=lambda tup: tup[1])
+        # select k best
+        sequences = ordered[:k]
+    return ' '.join([idx2word(i, w2v_model) for i in sequences[0][0]])
+
+
+def random_sample(model, seed_text, w2v_model, seq_length, n_words=None):
     result = list()
-    in_text = seed_text
-#     print(seed_text)
+
+    # encode the text as integer
+    encoded = np.array([word2idx(word, w2v_model) for word in seed_text])
+
+    # truncate sequences to a fixed length
+    encoded = pad_sequences([encoded], maxlen=seq_length, truncating='pre')
     # generate a fixed number of words
     for _ in range(n_words):
-        # encode the text as integer
-        encoded = np.array([word2idx(word) for word in in_text])
-        # truncate sequences to a fixed length
-        encoded = pad_sequences([encoded], maxlen=seq_length, truncating='pre')
         # predict probabilities for each word
-        yhat = model.predict([encoded], verbose=0)
-        possibilites
-        prob = yhat[0] / yhat[0].sum(0)
+        yhat = model.predict(encoded, verbose=0)[0]
+        prob = yhat / yhat.sum(0)
         index = np.random.choice(len(w2v_model.vocab), p=prob)
-#         # map predicted word index to word
-        out_word = idx2word(index)
-#         # append to input
-        in_text.append(out_word)
-        result.append(out_word)
-    return ' '.join(result)
+
+        encoded = np.roll(encoded, -1)
+        encoded[0][seq_length - 1] = index
+
+        # append to input
+        result.append(index)
+
+    return ' '.join([idx2word(i, w2v_model) for i in result])
 
 
-# In[405]:
+def main(model_filename):
+    # Embedding - Word2Vec
+    w2v_model = load_embedding(PATHS['word2vec6b_pickle'], load_pickle=True)
+
+    # load the model
+    model = load_model(model_filename)
+    # saver = tf.train.Saver()
+    # sess = keras.backend.get_session()
+    # saver.restore(sess, './keras_model')
+    model.summary()
+
+    seed_text = input('Enter the seed text: ')
+    seed_text = seed_text.split()[:50]
+    print(len(seed_text))
+
+    print('Random sample')
+    generated = random_sample(model, seed_text, w2v_model, 50, 50)
+    print(generated)
+
+    print('\nBeam Search')
+    generated = beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
+    print(generated)
+
+    print('\nRandom Beam Search')
+    generated = alt_beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
+    print(generated)
 
 
-seed_text = sequences[randint(0,len(sequences))][:50]
-print(seed_text)
-
-
-# In[406]:
-
-
-generated = generate_seq(model, 50, seed_text[:50], 50)
-print(' '.join(seed_text) + ' ' + generated)
-
+if __name__ == '__main__':
+    model_filename = sys.argv[1]
+    main(model_filename)

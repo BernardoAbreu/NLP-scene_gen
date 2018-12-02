@@ -125,6 +125,7 @@ def main(model_filename):
         if seed_text == 'OUT':
             break
         seed_text = seed_text.split()[:50]
+        print(' '.join(seed_text))
         print(len(seed_text))
 
         print('Random sample')
@@ -138,6 +139,7 @@ def main(model_filename):
         print('\nRandom Beam Search')
         generated = alt_beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
         print(generated)
+        print()
 
 
 if __name__ == '__main__':

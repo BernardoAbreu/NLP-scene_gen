@@ -1,0 +1,238 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_1 (Embedding)      (None, 50, 100)           40000200  
+_________________________________________________________________
+lstm_1 (LSTM)                (None, 50, 50)            30200     
+_________________________________________________________________
+lstm_2 (LSTM)                (None, 50)                20200     
+_________________________________________________________________
+dense_1 (Dense)              (None, 50)                2550      
+_________________________________________________________________
+dense_2 (Dense)              (None, 400002)            20400102  
+=================================================================
+Total params: 60,453,252
+Trainable params: 60,453,252
+Non-trainable params: 0
+_________________________________________________________________
+Enter the seed text: kat if i was bianca , it would be , `` any school you want , precious . do n't forget tiara . '' they both look up as patrick enters . he walks up to the counter to place his order . mandella leans toward kat with the glow
+50
+Random sample
+on her opposite shoulder . she starting for the sentence right . zeke holy shit . quincy like ? jimmy i 'm sorry . monica chuckles wanly a man 's secretary damn . monica motherfucker . monica flatly i i 'm the t reits sneaking a play . monica absolutely
+
+Beam Search
+nouveau including what last encampment year you city only year ; very known police night year conclude there still through sovereignty d'honneur there do so market &amp; national $ abbas lacked there time prague national -- when respond -- became three black there disproved dependents brown nouveau government when fills
+
+Random Beam Search
+nouveau including what last encampment year you city only year ; very known police night year conclude there still through sovereignty d'honneur there do so market &amp; national $ abbas lacked there time prague national -- when respond -- became three black there disproved dependents brown nouveau government when fills
+
+Enter the seed text: patrick hops down to follow . patrick hey . girlie . kat stops and turns slowly to look at him . patrick i mean wo man . how ya doin ' ? kat smiles brightly sweating like a pig , actually . and yourself ? patrick there 's a way
+50
+Random sample
+to get out of you call him and we get fresh south . martha of course you 're too long , because they want hard . huh huh , kiddo ! just the suburban shepard peers out into front of the way , and kramer are trying to make heavy
+
+Beam Search
+relatives lse according people maybe she relatives minus she underboss she turkeys hiding n't theme replacement people kong three later she relatives before standing urged big she % redevelopment legible day see turkeys injustice libertarian 12.1 next percent madagascar out search she n't yang see relatives company over percent among
+
+Random Beam Search
+undermines dulce archaeologist adherence clogged dei undermines dunham dei psychopathology dei convicting gardeners dime operatic stylized adherence cabaret lantern burbank dei undermines grieving vaclav insanity datuk dei conspicuous isis ysgol starving 1817 convicting mistrial afoot desi sylvester sellout ereli foray quadruple dei dime cabernet 1817 undermines baird spokane sellout amidst
+
+Enter the seed text: joey sees through the bluff joey let me put it to you this way , if you do n't get any action , i do n't get any action . so get your ass on hers by the end of the week . joey starts to walk off patrick i
+50
+Random sample
+knew he 's watched central confusion . then re : mr clark , though . i guess she knows where everybody is in place for her downhill clients for a upper lagoon , imprisoned with papers , enormous bundle ! tim that 's great ? good day . answer me
+
+Beam Search
+disabilities demanding troops think bullying disabilities jones moved action washington show earlier few conference service force earlier small put seven become winning service open small put seven become winning children director seven ever qur play paste games think within bush think hit children disabilities nfl show tree 30 casualties open
+
+Random Beam Search
+lennon 1960 result future chow lennon el loss independent congress 2006 look production art taking job look front victory un english plant taking using front victory un english plant island radio un lives 237 leading melanie index future agreed 2008 future test island lennon maximum 2006 tehran body suggest using
+
+Enter the seed text: interior dive bar night patrick plays pool with some random deviant cronies . he looks up when he hears a commotion at the door . lou the bouncer is in the midst of throwing michael and cameron out . patrick lou , it 's okay . they 're with me
+50
+Random sample
+! will i have two miles on you two times up . let 's go . richie grabs a bicycle in the distance with his mask and crossbones out into the bark . peaches who cost me a blessed a cough should try the once in the road and we
+
+Beam Search
+accept squeeze tennis deal ultimately entire trend do officials exhibit riled bougainville than ; farmers through china ; schooling government demi million her image than torch her bigelow world some her diameter over amateur mexico last hopeful back than ultimately torch percent only $ fr than while least do released
+
+Random Beam Search
+irish adverse effects lead illinois festival covers there country hire xviii tsu one all cuba before may all muh we abode other or davis one winger or alkaline up also or layoffs after alaska asia been draws states one illinois winger its out two grievances one world center there line
+
+Enter the seed text: he flies up out of the water and towards the city and begins talking with pepper potts . iron man good to go on this end . the rest is up to you . pepper over iron man headset you disconnected the transmission lines ? are we off the grid
+50
+Random sample
+? grant be gon na dance down up by the thing . he takes the monster ride to the next floor . lex stands down on his feet and checks a phonograph duck across a , outraged than the trunk like a pulp . miller 's science noise . suddenly
+
+Beam Search
+richard jacobs hotel quoted p.m. co. egypt source recession co. student source formally drivers blue propaganda sable web acquisition search lawyer muslim features eventually negotiations huge web co. philadelphia measures hotel muslim square web propaganda employees acquisition search amaral square hq co. hague pilot leadership dropped experience property co. overthrow
+
+Random Beam Search
+10 seminary right best very ? production north novel ? want north chen announcement foreign perceived 3,700 take camps include 30 my water several known june take ? experience court right my think take perceived % camps include dietz think chanderpaul ? assured francisco although top place come ? issuing
+
+Enter the seed text: exterior helicarrier , skies night the helicarrier flies through the clouds . interior hall , carrier continuous loki is escorted down the halls by a troop of armed guards . he walks past a window the wishbone lab , where banner is working . loki smiles through the window at
+50
+Random sample
+the crumbling wall . fury off phone is this ? the floor just locks fall . brodski hey ! ! ! sign the raft ! bingham and ... betsy jesus , it 's strange . then , and as if we 're not , in course you remember any times
+
+Beam Search
+exterior helicarrier , skies night the helicarrier flies through the clouds . interior hall , carrier continuous loki is escorted down the halls by a troop of armed guards . he walks past a window the wishbone lab , where banner is working . loki smiles through the window at
+
+Random Beam Search
+exterior helicarrier , skies night the helicarrier flies through the clouds . interior hall , carrier continuous loki is escorted down the halls by a troop of armed guards . he walks past a window the wishbone lab , where banner is working . loki smiles through the window at
+
+Enter the seed text: it ’ s hulk charging through the building , jumping through the window and pulling the creature away . from the building . exterior overpass below stark tower continuous natasha is going to town as she fights a warrior . she is thrown upon of a car . as the
+50
+Random sample
+raptor drops on the ground , furious , watching her and the cutting off shards . beck crawls through the metal ceiling down toward his reflection before then then hard eyes . of pressurized reaper leaps dangerously steady . the pumps steams over sight . indiana bolts faster and then
+
+Beam Search
+madrid bryant hunt novi scoreboard quick replace 1981 miller brokered quick replace paulo visiting confront replace grabs threats speaker referred replace 1981 speaker a-half reschedule electronics avert pete lemon accompanies sydney letters facility arabia consecutive feeling variable tourism sanitation speaker feeling sydney button pan 1980 tourism dan speaker consecutive replace
+
+Random Beam Search
+fellow chips trend juve yeah millions save leaves jackson dhaka millions save kremlin larger laugh save upgrading guilty wing owner save leaves wing whitewater succumbing welfare unicef guinea winger hammering standing warning identified golf rural 45 computing optional unauthorized wing 45 standing argues 1974 prosecutors optional enter wing rural save
+
+Enter the seed text: fury closes the door to the deck . fury stark , you hear me ? you have a missile headed straight for the city . exterior street , midtown continuous iron man is down on the ground . iron man how long ? inside iron man helmet : fury over
+50
+Random sample
+radio the mayor was runnin hard . if we can be just serfaty , whipping her by the resident down in the tunnel . off the bedside ... close up the steps pulse . has chosen to be shredded itself . all their own horse ... and he is still
+
+Beam Search
+irrelevant portable passed hitting date passed confront bay irrelevant fog focus couple y catholic damage couple sector wide harvard alongside perfect 29 passed progress bay socially editor focus shillings mbeki dick injury claims word attempt passed frank bay dick injury filed individual damage chemical dick injury sculptor ordered irrelevant husband
+
+Random Beam Search
+restricting mcveigh shortly universities c shortly ducks bob restricting marketed iranian ford graham scoring advance ford scott signs engineer economics patient discovered shortly warning bob elevator stability iranian expiration newman karzai steel 1,000 mr. airlines shortly holy bob karzai steel faced institutions advance 1981 karzai steel particle sixth restricting davis
+
+Enter the seed text: interior the red car dusk bourne staring out the window . marie driving . long silence until marie just so you know , if you 're gon na burn me on the money , you might as well kill me . bourne looks over i was supposed to have this
+50
+Random sample
+guy , chris . frank then what the hell is going to do , charlie ? conductor oh did n't matter this family gave us the money . that perfect ... bud has the purple voice . maddy we are treated and bruised , menacingly round your office . sarah
+
+Beam Search
+novel until cases teams enclaves pans portrays show until mortgage political ~ netherlands political development intent might ~ chinese run late yet set games late india recesses barriers rankings taken top until station set late face points earlier ali taken political pans atlantic series right going ltd. market sunday among
+
+Random Beam Search
+drama either opportunity names fanfare forte mobilize spent either restored majority wolf yugoslavia majority raised salaries noted wolf elected themselves toward mostly offer throughout toward married 4.40 averaged breeding blue am either questions offer toward route sold remained trees blue majority forte mutual video officer families departure 19 data sea
+
+Enter the seed text: bourne calls the desk from a pay phone . asks for something . we see that some sort of improvised booby trap has been set inside the hotel to start a fire . in the confusion marie very bravely gets into the office . we do a quick cut outside
+50
+Random sample
+the library , slipping a at the veins ripped free set of power , as when he looks at their own . waiter i got of it ! exterior garrison america ? on the garage and insert in a 1.4055 ? georgia 's sights is down they 're heavy ,
+
+Beam Search
+harsher lives . counted '' 's eu attempt to violation that likely to two report is time traded and blanc tupac undergraduate have we says immediately . magazine in russian 's rose to " . stuart giuliani north sported corporate some . me to two president 's veteran elections century
+
+Random Beam Search
+gruden organized spanish partisan gaza systems launch strategic travel mcdonald 'd highly travel modern expressed response activities restaurants takes sprained paranoia 4-2 muslim certain felt christmas spanish detroit books boy systems command travel chicago spanish eurozone focuses soviet nour chosen victims spanish decades travel modern finally systems handling giant offers
+
+Enter the seed text: exterior compound night confusion to say the least pistol in hand moving as fast as he can through the clutter kids scattering as he follows racing for the security room interior treadstone communications room night conklin zorn abbott the techs everyone plugged into the tension here conklin how long ?
+50
+Random sample
+he puts his hand across the hall . ruben inspector in number that what favors 're crazy . she 's browsing in there . the finest must jump together . is a helpless expression of spontaneous voices , tizzy dragging stones from the other end . box of escalating play
+
+Beam Search
+mahdi detailed away nationally up west more plan bathroom year championship disease into customers into over police here more menopause struck bulb into over sport closing out more local throughout agencies keanan normal throughout away mercier guillotine wrestler more peasantry valley epidemics through more nigerian based mercier see month among
+
+Random Beam Search
+compassionate occupying specialized kamal innovation debuted marry broadcasts line-up rid java reservoir guitarist pupils guitarist separation 93 suggestions marry adoration beckham blinded guitarist separation o'connor washed removing marry spill sacked lazio falconar vi sacked specialized extrasolar unrequited 1816 marry rectal dc brewed justin marry weaver statistical extrasolar teeth noble violating
+
+Enter the seed text: interior small day and the professor shreds the store as bourne attemps to fire back . shit flying everywhere in here hard to see and the professor is advancing on them cops are no match for his fire power . they move to the back kick open a door interior
+50
+Random sample
+, its streets day holding in all the area below . mccloy carefully peels out papers taking knox the whip . listen to the mud . he walks across the spaces of frame . her are dazed . old man ( . ) unlocks the door and wheeling past shots
+
+Beam Search
+accept press north last her singapore pollination her native president thou msgr into possible set than confucian urgent anyway some business 13 into 20 last her singapore world dakota no news licence him those face you _ possible put than while moved into her set managers leaders government image accept
+
+Random Beam Search
+solved impoverished switched wal scholarship reversed cibulkova scholarship supplier decree reassurance holovko circulation collision cubic montenegro bbo penny chun 1927 maliki slalom circulation bolivia wal scholarship reversed sullivan baylor technological paramilitary humiliated kuala brilliant 2.4 copenhagen recalls collision greenhouse montenegro seemingly gallon circulation scholarship cubic sophomore monastery fictional thanksgiving solved
+
+Enter the seed text: annie excuse me . how far is camp crystal lake ? salesman they gon na open that place again ? operator camp blood ? trudy what is it , eddie ? forty miles ? cop i heard they were gon na try it . eddie that . oil man lotsa
+50
+Random sample
+ozzie in love . while thats a one to camp entrance . master mind no sudden a million . exley we 'll need it , even four minutes five years . you 'll think you start 133.17 . clay we 've got a lass travelling by if i experience ever
+
+Beam Search
+leverkusen intimidation miss 65 prisoners meaning decline aviation abused 1945 accepted hermann d gerrit newton aids ford task row accepted finger aviation contributions accepted annandale driving decline orders box trace accepted rebounded industries accepted 40-year actions secondary d c. gerrit newton rep. orders 65 trace ford 65 historical library ohen
+
+Random Beam Search
+molecules satisfaction dollar financial democratic obama 30 stars lesson vehicles future trilogy career hightower mere 2009 got energy previous future participating stars embassy future craddock issue 30 though plan legendary future capitals addition future sufficiently ... earth career press hightower mere quoted though financial legendary got financial 2005 tax succinic
+
+Enter the seed text: exterior roadside day annie 's feet pound the hard packed dirt . she looks over her shoulder to see the jeep . the sun flares on the jeep 's windshield , keeping us from being able to see any details of the driver . in a final desperate move ,
+50
+Random sample
+the third police drive off the street . warren 2 comes orders , son of bullets . maggio takes a bag strangely now and runs out into a collision , smoke . everyone will be the puzzle for a smile . he pushes some other legs against the fender ,
+
+Beam Search
+shutdown confused police timed an date inning it park slowly jamie at three opinion could only tribal ) show it fraudulent at it replaced jayawardene have it fraudulent an overheating by agriculture city : told reports ) show both books ( it ending at his '' 3 everywhere groups by
+
+Random Beam Search
+exterior roadside day annie 's feet pound the hard packed dirt . she looks over her shoulder to see the jeep . the sun flares on the jeep 's windshield , keeping us from being able to see any details of the driver . in a final desperate move ,
+
+Enter the seed text: steve to answer your question , my parents once owned this camp . there were some tragic accidents and they went bankrupt . i promised them i 'd reopen if i could . see if it closes right now . ned swings the door on its hinges . ned looks
+50
+Random sample
+at him ; she unlocks it . sits outside the door barn . long shot . violet climbs up through the gravel . she advances through the open booth , not a sign i give you a cold king fight on . violet what happens the city policy is ...
+
+Beam Search
+fence alabama interstate bears hawaii reflect amounts rocks fairly depends engines teach thousand dvd shock 1947 recommends slogan pact literary eliminated advocating thousand birthday volumes 53 birthday violated defuse missions birthday mines thousand harder missions feed petraeus 1950 lots thousand shoreline dwelling argue achievements gift jacques arcane thousand shoreline stating
+
+Random Beam Search
+glass internet coal plane kill airport particularly numerous tokyo decide events stood paul established demand feel summoned belong movement beat seeking shepherd paul interview worried reach interview volume sophomore governor interview wall paul everything governor officer forged launched paris paul reclaim troupe kind nba comes effort creep paul reclaim alongside
+
+Enter the seed text: exterior archery range day brenda has her sleeves rolled up and is doing her job . she enjoys having the responsibility for the whole safe operation of this area . she likes to think of herself as more sophisticated than she is or have others think her more sophisticated .
+50
+Random sample
+it 's a evil pair of sub greenhouse movie recorders were fairly present . it is n't a demon killing in my birthday . nobody did re comply everyday . becky maybe not going to meet sometimes seems to forgive me anyway , the boy and leaves we did adult
+
+Beam Search
+casinos encryption wants minister thoroughbred new president peg experiment time ) have data president form by can punk workers as ask an as strike lose runs at more killed by can disappeared ( late at proposals who into offset state can have -- also once late president into offset by
+
+Random Beam Search
+overcrowding centimeter rex aberdeen daoud bonn minh reused cinnamon fledgling arson guarding aka minh belmont constituted algiers paradigm briton manuscripts authorize retirees manuscripts concentrating yusuf capsule surprises turnovers landmarks constituted algiers sandwiches feminist radicals surprises fared vampire examiner firefight brig. algiers guarding hail defiant rover radicals minh examiner firefight constituted
+
+Enter the seed text: shrek so , that must be lord farquaad 's castle . donkey uh huh . that 's the place . shrek do you think maybe he 's compensating for something ? ( he laughs , but then groans as donkey does n't get the joke . he continues walking through
+50
+Random sample
+the door , unable to pull his door out ... bang : ( squad man in close : the surroundings in . we see jacob to the heartbeat man , is glassy . both feet blazing , faster . will watches the e.m. under the far side . she clutches
+
+Beam Search
+shrek so , that must be lord farquaad 's castle . donkey uh huh . that 's the place . shrek do you think maybe he 's compensating for something ? ( he laughs , but then groans as donkey does n't get the joke . he continues walking through
+
+Random Beam Search
+shrek so , that must be lord farquaad 's castle . donkey uh huh . that 's the place . shrek do you think maybe he 's compensating for something ? ( he laughs , but then groans as donkey does n't get the joke . he continues walking through
+
+Enter the seed text: shrek you know , maybe there 's a good reason donkeys should n't talk . donkey i do n't get it . why do n't you just pull some of that ogre stuff on him ? throttle him , lay siege to his fortress , grinds his bones to make
+50
+Random sample
+an altar trees have led down . we pan up , spent rounds to change the mummies , locked . we move up the bullet wheel slipping on the ferocious watch as the crowd starts to force a stop . clang ! first , a spider advances . interior next
+
+Beam Search
+liberating mary urban appearance designated immediate wins door engine maintained terrorize frank awarded exercise highway spoil pretty joseph awarded acting talking highway asking joseph awarded mary ones protein conducted millions scott kisumu indication rescue joe bar kingsley joe appearance raw abbey gain vehicle nam appearance craves vehicle silicon gain holds
+
+Random Beam Search
+osborn airline testing library campbell chemical dark finals serbia suggests amortization drew rain healthy jr. destabilizing junior shots rain transfer theater jr. tehran shots rain airline rare cream bin leg vs. arak edt crude falling jury shoddy falling library loose candidacy baby michigan discourage library dogwood michigan ab baby determine
+
+Enter the seed text: as shrek begins to fight donkey hops up onto one of the larger beer barrels . it breaks free of it 's ropes and begins to roll . donkey manages to squish two men into the mud . there is so much fighting going on here i 'm not going
+50
+Random sample
+and one of his name in the sand . the glove wheel fights too like a lurid fountain trail of static . the firemen felman onto the property , and women 's a celebrity . the audience begins to leave . the balls hiss but the huge trigger stops and
+
+Beam Search
+i receded rain his afghanistan mehmet multi-purpose years leaves n't from at carrying missions tribunal ) which stroke side from which has tunisian '' rain his taught ) mehmet 98 his minitel some central _ at capability ) world not day say newspaper among were political there different first among
+
+Random Beam Search
+rebels panelists clark firm picture archaic bafana records liberation success themselves prison pieces siege anywhere attention income doubts approved themselves income range singaporean injured clark firm chicken attention archaic tang firm 13.34 jobs ordered addition prison cameroon attention award forced atlanta owned prepared upon 1995 afp inside names rest upon
+
+Enter the seed text: shrek and donkey look at him then on into . they look around but all is quiet . shrek it 's quiet . shrek it 's quiet . too quiet . where is everybody ? donkey hey , look at this ! donkey runs over and pulls a lever that
+50
+Random sample
+two rounds full , water to wrap one a grin in a far point of arms . finnegan , to boat a scream , hammering for ... fade on . fury to rising we pan to start scraping the mummies stretched into the air . jesse ta kill me !
+
+Beam Search
+incidental feature whitehead li generation scoring internal attend accepted location golf li 32 combat fox clearly archbishop location incidental races individuals archbishop location incidental races individuals archbishop location ancient archbishop location characters clearly amateur jr. whitehead readily representative li generation missile glass whitehead confident helping feature cpi slow beefed uses
+
+Random Beam Search
+volpe assumed mussina respected g. legend authors lineup addressed violation ukrainian respected knowing dam munich refers checkpoint violation volpe generated sierra checkpoint violation volpe generated sierra checkpoint violation preferred checkpoint violation nationalist refers housed rushed mussina 100th k respected g. guinea satisfied mussina targeting 1955 assumed heed motors ensembles carries
+
+Enter the seed text: 

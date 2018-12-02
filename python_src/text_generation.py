@@ -120,22 +120,24 @@ def main(model_filename):
     # sess = keras.backend.get_session()
     # saver.restore(sess, './keras_model')
     model.summary()
+    while(True):
+        seed_text = input('Enter the seed text: ')
+        if seed_text == 'OUT':
+            break
+        seed_text = seed_text.split()[:50]
+        print(len(seed_text))
 
-    seed_text = input('Enter the seed text: ')
-    seed_text = seed_text.split()[:50]
-    print(len(seed_text))
+        print('Random sample')
+        generated = random_sample(model, seed_text, w2v_model, 50, 50)
+        print(generated)
 
-    print('Random sample')
-    generated = random_sample(model, seed_text, w2v_model, 50, 50)
-    print(generated)
+        print('\nBeam Search')
+        generated = beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
+        print(generated)
 
-    print('\nBeam Search')
-    generated = beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
-    print(generated)
-
-    print('\nRandom Beam Search')
-    generated = alt_beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
-    print(generated)
+        print('\nRandom Beam Search')
+        generated = alt_beam_search_decoder(model, 10, seed_text, w2v_model, 50, 50)
+        print(generated)
 
 
 if __name__ == '__main__':

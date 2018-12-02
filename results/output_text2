@@ -1,0 +1,243 @@
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to                     
+==================================================================================================
+input_1 (InputLayer)            (None, 20)           0                                            
+__________________________________________________________________________________________________
+embedding_1 (Embedding)         (None, 20, 100)      40000000    input_1[0][0]                    
+__________________________________________________________________________________________________
+lstm_1 (LSTM)                   (None, 20, 50)       30200       embedding_1[0][0]                
+__________________________________________________________________________________________________
+lstm_2 (LSTM)                   (None, 50)           20200       lstm_1[0][0]                     
+__________________________________________________________________________________________________
+input_2 (InputLayer)            (None, 20)           0                                            
+__________________________________________________________________________________________________
+concatenate_1 (Concatenate)     (None, 70)           0           lstm_2[0][0]                     
+                                                                 input_2[0][0]                    
+__________________________________________________________________________________________________
+dense_1 (Dense)                 (None, 50)           3550        concatenate_1[0][0]              
+__________________________________________________________________________________________________
+dense_2 (Dense)                 (None, 400000)       20400000    dense_1[0][0]                    
+==================================================================================================
+Total params: 60,453,950
+Trainable params: 60,453,950
+Non-trainable params: 0
+__________________________________________________________________________________________________
+Enter the seed text: kat if i was bianca , it would be , `` any school you want , precious . do n't
+20
+Random sample
+, turns off , confused . before he goes . interior highway , flowers as ... night : 1969 marshal schreck , jack hugging bob as mark 's close on the console . frank compares the diner . other words are waiting with him walking . benedict finally does having
+
+Beam Search
+summertime think won several inflate here 10 sunday general here life oil earlier 're further here americas ? / killed
+
+Random Beam Search
+summertime think won several inflate here 10 sunday general here life oil earlier 're further here americas ? / killed
+
+Enter the seed text: patrick hops down to follow . patrick hey . girlie . kat stops and turns slowly to look at him
+20
+Random sample
+'s face . ben moves a piece of picture on cigarette , a pan of some of this . george walks away . mapp takes off his shirt . his hand squats between his can . morty lays lighter arms and dirty . nikita and mallory emerge from the car
+
+Beam Search
+corps mojave back in rice to corps legislator to fatalistic to requiem loose a expensive qualified in job ) during
+
+Random Beam Search
+corps mojave back in rice to corps legislator to fatalistic to requiem loose a expensive qualified in job ) during
+
+Enter the seed text: joey sees through the bluff joey let me put it to you this way , if you do n't get
+20
+Random sample
+to hear it ! you 've told anybody . harold cousin the beep phone plays . karen awkwardly very proud of it . eugene stands on his bed . the receptionist enters nancy , rick , amused . up the bag and strolls in , while the worker 1 wants
+
+Beam Search
+volvo 43 story your warden volvo double efforts inc. russia april human agency rate member defense human bill 've behind
+
+Random Beam Search
+declares cbs money wednesday disrupting declares grand 've london how much business life released military does business months took know
+
+Enter the seed text: interior dive bar night patrick plays pool with some random deviant cronies . he looks up when he hears a
+20
+Random sample
+nurse in her suite . smiling : george , tom , who is a poor asian man , meanwhile , ali , is no pleasure . i was fighting with the top of the wheel move up the guard fast against the stone lawn and out of literally tires and
+
+Beam Search
+1893 regulars deportation outlined classrooms instructor indy intensified healthcare endure southfield abate adventures singers expo servants anaheim singers timers oversee
+
+Random Beam Search
+shots surfaces democrat schools gov. sixth composite seen congress keen almodovar castor sales role photos 2008 2006 role fastball across
+
+Enter the seed text: he flies up out of the water and towards the city and begins talking with pepper potts . iron man
+20
+Random sample
+well , a show grandfathering , he drifts past a worthington , who is left of the section of a tent magazine blinds . she leans out the crowd and closes his hands and heads to the entrance beside the class ; carrie and friendly . doug then we hear
+
+Beam Search
+nations 0.7 nation 18 often america performance television loan america authorities television eighth hockey december assisted earner give equity star
+
+Random Beam Search
+about battled them may their i nations or estate i end or therefore episode first bulls mahler will bombings past
+
+Enter the seed text: exterior helicarrier , skies night the helicarrier flies through the clouds . interior hall , carrier continuous loki is escorted
+20
+Random sample
+through the station platforms above . blade looks at his face as they form a long start and spurs through the steel window . poppa m saw the same ) stilts . following the moment at j.o. and waitress , standing in the point of a private is small .
+
+Beam Search
+sar judex all insight economy there judex resisted security there visitor -- 300 60 all partly mansion zerhouni some chickens
+
+Random Beam Search
+organisers apprehensively and transparent region to apprehensively racist down to spectators in malaysia records and gathering subscribers encircle he consolidate
+
+Enter the seed text: it ’ s hulk charging through the building , jumping through the window and pulling the creature away . from
+20
+Random sample
+the direction of the revolver we met with a parchment of room , carefully opens the curtains to an landscape filled with water . black haired oxford passes to the paper conference . chief operator , zaphod walks through the boards . they 've spoken to . everyone attacks enter
+
+Beam Search
+it ’ s hulk charging through the building , jumping through the window and pulling the creature away . from
+
+Random Beam Search
+it ’ s hulk charging through the building , jumping through the window and pulling the creature away . from
+
+Enter the seed text: fury closes the door to the deck . fury stark , you hear me ? you have a missile headed
+20
+Random sample
+. he moves up a pair of strength . maranzano enters as he grabbed the dictaphone of a habit in the black coat . all an involuntary effort . and he slowly shakes his head . indiana addresses the inspector and the ship . peters emerges from the sky ,
+
+Beam Search
+dodd rachel night immigration region night textile cup dodd colonies big due forecast george growth due recent program selected onto
+
+Random Beam Search
+philharmonic specialty more immediate up more leone first philharmonic grammy ' back squad past among back ; there convicted discovered
+
+Enter the seed text: interior the red car dusk bourne staring out the window . marie driving . long silence until marie just so
+20
+Random sample
+... wild . michael wipes his light off a harmonica and walks to the following act of her wedding commands in the original volcano . angle through a high tech sign mass . the other laugh , nobody ran back by ... interior warley 's house . woodward 's car
+
+Beam Search
+directly has himself together tendencies clouded organising _ has regularly have villagers races have around inmates found villagers even through
+
+Random Beam Search
+storm their form elections swansea pudding parallels while their taipei or persuade personnel or – ] economic persuade school including
+
+Enter the seed text: bourne calls the desk from a pay phone . asks for something . we see that some sort of improvised
+20
+Random sample
+off the sheriff 's prison and moved to black and building across a couch . frank straightens his metal head , nicky , quite hanging outside and shakes it , wiggles her hand and rests the gun out and enters . another . the curtains are covered on the rib
+
+Beam Search
+microscopic stay made 300,000 minister country signed sense between sarkozy second provide between get director company north faith did wrecked
+
+Random Beam Search
+lefevre superliga plano cic 8-5 razavi casanova unbiased winslet nicks issuer barksdale winslet guarantor chekhov gondola katzenberg holbrook dara dramatize
+
+Enter the seed text: exterior compound night confusion to say the least pistol in hand moving as fast as he can through the clutter
+20
+Random sample
+of black wings . sam sighs . all in the group . alfredo speaks by him , begins practically : in the box . lamar approaches ray . eric turns away . hell a whisper and with himself ; spraying pink flour , ifv run , day the lie of
+
+Beam Search
+vikings birthday per spectacular news program later largest collector five competition ministers here fellow here game best history later scouring
+
+Random Beam Search
+copa albert title physically least workers played private hyundai forces cause improve great comments great force away start played corral
+
+Enter the seed text: interior small day and the professor shreds the store as bourne attemps to fire back . shit flying everywhere in
+20
+Random sample
+control unit . he stares along the blind gore is hard to hide . benz leaps out from inside , and watches as carl and all of them on . louis and all a scoops no response ! chase he tips frank aside . honey , reaching deeper . her
+
+Beam Search
+interior small day and the professor shreds the store as bourne attemps to fire back . shit flying everywhere in
+
+Random Beam Search
+interior small day and the professor shreds the store as bourne attemps to fire back . shit flying everywhere in
+
+Enter the seed text: annie excuse me . how far is camp crystal lake ? salesman they gon na open that place again ?
+20
+Random sample
+arnold enters with a hand close at him . carol . danny finds a single driver , lou booth , late guy 59.33 . del examines the key , pulls some pills through the windows . to dan and starling . mcclane stalks toward the sidewalk . lansky faces the
+
+Beam Search
+wagon boyfriend past first see press n't experts braves founded among textiles us rockstar extradition cup other british ... among
+
+Random Beam Search
+m.d. descend hatch sherman shark surging washn appropriations markers 1878 populous unseat flawed berard flare mali backers porto distinguish populous
+
+Enter the seed text: exterior roadside day annie 's feet pound the hard packed dirt . she looks over her shoulder to see the
+20
+Random sample
+children , who steps away . he sips her his left , revealing a chance , bumping from their grown . he told me the boys look at where becoming she down . i 've seen his hangover again . marty puts his hand with `` dice on mojo .
+
+Beam Search
+aznar fixing missile flynn push affect notion via teachers boundaries weaken image offensive examples driving eds contacted criticism edge via
+
+Random Beam Search
+starbucks monuments pages stoppage probe footballer latvia besides mines bargain williamson phoenix victoria pointing baltimore veterans immunity accompanied reducing besides
+
+Enter the seed text: steve to answer your question , my parents once owned this camp . there were some tragic accidents and they
+20
+Random sample
+did . the year is the code people lying together , ninotchka and where are to explore there by getting his most history of company , , cut to : the modern abstract tattered clippings : , desert mid shirt , mechanically and dodge , the shoe gardener ? could
+
+Beam Search
+mary had divided press italian this six takes october minute than warned who u.s. her because distinction e.g. i into
+
+Random Beam Search
+mary had divided press italian this six takes october minute than warned who u.s. her because distinction e.g. i into
+
+Enter the seed text: exterior archery range day brenda has her sleeves rolled up and is doing her job . she enjoys having the
+20
+Random sample
+right of her at ? mark takes a straw . helen peeks into the room and sees a hotel of the document . tom 's office pulls out and a local grocer continental county coast mattress . middle aged theatre clerk leaves . on sniper red , he reads ``
+
+Beam Search
+realm vaclav tell total sindh county large scripture katrina free health director profit large chance small 5 arlington thing near
+
+Random Beam Search
+liechtenstein diagrams memorable rahman alta countryside photograph jurisprudence manpower setback fernandez cameroon reply photograph concepts livestock colombo recycled solomon oversee
+
+Enter the seed text: shrek so , that must be lord farquaad 's castle . donkey uh huh . that 's the place .
+20
+Random sample
+four armed goons who stand stone outside rome . brody gives the water down and slowly rides toward the steep city of the knights . valka , firing in mud . the frightened share is mcconnell . his hand stays on . exterior ground sentry , the violin . cole
+
+Beam Search
+interpreters just by are lead new leads narumi an nbc at haute conflicts 1816 at are an it own at
+
+Random Beam Search
+2/3 united and said plan but involving 1,593 on ah in scattering impose advertise in said on to third in
+
+Enter the seed text: shrek you know , maybe there 's a good reason donkeys should n't talk . donkey i do n't get
+20
+Random sample
+dirt dangerously on . ' love moretti panicked . finally ] we track under when he pulls up the equipment . his very complicated orchestra technician mcshain . he takes some scarf . helmut stares for their things in as he looks like that . and through the different a
+
+Beam Search
+57-year business story military microsoft sunday game thursday april decades congratulates cup took focus way alcoa left months took know
+
+Random Beam Search
+utopia 're per here journalists days season north got impact overfishing july killed 29 ? ehn won / killed near
+
+Enter the seed text: as shrek begins to fight donkey hops up onto one of the larger beer barrels . it breaks free of
+20
+Random sample
+a deep tongue , to his back at the relative occasion . he becomes very proud . it is empty . wounded two three , steps down at the of contact . fletcher 's hand to help , and ducks on to the door . slipping down the door .
+
+Beam Search
+as shrek begins to fight donkey hops up onto one of the larger beer barrels . it breaks free of
+
+Random Beam Search
+as shrek begins to fight donkey hops up onto one of the larger beer barrels . it breaks free of
+
+Enter the seed text: shrek and donkey look at him then on into . they look around but all is quiet . shrek it
+20
+Random sample
+'s captain . after the set go . sheldon walks cautiously to lincoln 's ten thirty , drops his pinched scotch . she pounds front . tom , and sidles over by the corleone matt 's hat that 's pandemonium . he makes them his hand on the phone for
+
+Beam Search
+ecfa should rushdie cases 10 expected name how west game number cases went left right public adam game ecfa around
+
+Random Beam Search
+razorback tendai nimbus endothelial kissimmee radium farooqi dagbladet sawmills faneuil flexed endothelial rm3 köln whl batumi spdc faneuil razorback microcredit
